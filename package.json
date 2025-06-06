@@ -1,6 +1,7 @@
 {
   "name": "modernize",
   "version": "0.1.0",
+  "homepage": "https://ntcong3112.github.com/neu",
   "private": true,
   "dependencies": {
     "@casl/ability": "^6.3.3",
@@ -59,7 +60,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint ./src"
+    "lint": "eslint ./src",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -96,6 +99,7 @@
     "eslint-import-resolver-alias": "1.1.2",
     "eslint-import-resolver-typescript": "2.5.0",
     "eslint-plugin-import": "2.25.4",
+    "gh-pages": "^6.3.0",
     "next-transpile-modules": "9.0.0",
     "prettier": "2.5.1"
   }
