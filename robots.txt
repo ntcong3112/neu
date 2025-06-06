@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Nếu có trang thử nghiệm /admin hoặc /dev, chặn thêm:
+# Disallow: /admin/
+# Disallow: /dev/
+
+Sitemap: https://elearningneu.com/sitemap.xml
