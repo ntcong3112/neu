@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmodernize=self.webpackChunkmodernize||[]).push([[5391],{45391:function(e,c,s){s(72791);c.Z=s.p+"static/media/empty-shopping-cart.d3869a9daeeb1020e118c422b95b8e5c.svg"}}]);
+//# sourceMappingURL=5391.f97ed936.chunk.js.map
