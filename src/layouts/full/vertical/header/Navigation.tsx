@@ -19,7 +19,7 @@ const AppDD = () => {
 
   return (
     <>
-      <Box>
+      {/* <Box>
         <Button
           aria-label="show 11 new notifications"
           color="inherit"
@@ -33,12 +33,12 @@ const AppDD = () => {
           onClick={handleClick2}
           endIcon={<IconChevronDown size="15" style={{ marginLeft: '-5px', marginTop: '2px' }} />}
         >
-          Apps
-        </Button>
-        {/* ------------------------------------------- */}
-        {/* Message Dropdown */}
-        {/* ------------------------------------------- */}
-        <Menu
+          MENU
+        </Button> */}
+      {/* ------------------------------------------- */}
+      {/* Message Dropdown */}
+      {/* ------------------------------------------- */}
+      {/* <Menu
           id="msgs-menu"
           anchorEl={anchorEl2}
           keepMounted
@@ -99,15 +99,24 @@ const AppDD = () => {
             </Grid>
           </Grid>
         </Menu>
-      </Box>
-      <Button color="inherit" sx={{color: (theme) => theme.palette.text.secondary}} variant="text" to="/apps/chats" component={Link}>
-        Chat
+      </Box> */}
+      <Button
+        color="inherit"
+        sx={{ color: (theme) => theme.palette.text.secondary }}
+        variant="text"
+        to="/"
+        component={Link}
+      >
+        CHỌN CHUYÊN NGÀNH
       </Button>
-      <Button color="inherit" sx={{color: (theme) => theme.palette.text.secondary}} variant="text" to="/apps/calendar" component={Link}>
-        Calendar
-      </Button>
-      <Button color="inherit" sx={{color: (theme) => theme.palette.text.secondary}} variant="text" to="/apps/email" component={Link}>
-        Email
+      <Button
+        color="inherit"
+        sx={{ color: (theme) => theme.palette.text.secondary }}
+        variant="text"
+        to="/donate"
+        component={Link}
+      >
+        ỦNG HỘ TÁC GIẢ
       </Button>
     </>
   );

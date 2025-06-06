@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Cầu một sản phẩm được dự báo trong 1 năm là 800 đơn vị mỗi tháng (tính trung bình trong 12 tháng). Chỉ số mùa vụ tháng một là 1,25. Dự báo doanh số được điều chỉnh theo mùa cho tháng 1?",
+    "answer": "1000 đơn vị"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Mô hình chuỗi thời gian nào sử dụng dự báo trong quá khứ và dữ liệu cầu trong quá khứ để tạo dự báo mới?",
+    "answer": "smoothing"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Vấn đề nhận dạng đề cập đến những khó khăn mà một nhà nghiên cứu gặp phải khi cố gắng",
+    "answer": "đo lường tác động của các biến ngoại lai lên dữ liệu thị trường thực nghiệm"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Hãng Yamaha sản xuất tập hợp các sản phẩm bổ sung nào để giải quyết các biến động theo mùa?",
+    "answer": "ván trượt và xe trượt tuyết"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Phương trình cầu về hàng hóa X là P = 200 - 5Q. Co giãn của cầu khi lượng cầu thay đổi từ 23 đến 27 là:",
+    "answer": "0,6"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Hàm ích lợi của Phong là U = 10+3V, trong đó U là ích lợi và V là giá trị thu nhập nhận được. Phong sẽ thích nhận được 20 triệu đồng chắc chắn hơn là khả năng có xác suất 0,3 nhận được 9 triệu đồng và xác suất 0,7 nhận được",
+    "answer": "25 triệu đồng"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Giá trị kỳ vọng được định nghĩa là:",
+    "answer": "kết quả trung bình cho một trò chơi nhất định."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Nếu một người không thích rủi ro thì chiến lược tốt nhất để chọn là chiến lược mang lại:",
+    "answer": "độ lệch chuẩn nhỏ nhất."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Ích lợi cận biên của thu nhập giảm càng nhanh thì cá nhân đó",
+    "answer": "Càng ghét rủi ro"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Nếu có ba kết quả có thể xảy ra, xác suất cho mỗi kết quả là 1/3 thì",
+    "answer": "Có rủi ro, nhưng không có sự không chắc chắn"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Hiệu suất không đổi theo quy mô có nghĩa là khi các đầu vào tăng thì:",
+    "answer": "sản lượng đầu ra tăng theo cùng tỷ lệ đầu vào."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Thời kỳ dài hạn là:",
+    "answer": "mọi đầu vào thay đổi."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Tính kinh tế của quy mô không thay đổi khi:",
+    "answer": "Chi phí bình quân dài hạn không đổi khi sản lượng tăng"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Một hãng có tình kinh tế theo quy mô trên một số phạm vi đầu ra sẽ có:",
+    "answer": "đường chi phí trung bình dài hạn giảm."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Tính phi kinh tế của quy mô xảy ra khi:",
+    "answer": "Chi phí bính quân dài hạn tăng khi sản lượng tăng"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Theo hình 1, nếu chính phủ mua sản phẩm để tăng giá từ 100$/tấn lên 150$/tấn thì chi phí chính phủ chi sẽ là:\n",
+    "answer": "2.700 $"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Đường cung dài hạn thị trường cạnh tranh hoàn hảo:",
+    "answer": "có thể dốc lên nếu chi phí sản xuất tăng khi các hãng mới gia nhập thị trường."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Nếu độ dốc của đường cung dài hạn ngành cạnh tranh hoàn hảo là dương thì ngành có:",
+    "answer": "tính phi kinh tế bên ngoài."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Phần mất không do chính sách thuế gây ra sẽ nhỏ hơn doanh thu từ thuế thu được nếu:",
+    "answer": "cung và cầu đều co giãn."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Khi chính phủ can thiệp vào thị trường bằng giá trần, chúng ta có thể kết luận:",
+    "answer": "lượng cung giảm và lượng cầu tăng"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Rạp chiếu phim giảm giá 20% cho trẻ em địa phương là hình thức:",
+    "answer": "Phân biệt giá cấp 3."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Trong trường hợp có thể phân biệt giá, cần thiết phải",
+    "answer": "b và c"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Xếp hàng tại một rạp chiếu phim vào đêm khai mạc là một hình thức:",
+    "answer": "phân biệt giá."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Một hãng phân biệt giá thành công phải có khả năng",
+    "answer": "Tất cả đều đúng"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Nhà độc quyền phân biệt giá nhằm:",
+    "answer": "chiếm đoạt thặng dư người tiêu dùng."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Cạnh tranh bằng giá trong độc quyền tập đoàn sẽ",
+    "answer": "dẫn đến làm giảm lợi nhuận của ngành"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Ban đầu đặt giá cao cho một sản phẩm mới, sau đó giảm giá dần dần để thu hút thêm khách hàng nhằm chiếm đoạt thêm thặng dư tiêu dùng được gọi là:",
+    "answer": "Giá lướt qua."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Trong mô hình hãng trội của độc quyền nhóm, hãng trội sẽ đặt:",
+    "answer": "cùng mức giá với các hãng nhỏ."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Ngành nào dưới đây là ví dụ điển hình về độc quyền tập đoàn",
+    "answer": "ngành sản xuất ô tô"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Trong mô hình hãng trội của độc quyền tập đoàn, các hãng nhỏ hơn hoạt động như thể họ:",
+    "answer": "là các hãng cạnh tranh hoàn hảo"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Với cầu thực tế là 61, dự báo trước đó là 58 và α là 0,3, sử dụng phương pháp smoothing dự báo cho giai đoạn tiếp theo theo cấp số nhân đơn giản là?",
+    "answer": "58,9"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Nếu co giãn của cầu theo giá là -2 thì khi doanh nghiệp tăng giá sẽ làm cho tổng doanh thu của doanh nghiệp:",
+    "answer": "Giảm"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Kiểm định nào dưới đây thường dùng để kiểm định ý nghĩa thống kê của hệ số hồi quy?",
+    "answer": "T thống kê"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Nếu có giãn của cầu theo giá hàng hóa X là – 0,5 thi khi tăng giá sẽ làm doanh thu từ bán hàng hóa X là:",
+    "answer": "tăng"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Hàm cầu hàng hóa X như sau: QX = 10 + ax.Px + ay.Py + ai.I thì theo quy luật cầu thì ax phải:",
+    "answer": "âm"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Linh chơi trò chơi tung xúc xắc. Nếu được 2 chấm, Linh nhận được 60 nghìn đồng, nếu không được 2 chấm, Linh phải trả 10 nghìn đồng. Giá trị kỳ vọng của trò chơi này đối với Linh là",
+    "answer": "1.670 đồng"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Một thị trường được đặc trưng bởi thông tin không hoàn hảo sẽ có giá cân bằng nếu ở mức giá đó",
+    "answer": "lượng cầu bằng với lượng cung cho mức thông tin hiện hành."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Sau khi mua bảo hiểm chống trộm, bạn quyết định mua ít hơn các thiết bị an ninh bảo vệ căn nhà của bạn. Đây là ví dụ về",
+    "answer": "Rủi ro đạo đức"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Dự án A có giá trị kỳ vọng là 10 và độ lệch chuẩn là 3; Dự án B có giá trị kỳ vọng là 10 và độ lệch chuẩn là 5; Dự án C có giá trị kỳ vọng là 15 và độ lệch chuẩn là 10 thì:",
+    "answer": "người thích rủi ro luôn thích C hơn A hoặc B"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Bảo hiểm rủi ro đề cập đến một chiến lược đầu tư được sử dụng nhằm mục đích:",
+    "answer": "ngăn ngừa tổn thất do phá sản doanh nghiệp."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Trong dài hạn, một hãng phải chịu tổng chi phí 2.500 đô la khi sản lượng là 1.250 chiếc và 4.000 đô la khi sản lượng là 1.500 chiếc. Điều này thể hiện:",
+    "answer": "Tính phi kinh tế của quy mô"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Trong dài hạn, một hãng phải chịu tổng chi phí 2.500 đô la khi sản lượng là 1.250 chiếc và 2.750 đô la khi sản lượng là 1.500 chiếc. Điều này thể hiện:",
+    "answer": "Tính kinh tế của quy mô"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Khi một hãng tăng gấp đôi đầu vào và thấy rằng đầu ra của nó đã tăng hơn gấp đôi, điều này được gọi là:",
+    "answer": "tính kinh tế của quy mô."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Khi chí phí bình quân dài hạn tăng khi sản lượng tăng thì đó được gọi là",
+    "answer": "tính phi kinh tế theo quy mô."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Một hãng có tình kinh tế theo quy mô trên một số phạm vi đầu ra sẽ có:",
+    "answer": "đường chi phí trung bình dài hạn giảm."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Thuế trên mỗi đơn vị sản phẩm bán ra sẽ làm thay đổi thặng dư tiêu dùng ________ và thặng dư sản xuất ________.",
+    "answer": "giảm; giảm"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Theo hình 1, nếu chính phủ mua sản phẩm để tăng giá từ 100$/tấn lên 150$/tấn, thặng dư tiêu dùng giảm là:\n",
+    "answer": "1.800 $"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Giả sử tồn tại tính kinh tế bên ngoài trong dài hạn, khi cầu tăng trong thị trường cạnh tranh hoàn hảo thì đường tổng chi phí trung bình một hãng điển hình",
+    "answer": "dịch chuyển xuống dưới."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Khi đánh thuế trên mỗi đơn vị vào người bán thì:",
+    "answer": "người mua chịu phần lớn hơn nếu cung co giãn cao và cầu không co giãn"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Đường cung dài hạn ngành cạnh tranh hoàn hảo có thể dốc lên vì",
+    "answer": "tính phi kinh tế bên ngoài."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Hãng đặt giá khác nhau cho cùng sản phẩm trên các thị trường khác nhau là hình thức:",
+    "answer": "phân biệt giá cấp 3."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Một hãng độc quyền phân biệt giá hoàn hả",
+    "answer": "Có đường doanh thu cận biên cũng là đường doanh thu trung bình"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Nếu một nhà độc quyền hoàn toàn có thể phân biệt giá, thì MR bằng:",
+    "answer": "MC."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Phân biệt giá cấp 2 xảy ra khi:",
+    "answer": "Đặt giá khác nhau cho mỗi mức sản lượng khác nhau."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Phân biệt giá hoàn hảo khi:",
+    "answer": "mỗi người tiêu dùng phải trả giá bằng giá sẵn sàng trả của mình."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Độc quyền quyền tập đoàn là",
+    "answer": "Để cạnh tranh về sự khác biệt sản phẩm, bởi vì những thay đổi như vậy là khó khăn hơn và mất nhiều thời gian hơn để phù hợp hơn so với thay đổi giá cả."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Các hãng độc quyền tập đoàn cạnh tranh với nhau:",
+    "answer": "bằng cách giảm giá, tăng chất lượng, khác biệt hóa sản phẩm, quảng cáo, nghiên cứu và phát triển"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Ngành nào dưới đây là ví dụ điển hình về độc quyền tập đoàn",
+    "answer": "ngành sản xuất thép"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Trong trường hợp một hãng đảm nhận vai trò chỉ đạo giá và ấn định giá của sản phẩm cho toàn bộ ngành được gọi là:",
+    "answer": "chỉ đạo giá"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Tại sao ngành độc quyền tập đoàn có thể chỉ có vài hãng thống trị?",
+    "answer": "sự gia nhập ngành bị khống chế bởi quyền sở hữu"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Với dự báo là 75 của giai đoạn trước và cầu là 72 của giai đoạn trước, dự báo trượt đơn giản với hệ số alpha là 0,4 cho giai đoạn tiếp theo?",
+    "answer": "73,8"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Nếu co giãn của cầu theo giá là -2 thì khi doanh nghiệp tăng giá sẽ làm cho tổng doanh thu của doanh nghiệp:",
+    "answer": "Giảm"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Cầu một sản phẩm được dự báo trong 1 năm là 800 đơn vị mỗi tháng (tính trung bình trong 12 tháng). Chỉ số mùa vụ tháng một là 1,25. Dự báo doanh số được điều chỉnh theo mùa cho tháng 1?",
+    "answer": "1000 đơn vị"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Ước lượng cầu của người tiêu dùng bằng cách thiết lập các cửa hàng mô phỏng, cung cấp một mẫu tiền của người tiêu dùng và sau đó cho phép họ mua và giữ hàng hóa họ chọn trong các cửa hàng được gọi là:",
+    "answer": "phân tích người tiêu dùng"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Hàm cầu hàng hóa X như sau: QX = 10 + ax.Px + ay.Py + ai.I thì nếu ai âm thì hàng hóa X là:",
+    "answer": "hàng hóa cấp thấp"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Yếu tố nào sau đo lường rủi ro?",
+    "answer": "Tất cả các yếu tố trên"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Mai không chắc chắn về thu nhập của mình trong năm sau. Nếu ích lợi kỳ vọng của Mai thấp hơn ích lợi của thu nhập kỳ vọng, thì Mai là người",
+    "answer": "Ghét rủi ro"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Người không tham gia vào trò chơi công bằng là:",
+    "answer": "người ghét rủi ro."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Nam sẵn sàng trả 1 đô la cho một vé xổ số có giá trị dự kiến bằng không. Điều này chứng tỏ rằng Nam là:",
+    "answer": "là người bình thường với rủi ro."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Các cá nhân không thích rủi ro sẽ đa dạng hóa các khoản đầu tư của mình vì điều này sẽ",
+    "answer": "giảm sự thay đổi của lợi nhuận của họ."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Hãng máy bay phản lực Big Blue Sky có tổng chi phí dài hạn là 20 triệu đô la nếu sản xuất 5 máy bay phản lực và tổng chi phí dài hạn là 24 triệu đô la nếu sản xuất 6 máy bay phản lực. Hãng máy bay phản lực Big Blue Sky đang gặp:",
+    "answer": "Tính kinh tế của quy mô không đổi"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Trong dài hạn, hãng A thấy rằng chi phí là 1.200 đô la khi sản xuất 30 sản phẩm và chi phí là 1.600 đô la khi sản xuất 40 sản phẩm thì hãng A:",
+    "answer": "gặp tính kinh tế của quy mô không đổi"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "\"Tính phi kinh tế theo quy mô\" xảy ra trong:",
+    "answer": "dài hạn chứ không phải ngắn hạn."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Ở mức độ sản xuất thấp, hãng sẽ:",
+    "answer": "Tất cả những điều trên là chính xác."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Tính kinh tế theo quy mô cho biết:",
+    "answer": "với mọi mức sản lượng thì chi phí bình quân dài hạn giảm khi sản lượng tăng."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Giả sử thị trường cạnh tranh có đường cung dài hạn nằm ngang và ở trạng thái cân bằng dài hạn. Nếu cầu giảm, chúng ta có thể chắc chắn rằng trong ngắn hạn:",
+    "answer": "giá sẽ giảm dưới tổng chi phí trung bình của một số hãng."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Khi chính phủ can thiệp vào thị trường bằng giá trần, chúng ta có thể kết luận:",
+    "answer": "lượng cung giảm và lượng cầu tăng"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Đường cung dài hạn thị trường cạnh tranh hoàn hảo:",
+    "answer": "có thể dốc lên nếu chi phí sản xuất tăng khi các hãng mới gia nhập thị trường."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Đường cung dài hạn thị trường thị trường cạnh tranh hoàn hảo sẽ",
+    "answer": "thường co giãn hơn đường cung ngắn hạn."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Nếu độ dốc của đường cung dài hạn ngành cạnh tranh hoàn hảo là âm thì ngành có:",
+    "answer": "tính kinh tế bên ngoài."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Điều nào sau đây xảy ra với chính sách phân biệt giá hoàn hảo?",
+    "answer": "Chiếm đoạt hoàn toàn thặng dư tiêu dùng."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Khi nhà độc quyền phân biệt giá hoàn hảo",
+    "answer": "a. Thặng dư tiêu dùng sẽ lớn nhất b. Thặng dư sản xuất sẽ lớn nhất c. Sản lượng gần bằng sản lượng cạnh tranh d. Không điều nào đúng"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Trong trường hợp độc quyền phân biệt giá hoàn hảo sẽ không có:",
+    "answer": "phần mất không"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Trong trường hợp có thể phân biệt giá, cần thiết phải",
+    "answer": "b và c"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Khi nhà độc quyền phân biệt giá hoàn hảo",
+    "answer": "Tất cả đều đúng"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Tại sao ngành độc quyền tập đoàn có thể chỉ có vài hãng thống trị?",
+    "answer": "hiệu suất tăng theo quy mô khiến chỉ những hãng quy mô lớn mới có hiệu quả"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Các hãng độc quyền tập đoàn cạnh tranh với nhau:",
+    "answer": "bằng cách giảm giá, tăng chất lượng, khác biệt hóa sản phẩm, quảng cáo, nghiên cứu và phát triển"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Nếu hãng X đang sản xuất trong một ngành độc quyền tập đoàn, khi hãng tăng giá",
+    "answer": "hãng đối thủ Y sẽ tăng thị phần nếu hãng Y giữ giá không đổi"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Khi một cartel xác định giá tối đa hóa lợi nhuận,",
+    "answer": "mỗi hãng phải đối mặt với sự cám dỗ để gian lận bằng cách hạ giá."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Tại sao ngành độc quyền tập đoàn có thể chỉ có vài hãng thống trị?",
+    "answer": "sự gia nhập ngành bị khống chế bởi quyền sở hữu"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Vấn đề nhận dạng đề cập đến những khó khăn mà một nhà nghiên cứu gặp phải khi cố gắng",
+    "answer": "đo lường tác động của các biến ngoại lai lên dữ liệu thị trường thực nghiệm"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Phương trình dãy số thời gian là 25,3 + 2,1X. Bạn dự đoán lượng bán cho thời kỳ thứ 7 là bao nhiêu?",
+    "answer": "40,0"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Dự báo trung bình trượt sáu tháng tốt hơn dự báo trung bình trượt ba tháng nếu nhu cầu",
+    "answer": "khá ổn định"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Hãng Yamaha sản xuất tập hợp các sản phẩm bổ sung nào để giải quyết các biến động theo mùa?",
+    "answer": "ván trượt và xe trượt tuyết"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Với dự báo là 65 của giai đoạn trước và cầu là 62 của giai đoạn trước, dự báo trượt đơn giản với hệ số alpha là 0,4 cho giai đoạn tiếp theo?",
+    "answer": "63,8"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Yếu tố nào sau đo lường rủi ro?",
+    "answer": "Tất cả các yếu tố trên"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Giá trị kỳ vọng được định nghĩa là:",
+    "answer": "kết quả trung bình cho một trò chơi nhất định."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Người không tham gia vào trò chơi công bằng là:",
+    "answer": "người ghét rủi ro."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Một thị trường được đặc trưng bởi thông tin không hoàn hảo sẽ có giá cân bằng nếu ở mức giá đó",
+    "answer": "lượng cầu bằng với lượng cung cho mức thông tin hiện hành."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Một tình huống mà một người ra quyết định phải lựa chọn giữa các chiến lược có nhiều kết quả có thể xảy ra khi xác suất của mỗi kết quả không xác định được gọi là:",
+    "answer": "không chắc chắn"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Hiệu suất không đổi theo quy mô có nghĩa là khi các đầu vào tăng thì:",
+    "answer": "sản lượng đầu ra tăng theo cùng tỷ lệ đầu vào."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Khi một hãng có tính kinh tế theo quy mô thì:",
+    "answer": "đường LRMC dốc xuống."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Một hãng gặp tính phi kinh tế của quy mô khi:",
+    "answer": "cơ cấu quản lý lớn, quan liêu và không hiệu quả"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Tính phi kinh tế của quy mô xảy ra khi:",
+    "answer": "Chi phí bính quân dài hạn tăng khi sản lượng tăng"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Một hãng có tính kinh tế theo quy mô đối với tập hợp các mức sản lượng sẽ có:",
+    "answer": "đường chi phí bình quân dài hạn đang giảm."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Cân bằng cạnh tranh dài hạn không thể tồn tại nếu",
+    "answer": "Tồn tại lợi nhuận kinh tế dương"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Thuế trên mỗi đơn vị sản phẩm bán ra sẽ làm thay đổi thặng dư tiêu dùng ________ và thặng dư sản xuất ________.",
+    "answer": "giảm; giảm"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Sự tắc nghẽn của sân bay và không phận khiến ngành hàng không gặp phải sự cố bên ngoài là:",
+    "answer": "tính phi kinh tế và đường cung dài hạn có độ dốc dương."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Giả sử thị trường cạnh tranh ban đầu ở trạng thái cân bằng. Sau đó, cầu tăng lên và nếu các hãng gia nhập phải đối mặt với chi phí tương tự như các hãng trong ngành và có đủ nguồn lực để gia nhập thì:",
+    "answer": "đường cung dài hạn của thị trường sẽ co giãn hoàn hảo."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Phần mất không do chính sách thuế gây ra sẽ nhỏ hơn doanh thu từ thuế thu được nếu:",
+    "answer": "cung và cầu đều co giãn."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Giá ăn buffet là một ví dụ về:",
+    "answer": "giá trọn gói"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Phân biệt giá hoàn hảo khi:",
+    "answer": "mỗi người tiêu dùng phải trả giá bằng giá sẵn sàng trả của mình."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Rạp chiếu phim giảm giá 20% cho trẻ em địa phương là hình thức:",
+    "answer": "Phân biệt giá cấp 3."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Đặt giá hai phần bao gồm:",
+    "answer": "Tính phí cố định cho quyền sử dụng hoặc mua hàng hóa hoặc dịch vụ, cộng với phí trên mỗi đơn vị."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Phân biệt giá cấp 2 xảy ra khi:",
+    "answer": "Đặt giá khác nhau cho mỗi mức sản lượng khác nhau."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Cartel là một nhóm các hãng:",
+    "answer": "đồng ý hạn chế sản lượng để tăng lợi nhuận của họ."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Cạnh tranh bằng giá trong độc quyền tập đoàn sẽ",
+    "answer": "dẫn đến làm giảm lợi nhuận của ngành"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Theo lý thuyết đường cầu gẫy của độc quyền tập đoàn, tại mức sản lượng tương ứng với điểm gẫy",
+    "answer": "đường doanh thu cận biên bị gián đoạn"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây là cấu trúc thị trường độc quyền tập đoàn?",
+    "answer": "các hãng tương đối lớn so với quy mô của thị trường"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Chỉ đạo giá:",
+    "answer": "Có thể chiếm ưu thế hoặc áp đảo so với các hãng khác."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Phương trình cầu về hàng hóa X là P = 200 - 5Q. Co giãn của cầu khi lượng cầu thay đổi từ 23 đến 27 là:",
+    "answer": "0,6"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây đo lường sự phù hợp của hàm hồi quy?",
+    "answer": "F thống kê và R2"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Doanh số bốn tháng cuối cùng là 8, 10, 15 và 9 chiếc. Bốn dự báo cuối cùng là 5, 6, 11 và 12 đơn vị. Độ lệch trung bình tuyệt đối (MAD) là",
+    "answer": "3.5"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Mục đích chính của độ lệch trung bình tuyệt đối (MAD) trong dự báo là",
+    "answer": "đo lường dự báo chính xác"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Ước lượng cầu của người tiêu dùng bằng cách đặt câu hỏi trên một mẫu người tiêu dùng được gọi là:",
+    "answer": "điều tra người tiêu dùng"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Giá của rủi ro trong việc đầu tư mua một cổ phiếu là",
+    "answer": "Chênh lệch giữa lợi tức kỳ vọng từ cổ phiếu và lợi tức từ một đầu tư không có rủi ro"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Các cá nhân không thích rủi ro sẽ đa dạng hóa các khoản đầu tư của mình vì điều này sẽ",
+    "answer": "giảm sự thay đổi của lợi nhuận của họ."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Thích rủi ro được giải thích là:",
+    "answer": "lợi ích cận biên của thu nhập tăng dần."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Một cá nhân sẵn sàng trả một cái gì đó cho thông tin vì",
+    "answer": "điều này cho phép anh ta tăng lợi ích."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Lợi ích cận biên của tiền giảm dần đối với một người:",
+    "answer": "ghét rủi ro."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Đường LRAC nhìn chung có dạng:",
+    "answer": "Có dạng chữ U."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Tính kinh tế và phí kinh tế của quy mô giải thích tại sao:",
+    "answer": "đường chi phí bình quân dài hạn có dạng chữ U."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Trong dài hạn, hãng A thấy rằng chi phí là 900 đô la khi sản xuất 30 sản phẩm và chi phí là 1.200 đô la khi sản xuất 40 sản phẩm thì hãng A:",
+    "answer": "gặp tính kinh tế của quy mô không đổi"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Tính kinh tế của quy mô không thay đổi khi:",
+    "answer": "Chi phí bình quân dài hạn không đổi khi sản lượng tăng"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Khi 1 hãng có tính kinh tế của quy mô thì:",
+    "answer": "đường LRAC dốc xuống."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Trong dài hạn, một hãng sẽ gia nhập thị trường cạnh tranh nếu",
+    "answer": "Tất cả những điều trên là chính xác."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Nếu độ dốc của đường cung dài hạn ngành cạnh tranh hoàn hảo là dương thì ngành có:",
+    "answer": "tính phi kinh tế bên ngoài."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Theo hình 1, nếu chính phủ mua sản phẩm để tăng giá từ 100$/tấn lên 150$/tấn sẽ làm thặng dư sản xuất tăng thêm là:\n",
+    "answer": "2.250 $"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Khi đặt giá trần thấp hơn giá cân thì:",
+    "answer": "nhà sản xuất bị thiệt"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Thuế trên mỗi đơn vị sản phẩm bán ra sẽ làm người tiêu dùng sẽ chịu thuế ít hơn khi cầu tương đối ________ và cung tương đối ________.",
+    "answer": "co giãn; co giãn"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Xếp hàng tại một rạp chiếu phim vào đêm khai mạc là một hình thức:",
+    "answer": "phân biệt giá."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Kết quả của phân biệt giá cấp 2 là:",
+    "answer": "Chuyển một phần thặng dư tiêu dùng cho nhà sản xuất."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Tất cả các hình thức phân biệt giá đều nhằm:",
+    "answer": "tối đa hóa lợi nhuận."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Phân biệt giá xảy ra khi:",
+    "answer": "nhà độc quyền xác định khách hàng theo nhóm và đặt cho mỗi nhóm một mức giá."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Để một nhà độc quyền có thể thực hiện phân biệt giá",
+    "answer": "Nhà độc quyền phải có khả năng phân đoạn thị trường theo những mức giá khác nhau mà người tiêu dùng sẵn sàng trả"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Ngành nào dưới đây là ví dụ điển hình về độc quyền tập đoàn",
+    "answer": "ngành sản xuất thép"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Mô hình đường cầu gẫy",
+    "answer": "giả định rằng các đối thủ sẽ đáp lại sự giảm giá và lờ đi sự tăng giá"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Độc quyền quyền tập đoàn là",
+    "answer": "Để cạnh tranh về sự khác biệt sản phẩm, bởi vì những thay đổi như vậy là khó khăn hơn và mất nhiều thời gian hơn để phù hợp hơn so với thay đổi giá cả."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Trong trường hợp một hãng đảm nhận vai trò chỉ đạo giá và ấn định giá của sản phẩm cho toàn bộ ngành được gọi là:",
+    "answer": "chỉ đạo giá"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Mỗi hãng tin rằng nếu mình tăng giá thì:",
+    "answer": "các hãng khác sẽ không tăng giá"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Mô hình chuỗi thời gian nào dưới đây giả định rằng nhu cầu trong giai đoạn tiếp theo sẽ bằng với nhu cầu của giai đoạn gần đây nhất?",
+    "answer": "phương pháp tiếp cận"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Hàm cầu hàng hóa X như sau: QX = 10 + ax.Px + ay.Py + ai.I thì nếu ai âm thì hàng hóa X là:",
+    "answer": "hàng hóa cấp thấp"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Hàm cầu hàng hóa X như sau: QX = 10 - 2Px + Py + I thì nếu Px=1; Py=10 và I =100 thì lượng hàng hóa X bằng:",
+    "answer": "118"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Hàm cầu hàng hóa X như sau: QX = 10 + ax.Px + ay.Py + ai.I thì theo quy luật cầu thì ax phải:",
+    "answer": "âm"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Ước lượng cầu của người tiêu dùng bằng cách đặt câu hỏi trên một mẫu người tiêu dùng được gọi là:",
+    "answer": "điều tra người tiêu dùng"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Nếu Chiến sẵn sàng trả 300 nghìn đồng bảo hiểm cho một tài sản có giá 8 triệu đồng với xác suất bị mất trộm là 4%, thì Chiến là người",
+    "answer": "Không suy nghĩ hợp lý"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Phương pháp nào sau đây dùng để lựa chọn chiến lược phù hợp với hành vi ngăn chặn rủi ro?",
+    "answer": "Nếu hai chiến lược có cùng lợi nhuận kỳ vọng, hãy chọn chiến lược có độ lệch chuẩn nhỏ hơn"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Một tình huống mà một người ra quyết định phải lựa chọn giữa các chiến lược có nhiều kết quả có thể xảy ra khi xác suất của mỗi kết quả không xác định được gọi là:",
+    "answer": "không chắc chắn"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Việc phân tích một tình huống quyết định phức tạp bằng cách xây dựng một mô hình toán học của tình huống và sau đó thực hiện một số lượng lớn các lần lặp để xác định phân phối xác suất của các kết quả được gọi là:",
+    "answer": "cây quyết định"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Xu hướng xe ô tô chất lượng thấp loại bỏ xe ô tô chất lượng cao ra khỏi thị trường ô tô cũ là một ví dụ về:",
+    "answer": "lựa chọn ngược."
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "\"Tính phi kinh tế theo quy mô\" xảy ra trong:",
+    "answer": "dài hạn chứ không phải ngắn hạn."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Đường LRAC",
+    "answer": "bằng tổng chi phí trung bình có thể đạt được thấp nhất cho tất cả các mức đầu ra khi tất cả các đầu vào có thể thay đổi."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Khi chí phí bình quân dài hạn tăng khi sản lượng tăng thì đó được gọi là",
+    "answer": "tính phi kinh tế theo quy mô."
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Khi một hãng tăng gấp đôi đầu vào và thấy rằng đầu ra của nó đã tăng hơn gấp đôi, điều này được gọi là:",
+    "answer": "tính kinh tế của quy mô."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Một hãng gặp tính phi kinh tế của quy mô khi:",
+    "answer": "cơ cấu quản lý lớn, quan liêu và không hiệu quả"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Đường cung dài hạn thị trường thị trường cạnh tranh hoàn hảo sẽ",
+    "answer": "thường co giãn hơn đường cung ngắn hạn."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Khi đặt giá trần thấp hơn giá cân thì:",
+    "answer": "nhà sản xuất bị thiệt"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Trong dài hạn, hãng cạnh tranh hoàn hảo sẽ:",
+    "answer": "kiếm được lợi nhuận bình thường."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Nếu độ dốc của đường cung dài hạn ngành cạnh tranh hoàn hảo là âm thì ngành có:",
+    "answer": "tính kinh tế bên ngoài."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Giả sử tồn tại tính kinh tế bên ngoài trong dài hạn, khi cầu tăng trong thị trường cạnh tranh hoàn hảo thì đường tổng chi phí trung bình một hãng điển hình",
+    "answer": "dịch chuyển xuống dưới."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Hãng có khả năng chiếm đoạt toàn bộ thặng dư của người tiêu dùng thông qua:",
+    "answer": "Phân biệt giá cấp 1."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Đặt giá hai phần bao gồm:",
+    "answer": "Tính phí cố định cho quyền sử dụng hoặc mua hàng hóa hoặc dịch vụ, cộng với phí trên mỗi đơn vị."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Trong trường hợp độc quyền phân biệt giá hoàn hảo sẽ không có:",
+    "answer": "phần mất không"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Để phân biệt giá, điều quan trọng là:",
+    "answer": "ngăn chặn mua đi bán lại sản phẩm."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Đặt giá cao điểm:",
+    "answer": "Đặt giá cao hơn cho một dịch vụ khi công suất được sử dụng đầy đủ."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Rào cản đối với sự gia nhập của các hãng mới sẽ dẫn đến:",
+    "answer": "cartel có thể kiếm được lợi nhuận kinh tế."
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Trong mô hình hãng trội của độc quyền tập đoàn, hãng trội sản xuất mức sản lượng tại đó doanh thu cận biên bằng",
+    "answer": "chi phí cận biên"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Đặc điểm nào dưới đây là cấu trúc thị trường độc quyền tập đoàn?",
+    "answer": "các hãng tương đối lớn so với quy mô của thị trường"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Độc quyền song phương là hình thức:",
+    "answer": "Độc quyền tập đoàn."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Khi một cartel xác định giá tối đa hóa lợi nhuận,",
+    "answer": "mỗi hãng phải đối mặt với sự cám dỗ để gian lận bằng cách hạ giá."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Với dự báo là 65 của giai đoạn trước và cầu là 62 của giai đoạn trước, dự báo trượt đơn giản với hệ số alpha là 0,4 cho giai đoạn tiếp theo?",
+    "answer": "63,8"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Doanh số bốn tháng cuối cùng là 8, 10, 15 và 9 chiếc. Bốn dự báo cuối cùng là 5, 6, 11 và 12 đơn vị. Độ lệch trung bình tuyệt đối (MAD) là",
+    "answer": "3.5"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Phương trình dãy số thời gian là 25,3 + 2,1X. Bạn dự đoán lượng bán cho thời kỳ thứ 7 là bao nhiêu?",
+    "answer": "40,0"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Với cầu thực tế là 103, giá trị dự báo trước đó là 99 và alpha là 4, dự báo smoothing theo cấp số nhân cho giai đoạn tiếp theo sẽ là",
+    "answer": "100,6"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Với dự báo là 75 của giai đoạn trước và cầu là 72 của giai đoạn trước, dự báo trượt đơn giản với hệ số alpha là 0,4 cho giai đoạn tiếp theo?",
+    "answer": "73,8"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Nếu thị trường là hoàn hảo, một người hợp lý có thể kết luận một hàng hóa mức giá cao khi:",
+    "answer": "chất lượng của nó tốt hơn."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Các yếu tố làm cho một số rủi ro không thể bảo hiểm là gì?",
+    "answer": "tất cả những điều trên"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Ghét rủi ro được giải thích là:",
+    "answer": "lợi ích cận biên của thu nhập giảm dần"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Nếu lơi ích của một người tăng gấp đôi khi thu nhập của họ tăng gấp đôi, thì người đó được gọi là",
+    "answer": "bình thường với rủi ro"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Một tình huống trong đó người ra quyết định biết tất cả các kết quả có thể có của một quyết định và cũng biết xác suất liên quan đến mỗi kết quả được gọi là:",
+    "answer": "Không chắc chắn"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Tính kinh tế của quy mô không thay đổi khi:",
+    "answer": "Chi phí bình quân dài hạn không thay đổi khi sản lượng tăng"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Khi 1 hãng có tính kinh tế của quy mô thì:",
+    "answer": "đường LRAC dốc xuống."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Trong dài hạn, hãng A thấy rằng chi phí là 900 đô la khi sản xuất 30 sản phẩm và chi phí là 1.200 đô la khi sản xuất 40 sản phẩm thì hãng A:",
+    "answer": "gặp tính kinh tế của quy mô không đổi"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Tính kinh tế theo quy mô cho biết:",
+    "answer": "với mọi mức sản lượng thì chi phí bình quân dài hạn giảm khi sản lượng tăng."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Khi một hãng có tính kinh tế theo quy mô thì:",
+    "answer": "đường LRMC dốc xuống."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Giả sử thị trường cạnh tranh ban đầu ở trạng thái cân bằng. Sau đó, cầu tăng lên và nếu một số tài nguyên được sử dụng trong sản xuất không có sẵn với số lượng đủ để các hãng gia nhập thì:",
+    "answer": "đường cung dài hạn của thị trường sẽ dốc lên."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Chính sách nào sau đây có thể dẫn đến phần mất không?",
+    "answer": "chỉ đáp án b và c"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Khi đánh thuế t/sản phẩm thì gánh nặng về thuế người tiêu dùng chịu ít hơn khi:",
+    "answer": "cầu và cung đều co giãn theo giá"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Phần mất không của xã hội (DWL) liên quan đến:",
+    "answer": "tổn thất ròng trong tổng thặng dư"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Trong dài hạn, một hãng sẽ rút lui khỏi thị trường nếu:",
+    "answer": "tổng chi phí trung bình lớn hơn giá."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Giá ăn buffet là một ví dụ về:",
+    "answer": "giá trọn gói"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Phân biệt giá xảy ra khi:",
+    "answer": "nhà độc quyền xác định khách hàng theo nhóm và đặt cho mỗi nhóm một mức giá."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Một hãng độc quyền phân biệt giá hoàn hảo sẽ sản xuất",
+    "answer": "Sản lượng bằng ngành cạnh tranh hoàn hảo"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Phân biệt giá là:",
+    "answer": "Tính giá khác nhau cho các khách hàng khác nhau khi chênh lệch giá không dựa trên chênh lệch chi phí."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Để một nhà độc quyền có thể thực hiện phân biệt giá",
+    "answer": "Nhà độc quyền phải có khả năng phân đoạn thị trường theo những mức giá khác nhau mà người tiêu dùng sẵn sàng trả"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Trong mô hình hãng trội của độc quyền tập đoàn, hãng trội sẽ:",
+    "answer": "có chi phí thấp hơn so với các công ty nhỏ hơn."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Cartel đặt giá nhằm:",
+    "answer": "tăng cả giá và sản lượng của ngành."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Đặc điểm nào dưới đây là cấu trúc thị trường độc quyền tập đoàn?",
+    "answer": "các hãng phải xem xét hành vi của các đối thủ do đối thủ của họ cũng tương đối lớn so với toàn ngành"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Chỉ đạo giá:",
+    "answer": "Có thể chiếm ưu thế hoặc áp đảo so với các hãng khác."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Cartel là một nhóm các hãng:",
+    "answer": "đồng ý hạn chế sản lượng để tăng lợi nhuận của họ."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Phần trăm biến thiên của biến phụ thuộc được giải thích bằng phương trình hồi quy và được đo bằng",
+    "answer": "hệ số xác định"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Cho các lỗi dự báo -1, 4, 8 và -3, độ lệch tuyệt đối trung bình là?",
+    "answer": "4"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Nếu lượng cầu hàng hóa X trong tháng 1 là 106, tháng 2 là 120, tháng 3 là 134 và tháng 4 là 142, sử dụng trung bình trượt 3 tháng sẽ cho biết lượng cầu trong tháng 5 là:",
+    "answer": "132"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Hàm cầu hàng hóa X như sau: QX = 10 + ax.Px + ay.Py + ai.I thì nếu aY dương:",
+    "answer": "hàng hóa X và Y là thay thế trong tiêu dùng"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Ước lượng cầu của người tiêu dùng bằng cách thiết lập các cửa hàng mô phỏng, cung cấp một mẫu tiền của người tiêu dùng và sau đó cho phép họ mua và giữ hàng hóa họ chọn trong các cửa hàng được gọi là:",
+    "answer": "phân tích người tiêu dùng"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Thông tin bất cân xứng đề cập đến hoàn cảnh:",
+    "answer": "không bên nào trong giao dịch có bất kỳ thông tin liên quan nào."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Nếu một người có thái độ trung tính với rủi ro, và nếu giá trị kỳ vọng của thông tin hoàn hảo là 10 triệu đồng, thì người này sẵn sàng trả mức giá sau đây để có được thông tin đó",
+    "answer": "9,8 triệu"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Thích rủi ro được giải thích là:",
+    "answer": "lợi ích cận biên của thu nhập tăng dần."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Hàm lợi ích của 1 người U(X) = X2, và hàm lợi ích cận biên là MUX \\ 2X. Thái độ của anh ta là:",
+    "answer": "thích rủi ro."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Phần lớn các nhà đầu tư không ưa thích mạo hiểm. Vì vậy, những tài sản có lợi tức kỳ vọng cao hơn có",
+    "answer": "Phương sai cao hơn"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Đường chi phí trung bình dài hạn",
+    "answer": "Không câu nào đúng"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Khi chí phí bình quân dài hạn giảm khi sản lượng tăng thì đó được gọi là",
+    "answer": "tính kinh tế theo quy mô."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Khi chi phí trung bình dài hạn không đổi, chi phí cận biên dài hạn",
+    "answer": "Bằng chi phí trung bình dài hạn"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Một hãng có tính kinh tế theo quy mô đối với tập hợp các mức sản lượng sẽ có:",
+    "answer": "đường chi phí bình quân dài hạn đang giảm."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Tính kinh tế và phí kinh tế của quy mô giải thích tại sao:",
+    "answer": "đường chi phí bình quân dài hạn có dạng chữ U."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Lợi ích từ trao đổi các hộ gia định nhận được gọi là:",
+    "answer": "thặng dư tiêu dùng."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Giả sử thị trường cạnh tranh ban đầu ở trạng thái cân bằng. Sau đó, cầu tăng lên và nếu các hãng gia nhập phải đối mặt với chi phí tương tự như các hãng trong ngành và có đủ nguồn lực để gia nhập thì:",
+    "answer": "đường cung dài hạn của thị trường sẽ co giãn hoàn hảo."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Đường cung dài hạn ngành cạnh tranh hoàn hảo có thể dốc lên vì",
+    "answer": "tính phi kinh tế bên ngoài."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Cân bằng cạnh tranh dài hạn không thể tồn tại nếu",
+    "answer": "Tồn tại lợi nhuận kinh tế dương"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Trong một thị trường cạnh tranh không bị kiểm soát, thặng dư sản xuất tồn tại bởi vì:",
+    "answer": "một số người bán sẵn sàng nhận mức giá thấp hơn giá cân bằng"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Nhà độc quyền không đặt giá cao nhất cho sản phẩm của mình vì:",
+    "answer": "Nó sẽ không thu được lợi nhuận tối đa"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Nếu hai thị trường tách biệt thì một nhà độc quyền phân biệt giá sẽ:",
+    "answer": "có thể chiếm đoạt thặng dư người tiêu dùng bằng phân biệt giá."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Tất cả các chính sách phân biệt giá sau đây cho phép một hãng chiếm được phần mất không và thặng dư của người tiêu dùng, ngoại trừ:",
+    "answer": "Bán tất cả sản lượng với 1 giá duy nhất."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Một hãng độc quyền sẽ khó phân biệt giá nếu:",
+    "answer": "có nhiều hàng hóa sự thay thế gần gũi."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Nhà độc quyền tối đa hóa lợi nhuận khi sản xuất tại",
+    "answer": "Miền co giãn của đường cầu"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Theo lý thuyết đường cầu gẫy của độc quyền tập đoàn, mỗi hãng nghĩ rằng phần đường cầu dưới mức giá hiện tại là",
+    "answer": "Dốc hơn, hay là ít co giãn hơn phần đường cầu phía trên mức giá hiện hành"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Tại sao ngành độc quyền tập đoàn có thể chỉ có vài hãng thống trị?",
+    "answer": "hiệu suất tăng theo quy mô khiến chỉ những hãng quy mô lớn mới có hiệu quả"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Lý thuyết đường cầu gẫy của độc quyền tập đoàn dự đoán rằng",
+    "answer": "giá và lượng sẽ không nhạy cảm đối với những thay đổi nhỏ trong chi phí"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Mỗi hãng tin rằng nếu mình tăng giá thì:",
+    "answer": "các hãng khác sẽ không tăng giá"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Trong độc quyền tập đoàn khi tất cả các hãng giảm giá",
+    "answer": "tất cả các hãng sẽ bị giảm lợi nhuận"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Bậc của mối quan hệ tuyến tính được thể hiện bởi",
+    "answer": "hệ số tương quan"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Co giãn của cầu theo giá hàng hoá A là -0,4. Khi giá hàng hoá A tăng 2% thì tổng doanh thu sẽ:",
+    "answer": "Tăng 1,2%"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Nếu có giãn của cầu theo giá hàng hóa X là – 0,5 thi khi tăng giá sẽ làm doanh thu từ bán hàng hóa X là:",
+    "answer": "tăng"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Mục đích chính của độ lệch trung bình tuyệt đối (MAD) trong dự báo là",
+    "answer": "đo lường dự báo chính xác"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Một chỉ số mùa vụ cho một chuỗi hàng tháng được tính toán trên cơ sở tích lũy dữ liệu của ba năm. Ba giá trị tháng 7 trước đó là 110, 150 và 130. Trung bình trong tất cả các tháng là 190. Chỉ số theo mùa gần đúng cho tháng 7 là",
+    "answer": "0,684"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Nếu một người ứng xử như người ghét rủi ro với những phương án mang lại thu nhập vượt quá 100 triệu đồng, thì người đó",
+    "answer": "Là người bàng quan với rủi ro với những phương án mang lại thu nhập ít hơn 100 triệu."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Một cá nhân sẽ không bao giờ mua bảo hiểm đầy đủ nếu",
+    "answer": "anh ta là một người chấp nhận rủi ro."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Nếu lãi suất thị trường là 10% và lãi suất chiết khấu điều chỉnh rủi ro của người ra quyết định là 12%, thì người ra quyết định",
+    "answer": "là không thích rủi ro."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Hàm lợi ích theo thu nhập của 1 cá nhân là U = I0,5 thì thái độ của cá nhân này là",
+    "answer": "ghét rủi ro."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Chiến lược có giá trị bằng tiền kỳ vọng bằng 0 được gọi là:",
+    "answer": "trò chơi tổng bằng 0."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Hãng máy bay phản lực Big Blue Sky có tổng chi phí dài hạn là 20 triệu đô la nếu sản xuất 5 máy bay phản lực và tổng chi phí dài hạn là 24 triệu đô la nếu sản xuất 6 máy bay phản lực. Hãng máy bay phản lực Big Blue Sky đang gặp:",
+    "answer": "Tính kinh tế của quy mô không đổi"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Nguyên nhân đường chi phí cận biên tăng khi sản lượng tăng là:",
+    "answer": "của quy luật lợi suất giảm dần."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trong dài hạn, hãng A thấy rằng chi phí là 1.200 đô la khi sản xuất 30 sản phẩm và chi phí là 1.600 đô la khi sản xuất 40 sản phẩm thì hãng A:",
+    "answer": "gặp tính kinh tế của quy mô không đổi"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Một hãng có tính kinh tế của quy mô tại mọi mức sản lượng khi chi phí bình quân dài hạn",
+    "answer": "luôn dốc xuống"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Ở mức độ sản xuất thấp, hãng sẽ:",
+    "answer": "Tất cả những điều trên là chính xác."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Giải thích hợp lý nhất cho việc sử dụng công cụ trợ giá để tăng thu nhập của nông dân hơn thanh toán trực tiếp bằng tiền là:",
+    "answer": "trợ giá sẽ có chi phí thấp hơn thanh toán bằng tiền mặt trực tiếp"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Sự tắc nghẽn của sân bay và không phận khiến ngành hàng không gặp phải sự cố bên ngoài là:",
+    "answer": "tính phi kinh tế và đường cung dài hạn có độ dốc dương."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Trong một thị trường cạnh tranh không bị kiểm soát, thặng dư tiêu dùng tồn tại bởi vì:",
+    "answer": "một số người tiêu dùng sẵn sàng trả cao hơn giá cân bằng"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Thuế trên mỗi đơn vị sản phẩm bán ra sẽ làm người tiêu dùng sẽ chịu thuế ít hơn khi cầu tương đối ________ và cung tương đối ________.",
+    "answer": "co giãn; co giãn"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Khi những hãng mới tham gia vào thị trường cạnh tranh hoàn hảo có chi phí cao hơn các hãng hiện tại thì",
+    "answer": "giá thị trường sẽ tăng."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Công ty điện lực đặt giá 1.678 đồng cho 50 kWh đầu tiên và 1734 đồng cho 50 kWh tiếp theo được gọi là",
+    "answer": "phân biệt giá cấp 2."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Nếu một hãng thực hiện phân biệt giá hoàn hảo,",
+    "answer": "Hãng sẽ sản xuất mức sản lượng tại đó chi phí cận biên cắt đường cầu"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Phân biệt giá hoàn hảo là có lợi vì",
+    "answer": "Giá có thể đặt ra thấp hơn cho những người mua có cầu co giãn"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Khi nhà độc quyền phân biệt giá hoàn hảo",
+    "answer": "Tất cả đều đúng"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Một nhà độc quyền thuần túy có thể phân biệt giá khi:",
+    "answer": "sản lượng càng lớn và lợi nhuận càng cao."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Trong mô hình hãng trội của độc quyền tập đoàn, các hãng nhỏ hành động như thể họ là:",
+    "answer": "đối thủ cạnh tranh hoàn hảo."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Nếu hãng X đang sản xuất trong một ngành độc quyền tập đoàn, khi hãng tăng giá",
+    "answer": "hãng đối thủ Y sẽ tăng thị phần nếu hãng Y giữ giá không đổi"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Mô hình đường cầu gẫy",
+    "answer": "giả định rằng các đối thủ sẽ đáp lại sự giảm giá và lờ đi sự tăng giá"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Điểm yếu trong lý thuyết đường cầu gẫy của độc quyền tập đoàn là nó không cụ thể",
+    "answer": "giá được xác định như thế nào"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Theo lý thuyết đường cầu gẫy của độc quyền tập đoàn, tại mức sản lượng tương ứng với điểm gẫy",
+    "answer": "đường doanh thu cận biên bị gián đoạn"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Đối với cầu sản phẩm nhất định, phương trình dãy số thời gian là 53 - 4X. Dấu âm trên độ dốc của phương trình cho biết",
+    "answer": "là một dấu hiệu cho thấy cầu sản phẩm đang giảm"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Dự báo trung bình trượt sáu tháng tốt hơn dự báo trung bình trượt ba tháng nếu nhu cầu",
+    "answer": "khá ổn định"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Nhân tố nào dưới đây đo lường sự phù hợp của hàm hồi quy?",
+    "answer": "F thống kê và R2"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Ước lượng cầu của người tiêu dùng bằng cách theo dõi hành vi mua và tiêu dùng thực tế của một mẫu người tiêu dùng được gọi là:",
+    "answer": "nghiên cứu quan sát"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Cầu hàng hóa X được ước lượng Qx = 12 - 3Px + 4Py. Giả sử giá hàng hóa X là 2 và giá hàng hóa Y là 1 thì co giãn của cầu theo giá hàng hóa X là:",
+    "answer": "-0.6"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Lợi ích cận biên của tiền giảm dần đối với một người:",
+    "answer": "ghét rủi ro."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Giá của rủi ro là khoản phải tăng thêm của thu nhập kỳ vọng để có được:",
+    "answer": "Ích lợi kỳ vọng như trong trường hợp chắc chắn"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Một cá nhân sẵn sàng trả một cái gì đó cho thông tin vì",
+    "answer": "điều này cho phép anh ta tăng lợi ích."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Giá của rủi ro trong việc đầu tư mua một cổ phiếu là",
+    "answer": "Chênh lệch giữa lợi tức kỳ vọng từ cổ phiếu và lợi tức từ một đầu tư không có rủi ro"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Hệ số biến thiên (CV) dùng để đo:",
+    "answer": "rủi ro trên mỗi đơn vị kỳ vọng."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Đường LRAC nhìn chung có dạng:",
+    "answer": "Có dạng chữ U."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Nếu các đầu vào trong quá trình sản xuất tăng 20% và sản lượng đầu ra tăng 20% thì đó được gọi là:",
+    "answer": "tính kinh tế theo quy mô không đổi."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Tính phi kinh tế của quy mô xảy ra khi:",
+    "answer": "Chi phí bính quân dài hạn tăng khi sản lượng tăng"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Đường ống dẫn khí đốt tự nhiên có đường kính càng lớn thì chi phí bình quân vận chuyển khí đốt tự nhiên càng thấp. Đây là ví dụ về:",
+    "answer": "tính kinh tế theo quy mô."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Một hãng thấy rằng khi tăng gấp đôi yếu tố đầu vào làm cho sản lượng tăng hơn gấp đôi thì điều này được gọi là:",
+    "answer": "tính kinh tế theo quy mô."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khi đánh thuế trên mỗi đơn vị vào người bán thì:",
+    "answer": "người mua chịu phần lớn hơn nếu cung co giãn cao và cầu không co giãn"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Tác động của chính sách trợ cấp lên phúc lợi xã hội là gì?",
+    "answer": "Tăng thặng dư của nhà sản xuất và người tiêu dùng, và những lợi ích này lớn hơn chi phí của chính phủ."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Trong dài hạn, một hãng sẽ gia nhập thị trường cạnh tranh nếu",
+    "answer": "Tất cả những điều trên là chính xác."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Theo hình 1, nếu chính phủ mua sản phẩm để tăng giá từ 100$/tấn lên 150$/tấn sẽ làm thặng dư sản xuất tăng thêm là:\n",
+    "answer": "2.250 $"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Giả sử thị trường cạnh tranh có đường cung dài hạn nằm ngang và ở trạng thái cân bằng dài hạn. Nếu cầu giảm, chúng ta có thể chắc chắn rằng trong ngắn hạn:",
+    "answer": "giá sẽ giảm dưới tổng chi phí trung bình của một số hãng."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Kết quả của phân biệt giá cấp 2 là:",
+    "answer": "Chuyển một phần thặng dư tiêu dùng cho nhà sản xuất."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Phân biệt giá cấp 3 xảy ra khi:",
+    "answer": "hãng đặt giá khác nhau cho cúng sản phẩm dựa trên khia cạnh địa lý, thu nhập, giới tính…"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Các nhà độc quyền có thể thực hành phân biệt giá vì",
+    "answer": "mức độ sẵn sàng trả khác nhau giữa các người tiêu dùng."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Tất cả các hình thức phân biệt giá đều nhằm:",
+    "answer": "tối đa hóa lợi nhuận."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Nhà độc quyền đặt mức giá đúng bằng giá người tiêu dùng sẵn sàng trả cho mỗi đơn vị hàng hóa được gọi là:",
+    "answer": "phân biệt giá cấp 1."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Nếu hãng Ford giảm giá xe ô tô của hãng và General Motor (GM) cũng giảm giá theo",
+    "answer": "thị phần tương đối sẽ không thay đổi, nhưng cả 2 hãng sẽ tăng được lượng bán"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Tình huống lưỡng nan của các tù nhân mô tả một trò chơi đơn có tính năng",
+    "answer": "hai người chơi không thể giao tiếp với nhau."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Trong mô hình hãng trội của độc quyền tập đoàn, hãng trội sẽ sản xuất sản lượng mà tại đó doanh thu cận biên của nó bằng",
+    "answer": "chi phí cận biên của nó."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Một cartel thường có một thỏa thuận chung nhằm:",
+    "answer": "hạn chế sản lượng."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Trong mô hình hãng trội, các hãng nhỏ hoạt động giống như",
+    "answer": "các hãng cạnh tranh hoàn hảo"
+  }
+]

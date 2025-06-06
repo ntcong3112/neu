@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Phát biểu nào sau đây không đúng?",
+    "answer": "Có thể loại bỏ được sai số nếu làm tốt công tác chuẩn bị điều tra và kiểm tra điều tra."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Tần số tích lũy có tác dụng cho biết:",
+    "answer": "1 đơn vị đứng ở vị trí nào trong dãy số có lượng biến bằng bao nhiêu và cho biết có bao nhiêu đơn vị có lượng biến lớn hơn hay nhỏ hơn một lượng biến cụ thể nào đó."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Kết quả của loại điều tra nào có thể được dùng để suy rộng cho toàn bộ hiện tượng?",
+    "answer": "Điều tra chọn mẫu."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Điều tra toàn bộ:",
+    "answer": "tốn kém về chi phí và cho biết thông tin về tất cả các đơn vị tổng thể."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Mục đích xác định tổng thể thống kê để xem:",
+    "answer": "những đơn vị nào thuộc đối tượng nghiên cứu."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Hạn chế của Mốt là:",
+    "answer": "kém nhạy bén với sự biến thiên của tiêu thức."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Độ lệch chuẩn càng lớn thì:",
+    "answer": "độ biến thiên của tiêu thức càng lớn."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Tham số dùng để so sánh độ biến thiên giữa hai hiện tượng khác loại là:",
+    "answer": "hệ số biến thiên."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Trong các số sau đây, đâu là biểu hiện của số tương đối không gian?",
+    "answer": "Trong năm 2012, doanh thu doanh nghiệp A bằng 95% doanh thu doanh nghiệp"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Cho biết năng suất lao động và số lao động của từng cửa hàng. Năng suất lao động trung bình của các cửa hàng được tính theo công thức:",
+    "answer": "số trung bình cộng gia quyền."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Công nhân của doanh nghiệp A được chia thành 5 nhóm tương ứng với 5 mức năng suất lao động : rất thấp, tương đối thấp, trung bình, tương đối cao và rất cao. Người ta chọn ngẫu nhiên từ mỗi nhóm này ra một số lượng công nhân bằng nhau để tiến hành điều tra về thu nhập. Phương pháp tổ chức chọn mẫu được sử dụng ở đây là:",
+    "answer": "phân loại."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Với mẫu có kích thước nhỏ, khi tiến hành ước lượng kết quả cho tổng thể chung, so với phương pháp ước lượng điểm, ước lượng khoảng cho kết quả:",
+    "answer": "tốt hơn."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Khi xác định số đơn vị tổng thể mẫu cần điều tra, nếu không biết phương sai của tổng thể chung thì có thể:",
+    "answer": "điều tra thí điểm để xác định phương sai."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Số bình quân mẫu được dùng để ước lượng:",
+    "answer": "số bình quân của tổng thể chung."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Có thể kết luận gì khi không bác bỏ giả thuyết không?",
+    "answer": "Chưa đủ cơ sở để bác bỏ giả thuyết không."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Để đánh giá cường độ của mối liên hệ tương quan phi tuyến, người ta dùng:",
+    "answer": "tỷ số tương quan."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Sau khi xây dựng phương trình hồi quy phi tuyến, tính được tỷ số tương quan là 0,92. Điều đó có nghĩa là mối liên hệ tương quan:",
+    "answer": "rất chặt chẽ."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Hệ số hồi quy phản ánh:",
+    "answer": "ảnh hưởng của tiêu thức nguyên nhân đang nghiên cứu tới tiêu thức kết quả."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Qua nghiên cứu, người ta xây dựng phương trình hồi quy tuyến tính biểu diễn mối liên hệ tương quan giữa thu nhập (triệu đồng) tới chi tiêu (nghìn đồng) là: Điều này có nghĩa là:",
+    "answer": "khi thu nhập tăng lên 1 triệu đồng, chi tiêu tăng lên trung bình là 0,25 triệu đồng."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Mối liên hệ tương quan tuyến tính giữa hai tiêu thức số lượng được biểu diễn bằng:",
+    "answer": "đường thẳng."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Đối với dãy số tuyệt đối thời kỳ, mức độ bình quân qua thời gian chính là:",
+    "answer": "bình quân cộng giản đơn của các mức độ trong dãy số."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Có tốc độ phát triển định gốc về lợi nhuận của một doanh nghiệp như sau: ",
+    "answer": "4,55%"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Hàm xu thế parabol được vận dụng khi dãy số có các:",
+    "answer": "mức độ ban đầu tăng dần, sau đó lại giảm dần theo thời gian."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Doanh thu của một doanh nghiệp trong giai đoạn sau: là: ",
+    "answer": "114,87%"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Có tài liệu về tốc độ phát triển lợi nhuận của một doanh nghiệp như sau: ",
+    "answer": "107,97%"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Có tài liệu của một doanh nghiệp như sau: Chỉ số tổng hợp về giá thành của Laspeyres là:",
+    "answer": "103,57%"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Chỉ số tổng hợp nêu lên sự biến động về lượng qua thời gian thực chất là:",
+    "answer": "bình quân cộng gia quyền của các chỉ số đơn về lượng."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Nhận định: do sự biến động của sản lượng sản xuất từng phân xưởng làm cho tổng chi phí sản xuất của doanhnghiệp kỳ nghiên cứu so với kỳ gốc giảm 800 triệu đồng, điều đó có nghĩa là:",
+    "answer": "Pa:D"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Chỉ số tổng hợp về giá của Fisher thực chất là:",
+    "answer": "bình quân nhân giản đơn của của chỉ số tổng hợp về giá của Laspeyres và chỉ số tổng hợp về giá của Paasche."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Có tài liệu của một doanh nghiệp như sau: Chỉ số tổng hợp về sản lượng của Laspeyres là:",
+    "answer": "111,14%"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Phân tổ không có khoảng cách tổ được áp dụng trong trường hợp:",
+    "answer": "tiêu thức thuộc tính có nhiều biểu hiện."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Khi phân tổ theo tiêu thức thuộc tính thì:",
+    "answer": "mỗi biểu hiện của tiêu thức không nhất thiết hình thành một tổ."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Ý nào dưới đây không đúng về chỉ tiêu thống kê?",
+    "answer": "Chỉ tiêu tương đối biểu hiện quy mô, số lượng của hiện tượng."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Khi phân tổ kết hợp:",
+    "answer": "người ta phân tổ lần lượt theo từ 2 tiêu thức trở lên."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Trong các loại điều tra dưới đây, loại hình điều tra nào không thực hiện với số lớn các đơn vị?",
+    "answer": "Điều tra chuyên đề."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Trong các số sau đây, đâu là số tuyệt đối thời kỳ?",
+    "answer": "Giá trị sản xuất của doanh nghiệp A năm yyyy là 1 tỷ đồng."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Khi tính số trung bình của một tài liệu phân tổ có khoảng cách tổ, lượng biến được xác định là:",
+    "answer": "trị số giữa của mỗi tổ."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Đặc điểm nào không có đối với độ lệch tuyệt đối bình quân?",
+    "answer": "Chỉ tính đến lượng biến lớn nhất và nhỏ nhất trong dãy số."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Không tính được trung vị đối với:",
+    "answer": "dãy số thuộc tính."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Muốn tính tốc độ phát triển trung bình, cần sử dụng công thức:",
+    "answer": "số trung bình nhân."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Giả thuyết không là giả thuyết về:",
+    "answer": "tham số của tổng thể chung."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Ước lượng trong điều tra chọn mẫu là việc:",
+    "answer": "suy ra các tham số của tổng thể chung từ các tham số của tổng thể mẫu."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Phương án nào không đúng với phương pháp chọn mẫu chùm?",
+    "answer": "Đơn vị mẫu là từng đơn vị tổng thể."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Người giám sát một dây chuyền sản xuất tin rằng thời gian trung bình để lắp ráp một thiết bị điện tử là 14 phút. Giả sử thời gian lắp ráp có phân phối chuẩn với độ lệch tiêu chuẩn là 3,4 phút. Người giám sát này ghi lại thời gian lắp ráp của 14 thiết bị và tính được thời gian hoàn thành trung bình là 11,6 phút. Phát biểu nào dưới đây là đúng nhất?",
+    "answer": "Bác bỏ giả thuyết không với α = 0,008."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Giả sử bạn muốn xác định phần trăm các hộ gia đình muốn mua Tivi HD trong năm tới. Bạn nhận được phiếu điều tra từ tất cả thuê bao của dịch vụ Internet ở địa phương. Loại sai số mà bạn chắc chắn sẽ gặp trong cuộc điều tra này là:",
+    "answer": "sai số do đăng ký ghi chép."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Mối liên hệ hàm số không có đặc điểm nào sau đây?",
+    "answer": "Thường gặp trong các hiện tượng kinh tế - xã hội."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Khi giá trị tiêu thức nguyên nhân tăng làm giá trị tiêu thức kết quả giảm, hệ số tương quan sẽ nằm trong khoảng:",
+    "answer": "-1 đến 0."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Phương trình hồi quy tuyến tính giữa vốn tới thu nhập xác định được b0 = 2,1 và b1 = 2,8. Khi vốn là 8 triệu đồng thì giá trị lý thuyết của thu nhập sẽ là:",
+    "answer": "24,5 triệu đồng."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Khi tuổi nghề giảm, năng suất lao động của công nhân doanh nghiệp A giảm. Điều nào sau đây là đúng?",
+    "answer": "Hệ số hồi quy và hệ số tương quan cùng dương."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Dữ liệu cho biết tuổi nghề của lao động mới vào doanh nghiệp nhưng không cho biết năng suất lao động của lao động đó. Khi đó, có thể sử dụng phương trình hồi quy để ước tính năng suất lao động dựa vào tuổi nghề. Như vậy:",
+    "answer": "tuổi nghề là tiêu thức nguyên nhân."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Lượng tăng (giảm) tuyệt đối định gốc là chỉ tiêu được tính bằng:",
+    "answer": "tổng các lượng tăng (giảm) tuyệt đối liên hoàn trong khoảng thời gian đó."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng ?",
+    "answer": "Tích các tốc độ tăng giảm liên hoàn là tốc độ tăng giảm định gốc."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Từ dãy số thời gian về doanh thu (tỷ đồng) của một doanh nghiệp từ tháng 6-11, người ta xây dựng được một hàm xu thế phán ánh biến động của doanh thu qua thời gian: y ̂_t=12,5+1,58tTrong đó, quy ước biến thứ tự thời gian t của tháng 6 là 1, tháng 7 là 2... Vậy dự đoán doanh thu của doanh nghiệp tháng 12 dựa vào hàm xu thế sẽ là:",
+    "answer": "23,56 tỷ đồng."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Dự đoán dựa trên lượng tăng (giảm) tuyệt đối bình quân được thực hiện khi dãy số có các:",
+    "answer": "lượng tăng (giảm) tuyệt đối liên hoàn xấp xỉ nhau."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Doanh nghiệp đặt kế hoạch trong 5 năm, doanh thu sẽ tăng lên gấp đôi. Vậy trong giai đoạn nói trên, bình quân mỗi năm, doanh thu của doanh nghiệp phải tăng thêm bao nhiêu phần trăm?",
+    "answer": "114,87%"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "",
+    "answer": "không tính được."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "",
+    "answer": "không tính được."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Ý nào không đúng khi xây dựng hệ thống chỉ số tổng hợp?",
+    "answer": "Chỉ số toàn bộ bằng tổng của các chỉ số nhân tố."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Chỉ số tổng hợp về lượng của Fisher là:",
+    "answer": "bình quân nhân giản đơn của chỉ số tổng hợp về lượng của Laspeyres và chỉ số tổng hợp về lượng của Paasche."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Có tài liệu của một cửa hàng trong tháng 11 như sau: Chỉ số tổng hợp về lượng hàng tiêu thụ tháng 12 so với tháng 11 là:",
+    "answer": "không tính được."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây người ta không thực hiện điều tra toàn bộ được?",
+    "answer": "Tổng thể không đồng chất."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Với câu hỏi “Nhãn hiệu thời trang mà bạn yêu thích”, thang đo nào dưới đây sẽ được sử dụng?",
+    "answer": "Định danh."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Phân tích thống kê là:",
+    "answer": "dựa vào mức độ của hiện tượng trong quá khứ nêu lên được bản chất cụ thể và tính quy luật của hiện tượng."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Thang đo khoảng được sử dụng với tiêu thức nào?",
+    "answer": "Số lượng."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Xác định trình tự đúng nhất trong các giai đoạn cơ bản trong hoạt động thống kê?",
+    "answer": "Thiết kế mẫu, xử lý số liệu và phân tích."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Số trung bình và số trung vị không có đặc điểm chung sau:",
+    "answer": "chịu ảnh hưởng của lượng biến đột xuất."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Cho biết tỷ lệ hoàn thành kế hoạch về doanh thu và doanh thu thực tế của từng phân xưởng. Tỷ lệ hoàn thành kế hoạch trung bình về doanh thu các phân xưởng được tính theo công thức",
+    "answer": "số trung bình cộng điều hòa gia quyền."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Trong các ý sau đây, ý nào biểu hiện số tuyệt đối?",
+    "answer": "Tổng số đơn vị trong tổng thể."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Trung vị về tiền lương của công nhân doanh nghiệp A là 5 triệu đồng. Điều này có nghĩa là",
+    "answer": "50% công nhân doanh nghiệp có mức lương từ 5 triệu đồng trở lên."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây không phải là của phương sai?",
+    "answer": "Có đơn vị tính."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Mức ý nghĩa là:",
+    "answer": "xác suất mắc sai lầm loại 1."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Để kiểm định hai phía về một trung bình tổng thể khi xác suất bác bỏ giả thuyết không đúng là bằng 0,05, giá trị tới hạn Z là:",
+    "answer": "1,960"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Sai lầm loại 2 là xác suất:",
+    "answer": "thừa nhận giả thuyết không khi nó sai."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Với phương pháp chọn mẫu phân tầng hai cấp, đơn vị điều tra là:",
+    "answer": "một số các đơn vị mẫu cấp II."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Sau khi phân tích kết quả một mẫu điều tra, người ta tính được với xác suất là 0,88, giới hạn trên khi suy rộng số bình quân tổng thể chung là 122 và giới hạn dưới là 106. Điều đó có nghĩa, với xác suất là:",
+    "answer": "88% thì µ nằm trong khoảng 106 và 122."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Qua nghiên cứu, nhận thấy giữa phân bón và sản lượng có mối liên hệ tương quan tuyến tính. Người quản lý muốn biết khi phân bón tăng lên thì sản lượng thay đổi như thế nào, anh ta phải tính:",
+    "answer": "hệ số hồi quy."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Tham số tự do (hệ số chặn) phản ánh:",
+    "answer": "ảnh hưởng của các tiêu thức nguyên nhân không nghiên cứu tới tiêu thức kết quả."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Nhận định nào sau đây đúng?",
+    "answer": "Hệ số hồi quy và hệ số tương quan cùng đánh giá chiều hướng của mối liên hệ."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Mối liên hệ tương quan là mối liên hệ:",
+    "answer": "không hoàn toàn chặt chẽ."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Phương pháp bình phương nhỏ nhất sẽ xác định b0, b1 sao cho:",
+    "answer": "tổng bình phương các độ lệch giữa các giá trị thực tế và giá trị lý thuyết của tiêu thức kết quả là nhỏ nhất."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Quy mô vốn cố định của doanh nghiệp như sau. ",
+    "answer": "không tính được."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Tốc độ phát triển bình quân không phải là:",
+    "answer": "bình quân cộng của các tốc độ phát triển liên hoàn."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Khi lựa chọn hàm xu thế biểu diễn xu hướng biến động của hiện tượng qua thời gian cần dựa vào tiêu chuẩn:",
+    "answer": "có sai số chuẩn (SE) nhỏ nhất."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Tốc độ phát triển liên hoàn là:",
+    "answer": "số tương đối động thái."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Hàm xu thế hyperbol được vận dụng khi dãy số có các:",
+    "answer": "mức độ giảm dần theo thời gian."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Khi tính chỉ số tổng hợp bao gồm nhiều nhân tố cùng tham gia tính toán thì:",
+    "answer": "chỉ có một nhân tố nghiên cứu thay đổi, các nhân tố còn lại cố định."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Chỉ số tổng hợp nêu lên sự biến động về giá qua thời gian thực chất là:",
+    "answer": "bình quân cộng gia quyền của các chỉ số đơn về giá."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Số tương đối nào dưới đây không phải là chỉ số?",
+    "answer": "Số tương đối cường độ."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Khi tính chỉ số phản ánh biến động về giá bán các mặt hàng giữa hai thị trường A và B, quyền số được sử dụng là:",
+    "answer": "tổng lượng hàng hoá tiêu thụ ở cả hai thị trường của từng mặt hàng."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Chỉ số tổng hợp về lượng của Laspeyres là chỉ số bình quân cộng gia quyền của các chỉ số đơn về lượng với quyền số là:",
+    "answer": "doanh thu bán hàng kỳ gốc."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Điểm IQ đối với một người nào đó sử dụng thang đo nào dưới đây?",
+    "answer": "Khoảng."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Người ta tính mật độ phân phối khi:",
+    "answer": "dãy số phân phối có khoảng cách tổ không bằng nhau."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Đồ thị hình cột được sử dụng khi:",
+    "answer": "biểu hiện hiện tượng qua thời gian."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Thời kỳ điều tra là:",
+    "answer": "độ dài thời gian có sự tích luỹ về mặt lượng của hiện tượng đang được điều tra."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Điều tra thường xuyên là:",
+    "answer": "khi hiện tượng có phát sinh biến động thì điều tra."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Trung vị về năng suất lao động của công nhân doanh nghiệp A là 6 triệu đồng. Mốt về năng suất lao động là 5,8 triệu đồng. Như vậy, số công nhân có năng suất lao động lớn hơn:",
+    "answer": "5,8 triệu đồng chiếm đa số trong tổng thể."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Nhược điểm của số trung bình là:",
+    "answer": "chịu ảnh hưởng của lượng biến đột xuất."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Để xác định đơn vị ở vị trí giữa trong một dãy số lượng biến, cần dựa vào:",
+    "answer": "tần số tích lũy."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Trong các số tương đối sau đây, đâu là số tương đối động thái?",
+    "answer": "Chi phí sản xuất doanh nghiệp M tháng 12 bằng 0,95 lần so với tháng 11."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Doanh số trung bình 1 lao động kinh doanh của 1 cửa hàng là 8 triệu đồng, độ lệch chuẩn là 1 triệu đồng. Tiền lương trung bình của lao động cửa hàng này là 5 triệu đồng, độ lệch chuẩn là 0,5 triệu đồng. Có kết luận gì về biến động doanh số trung bình và tiền lương trung bình?",
+    "answer": "Biến động doanh số trung bình lớn hơn biến động tiền lương trung bình."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Phương pháp chọn mẫu ngẫu nhiên giản đơn không thích hợp với tổng thể:",
+    "answer": "có kết cấu phức tạp."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Số đơn vị mẫu điều tra giảm khi:",
+    "answer": "phạm vi sai số chọn mẫu lớn."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Khi chúng ta không có nguồn thông tin độc lập về phương sai của tổng thể, chúng ta phải sử dụng ước lượng tốt nhất về phương sai tổng thể. Đó là:",
+    "answer": "phương sai mẫu."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Công nhân của doanh nghiệp A được chia thành 5 nhóm tương ứng với 5 mức năng suất lao động : rất thấp, tương đối thấp, trung bình, tương đối cao và rất cao. Người ta chọn ngẫu nhiên từ mỗi nhóm này ra một số lượng công nhân bằng nhau để tiến hành điều tra về thu nhập. Phương pháp tổ chức chọn mẫu được sử dụng ở đây là:",
+    "answer": "phân loại."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Điều tra chọn mẫu không sử dụng được trong trường hợp nào dưới đây?",
+    "answer": "Cần phải có thông tin về mọi đơn vị trong tổng thể nghiên cứu."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Mối liên hệ tương quan là mối liên hệ:",
+    "answer": "không hoàn toàn chặt chẽ."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Mối liên hệ hàm số không có đặc điểm nào sau đây?",
+    "answer": "Thường gặp trong các hiện tượng kinh tế - xã hội."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Sau khi xây dựng phương trình hồi quy phi tuyến, tính được tỷ số tương quan là 0,92. Điều đó có nghĩa là mối liên hệ tương quan:",
+    "answer": "rất chặt chẽ."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Nhận định nào sau đây đúng?",
+    "answer": "Hệ số hồi quy và hệ số tương quan cùng đánh giá chiều hướng của mối liên hệ."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Qua nghiên cứu, người ta xây dựng phương trình hồi quy tuyến tính biểu diễn mối liên hệ tương quan giữa thu nhập (triệu đồng) tới chi tiêu (nghìn đồng) là: Điều này có nghĩa là:",
+    "answer": "khi thu nhập tăng lên 1 triệu đồng, chi tiêu tăng lên trung bình là 0,25 triệu đồng."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Có tài liệu về giá trị dự trữ của một doanh nghiệp trong tháng 6 như sau: ",
+    "answer": "865 triệu đồng."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Tốc độ phát triển định gốc là chỉ tiêu được tính bằng:",
+    "answer": "tích của các tốc độ phát triển liên hoàn trong khoảng thời gian đó."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Tốc độ tăng (giảm) bình quân là:",
+    "answer": "đại diện cho các tốc độ tăng (giảm) liên hoàn nhưng không tính được theo công thức bình quân cộng hoặc bình quân nhân."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Giá trị tuyệt đối của 1% tốc độ tăng (giảm) liên hoàn là:",
+    "answer": "một trường hợp vận dụng số tuyệt đối và số tương đối."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Đối với dãy số tuyệt đối thời kỳ, mức độ bình quân qua thời gian chính là:",
+    "answer": "bình quân cộng giản đơn của các mức độ trong dãy số."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "",
+    "answer": "111,04%"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Khi phân tích biến động tổng chi phí sản xuất toàn xí nghiệp do ảnh hưởng của giá thành bình quân chung và tổng sản lượng sản xuất của các phân xưởng, hệ thống chỉ số cần xây dựng là:",
+    "answer": "hệ thống chỉ số của tổng lượng biến tiêu thức."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Chỉ số tổng hợp về giá của Laspeyres là chỉ số bình quân cộng gia quyền của các chỉ số đơn về giá với quyền số là:",
+    "answer": "doanh thu bán hàng kỳ gốc."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Chỉ số tổng hợp về lượng của Laspeyres là chỉ số bình quân cộng gia quyền của các chỉ số đơn về lượng với quyền số là:",
+    "answer": "doanh thu bán hàng kỳ gốc."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Nhận định: do sự biến động của giá thành bình quân chung các phân xưởng làm cho tổng chi phí sản xuất của doanh nghiệp kỳ nghiên cứu so với kỳ gốc giảm 500 triệu đồng, điều đó có nghĩa là",
+    "answer": "Pa: A"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Tần suất cho biết:",
+    "answer": "tầm quan trọng của từng bộ phận trong tổng thể và tỷ trọng của từng bộ phận trong tổng thể."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Sau khi phân tổ thống kê thì:",
+    "answer": "các đơn vị có đặc điểm giống nhau theo tiêu thức phân tổ được đưa vào một tổ."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Thống kê học:",
+    "answer": "nghiên cứu hiện tượng số lớn và hiện tượng cá biệt"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Tần số thu được sau khi phân tổ được biểu hiện bằng:",
+    "answer": "số tuyệt đối."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Tài liệu trong điều tra thống kê phải được thu thập một cách đầy đủ, có nghĩa là:",
+    "answer": "thu thập đầy đủ các nội dung phục vụ nghiên cứu ở tất cả các đơn vị theo kế hoạch."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Số trung bình phải được tính ra từ tổng thể đồng chất vì:",
+    "answer": "không có sự khác biệt về chất giữa các đơn vị trong tổng thể."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Trong các đặc điểm sau đây, đâu là đặc điểm của số tương đối?",
+    "answer": "Là sự so sánh giữa hai chỉ tiêu thống kê đã có."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Tỷ lệ doanh nghiệp Nhà nước so với doanh nghiệp tư nhân là biểu hiện của:",
+    "answer": "số tương đối không gian."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Đối với dãy số lượng biến có khoảng cách tổ không bằng nhau, để xác định tổ chứa mốt, cần dựa vào:",
+    "answer": "mật độ phân phối của các tổ."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Doanh nghiệp A đặt kế hoạch năm x phải đạt doanh thu là 1 tỷ đồng. Kết quả thực tế, năm x doanh nghiệp A đạt mức doanh thu 1,2 tỷ đồng. Vậy, tỷ lệ phần trăm hoàn thành kế hoạch về doanh thu của doanh nghiệp năm x là:",
+    "answer": "120%"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Trong điều kiện kinh phí hạn hẹp, để xác định tỷ lệ hộ gia đình trên địa bàn Hà Nội có mức thu nhập từ 20 triệu đồng/tháng trở lên, người ta phải tiến hành:",
+    "answer": "điều tra chọn mẫu."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Khi muốn có thông tin về tất cả doanh nghiệp hoạt động trong lĩnh vực du lịch trên địa bàn cả nước, có thể tiến hành:",
+    "answer": "điều tra toàn bộ."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Phương pháp chọn mẫu ngẫu nhiên giản đơn không thích hợp với tổng thể:",
+    "answer": "có kết cấu phức tạp."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Mức ý nghĩa là:",
+    "answer": "xác suất mắc sai lầm loại 1."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Với xác suất 0,9544, số trung bình của tổng thể mẫu và số trung bình của tổng thể chung sẽ chênh lệch nhau không quá:",
+    "answer": "±2σ_¯x"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Phương trình hồi quy tuyến tính giữa vốn tới thu nhập xác định được b0 = 2,1 và b1 = 2,8. Khi vốn là 8 triệu đồng thì giá trị lý thuyết của thu nhập sẽ là:",
+    "answer": "24,5 triệu đồng."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Mối liên hệ tương quan tuyến tính giữa hai tiêu thức số lượng được biểu diễn bằng:",
+    "answer": "đường thẳng."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Khi giá trị tiêu thức nguyên nhân tăng làm giá trị tiêu thức kết quả giảm, hệ số tương quan sẽ nằm trong khoảng:",
+    "answer": "-1 đến 0."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Tham số tự do (hệ số chặn) phản ánh:",
+    "answer": "ảnh hưởng của các tiêu thức nguyên nhân không nghiên cứu tới tiêu thức kết quả."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Để đánh giá cường độ của mối liên hệ tương quan phi tuyến, người ta dùng:",
+    "answer": "tỷ số tương quan."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Tốc độ phát triển liên hoàn được tính bằng:",
+    "answer": "thương số của hai tốc độ phát triển định gốc liền nhau."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Mục đích vận dụng các phương pháp biểu hiện xu hướng phát triển cơ bản của hiện tượng nhằm:",
+    "answer": "loại bỏ tác động của các yếu tố ngẫu nhiên."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Có tài liệu về tốc độ phát triển lợi nhuận của một doanh nghiệp như sau: ",
+    "answer": "107,97%"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Dự đoán dựa trên tốc độ phát triển bình quân được thực hiện khi:",
+    "answer": "dãy số có các tốc độ phát triển liên hoàn xấp xỉ nhau."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Doanh thu của một doanh nghiệp trong giai đoạn sau: là: ",
+    "answer": "114,87%"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "",
+    "answer": "không tính được."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Nhận định: tổng sản lượng sản xuất của toàn doanh nghiệp kỳ nghiên cứu tăng 25% so với kỳ gốc, điều đó có nghĩa là:",
+    "answer": "Pa:C"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "",
+    "answer": "không tính được."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Có tài liệu của một doanh nghiệp như sau: Chỉ số tổng hợp về giá thành của Paasche là:",
+    "answer": "103,47%"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Có tài liệu của một doanh nghiệp như sau: Chỉ số tổng hợp về sản lượng của Laspeyres là:",
+    "answer": "111,14%"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Khi xem bảng thống kê, nếu xuất hiện ký hiệu “x“, có nghĩa là:",
+    "answer": "không có liên quan, không được ghi số liệu vào đó."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Khi xây dựng bảng thống kê, nếu xuất hiện ký hiệu “-”, có nghĩa là:",
+    "answer": "không có số liệu."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Kết luận rút ra được từ nghiên cứu của thống kê học:",
+    "answer": "chỉ đúng với hiện tượng số lớn."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "“Thu nhập bình quân một tháng của nhân viên công ty A năm 2008 là 12 triệu đồng” là chỉ tiêu:",
+    "answer": "thời kỳ và giá trị."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Đánh số các nhóm thu nhập: “Dưới 1 triệu”, “từ 1 – 2 triệu”, “từ 2 triệu trở lên” là sử dụng thang đo:",
+    "answer": "thứ bậc."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Doanh nghiệp M có 250 lao động vào ngày đầu tháng 5. Do nhu cầu mở rộng sản xuất, ngày 1/6, doanh nghiệp tuyển dụng thêm 100 lao động. Vậy, số lao động của doanh nghiệp trong 2 tháng là:",
+    "answer": "không tính được."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Giá trị hàng tồn kho của doanh nghiệp A ngày 1/5 là 50 triệu đồng. Đến ngày 1/6, giá trị hàng tồn kho là 42 triệu đồng. Vậy, giá trị hàng tồn kho của doanh nghiệp qua 2 tháng là:",
+    "answer": "không tính được."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Đặc điểm nào không phải của số trung bình?",
+    "answer": "Kém nhạy bén với sự biến thiên của tiêu thức."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Để xác định đơn vị ở vị trí giữa trong một dãy số lượng biến, cần dựa vào:",
+    "answer": "tần số tích lũy."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Trung vị về năng suất lao động của công nhân doanh nghiệp A là 6 triệu đồng. Mốt về năng suất lao động là 5,8 triệu đồng. Như vậy, số công nhân có năng suất lao động lớn hơn:",
+    "answer": "5,8 triệu đồng chiếm đa số trong tổng thể."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "(1- β) cho biết:",
+    "answer": "lực của kiểm định."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Để kiểm định hai phía ở mức ý nghĩa 0,05, miền bác bỏ nằm trong khoảng nào dưới đây khi cỡ mẫu là lớn và độ lệch tiêu chuẩn của tổng thể chung là đã biết?",
+    "answer": "Nhỏ hơn -1,96 hoặc lớn hơn +1,96."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Khi chúng ta không có nguồn thông tin độc lập về phương sai của tổng thể, chúng ta phải sử dụng ước lượng tốt nhất về phương sai tổng thể. Đó là:",
+    "answer": "phương sai mẫu."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Trong các yếu tố dưới đây, yếu tố không phải là lý do để chọn điều tra chọn mẫu thay cho điều tra toàn bộ là:",
+    "answer": "Tính chính xác."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Sai lầm loại 2 là xác suất:",
+    "answer": "thừa nhận giả thuyết không khi nó sai."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Dữ liệu cho biết tuổi nghề của lao động mới vào doanh nghiệp nhưng không cho biết năng suất lao động của lao động đó. Khi đó, có thể sử dụng phương trình hồi quy để ước tính năng suất lao động dựa vào tuổi nghề. Như vậy:",
+    "answer": "tuổi nghề là tiêu thức nguyên nhân."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Hệ số hồi quy phản ánh:",
+    "answer": "ảnh hưởng của tiêu thức nguyên nhân đang nghiên cứu tới tiêu thức kết quả."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Khi tuổi nghề giảm, năng suất lao động của công nhân doanh nghiệp A giảm. Điều nào sau đây là đúng?",
+    "answer": "Hệ số hồi quy và hệ số tương quan cùng dương."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Phương pháp bình phương nhỏ nhất sẽ xác định b0, b1 sao cho:",
+    "answer": "tổng bình phương các độ lệch giữa các giá trị thực tế và giá trị lý thuyết của tiêu thức kết quả là nhỏ nhất."
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Qua nghiên cứu, nhận thấy giữa phân bón và sản lượng có mối liên hệ tương quan tuyến tính. Người quản lý muốn biết khi phân bón tăng lên thì sản lượng thay đổi như thế nào, anh ta phải tính:",
+    "answer": "hệ số hồi quy."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Có thể sử dụng hàm xu thế tuyến tính để biểu diễn xu hướng phát triển của hiện tượng qua thời gian khi:",
+    "answer": "dãy số có các lượng tăng giảm tuyệt đối liên hoàn xấp xỉ nhau."
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Tốc độ phát triển bình quân không phải là:",
+    "answer": "bình quân cộng của các tốc độ phát triển liên hoàn."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Hàm xu thế hàm mũ được vận dụng khi dãy số có các:",
+    "answer": "tốc độ phát triển liên hoàn xấp xỉ nhau."
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Giá trị tuyệt đối của 1% tăng (giảm) liên hoàn và định gốc tại thời gian i, 2 là bằng nhau."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Lượng tăng (giảm) tuyệt đối định gốc là chỉ tiêu được tính bằng:",
+    "answer": "tổng các lượng tăng (giảm) tuyệt đối liên hoàn trong khoảng thời gian đó."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "",
+    "answer": "111,04%"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Khi phân tích biến động tổng chi phí sản xuất toàn xí nghiệp do ảnh hưởng của giá thành và sản lượng sản xuất của từng phân xưởng, hệ thống chỉ số cần xây dựng là:",
+    "answer": "hệ thống chỉ số tổng hợp."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Quyền số của chỉ số tổng hợp về lượng của Paasche có thể là:",
+    "answer": "doanh thu bán hàng kỳ nghiên cứu."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Có tài liệu của một cửa hàng trong tháng 11 như sau: Chỉ số tổng hợp về lượng hàng tiêu thụ tháng 12 so với tháng 11 là:",
+    "answer": "không tính được."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng?",
+    "answer": "Phương pháp chỉ số chỉ có tính tổng hợp, không mang tính phân tích."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Trong các loại điều tra dưới đây, loại hình điều tra nào thường áp dụng cho nghiên cứu điển hình?",
+    "answer": "Điều tra chuyên đề."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Đồ thị thống kê:",
+    "answer": "có thể hữu ích để kiểm tra sự phân bố số liệu và thể hiện các kết quả của nghiên cứu thống kê."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Phân tổ có vai trò trong:",
+    "answer": "ba giai đoạn của quá trình nghiên cứu thống kê."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Tiêu thức thuộc tính nào dưới đây có biểu hiện gián tiếp?",
+    "answer": "Quy mô."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Phát biểu nào dưới đây là không đúng?",
+    "answer": "Có thể nhận biết được hết các đơn vị trong tổng thể tiềm ẩn."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Trong một dãy số, nếu số trung vị lớn hơn số trung bình, phân phối của dãy số sẽ là:",
+    "answer": "phân phối chuẩn, lệch trái."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Mốt được sử dụng tốt nhất trong trường hợp nào sau đây?",
+    "answer": "Các tần số khác biệt rõ rệt."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Doanh nghiệp A đặt kế hoạch năm x phải đạt doanh thu là 1 tỷ đồng. Kết quả thực tế, năm x doanh nghiệp A đạt mức doanh thu 1,2 tỷ đồng. Vậy, tỷ lệ phần trăm hoàn thành kế hoạch về doanh thu của doanh nghiệp năm x là:",
+    "answer": "120%"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Giá trị hàng tồn kho của doanh nghiệp A ngày 1/5 là 50 triệu đồng. Đến ngày 1/6, giá trị hàng tồn kho là 42 triệu đồng. Vậy, giá trị hàng tồn kho của doanh nghiệp qua 2 tháng là:",
+    "answer": "không tính được."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Doanh số trung bình 1 lao động kinh doanh của 1 cửa hàng là 8 triệu đồng, độ lệch chuẩn là 1 triệu đồng. Tiền lương trung bình của lao động cửa hàng này là 5 triệu đồng, độ lệch chuẩn là 0,5 triệu đồng. Có kết luận gì về biến động doanh số trung bình và tiền lương trung bình?",
+    "answer": "Biến động doanh số trung bình lớn hơn biến động tiền lương trung bình."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Để kiểm định hai phía ở mức ý nghĩa 0,05, miền bác bỏ nằm trong khoảng nào dưới đây khi cỡ mẫu là lớn và độ lệch tiêu chuẩn của tổng thể chung là đã biết?",
+    "answer": "Nhỏ hơn -1,96 hoặc lớn hơn +1,96."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Trong điều tra chọn mẫu ngẫu nhiên, cách chọn hoàn lại có đặc điểm là:",
+    "answer": "Các đơn vị trong tổng thể mẫu là không hoàn toàn khác nhau."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Để kiểm định một phía về trung bình của tổng thể với mức ý nghĩa 0,05 dựa trên một mẫu gồm 18 quan sát, giá trị tới hạn là:",
+    "answer": "1,740"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Phát biểu nào dưới đây không đúng với cách chọn không hoàn lại trong điều tra chọn mẫu ngẫu nhiên:",
+    "answer": "Mỗi đơn vị có cơ hội được chọn nhiều lần."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Giả sử bạn muốn kiểm định giả thuyết: H0: µ=0,54 và H1: µ<0,54 dựa trên một mẫu gồm 25 quan sát và độ lệch tiêu chuẩn của mẫu là 13,2. Tiêu chuẩn kiểm định là:",
+    "answer": "(¯x - 0,54)/2,64"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Qua nghiên cứu, nhận thấy giữa phân bón và sản lượng có mối liên hệ tương quan tuyến tính. Người quản lý muốn biết khi phân bón tăng lên thì sản lượng thay đổi như thế nào, anh ta phải tính:",
+    "answer": "hệ số hồi quy."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Mối liên hệ tương quan là mối liên hệ:",
+    "answer": "không hoàn toàn chặt chẽ."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Mối liên hệ tương quan tuyến tính giữa hai tiêu thức số lượng được biểu diễn bằng:",
+    "answer": "đường thẳng."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Hệ số hồi quy phản ánh:",
+    "answer": "ảnh hưởng của tiêu thức nguyên nhân đang nghiên cứu tới tiêu thức kết quả."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Khi tuổi nghề giảm, năng suất lao động của công nhân doanh nghiệp A giảm. Điều nào sau đây là đúng?",
+    "answer": "Hệ số hồi quy và hệ số tương quan cùng dương."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Đối với dãy số tuyệt đối thời kỳ thì:",
+    "answer": "có thể tổng hợp các mức độ của dãy số lại với nhau để hình thành chỉ tiêu phản ánh mức độ của hiện tượng trong khoảng thời gian dài."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Tốc độ phát triển liên hoàn là:",
+    "answer": "số tương đối động thái."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Có thể sử dụng hàm xu thế tuyến tính để biểu diễn xu hướng phát triển của hiện tượng qua thời gian khi:",
+    "answer": "dãy số có các lượng tăng giảm tuyệt đối liên hoàn xấp xỉ nhau."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Hàm xu thế hàm mũ được vận dụng khi dãy số có các:",
+    "answer": "tốc độ phát triển liên hoàn xấp xỉ nhau."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Lợi nhuận của một doanh nghiệp trong giai đoạn sau là: ",
+    "answer": "không tính được vì thiếu số liệu."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Có tài liệu của một doanh nghiệp như sau: Chỉ số tổng hợp về giá thành của Paasche là:",
+    "answer": "103,47%"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "",
+    "answer": "96,8%"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Nhận định nào sau đây đúng?",
+    "answer": "Chỉ số là số tương đối."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Quyền số của chỉ số tổng hợp về lượng của Paasche có thể là:",
+    "answer": "doanh thu bán hàng kỳ nghiên cứu."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Nhận định: do sự biến động của giá thành từng phân xưởng làm cho tổng chi phí sản xuất của doanh nghiệp kỳ nghiên cứu so với kỳ gốc giảm 800 triệu đồng, điều đó có nghĩa là:",
+    "answer": "Pa: B"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Loại thang đo nào dưới đây mà giữa các biểu hiện của tiêu thức không có quan hệ hơn kém?",
+    "answer": "Định danh."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Dãy số lượng biến là kết quả của:",
+    "answer": "phân tổ theo tiêu thức thuộc tính và không có khoảng cách tổ."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Đánh số các nhóm “Chủ tịch, Phó Chủ tịch, Thư ký, Thủ quỹ, Thành viên Ban giám đốc” là loại thang đo nào trong các loại sau?",
+    "answer": "Định danh."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Muốn lựa chọn tiêu thức phân tổ thì:",
+    "answer": "dựa vào mục đích nghiên cứu và phân tích bản chất của hiện tượng trong điều kiện lịch sử cụ thể."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Trong điều tra chọn mẫu:",
+    "answer": "quy mô mẫu không bao giờ lớn bằng quy mô của tổng thể chung"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Khi tính số trung bình cộng, quyền số không thể là:",
+    "answer": "lượng biến của mỗi tổ."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Đặc điểm nào sau đây không phải là đặc điểm của số tuyệt đối?",
+    "answer": "Có gốc so sánh."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Đối với dãy số lượng biến có khoảng cách tổ không bằng nhau, để xác định tổ chứa mốt, cần dựa vào:",
+    "answer": "mật độ phân phối của các tổ."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Phát biểu nào dưới đây không đúng?",
+    "answer": "Số tương đối thực hiện kế hoạch lớn hơn 100% là tốt trong mọi trường hợp."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Kế hoạch doanh nghiệp B năm x phải tăng lợi nhuận 10% so với năm trước. Thực tế doanh nghiệp đã tăng lợi nhuận được 7%. Tỷ lệ phần trăm hoàn thành kế hoạch về lợi nhuận của doanh nghiệp B năm x là:",
+    "answer": "97,27%"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Giả sử rằng bạn lấy một mẫu và tính được ¯x bằng 100. Sau đó bạn tính giới hạn trên của khoảng tin cậy 90% hai phía cho µ; giá trị của nó là 112. Vậy giới hạn dưới của khoảng tin cậy này là bao nhiêu?",
+    "answer": "88"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Một nhà nghiên cứu y tế đang muốn tìm bằng chứng chứng minh rằng thu nhập bình quân năm của các bác sĩ gia đình ở Hà Nội là ít hơn 200 triệu đồng, khi đó sẽ sử dụng kiểm định với miền bác bỏ ở:",
+    "answer": "phía trái."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Khi muốn có thông tin về tất cả doanh nghiệp hoạt động trong lĩnh vực du lịch trên địa bàn cả nước, có thể tiến hành:",
+    "answer": "điều tra toàn bộ."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "β là ký hiệu của:",
+    "answer": "xác suất mắc sai lầm loại 2."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Khi xác định số đơn vị mẫu cần điều tra để ước lượng tỷ lệ, nếu không biết phương sai của tổng thể chung thì có thể lấy phương sai:",
+    "answer": "gần 0,25 nhất trong các lần điều tra trước."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Tham số tự do (hệ số chặn) phản ánh:",
+    "answer": "ảnh hưởng của các tiêu thức nguyên nhân không nghiên cứu tới tiêu thức kết quả."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Khi giá trị tiêu thức nguyên nhân tăng làm giá trị tiêu thức kết quả giảm, hệ số tương quan sẽ nằm trong khoảng:",
+    "answer": "-1 đến 0."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Phương pháp bình phương nhỏ nhất sẽ xác định b0, b1 sao cho:",
+    "answer": "tổng bình phương các độ lệch giữa các giá trị thực tế và giá trị lý thuyết của tiêu thức kết quả là nhỏ nhất."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Phương trình hồi quy tuyến tính giữa vốn tới thu nhập xác định được b0 = 2,1 và b1 = 2,8. Khi vốn là 8 triệu đồng thì giá trị lý thuyết của thu nhập sẽ là:",
+    "answer": "24,5 triệu đồng."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Nhận định nào sau đây đúng?",
+    "answer": "Hệ số hồi quy và hệ số tương quan cùng đánh giá chiều hướng của mối liên hệ."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Đối với dãy số thời điểm có khoảng cách thời gian bằng nhau, mức độ bình quân qua thời gian chính là:",
+    "answer": "bình quân cộng của từng nhóm hai mức độ kế tiếp nhau."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Tốc độ phát triển liên hoàn được tính bằng:",
+    "answer": "thương số của hai tốc độ phát triển định gốc liền nhau."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Có tốc độ phát triển định gốc về lợi nhuận của một doanh nghiệp như sau:",
+    "answer": "3,71%"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây phản ánh tốc độ tăng (giảm):",
+    "answer": "năm 2012 vốn lưu động của doanh nghiệp tăng 40% so với năm 2008."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Có tài liệu về doanh thu của một doanh nghiệp như sau: ",
+    "answer": "9,34%"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Chỉ số đơn về giá của từng mặt hàng:",
+    "answer": "Phản ánh sự biến động về giá của từng hàng hoá nghiên cứu."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Để phân tích biến động của tổng chi phí sản xuất của một doanh nghiệp không thể sử dụng hệ thống chỉ số:",
+    "answer": "của chỉ tiêu bình quân."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Quyền số của chỉ số tổng hợp về giá của Laspeyres không phải là:",
+    "answer": "giá bán hàng hoá kỳ gốc."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "",
+    "answer": "không tính được."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Quyền số của chỉ số tổng hợp về giá của Paasche có thể là:",
+    "answer": "lượng hàng tiêu thụ kỳ nghiên cứu."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Sai số do tính chất đại biểu là sai số do:",
+    "answer": "số lượng đơn vị mẫu không đủ lớn và sai số do mẫu được chọn không ngẫu nhiên."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Tiêu thức thống kê phản ánh:",
+    "answer": "đặc điểm của đơn vị tổng thể."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Tài liệu trong điều tra thống kê:",
+    "answer": "phản ánh trung thực, khách quan tình hình thực tế của hiện tượng và luôn tồn tại một sai số nhất định."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Xác định thời điểm điều tra để:",
+    "answer": "phản ánh mặt lượng của hiện tượng vào thời điểm đó."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Tiêu thức bậc thợ của công nhân là:",
+    "answer": "sử dụng thang đo thứ bậc."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Phát biểu nào sau đây không đúng về số trung bình?",
+    "answer": "Được tính ra từ cả tiêu thức thuộc tính và tiêu thức số lượng."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Số trung bình phải được tính ra từ tổng thể đồng chất vì:",
+    "answer": "không có sự khác biệt về chất giữa các đơn vị trong tổng thể."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Đặc điểm nào không phải của số trung bình?",
+    "answer": "Kém nhạy bén với sự biến thiên của tiêu thức."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Công thức trung bình cộng gia quyền được sử dụng khi:",
+    "answer": "tài liệu đã phân tổ, có số liệu về lượng biến và tần số."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Để tính số tương đối cường độ, hai mức độ thiết lập quan hệ so sánh không cần phải đảm bảo yêu cầu nào dưới đây?",
+    "answer": "Có cùng đơn vị tính."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Một tổng thể phức tạp, phân bố không đồng đều phù hợp nhất với phương pháp chọn mẫu:",
+    "answer": "phân loại."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Một mẫu gồm n quan sát được lựa chọn từ một tổng thể vô hạn. Khi n tăng thì:",
+    "answer": "sai số bình quân chọn mẫu giảm."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trong điều kiện kinh phí hạn hẹp, để xác định tỷ lệ hộ gia đình trên địa bàn Hà Nội có mức thu nhập từ 20 triệu đồng/tháng trở lên, người ta phải tiến hành:",
+    "answer": "điều tra chọn mẫu."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Với xác suất 0,9544, số trung bình của tổng thể mẫu và số trung bình của tổng thể chung sẽ chênh lệch nhau không quá:",
+    "answer": "±2σ_¯x"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "(1- α) cho biết:",
+    "answer": "xác suất thừa nhận giả thuyết không khi nó đúng."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Qua nghiên cứu, người ta xây dựng phương trình hồi quy tuyến tính biểu diễn mối liên hệ tương quan giữa thu nhập (triệu đồng) tới chi tiêu (nghìn đồng) là: Điều này có nghĩa là:",
+    "answer": "khi thu nhập tăng lên 1 triệu đồng, chi tiêu tăng lên trung bình là 0,25 triệu đồng."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Mối liên hệ hàm số không có đặc điểm nào sau đây?",
+    "answer": "Thường gặp trong các hiện tượng kinh tế - xã hội."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Để đánh giá cường độ của mối liên hệ tương quan phi tuyến, người ta dùng:",
+    "answer": "tỷ số tương quan."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Dữ liệu cho biết tuổi nghề của lao động mới vào doanh nghiệp nhưng không cho biết năng suất lao động của lao động đó. Khi đó, có thể sử dụng phương trình hồi quy để ước tính năng suất lao động dựa vào tuổi nghề. Như vậy:",
+    "answer": "tuổi nghề là tiêu thức nguyên nhân."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Sau khi xây dựng phương trình hồi quy phi tuyến, tính được tỷ số tương quan là 0,92. Điều đó có nghĩa là mối liên hệ tương quan:",
+    "answer": "rất chặt chẽ."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Chỉ tiêu nào dưới đây phản ánh lượng tăng (giảm) tuyệt đối:",
+    "answer": "năm 2012 lợi nhuận của doanh nghiệp tăng 5 tỷ đồng so với năm 2007."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Lượng tăng (giảm) tuyệt đối bình quân là:",
+    "answer": "bình quân cộng của các lượng tăng giảm tuyệt đối liên hoàn."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Có tài liệu về lợi nhuận của một doanh nghiệp như sau: ",
+    "answer": "400 triệu đồng."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Có tài liệu về doanh thu của một doanh nghiệp như sau: ",
+    "answer": "18,0 tỷ đồng."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng về lượng tăng (giảm) tuyệt đối bình quân?",
+    "answer": "Luôn có ý nghĩa phân tích với mọi loại dãy số thời gian."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Quyền số của chỉ số tổng hợp về giá của Paasche không phải là:",
+    "answer": "tỷ trọng doanh thu bán hàng kỳ nghiên cứu."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Chỉ số cấu thành cố định phản ánh biến động của:",
+    "answer": "bản thân lượng biến tiêu thức đang nghiên cứu."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Nhận định: do sự biến động của giá thành bình quân chung các phân xưởng làm cho tổng chi phí sản xuất của doanh nghiệp kỳ nghiên cứu so với kỳ gốc giảm 500 triệu đồng, điều đó có nghĩa là",
+    "answer": "Pa: A"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Khi phân tích biến động giá thành bình quân chung toàn xí nghiệp do ảnh hưởng bởi các nhân tố cấu thành, hệ thống chỉ số cần xây dựng là:",
+    "answer": "hệ thống chỉ số của chỉ tiêu bình quân."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Có tài liệu của một cửa hàng trong tháng 12 như sau:",
+    "answer": "không tính được."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Khi nghiên cứu biến động của các hiện tượng phức tạp, cần tiến hành phân tổ thống kê vì:",
+    "answer": "phân tổ chính là một phương pháp nghiên cứu liên hệ và phân tổ cho thấy tầm quan trọng của từng bộ phận trong tổng thể."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Ý nào dưới đây không đúng về một chỉ tiêu thống kê?",
+    "answer": "Phản ánh hiện tượng cá biệt."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Các yêu cầu cơ bản của điều tra thống kê:",
+    "answer": "chính xác và kịp thời."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Phân tổ có khoảng cách tổ được áp dụng trong trường hợp:",
+    "answer": "tiêu thức số lượng có lượng biến rời rạc có nhiều biểu hiện và tiêu thức số lượng có lượng biến liên tục."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Khi tiến hành điều tra toàn bộ, những loại sai số nào dưới đây có thể xảy ra?",
+    "answer": "Sai số do ghi chép."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Mốt về tiền lương của công nhân doanh nghiệp A là 4,5 triệu đồng. Điều này có nghĩa là:",
+    "answer": "phần lớn công nhân có mức tiền lương là 4,5 triệu đồng."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Nếu dãy số phân phối chuẩn lệch trái thì:",
+    "answer": "số đơn vị có lượng biến lớn hơn số trung bình sẽ chiếm đa số trong tổng thể."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Đặc điểm nào không đúng đối với trung vị?",
+    "answer": "San bằng, bù trừ các chênh lệch về lượng của tiêu thức nghiên cứu."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Tỷ lệ doanh nghiệp Nhà nước so với doanh nghiệp tư nhân là biểu hiện của:",
+    "answer": "số tương đối không gian."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Trong các đặc điểm sau đây, đâu là đặc điểm của số tương đối?",
+    "answer": "Là sự so sánh giữa hai chỉ tiêu thống kê đã có."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Xác suất bác bỏ một giả thuyết không khi giả thuyết đó là đúng được gọi là:",
+    "answer": "mức ý nghĩa."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "So với cách chọn hoàn lại, sai số bình quân chọn mẫu theo cách chọn không hoàn lại là:",
+    "answer": "nhỏ hơn"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Phát biểu nào dưới đây là không đúng?",
+    "answer": "Miền bác bỏ bao gồm một tập hợp các giá trị tiêu chuẩn kiểm định mà giả thuyết đối sẽ bị bác bỏ."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Trong các yếu tố dưới đây, yếu tố không phải là lý do để chọn điều tra chọn mẫu thay cho điều tra toàn bộ là:",
+    "answer": "Tính chính xác."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Giả sử bạn muốn kiểm định giả thuyết: H0: µ=0,54 và H1: µ<0,54 dựa trên một mẫu gồm 25 quan sát và độ lệch tiêu chuẩn của mẫu là 13,2. Giá trị tới hạn phù hợp là:",
+    "answer": "tα, n-1"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Mối liên hệ tương quan là mối liên hệ:",
+    "answer": "không hoàn toàn chặt chẽ."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Sau khi xây dựng phương trình hồi quy phi tuyến, tính được tỷ số tương quan là 0,92. Điều đó có nghĩa là mối liên hệ tương quan:",
+    "answer": "rất chặt chẽ."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Tham số tự do (hệ số chặn) phản ánh:",
+    "answer": "ảnh hưởng của các tiêu thức nguyên nhân không nghiên cứu tới tiêu thức kết quả."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Nhận định nào sau đây đúng?",
+    "answer": "Hệ số hồi quy và hệ số tương quan cùng đánh giá chiều hướng của mối liên hệ."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Khi tuổi nghề giảm, năng suất lao động của công nhân doanh nghiệp A giảm. Điều nào sau đây là đúng?",
+    "answer": "Hệ số hồi quy và hệ số tương quan cùng dương."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Tốc độ phát triển định gốc là chỉ tiêu được tính bằng:",
+    "answer": "tích của các tốc độ phát triển liên hoàn trong khoảng thời gian đó."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Phương pháp bình quân trượt:",
+    "answer": "áp dụng đối với dãy số thời kỳ."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Đơn vị tính của chỉ tiêu giá trị tuyệt đối của 1% tốc độ tăng (giảm) liên hoàn là:",
+    "answer": "đơn vị tính của chỉ tiêu nghiên cứu."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Có tài liệu về vốn lưu động của một doanh nghiệp tại các thời điểm như sau: ",
+    "answer": "286,25 triệu đồng."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Tốc độ tăng (giảm) bình quân là:",
+    "answer": "chỉ tiêu tương đối phản ánh nhịp điệu tăng (giảm) đại diện trong một thời kỳ nhất định."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Chỉ số tổng hợp về giá của Paasche là chỉ số bình quân cộng điều hoà gia quyền của các chỉ số đơn về giá với quyền số là:",
+    "answer": "tỷ trọng doanh thu bán hàng kỳ nghiên cứu."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Chỉ số cấu thành khả biến phản ánh biến động của:",
+    "answer": "chỉ tiêu bình quân."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Select one:",
+    "answer": "95,24%"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Chỉ số ảnh hưởng kết cấu phản ánh biến động của:",
+    "answer": "kết cấu tổng thể theo tiêu thức đang nghiên cứu."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Nhận định: do sự biến động của tổng sản lượng sản xuất các phân xưởng làm cho tổng chi phí sản xuất của doanh nghiệp kỳ nghiên cứu so với kỳ gốc giảm 500 triệu đồng, điều đó có nghĩa là",
+    "answer": "Pa: B"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Đánh số mức độ hài lòng về sản phẩm bao gồm” rất hài lòng, hài lòng, bình thuờng, không hài lòng, rất không hài lòng” sử dụng thang đo nào dưới đây?",
+    "answer": "Thứ bậc."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Sự khác nhau cơ bản giữa thang đo khoảng và thang đo tỷ lệ là:",
+    "answer": "điểm gốc không tuyệt đối."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Thống kê học:",
+    "answer": "nghiên cứu mặt lượng và mặt chất của hiện tượng."
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Khi xây dựng bảng thống kê, nếu xuất hiện ký hiệu “...”, có nghĩa là:",
+    "answer": "số liệu chưa có điều kiện thu thập."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Tiêu thức thay phiên:",
+    "answer": "là tiêu thức thuộc tính hoặc tiêu thức số lượng."
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Cho biết giá thành sản phẩm và tỷ trọng sản lượng của từng phân xưởng. Giá thành trung bình chung của các phân xưởng được tính theo công thức:",
+    "answer": "số trung bình cộng gia quyền."
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Đặc điểm nào sau không phải của trung vị và mốt?",
+    "answer": "Tính ra từ cả tiêu thức thuộc tính và tiêu thức số lượng."
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Số lao động của doanh nghiệp M vào ngày đầu tháng 7 là 500 người. Đây là biểu hiện của:",
+    "answer": "số tuyệt đối thời điểm."
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Điều kiện nào không áp dụng đối với số bình quân?",
+    "answer": "Không có sự khác biệt về chất và lượng giữa các đơn vị trong tổng thể."
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Doanh nghiệp M có 250 lao động vào ngày đầu tháng 5. Do nhu cầu mở rộng sản xuất, ngày 1/6, doanh nghiệp tuyển dụng thêm 100 lao động. Vậy, số lao động của doanh nghiệp trong 2 tháng là:",
+    "answer": "không tính được."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Khi xác định số đơn vị mẫu cần điều tra để ước lượng số trung bình, nếu không biết phương sai của tổng thể chung thì có thể lấy phương sai:",
+    "answer": "lớn nhất trong các lần điều tra trước."
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Tỷ lệ của tổng thể mẫu được dùng để xác định:",
+    "answer": "tỷ lệ của tổng thể chung."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "(1- β) cho biết:",
+    "answer": "lực của kiểm định."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Biểu tượng α là ký hiệu của:",
+    "answer": "xác suất mắc sai lầm loại 1."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Với xác suất 0,6826, số trung bình của tổng thể mẫu và số trung bình của tổng thể chung sẽ chênh lệch nhau không quá:",
+    "answer": "±1σ_¯x"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Mối liên hệ hàm số không có đặc điểm nào sau đây?",
+    "answer": "Thường gặp trong các hiện tượng kinh tế - xã hội."
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Dữ liệu cho biết tuổi nghề của lao động mới vào doanh nghiệp nhưng không cho biết năng suất lao động của lao động đó. Khi đó, có thể sử dụng phương trình hồi quy để ước tính năng suất lao động dựa vào tuổi nghề. Như vậy:",
+    "answer": "tuổi nghề là tiêu thức nguyên nhân."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Phương trình hồi quy tuyến tính giữa vốn tới thu nhập xác định được b0 = 2,1 và b1 = 2,8. Khi vốn là 8 triệu đồng thì giá trị lý thuyết của thu nhập sẽ là:",
+    "answer": "24,5 triệu đồng."
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Phương pháp bình phương nhỏ nhất sẽ xác định b0, b1 sao cho:",
+    "answer": "tổng bình phương các độ lệch giữa các giá trị thực tế và giá trị lý thuyết của tiêu thức kết quả là nhỏ nhất."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Để đánh giá cường độ của mối liên hệ tương quan phi tuyến, người ta dùng:",
+    "answer": "tỷ số tương quan."
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Giá trị tuyệt đối của 1% tốc độ tăng giảm định gốc là:",
+    "answer": "một số cố định."
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Có tài liệu về giá trị dự trữ của một doanh nghiệp trong tháng 6 như sau: ",
+    "answer": "865 triệu đồng."
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Giá trị tuyệt đối của 1% tăng (giảm) liên hoàn và định gốc tại thời gian i, 2 là bằng nhau."
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Đối với dãy số thời điểm có khoảng cách thời gian không bằng nhau, mức độ bình quân qua thời gian chính là",
+    "answer": "bình quân cộng gia quyền của các mức độ trong dãy số với quyền số là khoảng cách thời gian."
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Hàm xu thế hyperbol được vận dụng khi dãy số có các:",
+    "answer": "mức độ giảm dần theo thời gian."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng?",
+    "answer": "Phương pháp chỉ số chỉ có tính tổng hợp, không mang tính phân tích."
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Quyền số của chỉ số tổng hợp về lượng của Laspeyres không phải là:",
+    "answer": "lượng hàng hoá tiêu thụ kỳ gốc."
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Nhận định: do sự biến động của kết cấu số lượng sản phẩm sản xuất của từng phân xưởng làm cho giá thành bình quân chung toàn doanh nghiệp kỳ nghiên cứu so với kỳ gốc tăng 2 triệu đồng, điều đó có nghĩa là:",
+    "answer": "z ̄_1-z ̄_01=2, z ̄_01-z ̄_0=2, z ̄_01-z ̄_1=2"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Quyền số của chỉ số tổng hợp về giá của Laspeyres có thể là:",
+    "answer": "lượng hàng tiêu thụ kỳ gốc."
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Quyền số khi tính chỉ số tổng hợp về lượng hàng hoá tiêu thụ giữa hai thị trường A và B có thể là:",
+    "answer": "giá bình quân của từng mặt hàng tính chung cho hai thị trường."
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Khi phân tổ theo tiêu thức số lượng thì:",
+    "answer": "dựa vào đặc điểm của lượng biến tiêu thức để xác định số tổ."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Chỉ tiêu thống kê phản ánh:",
+    "answer": "đặc điểm của tổng thể."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Đối tượng điều tra là:",
+    "answer": "đối tượng chứa đựng các thông tin cần thu thập."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Tổng hợp thống kê là:",
+    "answer": "hệ thống hoá tài liệu."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Sai số do ghi chép xảy ra:",
+    "answer": "do người điều tra vô tình ghi chép sai."
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Khi số trung bình của một tiêu thức được tính theo công thức bình quân cộng gia quyền, phương sai của tiêu thức đó sẽ được tính theo công thức:",
+    "answer": "trung bình cộng gia quyền."
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Kết cấu tổng thể cho biết:",
+    "answer": "tầm quan trọng của từng bộ phận trong tổng thể."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Ưu điểm của khoảng biến thiên là:",
+    "answer": "dễ tính toán."
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Năng suất lao động trung bình là biểu hiện của:",
+    "answer": "số tương đối cường độ."
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Hệ số biến thiên không có đặc điểm nào sau đây?",
+    "answer": "Là số tuyệt đối."
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Nếu kiểm định cặp giả thuyết H0: µ=100 và H1: µ≠100, miền bác bỏ để kiểm định giả thuyết này nằm ở phía nào của phân phối?",
+    "answer": "Phía trái và phía phải."
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Người giám sát một dây chuyền sản xuất tin rằng thời gian trung bình để lắp ráp một thiết bị điện tử là 14 phút. Giả sử thời gian lắp ráp có phân phối chuẩn với độ lệch tiêu chuẩn là 3,4 phút. Người giám sát này ghi lại thời gian lắp ráp của 14 thiết bị và tính được thời gian hoàn thành trung bình là 11,6 phút. Giả thuyết không và giả thuyết đối là:",
+    "answer": "H0: µ = 14 và H1: µ ≠ 14."
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Một nhà thống kê muốn kiểm định khoản tiền trung bình mà một sinh viên đại học phải chi tiêu một ngày là hơn 70 nghìn đồng. Dựa trên nghiên cứu trước đó, độ lệch tiêu chuẩn của tổng thể được ước tính là 17,32 nghìn đồng. Nhà thống kê điều tra 35 sinh viên và tính được chi tiêu trung bình là 72,43 nghìn đồng. Trong các phát biểu sau, phát biểu đúng nhất là:",
+    "answer": "không thể bác bỏ giả thuyết không với α ≤ 0,10."
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Sai số chọn mẫu trong trường hợp đã biết phương sai tổng thể chung không chịu ảnh hưởng của:",
+    "answer": "Trung bình mẫu"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Điều tra chọn mẫu không sử dụng được trong trường hợp nào dưới đây?",
+    "answer": "Cần phải có thông tin về mọi đơn vị trong tổng thể nghiên cứu."
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Mối liên hệ tương quan tuyến tính giữa hai tiêu thức số lượng được biểu diễn bằng:",
+    "answer": "đường thẳng."
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Qua nghiên cứu, người ta xây dựng phương trình hồi quy tuyến tính biểu diễn mối liên hệ tương quan giữa thu nhập (triệu đồng) tới chi tiêu (nghìn đồng) là: Điều này có nghĩa là:",
+    "answer": "khi thu nhập tăng lên 1 triệu đồng, chi tiêu tăng lên trung bình là 0,25 triệu đồng."
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Khi giá trị tiêu thức nguyên nhân tăng làm giá trị tiêu thức kết quả giảm, hệ số tương quan sẽ nằm trong khoảng:",
+    "answer": "-1 đến 0."
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Hệ số hồi quy phản ánh:",
+    "answer": "ảnh hưởng của tiêu thức nguyên nhân đang nghiên cứu tới tiêu thức kết quả."
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Qua nghiên cứu, nhận thấy giữa phân bón và sản lượng có mối liên hệ tương quan tuyến tính. Người quản lý muốn biết khi phân bón tăng lên thì sản lượng thay đổi như thế nào, anh ta phải tính:",
+    "answer": "hệ số hồi quy."
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Dự đoán dựa trên tốc độ phát triển bình quân được thực hiện khi:",
+    "answer": "dãy số có các tốc độ phát triển liên hoàn xấp xỉ nhau."
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Trước khi sử dụng các phương pháp biểu hiện xu hướng phát triển cơ bản của hiện tượng thì điều kiện đầu tiên phải đảm bảo là:",
+    "answer": "đảm bảo tính chất so sánh được giữa các mức độ trong dãy số."
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Mục đích vận dụng các phương pháp biểu hiện xu hướng phát triển cơ bản của hiện tượng nhằm:",
+    "answer": "loại bỏ tác động của các yếu tố ngẫu nhiên."
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Tốc độ tăng (giảm) bình quân là:",
+    "answer": "đại diện cho các tốc độ tăng (giảm) liên hoàn nhưng không tính được theo công thức bình quân cộng hoặc bình quân nhân."
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Giá trị tuyệt đối của 1% tốc độ tăng (giảm) liên hoàn là:",
+    "answer": "một trường hợp vận dụng số tuyệt đối và số tương đối."
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Quyền số của chỉ số tổng hợp về lượng của Laspeyres có thể là:",
+    "answer": "lượng tiêu thụ kỳ gốc hoặc kỳ nghiên cứu."
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Khi phân tích biến động tổng chi phí sản xuất toàn xí nghiệp do ảnh hưởng của giá thành và sản lượng sản xuất của từng phân xưởng, hệ thống chỉ số cần xây dựng là:",
+    "answer": "hệ thống chỉ số tổng hợp."
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "",
+    "answer": "95,24%"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Chỉ số tổng hợp về lượng của Paasche là chỉ số bình quân cộng điều hoà gia quyền của các chỉ số đơn về lượng với quyền số là:",
+    "answer": "doanh thu bán hàng kỳ nghiên cứu."
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Nhận định: tổng sản lượng sản xuất của toàn doanh nghiệp kỳ nghiên cứu tăng 25% so với kỳ gốc, điều đó có nghĩa là:",
+    "answer": "Pa:C"
+  }
+]

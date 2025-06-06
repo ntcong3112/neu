@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Quyết định ngắn hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn nhanh, thường xảy ra ở mọi giai đoạn trong hoạt động KD, dễ thay đổi, ít chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu X; tiền công máy 20.000 đ; khấu hao thiết bị 5.000đ (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu giá thuê ngoài là 40.000đ thì tiền công máy tối đa là bao nhiêu để thuê ngoài?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Thông tin thích hợp thường có những đặc điểm khi phân tích đưa ra quyết định ngắn hạn?",
+    "answer": "Thường là thông tin tài chính, dễ định lượng, có sự khác biệt giữa các phương án kinh doanh về doanh thu, chi phí và lợi nhuận.."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu 5.000; tiền công máy 20.000 đ; khấu hao thiết bị X (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu giá thuê ngoài là 40.000đ thì tiền công máy tối đa là bao nhiêu để thuê ngoài?",
+    "answer": "Không ảnh hưởng tới quyết định"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Quyết định ngắn hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn nhanh, thường xảy ra ở mọi giai đoạn trong hoạt động KD, dễ thay đổi, ít chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Quyết định ngắn hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn nhanh, thường xảy ra ở mọi giai đoạn trong hoạt động KD, dễ thay đổi, ít chịu"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Nếu công ty Thăng Long chấp nhận từ bỏ 5 sản phẩm trong kế hoạch có giá bán 200.000đ; chi phí sản xuất biến đổi 50.000đ để thực hiện đơn hàng ngoài kế hoạch X với tổng chi phí thực hiện là 2 triệu đồng thì giá bán thấp nhất công ty đưa ra cho đối tác là bao nhiêu?",
+    "answer": "3 triệu đồng"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu 5.000đ; tiền công máy 20.000; khấu hao thiết bị 5.000đ (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu thuê ngoài thì giá thuê cao nhất có thể là bao nhiêu?",
+    "answer": "30.000 đ"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Thông tin thích hợp thường có những đặc điểm khi phân tích đưa ra quyết định ngắn hạn?",
+    "answer": "Thường là thông tin tài chính, dễ định lượng, có sự khác biệt giữa các phương án kinh doanh về doanh thu, chi phí và lợi nhuận.."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Các quyết định dài hạn thường bao gồm?",
+    "answer": "Quyết định mua máy mới, quyết định chọn công nghệ tự động hóa,quyết định thuê nhà xưởng dài hạn."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Công ty Sơn Lâm đang phân vân giữa 2 phương án mua sắm hay thuê ngoài một trạm trộn bê tông.\nPhương án 1: Giá mua thiết bị 3,803 tỷ đồng, thời gian sử dụng 15 năm.\nPhương án 2: Thuê ngoài với chi phí 0,5 tỷ đồng/năm\nLãi suất chiết khấu tối đa là bao nhiêu để công ty chọn Phương án 2?",
+    "answer": "10%"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Quyết định dài hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn lâu, vốn đầu tư lớn, thường xảy ra trong giai đoạn đầu tư, khó thay đổi, chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Các quyết định dài hạn thường bao gồm:",
+    "answer": "Quyết định mua máy mới, quyết định chọn công nghệ tự động hóa,quyết định thuê nhà xưởng dài hạn."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Ông Lò Văn Cối được thừa kế tài sản của cụ Nội, 1 trong 4 phương án sau giúp ông nhận tiền?\nHãy giúp Ông chọn phương án tối ưu ? Biết lãi suất 1 năm 10%.",
+    "answer": "Mỗi năm nhận 20 triệu và nhận trong vòng 9 năm."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Các quyết định dài hạn thường bao gồm?",
+    "answer": "Quyết định mua máy mới, quyết định chọn công nghệ tự động hóa,quyết định thuê nhà xưởng dài hạn."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Nếu lãi suất vay vốn thực hiện dự án đầu tư là 10% và thời gian thực hiện dự án là 5 năm thì hệ số chiết khấu là bao nhiêu?",
+    "answer": "3,791"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Khi so sánh hiệu quả sinh lời của hai dự án đầu tư dài hạn có sự khác biệt về quy mô vốn chúng ta nên dùng chỉ tiêu nào?",
+    "answer": "IRR"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Công ty xây dựng Thăng Long đang muốn đầu tư một trạm trộn xi măng 40 tỷ. Ước tính chi phí phát sinh tương ứng 1,5 tỷ đồng/năm. Nếu trạm trộn có thời gian sử dụng hữu ích 12 năm và tỷ lệ sinh lời giản đơn là 12%/năm thì doanh thu 1 năm phải là bao nhiêu?",
+    "answer": "6,3 tỷ đồng"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Ông Lò Văn Ăn muốn đi du lịch, năm nay ông 48 tuổi, sau 12 năm ông đi nghỉ với số tiền 40 triệu đồng. Với lãi suất 8% năm, hãy nghiên cứu giúp ông ngay bây giờ phải đầu tư bao nhiêu tiền để thực hiện ước mơ của mình ?.",
+    "answer": "13,88 triệu đồng."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Công ty Thắng Lợi sản xuất và tiêu thụ đồng thời hai loại sản phẩm A và C. Sản phẩm C đang có lợi nhuận góp 100 triệu đồng và chi phí cố định trực tiếp 60 triệu đồng. Nếu dừng sản xuất sản phẩm C thì doanh thu A tăng, biết tỷ lệ LNG của A là 40%. Doanh thu A cần tăng tối thiểu bao nhiêu?",
+    "answer": "100 triệu đồng"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Công ty Thắng Lợi sản xuất và tiêu thụ đồng thời hai loại sản phẩm A và C. Sản phẩm C đang có lợi nhuận góp 100 triệu đồng và chi phí cố định trực tiếp 60 triệu đồng. Nếu dừng sản xuất sản phẩm C thì doanh thu A tăng 200 triệu đồng. Khi ấy tỷ lệ lợi nhuận góp của A tối thiểu là bao nhiêu?",
+    "answer": "50%"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Công ty Thắng Lợi nhận được đơn hàng gia công SP A. CP NCTT cho đơn hàng sẽ là bao nhiêu? Biết đơn hàng cần 50h lao động trực tiếp. Đơn giá 1 giờ lao động là 20.000đ. Hiện tại công ty đang thiếu nhân lực và cứ 2 giờ lao động công ty tạo được 1 SP A có giá bán 200.000đ và chi phí biến đổi 150.000đ. CP cần tính cho đơn hàng là bao nhiêu?",
+    "answer": "250.000đ"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu 5.000đ; tiền công máy X; khấu hao thiết bị 5.000đ (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu giá thuê ngoài là 20.000đ thì tiền công máy tối đa là bao nhiêu để thuê ngoài?",
+    "answer": "15.000 đ"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Thông tin thích hợp thường có những đặc điểm khi phân tích đưa ra quyết định ngắn hạn?",
+    "answer": "Thường là thông tin tài chính, dễ định lượng, có sự khác biệt giữa các phương án kinh doanh về doanh thu, chi phí và lợi nhuận.."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Thông tin thích hợp thường có những đặc điểm khi phân tích đưa ra quyết định ngắn hạn?",
+    "answer": "Thường là thông tin tài chính, dễ định lượng, có sự khác biệt giữa các phương án kinh doanh về doanh thu, chi phí và lợi nhuận.."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Phát biểu nào sau đây không chính xác?",
+    "answer": "Chi phí cố định luôn là thông tin không phù hợp cho quyết định ngắn hạn."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Ông Lò Văn Út được thừa kế tài sản của cụ Nội, 1 trong 4 phương án sau giúp ông nhận tiền.\nHãy giúp Ông chọn phương án tối ưu ? Biết lãi suất 1 năm 10%.",
+    "answer": "Mỗi năm nhận 20 triệu và nhận trong vòng 9 năm."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Công ty Sơn Lâm đang phân vân giữa 2 phương án mua sắm hay thuê ngoài một trạm trộn bê tông.\nPhương án 1: Giá mua thiết bị 4,5 tỷ đồng, thời gian sử dụng X năm, giá trị thanh lý 200 triệu đồng.\nPhương án 2: Thuê ngoài với chi phí 600 triệu/năm.\nX tối thiểu phải là bao nhiêu để doanh nghiệp mua thiết bị nếu lãi suất chiết khấu là 12%?",
+    "answer": "20 năm"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Ông Lò Văn Điếc được thừa kế tài sản của cụ Nội, 1 trong 4 phương án sau giúp ông nhận tiền:\nHãy giúp Ông chọn phương án tối ưu ? Biết lãi suất 1 năm 10%.",
+    "answer": "Mỗi năm nhận 20 triệu và nhận trong vòng 9 năm."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Công ty xây dựng Thăng Long đang muốn đầu tư một trạm trộn xi măng 40 tỷ. Ước tính doanh thu từ trạm là 6 tỷ đồng/năm. Nếu trạm trộn có thời gian sử dụng hữu ích 12 năm và tỷ lệ sinh lời giản đơn là 12%/năm thì chi phí tối đa 1 năm là bao nhiêu?",
+    "answer": "1,2 tỷ đồng"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Đâu là những phương pháp đưa ra quyết định dài hạn?",
+    "answer": "Đáp án cả A và B"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Đâu là những phương pháp đưa ra quyết định dài hạn:",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Quyết định dài hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn lâu, vốn đầu tư lớn, thường xảy ra trong giai đoạn đầu tư, khó thay đổi, chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Các quyết định dài hạn thường bao gồm?",
+    "answer": "Quyết định mua máy mới, quyết định chọn công nghệ tự động hóa,quyết định thuê nhà xưởng dài hạn."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Ông Lò Văn Khoai được thừa kế tài sản của cụ Nội, 1 trong 4 phương án sau giúp ông nhận tiền?\nHãy giúp Ông chọn phương án tối ưu? Biết lãi suất 1 năm 10%.",
+    "answer": "Mỗi năm nhận 20 triệu và nhận trong vòng 9 năm."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Ông Lò Văn Chơi muốn đi du lịch, năm nay ông 48 tuổi, sau 12 năm ông đi nghỉ với số tiền 40 triệu đồng. Với lãi suất 8% năm, hãy nghiên cứu giúp ông ngay bây giờ phải đầu tư bao nhiêu tiền để thực hiện ước mơ của mình ?.",
+    "answer": "15,88 triệu đồng."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Quyết định ngắn hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn nhanh, thường xảy ra ở mọi giai đoạn trong hoạt động KD, dễ thay đổi, ít chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Các quyết định ngắn hạn bao gồm?",
+    "answer": "Tất cả các quyết định trên"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Công ty Thắng Lợi sản xuất và tiêu thụ đồng thời hai loại sản phẩm A và C. Sản phẩm C đang có lợi nhuận góp 100 triệu đồng và chi phí cố định trực tiếp 60 triệu đồng. Nếu dừng sản xuất sản phẩm C thì doanh thu A tăng 300 triệu, biết tỷ lệ LNG của A là 33,33%. Lợi nhuận sau khi dừng sản xuất C là bao nhiêu?",
+    "answer": "60 triệu đồng"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Công ty Thắng Lợi sản xuất và tiêu thụ đồng thời hai loại sản phẩm A và C. Sản phẩm C đang có lợi nhuận góp 100 triệu đồng và chi phí cố định trực tiếp 60 triệu đồng. Nếu dừng sản xuất sản phẩm C thì doanh thu A tăng 200 triệu đồng. Khi ấy tỷ lệ lợi nhuận góp của A tối thiểu là bao nhiêu?",
+    "answer": "50%"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Công ty Thắng Lợi sản xuất và tiêu thụ đồng thời hai loại sản phẩm A và C. Sản phẩm C đang có lợi nhuận góp 100 triệu đồng và chi phí cố định trực tiếp 60 triệu đồng. Nếu dừng sản xuất sản phẩm C thì doanh thu A tăng, biết tỷ lệ LNG của A là 40%. Doanh thu A cần tăng tối thiểu bao nhiêu?",
+    "answer": "100 triệu đồng"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Thông tin thích hợp thường có những đặc điểm khi phân tích đưa ra quyết định ngắn hạn?",
+    "answer": "Thường là thông tin tài chính, dễ định lượng, có sự khác biệt giữa các phương án kinh doanh về doanh thu, chi phí và lợi nhuận.."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Thông tin thích hợp thường có những đặc điểm khi phân tích đưa ra quyết định ngắn hạn?",
+    "answer": "Thường là thông tin tài chính, dễ định lượng, có sự khác biệt giữa các phương án kinh doanh về doanh thu, chi phí và lợi nhuận.."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Quyết định ngắn hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn nhanh, thường xảy ra ở mọi giai đoạn trong hoạt động KD, dễ thay đổi, ít chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu X; tiền công máy 20.000 đ; khấu hao thiết bị 5.000đ (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu giá thuê ngoài là 40.000đ thì tiền công máy tối đa là bao nhiêu để thuê ngoài?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Công ty Sơn Lâm đang phân vân giữa 2 phương án mua sắm hay thuê ngoài một trạm trộn bê tông.\nPhương án 1: Giá mua thiết bị 4,5 tỷ đồng, thời gian sử dụng 15 năm, giá trị thanh lý 500 triệu đồng.\nPhương án 2: Thuê ngoài với chi phí Y tỷ đồng/năm.\nY tối thiểu phải là bao nhiêu để doanh nghiệp mua thiết bị nếu lãi suất chiết khấu là 12%?",
+    "answer": "647 triệu đồng"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Một dự án mua sắm thiết bị có vốn đầu tư là 0,6 tỷ đồng và tổng thu sau 5 năm là 1 tỷ đồng. Ngoài ra năm thứ 3 thiết bị được bảo dưỡng định kỳ với chi phí 100 triệu đồng. Vậy NPV dự án là bao nhiêu? Biết lãi suất chiết khấu là 6%.",
+    "answer": "0,063 tỷ đồng"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Quyết định dài hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn lâu, vốn đầu tư lớn, thường xảy ra trong giai đoạn đầu tư, khó thay đổi, chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Công ty Sơn Lâm đang phân vân giữa 2 phương án mua sắm hay thuê ngoài một trạm trộn bê tông.\nPhương án 1: Giá mua thiết bị X tỷ đồng, thời gian sử dụng 15 năm, giá trị thanh lý 500 triệu đồng.\nPhương án 2: Thuê ngoài với chi phí 600 triệu/năm.\nX tối đa phải là bao nhiêu để doanh nghiệp mua thiết bị nếu lãi suất chiết khấu là 12%?",
+    "answer": "4,18 tỷ đồng"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Công ty LNT có dự định sử dụng nguồn vốn từ quỹ đầu tư phát triển để mua sắm thiết bị. Tổng nguồn vốn là 500 triệu.\nPhương án 1: mua thiết bị vận tải mới có thời gian sử dụng 10 năm và cắt giảm được CP nhiên liệu 68 triệu/năm.\nPhương án 2: mua dây truyền sản xuất mới có thời gian sử dụng 5 năm và mỗi năm tiết kiệm 125 chi phí nguyên vật liệu và nhân công trực tiếp. Phương án nào được chọn dựa trên tỷ lệ sinh lời có điều chỉnh theo thời gian?",
+    "answer": "Phương án 2."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Quyết định dài hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn lâu, vốn đầu tư lớn, thường xảy ra trong giai đoạn đầu tư, khó thay đổi, chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Ông Lò Văn Điếc được thừa kế tài sản của cụ Nội, 1 trong 4 phương án sau giúp ông nhận tiền:\nHãy giúp Ông chọn phương án tối ưu ? Biết lãi suất 1 năm 10%.",
+    "answer": "Mỗi năm nhận 20 triệu và nhận trong vòng 9 năm."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Ông Lò Văn Ăn muốn đi du lịch, năm nay ông 48 tuổi, sau 12 năm ông đi nghỉ với số tiền 40 triệu đồng. Với lãi suất 8% năm, hãy nghiên cứu giúp ông ngay bây giờ phải đầu tư bao nhiêu tiền để thực hiện ước mơ của mình ?.",
+    "answer": "13,88 triệu đồng."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Các quyết định dài hạn thường bao gồm?",
+    "answer": "Quyết định mua máy mới, quyết định chọn công nghệ tự động hóa,quyết định thuê nhà xưởng dài hạn."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Đâu là những phương pháp đưa ra quyết định dài hạn:",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu 5.000đ; tiền công máy 20.000; khấu hao thiết bị 5.000đ (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu thuê ngoài thì giá thuê cao nhất có thể là bao nhiêu?",
+    "answer": "30.000 đ"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Công ty Thắng Lợi nhận được đơn hàng gia công SP A. CP NCTT cho đơn hàng sẽ là bao nhiêu? Biết đơn hàng cần 50h lao động trực tiếp. Đơn giá 1 giờ lao động là 20.000đ. Hiện tại công ty đang thiếu nhân lực và cứ 2 giờ lao động công ty tạo được 1 SP A có giá bán 200.000đ và chi phí biến đổi 150.000đ. CP cần tính cho đơn hàng là bao nhiêu?",
+    "answer": "250.000đ"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Công ty Thắng Lợi sản xuất và tiêu thụ đồng thời hai loại sản phẩm A và C. Sản phẩm C đang có lợi nhuận góp 100 triệu đồng và chi phí cố định trực tiếp 60 triệu đồng. Nếu dừng sản xuất sản phẩm C thì doanh thu A tăng 300 triệu, biết tỷ lệ LNG của A là 33,33%. Lợi nhuận sau khi dừng sản xuất C là bao nhiêu?",
+    "answer": "60 triệu đồng"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Quyết định ngắn hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn nhanh, thường xảy ra ở mọi giai đoạn trong hoạt động KD, dễ thay đổi, ít chịu"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Nếu công ty Thăng Long chấp nhận từ bỏ 5 sản phẩm trong kế hoạch có giá bán 200.000đ; chi phí sản xuất biến đổi 50.000đ để thực hiện đơn hàng ngoài kế hoạch X với tổng chi phí thực hiện là 2 triệu đồng thì giá bán thấp nhất công ty đưa ra cho đối tác là bao nhiêu?",
+    "answer": "3 triệu đồng"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Phát biểu nào sau đây không chính xác?",
+    "answer": "Chi phí cố định luôn là thông tin không phù hợp cho quyết định ngắn hạn."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu 5.000; tiền công máy 20.000 đ; khấu hao thiết bị X (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu giá thuê ngoài là 40.000đ thì tiền công máy tối đa là bao nhiêu để thuê ngoài?",
+    "answer": "Không ảnh hưởng tới quyết định"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu 5.000đ; tiền công máy X; khấu hao thiết bị 5.000đ (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu giá thuê ngoài là 20.000đ thì tiền công máy tối đa là bao nhiêu để thuê ngoài?",
+    "answer": "15.000 đ"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Các quyết định dài hạn thường bao gồm?",
+    "answer": "Quyết định mua máy mới, quyết định chọn công nghệ tự động hóa,quyết định thuê nhà xưởng dài hạn."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Ông Lò Văn Út được thừa kế tài sản của cụ Nội, 1 trong 4 phương án sau giúp ông nhận tiền.\nHãy giúp Ông chọn phương án tối ưu ? Biết lãi suất 1 năm 10%.",
+    "answer": "Mỗi năm nhận 20 triệu và nhận trong vòng 9 năm."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Quyết định dài hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn lâu, vốn đầu tư lớn, thường xảy ra trong giai đoạn đầu tư, khó thay đổi, chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Đâu là những phương pháp đưa ra quyết định dài hạn?",
+    "answer": "Đáp án cả A và B"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Công ty xây dựng Thăng Long đang muốn đầu tư một trạm trộn xi măng 40 tỷ. Ước tính chi phí phát sinh tương ứng 1,5 tỷ đồng/năm. Nếu trạm trộn có thời gian sử dụng hữu ích 12 năm và tỷ lệ sinh lời giản đơn là 12%/năm thì doanh thu 1 năm phải là bao nhiêu?",
+    "answer": "6,3 tỷ đồng"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Ông Lò Văn Khoai được thừa kế tài sản của cụ Nội, 1 trong 4 phương án sau giúp ông nhận tiền?\nHãy giúp Ông chọn phương án tối ưu? Biết lãi suất 1 năm 10%.",
+    "answer": "Mỗi năm nhận 20 triệu và nhận trong vòng 9 năm."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Công ty xây dựng Thăng Long đang muốn đầu tư một trạm trộn xi măng 40 tỷ. Ước tính doanh thu từ trạm là 6 tỷ đồng/năm. Nếu trạm trộn có thời gian sử dụng hữu ích 12 năm và tỷ lệ sinh lời giản đơn là 12%/năm thì chi phí tối đa 1 năm là bao nhiêu?",
+    "answer": "1,2 tỷ đồng"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Công ty Sơn Lâm đang phân vân giữa 2 phương án mua sắm hay thuê ngoài một trạm trộn bê tông.\nPhương án 1: Giá mua thiết bị 4,5 tỷ đồng, thời gian sử dụng X năm, giá trị thanh lý 200 triệu đồng.\nPhương án 2: Thuê ngoài với chi phí 600 triệu/năm.\nX tối thiểu phải là bao nhiêu để doanh nghiệp mua thiết bị nếu lãi suất chiết khấu là 12%?",
+    "answer": "20 năm"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Công ty Sơn Lâm đang phân vân giữa 2 phương án mua sắm hay thuê ngoài một trạm trộn bê tông.\nPhương án 1: Giá mua thiết bị X tỷ đồng, thời gian sử dụng 15 năm, giá trị thanh lý 500 triệu đồng.\nPhương án 2: Thuê ngoài với chi phí 600 triệu/năm.\nX tối đa phải là bao nhiêu để doanh nghiệp mua thiết bị nếu lãi suất chiết khấu là 12%?",
+    "answer": "4,18 tỷ đồng"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Nếu lãi suất vay vốn thực hiện dự án đầu tư là 10% và thời gian thực hiện dự án là 5 năm thì hệ số chiết khấu là bao nhiêu?",
+    "answer": "3,791"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 2.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Nhận định nào không đúng về Tỷ lệ số dư bộ phận?",
+    "answer": "Được xác định bằng lợi nhuận góp chia cho doanh thu"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Giá thành sản xuất SP theo phương pháp toàn bộ bao gồm?",
+    "answer": "CPNVLTT, CPNC trực tiếp và CPSX chung."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Tại công ty Hoàng Sơn sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 5.000 đ. CPNCTT cho 1 SP: 3.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 1.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 1.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "CPNVLTT, CPNC trực tiếp và CPSX chung."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "38.000 đồng"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "38.000 đồng"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Tổng Lợi nhuận của doanh nghiệp được xác định bằng?",
+    "answer": "Tổng lợi nhuận góp – tổng định phí bộ phận – tổng định phí chung"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Giá thành sản xuất SP theo phương pháp toàn bộ bao gồm?",
+    "answer": "CPNVLTT, CPNC trực tiếp và CPSX chung"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Bộ phận của doanh nghiệp có thể được hiểu?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Khi chọn tiêu thức phân bổ chi phí gián tiếp cần chú ý gì?",
+    "answer": "Đáp án bao gồm A và B."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Đáp án bao gồm A và B."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Khi chọn tiêu thức phân bổ chi phí gián tiếp cần chú ý gì?",
+    "answer": "Không có đáp án nào đúng."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Chỉ tiêu RI thường dùng để đánh giá kết quả của Trung tâm nào ?",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Đâu là trung tâm trách nhiệm Lợi nhuận ?",
+    "answer": "Ban Giám đốc"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "18.000 đồng"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Tại công ty Hoàng Sơn sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 5.000 đ. CPNCTT cho 1 SP: 3.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 1.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 1.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "18.000 đồng"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Khoản định phí sản xuất chung theo phương pháp xác định chi phí trực tiếp?",
+    "answer": "Được tính hết vào chi phí trong kỳ"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Nhận định nào không đúng về Chỉ tiêu ROI?",
+    "answer": "Được sử dụng để đánh giá kết quả của các trung tâm đầu tư"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Khi định giá bán sản phẩm trong DN, nhà quản trị thường dựa trên các quy luật nào ?",
+    "answer": "Quy luật Cung – Cầu, quy luật cạnh tranh, quy luật giá trị"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Chi phí nền của SP, định giá theo phương pháp toàn bộ bao gồm",
+    "answer": "Chi phí NCTT, CPNCTT và CPSX chung."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Tỷ lệ % tăng thêm so với chi phí nền theo phương pháp toàn bộ được tính bằng?",
+    "answer": "(Vốn đầu tư × Tỷ lệ % hoàn vốn) + Chi phí bán hàng và chi phí quản lý doanh nghiệp)/Tổng chi phí sản xuất."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường dựa trên những căn cứ nào ?",
+    "answer": "Chi phí sản xuất tạo ra SP, mục tiêu thu hồi vốn đầu tư và các nhân tố khác."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Bao gồm tất cả các yếu tố trên"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy Giá bán SP theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "24.000 đ"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Nếu công ty Thăng Long chấp nhận từ bỏ 5 sản phẩm trong kế hoạch có giá bán 200.000đ; chi phí sản xuất biến đổi 50.000đ để thực hiện đơn hàng ngoài kế hoạch X với tổng chi phí thực hiện là 2 triệu đồng thì giá bán thấp nhất công ty đưa ra cho đối tác là bao nhiêu?",
+    "answer": "3 triệu đồng"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Các quyết định ngắn hạn bao gồm?",
+    "answer": "Tất cả các quyết định trên"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Quyết định ngắn hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn nhanh, thường xảy ra ở mọi giai đoạn trong hoạt động KD, dễ thay đổi, ít chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Công ty xây dựng Thăng Long đang muốn đầu tư một trạm trộn xi măng 40 tỷ. Ước tính doanh thu từ trạm là 6 tỷ đồng/năm. Nếu trạm trộn có thời gian sử dụng hữu ích 12 năm và tỷ lệ sinh lời giản đơn là 12%/năm thì chi phí tối đa 1 năm là bao nhiêu?",
+    "answer": "1,2 tỷ đồng"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Nếu lãi suất vay vốn thực hiện dự án đầu tư là 10% và thời gian thực hiện dự án là 5 năm thì hệ số chiết khấu là bao nhiêu?",
+    "answer": "3,791"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Đâu là những phương pháp đưa ra quyết định dài hạn?",
+    "answer": "Đáp án cả A và B"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Các quyết định dài hạn thường bao gồm:",
+    "answer": "Quyết định mua máy mới, quyết định chọn công nghệ tự động hóa,quyết định thuê nhà xưởng dài hạn."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Các quyết định dài hạn thường bao gồm?",
+    "answer": "Quyết định mua máy mới, quyết định chọn công nghệ tự động hóa,quyết định thuê nhà xưởng dài hạn."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Ông Lò Văn Ăn muốn đi du lịch, năm nay ông 48 tuổi, sau 12 năm ông đi nghỉ với số tiền 40 triệu đồng. Với lãi suất 8% năm, hãy nghiên cứu giúp ông ngay bây giờ phải đầu tư bao nhiêu tiền để thực hiện ước mơ của mình ?.",
+    "answer": "13,88 triệu đồng."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Chi phí nền của SP, định giá theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí NCTT, CPNCTT và CPSX chung."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Khi định giá bán sản phẩm trong DN, nhà quản trị thường dựa trên các quy luật nào ?",
+    "answer": "Quy luật Cung – Cầu, quy luật giá trị và quy luật cạnh tranh."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX; 5.000 SP/năm.\nVậy mức chi phí tăng thêm theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ.."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Chi phí nền của SP, định giá theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí NCTT, CPNCTT và CPSX chung."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PPTT là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Thông tin thích hợp thường có những đặc điểm khi phân tích đưa ra quyết định ngắn hạn?",
+    "answer": "Thường là thông tin tài chính, dễ định lượng, có sự khác biệt giữa các phương án kinh doanh về doanh thu, chi phí và lợi nhuận.."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Thông tin thích hợp thường có những đặc điểm khi phân tích đưa ra quyết định ngắn hạn?",
+    "answer": "Thường là thông tin tài chính, dễ định lượng, có sự khác biệt giữa các phương án kinh doanh về doanh thu, chi phí và lợi nhuận.."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Công ty Thắng Lợi sản xuất và tiêu thụ đồng thời hai loại sản phẩm A và C. Sản phẩm C đang có lợi nhuận góp 100 triệu đồng và chi phí cố định trực tiếp 60 triệu đồng. Nếu dừng sản xuất sản phẩm C thì doanh thu A tăng, biết tỷ lệ LNG của A là 40%. Doanh thu A cần tăng tối thiểu bao nhiêu?",
+    "answer": "100 triệu đồng"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu X; tiền công máy 20.000 đ; khấu hao thiết bị 5.000đ (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu giá thuê ngoài là 40.000đ thì tiền công máy tối đa là bao nhiêu để thuê ngoài?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Công ty Thắng Lợi sản xuất và tiêu thụ đồng thời hai loại sản phẩm A và C. Sản phẩm C đang có lợi nhuận góp 100 triệu đồng và chi phí cố định trực tiếp 60 triệu đồng. Nếu dừng sản xuất sản phẩm C thì doanh thu A tăng 300 triệu, biết tỷ lệ LNG của A là 33,33%. Lợi nhuận sau khi dừng sản xuất C là bao nhiêu?",
+    "answer": "60 triệu đồng"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Một dự án mua sắm thiết bị có vốn đầu tư là 0,6 tỷ đồng và tổng thu sau 5 năm là 1 tỷ đồng. Ngoài ra năm thứ 3 thiết bị được bảo dưỡng định kỳ với chi phí 100 triệu đồng. Vậy NPV dự án là bao nhiêu? Biết lãi suất chiết khấu là 6%.",
+    "answer": "0,063 tỷ đồng"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Ông Lò Văn Cối được thừa kế tài sản của cụ Nội, 1 trong 4 phương án sau giúp ông nhận tiền?\nHãy giúp Ông chọn phương án tối ưu ? Biết lãi suất 1 năm 10%.",
+    "answer": "Mỗi năm nhận 20 triệu và nhận trong vòng 9 năm."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Công ty Sơn Lâm đang phân vân giữa 2 phương án mua sắm hay thuê ngoài một trạm trộn bê tông.\nPhương án 1: Giá mua thiết bị X tỷ đồng, thời gian sử dụng 15 năm, giá trị thanh lý 500 triệu đồng.\nPhương án 2: Thuê ngoài với chi phí 600 triệu/năm.\nX tối đa phải là bao nhiêu để doanh nghiệp mua thiết bị nếu lãi suất chiết khấu là 12%?",
+    "answer": "4,18 tỷ đồng"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Quyết định dài hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn lâu, vốn đầu tư lớn, thường xảy ra trong giai đoạn đầu tư, khó thay đổi, chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Công ty Sơn Lâm đang phân vân giữa 2 phương án mua sắm hay thuê ngoài một trạm trộn bê tông.\nPhương án 1: Giá mua thiết bị 4,5 tỷ đồng, thời gian sử dụng 15 năm, giá trị thanh lý 500 triệu đồng.\nPhương án 2: Thuê ngoài với chi phí Y tỷ đồng/năm.\nY tối thiểu phải là bao nhiêu để doanh nghiệp mua thiết bị nếu lãi suất chiết khấu là 12%?",
+    "answer": "647 triệu đồng"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Đâu là những phương pháp đưa ra quyết định dài hạn:",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Đâu là những phương pháp đưa ra quyết định dài hạn:",
+    "answer": "38.000 đồng"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Quyết định ngắn hạn thường có những đặc điểm nào?",
+    "answer": "Thời gian thu hồi vốn nhanh, thường xảy ra ở mọi giai đoạn trong hoạt động KD, dễ thay đổi, ít chịu ảnh hưởng bởi các chính sách kinh tế.."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nếu lãi suất vay vốn thực hiện dự án đầu tư là 10% và thời gian thực hiện dự án là 5 năm thì hệ số chiết khấu là bao nhiêu?",
+    "answer": "3,791"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Chi phí tăng thêm của giá bán hàng loạt theo phương pháp toàn bộ bao gồm?",
+    "answer": "Số tiền tăng thêm tính trên tổng chi phí sản xuất."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PPTT là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Giá bán sản phẩm trong DN có ý nghĩa tới các chỉ tiêu nào ?",
+    "answer": "Doanh thu bán hàng, lợi nhuận gộp và lợi nhuận thuần của DN."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm:",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Thông tin thích hợp thường có những đặc điểm khi phân tích đưa ra quyết định ngắn hạn?",
+    "answer": "Thường là thông tin tài chính, dễ định lượng, có sự khác biệt giữa các phương án kinh doanh về doanh thu, chi phí và lợi nhuận.."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 1.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Khi định giá bán sản phẩm trong DN, nhà quản trị thường dựa trên các quy luật nào ?",
+    "answer": "Quy luật giá trị, quy luật cạnh tranh, quy luật cung cầu."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường dựa trên những căn cứ nào ?",
+    "answer": "Chi phí sản xuất tạo ra SP, mục tiêu thu hồi vốn đầu tư và các nhân tố khác."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "38.000 đồng"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Trong trường hợp các bộ phận đều tăng một mức doanh thu như nhau, bộ phận nào có tỷ lệ số dư bộ phận cao thì?",
+    "answer": "Tốc độ tạo ra lợi nhuận nhanh hơn"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Chỉ tiêu Lợi nhuận thuần và ROS thường dùng để đánh giá trách nhiệm của Trung tâm nào ?",
+    "answer": "Trung tâm Lợi nhuận"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu 5.000; tiền công máy 20.000 đ; khấu hao thiết bị X (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu giá thuê ngoài là 40.000đ thì tiền công máy tối đa là bao nhiêu để thuê ngoài?",
+    "answer": "Không ảnh hưởng tới quyết định"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Chỉ tiêu RI thường dùng để đánh giá kết quả của Trung tâm nào ?",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Doanh thu hòa vốn thay đổi khi thay đổi cơ cấu sản phẩm tiêu thụ vì?",
+    "answer": "Tỷ lệ lợi nhuận góp bình quân thay đổi"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Phát biểu nào sau đây không chính xác?",
+    "answer": "Chi phí cố định luôn là thông tin không phù hợp cho quyết định ngắn hạn."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu 5.000đ; tiền công máy X; khấu hao thiết bị 5.000đ (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu giá thuê ngoài là 20.000đ thì tiền công máy tối đa là bao nhiêu để thuê ngoài?",
+    "answer": "15.000 đ"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường dựa trên những căn cứ nào ?",
+    "answer": "Chi phí sản xuất tạo ra SP, mục tiêu thu hồi vốn đầu tư và các nhân tố khác."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Khoản định phí sản xuất chung theo phương pháp xác định chi phí trực tiếp?",
+    "answer": "Được tính hết vào chi phí trong kỳ"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Chi phí gián tiếp thường là?",
+    "answer": "Chi phí sản xuất chung"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "38.000 đồng"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Công ty cơ khí Phú Hà đang phân vân giữa việc tự máy hoặc thuê máy gia công bởi các hộ sản xuất nhỏ lẻ. Chi phí bình quân cho một sản phẩm khi tự máy bao gồm: Vật liệu 5.000đ; tiền công máy 20.000; khấu hao thiết bị 5.000đ (các thiết bị này khó thanh lý được khi dừng sản xuất). Nếu thuê ngoài thì giá thuê cao nhất có thể là bao nhiêu?",
+    "answer": "30.000 đ"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Tổng Lợi nhuận của doanh nghiệp được xác định bằng?",
+    "answer": "Tổng lợi nhuận góp – tổng định phí bộ phận – tổng định phí chung"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Giá thành sản xuất SP theo phương pháp trực tiếp bao gồm?",
+    "answer": "CPNVLTT, CPNC trực tiếp và Biến phí SX chung"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Câu nào sau đây đúng?",
+    "answer": "Trung tâm lợi nhuận là trung tâm trách nhiệm mà người quản lý có quyền điều hành cả chi phí và lợi nhuận nhưng không có quyền điều hành sự phát sinh của vốn đầu tư."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "18.000 đồng"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Chi phí gián tiếp thường là?",
+    "answer": "Chi phí quản lý doanh nghiệp."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PPTT là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 2.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Công ty LNT có dự định sử dụng nguồn vốn từ quỹ đầu tư phát triển để mua sắm thiết bị. Tổng nguồn vốn là 500 triệu.\nPhương án 1: mua thiết bị vận tải mới có thời gian sử dụng 10 năm và cắt giảm được CP nhiên liệu 68 triệu/năm.\nPhương án 2: mua dây truyền sản xuất mới có thời gian sử dụng 5 năm và mỗi năm tiết kiệm 125 chi phí nguyên vật liệu và nhân công trực tiếp. Phương án nào được chọn dựa trên tỷ lệ sinh lời có điều chỉnh theo thời gian?",
+    "answer": "Phương án 2."
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PP toàn bộ là bao nhiêu ?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Giá bán sản phẩm trong DN có ý nghĩa tới các chỉ tiêu nào ?",
+    "answer": "Doanh thu bán hàng, lợi nhuận gộp và lợi nhuận thuần của DN."
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Giá thành sản xuất SP theo phương pháp trực tiếp bao gồm?",
+    "answer": "CPNVLTT, CPNC trực tiếp, Biến phí SX chung."
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Công ty Thăng Long trong kỳ sản xuất sản phẩm ( Đơn vị tính: đồng)\nSố lượng sản xuất hoàn thành: 10.000 sản phẩm\nNguyên vật liệu trực tiếp: 80.000.000\nNhân công trực tiếp: 55.000.000\nBiến phí sản xuất chung: 40.000.000\nĐịnh phí sản xuất chung: 65.000.000\nBiến phí bán hàng: 30.000.000\nĐịnh phí bán hàng: 20.000.000\nBiến phí quản lý doanh nghiệp: 15.000.000\nĐịnh phí quản lý doanh nghiệp: 45.000.000\nVốn kinh doanh bình quân: 200.000.000\nTỷ lệ hoàn vốn tối tiểu: 0,18\nNếu doanh nghiệp định giá theo phương pháp xác định chi phí trực tiếp thì tỷ lệ chi phí tăng thêm sẽ là?",
+    "answer": "75,46%"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "18.000 đồng"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX:\\ 5.000 SP/năm.\nVậy Giá bán SP theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "24.000 đ"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Đâu là trung tâm trách nhiệm Đầu tư ?",
+    "answer": "Hội đồng quản trị"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Quyết định chấp nhận hay từ chối đơn đặt hàng đặc biệt, nhà quản trị cần dựa vào?",
+    "answer": "Công suất máy móc thiết bị, ảnh hưởng của đơn đặt hàng,lợi nhuận doanh nghiệp"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Phát biểu nào không đúng về phương pháp xác định chi phí toàn bộ?",
+    "answer": "Định phí sản xuất chung được tính hết vào chi phí trong kỳ"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 1.600 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ."
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Giá thành sản xuất SP theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí NVL trực tiếp, CPNCTT và Chi phí SX chung."
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Khi so sánh hiệu quả sinh lời của hai dự án đầu tư dài hạn có sự khác biệt về quy mô vốn chúng ta nên dùng chỉ tiêu nào?",
+    "answer": "IRR"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Đâu là trung tâm trách nhiệm chi phí ?",
+    "answer": "Phân xưởng sản xuất"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PP toàn bộ là bao nhiêu ?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Theo phương pháp tính giá bán sản phẩm theo chi phí nguyên vật liệu và chi phí nhân công, giá bán sản phẩm gồm?",
+    "answer": "Chi phí nguyên vật liệu, giá nhân công theo định mức và số tiền tăng thêm so với giá nhân công định mức."
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Chi phí nền của SP, định giá theo phương pháp toàn bộ bao gồm",
+    "answer": "Chi phí NCTT, CPNCTT và CPSX chung."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Phát biểu nào không đúng về phương pháp xác định chi phí toàn bộ?",
+    "answer": "Định phí sản xuất chung được tính hết vào chi phí trong kỳ"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Báo cáo Bộ phận của doanh nghiệp có thể được lập?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "18.000 đồng"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Tại công ty Hoàng Sơn sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 5.000 đ. CPNCTT cho 1 SP: 3.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 1.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 1.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "18.000 đồng"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Nhận định nào không đúng về Chỉ tiêu ROI?",
+    "answer": "Được sử dụng để đánh giá kết quả của các trung tâm đầu tư"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Đâu là tiêu thức phân bổ chi phí bán hàng?",
+    "answer": "Doanh thu bán hàng từng sản phẩm"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Đâu là trung tâm trách nhiệm chi phí ?",
+    "answer": "Phân xưởng sản xuất"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Mục đích chính của việc phân chia doanh thu theo các tiêu thức khác nhau là giúp các nhà quản lý thấy rõ được mối quan hệ giữa",
+    "answer": "Chi phí, doanh thu và lợi nhuận ở từng mức hoạt động hay từng phạm vi kinh doanh khác nhau"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 2.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Giá thành sản xuất SP theo phương pháp toàn bộ bao gồm?",
+    "answer": "CPNVLTT, CPNC trực tiếp và CPSX chung."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "18.000 đồng"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Lợi nhuận bộ phận được xác định bằng?",
+    "answer": "Lợi nhuận góp – định phí bộ phận"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 2.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Trung tâm trách nhiệm chi phí thường phát sinh tại các DN nào ?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Trong trường hợp các bộ phận đều tăng một mức doanh thu như nhau, bộ phận nào có tỷ lệ số dư bộ phận cao thì?",
+    "answer": "Tốc độ tạo ra lợi nhuận nhanh hơn"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Đâu là tiêu thức phân bổ chi phí thuê nhà?",
+    "answer": "Diện tích mặt bằng sử dụng."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "18.000 đồng"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Phân tích biến động của chi phí thường dùng để đánh giá hiệu quả của Trung tâm nào ?",
+    "answer": "Trung tâm Chi phí"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Chỉ tiêu Lợi nhuận thuần và ROS thường dùng để đánh giá trách nhiệm của Trung tâm nào ?",
+    "answer": "Trung tâm Lợi nhuận"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Chỉ tiêu cho biết sau một kỳ hoạt động kinh doanh hoặc kỳ vọng cho kỳ tới, doanh nghiệp đầu tư 1 đồng vốn thì thu được bao nhiêu đồng lợi nhuận là chỉ tiêu?",
+    "answer": "ROI"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Tổng Lợi nhuận của doanh nghiệp được xác định bằng?",
+    "answer": "Tổng lợi nhuận góp – tổng định phí bộ phận – tổng định phí chung"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 1.600 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 1.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 1.600 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "38.000 đồng"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Chỉ tiêu nào không phản ánh kết quả của bộ phận?",
+    "answer": "Biến phí"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Tại công ty Hoàng Sơn sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 5.000 đ. CPNCTT cho 1 SP: 3.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 1.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Khoản định phí sản xuất chung theo phương pháp xác định chi phí trực tiếp?",
+    "answer": "Được tính hết vào chi phí trong kỳ"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Giá thành sản xuất SP theo phương pháp trực tiếp bao gồm?",
+    "answer": "CPNVLTT, CPNC trực tiếp, Biến phí SX chung."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Chỉ tiêu nào phản ánh kết quả của bộ phận?",
+    "answer": "Doanh thu"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Chỉ tiêu ROI thường dùng để đánh giá hiệu quả của Trung tâm nào ?",
+    "answer": "Trung tâm Đầu tư"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Giá thành sản xuất SP theo phương pháp toàn bộ bao gồm?",
+    "answer": "CPNVLTT, CPNC trực tiếp và CPSX chung"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Khi chọn tiêu thức phân bổ chi phí gián tiếp cần chú ý gì?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Sự vận động thông tin trong hệ thống báo cáo kế toán trách nhiệm?",
+    "answer": "Trình từ báo cáo thông tin trong hệ thống kế toán trách nhiệm bắt đầu từ cấp quản trị thấp nhất trong tổ chức cho đến cấp quản trị cao nhất ."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Nhận định nào không đúng về Tỷ lệ số dư bộ phận?",
+    "answer": "Được xác định bằng lợi nhuận góp chia cho doanh thu"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Đâu là trung tâm trách nhiệm Đầu tư ?",
+    "answer": "Hội đồng quản trị"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Khi chọn tiêu thức phân bổ chi phí gián tiếp cần chú ý gì?",
+    "answer": "Đáp án bao gồm A và B."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Khi chọn tiêu thức phân bổ chi phí gián tiếp cần chú ý gì?",
+    "answer": "Đáp án bao gồm A và B."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 2.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Tại công ty Hoàng Sơn sản xuất SP X không có SP tồn kho ĐK:",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Khi chọn tiêu thức phân bổ chi phí gián tiếp cần chú ý gì?",
+    "answer": "Không có đáp án nào đúng."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Mục đích chính của việc phân chia doanh thu theo các tiêu thức khác nhau là giúp?",
+    "answer": "Các nhà quản lý thấy rõ được mối quan hệ giữa chi phí, doanh thu và lợi nhuận ở từng mức hoạt động hay từng phạm vi kinh doanh khác nhau"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Căn cứ vào đâu để xác định một trung tâm trách nhiệm?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Đâu là trung tâm trách nhiệm doanh thu ?",
+    "answer": "Cửa hàng bán sản phẩm."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Chỉ tiêu ROS thường dùng để đánh giá hiệu quả của Trung tâm nào ?",
+    "answer": "Trung tâm Lợi nhuận"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 2.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Tại công ty Hoàng Sơn sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 5.000 đ. CPNCTT cho 1 SP: 3.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 1.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Tại công ty Hoàng Sơn sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 5.000 đ. CPNCTT cho 1 SP: 3.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 1.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 1.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Báo cáo Bộ phận của doanh nghiệp có thể được lập:",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Giá thành sản xuất SP theo phương pháp trực tiếp bao gồm?",
+    "answer": "Tất cả các đáp án trên."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Đâu là trung tâm trách nhiệm Lợi nhuận ?",
+    "answer": "Ban Giám đốc"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Giả thiết không có hàng tồn kho đầu kỳ, Khi số lượng sản phẩm sản xuất lớn hơn số lượng sản phẩm tiêu thụ?",
+    "answer": "Lợi nhuận phương pháp toàn bộ > lợi nhuận phương pháp trực tiếp"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Giá thành sản xuất SP theo phương pháp trực tiếp bao gồm?",
+    "answer": "CPNVLTT, CPNC trực tiếp và Biến phí SX chung"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Chỉ tiêu RI và ROI thường dùng để đánh giá trách nhiệm của Trung tâm nào ?",
+    "answer": "Trung tâm Đầu tư"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Câu nào không đúng về phương pháp xác định chi phí trực tiếp?",
+    "answer": "Chi phí sản xuất bao gồm Biến phí sản xuất và định phí sản xuất"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Câu nào sau đây đúng?",
+    "answer": "Trung tâm lợi nhuận là trung tâm trách nhiệm mà người quản lý có quyền điều hành cả chi phí và lợi nhuận nhưng không có quyền điều hành sự phát sinh của vốn đầu tư."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Giá thành sản xuất SP theo phương pháp toàn bộ bao gồm?",
+    "answer": "Cả 3 yếu tố trên."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "38.000 đồng"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Giá thành sản xuất SP theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí NVL trực tiếp, CPNCTT và Chi phí SX chung."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK:",
+    "answer": "Lợi nhuận PPTT  < LN PP toàn bộ."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Câu nào sau đây đúng?",
+    "answer": "Trung tâm chi phí là một trung tâm trách nhiệm mà nhà quản lý chỉ có quyền điều hành sự phát sinh của chi phí, không có quyền điều hành lợi nhuận và vốn đầu tư"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Bộ phận của doanh nghiệp có thể được hiểu?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Chỉ tiêu RI thường dùng để đánh giá kết quả của Trung tâm nào ?",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 1.600 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "38.000 đồng"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Giá thành sản xuất SP theo phương pháp trực tiếp bao gồm?",
+    "answer": "Chi phí NVL trực tiếp, CPNCTT và Biến phí SX chung."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Chi phí gián tiếp thường là?",
+    "answer": "Chi phí sản xuất chung"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Đâu là tiêu thức phân bổ chi phí gián tiếp?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Tại công ty Hoàng Sơn sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 5.000 đ. CPNCTT cho 1 SP: 3.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 1.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X?\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Phân tích biến động của doanh thu thường dùng để đánh giá hiệu quả của Trung tâm nào ?",
+    "answer": "Trung tâm Doanh thu"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp toàn bộ là bao nhiêu ?",
+    "answer": "38.000 đồng"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 1.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 10.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 10.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 1.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Đâu không là đặc điểm của Báo cáo bộ phận ?",
+    "answer": "Chỉ Nhằm cung cấp cho Giám đốc doanh nghiệp"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Câu nào không đúng về phương pháp xác định chi phí trực tiếp?",
+    "answer": "Chi phí sản xuất bao gồm Biến phí bán hàng và biến phí quản lý doanh nghiệp"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Các Chỉ tiêu nào phản ánh hiệu quả của bộ phận?",
+    "answer": "Tỷ lệ lợi nhuận góp và Tỷ lệ số dư bộ phận"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X:\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Chi phí gián tiếp thường là?",
+    "answer": "Chi phí bán hàng cho nhiều sản phẩm"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Chi phí gián tiếp thường là?",
+    "answer": "Chi phí quản lý doanh nghiệp."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "18.000 đồng"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Tại công ty A sản xuất SP X?\nCPNVLTT cho 1 SP: 20.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 100.000.000 đ.\nSản lượng SP sản xuất: 10.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "28.000 đồng"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Giá thành sản xuất SP theo phương pháp toàn bộ bao gồm?",
+    "answer": "CPNVLTT, CPNC trực tiếp và CPSX chung."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Khi chọn tiêu thức phân bổ chi phí gián tiếp cần chú ý gì?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Phân tích biến động của chi phí thường dùng để đánh giá hiệu quả của Trung tâm nào ?",
+    "answer": "Trung tâm Chi phí"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Tại công ty Minh Anh sản xuất SP X:\nCPNVLTT cho 1 SP: 10.000 đ.\nCPNCTT cho 1 SP: 5.000 đ.\nBiến phí SX chung cho 1 SP: 3.000 đ.\nBiến phí bán hàng cho 1 SP: 2.000 đ.\nTổng Định phí sản xuất: 10.000.000 đ.\nSản lượng SP sản xuất: 1.000 SP.\nGiá thành SX 1 sản phẩm theo phương pháp trực tiếp là bao nhiêu ?",
+    "answer": "18.000 đồng"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Tại công ty Hoàng Sơn sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 5.000 đ. CPNCTT cho 1 SP: 3.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 1.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 1.000 SP, tiêu thụ 800 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ ?",
+    "answer": "Lợi nhuận PPTT < LN PP toàn bộ."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK:",
+    "answer": "Lợi nhuận PPTT  < LN PP toàn bộ."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Tại công ty Tú Anh sản xuất SP X không có SP tồn kho ĐK: CPNVLTT cho 1 SP: 15.000 đ. CPNCTT cho 1 SP: 5.000 đ. Biến phí SX chung cho 1 SP: 3.000 đ. Biến phí bán hàng cho 1 SP: 2.000 đ. Tổng Định phí sản xuất: 5.000.000 đ. Sản lượng SP sản xuất: 2.000 SP, tiêu thụ 2.000 SP. So sánh Lợi nhuận của BCKQKD theo PP trực tiếp và PP toàn bộ?",
+    "answer": "Lợi nhuận PPTT = LN PP toàn bộ."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí NCTT, CPNCTT và CPSX chung."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PP toàn bộ là bao nhiêu ?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm:",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Công ty Thăng Long trong kỳ sản xuất sản phẩm ( Đơn vị tính: đồng)\nSố lượng sản xuất hoàn thành: 10.000 sản phẩm\nNguyên vật liệu trực tiếp: 80.000.000\nNhân công trực tiếp: 55.000.000\nBiến phí sản xuất chung: 40.000.000\nĐịnh phí sản xuất chung: 65.000.000\nBiến phí bán hàng: 30.000.000\nĐịnh phí bán hàng: 20.000.000\nBiến phí quản lý doanh nghiệp: 15.000.000\nĐịnh phí quản lý doanh nghiệp: 45.000.000\nVốn kinh doanh bình quân: 200.000.000\nTỷ lệ hoàn vốn tối tiểu: 0,18\nNếu doanh nghiệp định giá theo phương pháp xác định chi phí trực tiếp thì chi phí tăng thêm đơn vị sản phẩm sẽ là?",
+    "answer": "16.600 đồng"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy Giá bán SP theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "24.000 đ"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Giá bán linh hoạt bao gồm?",
+    "answer": "Biến phí và phần tiền cộng thêm."
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Công ty Thăng Long trong kỳ sản xuất sản phẩm (Đơn vị tính: đồng)\nSố lượng sản xuất hoàn thành: 10.000 sản phẩm\nNguyên vật liệu trực tiếp: 80.000.000\nNhân công trực tiếp: 55.000.000\nBiến phí sản xuất chung: 40.000.000\nĐịnh phí sản xuất chung: 65.000.000\nBiến phí bán hàng: 30.000.000\nĐịnh phí bán hàng: 20.000.000\nBiến phí quản lý doanh nghiệp : 15.000.000\nĐịnh phí quản lý doanh nghiệp: 45.000.000\nVốn kinh doanh bình quân: 200.000.000\nTỷ lệ hoàn vốn tối tiểu: 0,18.\nNếu doanh nghiệp định giá theo phương pháp xác định chi phí trực tiếp thì tổng chi phí tăng thêm sẽ là?",
+    "answer": "166.000.000 đồng"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí NCTT, CPNCTT và CPSX chung."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PPTT là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ.."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Tỷ lệ % tăng thêm so với chi phí nền theo phương pháp toàn bộ được tính bằng?",
+    "answer": "(Mức hoàn vốn đầu tư mong muốn + Chi phí bán hàng và chi phí quản lý doanh nghiệp)/Tổng chi phí sản xuất."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Chi phí tăng thêm của giá bán hàng loạt theo phương pháp toàn bộ bao gồm?",
+    "answer": "Số tiền tăng thêm tính trên tổng chi phí sản xuất."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy mức chi phí tăng thêm theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PPTT là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Giá bán sản phẩm trong DN có ý nghĩa tới các chỉ tiêu nào ?",
+    "answer": "Doanh thu bán hàng, lợi nhuận gộp và lợi nhuận thuần của DN."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Bao gồm tất cả các yếu tố trên"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Tỷ lệ % tăng thêm so với chi phí nền theo phương pháp toàn bộ được tính bằng?",
+    "answer": "(Vốn đầu tư × Tỷ lệ % hoàn vốn) + Chi phí bán hàng và chi phí quản lý doanh nghiệp)/Tổng chi phí sản xuất."
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy tỷ lệ tăng thêm so với chi phí nền định giá theo PP trực tiếp là bao nhiêu ?",
+    "answer": "100 %"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Công ty Thăng Long trong kỳ sản xuất sản phẩm ( Đơn vị tính: đồng)\nSố lượng sản xuất hoàn thành: 10.000 sản phẩm\nNguyên vật liệu trực tiếp: 80.000.000\nNhân công trực tiếp: 55.000.000\nBiến phí sản xuất chung: 40.000.000\nĐịnh phí sản xuất chung: 65.000.000\nBiến phí bán hàng: 30.000.000\nĐịnh phí bán hàng: 20.000.000\nBiến phí quản lý doanh nghiệp: 15.000.000\nĐịnh phí quản lý doanh nghiệp: 45.000.000\nVốn kinh doanh bình quân: 200.000.000\nTỷ lệ hoàn vốn tối tiểu: 0,18\nNếu doanh nghiệp định giá theo phương pháp xác định chi phí trực tiếp thì tỷ lệ chi phí tăng thêm sẽ là?",
+    "answer": "75,46%"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX; 5.000 SP/năm.\nVậy mức chi phí tăng thêm theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường dựa trên những căn cứ nào ?",
+    "answer": "Chi phí sản xuất tạo ra SP, mục tiêu thu hồi vốn đầu tư và các nhân tố khác."
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PP toàn bộ là bao nhiêu ?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy Giá bán SP theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "24.000 đ"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường dựa trên những căn cứ nào ?",
+    "answer": "Chi phí sản xuất tạo ra SP, mục tiêu thu hồi vốn đầu tư và các nhân tố khác."
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong DN, nhà quản trị thường dựa trên các quy luật nào ?",
+    "answer": "Quy luật cạnh tranh, quy luật giá trị và quy luật cung cầu."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX:\\ 5.000 SP/năm.\nVậy Giá bán SP theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "24.000 đ"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PP toàn bộ là bao nhiêu ?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong DN, nhà quản trị thường dựa trên các quy luật nào ?",
+    "answer": "Quy luật Cung – Cầu, quy luật giá trị và quy luật cạnh tranh."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Chi phí tăng thêm của giá bán hàng loạt theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí bán hàng, chi phí quản lý doanh nghiệp và phần dôi ra để thu hồi vốn đầu tư theo mong muốn của các nhà quản trị."
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp toàn bộ bao gồm",
+    "answer": "Chi phí NCTT, CPNCTT và CPSX chung."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ."
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Doanh thu hòa vốn thay đổi khi thay đổi cơ cấu sản phẩm tiêu thụ vì?",
+    "answer": "Tỷ lệ lợi nhuận góp bình quân thay đổi"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Công ty Thăng Long trong kỳ sản xuất sản phẩm (Đơn vị tính: đồng)\nSố lượng sản xuất hoàn thành:10.000 sản phẩm\nNguyên vật liệu trực tiếp: 80.000.000\nNhân công trực tiếp: 55.000.000\nBiến phí sản xuất chung: 40.000.000\nĐịnh phí sản xuất chung: 65.000.000\nBiến phí bán hàng:\\ 30.000.000\nĐịnh phí bán hàng: 20.000.000\nBiến phí quản lý doanh nghiệp:\\ 15.000.000\nĐịnh phí quản lý doanh nghiệp:\\ 45.000.000\nVốn kinh doanh bình quân:\\ 200.000.000\nTỷ lệ hoàn vốn tối tiểu: 0,18.\nNếu doanh nghiệp định giá theo phương pháp xác định chi phí trực tiếp thì đơn giá bán sẽ là?",
+    "answer": "38.600 đồng"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Theo phương pháp tính giá bán sản phẩm theo chi phí nguyên vật liệu và chi phí nhân công, giá bán sản phẩm gồm?",
+    "answer": "Chi phí nguyên vật liệu, giá nhân công theo định mức và số tiền tăng thêm so với giá nhân công định mức."
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường dựa trên những căn cứ nào ?",
+    "answer": "Chi phí sản xuất tạo ra SP, mục tiêu thu hồi vốn đầu tư và các nhân tố khác."
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PPTT là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong DN, nhà quản trị thường dựa trên các quy luật nào ?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong DN, nhà quản trị thường dựa trên các quy luật nào ?",
+    "answer": "Quy luật Cung – Cầu, quy luật cạnh tranh, quy luật giá trị"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ."
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong DN, nhà quản trị thường dựa trên các quy luật nào ?",
+    "answer": "Quy luật giá trị, quy luật cạnh tranh, quy luật cung cầu."
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Giá bán sản phẩm trong DN có ý nghĩa tới các chỉ tiêu nào ?",
+    "answer": "Doanh thu bán hàng, lợi nhuận gộp và lợi nhuận thuần của DN."
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy Giá bán SP theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "24.000 đ"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Giá bán sản phẩm trong DN có ý nghĩa tới các chỉ tiêu nào ?",
+    "answer": "Doanh thu bán hàng, lợi nhuận gộp và lợi nhuận thuần của DN."
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Giá bán sản phẩm trong DN có ý nghĩa tới các chỉ tiêu nào ?",
+    "answer": "Doanh thu bán hàng, lợi nhuận gộp và lợi nhuận thuần của DN."
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy mức chi phí tăng thêm theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí NCTT, CPNCTT và CPSX chung."
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX; 5.000 SP/năm.\nVậy tỷ lệ tăng thêm so với chi phí nền định giá theo PP trực tiếp là bao nhiêu ?",
+    "answer": "100 %"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường dựa trên những căn cứ nào ?",
+    "answer": "Chi phí sản xuất tạo ra SP, mục tiêu thu hồi vốn đầu tư và các nhân tố khác"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy tỷ lệ tăng thêm so với chi phí nền định giá theo PP trực tiếp là bao nhiêu ?",
+    "answer": "100 %"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PPTT là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PP toàn bộ là bao nhiêu ?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy mức chi phí tăng thêm theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm."
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX; 5.000 SP/năm.\nVậy tỷ lệ tăng thêm so với chi phí nền định giá theo PP trực tiếp là bao nhiêu ?",
+    "answer": "100 %"
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Công ty Thăng Long trong kỳ sản xuất sản phẩm (Đơn vị tính: đồng)\nSố lượng sản xuất hoàn thành: 10.000 sản phẩm\nNguyên vật liệu trực tiếp: 80.000.000\nNhân công trực tiếp: 55.000.000\nBiến phí sản xuất chung: 40.000.000\nĐịnh phí sản xuất chung: 65.000.000\nBiến phí bán hàng: 30.000.000\nĐịnh phí bán hàng: 20.000.000\nBiến phí quản lý doanh nghiệp : 15.000.000\nĐịnh phí quản lý doanh nghiệp: 45.000.000\nVốn kinh doanh bình quân: 200.000.000\nTỷ lệ hoàn vốn tối tiểu: 0,18.\nNếu doanh nghiệp định giá theo phương pháp xác định chi phí trực tiếp thì tổng chi phí tăng thêm sẽ là?",
+    "answer": "166.000.000 đồng"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX; 5.000 SP/năm.\nVậy mức chi phí tăng thêm theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PP toàn bộ là bao nhiêu ?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy tỷ lệ tăng thêm so với chi phí nền định giá theo PP trực tiếp là bao nhiêu ?",
+    "answer": "100 %"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy Giá bán SP theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "24.000 đ"
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Bao gồm tất cả các yếu tố trên"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ.."
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Công ty Thăng Long trong kỳ sản xuất sản phẩm (Đơn vị tính: đồng)\nSố lượng sản xuất hoàn thành:10.000 sản phẩm\nNguyên vật liệu trực tiếp: 80.000.000\nNhân công trực tiếp: 55.000.000\nBiến phí sản xuất chung: 40.000.000\nĐịnh phí sản xuất chung: 65.000.000\nBiến phí bán hàng:\\ 30.000.000\nĐịnh phí bán hàng: 20.000.000\nBiến phí quản lý doanh nghiệp:\\ 15.000.000\nĐịnh phí quản lý doanh nghiệp:\\ 45.000.000\nVốn kinh doanh bình quân:\\ 200.000.000\nTỷ lệ hoàn vốn tối tiểu: 0,18.\nNếu doanh nghiệp định giá theo phương pháp xác định chi phí trực tiếp thì đơn giá bán sẽ là?",
+    "answer": "38.600 đồng"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PPTT là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Giá bán sản phẩm trong DN có ý nghĩa tới các chỉ tiêu nào ?",
+    "answer": "Doanh thu bán hàng, lợi nhuận gộp và lợi nhuận thuần của DN."
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy mức chi phí tăng thêm theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm:",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Giá bán sản phẩm trong DN có ý nghĩa tới các chỉ tiêu nào ?",
+    "answer": "Doanh thu bán hàng, lợi nhuận gộp và lợi nhuận thuần của DN."
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Theo phương pháp tính giá bán sản phẩm theo chi phí nguyên vật liệu và chi phí nhân công, giá bán sản phẩm gồm?",
+    "answer": "Chi phí nguyên vật liệu, giá nhân công theo định mức và số tiền tăng thêm so với giá nhân công định mức."
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Công ty Thăng Long trong kỳ sản xuất sản phẩm ( Đơn vị tính: đồng)\nSố lượng sản xuất hoàn thành: 10.000 sản phẩm\nNguyên vật liệu trực tiếp: 80.000.000\nNhân công trực tiếp: 55.000.000\nBiến phí sản xuất chung: 40.000.000\nĐịnh phí sản xuất chung: 65.000.000\nBiến phí bán hàng: 30.000.000\nĐịnh phí bán hàng: 20.000.000\nBiến phí quản lý doanh nghiệp: 15.000.000\nĐịnh phí quản lý doanh nghiệp: 45.000.000\nVốn kinh doanh bình quân: 200.000.000\nTỷ lệ hoàn vốn tối tiểu: 0,18\nNếu doanh nghiệp định giá theo phương pháp xác định chi phí trực tiếp thì chi phí tăng thêm đơn vị sản phẩm sẽ là?",
+    "answer": "16.600 đồng"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PP toàn bộ là bao nhiêu ?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PP toàn bộ là bao nhiêu ?",
+    "answer": "Doanh thu bán hàng, lợi nhuận gộp và lợi nhuận thuần của DN."
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong DN, nhà quản trị thường dựa trên các quy luật nào ?",
+    "answer": "Quy luật cạnh tranh, quy luật giá trị và quy luật cung cầu."
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí NCTT, CPNCTT và CPSX chung."
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Tỷ lệ % tăng thêm so với chi phí nền theo phương pháp toàn bộ được tính bằng?",
+    "answer": "(Mức hoàn vốn đầu tư mong muốn + Chi phí bán hàng và chi phí quản lý doanh nghiệp)/Tổng chi phí sản xuất."
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ."
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX:\\ 5.000 SP/năm.\nVậy Giá bán SP theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "24.000 đ"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường dựa trên những căn cứ nào ?",
+    "answer": "Chi phí sản xuất tạo ra SP, mục tiêu thu hồi vốn đầu tư và các nhân tố khác."
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX; 5.000 SP/năm.\nVậy tỷ lệ tăng thêm so với chi phí nền định giá theo PP trực tiếp là bao nhiêu ?",
+    "answer": "100 %"
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong DN, nhà quản trị thường dựa trên các quy luật nào ?",
+    "answer": "Quy luật Cung – Cầu, quy luật giá trị và quy luật cạnh tranh."
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PP toàn bộ là bao nhiêu ?",
+    "answer": "20.000 đ"
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Nhân tố nào ảnh hưởng tới giá bán sản phẩm trong DN ?",
+    "answer": "Mục tiêu của nhà quản trị, môi trường kinh doanh và các chính sách kinh tế vĩ mô của Chính Phủ."
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX; 5.000 SP/năm.\nVậy tỷ lệ tăng thêm so với chi phí nền định giá theo PP trực tiếp là bao nhiêu ?",
+    "answer": "100 %"
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy tỷ lệ tăng thêm so với chi phí nền định giá theo PP trực tiếp là bao nhiêu ?",
+    "answer": "100 %"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 12%/năm. Sản lượng SPSX: 5.000 SP/năm.\nVậy Giá bán SP theo định giá của PP trực tiếp là bao nhiêu ?",
+    "answer": "24.000 đ"
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Công ty Hoa Mai sản xuất SP A, CPNVLTT 1 SP: 5.000 đ, CPNCTT 1 SP: 3.000đ, Biến phí SX chung 1 SP: 2.000 đ, Biến phí bán hàng 1 SP: 2.000 đ, Định phí SX 1 SP: 10.000 đ. Vốn đầu tư 100 triệu đ, tỷ lệ hoàn vốn mong muốn 20%.\nVậy chi phí nền 1 SP định giá theo PPTT là bao nhiêu ?",
+    "answer": "12.000 đ"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp trực tiếp bao gồm?",
+    "answer": "Chi phí NVLTT, CPNCTT và biến phí khác."
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Chi phí nền của SP, định giá theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí NCTT, CPNCTT và CPSX chung."
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Khi định giá bán sản phẩm trong dài hạn, nhà quản trị thường coi trọng yếu tố nào ?",
+    "answer": "Chi phí sản xuất tạo ra sản phẩm"
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Chi phí tăng thêm của giá bán hàng loạt theo phương pháp toàn bộ bao gồm?",
+    "answer": "Chi phí bán hàng, chi phí quản lý doanh nghiệp và phần dôi ra để thu hồi vốn đầu tư theo mong muốn của các nhà quản trị."
+  }
+]

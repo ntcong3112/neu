@@ -157,7 +157,7 @@ const Customizer: FC = () => {
             {/* ------------------------------------------- */}
             {/* ------------ RTL theme setting -------------*/}
             {/* ------------------------------------------- */}
-            <Typography variant="h6" gutterBottom>
+            {/* <Typography variant="h6" gutterBottom>
               Theme Direction
             </Typography>
             <Stack direction={'row'} gap={2} my={2}>
@@ -175,7 +175,7 @@ const Customizer: FC = () => {
               </StyledBox>
             </Stack>
 
-            <Box pt={3} />
+            <Box pt={3} /> */}
             {/* ------------------------------------------- */}
             {/* ------------ Theme Color setting ------------- */}
             {/* ------------------------------------------- */}
@@ -211,7 +211,7 @@ const Customizer: FC = () => {
             {/* ------------------------------------------- */}
             {/* ------------ Layout Horizontal / Vertical ------------- */}
             {/* ------------------------------------------- */}
-            <Typography variant="h6" gutterBottom>
+            {/* <Typography variant="h6" gutterBottom>
               Layout Type
             </Typography>
             <Stack direction={'row'} gap={2} my={2}>
@@ -225,8 +225,8 @@ const Customizer: FC = () => {
                 <PaddingTwoTone color={customizer.isHorizontal === true ? 'primary' : 'inherit'} />
                 Horizontal
               </StyledBox>
-            </Stack>
-            <Box pt={4} />
+            </Stack> */}
+            {/* <Box pt={4} /> */}
             {/* ------------------------------------------- */}
             {/* ------------ Layout Boxed / Full ------------- */}
             {/* ------------------------------------------- */}
@@ -255,7 +255,7 @@ const Customizer: FC = () => {
             {/* ------------------------------------------- */}
             {/* ------------ Theme Color setting ------------- */}
             {/* ------------------------------------------- */}
-            {customizer.isHorizontal ? (
+            {/* {customizer.isHorizontal ? (
               ''
             ) : (
               <>
@@ -288,7 +288,7 @@ const Customizer: FC = () => {
                 Shadow
               </StyledBox>
             </Stack>
-            <Box pt={4} />
+            <Box pt={4} /> */}
             {/* ------------------------------------------- */}
             {/* ------------ Theme Color setting ------------- */}
             {/* ------------------------------------------- */}

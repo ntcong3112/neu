@@ -16,16 +16,7 @@ const BCrumb = [
 ];
 
 const SearchTable = () => {
-  return (
-    <PageContainer title="Search Table" description="this is Search Table page">
-      {/* breadcrumb */}
-      <Breadcrumb title="Search Table" items={BCrumb} />
-      {/* end breadcrumb */}
-      <Box>
-        <ProductTableList />
-      </Box>
-    </PageContainer>
-  );
+  return <ProductTableList />;
 };
 
 export default SearchTable;

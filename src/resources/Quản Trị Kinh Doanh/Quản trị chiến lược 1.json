@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Quản trị chiến lược trong doanh nghiệp là một quy trình thế nào?",
+    "answer": "Tuần hoàn liên tục"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Được thể hiện thông qua kết quả của việc hoạch định, thực thi và đánh giá chiến lược được thiết kế nhằm đạt được các mục tiêu dài hạn của tổ chức, đặc trưng của quản trị chiến lược là một:",
+    "answer": "Tập hợp các quyết định và hành động"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Giai đoạn thực thi chiến lược (theo mô hình của Fred David) bao gồm bao nhiêu nội dung?",
+    "answer": "3"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Các cấp chiến lược trong doanh nghiệp bao gồm:",
+    "answer": "Cấp doanh nghiệp, cấp kinh doanh, cấp chức năng"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Những nội dung nào sau đây KHÔNG thuộc giai đoạn hoạch định chiến lược:",
+    "answer": "Kiểm tra, kiểm soát quá trình hành động"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Phân chia mục tiêu theo thời gian có:",
+    "answer": "Mục tiêu ngắn hạn, trung hạn và dài hạn"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Nhóm yêu sách nội bộ gồm",
+    "answer": "Ban giám đốc, công đoàn, nhân viên"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Xác định tầm nhìn là nhiệm vụ chính yếu của:",
+    "answer": "Nhà lãnh đạo, chiến lược gia, Ban giám đốc"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Mục tiêu thứ cấp của doanh nghiệp KHÔNG phải là:",
+    "answer": "Phúc lợi công cộng"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Doanh nghiệp đa ngành xác định lĩnh vực kinh doanh theo:",
+    "answer": "Định hướng danh mục vốn đầu tư"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Trước nguy cơ đe dọa từ đối thủ cạnh tranh tiềm ẩn, các doanh nghiệp trong ngành thường:",
+    "answer": "Hợp tác với nhau để ngăn cản các đối thủ tiềm ẩn gia nhập."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Việc phân tích môi trường kinh doanh bên ngoài của doanh nghiệp KHÔNG hướng đến mục tiêu nào dưới đây:",
+    "answer": "Chỉ ra những điểm mạnh và điểm yếu."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Cường độ và mức độ cạnh tranh trong một ngành sản xuất phụ thuộc vào những yếu tố nào dưới đây:",
+    "answer": "Cấu trúc ngành, tình trạng cầu của ngành và rào cản rút lui khỏi ngành."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Mức độ cạnh tranh trong một ngành kinh doanh tăng lên khi:",
+    "answer": "Tốc độ tăng trưởng ngành giảm"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Các đối thủ tiềm ẩn bao gồm lực lượng nào dưới đây:",
+    "answer": "Doanh nghiệp có khả năng gia nhập ngành."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Năng lực cốt lõi cần phải thỏa mãn các tiêu chí",
+    "answer": "Ưu thế, khó bắt chước, đáng giá, độ bền, khó thay thế."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Nguồn lực của doanh nghiệp là:",
+    "answer": "Những yếu tố đầu vào của quá trình sản xuất kinh doanh."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Doanh nghiệp có vốn đầu tư 1 triệu USD với tỷ suất sinh lời 7% một năm được coi là?",
+    "answer": "Năng lực tài chính."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Năng lực cốt lõi của doanh nghiệp là?",
+    "answer": "Năng lực tốt nhất so với các năng lực khác trong doanh nghiệp."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Trong chuỗi giá trị của M. Porter, hoạt động nào dưới đây KHÔNG thuộc nhóm hoạt động cơ bản:",
+    "answer": "Quản trị nguồn nhân lực."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Các loại hình chiến lược cạnh tranh tổng quát theo quan điểm của M. Porter bao gồm:",
+    "answer": "Dẫn đầu về chi phí, đa dạng hóa và trọng tâm hóa."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Sự thay đổi về công nghệ là rủi ro khi theo đuổi chiến lược nào dưới đây:",
+    "answer": "Khác biệt hóa."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Chiến lược chức năng có những đặc tính nào dưới đây:",
+    "answer": "Ngắn hạn, tác nghiệp, linh hoạt cao, cụ thể cao."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Chiến lược củng cố là",
+    "answer": "Nhằm bảo toàn sức mạnh trên thị trường"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Ưu điểm của chiến lược dẫn đầu về chi phí là:",
+    "answer": "Dễ dàng chịu đựng được khi có sức ép tăng giá từ phía nhà cung cấp và phân phối."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Theo ma trận BCG, tổ hợp kinh doanh nào dước đây được đánh giá là có tiềm năng tăng trưởng cao?",
+    "answer": "Pa:A"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Ma trận BCG được xây dựng trên cơ sở 2 biến số về:",
+    "answer": "Thị phần tương đối & tốc độ tăng trưởng"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Ma trận BCG do tác giả nào xây dựng?",
+    "answer": "Nhóm tư vấn Boston"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm yếu và cơ hội là sự kết hợp giữa",
+    "answer": "OW"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Theo ma trận BCG, tổ hợp kinh doanh nào dước đây được đánh giá là \"Trẻ\"?",
+    "answer": "Pa:A"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nokia chia doanh nghiệp thành 3 SBU gồm: SBU1-Điện thoại bình dân, SBU2- Điện thoại N-series, SBU3- Điện thoại E-series. Đây là cách phân loại đơn vị kinh doanh chiến lược theo tiêu thức?",
+    "answer": "Sản phẩm có sự khác biệt về đối tượng khách hàng"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây không phải là nhân tố cấu thành nên chiến lược của doanh nghiệp:",
+    "answer": "Chiến lược của đối thủ canh tranh tiềm ẩn"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Đánh giá môi trường bên trong nhằm xác định",
+    "answer": "Điểm mạnh, điểm yếu"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Mô hình quản trị chiến lược tổng quát được chia ra làm mấy giai đoạn:",
+    "answer": "3"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp trả lời cho câu hỏi nào dưới đây:",
+    "answer": "Doanh nghiệp tăng trưởng và phát triển như thế nào trong tương lai?"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Các yếu tố chủ yếu trong việc xác định ngành kinh doanh của doanh nghiệp đơn ngành:",
+    "answer": "Sản phẩm, khách hàng và công nghệ"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Thành tích và thái độ làm việc của nhân viên là loại mục tiêu:",
+    "answer": "Mục tiêu hàng thứ"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Mục tiêu nào sau đây KHÔNG phải là mục tiêu chiến lược của doanh nghiệp?",
+    "answer": "Giá thành sản xuất cao hơn đối thủ cạnh tranh"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Đây là nhóm hậu thuẫn bên ngoài NGOẠI TRỪ:",
+    "answer": "Khách hàng, công đoàn, chính quyền"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Mục tiêu nào KHÔNG phải là mục tiêu hàng đầu của doanh nghiệp?",
+    "answer": "Thị phần"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Các lực lượng cạnh tranh trong mô hình của Porter KHÔNG bao gồm:",
+    "answer": "Nguồn lực thay thế chiến lược"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Đe dọa từ đối thủ cạnh tranh tiềm ẩn có xu hướng mạnh lên trong trường hợp nào dưới đây:",
+    "answer": "Sản phẩm hiện tại ít có sự khác biệt."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Nhóm môi trường chính trị - pháp luật bao gồm tất cả các yếu tố dưới đây TRỪ:",
+    "answer": "Thói quen tiêu dùng"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Người mua trong một ngành bao gồm lực lượng nào dưới đây:",
+    "answer": "Các nhà phân phối, mua công nghiệp và người tiêu dùng cuối cùng"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây KHÔNG thuộc môi trường kinh tế:",
+    "answer": "Chu kỳ công nghệ/ngành kinh doanh"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Nguồn lực hữu hình của doanh nghiệp là:",
+    "answer": "Cơ sở vật chất, quy mô nhân sự,..."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Doanh nghiệp có lợi thế cạnh tranh bền vững:",
+    "answer": "Doanh nghiệp duy trì được tỷ lệ lợi nhuận cao hơn tỷ lệ bình quân trong ngành trong một khoảng thời gian dài."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Hoạt động nào dưới đây thuộc nhóm hoạt động bổ trợ trong chuỗi giá trị của M. Porter",
+    "answer": "Quản trị thu mua"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Các yếu tố sau đây có thể tối đa hóa hoạt động của chuỗi cung ứng TRỪ:",
+    "answer": "Sử dụng thuê mua bên ngoài."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Năng lực vượt trội là kết quả của:",
+    "answer": "Quá trình đầu tư nguồn lực, thời gian và chi phí."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp có những đặc tính nào dưới đây:",
+    "answer": "Dài hạn, định hướng, linh hoạt và ít cụ thể."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Chiến lược người dẫn đầu là",
+    "answer": "Chiến lược doanh nghiệp thủ lĩnh thường áp dụng trong trường hợp ngành suy thoái."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Về mặt kỹ năng và nguồn lực, chiến lược khác biệt hóa đòi hỏi doanh nghiệp phải có:",
+    "answer": "Năng lực nghiên cứu phát triển và năng lực marketing vượt trội các đối thủ cạnh tranh."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Chiến lược của doanh nghiệp trong từng thời kỳ:",
+    "answer": "Là một hệ thống thống nhất, hợp lý, linh hoạt."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Chiến lược kinh doanh có vai trò như thế nào trong doanh nghiệp:",
+    "answer": "Kim chỉ nam dẫn dắt mọi hoạt động của doanh nghiệp."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm mạnh và đe dọa là sự kết hợp giữa",
+    "answer": "ST."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm yếu và đe dọa là sự kết hợp giữa",
+    "answer": "WT"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Đặc điểm của ô “Ngôi sao” trong ma trận BCG là:",
+    "answer": "Lợi nhuận cao – nhu cầu tài chính lớn"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm mạnh và cơ hội là sự kết hợp giữa",
+    "answer": "SO."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Ma trận BCG dùng để phân tích, đánh giá vị thế cạnh tranh của:",
+    "answer": "Các đơn vị kinh doanh chiến lược"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Vai trò hoạch định chiến lược của doanh nghiệp ít quan trọng đối với đối tượng nào nhất?",
+    "answer": "Nhà cung cấp"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Quản trị chiến lược có thể được áp dụng trong những loại hình doanh nghiệp nào?",
+    "answer": "Doanh nghiệp nào cũng cần"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Một đơn vị kinh doanh riêng lẻ hoặc trên một tập hợp các ngành kinh doanh có liên quan (cặp sản phẩm/thị trường), có thể được hoạch định riêng biệt với các phần còn lại của doanh nghiệp là gì?",
+    "answer": "Đơn vị kinh doanh chiến lược"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Unilever chia doanh nghiệp thành 4 SBU gồm: SBU1-Clear, SBU2- Omo, SBU3-Sunsilk, SBU4-Surf. Đây là cách phân loại đơn vị kinh doanh chiến lược theo tiêu thức?",
+    "answer": "Sản phẩm có sự khác biệt về nhãn hiệu"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Yếu tố nào sau đây KHÔNG phải là đặc trưng của chiến lược?",
+    "answer": "Các quyết định chiến lược phản ánh kết quả kinh doanh của DN"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Mô hình D. Abell là:",
+    "answer": "Mô hình xác định lĩnh vực kinh doanh"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Căn cứ vào các bộ phận, nhóm khác nhau trong doanh nghiệp có các mục tiêu của:",
+    "answer": "Ban giám đốc, cổ đông, người lao động"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Yêu cầu của xác định mục tiêu:",
+    "answer": "Phải xác định rõ mục tiêu ưu tiên trong từng giai đoạn"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Xác định lĩnh vực kinh doanh phải trả lời câu hỏi, NGOẠI TRỪ:",
+    "answer": "Tương lai của doanh nghiệp là ở đâu?"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Xác định lĩnh vực kinh doanh theo mô hình D.Abell phù hợp với:",
+    "answer": "Doanh nghiệp đơn ngành"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Sức ép của các nhà cung cấp giảm đi nếu:",
+    "answer": "Sản phẩm mà nhà cung cấp bán có nhiều sản phẩm thay thế"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Rào cản gia nhập ngành gồm những yếu tố nào dưới đây:",
+    "answer": "Ưu thế về quy mô và chi phí, sự khác biệt hóa sản phẩm và lòng trung thành của khách hàng."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Sản phẩm thay thế sản phẩm hiện tại của doanh nghiệp bao gồm những sản phẩm nào dưới đây:",
+    "answer": "Có thể thỏa mãn cùng một nhu cầu của người tiêu dùng."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Trong phân tích cạnh tranh, tập hợp các doanh nghiệp cung cấp các sản phẩm hoặc dịch vụ cùng đáp ứng một loại nhu cầu được gọi là:",
+    "answer": "Một ngành kinh doanh"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Các doanh nghiệp trong cùng một ngành kinh doanh cung cấp:",
+    "answer": "Những sản phẩm hoặc dịch vụ cùng thỏa mãn một nhu cầu chung của khác hàng"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Phân tích nội bộ doanh nghiệp theo chức năng quản trị là việc tiến hành:",
+    "answer": "Phân tích về các công tác hoạch định, tổ chức, điều hành, kiểm soát của doanh nghiệp."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Năng lực vượt trội là:",
+    "answer": "Năng lực mà doanh nghiệp thực hiện tốt hơn các đối thủ cạnh tranh"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Lợi thế cạnh tranh là những gì doanh nghiệp đem lại cho khách hàng về:",
+    "answer": "Giá cả thấp hơn đối thủ cạnh tranh; hoặc việc cung cấp những lợi ích vượt trội so với đối thủ khiến khách hàng chấp nhận thanh toán một mức giá cao hơn."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Nguồn lực của doanh nghiệp bao gồm:",
+    "answer": "Nguồn lực hữu hình và nguồn lực vô hình."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Trong chuỗi giá trị của M. Porter, hoạt động nào dưới đây thuộc nhóm hoạt động hỗ trợ:",
+    "answer": "Nghiên cứu và phát triển công nghệ sản xuất"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về các loại, các cấp chiến lược trong doanh nghiệp là KHÔNG chính xác:",
+    "answer": "Hoàn toàn độc lập với nhau"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Chiến lược chức năng hướng đến những mục tiêu nào dưới đây:",
+    "answer": "Nâng cao hiệu quả, nâng cao chất lượng và đổi mới, đáp lại khách hàng."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Chiến lược đổi mới là:",
+    "answer": "Doanh nghiệp đứng đầu thị trường luôn cố gắng dẫn đầu ngành trong các lĩnh vực như phát triển các loại sản phẩm mới, dịch vụ và các kênh và phương pháp phân phối mới."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Chiến lược đối đầu là",
+    "answer": "Phản ứng nhanh, nhạy và trực tiếp trước đối thủ."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Luôn tìm cách tăng thị phần bằng cách thu hút thêm khách hàng mới, nghiên cứu đổi mới sản phẩm, hoặc tranh giành thị phần với đối thủ cạnh tranh là hành vi của doanh nghiệp trong nhóm nào dưới đây:",
+    "answer": "Doanh nghiệp dẫn đầu ngành"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Vai trò của mô hình phân tích chiến lược:",
+    "answer": "Tất cả đáp án trên đều đúng"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Dựa vào công cụ ma trận BCG, doanh nghiệp thực hiện chiến lược thu hoạch khi:",
+    "answer": "Thị phần tương đối cao và tốc độ tăng trưởng nhu cầu bão hòa"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Quy trình phân tích và lựa chọn chiến lược có thể được phân tách thành 3 giai đoạn bao gồm:",
+    "answer": "Tất cả đáp án trên đều đúng."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm mạnh và đe dọa là sự kết hợp giữa",
+    "answer": "ST."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm mạnh và cơ hội là sự kết hợp giữa",
+    "answer": "SO."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Nội dung đầu tiên trong giai đoạn hoạch định chiến lược kinh doanh là:",
+    "answer": "Xác định sứ mạng, mục tiêu và các chiến lược hiện tại của doanh nghiệp"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Phân tích môi trường chiến lược thuộc bước thứ mấy trong quy trình hoạch định chiến lược",
+    "answer": "2 và 3"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Vinamilk chia doanh nghiệp thành 4 SBU gồm: SBU1-Sữa bột, SBU2- sữa nước, SBU3-Café, SBU3-Kem. Đây là cách phân loại đơn vị kinh doanh chiến lược theo tiêu thức?",
+    "answer": "Sản phẩm có sự khác biệt về công nghệ"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Quản trị chiến lược đòi hỏi nhà quản trị có các kỹ năng nào?",
+    "answer": "Tư duy và phân tích"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Công ty dược phẩm A chia doanh nghiệp thành 3 SBU gồm: SBU1-Thuốc trị bệnh đau đầu, SBU2-Thuốc bổ, SBU3- Thuốc tiêu hóa. Đây là cách phân loại đơn vị kinh doanh chiến lược theo tiêu thức?",
+    "answer": "Sản phẩm có sự khác biệt về chức năng"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Mục tiêu chiến lược của doanh nghiệp chịu ảnh hưởng của các nhân tố:",
+    "answer": "Các lực lượng môi trường, các nguồn lực bên trong, các giá trị của lãnh đạo cao cấp, sự phát triển trong quá khứ của doanh nghiệp"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Nguyên tắc xác định mục tiêu thông minh là:",
+    "answer": "SMART"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Trách nhiệm xã hội bao gồm:",
+    "answer": "Trách nhiệm định đoạt, trách nhiệm kinh tế, trách nhiệm tinh thần, trách nhiệm luật pháp"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Việc xác định nhiệm vụ của doanh nghiệp NGOẠI TRỪ:",
+    "answer": "Phải thật rộng để doanh nghiệp thoải mái phát triển trong tương lai"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Để trả lời câu hỏi ngành kinh doanh của doanh nghiệp là gì, cần trả lời mấy câu hỏi?",
+    "answer": "3"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Theo M. Porter, cường độ cạnh tranh trong ngành phụ thuộc vào mức độ ảnh hưởng của:",
+    "answer": "Các lực lượng cạnh tranh"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Mức độ cạnh tranh trong một ngành kinh doanh tăng lên khi:",
+    "answer": "Tốc độ tăng trưởng ngành giảm"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Nguyên nhân nào dưới đây dẫn đến sự xuất hiện của sản phẩm thay thế:",
+    "answer": "Công nghệ bùng nổ và nhu cầu thị trường thay đổi."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây KHÔNG thuộc môi trường văn hóa – xã hội:",
+    "answer": "Chu kỳ kinh tế"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Môi trường vĩ mô bao gồm các nhân tố như:",
+    "answer": "Chính trị - Luật pháp, Kinh tế, Công nghệ, Văn hóa – Xã hội"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Năng lực mà DN thực hiện đặc biệt tốt hơn so với các đối thủ cạnh tranh mà các đối thủ cạnh tranh không dễ dàng thích ứng hoặc sao chép gọi là:",
+    "answer": "Lợi thế cạnh tranh."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Nguồn lực hữu hình của doanh nghiệp bao gồm",
+    "answer": "Nguồn lực vật chất, tài chính, công nghệ, ..."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Rau và hoa quả tươi được chuyển đến phục vụ hàng ngày thuộc hoạt động nào trong chuỗi giá trị của doanh nghiệp?",
+    "answer": "Hậu cần đầu vào."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Nguồn lực vô hình của doanh nghiệp không bao gồm:",
+    "answer": "Số lượng nhân sự."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Theo chức năng kiểm soát, hệ thống thông tin của doanh nghiệp nên:",
+    "answer": "Đầy đủ, được cập nhật và có độ tin cậy cao."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Trong chiến lược khác biệt hóa, yếu tố nào dưới đây được xếp theo thứ tự ưu tiên CAO nhất:",
+    "answer": "Năng lực nghiên cứu, phát triển và Marketing."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Chiến lược nhằm cung cấp các sản phẩm với mức giá thấp hơn các đối thủ cạnh tranh được gọi là chiến lược:",
+    "answer": "Dẫn đầu về chi phí."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Công ty có thể bỏ qua hoặc không đáp ứng được sự thay đổi vì thị hiếu của khách hàng là rủi ro khi doanh nghiệp theo đuổi chiến lược nào dưới đây:",
+    "answer": "Trọng tâm hóa."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Doanh nghiệp hướng việc đầu tư vào những ngành có triển vọng lợi nhuận tốt nhưng nằm ngoài chuỗi giá trị hiện tại theo đuổi chiến lược nào dưới đây:",
+    "answer": "Chiến lược đa dạng hóa không liên quan"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Hệ thống chiến lược trong một doanh nghiệp đơn ngành và trong một doanh nghiệp đa ngành:",
+    "answer": "Giống nhau cơ bản về cách thức xây dựng, nội dung và triển khai."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Ma trận BCG dùng để phân tích, đánh giá vị thế cạnh tranh của:",
+    "answer": "Các đơn vị kinh doanh chiến lược"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Ma trận BCG do tác giả nào xây dựng?",
+    "answer": "Nhóm tư vấn Boston"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Theo ma trận BCG, tổ hợp kinh doanh nào dước đây được đánh giá là có tiềm năng tăng trưởng cao?",
+    "answer": "Pa:A"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Quy trình phân tích và lựa chọn chiến lược có thể được phân tách thành 3 giai đoạn bao gồm:",
+    "answer": "Tất cả đáp án trên đều đúng."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm yếu và cơ hội là sự kết hợp giữa",
+    "answer": "OW"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Nội dung Phân bổ nguồn lực thuộc giai đoạn nào trong quy trình quản trị chiến lược (theo mô hình của Fred David) tổng quát?",
+    "answer": "Thực thi chiến lược"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Trong giai đoạn hoạch định chiến lược tổng quát (theo mô hình của Fred David) có mấy nội dung chính:",
+    "answer": "6"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Chiến lược kinh doanh KHÔNG góp phần",
+    "answer": "Tăng lợi nhuận ngay lập tức cho doanh nghiệp"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Thực thi chiến lược để",
+    "answer": "Tất cả đáp án đều đúng"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Việc lựa chọn chiến lược để thực hiện mục tiêu của tổ chức là một phần của:",
+    "answer": "Chức năng hoạch định"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Mục tiêu chủ yếu của danh mục vốn đầu tư của doanh nghiệp đa ngành chủ yếu là:",
+    "answer": "Mức lợi nhuận cần đạt được"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Mục tiêu của danh mục vốn đầu tư là yếu tố cần thiết khi xác định ngành kinh doanh đối với:",
+    "answer": "Doanh nghiệp đa ngành"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Phân loại mục tiêu theo các loại chiến lược tương ứng có:",
+    "answer": "Mục tiêu chung, mục tiêu của SBU, mục tiêu chức năng"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Xác định lĩnh vực kinh doanh của doanh nghiệp đơn ngành phải:",
+    "answer": "Định hướng theo khách hàng"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Doanh nghiệp có trách nhiệm xã hội thể hiện qua việc, NGOẠI TRỪ:",
+    "answer": "Thường xuyên đi làm từ thiện, vì lợi ích cộng đồng, tạo khoảng cách giữa lãnh đạo và nhân viên"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Sức ép của các nhà cung cấp giảm nếu:",
+    "answer": "Chi phí chuyển đổi nhà cung cấp thấp"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây thuộc môi trường chính trị:",
+    "answer": "Sự ổn định chính trị, nhất quán về chính sách"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Lực lượng nào dưới đây KHÔNG thuộc mô hình “Các lực lượng điều tiết cạnh tranh” :",
+    "answer": "Lực lượng kinh tế"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Môi trường bên ngoài của doanh nghiệp bao gồm:",
+    "answer": "Hướng về các nguồn lực của doanh nghiệp"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Áp lực từ khách hàng lên doanh nghiệp sẽ giảm đi trong trường hợp nào dưới đây:",
+    "answer": "Chi phí chuyển đổi của người mua là rất lớn"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Hoạt động quản trị hệ thống thông tin, trang thiết bị máy móc thuộc hoạt động nào trong chuỗi giá trị?",
+    "answer": "Xây dựng cơ sở hạ tầng tổ chức"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Hoạt động nào sau đây trong mô hình chuỗi giá trị thuộc nhóm hoạt động cơ bản:",
+    "answer": "Dịch vụ khách hàng."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Tất cả mặt cỏ sân tennis được cắt tỉa hàng ngày và tưới nước thuộc hoạt đông nào trong chuỗi giá trị của sân tennis?",
+    "answer": "Sản xuất."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Phân tích nội bộ doanh nghiệp theo lĩnh vực quản trị là việc đánh giá:",
+    "answer": "Các khía cạnh tài chính, nhân sự, marketing, sản xuất..."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Phân tích nội bộ doanh nghiệp theo nguồn lực và năng lực để nhằm:",
+    "answer": "Xác định năng lực cốt lõi, năng lực vượt trội của doanh nghiệp."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Chiến lược của doanh nghiệp trong từng thời kỳ:",
+    "answer": "Là một hệ thống thống nhất, hợp lý, linh hoạt."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Sự thay đổi về công nghệ là rủi ro khi theo đuổi chiến lược nào dưới đây:",
+    "answer": "Khác biệt hóa."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Chiến lược kinh doanh có vai trò như thế nào trong doanh nghiệp:",
+    "answer": "Kim chỉ nam dẫn dắt mọi hoạt động của doanh nghiệp."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Ưu điểm của chiến lược dẫn đầu về chi phí là:",
+    "answer": "Dễ dàng chịu đựng được khi có sức ép tăng giá từ phía nhà cung cấp và phân phối."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Chiến lược đổi mới là:",
+    "answer": "Doanh nghiệp đứng đầu thị trường luôn cố gắng dẫn đầu ngành trong các lĩnh vực như phát triển các loại sản phẩm mới, dịch vụ và các kênh và phương pháp phân phối mới."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Đặc điểm của ô “Ngôi sao” trong ma trận BCG là:",
+    "answer": "Lợi nhuận cao – nhu cầu tài chính lớn"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm yếu và đe dọa là sự kết hợp giữa",
+    "answer": "WT"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Theo ma trận BCG, tổ hợp kinh doanh nào dước đây được đánh giá là \"Trẻ\"?",
+    "answer": "Pa:A"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Vai trò của mô hình phân tích chiến lược:",
+    "answer": "Tất cả đáp án trên đều đúng"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Dựa vào công cụ ma trận BCG, doanh nghiệp thực hiện chiến lược thu hoạch khi:",
+    "answer": "Thị phần tương đối cao và tốc độ tăng trưởng nhu cầu bão hòa"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Vai trò của Quản trị chiến lược trong doanh nghiệp là:",
+    "answer": "Thiết lập các chiến lược hiệu quả hơn"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp trả lời cho câu hỏi nào dưới đây:",
+    "answer": "Doanh nghiệp tăng trưởng và phát triển như thế nào trong tương lai?"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Được thể hiện thông qua kết quả của việc hoạch định, thực thi và đánh giá chiến lược được thiết kế nhằm đạt được các mục tiêu dài hạn của tổ chức, đặc trưng của quản trị chiến lược là một:",
+    "answer": "Tập hợp các quyết định và hành động"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây không phải là nhân tố cấu thành nên chiến lược của doanh nghiệp:",
+    "answer": "Chiến lược của đối thủ canh tranh tiềm ẩn"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Một đơn vị kinh doanh riêng lẻ hoặc trên một tập hợp các ngành kinh doanh có liên quan (cặp sản phẩm/thị trường), có thể được hoạch định riêng biệt với các phần còn lại của doanh nghiệp là gì?",
+    "answer": "Đơn vị kinh doanh chiến lược"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Mục tiêu thứ cấp của doanh nghiệp là:",
+    "answer": "Năng suất, cải tiến công nghệ, nguồn lực tài chính và cơ sở vật chất"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "SMART là nguyên tắc được sử dụng trong việc:",
+    "answer": "Xác định mục tiêu của doanh nghiệp"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Các yếu tố chủ yếu trong việc xác định ngành kinh doanh của doanh nghiệp đa ngành:",
+    "answer": "Mục tiêu của danh mục vốn đầu tư, phạm vi hoạt động, sự cân đối giữa các SBU"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Mục tiêu chiến lược của doanh nghiệp chịu ảnh hưởng của các nhân tố:",
+    "answer": "Các lực lượng môi trường, các nguồn lực bên trong, các giá trị của lãnh đạo cao cấp, sự phát triển trong quá khứ của doanh nghiệp"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Doanh nghiệp có trách nhiệm xã hội thể hiện qua việc, NGOẠI TRỪ:",
+    "answer": "Thường xuyên đi làm từ thiện, vì lợi ích cộng đồng, tạo khoảng cách giữa lãnh đạo và nhân viên"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây thuộc môi trường công nghệ:",
+    "answer": "Quan điểm về chuyển giao kỹ thuật"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Nguy cơ đe doạ của các đối thủ cạnh tranh tiềm năng sẽ thấp nếu trong ngành:",
+    "answer": "Chính phủ hạn chế việc thành lập doanh nghiệp mới trong ngành."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Việc duy trì môi trường kinh doanh bình đẳng, chống độc quyền, chống phá giá thuộc nhóm lực lượng:",
+    "answer": "Pháp luật"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Phân tích môi trường bên ngoài xác định:",
+    "answer": "Giai đoạn phát triển nội tại"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Vấn đề toàn cầu hóa có thể ảnh hưởng đến hoạt động sản xuất kinh doanh của doanh nghiệp như thế nào:",
+    "answer": "Là xu hướng tất yếu và là cơ hội lớn cho doanh nghiệp."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Phân tích nội bộ doanh nghiệp theo chức năng tổ chức là việc đánh giá về:",
+    "answer": "Sự phù hợp của cơ cấu tổ chức với hệ thống mục tiêu và hệ thống chiến lược của doanh nghiệp."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Phân tích nội bộ doanh nghiệp theo chức năng điều hành là việc đánh giá về các khía cạnh:",
+    "answer": "Tài chính, Khách hàng, Quy trình nội bộ, Đào tạo, nghiên cứu và phát triển..."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Hoạt động nào sau đây KHÔNG phải là hoạt động phụ trợ?",
+    "answer": "Quảng cáo."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Năng lực vượt trội thường có đặc điểm:",
+    "answer": "Khó sao chép, bắt chước và rất ít khi được chuyển giao."
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Hoạt động nào sau đây trong mô hình chuỗi giá trị thuộc nhóm hoạt động hỗ trợ:",
+    "answer": "Quản trị nguồn nhân lực"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về các loại, các cấp chiến lược trong doanh nghiệp là KHÔNG chính xác:",
+    "answer": "Hoàn toàn độc lập với nhau"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Doanh nghiệp hướng việc đầu tư vào những ngành có triển vọng lợi nhuận tốt nhưng nằm ngoài chuỗi giá trị hiện tại theo đuổi chiến lược nào dưới đây:",
+    "answer": "Chiến lược đa dạng hóa không liên quan"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Chiến lược chức năng có những đặc tính nào dưới đây:",
+    "answer": "Ngắn hạn, tác nghiệp, linh hoạt cao, cụ thể cao."
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Các loại hình chiến lược cạnh tranh tổng quát theo quan điểm của M. Porter bao gồm:",
+    "answer": "Dẫn đầu về chi phí, đa dạng hóa và trọng tâm hóa."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Luôn tìm cách tăng thị phần bằng cách thu hút thêm khách hàng mới, nghiên cứu đổi mới sản phẩm, hoặc tranh giành thị phần với đối thủ cạnh tranh là hành vi của doanh nghiệp trong nhóm nào dưới đây:",
+    "answer": "Doanh nghiệp dẫn đầu ngành"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Ma trận BCG được xây dựng trên cơ sở 2 biến số về:",
+    "answer": "Thị phần tương đối & tốc độ tăng trưởng"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm yếu và đe dọa là sự kết hợp giữa",
+    "answer": "WT"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm mạnh và đe dọa là sự kết hợp giữa",
+    "answer": "ST."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Ma trận BCG do tác giả nào xây dựng?",
+    "answer": "Nhóm tư vấn Boston"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Theo ma trận BCG, tổ hợp kinh doanh nào dước đây được đánh giá là có tiềm năng tăng trưởng cao?",
+    "answer": "Pa:A"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Quản trị chiến lược đòi hỏi nhà quản trị có các kỹ năng nào?",
+    "answer": "Tư duy và phân tích"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Trong giai đoạn hoạch định chiến lược tổng quát (theo mô hình của Fred David) có mấy nội dung chính:",
+    "answer": "6"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Vai trò của Quản trị chiến lược trong doanh nghiệp là:",
+    "answer": "Thiết lập các chiến lược hiệu quả hơn"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Yếu tố nào sau đây KHÔNG phải là đặc trưng của chiến lược?",
+    "answer": "Các quyết định chiến lược phản ánh kết quả kinh doanh của DN"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Thực thi chiến lược để",
+    "answer": "Tất cả đáp án đều đúng"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "SMART là nguyên tắc được sử dụng trong việc:",
+    "answer": "Xác định mục tiêu của doanh nghiệp"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Mục tiêu nào KHÔNG phải là mục tiêu hàng đầu của doanh nghiệp?",
+    "answer": "Thị phần"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Các yếu tố chủ yếu trong việc xác định ngành kinh doanh của doanh nghiệp đơn ngành:",
+    "answer": "Sản phẩm, khách hàng và công nghệ"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Các yếu tố chủ yếu trong việc xác định ngành kinh doanh của doanh nghiệp đa ngành:",
+    "answer": "Mục tiêu của danh mục vốn đầu tư, phạm vi hoạt động, sự cân đối giữa các SBU"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Doanh nghiệp đa ngành xác định lĩnh vực kinh doanh theo:",
+    "answer": "Định hướng danh mục vốn đầu tư"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Cường độ và mức độ cạnh tranh trong một ngành sản xuất phụ thuộc vào những yếu tố nào dưới đây:",
+    "answer": "Cấu trúc ngành, tình trạng cầu của ngành và rào cản rút lui khỏi ngành."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Các đối thủ tiềm ẩn bao gồm lực lượng nào dưới đây:",
+    "answer": "Doanh nghiệp có khả năng gia nhập ngành."
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Vấn đề toàn cầu hóa có thể ảnh hưởng đến hoạt động sản xuất kinh doanh của doanh nghiệp như thế nào:",
+    "answer": "Là xu hướng tất yếu và là cơ hội lớn cho doanh nghiệp."
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Người mua trong một ngành bao gồm lực lượng nào dưới đây:",
+    "answer": "Các nhà phân phối, mua công nghiệp và người tiêu dùng cuối cùng"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Môi trường bên ngoài của doanh nghiệp bao gồm:",
+    "answer": "Hướng về các nguồn lực của doanh nghiệp"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Nguồn lực vô hình bao gồm:",
+    "answer": "Danh tiếng/uy tín của doanh nghiệp."
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Tiêu chí xác định lợi thế cạnh tranh bền vững:",
+    "answer": "Có giá trị, khan hiếm, khó bắt chước, không thể thay thế."
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Phân tích môi trường bên trong của doanh nghiệp nhằm xác định:",
+    "answer": "Điểm mạnh và điểm yếu."
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Hoạt động nào sau đây trong mô hình chuỗi giá trị thuộc nhóm hoạt động cơ bản:",
+    "answer": "Dịch vụ khách hàng."
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Doanh nghiệp có lợi thế cạnh tranh bền vững:",
+    "answer": "Doanh nghiệp duy trì được tỷ lệ lợi nhuận cao hơn tỷ lệ bình quân trong ngành trong một khoảng thời gian dài."
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Công ty có thể bỏ qua hoặc không đáp ứng được sự thay đổi vì thị hiếu của khách hàng là rủi ro khi doanh nghiệp theo đuổi chiến lược nào dưới đây:",
+    "answer": "Trọng tâm hóa."
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Chiến lược chức năng hướng đến những mục tiêu nào dưới đây:",
+    "answer": "Nâng cao hiệu quả, nâng cao chất lượng và đổi mới, đáp lại khách hàng."
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Về mặt kỹ năng và nguồn lực, chiến lược khác biệt hóa đòi hỏi doanh nghiệp phải có:",
+    "answer": "Năng lực nghiên cứu phát triển và năng lực marketing vượt trội các đối thủ cạnh tranh."
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Chiến lược người dẫn đầu là",
+    "answer": "Chiến lược doanh nghiệp thủ lĩnh thường áp dụng trong trường hợp ngành suy thoái."
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp có những đặc tính nào dưới đây:",
+    "answer": "Dài hạn, định hướng, linh hoạt và ít cụ thể."
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Đặc điểm của ô “Ngôi sao” trong ma trận BCG là:",
+    "answer": "Lợi nhuận cao – nhu cầu tài chính lớn"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Theo ma trận BCG, tổ hợp kinh doanh nào dước đây được đánh giá là \"Trẻ\"?",
+    "answer": "Pa:A"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Vai trò của mô hình phân tích chiến lược:",
+    "answer": "Tất cả đáp án trên đều đúng"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm mạnh và cơ hội là sự kết hợp giữa",
+    "answer": "SO."
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Ma trận BCG được xây dựng trên cơ sở 2 biến số về:",
+    "answer": "Thị phần tương đối & tốc độ tăng trưởng"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Công ty dược phẩm A chia doanh nghiệp thành 3 SBU gồm: SBU1-Thuốc trị bệnh đau đầu, SBU2-Thuốc bổ, SBU3- Thuốc tiêu hóa. Đây là cách phân loại đơn vị kinh doanh chiến lược theo tiêu thức?",
+    "answer": "Sản phẩm có sự khác biệt về chức năng"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Nội dung Phân bổ nguồn lực thuộc giai đoạn nào trong quy trình quản trị chiến lược (theo mô hình của Fred David) tổng quát?",
+    "answer": "Thực thi chiến lược"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Nội dung đầu tiên trong giai đoạn hoạch định chiến lược kinh doanh là:",
+    "answer": "Xác định sứ mạng, mục tiêu và các chiến lược hiện tại của doanh nghiệp"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Giai đoạn thực thi chiến lược (theo mô hình của Fred David) bao gồm bao nhiêu nội dung?",
+    "answer": "3"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Những nội dung nào sau đây KHÔNG thuộc giai đoạn hoạch định chiến lược:",
+    "answer": "Kiểm tra, kiểm soát quá trình hành động"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Yêu cầu của xác định mục tiêu:",
+    "answer": "Phải xác định rõ mục tiêu ưu tiên trong từng giai đoạn"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Xác định tầm nhìn là nhiệm vụ chính yếu của:",
+    "answer": "Nhà lãnh đạo, chiến lược gia, Ban giám đốc"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Để trả lời câu hỏi ngành kinh doanh của doanh nghiệp là gì, cần trả lời mấy câu hỏi?",
+    "answer": "3"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Trách nhiệm xã hội bao gồm:",
+    "answer": "Trách nhiệm định đoạt, trách nhiệm kinh tế, trách nhiệm tinh thần, trách nhiệm luật pháp"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Phân loại mục tiêu theo các loại chiến lược tương ứng có:",
+    "answer": "Mục tiêu chung, mục tiêu của SBU, mục tiêu chức năng"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Đe dọa từ đối thủ cạnh tranh tiềm ẩn có xu hướng mạnh lên trong trường hợp nào dưới đây:",
+    "answer": "Sản phẩm hiện tại ít có sự khác biệt."
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Sức ép của các nhà cung cấp giảm đi nếu:",
+    "answer": "Sản phẩm mà nhà cung cấp bán có nhiều sản phẩm thay thế"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Rào cản gia nhập ngành gồm những yếu tố nào dưới đây:",
+    "answer": "Ưu thế về quy mô và chi phí, sự khác biệt hóa sản phẩm và lòng trung thành của khách hàng."
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Nguy cơ đe doạ của các đối thủ cạnh tranh tiềm năng sẽ thấp nếu trong ngành:",
+    "answer": "Chính phủ hạn chế việc thành lập doanh nghiệp mới trong ngành."
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây thuộc môi trường công nghệ:",
+    "answer": "Quan điểm về chuyển giao kỹ thuật"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Năng lực vượt trội thường có đặc điểm:",
+    "answer": "Khó sao chép, bắt chước và rất ít khi được chuyển giao."
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Tiêu chí xác định lợi thế cạnh tranh bền vững:",
+    "answer": "Có giá trị, khan hiếm, khó bắt chước, không thể thay thế."
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Năng lực cốt lõi của doanh nghiệp là?",
+    "answer": "Năng lực tốt nhất so với các năng lực khác trong doanh nghiệp."
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Hoạt động quản trị hệ thống thông tin, trang thiết bị máy móc thuộc hoạt động nào trong chuỗi giá trị?",
+    "answer": "Xây dựng cơ sở hạ tầng tổ chức"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Năng lực vượt trội là:",
+    "answer": "Năng lực mà doanh nghiệp thực hiện tốt hơn các đối thủ cạnh tranh"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Hệ thống chiến lược trong một doanh nghiệp đơn ngành và trong một doanh nghiệp đa ngành:",
+    "answer": "Giống nhau cơ bản về cách thức xây dựng, nội dung và triển khai."
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Chiến lược nhằm cung cấp các sản phẩm với mức giá thấp hơn các đối thủ cạnh tranh được gọi là chiến lược:",
+    "answer": "Dẫn đầu về chi phí."
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Chiến lược đối đầu là",
+    "answer": "Phản ứng nhanh, nhạy và trực tiếp trước đối thủ."
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Trong chiến lược khác biệt hóa, yếu tố nào dưới đây được xếp theo thứ tự ưu tiên CAO nhất:",
+    "answer": "Năng lực nghiên cứu, phát triển và Marketing."
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Chiến lược củng cố là",
+    "answer": "Nhằm bảo toàn sức mạnh trên thị trường"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Ma trận BCG dùng để phân tích, đánh giá vị thế cạnh tranh của:",
+    "answer": "Các đơn vị kinh doanh chiến lược"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Quy trình phân tích và lựa chọn chiến lược có thể được phân tách thành 3 giai đoạn bao gồm:",
+    "answer": "Tất cả đáp án trên đều đúng."
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm yếu và cơ hội là sự kết hợp giữa",
+    "answer": "OW"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Dựa vào công cụ ma trận BCG, doanh nghiệp thực hiện chiến lược thu hoạch khi:",
+    "answer": "Thị phần tương đối cao và tốc độ tăng trưởng nhu cầu bão hòa"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm mạnh và cơ hội là sự kết hợp giữa",
+    "answer": "SO."
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Vinamilk chia doanh nghiệp thành 4 SBU gồm: SBU1-Sữa bột, SBU2- sữa nước, SBU3-Café, SBU3-Kem. Đây là cách phân loại đơn vị kinh doanh chiến lược theo tiêu thức?",
+    "answer": "Sản phẩm có sự khác biệt về công nghệ"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Unilever chia doanh nghiệp thành 4 SBU gồm: SBU1-Clear, SBU2- Omo, SBU3-Sunsilk, SBU4-Surf. Đây là cách phân loại đơn vị kinh doanh chiến lược theo tiêu thức?",
+    "answer": "Sản phẩm có sự khác biệt về nhãn hiệu"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Chiến lược kinh doanh KHÔNG góp phần",
+    "answer": "Tăng lợi nhuận ngay lập tức cho doanh nghiệp"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Các cấp chiến lược trong doanh nghiệp bao gồm:",
+    "answer": "Cấp doanh nghiệp, cấp kinh doanh, cấp chức năng"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Vai trò hoạch định chiến lược của doanh nghiệp ít quan trọng đối với đối tượng nào nhất?",
+    "answer": "Nhà cung cấp"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Việc xác định nhiệm vụ của doanh nghiệp NGOẠI TRỪ:",
+    "answer": "Phải thật rộng để doanh nghiệp thoải mái phát triển trong tương lai"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Xác định lĩnh vực kinh doanh theo mô hình D.Abell phù hợp với:",
+    "answer": "Doanh nghiệp đơn ngành"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Nguyên tắc xác định mục tiêu thông minh là:",
+    "answer": "SMART"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Mục tiêu thứ cấp của doanh nghiệp là:",
+    "answer": "Năng suất, cải tiến công nghệ, nguồn lực tài chính và cơ sở vật chất"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Xác định lĩnh vực kinh doanh của doanh nghiệp đơn ngành phải:",
+    "answer": "Định hướng theo khách hàng"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Mức độ cạnh tranh trong một ngành kinh doanh tăng lên khi:",
+    "answer": "Tốc độ tăng trưởng ngành giảm"
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Việc phân tích môi trường kinh doanh bên ngoài của doanh nghiệp KHÔNG hướng đến mục tiêu nào dưới đây:",
+    "answer": "Chỉ ra những điểm mạnh và điểm yếu."
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây thuộc môi trường chính trị:",
+    "answer": "Sự ổn định chính trị, nhất quán về chính sách"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Áp lực từ khách hàng lên doanh nghiệp sẽ giảm đi trong trường hợp nào dưới đây:",
+    "answer": "Chi phí chuyển đổi của người mua là rất lớn"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Các lực lượng cạnh tranh trong mô hình của Porter KHÔNG bao gồm:",
+    "answer": "Nguồn lực thay thế chiến lược"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Nguồn lực hữu hình của doanh nghiệp bao gồm",
+    "answer": "Nguồn lực vật chất, tài chính, công nghệ, ..."
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Năng lực mà DN thực hiện đặc biệt tốt hơn so với các đối thủ cạnh tranh mà các đối thủ cạnh tranh không dễ dàng thích ứng hoặc sao chép gọi là:",
+    "answer": "Lợi thế cạnh tranh."
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Nguồn lực của doanh nghiệp là:",
+    "answer": "Những yếu tố đầu vào của quá trình sản xuất kinh doanh."
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Năng lực vượt trội là kết quả của:",
+    "answer": "Quá trình đầu tư nguồn lực, thời gian và chi phí."
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Nguồn lực của doanh nghiệp bao gồm:",
+    "answer": "Nguồn lực hữu hình và nguồn lực vô hình."
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp có những đặc tính nào dưới đây:",
+    "answer": "Dài hạn, định hướng, linh hoạt và ít cụ thể."
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Ưu điểm của chiến lược dẫn đầu về chi phí là:",
+    "answer": "Dễ dàng chịu đựng được khi có sức ép tăng giá từ phía nhà cung cấp và phân phối."
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Công ty có thể bỏ qua hoặc không đáp ứng được sự thay đổi vì thị hiếu của khách hàng là rủi ro khi doanh nghiệp theo đuổi chiến lược nào dưới đây:",
+    "answer": "Trọng tâm hóa."
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Chiến lược củng cố là",
+    "answer": "Nhằm bảo toàn sức mạnh trên thị trường"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Sự thay đổi về công nghệ là rủi ro khi theo đuổi chiến lược nào dưới đây:",
+    "answer": "Khác biệt hóa."
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Theo ma trận BCG, tổ hợp kinh doanh nào dước đây được đánh giá là \"Trẻ\"?",
+    "answer": "Pa:A"
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Ma trận BCG dùng để phân tích, đánh giá vị thế cạnh tranh của:",
+    "answer": "Các đơn vị kinh doanh chiến lược"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Ma trận BCG được xây dựng trên cơ sở 2 biến số về:",
+    "answer": "Thị phần tương đối & tốc độ tăng trưởng"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Vai trò của mô hình phân tích chiến lược:",
+    "answer": "Tất cả đáp án trên đều đúng"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Dựa vào công cụ ma trận BCG, doanh nghiệp thực hiện chiến lược thu hoạch khi:",
+    "answer": "Thị phần tương đối cao và tốc độ tăng trưởng nhu cầu bão hòa"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Nokia chia doanh nghiệp thành 3 SBU gồm: SBU1-Điện thoại bình dân, SBU2- Điện thoại N-series, SBU3- Điện thoại E-series. Đây là cách phân loại đơn vị kinh doanh chiến lược theo tiêu thức?",
+    "answer": "Sản phẩm có sự khác biệt về đối tượng khách hàng"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Đánh giá môi trường bên trong nhằm xác định",
+    "answer": "Điểm mạnh, điểm yếu"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Việc lựa chọn chiến lược để thực hiện mục tiêu của tổ chức là một phần của:",
+    "answer": "Chức năng hoạch định"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Mô hình quản trị chiến lược tổng quát được chia ra làm mấy giai đoạn:",
+    "answer": "3"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Phân tích môi trường chiến lược thuộc bước thứ mấy trong quy trình hoạch định chiến lược",
+    "answer": "2 và 3"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Mục tiêu nào sau đây KHÔNG phải là mục tiêu chiến lược của doanh nghiệp?",
+    "answer": "Giá thành sản xuất cao hơn đối thủ cạnh tranh"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Mô hình D. Abell là:",
+    "answer": "Mô hình xác định lĩnh vực kinh doanh"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Mục tiêu chủ yếu của danh mục vốn đầu tư của doanh nghiệp đa ngành chủ yếu là:",
+    "answer": "Mức lợi nhuận cần đạt được"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Phân chia mục tiêu theo thời gian có:",
+    "answer": "Mục tiêu ngắn hạn, trung hạn và dài hạn"
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Căn cứ vào các bộ phận, nhóm khác nhau trong doanh nghiệp có các mục tiêu của:",
+    "answer": "Ban giám đốc, cổ đông, người lao động"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây KHÔNG thuộc môi trường kinh tế:",
+    "answer": "Chu kỳ công nghệ/ngành kinh doanh"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Nguyên nhân nào dưới đây dẫn đến sự xuất hiện của sản phẩm thay thế:",
+    "answer": "Công nghệ bùng nổ và nhu cầu thị trường thay đổi."
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Các doanh nghiệp trong cùng một ngành kinh doanh cung cấp:",
+    "answer": "Những sản phẩm hoặc dịch vụ cùng thỏa mãn một nhu cầu chung của khác hàng"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Mức độ cạnh tranh trong một ngành kinh doanh tăng lên khi:",
+    "answer": "Tốc độ tăng trưởng ngành giảm"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây KHÔNG thuộc môi trường văn hóa – xã hội:",
+    "answer": "Chu kỳ kinh tế"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Phân tích nội bộ doanh nghiệp theo chức năng quản trị là việc tiến hành:",
+    "answer": "Phân tích về các công tác hoạch định, tổ chức, điều hành, kiểm soát của doanh nghiệp."
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Theo chức năng kiểm soát, hệ thống thông tin của doanh nghiệp nên:",
+    "answer": "Đầy đủ, được cập nhật và có độ tin cậy cao."
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Phân tích nội bộ doanh nghiệp theo chức năng điều hành là việc đánh giá về các khía cạnh:",
+    "answer": "Tài chính, Khách hàng, Quy trình nội bộ, Đào tạo, nghiên cứu và phát triển..."
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Phân tích môi trường bên trong của doanh nghiệp nhằm xác định:",
+    "answer": "Điểm mạnh và điểm yếu."
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Lợi thế cạnh tranh là những gì doanh nghiệp đem lại cho khách hàng về:",
+    "answer": "Giá cả thấp hơn đối thủ cạnh tranh; hoặc việc cung cấp những lợi ích vượt trội so với đối thủ khiến khách hàng chấp nhận thanh toán một mức giá cao hơn."
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Chiến lược đối đầu là",
+    "answer": "Phản ứng nhanh, nhạy và trực tiếp trước đối thủ."
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Chiến lược đổi mới là:",
+    "answer": "Doanh nghiệp đứng đầu thị trường luôn cố gắng dẫn đầu ngành trong các lĩnh vực như phát triển các loại sản phẩm mới, dịch vụ và các kênh và phương pháp phân phối mới."
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Về mặt kỹ năng và nguồn lực, chiến lược khác biệt hóa đòi hỏi doanh nghiệp phải có:",
+    "answer": "Năng lực nghiên cứu phát triển và năng lực marketing vượt trội các đối thủ cạnh tranh."
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Chiến lược người dẫn đầu là",
+    "answer": "Chiến lược doanh nghiệp thủ lĩnh thường áp dụng trong trường hợp ngành suy thoái."
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Trong chiến lược khác biệt hóa, yếu tố nào dưới đây được xếp theo thứ tự ưu tiên CAO nhất:",
+    "answer": "Năng lực nghiên cứu, phát triển và Marketing."
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm yếu và cơ hội là sự kết hợp giữa",
+    "answer": "OW"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Theo ma trận BCG, tổ hợp kinh doanh nào dước đây được đánh giá là có tiềm năng tăng trưởng cao?",
+    "answer": "Pa:A"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm mạnh và đe dọa là sự kết hợp giữa",
+    "answer": "ST."
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Quy trình phân tích và lựa chọn chiến lược có thể được phân tách thành 3 giai đoạn bao gồm:",
+    "answer": "Tất cả đáp án trên đều đúng."
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Đặc điểm của ô “Ngôi sao” trong ma trận BCG là:",
+    "answer": "Lợi nhuận cao – nhu cầu tài chính lớn"
+  }
+]

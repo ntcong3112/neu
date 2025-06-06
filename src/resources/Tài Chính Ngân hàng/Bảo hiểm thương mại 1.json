@@ -1,0 +1,1790 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Các bên trong bảo hiểm nhân thọ bao gồm:",
+    "answer": "Doanh nghiệp bảo hiểm, người tham gia bảo hiểm, người được bảo hiểm và người thụ hưởng bảo hiểm"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Nguyên tắc bồi thường thiệt hại được áp dụng trong:",
+    "answer": "A và B"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Khoản tiền mà bên mua bảo hiểm phải đóng cho doanh nghiệp bảo hiểm được gọi là",
+    "answer": "Phí bảo hiểm"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Ý nghĩa cùa áp dụng mức miễn thường trong bảo hiểm phi nhân thọ:",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Trong công thức P=Sb*R, R là:",
+    "answer": "ỷ lệ phí bảo hiểm"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Các doanh nghiệp kinh doanh bảo hiểm phi nhân thọ chịu sự điều chỉnh của:",
+    "answer": "Luật Kinh doanh bảo hiểm"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Trong bảo hiểm tài sản, số tiền bảo hiểm được xác định theo",
+    "answer": "3 trường hợp"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Theo Điều 7 Luật Kinh doanh Bảo hiểm, bảo hiểm phi nhân thọ không bao gồm nghiệp vụ bảo hiểm nào sau đây:",
+    "answer": "Bảo hiểm y tế"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Phát biểu nào đúng trong các phát biểu sau đây",
+    "answer": "Bảo hiểm phi nhân thọ là loại hình bảo hiểm thương mại có đối tượng bảo hiểm là tài sản, trách nhiệm dân sự và sức khoẻ của con ngườ"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Nghiệp vụ bảo hiểm nào không thuộc loại hình bảo hiểm tài sản:",
+    "answer": "Bảo hiểm du lị"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Mức miễn thường càng lớn:",
+    "answer": "Phí bảo hiểm càng thấp"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Phí bảo hiểm tỷ lệ thuận với:",
+    "answer": "Số tiền bảo hiểm"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Giá trị bảo hiểm chỉ tồn tại trong loại hình bảo hiểm phi nhân thọ nào:",
+    "answer": "Bảo hiểm tài sả"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Các loại hình bảo hiểm phi nhân thọ bao gồm:",
+    "answer": "Bảo hiểm tài sản, bảo hiểm trách nhiệm dân sự và bảo hiểm sức khoẻ"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Trong bảo hiểm phi nhân thọ, rủi ro được bảo hiểm phải thoả mãn các điều kiện sau:",
+    "answer": "Các rủi ro không phụ thuộc vào mong muốn của người tham gia bảo hiểm"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Đặc điểm của bảo hiểm tài sản không bao gồm",
+    "answer": "Không áp dụng nguyên tắc thế quyền hợp pháp"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Khi số tiền bảo hiểm nhỏ hơn giá trị bảo hiểm gọi là",
+    "answer": "Bảo hiểm dưới giá trị"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Trong công thức P = f+d, f là:",
+    "answer": "Phí thuầ"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Thời điểm ban hành Luật Kinh doanh bảo hiểm ban hành lần đầu:",
+    "answer": "2000"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "“Bảo hiểm phi nhân thọ là loại nghiệp vụ bảo hiểm tài sản, trách nhiệm dân sự và các nghiệp vụ bảo hiểm khác không thuộc bảo hiểm nhân thọ” là khái niệm được quy định trong:",
+    "answer": "Điều 3 Luật Kinh doanh bảo hiểm 2019."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Đối tượng bảo hiểm của bảo hiểm phi nhân thọ là",
+    "answer": "ách nhiệm dân sự của người được bảo hiểm đối với người thứ ba theo luật đị"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Người tham gia bảo hiểm phi nhân thọ có thể là:",
+    "answer": "A và B"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Số tiền bảo hiểm trong bảo hiểm phi nhân thọ:",
+    "answer": "Được xác định trong hợp đồng bảo hiểm, thể hiện giới hạn trách nhiệm của doanh nghiệp bảo hiểm"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Căn cứ vào tính chất của rủi ro và sự kiện bảo hiểm, người ta chia bảo hiểm thương mại thành",
+    "answer": "Bảo hiểm nhân thọ và bảo hiểm phi nhân thọ"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Đặc điểm của bảo hiểm phi nhân thọ không bao gồm:",
+    "answer": "Quản lý theo kỹ thuật tồn tí"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Công thức xác định phí bảo hiểm phi nhân thọ:",
+    "answer": "P = f + d"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Khi áp dụng miễn thường có khấu trừ, số tiền chi trả của doanh nghiệp bảo hiểm cho khách hàng:",
+    "answer": "Bằng giá trị thiệt hại thực tế trừ mức miễn thường"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Nhận định nào đúng trong các nhận định sau:",
+    "answer": "Phí bảo hiểm tỉ lệ thuận với tỷ lệ phí bảo hiểm."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Các rủi ro trong bảo hiểm phi nhân thọ phải có tính bấp bênh có nghĩa là:",
+    "answer": "Rủi ro xảy ra một cách ngẫu nhiên hoặc nếu có yếu tố chắc chắn xảy ra thì cũng không biết trước được thời điểm"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Mức miễn thường có khấu trừ là 200$, giá trị thiệt hại thực tế là 500$, số tiền chi trả của doanh nghiệp bảo hiểm cho khách hàng tham gia bảo hiểm là",
+    "answer": "300$"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nguyên tắc thế quyền hợp pháp được áp dụng trong bảo hiểm tài sản khi:",
+    "answer": "Xảy ra bảo hiểm trùng"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Trong bảo hiểm trách nhiệm dân sự, người thụ hưởng quyền lợi bảo hiểm là:",
+    "answer": "Người thứ b"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Đặc điểm nào không phải của bảo hiểm trách nhiệm dân sự:",
+    "answer": "ời hạn bảo hiểm dà"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Đối tượng bảo hiểm của bảo hiểm trách nhiệm dân sự:",
+    "answer": "Là trách nhiệm dân sự của người được bảo hiểm đối với người thứ ba theo luật đị"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Giá trị bảo hiểm trong bảo hiểm phi nhân thọ:",
+    "answer": "Là giá trị thị trường của tài sản được bảo hiểm tại thời điểm xác định giá trị - thông thường là thời điểm giao kết hợp đồng."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Công thức xác định phí bảo hiểm phi nhân thọ:",
+    "answer": "P = f + d"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Ý nghĩa cùa áp dụng mức miễn thường trong bảo hiểm phi nhân thọ:",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Căn cứ vào tính chất của rủi ro và sự kiện bảo hiểm, người ta chia bảo hiểm thương mại thành",
+    "answer": "Bảo hiểm nhân thọ và bảo hiểm phi nhân thọ"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Khi áp dụng miễn thường có khấu trừ, số tiền chi trả của doanh nghiệp bảo hiểm cho khách hàng:",
+    "answer": "Bằng giá trị thiệt hại thực tế trừ mức miễn thường"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Các doanh nghiệp kinh doanh bảo hiểm phi nhân thọ chịu sự điều chỉnh của:",
+    "answer": "Luật Kinh doanh bảo hiểm"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Nghiệp vụ bảo hiểm nào không thuộc loại hình bảo hiểm tài sản:",
+    "answer": "Bảo hiểm du lị"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Trong công thức P=Sb*R, R là:",
+    "answer": "ỷ lệ phí bảo hiểm"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Nguyên tắc thế quyền hợp pháp được áp dụng trong bảo hiểm tài sản khi:",
+    "answer": "Xảy ra bảo hiểm trùng"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Giá trị bảo hiểm chỉ tồn tại trong loại hình bảo hiểm phi nhân thọ nào:",
+    "answer": "Bảo hiểm tài sả"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Các loại hình bảo hiểm phi nhân thọ bao gồm:",
+    "answer": "Bảo hiểm tài sản, bảo hiểm trách nhiệm dân sự và bảo hiểm sức khoẻ"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Phí bảo hiểm tỷ lệ thuận với:",
+    "answer": "Số tiền bảo hiểm"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Các rủi ro trong bảo hiểm phi nhân thọ phải có tính bấp bênh có nghĩa là:",
+    "answer": "Rủi ro xảy ra một cách ngẫu nhiên hoặc nếu có yếu tố chắc chắn xảy ra thì cũng không biết trước được thời điểm"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Mức miễn thường có khấu trừ là 200$, giá trị thiệt hại thực tế là 500$, số tiền chi trả của doanh nghiệp bảo hiểm cho khách hàng tham gia bảo hiểm là",
+    "answer": "300$"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Giá trị bảo hiểm trong bảo hiểm phi nhân thọ:",
+    "answer": "Là giá trị thị trường của tài sản được bảo hiểm tại thời điểm xác định giá trị - thông thường là thời điểm giao kết hợp đồng."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Đối tượng bảo hiểm của bảo hiểm trách nhiệm dân sự:",
+    "answer": "Là trách nhiệm dân sự của người được bảo hiểm đối với người thứ ba theo luật đị"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Trong bảo hiểm phi nhân thọ, rủi ro được bảo hiểm phải thoả mãn các điều kiện sau:",
+    "answer": "Các rủi ro không phụ thuộc vào mong muốn của người tham gia bảo hiểm"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Thiệt hại nằm trong phạm vi trách nhiệm của bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với người thứ ba là:",
+    "answer": "Thệt hại về tính mạng và tình trạng sức khỏe của bên thứ b"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Người thứ ba trong nghiệp vụ bắt buộc TNDS của chủ xe cơ giới là:",
+    "answer": "Nạn nhân trong vụ tai nạn có phát sinh trách nhiệm dân sự"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Rủi ro nào sau đây thuộc phạm vi bảo hiểm vật chất xe cơ giới:",
+    "answer": "Mất cắp toàn bộ x"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Hai xe A và B đâm va. Theo giám định, lỗi và thiệt hại của 2 xe như sau:",
+    "answer": "3,5 triệu đồng"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Tổn thất nào không thuộc phạm vi bảo hiểm của bảo hiểm vật chất xe cơ giới",
+    "answer": "Hỏng hóc do khuyết tật của x"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Ông Hoàng có xe ô tô tham gia bảo hiểm tổng thành thân vỏ tại DNBH X. Giá trị xe là 500 triệu đồng. Tổng thành thân vỏ chiếm 30% giá trị xe. Trong thời hạn bảo hiểm, xe bị tổn thất toàn bộ. Vậy X bồi thường thiệt hại cho ông Hoàng là:",
+    "answer": "150 triệu đồng"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Trường hợp nào bị loại trừ trong bảo hiểm TNDS chủ xe cơ giới:",
+    "answer": "Hành động cố ý gây thiệt hại của chủ xe, lái xe hoặc của người bị thiệt hạ"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Ông Hùng mua bảo hiểm trách nhiệm dân sự bắt buộc xe ô tô tại DNBH X với hạn mức trách nhiệm của công ty bảo hiểm là 100 triệu đồng/vụ đối với tài sản và 100 triệu đồng/người/vụ tai nạn. Trong thời hạn hợp đồng, xe của ông Hùng gây thiệt hại cho ông Dũng về tài sản là 120 triệu đồng và về người là 70 triệu đồng. Vậy X bồi thường trách nhiệm dân sự phát sinh cho ông Hùng là",
+    "answer": "170 triệu đồng"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Trường hợp nào sau đây nhà bảo hiểm không bồi thường trong bảo hiểm vật chất xe cơ giới?",
+    "answer": "Xe vượt ra khỏi lãnh thổ quốc g"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Yếu tố nào không ảnh hưởng tới phí bảo hiểm vật chất xe cơ giới",
+    "answer": "Hạn mức bảo hiểm trách nhiệm dân sự của công ty bảo hiểm"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Đối tượng bảo hiểm của bảo hiểm vật chất xe:",
+    "answer": "Chiếc xe còn giá trị và được phép lưu hà"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Trong bảo hiểm vật chất xe ô tô, áp dụng mức miễn thường có khấu trừ, nguyên tắc nào sau đây được áp dụng khi xảy ra thiệt hại thuộc phạm vi bảo hiểm:",
+    "answer": "Thiệt hại xe dưới mức miễn thường, Chủ xe tự chịu; Thiệt hại trên mức miễn thường thì số tiền bồi thường bảo hiểm bằng thiệt hại trừ mức khấu trừ"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Rủi ro nào sau đây thuộc phạm vi bảo hiểm vật chất xe cơ giới",
+    "answer": "Đâm va"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Đối tượng bảo hiểm của bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với người thứ ba là:",
+    "answer": "Trách nhiệm dân sự của chủ x"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Trường hợp nào sau đây thuộc phạm vi trách nhiệm bảo hiểm theo sản phẩm bảo hiểm vật chất xe ôtô:",
+    "answer": "Mất cắp, mất cướp toàn bộ x"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Tổn thất nào không thuộc phạm vi bảo hiểm của bảo hiểm vật chất xe cơ giới",
+    "answer": "Thiệt hại của người thứ ba do xe được bảo hiểm gây"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Trong trường hợp bảo hiểm vật chất xe cơ giới ngang giá trị, đối với tổn thất toàn bộ thuộc phạm vi bảo hiểm thì số tiền bồi thường là",
+    "answer": "Nguyên giá – khấu hao từ khi mua xe mới đến khi xảy ra tai nạn – Tận thu"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Công ty bảo hiểm trách nhiệm dân sự không chịu trách nhiệm bồi thường trong trường hợp:",
+    "answer": "Thiệt hại đối với tài sản bị cướp"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trong trường hợp bảo hiểm vật chất xe cơ giới ngang giá trị, đối với tổn thất bộ phận thuộc phạm vi bảo hiểm thì số tiền bồi thường là",
+    "answer": "Chi phí sửa chữ"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Rủi ro nào sau đây không thuộc phạm vi bảo hiểm vật chất xe cơ giới?",
+    "answer": "Chiế"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Phí bảo hiểm TNDS của chủ xe cơ giới đối với người thứ ba không phụ thuộc vào những yếu tố nào sau đây:",
+    "answer": "Giá trị chiếc xe khi tham gia bảo hiểm"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Ông Hùng mua bảo hiểm trách nhiệm dân sự bắt buộc xe ô tô tại DNBH X với hạn mức trách nhiệm của công ty bảo hiểm là 100 triệu đồng/vụ đối với tài sản và 100 triệu đồng/người/vụ tai nạn. Trong thời hạn hợp đồng, xe của ông Hùng gây thiệt hại cho ông Dũng về tài sản là 90 triệu đồng và về người là 10 triệu đồng.",
+    "answer": "100 triệu đồng"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Yếu tố nào không ảnh hưởng tới phí bảo hiểm vật chất xe cơ giới",
+    "answer": "ệt hại của người thứ b"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Tổn thất nào không thuộc phạm vi bảo hiểm của bảo hiểm vật chất xe cơ giới",
+    "answer": "ệt hại của người thứ ba do xe được bảo hiểm gây"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Hai xe A và B đâm va. Theo giám định, lỗi và thiệt hại của 2 xe như sau:",
+    "answer": "1,8 triệu đồng"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Điều kiện phát sinh TNDS trong bảo hiểm TNDS của chủ xe cơ giới là:",
+    "answer": "Phải có thiệt hại thực tế; Phải có hành vi gây thiệt hại trái pháp luật và có mối quan hệ nhân quả giữa hành vi trái pháp luật đó với thiệt hại; Phải có lỗi của người gây thiệt hạ"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Tổn thất nào không thuộc phạm vi bảo hiểm của bảo hiểm vật chất xe cơ giới",
+    "answer": "Xe mất giá trên thị trường"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Tổn thất nào không thuộc phạm vi bảo hiểm của bảo hiểm vật chất xe cơ giới",
+    "answer": "Xe không có giấy phép lưu hà"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Trách nhiệm dân sự là:",
+    "answer": "ách nhiệm bồi thường của 1 cá nhân, tổ chức gây thiệt hại đến tài sản, sức khoẻ... của chủ thể khác, có thể quy đổi về mặt tài chính, mà hành vi đó chưa phải là tội phạm theo quy định tại Bộ luật hình sự."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Hạn mức trách nhiệm bảo hiểm trong bảo hiểm bắt buộc trách nhiệm dân sự chủ xe cơ giới là:",
+    "answer": "Số tiền tối đa doanh nghiệp bảo hiểm có thể phải trả đối với thiệt hại về thân thể, tính mạng và tài sản của bên thứ ba và hành khách do xe cơ giới gây ra trong mỗi vụ tai nạn xảy ra thuộc phạm vi trách nhiệm bảo hiểm"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Ngày 01/01/2019, Ông Y ký với DNBH X HĐBH vật chất cho xe ô tô của mình với thời hạn bảo hiểm là 12 tháng. Phí bảo hiểm là 20 triệu đồng/năm. Ngày 01/03/2019, xe ông A gặp tai nạn và đã được X trả tiền bồi thường 15 triệu. Ông Y có yêu cầu chấm dứt Hợp đồng bảo hiểm nói trên và được sự chấp thuận của X vào ngày 01/8/2019. X có trách nhiệm hoàn phí bao nhiêu?",
+    "answer": "Không hoàn lạ"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Ông Hoàng có xe ô tô tham gia bảo hiểm với số tiền bảo hiểm bằng 40% giá trị bảo hiểm. Giá trị xe là 500 triệu đồng. Trong thời hạn bảo hiểm, xe bị tổn thất 70 triệu đồng. Vậy DNBH X bồi thường thiệt hại cho ông Hoàng là",
+    "answer": "28 triệu đồng"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Đối tượng bảo hiểm của bảo hiểm vật chất xe:",
+    "answer": "Chiếc xe còn giá trị và được phép lưu hà"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Hai xe A và B đâm va. Theo giám định, lỗi và thiệt hại của 2 xe như sau:",
+    "answer": "3,5 triệu đồng"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Yếu tố nào không ảnh hưởng tới phí bảo hiểm vật chất xe cơ giới",
+    "answer": "ệt hại của người thứ b"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Trường hợp nào sau đây nhà bảo hiểm không bồi thường trong bảo hiểm vật chất xe cơ giới?",
+    "answer": "Xe vượt ra khỏi lãnh thổ quốc g"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Hai xe A và B đâm va. Theo giám định, lỗi và thiệt hại của 2 xe như sau:",
+    "answer": "1,8 triệu đồng"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Công ty bảo hiểm trách nhiệm dân sự không chịu trách nhiệm bồi thường trong trường hợp:",
+    "answer": "ệt hại đối với tài sản bị cướp"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Trong bảo hiểm vật chất xe ô tô, áp dụng mức miễn thường có khấu trừ, nguyên tắc nào sau đây được áp dụng khi xảy ra thiệt hại thuộc phạm vi bảo hiểm:",
+    "answer": "ệt hại xe dưới mức miễn thường, Chủ xe tự chịu; Thiệt hại trên mức miễn thường thì số tiền bồi thường bảo hiểm bằng thiệt hại trừ mức khấu trừ"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Ông Hoàng có xe ô tô tham gia bảo hiểm với số tiền bảo hiểm bằng 40% giá trị bảo hiểm. Giá trị xe là 500 triệu đồng. Trong thời hạn bảo hiểm, xe bị tổn thất 70 triệu đồng. Vậy DNBH X bồi thường thiệt hại cho ông Hoàng là",
+    "answer": "28 triệu đồng"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Ông Hoàng có xe ô tô tham gia bảo hiểm tổng thành thân vỏ tại DNBH X. Giá trị xe là 500 triệu đồng. Tổng thành thân vỏ chiếm 30% giá trị xe. Trong thời hạn bảo hiểm, xe bị tổn thất toàn bộ. Vậy X bồi thường thiệt hại cho ông Hoàng là:",
+    "answer": "150 triệu đồng"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Trong trường hợp bảo hiểm vật chất xe cơ giới ngang giá trị, đối với tổn thất toàn bộ thuộc phạm vi bảo hiểm thì số tiền bồi thường là",
+    "answer": "Nguyên giá – khấu hao từ khi mua xe mới đến khi xảy ra tai nạn – Tận thu"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Trường hợp nào bị loại trừ trong bảo hiểm TNDS chủ xe cơ giới:",
+    "answer": "Hành động cố ý gây thiệt hại của chủ xe, lái xe hoặc của người bị thiệt hạ"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Ông Hùng mua bảo hiểm trách nhiệm dân sự bắt buộc xe ô tô tại DNBH X với hạn mức trách nhiệm của công ty bảo hiểm là 100 triệu đồng/vụ đối với tài sản và 100 triệu đồng/người/vụ tai nạn. Trong thời hạn hợp đồng, xe của ông Hùng gây thiệt hại cho ông Dũng về tài sản là 90 triệu đồng và về người là 10 triệu đồng.",
+    "answer": "100 triệu đồng"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Rủi ro nào sau đây thuộc phạm vi bảo hiểm vật chất xe cơ giới:",
+    "answer": "Mất cắp toàn bộ x"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Điều kiện phát sinh TNDS trong bảo hiểm TNDS của chủ xe cơ giới là:",
+    "answer": "Phải có thiệt hại thực tế; Phải có hành vi gây thiệt hại trái pháp luật và có mối quan hệ nhân quả giữa hành vi trái pháp luật đó với thiệt hại; Phải có lỗi của người gây thiệt hạ"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Yếu tố nào không ảnh hưởng tới phí bảo hiểm vật chất xe cơ giới",
+    "answer": "Hạn mức bảo hiểm trách nhiệm dân sự của công ty bảo hiểm"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Phí bảo hiểm TNDS của chủ xe cơ giới đối với người thứ ba không phụ thuộc vào những yếu tố nào sau đây:",
+    "answer": "Giá trị chiếc xe khi tham gia bảo hiểm"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Đáp án nào không phải đặc điểm của bảo hiểm hỏa hoạn?",
+    "answer": "Doanh số của bảo hiểm hỏa hoạn ngày càng giảm dần."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Trong bảo hiểm hỏa hoạn, \"nổ\" được định nghĩa là?",
+    "answer": "Một quá trình tăng lên đột ngột của một loại vật chất thành thể tích lớn hơn rất nhiều lần thể tích ban đầu dẫn đến sự vượt áp, đồng thời giải phóng ra năng lượng cực lớn và nhiệt độ rất cao."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Đối tượng của bảo hiểm hỏa hoạn là",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Chọn đáp án sai: Khi tổn thất xảy ra, người được bảo hiểm phải kịp thời thông báo cho doanh nghiệp bảo hiểm các nội dung:",
+    "answer": "ệt hại thương mại do đình trệ sản xuất, kinh d"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Sau khi nhận được thông báo tổn thất từ người tham gia bảo hiểm, DNBH cử nhân viên giám định để làm rõ các vấn đề:",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Đáp án nào không phải đặc điểm của bảo hiểm hỏa hoạn?",
+    "answer": "Khi triển khai nghiệp vụ bảo hiểm hỏa hoạn, công tác đề phòng và hạn chế tổn thất không quá quan trọng."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Khi tổn thất xảy ra, người được bảo hiểm phải kịp thời thông báo cho doanh nghiệp bảo hiểm các nội dung:",
+    "answer": "Cả A, B, C."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Chọn đáp án sai: Trong bảo hiểm hoả hoạn, doanh nghiệp bảo hiểm có trách nhiệm bồi thường các thiệt hại và chi phí sau?",
+    "answer": "Chi phí thiệt hại về người do hỏa hoạn xảy"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Rủi ro hỏa hoạn thưởng chỉ xảy ra ở",
+    "answer": "Hỏa hoạn có thể xảy ra ở mọi lúc, mọi nơ"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Trong bảo hiểm hoả hoạn, doanh nghiệp bảo hiểm có trách nhiệm bồi thường các thiệt hại và chi phí sau?",
+    "answer": "Cả A, B, C."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Trong bảo hiểm hỏa hoạn, số tiền bảo hiểm là",
+    "answer": "Giới hạn bồi thường tối đa của doanh nghiệp bảo hiểm trong trường hợp tài sản được bảo hiểm bị tổn thất toàn bộ"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Trong bảo hiểm hỏa hoạn, giá trị bảo hiểm là gì",
+    "answer": "Giá trị của tài sản được bảo hiểm"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Yếu tố nào không ảnh hưởng đến việc tính phí bảo hiểm hỏa hoạn",
+    "answer": "Doanh thu năm gần nhất của doanh nghiệp tham gia bảo hiểm."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Bảo hiểm hỏa hoạn bảo hiểm cho các rủi ro chính nào?",
+    "answer": "Cháy, sét, nổ"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Rủi ro phụ trong hợp đồng bảo hiểm hỏa hoạn không bao gồm?",
+    "answer": "Những thiệt hại gây ra do sự ô nhiễm, nhiễm bẩ"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Chọn đáp án sai: Bảo hiểm hỏa hoạn có đặc điểm",
+    "answer": "DNBH ít khi triển khai công tác tái bảo hiểm với các hợp đồng bảo hiểm hỏa hoạ"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Trong bảo hiểm hỏa hoạn, bản chất của “sét” là?",
+    "answer": "là hiện tượng cháy xảy ra cực nhanh có thể dẫn đến thiệt hại về người và tài sản."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Khi đánh giá rủi ro hỏa hoạn, DNBH cần",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Đáp án nào không phải là các trường hợp loại trừ trong bảo hiểm hỏa hoạn",
+    "answer": "Động đất, núi lửa phu"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Chọn đáp án sai: phí trong bảo hiểm hỏa hoạn:",
+    "answer": "Phụ thuộc vào kết quả kinh doanh của doanh nghiệp"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Chọn 1 phương án đúng về đối tượng của bảo hiểm cháy, nổ bắt buộc?",
+    "answer": "A và B."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Cơ sở tính giá trị tổn thất đối với đối với nhà xưởng và công trình kiến trúc là:",
+    "answer": "Chi phí xây dựng trừ đi khấu"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Trong bảo hiểm hỏa hoạn, giá trị bảo hiểm của các thành phẩm và bán thành phẩm được xác định dựa trên",
+    "answer": "Giá thành sản xuấ"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Đặc điểm của việc tính phí bảo hiểm hỏa hoạn:",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Trong bảo hiểm hoả hoạn, doanh nghiệp bảo hiểm sẽ chịu trách nhiệm bồi thường cho:",
+    "answer": "ài sản được bảo hiểm bị thiệt hại do lửa chuyên dùng"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Giá trị bảo hiểm đối với nhà xưởng và các công trình kiến trúc là",
+    "answer": "Cả A, B, C."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Trong bảo hiểm hoả hoạn, doanh nghiệp bảo hiểm sẽ chịu trách nhiệm bồi thường cho:",
+    "answer": "Cả A, B ,C"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Đối tượng của bảo hiểm hỏa hoạn không bao gồm",
+    "answer": "Hàng hóa ký gửi, nhận ủy thá"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Trong bảo hiểm hỏa hoạn, cháy phải",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Việc xác định phí bảo hiểm hỏa hoạn phụ thuộc vào",
+    "answer": "Cả A, B, C đều đúng."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Chọn đáp án sai: Trong bảo hiểm hỏa hoạn, giá trị tổn thất của máy móc, thiết bị là::",
+    "answer": "Nếu tổn thất có thể sửa chữa được thì cơ sở tính giá trị tổn thất là giá trị thị trường"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Chọn đáp án sai: Sau khi nhận được thông báo tổn thất từ người tham gia bảo hiểm, DNBH cử nhân viên giám định để làm rõ các vấn đề:",
+    "answer": "Ảnh hưởng của hỏa hoạn đến doanh thu của doanh nghiệp"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Trong bảo hiểm hỏa hoạn, \"cháy\" được định nghĩa là?",
+    "answer": "Phản ứng hóa học có tỏa nhiệt và phát sáng do nổ hoặc do bất kỳ nguyên nhân nào khác."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Đối tượng của bảo hiểm hỏa hoạn là",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Trong bảo hiểm hoả hoạn, doanh nghiệp bảo hiểm sẽ chịu trách nhiệm bồi thường cho:",
+    "answer": "Cả A, B ,C"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Đối tượng của bảo hiểm hỏa hoạn không bao gồm",
+    "answer": "Hàng hóa ký gửi, nhận ủy thá"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Rủi ro phụ trong hợp đồng bảo hiểm hỏa hoạn không bao gồm?",
+    "answer": "Những thiệt hại gây ra do sự ô nhiễm, nhiễm bẩ"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Bảo hiểm hỏa hoạn bảo hiểm cho các rủi ro chính nào?",
+    "answer": "Cháy, sét, nổ"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Trong bảo hiểm hoả hoạn, doanh nghiệp bảo hiểm có trách nhiệm bồi thường các thiệt hại và chi phí sau?",
+    "answer": "Cả A, B, C."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Rủi ro hỏa hoạn thưởng chỉ xảy ra ở",
+    "answer": "Hỏa hoạn có thể xảy ra ở mọi lúc, mọi nơ"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Đáp án nào không phải đặc điểm của bảo hiểm hỏa hoạn?",
+    "answer": "Khi triển khai nghiệp vụ bảo hiểm hỏa hoạn, công tác đề phòng và hạn chế tổn thất không quá quan trọng."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Sau khi nhận được thông báo tổn thất từ người tham gia bảo hiểm, DNBH cử nhân viên giám định để làm rõ các vấn đề:",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Chọn đáp án sai: Khi tổn thất xảy ra, người được bảo hiểm phải kịp thời thông báo cho doanh nghiệp bảo hiểm các nội dung:",
+    "answer": "ệt hại thương mại do đình trệ sản xuất, kinh d"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Chọn đáp án sai: Trong bảo hiểm hỏa hoạn, giá trị tổn thất của máy móc, thiết bị là::",
+    "answer": "Nếu tổn thất có thể sửa chữa được thì cơ sở tính giá trị tổn thất là giá trị thị trường"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Chọn đáp án sai: phí trong bảo hiểm hỏa hoạn:",
+    "answer": "Phụ thuộc vào kết quả kinh doanh của doanh nghiệp"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Trong bảo hiểm hỏa hoạn, giá trị bảo hiểm là gì",
+    "answer": "Giá trị của tài sản được bảo hiểm"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Cơ sở tính giá trị tổn thất đối với đối với nhà xưởng và công trình kiến trúc là:",
+    "answer": "Chi phí xây dựng trừ đi khấu"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Trong bảo hiểm hỏa hoạn, \"nổ\" được định nghĩa là?",
+    "answer": "Một quá trình tăng lên đột ngột của một loại vật chất thành thể tích lớn hơn rất nhiều lần thể tích ban đầu dẫn đến sự vượt áp, đồng thời giải phóng ra năng lượng cực lớn và nhiệt độ rất cao."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Đặc điểm của việc tính phí bảo hiểm hỏa hoạn:",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Đáp án nào không phải đặc điểm của bảo hiểm hỏa hoạn?",
+    "answer": "Doanh số của bảo hiểm hỏa hoạn ngày càng giảm dần."
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "Vai trò của bảo hiểm:",
+    "answer": "Vai trò kinh tế và xã hội"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Mục nào KHÔNG phải là vai trò kinh tế của bảo hiểm:",
+    "answer": "Bảo hiểm góp phần ngăn ngừa, đề phòng và hạn chế tổn thất, giúp cho cuộc sống của con người an toàn hơn, xã hội trật tự hơ"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Chi phí được bảo hiểm trả tiền được tính toán dựa theo:",
+    "answer": "Luật thống kê"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Công ty bảo hiểm hành khách đường sắt đầu tiên đã được thành lập năm nào?",
+    "answer": "1849"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Việc san sẻ rủi ro, bù trừ tổn thất trong bảo hiểm được bên bảo hiểm tính toán và quản lý dựa vào:",
+    "answer": "Số liệu thống kê."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Cơ chế chuyển giao rủi ro trong bảo hiểm được thực hiện giữa các bên:",
+    "answer": "Bên tham gia bảo hiểm và bên bảo hiểm ."
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Vai trò xã hội của bảo hiểm là:",
+    "answer": "Bảo hiểm là chỗ dựa tinh thần cho mọi người dân, mọi tổ chức kinh tế - xã hộ"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm hàng hải đầu tiên được ký năm nào?",
+    "answer": "1347"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Thị trường bảo hiểm thương mại KHÔNG bao gồm:",
+    "answer": "ổ chức không có tư cách pháp nhâ"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Bảo hiểm hỏa hoạn trên thế giới phát triển nhanh chóng cho đến ngày nay là từ vụ cháy lớn tại nước nào?",
+    "answer": "A"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Khi nào bên bảo hiểm trả tiền cho bên tham gia hay cho người thứ ba?",
+    "answer": "Sau khi sự kiện bảo hiểm hay rủi ro sảy ra gây tổn thất."
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Mục nào KHÔNG phải là vai trò kinh tế của bảo hiểm:",
+    "answer": "Các loại hình bảo hiểm phát triển đã tạo thêm công ăn việc làm cho người lao động, đồng thời còn tạo nên một nếp sống tiết kiệm trên phạm vi toàn xã hộ"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Đại lý bảo hiểm là:",
+    "answer": "ung gian bảo hiểm"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Điều kiện phát triển của bảo hiểm thương mại KHÔNG phải là:",
+    "answer": "Chính sách dân số"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Khái niệm về bào hiểm là:",
+    "answer": "Bảo hiểm là một hoạt động dịch vụ tài chính nhằm phân phối lại những chi phí mất mát không mong đợ"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Bản chất của bảo hiểm thương mại là:",
+    "answer": "Là hoạt động dịch vụ tài chí"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Nguồn gốc của bảo hiểm là:",
+    "answer": "Rủ"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Khi nào bên tham gia bảo hiểm phải nộp phí bảo hiêm?",
+    "answer": "ước khi xảy ra rủi ro hay sự kiện BH."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Mục nào là vai trò xã hội của bảo hiểm:",
+    "answer": "Bảo hiểm là phương tiện làm giàu"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm nhân thọ đầu tiên được ký ở đâu?",
+    "answer": "A"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Mục nào KHÔNG phải là vai trò kinh tế của bảo hiểm:",
+    "answer": "Bảo hiểm là phương tiện làm giàu"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào có mục đích kinh doanh?",
+    "answer": "Bảo hiểm thương mại."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Chi phí được bảo hiểm là:",
+    "answer": "Chi phí mất mát không mong đợ"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Hiểu khái niệm về bảo hiểm là:",
+    "answer": "Bảo hiểm là cơ chế mà người tham gia BH chuyển nhượng rủi ro cho công ty bảo hiểm"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm nhân thọ đầu tiên được ký năm nào?",
+    "answer": "1583"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Công ty bảo hiểm hỏa hoạn đầu tiên trên thế giới ra đời năm nào?",
+    "answer": "1670"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Điều kiện phát triển của bảo hiểm thương mại KHÔNG phải là:",
+    "answer": "Sự thành đạt trong công việ"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Doanh nghiệp bảo hiểm cam kết sẽ chi trả hoặc bồi thường một khoản tiền khi:",
+    "answer": "Có rủi ro được bảo hiểm xảy ra gây tổn thấ"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Thị trường bảo hiểm thương mại bao gồm:",
+    "answer": "Đại lý bảo hiểm"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Khách hàng bảo hiểm tiềm năng KHÔNG phải là người:",
+    "answer": "Là người nước ngoài sống và làm việc tại Việt Nam"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Khách hàng bảo hiểm tiềm năng KHÔNG phải là người:",
+    "answer": "Là người Việt Nam"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Hiểu khái niệm về bảo hiểm là:",
+    "answer": "Phân chia giá trị thiệt hại giữa tất cả những người được bảo hiểm"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Công ty bảo hiểm hành khách đường sắt đầu tiên đã được thành lập tại nước nào?",
+    "answer": "Anh"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Công ty bảo hiểm hỏa hoạn đầu tiên trên thế giới ra đời năm nào?",
+    "answer": "1670"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Nguồn gốc của bảo hiểm là:",
+    "answer": "Rủi ro"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Mục nào là vai trò xã hội của bảo hiểm:",
+    "answer": "Bảo hiểm là phương tiện làm giàu"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Mục nào KHÔNG phải là vai trò kinh tế của bảo hiểm:",
+    "answer": "Các loại hình bảo hiểm phát triển đã tạo thêm công ăn việc làm cho người lao động, đồng thời còn tạo nên một nếp sống tiết kiệm trên phạm vi toàn xã hộ"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Khi nào bên tham gia bảo hiểm phải nộp phí bảo hiêm?",
+    "answer": "ước khi xảy ra rủi ro hay sự kiện BH."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Điều kiện phát triển của bảo hiểm thương mại KHÔNG phải là:",
+    "answer": "Sự thành đạt trong công việ"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Chi phí được bảo hiểm trả tiền được tính toán dựa theo:",
+    "answer": "Luật thống kê"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Thị trường bảo hiểm thương mại KHÔNG bao gồm:",
+    "answer": "ổ chức không có tư cách pháp nhâ"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Chi phí được bảo hiểm là:",
+    "answer": "Chi phí mất mát không mong đợ"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Hiểu khái niệm về bảo hiểm là:",
+    "answer": "Bảo hiểm là cơ chế mà người tham gia BH chuyển nhượng rủi ro cho công ty bảo hiểm"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Khách hàng bảo hiểm tiềm năng KHÔNG phải là người:",
+    "answer": "Là người Việt Nam"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Đại lý bảo hiểm là:",
+    "answer": "ung gian bảo hiểm"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Cơ chế chuyển giao rủi ro trong bảo hiểm được thực hiện giữa các bên:",
+    "answer": "Bên tham gia bảo hiểm và bên bảo hiểm ."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm nhân thọ đầu tiên được ký ở đâu?",
+    "answer": "A"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Doanh nghiệp bảo hiểm cam kết sẽ chi trả hoặc bồi thường một khoản tiền khi:",
+    "answer": "Có rủi ro được bảo hiểm xảy ra gây tổn thấ"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm nhân thọ đầu tiên được ký năm nào?",
+    "answer": "1583"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào có mục đích kinh doanh?",
+    "answer": "Bảo hiểm thương mại."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Mục đích của việc áp dụng chế độ miễn thường trong bảo hiểm?",
+    "answer": "Áp dụng nguyên tắc bồi thường"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường 40 tr.đ. Chủ tài sản mua bảo hiểm với số tiền bảo hiểm 20 tr.đ. Thiệt hại tài sản thuộc phạm vi bảo hiểm là 20 tr.đ. Bảo hiểm bồi thường bao nhiêu?",
+    "answer": "10 tr.đ"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường là 100 tr.đ, được mua bảo hiểm với tỷ lệ phí bảo hiểm 0,8%. Chủ tài sản đã nộp phí bảo hiểm là 400.000 đ. Trong thời gian còn hiệu lực của hợp đồng bảo hiểm, tài sản gặp rủi ro thuộc phạm vi bảo hiểm, thiệt hại 40 tr.đ. Số tiền bảo hiểm bồi thường là bao nhiêu?",
+    "answer": "40 tr.đ"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường không khấu trừ với mức miễn thường là 1.000 USD, nếu tổn thất 2.000 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "2.000 USD"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Yêu cầu của nguyên tắc bồi thường trong bảo hiểm tài sản là gì?",
+    "answer": "Số tiền bồi thường tối đa bằng giá trị thiệt hại."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường là 100 tr.đ, được mua bảo hiểm với tỷ lệ phí bảo hiểm 0,5%. Chủ tài sản đã nộp phí bảo hiểm là 300.000 đ. Trong thời gian còn hiệu lực của hợp đồng bảo hiểm, tài sản gặp rủi ro thuộc phạm vi bảo hiểm, thiệt hại 20 tr.đ. Số tiền bảo hiểm bồi thường là bao nhiêu?",
+    "answer": "12 tr.đ"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường có khấu trừ với mức miễn thường là 1.000 USD, nếu tổn thất 500 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "Không bồi thường"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường 500 tr.đ. Chủ tài sản mua bảo hiểm với số tiền bảo hiểm 300 tr.đ. Thiệt hại tài sản thuộc phạm vi bảo hiểm là 70 tr.đ. Bảo hiểm bồi thường bao nhiêu?",
+    "answer": "22 tr.đ"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Căn cứ vào vào khả năng kiếm lời trong kết cục của rủi ro, có những loại rủi ro nào?",
+    "answer": "Rủi ro thuần và rủi ro đầu cơ"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Theo nguyên tắc “Rủi ro có thể được bảo hiểm”, doanh nghiệp bảo hiểm sẽ nhận bảo hiểm cho các rủi ro nào?",
+    "answer": "Khách quan và bất ngờ không lường trước được."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Nguyên tắc nào không phải là nguyên tắc hoạt động của bảo hiểm thương mại?",
+    "answer": "Bảo hiểm toàn dân."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường có khấu trừ với mức miễn thường là 1.000 USD, nếu tổn thất 2.000 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "1.000 USD"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Bảo hiểm thương mại có mấy nguyên tắc hoạt động?",
+    "answer": "5."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Theo nguyên tắc “rủi ro có thể được bảo hiểm”, trường hợp nào được bảo hiểm?",
+    "answer": "ệt hại tài sản do sét đánh gây cháy."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Nhóm các biện pháp kiểm soát rủi ro bao gồm những biện pháp nào?",
+    "answer": "ánh né rủi ro; Ngăn ngừa tổn thất; Giảm thiểu tổn thấ"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Không đi máy bay là biện pháp quản trị rủi ro nào?",
+    "answer": "ánh né rủi ro."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Bảo hiểm tài sản KHÔNG áp dụng nguyên tắc nào?",
+    "answer": "Nguyên tắc khoán."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Đối tượng của bảo hiểm tài sản là gì?",
+    "answer": "ài sả"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Trong bảo hiểm tài sản, miễn thường là chế độ bồi thường bảo hiểm như thế nào?",
+    "answer": "Doanh nghiệp bảo hiểm chỉ bồi thường những thiệt hại thực tế vượt quá mức miễn thường."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Đối tượng của bảo hiểm thương mại?",
+    "answer": "Bảo hiểm tài sản, bảo hiểm con người và bảo hiểm trách nhiệm dân sự."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Loại bảo hiểm nào có đối tượng là trách nhiệm dân sự?",
+    "answer": "Bảo hiểm trách nhiệm chủ sử dụng lao động đối với người lao động"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc bồi thường thiệt hại?",
+    "answer": "Bảo hiểm hàng hó"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Căn cứ vào việc đo lường hậu quả của rủi ro, có những loại rủi ro nào?",
+    "answer": "Rủi ro tài chính và rủi ro thuần túy"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường không khấu trừ với mức miễn thường là 2.000 USD, nếu tổn thất 1.000 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "2.000 USD"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Tham gia bảo hiểm là biện pháp quản trị rủi ro nào?",
+    "answer": "ài trợ rủi ro."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc khoán?",
+    "answer": "Bảo hiểm tử vong"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Khi tham gia bảo hiểm, người tham gia sẽ thế nào?",
+    "answer": "Vẫn có thể gặp rủi ro."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trường hợp nào KHÔNG được áp dụng trong bảo hiểm tài sản?",
+    "answer": "Áp dụng nguyên tắc bồi thường"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc khoán?",
+    "answer": "Bảo hiểm nhân thọ"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc bồi thường thiệt hại?",
+    "answer": "Bảo hiểm vật chất xe cơ giớ"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Ý nghĩa của việc áp dụng chế độ miễn thường trong bảo hiểm?",
+    "answer": "Góp phần phòng chống lạm phá"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Yêu cầu của nguyên tắc “trung thực tuyệt đối” là gì?",
+    "answer": "Người tham gia bảo hiểm phải trung thực khi khai báo rủi ro và doanh nghiệp bảo hiểm phải có trách nhiệm cân nhắc các điều kiện, điều khoản để soạn thảo hợp đồng."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Trường hợp nào KHÔNG được áp dụng trong bảo hiểm con người?",
+    "answer": "Áp dụng bảo hiểm trùng"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc khoán?",
+    "answer": "Bảo hiểm nhân thọ"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường là 100 tr.đ, được mua bảo hiểm với tỷ lệ phí bảo hiểm 0,5%. Chủ tài sản đã nộp phí bảo hiểm là 300.000 đ. Trong thời gian còn hiệu lực của hợp đồng bảo hiểm, tài sản gặp rủi ro thuộc phạm vi bảo hiểm, thiệt hại 20 tr.đ. Số tiền bảo hiểm bồi thường là bao nhiêu?",
+    "answer": "12 tr.đ"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Theo nguyên tắc “Rủi ro có thể được bảo hiểm”, doanh nghiệp bảo hiểm sẽ nhận bảo hiểm cho các rủi ro nào?",
+    "answer": "Khách quan và bất ngờ không lường trước được."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc bồi thường thiệt hại?",
+    "answer": "Bảo hiểm vật chất xe cơ giớ"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Bảo hiểm tài sản KHÔNG áp dụng nguyên tắc nào?",
+    "answer": "Nguyên tắc khoán."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường là 100 tr.đ, được mua bảo hiểm với tỷ lệ phí bảo hiểm 0,8%. Chủ tài sản đã nộp phí bảo hiểm là 400.000 đ. Trong thời gian còn hiệu lực của hợp đồng bảo hiểm, tài sản gặp rủi ro thuộc phạm vi bảo hiểm, thiệt hại 40 tr.đ. Số tiền bảo hiểm bồi thường là bao nhiêu?",
+    "answer": "40 tr.đ"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Trong bảo hiểm tài sản, miễn thường là chế độ bồi thường bảo hiểm như thế nào?",
+    "answer": "Doanh nghiệp bảo hiểm chỉ bồi thường những thiệt hại thực tế vượt quá mức miễn thường."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường 40 tr.đ. Chủ tài sản mua bảo hiểm với số tiền bảo hiểm 20 tr.đ. Thiệt hại tài sản thuộc phạm vi bảo hiểm là 20 tr.đ. Bảo hiểm bồi thường bao nhiêu?",
+    "answer": "10 tr.đ"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc bồi thường thiệt hại?",
+    "answer": "Bảo hiểm hàng hó"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Khi tham gia bảo hiểm, người tham gia sẽ thế nào?",
+    "answer": "Vẫn có thể gặp rủi ro."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường có khấu trừ với mức miễn thường là 1.000 USD, nếu tổn thất 500 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "Không bồi thường"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Mục đích của việc áp dụng chế độ miễn thường trong bảo hiểm?",
+    "answer": "Áp dụng nguyên tắc bồi thường"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Yêu cầu của nguyên tắc “trung thực tuyệt đối” là gì?",
+    "answer": "Người tham gia bảo hiểm phải trung thực khi khai báo rủi ro và doanh nghiệp bảo hiểm phải có trách nhiệm cân nhắc các điều kiện, điều khoản để soạn thảo hợp đồng."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Không đi máy bay là biện pháp quản trị rủi ro nào?",
+    "answer": "ánh né rủi ro."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Căn cứ vào vào khả năng kiếm lời trong kết cục của rủi ro, có những loại rủi ro nào?",
+    "answer": "Rủi ro thuần và rủi ro đầu cơ"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Nguyên tắc nào không phải là nguyên tắc hoạt động của bảo hiểm thương mại?",
+    "answer": "Bảo hiểm toàn dân."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường 500 tr.đ. Chủ tài sản mua bảo hiểm với số tiền bảo hiểm 300 tr.đ. Thiệt hại tài sản thuộc phạm vi bảo hiểm là 70 tr.đ. Bảo hiểm bồi thường bao nhiêu?",
+    "answer": "22 tr.đ"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Bảo hiểm nhân thọ là loại nghiệp vụ bảo hiểm có vai trò đáp ứng các nhu cầu về tài chính của:",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Bảo hiểm nhân thọ là loại bảo hiểm thực hiện sự cam kết giữa hai bên, trong đó, bên bảo hiểm sẽ trả cho bên tham gia bảo hiểm?",
+    "answer": "Một số tiền nhất định khi có những sự kiện đã định trước xảy ra với điều kiện người tham gia bảo hiểm nộp phí bảo hiểm đầy đủ và đúng hạn."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Chị A mua BHNT cho chồng là anh B tại Bảo Việt. Theo đó, nếu anh B tử vong trong thời hạn bảo hiểm thì Bảo Việt sẽ chi trả 100 triệu đồng cho cháu C là con trai của hai vợ chồng. Như vậy, ai là người thụ hưởng?",
+    "answer": "Cháu C"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Hiệu lực hợp đồng BHNT thường được tính từ?",
+    "answer": "Ngày nộp phí đầu tiê"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Điều nào sau đây không phải là cơ sở cho sự phát triển của BHNT?",
+    "answer": "Sự phát triển của cơ sở hạ tầng"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Loại hợp đồng nào không thuộc hợp đồng bảo hiểm nhân thọ?",
+    "answer": "Hợp đồng bảo hiểm trách nhiệm dân sự"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Đặc điểm của sản phẩm bảo hiểm nhân thọ:",
+    "answer": "Bảo hiểm nhân thọ ra đời và phát triển trong những điều kiện kinh tế - xã hội nhất định."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Người thụ hưởng trong hợp đồng bảo hiểm nhân thọ:",
+    "answer": "Là người được người tham gia bảo hiểm chỉ định để nhận tiền bảo hiểm"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Chị A mua BHNT cho chồng là anh B tại Bảo Việt. Theo đó, nếu anh B tử vong trong thời hạn bảo hiểm thì Bảo Việt sẽ chi trả 100 triệu đồng cho cháu C là con trai của hai vợ chồng. Như vậy, ai là người được bảo hiểm?",
+    "answer": "Anh B"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Bên mua bảo hiểm nhân thọ có thể đóng phí bảo hiểm theo phương thức nào?",
+    "answer": "Cả 3 trường hợp trê"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Điều nào sau đây không phải là nhân tố ảnh hưởng đến việc tính phí BHNT?",
+    "answer": "u nhập của người thụ hưởng"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Chọn đáp án sai: người tham gia bảo hiểm là?",
+    "answer": "Là người mà sinh mạng và cuộc sống của họ được bảo hiểm theo các điều kiện của hợp đồng."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Sự kiện bảo hiểm trong BHNT thường bao gồm?",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Đáp án nào không phải là đặc điểm của bảo hiểm nhân thọ?",
+    "answer": "ời hạn bảo hiểm ngắ"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Trong trường hợp người thụ hưởng cố ý gây ra cái chết cho người được bảo hiểm thì doanh nghiệp bảo hiểm xử lý như thế nào là đúng?",
+    "answer": "Không chi trả tiền bảo hiểm"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Đặc điểm nào không phải đặc điểm của BHNT trọn đời?",
+    "answer": "ời hạn bảo hiểm xác đị"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Đặc điểm nào sau đây không phải đặc điểm của BHNT hỗn hợp?",
+    "answer": "ời hạn bảo hiểm không xác đị"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Đối tượng tham gia bảo hiểm nhân thọ là:",
+    "answer": "Cả ba đáp án trê"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Bảo hiểm nhân thọ là loại nghiệp vụ bảo hiểm cho trường hợp:",
+    "answer": "Người được bảo hiểm sống và chế"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Bên mua bảo hiểm không có quyền nào sau đây?",
+    "answer": "ừ chối trả phí khi đến hạn nộp phí BH định kỳ"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Bảo hiểm tử kỳ:",
+    "answer": "Doanh nghiệp bảo hiểm chi trả bảo hiểm khi người được bảo hiểm tử vong"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Loại hình BHNT nào có thời hạn bảo hiểm không xác định?",
+    "answer": "BH nhân thọ trọn đờ"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Các bên trong bảo hiểm nhân thọ bao gồm:",
+    "answer": "Doanh nghiệp bảo hiểm, người tham gia bảo hiểm, người được bảo hiểm và người thụ hưởng bảo hiểm"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Đối tượng bảo hiểm của bảo hiểm nhân thọ là:",
+    "answer": "ính mạng và những sự kiện có liên quan đến tuổi thọ của người được bảo hiểm."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Nghiệp vụ nào sau đây không thuộc loại hình BHNT??",
+    "answer": "Bảo hiểm hỏa hoạ"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Trường hợp nào sau đây DNBH từ chối chi trả số tiền bảo hiểm?",
+    "answer": "Người được bảo hiểm vận chuyển trái phép chất ma túy bị kết án tử hì"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Bảo hiểm nhân thọ không bao gồm:",
+    "answer": "Bảo hiểm y tế"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Các loại trừ bảo hiểm thông thường trong bảo hiểm nhân thọ không bao gồm:",
+    "answer": "Rủi ro về tính mạng, tình trạng sức khỏe không do lỗi cố ý của người mua bảo hiểm hay người được bảo hiểm"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Bảo hiểm nhân thọ hỗn hợp:",
+    "answer": "Số tiền bảo hiểm được chi trả khi hết hạn hợp đồng hoặc khi ngưòi được bảo hiểm tử vong trong thời hạn bảo hiểm."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Đáp án nào không phải là vai trò của BHNT?",
+    "answer": "Bảo vệ quyền lợi của người thứ b"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Trong 3 người: Người thụ hưởng, Người bảo hiểm, Người tham gia bảo hiểm; người nào bắt buộc phải đủ năng lực pháp lý theo quy định của Pháp luật?",
+    "answer": "Người tham gia bảo hiểm"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Bảo hiểm trong trường hợp sống:",
+    "answer": "Số tiền bảo hiểm có thể được chi trả một lần hoặc định kỳ vào thời điểm cam kết trên hợp đồng."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Điều khoản nào không phải là điều khoản bổ sung của BHNT",
+    "answer": "Điều khoản bổ sung trách nhiệm dân sự"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Sự kiện bảo hiểm trong BHNT thường bao gồm?",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Đặc điểm của sản phẩm bảo hiểm nhân thọ:",
+    "answer": "Bảo hiểm nhân thọ ra đời và phát triển trong những điều kiện kinh tế - xã hội nhất định."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Trong trường hợp người thụ hưởng cố ý gây ra cái chết cho người được bảo hiểm thì doanh nghiệp bảo hiểm xử lý như thế nào là đúng?",
+    "answer": "Không chi trả tiền bảo hiểm"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Loại hình BHNT nào có thời hạn bảo hiểm không xác định?",
+    "answer": "BH nhân thọ trọn đờ"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Người thụ hưởng trong hợp đồng bảo hiểm nhân thọ:",
+    "answer": "Là người được người tham gia bảo hiểm chỉ định để nhận tiền bảo hiểm"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Bên mua bảo hiểm không có quyền nào sau đây?",
+    "answer": "ừ chối trả phí khi đến hạn nộp phí BH định kỳ"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Điều nào sau đây không phải là cơ sở cho sự phát triển của BHNT?",
+    "answer": "Sự phát triển của cơ sở hạ tầng"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Trong 3 người: Người thụ hưởng, Người bảo hiểm, Người tham gia bảo hiểm; người nào bắt buộc phải đủ năng lực pháp lý theo quy định của Pháp luật?",
+    "answer": "Người tham gia bảo hiểm"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Đối tượng bảo hiểm của bảo hiểm nhân thọ là:",
+    "answer": "ính mạng và những sự kiện có liên quan đến tuổi thọ của người được bảo hiểm."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Loại hợp đồng nào không thuộc hợp đồng bảo hiểm nhân thọ?",
+    "answer": "Hợp đồng bảo hiểm trách nhiệm dân sự"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Bảo hiểm nhân thọ không bao gồm:",
+    "answer": "Bảo hiểm y tế"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Đặc điểm nào không phải đặc điểm của BHNT trọn đời?",
+    "answer": "ời hạn bảo hiểm xác đị"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Hiệu lực hợp đồng BHNT thường được tính từ?",
+    "answer": "Ngày nộp phí đầu tiê"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Đáp án nào không phải là đặc điểm của bảo hiểm nhân thọ?",
+    "answer": "ời hạn bảo hiểm ngắ"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Nghiệp vụ nào sau đây không thuộc loại hình BHNT??",
+    "answer": "Bảo hiểm hỏa hoạ"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Bảo hiểm nhân thọ hỗn hợp:",
+    "answer": "Số tiền bảo hiểm được chi trả khi hết hạn hợp đồng hoặc khi ngưòi được bảo hiểm tử vong trong thời hạn bảo hiểm."
+  }
+]

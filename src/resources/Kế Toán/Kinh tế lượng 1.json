@@ -1,0 +1,1088 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Để suy diễn cho các hệ số, theo giá thiết, các sai số ngẫu nhiên ui trong mô hình hồi quy có phân phối:",
+    "answer": "chuẩn."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Xét mô hình: CT = β1 + β2TN + β3SN + u Với CT là chi tiêu, TN là thu nhập, SN là số người. Hệ số β2 thuộc khoảng nào là phù hợp với lý thuyết kinh tế?",
+    "answer": "(0; 1)"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Với số liệu của 52 đại lý ",
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Với mô hình hồi quy k biến ",
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Xét các đại lý bán kem đánh răng và mô hình hồi quy: Q = β1 + β2P + β3PC+ u Với Q là số hộp kem đánh răng PS bán được, P là giá của 1 hộp PS, PC là giá của 1 hộp COLGATE. Hệ số β2 thuộc khoảng nào là phù hợp với lý thuyết kinh tế?",
+    "answer": "(– ∞; 0)"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Trong bài toán ước lượng hệ số hồi quy bằng khoảng tin cậy, đại lượng (1 – α) được gọi là:",
+    "answer": "độ tin cậy."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Xét các đại lý bán kem đánh răng, và mô hình hồi quy: Q = β1 + β2P + β3PC+ u. Với Q là số hộp kem đánh răng PS bán được, P là giá của 1 hộp PS, PC là giá của 1 hộp COLGATE. Hệ số β3 thuộc khoảng nào là phù hợp với lý thuyết kinh tế?",
+    "answer": "(0; + ∞)"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Trong bài toán kiểm định giả thuyết thì đại lượng α được gọi là:",
+    "answer": "mức ý nghĩa."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Trong bài toán ước lượng hệ số hồi quy bằng khoảng tin cậy, đại lượng (1 – α) được gọi là:",
+    "answer": "độ tin cậy."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Với mô hình hồi quy đơn thi tiêu chuẩn ",
+    "answer": "n – 2"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Với số liệu của 100 hộ gia đình ",
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Trong bài toán kiểm định giả thuyết thì đại lượng α được gọi là:",
+    "answer": "mức ý nghĩa."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Trong các biến sau: Khu vực (nơi sinh sống của hộ gia đình: Nông thôn – Thành thị); Thu nhập (Tổng thu nhập của hộ trong năm); Chi tiêu (Tổng chi tiêu của hộ trong năm). Số người (Tổng số người của hộ gia đình), biến nào là biến định tính?",
+    "answer": "Khu vực."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Với số liệu của 100 hộ gia đình ta có kết quả ước lượng: CT = 194,2407 + 69,54187KV + e",
+    "answer": "(48,45; 90,63)"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Xét mô hình hồi quy giữa biến phụ thuộc SL (sản lượng của doanh nghiệp) phụ thuộc vào biến độc lập CN (biến giả nhận giá trị 0; 1 tương ứng cho 2 trạng thái doanh nghiệp sử dụng phương pháp công nghệ A và B); K (vốn của doanh nghiệp). Đâu là hàm hồi quy mẫu đúng?",
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Số lượng trạng thái (hay tính chất, phạm trù) quy định cho 1 biến định tính phải như thế nào?",
+    "answer": "Phải từ 2 trạng thái trở lên."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Xét mô hình hồi quy giữa biến phụ thuộc SL (sản lượng của doanh nghiệp), phụ thuộc vào biến độc lập CN (biến giả nhận giá trị 0; 1 tương ứng cho 2 trạng thái doanh nghiệp sử dụng phương pháp công nghệ A và B). Đâu là hàm hồi quy tổng thể đúng?",
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Biến giả nhằm lượng hóa biến định tính giới tính (với 2 trạng thái nam và nữ) trong một mô hình hồi quy sẽ nhận các giá trị:",
+    "answer": "0 và 1"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Khi xây dựng mô hình hồi quy với biến độc lập là biến định tính “Vùng miền” với 3 trạng thái miền Bắc, miền Trung và miền Nam ta sử dụng mấy biến giả?",
+    "answer": "2 biến giả."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Xét mô hình hồi quy giữa biến phụ thuộc CT (chi tiêu của hộ gia đình), phụ thuộc vào biến độc lập KV (biến giả nhận giá trị 0; 1 tương ứng cho 2 trạng thái thành thị và nông thôn). Đâu là hàm hồi quy mẫu đúng?",
+    "answer": "D"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Trong các biến sau: Khu vực (nơi sinh sống của hộ gia đình: Nông thôn – Thành thị); Thu nhập (Tổng thu nhập của hộ trong năm); Chi tiêu (Tổng chi tiêu của hộ trong năm). Số người (Tổng số người của hộ gia đình), biến nào là biến định tính?",
+    "answer": "Khu vực."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Với số liệu của 935 quan sát",
+    "answer": "(121,666; 234,596)"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Với số liệu của 100 hộ gia đình ta có kết quả ước lượng: CT = 194,2407 + 69,54187KV + e",
+    "answer": "(48,45; 90,63)"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Xét mô hình hồi quy giữa biến phụ thuộc SL (sản lượng của doanh nghiệp) phụ thuộc vào biến độc lập CN (biến giả nhận giá trị 0; 1 tương ứng cho 2 trạng thái doanh nghiệp sử dụng phương pháp công nghệ A và B); K (vốn của doanh nghiệp). Đâu là hàm hồi quy mẫu đúng?",
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Xét mô hình hồi quy ",
+    "answer": "D"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Xét mô hình ",
+    "answer": "k = 3"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Có ý kiến cho rằng hành vi ",
+    "answer": "k = 4"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Xét mô hình hồi quy giữa biến phụ thuộc CT (chi tiêu của hộ gia đình), phụ thuộc vào biến độc lập KV (biến giả nhận giá trị 0; 1 tương ứng cho 2 trạng thái thành thị và nông thôn). Đâu là hàm hồi quy mẫu đúng?",
+    "answer": "D"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Xét mô hình hồi quy ",
+    "answer": "k = 2"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Xét mô hình hồi quy giữa biến phụ thuộc SL (sản lượng của doanh nghiệp), phụ thuộc vào biến độc lập CN (biến giả nhận giá trị 0; 1 tương ứng cho 2 trạng thái doanh nghiệp sử dụng phương pháp công nghệ A và B). Đâu là hàm hồi quy tổng thể đúng?",
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Xét hàm hồi quy tổng thế ",
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Biến giả nhằm lượng hóa biến định tính giới tính (với 2 trạng thái nam và nữ) trong một mô hình hồi quy sẽ nhận các giá trị:",
+    "answer": "0 và 1"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Số lượng trạng thái (hay tính chất, phạm trù) quy định cho 1 biến định tính phải như thế nào?",
+    "answer": "Phải từ 2 trạng thái trở lên."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Xét mô hình hồi quy ",
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Khi xây dựng mô hình hồi quy với biến độc lập là biến định tính “Vùng miền” với 3 trạng thái miền Bắc, miền Trung và miền Nam ta sử dụng mấy biến giả?",
+    "answer": "2 biến giả."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Với số liệu của 100 hộ gia đình ta có kết quả ước lượng: CT = 194,2407 + 69,54187KV + e",
+    "answer": "(48,45; 90,63)"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Có ý kiến cho rằng ",
+    "answer": "k = 4"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Xét mô hình ",
+    "answer": "k = 3"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Biến giả nhằm lượng hóa biến định tính giới tính (với 2 trạng thái nam và nữ) trong một mô hình hồi quy sẽ nhận các giá trị:",
+    "answer": "0 và 1"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Xét hàm hồi quy tổng thể",
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Xét mô hình hồi quy ",
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "Mô hình gốc có phương sai sai số thay đổi."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Hậu quả của vấn đề phương sai sai số thay đổi trong mô hình là:",
+    "answer": "ước lượng OLS là ước lượng tuyến tính không chệch nhưng không còn là ước lượng tốt nhất."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Hồi quy Chi tiêu Y theo Thu nhập X của 100 hộ gia đình. Nếu có thống kê quan sát F của kiểm định RAMSEY = 6,12. Kết luận nào đúng về cặp giả thuyết tương ứng?",
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Hồi quy Sản lượng Y theo Vốn đầu tư K và Lượng lao động L và Công nghệ sản xuất TE của 200 doanh nghiệp. Khi đó thống kê F của kiếm định RAMSEY có bậc tự do là:",
+    "answer": "(1; 195)"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Hồi quy Chi tiêu Y theo Thu nhập X của 100 hộ gia đình. Khi đó thống kê F của kiếm định RAMSEY có bậc tự do là:",
+    "answer": "(1; 97)"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Theo kiểm định Ramsey, nếu thu được P–value của kiểm định bằng 0,19 thì với mức ý nghĩa nào, có thể coi mô hình có dạng hàm được xác định đúng?",
+    "answer": "0,20"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Nguyên nhân chính dẫn tới hiện tượng kỳ vọng sai số ngẫu nhiên khác không là:",
+    "answer": "mô hình bị thiếu biến độc lập quan trọng."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "D"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Trong mô hình hồi qui, kỳ vọng sai số ngẫu nhiên như thế nào?",
+    "answer": "Bằng 0."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Hồi quy Lượng bán Q theo Giá bán P và Giá của hàng hóa thay thế PA tại 50 địa phương. Khi đó thống kê F của kiếm định RAMSEY có bậc tự do là:",
+    "answer": "(1; 46)"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Sai số ngẫu nhiên phân phối chuẩn hoặc xấp xỉ chuẩn thì hàm mật độ xác suất của nó:",
+    "answer": "đối xứng."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Trong mô hình hồi qui, phương sai sai số thay đổi là hiện tượng:",
+    "answer": "phương sai của sai số ngẫu nhiên nhận giá trị khác nhau với từng bộ giá trị khác nhau của biến độc lập."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Trong các tiêu chí lựa chọn mô hình cho nghiên cứu thực nghiệm, tiêu chí nào quan trọng nhất?",
+    "answer": "Độ vững về lý thuyết."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Nếu nguyên nhân gây ra hiện tượng kỳ vọng sai số ngẫu nhiên khác không là do dạng hàm xác định sai thì cách khắc phục là:",
+    "answer": "đổi dạng hàm."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Hồi quy Lượng bán Q theo Giá bán P và Giá của hàng hóa thay thế PA tại 50 địa phương. Nếu có thống kê quan sát F của kiểm định RAMSEY = 7,12. Kết luận nào đúng về cặp giả thuyết tương ứng?",
+    "answer": "D"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Hồi quy Sản lượng Y theo Vốn đầu tư K và Lượng lao động L và Công nghệ sản xuất TE của 200 doanh nghiệp. Nếu có thống kê quan sát F của kiểm định RAMSEY = 3,12. Kết luận nào đúng về cặp giả thuyết tương ứng?",
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Theo kiểm định Ramsey, nếu thu được P–value của kiểm định bằng 0,019 thì với mức ý nghĩa nào, có thể cho rằng mô hình có dạng hàm được xác định đúng?",
+    "answer": "0,01"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Nguyên nhân dẫn đến hiện tượng phương sai sai số thay đổi trong mô hình kinh tế lượng là do:",
+    "answer": "bản chất số liệu và mô hình thiếu biến quan trọng hoặc dạng hàm sai."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "phát hiện mô hình dạng hàm được xác định sai."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Khi mô hình có hiện tượng phương sai sai số thay đổi thì các khoảng tin cậy và kiểm định giả thuyết về các hệ số là:",
+    "answer": "không đáng tin cậy."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Xét mô hình chi tiêu phụ thuộc vào thu nhập và giới tính (Nam và nữ). Số liệu thực tế cho thấy, với cùng mức thu nhập, chi tiêu của Nam thường biến động nhiều hơn Nữ. Khi đó mô hình có thể có khuyết tật gì?",
+    "answer": "Phương sai sai số thay đổi."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Khi mô hình có hiện tượng phương sai sai số thay đổi thì giá trị ước lượng điểm của biến phụ thuộc tính từ hàm hồi qui mẫu là:",
+    "answer": "đáng tin cậy, có thể sử dụng để phân tích."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "A"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Xét mô hình (1): Y = β1 + β2 X + U. Khi ước lượng thu được phần dư E. Thống kê Jarque–Bera (JB) được tính từ hệ số bất đối xứng và hệ số nhọn của:",
+    "answer": "phần dư E."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "A"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Một trong những nguyên nhân dẫn đến hiện tượng sai số ngẫu nhiên không tuân theo quy luật chuẩn là:",
+    "answer": "biến phụ thuộc trong mô hình bị chặn trên hoặc chặn dưới."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Để phát hiện sai số ngẫu nhiên phân phối theo quy luật chuẩn hay không ta có thể dùng Kiểm định:",
+    "answer": "Jarque–Bera."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Khi mô hình có sai số ngẫu nhiên không phân phối theo quy luật chuẩn, phát biểu nào sau đây SAI?",
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Hồi quy Lượng bán Q theo Giá bán P và Giá của hàng hóa thay thế PA tại 50 địa phương. Nếu có thống kê quan sát F của kiểm định RAMSEY = 7,12. Kết luận nào đúng về cặp giả thuyết tương ứng?",
+    "answer": "D"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Sai số ngẫu nhiên phân phối chuẩn hoặc xấp xỉ chuẩn thì hàm mật độ xác suất của nó:",
+    "answer": "đối xứng."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Nếu nguyên nhân gây ra hiện tượng kỳ vọng sai số ngẫu nhiên khác không là do dạng hàm xác định sai thì cách khắc phục là:",
+    "answer": "đổi dạng hàm."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Hồi quy Sản lượng Y theo Vốn đầu tư K và Lượng lao động L và Công nghệ sản xuất TE của 200 doanh nghiệp. Nếu có thống kê quan sát F của kiểm định RAMSEY = 3,12. Kết luận nào đúng về cặp giả thuyết tương ứng?",
+    "answer": "A"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Theo kiểm định Ramsey, nếu thu được P–value của kiểm định bằng 0,019 thì với mức ý nghĩa nào, có thể cho rằng mô hình có dạng hàm được xác định đúng?",
+    "answer": "0,01"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Khi mô hình có hiện tượng phương sai sai số thay đổi thì giá trị ước lượng điểm của biến phụ thuộc tính từ hàm hồi qui mẫu là:",
+    "answer": "đáng tin cậy, có thể sử dụng để phân tích."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Khi mô hình có hiện tượng phương sai sai số thay đổi thì các khoảng tin cậy và kiểm định giả thuyết về các hệ số là:",
+    "answer": "không đáng tin cậy."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "phát hiện mô hình dạng hàm được xác định sai."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Xét mô hình chi tiêu phụ thuộc vào thu nhập và giới tính (Nam và nữ). Số liệu thực tế cho thấy, với cùng mức thu nhập, chi tiêu của Nam thường biến động nhiều hơn Nữ. Khi đó mô hình có thể có khuyết tật gì?",
+    "answer": "Phương sai sai số thay đổi."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Trong mô hình hồi qui, kỳ vọng sai số ngẫu nhiên như thế nào?",
+    "answer": "Bằng 0."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "Mô hình gốc có phương sai sai số thay đổi."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Để phát hiện sai số ngẫu nhiên phân phối theo quy luật chuẩn hay không ta có thể dùng Kiểm định:",
+    "answer": "Jarque–Bera."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Hồi quy Lượng bán Q theo Giá bán P và Giá của hàng hóa thay thế PA tại 50 địa phương. Khi đó thống kê F của kiếm định RAMSEY có bậc tự do là:",
+    "answer": "(1; 46)"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Cho kết quả sau:",
+    "answer": "A"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Xét mô hình (1): Y = β1 + β2 X + U. Khi ước lượng thu được phần dư E. Thống kê Jarque–Bera (JB) được tính từ hệ số bất đối xứng và hệ số nhọn của:",
+    "answer": "phần dư E."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Khi mô hình có sai số ngẫu nhiên không phân phối theo quy luật chuẩn, phát biểu nào sau đây SAI?",
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "premium": true,
+    "question": "Bài toán kiểm định giả thuyết thống kê thì các cặp giả thuyết thường ký hiệu thế\nnào?",
+    "answer": "H0 và H1"
+  },
+  {
+    "id": 92,
+    "premium": true,
+    "question": "Cho bảng số liệu sau đây của một số cửa hàng:",
+    "answer": "Số liệu chéo."
+  },
+  {
+    "id": 93,
+    "premium": true,
+    "question": "Mục đích chính của môn học Kinh tế lượng KHÔNG có nội dung nào sau đây?",
+    "answer": "Thống kê số liệu các biến số kinh tế."
+  },
+  {
+    "id": 94,
+    "premium": true,
+    "question": "Dựa vào bảng giá trị thống kê phù hợp, tìm P(U>1,53) = ?",
+    "answer": "0,5 – 0,437 = 0,063"
+  },
+  {
+    "id": 95,
+    "premium": true,
+    "question": "Phân loại số liệu trong kinh tế lượng gồm các loại nào?",
+    "answer": "Số liệu chéo, số liệu chuỗi thời gian, số liệu mảng."
+  },
+  {
+    "id": 96,
+    "premium": true,
+    "question": "Nội dung của môn học kinh tế lượng KHÔNG liên quan đến các môn học nào?",
+    "answer": "Luật kinh tế."
+  },
+  {
+    "id": 97,
+    "premium": true,
+    "question": "Cho bảng số liệu sau đây:",
+    "answer": "Số liệu hỗn hợp."
+  },
+  {
+    "id": 98,
+    "premium": true,
+    "question": "Quy luật phân phối chuẩn: X~N(µ, a2). Tham số µ, a2 có ý nghĩa là gì?",
+    "answer": "A"
+  },
+  {
+    "id": 99,
+    "premium": true,
+    "question": "Muốn phân tích mối quan hệ thu nhập – chi tiêu bằng kinh tế lượng thì bước lập mô hình Kinh tế lượng là bước thứ mấy?",
+    "answer": "Bước thứ 3."
+  },
+  {
+    "id": 100,
+    "premium": true,
+    "question": "Bài toán ước lượng khoảng tin cậy cho tham số với mức xác suất (1 – α) cho trước có công thức là:",
+    "answer": "A"
+  },
+  {
+    "id": 101,
+    "premium": true,
+    "question": "Các quy luật phân phối xác suất thường dùng trong môn học Kinh tế lượng là:",
+    "answer": "Chuẩn hóa, Student, Khi – bình phương, Fisher."
+  },
+  {
+    "id": 102,
+    "premium": true,
+    "question": "Để tiến hành phân tích một vấn đề kinh tế xã hội dựa trên công cụ Kinh tế lượng, bước đầu tiên có nội dung là:",
+    "answer": "nêu lý thuyết hoặc giả thuyết kinh tế."
+  },
+  {
+    "id": 103,
+    "premium": true,
+    "question": "Các đặc điểm nào sau đây là của các số liệu kinh tế – xã hội sử dụng trong phân tích định lượng?",
+    "answer": "Phi thực nghiệm và sai số tương đối cao."
+  },
+  {
+    "id": 104,
+    "premium": true,
+    "question": "Các quy luật phân phối xác suất thường dùng trong môn học Kinh tế lượng là:",
+    "answer": "Chuẩn hóa, Student, Khi – bình phương, Fisher."
+  },
+  {
+    "id": 105,
+    "premium": true,
+    "question": "Nội dung của môn học kinh tế lượng KHÔNG liên quan đến các môn học nào?",
+    "answer": "Luật kinh tế."
+  },
+  {
+    "id": 106,
+    "premium": true,
+    "question": "Mục đích chính của môn học Kinh tế lượng KHÔNG có nội dung nào sau đây?",
+    "answer": "Thống kê số liệu các biến số kinh tế."
+  },
+  {
+    "id": 107,
+    "premium": true,
+    "question": "Muốn phân tích mối quan hệ thu nhập – chi tiêu bằng kinh tế lượng thì bước lập mô hình Kinh tế lượng là bước thứ mấy?",
+    "answer": "Bước thứ 3."
+  },
+  {
+    "id": 108,
+    "premium": true,
+    "question": "Cho bảng số liệu sau đây của một số cửa hàng:",
+    "answer": "Số liệu chéo."
+  },
+  {
+    "id": 109,
+    "premium": true,
+    "question": "Bài toán ước lượng khoảng tin cậy cho tham số với mức xác suất (1 – α) cho trước có công thức là:",
+    "answer": "A"
+  },
+  {
+    "id": 110,
+    "premium": true,
+    "question": "Phân loại số liệu trong kinh tế lượng gồm các loại nào?",
+    "answer": "Số liệu chéo, số liệu chuỗi thời gian, số liệu mảng."
+  },
+  {
+    "id": 111,
+    "premium": true,
+    "question": "Cho bảng số liệu sau đây:",
+    "answer": "Số liệu hỗn hợp."
+  },
+  {
+    "id": 112,
+    "premium": true,
+    "question": "Mục đích chính của môn học Kinh tế lượng KHÔNG có nội dung nào sau đây?",
+    "answer": "Thống kê số liệu các biến số kinh tế."
+  },
+  {
+    "id": 113,
+    "premium": true,
+    "question": "Nội dung của môn học kinh tế lượng KHÔNG liên quan đến các môn học nào?",
+    "answer": "Luật kinh tế."
+  },
+  {
+    "id": 114,
+    "premium": true,
+    "question": "Bài toán kiểm định giả thuyết thống kê thì các cặp giả thuyết thường ký hiệu thế",
+    "answer": "H0 và H1"
+  },
+  {
+    "id": 115,
+    "premium": true,
+    "question": "Dựa vào bảng giá trị thống kê phù hợp, tìm P(U>1,53) = ?",
+    "answer": "0,5 – 0,437 = 0,063"
+  },
+  {
+    "id": 116,
+    "premium": true,
+    "question": "Để tiến hành phân tích một vấn đề kinh tế xã hội dựa trên công cụ Kinh tế lượng, bước đầu tiên có nội dung là:",
+    "answer": "nêu lý thuyết hoặc giả thuyết kinh tế."
+  },
+  {
+    "id": 117,
+    "premium": true,
+    "question": "Cho bảng số liệu sau đây:",
+    "answer": "Số liệu hỗn hợp."
+  },
+  {
+    "id": 118,
+    "premium": true,
+    "question": "Muốn phân tích mối quan hệ thu nhập – chi tiêu bằng kinh tế lượng thì bước lập mô hình Kinh tế lượng là bước thứ mấy?",
+    "answer": "Bước thứ 3."
+  },
+  {
+    "id": 119,
+    "premium": true,
+    "question": "Bài toán ước lượng khoảng tin cậy cho tham số với mức xác suất (1 – α) cho trước có công thức là:",
+    "answer": "A"
+  },
+  {
+    "id": 120,
+    "premium": true,
+    "question": "Quy luật phân phối chuẩn: X~N(µ, a2). Tham số µ, a2 có ý nghĩa là gì?",
+    "answer": "A"
+  },
+  {
+    "id": 121,
+    "premium": true,
+    "question": "Các đặc điểm nào sau đây là của các số liệu kinh tế – xã hội sử dụng trong phân tích định lượng?",
+    "answer": "Phi thực nghiệm và sai số tương đối cao."
+  },
+  {
+    "id": 122,
+    "premium": true,
+    "question": "Với Q là lượng cầu về tiêu dùng tivi của thành phố, P là giá bán tivi. Xét mô hình hồi quy tổng thể biểu diễn mối quan hệ Q phụ thuộc P. Phương trình nào là mô hình hồi quy tổng thể đúng?",
+    "answer": "A"
+  },
+  {
+    "id": 123,
+    "premium": true,
+    "question": "Xây dựng hàm hồi quy tổng thể nếu muốn đánh giá ảnh hưởng của tỷ lệ lạm phát LP đến tỷ lệ thất nghiệp TN. Trong các phương trình sau, đâu là hàm hồi quy tổng thể đúng?",
+    "answer": "A"
+  },
+  {
+    "id": 124,
+    "premium": true,
+    "question": "Cho hàm hồi quy tổng thể: E(NS |PB) = 2,1 + 0,42PB. Với NS là năng suất vải thiều (tạ/ha), PB là lượng phân bón (10kg/ha). Mức năng suất trung bình khi lượng phân bón là 20 kg/ha là bao nhiêu?",
+    "answer": "A"
+  },
+  {
+    "id": 125,
+    "premium": true,
+    "question": "Công thức tính hệ số xác định R2 (đo độ phù hợp của hàm hồi quy):",
+    "answer": "A"
+  },
+  {
+    "id": 126,
+    "premium": true,
+    "question": "Trong hàm hồi quy tổng thể: E(Y|X) = þ1 + þ2X. Ý nghĩa toán học của hệ số góc þ2 là:",
+    "answer": "A"
+  },
+  {
+    "id": 127,
+    "premium": true,
+    "question": "Cho mô hình hồi quy tổng thể sau: DT = þ1 + þ2DG + u. Trong các phương trình sau đây, đâu là mô hình hồi quy mẫu đúng?",
+    "answer": "DT = þ^1 + þ^2DG + e"
+  },
+  {
+    "id": 128,
+    "premium": true,
+    "question": "Cho hàm hồi quy mẫu của 100 công ty điện tử trên địa bàn Hà Nội như sau: TˆC = 246,89 + 2, 5Q Với TC là tổng chi phí, Q là sản lượng của công ty. Hệ số chặn và hệ số góc ước lượng có phù hợp với lý thuyết kinh tế không?",
+    "answer": "A"
+  },
+  {
+    "id": 129,
+    "premium": true,
+    "question": "Cho hàm hồi quy mẫu của 100 công ty điện tử trên địa bàn Hà Nội như sau: TˆC = 246,89 + 2, 5Q Với TC là tổng chi phí, Q là sản lượng của công ty. Hệ số chặn và hệ số góc ước lượng có phù hợp với lý thuyết kinh tế không?",
+    "answer": "β1 > 0, 0 < β2 < 1"
+  },
+  {
+    "id": 130,
+    "premium": true,
+    "question": "Cho hàm hồi quy mẫu: Q^ = −25,806 + 4,27L. Với Q là sản lượng (sản phẩm), L là số lao động (người). Ý nghĩa kinh tế của hệ số góc ước lượng là gì?",
+    "answer": "Khi số lao động tăng hoặc giảm 1 người thì sản lượng tăng hoặc giảm 4,27 sản phẩm."
+  },
+  {
+    "id": 131,
+    "premium": true,
+    "question": "Trong mô hình hồi quy thể hiện mối quan hệ giữa lượng phân bón đối với năng suất cây trồng. Yếu tố nào KHÔNG thuộc sai số ngẫu nhiên trong mô hình?",
+    "answer": "Lượng phân bón."
+  },
+  {
+    "id": 132,
+    "premium": true,
+    "question": "Cho kết quả ước lượng trên một khu vực trong một số ngày: Q^ = 100,78 − 7,5P. Với Q là lượng thịt bò tiêu thụ 1 ngày (kg), P là giá bán thịt bò (10.000 đồng/kg). Ước lượng điểm mức thay đổi lượng cầu mặt hàng thịt bò khi giá bán giảm 20.000 đồng/kg là:",
+    "answer": "Lượng bán thay đổi 15kg."
+  },
+  {
+    "id": 133,
+    "premium": true,
+    "question": "Khoảng giá trị của hệ số xác định R2 như thế nào là đúng?",
+    "answer": "A"
+  },
+  {
+    "id": 134,
+    "premium": true,
+    "question": "Trong hàm hồi quy tổng thể: E(GDP|I) = 200 + 2I Với GDP là tổng sản phẩm quốc dân, I là đầu tư (đơn vị: triệu USD). Con số “200” cho biết gì?",
+    "answer": "Khi đầu tư bằng 0 thì tổng sản phẩm quốc dân trung bình là 200 triệu USD."
+  },
+  {
+    "id": 135,
+    "premium": true,
+    "question": "Cho hàm hồi quy mẫu về lượng cầu mặt hàng sữa chua như sau: Q^ = 100,78 + 2,5P. Với Q là lượng cầu, P là giá bán. Hệ số chặn và hệ số góc ước lượng có phù hợp với lý thuyết kinh tế không?",
+    "answer": "A"
+  },
+  {
+    "id": 136,
+    "premium": true,
+    "question": "Xét mô hình đánh giá số người trong hộ (HSIZE) ảnh hưởng đến chi tiêu (CONS). Trong các phương trình sau, đâu là hàm hồi quy mẫu đúng?",
+    "answer": "A"
+  },
+  {
+    "id": 137,
+    "premium": true,
+    "question": "Hệ số hồi quy þ và hệ số hồi quy ước lượng þ^ có mối quan hệ như nào?",
+    "answer": "A"
+  },
+  {
+    "id": 138,
+    "premium": true,
+    "question": "Trong mô hình hồi quy tổng thể: Q = 100 − 1,5P + u\nVới Q là lượng tiêu thụ dầu gội đầu (nghìn chai), P là giá bán dầu gội đầu (1.000 đồng/chai). Ý nghĩa kinh tế hệ số góc là:",
+    "answer": "khi giá dầu gội tăng thêm 1000 đồng/chai thì sản lượng tiêu thụ giảm 1,5 nghìn chai."
+  },
+  {
+    "id": 139,
+    "premium": true,
+    "question": "Cho hàm hồi quy mẫu: Q^ = 486,78 − 10,447P. Với Q là lượng bán hàng (nghìn sản phẩm), P là giá bán (nghìn đồng/sản phẩm). Ý nghĩa kinh tế của hệ số góc ước lượng là gì?",
+    "answer": "Khi giá bán tăng 1.000 đồng/sản phẩm thì lượng bán giảm 10,447 nghìn sản phẩm."
+  },
+  {
+    "id": 140,
+    "premium": true,
+    "question": "Xây dựng mô hình hồi quy tổng thể với KN là biến độc lập là số năm kinh nghiệm, TL là biến phụ thuộc là tiền lương của người lao động. Trong các phương trình sau, đâu là mô hình hồi quy tổng thể đúng?",
+    "answer": "A"
+  },
+  {
+    "id": 141,
+    "premium": true,
+    "question": "Khi ước lượng một mô hình với bộ số liệu cụ thể, thu được hệ số xác định bằng R2 = 0,987. Giá trị hệ số này cho biết gì?",
+    "answer": "Hệ số R2 cho biết độ phù hợp hàm hồi quy mẫu. Ý nghĩa: Cho biết hàm hồi quy giải thích được 98,7% sự biến động của biến phụ thuộc."
+  },
+  {
+    "id": 142,
+    "premium": true,
+    "question": "Với bộ số liệu của 10 hộ gia đình ta có kết quả như sau: RSS = 8,462; TSS = 36,9. Tính hệ số xác định của hàm hồi quy. Lưu ý: Lấy kết quả sau dấu thập phân đúng 3 chữ số.",
+    "answer": "0,77"
+  },
+  {
+    "id": 143,
+    "premium": true,
+    "question": "Có hàm hồi quy mẫu sau đây Q^ = 100,78 − 2,5P Với Q là lượng thịt bò tiêu thụ 1 ngày (kg), P là giá bán thịt bò (100.000 đồng/kg). Ước lượng điểm mức cầu mặt hàng thịt bò khi giá bán 300.000 đồng/kg là:",
+    "answer": "A"
+  },
+  {
+    "id": 144,
+    "premium": true,
+    "question": "Tham khảo tình huống dẫn nhập bài giảng text bài 2 và trả lời câu hỏi: Chính phủ muốn đánh giá tác động vốn đầu tư trực tiếp nước ngoài FDI đến tăng trưởng kinh tế GDP. Theo lý thuyết kinh tế khi FDI tăng thì GDP sẽ thay đổi như thế nào?",
+    "answer": "FDI tăng, GDP tăng."
+  },
+  {
+    "id": 145,
+    "premium": true,
+    "question": "Trong mô hình hồi quy đơn để đảm bảo các ước lượng bằng phương pháp OLS là không chệch và hiệu quả thì mô hình cần thỏa mãn có mấy giả thiết?",
+    "answer": "3"
+  },
+  {
+    "id": 146,
+    "premium": true,
+    "question": "Trong hàm hồi quy tổng thể: E(Y|X) = þ1 + þ2X. Ý nghĩa của hệ số chặn þ1 là:",
+    "answer": "Khi X bằng 0 thì trung bình Y bằng β1 đơn vị."
+  },
+  {
+    "id": 147,
+    "premium": true,
+    "question": "Khi xây dựng mô hình hồi quy tổng thể thể hiện mối quan hệ giữa lãi suất cho vay của ngân hàng R và doanh thu của doanh nghiệp TR thì biến phụ thuộc là biến nào?",
+    "answer": "Doanh thu TR."
+  },
+  {
+    "id": 148,
+    "premium": true,
+    "question": "Nếu mô hình hồi quy đơn thỏa mãn các giả thiết cơ bản của phương pháp OLS thì tính chất nào sau đây KHÔNG phải là tính chất của các ước lượng OLS?",
+    "answer": "Chệch."
+  },
+  {
+    "id": 149,
+    "premium": true,
+    "question": "Trong mô hình hồi quy thể hiện mối quan hệ giữa lượng phân bón đối với năng suất cây trồng. Yếu tố nào KHÔNG thuộc sai số ngẫu nhiên trong mô hình?",
+    "answer": "Lượng phân bón."
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "Công thức tính hệ số xác định R2 (đo độ phù hợp của hàm hồi quy):",
+    "answer": "A"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Xét mô hình đánh giá số người trong hộ (HSIZE) ảnh hưởng đến chi tiêu (CONS). Trong các phương trình sau, đâu là hàm hồi quy mẫu đúng?",
+    "answer": "A"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Khi ước lượng một mô hình với bộ số liệu cụ thể, thu được hệ số xác định bằng R2 = 0,987. Giá trị hệ số này cho biết gì?",
+    "answer": "Hệ số R2 cho biết độ phù hợp hàm hồi quy mẫu. Ý nghĩa: Cho biết hàm hồi quy giải thích được 98,7% sự biến động của biến phụ thuộc."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Khi xây dựng mô hình hồi quy tổng thể thể hiện mối quan hệ giữa lãi suất cho vay của ngân hàng R và doanh thu của doanh nghiệp TR thì biến phụ thuộc là biến nào?",
+    "answer": "Doanh thu TR."
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Cho hàm hồi quy mẫu: Q^ = 486,78 − 10,447P. Với Q là lượng bán hàng (nghìn sản phẩm), P là giá bán (nghìn đồng/sản phẩm). Ý nghĩa kinh tế của hệ số góc ước lượng là gì?",
+    "answer": "Khi giá bán tăng 1.000 đồng/sản phẩm thì lượng bán giảm 10,447 nghìn sản phẩm."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Trong mô hình hồi quy tổng thể: Q = 100 − 1,5P + u\nVới Q là lượng tiêu thụ dầu gội đầu (nghìn chai), P là giá bán dầu gội đầu (1.000 đồng/chai). Ý nghĩa kinh tế hệ số góc là:",
+    "answer": "khi giá dầu gội tăng thêm 1000 đồng/chai thì sản lượng tiêu thụ giảm 1,5 nghìn chai."
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Cho hàm hồi quy mẫu: Q^ = −25,806 + 4,27L. Với Q là sản lượng (sản phẩm), L là số lao động (người). Ý nghĩa kinh tế của hệ số góc ước lượng là gì?",
+    "answer": "Khi số lao động tăng hoặc giảm 1 người thì sản lượng tăng hoặc giảm 4,27 sản phẩm."
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Trong hàm hồi quy tổng thể: E(Y|X) = þ1 + þ2X. Ý nghĩa toán học của hệ số góc þ2 là:",
+    "answer": "A"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Với bộ số liệu của 10 hộ gia đình ta có kết quả như sau: RSS = 8,462; TSS = 36,9. Tính hệ số xác định của hàm hồi quy. Lưu ý: Lấy kết quả sau dấu thập phân đúng 3 chữ số.",
+    "answer": "0,77"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Tham khảo tình huống dẫn nhập bài giảng text bài 2 và trả lời câu hỏi: Chính phủ muốn đánh giá tác động vốn đầu tư trực tiếp nước ngoài FDI đến tăng trưởng kinh tế GDP. Theo lý thuyết kinh tế khi FDI tăng thì GDP sẽ thay đổi như thế nào?",
+    "answer": "FDI tăng, GDP tăng."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Cho hàm hồi quy mẫu về lượng cầu mặt hàng sữa chua như sau: Q^ = 100,78 + 2,5P. Với Q là lượng cầu, P là giá bán. Hệ số chặn và hệ số góc ước lượng có phù hợp với lý thuyết kinh tế không?",
+    "answer": "A"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Trong hàm hồi quy tổng thể: E(Y|X) = þ1 + þ2X. Ý nghĩa của hệ số chặn þ1 là:",
+    "answer": "Khi X bằng 0 thì trung bình Y bằng β1 đơn vị."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Xét mô hình: NS = β1 + β2HC + β3VC+ u. Với NS là năng suất lúa (tạ/ha), HC là số phân bón hữu cơ (kg/ha), VC là số phân bón vô cơ (kg/ha). Hệ số β1 có ý nghĩa là:",
+    "answer": "khi HC = 0, VC = 0 thì giá trị trung bình của NS bằng β1."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Hệ số xác định bội hiệu chỉnh R2 sẽ thỏa mãn điều kiện nào trong số các điều kiện sau:",
+    "answer": "B"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Trong các giả thiết của phương pháp OLS với mô hình hồi quy bội, phương sai của sai số ngẫu nhiên u tại các giá trị (X2i, , …, Xki) đều bằng nhau và bằng:",
+    "answer": "σ2"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Trong mô hình hồi quy bội, số biến độc lập kí hiệu là m thì m phải thỏa mãn điều kiện là:",
+    "answer": "m ≥ 2"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Xét mô hình: CT = β1 + β2TN + β3SN + u Với CT là chi tiêu, TN là thu nhập và SN là số người. Hệ số β2 như thế nào sẽ phù hợp với lý thuyết kinh tế?",
+    "answer": "β2 > 0"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Hệ số xác định bội R2 trong mô hình hồi quy bội được dùng để làm gì?",
+    "answer": "Để đánh giá độ phù hợp của mô hình."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Xét mô hình: QT = β1 + β2PT + β3PM + u. Với QT là số vé tàu hỏa bán được, PT là giá vé tàu hỏa Hà Nội – Vinh và PX là giá vé máy bay Hà Nội – Vinh. Nếu hệ số β3 = 0, điều đó cho biết:",
+    "answer": "PM không tác động đến QT."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Vai trò của sai số ngẫu nhiên u trong mô hình hồi quy bội là:",
+    "answer": "đại diện cho các yếu tố khác ngoài các biến độc lập."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Hệ số xác định bội R2 trong mô hình hồi quy bội phải thỏa mãn điều kiện nào sau đây?",
+    "answer": "0 ≤ R2 ≤ 1"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Xét mô hình: QT = β1 + β2PT + β3PX + β4PM + u Với QT là số vé tàu hỏa bán được, PT là giá vé tàu hỏa Hà Nội – Vinh, PX là giá vé ô tô Hà Nội – Vinh, PM là giá vé máy bay. Mô hình trên có k bằng mấy?",
+    "answer": "k = 4"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Xét mô hình: QT = β1 + β2PT + β3PX+ u. Với QT là số vé tàu hỏa bán được, PT là giá vé tàu hỏa Hà Nội – Vinh và PX là giá vé ô tô Hà Nội – Vinh. Hệ số β3 thuộc khoảng nào là phù hợp với lý thuyết kinh tế?",
+    "answer": "(0; + ∞)"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Thế nào là mô hình hồi quy bội?",
+    "answer": "Là mô hình có từ hai biến độc lập trở lên."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Xét mô hình: CT = β1 + β2TN + β3SN + u. Với CT là chi tiêu, TN là thu nhập và SN là số người trong hộ gia đình. Nếu hệ số β3 > 0, điều đó cho biết:",
+    "answer": "SN tăng thì CT tăng."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Xét mô hình: Q = β1 + β2P + β3PC+ u Với Q là số chai bia Sài Gòn bán được, P là giá của 1 chai bia Sài Gòn và PC là giá của 1 chai bia Hà Nội. Nếu hệ số β2 < 0 thì điều này có ý nghĩa là:",
+    "answer": "khi P tăng thêm 1 đơn vị, PC không đổi thì Q giảm trung bình | β2 | đơn vị."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Trong các giả thiết của phương pháp OLS với mô hình hồi quy bội, phương sai của sai số ngẫu nhiên u tại các giá trị (X2i, , …, Xki) đều bằng nhau và bằng:",
+    "answer": "σ2"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Xét mô hình: NS = β1 + β2HC + β3VC+ u. Với NS là năng suất lúa (tạ/ha), HC là số phân bón hữu cơ (kg/ha), VC là số phân bón vô cơ (kg/ha). Hệ số β1 có ý nghĩa là:",
+    "answer": "khi HC = 0, VC = 0 thì giá trị trung bình của NS bằng β1."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Hệ số xác định bội R2 trong mô hình hồi quy bội được dùng để làm gì?",
+    "answer": "Để đánh giá độ phù hợp của mô hình."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Vai trò của sai số ngẫu nhiên u trong mô hình hồi quy bội là:",
+    "answer": "đại diện cho các yếu tố khác ngoài các biến độc lập."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Xét mô hình: CT = β1 + β2TN + β3SN + u. Với CT là chi tiêu, TN là thu nhập và SN là số người trong hộ gia đình. Nếu hệ số β3 > 0, điều đó cho biết:",
+    "answer": "SN tăng thì CT tăng."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Hệ số xác định bội R2 trong mô hình hồi quy bội phải thỏa mãn điều kiện nào sau đây?",
+    "answer": "0 ≤ R2 ≤ 1"
+  }
+]

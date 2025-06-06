@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Giá bình quân phẩm cấp là chỉ tiêu:",
+    "answer": "Chỉ nên tính cho một loại sản phẩm."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Trong trường hợp phát biểu của giả thuyết đối H1 là nhỏ hơn giá trị cho trước, khi đó miền bác bỏ giả thuyết H0 là:",
+    "answer": "Đồng thời cả phía trái và phía phải."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Hệ số chi phí thiệt hại sản phẩm hỏng biểu hiện quan hệ so sánh giữa:",
+    "answer": "Chi phí sửa chữa, loại bỏ và đền bù sản phẩm hỏng với chi phí sản xuất."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "hân tích biểu đồ Pareto cho phép:",
+    "answer": "Xác định vấn đề ưu tiên cần giải quyết để cải tiến chất lượng."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Chi phí chất lượng của doanh nghiệp theo chức năng chi phí bao gồm:",
+    "answer": "Chi phí thẩm định; chi phí phòng ngừa và chi phí thiệt hại."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Xác định hệ thống đo lường chất lượng bao gồm:",
+    "answer": "Xác định đơn vị đo, thang đo."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Trình độ chất lượng là chỉ tiêu tương đối:",
+    "answer": "Cường độ."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Việc xem xét kiểm định trung bình, tỷ lệ hay phương sai trong quy trình kiểm định thuộc khâu nào sau đây?",
+    "answer": "Xác định nội dung kiểm định."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Phương thức lấy mẫu kép được sử dụng khi:",
+    "answer": "Chưa có cơ sở đưa ra quyết định trong lần chọn mẫu thứ nhất."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Đặc trưng kiểm soát chất lượng của giai đoạn Kiểm soát chất lượng toàn diện (TQC) là:",
+    "answer": "Kiểm soát thông số kỹ thuật toàn bộ quá trình."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Phương thức lấy mẫu kép thường được sử dụng khi:",
+    "answer": "Lô sản phẩm có chất lượng rất tốt hoặc rất kém."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Emax là chỉ tiêu phản ánh:",
+    "answer": "Hiệu quả đem lại do sử dụng khai thác sản phẩm trong thời gian nhất định khi sản phẩm có độ tin cậy theo tiêu chuẩn thiết kế."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Xác định hệ thống đo lường chất lượng bao gồm:",
+    "answer": "Xác định nhân viên đo."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Kiểm định 2 phía được áp dụng khi muốn xem xét đặc tính chất lượng được kiểm định:",
+    "answer": "Không được vượt quá ngưỡng trên và cũng không được thấp hơn ngưỡng dưới mức chất lượng nào đó."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Hệ số khả năng sử dụng là chỉ tiêu tương đối:",
+    "answer": "Kết cấu"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Thông số cực trị được tính theo:",
+    "answer": "Khả năng đáp ứng nhu cầu của sản phẩm."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Chỉ số lệch tâm của quá trình càng gần 1 phản ánh:",
+    "answer": "Năng lực quá trình càng kém."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Thông số cực trị là chỉ tiêu tương đối:",
+    "answer": "Cường độ."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Phương pháp phân tích các chỉ tiêu thống kê chất lượng KHÔNG cho phép nghiên cứu chất lượng:",
+    "answer": "Tiêu chuẩn chất lượng"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Hiệu suất sử dụng sản phẩm biểu hiện mối tương quan giữa:",
+    "answer": "Hiệu quả có ích do sử dụng sản phẩm với lượng nhu cầu khả năng có thể thoả mãn."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Thông số cực trị và trình độ chất lượng đều có đặc điểm giống nhau:",
+    "answer": "Cho thấy hiệu quả chi phí theo lượng nhu cầu dự kiến có thể được thoả mãn."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Các chỉ tiêu Hệ số chất lượng đều phản ánh:",
+    "answer": "Mức chất lượng thực tế so với tiêu chuẩn."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Trong trường hợp phát biểu của giả thuyết đối H1 là lớn hơn giá trị cho trước, khi đó miền bác bỏ giả thuyết H0 là:",
+    "answer": "Ở phía phải."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Hệ thống đo lường chất lượng càng đáp ứng tốt yêu cầu khi:",
+    "answer": "Biến thiên do người đo và công cụ đo chiếm tỷ lệ nhỏ trong tổng biến thiên."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Khi xác định tỷ trọng sản phẩm theo bậc chất lượng nhiều loại sản phẩm, tử số của công thức được tính theo đơn vị:",
+    "answer": "Giá trị"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Việc xem xét quy luật phân phối xác suất sử dụng làm cơ sở thực hiện kiểm định trong quy trình kiểm định thuộc khâu nào sau đây?",
+    "answer": "Xác định tiêu chuẩn kiểm định."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Thống kê chất lượng KHÔNG phục vụ quản lý về nhà nước về chất lượng trên phương diện:",
+    "answer": "Nghiên cứu chất lượng sản phẩm và giá bán."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Hệ số sử dụng vật liệu là chỉ tiêu thuộc nhóm:",
+    "answer": "Tiêu chuẩn hóa và thống nhất hóa sản phẩm."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Khi kiểm soát quá trình thì cần:",
+    "answer": "Lấy chất lượng công việc làm cơ sở đánh giá chất lượng quá trình."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Hằng số d2 trong công thức tính EV, AV và PV được xác định qua:",
+    "answer": "1 và W, số sản phẩm đo., 1 và W, số nhân viên thực hiện đo., tích của số sản phẩm với số nhân viên thực hiện đo và W (số lần đo)., Tra bảng và có giá trị khác nhau trong từng công thức"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Việc xem xét kiểm định một, hai hay nhiều tổng thể trong quy trình kiểm định thuộc khâu nào sau đây?",
+    "answer": "Xác định quan hệ kiểm định."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Việc kiểm soát toàn bộ quá trình cần:",
+    "answer": "Lấy chất lượng quá trình làm cơ sở đánh giá chất lượng sản phẩm."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Khi lựa chọn phương thức điều tra chọn mẫu chấp nhận để ra quyết định, nếu đứng trên giác độ lợi ích khách hàng bạn sẽ:",
+    "answer": "Chọn α lớn và β nhỏ"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Quan điểm tiêu chuẩn chất lượng sản phẩm trên giác độ người sản xuất có đặc điểm là:",
+    "answer": "Yếu tố đầu vào ổn định."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Trình độ chất lượng được tính theo:",
+    "answer": "Khả năng đáp ứng nhu cầu của sản phẩm."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ nhân quả để:",
+    "answer": "Tìm hiểu nguyên nhân gốc rễ của vấn đề chất lượng."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Chỉ số năng lực CP cho phép đo chất lượng:",
+    "answer": "Quá trình"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Hệ số sử dụng vật liệu là chỉ tiêu tương đối:",
+    "answer": "Kết cấu"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Chỉ số năng lực CP cho phép đo chất lượng:",
+    "answer": "Quá trình"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Thống kê chất lượng là:",
+    "answer": "Khoa học nghiên cứu hệ thống phương pháp thu thập, xử lý, phân tích dữ liệu."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Hệ số DPMO càng cao cho thấy:",
+    "answer": "Khả năng mắc lỗi càng nhiều."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Chỉ số năng lực Cp < 1 cho phép kết luận quá trình:",
+    "answer": "Không kiểm soát được"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Khi đánh giá hệ thống đo chất lượng theo khoảng biến thiên và giá trị bình quân thì tỷ lệ R&R được xác định dựa trên:",
+    "answer": "Biến thiên thực tế của kết quả đo."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Tỷ trọng sản phẩm theo bậc chất lượng thấp (nhỏ) tăng, biểu hiện chất lượng sản phẩm:",
+    "answer": "Tăng."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Hệ số tháo lắp phản ánh:",
+    "answer": "Tỷ lệ các chi tiết chuyên dùng có trong sản phẩm với tổng số chi tiết của sản phẩm."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Hệ số DPMO:",
+    "answer": "Không cho phép so sánh khả năng gây lỗi giữa nhiều sản phẩm khác nhau."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Mức chất lượng biểu hiện mối quan hệ so sánh giữa:",
+    "answer": "Đặc trưng chất lượng thực tế của sản phẩm so với chất lượng tiêu chuẩn."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Chi phí ẩn chất lượng phản ánh:",
+    "answer": "Mức chất lượng cần bổ sung để đạt mức chất lượng tiêu chuẩn."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Hệ số sử dụng vật liệu phản ánh:",
+    "answer": "Tỷ lệ khối lượng vật liệu trong sản phẩm với khối lượng vật liệu đem gia công."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ phân tán để:",
+    "answer": "Xem xét mối quan hệ giữa các biến chất lượng."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Các chỉ tiêu phản ánh hiệu quả chi phí đều là số tương đối:",
+    "answer": "Cường độ."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Việc xem xét kiểm định một phía hay hai phía trong quy trình kiểm định thuộc khâu nào sau đây?",
+    "answer": "Xác định dạng kiểm định."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Chi phí ẩn chất lượng phản ánh:",
+    "answer": "Mức chất lượng bị thiếu hụt do chất lượng thực tế không đáp ứng đúng tiêu chuẩn."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Quá trình được coi là trọng tâm khi:",
+    "answer": "Cp, Cpk, LCL"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Phân tích lưu đồ cho phép:",
+    "answer": "Xem xét trách nhiệm của từng khâu, bộ phận, cá nhân trong việc đảm bảo chất lượng."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ Pareto để:",
+    "answer": "Phân loại nguyên nhân của thực trạng biến thiên chất lượng."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Khi lựa chọn phương thức điều tra chọn mẫu chấp nhận để ra quyết định, nếu đứng trên giác độ lợi ích người sản xuất bạn sẽ:",
+    "answer": "Chọn α nhỏ và β lớn"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Chỉ số năng lực CP cho phép đo chất lượng:",
+    "answer": "Quá trình"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Quan điểm tiêu chuẩn chất lượng sản phẩm trên giác độ người tiêu dùng có đặc điểm là:",
+    "answer": "Có tính tiện dụng."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Mức chất lượng là chỉ tiêu thuộc nhóm:",
+    "answer": "Hệ số chất lượng."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Hệ số phân hạng sản phẩm đối với nhiều loại sản phẩm:",
+    "answer": "Được tính theo công thức bình quân cộng gia quyền với quyền số là tỷ trọng giá trị của các sản phẩm."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Hệ thống đo đáp ứng tốt yêu cầu đo chất lượng khi:",
+    "answer": "Tỷ lệ R&R thấp hơn 10%."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Hệ số phân hạng sản phẩm:",
+    "answer": "Tính ra càng lớn phản ánh chất lượng sản phẩm càng cao."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Khi tính tỷ trọng sản phẩm theo bậc chất lượng của nhiều loại sản phẩm, thường thống nhất giá cả theo:",
+    "answer": "Kết hợp theo cả bậc chất lượng và thời gian."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Hệ số hao mòn của sản phẩm phản ánh:",
+    "answer": "Tỷ lệ giá trị sản phẩm đã khai thác được so với ban đầu."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Phương pháp kiểm định cho phép nghiên cứu chất lượng:",
+    "answer": "Bao gồm cả chất lượng sản phẩm vật chất, dịch vụ và quá trình."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Chi phí chất lượng của doanh nghiệp theo khoản mục chi phí bao gồm:",
+    "answer": "Chi phí trực tiếp và chi phí gián tiếp."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Bậc chất lượng bình quân tăng, biểu hiện chất lượng sản phẩm:",
+    "answer": "Giảm."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Hệ số tháo lắp là chỉ tiêu thuộc nhóm:",
+    "answer": "Tiêu chuẩn hóa và thống nhất hóa sản phẩm."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Để đánh giá hệ thống đo chất lượng sản phẩm vật chất có bao nhiêu phương pháp?",
+    "answer": "2 phương pháp."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Đối tượng nghiên cứu của thống kê chất lượng:",
+    "answer": "Có bao gồm chất lượng sản phẩm."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Khi ĐTCM chấp nhận lấy mẫu đơn 20 SP. Nếu yêu cầu lô SP có không quá 1 phế phẩm và thực tế có 5 % SP không đạt chuẩn, xác suất chấp nhận trường hợp này là:",
+    "answer": "73,59%"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Đối tượng nghiên cứu của thống kê chất lượng:",
+    "answer": "Có bao gồm chất lượng nội dung của sản phẩm."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Biến thiên phản ánh sai số do sản phẩm được phản ánh qua:",
+    "answer": "PV( Product Variability)."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Chất lượng toàn phần là chỉ tiêu tương đối:",
+    "answer": "Cường độ."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Quá trình được coi là trọng tâm khi:",
+    "answer": "Giá trị bình quân mẫu đúng bằng trung bình cộng của 2 giới hạn kỹ thuật., UCL"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Trong phân tích chất lượng, có thể sử dụng phương pháp lưu đồ để:",
+    "answer": "Mô tả một quá trình chất lượng."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Hệ số phân hạng sản phẩm là chỉ tiêu so sánh giữa:",
+    "answer": "Tổng giá trị thực tế của sản phẩm với tổng giá trị sản phẩm trong trường hợp toàn bộ sản phẩm đều đạt chất lượng tốt."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Khi xác định bậc chất lượng bình quân của nhiều loại sản phẩm, tử số của công thức được tính theo đơn vị:",
+    "answer": "Giá trị"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ nhân quả để:",
+    "answer": "Tìm hiểu nguyên nhân gốc rễ của vấn đề chất lượng."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Hiệu suất sử dụng sản phẩm biểu hiện mối tương quan giữa:",
+    "answer": "Chất lượng toàn phần với trình độ chất lượng."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Tỷ suất chi phí chất lượng:",
+    "answer": "Có mối liên hệ tương quan phi tuyến với sản lượng sản xuất."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Biến thiên phản ánh sai số do nhân viên thực hiện đo được phản ánh qua:",
+    "answer": "AV (Repeatability - Appraiser Variability)."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Hệ số thống nhất hóa nhóm sản phẩm là chỉ tiêu thuộc nhóm:",
+    "answer": "Tiêu chuẩn hóa và thống nhất hóa sản phẩm."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Chi phí chất lượng của doanh nghiệp theo yếu tố chi phí bao gồm:",
+    "answer": "Khấu hao TSCĐ; chi phí trung gian và thù lao lao động cho công tác quản lý chất lượng."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Nhóm chỉ tiêu Độ tin cậy của sản phẩm cho biết:",
+    "answer": "Khả năng bảo toàn đặc điểm sử dụng của sản phẩm trong điều kiện khai thác quy định."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Thống kê chất lượng KHÔNG phục vụ quản trị doanh nghiệp trên phương diện:",
+    "answer": "Phân tích ảnh hưởng của chính sách kinh tế vĩ mô."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Tỷ suất chi phí chất lượng:",
+    "answer": "Giảm khi doanh nghiệp tăng sản lượng sản xuất."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Đối tượng nghiên cứu của thống kê chất lượng:",
+    "answer": "Có bao gồm chất lượng công việc"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Hệ số tháo lắp là chỉ tiêu tương đối:",
+    "answer": "Kết cấu"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Giá bình quân phẩm cấp tăng, biểu hiện chất lượng sản phẩm:",
+    "answer": "Tăng."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Chi phí chất lượng của doanh nghiệp:",
+    "answer": "Phụ thuộc vào sản lượng của doanh nghiệp."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Biến thiên phản ánh sai số do thiết bị đo được phản ánh qua:",
+    "answer": "EV (Repeatability – Equipment Variability)."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Hàm phản ánh mức giảm hiệu quả cho thấy:",
+    "answer": "Mức giảm hiệu quả khai thác sử dụng sản phẩm do độ tin cậy thấp gây ra."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Hệ số lần sản phẩm hỏng bình quân được tính bằng:",
+    "answer": "Công thức bình quân cộng gia quyền với quyền số là số lần sản phẩm hỏng từng loại."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Quan điểm tiêu chuẩn chất lượng sản phẩm trên giác độ người tiêu dùng có đặc điểm là:",
+    "answer": "Có tính an toàn, tiết kiệm khi sử dụng sản phẩm."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Hệ thống đo lường chất lượng càng đáp ứng tốt yêu cầu khi:",
+    "answer": "Biến thiên do công cụ đo chiếm tỷ lệ nhỏ trong tổng biến thiên."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Chỉ tiêu tính được bằng cách so sánh số chi tiết chuyên dùng với tổng chi tiết có trong 1 sản phẩm là:",
+    "answer": "Hệ số tháo lắp"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Độ tin cậy của sản phẩm theo phương pháp giá trị phản ánh:",
+    "answer": "Hiệu quả trong khai thác sử dụng sản phẩm."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Hệ số tương quan (ω1) là kết quả so sánh giữa:",
+    "answer": "Thực tế được đáp ứng so với khả năng đáp ứng theo thiết kế."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Khi tính tỷ trọng sản phẩm theo bậc chất lượng của nhiều loại sản phẩm, cần thống nhất giá cả theo:",
+    "answer": "Bậc chất lượng sản phẩm tốt nhất ở thời kỳ gốc."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Tỷ trọng sản phẩm theo bậc chất lượng có ưu điểm là:",
+    "answer": "Đơn giản, qua đó thấy được chất lượng sản phẩm tăng hay giảm để có biện pháp quản lý hữu hiệu."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Khi đánh giá năng lực quá trình, để quyết định xem có nên đưa quy trình vào sản xuất sản phẩm có dung sai có thể chấp nhận được hay không cần dựa vào:",
+    "answer": "Chỉ số Cp"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Hệ số thống nhất hóa nhóm sản phẩm phản ánh:",
+    "answer": "Bình quân của các Hệ số khả năng sử dụng."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Độ tin cậy của sản phẩm theo phương pháp giá trị là chỉ tiêu thuộc nhóm:",
+    "answer": "Độ tin cậy của sản phẩm."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Hệ số hữu ích tương đối là chỉ tiêu thuộc nhóm:",
+    "answer": "Hệ số chất lượng."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Đối tượng nghiên cứu của thống kê chất lượng:",
+    "answer": "Có bao gồm chất lượng hình thức của sản phẩm."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Đặc trưng kiểm soát chất lượng của giai đoạn Quản lý chất lượng toàn diện (TQM) là:",
+    "answer": "Quản lý toàn diện quá trình kể cả mặt kỹ thuật cũng như kinh tế."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Quan điểm tiêu chuẩn chất lượng sản phẩm trên giác độ người sản xuất có đặc điểm là:",
+    "answer": "Có khả năng kiểm soát quy trình."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Hệ số thống nhất hóa nhóm sản phẩm phản ánh:",
+    "answer": "Mức độ thống nhất giữa các sản phẩm."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Chỉ số chất lượng kinh doanh là chỉ tiêu:",
+    "answer": "Có thể tính chung cho nhiều sản phẩm hoặc hoạt động kinh doanh."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Tỷ trọng sản phẩm bậc thấp và giá bình quân phẩm cấp của sản phẩm cùng tăng hoặc cùng giảm có mối quan hệ với bậc phẩm cấp bình quân và chất lượng sản phẩm như thế nào?",
+    "answer": "Tỷ lệ nghịch với bậc phẩm cấp bình quân và tỷ lệ thuận với chất lượng sản phẩm."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Đặc trưng kiểm soát chất lượng của giai đoạn Sự phù hợp chất lượng (QC) là:",
+    "answer": "Kiểm tra đối với sản phẩm hoàn thành."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Khi tính bậc chất lượng bình quân của nhiều loại sản phẩm, thường thống nhất giá cả theo:",
+    "answer": "Kết hợp theo cả bậc chất lượng và thời gian."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Chi phí chất lượng của doanh nghiệp:",
+    "answer": "Tăng thêm bằng tỷ suất chi phí biến đổi khi sản lượng tăng 1 đơn vị."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Hệ số sẵn sàng cho biết:",
+    "answer": "Thời gian làm việc của sản phẩm so với tổng thời gian làm việc và sửa chữa, bảo dưỡng của sản phẩm."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Phân tích biểu đồ kiểm soát cho phép:",
+    "answer": "Đưa ra quyết định để cải tiến quy trình."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Trong trường hợp phát biểu của giả thuyết đối H1 là nhỏ hơn giá trị cho trước, khi đó miền bác bỏ giả thuyết H0 là:",
+    "answer": "Ở phía trái."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Nhóm chỉ tiêu Tiêu chuẩn hóa và thống nhất hóa sản phẩm cho biết:",
+    "answer": "Mức độ sử dụng các bộ phận chi tiết đã được tiêu chuẩn hoá thống nhất hoá trong quá trình sử dụng."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Chất lượng toàn phần được tính theo:",
+    "answer": "Hiệu quả có ích do sử dụng sản phẩm."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ phân tán để:",
+    "answer": "Xem xét mối quan hệ giữa các biến chất lượng."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Chất lượng là một phạm trù:",
+    "answer": "Có nhiều quan điểm khác nhau tùy mục đích nghiên cứu."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Trình độ chất lượng được tính theo:",
+    "answer": "Lượng nhu cầu khả năng có thể thoả mãn."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Chất lượng là đặc trưng phản ánh:",
+    "answer": "Sự thỏa mãn nhu cầu của khách hàng."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Bậc chất lượng bình quân là chỉ tiêu:",
+    "answer": "Có thể tính cho từng loại sản phẩm hoặc chung nhiều loại sản phẩm."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Trong phân tích chất lượng, có thể sử dụng phương pháp lưu đồ để:",
+    "answer": "Mô tả một quá trình chất lượng."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Khi tính bậc chất lượng bình quân của nhiều loại sản phẩm, cần thống nhất giá cả theo:",
+    "answer": "Bậc chất lượng sản phẩm tốt nhất ở thời kỳ gốc."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Tiêu chuẩn kiểm định khi so sánh trung bình hai tổng thể chung (mẫu độc lập), không biết phương sai tổng thể chung, n1 < 30 và n2 < 30 là:",
+    "answer": "Tiêu chuẩn t"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Hệ số DPMO:",
+    "answer": "Tỷ lệ thuận với số lượng khuyết tật."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ kiểm soát để:",
+    "answer": "Phát hiện được sự biến thiên chất lượng của sản phẩm trong quá trình."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "ωf là chỉ tiêu phản ánh:",
+    "answer": "Tổn thất trung bình do độ tin cậy thấp hơn thiết kế trong một thời gian xác định."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Kiểm định trung bình một tổng thể chung được áp dụng nhằm:",
+    "answer": "So sánh với yêu cầu của người đặt hàng."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Chất lượng toàn phần được tính theo:",
+    "answer": "Lượng nhu cầu thực tế được thoả mãn."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Phân tích chất lượng dựa vào phương pháp Giá bình quân phẩm cấp có ưu điểm hơn so với phương pháp Tỷ trọng sản phẩm theo bậc chất lượng và Bậc chất lượng bình quân là:",
+    "answer": "Xác định được phần giá trị lợi ích tăng thêm hay giảm đi do thay đổi chất lượng sản phẩm."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Khi đánh giá năng lực quá trình, để quyết định xem có nên tiếp tục duy trì quy trình sản xuất hiện tại hay không cần dựa vào:",
+    "answer": "Chỉ số Cpk"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Giá bình quân phẩm cấp là chỉ tiêu:",
+    "answer": "Chỉ nên tính cho một loại sản phẩm."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Một doanh nghiệp sản xuất đồ gỗ xuất khẩu kiểm tra 300 sản phẩm giao cho khách hàng phát hiện thấy có 18 lỗi các loại theo 5 tiêu chuẩn chất lượng sản phẩm. Hệ số DPMO của quá trình sản xuất là:",
+    "answer": "12 000"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Đặc trưng kiểm soát chất lượng của giai đoạn Kiểm soát chất lượng bằng thống kê (SQC) là:",
+    "answer": "Kiểm soát chất lượng trong quá trình sản xuất."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Hệ số sử dụng kỹ thuật (ω2) phản ánh:",
+    "answer": "Thông số kỹ thuật đạt được trong thực tế so với thiết kế."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Khi đánh giá hệ thống đo chất lượng theo khoảng biến thiên và giá trị bình quân thì tỷ lệ P/T được xác định dựa trên:",
+    "answer": "Biến thiên theo tiêu chuẩn kỹ thuật."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ kiểm soát để:",
+    "answer": "Phát hiện được sự biến thiên chất lượng của sản phẩm trong quá trình"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Hệ số sẵn sàng là chỉ tiêu thuộc nhóm:",
+    "answer": "Độ tin cậy của sản phẩm."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Six sigma là phương pháp:",
+    "answer": "Xác định và loại trừ các nguồn gây nên những dao động hay biến thiên trong quá trình."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Hệ thống đo lường chất lượng càng đáp ứng tốt yêu cầu khi:",
+    "answer": "Biến thiên do người đo chiếm tỷ lệ nhỏ trong tổng biến thiên."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Hệ số khả năng sử dụng là chỉ tiêu thuộc nhóm:",
+    "answer": "Tiêu chuẩn hóa và thống nhất hóa sản phẩm."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Phân tích biểu đồ phân tán cho phép:",
+    "answer": "Xác định mức độ của nguyên nhân ảnh hưởng đến một tiêu thức chất lượng."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Đối tượng nghiên cứu của thống kê chất lượng:",
+    "answer": "Có bao gồm chất lượng quá trình."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Thông số cực trị được tính theo:",
+    "answer": "Lượng nhu cầu khả năng có thể thoả mãn."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Chỉ tiêu tính được bằng cách so sánh số bộ phận hợp thành được chuẩn hoá với tổng tổng bộ phận hợp thành 1 sản phẩm là:",
+    "answer": "Hệ số khả năng sử dụng"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Hệ số khả năng sử dụng phản ánh:",
+    "answer": "Tỷ lệ các chi tiết tiêu chuẩn hóa có trong sản phẩm với tổng số chi tiết của sản phẩm."
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Phân tích biểu đồ phân tán cho phép:",
+    "answer": "Xác định mức độ của nguyên nhân ảnh hưởng đến một tiêu thức chất lượng."
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Trình độ chất lượng là chỉ tiêu tương đối:",
+    "answer": "Cường độ."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Tỷ suất chi phí chất lượng:",
+    "answer": "Có mối liên hệ tương quan phi tuyến với sản lượng sản xuất."
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Trình độ chất lượng được tính theo:",
+    "answer": "Khả năng đáp ứng nhu cầu của sản phẩm."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Phân tích biểu đồ kiểm soát cho phép:",
+    "answer": "Đưa ra quyết định để cải tiến quy trình."
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Chi phí ẩn chất lượng phản ánh:",
+    "answer": "Mức chất lượng bị thiếu hụt do chất lượng thực tế không đáp ứng đúng tiêu chuẩn."
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Hệ số tháo lắp phản ánh:",
+    "answer": "Tỷ lệ các chi tiết chuyên dùng có trong sản phẩm với tổng số chi tiết của sản phẩm."
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Thống kê chất lượng KHÔNG phục vụ quản lý về nhà nước về chất lượng trên phương diện:",
+    "answer": "Nghiên cứu chất lượng sản phẩm và giá bán."
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Hệ số sử dụng vật liệu là chỉ tiêu thuộc nhóm:",
+    "answer": "Tiêu chuẩn hóa và thống nhất hóa sản phẩm."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Khi kiểm soát quá trình thì cần:",
+    "answer": "Lấy chất lượng công việc làm cơ sở đánh giá chất lượng quá trình."
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Hiệu suất sử dụng sản phẩm biểu hiện mối tương quan giữa:",
+    "answer": "Chất lượng toàn phần với trình độ chất lượng."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Hệ số thống nhất hóa nhóm sản phẩm phản ánh:",
+    "answer": "Bình quân của các Hệ số khả năng sử dụng."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Biến thiên phản ánh sai số do sản phẩm được phản ánh qua:",
+    "answer": "PV( Product Variability)."
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Việc xem xét kiểm định trung bình, tỷ lệ hay phương sai trong quy trình kiểm định thuộc khâu nào sau đây?",
+    "answer": "Xác định nội dung kiểm định."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ kiểm soát để:",
+    "answer": "Phát hiện được sự biến thiên chất lượng của sản phẩm trong quá trình."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Tỷ trọng sản phẩm theo bậc chất lượng thấp (nhỏ) tăng, biểu hiện chất lượng sản phẩm:",
+    "answer": "Tăng."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Việc kiểm soát toàn bộ quá trình cần:",
+    "answer": "Lấy chất lượng quá trình làm cơ sở đánh giá chất lượng sản phẩm."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Các chỉ tiêu phản ánh hiệu quả chi phí đều là số tương đối:",
+    "answer": "Cường độ."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Trong phân tích chất lượng, có thể sử dụng phương pháp lưu đồ để:",
+    "answer": "Mô tả một quá trình chất lượng."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Hệ thống đo đáp ứng tốt yêu cầu đo chất lượng khi:",
+    "answer": "Tỷ lệ R&R thấp hơn 10%."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Thông số cực trị được tính theo:",
+    "answer": "Lượng nhu cầu khả năng có thể thoả mãn."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "hân tích biểu đồ Pareto cho phép:",
+    "answer": "Xác định vấn đề ưu tiên cần giải quyết để cải tiến chất lượng."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Trong trường hợp phát biểu của giả thuyết đối H1 là nhỏ hơn giá trị cho trước, khi đó miền bác bỏ giả thuyết H0 là:",
+    "answer": "Ở phía trái."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Trong trường hợp phát biểu của giả thuyết đối H1 là nhỏ hơn giá trị cho trước, khi đó miền bác bỏ giả thuyết H0 là:",
+    "answer": "Đồng thời cả phía trái và phía phải."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Hàm phản ánh mức giảm hiệu quả cho thấy:",
+    "answer": "Mức giảm hiệu quả khai thác sử dụng sản phẩm do độ tin cậy thấp gây ra."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Quá trình được coi là trọng tâm khi:",
+    "answer": "Giá trị bình quân mẫu đúng bằng trung bình cộng của 2 giới hạn kỹ thuật., UCL"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Chỉ số năng lực Cp < 1 cho phép kết luận quá trình:",
+    "answer": "Không kiểm soát được"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Biến thiên phản ánh sai số do nhân viên thực hiện đo được phản ánh qua:",
+    "answer": "AV (Repeatability - Appraiser Variability)."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Chất lượng toàn phần là chỉ tiêu tương đối:",
+    "answer": "Cường độ."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Hiệu suất sử dụng sản phẩm biểu hiện mối tương quan giữa:",
+    "answer": "Hiệu quả có ích do sử dụng sản phẩm với lượng nhu cầu khả năng có thể thoả mãn."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Việc xem xét kiểm định một phía hay hai phía trong quy trình kiểm định thuộc khâu nào sau đây?",
+    "answer": "Xác định dạng kiểm định."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Chỉ số chất lượng kinh doanh là chỉ tiêu:",
+    "answer": "Có thể tính chung cho nhiều sản phẩm hoặc hoạt động kinh doanh."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Chỉ số năng lực CP cho phép đo chất lượng:",
+    "answer": "Quá trình"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Phương thức lấy mẫu kép thường được sử dụng khi:",
+    "answer": "Lô sản phẩm có chất lượng rất tốt hoặc rất kém."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Phân tích chất lượng dựa vào phương pháp Giá bình quân phẩm cấp có ưu điểm hơn so với phương pháp Tỷ trọng sản phẩm theo bậc chất lượng và Bậc chất lượng bình quân là:",
+    "answer": "Xác định được phần giá trị lợi ích tăng thêm hay giảm đi do thay đổi chất lượng sản phẩm."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Khi tính tỷ trọng sản phẩm theo bậc chất lượng của nhiều loại sản phẩm, cần thống nhất giá cả theo:",
+    "answer": "Bậc chất lượng sản phẩm tốt nhất ở thời kỳ gốc."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "ωf là chỉ tiêu phản ánh:",
+    "answer": "Tổn thất trung bình do độ tin cậy thấp hơn thiết kế trong một thời gian xác định."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Chỉ số lệch tâm của quá trình càng gần 1 phản ánh:",
+    "answer": "Năng lực quá trình càng kém."
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Hệ số hao mòn của sản phẩm phản ánh:",
+    "answer": "Tỷ lệ giá trị sản phẩm đã khai thác được so với ban đầu."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Một doanh nghiệp sản xuất đồ gỗ xuất khẩu kiểm tra 300 sản phẩm giao cho khách hàng phát hiện thấy có 18 lỗi các loại theo 5 tiêu chuẩn chất lượng sản phẩm. Hệ số DPMO của quá trình sản xuất là:",
+    "answer": "12 000"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Khi xác định bậc chất lượng bình quân của nhiều loại sản phẩm, tử số của công thức được tính theo đơn vị:",
+    "answer": "Giá trị"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Chỉ tiêu tính được bằng cách so sánh số chi tiết chuyên dùng với tổng chi tiết có trong 1 sản phẩm là:",
+    "answer": "Hệ số tháo lắp"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Phương pháp kiểm định cho phép nghiên cứu chất lượng:",
+    "answer": "Bao gồm cả chất lượng sản phẩm vật chất, dịch vụ và quá trình."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Kiểm định trung bình một tổng thể chung được áp dụng nhằm:",
+    "answer": "So sánh với yêu cầu của người đặt hàng."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Tỷ suất chi phí chất lượng:",
+    "answer": "Giảm khi doanh nghiệp tăng sản lượng sản xuất."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Chỉ tiêu tính được bằng cách so sánh số bộ phận hợp thành được chuẩn hoá với tổng tổng bộ phận hợp thành 1 sản phẩm là:",
+    "answer": "Hệ số khả năng sử dụng"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ phân tán để:",
+    "answer": "Xem xét mối quan hệ giữa các biến chất lượng."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ nhân quả để:",
+    "answer": "Tìm hiểu nguyên nhân gốc rễ của vấn đề chất lượng."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ nhân quả để:",
+    "answer": "Tìm hiểu nguyên nhân gốc rễ của vấn đề chất lượng."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Khi đánh giá năng lực quá trình, để quyết định xem có nên đưa quy trình vào sản xuất sản phẩm có dung sai có thể chấp nhận được hay không cần dựa vào:",
+    "answer": "Chỉ số Cp"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Trình độ chất lượng được tính theo:",
+    "answer": "Lượng nhu cầu khả năng có thể thoả mãn."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Hệ số tương quan (ω1) là kết quả so sánh giữa:",
+    "answer": "Thực tế được đáp ứng so với khả năng đáp ứng theo thiết kế."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Phương pháp phân tích các chỉ tiêu thống kê chất lượng chỉ cho phép nghiên cứu chất lượng:",
+    "answer": "Sản phẩm, công việc và quá trình"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Bậc chất lượng bình quân tăng, biểu hiện chất lượng sản phẩm:",
+    "answer": "Giảm."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Chỉ số năng lực CP cho phép đo chất lượng:",
+    "answer": "Quá trình"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Hằng số d2 trong công thức tính EV, AV và PV được xác định qua:",
+    "answer": "1 và W, số sản phẩm đo., 1 và W, số nhân viên thực hiện đo., tích của số sản phẩm với số nhân viên thực hiện đo và W (số lần đo)., Tra bảng và có giá trị khác nhau trong từng công thức"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Hệ thống đo lường chất lượng càng đáp ứng tốt yêu cầu khi:",
+    "answer": "Biến thiên do người đo chiếm tỷ lệ nhỏ trong tổng biến thiên."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Hệ số hữu ích tương đối là chỉ tiêu thuộc nhóm:",
+    "answer": "Hệ số chất lượng."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Hệ số sẵn sàng cho biết:",
+    "answer": "Thời gian làm việc của sản phẩm so với tổng thời gian làm việc và sửa chữa, bảo dưỡng của sản phẩm."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Đặc trưng kiểm soát chất lượng của giai đoạn Quản lý chất lượng toàn diện (TQM) là:",
+    "answer": "Quản lý toàn diện quá trình kể cả mặt kỹ thuật cũng như kinh tế."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ phân tán để:",
+    "answer": "Xem xét mối quan hệ giữa các biến chất lượng."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Đặc trưng kiểm soát chất lượng của giai đoạn Kiểm soát chất lượng toàn diện (TQC) là:",
+    "answer": "Kiểm soát thông số kỹ thuật toàn bộ quá trình."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Hệ số tháo lắp là chỉ tiêu thuộc nhóm:",
+    "answer": "Tiêu chuẩn hóa và thống nhất hóa sản phẩm."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Six sigma là phương pháp:",
+    "answer": "Xác định và loại trừ các nguồn gây nên những dao động hay biến thiên trong quá trình."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Chất lượng toàn phần được tính theo:",
+    "answer": "Hiệu quả có ích do sử dụng sản phẩm."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Chất lượng toàn phần được tính theo:",
+    "answer": "Lượng nhu cầu thực tế được thoả mãn."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Đối tượng nghiên cứu của thống kê chất lượng:",
+    "answer": "Có bao gồm chất lượng công việc"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Đặc trưng kiểm soát chất lượng của giai đoạn Kiểm soát chất lượng bằng thống kê (SQC) là:",
+    "answer": "Kiểm soát chất lượng trong quá trình sản xuất."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Quan điểm tiêu chuẩn chất lượng sản phẩm trên giác độ người tiêu dùng có đặc điểm là:",
+    "answer": "Có tính tiện dụng."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Phương pháp phân tích các chỉ tiêu thống kê chất lượng KHÔNG cho phép nghiên cứu chất lượng:",
+    "answer": "Tiêu chuẩn chất lượng"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Kiểm định 2 phía được áp dụng khi muốn xem xét đặc tính chất lượng được kiểm định:",
+    "answer": "Không được vượt quá ngưỡng trên và cũng không được thấp hơn ngưỡng dưới mức chất lượng nào đó."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Hệ số tháo lắp là chỉ tiêu tương đối:",
+    "answer": "Kết cấu"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Hệ số phân hạng sản phẩm:",
+    "answer": "Tính ra càng lớn phản ánh chất lượng sản phẩm càng cao."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Hệ thống đo lường chất lượng càng đáp ứng tốt yêu cầu khi:",
+    "answer": "Biến thiên do công cụ đo chiếm tỷ lệ nhỏ trong tổng biến thiên."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Khi xác định tỷ trọng sản phẩm theo bậc chất lượng nhiều loại sản phẩm, tử số của công thức được tính theo đơn vị:",
+    "answer": "Giá trị"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Hệ số khả năng sử dụng là chỉ tiêu thuộc nhóm:",
+    "answer": "Tiêu chuẩn hóa và thống nhất hóa sản phẩm."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Đối tượng nghiên cứu của thống kê chất lượng:",
+    "answer": "Có bao gồm chất lượng nội dung của sản phẩm."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Việc xem xét quy luật phân phối xác suất sử dụng làm cơ sở thực hiện kiểm định trong quy trình kiểm định thuộc khâu nào sau đây?",
+    "answer": "Xác định tiêu chuẩn kiểm định."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Chất lượng là đặc trưng phản ánh:",
+    "answer": "Sự thỏa mãn nhu cầu của khách hàng."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Chi phí chất lượng của doanh nghiệp theo chức năng chi phí bao gồm:",
+    "answer": "Chi phí thẩm định; chi phí phòng ngừa và chi phí thiệt hại."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Đặc trưng kiểm soát chất lượng của giai đoạn Sự phù hợp chất lượng (QC) là:",
+    "answer": "Kiểm tra đối với sản phẩm hoàn thành."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Khi ĐTCM chấp nhận lấy mẫu đơn 20 SP. Nếu yêu cầu lô SP có không quá 1 phế phẩm và thực tế có 5 % SP không đạt chuẩn, xác suất chấp nhận trường hợp này là:",
+    "answer": "73,59%"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Khi lựa chọn phương thức điều tra chọn mẫu chấp nhận để ra quyết định, nếu đứng trên giác độ lợi ích khách hàng bạn sẽ:",
+    "answer": "Chọn α lớn và β nhỏ"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Thống kê chất lượng KHÔNG phục vụ quản trị doanh nghiệp trên phương diện:",
+    "answer": "Phân tích ảnh hưởng của chính sách kinh tế vĩ mô."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Khi đánh giá hệ thống đo chất lượng theo khoảng biến thiên và giá trị bình quân thì tỷ lệ R&R được xác định dựa trên:",
+    "answer": "Biến thiên thực tế của kết quả đo."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Hệ số thống nhất hóa nhóm sản phẩm là chỉ tiêu thuộc nhóm:",
+    "answer": "Tiêu chuẩn hóa và thống nhất hóa sản phẩm."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Xác định hệ thống đo lường chất lượng bao gồm:",
+    "answer": "Xác định nhân viên đo."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Đối tượng nghiên cứu của thống kê chất lượng:",
+    "answer": "Có bao gồm chất lượng hình thức của sản phẩm."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ Pareto để:",
+    "answer": "Phân loại nguyên nhân của thực trạng biến thiên chất lượng."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Hệ số thống nhất hóa nhóm sản phẩm phản ánh:",
+    "answer": "Mức độ thống nhất giữa các sản phẩm."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Phương thức lấy mẫu kép được sử dụng khi:",
+    "answer": "Chưa có cơ sở đưa ra quyết định trong lần chọn mẫu thứ nhất."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Độ tin cậy của sản phẩm theo phương pháp giá trị phản ánh:",
+    "answer": "Hiệu quả trong khai thác sử dụng sản phẩm."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Bậc chất lượng bình quân là chỉ tiêu:",
+    "answer": "Có thể tính cho từng loại sản phẩm hoặc chung nhiều loại sản phẩm."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Hệ số DPMO:",
+    "answer": "Không cho phép so sánh khả năng gây lỗi giữa nhiều sản phẩm khác nhau."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Tỷ trọng sản phẩm bậc thấp và giá bình quân phẩm cấp của sản phẩm cùng tăng hoặc cùng giảm có mối quan hệ với bậc phẩm cấp bình quân và chất lượng sản phẩm như thế nào?",
+    "answer": "Tỷ lệ nghịch với bậc phẩm cấp bình quân và tỷ lệ thuận với chất lượng sản phẩm."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Thông số cực trị là chỉ tiêu tương đối:",
+    "answer": "Cường độ."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Biến thiên phản ánh sai số do thiết bị đo được phản ánh qua:",
+    "answer": "EV (Repeatability – Equipment Variability)."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Quá trình được coi là trọng tâm khi:",
+    "answer": "Cp, Cpk, LCL"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Mức chất lượng là chỉ tiêu thuộc nhóm:",
+    "answer": "Hệ số chất lượng."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Nhóm chỉ tiêu Độ tin cậy của sản phẩm cho biết:",
+    "answer": "Khả năng bảo toàn đặc điểm sử dụng của sản phẩm trong điều kiện khai thác quy định."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Thông số cực trị được tính theo:",
+    "answer": "Khả năng đáp ứng nhu cầu của sản phẩm."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Trong trường hợp phát biểu của giả thuyết đối H1 là lớn hơn giá trị cho trước, khi đó miền bác bỏ giả thuyết H0 là:",
+    "answer": "Ở phía phải."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Hệ số khả năng sử dụng là chỉ tiêu tương đối:",
+    "answer": "Kết cấu"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Việc xem xét kiểm định một, hai hay nhiều tổng thể trong quy trình kiểm định thuộc khâu nào sau đây?",
+    "answer": "Xác định quan hệ kiểm định."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Tỷ trọng sản phẩm theo bậc chất lượng có ưu điểm là:",
+    "answer": "Đơn giản, qua đó thấy được chất lượng sản phẩm tăng hay giảm để có biện pháp quản lý hữu hiệu."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Để đánh giá hệ thống đo chất lượng sản phẩm vật chất có bao nhiêu phương pháp?",
+    "answer": "2 phương pháp."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Hệ số phân hạng sản phẩm đối với nhiều loại sản phẩm:",
+    "answer": "Được tính theo công thức bình quân cộng gia quyền với quyền số là tỷ trọng giá trị của các sản phẩm."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Chi phí chất lượng của doanh nghiệp theo khoản mục chi phí bao gồm:",
+    "answer": "Chi phí trực tiếp và chi phí gián tiếp."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Đối tượng nghiên cứu của thống kê chất lượng:",
+    "answer": "Có bao gồm chất lượng quá trình."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Chỉ số năng lực CP cho phép đo chất lượng:",
+    "answer": "Quá trình"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Hệ số DPMO:",
+    "answer": "Tỷ lệ thuận với số lượng khuyết tật."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Đối tượng nghiên cứu của thống kê chất lượng:",
+    "answer": "Có bao gồm chất lượng sản phẩm."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Khi lựa chọn phương thức điều tra chọn mẫu chấp nhận để ra quyết định, nếu đứng trên giác độ lợi ích người sản xuất bạn sẽ:",
+    "answer": "Chọn α nhỏ và β lớn"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Emax là chỉ tiêu phản ánh:",
+    "answer": "Hiệu quả đem lại do sử dụng khai thác sản phẩm trong thời gian nhất định khi sản phẩm có độ tin cậy theo tiêu chuẩn thiết kế."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Hệ thống đo lường chất lượng càng đáp ứng tốt yêu cầu khi:",
+    "answer": "Biến thiên do người đo và công cụ đo chiếm tỷ lệ nhỏ trong tổng biến thiên."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Mức chất lượng biểu hiện mối quan hệ so sánh giữa:",
+    "answer": "Đặc trưng chất lượng thực tế của sản phẩm so với chất lượng tiêu chuẩn."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Thống kê chất lượng là:",
+    "answer": "Khoa học nghiên cứu hệ thống phương pháp thu thập, xử lý, phân tích dữ liệu."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Khi tính bậc chất lượng bình quân của nhiều loại sản phẩm, cần thống nhất giá cả theo:",
+    "answer": "Bậc chất lượng sản phẩm tốt nhất ở thời kỳ gốc."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Hệ số khả năng sử dụng phản ánh:",
+    "answer": "Tỷ lệ các chi tiết tiêu chuẩn hóa có trong sản phẩm với tổng số chi tiết của sản phẩm."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Hệ số DPMO càng cao cho thấy:",
+    "answer": "Khả năng mắc lỗi càng nhiều."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Hệ số khả năng sử dụng là chỉ tiêu:",
+    "answer": "Có thể tính theo phương pháp hiện vật hoặc phương pháp giá trị."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Hệ số phân hạng sản phẩm là chỉ tiêu so sánh giữa:",
+    "answer": "Tổng giá trị thực tế của sản phẩm với tổng giá trị sản phẩm trong trường hợp toàn bộ sản phẩm đều đạt chất lượng tốt."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Hệ số lần sản phẩm hỏng bình quân được tính bằng:",
+    "answer": "Công thức bình quân cộng gia quyền với quyền số là số lần sản phẩm hỏng từng loại."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Khi đánh giá hệ thống đo chất lượng theo khoảng biến thiên và giá trị bình quân thì tỷ lệ P/T được xác định dựa trên:",
+    "answer": "Biến thiên theo tiêu chuẩn kỹ thuật."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Giá bình quân phẩm cấp tăng, biểu hiện chất lượng sản phẩm:",
+    "answer": "Tăng."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Hệ số sẵn sàng là chỉ tiêu thuộc nhóm:",
+    "answer": "Độ tin cậy của sản phẩm."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Chất lượng là một phạm trù:",
+    "answer": "Có nhiều quan điểm khác nhau tùy mục đích nghiên cứu."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Độ tin cậy của sản phẩm theo phương pháp giá trị là chỉ tiêu thuộc nhóm:",
+    "answer": "Độ tin cậy của sản phẩm."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Xác định hệ thống đo lường chất lượng bao gồm:",
+    "answer": "Xác định đơn vị đo, thang đo."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Chi phí chất lượng của doanh nghiệp:",
+    "answer": "Phụ thuộc vào sản lượng của doanh nghiệp."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Chi phí ẩn chất lượng phản ánh:",
+    "answer": "Mức chất lượng cần bổ sung để đạt mức chất lượng tiêu chuẩn."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Quan điểm tiêu chuẩn chất lượng sản phẩm trên giác độ người tiêu dùng có đặc điểm là:",
+    "answer": "Có tính an toàn, tiết kiệm khi sử dụng sản phẩm."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Hệ số chi phí thiệt hại sản phẩm hỏng biểu hiện quan hệ so sánh giữa:",
+    "answer": "Chi phí sửa chữa, loại bỏ và đền bù sản phẩm hỏng với chi phí sản xuất."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Hệ số sử dụng kỹ thuật (ω2) phản ánh:",
+    "answer": "Thông số kỹ thuật đạt được trong thực tế so với thiết kế."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Phân tích lưu đồ cho phép:",
+    "answer": "Xem xét trách nhiệm của từng khâu, bộ phận, cá nhân trong việc đảm bảo chất lượng."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Thông số cực trị và trình độ chất lượng đều có đặc điểm giống nhau:",
+    "answer": "Cho thấy hiệu quả chi phí theo lượng nhu cầu dự kiến có thể được thoả mãn."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Khi đánh giá năng lực quá trình, để quyết định xem có nên tiếp tục duy trì quy trình sản xuất hiện tại hay không cần dựa vào:",
+    "answer": "Chỉ số Cpk"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Khi tính tỷ trọng sản phẩm theo bậc chất lượng của nhiều loại sản phẩm, thường thống nhất giá cả theo:",
+    "answer": "Kết hợp theo cả bậc chất lượng và thời gian."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Quan điểm tiêu chuẩn chất lượng sản phẩm trên giác độ người sản xuất có đặc điểm là:",
+    "answer": "Có khả năng kiểm soát quy trình."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Khi tính bậc chất lượng bình quân của nhiều loại sản phẩm, thường thống nhất giá cả theo:",
+    "answer": "Kết hợp theo cả bậc chất lượng và thời gian."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Trong phân tích chất lượng, có thể sử dụng phương pháp lưu đồ để:",
+    "answer": "Mô tả một quá trình chất lượng."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Hệ số sử dụng vật liệu là chỉ tiêu tương đối:",
+    "answer": "Kết cấu"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Trong phân tích chất lượng, có thể sử dụng biểu đồ kiểm soát để:",
+    "answer": "Phát hiện được sự biến thiên chất lượng của sản phẩm trong quá trình"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Các chỉ tiêu Hệ số chất lượng đều phản ánh:",
+    "answer": "Mức chất lượng thực tế so với tiêu chuẩn."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Chi phí chất lượng của doanh nghiệp theo yếu tố chi phí bao gồm:",
+    "answer": "Khấu hao TSCĐ; chi phí trung gian và thù lao lao động cho công tác quản lý chất lượng."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Quan điểm tiêu chuẩn chất lượng sản phẩm trên giác độ người sản xuất có đặc điểm là:",
+    "answer": "Yếu tố đầu vào ổn định."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Chi phí chất lượng của doanh nghiệp:",
+    "answer": "Tăng thêm bằng tỷ suất chi phí biến đổi khi sản lượng tăng 1 đơn vị."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Tiêu chuẩn kiểm định khi so sánh trung bình hai tổng thể chung (mẫu độc lập), không biết phương sai tổng thể chung, n1 < 30 và n2 < 30 là:",
+    "answer": "Tiêu chuẩn t"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Hệ số sử dụng vật liệu phản ánh:",
+    "answer": "Tỷ lệ khối lượng vật liệu trong sản phẩm với khối lượng vật liệu đem gia công."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Nhóm chỉ tiêu Tiêu chuẩn hóa và thống nhất hóa sản phẩm cho biết:",
+    "answer": "Mức độ sử dụng các bộ phận chi tiết đã được tiêu chuẩn hoá thống nhất hoá trong quá trình sử dụng."
+  }
+]

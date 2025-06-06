@@ -1,0 +1,2276 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Yêu cầu nào là quan trọng nhất khi quyết định trình độ và số lượng lao động tuyển dụng cho dự án:",
+    "answer": "đáp ứng yêu cầu của dây chuyền công nghệ đã chọn cho dự án."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Mục đích quan trọng nhất của thẩm định quy mô công suất của dự án:",
+    "answer": "đánh giá tính tối ưu của công suất đã chọn."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Căn cứ nào không thể thiếu khi thẩm định kỹ thuật của dự án:",
+    "answer": "hồ sơ dự án, các tiêu chuẩn định mức của nhà nước"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Khi thẩm định thiết bị trong dây chuyền công nghệ, yếu tố nào là quan trọng nhất?",
+    "answer": "tính phù hợp của thiết bị và chất lượng thiết bị"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Khi thẩm định chế độ tiền lương, tiền thưởng, chế độ làm việc nghỉ ngơi cho người lao động trong dự án, cán bộ thẩm định không cần quan tâm nhiều đến quy định nào:",
+    "answer": "chế độ thưởng của doanh nghiệp"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Thẩm định giải pháp xây dựng dự án cần xem xét những nội dung nào trong các nội dung sau:",
+    "answer": "giải pháp quy hoạch – kiến trúc; giải pháp kết cấu và tổng dự toán xây dựng công trình."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Khi nào một dự án bắt buộc phải đặt trong khu công nghiệp:",
+    "answer": "dự án có các chất phế thải, nước thải độc hại."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Một phương án kết cấu công trình được coi là hợp lý nhất khi:",
+    "answer": "bảo đảm độ bền cần thiết của công trình."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Khi thẩm định tính thời vụ của nguyên vật liệu, mục tiêu nào là quan trọng nhất:",
+    "answer": "để tính toán khối lượng nguyên vật liệu dự trữ."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư đã được xác định theo thứ tự các năm (từ đầu năm thứ nhất) như sau: -360; 65,4; 69,2; 75,3; 76,4; 86,3; 88,2; 90,4; 85,2; 70,1; 60,4 (tỷ đồng). Tỷ suất chiết khấu của dự án là\n14% năm. Thời gian thu hồi vốn đầu tư của dự án là:",
+    "answer": "8 năm 1,3 tháng."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Dự án đầu tư có tổng số vốn đầu tư tính tại thời điểm dự án bắt đầu đi vào hoạt động là 450 tỷ đồng, trong đó vốn tạo ra tài sản cố định 360 tỷ đồng, vốn lưu động 90 tỷ đồng. Tài sản cố định khấu hao theo phương pháp khấu hao đều, thời gian khấu hao 10 năm. Khấu hao tài sản cố định từng năm là:",
+    "answer": "36 tỷ đồng."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư đã được xác định theo thứ tự các năm (từ đầu năm thứ nhất) như sau: -210; 45; 45; 45; 60; 60; 60; 60; 60; 48; 36 (tỷ đồng). Tỷ suất chiết khấu của dự án là 15% năm. NPV của dự án được xác định:",
+    "answer": "47,5 tỷ đồng."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Thẩm định rủi ro các chỉ tiêu hiệu quả tài chính của dự án cần:",
+    "answer": "phân tích độ nhạy và phân tích mô phỏng."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Phân tích độ nhạy được sử dụng khi:",
+    "answer": "thẩm định rủi ro các chỉ tiêu hiệu quả tài chính của dự án."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Ngân hàng quyết định tài trợ vốn cho dự án khi:",
+    "answer": "dự án được thẩm định có tính khả thi về tài chính."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -568, 120, 147, 158, 170, 180, 190, 160, 146, 130, 90. Tỷ suất chiết khấu của dự án là 16%. Thời gian thu hồi vốn đầu tư của dự án là:",
+    "answer": "5 năm 11,5 tháng."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Dự án được kết luận đạt hiệu quả tài chính khi:",
+    "answer": "IRR \\> Chi phí sử dụng vốn của dự án."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Dự án đầu tư có tổng số vốn đầu tư từ 3 nguồn: nguồn 1: 160 tỷ đồng với lãi suất 11%/ năm, nguồn 2: 210 tỷ đồng với lãi suất 13%/ năm, nguồn 3: 280 tỷ đồng với lãi suất 9%/ năm. Tỷ suất chiết khấu của dự án được xác định:",
+    "answer": "10,8% năm."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Một dự án đầu tư huy động vốn từ 3 nguồn: Nguồn 1: huy động 170 triêu với lãi suất 10%, Nguồn 2: huy động 220 triệu với lãi suất 14%, Nguồn 3: huy động 290 triệu với lãi suất 12%. Chi phí sử dụng vốn của dự án được thẩm định là:",
+    "answer": "12,1%"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -670; 130; 140; 150; 160; 230; 250; 270; 290 ; 210; 180 (tỷ đồng).\nTỷ suất chiết khấu của dự án là 13%. IRR của dự án được xác định là:",
+    "answer": "23.3%"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -568, 120, 147, 158, 170, 180, 190, 160, 146, 130, 90. Tỷ suất chiết khấu của dự án là 16%. NPV của dự án là:",
+    "answer": "159,22 tỷ đồng."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -150; 30; 35; 46; 48; 55; 60; 65; 40; 36; 34 (tỷ đồng). Tỷ suất chiết khấu của dự án là 12%. NPV của dự án được xác định:",
+    "answer": "99,0 tỷ đồng."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Dự án đầu tư vay 160 tỷ đồng với lãi suất 13% năm và phải trả nợ gốc đều trong 6 năm kể từ cuối năm thứ 3, lãi phải trả hàng năm. Lãi vay phải trả ở năm thứ 3 là:",
+    "answer": "20,8 tỷ đồng."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Dự án đầu tư vay 360 tỷ đồng với lãi suất 10% năm và phải trả nợ gốc đều trong 6 năm kể từ cuối năm thứ 2, lãi phải trả hàng năm. Lãi vay phải trả ở năm thứ 3 là:",
+    "answer": "30 tỷ đồng."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Dự án đầu tư có tổng số vốn đầu tư là 1800 tỷ đồng được huy động từ 4 nguồn: nguồn 1: 300 tỷ đồng với lãi suất 16%/ năm, nguồn 2: 400 tỷ đồng với lãi suất 12%/ năm, nguồn 3: 500 tỷ đồng với lãi suất 8%/ năm, nguồn 4: 600 tỷ đồng với lãi suất 13%/ năm. Tỷ suất chiết khấu của dự án được xác định:",
+    "answer": "11,9% năm."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Dự án đầu tư vay 150 tỷ với lãi suất 10% năm và phải trả nợ gốc đều trong 5 năm kể từ cuối năm thứ 3, lãi phải trả hàng năm. Lãi vay phải trả ở năm thứ 4 là:",
+    "answer": "12 tỷ đồng."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Dòng tiền sau thuế của dự án là cơ sở để:",
+    "answer": "tính các chỉ tiêu hiệu quả tài chính."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Tỷ suất của dự án được xác định:",
+    "answer": "chi phí sử dụng vốn bình quân của các nguồn vốn huy động."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Để đánh giá tiến độ giải ngân của dự án cần phải:",
+    "answer": "thẩm định nhu cầu vốn theo tiến độ triển khai thực hiện dự án."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -568, 120, 147, 158, 170, 180, 190, 160, 146, 130, 90. Tỷ suất chiết khấu của dự án là 16%. IRR của dự án là:",
+    "answer": "23,09%."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư đã được xác định theo thứ tự các năm (từ đầu năm thứ nhất) như sau: -210; 45; 45; 45; 60; 60; 60; 60; 60; 48; 36 (tỷ đồng). Tỷ suất chiết khấu của dự án là 15% năm. IRR của dự án được xác định:",
+    "answer": "20,5%"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -670; 130; 140; 150; 160; 230; 250; 270; 290 ; 210; 180 (tỷ đồng).\nTỷ suất chiết khấu của dự án là 13%. NPV của dự án được xác định là:",
+    "answer": "348,5 tỷ đồng."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Thẩm định chi phí sử dụng vốn của dự án cần:",
+    "answer": "thẩm định chi phí sử dụng của từng nguồn vốn huy động."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Thời gian thu hồi vốn đầu tư là:",
+    "answer": "thời gian để giá trị hiện tại tổng lợi nhuận, khấu hao và lãi vay (nếu có) cân bằng với vốn đầu tư"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Dự án đầu tư có tổng số vốn đầu tư từ 3 nguồn: nguồn 1: 90 tỷ đồng với lãi suất 10%/ năm, nguồn 2: 120 tỷ đồng với lãi suất 12%/ năm, nguồn 3: 70 tỷ đồng với lãi suất 18%/ năm. Tỷ suất chiết khấu của dự án được xác định:",
+    "answer": "12,9% năm."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Dự án đựơc kết luận đạt hiệu quả tài chính khi:",
+    "answer": "T \\< Thời kỳ vận hành khai thác của dự án."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Dòng tiền sau thuế sử dụng để tính các chỉ tiêu hiệu quả tài chính được xác định:",
+    "answer": "dòng chênh lệch giữa các khoản thu và các khoản chi phí hàng năm (không bao gồm khấu hao và lãi vay) của dự án."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -670; 130; 140; 150; 160; 230; 250; 270; 290 ; 210; 180 (tỷ đồng).\nTỷ suất chiết khấu của dự án là 13%. Thời gian thu hồi vốn đầu tư của dự án là:",
+    "answer": "5 năm 11,8 tháng."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Thẩm định phương pháp xác định NPV của dự án:",
+    "answer": "chênh lệch giữa giá trị hiện tại của tổng các khoản thu và giá trị hiện tại của tổng các khoản chi phí hàng năm (không bao gồm khấu hao và lãi vay) của cả đời dự án."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Dự án đầu tư vay 250 tỷ đồng với lãi suất 12% năm và phải trả nợ gốc đều trong 5 năm kể từ cuối năm thứ 1, lãi phải trả hàng năm. Lãi vay phải trả ở năm thứ 3 là:",
+    "answer": "18 tỷ đồng."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -150; 30; 35; 46; 48; 55; 60; 65; 40; 36; 34 (tỷ đồng). Tỷ suất chiết khấu của dự án là 12%. Thời gian thu hồi vốn đầu tư của dự án là:",
+    "answer": "5 năm 0,3 tháng."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư đã được xác định theo thứ tự các năm (từ đầu năm thứ nhất) như sau: -360; 65,4; 69,2; 75,3; 76,4; 86,3; 88,2; 90,4; 85,2; 70,1; 60,4 (tỷ đồng). Tỷ suất chiết khấu của dự án là 14% năm. NPV của dự án được xác định:",
+    "answer": "35,5 tỷ đồng."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Dự án được kết luận đạt hiệu quả tài chính khi:",
+    "answer": "NPV \\> 0"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư đã được xác định theo thứ tự các năm (từ đầu năm thứ nhất) như sau: -360; 65,4; 69,2; 75,3; 76,4; 86,3; 88,2; 90,4; 85,2; 70,1; 60,4 (tỷ đồng). Tỷ suất chiết khấu của dự án là 14% năm. IRR của dự án được xác định:",
+    "answer": "16,4%"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Tỷ suất hoàn vốn nội bộ phản ánh:",
+    "answer": "tỷ suất làm NPV = 0."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -150; 30; 35; 46; 48; 55; 60; 65; 40; 36; 34 (tỷ đồng). Tỷ suất chiết khấu của dự án là 12%. IRR của dự án được xác định:",
+    "answer": "25,4%"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư đã được xác định theo thứ tự các năm (từ đầu năm thứ nhất) như sau: -210; 45; 45; 45; 60; 60; 60; 60; 60; 48; 36 (tỷ đồng). Tỷ suất chiết khấu của dự án là 15% năm. Thời gian thu hồi vốn đầu tư của dự án là:",
+    "answer": "6 năm 9,1 tháng."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Dòng tiền sau thuế sử dụng để tính các chỉ tiêu hiệu quả tài chính được xác định:",
+    "answer": "dòng chênh lệch giữa các khoản thu và các khoản chi phí hàng năm (không bao gồm khấu hao và lãi vay) của dự án."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Thẩm định phương pháp xác định NPV của dự án:",
+    "answer": "chênh lệch giữa giá trị hiện tại của tổng các khoản thu và giá trị hiện tại của tổng các khoản chi phí hàng năm (không bao gồm khấu hao và lãi vay) của cả đời dự án."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Dự án đầu tư có tổng số vốn đầu tư là 1800 tỷ đồng được huy động từ 4 nguồn: nguồn 1: 300 tỷ đồng với lãi suất 16%/ năm, nguồn 2: 400 tỷ đồng với lãi suất 12%/ năm, nguồn 3: 500 tỷ đồng với lãi suất 8%/ năm, nguồn 4: 600 tỷ đồng với lãi suất 13%/ năm. Tỷ suất chiết khấu của dự án được xác định:",
+    "answer": "11,9% năm."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Để đánh giá tiến độ giải ngân của dự án cần phải:",
+    "answer": "thẩm định nhu cầu vốn theo tiến độ triển khai thực hiện dự án."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Dự án đầu tư có tổng số vốn đầu tư từ 3 nguồn: nguồn 1: 90 tỷ đồng với lãi suất 10%/ năm, nguồn 2: 120 tỷ đồng với lãi suất 12%/ năm, nguồn 3: 70 tỷ đồng với lãi suất 18%/ năm. Tỷ suất chiết khấu của dự án được xác định:",
+    "answer": "12,9% năm."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư đã được xác định theo thứ tự các năm (từ đầu năm thứ nhất) như sau: -210; 45; 45; 45; 60; 60; 60; 60; 60; 48; 36 (tỷ đồng). Tỷ suất chiết khấu của dự án là 15% năm. Thời gian thu hồi vốn đầu tư của dự án là:",
+    "answer": "6 năm 9,1 tháng."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Dòng tiền sau thuế của dự án là cơ sở để:",
+    "answer": "tính các chỉ tiêu hiệu quả tài chính."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -568, 120, 147, 158, 170, 180, 190, 160, 146, 130, 90. Tỷ suất chiết khấu của dự án là 16%. NPV của dự án là:",
+    "answer": "159,22 tỷ đồng."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Một dự án đầu tư huy động vốn từ 3 nguồn: Nguồn 1: huy động 170 triêu với lãi suất 10%, Nguồn 2: huy động 220 triệu với lãi suất 14%, Nguồn 3: huy động 290 triệu với lãi suất 12%. Chi phí sử dụng vốn của dự án được thẩm định là:",
+    "answer": "12,1%"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Dự án đầu tư vay 250 tỷ đồng với lãi suất 12% năm và phải trả nợ gốc đều trong 5 năm kể từ cuối năm thứ 1, lãi phải trả hàng năm. Lãi vay phải trả ở năm thứ 3 là:",
+    "answer": "18 tỷ đồng."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -670; 130; 140; 150; 160; 230; 250; 270; 290 ; 210; 180 (tỷ đồng).\nTỷ suất chiết khấu của dự án là 13%. Thời gian thu hồi vốn đầu tư của dự án là:",
+    "answer": "5 năm 11,8 tháng."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Dự án đầu tư vay 150 tỷ với lãi suất 10% năm và phải trả nợ gốc đều trong 5 năm kể từ cuối năm thứ 3, lãi phải trả hàng năm. Lãi vay phải trả ở năm thứ 4 là:",
+    "answer": "12 tỷ đồng."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Khác nhau về góc độ đánh giá:",
+    "answer": "thẩm định kinh tế xã hội đứng ở góc độ sử dụng tài nguyên của đất nước trong khi thẩm định tài chính đứng trên góc độ sử dụng vốn bằng tiền."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Đối với đất đai, giá dùng để thẩm định hiệu quả kinh tế xã hội sẽ:",
+    "answer": "là chi phí cơ hội của việc sử dụng mảnh đất đó cho dự án."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Một dự án đầu tư có sản lượng đầu ra là 1000 tấn/năm. Giá dự kiến của tấn sản lượng đầu ra là 2 triệu VNĐ. Nếu người tiêu dùng sẵn sàng trả thêm 10% mức giá mà dự án đề xuất để có thể được sử dụng sản phẩm đầu ra của dự án (do chất lượng tốt). Vậy hệ số điều chỉnh trong phân tích kinh tế xã hội dự án này là:",
+    "answer": "0,9"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Câu nào sau đây đúng nhất về chỉ tiêu khả năng cạnh tranh quốc tế đối với dự án đầu tư (International Competitiveness – IC):",
+    "answer": "chỉ tiêu này được tính dựa trên giá trị ngoại tệ tiết kiệm và thu được so với giá trị đầu vào của dự án từ các nguồn trong nước phục vụ cho sản xuất hàng xuất khẩu hoặc thay thế nhập khẩu."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Nếu mức chênh lệch bình quân giữa giá nội địa và giá thế giới đối với hàng hoá ngoại thương là 10% (giá thị trường quốc tế cao hơn giá thị trường nội địa 10%). Điều đó có nghĩa rằng:",
+    "answer": "tỷ số giá bóng/giá thị trường = 1,1."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Nếu việc sử dụng yếu tố đầu vào phi ngoại thương làm tăng năng lực sản xuất của đất nước (về yếu tố đầu vào này):",
+    "answer": "chi phí cận biên cho số sản phẩm gia tăng sẽ được sử dụng để đánh giá."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Giả sử lao động của một dự án được giả thiết là có chi phí cơ hội và được tính bằng 80% mức lương thực tế mà dự án trả. Như vậy:",
+    "answer": "hệ số chuyển đổi của lao động tại dự án nàylà 0,8."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Giá trị gia tăng thuần (NAV) bao gồm:",
+    "answer": "bao gồm chi phí trực tiếp trả cho người lao động và thặng dư vốn."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Yêu cầu của thẩm định khía cạnh kinh tế xã hội dự án đầu tư là:",
+    "answer": "có kết luận xác đáng về tính khả thi của dự án về khía cạnh kinh tế – xã hội; đánh giá hiệu quả kinh tế xã hội dự án và phân tích khả năng thực hiện dự án trên góc độ toàn bộ nền kinh tế và toàn bộ xã hội; phải nắm bắt được mục tiêu và chiến lược phát triển kinh tế – xã hội của quốc gia, của ngành và của vùng."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Giá trị gia tăng thuần (NVA) là chỉ tiêu:",
+    "answer": "phản ánh mức đóng góp trực tiếp của dự án cho tăng trưởng kinh tế tạo một quốc gia và được tính bằng chênh lệch giữa giá trị đầu ra trừ đi vốn đầu tư và giá trị đầu vào vật chất thường xuyên và các dịch vụ mua ngoài."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Hàng hóa phi ngoại thương (non–traded goods):",
+    "answer": "là hàng hóa không thể xuất khẩu và không thể nhập khẩu được; là hàng hóa mà nếu chúng là hàng xuất khẩu thì giá FOB sẽ nhỏ hơn chi phí sản xuất trong nước và nếu chúng là hàng nhập khẩu thì giá CIF sẽ lớn hơn chi phí sản xuất trong nước; do đặc tính của chúng không thể đóng gói vận chuyển để có thể xuất, nhập khẩu được hoặc do nhà nước cấm xuất, nhập khẩu."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Câu nào sau đây đúng nhất về chỉ tiêu khả năng cạnh tranh quốc tế đối với dự án đầu tư (International Competitiveness – IC):",
+    "answer": "chỉ tiêu này càng lớn thì năng lực cạnh tranh quốc tế của dự án càng mạnh; chỉ tiêu này phải lớn hơn 1; chỉ tiêu này được tính dựa trên giá trị ngoại tệ tiết kiệm và thu được so với giá trị đầu vào của dự án từ các nguồn trong nước phục vụ cho sản xuất hàng xuất khẩu hoặc thay thế nhập khẩu."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Dựa vào giá thế giới để thẩm định giá kinh tế dự án đầu tư bởi:",
+    "answer": "thị trường thế giới là thị trường rộng lớn có nhiều người mua, nhiều người bán; thông tin trên thị trường thế giới là công khai và tương đối minh bạch; sự tham gia của một dự án thường chỉ với tư cách của người chấp nhận giá."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Nếu sản phẩm đầu ra phi ngoại thương của dự án chỉ thay thế phần của nhà sản xuất khác còn tổng sản phẩm quốc gia không thay đổi thì:",
+    "answer": "chi phí sản xuất cao nhất của số sản phẩm thay thế sẽ được sử dụng để thẩm định hiệu quả kinh tế xã hội dự án đầu tư."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Cơ sở xác định giá trong thẩm định kinh tế – xã hội dự án đầu tư là:",
+    "answer": "dựa trên lý luận về mô hình cạnh tranh hoàn hảo của kinh tế học cổ điển."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Nếu mức chênh lệch bình quân giữa giá nội địa và giá thế giới đối với hàng hoá ngoại thương là 12% (giá thị trường quốc tế cao hơn giá thị trường nội địa 12%). Điều đó có nghĩa rằng:",
+    "answer": "dựa trên lý luận về mô hình cạnh tranh hoàn hảo của kinh tế học cổ điển."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Hàng hóa ngoại thương (traded goods):",
+    "answer": "là hàng hóa có thể xuất khẩu được, có thể nhập khẩu được và là hàng hóa mà giá FOB sẽ cao hơn chi phí sản xuất trong nước nếu là hàng xuất khẩu và giá CIF sẽ nhỏ hơn chi phí sản xuất trong nước nếu là hàng nhập khẩu."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Giá trị gia tăng thuần túy quốc gia (NNVA) là chỉ tiêu phản ánh:",
+    "answer": "mức độ đóng góp của dự án sau khi đã trừ đi phần giá trị gia tăng chuyển ra nước ngoài cho các đối tượng nước ngoài có liên quan đến dự án."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Khác nhau về góc độ đánh giá:",
+    "answer": "thẩm định tài chính đứng ở góc độ dự án đầu tư, thẩm định kinh tế xã hội đứng trên góc độ của toàn bộ nền kinh tế."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Sự khác nhau về tính toán trong thẩm định kinh tế xã hội thể hiện qua:",
+    "answer": "thẩm định tài chính coi tiền công trả trực tiếp cho người lao động là chi phí thì thẩm định kinh tế xã hội coi đó là lợi ích."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Sự khác nhau về tính toán trong thẩm định kinh tế xã hội thể hiện qua:",
+    "answer": "là hàng hóa không thể xuất khẩu và không thể nhập khẩu được."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Đối với đất đai, giá dùng để thẩm định hiệu quả kinh tế xã hội sẽ:",
+    "answer": "bằng không nếu đất dùng cho dự án là đất bỏ hoang."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Nếu sản phẩm đầu ra phi ngoại thương của dự án làm tăng tổng tiêu dung quốc gia của mặt hàng này thì:",
+    "answer": "giá thị trường nội địa được sử dụng để thẩm định dự án."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Sự khác nhau về tính toán thể hiện qua:",
+    "answer": "ưu đãi về thuế thì thẩm định tài chính coi là khoản giảm chi nhưng thẩm định kinh tế xã hội coi đó là chi phí mà xã hội phải gánh chịu; thẩm định tài chính coi tiền công trả trực tiếp cho người lao động là chi phí thì thẩm định kinh tế xã hội coi đó là lợi ích; phần trả cho lãi vay thẩm định kinh tế xã hội chỉ coi là giá trị chuyển giao thì thẩm định tài chính vẫn coi là chi phí."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Một dự án đầu tư có sản lượng đầu ra là 1500 tấn/năm. Giá dự kiến của tấn sản lượng đầu ra là 1 triệu VNĐ. Nếu người tiêu dùng sẵn sàng trả thêm 15% mức giá mà dự án đề xuất để có thể được sử dụng sản phẩm đầu ra của dự án (do chất lượng tốt). Vậy giá mỗi tấn sản phẩm đầu ra trong phân tích kinh tế xã hội là:",
+    "answer": "1,1 triệu VNĐ."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Tính tỷ giá hối đoái bóng (shadow exchange rate) bằng phương pháp tỷ lệ thâm hụt ngoại tệ, nếu hệ số điều chỉnh bình quân là 1,11 và tỷ giá hối đoái chính thức là 1 USD = 21.500 VNĐ thì tỷ giá hối đoái bóng sẽ là:",
+    "answer": "1 USD = 23.865 VNĐ"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Hàng hóa phi ngoại thương (non–traded goods):",
+    "answer": "do đặc tính của chúng không thể đóng gói vận chuyển để có thể xuất, nhập khẩu được hoặc do nhà nước cấm xuất, nhập khẩu."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Khi thẩm định khía cạnh môi trường của dự án cần:",
+    "answer": "phân tích các ngoại ứng tích cực ảnh hưởng đến dự án; phân tích các ngoại ứng tiêu cực ảnh hưởng đến dự án; xem xét vòng đời dài hạn của dự án với giả thiết vòng đời dài hạn kéo dài đến vô cùng."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Sự khác nhau giữa thẩm định kinh tế xã hội dự án đầu tư và thẩm định tài chính sự án đầu tư là:",
+    "answer": "khác nhau về mục tiêu, góc độ đánh giá và khác nhau về tính toán."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Đối với đất đai, giá dùng để thẩm định hiệu quả kinh tế xã hội sẽ:",
+    "answer": "là chi phí cơ hội của việc sử dụng mảnh đất đó cho dự án được sử dụng; giá thị trường được sử dụng nếu thị trường bất động sản tương đối cạnh tranh và bằng không nếu đất dùng cho dự án là đất bỏ hoang."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Thặng dư xã hội (SS) bao gồm:",
+    "answer": "toàn bộ giá trị gia tăng tạo ra từ dự án được phân phối cho các chủ thể khác nhau trong xã hội có liên quan đến dự án."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Giá thị trường nội địa có thể sử dụng để thẩm định hiệu quả kinh tế xã hội đối với hàng hóa phi ngoại thương khi:",
+    "answer": "đồng thời cả 3 điều kiện: Hàng hóa được giao dịch trên thị trường tương đối cạnh tranh, quy mô dự án là tương đối nhỏ so với toàn bộ thị trường, lĩnh vực hoạt động của dự án đang ở mức tối đa công suất."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Tính tỷ giá hối đoái bóng (shadow exchange rate) bằng phương pháp tỷ lệ thâm hụt ngoại tệ, nếu hệ số điều chỉnh bình quân là 1,2 và tỷ giá hối đoái chính thức là 1 USD = 21.800 VNĐ thì tỷ giá hối đoái bóng sẽ là:",
+    "answer": "1 USD = 26.160 VNĐ"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Nếu việc sử dụng yếu tố đầu vào phi ngoại thương sẽ làm giảm quy mô sử dụng của dự án khác thì:",
+    "answer": "giá thị trường của các sản phẩm được sử dụng để đánh giá."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Các căn cứ thẩm định kinh tế xã hội dự án đầu tư là:",
+    "answer": "các thông tin trong hồ sơ dự án, các văn bản pháp lý có liên quan, các tiêu chuẩn, định mức… và các điều kiện kinh tế xã hội có liên quan."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Đối với đầu vào phi ngoại thương mà là yếu tố đầu vào của dự án, việc thẩm định giá sẽ phụ thuộc vào:",
+    "answer": "việc cung cấp các sản phẩm đầu vào của dự án có làm giảm quy mô sử dụng của các dự án khác và việc sử dụng sản phẩm này làm tăng sản lượng đầu vào của cả nền kinh tế."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Tỷ suất chiết khấu xã hội:",
+    "answer": "là chi phí xã hội thực tế của vốn sử dụng cho dự án, có thể được ước tính trên cơ sở lãi suất dài hạn trên thị trường vốn quốc tế có điều chỉnh theo tình hình chính trị, kinh tế, xã hội nước sở tại."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Định giá hàng hóa ngoại thương trong thẩm định kinh tế xã hội:",
+    "answer": "sẽ dựa vào giá trên thị trường thế giới; giá FOB đối với hàng xuất khẩu và giá CIF đối với hàng nhập khẩu."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Một dự án đầu tư có sản lượng đầu ra là 1000 tấn/năm. Giá dự kiến của tấn sản lượng đầu ra là 2 triệu VNĐ. Nếu người tiêu dùng sẵn sàng trả thêm 10% mức giá mà dự án đề xuất để có thể được sử dụng sản phẩm đầu ra của dự án (do chất lượng tốt). Vậy hệ số điều chỉnh trong phân tích kinh tế xã hội dự án này là:",
+    "answer": "0,9"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Hàng hóa phi ngoại thương (non–traded goods):",
+    "answer": "do đặc tính của chúng không thể đóng gói vận chuyển để có thể xuất, nhập khẩu được hoặc do nhà nước cấm xuất, nhập khẩu."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Hàng hóa phi ngoại thương (non–traded goods):",
+    "answer": "là hàng hóa không thể xuất khẩu và không thể nhập khẩu được."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Nếu việc sử dụng yếu tố đầu vào phi ngoại thương làm tăng năng lực sản xuất của đất nước (về yếu tố đầu vào này):",
+    "answer": "chi phí cận biên cho số sản phẩm gia tăng sẽ được sử dụng để đánh giá."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Giá trị gia tăng thuần túy quốc gia (NNVA) là chỉ tiêu phản ánh:",
+    "answer": "mức độ đóng góp của dự án sau khi đã trừ đi phần giá trị gia tăng chuyển ra nước ngoài cho các đối tượng nước ngoài có liên quan đến dự án."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Yêu cầu của thẩm định khía cạnh kinh tế xã hội dự án đầu tư là:",
+    "answer": "có kết luận xác đáng về tính khả thi của dự án về khía cạnh kinh tế – xã hội; đánh giá hiệu quả kinh tế xã hội dự án và phân tích khả năng thực hiện dự án trên góc độ toàn bộ nền kinh tế và toàn bộ xã hội; phải nắm bắt được mục tiêu và chiến lược phát triển kinh tế – xã hội của quốc gia, của ngành và của vùng."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Khác nhau về góc độ đánh giá:",
+    "answer": "thẩm định tài chính đứng ở góc độ dự án đầu tư, thẩm định kinh tế xã hội đứng trên góc độ của toàn bộ nền kinh tế."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Sự khác nhau về tính toán trong thẩm định kinh tế xã hội thể hiện qua:",
+    "answer": "thẩm định tài chính coi tiền công trả trực tiếp cho người lao động là chi phí thì thẩm định kinh tế xã hội coi đó là lợi ích."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Một dự án đầu tư có sản lượng đầu ra là 1500 tấn/năm. Giá dự kiến của tấn sản lượng đầu ra là 1 triệu VNĐ. Nếu người tiêu dùng sẵn sàng trả thêm 15% mức giá mà dự án đề xuất để có thể được sử dụng sản phẩm đầu ra của dự án (do chất lượng tốt). Vậy giá mỗi tấn sản phẩm đầu ra trong phân tích kinh tế xã hội là:",
+    "answer": "1,1 triệu VNĐ."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Nếu sản phẩm đầu ra phi ngoại thương của dự án chỉ thay thế phần của nhà sản xuất khác còn tổng sản phẩm quốc gia không thay đổi thì:",
+    "answer": "chi phí sản xuất cao nhất của số sản phẩm thay thế sẽ được sử dụng để thẩm định hiệu quả kinh tế xã hội dự án đầu tư."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Sự khác nhau về tính toán thể hiện qua:",
+    "answer": "ưu đãi về thuế thì thẩm định tài chính coi là khoản giảm chi nhưng thẩm định kinh tế xã hội coi đó là chi phí mà xã hội phải gánh chịu; thẩm định tài chính coi tiền công trả trực tiếp cho người lao động là chi phí thì thẩm định kinh tế xã hội coi đó là lợi ích; phần trả cho lãi vay thẩm định kinh tế xã hội chỉ coi là giá trị chuyển giao thì thẩm định tài chính vẫn coi là chi phí."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Giá trị gia tăng thuần (NVA) là chỉ tiêu:",
+    "answer": "phản ánh mức đóng góp trực tiếp của dự án cho tăng trưởng kinh tế tạo một quốc gia và được tính bằng chênh lệch giữa giá trị đầu ra trừ đi vốn đầu tư và giá trị đầu vào vật chất thường xuyên và các dịch vụ mua ngoài."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Thẩm quyền thẩm định dự án đầu tư khác do Thủ tướng chấp thuận chủ trương đầu tư thuộc:",
+    "answer": "hội đồng thẩm định Nhà nước."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Thời gian của giai đoạn nào trong chu kỳ của một dự án đầu tư được gọi là “đời” của dự án:",
+    "answer": "thời gian của giai đoạn vận hành kết quả đầu tư."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Thẩm quyền thẩm định các dự án đầu tư khác thực hiện trong Khu công nghiệp, Khu chế xuất, Khu kinh tế, Khu công nghệ thuộc về:",
+    "answer": "ban quản lý Khu công nghiệp, Khu chế xuất, Khu kinh tế, Khu công nghệ cao."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Thẩm quyền thẩm định thiết kế kỹ thuật của “Dự án đường sắt đô thị Hà Nội” với quy mô vốn đầu tư khoảng 8.770 tỷ đồng thuộc:",
+    "answer": "bộ giao thông – vận tải."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Dự án đầu tư xây dựng trung tâm thương mại thị trấn Quốc Oai với vốn đầu tư ước tính 76 tỷ đồng là dự án thuộc nhóm:",
+    "answer": "dự án nhóm B."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Hoàn tất các thủ tục để triển khai thực hiện dự án” là nội dung công việc được thực hiện trong giai đoạn:",
+    "answer": "thực hiện đầu tư."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Dự án phát triển kết cấu hạ tầng Khu công nghiệp, Khu chế xuất phải thông qua chủ trương đầu tư của:",
+    "answer": "thủ tướng Chính phủ."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Để thẩm định sự phù hợp của dự án với quy hoạch cần phải sử dụng phương pháp thẩm định:",
+    "answer": "phương pháp so sánh, đối chiếu."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Thời gian thẩm định dự án đầu tư công nhóm B kể từ ngày nhận đủ hồ sơ hợp lệ được quy định không quá:",
+    "answer": "30 ngày."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Đối với những dự án mà sản phẩm, dịch vụ lần đầu tiên xuất hiện trên thị trường, có thể sử dụng phương pháp nào trong những phương pháp sau để thẩm định nhu cầu thị trường của dự án?",
+    "answer": "phương pháp chuyên gia."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Thời gian tham gia ý kiến của các cơ quan có liên quan đến dự án đối với dự án nhóm A không quá:",
+    "answer": "20 ngày."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Tài liệu chứng minh tư cách pháp lý của nhà đầu tư là một tổ chức đầu tư thì trong hồ sơ dự án trình thẩm định là:",
+    "answer": "bản sao quyết định thành lập doanh nghiệp."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Hình thức tổ chức hội đồng thẩm định Nhà nước thường được sử dụng để thẩm định:",
+    "answer": "dự án do Quốc hội thông qua chủ trương đầu tư."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Hồ sơ về khách hàng vay vốn là hồ sơ dự án trình thẩm định đối với",
+    "answer": "ngân hàng."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Thẩm định thị trường nhằm đánh giá về:",
+    "answer": "sản phẩm và dịch vụ; số lượng sản phẩm và giá bán sản phẩm; cách thức phân phối và xúc tiến bán hàng."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Thẩm định tính pháp lý của dự án được thực hiện:",
+    "answer": "trước thẩm định khía cạnh thị trường của dự án."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Chỉ tiêu \"Tỷ suất lợi nhuận thuần\" là chỉ tiêu sử dụng để đánh giá:",
+    "answer": "khả năng sinh lời."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Nội dung thẩm định năng lực tổ chức, kinh doanh của chủ đầu tư gồm:",
+    "answer": "đánh giá lịch sử hoạt động của chủ đầu tư, đánh giá năng lực tổ chức, đánh giá năng lực sản xuất kinh doanh và đánh giá về triển vọng phát triển của doanh nghiệp."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Đánh giá năng lực chủ đầu tư gồm:",
+    "answer": "năng lực pháp lý, năng lực tài chính, năng lực tổ chức và kinh doanh."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Khi thẩm định chủ đầu tư, sử dụng thông tin về ngành kinh doanh để:",
+    "answer": "so sánh năng lực tài chính, năng lực tổ chức và kinh doanh của chủ đầu tư với doanh nghiệp trong ngành."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Dự án đầu tư kinh doanh kết cấu hạ tầng khu công nghiệp Khánh An là dự án đầu tư vào lĩnh vực:",
+    "answer": "lĩnh vực xây dựng."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Dự án đầu tư có số vốn đầu tư trên 5000 tỷ đồng, sử dụng nguồn huy động vốn khác phải thông qua chủ trương đầu tư của:",
+    "answer": "thủ tướng Chính phủ."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Ngân hàng thẩm định dự án đầu tư để:",
+    "answer": "ra quyết định cho vay vốn."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Dự án sử dụng các nguồn vốn đầu tư khác có yêu cầu chuyển đổi mục đích sử dụng đất phải thông qua chủ trương đầu tư của:",
+    "answer": "UBND cấp tỉnh."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Căn cứ để tiến hành phân cấp việc ra quyết định đầu tư cho dự án dựa vào cách phân loại dự án theo:",
+    "answer": "mức độ quan trọng và quy mô của dự án."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Bộ trưởng có thẩm quyền quyết định chủ trương đầu tư đối với các dự án sử dụng vốn ngân sách Nhà nước thuộc nhóm dự án:",
+    "answer": "dự án nhóm B và nhóm C."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Tiến độ thực hiện dự án là thời gian của giai đoạn:",
+    "answer": "thời gian của giai đoạn thực hiện đầu tư."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Hồ sơ về tài sản bảo đảm tiền vay là hồ sơ dự án trình thẩm định đối với:",
+    "answer": "ngân hàng."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Phương pháp so sánh đối chiếu được sử dụng để:",
+    "answer": "xác định tính chính xác, hợp lý của các nội dung dự án."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Đối với các dự án đầu tư công có cấu phần xây dựng, sử dụng vốn ngân sách nhà nước, trách nhiệm chuyển hồ sơ dự án cho các cơ quan có liên quan thuộc về:",
+    "answer": "cơ quan chuyên môn về xây dựng."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Thời gian thẩm tra thiết kế cơ sở của dự án nhóm B:",
+    "answer": "không quá 20 ngày."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Tài liệu chứng minh tư cách pháp lý của nhà đầu tư là cá nhân đầu tư trong hồ sơ dự án trình thẩm định là:",
+    "answer": "bản sao chứng minh nhân dân hoặc hộ chiếu."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Đối với các dự án đầu tư công có cấu phần xây dựng, sử dụng vốn ngân sách nhà nước, chủ đầu tư sẽ chuyển hồ sơ dự án cần thẩm định lên:",
+    "answer": "người quyết định đầu tư."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Đối với các dự án đầu tư công có cấu phần xây dựng sử dụng dự án sử dụng nguồn vốn khác, trách nhiệm chuyển hồ sơ dự án cho cơ quan có liên quan thuộc về:",
+    "answer": "người quyết định đầu tư."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Xác định thị trường mục tiêu và định vị sản phẩm của dự án gồm:",
+    "answer": "xác định thị trường mục tiêu và định vị sản phẩm của dự án."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Thẩm định khía cạnh thị trường là cơ sở để thẩm định nội dung:",
+    "answer": "khía cạnh kỹ thuật của dự án, tổ chức quản lý nhân sự, tài chính của dự án và kinh tế xã hội dự án"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Thông tin sử dụng để thẩm định tính pháp lý của dự án gồm:",
+    "answer": "thông tin do chủ đầu tư cung cấp và thông tin về môi trường vĩ mô"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Nội dung thẩm định tính pháp lý của chủ đầu tư gồm:",
+    "answer": "thẩm định tư cách pháp nhân, sự phù hợp ngành nghề, thẩm định thẩm quyền quyết định, thời gian hoạt động còn hiệu lực của doanh nghiệp."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Các phương pháp dự báo cung, cầu sản phẩm của dự án trong tương lai là:",
+    "answer": "phương pháp ngoại suy thống kê, mô hình hồi qui tương quan, hệ số co giãn cầu, phương pháp định mức và lấy ý kiến chuyên"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Nội dung thẩm định tính pháp lý của dự án gồm thẩm định:",
+    "answer": "sự phù hợp của dự án với các quy hoạch, sự phù hợp của dự án với các văn bản pháp quy, thẩm định nhu cầu sử dụng đất, tài nguyên, khả năng giải phóng mặt"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Nội dung thẩm định tính pháp lý của dự án gồm thẩm định:",
+    "answer": "dự án đầu tư mới và dự án mở rộng quy mô sản xuất."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Khi thẩm định các yếu tố đầu vào cho dự án, cần xem xét những nhân tố nào:",
+    "answer": "nguyên vật liệu; năng lượng, nhiên liệu; điện, nước, hơi, thông tin, vận chuyển…"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Khi thẩm định sản phẩm do công nghệ tạo ra, tiêu chuẩn nào sau đây là quan trọng nhất:",
+    "answer": "có chất lượng phù hợp với nhu cầu của khách hàng."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Nhân tố nào là quan trọng nhất khi chọn công nghệ:",
+    "answer": "đảm bảo cho chủ đầu tư nắm bắt và vận hành được công nghệ."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Hồ sơ dự án sẽ phải có:",
+    "answer": "tùy đặc điểm từng dự án mà chỉ phải làm báo cáo đánh giá tác động môi trường hoặc phiếu đăng ký đạt tiêu chuẩn môi trường."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Cán bộ thẩm định cần thu thập thông tin từ những nguồn nào khi thẩm định kỹ thuật dự án:",
+    "answer": "hồ sơ dự án và quy định của nhà nước; Tìm hiểu qua nhà cung cấp thiết bị, nguyên vật liệu và Tìm hiểu qua các dự án đầu tư cùng loại."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Khi thẩm định thiết bị trong dây chuyền công nghệ, yếu tố nào là quan trọng nhất?",
+    "answer": "tính phù hợp của thiết bị và chất lượng thiết bị"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Dự án đầu tư vay 360 tỷ đồng với lãi suất 10% năm và phải trả nợ gốc đều trong 6 năm kể từ cuối năm thứ 2, lãi phải trả hàng năm. Lãi vay phải trả ở năm thứ 3 là:",
+    "answer": "30 tỷ đồng."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -150; 30; 35; 46; 48; 55; 60; 65; 40; 36; 34 (tỷ đồng). Tỷ suất chiết khấu của dự án là 12%. IRR của dự án được xác định:",
+    "answer": "25,4%"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Tỷ suất hoàn vốn nội bộ phản ánh:",
+    "answer": "tỷ suất làm NPV = 0."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Để đánh giá tiến độ giải ngân của dự án cần phải:",
+    "answer": "thẩm định nhu cầu vốn theo tiến độ triển khai thực hiện dự án."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -568, 120, 147, 158, 170, 180, 190, 160, 146, 130, 90. Tỷ suất chiết khấu của dự án là 16%. Thời gian thu hồi vốn đầu tư của dự án là:",
+    "answer": "5 năm 11,5 tháng."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Dự án đầu tư vay 150 tỷ với lãi suất 10% năm và phải trả nợ gốc đều trong 5 năm kể từ cuối năm thứ 3, lãi phải trả hàng năm. Lãi vay phải trả ở năm thứ 4 là:",
+    "answer": "12 tỷ đồng."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Tỷ suất của dự án được xác định:",
+    "answer": "chi phí sử dụng vốn bình quân của các nguồn vốn huy động."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Thặng dư xã hội (SS) bao gồm:",
+    "answer": "toàn bộ giá trị gia tăng tạo ra từ dự án được phân phối cho các chủ thể khác nhau trong xã hội có liên quan đến dự án."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Giá thị trường nội địa có thể sử dụng để thẩm định hiệu quả kinh tế xã hội đối với hàng hóa phi ngoại thương khi:",
+    "answer": "đồng thời cả 3 điều kiện: Hàng hóa được giao dịch trên thị trường tương đối cạnh tranh, quy mô dự án là tương đối nhỏ so với toàn bộ thị trường, lĩnh vực hoạt động của dự án đang ở mức tối đa công suất."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Các căn cứ thẩm định kinh tế xã hội dự án đầu tư là:",
+    "answer": "các thông tin trong hồ sơ dự án, các văn bản pháp lý có liên quan, các tiêu chuẩn, định mức… và các điều kiện kinh tế xã hội có liên quan."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Sự khác nhau về tính toán trong thẩm định kinh tế xã hội thể hiện qua:",
+    "answer": "thẩm định tài chính coi tiền công trả trực tiếp cho người lao động là chi phí thì thẩm định kinh tế xã hội coi đó là lợi ích."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Giá trị gia tăng thuần (NAV) bao gồm:",
+    "answer": "bao gồm chi phí trực tiếp trả cho người lao động và thặng dư vốn."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Đối với đất đai, giá dùng để thẩm định hiệu quả kinh tế xã hội sẽ:",
+    "answer": "bằng không nếu đất dùng cho dự án là đất bỏ hoang."
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Khi thẩm định điều kiện tự nhiên của địa điểm xây dựng dự án, nhân tố nào sau đây cần được xem xét kỹ:",
+    "answer": "tuỳ thuộc vào tính chất của từng dự án mà chú trọng từng loại nhân tố trên."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Chỉ chấp nhận những công nghệ, thiết bị đã qua sử dụng khi đảm bảo các điều kiện:",
+    "answer": "thiết bị có 1 trong 2 điều kiện: thiết bị có tuổi đời không qua 5 năm hoặc 10 năm tuỳ từng ngành; thiết bị đảm bảo còn 80% so với chất lượng ban đầu."
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Lợi ích nào là quan trọng nhất khi quyết định chọn địa điểm xây dựng dự án gần nguồn cung cấp lao động:",
+    "answer": "dễ tuyển dụng lao động"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Mục tiêu nào là quan trọng nhất khi cán bộ thẩm định kiểm tra lại khối lượng nguyên vật liệu dự kiến cho dự án:",
+    "answer": "đảm bảo cho quá trình sản xuất sau này không bị gián đoạn."
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Khi thẩm định vấn đề bảo vệ môi trường của dự án, cần nghiên cứu những nội dung:",
+    "answer": "phân tích các yếu tố ảnh hưởng tiêu cực đến môi trường và đánh giá các giải pháp bảo vệ môi trường do dự án đề xuất."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Khi đánh giá nguồn nhân lực của dự án, cần xem xét lại:",
+    "answer": "số lượng lao động; cơ cấu lao động tuyển dụng; trình độ, kinh nghiệm và độ tuổi của người lao động"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Yêu cầu nào là quan trọng nhất khi quyết định trình độ và số lượng lao động tuyển dụng cho dự án:",
+    "answer": "đáp ứng yêu cầu của dây chuyền công nghệ đã chọn cho dự án."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Dòng tiền của một dự án đầu tư được xác định theo thứ tự từng năm (từ đầu năm thứ nhất) như sau: -568, 120, 147, 158, 170, 180, 190, 160, 146, 130, 90. Tỷ suất chiết khấu của dự án là 16%. NPV của dự án là:",
+    "answer": "159,22 tỷ đồng."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Dòng tiền sau thuế sử dụng để tính các chỉ tiêu hiệu quả tài chính được xác định:",
+    "answer": "dòng chênh lệch giữa các khoản thu và các khoản chi phí hàng năm (không bao gồm khấu hao và lãi vay) của dự án."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Dự án được kết luận đạt hiệu quả tài chính khi:",
+    "answer": "IRR \\> Chi phí sử dụng vốn của dự án."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Ngân hàng quyết định tài trợ vốn cho dự án khi:",
+    "answer": "dự án được thẩm định có tính khả thi về tài chính."
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Dòng tiền sau thuế của dự án là cơ sở để:",
+    "answer": "tính các chỉ tiêu hiệu quả tài chính."
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Thẩm định rủi ro các chỉ tiêu hiệu quả tài chính của dự án cần:",
+    "answer": "phân tích độ nhạy và phân tích mô phỏng."
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Thẩm định phương pháp xác định NPV của dự án:",
+    "answer": "chênh lệch giữa giá trị hiện tại của tổng các khoản thu và giá trị hiện tại của tổng các khoản chi phí hàng năm (không bao gồm khấu hao và lãi vay) của cả đời dự án."
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Nếu sản phẩm đầu ra phi ngoại thương của dự án chỉ thay thế phần của nhà sản xuất khác còn tổng sản phẩm quốc gia không thay đổi thì:",
+    "answer": "chi phí sản xuất cao nhất của số sản phẩm thay thế sẽ được sử dụng để thẩm định hiệu quả kinh tế xã hội dự án đầu tư."
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Định giá hàng hóa ngoại thương trong thẩm định kinh tế xã hội:",
+    "answer": "sẽ dựa vào giá trên thị trường thế giới; giá FOB đối với hàng xuất khẩu và giá CIF đối với hàng nhập khẩu."
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Khác nhau về góc độ đánh giá:",
+    "answer": "thẩm định tài chính đứng ở góc độ dự án đầu tư, thẩm định kinh tế xã hội đứng trên góc độ của toàn bộ nền kinh tế."
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Nếu mức chênh lệch bình quân giữa giá nội địa và giá thế giới đối với hàng hoá ngoại thương là 12% (giá thị trường quốc tế cao hơn giá thị trường nội địa 12%). Điều đó có nghĩa rằng:",
+    "answer": "thẩm định tài chính đứng ở góc độ dự án đầu tư, thẩm định kinh tế xã hội đứng trên góc độ của toàn bộ nền kinh tế."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Một dự án đầu tư có sản lượng đầu ra là 1500 tấn/năm. Giá dự kiến của tấn sản lượng đầu ra là 1 triệu VNĐ. Nếu người tiêu dùng sẵn sàng trả thêm 15% mức giá mà dự án đề xuất để có thể được sử dụng sản phẩm đầu ra của dự án (do chất lượng tốt). Vậy giá mỗi tấn sản phẩm đầu ra trong phân tích kinh tế xã hội là:",
+    "answer": "1,1 triệu VNĐ."
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Một dự án đầu tư có sản lượng đầu ra là 1000 tấn/năm. Giá dự kiến của tấn sản lượng đầu ra là 2 triệu VNĐ. Nếu người tiêu dùng sẵn sàng trả thêm 10% mức giá mà dự án đề xuất để có thể được sử dụng sản phẩm đầu ra của dự án (do chất lượng tốt). Vậy hệ số điều chỉnh trong phân tích kinh tế xã hội dự án này là:",
+    "answer": "0,9"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Dự án sử dụng các nguồn vốn đầu tư khác có yêu cầu chuyển đổi mục đích sử dụng đất phải thông qua chủ trương đầu tư của:",
+    "answer": "UBND cấp tỉnh."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Thẩm quyền thẩm định dự án quan trọng quốc gia thuộc về:",
+    "answer": "hội đồng thẩm định Nhà nước."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Đối với các dự án được thực hiện cả trong và ngoài Khu công nghiệp, Khu chế xuất, Khu Kinh tế, Khu công nghệ cao, cơ quan đăng ký đầu tư là:",
+    "answer": "sở Kế hoạch và Đầu tư của tỉnh."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Đối với các dự án đầu tư được thực hiện trong Khu công nghiệp, Khu chế xuất, Khu Kinh tế, Khu công nghệ cao, cơ quan đăng ký đầu tư là:",
+    "answer": "ban quản lý khu công nghiệp, khu chế xuất, khu kinh tế, khu công nghệ cao."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Tiến độ thực hiện dự án là thời gian của giai đoạn:",
+    "answer": "thời gian của giai đoạn thực hiện đầu tư."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Dự án được nhà nước giao đất, cho thuê đất không thông qua đấu giá, đấu thầu phải thông qua chủ trương đầu tư của:",
+    "answer": "UBND cấp tỉnh."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Thẩm quyền thẩm định các dự án đầu tư sử dụng nguồn vốn khác được thực hiện cả trong và ngoài khu công nghiệp, khu chế xuất, khu kinh tế, khu công nghệ cao thuộc về:",
+    "answer": "sở Kế hoạch – Đầu tư tỉnh."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Dự án đầu tư công cần phải thông qua Thủ tướng quyết định chủ trương đầu tư là:",
+    "answer": "dự án nhóm A."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Căn cứ để tiến hành phân cấp việc ra quyết định đầu tư cho dự án dựa vào cách phân loại dự án theo:",
+    "answer": "mức độ quan trọng và quy mô của dự án."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Căn cứ để tiến hành phân cấp việc ra quyết định đầu tư cho dự án dựa vào cách phân loại dự án theo:",
+    "answer": "bộ giao thông – vận tải."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Thẩm quyền thẩm định các dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài thuộc về:",
+    "answer": "bộ Kế hoạch – Đầu tư."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Thẩm quyền thẩm định dự án đầu tư khác do Thủ tướng chấp thuận chủ trương đầu tư là:",
+    "answer": "bộ Kế hoạch đầu tư."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Hoàn tất các thủ tục để triển khai thực hiện dự án” là nội dung công việc được thực hiện trong giai đoạn:",
+    "answer": "thực hiện đầu tư."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Dự án đầu tư kinh doanh kết cấu hạ tầng khu công nghiệp Khánh An là dự án đầu tư vào lĩnh vực:",
+    "answer": "lĩnh vực xây dựng."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Chu kỳ của dự án đầu tư gồm bao nhiêu giai đoạn:",
+    "answer": "3 giai đoạn."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Thẩm quyền thẩm tra thiết kế cơ sở “Dự án trung tâm thương mại dịch vụ – nhà ở cao cấp GOLDEN LAND BUILDING” với tổng mức đầu tư dự kiến trên 4000 tỉ đồng thuộc thẩm quyền:",
+    "answer": "bộ Xây dựng."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Thẩm quyền thẩm tra thiết kế cơ sở của các dự án nhóm A đầu tư vào lĩnh vực dầu khí thuộc:",
+    "answer": "bộ Công thương."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "“Giải phóng mặt bằng” là nội dung công việc nằm trong giai đoạn:",
+    "answer": "thực hiện đầu tư"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Các cơ quan có thẩm quyền của Nhà nước thẩm định dự án đầu tư để:",
+    "answer": "cấp giấy chứng nhận đăng ký đầu tư."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Thẩm định dự án đầu tư để ra quyết định đầu tư hoặc cấp giấy chứng nhận đăng ký đầu tư là nội dung công việc được thực hiện trong giai đoạn:",
+    "answer": "chuẩn bị đầu tư."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Ngân hàng thẩm định dự án đầu tư để:",
+    "answer": "ra quyết định cho vay vốn."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Thẩm quyền thẩm định các dự án đầu tư khác thực hiện trong Khu công nghiệp, Khu chế xuất, Khu kinh tế, Khu công nghệ thuộc về:",
+    "answer": "ban quản lý Khu công nghiệp, Khu chế xuất, Khu kinh tế, Khu công nghệ cao."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Đối với các dự án được thực hiện ngoài Khu công nghiệp, Khu chế xuất, Khu Kinh tế, Khu công nghệ cao, cơ quan đăng ký đầu tư là:",
+    "answer": "sở Kế hoạch và Đầu tư của tỉnh."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Dự án đầu tư có số vốn đầu tư trên 5000 tỷ đồng, sử dụng nguồn huy động vốn khác phải thông qua chủ trương đầu tư của:",
+    "answer": "thủ tướng Chính phủ."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Dự án đầu tư xây dựng trung tâm thương mại thị trấn Quốc Oai với vốn đầu tư ước tính 76 tỷ đồng là dự án thuộc nhóm:",
+    "answer": "dự án nhóm B."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Dự án phát triển kết cấu hạ tầng Khu công nghiệp, Khu chế xuất phải thông qua chủ trương đầu tư của:",
+    "answer": "thủ tướng Chính phủ."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Thẩm quyền quyết định chủ trương đầu tư dự án của nhà đầu tư nước ngoài trong lĩnh vực xuất bản, báo chí thuộc:",
+    "answer": "thủ tướng Chính phủ."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Sở Kế hoạch đầu tư của tỉnh thẩm định các dự án do:",
+    "answer": "UBND tỉnh chấp thuận chủ trương đầu tư."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Thẩm quyền thẩm định thiết kế cơ sở dự án đầu tư nhóm B vào lĩnh vực nuôi trồng thủy sản thuộc:",
+    "answer": "sở Nông nghiệp và phát triển nông thôn."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Những nhân tố nào trong số những nhân tố sau không ảnh hưởng tới chất lượng công tác thẩm định:",
+    "answer": "nhà thầu."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Kết quả của giai đoạn chuẩn bị đầu tư là:",
+    "answer": "bản dự án đầu tư đã được cấp có thẩm quyền phê duyệt."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Thẩm quyền thẩm định dự án đầu tư khác do Chủ tịch UBND cấp tỉnh chấp thuận chủ trương đầu tư là:",
+    "answer": "sở Kế hoạch đầu tư."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Dự án sản xuất chất độc hại, chất nổ (bất kể quy mô vốn là bao nhiêu) là dự án:",
+    "answer": "dự án nhóm A."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Bộ trưởng có thẩm quyền quyết định chủ trương đầu tư đối với các dự án sử dụng vốn ngân sách Nhà nước thuộc nhóm dự án:",
+    "answer": "dự án nhóm B và nhóm C."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Dự án “Sân bay quốc tế Long Thành” được quyết định chủ trương đầu tư năm 2015 với tổng mức đầu tư ước tính 336.630 tỷ đồng thuộc nhóm dự án",
+    "answer": "dự án quan trọng quốc gia."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Thẩm quyền thẩm định dự án đầu tư khác do Thủ tướng chấp thuận chủ trương đầu tư thuộc:",
+    "answer": "hội đồng thẩm định Nhà nước."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Thời gian của giai đoạn nào trong chu kỳ của một dự án đầu tư được gọi là “đời” của dự án:",
+    "answer": "thời gian của giai đoạn vận hành kết quả đầu tư."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Dự án đầu tư xây dựng và kinh doanh sân golf phải thông qua chủ trương đầu tư của:",
+    "answer": "thủ tướng Chính phủ."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Dự án được nhà nước giao đất, cho thuê đất không thông qua đấu giá, đấu thầu phải thông qua chủ trương đầu tư của:",
+    "answer": "UBND cấp tỉnh."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Thẩm quyền thẩm định các dự án đầu tư sử dụng nguồn vốn khác được thực hiện cả trong và ngoài khu công nghiệp, khu chế xuất, khu kinh tế, khu công nghệ cao thuộc về:",
+    "answer": "sở Kế hoạch – Đầu tư tỉnh."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Sở Kế hoạch đầu tư của tỉnh thẩm định các dự án do:",
+    "answer": "UBND tỉnh chấp thuận chủ trương đầu tư."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Kết quả của giai đoạn chuẩn bị đầu tư là:",
+    "answer": "bản dự án đầu tư đã được cấp có thẩm quyền phê duyệt."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Bộ trưởng có thẩm quyền quyết định chủ trương đầu tư đối với các dự án sử dụng vốn ngân sách Nhà nước thuộc nhóm dự án:",
+    "answer": "dự án nhóm B và nhóm C."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Hội đồng thẩm định Nhà nước được thành lập bởi",
+    "answer": "thủ tướng Chính phủ."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Đối với các dự án đầu tư được thực hiện trong Khu công nghiệp, Khu chế xuất, Khu Kinh tế, Khu công nghệ cao, cơ quan đăng ký đầu tư là:",
+    "answer": "ban quản lý khu công nghiệp, khu chế xuất, khu kinh tế, khu công nghệ cao."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Thẩm quyền thẩm định các dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài thuộc về:",
+    "answer": "bộ Kế hoạch – Đầu tư."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Thời gian của giai đoạn nào trong chu kỳ của một dự án đầu tư được gọi là “đời” của dự án:",
+    "answer": "thời gian của giai đoạn vận hành kết quả đầu tư."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Thẩm quyền thẩm tra thiết kế cơ sở “Dự án trung tâm thương mại dịch vụ – nhà ở cao cấp GOLDEN LAND BUILDING” với tổng mức đầu tư dự kiến trên 4000 tỉ đồng thuộc thẩm quyền:",
+    "answer": "bộ Xây dựng."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Dự án “Sân bay quốc tế Long Thành” được quyết định chủ trương đầu tư năm 2015 với tổng mức đầu tư ước tính 336.630 tỷ đồng thuộc nhóm dự án",
+    "answer": "dự án quan trọng quốc gia."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Hồ sơ về khách hàng vay vốn là hồ sơ dự án trình thẩm định đối với",
+    "answer": "ngân hàng."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Đối với các dự án đầu tư công có cấu phần xây dựng, sử dụng vốn ngân sách nhà nước, trách nhiệm chuyển hồ sơ dự án cho các cơ quan có liên quan thuộc về:",
+    "answer": "cơ quan chuyên môn về xây dựng."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Phương pháp phân tích độ nhạy được sử dụng để thẩm định:",
+    "answer": "nội dung tài chính dự án."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Đối với dự án quan trọng quốc gia, chủ đầu tư sau khi lập báo cáo nghiên cứu khả thi sẽ báo cáo cho:",
+    "answer": "cơ quan chủ quản."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Tài liệu chứng minh tư cách pháp lý của nhà đầu tư là cá nhân đầu tư trong hồ sơ dự án trình thẩm định là:",
+    "answer": "bản sao chứng minh nhân dân hoặc hộ chiếu."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Đối với dự án phải thông qua chủ trương đầu tư, cơ quan đăng ký đầu tư sẽ cấp giấy chứng nhận đăng ký cho nhà đầu tư trong thời gian",
+    "answer": "5 ngày"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Khi thẩm định nhu cầu thị trường tiêu thụ sản phẩm của dự án, có thể sử dụng phương pháp thẩm định nào?",
+    "answer": "phương pháp dự báo."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Thời gian thẩm định để xin quyết định chủ trương đầu tư của UBND cấp tỉnh đối với các dự án sử dụng nguồn vốn đầu tư khác là:",
+    "answer": "không quá 35 ngày."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Đề xuất “phương án giải phóng mặt bằng, di dân, tái định cư” là tài liệu không bắt buộc trong hồ sơ dự án trình thẩm định xin chủ trương đầu tư của:",
+    "answer": "quốc hội."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Thời gian thẩm định dự án nhóm A, sử dụng nguồn vốn đầu tư công kể từ ngày nhận đủ hồ sơ hợp lệ được quy định:",
+    "answer": "không quá 40 ngày."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "“Quyết định chủ trương đầu tư dự án” là hồ sơ dự án trình thẩm định đối với các dự án",
+    "answer": "Dự án đầu tư theo phương thức đối tác công tư (PPP)"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Thời gian thẩm tra thiết kế cơ sở của dự án nhóm B:",
+    "answer": "không quá 20 ngày."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Để đánh giá rủi ro của các chỉ tiêu hiệu quả tài chính của dự án có thể sử dụng:",
+    "answer": "phương pháp phân tích độ nhạy."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Hình thức tổ chức hội đồng thẩm định Nhà nước thường được sử dụng để thẩm định:",
+    "answer": "dự án do Quốc hội thông qua chủ trương đầu tư."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Đối với các dự án đầu tư công có cấu phần xây dựng sử dụng dự án sử dụng nguồn vốn khác, trách nhiệm chuyển hồ sơ dự án cho cơ quan có liên quan thuộc về:",
+    "answer": "người quyết định đầu tư."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Tài liệu nào không được xem là tài liệu chứng minh năng lực tài chính của nhà đầu tư khi xin phê duyệt chủ trương đầu tư của UBND cấp tỉnh:",
+    "answer": "hồ sơ về tài sản bảo đảm tiền vay."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "‘Đề xuất cơ chế đặc thù” là tài liệu trong hồ sơ dự án trình thẩm định để xin chủ trương đầu tư của:",
+    "answer": "quốc hội."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Đối với các dự án đầu tư xin quyết định chủ trương đầu tư của UBND cấp tỉnh, cơ quan quản lý chuyên ngành sau khi có ý kiến thẩm định sẽ gửi:",
+    "answer": "cơ quan đăng ký đầu tư."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Đối với các dự án đầu tư công có cấu phần xây dựng, sử dụng vốn ngân sách nhà nước, chủ đầu tư sẽ chuyển hồ sơ dự án cần thẩm định lên:",
+    "answer": "người quyết định đầu tư."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Hồ sơ về tài sản bảo đảm tiền vay là hồ sơ dự án trình thẩm định đối với:",
+    "answer": "ngân hàng."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Đối với những dự án mà sản phẩm, dịch vụ lần đầu tiên xuất hiện trên thị trường, có thể sử dụng phương pháp nào trong những phương pháp sau để thẩm định nhu cầu thị trường của dự án?",
+    "answer": "phương pháp chuyên gia."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Phương pháp triệt tiêu rủi ro được sử dụng để hạn chế rủi ro của dự án ở giai đoạn nào?",
+    "answer": "Thực hiện đầu tư và vận hành đầu tư."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Thời gian thẩm tra thiết kế cơ sở của dự án nhóm C:",
+    "answer": "không quá 15 ngày."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Đối với dự án đầu tư xin quyết định chủ trương đầu tư của Thủ tướng Chính phủ, trách nhiệm trình UBND tỉnh xem xét và có ý kiến thẩm định về hồ sơ dự án thuộc về:",
+    "answer": "cơ quan đăng ký đầu tư."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Đối với các dự án đầu tư công KHÔNG có cấu phần xây dựng, sau khi có chủ trương đầu tư, chủ đầu tư lập báo cáo nghiên cứu khả thi dự án trình:",
+    "answer": "cấp quyết định đầu tư."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Thời gian thẩm định cấp giấy chứng nhận đăng ký đầu tư đối với dự án KHÔNG phải thông qua chủ trương đầu tư là:",
+    "answer": "15 ngày."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Hồ sơ dự án trình thẩm định xin phê duyệt chủ trương đầu tư của UBND cấp tỉnh đối với các dự án đầu tư sử dụng nguồn vốn đầu tư khác, phải trình báo cáo tài chính trong:",
+    "answer": "2 năm gần nhất."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Thời gian thẩm định dự án nhóm C kể từ ngày nhận đủ hồ sơ hợp lệ được quy định không quá:",
+    "answer": "20 ngày."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Tài liệu chứng minh tư cách pháp lý của nhà đầu tư là một tổ chức đầu tư thì trong hồ sơ dự án trình thẩm định là:",
+    "answer": "bản sao quyết định thành lập doanh nghiệp."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Phương pháp so sánh đối chiếu được sử dụng để:",
+    "answer": "xác định tính chính xác, hợp lý của các nội dung dự án."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Để thẩm định sự phù hợp của dự án với quy hoạch cần phải sử dụng phương pháp thẩm định:",
+    "answer": "phương pháp so sánh, đối chiếu."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Thời gian thẩm định tra cơ sở của dự án nhóm A:",
+    "answer": "không quá 60 ngày."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Thời gian tham gia ý kiến của các cơ quan có liên quan đến dự án đối với dự án nhóm A không quá:",
+    "answer": "20 ngày."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Thời gian thẩm định dự án đầu tư công nhóm B kể từ ngày nhận đủ hồ sơ hợp lệ được quy định không quá:",
+    "answer": "30 ngày."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Tài liệu nào không được xem là tài liệu chứng minh năng lực tài chính của nhà đầu tư khi xin phê duyệt chủ trương đầu tư của UBND cấp tỉnh:",
+    "answer": "hồ sơ về tài sản bảo đảm tiền vay."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Phương pháp phân tích độ nhạy được sử dụng để thẩm định:",
+    "answer": "nội dung tài chính dự án."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Tài liệu chứng minh tư cách pháp lý của nhà đầu tư là cá nhân đầu tư trong hồ sơ dự án trình thẩm định là:",
+    "answer": "bản sao chứng minh nhân dân hoặc hộ chiếu."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Thời gian thẩm định dự án nhóm A, sử dụng nguồn vốn đầu tư công kể từ ngày nhận đủ hồ sơ hợp lệ được quy định:",
+    "answer": "không quá 40 ngày."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Hồ sơ về khách hàng vay vốn là hồ sơ dự án trình thẩm định đối với",
+    "answer": "ngân hàng."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Thời gian thẩm định cấp giấy chứng nhận đăng ký đầu tư đối với dự án KHÔNG phải thông qua chủ trương đầu tư là:",
+    "answer": "15 ngày."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "“Quyết định chủ trương đầu tư dự án” là hồ sơ dự án trình thẩm định đối với các dự án",
+    "answer": "Dự án đầu tư theo phương thức đối tác công tư (PPP)"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Đối với các dự án đầu tư công có cấu phần xây dựng sử dụng dự án sử dụng nguồn vốn khác, trách nhiệm chuyển hồ sơ dự án cho cơ quan có liên quan thuộc về:",
+    "answer": "người quyết định đầu tư."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Hồ sơ dự án trình thẩm định xin phê duyệt chủ trương đầu tư của UBND cấp tỉnh đối với các dự án đầu tư sử dụng nguồn vốn đầu tư khác, phải trình báo cáo tài chính trong:",
+    "answer": "2 năm gần nhất."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Phương pháp triệt tiêu rủi ro được sử dụng để hạn chế rủi ro của dự án ở giai đoạn nào?",
+    "answer": "Thực hiện đầu tư và vận hành đầu tư."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Thời gian thẩm định dự án đầu tư công nhóm B kể từ ngày nhận đủ hồ sơ hợp lệ được quy định không quá:",
+    "answer": "30 ngày."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Đối với các dự án đầu tư công có cấu phần xây dựng, sử dụng vốn ngân sách nhà nước, trách nhiệm chuyển hồ sơ dự án cho các cơ quan có liên quan thuộc về:",
+    "answer": "cơ quan chuyên môn về xây dựng."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Đối với những dự án mà sản phẩm, dịch vụ lần đầu tiên xuất hiện trên thị trường, có thể sử dụng phương pháp nào trong những phương pháp sau để thẩm định nhu cầu thị trường của dự án?",
+    "answer": "phương pháp chuyên gia."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khi thẩm định nhu cầu thị trường tiêu thụ sản phẩm của dự án, có thể sử dụng phương pháp thẩm định nào?",
+    "answer": "phương pháp dự báo."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Để đánh giá rủi ro của các chỉ tiêu hiệu quả tài chính của dự án có thể sử dụng:",
+    "answer": "phương pháp phân tích độ nhạy."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Tài liệu chứng minh tư cách pháp lý của nhà đầu tư là một tổ chức đầu tư thì trong hồ sơ dự án trình thẩm định là:",
+    "answer": "bản sao quyết định thành lập doanh nghiệp."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Nội dung thẩm định tính pháp lý của chủ đầu tư gồm:",
+    "answer": "thẩm định tư cách pháp nhân, sự phù hợp ngành nghề, thẩm định thẩm quyền quyết định, thời gian hoạt động còn hiệu lực của doanh nghiệp."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Nội dung thẩm định năng lực tổ chức, kinh doanh của chủ đầu tư gồm:",
+    "answer": "đánh giá lịch sử hoạt động của chủ đầu tư, đánh giá năng lực tổ chức, đánh giá năng lực sản xuất kinh doanh và đánh giá về triển vọng phát triển của doanh nghiệp."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Khi thẩm định chủ đầu tư, sử dụng thông tin về ngành kinh doanh để:",
+    "answer": "so sánh năng lực tài chính, năng lực tổ chức và kinh doanh của chủ đầu tư với doanh nghiệp trong ngành."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Thông tin sử dụng để thẩm định tính pháp lý của dự án gồm:",
+    "answer": "thông tin do chủ đầu tư cung cấp và thông tin về môi trường vĩ mô"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Phương pháp sử dụng trong thẩm định thị trường gồm:",
+    "answer": "phương pháp thẩm định theo trình tự, phương pháp so sánh, đối chiếu chỉ tiêu và phương pháp dự báo."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Phân tích hiệu quả kinh doanh là:",
+    "answer": "đánh giá khả năng sinh lời của doanh nghiệp."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Ba chỉ tiêu \"Tỷ lệ nợ phải trả/tổng nguồn vốn\", \"Tỷ lệ vốn chủ sở hữu/tổng nguồn vốn\", \"Tỷ lệ nợ phải trả/vốn chủ sở hữu\" được sử dụng để đánh giá:",
+    "answer": "cấu trúc tài chính của doanh nghiệp và khả năng thanh toán dài hạn."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Nội dung đánh giá tình hình cung cầu hiện tại về sản phẩm của dự án gồm:",
+    "answer": "đánh giá cung cầu ở hiện tại và tính đầy đủ của số liệu về cung cầu trong quá khứ và hiện tại."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Thông tin sử dụng để thẩm định khía cạnh thị trường gồm:",
+    "answer": "thông tin thứ cấp và thông tin sơ cấp."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Phân tích năng lực hoạt động là:",
+    "answer": "việc đánh giá hiệu suất sử dụng của các tài sản trong doanh nghiệp."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Nội dung thẩm định thị trường gồm:",
+    "answer": "xác định thị trường mục tiêu và định vị sản phẩm của dự án, dự báo tình hình cung cầu sản phẩm của dự án đầu tư trong tương lai, đánh giá sản phẩm, giá, phân phối và xúc tiến bán hàng, đánh giá khả năng cạnh tranh về sản phẩm của dự án."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Thông tin sử dụng để thẩm định chủ đầu tư gồm:",
+    "answer": "Thông tin do chủ đầu tư cung cáp, thông tin về ngành kinh doanh, thông tin về môi trường vĩ mô cấp quốc qua và cấp địa phương."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Thẩm định tính pháp lý của dự án nhằm đánh giá:",
+    "answer": "dự án có đảm bảo tính pháp lý, có phù hợp với các quy định của nhà nước."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Chỉ tiêu \"Hệ số khả năng thanh toán tức thời\" là chỉ tiêu sử dụng để đánh giá:",
+    "answer": "khả năng thanh toán ngắn hạn"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Chỉ tiêu \"Hệ số khả năng thanh toán nhanh\" là chỉ tiêu sử dụng để đánh giá",
+    "answer": "khả năng thanh toán ngắn hạn"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Các phương pháp dự báo cung, cầu sản phẩm của dự án trong tương lai là:",
+    "answer": "phương pháp ngoại suy thống kê, mô hình hồi qui tương quan, hệ số co giãn cầu, phương pháp định mức và lấy ý kiến chuyên"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Nếu chủ thể là tổ chức tài chính, đánh giá năng lực chủ đầu tư gồm:",
+    "answer": "năng lực pháp lý, năng lực tài chính, năng lực tổ chức và kinh doanh, thẩm định quan hệ tín dụng với các tổ chức tài chính."
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Thẩm định thị trường nhằm đánh giá về:",
+    "answer": "sản phẩm và dịch vụ; số lượng sản phẩm và giá bán sản phẩm; cách thức phân phối và xúc tiến bán hàng."
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Chỉ tiêu \"Tỷ suất sinh lời của tài sản\" là chỉ tiêu sử dụng để đánh giá:",
+    "answer": "khả năng sinh lời."
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Chỉ tiêu \"Hệ số khả năng thanh toán hiện thời\" là chỉ tiêu sử dụng để đánh giá:",
+    "answer": "khả năng thanh toán ngắn hạn"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Phân tích cấu trúc tài chính là:",
+    "answer": "phân tích cơ cấu nguồn vốn của doanh nghiệp trong mối quan hệ với cơ cấu tài sản."
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Đánh giá khả năng cạnh tranh về sản phẩm của dự án gồm:",
+    "answer": "xác định được các đối thủ cạnh tranh, khả năng cạnh tranh so với đối thủ cạnh, đánh giá khả năng cạnh tranh của dự án thông qua các tiêu chí."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Phương pháp sử dụng trong thẩm định chủ đầu tư gồm:",
+    "answer": "phương pháp thẩm định theo trình tự và phương pháp so sánh, đối chiếu chỉ tiêu."
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Thẩm định tính pháp lý của dự án được thực hiện:",
+    "answer": "trước thẩm định khía cạnh thị trường của dự án."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Thẩm định chủ đầu tư được thực hiện:",
+    "answer": "trước thẩm định dự án đầu tư."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Đánh giá biện pháp xúc tiến bán hàng gồm đánh giá:",
+    "answer": "hình thức giới thiệu sản phẩm và biện pháp khuyến mại."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Phân tích khả năng thanh toán là:",
+    "answer": "việc đánh giá khả năng chuyển đổi thành tiền và khả năng hoàn trả các khoản nợ của doanh nghiệp khi đến hạn."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Thẩm định năng lực tài chính của chủ đầu tư gồm các nội dung:",
+    "answer": "phân tích cấu trúc tài chính, phân tích khả năng thanh toán, phân tích năng lực hoạt động, phân tích hiệu quả kinh doanh"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Nội dung thẩm định tính pháp lý của dự án gồm thẩm định:",
+    "answer": "sự phù hợp của dự án với các quy hoạch, sự phù hợp của dự án với các văn bản pháp quy, thẩm định nhu cầu sử dụng đất, tài nguyên, khả năng giải phóng mặt"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Chỉ tiêu \"Tỷ suất sinh lời của vốn chủ sở hữu\" là chỉ tiêu sử dụng để đánh giá:",
+    "answer": "khả năng sinh lời."
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Xác định thị trường mục tiêu và định vị sản phẩm của dự án gồm:",
+    "answer": "xác định thị trường mục tiêu và định vị sản phẩm của dự án."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Đánh giá năng lực chủ đầu tư gồm:",
+    "answer": "năng lực pháp lý, năng lực tài chính, năng lực tổ chức và kinh doanh."
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Nội dung đánh giá sản phẩm của dự án gồm:",
+    "answer": "mô tả đầy đủ các đặc điểm sản phẩm của dự án, tính phù hợp của sản phẩm với khách hàng mục tiêu, chiến lược định vị, với xu hướng tiêu dùng."
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Chỉ tiêu \"Tỷ suất lợi nhuận thuần\" là chỉ tiêu sử dụng để đánh giá:",
+    "answer": "khả năng sinh lời."
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Thẩm định khía cạnh thị trường là cơ sở để thẩm định nội dung:",
+    "answer": "khía cạnh kỹ thuật của dự án, tổ chức quản lý nhân sự, tài chính của dự án và kinh tế xã hội dự án"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Chỉ tiêu \"Hệ số khả năng thanh toán hiện thời\" là chỉ tiêu sử dụng để đánh giá:",
+    "answer": "khả năng thanh toán."
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Thẩm định khía cạnh thị trường của dự án được thực hiện:",
+    "answer": "sau thẩm định tính pháp lý."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Nội dung thẩm định tính pháp lý của dự án gồm thẩm định:",
+    "answer": "sự phù hợp của dự án với các quy hoạch, sự phù hợp của dự án với các văn bản pháp quy, thẩm định nhu cầu sử dụng đất, tài nguyên, khả năng giải phóng mặt"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Nội dung thẩm định năng lực tổ chức, kinh doanh của chủ đầu tư gồm:",
+    "answer": "đánh giá lịch sử hoạt động của chủ đầu tư, đánh giá năng lực tổ chức, đánh giá năng lực sản xuất kinh doanh và đánh giá về triển vọng phát triển của doanh nghiệp."
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Phương pháp sử dụng trong thẩm định thị trường gồm:",
+    "answer": "phương pháp thẩm định theo trình tự, phương pháp so sánh, đối chiếu chỉ tiêu và phương pháp dự báo."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Nếu chủ thể là tổ chức tài chính, đánh giá năng lực chủ đầu tư gồm:",
+    "answer": "năng lực pháp lý, năng lực tài chính, năng lực tổ chức và kinh doanh, thẩm định quan hệ tín dụng với các tổ chức tài chính."
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Phương pháp sử dụng trong thẩm định chủ đầu tư gồm:",
+    "answer": "phương pháp thẩm định theo trình tự và phương pháp so sánh, đối chiếu chỉ tiêu."
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Đánh giá biện pháp xúc tiến bán hàng gồm đánh giá:",
+    "answer": "hình thức giới thiệu sản phẩm và biện pháp khuyến mại."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Nội dung đánh giá tình hình cung cầu hiện tại về sản phẩm của dự án gồm:",
+    "answer": "đánh giá cung cầu ở hiện tại và tính đầy đủ của số liệu về cung cầu trong quá khứ và hiện tại."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Thẩm định tính pháp lý của dự án nhằm đánh giá:",
+    "answer": "dự án có đảm bảo tính pháp lý, có phù hợp với các quy định của nhà nước."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Ba chỉ tiêu \"Tỷ lệ nợ phải trả/tổng nguồn vốn\", \"Tỷ lệ vốn chủ sở hữu/tổng nguồn vốn\", \"Tỷ lệ nợ phải trả/vốn chủ sở hữu\" được sử dụng để đánh giá:",
+    "answer": "cấu trúc tài chính của doanh nghiệp và khả năng thanh toán dài hạn."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Thẩm định thị trường nhằm đánh giá về:",
+    "answer": "sản phẩm và dịch vụ; số lượng sản phẩm và giá bán sản phẩm; cách thức phân phối và xúc tiến bán hàng."
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Chỉ tiêu \"Hệ số khả năng thanh toán hiện thời\" là chỉ tiêu sử dụng để đánh giá:",
+    "answer": "khả năng thanh toán ngắn hạn"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Phân tích cấu trúc tài chính là:",
+    "answer": "phân tích cơ cấu nguồn vốn của doanh nghiệp trong mối quan hệ với cơ cấu tài sản."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Thông tin sử dụng để thẩm định chủ đầu tư gồm:",
+    "answer": "Thông tin do chủ đầu tư cung cáp, thông tin về ngành kinh doanh, thông tin về môi trường vĩ mô cấp quốc qua và cấp địa phương."
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Khi thẩm định nội dung mua sắm công nghệ, thiết bị cần xem xét các nhân tố nào;",
+    "answer": "uy tín của nhà cung cấp; giá cả công nghệ, thiết bị và phương thức chuyển giao công nghệ."
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Khi đánh giá công tác đào tạo nguồn nhân lực, cán bộ thẩm định cần xem xét nội dung nào đầu tiên trong những nội dung sau:",
+    "answer": "chương trình, nội dung đào tạo người lao động và cán bộ quản lý."
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Khi thẩm định các yếu tố đầu vào cho dự án, cần xem xét những nhân tố nào:",
+    "answer": "nguyên vật liệu; năng lượng, nhiên liệu; điện, nước, hơi, thông tin, vận chuyển…"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Khi thẩm định nguồn cung cấp nguyên liệu cho dự án, nhân tố nào sau đây là quan trọng nhất:",
+    "answer": "việc lựa chọn tùy thuộc vào đặc điểm từng ngành nghề."
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Khi thẩm định sản phẩm do công nghệ tạo ra, tiêu chuẩn nào sau đây là quan trọng nhất:",
+    "answer": "có chất lượng phù hợp với nhu cầu của khách hàng."
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Mục đích quan trọng nhất của thẩm định quy mô công suất của dự án:",
+    "answer": "đánh giá tính tối ưu của công suất đã chọn."
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Căn cứ nào không thể thiếu khi thẩm định kỹ thuật của dự án:",
+    "answer": "hồ sơ dự án, các tiêu chuẩn định mức của nhà nước"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Khi thẩm định vấn đề bảo vệ môi trường của dự án, cần nghiên cứu những nội dung:",
+    "answer": "phân tích các yếu tố ảnh hưởng tiêu cực đến môi trường và đánh giá các giải pháp bảo vệ môi trường do dự án đề xuất."
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Khi thẩm định điều kiện tự nhiên của địa điểm xây dựng dự án, nhân tố nào sau đây cần được xem xét kỹ:",
+    "answer": "tuỳ thuộc vào tính chất của từng dự án mà chú trọng từng loại nhân tố trên."
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Khi đánh giá công nghệ, trong số những nhân tố sau thì nhân tố nào là quan trọng trong bối cảnh dân số đông như thời điểm hiện nay tại Việt Nam:",
+    "answer": "mức độ gây ô nhiễm môi trường, an toàn lao động."
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Lợi ích nào là quan trọng nhất khi quyết định chọn địa điểm xây dựng dự án gần nguồn cung cấp lao động:",
+    "answer": "dễ tuyển dụng lao động"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Hệ thống phòng cháy chữa cháy của một công trình phải bao gồm những thiết bị nào sau đây",
+    "answer": "hệ thống phát hiện và báo cháy, hệ thống chữa cháy chung toàn công trình và các thiết bị chữa cháy riêng lẻ"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Các giải pháp bảo vệ môi trường do dự án đề xuất phải đảm bảo được yêu cầu:",
+    "answer": "giảm thiểu tác động tiêu cực của dự án đến môi trường ở những bước sớm nhất; phù hợp với quy định \"Bảo vệ môi trường\" do Bộ Tài nguyên Môi trường ban hành."
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Thành công trong thẩm định kỹ thuật là:",
+    "answer": "chấp nhận phương án kỹ thuật tốt và bác bỏ phương án kỹ thuật tồi."
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Một phương án kết cấu công trình được coi là hợp lý nhất khi:",
+    "answer": "bảo đảm độ bền cần thiết của công trình."
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Khi thẩm định thiết bị trong dây chuyền công nghệ, yếu tố nào là quan trọng nhất?",
+    "answer": "tính phù hợp của thiết bị và chất lượng thiết bị"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Chỉ chấp nhận những công nghệ, thiết bị đã qua sử dụng khi đảm bảo các điều kiện:",
+    "answer": "thiết bị có 1 trong 2 điều kiện: thiết bị có tuổi đời không qua 5 năm hoặc 10 năm tuỳ từng ngành; thiết bị đảm bảo còn 80% so với chất lượng ban đầu."
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Điều kiện nào được xem xét đầu tiên khi thẩm định thiết bị công nghệ của dự án:",
+    "answer": "tạo ra các sản phẩm có chất lượng tốt, đáp ứng nhu cầu khách hàng"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Khi thẩm định công nghệ, chỉ chấp nhận những công nghệ:",
+    "answer": "công nghệ thích hợp với trình độ, điều kiện của Việt Nam."
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Nhân tố nào là quan trọng nhất khi chọn công nghệ:",
+    "answer": "đảm bảo cho chủ đầu tư nắm bắt và vận hành được công nghệ."
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Khi đánh giá nguồn nhân lực của dự án, cần xem xét lại:",
+    "answer": "số lượng lao động; cơ cấu lao động tuyển dụng; trình độ, kinh nghiệm và độ tuổi của người lao động"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Khi thẩm định địa điểm xây dựng, nhân tố nào sau đây được xem xét đầu tiên:",
+    "answer": "phù hợp với quy hoạch."
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Việc mua sắm công nghệ, thiết bị chỉ được coi là có hiệu quả khi:",
+    "answer": "công nghệ phải phù hợp với mục tiêu của dự án."
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Những loại hình đầu tư nào cần thẩm định địa điểm:",
+    "answer": "dự án đầu tư mới và dự án mở rộng quy mô sản xuất."
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Bộ máy tổ chức quản lý dự án phải đạt được yêu cầu tối thiểu nào trong số các yêu cầu sau thì mới được hoạt động:",
+    "answer": "tính pháp lý."
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Mục tiêu nào là quan trọng nhất khi cán bộ thẩm định kiểm tra lại khối lượng nguyên vật liệu dự kiến cho dự án:",
+    "answer": "đảm bảo cho quá trình sản xuất sau này không bị gián đoạn."
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Thẩm định giải pháp xây dựng dự án cần xem xét những nội dung nào trong các nội dung sau:",
+    "answer": "giải pháp quy hoạch – kiến trúc; giải pháp kết cấu và tổng dự toán xây dựng công trình."
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Khi thẩm định chế độ tiền lương, tiền thưởng, chế độ làm việc nghỉ ngơi cho người lao động trong dự án, cán bộ thẩm định không cần quan tâm nhiều đến quy định nào:",
+    "answer": "chế độ thưởng của doanh nghiệp"
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Để đảm bảo tính phù hợp khi xây dựng bộ máy quản lý dự án, cần căn cứ vào những nhân tố nào:",
+    "answer": "dựa trên cơ sở các học thuyết về quản lý lao động khoa học; Dựa trên kinh nghiệm tổ chức lao động tiên tiến của các đơn vị có cùng tính chất và quy mô như dự án; Khả năng cung cấp cán bộ quản lý và công nhân kỹ thuật trên thực tế."
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Khi thẩm định quy mô công suất của dự án, căn cứ nào là quan trọng nhất trong số những căn cứ sau:",
+    "answer": "nhu cầu thị trường."
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Khi nào một dự án bắt buộc phải đặt trong khu công nghiệp:",
+    "answer": "dự án có các chất phế thải, nước thải độc hại."
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Khi thẩm định tính thời vụ của nguyên vật liệu, mục tiêu nào là quan trọng nhất:",
+    "answer": "để tính toán khối lượng nguyên vật liệu dự trữ."
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Yêu cầu nào là quan trọng nhất khi thẩm định giải pháp quy hoạch- kiến trúc công trình",
+    "answer": "đảm bảo tính mỹ quan, hài hòa phù hợp với cảnh quan môi trường xây dựng"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Cán bộ thẩm định cần thu thập thông tin từ những nguồn nào khi thẩm định kỹ thuật dự án:",
+    "answer": "hồ sơ dự án và quy định của nhà nước; Tìm hiểu qua nhà cung cấp thiết bị, nguyên vật liệu và Tìm hiểu qua các dự án đầu tư cùng loại."
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Căn cứ vào đâu để đánh giá giải pháp xây dựng dự án là phù hợp hay chưa phù hợp?",
+    "answer": "yêu cầu của dây chuyền công nghệ; Các định mức tiêu chuẩn xây dựng do Nhà nước ban hành; Các dự án có đặc điểm và quy mô tương tự đã được xây dựng và đi vào hoạt động."
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Với những dự án nhỏ, ít tiềm ẩn nguy cơ gây ô nhiễm môi trường, thẩm định ảnh hưởng của dự án đến môi trường được tiến hành ở những giai đoạn nào:",
+    "answer": "giai đoạn xin giấy phép đầu tư."
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Nhân tố nào là nhân tố đầu tiên khi thẩm định nguyên vật liệu của dự án:",
+    "answer": "chất lượng nguyên vật liệu được chọn phải đảm bảo sản xuất ra sản phẩm chất lượng tốt."
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Khi thẩm định nội dung kỹ thuật và tổ chức quản lý nhân sự của dự án, phương pháp nào được áp dụng nhiều nhất trong những phương pháp sau:",
+    "answer": "phương pháp so sánh, đối chiếu các chỉ tiêu."
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Hồ sơ dự án sẽ phải có:",
+    "answer": "tùy đặc điểm từng dự án mà chỉ phải làm báo cáo đánh giá tác động môi trường hoặc phiếu đăng ký đạt tiêu chuẩn môi trường."
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Nội dung nào là quan trọng nhất trong phần trình bày Cơ cấu bộ máy quản lý dự án :",
+    "answer": "chức năng và nhiệm vụ của mỗi bộ phận."
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Lợi ích nào là quan trọng nhất khi dự án sử dụng nguyên vật liệu trong nước",
+    "answer": "tạo việc làm cho lao động trong nước."
+  }
+]

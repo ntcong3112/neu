@@ -1,0 +1,2054 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Một thương phiếu có mệnh giá 120.000, ngày đáo hạn là 16/08 được chiết khấu vào ngày 12/06 với lãi suất chiết khấu 9%. Xác định hiện giá và tiền tiền chiết khấu thương mại của thương phiếu.",
+    "answer": "118.050"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Một người gửi 50 triệu VND vào ngân hàng với kỳ hạn 6 tháng, tính lãi suất tương đương kì hạn 6 tháng và số tiền người đó nhận được sau 6 tháng, biết ngân hàng tính theo lãi gộp và lãi suất là 12,36%/ năm.",
+    "answer": "6% và 53 triệu."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Hình thức phát hành trái phiếu mà giá phát hành thấp hơn mệnh giá, được gọi là:",
+    "answer": "chiết khấu."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Một khoản tiền được gửi vào ngân hàng trong 180 ngày, lãi suất 10%/năm. Người ta nhận thấy rằng khoản tiền đó với những điều kiện như trên nếu được gửi theo năm 360 ngày và theo năm 365 ngày thì giữa hai cách gửi này có sự chênh lệch về tiền lãi là 2,5 triệu đồng. Hãy tính giá trị của khoản tiền trên.",
+    "answer": "3.650"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Một chuỗi tiền tệ phát sinh vào đầu kỳ gồm 15 kỳ, kỳ khoản đầu tiên là 75 triệu đồng và kỳ khoản sau tăng 15% so với kỳ khoản trước, lãi suất là 8%/kỳ. Xác định hiện giá của chuỗi tiền tệ trên.",
+    "answer": "1.676,94"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Vào ngày 1/2, khách hàng đem thương phiếu có mệnh giá C, đáo hạn vào ngày 27/7 cùng năm đến ngân hàng xin chiết khấu với lãi suất thực tế chiết khấu là 8%. Hãy tính lãi suất giá thành chiết khấu.",
+    "answer": "8,325%"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Tính chất nào quan trọng nhất với một chuỗi niên kim?",
+    "answer": "Sự thực hiện niên kim cách đều về mặt thời gian."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Một khách hàng đến ngân hàng vay tiền với cam kết trả nợ như sau: trả làm 5 lần thì hết nợ, mỗi năm trả nợ 1 lần, số tiền trả nợ mỗi lần bằng nhau bằng 100 triệu đồng, lãi suất tiền vay là 9 (%/năm). Hỏi số tiền ngân hàng cho khách hàng vay là bao nhiêu biết rằng thời điểm trả khoản nợ đầu tiên cách lúc vay đúng một năm?",
+    "answer": "388,97"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Vào ngày 2/11, một khoản tiền được chuyển vào tài khoản vãng lai của ông X. Nếu ngày có giá trị tính lãi bằng 2, ngày đầu tiên khoản tiên này được tính lãi là ngày:",
+    "answer": "4/11"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Một công ty có 4 món nợ thương phiếu sau đây: 40.000 trả sau 2 năm; 10.000 trả sau 3 năm 3 tháng; 25.500 trả sau 1 năm 6 tháng; 50.000 trả sau 5 năm; Biết rằng mệnh giá của thương phiếu thay thế là 130.000 và lãi suất chiết khấu là 10,25%/năm. Hãy xác định thời hạn thanh toán còn lại của thương phiếu thay thế.",
+    "answer": "3,44 năm"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Một người có 150 triệu nhàn rỗi trong 2 năm và muốn gửi tiền vào 1 trong 2 ngân hàng sau: Ngân hàng A: lãi suất 9%/năm. Tặng quà 500.000 cho người gửi tiền từ 100 triệu trở lên. Ngân hàng B: Lãi suất 9,1%/năm. Người đó nên gửi tiền ngân hàng nào? Giả sử 2 ngân hàng đều lĩnh lãi cuối kỳ.",
+    "answer": "Gửi tiền vào ngân hàng B."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Đem thương phiếu có mệnh giá 100.000 đến ngân hàng xin chiết khấu với lãi suất 6%, hoa hồng ký hậu 0,45%, hoa hồng cố định 600, thuế 5% tính trên hoa hồng cố định, thời gian còn lại của thương phiếu là 45 ngày. Cho biết chi phí chiết khấu?",
+    "answer": "686,25"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Một người đang có 200 triệu đồng và muốn đi gửi tiền kỳ hạn 1 năm\nTại ngân hàng A: trả gốc và lãi sau 1 năm với lãi suất 7,1%/năm\nTại ngân hàng B: trả lãi trước, trả gốc sau 1 năm với lãi suất 6,8%/năm\nHỏi người này nên gửi tiền ở ngân hàng nào?",
+    "answer": "Gửi tiền vào ngân hàng B."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Một người gửi 50 triệu VND vào ngân hàng với kỳ hạn 6 tháng, tính lãi suất tương đương kì hạn 6 tháng và số tiền người đó nhận được sau 1 năm, biết ngân hàng tính theo lãi gộp và lãi suất là 12%/ năm.",
+    "answer": "12,36% và 56,18 triệu"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Khi tính lãi theo lãi đơn, để quy lãi suất từ kì tính lãi dài về kì tính lãi ngắn, người ta dùng:",
+    "answer": "lãi suất tỷ lệ."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Phương pháp tính lãi nào thường được sử dụng trên thực tế nhất?",
+    "answer": "Phương pháp rút số dư."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Tính chất nào quan trọng nhất với một chuỗi niên kim?",
+    "answer": "Sự thực hiện niên kim cách đều về mặt thời gian."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Một người có 3 khoản nợ thương phiếu sau: 17.300 đáo hạn sau 6 tháng. 18.500 đáo hạn sau 18 tháng. 19.700 đáo hạn sau 24 tháng. Người này đề nghị thay thế 3 thương phiếu trên bằng một thương phiếu duy nhất đáo hạn sau 42 tháng. Hãy xác định mệnh giá của thương phiếu thay thế biết rằng lãi suất chiết khấu là 12,36%/năm.",
+    "answer": "71359"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Ông A đầu tư một khoản tiền ban đầu là 10 triệu đồng. Trong 3 năm đầu tiên, khoản đầu tư này mang lại cho ông một lãi suất kép là 5,5%/năm. Cuối năm thứ 3, ông A lại tái đầu tư toàn bộ giá trị tích luỹ đạt được trong vòng 5 năm, mỗi năm đạt lãi suất kép là 6%. Hỏi giá trị tích lũy ông A có được vào cuối năm thứ 8 là bao nhiêu?",
+    "answer": "15,71"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Một chuỗi niên kim cố định đầu kì là một hình thức thanh toán nợ thông thường trong đó:",
+    "answer": "lãi trả trước 1 kì."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Một công ty muốn có một số tiền tích luỹ là 1 tỷ đồng. Mỗi năm, công ty có thể tích luỹ 100 triệu đồng. Nếu gửi số tiền đó vào ngân hàng vào đầu mỗi năm với lãi suất là 9%/năm thì sau bao lâu, công ty đạt được số vốn mong muốn.",
+    "answer": "7"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Các khoản tiền gốc được thanh toán định kì trong trả nợ theo niên kim cố định liên hệ với nhau theo quy luật nào?",
+    "answer": "Gốc kì sau lớn hơn kì trước, liên hệ với nhau theo cấp số nhân."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Đối với tài khoản vãng lai cùng lãi suất, việc áp dụng 3 phương pháp tính lãi khác nhau sẽ cho ra các kết quả:",
+    "answer": "giống nhau ở số dư, giống nhau ở số lãi."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Cho trước lãi suất năm, lãi suất tương đương của các thời kì nhỏ hơn 1 năm:",
+    "answer": "nhỏ hơn lãi suất tỷ lệ của cùng thời kì."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Một người gửi 50 triệu VND vào ngân hàng với kỳ hạn 6 tháng, tính lãi suất kì hạn 6 tháng và số tiền người đó nhận được sau 6 tháng, biết ngân hàng tính theo lãi gộp và lãi suất là 12%/ năm.",
+    "answer": "6% và 53 triệu."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Để tính lãi cho tài khoản vãng lai không cùng lãi suất, người ta dùng:",
+    "answer": "phương pháp rút số dư."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Để hạn chế sai số khi chiết khấu theo lãi gộp, người ta sử dụng:",
+    "answer": "phương pháp chiết khấu hợp lý."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Một khách hàng đến ngân hàng gửi tiền hưởng lãi gộp với số tiền gửi mỗi lần bằng nhau là 100 triệu, gửi tất cả 5 (lần) trong vòng 5 năm, lãi suất tiền gửi là 6 (%/năm). Hỏi ngay sau lần gửi tiền cuối cùng thì khách hàng có bao nhiêu tiền trong ngân hàng?",
+    "answer": "563,71"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Lãi suất làm cân bằng giá trị hiện tại của các khoản thu nhập nhà đầu tư có được trong tương lai với số vốn thực tế họ bỏ ra ở hiện tại được gọi là:",
+    "answer": "lãi suất đầu tư trái phiếu trung bình."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Một người gửi tiền tất cả 10 lần, cách đều nhau 1 năm. Mỗi lần gửi a = 15 triệu, i = 9%/năm. Giả sử trong 3 năm cuối i’= 10%/năm. Tính V10?",
+    "answer": "233,34"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Một công ty có 4 món nợ thương phiếu sau đây: 40.000 trả sau 2 năm; 10.000 trả sau 3 năm 3 tháng; 25.500 trả sau 1 năm 6 tháng; 50.000 trả sau 5 năm; Biết rằng mệnh giá của thương phiếu thay thế là 130.000 và lãi suất chiết khấu là 10,25%/năm. Hãy xác định thời hạn thanh toán còn lại của thương phiếu thay thế.",
+    "answer": "3,44 năm"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Ông A đầu tư một khoản tiền ban đầu là 10 triệu đồng. Trong 3 năm đầu tiên, khoản đầu tư này mang lại cho ông một lãi suất kép là 5,5%/năm. Cuối năm thứ 3, ông A lại tái đầu tư toàn bộ giá trị tích luỹ đạt được trong vòng 5 năm, mỗi năm đạt lãi suất kép là 6%. Vậy lãi suất đầu tư bình quân trong giai đoạn này là bao nhiêu ?",
+    "answer": "5,8%"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Một khoản vay được thanh toán bằng 5 niên kim. Giá trị của mỗi niên kim được thanh toán định kì như sau: a1 = 3800 USD, a2 = 4600 USD, a3 = 4300 USD, a4 = 6000 USD, a5 = 5500 USD. Khoản tiền gốc thanh toán vào năm cuối là 5000 USD. Xác định khoản tiền gốc thanh toán ở dòng thứ 3 trên bảng thanh toán nợ",
+    "answer": "3000"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Một người kí kết một khoản vay trị giá 100.000 đvtt. Trả nợ định kì hàng năm trong vòng 16 năm với lãi suất 9%. 15 lần thanh toán đầu tiên số tiền thanh toán mỗi lần bằng nhau và bằng 12000 đvtt. Số tiền thanh toán lần thứ 16 khác các lần trước đó. Số tiền ở lần thanh toán thứ 16 bằng bao nhiêu ?",
+    "answer": "12039"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Một khoản vốn vay 1 tỷ, lãi suất 10%/năm, trả trong 15 năm với phương thức trả theo niên kim cố định, tính số lãi phải thanh toán ở niên kim thứ bảy.",
+    "answer": "0,0757"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Nguyên tắc của thanh toán một khoản nợ thông thường là:",
+    "answer": "trả lãi trước, trả gốc sau."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Một khoản nợ thông thường được thanh toán theo niên kim cố định với giá trị niên kim là 1320, số tiền gốc thanh toán được kỳ cuối là 1200. Vậy dư nợ đầu kỳ trước kỳ thanh toán cuối cùng bằng bao nhiêu ?",
+    "answer": "2290,9"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Giám đốc tài chính một quỹ hưu trí quyết định gửi 100 tỷ vào ngân hàng hưởng lãi gộp với lãi suất 9%/năm trong 10 năm. Tuy nhiên, do lãi suất thị trường thay đổi, từ năm thứ 5 trở đi, lãi suất được điều chỉnh giảm xuống còn 8%/năm. Hỏi tổng số tiền thu được khi khoản tiền gửi này đáo hạn.",
+    "answer": "189 tỷ"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Một công ty có 4 món nợ thương phiếu sau đây: 40.000 trả sau 2 năm; 10.000 trả sau 3 năm 3 tháng; 25.500 trả sau 1 năm 6 tháng; 50.000 trả sau 5 năm; Công ty đề nghị được trả các món nợ trên bằng một thương phiếu duy nhất với thời hạn 2 năm 9 tháng. Hãy xác định mệnh giá của thương phiếu thay thế biết rằng lãi suất chiết khấu là 8,5%/năm.",
+    "answer": "122.793"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Một khoản tiết kiệm 100 triệu đồng được đem gửi tiết kiệm trong 5 năm với lãi suất 2 năm đầu là 9%, lãi suất 3 năm tiếp theo lần lượt là 8%,7% và 8,5%. Hỏi lãi suất bình quân tiền gửi tiết kiệm trong suốt giai đoạn này là",
+    "answer": "8,297%"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Một thương phiếu có mệnh giá là 3.663. Hãy tính giá trị hiện tại hợp lý của thương phiếu trên biết rằng giá trị hiện tại thương mại là 3.6297.",
+    "answer": "1.823"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Một người có 150 triệu nhàn rỗi trong 2 năm và muốn gửi tiền vào 1 trong 2 ngân hàng sau:\nNgân hàng A: lãi suất 9%/năm. Tặng quà 500.000 cho người gửi tiền từ 100 triệu trở lên.\nNgân hàng B: Lãi suất 9,1%/năm.\nNgười đó nên gửi tiền ngân hàng nào? Giả sử 2 ngân hàng đều lĩnh lãi cuối kỳ.",
+    "answer": "Gửi tiền vào ngân hàng B."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Cho trước lăi suất năm, lãi suất tương đương của các thời kì lớn hơn 1 năm:",
+    "answer": "lớn hơn lãi suất tỷ lệ của cùng thời kì."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Một nhà đầu tư nắm giữ một cổ phiếu trong 2 năm. Năm đầu tiên giá cổ phiếu đó tăng 5%. Năm thứ hai giá cổ phiếu giảm 5%. Vậy sau 2 năm giá trị của khoản đầu tư:",
+    "answer": "Giảm 0,25%"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Một công ty cổ phần phát hành 8.000 trái phiếu với mệnh giá mỗi trái phiếu là 100. Nợ trái phiếu được thanh toán theo mệnh giá theo CNKCĐ vào cuối mỗi năm trong 4 năm. Lãi suất trái phiếu là 6%/năm. Mỗi trái phiếu được bán với giá 98. Xác định lãi suất đầu tư trái phiếu trung bình.",
+    "answer": "6,9%"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Một chuỗi niên kim cố định đầu kì là một hình thức thanh toán nợ thông thường trong đó:",
+    "answer": "lãi trả trước 1 kì."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Một chuỗi niên kim gồm 20 niên kim được thực hiện đều đặn hàng năm, có đặc điểm là tổng của số hạng đầu và số hạng cuối bằng tổng của số hạng đứng ngay sau số hạng đầu và số hạng đứng trước số hạng cuối, và cứ ghép đôi như thế ta sẽ có các tổng bằng nhau. Đây là một chuỗi niên kim:",
+    "answer": "biến đổi theo cấp số cộng."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Đối với tài khoản vãng lai không cùng lãi suất, đặc điểm nào sau đây là đúng nhất?",
+    "answer": "Lãi suất bên nợ thường cao hơn bên có."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Trong công thức tính lãi đơn với độ dài thời gian tính theo ngày thì số ngày tính lãi được tính dựa trên:",
+    "answer": "Số ngày thực tế của 1 năm dân sự."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Ngày 10/04, một doanh nghiệp đem chiết khấu một thương phiếu có mệnh giá 250 triệu đồng với tiền chiết khấu thương mại là 3 triệu đồng. Xác định lãi suất chiết khấu nếu ngày đáo hạn là 15/05.",
+    "answer": "9,6%"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Một người có 3 khoản nợ thương phiếu sau: 17.300 đáo hạn sau 6 tháng. 18.500 đáo hạn sau 18 tháng. 19.700 đáo hạn sau 24 tháng. Người này đề nghị thay thế 3 thương phiếu trên bằng một thương phiếu duy nhất đáo hạn sau 42 tháng. Hãy xác định mệnh giá của thương phiếu thay thế biết rằng lãi suất chiết khấu là 12,36%/năm.",
+    "answer": "71.359"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Một người mắc 3 khoản nợ thương phiếu: 150.000 thanh toán vào ngày 1/6; 165.000 thanh toán vào ngày 9/7; 200.000 thanh toán vào ngày 27/7; Ngày 20/4, người này đề nghị thay thế 3 thương phiếu trên bằng một thương phiếu có mệnh giá 506.973,2553. Hãy xác định thời hạn thanh toán của thương phiếu thay thế biết lãi suất chiết khấu 7%/năm.",
+    "answer": "15 ngày."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Lãi đơn là hình thức tính lãi được áp dụng phổ biến trong các nghiệp vụ tài chính:",
+    "answer": "nhỏ hơn hoặc bằng 1 năm."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Một thương phiếu có thời hạn 45 ngày, nếu chiết khấu theo phương pháp hợp lý với lãi suất 3% thì tiền chiết khấu của thương phiếu là 90 đvtt. Tính mệnh giá của thương phiếu",
+    "answer": "24090 đvtt"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Ngày ngang giá (nếu có) của 2 thương phiếu phải:",
+    "answer": "ở trước ngày đáo hạn của thương phiếu đáo hạn trước."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Một khoản vốn vay 1 tỷ, lãi suất 10%/năm, trả trong 15 năm với phương thức trả theo niên kim cố định, tính số dư nợ gốc sau khi thực hiện xong niên kim thứ 13.",
+    "answer": "0,327"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Một nhà đầu tư có hai khoản vốn với tổng số tiền là 20 tỷ, đầu tư vào hai doanh nghiệp A và B với lãi suất lần lượt là t% và (t+1)%, biết rằng tiền lãi hàng năm của 2 khoản vốn lần lượt là 1,08 tỷ và 0,8 tỷ. cho biết giá trị của hai khoản vốn trên. Cho biết hai lãi suất tương ứng.",
+    "answer": "9% và 10%"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Vào ngày 01/02/2021, khách hàng đem 200 triệu đồng đến ngân hàng gửi tiết kiệm với lãi suất 7%/năm. Xác định số tiền khách hàng có được nếu đến tất toán sổ tại thời điểm ngày 01/05/2021",
+    "answer": "203,46"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Một nhà đầu tư có hai khoản vốn với tổng số tiền là 20 tỷ, đầu tư vào hai doanh nghiệp A và B với lãi suất lần lượt là t% và (t+1)%, biết rằng tiền lãi hàng năm của 2 khoản vốn lần lượt là 1,08 tỷ và 0,8 tỷ. Cho biết giá trị của hai khoản vốn trên.",
+    "answer": "12 tỷ và 8 tỷ."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Một người gửi vào Ngân hàng một khoản tiền là 20.000.000 VND với lãi suất đơn là 8%/năm với mong muốn nhận được một khoản tiền là 25.000.000 VND trong tương lai. Hỏi ông ta phải mất bao nhiêu thời gian?",
+    "answer": "3,125 năm."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Cơ sở để thực hiện việc thay thế thương phiếu là:",
+    "answer": "giá trị hiện tại thương mại."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Số tiền chiết khấu thương mại của một thương phiếu nhiều hơn số tiền chiết khấu hợp lý của thương phiếu đó là 20. Lãi suất của thương phiếu là 6%, mệnh giá của thương phiếu là 20000 đvtt. Tính thời hạn của thương phiếu đó?",
+    "answer": "190 ngày"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Một khách hàng đến ngân hàng vay tiền với cam kết trả nợ như sau: trả làm 5 lần thì hết nợ, mỗi năm trả nợ 1 lần, số tiền trả nợ mỗi lần bằng nhau bằng 100 triệu đồng, lãi suất tiền vay là 9 (%/năm). Hỏi số tiền ngân hàng cho khách hàng vay là bao nhiêu biết rằng thời điểm trả khoản nợ đầu tiên cách lúc vay đúng một năm?",
+    "answer": "388,97"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Số tiền lãi phụ thuộc trực tiếp vào những nhân tố nào?",
+    "answer": "Số vốn, độ dài thời gian, lãi suất"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Một doanh nghiệp vào ngày 30/6 hàng năm lại đến ngân hàng gửi tiền tiết kiệm hưởng lãi gộp với số tiền cố định là 30 triệu. Khoản gửi đầu tiên vào ngày 30/6/1970, khoản cuối cùng vào ngày 30/6/1978. Lãi suất tiền gửi là 9%/năm. Hãy tính số tiền doanh nghiệp có được vào ngày 30/6/1981.",
+    "answer": "505,87"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Trong thanh toán nợ trái phiếu, số lượng trái phiếu đáo hạn cuối mỗi kỳ:",
+    "answer": "liên hệ với nhau theo cấp số nhân."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Vào ngày 08/03/N, ông A gửi vào ngân hàng 40 triệu đồng với lãi suất đơn là 8% và rút tiền ra vào ngày 11/09/N. Tính số tiền ông A nhận được vào ngày rút ra.",
+    "answer": "41,458"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Lãi của trái phiếu được tính trên:",
+    "answer": "mệnh giá."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Ngân hàng đang có chương trình khuyến mại dành cho khách hàng gửi tiền, nếu khoản tiền gửi có giá trị 500 triệu đồng và được gửi trong 100 ngày, lãi suất 7,2%/năm thì khách hàng sẽ được tặng 2 triệu đồng nếu khách hàng rút khoản tiền này đúng hạn. Tính lãi suất thực mà khách hàng được hưởng?",
+    "answer": "8,64%/năm"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Một chuỗi tiền tệ phát sinh cuối kỳ gồm 10 kỳ khoản, kỳ khoản đầu tiên là 100 triệu đồng và kỳ khoản sau nhiều hơn kỳ khoản trước 20 triệu đồng, lãi suất là 8,5%/kỳ. Xác định hiện giá.",
+    "answer": "1.159,31"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Một nhà đầu tư mua một cổ phiếu trong vòng 2 năm. Năm đầu tiên cổ phiếu đó tăng giá 5%, nhưng năm thứ hai cổ phiếu lại giảm giá nên nhà đầu tư này không có lãi. Vậy mức giảm giá của cổ phiếu đó là:",
+    "answer": "4,76%"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Một doanh nghiệp vay ngân hàng một số tiền với lãi suất là 10%/năm, trả trong 5 năm bằng 5 khoản tiền bằng nhau là 50 triệu đồng vào cuối mỗi năm. Xác định số tiền mà doanh nghiệp đã vay.",
+    "answer": "189,54"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Người sở hữu trái phiếu được hưởng:",
+    "answer": "lãi suất cố định."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Số tiền chiết khấu thương mại của một thương phiếu nhiều hơn số tiền chiết khấu hợp lý của thương phiếu đó là 20. Mệnh giá của thương phiếu là 50000 đvtt, thời hạn của thương phiếu là 100 ngày. Tính lãi suất của thương phiếu đó?",
+    "answer": "7,27"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Một chuỗi niên kim biến đổi theo cấp số nhân là một hình thức thanh toán nợ thông thường theo quy luật:",
+    "answer": "trả lãi trước, trả gốc sau."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Giá trị ròng của thương phiếu là:",
+    "answer": "giá trị nhận được khi lấy mệnh giá trừ đi chi phí chiết khấu."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Một chuỗi niên kim biến đổi theo cấp số nhân là một hình thức thanh toán nợ thông thường theo quy luật:",
+    "answer": "trả lãi trước, trả gốc sau."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Một thương phiếu có thời hạn 45 ngày, nếu chiết khấu theo phương pháp thương mại với lãi suất 3% thì tiền chiết khấu của thương phiếu là 90 đvtt. Tính mệnh giá của thương phiếu",
+    "answer": "24000 đvtt"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100.000 VNĐ được phát hành thành công với giá mở bán là 102.000 VNĐ. Người mua đã sở hữu trái phiếu theo hình thức nào:",
+    "answer": "Phụ trội"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Thời gian đáo hạn của trái phiếu càng dài, thời lượng của trái phiếu sẽ:",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Thời gian đáo hạn của trái phiếu càng ngắn, thời lượng của trái phiếu sẽ:",
+    "answer": "Nhỏ hơn"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100 USD, kỳ hạn 5 năm, lãi suất coupon là 8% và được trả lãi một năm một lần. Nếu lãi suất chiết khấu là 7%, thời lượng của trái phiếu là:",
+    "answer": "4,327"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Một trái phiếu kỳ hạn 20 năm, với lãi suất 9% được giao dịch ở mức giá hiện tại là 1346,722 (tỷ lệ hoàn vốn 6% khi đáo hạn). Nếu lãi suất tăng 0,2% (lên mức mức 6,20%), giá trái phiếu sẽ là 1318,439. Nếu lãi suất giảm 0,2%, giá trái phiếu sẽ tăng lên thành 1375,888. Thời lượng điều chỉnh của trái phiếu này bằng bao nhiêu ?",
+    "answer": "10,66"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Lãi suất danh nghĩa của trái phiếu là:",
+    "answer": "Mức lãi suất ghi trên tờ trái phiếu."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Trái phiếu có thời gian đáo hạn càng dài thì giá trị hiện tại của nó càng:",
+    "answer": "Nhạy cảm với lãi suất"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Tại thời điểm phát hành, một trái phiếu có lợi tức đáo hạn nhỏ hơn lãi suất danh nghĩa nếu nó được phát hành:",
+    "answer": "Phụ trội"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Trong thanh toán nợ trái phiếu theo niên kim cố định, số tiền thanh toán nợ định kỳ không bằng nhau là do:",
+    "answer": "Số lượng TP thanh toán phải là số nguyên"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Lợi tức đáo hạn của trái phiếu là",
+    "answer": "Mức lãi suất có được nếu nắm giữ đến thời điểm đáo hạn"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Trái phiếu có thời gian đáo hạn càng ngắn thì giá trị hiện tại của nó càng:",
+    "answer": "Kém nhạy cảm với lãi suất"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Thời lượng điều chỉnh (Modified Duration) cho biết điều gì:",
+    "answer": "Khi lãi suất thay đổi 1%, giá trị thị trường của trái phiếu thay đổi bao nhiêu %"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100.000 VNĐ được phát hành thành công với giá mở bán là 98000 VNĐ. Người mua đã sở hữu trái phiếu theo hình thức nào:",
+    "answer": "Chiết khấu"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Khi lãi suất chiết khấu càng nhỏ, thời lượng của trái phiếu sẽ:",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Những giao dịch mua đi bán lại trái phiếu được thực hiện ở trên thị trường nào:",
+    "answer": "Thị trường thứ cấp"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Khi lãi suất chiết khấu càng lớn, thời lượng của trái phiếu sẽ:",
+    "answer": "Nhỏ hơn"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Trái phiếu có coupon càng lớn càng:",
+    "answer": "Có thời lượng nhỏ"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Tại thời điểm phát hành, một trái phiếu có lợi tức đáo hạn lớn hơn lãi suất danh nghĩa nếu nó được phát hành:",
+    "answer": "Chiết khấu"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Một trái phiếu có thời lượng D =4,6 năm và đang được giao dịch trên thị trường với giá 102 USD. Nếu lãi suất chiết khấu tăng 1% lên thành 9%, giá trị mới của trái phiếu sẽ bằng bao nhiêu ?",
+    "answer": "97,69"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Một trái phiếu có thời lượng D = 5,4 năm và đang được giao dịch trên thị trường với giá 104 USD. Nếu lãi suất chiết khấu giảm 1% xuống thành 8%, giá trị (ước tính) mới của trái phiếu sẽ bằng bao nhiêu ?",
+    "answer": "109,2"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100 USD, kỳ hạn 5 năm, lãi suất coupon là 8% và được trả lãi một năm một lần. Nếu lãi suất chiết khấu là 9%, thời lượng của trái phiếu là:",
+    "answer": "4,296"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Thời lượng giản đơn (thời lượng Macauley) cho chúng ta biết điều gì",
+    "answer": "Thời gian nắm giữ trái phiếu cần thiết để loại trừ rủi ro lãi suất"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Trái phiếu zero – coupon là trái phiếu:",
+    "answer": "Thanh toán cả gốc và lãi một lần khi đáo hạn"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Trái phiếu infine là trái phiếu:",
+    "answer": "Thanh toán lãi định kỳ, gốc trả vào kỳ cuối"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Một trái phiếu mệnh giá 100 USD được phát hành ngang giá, có lãi suất chiết khấu bằng 9% và thời lượng D = 4,6 năm. Nếu trái phiếu này được bán tại thời điểm trùng với thời lượng thì số tiền thu được sẽ là bao nhiêu ?",
+    "answer": "148,65 USD"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Tại thời điểm phát hành, một trái phiếu có lợi tức đáo hạn bằng lãi suất danh nghĩa nếu nó được phát hành:",
+    "answer": "Ngang giá"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Nợ trái phiếu phân biệt với nợ thông thường ở các đặc điểm nào sau đây:",
+    "answer": "Số lượng chủ nợ"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100.000 VNĐ được phát hành thành công với giá mở bán là 100.000 VNĐ. Người mua đã sở hữu trái phiếu theo hình thức nào:",
+    "answer": "Ngang giá"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Những giao dịch mua đi bán lại trái phiếu được thực hiện ở trên thị trường nào:",
+    "answer": "Thị trường thứ cấp"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Lợi tức đáo hạn của trái phiếu là",
+    "answer": "Mức lãi suất có được nếu nắm giữ đến thời điểm đáo hạn"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Tại thời điểm phát hành, một trái phiếu có lợi tức đáo hạn nhỏ hơn lãi suất danh nghĩa nếu nó được phát hành:",
+    "answer": "Phụ trội"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100.000 VNĐ được phát hành thành công với giá mở bán là 100.000 VNĐ. Người mua đã sở hữu trái phiếu theo hình thức nào:",
+    "answer": "Ngang giá"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100 USD, kỳ hạn 5 năm, lãi suất coupon là 8% và được trả lãi một năm một lần. Nếu lãi suất chiết khấu là 9%, thời lượng của trái phiếu là:",
+    "answer": "4,296"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Một trái phiếu mệnh giá 100 USD được phát hành ngang giá, có lãi suất chiết khấu bằng 9% và thời lượng D = 4,6 năm. Nếu trái phiếu này được bán tại thời điểm trùng với thời lượng thì số tiền thu được sẽ là bao nhiêu ?",
+    "answer": "148,65 USD"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Trái phiếu có thời gian đáo hạn càng ngắn thì giá trị hiện tại của nó càng:",
+    "answer": "Kém nhạy cảm với lãi suất"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Khi lãi suất chiết khấu càng nhỏ, thời lượng của trái phiếu sẽ:",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Trái phiếu có thời gian đáo hạn càng dài thì giá trị hiện tại của nó càng:",
+    "answer": "Nhạy cảm với lãi suất"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Khi lãi suất chiết khấu càng lớn, thời lượng của trái phiếu sẽ:",
+    "answer": "Nhỏ hơn"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Thời lượng điều chỉnh (Modified Duration) cho biết điều gì:",
+    "answer": "Khi lãi suất thay đổi 1%, giá trị thị trường của trái phiếu thay đổi bao nhiêu %"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Trái phiếu infine là trái phiếu:",
+    "answer": "Thanh toán lãi định kỳ, gốc trả vào kỳ cuối"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Nợ trái phiếu phân biệt với nợ thông thường ở các đặc điểm nào sau đây:",
+    "answer": "Số lượng chủ nợ"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Lãi suất danh nghĩa của trái phiếu là:",
+    "answer": "Mức lãi suất ghi trên tờ trái phiếu."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100 USD, kỳ hạn 5 năm, lãi suất coupon là 8% và được trả lãi một năm một lần. Nếu lãi suất chiết khấu là 7%, thời lượng của trái phiếu là:",
+    "answer": "4,327"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Tại thời điểm phát hành, một trái phiếu có lợi tức đáo hạn lớn hơn lãi suất danh nghĩa nếu nó được phát hành:",
+    "answer": "Chiết khấu"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Trái phiếu có coupon càng lớn càng:",
+    "answer": "Có thời lượng nhỏ"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Thời lượng giản đơn (thời lượng Macauley) cho chúng ta biết điều gì",
+    "answer": "Thời gian nắm giữ trái phiếu cần thiết để loại trừ rủi ro lãi suất"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Trái phiếu zero – coupon là trái phiếu:",
+    "answer": "Thanh toán cả gốc và lãi một lần khi đáo hạn"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100.000 VNĐ được phát hành thành công với giá mở bán là 98000 VNĐ. Người mua đã sở hữu trái phiếu theo hình thức nào:",
+    "answer": "Chiết khấu"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Một trái phiếu có thời lượng D =4,6 năm và đang được giao dịch trên thị trường với giá 102 USD. Nếu lãi suất chiết khấu tăng 1% lên thành 9%, giá trị mới của trái phiếu sẽ bằng bao nhiêu ?",
+    "answer": "97,69"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Một trái phiếu có thời lượng D = 5,4 năm và đang được giao dịch trên thị trường với giá 104 USD. Nếu lãi suất chiết khấu giảm 1% xuống thành 8%, giá trị (ước tính) mới của trái phiếu sẽ bằng bao nhiêu ?",
+    "answer": "109,2"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Trong thanh toán nợ trái phiếu theo niên kim cố định, số tiền thanh toán nợ định kỳ không bằng nhau là do:",
+    "answer": "Số lượng TP thanh toán phải là số nguyên"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Thời gian đáo hạn của trái phiếu càng dài, thời lượng của trái phiếu sẽ:",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100.000 VNĐ được phát hành thành công với giá mở bán là 102.000 VNĐ. Người mua đã sở hữu trái phiếu theo hình thức nào:",
+    "answer": "Phụ trội"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Tại thời điểm phát hành, một trái phiếu có lợi tức đáo hạn bằng lãi suất danh nghĩa nếu nó được phát hành:",
+    "answer": "Ngang giá"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Một trái phiếu kỳ hạn 20 năm, với lãi suất 9% được giao dịch ở mức giá hiện tại là 1346,722 (tỷ lệ hoàn vốn 6% khi đáo hạn). Nếu lãi suất tăng 0,2% (lên mức mức 6,20%), giá trái phiếu sẽ là 1318,439. Nếu lãi suất giảm 0,2%, giá trái phiếu sẽ tăng lên thành 1375,888. Thời lượng điều chỉnh của trái phiếu này bằng bao nhiêu ?",
+    "answer": "10,66"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Thời gian đáo hạn của trái phiếu càng ngắn, thời lượng của trái phiếu sẽ:",
+    "answer": "Nhỏ hơn"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Trái phiếu có coupon càng lớn càng:",
+    "answer": "Có thời lượng nhỏ"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100.000 VNĐ được phát hành thành công với giá mở bán là 100.000 VNĐ. Người mua đã sở hữu trái phiếu theo hình thức nào:",
+    "answer": "Ngang giá"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Tại thời điểm phát hành, một trái phiếu có lợi tức đáo hạn nhỏ hơn lãi suất danh nghĩa nếu nó được phát hành:",
+    "answer": "Phụ trội"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Tại thời điểm phát hành, một trái phiếu có lợi tức đáo hạn lớn hơn lãi suất danh nghĩa nếu nó được phát hành:",
+    "answer": "Chiết khấu"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Thời lượng giản đơn (thời lượng Macauley) cho chúng ta biết điều gì",
+    "answer": "Thời gian nắm giữ trái phiếu cần thiết để loại trừ rủi ro lãi suất"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Trái phiếu có thời gian đáo hạn càng ngắn thì giá trị hiện tại của nó càng:",
+    "answer": "Kém nhạy cảm với lãi suất"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Khi lãi suất chiết khấu càng nhỏ, thời lượng của trái phiếu sẽ:",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100 USD, kỳ hạn 5 năm, lãi suất coupon là 8% và được trả lãi một năm một lần. Nếu lãi suất chiết khấu là 7%, thời lượng của trái phiếu là:",
+    "answer": "4,327"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Thời lượng điều chỉnh (Modified Duration) cho biết điều gì:",
+    "answer": "Khi lãi suất thay đổi 1%, giá trị thị trường của trái phiếu thay đổi bao nhiêu %"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Những giao dịch mua đi bán lại trái phiếu được thực hiện ở trên thị trường nào:",
+    "answer": "Thị trường thứ cấp"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100.000 VNĐ được phát hành thành công với giá mở bán là 98000 VNĐ. Người mua đã sở hữu trái phiếu theo hình thức nào:",
+    "answer": "Chiết khấu"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Thời gian đáo hạn của trái phiếu càng dài, thời lượng của trái phiếu sẽ:",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Lãi suất danh nghĩa của trái phiếu là:",
+    "answer": "Mức lãi suất ghi trên tờ trái phiếu."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100.000 VNĐ được phát hành thành công với giá mở bán là 102.000 VNĐ. Người mua đã sở hữu trái phiếu theo hình thức nào:",
+    "answer": "Phụ trội"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Một trái phiếu có mệnh giá 100 USD, kỳ hạn 5 năm, lãi suất coupon là 8% và được trả lãi một năm một lần. Nếu lãi suất chiết khấu là 9%, thời lượng của trái phiếu là:",
+    "answer": "4,296"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Một trái phiếu kỳ hạn 20 năm, với lãi suất 9% được giao dịch ở mức giá hiện tại là 1346,722 (tỷ lệ hoàn vốn 6% khi đáo hạn). Nếu lãi suất tăng 0,2% (lên mức mức 6,20%), giá trái phiếu sẽ là 1318,439. Nếu lãi suất giảm 0,2%, giá trái phiếu sẽ tăng lên thành 1375,888. Thời lượng điều chỉnh của trái phiếu này bằng bao nhiêu ?",
+    "answer": "10,66"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Trái phiếu zero – coupon là trái phiếu:",
+    "answer": "Thanh toán cả gốc và lãi một lần khi đáo hạn"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Một trái phiếu có thời lượng D = 5,4 năm và đang được giao dịch trên thị trường với giá 104 USD. Nếu lãi suất chiết khấu giảm 1% xuống thành 8%, giá trị (ước tính) mới của trái phiếu sẽ bằng bao nhiêu ?",
+    "answer": "109,2"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Lợi tức đáo hạn của trái phiếu là",
+    "answer": "Mức lãi suất có được nếu nắm giữ đến thời điểm đáo hạn"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Một người có số tiền 900 triệu đồng, chia ra làm 3 phần 400 triệu, 200 triệu và 300 triệu. Ba số tiền này sẽ được gởi vào ba ngân hàng A, B, C trong 1 năm với các mức lãi suất tương ứng 7,2%/năm, 6,8%/năm, và 7%/năm. Biết rằng ngân hàng D đang phát hành chứng chỉ tiền gửi có mệnh giá 900 triệu đồng, kỳ hạn một năm với mức lãi suất 7,1%/năm, người đó có nên mua không? ( 1 năm có 365 ngày)",
+    "answer": "Nên mua chứng chỉ tiền gửi"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Một người gửi vào Ngân hàng một khoản tiền là 20.000.000 VND với lãi suất đơn là 8%/năm với mong muốn nhận được một khoản tiền là 25.000.000 VND trong tương lai. Hỏi ông ta phải mất bao nhiêu thời gian?",
+    "answer": "3,125 năm."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Trong công thức tính lãi đơn, độ dài thời gian có thể tính theo đơn vị nào?",
+    "answer": "Theo năm, tháng, ngày đều được"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Trong công thức tính lãi đơn với độ dài thời gian tính theo ngày thì số ngày tính lãi được tính dựa trên:",
+    "answer": "Số ngày thực tế của 1 năm dân sự."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Số tiền lãi phụ thuộc trực tiếp vào những nhân tố nào?",
+    "answer": "Số vốn, độ dài thời gian, lãi suất"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Vào ngày 01/01/N, khách hàng đem 200 triệu đồng đến ngân hàng gửi tiết kiệm với lãi suất 6,5%/năm. Xác định số tiền khách hàng có được nếu đến tất toán khoản tiền gửi tiết kiệm tại thời điểm ngày 01/01/N+5",
+    "answer": "265 triệu đồng"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Một nhà đầu tư có hai khoản vốn với tổng số tiền là 20 tỷ, đầu tư vào hai doanh nghiệp A và B với lãi suất lần lượt là t% và (t+1)%, biết rằng tiền lãi hàng năm của 2 khoản vốn lần lượt là 1,08 tỷ và 0,8 tỷ. Cho biết giá trị của hai khoản vốn trên.",
+    "answer": "12 tỷ và 8 tỷ."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Ngày 03/05/N khách hàng đến ngân hàng gửi một khoản tiết kiệm 100 triệu đồng, lãi suất tiền gửi hiện tại là 7,2%/năm. Khách hàng muốn nhận được số tiền cả gốc và lãi là 110 triệu đồng thì khách hàng phải gửi tiền trong bao lâu?",
+    "answer": "500 ngàỳ."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Trong hình thức trả nợ là trả lãi trước, lãi suất hiệu dụng như thế nào so với lãi suất danh nghĩa",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Rủi ro vỡ nợ của một khoản vay:",
+    "answer": "Luôn lớn hơn không"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Ba khoản vốn có quan hệ theo cấp số cộng được gửi vào ngân hàng trong 2 năm với lãi suất 11%, tổng số tiền lãi thu được là 1,386 tỷ. Giá trị của khoản vốn thứ ba nhiều hơn của khoản vốn thứ nhất là 2,4 tỷ. Hãy tính giá trị của 3 khoản vốn trên.",
+    "answer": "0,9 tỷ; 2,1 tỷ; 3,3 tỷ"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Trong hình thức trả lãi trước theo lãi đơn, người gửi tiết kiệm sẽ nhận được lãi suất hiệu dụng như thế nào so với lãi suất danh nghĩa?",
+    "answer": "Lớn hơn lãi suất danh nghĩa."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Xác định lãi suất trung bình của các khoản vốn sau đây:\nC = 10 triệu đồng, gửi từ ngày 12/4/N đến 15/8/N với lãi suất 6%/năm.\nC = 15 triệu đồng, gửi từ ngày 12/4/N đến 12/6/N với lãi suất 7%/năm.\nC = 20 triệu đồng, gửi từ ngày 12/4/N đến 17/9/N với lãi suất 8%/năm.",
+    "answer": "7,36%"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Ngày 03/05/N khách hàng đến ngân hàng gửi một khoản tiết kiệm 100 triệu đồng, Khách hàng nhận được số tiền cả gốc và lãi là 110 triệu đồng sau 500 ngày, hỏi lãi suất của khoản tiền gửi tiết kiệm này là bao nhiêu?",
+    "answer": "7,2%/năm"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Một người gửi tiết kiệm 100 triệu đồng thời hạn 1 năm, tiền lãi được trả trước với lãi suất quy định là 6,5%,năm. Tính lãi suất thực tế của khoản tiền gửi tiết kiệm đó?",
+    "answer": "6,95%/năm"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Ngân hàng X đồng ý cho ông A vay một khoản tiền với điều kiện trả nợ trong vòng 5 năm. Thay vì thu nợ một lần, ngân hàng quyết định thu 1000 triệu đồng vào cuối năm thứ 3 và 1500 triệu đồng vào cuối năm thứ 5. Biết lãi suất cho vay là 10%, hãy tính số tiền cho vay ban đầu",
+    "answer": "1682,69"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Chị An có 2 sổ tiết kiệm gửi lần lượt tại 2 ngân hàng với cùng kì hạn là 5 năm, và số tiền nhận được sau 5 năm là bằng nhau. Biết số tiền gửi ở ngân hàng 1 hơn số tiền gửi ở ngân hàng 2 là 90 triệu đồng. Lãi suất ở ngân hàng 1 thấp hơn lãi suất ngân hàng là 2%. Tổng số tiền chị Huyền đem gửi là 1910 triệu. Tính số tiền gửi ở mỗi ngân hàng và lãi suất của NH1 và NH2",
+    "answer": "1000,910, 6%,8%"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Ông A gửi vào ngân hàng 50 triệu trong 5 năm theo lãi gộp với điều kiện như sau: 2 năm đầu tiên : lãi suất là 7%. 2 năm tiếp theo: lãi suất là 8%. Năm cuối cùng: lãi suất là 9%. Ông A sẽ nhận được bao nhiêu tiền sau 5 năm ?",
+    "answer": "72,78 triệu"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Hình thức trả nợ nào thường được áp dụng trong các khoản vay dài hạn?",
+    "answer": "Trả theo niên kim cố định."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Một khoản vay kéo dài n năm, trả nợ mỗi năm một lần theo niên kim cố định, có lần trả nợ đầu tiên cách lúc vay đúng 1 năm sẽ tạo thành một chuỗi niên kim cố định:",
+    "answer": "cuối kì."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Lãi suất thực tế chiết khấu:",
+    "answer": "nhỏ hơn lãi suất giá thành chiết khấu."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Một người vay ngân hàng 500 triệu với lãi suất 12%/năm, trả trong 15 lần theo chuỗi niên kim cố định vào cuối mỗi năm thì hết nợ. Thời điểm trả khoản nợ đầu tiên cách lúc vay là 1 năm. Xác định số gốc phải trả lần 1 và dư nợ gốc sau lần trả đầu tiên.",
+    "answer": "13,41; 486,59"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Một thương phiếu mệnh giá 250.000.000 VND, kỳ hạn 45 ngày được thay thế bằng hai thương phiếu: Thương phiếu 1: mệnh giá 100.000.000 VND, kỳ hạn 30 ngày. Thương phiếu 2: kỳ hạn 55 ngày. Với lãi suất chiết khấu là 10,8%, hãy xác định mệnh giá của thương phiếu 2.",
+    "answer": "150"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Cơ sở để thực hiện việc thay thế thương phiếu là:",
+    "answer": "giá trị hiện tại thương mại."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Một người có một khoản tiền 200 triệu VND muốn đầu tư trong 10 năm. Có hai phương án đầu tư: một là gửi vào ngân hàng với lãi suất kép là i (%/năm). Hai là đầu tư vào một dự án có thể đem lại tỷ suất sinh lợi (lãi kép) trong 10 năm như sau: 2 năm đầu: 7%, trong 3 năm tiếp theo: 8%, trong 5 năm cuối: 9%. Hỏi lãi suất ngân hàng i là bao nhiêu để 2 phương án này là như nhau đối với người đó.",
+    "answer": "8,3%"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Một khoản vốn vay 1 tỷ, lãi suất 10%/năm, trả trong 15 năm với phương thức trả theo niên kim cố định, tính số lãi và số gốc phải thanh toán ở niên kim thứ nhất.",
+    "answer": "0,1 và 0,0315"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Khi so sánh với cổ phiếu, trái phiếu được coi là một sản phẩm:",
+    "answer": "ít rủi ro hơn."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Để tính lãi cho tài khoản vãng lai cùng lãi suất biết trước ngày tất toán của tài khoản, phương pháp nào là tối ưu nhất?",
+    "answer": "Phương pháp trực tiếp."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Một khoản vốn được chia làm 3 phần liên hệ với nhau theo cấp số cộng, phần thứ nhất có giá trị bằng 70% phần thứ ba. Người ta gửi 3 phần này theo lãi đơn ở các mức lãi suất t1, t2, t3 liên hệ với nhau theo cấp số nhân có tổng bằng 36,4%. Thu nhập hang năm của 2 khoản vốn đầu tiên lần lượt là 84 đvtt và 85 đvtt. Hãy tính giá trị các lãi suất tương ứng với các phần vốn của đề bài.",
+    "answer": "t1 = 14,4%, t2 = 12%, t3 = 10%"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Một người muốn có một số tiền là 100 triệu đồng trong tương lai. Người đó đã gửi vào ngân hàng những số tiền bằng nhau vào đầu mỗi năm, liên tiếp trong 5 năm. Lãi suất tiền gửi ở ngân hàng là 7,5%/năm. Xác định số tiền người đó phải gửi mỗi năm.",
+    "answer": "17,2"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Một chuỗi niên kim cố định cuối kì là một hình thức thanh toán nợ thông thường trong đó:",
+    "answer": "lãi trả vào đúng kì."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Ngày 1/3, doanh nghiệp đề nghị ngân hàng thay thế thương phiếu đáo hạn vào ngày 31/3 bằng một thương phiếu khác có mệnh giá 10.710 đáo hạn vào ngày 15/5 cùng năm. Lãi suất chiết khấu 10%. Hãy tính mệnh giá của thương phiếu thay thế.",
+    "answer": "10.846,72"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Xác định lãi suất trung bình của các khoản vốn sau đây: C = 10 triệu đồng, gửi từ ngày 31/8 đến 18/9 cùng năm với lãi suất 8%/năm. C = 15 triệu đồng, gửi từ ngày 31/8 đến 25/10 cùng năm với lãi suất 9%/năm. C = 20 triệu đồng, gửi từ ngày 31/8 đến 31/12 cùng năm với lãi suất 9,5%/năm.",
+    "answer": "9,3%"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Để tính lãi cho tài khoản vãng lai không cùng lãi suất, người ta dùng:",
+    "answer": "phương pháp rút số dư."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Ngày 8/3, một thương phiếu được chiết khấu tại ngân hàng với lãi suất 6%. Chênh lêch giữa tiền chiết khấu thương mại và tiền chiết khấu hợp lý bằng 1/100 tiền chiết khấu hợp lý. Hãy xác định thời điểm thanh toán của thương phiếu trên.",
+    "answer": "7/5"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Trong một khoản vay tính lãi theo lãi gộp, các khoản tiền lãi phát sinh định kì:",
+    "answer": "liên hệ với nhau theo cấp số nhân."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Trong điều kiện kinh tế phát triển ổn định, đường cong lãi suất thường có dạng:",
+    "answer": "đi lên (lãi suất ngắn hạn thấp hơn lãi suất dài hạn)."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Trong một khoản vay tính lãi theo lãi gộp, các khoản tiền lãi phát sinh định kì",
+    "answer": "liên hệ với nhau theo cấp số nhân."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Tài khoản vãng lai thông thường là tài khoản được tính lãi theo:",
+    "answer": "lãi đơn."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Một khoản vốn được chia làm 3 phần liên hệ với nhau theo cấp số cộng, phần thứ nhất có giá trị bằng 70% phần thứ ba. Người ta gửi 3 phần này theo lãi đơn ở các mức lãi suất t1, t2, t3 liên hệ với nhau theo cấp số nhân có tổng bằng 36,4%. Thu nhập hang năm của 2 khoản vốn đầu tiên lần lượt là 84 đvtt và 85 đvtt. Tính lãi suất trung bình của tập hợp các khoản vốn này.",
+    "answer": "11,87%"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Ngày 10/04, một doanh nghiệp đem chiết khấu một thương phiếu có mệnh giá 250 triệu đồng với tiền chiết khấu thương mại là 3 triệu đồng. Xác định lãi suất chiết khấu nếu ngày đáo hạn là 15/05.",
+    "answer": "9,6%"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Một người gửi tiền tất cả 10 lần, cách đều nhau 1 năm. Mỗi lần gửi a = 15 triệu, i = 9%/năm. Giả sử trong 3 năm cuối i’= 10%/năm. Tính V10?",
+    "answer": "233,34"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Một thương phiếu với mệnh giá 16.380 được chiết khấu theo lãi suất 8%. Nếu thương phiếu trên được chiết khấu theo phương pháp hợp lý thì số tiền chiết khấu hợp lý nhỏ hơn số tiền chiết khấu thương mại là 2. Hãy xác định thời điểm đáo hạn của thương phiếu trên biết rằng thương phiếu được chiết khấu vào ngày 18/10.",
+    "answer": "7/11"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Một người đầu tư một số tiền nhất định vào một cổ phiếu trong 2 năm. Năm đầu tiên, giá trị cổ phiếu tăng x%. Năm thứ 2 giá cổ phiếu giảm x%. Vậy sau 2 năm nhà đầu tư:",
+    "answer": "Bị lỗ"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Một công ty muốn có một số tiền tích luỹ là 1 tỷ đồng. Mỗi năm, công ty có thể tích luỹ 100 triệu đồng. Nếu gửi số tiền đó vào ngân hàng vào đầu mỗi năm với lãi suất là 9%/năm thì sau bao lâu, công ty đạt được số vốn mong muốn.",
+    "answer": "7"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Một tài khoản vãng lai không cùng lãi suất và không cố định có đặc điểm:",
+    "answer": "lãi suất bên nợ khác lãi suất bên có, lãi suất bên nợ và bên có thay đổi trong thời gian tồn tại của tài khoản."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Một người đầu tư một số tiền ban đầu là 50 triệu đồng và muốn đạt giá trị tích luỹ là 70 triệu đồng sau 5 năm. Hỏi tỷ suất sinh lời (lãi suất kép %/nãm) mà người đó đạt được là bao nhiêu?",
+    "answer": "6,73%"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Một công ty có 4 món nợ thương phiếu sau đây: 40.000 trả sau 2 năm; 10.000 trả sau 3 năm 3 tháng; 25.500 trả sau 1 năm 6 tháng; 50.000 trả sau 5 năm; Công ty đề nghị được trả các món nợ trên bằng một thương phiếu duy nhất với thời hạn 2 năm 9 tháng. Hãy xác định mệnh giá của thương phiếu thay thế biết rằng lãi suất chiết khấu là 8,5%/năm.",
+    "answer": "122.793"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Lãi đơn là hình thức tính lãi được áp dụng phổ biến trong các nghiệp vụ tài chính:",
+    "answer": "nhỏ hơn hoặc bằng 1 năm."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Nếu một trái phiếu được bán với giá thấp hơn mệnh giá thì:",
+    "answer": "lãi suất hiện hành của trái phiếu lớn hơn lãi suất danh nghĩa của trái phiếu."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Một công ty cổ phần phát hành 8.000 trái phiếu với mệnh giá mỗi trái phiếu là 100. Nợ trái phiếu được thanh toán theo mệnh giá theo CNKCĐ vào cuối mỗi năm trong 4 năm. Lãi suất trái phiếu là6%/năm. Mỗi trái phiếu được bán với giá 98. Xác định lãi suất giá thành phát hành trái phiếu biết rằng chi phí phát hành mỗi trái phiếu là 2,5.",
+    "answer": "8.04%"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Khi dự báo là tăng trưởng kinh tế sẽ giảm đi, đường cong lãi suất có dạng:",
+    "answer": "đi xuống ( lãi suất ngắn hạn cao hơn lãi suất dài hạn)."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Ba khoản vốn có quan hệ theo cấp số nhân giảm dần được gửi vào ngân hàng với lãi suất 9%; thời gian gửi lần lượt là 3 tháng, 6 tháng và 8 tháng. Tổng số tiền lãi thu được là 969 triệu; chênh lệch về giá trị giữa khoản vốn thứ nhất và khoản vốn thứ ba là 3.600 triệu. Hãy tính giá trị của mỗi khoản vốn.",
+    "answer": "10.000, 8.000, 6.400"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Một người vay ngân hàng 500 triệu với lãi suất 12%/năm, trả trong 15 lần theo chuỗi niên kim cố định vào cuối mỗi năm thì hết nợ. Thời điểm trả khoản nợ đầu tiên cách lúc vay là 1 năm. Xác định số gốc phải trả lần 1 và dư nợ gốc sau lần trả đầu tiên.",
+    "answer": "13,41; 486,59"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Một khoản vốn vay 1 tỷ, lãi suất 10%/năm, trả trong 15 năm với phương thức trả theo niên kim cố định, tính tổng số nợ gốc đã thanh toán sau khi thực hiện xong niên kim thứ 10.",
+    "answer": "0,502"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Theo phương thức trả nợ theo niên kim cố định:",
+    "answer": "vốn gốc phải trả trong kỳ tăng dần, dư nợ đầu kì giảm dần."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Một người vay ngân hàng một số tiền với lãi suất 7,5%/năm và thực hiện trả nợ theo chuỗi niên kim cố định vào cuối mỗi năm. Khoản trả đầu tiên cách thời điểm nhận tiền vay là 1 năm. Sau khoản trả thứ 8 người này trả được 2/3 số vốn vay ban đầu. Biết rằng số nợ gốc đã trả ở lần thứ nhất là 500.000. Người này đã vay ngân hàng bao nhiêu tiền?",
+    "answer": "7.834.778,256"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Để tính lãi cho tài khoản vãng lai không cùng lãi suất, người ta dùng:",
+    "answer": "phương pháp rút số dư."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Ngày 8/6/2012, ngân hàng cho vay số tiền là 7.200 đvtt với lãi suất 8%/năm. Sau một thời gian khách hàng thanh toán nợ là 7288 đvtt. Hãy xác định thời điểm khách hàng thanh toán số tiền trên",
+    "answer": "55 ngày."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Một người vay ngân hàng 300 triệu với lãi suất 13%/năm. Thời hạn vay là 15 năm. Trả nợ theo chuỗi niên kim cố định. Sau khi trả được 10 lần, người này đề nghị kéo dài thời gian trả nợ thêm 9 lần nữa và vẫn trả theo chuỗi niên kim cố định vào cuối mỗi năm. Hãy xác định số tiền trả nợ mỗi lần.",
+    "answer": "46,42 và 31,83"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Một chuỗi tiền tệ phát sinh vào đầu kỳ gồm 15 kỳ, kỳ khoản đầu tiên là 75 triệu đồng và kỳ khoản sau tăng 15% so với kỳ khoản trước, lãi suất là 8%/kỳ. Xác định hiện giá của chuỗi tiền tệ trên.",
+    "answer": "1.676,94"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Phương pháp tính lãi nào mà số ngày tính lãi của mỗi nghiệp vụ được tính từ ngày có giá trị tính lãi của nghiệp vụ đó đến ngày tất toán tài khoản?",
+    "answer": "Phương pháp trực tiếp."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Hình thức phát hành trái phiếu mà giá phát hành bằng mệnh giá, được gọi là:",
+    "answer": "chiết khấu."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Một doanh nghiệp vay ngân hàng một số tiền với lãi suất là 10%/năm, trả trong 5 năm bằng 5 khoản tiền bằng nhau là 50 triệu đồng vào cuối mỗi năm. Xác định số tiền mà doanh nghiệp đã vay.",
+    "answer": "189,54"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Ngân hàng đang có chương trình khuyến mại dành cho khách hàng gửi tiền, nếu khoản tiền gửi có giá trị 500 triệu đồng và được gửi trong 100 ngày, lãi suất 7,2%/năm thì tại thời điểm gửi sẽ được tặng 2 triệu đồng. Tính lãi suất thực mà khách hàng được hưởng?",
+    "answer": "7,38%/năm"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Trong hình thức trả nợ là trả lãi trước, lãi suất hiệu dụng như thế nào so với lãi suất danh nghĩa",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Để tính lãi cho tài khoản vãng lai cùng lãi suất biết trước ngày tất toán của tài khoản, phương pháp nào là tối ưu nhất?",
+    "answer": "Phương pháp trực tiếp."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Một doanh nghiệp vào ngày 30/6 hàng năm lại đến ngân hàng gửi tiền tiết kiệm hưởng lãi gộp với số tiền cố định là 30 triệu. Khoản gửi đầu tiên vào ngày 30/6/1970, khoản cuối cùng vào ngày 30/6/1978. Lãi suất tiền gửi là 9%/năm. Hãy tính số tiền doanh nghiệp có được vào ngày 30/6/1981.",
+    "answer": "505,87"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Một khoản tiền vay 100 triệu đồng được thanh toán theo phương thức sau: trả vào cuối mỗi quý một số tiền bằng nhau trong 3 năm với lãi suất danh nghĩa i(4) = 10,8%. Xác định số tiền phải trả vào cuối mỗi quý.",
+    "answer": "805,49"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Số tiền chiết khấu thương mại của một thương phiếu nhiều hơn số tiền chiết khấu hợp lý của thương phiếu đó là 20. Lãi suất của thương phiếu là 6%, thời hạn của thương phiếu là 100 ngày. Tính mệnh giá của thương phiếu đó?",
+    "answer": "73200 đvtt"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Một người vay ngân hàng một số tiền với lãi suất 7,5%/năm và thực hiện trả nợ theo chuỗi niên kim cố định vào cuối mỗi năm. Khoản trả đầu tiên cách thời điểm nhận tiền vay là 1 năm. Sau khoản trả thứ 8 người này trả được 2/3 số vốn vay ban đầu. Biết rằng số nợ gốc đã trả ở lần thứ nhất là 500.000. Tính số dư nợ gốc sau lần trả thứ 10.",
+    "answer": "622.457,6397"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Vào ngày 2/11, một khoản tiền được chuyển vào tài khoản vãng lai của ông\nX. Nếu ngày có giá trị tính lãi bằng 2, ngày đầu tiên khoản tiền này được tính lãi là ngày:",
+    "answer": "4/11"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Một khách hàng đang phân vân giữa các sản phẩm tiết kiệm sau đây của ngân hàng BIDV: Sản phẩm 1: 7,7%/năm, gộp lãi hàng quý. Sản phẩm 2: 7,6%/năm, gộp lãi hàng tháng. Sản phẩm 3: 6,5%/năm, trả lãi trước Khách hàng nên chọn sản phẩm nào ?",
+    "answer": "Sản phẩm 2"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Hoa hồng quản lý tài khoản được tính trên:",
+    "answer": "tổng số phát sinh Nợ."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Ba khoản vốn có quan hệ theo cấp số cộng được gửi vào ngân hàng trong 2 năm với lãi suất 11%, tổng số tiền lãi thu được là 1,386 tỷ. Giá trị của khoản vốn thứ ba nhiều hơn của khoản vốn thứ nhất là 2,4 tỷ. Hãy tính giá trị của 3 khoản vốn trên.",
+    "answer": "0,9 tỷ; 2,1 tỷ; 3,3 tỷ"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Trái phiếu có thời hạn càng dài thì càng",
+    "answer": "nhạy cảm với lãi suất."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "So sánh chiết khấu thương mại và chiết khấu hợp lý theo lãi đơn.",
+    "answer": "Ec > Er"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Có 3 thương phiếu được chiết khấu tại ngân hàng với mệnh giá tỷ lệ với các số 2,5,9  và tổng mệnh giá của chúng là 5.120. Kỳ hạn thanh toán của 3 thương phiếu lần lượt là 30, 45 và 60 ngày. Ba thương phiếu được chiết khấu theo cùng lãi suất 1%/năm. Hoa hồng ký hậu (tỷ lệ thuận với thời gian) cho mỗi thương phiếu là 0,6%; hoa hồng cố định tính trên mỗi thương phiếu (không phụ thuộc vào thời hạn) là 1%, riêng thương phiếu thứ nhất phải chịu thêm phụ phí là 0,25% (không phụ thuộc vào thời hạn). Hãy tính lãi suất chiết khấu biết rằng tổng giá trị ròng của 3 thương phiếu là 5.042,88",
+    "answer": "2,72%"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Có 3 thương phiếu được chiết khấu tại ngân hàng với mệnh giá tỷ lệ với các số 2,5,9  và tổng mệnh giá của chúng là 5.120. Kỳ hạn thanh toán của 3 thương phiếu lần lượt là 30, 45 và 60 ngày. Ba thương phiếu được chiết khấu theo cùng lãi suất 1%/năm. Hoa hồng ký hậu (tỷ lệ thuận với thời gian) cho mỗi thương phiếu là 0,6%; hoa hồng cố định tính trên mỗi thương phiếu (không phụ thuộc vào thời hạn) là 1%, riêng thương phiếu thứ nhất phải chịu thêm phụ phí là 0,25% (không phụ thuộc vào thời hạn). Hãy tính lãi suất chiết khấu biết rằng tổng giá trị ròng của 3 thương phiếu là 5.042,88",
+    "answer": "đi xuống ( lãi suất ngắn hạn cao hơn lãi suất dài hạn)."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Hình thức thu nợ nào sau đây không thích hợp với các khoản vay dài hạn",
+    "answer": "Trả sau"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Một khoản vốn vay 1 tỷ, lãi suất 10%/năm, trả trong 15 năm với phương thức trả theo niên kim cố định, tính số dư nợ gốc sau khi thực hiện xong niên kim thứ 13.",
+    "answer": "0,327"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Có 2 thương phiếu lần lượt như sau: thương phiếu thứ nhất có mệnh giá 19,87 triệu và đáo hạn vào ngày 31/10; thương phiếu thứ hai có mệnh giá 19,77 triệu và đáo hạn vào ngày 20/11 cùng năm. Lãi suất chiết khấu 9%/năm. Hãy xác định thời điểm tương đương của 2 thương phiếu trên.",
+    "answer": "Không có thời điểm tương đương"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Trong một khoản vay tính lãi theo lãi gộp, các khoản tiền lãi phát sinh định kì:",
+    "answer": "tăng dần theo thời gian."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Rủi ro vỡ nợ của một khoản vay:",
+    "answer": "Luôn lớn hơn không"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Một chuỗi tiền tệ phát sinh vào đầu kỳ gồm 15 kỳ, kỳ khoản đầu tiên là 75 triệu đồng và kỳ khoản sau tăng 15% so với kỳ khoản trước, lãi suất là 8%/kỳ. Xác định giá trị tương lai của chuỗi tiền tệ trên.",
+    "answer": "5.319,53"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Xác định khoản vay biết khoản tiền đó được trả bằng 10 niên kim, mỗi niên kim 2 triệu đồng và cứ 6 tháng trả một lần. Niên kim thứ nhất thực hiện sau 6 tháng, lãi suất 8%/năm.",
+    "answer": "16,28"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Ba khoản vốn có quan hệ theo cấp số nhân giảm dần được gửi vào ngân hàng với lãi suất 9%; thời gian gửi lần lượt là 3 tháng, 6 tháng và 8 tháng. Tổng số tiền lãi thu được là 969 triệu; chênh lệch về giá trị giữa khoản vốn thứ nhất và khoản vốn thứ ba là 3.600 triệu. Hãy tính giá trị của mỗi khoản vốn.",
+    "answer": "10.000, 8.000, 6.400"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Một khoản vốn được chia làm 2 phần bằng nhau, một phần đem gửi tiết kiệm và 1 phần đầu tư vào cổ phiếu. Sau năm đầu tiên, lãi của tiền gửi tiết kiệm bằng đúng khoản lỗ của cổ phiếu và nhà đầu tư không có lãi. Sang năm thứ hai, tiền lãi từ tiết kiệm chỉ bằng một nửa tiền lãi của cổ phiếu.\nBiết lãi suất tiết kiệm là 5%, lợi nhuận của năm thứ 2 là bao nhiêu",
+    "answer": "11%"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Trái phiếu do tổ chức nào sau đây phát hành có độ tín nhiệm cao nhất? (rủi ro thấp nhất)",
+    "answer": "Trái phiếu Chính phủ."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Để tính lãi cho tài khoản vãng lai cùng lãi suất không biết trước ngày tất toán của tài khoản, phương pháp nào là tối ưu nhất?",
+    "answer": "Phương pháp gián tiếp."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Hãy xác định thời điểm đáo hạn của thương phiếu có mệnh giá 75.150 biết rằng nếu ngày 30/4 thương phiếu đó được đem chiết khấu theo phương pháp thương mại với lãi suất 3% thì sẽ có được một khoản chênh lệch về tiền chiết khấu là 0,3 so với chiết khấu theo phương pháp hợp lý.",
+    "answer": "24/5"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Một người gửi vào ngân hàng một khoản tiền theo lãi kép với lãi suất 5,8%/năm. Sau 3 năm 10 tháng thu được 50 triệu đồng. Tính giá trị của số tiền gửi ban đầu.",
+    "answer": "40,27"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Một doanh nghiệp vay một khoản tiền trong vòng 10 năm. Vào đầu mỗi năm, doanh nghiệp phải trả những số tiền bằng nhau là 200 triệu đồng. Tổng số tiền mà doanh nghiệp phải trả là 3,33 tỷ. Tính lãi suất vay vốn mà doanh nghiệp phải chịu.",
+    "answer": "9,09"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Vào ngày 2/11, một khoản tiền được chuyển vào tài khoản vãng lai của ông X. Nếu ngày có giá trị tính lãi bằng 2, ngày đầu tiên khoản tiên này được tính lãi là ngày:",
+    "answer": "4/11"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Một người đều đặn hàng năm gửi vào ngân hàng một số tiền nhất định. Số tiền gửi năm đầu là 50 triệu đồng, những năm tiếp theo, số tiền gửi năm sau kém năm trước là 5 triệu đồng. Đây là một chuỗi niên kim:",
+    "answer": "biến đổi theo cấp số cộng"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Cho vay trong thời gian dài thường có lãi suất cao hơn cho vay trong thời gian ngắn vì lý do nào sau đây:",
+    "answer": "Cấu trúc kỳ hạn của lãi suất"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Một khoản vốn vay 1 tỷ, lãi suất 10%/năm, trả trong 15 năm với phương thức trả theo niên kim cố định, tính số lãi và số gốc phải thanh toán ở niên kim thứ nhất.",
+    "answer": "0,1 và 0,0315"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Lãi suất trung bình của một tập hợp các khoản vay:",
+    "answer": "Lớn hơn mức lãi suất nhỏ nhất và nhỏ hơn mức lãi suất lớn nhất."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Một khách hàng đến ngân hàng gửi tiền hưởng lãi gộp với số tiền gửi mỗi lần bằng nhau là 100 triệu, gửi tất cả 5 (lần) trong vòng 5 năm, lãi suất tiền gửi là 6 (%/năm). Hỏi ngay sau lần gửi tiền cuối cùng thì khách hàng có bao nhiêu tiền trong ngân hàng?",
+    "answer": "563,71"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trong chuỗi niên kim cố định, khoản tiền thanh toán định kì phải thỏa mãn điều kiện nào?",
+    "answer": "a > V0.i"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Một người đều đặn hàng năm đều gửi tiền vào ngân hàng với số tiền năm sau lớn hơn số tiền năm trước 1 triệu đồng. Số tiền ở lần gửi tiền thứ nhất là 20 triệu đồng, vậy số tiền ở lần gửi tiền thứ năm bằng bao nhiêu ?",
+    "answer": "24 triệu"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Ngày 1/3, doanh nghiệp đề nghị ngân hàng thay thế thương phiếu đáo hạn vào ngày 31/3 bằng một thương phiếu khác có mệnh giá 10.710 đáo hạn vào ngày 15/5 cùng năm. Lãi suất chiết khấu 10%. Hãy tính mệnh giá của thương phiếu thay thế.",
+    "answer": "10.846,72"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Một người vay ngân hàng 500 triệu với lãi suất 12%/năm, trả trong 15 lần theo chuỗi niên kim cố định vào cuối mỗi năm thì hết nợ. Thời điểm trả khoản nợ đầu tiên cách lúc vay là 1 năm. Sau bao nhiêu năm thì người này trả được 1/3 số nợ gốc ban đầu?",
+    "answer": "8 năm"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Xác định giá trị khoản vay biết khoản tiền đó được trả bằng 10 niên kim, mỗi niên kim 2 triệu đồng và cứ 6 tháng trả một lần. Niên kim thứ nhất thực hiện sau 6 tháng, lãi suất 8%/năm.",
+    "answer": "16,22"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Ngày 03/05/N khách hàng đến ngân hàng gửi một khoản tiết kiệm 100 triệu đồng, lãi suất tiền gửi hiện tại là 7,2%/năm. Khách hàng muốn nhận được số tiền cả gốc và lãi là 110 triệu đồng thì khách hàng phải gửi tiền trong bao lâu?",
+    "answer": "500 ngàỳ."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Nguyên tắc của thanh toán một khoản nợ thông thường là:",
+    "answer": "trả lãi trước, trả gốc sau."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Một công ty cổ phần phát hành 500.000 trái phiếu với mệnh giá là 600, lãi suất 11%/năm, thời hạn sử dụng vốn là 20 năm. Trái phiếu được thanh toán theo mệnh giá theo CNKCĐ vào cuối mỗi năm. Nếu mỗi trái phiếu được bán với giá 594 thì lãi suất đầu tư trái phiếu trung bình là bao nhiêu?",
+    "answer": "11,15%"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Phương pháp tính lãi nào mà số ngày tính lãi của mỗi nghiệp vụ được tính từ ngày mở tài khoản đến ngày có giá trị tính lãi của nghiệp vụ đó?",
+    "answer": "Phương pháp gián tiếp."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Một chuỗi niên kim gồm 20 niên kim được thực hiện đều đặn hàng năm, có đặc điểm là tổng của số hạng đầu và số hạng cuối bằng tổng của số hạng đứng ngay sau số hạng đầu và số hạng đứng trước số hạng cuối, và cứ ghép đôi như thế ta sẽ có các tổng bằng nhau. Đây là một chuỗi niên kim:",
+    "answer": "biến đổi theo cấp số cộng."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Phương pháp tính lãi nào phải rút số dư sau mỗi nghiệp vụ phát sinh và ghi vào cột số dư tương ứng với tính chất của số dư đó?",
+    "answer": "Phương pháp rút số dư."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Một khoản tiền được gửi vào ngân hàng trong 180 ngày, lãi suất 10%/năm. Người ta nhận thấy rằng khoản tiền đó với những điều kiện như trên nếu được gửi theo năm 360 ngày và theo năm 365 ngày thì giữa hai cách gửi này có sự chênh lệch về tiền lãi là 2,5 triệu đồng. Hãy tính giá trị của khoản tiền trên.",
+    "answer": "3.650"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Một khoản tiền được gửi vào ngân hàng trong 180 ngày, lãi suất 10%/năm. Người ta nhận thấy rằng khoản tiền đó với những điều kiện như trên nếu được gửi theo năm 360 ngày và theo năm 365 ngày thì giữa hai cách gửi này có sự chênh lệch về tiền lãi là 2,5 triệu đồng. Hãy tính giá trị của khoản tiền trên.",
+    "answer": "0,502"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Hình thức trả nợ nào không được áp dụng trong các khoản vay dài hạn?",
+    "answer": "Trả lãi trước."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Vào ngày 1/2, khách hàng đem thương phiếu có mệnh giá C, đáo hạn vào ngày 27/7 cùng năm đến ngân hàng xin chiết khấu với lãi suất thực tế chiết khấu là 8%. Hãy tính lãi suất giá thành chiết khấu.",
+    "answer": "8,325%"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Trong hình thức trả lãi trước theo lãi đơn, lãi suất thực tế của khoản vay:",
+    "answer": "lớn hơn lãi suất danh nghĩa."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Trong những tài khoản sau đây, tài khoản nào là tài khoản vãng lai?",
+    "answer": "Tài khoản thanh toán."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Ngày 03/05/N khách hàng đến ngân hàng gửi một khoản tiết kiệm 100 triệu đồng, Khách hàng nhận được số tiền cả gốc và lãi là 110 triệu đồng sau 500 ngày, hỏi lãi suất của khoản tiền gửi tiết kiệm này là bao nhiêu?",
+    "answer": "7,2%/năm"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Hình thức trả nợ nào không được áp dụng trong các khoản vay dài hạn?",
+    "answer": "Trả lãi trước."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Một người có một khoản tiền 200 triệu VND muốn đầu tư trong 10 năm. Có hai phương án đầu tư: một là gửi vào ngân hàng với lãi suất kép là i (%/năm). Hai là đầu tư vào một dự án có thể đem lại tỷ suất sinh lợi (lãi kép) trong 10 năm như sau: 2 năm đầu: 7%, trong 3 năm tiếp theo: 8%, trong 5 năm cuối: 9%. Hỏi lãi suất ngân hàng i là bao nhiêu để 2 phương án này là như nhau đối với người đó.",
+    "answer": "8,3%"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Trả trước và trả sau là hình thức thu nợ phù hợp với khoản vay",
+    "answer": "Ngắn hạn"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Bạn gửi 1 sổ tiết kiệm kì hạn 1 tháng nhưng 1 năm sau mới đến tất toán. Số tiền nhận được được tính lãi theo:",
+    "answer": "lãi gộp."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Vào ngày 01/01/N, khách hàng đem 200 triệu đồng đến ngân hàng gửi tiết kiệm với lãi suất 6,5%/năm. Xác định số tiền khách hàng có được nếu đến tất toán khoản tiền gửi tiết kiệm tại thời điểm ngày 01/01/N+5",
+    "answer": "265 triệu đồng"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Một chuỗi tiền tệ phát sinh cuối kỳ gồm 10 kỳ khoản, kỳ khoản đầu tiên là 100 triệu đồng và kỳ khoản sau nhiều hơn kỳ khoản trước 20 triệu đồng, lãi suất là 8,5%/kỳ. Xác định giá trị tương lai của chuỗi tiền tệ trên.",
+    "answer": "2.621,18"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Một thương phiếu có mệnh giá là 5000 đvtt. Tính giá trị hiện tại hợp lý của thương phiếu biết giá trị hiện tại thương mại của nó bằng 4750 đvtt",
+    "answer": "4761,9 đvtt"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Một người gửi tiền tất cả 10 lần, cách đều nhau 1 năm. Mỗi lần gửi a = 15 triệu, i = 9%/năm giả sử trong 3 lần gửi cuối, mỗi lần gửi 12 triệu. Tính V10?",
+    "answer": "128,06"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Một người gửi tiền tất cả 10 lần, cách đều nhau 1 năm. Mỗi lần gửi a = 15 triệu, i = 9%/năm.15 năm sau lần gửi đầu, người đó rút tiền, hỏi số tiền rút ra là bao nhiêu?",
+    "answer": "350,64"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Nợ trái phiếu là một khoản nợ:",
+    "answer": "có 1 người đi vay và nhiều người cho vay."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Để tính lãi cho tài khoản vãng lai cùng lãi suất biết trước ngày tất toán của tài khoản, phương pháp nào là tối ưu nhất?",
+    "answer": "Phương pháp trực tiếp."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Một người vay ngân hàng một số tiền với lãi suất 7,5%/năm và thực hiện trả nợ theo chuỗi niên kim cố định vào cuối mỗi năm. Khoản trả đầu tiên cách thời điểm nhận tiền vay là 1 năm. Sau khoản trả thứ 8 người này trả được 2/3 số vốn vay ban đầu. Biết rằng số nợ gốc đã trả ở lần thứ nhất là 500.000. Tính số tiền trả nợ mỗi lần.",
+    "answer": "1.087.608,369"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Một người gửi tiết kiệm 100 triệu đồng thời hạn 1 năm, tiền lãi được trả trước với lãi suất quy định là 6,5%,năm. Tính lãi suất thực tế của khoản tiền gửi tiết kiệm đó?",
+    "answer": "6,95%/năm"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Một người muốn có một số tiền là 100 triệu đồng trong tương lai. Người đó đã gửi vào ngân hàng những số tiền bằng nhau vào đầu mỗi năm, liên tiếp trong 5 năm. Lãi suất tiền gửi ở ngân hàng là 7,5%/năm. Xác định số tiền người đó phải gửi mỗi năm.",
+    "answer": "17,2"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Một chuỗi tiền tệ phát sinh cuối kỳ gồm 10 niên kim, niên kim đầu tiên là 100 triệu đồng và kỳ khoản sau nhiều hơn kỳ khoản trước 20 triệu đồng, lãi suất là 8,5%/kỳ. Xác định hiện giá.",
+    "answer": "1.159,31"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Ông A đầu tư một khoản tiền ban đầu là 10 triệu đồng. Trong 3 năm đầu tiên, khoản đầu tư này mang lại cho ông một lãi suất kép là 5,5%/năm. Cuối năm thứ 3, ông A lại tái đầu tư toàn bộ giá trị tích luỹ đạt được trong vòng 5 năm, mỗi năm đạt lãi suất kép là 6%. Hỏi giá trị tích lũy ông A có được vào cuối năm thứ 8 là bao nhiêu?",
+    "answer": "15,71"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Xác định lãi suất trung bình của các khoản vốn sau đây:\nC = 10 triệu đồng, gửi từ ngày 12/4/N đến 15/8/N với lãi suất 6%/năm.\nC = 15 triệu đồng, gửi từ ngày 12/4/N đến 12/6/N với lãi suất 7%/năm.\nC = 20 triệu đồng, gửi từ ngày 12/4/N đến 17/9/N với lãi suất 8%/năm.",
+    "answer": "7,36%"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Ngày 18/3/N, ngân hàng cho vay số tiền là 100 triệu đồng với lãi suất 8%/năm. Sau một thời gian khách hàng thanh toán nợ là 102 triệu đông. Hãy xác định thời điểm khách hàng thanh toán số tiền trên.",
+    "answer": "16/06/N"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Trong công thức tính lãi đơn, số ngày tính lãi được tính dựa trên:",
+    "answer": "số ngày thực tế của 1 năm dân sự."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Các khoản tiền gốc được thanh toán định kì trong trả nợ theo niên kim cố định liên hệ với nhau theo quy luật nào?",
+    "answer": "Gốc kì sau lớn hơn kì trước, liên hệ với nhau theo cấp số nhân."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Ba khoản vốn có quan hệ theo cấp số cộng được gửi vào ngân hàng trong 2 năm với lãi suất 11%, tổng số tiền lãi thu được là 1,386 tỷ. Giá trị của khoản vốn thứ ba nhiều hơn của khoản vốn thứ nhất là 2,4 tỷ. Hãy tính giá trị của 3 khoản vốn trên.",
+    "answer": "0,9 tỷ; 2,1 tỷ; 3,3 tỷ"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Một người vay ngân hàng một số tiền với lãi suất 7,5%/năm và thực hiện trả nợ theo chuỗi niên kim cố định vào cuối mỗi năm. Khoản trả đầu tiên cách thời điểm nhận tiền vay là 1 năm. Sau khoản trả thứ 8 người này trả được 2/3 số vốn vay ban đầu. Biết rằng số nợ gốc đã trả ở lần thứ nhất là 500.000. Tính số dư nợ gốc sau lần trả thứ 10.",
+    "answer": "622.457,6397"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Hình thức trả nợ nào thường được áp dụng trong các khoản vay dài hạn?",
+    "answer": "Trả theo niên kim cố định."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Một người vay ngân hàng 300 triệu với lãi suất 13%/năm. Thời hạn vay là 15 năm. Trả nợ theo chuỗi niên kim cố định. Sau khi trả được 10 lần, người này đề nghị kéo dài thời gian trả nợ thêm 9 lần nữa và vẫn trả theo chuỗi niên kim cố định vào cuối mỗi năm. Hãy xác định số tiền trả nợ mỗi lần.",
+    "answer": "46,42 và 31,83"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Một người vay ngân hàng 300 triệu với lãi suất 13%/năm. Thời hạn vay là 15 năm. Trả nợ theo chuỗi niên kim cố định. Sau khi trả được 10 lần, người này đề nghị kéo dài thời gian trả nợ thêm 9 lần nữa và vẫn trả theo chuỗi niên kim cố định vào cuối mỗi năm. Hãy xác định số tiền trả nợ mỗi lần.",
+    "answer": "Nên mua chứng chỉ tiền gửi"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Theo phương thức trả nợ theo niên kim cố định:",
+    "answer": "vốn gốc phải trả trong kỳ tăng dần, dư nợ đầu kì giảm dần."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Trong thanh toán nợ trái phiếu, số nợ gốc thanh toán cuối mỗi kỳ:",
+    "answer": "liên hệ với nhau theo cấp số nhân."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Ông A gửi vào ngân hàng một số tiền với muốn nhận được số tiền là 70 triệu đồng sau 5 năm theo lãi gộp với điều kiện như sau: 2 năm đầu tiên : lãi suất kép là 7%. 2 năm tiếp theo: lãi suất kép là 8%. Năm cuối cùng: lãi suất kép là 9%. Ông A phải gửi vào ngân hàng số tiền ban đầu là bao nhiêu là bao nhiêu?",
+    "answer": "48,09"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Một người gửi vào Ngân hàng một khoản tiền là 20.000.000 VND với lãi suất đơn là 8%/năm với mong muốn nhận được một khoản tiền là 25.000.000 VND trong tương lai. Hỏi ông ta phải mất bao nhiêu thời gian?",
+    "answer": "3,125 năm."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Một khoản vay kéo dài n năm, trả nợ mỗi năm một lần theo niên kim cố định, có lần trả nợ đầu tiên vào ngay thời điểm cho vay sẽ tạo thành một chuỗi niên kim cố định:",
+    "answer": "đầu kì."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Để tính lãi cho tài khoản vãng lai cùng lãi suất không biết trước ngày tất toán của tài khoản, phương pháp nào là tối ưu nhất?",
+    "answer": "Phương pháp gián tiếp."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Ngày có giá trị tính lãi là:",
+    "answer": "thời điểm từ đó mỗi khoản nghiệp vụ phát sinh được bắt đầu tính lãi."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Một người gửi tiền tất cả 10 lần, cách đều nhau 1 năm. Mỗi lần gửi a = 15 triệu, i = 9%/năm. 5 năm sau lần gửi cuối, người đó rút tiền, hỏi số tiền rút ra là bao nhiêu?",
+    "answer": "350,64"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Một chuỗi niên kim biến đổi theo cấp số cộng là một hình thức thanh toán nợ thông thường theo quy luật:",
+    "answer": "trả lãi trước, trả gốc sau."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Ngày 31/8, doanh nghiệp đề nghị với ngân hàng thay thế 3 thương phiếu bằng 1 thương phiếu đáo hạn vào ngày 30/9. Biết lãi suất chiết khấu là 9%/năm. Hãy xác định mệnh giá của thương phiếu thay thế. Biết 3 thương phiếu bị thay thế lần lượt là: C1 = 2.000 và đáo hạn vào ngày 15/9 C2 = 1.200 và đáo hạn vào ngày 20/9 C3 = 800 và đáo hạn vào ngày 9/11.",
+    "answer": "4.002,52"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Một người đều đặn hàng năm gửi vào ngân hàng một số tiền nhất định. Số tiền gửi năm đầu là 50 triệu đồng, những năm tiếp theo, số tiền gửi năm sau kém năm trước là 5 triệu đồng. Đây là một chuỗi niên kim:",
+    "answer": "biến đổi theo cấp số cộng"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Đối với tài khoản vãng lai không cùng lãi suất, việc áp dụng 3 phương pháp tính lãi khác nhau sẽ cho ra các kết quả:",
+    "answer": "giống nhau ở số dư, khác nhau ở số lãi."
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Hình thức phát hành trái phiếu mà giá phát hành cao hơn mệnh giá, được gọi là:",
+    "answer": "phụ trội."
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Một nhà đầu tư có hai khoản vốn với tổng số tiền là 20 tỷ, đầu tư vào hai doanh nghiệp A và B với lãi suất lần lượt là t% và (t+1)%, biết rằng tiền lãi hàng năm của 2 khoản vốn lần lượt là 1,08 tỷ và 0,8 tỷ. cho biết giá trị của hai khoản vốn trên. Cho biết hai lãi suất tương ứng.",
+    "answer": "9% và 10%"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Trong những tài khoản sau đây, tài khoản nào là tài khoản vãng lai?",
+    "answer": "Tài khoản thanh toán."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Một doanh nghiệp vay một khoản tiền trong vòng 10 năm. Vào đầu mỗi năm, doanh nghiệp phải trả những số tiền bằng nhau là 200 triệu đồng. Tổng số tiền mà doanh nghiệp phải trả là 3,33 tỷ. Tính lãi suất vay vốn mà doanh nghiệp phải chịu.",
+    "answer": "9,09"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Vào ngày 9/10/2012, khách hàng đem 20 triệu đồng đến ngân hàng gửi tiết kiệm với lãi suất 9%/năm. Xác định số tiền khách hàng có được nếu đến tất toán sổ tại thời điểm ngày 9/12/2012.",
+    "answer": "20,305"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Một người vay ngân hàng một số tiền với lãi suất 7,5%/năm và thực hiện trả nợ theo chuỗi niên kim cố định vào cuối mỗi năm. Khoản trả đầu tiên cách thời điểm nhận tiền vay là 1 năm. Sau khoản trả thứ 8 người này trả được 2/3 số vốn vay ban đầu. Biết rằng số nợ gốc đã trả ở lần thứ nhất là 500.000. Người này đã vay ngân hàng bao nhiêu tiền?",
+    "answer": "7.834.778,256"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Ngày 8/3, một thương phiếu được chiết khấu tại ngân hàng với lãi suất 6%. Chênh lêch giữa tiền chiết khấu thương mại và tiền chiết khấu hợp lý bằng 1/100 tiền chiết khấu hợp lý. Hãy xác định thời điểm thanh toán của thương phiếu trên.",
+    "answer": "7/5"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Lãi suất trung bình của một tập hợp các khoản vay:",
+    "answer": "lớn hơn mức lãi suất nhỏ nhất và nhỏ hơn mức lãi suất lớn nhất."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Để tính lãi cho tài khoản vãng lai cùng lãi suất không biết trước ngày tất toán của tài khoản, phương pháp nào là tối ưu nhất?",
+    "answer": "Phương pháp gián tiếp."
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Chiết khấu thương phiếu được coi là:",
+    "answer": "nghiệp vụ tín dụng trả lãi trước."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Một người gửi vào ngân hàng một khoản tiền theo lãi kép với lãi suất 5,8%/năm. Sau 3 năm 10 tháng thu được 50 triệu đồng. Tính giá trị của số tiền gửi ban đầu.",
+    "answer": "40,27"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Cho trước lãi suất năm, lãi suất tương đương của các thời kì nhỏ hơn 1 năm:",
+    "answer": "nhỏ hơn lãi suất tỷ lệ của cùng thời kì."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Một khoản vay kéo dài n năm, trả nợ mỗi năm một lần theo niên kim cố định, có lần trả nợ đầu tiên vào ngay thời điểm cho vay sẽ tạo thành một chuỗi niên kim cố định:",
+    "answer": "đầu kì."
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Nhà đầu tư mua 10 trái phiếu có mệnh giá 100 USD, có lãi suất danh nghĩa 6%/năm với giá 900 USD. Vậy hàng năm nhà đầu tư sẽ nhận được số tiền lãi là:",
+    "answer": "60 USD"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Một khoản vốn vay 1 tỷ, lãi suất 10%/năm, trả trong 15 năm với phương thức trả theo niên kim cố định, tính số lãi phải thanh toán ở niên kim thứ bảy.",
+    "answer": "0,0757"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Hai trái phiếu A, B có mệnh giá 1.000 USD, phát hành vào đầu năm 2011, đáo hạn cuối năm 2020, lãi suất danh nghĩa 8,75%/năm, trong đó, trái phiếu A là trái phiếu coupon, trái phiếu B trả gốc và lãi theo niên kim cố định. Thu nhập trái phiếu được thanh toán vào cuối mỗi năm. Hãy xác định thu nhập cho mỗi trái phiếu.",
+    "answer": "87,5 và 154,1"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Thời điểm tương đương của 2 thương phiếu phải:",
+    "answer": "ở trước ngày đáo hạn của thương phiếu đáo hạn trước"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Một khoản vay kéo dài n năm, trả nợ mỗi năm một lần theo niên kim cố định, có lần trả nợ đầu tiên cách lúc vay đúng 1 năm sẽ tạo thành một chuỗi niên kim cố định:",
+    "answer": "cuối kì."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Đem thương phiếu có mệnh giá 100.000 đến ngân hàng xin chiết khấu với lãi suất 6%, hoa hồng ký hậu 0,45%, hoa hồng cố định 600, thuế 5% tính trên hoa hồng cố định, thời gian còn lại của thương phiếu là 45 ngày. Cho biết chi phí chiết khấu?",
+    "answer": "686,25"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Một người gửi tiền ở ngân hàng với kỳ hạn 3 tháng, nhưng sau một năm mới đến ngân hàng để rút tiền. Lãi suất hiệu dụng mà người này nhận được là như thế nào so với lãi suất danh nghĩa ?",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Một thương phiếu có mệnh giá là 5000 đvtt. Tính giá trị hiện tại thương mại của thương phiếu biết giá trị hiện tại hợp lý của nó bằng 4750 đvtt",
+    "answer": "4736,8 đvtt"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Một người gửi tiết kiệm một số tiền tại ngân hàng với lãi suất hàng năm là 7%, lãi nhập gốc hàng năm. Hỏi sau bao nhiêu năm người này có được số tiền gấp đôi số tiền gửi ban đầu, giả sử lãi suất tiết kiệm không thay đổi ?",
+    "answer": "Xấp xỉ 10 năm"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Hai trái phiếu A, B có mệnh giá 1.000 USD, phát hành vào đầu năm 2011, đáo hạn cuối năm 2020, lãi suất danh nghĩa 8,75%/năm, trong đó, trái phiếu A là trái phiếu coupon, trái phiếu B trả gốc và lãi theo niên kim cố định. Thu nhập trái phiếu được thanh toán vào cuối mỗi năm. Tại thời điểm đầu năm 2016, một nhà đầu tư cho rằng, với tỷ lệ lợi tức lần lượt của 2 trái phiếu là kA = 8,25%, kB = 8,5% sẽ đủ bù đắp cho những rủi ro của trái phiếu. Với thông tin đó, giá có thể chấp nhận đối với nhà đầu tư này sẽ là bao nhiêu?",
+    "answer": "1078,7 và 607,25"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Xác định khoản vay biết khoản tiền đó được trả bằng 10 niên kim, mỗi niên kim 2 triệu đồng và cứ 6 tháng trả một lần. Niên kim thứ nhất thực hiện sau 6 tháng, lãi suất 8%/năm.",
+    "answer": "16,28"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Một công ty cổ phần phát hành 500.000 trái phiếu với mệnh giá là 600, lãi suất 11%/năm, thời hạn sử dụng vốn là 20 năm. Trái phiếu được thanh toán theo mệnh giá theo CNKCĐ vào cuối mỗi năm. Trong bao nhiêu năm thì công ty thanh toán được 2/3 số trái phiếu trên?",
+    "answer": "17 năm"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Lãi suất làm cân bằng giá trị hiện tại của các khoản chi mà bên đi vay bỏ ra trong tương lai với số vốn thực tế họ được sử dụng ở hiện tại được gọi là:",
+    "answer": "lãi suất giá thành phát hành trái phiếu."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Chiết khấu thương phiếu được coi là:",
+    "answer": "nghiệp vụ tín dụng trả lãi trước."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Phương pháp tính lãi nào phải tính tích N = C.n?",
+    "answer": "Phương pháp trực tiếp, Phương pháp gián tiếp, Phương pháp rút số dư"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Một chuỗi niên kim cố định là một chuỗi niên kim:",
+    "answer": "vừa biến đổi theo cấp số cộng vừa biến đổi theo cấp số nhân."
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Một thương phiếu có mệnh giá là 3.663. Hãy tính giá trị hiện tại hợp lý của thương phiếu trên biết rằng giá trị hiện tại thương mại là 3.6297.",
+    "answer": "1.823"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Có 3 thương phiếu được chiết khấu tại ngân hàng với mệnh giá tỷ lệ với các số 2,5,9 và tổng mệnh giá của chúng là 5.120. Kỳ hạn thanh toán của 3 thương phiếu lần lượt là 30, 45 và 60 ngày. Ba thương phiếu được chiết khấu theo cùng lãi suất t%/năm. Hoa hồng ký hậu (tỷ lệ thuận với thời gian) cho mỗi thương phiếu là 0,6%; hoa hồng cố định tính trên mỗi thương phiếu (không phụ thuộc vào thời hạn) là 1%; riêng thương phiếu thứ nhất phải chịu thêm phụ phí là 0,25% (không phụ thuộc vào thời hạn). Hãy tính lãi suất chiết khẩu biết rằng tổng giá trị ròng của 3 thương phiếu là 5.042,88.",
+    "answer": "2,72"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Một khoản vốn vay 1 tỷ, lãi suất 10%/năm, trả trong 15 năm với phương thức trả theo niên kim cố định, tính số gốc phải thanh toán ở niên kim thứ bảy",
+    "answer": "0,0558"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Trong những tài khoản sau đây, tài khoản nào là tài khoản vãng lai?",
+    "answer": "Tài khoản thanh toán."
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Một khoản vốn vay 1 tỷ, lãi suất 10%/năm, trả trong 15 năm với phương thức trả theo niên kim cố định. Xác định số tiền trả mỗi lần.",
+    "answer": "0,1315 tỷ"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Hoa hồng thiếu bảo đảm được tính trên",
+    "answer": "khoản dư nợ cao nhất."
+  }
+]

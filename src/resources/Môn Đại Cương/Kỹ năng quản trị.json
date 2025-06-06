@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Không có vùng thương lượng tức là:",
+    "answer": ". Hai bên phải tìm ra vùng chồng lấn"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Để quản lý thời gian hiệu quả, nên?",
+    "answer": "Ủy thác các công việc ít quan trọng cho người khác làm"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Trong đàm phán, mong muốn của chúng ta thường:",
+    "answer": ". Bị giới hạn bởi mong muốn của đối tác đàm phán"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu xanh dương thể hiện?",
+    "answer": "Sự tổng hòa của các chiếc mũ trước khi đưa ra quyết định cuối cùng"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Không có vùng thương lượng tức là:",
+    "answer": ". Chắc chắn đạt được thỏa thuận trong đàm phán"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Thiết lập mục tiêu trong quản lý thời gian nhằm?",
+    "answer": "Tập trung vào những công việc quan trọng nhất"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Công việc KHÔNG phải của thư ký trong đoàn đàm phán:",
+    "answer": ". Đặt câu hỏi"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Việc xác định phạm vi đàm phán là để?",
+    "answer": "Xác định được mức độ nhượng bộ trong mỗi mong muốn"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò lãnh đạo có nhiệm vụ:",
+    "answer": ". Đưa ra đề xuất trọn gói, Đề nghị trao đổi các điều kiện,điều khiển cuộc thảo luận"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Kết quả đàm phán phụ thuộc vào, NGOẠI TRỪ:",
+    "answer": ". Trình độ học vấn của đối tác"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Kỹ năng là?",
+    "answer": "Có thể đào tạo và phát triển"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Vai trò thương thuyết của nhà quản trị thuộc nhóm vai trò?",
+    "answer": "Ra quyết định"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Khi xác định các phương án thay thế tốt nhất, chúng ta nên xác định bao nhiêu phương án?",
+    "answer": "Càng nhiều càng tốt"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Sử dụng cây quyết định cần?",
+    "answer": "Xác định được xác suất thành công, thất bại của quyết định"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây KHÔNG phải là đặc điểm của thời gian?",
+    "answer": "Có thể được mua bán, trao đổi"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Các kỹ năng nào sau đây thuộc kỹ năng quản trị?",
+    "answer": "Kỹ năng đàm phán, kỹ năng ra quyết định, kỹ năng giải quyết vấn đề"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Kỹ năng nhân sự cần có đối với?",
+    "answer": "Nhà quản trị cấp cao, nhà quản trị cấp trung và nhà quản trị cấp cơ sở"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò tổng kết có nhiệm vụ:",
+    "answer": ". Đặt câu hỏi cho phía đối tác, Giải thích những thắc mắc của phía đối tác để làm rõ vấn đề, Tóm tắt những nội dung đã thảo luận vào những thời điểm phù hợp"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nhà quản trị kiểu mới nghĩ mình như?",
+    "answer": "Người tư vấn, tham mưu"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Lập danh sách những công việc phải làm hàng ngày vào thời điểm?",
+    "answer": "Cuối ngày hôm trước hoặc đầu ngày hôm sau"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Chúng ta cần có bao nhiêu người để thực hiện từng phương án? Những người này đã có sẵn trong tổ chức hay chúng ta cần tuyển dụng và đào tạo?... Là các câu hỏi ví dụ cho bước nào của quá trình giải quyết vấn đề, ra quyết định?",
+    "answer": "Đánh giá và lựa chọn giải pháp"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Để quản lý thời gian tốt?",
+    "answer": "Luôn có các kỹ thuật tốt để quản lý thời gian"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Đánh giá, lựa chọn giải pháp trong quy trình ra quyết định cần quan tâm tới?",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Các công việc ở ô thứ 3 trong ma trận quản lý thời gian?",
+    "answer": "Thực hiện càng sớm càng tốt"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Kỹ năng chuyên môn là kỹ năng quan trọng nhất đối với?",
+    "answer": "Nhà quản trị cấp cơ sở"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Khi giao phó công việc, TRÁNH?",
+    "answer": "Giao những việc nhàm chán"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Khi đàm phán rơi vào bế tắc, thái độ cần áp dụng là:",
+    "answer": ". Thái độ thẳng thắn."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Nhà quản trị nào cần có kỹ năng tư duy tốt:?",
+    "answer": "Giám đốc, phó giám đốc"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Quyết định lặp lại theo chu kì liên tục, giống nhau về bản chất cũng như cách thức là?",
+    "answer": "Quyết định có tính định kỳ"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Khách hàng phàn nàn là công việc nằm ở ô?",
+    "answer": "Vừa khẩn cấp vừa quan trọng"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Người đàm phán giỏi phải biết:",
+    "answer": ". Trình bày, sử dụng từ ngữ một cách khôn khéo, linh hoạt."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò tổng kết có nhiệm vụ?",
+    "answer": "Đặt câu hỏi cho phía đối tác, Giải thích những thắc mắc của phía đối tác để làm rõ vấn đề, Tóm tắt những nội dung đã thảo luận vào những thời điểm phù hợp"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Nhà quản trị nào cần có kỹ năng chuyên môn tốt?",
+    "answer": "Tổ trưởng, nhóm trưởng"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Giao phó công việc hiệu quả là?",
+    "answer": "Tập trung vào kết quả"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Thế hệ quản lý thời gian thứ 4 có đặc điểm?",
+    "answer": "Việc quan trọng ở vị trí hàng đầu và phải được hoàn thành tốt nhất"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Kỹ năng quản trị là yếu tố thuộc về?",
+    "answer": "Hành vi"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Nội dung nào sau đây là 1 trong số các nguyên tắc thành lập phái đoàn đàm phán:",
+    "answer": ". không bao giờ thể hiện bất đồng trước mặt đối tác"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Có trở ngại nào cần phải vượt qua không? Nếu phương án đó được triển khai, liệu có thể gặp phải sự chống đối nào bên trong hoặc bên ngoài tổ chức không?... là các câu hỏi ở khía cạnh nào trong bước Đánh giá và lựa chọn giải pháp?",
+    "answer": "Tính khả thi"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Giai đoạn nào của đàm phán là giai đoạn quan trọng nhất?",
+    "answer": "Các giai đoạn đều quan trọng như nhau"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Bản chất của đàm phán là, NGOẠI TRỪ:",
+    "answer": ". Là bàn bạc để tìm ra một giải pháp để tối thiểu hóa chi phí"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Để thu thập thông tin trong giai đoạn chuẩn bị đàm phán, cần lấy thông tin từ, NGOẠI TRỪ:",
+    "answer": ". Đối tác"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Thói quen tiêu dùng thời gian gồm?",
+    "answer": "Làm cái nhỏ trước, chờ đến hạn mới làm, làm cái không thích sau"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Đặc tính của thời gian là?",
+    "answer": "Là một tài sản hao mòn dần"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Chiếc nóng cuối cùng trong 6 chiếc nón tư duy là chiếc nón màu",
+    "answer": "Xanh dương"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Các chức danh nào sau đây thuộc nhóm quản trị viên cấp cao?\n\n:: KNQT.B1.005:: Các chức danh nào sau đây thuộc nhóm quản trị viên cấp cơ sở?\n{\n~ Quản đốc phân xưởng, trưởng ban tài chính, trường phòng tổ chức\n~ Giám đốc doanh nghiệp, chủ tịch hội đồng quản trị\n= Tổ trưởng, đội trưởng, nhóm trưởng\n~ Trưởng phòng nhân sự, trợ lý giám đốc, thư ký giám đốc.\n####",
+    "answer": "Giám đốc doanh nghiệp, chủ tịch hội đồng quản trị"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò lãnh đạo có nhiệm vụ?",
+    "answer": "Ghi chép, Phán đoán những “sự thật bị che giấu” trong quá trình đàm phán"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Việc thu thập thông tin về đối tác",
+    "answer": "Không phải càng nhiều càng tốt mà quan trọng là đủ các thông tin cần thiết"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Nhược điểm của thế hệ quản lý thời gian thứ nhất là?",
+    "answer": "Việc quan trọng là việc trước mắt, tiện việc nào làm việc đó"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Nhà quản trị doanh nghiệp?",
+    "answer": "Có thể là chủ doanh nghiệp"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Để đánh giá và lựa chọn giải pháp trong quá trình giải quyết vấn đề và ra quyết định, nhà quản trị KHÔNG cần quan tâm.\nĐể thực hiện giải pháp, nhà quản trị cần?",
+    "answer": "Sự hồi hộp"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Để quản lý thời gian tốt?",
+    "answer": "Nên sắp xếp ngăn nắp khu vực làm việc"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Điều gì KHÔNG đúng về kỹ năng cứng?",
+    "answer": "Phải học ở trường đời"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Phát triển cá nhân là công việc nằm ở ô?",
+    "answer": "Quan trọng nhưng không khẩn cấp"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Trong giai đoạn trao đổi thông tin, KHÔNG nên:",
+    "answer": ". Thể hiện thái độ đồng ý với đối tác"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Nhiều đơn hàng bị trễ do công ty chuyển phát giao hàng chậm hơn bình thường, nhân viên có xu hướng chểnh mảng trong công việc, nhà vệ sinh không dùng được do hỏng ống nước,... là ví dụ của?",
+    "answer": "Vấn đề sai lệch"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Kỹ năng quản trị bao gồm:",
+    "answer": "Những khả năng, kinh nghiệm, năng lực đặc biệt và mức độ thành thạo"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Mong muốn có thể được phân loại thành:",
+    "answer": ". Thiết yếu, quan trọng, có thì tốt"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Kỹ năng được sử dụng để?",
+    "answer": "Giải quyết các công việc hoặc các tình huống"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Điều gì KHÔNG đúng về kỹ năng mềm?",
+    "answer": "Thể hiện thông qua bằng cấp, chứng chỉ"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Quản lý thời gian tốt KHÔNG giúp?",
+    "answer": "Giảm hiệu quả và năng suất sản xuất"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Kỹ năng chuyên môn là?",
+    "answer": "Trình độ chuyên môn nghiệp vụ"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Giai đoạn nào của đàm phán là giai đoạn quan trọng nhất?",
+    "answer": ". Các giai đoạn đều quan trọng như nhau"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Quy trình chuẩn của giải quyết vấn đề và ra quyết định là?",
+    "answer": "Xác định vấn đề, Xác định mục tiêu, Xác định các giải pháp thay thế, Đánh giá và lựa chọn giải pháp, Thực hiện giải pháp, Đánh giá, kiểm tra kết quả thực hiện"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Vai trò nào KHÔNG thuộc nhóm vai trò Quan hệ với con người?",
+    "answer": "Doanh nhân"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Một người đàm phán giỏi là người:",
+    "answer": ". Tìm ra giải pháp khả thi cho những sự khác biệt."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Quản lý thời gian tốt là?",
+    "answer": "Cân bằng giữa công việc và cuộc sống"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Quản lý thời gian chính là?",
+    "answer": "Quản lý bản thân"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Xây dựng lịch trình làm việc nên?",
+    "answer": "Xếp lịch cho những công việc được ưu tiên cao nhất"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Những nhiệm vụ KHÔNG nên giao phó công việc là",
+    "answer": "Hoạch định, chỉ đạo, thúc đẩy nhân viên"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Phát biểu nào sau đây là đúng:",
+    "answer": ". Không chuẩn bị là chuẩn bị cho sự thất bại trong đàm phán."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Trong các giai đoạn của quá trình đàm phán, giai đoạn quan trọng nhất là:",
+    "answer": ". Giai đoạn chuẩn bị"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Ma trận quản lý thời gian được xây dựng dựa trên?",
+    "answer": "Tính khẩn cấp và tầm quan trọng của công việc"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Sơ đồ quản lý thời gian có?",
+    "answer": "5 chữ A"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Cần đặt ra câu hỏi “Tôi đang cố gắng đạt được điều gì?” trong giai đoạn nào của quá trình giải quyết vấn đề, ra quyết định?",
+    "answer": "Xác định mục tiêu"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Theo Robert Katz, kỹ năng tư duy là?",
+    "answer": "Khả năng tư duy hệ thống"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Kỹ năng tư duy là kỹ năng quan trọng nhất đối với?",
+    "answer": "Nhà quản trị cấp cao"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Đàm phán được chia làm bao nhiêu giai đoạn:",
+    "answer": ". 5\nD. 7"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Nội dung nào sau đây là 1 trong số các nguyên tắc thành lập phái đoàn đàm phán?",
+    "answer": "Không bao giờ thể hiện bất đồng trước mặt đối tác"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Một trong những yếu tố quan trọng góp phần tạo nên sự thành công trong đàm phán:",
+    "answer": ". Ấn tượng đầu tiên"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu đen thể hiện?",
+    "answer": "Những bất lợi, tiêu cực của giải pháp sẽ thực hiện"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Để thực hiện giải pháp, nhà quản trị cần ?",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Nghề quản trị là?",
+    "answer": "Nghề lãnh đạo doanh nghiệp"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Thực chất của quản trị doanh nghiệp là?",
+    "answer": "Quản trị con người trong kinh doanh"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Quyết định được thực hiện sau khi có sự phân tích, suy xét kĩ lưỡng, cẩn thận về vấn đề đang được đưa ra là?",
+    "answer": "Quyết định có chiều sâu"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Theo quan điểm của Robert Katz, kỹ năng quản trị bao gồm?",
+    "answer": "Kỹ năng chuyên môn, kỹ năng nhân sự, kỹ năng tư duy"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Thế hệ quản lý thời gian thứ hai có khuynh hướng?",
+    "answer": "Hướng về tương lai"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Có mấy thế hệ quản lý thời gian?",
+    "answer": "4"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Lợi ích của quản lý thời gian là?",
+    "answer": "Nâng cao hiệu quả công việc, tăng thời gian riêng tư, tăng niềm vui trong công việc"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Quá trình đàm phán có thể KHÔNG bị ảnh hưởng bởi:",
+    "answer": ". Các khác biệt về quy mô vốn của đối tác"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Vai trò nào KHÔNG thuộc nhóm vai trò Thông tin?",
+    "answer": "Thương thuyết"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Kỹ thuật tốt nhất cho mọi tình huống đàm phán:",
+    "answer": ". Hợp tác"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Khi đàm phán lâm vào bế tắc, thái độ đàm phán cần áp dụng là:",
+    "answer": ". Cùng bàn bạc để giải quyết bế tắc"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Nhắc lịch là thế hệ quản lý thời gian?",
+    "answer": "Thứ nhất"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Ưu điểm của thế hệ quản lý thời gian thứ nhất là?",
+    "answer": "Nhớ được các công việc trong ngắn hạn"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Kỹ năng giao tiếp?",
+    "answer": "Quan trọng như nhau đối với mọi cấp nhà quản trị"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Theo Robert Katz, có mấy nhóm kỹ năng quản trị?",
+    "answer": "3"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Các vai trò trong đoàn đàm phán:",
+    "answer": ". Lãnh đạo, tổng kết và quan sát"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu vàng thể hiện?",
+    "answer": "Những lợi ích có thể đạt được"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu trắng thể hiện?",
+    "answer": "Những thông tin sẵn có"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Doanh nghiệp càng lớn thì càng tập trung quyền lực vào?",
+    "answer": "Phân quyền cho các cấp"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Kỹ năng quản trị là kỹ năng cần có của?\n\n:: KNQT.B1.037:: Nhà quản trị giỏi cần?\n{\n~ Kiến thức\n~ Kỹ năng\n~ Thái độ\n= Kiến thức, kỹ năng và thái độ\n####",
+    "answer": "Nghề lãnh đạo doanh nghiệp"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Kết quả của việc luôn phải giải quyết các công việc ở ô số 1 trong ma trận quản lý thời gian là?",
+    "answer": "Stress, căng thẳng, kiệt sức"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Theo Mintzbezg, nhà quản trị phải thực hiện các vai trò?",
+    "answer": "Quan hệ với con người, thông tin, ra quyết định"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Phương án này có hợp pháp không? Nó có đại diện cho quyền lợi của khách hàng, nhân viên và cộng đồng nơi chúng ta hoạt động không?... là các câu hỏi ở khía cạnh nào trong bước Đánh giá và lựa chọn giải pháp?",
+    "answer": "Đạo đức"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Nguyên tắc Pareto trong quản lý thời gian là?",
+    "answer": "Tập trung 80% thời gian cho 20% các hoạt động mà sẽ mang lại 80% kết quả."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Khi xác định các phương án thay thế tốt nhất, chúng ta nên xác định bao nhiêu phương án?",
+    "answer": ". Càng nhiều càng tốt"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu xanh lá cây thể hiện?",
+    "answer": "Những thông tin cần có bổ sung"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Để tránh áp lực về thời gian?",
+    "answer": "Nên ưu tiên các công việc quan trọng để giải quyết"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Các chức danh nào sau đây thuộc nhóm quản trị viên cấp trung gian?",
+    "answer": "Quản đốc phân xưởng, trưởng ban tài chính, trưởng phòng tổ chức"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Trong quy trình ra quyết định, nhà quản trị không cần?",
+    "answer": "Xác định phương pháp kiểm tra kết quả thực hiện quyết định"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Kỹ năng quản trị bộc lộ?",
+    "answer": "Trong quá trình thực hiện công việc"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Xây dựng biểu đồ xương cá không cần?",
+    "answer": "Xác định ngân sách thực hiện"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu đỏ thể hiện?",
+    "answer": "Trực giác"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Để giao phó công việc tốt, KHÔNG nên?",
+    "answer": "Giao các công việc vụn vặt"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Kết quả của việc luôn ưu tiên thực hiện các công việc ở ô thứ 2 trong ma trận quản lý thời gian là?",
+    "answer": "Có tầm nhìn, biết cân bằng công việc và cuộc sống"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Lựa chọn câu trả lời đúng nhất? (trung bình) Lý do cơ bản của các cuộc đàm phán là:",
+    "answer": ". Thỏa mãn nhu cầu"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Người đàm phán giỏi là:",
+    "answer": ". Người biết biến mình như chú tắc kè hoa"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Việc thiết lập mục tiêu trong công việc nhằm?",
+    "answer": "Thực hiện các công việc quan trọng trong doanh nghiệp"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Ma trận quản lý thời gian còn được gọi là?",
+    "answer": "Ma trận Eisenhower"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Phương pháp ra quyết định cá nhân không có ưu điểm nào?",
+    "answer": "Nhân viên ít quyết tâm, dễ bất mãn"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Kỹ năng giao tiếp thuộc nhóm kỹ năng nào?",
+    "answer": "Kỹ năng nhân sự"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Giai đoạn tiếp ngay sau giai đoạn chào hỏi là:",
+    "answer": ". Tìm tiếng nói chung"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Quản lý thời gian tốt giúp?",
+    "answer": "Nâng cao sức sáng tạo"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Sử dụng phương pháp Delphi cần?",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Vai trò nào KHÔNG thuộc nhóm vai trò Ra quyết định?",
+    "answer": "Phát ngôn"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Phương pháp ra quyết định nhóm có ưu điểm nào?",
+    "answer": "Tập hợp được nhiều thông tin và kiến thức hơn so với một cá nhân"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Sau khi các bên đàm phán đã thoả thuận với nhau hầu hết những điểm quan trọng thì:",
+    "answer": ". Cuộc đàm phán vẫn có thể còn một số vấn đề nhỏ cần giải quyết"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Việc xác định phạm vi đàm phán là để",
+    "answer": ". Xác định được mức độ nhượng bộ trong mỗi mong muốn"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Vai trò phát ngôn của nhà quản trị thuộc nhóm vai trò?",
+    "answer": "Thông tin"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Có mấy cấp nhà quản trị?",
+    "answer": "3"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò lãnh đạo có nhiệm vụ:",
+    "answer": ". Ghi chép, Phán đoán những “sự thật bị che giấu” trong quá trình đàm phán"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Sau khi thực hiện giải pháp, nhà quản trị cần?",
+    "answer": "Kiểm tra việc thực hiện quyết định"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Quyết định được thưc hiện nhanh chóng, không có sự chuẩn bị trước là?",
+    "answer": "Quyết định tức thời"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Đàm phán được chia làm bao nhiêu giai đoạn?",
+    "answer": "5"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Khi phân loại mục tiêu đàm phán, người ta thường phân thành mấy loại?",
+    "answer": ". 3"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò lãnh đạo có nhiệm vụ?",
+    "answer": "Ghi chép, Phán đoán những “sự thật bị che giấu” trong quá trình đàm phán"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Vai trò lãnh đạo của nhà quản trị thuộc nhóm vai trò?",
+    "answer": "Quan hệ với con người"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Công việc ở ô vừa khẩn cấp vừa quan trọng?",
+    "answer": "Thực hiện ngay"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Đặc tính của thời gian là?",
+    "answer": "Là của chung, là hằng số và là tài sản hao mòn dần"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Các kỹ năng quản trị?",
+    "answer": "Có thể được đào tạo và phát triển"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Một trong những vấn đề quan trọng mà công ty phải giải quyết ngay lúc này là đào tạo đội ngũ bán hàng. Nếu vấn đề này không được giải quyết, có thể dẫn tới việc mất thị trường vào tay đối thủ cạnh tranh?",
+    "answer": "Vấn đề dự báo"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Xác định phương án thay thế tốt nhất thuộc giai đoạn:",
+    "answer": ". Chuẩn bị đàm phán"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Trong mọi cuộc đàm phán, chúng ta nên là người:",
+    "answer": ". Đưa ra đề nghị đúng lúc"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Nghề quản trị là?",
+    "answer": "Nghề ra quyết định"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Khi phân loại mục tiêu đàm phán, người ta thường phân thành mấy loại?",
+    "answer": "3"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Kỹ năng cần có ở một nhà đàm phán giỏi là:",
+    "answer": ". Kỹ năng lắng nghe"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Vùng thương lượng càng lớn thì:",
+    "answer": ". Khả năng đạt được thỏa thuận trong đàm phán càng cao"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Một trong những vấn đề quan trọng mà công ty phải giải quyết ngay lúc này là đào tạo đội ngũ bán hàng. Đây là ví dụ của",
+    "answer": "Vấn đề trước mắt"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Kẻ cắp thời gian bao gồm?",
+    "answer": "Không biết nói “Không”, văn phòng bừa bộn, trì hoãn công việc"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Các mức độ ưu tiên của mục tiêu gồm?",
+    "answer": "Mục tiêu chính, mục tiêu hỗ trợ và mục tiêu nên có"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Quản lý thời gian là?",
+    "answer": "Sự đầu tư thời gian và sự tiêu dùng thời gian"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Tài sản quan trọng nhất trong đàm phán là:",
+    "answer": ". Thông tin"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Trong mọi tình huống đàm phán, chúng ta nên:",
+    "answer": ". Đàm phán mềm"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Nguy cơ rủi ro nào liên quan đến phương án này? Chẳng hạn, nó có thể gây tổn thất cho doanh thu hiện tại hay làm mất lợi thế cạnh tranh không?... là các câu hỏi ví dụ cho bước nào của quá trình giải quyết vấn đề, ra quyết định?",
+    "answer": "Đánh giá và lựa chọn giải pháp"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Trong mọi cuộc đàm phán:",
+    "answer": ". Vị trí trên bàn đàm phán có thể là một chiến thuật"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Sau khi thực hiện giải pháp, nhà quản trị KHÔNG cần?",
+    "answer": "Xác định mục tiêu"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Việc thu thập thông tin về đối tác?",
+    "answer": "Không phải càng nhiều càng tốt mà quan trọng là đủ các thông tin cần thiết"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Kỹ năng nhân sự để làm việc với?",
+    "answer": "Tất cả mọi người trong doanh nghiệp, không phân biệt lãnh đạo hay nhân viên"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Kỹ năng là?",
+    "answer": "Có thể đào tạo và phát triển"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Ma trận quản lý thời gian còn được gọi là?",
+    "answer": "Ma trận Eisenhower"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Theo Robert Katz, kỹ năng tư duy là?",
+    "answer": "Khả năng tư duy hệ thống"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò lãnh đạo có nhiệm vụ:",
+    "answer": ". Đưa ra đề xuất trọn gói, Đề nghị trao đổi các điều kiện,điều khiển cuộc thảo luận"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Điều gì KHÔNG đúng về kỹ năng cứng?",
+    "answer": "Phải học ở trường đời"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Sau khi các bên đàm phán đã thoả thuận với nhau hầu hết những điểm quan trọng thì:",
+    "answer": ". Cuộc đàm phán vẫn có thể còn một số vấn đề nhỏ cần giải quyết"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Thế hệ quản lý thời gian thứ hai có khuynh hướng?",
+    "answer": "Hướng về tương lai"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Nghề quản trị là?",
+    "answer": "Nghề ra quyết định"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Khi đàm phán rơi vào bế tắc, thái độ cần áp dụng là:",
+    "answer": ". Thái độ thẳng thắn."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Việc xác định phạm vi đàm phán là để?",
+    "answer": "Xác định được mức độ nhượng bộ trong mỗi mong muốn"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Giao phó công việc hiệu quả là?",
+    "answer": "Tập trung vào kết quả"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Khách hàng phàn nàn là công việc nằm ở ô?",
+    "answer": "Vừa khẩn cấp vừa quan trọng"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Đàm phán được chia làm bao nhiêu giai đoạn:",
+    "answer": ". 5\nD. 7"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Nội dung nào sau đây là 1 trong số các nguyên tắc thành lập phái đoàn đàm phán:",
+    "answer": ". không bao giờ thể hiện bất đồng trước mặt đối tác"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Điều gì KHÔNG đúng về kỹ năng mềm?",
+    "answer": "Thể hiện thông qua bằng cấp, chứng chỉ"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Phát triển cá nhân là công việc nằm ở ô?",
+    "answer": "Quan trọng nhưng không khẩn cấp"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Các kỹ năng nào sau đây thuộc kỹ năng quản trị?",
+    "answer": "Kỹ năng đàm phán, kỹ năng ra quyết định, kỹ năng giải quyết vấn đề"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Quản lý thời gian tốt giúp?",
+    "answer": "Nâng cao sức sáng tạo"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Sau khi thực hiện giải pháp, nhà quản trị cần?",
+    "answer": "Kiểm tra việc thực hiện quyết định"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Xây dựng biểu đồ xương cá không cần?",
+    "answer": "Xác định ngân sách thực hiện"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Kỹ năng giao tiếp thuộc nhóm kỹ năng nào?",
+    "answer": "Kỹ năng nhân sự"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Phương pháp ra quyết định cá nhân không có ưu điểm nào?",
+    "answer": "Nhân viên ít quyết tâm, dễ bất mãn"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Đánh giá, lựa chọn giải pháp trong quy trình ra quyết định cần quan tâm tới?",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu đỏ thể hiện?",
+    "answer": "Trực giác"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Kỹ năng chuyên môn là kỹ năng quan trọng nhất đối với?",
+    "answer": "Nhà quản trị cấp cơ sở"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Quản lý thời gian tốt KHÔNG giúp?",
+    "answer": "Giảm hiệu quả và năng suất sản xuất"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Sau khi thực hiện giải pháp, nhà quản trị KHÔNG cần?",
+    "answer": "Xác định mục tiêu"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Thiết lập mục tiêu trong quản lý thời gian nhằm?",
+    "answer": "Tập trung vào những công việc quan trọng nhất"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Kết quả đàm phán phụ thuộc vào, NGOẠI TRỪ:",
+    "answer": ". Trình độ học vấn của đối tác"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Theo Mintzbezg, nhà quản trị phải thực hiện các vai trò?",
+    "answer": "Quan hệ với con người, thông tin, ra quyết định"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Thế hệ quản lý thời gian thứ 4 có đặc điểm?",
+    "answer": "Việc quan trọng ở vị trí hàng đầu và phải được hoàn thành tốt nhất"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu xanh lá cây thể hiện?",
+    "answer": "Những thông tin cần có bổ sung"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Khi đàm phán lâm vào bế tắc, thái độ đàm phán cần áp dụng là:",
+    "answer": ". Cùng bàn bạc để giải quyết bế tắc"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Doanh nghiệp càng lớn thì càng tập trung quyền lực vào?",
+    "answer": "Phân quyền cho các cấp"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Việc thu thập thông tin về đối tác?",
+    "answer": "Không phải càng nhiều càng tốt mà quan trọng là đủ các thông tin cần thiết"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Một người đàm phán giỏi là người:",
+    "answer": ". Tìm ra giải pháp khả thi cho những sự khác biệt."
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Một trong những yếu tố quan trọng góp phần tạo nên sự thành công trong đàm phán:",
+    "answer": ". Ấn tượng đầu tiên"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Tài sản quan trọng nhất trong đàm phán là:",
+    "answer": ". Thông tin"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Ưu điểm của thế hệ quản lý thời gian thứ nhất là?",
+    "answer": "Nhớ được các công việc trong ngắn hạn"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu đen thể hiện?",
+    "answer": "Những bất lợi, tiêu cực của giải pháp sẽ thực hiện"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Sử dụng cây quyết định cần?",
+    "answer": "Xác định được xác suất thành công, thất bại của quyết định"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Kỹ năng nhân sự để làm việc với?",
+    "answer": "Tất cả mọi người trong doanh nghiệp, không phân biệt lãnh đạo hay nhân viên"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Vai trò thương thuyết của nhà quản trị thuộc nhóm vai trò?",
+    "answer": "Ra quyết định"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò lãnh đạo có nhiệm vụ:",
+    "answer": ". Ghi chép, Phán đoán những “sự thật bị che giấu” trong quá trình đàm phán"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Quyết định được thực hiện sau khi có sự phân tích, suy xét kĩ lưỡng, cẩn thận về vấn đề đang được đưa ra là?",
+    "answer": "Quyết định có chiều sâu"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Vai trò nào KHÔNG thuộc nhóm vai trò Quan hệ với con người?",
+    "answer": "Doanh nhân"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Khi xác định các phương án thay thế tốt nhất, chúng ta nên xác định bao nhiêu phương án?",
+    "answer": "Càng nhiều càng tốt"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Nguy cơ rủi ro nào liên quan đến phương án này? Chẳng hạn, nó có thể gây tổn thất cho doanh thu hiện tại hay làm mất lợi thế cạnh tranh không?... là các câu hỏi ví dụ cho bước nào của quá trình giải quyết vấn đề, ra quyết định?",
+    "answer": "Đánh giá và lựa chọn giải pháp"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Để thực hiện giải pháp, nhà quản trị cần ?",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Không có vùng thương lượng tức là:",
+    "answer": ". Hai bên phải tìm ra vùng chồng lấn"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Để quản lý thời gian hiệu quả, nên?",
+    "answer": "Ủy thác các công việc ít quan trọng cho người khác làm"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Để giao phó công việc tốt, KHÔNG nên?",
+    "answer": "Giao các công việc vụn vặt"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Nhiều đơn hàng bị trễ do công ty chuyển phát giao hàng chậm hơn bình thường, nhân viên có xu hướng chểnh mảng trong công việc, nhà vệ sinh không dùng được do hỏng ống nước,... là ví dụ của?",
+    "answer": "Vấn đề sai lệch"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Phương án này có hợp pháp không? Nó có đại diện cho quyền lợi của khách hàng, nhân viên và cộng đồng nơi chúng ta hoạt động không?... là các câu hỏi ở khía cạnh nào trong bước Đánh giá và lựa chọn giải pháp?",
+    "answer": "Đạo đức"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Kỹ thuật tốt nhất cho mọi tình huống đàm phán:",
+    "answer": ". Hợp tác"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Thói quen tiêu dùng thời gian gồm?",
+    "answer": "Làm cái nhỏ trước, chờ đến hạn mới làm, làm cái không thích sau"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Có mấy thế hệ quản lý thời gian?",
+    "answer": "4"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Phát biểu nào sau đây là đúng:",
+    "answer": ". Không chuẩn bị là chuẩn bị cho sự thất bại trong đàm phán."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu xanh dương thể hiện?",
+    "answer": "Sự tổng hòa của các chiếc mũ trước khi đưa ra quyết định cuối cùng"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Các công việc ở ô thứ 3 trong ma trận quản lý thời gian?",
+    "answer": "Thực hiện càng sớm càng tốt"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Trong mọi cuộc đàm phán, chúng ta nên là người:",
+    "answer": ". Đưa ra đề nghị đúng lúc"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Mong muốn có thể được phân loại thành:",
+    "answer": ". Thiết yếu, quan trọng, có thì tốt"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Khi phân loại mục tiêu đàm phán, người ta thường phân thành mấy loại?",
+    "answer": "3"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Việc thiết lập mục tiêu trong công việc nhằm?",
+    "answer": "Thực hiện các công việc quan trọng trong doanh nghiệp"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Có trở ngại nào cần phải vượt qua không? Nếu phương án đó được triển khai, liệu có thể gặp phải sự chống đối nào bên trong hoặc bên ngoài tổ chức không?... là các câu hỏi ở khía cạnh nào trong bước Đánh giá và lựa chọn giải pháp?",
+    "answer": "Tính khả thi"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Một trong những vấn đề quan trọng mà công ty phải giải quyết ngay lúc này là đào tạo đội ngũ bán hàng. Nếu vấn đề này không được giải quyết, có thể dẫn tới việc mất thị trường vào tay đối thủ cạnh tranh?",
+    "answer": "Vấn đề dự báo"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Trong quy trình ra quyết định, nhà quản trị không cần?",
+    "answer": "Xác định phương pháp kiểm tra kết quả thực hiện quyết định"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Để quản lý thời gian tốt?",
+    "answer": "Nên sắp xếp ngăn nắp khu vực làm việc"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Những nhiệm vụ KHÔNG nên giao phó công việc là",
+    "answer": "Hoạch định, chỉ đạo, thúc đẩy nhân viên"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Xây dựng lịch trình làm việc nên?",
+    "answer": "Xếp lịch cho những công việc được ưu tiên cao nhất"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Các chức danh nào sau đây thuộc nhóm quản trị viên cấp cao?\n\n:: KNQT.B1.005:: Các chức danh nào sau đây thuộc nhóm quản trị viên cấp cơ sở?\n{\n~ Quản đốc phân xưởng, trưởng ban tài chính, trường phòng tổ chức\n~ Giám đốc doanh nghiệp, chủ tịch hội đồng quản trị\n= Tổ trưởng, đội trưởng, nhóm trưởng\n~ Trưởng phòng nhân sự, trợ lý giám đốc, thư ký giám đốc.\n####",
+    "answer": "Giám đốc doanh nghiệp, chủ tịch hội đồng quản trị"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Để tránh áp lực về thời gian?",
+    "answer": "Nên ưu tiên các công việc quan trọng để giải quyết"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Giai đoạn nào của đàm phán là giai đoạn quan trọng nhất?",
+    "answer": "Các giai đoạn đều quan trọng như nhau"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây KHÔNG phải là đặc điểm của thời gian?",
+    "answer": "Có thể được mua bán, trao đổi"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Người đàm phán giỏi là:",
+    "answer": ". Người biết biến mình như chú tắc kè hoa"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Việc thu thập thông tin về đối tác",
+    "answer": "Không phải càng nhiều càng tốt mà quan trọng là đủ các thông tin cần thiết"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Trong 6 chiếc nón tư duy, chiếc nón màu vàng thể hiện?",
+    "answer": "Những lợi ích có thể đạt được"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Giai đoạn nào của đàm phán là giai đoạn quan trọng nhất?",
+    "answer": ". Các giai đoạn đều quan trọng như nhau"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Đặc tính của thời gian là?",
+    "answer": "Là của chung, là hằng số và là tài sản hao mòn dần"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Công việc KHÔNG phải của thư ký trong đoàn đàm phán:",
+    "answer": ". Đặt câu hỏi"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Quản lý thời gian là?",
+    "answer": "Sự đầu tư thời gian và sự tiêu dùng thời gian"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Các kỹ năng quản trị?",
+    "answer": "Có thể được đào tạo và phát triển"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Thực chất của quản trị doanh nghiệp là?",
+    "answer": "Quản trị con người trong kinh doanh"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Kỹ năng nhân sự cần có đối với?",
+    "answer": "Nhà quản trị cấp cao, nhà quản trị cấp trung và nhà quản trị cấp cơ sở"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Kết quả của việc luôn ưu tiên thực hiện các công việc ở ô thứ 2 trong ma trận quản lý thời gian là?",
+    "answer": "Có tầm nhìn, biết cân bằng công việc và cuộc sống"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò lãnh đạo có nhiệm vụ?",
+    "answer": "Ghi chép, Phán đoán những “sự thật bị che giấu” trong quá trình đàm phán"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Kỹ năng quản trị bộc lộ?",
+    "answer": "Trong quá trình thực hiện công việc"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Trong mọi cuộc đàm phán:",
+    "answer": ". Vị trí trên bàn đàm phán có thể là một chiến thuật"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Bản chất của đàm phán là, NGOẠI TRỪ:",
+    "answer": ". Là bàn bạc để tìm ra một giải pháp để tối thiểu hóa chi phí"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Trong mọi tình huống đàm phán, chúng ta nên:",
+    "answer": ". Đàm phán mềm"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Không có vùng thương lượng tức là:",
+    "answer": ". Chắc chắn đạt được thỏa thuận trong đàm phán"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Cần đặt ra câu hỏi “Tôi đang cố gắng đạt được điều gì?” trong giai đoạn nào của quá trình giải quyết vấn đề, ra quyết định?",
+    "answer": "Xác định mục tiêu"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Nhược điểm của thế hệ quản lý thời gian thứ nhất là?",
+    "answer": "Việc quan trọng là việc trước mắt, tiện việc nào làm việc đó"
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Có mấy cấp nhà quản trị?",
+    "answer": "3"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Để quản lý thời gian tốt?",
+    "answer": "Luôn có các kỹ thuật tốt để quản lý thời gian"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Nguyên tắc Pareto trong quản lý thời gian là?",
+    "answer": "Tập trung 80% thời gian cho 20% các hoạt động mà sẽ mang lại 80% kết quả."
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Theo Robert Katz, có mấy nhóm kỹ năng quản trị?",
+    "answer": "3"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Trong giai đoạn trao đổi thông tin, KHÔNG nên:",
+    "answer": ". Thể hiện thái độ đồng ý với đối tác"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Nhà quản trị nào cần có kỹ năng chuyên môn tốt?",
+    "answer": "Tổ trưởng, nhóm trưởng"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Để đánh giá và lựa chọn giải pháp trong quá trình giải quyết vấn đề và ra quyết định, nhà quản trị KHÔNG cần quan tâm.\nĐể thực hiện giải pháp, nhà quản trị cần?",
+    "answer": "Sự hồi hộp"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Chúng ta cần có bao nhiêu người để thực hiện từng phương án? Những người này đã có sẵn trong tổ chức hay chúng ta cần tuyển dụng và đào tạo?... Là các câu hỏi ví dụ cho bước nào của quá trình giải quyết vấn đề, ra quyết định?",
+    "answer": "Đánh giá và lựa chọn giải pháp"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Kỹ năng cần có ở một nhà đàm phán giỏi là:",
+    "answer": ". Kỹ năng lắng nghe"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Lập danh sách những công việc phải làm hàng ngày vào thời điểm?",
+    "answer": "Cuối ngày hôm trước hoặc đầu ngày hôm sau"
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Khi phân loại mục tiêu đàm phán, người ta thường phân thành mấy loại?",
+    "answer": ". 3"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Kỹ năng giao tiếp?",
+    "answer": "Quan trọng như nhau đối với mọi cấp nhà quản trị"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Kỹ năng chuyên môn là?",
+    "answer": "Trình độ chuyên môn nghiệp vụ"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Sơ đồ quản lý thời gian có?",
+    "answer": "5 chữ A"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Các chức danh nào sau đây thuộc nhóm quản trị viên cấp trung gian?",
+    "answer": "Quản đốc phân xưởng, trưởng ban tài chính, trưởng phòng tổ chức"
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Nhắc lịch là thế hệ quản lý thời gian?",
+    "answer": "Thứ nhất"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Vai trò lãnh đạo của nhà quản trị thuộc nhóm vai trò?",
+    "answer": "Quan hệ với con người"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Lựa chọn câu trả lời đúng nhất? (trung bình) Lý do cơ bản của các cuộc đàm phán là:",
+    "answer": ". Thỏa mãn nhu cầu"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Kỹ năng tư duy là kỹ năng quan trọng nhất đối với?",
+    "answer": "Nhà quản trị cấp cao"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Vai trò nào KHÔNG thuộc nhóm vai trò Thông tin?",
+    "answer": "Thương thuyết"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Lợi ích của quản lý thời gian là?",
+    "answer": "Nâng cao hiệu quả công việc, tăng thời gian riêng tư, tăng niềm vui trong công việc"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Quy trình chuẩn của giải quyết vấn đề và ra quyết định là?",
+    "answer": "Xác định vấn đề, Xác định mục tiêu, Xác định các giải pháp thay thế, Đánh giá và lựa chọn giải pháp, Thực hiện giải pháp, Đánh giá, kiểm tra kết quả thực hiện"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò lãnh đạo có nhiệm vụ?",
+    "answer": "Ghi chép, Phán đoán những “sự thật bị che giấu” trong quá trình đàm phán"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Nghề quản trị là?",
+    "answer": "Nghề lãnh đạo doanh nghiệp"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Đàm phán được chia làm bao nhiêu giai đoạn?",
+    "answer": "5"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Theo quan điểm của Robert Katz, kỹ năng quản trị bao gồm?",
+    "answer": "Kỹ năng chuyên môn, kỹ năng nhân sự, kỹ năng tư duy"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Quản lý thời gian chính là?",
+    "answer": "Quản lý bản thân"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Quá trình đàm phán có thể KHÔNG bị ảnh hưởng bởi:",
+    "answer": ". Các khác biệt về quy mô vốn của đối tác"
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Khi xác định các phương án thay thế tốt nhất, chúng ta nên xác định bao nhiêu phương án?",
+    "answer": ". Càng nhiều càng tốt"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Người đàm phán giỏi phải biết:",
+    "answer": ". Trình bày, sử dụng từ ngữ một cách khôn khéo, linh hoạt."
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò tổng kết có nhiệm vụ?",
+    "answer": "Đặt câu hỏi cho phía đối tác, Giải thích những thắc mắc của phía đối tác để làm rõ vấn đề, Tóm tắt những nội dung đã thảo luận vào những thời điểm phù hợp"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Kẻ cắp thời gian bao gồm?",
+    "answer": "Không biết nói “Không”, văn phòng bừa bộn, trì hoãn công việc"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Sử dụng phương pháp Delphi cần?",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Quyết định lặp lại theo chu kì liên tục, giống nhau về bản chất cũng như cách thức là?",
+    "answer": "Quyết định có tính định kỳ"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Để thu thập thông tin trong giai đoạn chuẩn bị đàm phán, cần lấy thông tin từ, NGOẠI TRỪ:",
+    "answer": ". Đối tác"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Công việc ở ô vừa khẩn cấp vừa quan trọng?",
+    "answer": "Thực hiện ngay"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Kỹ năng quản trị là yếu tố thuộc về?",
+    "answer": "Hành vi"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Trong đàm phán, mong muốn của chúng ta thường:",
+    "answer": ". Bị giới hạn bởi mong muốn của đối tác đàm phán"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Kết quả của việc luôn phải giải quyết các công việc ở ô số 1 trong ma trận quản lý thời gian là?",
+    "answer": "Stress, căng thẳng, kiệt sức"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Xác định phương án thay thế tốt nhất thuộc giai đoạn:",
+    "answer": ". Chuẩn bị đàm phán"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Trong đoàn đàm phán, người đóng vai trò tổng kết có nhiệm vụ:",
+    "answer": ". Đặt câu hỏi cho phía đối tác, Giải thích những thắc mắc của phía đối tác để làm rõ vấn đề, Tóm tắt những nội dung đã thảo luận vào những thời điểm phù hợp"
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Vai trò nào KHÔNG thuộc nhóm vai trò Ra quyết định?",
+    "answer": "Phát ngôn"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Quản lý thời gian tốt là?",
+    "answer": "Cân bằng giữa công việc và cuộc sống"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Kỹ năng quản trị là kỹ năng cần có của?\n\n:: KNQT.B1.037:: Nhà quản trị giỏi cần?\n{\n~ Kiến thức\n~ Kỹ năng\n~ Thái độ\n= Kiến thức, kỹ năng và thái độ\n####",
+    "answer": "Nghề lãnh đạo doanh nghiệp"
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Vai trò phát ngôn của nhà quản trị thuộc nhóm vai trò?",
+    "answer": "Thông tin"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Kỹ năng quản trị bao gồm:",
+    "answer": "Những khả năng, kinh nghiệm, năng lực đặc biệt và mức độ thành thạo"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Trong các giai đoạn của quá trình đàm phán, giai đoạn quan trọng nhất là:",
+    "answer": ". Giai đoạn chuẩn bị"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Đặc tính của thời gian là?",
+    "answer": "Là một tài sản hao mòn dần"
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Ma trận quản lý thời gian được xây dựng dựa trên?",
+    "answer": "Tính khẩn cấp và tầm quan trọng của công việc"
+  }
+]

@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Trong các mô hình thương mại điện tử dưới đây, mô hình thương mại điện tử không mang tính thương mại là:",
+    "answer": "G2G"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Quan hệ thương mại trực tiếp là quan hệ có sự tham gia của",
+    "answer": "2 chủ thể."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Đối với nhóm vật tư nguyên vật liệu, công tác hậu cần vật tư ở doanh nghiệp có đặc điểm:",
+    "answer": "thường xuyên, liên tục"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Trên trang chủ website, vùng nên đặt thông tin về sản phẩm, dịch vụ là:",
+    "answer": "vùng 4."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Một trong những nguyên nhân làm cho quan hệ thương mại ngày càng trở nên phức tạp hơn là do",
+    "answer": "Sự phát triển sản xuất trên những vùng mới"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "“Trang thông tin điện tử (Website) là hệ thống thông tin dùng để thiết lập một hoặc nhiều trang thông tin được trình bày dưới dạng ký hiệu, số, chữ viết, hình ảnh, âm thanh và các dạng thông tin khác phục vụ cho việc cung cấp và sử dụng thông tin trên Internet” là khái niệm được quy định tại:",
+    "answer": "Nghị định Số 72/2013/NĐCP về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Các biện pháp cân đối về cung cầu dịch vụ được sử dụng để khắc phục đặc điểm nào của sản phẩm dịch vụ",
+    "answer": "Tính không lưu giữ được"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Dưới đây là những giải pháp nhằm gia tăng kết quả và hiệu quả kinh doanh dịch vụ, ngoại trừ:",
+    "answer": "tăng số lượng lao động"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Khách hàng vị lợi là:",
+    "answer": "khách hàng mua hàng để đáp ứng một mục tiêu hoặc thực hiện một nhiệm vụ cụ thể"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Tác động của thuế nhập khẩu là:",
+    "answer": "làm cho số lượng hàng nhập khẩu giảm đi."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Dưới đây là những giải pháp nhằm gia tăng kết quả và hiệu quả kinh doanh dịch vụ, ngoại trừ:",
+    "answer": "tăng số lượng lao động."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Khi thực hiện hạn chế xuất khẩu tự nguyện nó cũng có tác động kinh tế như hạn ngạch nhưng thường mang đặc tính gì?",
+    "answer": "miễn cưỡng và gắn với điều kiện nhất định."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Trong số các loại hình kinh doanh sau đây, loại hình kinh doanh nào KHÔNG thể cung ứng đồng bộ hàng hóa cho khách hàng?",
+    "answer": "Kinh doanh chuyên môn hóa."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Theo đặc điểm đối với hệ thống quản lý, quan hệ thương mại bao gồm:",
+    "answer": "kinh tế ngành, liên ngành, lãnh thổ và giữa các lãnh thổ"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Những điều sau đây đều đúng khi nói về các biện pháp giảm thiểu lượng đặt hàng vật tư ở doanh nghiệp, ngoại trừ",
+    "answer": "tăng mức tiêu dùng vật tư"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Khi phân loại dịch vụ thương mại theo quá trình sản xuất kinh doanh, các loại dịch vụ được chia thành:",
+    "answer": "Dịch vụ trước, trong và sau quá trình sản xuất kinh doanh"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Nhiệm vụ chủ yếu của thương mại là:",
+    "answer": "nâng cao hiệu quả của hoạt động kinh doanh thương mại, dịch vụ."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Yếu tố KHÔNG phải lợi ích của Thương mại điện tử đối với người tiêu dùng là:",
+    "answer": "chất lượng sản phẩm đảm bảo hơn"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Hạn ngạch từng là công cụ phổ biến của",
+    "answer": "Hàng rào phi thuế quan"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Những giải pháp dưới đây được đề xuất trong Kế hoạch tổng thể phát triển thương mại điện tử quốc gia giai đoạn 2021 – 2025 (phê duyệt tại Quyết định số 645/QĐ-TTg ngày 15/05/2020), ngoại trừ:",
+    "answer": "Đẩy mạnh đào tạo và nâng cao chất lượng nguồn nhân lực thương mại điện tử"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Dịch vụ bảo hành, bảo dưỡng, sửa chữa sản phẩm, hàng hóa là:",
+    "answer": "dịch vụ miễn phí hoặc trả phí trong từng trường hợp cụ thể"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Một trong những nội dung quản lý Nhà nước về thương mại là",
+    "answer": "Chuyên môn hóa sản xuất phát triển"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Quan hệ thương mại trực tiếp giữa các doanh nghiệp có ưu điểm sau đây, trừ ra:",
+    "answer": "Bảo đảm cung ứng đồng bộ vật tư cho sản xuất"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Thương mại là đối tượng quản lý của Nhà nước vì:",
+    "answer": "thương mại là lĩnh vực chứa đựng những mâu thuẫn của đời sống kinh tế, xã hội."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Về nguyên tắc, đãi ngộ Tối huệ quốc được hiểu là:",
+    "answer": "các ưu đãi thương mại của một thành viên dành cho một thành viên khác cũng phải được áp dụng cho tất cả các thành viên trong WTO."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Dưới đây là các bên chủ yếu tham gia vào thương mại điện tử, ngoại trừ:",
+    "answer": "người lao động."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Thuế quan hay thuế xuất nhập khẩu là",
+    "answer": "Là loại thuế gián thu"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Biện pháp giúp khắc phục tính không ổn định của sản phẩm dịch vụ là:",
+    "answer": "tiêu chuẩn hóa quy trình cung ứng dịch vụ"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Nhu cầu vật tư cho dự trữ được xác định theo phương pháp:",
+    "answer": "định mức"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Bước đầu tiên trong quy trình nghiên cứu thị trường là:",
+    "answer": "xác định mục tiêu nghiên cứu."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Để một website hoạt động cần có:",
+    "answer": "tên miền, hosting và nội dung."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Dưới đây là các phương tiện cơ bản để thực hiện thương mại điện tử, ngoại trừ:",
+    "answer": "radio"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Chức năng của thương mại là",
+    "answer": "tổ chức quá trình lưu chuyển hàng hóa, dịch vụ trong nước và ngoài nước."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Đối với nhóm thiết bị máy móc, công tác hậu cần vật tư ở doanh nghiệp có đặc điểm:",
+    "answer": "theo định kỳ."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Chức năng của thương mại",
+    "answer": "Là tiếp tục quá trình sản xuất trong khâu lưu thông"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Một trong những nội dung quản lý nhà nước về thương mại là định hướng phát triển:",
+    "answer": "ngành thương mại."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Khái niệm dịch vụ thương mại là:",
+    "answer": "những hoạt động tiếp tục, hoàn thiện, hỗ trợ, khuếch trương cho quá trình sản xuất kinh doanh, bao gồm các hoạt động trước, trong và sau quá trình sản xuất kinh doanh."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Quan hệ thương mại trực tiếp KHÔNG nên thiết lập trong trường hợp nào?",
+    "answer": "Nhu cầu tiêu dùng nhỏ, đột xuất."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Khi doanh nghiệp giảm giá bán sản phẩm, tổng doanh thu bán sản phẩm của doanh nghiệp tăng lên. Trong trường hợp này, hệ số co giãn của cầu sản phẩm theo giá là:",
+    "answer": "Tương đối co giãn"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Theo đặc điểm hình thành, quan hệ thương mại bao gồm",
+    "answer": "Định hướng trước và không định hướng trước"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Những yếu tố dưới đây tác động trực tiếp đến hiệu quả dịch vụ bảo hành, bảo dưỡng, sửa chữa hàng hóa, ngoại trừ:",
+    "answer": "hệ thống phương tiện vận tải hiện đại."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Chức năng của thương mại là",
+    "answer": "gắn sản xuất với thị trường."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Website Bizrate.com là ví dụ về công cụ:",
+    "answer": "Trang web xếp hạng kinh doanh"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Khái niệm thương mại theo nghĩa rộng",
+    "answer": "Là toàn bộ các hoạt động kinh doanh trên thị trường"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Cơ quan quản lý tên miền website ở Việt Nam hiện nay là:",
+    "answer": "Trung tâm Internet Việt Nam."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Doanh nghiệp định giá sản phẩm ở mức cao nghĩa là đang hướng đến mục tiêu:",
+    "answer": "dẫn đầu về chất lượng"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Kinh tế thị trường là:",
+    "answer": "kinh tế hàng hóa phát triển ở trình độ cao."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Trong kinh doanh hàng tư liệu sản xuất công nghiệp thì:",
+    "answer": "người tiêu dùng hiểu biết nhiều về hàng hóa."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Các hoạt động sau thuộc giai đoạn mua hàng của khách hàng trực tuyến theo mô hình thương mại điện tử B2C, ngoại trừ:",
+    "answer": "Nhận sản phẩm"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Phân loại vật tư kỹ thuật thành vật tư thông dụng và vật tư chuyên dụng là cách phân loại theo:",
+    "answer": "tính chất sử dụng."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Dưới đây là các hoạt động thuộc phạm vi hoạt động của Chính phủ với Người tiêu dùng (G2C), ngoại trừ:",
+    "answer": "bán hàng hoá và dịch vụ."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Thương mại, phân chia theo các khâu của quá trình lưu thông, bao gồm:",
+    "answer": "thương mại bán buôn; thương mại bán lẻ."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Hãy nêu cơ sở khoa học của các mối quan hệ kinh tế trong thương mại?",
+    "answer": "Phân công lao động xã hội."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Các hoạt động bao gói, lên nhãn hiệu, phân loại, ghép đồng bộ sản phẩm thuộc công tác:",
+    "answer": "Chuẩn bị sản phẩm để xuất bán."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Công tác mua sắm và quản lý vật tư tại doanh nghiệp sản xuất kinh doanh bao gồm:",
+    "answer": "5 bước"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Quan hệ thương mại gián tiếp nên thiết lập trong trường hợp nào?",
+    "answer": "Nhu cầu tiêu dùng nhỏ, đột xuất."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Một trong những nội dung quản lý nhà nước về thương mại là:",
+    "answer": "xây dựng và ban hành hệ thống pháp luật, chính sách thương mại."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Hiệu quả của phương pháp hành chính:",
+    "answer": "có tính chất tức thời."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Vai trò của thương mại đầu vào đối với doanh nghiệp là",
+    "answer": "Bảo đảm các yếu tố đầu vào cần thiết cho sản xuất kinh doanh"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Nhân tố nào sau đây làm cho các mối quan hệ kinh tế trở nên ít phức tạp hơn?",
+    "answer": "Tập trung hóa sản xuất"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Chức năng của thương mại là",
+    "answer": "chuyển hóa hình thái giá trị của hàng hóa."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Đơn hàng là:",
+    "answer": "yêu cầu mua mà chủ thể người mua gửi cho chủ thể người bán."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Dưới đây là các bên chủ yếu tham gia vào thương mại điện tử, ngoại trừ:",
+    "answer": "người lao động"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Khái niệm dịch vụ thương mại là:",
+    "answer": "những hoạt động tiếp tục, hoàn thiện, hỗ trợ, khuếch trương cho quá trình sản xuất kinh doanh, bao gồm các hoạt động trước, trong và sau quá trình sản xuất kinh doanh."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Amazon.com  là nhà bán lẻ trực tuyến lớn nhất Hoa Kỳ. Ở đây mô hình giao dịch thương mại điện tử được sử dụng là:",
+    "answer": "B2C"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Khái niệm thương mại theo nghĩa hẹp là:",
+    "answer": "quá trình mua bán hàng hóa, dịch vụ trên thị trường, là lĩnh vực phân phối và lưu thông hàng hóa."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Kinh doanh chuyên môn hóa là loại hình kinh doanh trong đó doanh nghiệp:",
+    "answer": "chỉ chuyên kinh doanh một hoặc một nhóm hàng hóa nhất định."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Tính chất của các mối quan hệ kinh tế trong thương mại là",
+    "answer": "Quan hệ về kinh tế, tổ chức và luật pháp"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Hoạt động thương mại, theo quy định của Luật Thương mại (2005) là",
+    "answer": "Hoạt động nhằm mục đích sinh lợi"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Thương mại, phân chia theo đặc điểm của hàng hóa, bao gồm",
+    "answer": "Thương mại hàng hóa; thương mại dịch vụ"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Khách hàng truyền thống tiết kiệm thời gian là:",
+    "answer": "khách hàng sử dụng internet để tìm kiếm thông tin về sản phẩm nhưng vẫn thích mua hàng theo cách truyền thống."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Đây là những vai trò của hoạt động thương mại đầu vào tại doanh nghiệp sản xuất kinh doanh, ngoại trừ:",
+    "answer": "Giúp doanh nghiệp mở rộng phạm vi thị trường"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Chức năng của thương mại",
+    "answer": "Là gắn sản xuất với thị trường"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Quan hệ thương mại trực tiếp giữa các doanh nghiệp có ưu điểm sau đây, trừ:",
+    "answer": "bảo đảm cung ứng đồng bộ vật tư cho sản xuất."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Việc trao đổi các dữ liệu dưới dạng “Có cấu trúc” từ máy tính điện tử này sang máy tính điện tử khác, giữa các công ty hay tổ chức đã thoả thuận buôn bán với nhau theo cách này một cách tự động mà không cần có sự can thiệp của con người là hình thức:",
+    "answer": "trao đổi dữ liệu điện tử"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Nhà nước phải quản lý thương mại vì:",
+    "answer": "thương mại là hoạt động mang tính liên ngành và xã hội hóa cao."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Một trong những nội dung của phương pháp hành chính là tác động:",
+    "answer": "bằng hệ thống pháp chế."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Quan hệ thương mại gián tiếp là quan hệ có sự tham gia của",
+    "answer": "Chủ thể sản xuất, chủ thể trung gian và chủ thể tiêu dùng"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Thực hiện tự do hóa thương mại có nghĩa là:",
+    "answer": "đạt tới sự hài hòa giữa tăng cường xuất khẩu với nới lỏng nhập khẩu."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Mua bán hàng hóa theo giá cả thị trường được đánh giá là:",
+    "answer": "động lực thúc đẩy sản xuất kinh doanh và vươn lên làm giàu."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Một trong những đặc trưng cơ bản của quan hệ thương mại là:",
+    "answer": "quan hệ hai chiều."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Dưới đây là các hình thức xúc tiến thương mại được quy định trong Luật Thương mại năm 2005, ngoại trừ:",
+    "answer": "quan hệ công chúng."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Những luận điểm dưới đây là đúng khi nói về tên miền, ngoại trừ:",
+    "answer": "“.vn” là phần mở rộng của tên miền."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Ở nước ta hiện nay, thương mại tự do được hiểu là tự do:",
+    "answer": "lưu thông hàng hóa, dịch vụ theo quy luật thị trường và theo pháp luật."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Bước đầu tiên trong quy trình nghiên cứu thị trường là:",
+    "answer": "xác định mục tiêu nghiên cứu"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Dưới đây là các phương tiện để thực hiện thương mại điện tử, ngoại trừ:",
+    "answer": "radio."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Chọn câu trả lời đúng nhất về sự khác biệt của sản phẩm dịch vụ và sản phẩm vật chất trong các câu sau đây?",
+    "answer": "Tính vô hình; tính không ổn định; tính không dự trữ được; tính không tách rời giữa cung ứng và tiêu dùng dịch vụ"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Chức năng của thương mại",
+    "answer": "Là tổ chức quá trình lưu chuyển hàng hóa, dịch vụ trong nước và ngoài nước"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Nội dung của các mối quan hệ kinh tế trong thương mại là:",
+    "answer": "quan hệ về vật chất, tổ chức và pháp lý."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Vai trò của thương mại đầu ra đối với doanh nghiệp là:",
+    "answer": "quyết định sự tồn tại và phát triển của doanh nghiệp."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Yếu tố KHÔNG phải là yếu tố bên ngoài ảnh hưởng đến việc định giá sản phẩm của doanh nghiệp là:",
+    "answer": "giá thành."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Kinh doanh đa dạng hóa là loại hình kinh doanh trong đó doanh nghiệp:",
+    "answer": "kinh doanh nhiều loại hàng hóa khác nhau nhưng dựa trên một mặt hàng chủ lực."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Dưới đây là các chỉ tiêu phản ánh các khía cạnh của chất lượng dịch vụ, ngoại trừ:",
+    "answer": "quy mô doanh nghiệp"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Mua bán hàng hóa theo giá cả thị trường được đánh giá là:",
+    "answer": "Động lực thúc đẩy sản xuất kinh doanh và vươn lên làm giàu"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Theo quy định của Tổ chức Thương mại thế giới thì thương mại bao gồm",
+    "answer": "Thương mại hàng hóa; thương mại dịch vụ; đầu tư; sở hữu trí tuệ"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Phương pháp kinh tế tác động tới:",
+    "answer": "lợi ích vật chất của chủ thể bị quản lý."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Phương pháp hành chính là sự tác động:",
+    "answer": "trực tiếp của chủ thể quản lý đến chủ thể bị quản lý nhằm bắt buộc thực hiện một hoạt động."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Vai trò của thương mại đầu vào đối với doanh nghiệp là:",
+    "answer": "bảo đảm các yếu tố đầu vào cần thiết cho sản xuất kinh doanh."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Nhiệm vụ chủ yếu của thương mại là:",
+    "answer": "đáp ứng tốt nhất mọi nhu cầu của sản xuất và đời sống."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Website mysimon.com là ví dụ về công cụ:",
+    "answer": "Robot mua hàng"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Tác động của thuế nhập khẩu",
+    "answer": "Là làm cho số lượng hàng nhập khẩu giảm đi"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Trong các dịch vụ dưới đây, dịch vụ thương mại là:",
+    "answer": "bảo hành, bảo dưỡng, sửa chữa sản phẩm, hàng hóa."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Dưới đây là các hình thức tiếp nhận vật tư về số lượng tại các doanh nghiệp sản xuất kinh doanh, ngoại trừ:",
+    "answer": "kiểm tra hóa đơn."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Để xác định lượng vật tư cần đặt mua kỳ kế hoạch, doanh nghiệp sử dụng phương pháp",
+    "answer": "cân đối."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Loại hình kinh doanh nào dưới đây thường khó đào tạo được các chuyên gia giỏi cho các ngành hàng kinh doanh?",
+    "answer": "Kinh doanh tổng hợp."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Một trong những nội dung của phương pháp tuyên truyền giáo dục là",
+    "answer": "Làm phong phú đời sống tinh thần của người lao động"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Vai trò của dịch vụ nói chung và dịch vụ thương mại nói riêng trong việc thúc đẩy sự chuyển dịch cơ cấu kinh tế theo hướng CNH-HĐH có thể minh chứng qua chỉ tiêu thống kê về:",
+    "answer": "Cơ cấu GDP phân theo khu vực kinh tế"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Kinh doanh tổng hợp là loại hình kinh doanh trong đó doanh nghiệp:",
+    "answer": "kinh doanh nhiều loại hàng hóa khác nhau."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Ở nước ta hiện nay, thương mại tự do được hiểu là",
+    "answer": "Tự do lưu thông hàng hóa, dịch vụ theo quy luật thị trường và theo pháp luật"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Một trong những vai trò của thương mại ở tầm vĩ mô là",
+    "answer": "Gắn thị trường trong nước với thị trường với thị trường ngoài nước"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Các nội dung dưới đây đều đúng khi nói về Tiêu thụ sản phẩm, ngoại trừ:",
+    "answer": "tiêu thụ sản phẩm là thuật ngữ gắn với doanh nghiệp thương mại"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Một trong những đặc trưng cơ bản của quan hệ thương mại là một loại quan hệ:",
+    "answer": "kinh tế."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Hàng hóa, theo quy định của Luật Thương mại (2005), bao gồm",
+    "answer": "Tất cả các loại động sản, kể cả động sản hình thành trong tương lai; Những vật gắn liền với đất đai"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Một trong những nội dung quản lý nhà nước về thương mại là quản lý Nhà nước các hoạt động:",
+    "answer": "xúc tiến thương mại."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Trong từng vùng trên trang chủ website, nội dung nên được sắp xếp theo mức độ quan trọng giảm dần theo hướng từ:",
+    "answer": "trên xuống dưới."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Nội dung của nguyên tắc “Thể chế hóa việc đánh giá” là:",
+    "answer": "đánh giá định kỳ và sự quan tâm từ các nhà quản lý cấp cao."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Khái niệm được quy định trong Luật Thương mại năm 2005 là:",
+    "answer": "cung ứng dịch vụ."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Giao dịch thương mại điện tử bao gồm bao nhiêu kiểu?",
+    "answer": "4"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Phương pháp kinh tế tác động tới",
+    "answer": "Lợi ích vật chất của chủ thể bị quản lý"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Những đặc điểm sau đây là đúng khi nói về chuỗi cung ứng kéo, ngoại trừ:",
+    "answer": "Trong mô hình chuỗi cung ứng kéo không tồn tại hàng tồn kho"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Nội dung chủ yếu của phương pháp kinh tế là:",
+    "answer": "sử dụng các đòn bẩy kinh tế và các đòn hãm kinh tế."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Cơ sở khách quan của sự tồn tại nhiều thành phần kinh tế trong thương mại ở nước ta hiện nay là do",
+    "answer": "Còn tồn tại nhiều hình thức sở hữu khác nhau về tư liệu sản xuất"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Trong cơ cấu các ngành kinh tế cấp 1 của Việt Nam có bao nhiêu ngành dịch vụ?",
+    "answer": "15"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Tiêu chí phản ánh khía cạnh Sự cảm thông trong cung ứng dịch vụ là:",
+    "answer": "cung ứng dịch vụ vào thời điểm thuận tiện."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Quan hệ thương mại gián tiếp nên thiết lập trong trường hợp nào?",
+    "answer": "Nhu cầu tiêu dùng nhỏ, đột xuất"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Một trong những nguyên nhân làm cho quan hệ thương mại ngày càng trở nên phức tạp hơn là do:",
+    "answer": "sự phát triển sản xuất trên những vùng mới."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Thương mại theo giá cả thị trường được hiểu là mua bán theo mức giá:",
+    "answer": "hình thành trên cơ sở giá trị thị trường."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Phương pháp kinh tế sử dụng các đòn bẩy kinh tế:",
+    "answer": "như là tiền lương, thu nhập, giá cả, lợi nhuận…"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Trong số các loại hình kinh doanh sau đây, loại hình kinh doanh nào không thể cung ứng đồng bộ hàng hóa cho khách hàng?",
+    "answer": "Kinh doanh chuyên môn hóa"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Đặc trưng cơ bản của chuỗi cung cấp kéo làm nó khác biệt với chuỗi cung cấp đẩy là:",
+    "answer": "cá nhân hóa sản phẩm"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Tên miền “BIZ.VN” là tên miền dành cho:",
+    "answer": "dành cho tổ chức, cá nhân hoạt động thương mại."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Các tiêu chí dưới đây đảm bảo về khía cạnh Sự phản hồi trong cung ứng dịch vụ, ngoại trừ:",
+    "answer": "nhân viên có trình độ chuyên môn và kỹ năng ứng xử với khách hàng tốt."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Thương mại, phân chia theo mức độ can thiệp của Nhà nước vào quá trình thương mại, bao gồm",
+    "answer": "Thương mại tự do; thương mại có sự bảo hộ"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Tính không tách rời của sản phẩm dịch vụ thể hiện là:",
+    "answer": "cung ứng và tiêu dùng dịch vụ diễn ra đồng thời."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Nội dung chủ yếu của phương pháp kinh tế là",
+    "answer": "Sử dụng các đòn bẩy kinh tế và các đòn hãm kinh tế"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Kinh tế thương mại ít đề cập nhất đến:",
+    "answer": "Tổ chức quản lý sản xuất"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Quan hệ thương mại trực tiếp là quan hệ có sự tham gia của",
+    "answer": "2 chủ thể"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Trong các mô hình thương mại điện tử dưới đây, mô hình KHÔNG phải là giao dịch giữa doanh nghiệp với các đối tác bên ngoài là:",
+    "answer": "B2E"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Một trong những nguyên nhân làm cho quan hệ thương mại ngày càng trở nên phức tạp hơn là do:",
+    "answer": "quy mô sản xuất kinh doanh ngày càng lớn."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Thương mại là đối tượng quản lý của Nhà nước vì",
+    "answer": "Trong hoạt động thương mại, có các doanh nghiệp nhà nước"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Dưới đây là các hình thức tiếp nhận hàng hóa về số lượng ở các doanh nghiệp, ngoại trừ:",
+    "answer": "kiểm tra hóa đơn."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Dưới đây là các hàng hóa phù hợp với mua sắm trực tuyến, ngoại trừ:",
+    "answer": "các sản phẩm có mức giá cao"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Hạn ngạch là công cụ phổ biến của:",
+    "answer": "hàng rào phi thuế quan."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Sản phẩm dịch vụ mang những đặc điểm sau đây, ngoại trừ",
+    "answer": "Tính ổn định về chất lượng"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Biện pháp để khắc phục tính vô hình của dịch vụ là:",
+    "answer": "tăng cường sử dụng các yếu tố hữu hình trong công tác xúc tiến, bán hàng."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Khái niệm thương mại:",
+    "answer": "được hiểu theo cả nghĩa hẹp và theo nghĩa rộng."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Kinh doanh chuyên môn hóa là loại hình kinh doanh trong đó doanh nghiệp",
+    "answer": "Chỉ chuyên kinh doanh một hoặc một nhóm hàng hóa nhất định"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Đơn hàng",
+    "answer": "Là yêu cầu mua mà chủ thể người mua gửi cho chủ thể người bán"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Hàng hóa, theo quy định của Luật Thương mại (2005), bao gồm tất cả các loại:",
+    "answer": "động sản, kể cả động sản hình thành trong tương lai; Những vật gắn liền với đất đai."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Thương mại, phân chia theo kỹ thuật giao dịch, bao gồm:",
+    "answer": "thương mại truyền thống; thương mại điện tử."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Nhân tố nào sau đây làm cho các mối quan hệ kinh tế trở nên ít phức tạp hơn?",
+    "answer": "Tập trung hóa sản xuất."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Vai trò của dịch vụ sau quá trình sản xuất kinh doanh là:",
+    "answer": "giúp thỏa mãn tối đa nhu cầu của khách hàng."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Biện pháp nào sau đây KHÔNG nhằm khắc phục tính không lưu giữ được của sản phẩm dịch vụ?",
+    "answer": "tăng cường đào tạo đội ngũ nhân viên bán hàng."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Để quản lý tập trung thống nhất cần sử dụng",
+    "answer": "Phương pháp hành chính"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Các phương pháp quản lý thương mại bao gồm:",
+    "answer": "phương pháp hành chính, phương pháp kinh tế và phương pháp tuyên truyền, giáo dục."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Nguyên nhân của tính không dự trữ được của sản phẩm dịch vụ là:",
+    "answer": "do dịch vụ chỉ được tạo ra khi khách hàng sử dụng dịch vụ."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Chức năng của thương mại mang tính:",
+    "answer": "khách quan."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Tính không tách rời của sản phẩm dịch vụ thể hiện là:",
+    "answer": "cung ứng và tiêu dùng dịch vụ diễn ra đồng thời"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Dưới đây là các hình thức hoạt động của thương mại điện tử, ngoại trừ:",
+    "answer": "thanh toán tiền mặt."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Kinh tế thương mại là môn học nghiên cứu:",
+    "answer": "Các quan hệ kinh tế trong lĩnh vực kinh doanh trong nước và quốc tế; Những hiện tượng và quá trình kinh tế diễn ra trong lĩnh vực phân phối và lưu thông hàng hóa; Đặc trưng và tính quy luật của sự vận động và phát triển thương mại; Những chính sách và công cụ quản lý thương mại"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Công tác mua sắm và quản lý vật tư gồm:",
+    "answer": "6 bước."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Quan hệ thương mại trực tiếp là quan hệ có sự tham gia của",
+    "answer": "Chủ thể sản xuất và chủ thể tiêu dùng"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Nhà nước phải quản lý thương mại vì",
+    "answer": "Thương mại là hoạt động mang tính liên ngành và xã hội hóa cao"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Dưới đây là các ưu điểm của thông tin thứ cấp, ngoại trừ:",
+    "answer": "đáng tin cậy."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Phương pháp tuyên truyền giáo dục tác động tới",
+    "answer": "Lợi ích tinh thần và năng lực chuyên môn của chủ thể bị quản lý"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Ý nghĩa của hoạt động xúc tiến thương mại là:",
+    "answer": "thúc đẩy cơ hội mua bán hàng hóa, cung ứng dịch vụ."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Phương pháp hành chính",
+    "answer": "Là sự tác động trực tiếp của chủ thể quản lý đến chủ thể bị quản lý nhằm bắt buộc thực hiện một hoạt động"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Nhiệm vụ của thương mại mang tính:",
+    "answer": "chủ quan."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Thương mại là đối tượng quản lý của Nhà nước vì:",
+    "answer": "trong hoạt động thương mại, có các doanh nghiệp nhà nước."
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Kết quả và hiệu quả kinh doanh dịch vụ bị ảnh hưởng trực tiếp bởi:",
+    "answer": "lao động và quản lý lao động."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Một trong những nội dung quản lý Nhà nước về thương mại là",
+    "answer": "Định hướng phát triển ngành thương mại"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Quan hệ thương mại trực tiếp là quan hệ có sự tham gia của:",
+    "answer": "chủ thể sản xuất và chủ thể tiêu dùng."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Khách hàng vị lợi là:",
+    "answer": "khách hàng mua hàng để đáp ứng một mục tiêu hoặc thực hiện một nhiệm vụ cụ thể"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Nội dung của tự do hoá thương mại là, để tạo điều kiện ngày càng thuận lợi hơn cho việc phát triển các hoạt động thương mại cả về bề rộng và bề sâu, nhà nước áp dụng các biện pháp để:",
+    "answer": "từng bước giảm thiểu những trở ngại về hàng rào thuế quan và hàng rào phi thuế quan trong quan hệ mậu dịch."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Theo khâu trung gian, quan hệ thương mại bao gồm:",
+    "answer": "trực tiếp và gián tiếp."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Thông tin thứ cấp là thông tin:",
+    "answer": "sẵn có trên thị trường"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Các hoạt động bao gói, lên nhãn hiệu, phân loại, ghép đồng bộ sản phẩm thuộc công tác:",
+    "answer": "chuẩn bị sản phẩm để xuất bán"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Hoạt động thương mại, theo quy định của Luật Thương mại (2005) là hoạt động:",
+    "answer": "nhằm mục đích sinh lợi."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Trên thương trường, doanh nghiệp có thể cạnh tranh bằng các công cụ dưới đây, ngoại trừ:",
+    "answer": "xúc tiến thương mại."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Theo đặc điểm đối với hệ thống quản lý, quan hệ thương mại bao gồm",
+    "answer": "Kinh tế ngành, liên ngành, lãnh thổ và giữa các lãnh thổ"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Mô hình thương mại điện tử thường sử dụng các phương thức mã vạch, mã số, trao đổi dữ liệu điện tử (EDI) là:",
+    "answer": "B2B"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Những nội dung sau đây là đúng khi nói đến Dịch vụ cho thuê máy móc thiết bị, ngoại trừ:",
+    "answer": "áp dụng đối với những máy móc thiết bị sử dụng thường xuyên."
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Những yếu tố dưới đây tác động trực tiếp đến hiệu quả dịch vụ bảo hành, bảo dưỡng, sửa chữa hàng hóa, ngoại trừ:",
+    "answer": "hệ thống phương tiện vận tải hiện đại."
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Chức năng của thương mại",
+    "answer": "Là tổ chức quá trình lưu chuyển hàng hóa, dịch vụ trong nước và ngoài nước"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Dịch vụ cung ứng vật tư đồng bộ có đảm bảo là",
+    "answer": "dịch vụ trước quá trình sản xuất kinh doanh."
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Những nguyên tắc dưới đây là nguyên tắc cơ bản trong đánh giá dịch vụ, ngoại trừ:",
+    "answer": "chia sẻ thông tin giữa lãnh đạo và các phòng ban, bộ phận trong công ty."
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Biện pháp gia tăng hiệu quả kinh tế nhờ tính không tách rời của sản phẩm dịch vụ là:",
+    "answer": "tạo điều kiện để những người cung ứng đặc biệt làm việc với số đông khách hàng hơn."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Tác động của thuế nhập khẩu",
+    "answer": "Là làm cho số lượng hàng nhập khẩu giảm đi"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Các phương pháp quản lý thương mại bao gồm",
+    "answer": "Phương pháp hành chính, phương pháp kinh tế và phương pháp tuyên truyền, giáo dục"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Website mysimon.com là ví dụ về công cụ:",
+    "answer": "Robot mua hàng"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Thương mại, phân chia theo phạm vi hoạt động (biên giới quốc gia), bao gồm:",
+    "answer": "thương mại trong nước; thương mại quốc tế."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Thương mại, phân chia theo đặc điểm của hàng hóa, bao gồm",
+    "answer": "Thương mại hàng hóa; thương mại dịch vụ"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Về nguyên tắc, đãi ngộ Tối huệ quốc được hiểu là:",
+    "answer": "các ưu đãi thương mại của một thành viên dành cho một thành viên khác cũng phải được áp dụng cho tất cả các thành viên trong WTO."
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "“Trang thông tin điện tử (Website) là hệ thống thông tin dùng để thiết lập một hoặc nhiều trang thông tin được trình bày dưới dạng ký hiệu, số, chữ viết, hình ảnh, âm thanh và các dạng thông tin khác phục vụ cho việc cung cấp và sử dụng thông tin trên Internet” là khái niệm được quy định tại:",
+    "answer": "Nghị định Số 72/2013/NĐCP về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng."
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Khi thực hiện hạn chế xuất khẩu tự nguyện nó cũng có tác động kinh tế như hạn ngạch nhưng thường mang đặc tính gì?",
+    "answer": "miễn cưỡng và gắn với điều kiện nhất định."
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Thương mại, phân chia theo mức độ can thiệp của Nhà nước vào quá trình thương mại, bao gồm",
+    "answer": "Thương mại tự do; thương mại có sự bảo hộ"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Để xác định lượng vật tư cần đặt mua kỳ kế hoạch, doanh nghiệp sử dụng phương pháp:",
+    "answer": "cân đối"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Biện pháp gia tăng hiệu quả kinh tế nhờ tính không tách rời của sản phẩm dịch vụ là:",
+    "answer": "tạo điều kiện để những người cung ứng đặc biệt làm việc với số đông khách hàng hơn"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Dưới đây là các mục tiêu cơ bản trong định giá, ngoại trừ:",
+    "answer": "phát triển"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Một trong những nhiệm vụ chủ yếu của thương mại là",
+    "answer": "Phát triển thương mại bền vững và bao trùm"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Dưới đây là các hình thức tiếp nhận hàng hóa về số lượng ở các doanh nghiệp, ngoại trừ:",
+    "answer": "kiểm tra hóa đơn."
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Một trong những nội dung của phương pháp hành chính là",
+    "answer": "Tác động bằng hệ thống pháp chế"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Kỹ thuật định giá lấy khách hàng làm trung tâm là định giá:",
+    "answer": "theo sự chấp nhận giá của khách hàng."
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Để một website hoạt động cần có:",
+    "answer": "tên miền, hosting và nội dung."
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Phương pháp hành chính",
+    "answer": "Là sự tác động trực tiếp của chủ thể quản lý đến chủ thể bị quản lý nhằm bắt buộc thực hiện một hoạt động"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Những nhận định sau đây là đúng khi nói về doanh nghiệp sản xuất kinh doanh, ngoại trừ:",
+    "answer": "Doanh nghiệp sản xuất kinh doanh thực hiện chức năng lưu thông hàng hoá trên thị trường"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Công tác Lập kế hoạch mua sắm vật tư gồm:",
+    "answer": "4 bước"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Việc xây dựng Tháp chi phí cần đảm bảo các yêu cầu dưới đây, ngoại trừ:",
+    "answer": "sử dụng những tiêu chuẩn bên ngoài để xây dựng tháp chi phí."
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Vai trò của dịch vụ trước quá trình sản xuất kinh doanh là:",
+    "answer": "giúp tối ưu hoá đầu vào cho doanh nghiệp"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Chọn câu trả lời đúng nhất về sự khác biệt của sản phẩm dịch vụ và sản phẩm vật chất trong các câu sau đây?",
+    "answer": "Tính vô hình; tính không ổn định; tính không dự trữ được; tính không tách rời giữa cung ứng và tiêu dùng dịch vụ"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Khái niệm dịch vụ thương mại là:",
+    "answer": "những hoạt động tiếp tục, hoàn thiện, hỗ trợ, khuếch trương cho quá trình sản xuất kinh doanh, bao gồm các hoạt động trước, trong và sau quá trình sản xuất kinh doanh."
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Cơ sở khách quan của sự tồn tại nhiều thành phần kinh tế trong thương mại ở nước ta hiện nay là do:",
+    "answer": "còn tồn tại nhiều hình thức sở hữu khác nhau về tư liệu sản xuất."
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Các nội dung dưới đây phản ánh tiêu chuẩn SMART trong xây dựng mục tiêu, ngoại trừ:",
+    "answer": "mục tiêu phải bao quát."
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Một trong những nội dung quản lý nhà nước về thương mại là:",
+    "answer": "xây dựng và ban hành hệ thống pháp luật, chính sách thương mại."
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Ebay.com hoạt động theo mô hình đấu giá trực tuyến với thành phần tham gia phần lớn là các cá nhân. Ebay là website Thương mại điện tử:",
+    "answer": "C2C"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Hiệu quả của phương pháp hành chính:",
+    "answer": "có tính chất tức thời."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Kinh doanh chuyên môn hóa là loại hình kinh doanh trong đó doanh nghiệp:",
+    "answer": "chỉ chuyên kinh doanh một hoặc một nhóm hàng hóa nhất định."
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Một trong những nội dung quản lý nhà nước về thương mại là:",
+    "answer": "tổ chức bộ máy quản lý nhà nước về thương mại."
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Một trong những nội dung quản lý Nhà nước về thương mại là",
+    "answer": "Chuyên môn hóa sản xuất phát triển"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Quan hệ thương mại trực tiếp là quan hệ có sự tham gia của:",
+    "answer": "chủ thể sản xuất và chủ thể tiêu dùng."
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Nguồn vật tư tồn kho đầu kỳ tại doanh nghiệp sản xuất kinh doanh được xác định theo phương pháp:",
+    "answer": "Ước tính"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Theo sự bền vững, quan hệ thương mại bao gồm",
+    "answer": "Theo từng thương vụ, ngắn hạn và dài hạn"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Nhu cầu vật tư cho dự trữ được xác định theo phương pháp:",
+    "answer": "định mức"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Nhiệm vụ chủ yếu của thương mại là:",
+    "answer": "nâng cao hiệu quả của hoạt động kinh doanh thương mại, dịch vụ."
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Mua bán hàng hóa theo giá cả thị trường được đánh giá là:",
+    "answer": "động lực thúc đẩy sản xuất kinh doanh và vươn lên làm giàu."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Yếu tố KHÔNG phải là yếu tố bên ngoài tác động đến việc định giá sản phẩm của doanh nghiệp là:",
+    "answer": "giá thành sản phẩm"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trong các hoạt động dưới đây, hoạt động thuộc giai đoạn tiền mua hàng của khách hàng trực tuyến theo mô hình thương mại điện tử B2C là:",
+    "answer": "So sánh và lựa chọn sản phẩm trên các tiêu chí khác nhau"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Dịch vụ giao nhận hàng hóa là:",
+    "answer": "dịch vụ mà tổ chức, cá nhân nhận hàng từ người gửi, tổ chức vận chuyển, lưu kho, lưu bãi, làm các thủ tục giấy tờ và các dịch vụ khác có liên quan để giao hàng cho người nhận theo sự ủy thác của chủ hàng, của người vận tải, hoặc của người làm dịch vụ giao nhận khác."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Những nội dung sau đây là đúng khi nói đến Dịch vụ cho thuê máy móc thiết bị, ngoại trừ:",
+    "answer": "áp dụng đối với những máy móc thiết bị sử dụng thường xuyên"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Nguồn vật tư tồn kho đầu kỳ tại doanh nghiệp sản xuất kinh doanh được xác định theo phương pháp:",
+    "answer": "Ước tính"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Đối với nhóm nguyên vật liệu, công tác hậu cần vật tư ở doanh nghiệp có đặc điểm:",
+    "answer": "thường xuyên, liên tục."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Nội dung của tự do hoá thương mại là, để tạo điều kiện ngày càng thuận lợi hơn cho việc phát triển các hoạt động thương mại cả về bề rộng và bề sâu, nhà nước áp dụng các biện pháp để",
+    "answer": "Từng bước giảm thiểu những trở ngại về hàng rào thuế quan và hàng rào phi thuế quan trong quan hệ mậu dịch"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Nội dung hoạt động Tiêu thụ sản phẩm bao gồm:",
+    "answer": "8 bước"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Thương mại, phân chia theo phạm vi hoạt động (biên giới quốc gia), bao gồm:",
+    "answer": "thương mại trong nước; thương mại quốc tế."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Biện pháp để khắc phục tính vô hình của dịch vụ là:",
+    "answer": "tăng cường sử dụng các yếu tố hữu hình trong công tác xúc tiến, bán hàng"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Ebay.com hoạt động theo mô hình đấu giá trực tuyến với thành phần tham gia phần lớn là các cá nhân. Ebay là website Thương mại điện tử:",
+    "answer": "C2C"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Trong những loại hàng hoá dưới đây, loại hàng hoá phù hợp hơn với mua sắm trực tuyến là:",
+    "answer": "Các sản phẩm số hoá"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Dưới đây là các kỹ thuật định giá, ngoại trừ:",
+    "answer": "định giá chiết khấu"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Kinh tế thị trường có sự quản lý của Nhà nước",
+    "answer": "Là nền kinh tế hỗn hợp vừa có cơ chế tự điều chỉnh của thị trường và vừa có cơ chế quản lý, điều tiết của Nhà nước"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Xu hướng của quan hệ thương mại là:",
+    "answer": "ngày càng phức tạp hơn."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Nhu cầu vật tư cho sản xuất sản phẩm tại doanh nghiệp sản xuất kinh doanh được xác định bằng các phương pháp sau, ngoại trừ:",
+    "answer": "Phương pháp tính theo chu kỳ sản xuất"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Khái niệm thương mại theo nghĩa rộng là:",
+    "answer": "toàn bộ các hoạt động kinh doanh trên thị trường."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Thuế quan hay thuế xuất nhập khẩu là:",
+    "answer": "loại thuế gián thu."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Vai trò của thương mại đầu ra đối với doanh nghiệp là",
+    "answer": "Quyết định sự tồn tại và phát triển của doanh nghiệp"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Các luận điểm dưới đây là đúng khi nói đến mô hình thương mại điện tử B2C, ngoại trừ:",
+    "answer": "bán hàng trực tuyến hoàn toàn độc lập với bán hàng truyền thống"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Dưới đây là các luận điểm đúng khi nói đến website, ngoại trừ:",
+    "answer": "khi website được xây dựng tốt về mọi hình thức thì không cần nhân viên quản trị để chăm sóc."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Hoạt động mua sắm các yếu tố đầu vào cho sản xuất là hoạt động:",
+    "answer": "Thương mại đầu vào"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Kinh doanh tổng hợp là loại hình kinh doanh trong đó doanh nghiệp",
+    "answer": "Kinh doanh nhiều loại hàng hóa khác nhau"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Kinh tế thương mại là môn học nghiên cứu:",
+    "answer": "diễn ra trong lĩnh vực phân phối và lưu thông hàng hóa; Đặc trưng và tính quy luật của sự vận động và phát triển thương mại; Những chính sách và công cụ quản lý thương mại."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Kỹ thuật định giá lấy người bán làm trung tâm là:",
+    "answer": "định giá theo lợi nhuận mục tiêu."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Các yếu tố dưới đây là cơ sở để doanh nghiệp sản xuất kinh doanh tổ chức kênh phân phối sản phẩm, ngoại trừ:",
+    "answer": "Trình độ công nghệ của doanh nghiệp"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Khi thực hiện hạn chế xuất khẩu tự nguyện nó cũng có tác động kinh tế như hạn ngạch nhưng thường mang đặc tính gì?",
+    "answer": "Miễn cưỡng và gắn với điều kiện nhất định"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trong kinh doanh hàng công nghiệp tiêu dùng thì:",
+    "answer": "người tiêu dùng ít hiểu biết về hàng hóa có hệ thống."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Khái niệm \"kinh doanh hàng hóa\" được hiểu như thế nào là đúng?",
+    "answer": "Là sự đầu tư tiền của, công sức của một cá nhân hay tổ chức kinh tế vào lĩnh vực mua bán hàng hóa nhằm tìm kiếm lợi nhuận."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Nhiệm vụ chủ yếu của thương mại",
+    "answer": "Là nâng cao hiệu quả của hoạt động kinh doanh thương mại, dịch vụ"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Việc trao đổi các dữ liệu dưới dạng “Có cấu trúc” từ máy tính điện tử này sang máy tính điện tử khác, giữa các công ty hay tổ chức đã thoả thuận buôn bán với nhau theo cách này một cách tự động mà không cần có sự can thiệp của con người là hình thức:",
+    "answer": "trao đổi dữ liệu điện tử."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Mô hình Thương mại điện tử thực hiện các giao dịch trao đổi dữ liệu về quản lý tài chính, nhân sự, marketing và hậu cần sản xuất giữa các doanh nghiệp được gọi là mô hình thương mại điện tử:",
+    "answer": "B2B"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Khi gạo tăng giá thì lượng cầu về gạo giảm nhẹ. Nhưng tổng doanh thu bán gạo vẫn tăng lên. Đường cầu mặt hàng gạo là đường cầu:",
+    "answer": "ít co giãn."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Nguyên nhân của tính không dự trữ được của sản phẩm dịch vụ là:",
+    "answer": "do việc cung ứng và tiêu dùng dịch vụ diễn ra đồng thời"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Đứng trên góc độ doanh nghiệp cung ứng dịch vụ, khái niệm Chất lượng dịch vụ là:",
+    "answer": "việc bảo đảm cung cấp dịch vụ theo đúng kịch bản với kỹ năng nghiệp vụ cao của nhân viên cung ứng và đội ngũ cán bộ quản lý."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Khái niệm thương mại",
+    "answer": "Được hiểu theo cả nghĩa hẹp và theo nghĩa rộng"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Công cụ sử dụng để thực hiện bảo hộ mậu dịch:",
+    "answer": "bao gồm thuế quan, các công cụ hành chính và các biện pháp kỹ thuật khác."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Các câu hỏi thường gặp (FAQs) được sử dụng nhiều vì những lí do sau đây, ngoại trừ",
+    "answer": "FAQs có thể trả lời mọi câu hỏi của khách hàng."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Một trong những nguyên nhân làm cho quan hệ thương mại ngày càng trở nên phức tạp hơn là do:",
+    "answer": "chuyên môn hóa sản xuất phát triển."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Trên một trang chủ website có bao nhiêu vùng?",
+    "answer": "6"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Tại thời điểm đầu khi mới gia nhập thị trường Việt Nam năm 2016, Shopee hoạt động theo mô hình thương mại điện tử:",
+    "answer": "C2C"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Những nội dung sau đây là đúng khi nói đến Dịch vụ cho thuê máy móc thiết bị, ngoại trừ:",
+    "answer": "áp dụng đối với những máy móc thiết bị sử dụng thường xuyên."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Khi xem xét dịch vụ theo nghĩa rộng là lĩnh vực kinh tế thứ ba trong nền kinh tế quốc dân, trong cơ cấu kinh tế Việt Nam hiện nay có …. ngành dịch vụ.",
+    "answer": "15"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Thương mại theo giá cả thị trường được hiểu là",
+    "answer": "Mua bán theo mức giá hình thành trên cơ sở giá trị thị trường"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Dưới đây là các hình thức hoạt động của thương mại điện tử, ngoại trừ:",
+    "answer": "thanh toán tiền mặt"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Các phương pháp quản lý thương mại bao gồm",
+    "answer": "Phương pháp hành chính, phương pháp kinh tế và phương pháp tuyên truyền, giáo dục"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Những điều sau đây đều đúng khi nói về các biện pháp giảm thiểu lượng đặt hàng vật tư ở doanh nghiệp, ngoại trừ:",
+    "answer": "đẩy mạnh dự trữ vật tư"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Nhiệm vụ chủ yếu của thương mại",
+    "answer": "Đáp ứng tốt nhất mọi nhu cầu của sản xuất và đời sống"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Hiệu quả của phương pháp tuyên truyền giáo dục:",
+    "answer": "không bộc lộ ngay."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Đứng trên góc độ khách hàng, khái niệm Chất lượng dịch vụ là:",
+    "answer": "mức độ hài lòng của khách hàng trong quá trình tiêu dùng dịch vụ"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Dưới đây là những ưu điểm của chuỗi cung cấp kéo, ngoại trừ:",
+    "answer": "Vận hành đơn giản"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Một trong những nội dung quản lý Nhà nước về thương mại là",
+    "answer": "Quản lý hoạt động thương mại của Việt Nam ở nước ngoài"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Thông tin thứ cấp là thông tin:",
+    "answer": "sẵn có trên thị trường."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Yếu tố KHÔNG phải lợi ích của Thương mại điện tử đối với doanh nghiệp là:",
+    "answer": "giao dịch an toàn hơn"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Hãng Honda cung cấp sản phẩm xe máy của mình qua các Đại lý ủy nhiệm của Honda. Đây là hình thức kênh phân phối:",
+    "answer": "gián tiếp."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Dưới đây là các ưu điểm của kênh phân phối trực tiếp, ngoại trừ:",
+    "answer": "tốc độ quay vòng vốn nhanh"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Nhà nước phải quản lý thương mại vì",
+    "answer": "Thương mại là khâu quan trọng của quá trình tái sản xuất"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Những nhận định sau đây là đúng khi nói về vật tư kỹ thuật, ngoại trừ:",
+    "answer": "Mọi tư liệu sản xuất đều là vật tư kỹ thuật"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Phương pháp tuyên truyền giáo dục tác động tới:",
+    "answer": "lợi ích tinh thần và năng lực chuyên môn của chủ thể bị quản lý."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Loại hình kinh doanh nào dưới đây thường chuyển đổi kinh doanh chậm và rủi ro cao?",
+    "answer": "Kinh doanh chuyên môn hóa"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Theo khâu trung gian, quan hệ thương mại bao gồm",
+    "answer": "Trực tiếp và gián tiếp"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Dưới đây là các ưu điểm của kênh phân phối trực tiếp, ngoại trừ:",
+    "answer": "tốc độ quay vòng vốn nhanh."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Một trong những nội dung của phương pháp tuyên truyền giáo dục là:",
+    "answer": "làm phong phú đời sống tinh thần của người lao động."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Chỉ ra loại hình KHÔNG phải giao dịch cơ bản trong thương mại điện tử?",
+    "answer": "B2E."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Theo hình thức bán hàng, quan hệ thương mại bao gồm:",
+    "answer": "bán thẳng và bán qua kho, trạm, cửa hàng."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Biện pháp giúp khắc phục tính không ổn định của sản phẩm dịch vụ là:",
+    "answer": "tiêu chuẩn hóa quy trình cung ứng dịch vụ."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Thương mại, phân chia theo các khâu của quá trình lưu thông, bao gồm",
+    "answer": "Thương mại bán buôn; thương mại bán lẻ"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Thương mại được hình thành và phát triển trên cơ sở nào?",
+    "answer": "Sự phân công lao động xã hội; Chuyên môn hóa sản xuất và sự tách biệt chế độ sở hữu."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Yếu tố KHÔNG phải lợi ích của Thương mại điện tử đối với doanh nghiệp là:",
+    "answer": "giao dịch an toàn hơn"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Sau đây là ưu điểm của quan hệ thương mại gián tiếp, trừ:",
+    "answer": "giảm được dự trữ lưu thông"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Yếu tố quan trọng hơn cả nhằm đem đến sự thoả mãn và hài lòng cho khách hàng là:",
+    "answer": "hiểu và đáp ứng được nhu cầu khách hàng"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Chức năng của thương mại là",
+    "answer": "tiếp tục quá trình sản xuất trong khâu lưu thông."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Chọn câu trả lời đúng nhất về sự khác biệt của sản phẩm dịch vụ và sản phẩm vật chất trong các câu sau đây?",
+    "answer": "Tính vô hình; tính không ổn định; tính không dự trữ được; tính không tách rời giữa cung ứng và tiêu dùng dịch vụ."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Công cụ cung cấp các dịch vụ tư vấn hoặc xếp hạng các sản phẩm và các công ty bán lẻ; hoặc cung cấp các công cụ tương tác cho phép khách hàng so sánh dựa trên tiêu chí riêng; hoặc cung cấp các đường dẫn để khách hàng tự lựa chọn và cân nhắc là:",
+    "answer": "Cổng mua hàng"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Thương mại được hình thành và phát triển trên cơ sở nào?",
+    "answer": "Sự phân công lao động xã hội; Chuyên môn hóa sản xuất và sự tách biệt chế độ sở hữu"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Dưới đây là các chỉ tiêu phản ánh các khía cạnh của chất lượng dịch vụ, ngoại trừ:",
+    "answer": "quy mô doanh nghiệp."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Kinh doanh đa dạng hóa là loại hình kinh doanh trong đó doanh nghiệp",
+    "answer": "Kinh doanh nhiều loại hàng hóa khác nhau nhưng dựa trên một mặt hàng chủ lực"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Dưới đây là các mục tiêu cơ bản trong định giá, ngoại trừ:",
+    "answer": "phát triển"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Đứng trên góc độ khách hàng, khái niệm Chất lượng dịch vụ là:",
+    "answer": "mức độ hài lòng của khách hàng trong quá trình tiêu dùng dịch vụ, là dịch vụ tổng thể của doanh nghiệp mang lại chuỗi lợi ích và thỏa mãn đầy đủ nhu cầu mong đợi của khách hàng, tương xứng với chi phí mà khách hàng phải thanh toán."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Đặc điểm của phương pháp kinh tế là nó tác động lên đối tượng bị quản lý",
+    "answer": "Bằng lợi ích vật chất"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Các tiêu chí dưới đây đảm bảo về khía cạnh Sự phản hồi trong cung ứng dịch vụ, ngoại trừ:",
+    "answer": "nhân viên có trình độ chuyên môn cao"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Loại hình kinh doanh nào dưới đây thường chuyển đổi kinh doanh chậm và rủi ro cao?",
+    "answer": "Kinh doanh chuyên môn hóa."
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Yếu tố quan trọng tạo nên sự thỏa mãn của khách hàng là:",
+    "answer": "hiểu và đáp ứng được nhu cầu khách hàng."
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Mua bán hàng hóa, theo quy định của Luật Thương mại (2005), là",
+    "answer": "Hoạt động thương mại"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Amazon.com là nhà bán lẻ trực tuyến lớn nhất Hoa Kỳ. Ở đây mô hình giao dịch thương mại điện tử được sử dụng là:",
+    "answer": "B2C."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Kinh tế thị trường",
+    "answer": "Là kinh tế hàng hóa phát triển ở trình độ cao"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Thương mại, phân chia theo mức độ can thiệp của Nhà nước vào quá trình thương mại, bao gồm:",
+    "answer": "thương mại tự do; thương mại có sự bảo hộ."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Chức năng của thương mại",
+    "answer": "Mang tính khách quan"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Khách hàng hedonic là:",
+    "answer": "khách hàng mua hàng đơn giản chỉ vì thú vui"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Hệ thống cửa hàng thời trang đồng giá hiện đang rất phát triển ở Việt Nam. Đây là kỹ thuật:",
+    "answer": "đặt giá theo nhóm sản phẩm."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Các nội dung dưới đây đều đúng khi nói về Tiêu thụ sản phẩm, ngoại trừ:",
+    "answer": "Thuật ngữ Tiêu thụ sản phẩm và Bán hàng là một"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Nhà nước phải quản lý thương mại vì:",
+    "answer": "thương mại là khâu quan trọng của quá trình tái sản xuất."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Đối với nhóm vật tư thiết bị máy móc, công tác hậu cần vật tư ở doanh nghiệp có đặc điểm:",
+    "answer": "theo định kỳ"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Kế hoạch mua sắm vật tư của doanh nghiệp sản xuất kinh doanh phản ánh các nội dung sau đây, ngoại trừ:",
+    "answer": "Cách thức mua sắm vật tư"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Dưới đây là những cơ sở chung bảo đảm hoạt động thương mại điện tử tại một quốc gia, ngoại trừ:",
+    "answer": "Hạ tầng tự nhiên"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Đặc trưng cơ bản của chuỗi cung cấp kéo làm nó khác biệt với chuỗi cung cấp đẩy là:",
+    "answer": "cá nhân hóa sản phẩm."
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Theo sự bền vững, quan hệ thương mại bao gồm:",
+    "answer": "theo từng thương vụ, ngắn hạn và dài hạn."
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Phương pháp kinh tế sử dụng các đòn hãm kinh tế",
+    "answer": "Như là phạt vật chất và trách nhiệm vật chất khác"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Một trong những nội dung quản lý Nhà nước về thương mại là",
+    "answer": "Quản lý Nhà nước các hoạt động xúc tiến thương mại"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Những yếu tố dưới đây tác động trực tiếp đến hiệu quả dịch vụ bảo hành, bảo dưỡng, sửa chữa hàng hóa, ngoại trừ:",
+    "answer": "hệ thống phương tiện vận tải hiện đại"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Tiêu chí phản ánh khía cạnh Sự bảo đảm trong cung ứng dịch vụ là:",
+    "answer": "sự an toàn về vật chất, tài chính."
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Loại hàng hóa sau đây không phải là hàng hóa, theo quy định của luật pháp Việt Nam hiện nay",
+    "answer": "Tiền ảo"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Tên miền “NET.VN” là tên miền dành cho:",
+    "answer": "các tổ chức, cá nhân hoạt động trong lĩnh vực thiết lập và cung cấp các dịch vụ trên mạng."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Chức năng của thương mại",
+    "answer": "Là chuyển hóa hình thái giá trị của hàng hóa"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Cơ sở của việc hình thành quan hệ kinh tế giữa các doanh nghiệp là",
+    "answer": "Phân công lao động xã hội"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Một trong những nội dung quản lý Nhà nước về thương mại là",
+    "answer": "Xây dựng và ban hành hệ thống pháp luật, chính sách thương mại"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Một trong những nhiệm vụ chủ yếu của thương mại là",
+    "answer": "Phát triển thương mại bền vững và bao trùm"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Dưới đây là các kỹ thuật định giá, ngoại trừ:",
+    "answer": "định giá chiết khấu."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Dưới đây là các nội dung cơ bản trong công tác tiếp nhận vật tư ở doanh nghiệp, ngoại trừ kiểm tra:",
+    "answer": "điển hình (xác suất)."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Hãy nêu vai trò của Nhà nước đối với sự phát triển của thương mại?",
+    "answer": "Nhà nước tạo môi trường và điều kiện cho thương mại phát triển; Nhà nước định hướng cho sự phát triển của thương mại thông qua việc xây dựng và tổ chức thực hiện các chiến lược phát triển kinh tế - xã hội"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Biện pháp gia tăng hiệu quả kinh tế nhờ tính không tách rời của sản phẩm dịch vụ là:",
+    "answer": "tạo điều kiện để những người cung ứng đặc biệt làm việc với số đông khách hàng hơn."
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Hệ thống các công cụ quản lý thường bao gồm",
+    "answer": "Kế hoạch hóa định hướng, pháp luật và hệ thống các chính sách, công cụ kinh tế"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Một trong những nguyên tắc cơ bản trong đánh giá dịch vụ là:",
+    "answer": "đánh giá sâu rộng và bao quát."
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Các chỉ tiêu sau đây thuộc về Kết cấu nhu cầu vật tư cho sản xuất của doanh nghiệp, ngoại trừ:",
+    "answer": "Tiết kiệm vật tư"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Đặc điểm của phương pháp kinh tế là nó tác động lên đối tượng bị quản lý bằng:",
+    "answer": "lợi ích vật chất."
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Hãng Honda Việt Nam tài trợ cho Chương trình “Tôi yêu Việt Nam” phát sóng trên đài truyền hình VTV. Đây là hình thức xúc tiến thương mại:",
+    "answer": "quan hệ công chúng."
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Một trong những nguyên nhân làm cho quan hệ thương mại ngày càng trở nên phức tạp hơn là do",
+    "answer": "Mở rộng danh mục sản phẩm sản xuất kinh doanh"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Một trong những nội dung quản lý nhà nước về thương mại là:",
+    "answer": "tổ chức bộ máy quản lý nhà nước về thương mại."
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Thương mại điện tử khác với thương mại truyền thống trên các phương diện sau, ngoại trừ:",
+    "answer": "Người bán và người mua"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Hệ thống các công cụ quản lý thường bao gồm:",
+    "answer": "kế hoạch hóa định hướng, pháp luật và hệ thống các chính sách, công cụ kinh tế"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Dưới đây là nội dung của nguyên tắc “Cẩn thận và kỹ lưỡng trong thu thập dữ liệu”, ngoại trừ:",
+    "answer": "xây dựng tháp chi phí và lựa chọn cách thức của doanh nghiệp."
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Kỹ thuật định giá lấy khách hàng làm trung tâm là định giá:",
+    "answer": "theo sự chấp nhận giá của khách hàng."
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Trong các dịch vụ dưới đây, dịch vụ thương mại là:",
+    "answer": "bảo hành, bảo dưỡng, sửa chữa sản phẩm, hàng hóa"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Một trong những đặc trưng cơ bản của quan hệ thương mại là",
+    "answer": "Một loại quan hệ kinh tế"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Phương pháp kinh tế sử dụng các đòn bẩy kinh tế",
+    "answer": "Như là tiền lương, thu nhập, giá cả, lợi nhuận…"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Trong kinh doanh hàng công nghiệp tiêu dùng thì",
+    "answer": "Người tiêu dùng ít hiểu biết về hàng hóa có hệ thống"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Giao dịch thương mại điện tử B2B chủ yếu dùng phương thức:",
+    "answer": "trao đổi dữ liệu điện tử."
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Các luận điểm dưới đây là đúng khi nói đến mô hình thương mại điện tử B2C, ngoại trừ:",
+    "answer": "bán hàng trực tuyến hoàn toàn độc lập với bán hàng truyền thống."
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Dưới đây là các giai đoạn của công tác Lập kế hoạch mua sắm vật tư, ngoại trừ:",
+    "answer": "xác định chất lượng vật tư cần đặt mua."
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Thương mại, phân chia theo tính chất của sản phẩm trong quá trình tái sản xuất xã hội, bao gồm",
+    "answer": "Thương mại hàng tư liệu sản xuất; thương mại hàng tiêu dùng"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Mua bán hàng hóa, theo quy định của Luật Thương mại (2005), là:",
+    "answer": "hoạt động thương mại."
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Một trong những nội dung của phương pháp hành chính là",
+    "answer": "Phải thiết lập được hệ thống quan hệ phụ thuộc lẫn nhau"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Vai trò của dịch vụ sau quá trình sản xuất kinh doanh là:",
+    "answer": "giúp thỏa mãn tối đa nhu cầu của khách hàng"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Dịch vụ cung ứng vật tư đồng bộ có đảm bảo là",
+    "answer": "dịch vụ trước quá trình sản xuất kinh doanh."
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Yếu tố KHÔNG phải lợi ích của Thương mại điện tử đối với xã hội là:",
+    "answer": "khung pháp lý hoàn chỉnh hơn."
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Thương mại, phân chia theo đặc điểm của hàng hóa, bao gồm:",
+    "answer": "thương mại hàng hóa; thương mại dịch vụ."
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Theo sự bền vững, quan hệ thương mại bao gồm",
+    "answer": "Theo từng thương vụ, ngắn hạn và dài hạn"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Các nội dung dưới đây phản ánh tiêu chuẩn SMART trong xây dựng mục tiêu, ngoại trừ:",
+    "answer": "mục tiêu phải bao quát."
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Để thực hiện các dịch vụ thương mại trong sản xuất kinh doanh, doanh nghiệp có thể tổ chức bộ máy cung ứng dịch vụ theo những cách thức sau, ngoại trừ:",
+    "answer": "Tổ chức cung ứng dịch vụ tại nhà cho khách hàng"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Dưới đây là các ưu điểm của thông tin thứ cấp, ngoại trừ:",
+    "answer": "đáng tin cậy"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Những nguyên tắc dưới đây là nguyên tắc cơ bản trong đánh giá dịch vụ, ngoại trừ:",
+    "answer": "chia sẻ thông tin giữa lãnh đạo và các phòng ban, bộ phận trong công ty."
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Dịch vụ cung ứng vật tư đồng bộ có đảm bảo là:",
+    "answer": "dịch vụ trước quá trình sản xuất kinh doanh"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Thương mại điện tử hiểu theo nghĩa rộng là:",
+    "answer": "việc sử dụng các phương tiện điện tử để làm thương mại."
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Đối với công tác tiếp nhận hàng hóa về chất lượng thì mức độ kiểm tra tuỳ thuộc vào yếu tố:",
+    "answer": "đặc điểm của hàng hóa (tính chất lý, hóa học)."
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Thương mại, phân chia theo tính chất của sản phẩm trong quá trình tái sản xuất xã hội, bao gồm:",
+    "answer": "thương mại hàng tư liệu sản xuất; thương mại hàng tiêu dung."
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Kinh tế thị trường có sự quản lý của Nhà nước là nền kinh tế:",
+    "answer": "hỗn hợp vừa có cơ chế tự điều chỉnh của thị trường và vừa có cơ chế quản lý, điều tiết của Nhà nước."
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Theo đặc điểm hình thành, quan hệ thương mại bao gồm:",
+    "answer": "định hướng trước và không định hướng trước"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Để quản lý tập trung thống nhất cần sử dụng:",
+    "answer": "phương pháp hành chính."
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Những nhận định sau đây là đúng khi nói về doanh nghiệp sản xuất kinh doanh, ngoại trừ:",
+    "answer": "Doanh nghiệp sản xuất kinh doanh thực hiện chức năng lưu thông hàng hoá trên thị trường"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Xu hướng của quan hệ thương mại là",
+    "answer": "Ngày càng phức tạp hơn"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Công cụ sử dụng để thực hiện bảo hộ mậu dịch",
+    "answer": "Bao gồm thuế quan, các công cụ hành chính và các biện pháp kỹ thuật khác"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Công tác Lập kế hoạch mua sắm vật tư gồm:",
+    "answer": "4 bước"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Nhiệm vụ của thương mại",
+    "answer": "Mang tính chủ quan"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Về nguyên tắc, đãi ngộ Tối huệ quốc (MFN) được hiểu là",
+    "answer": "Các ưu đãi thương mại của một thành viên dành cho một thành viên khác cũng phải được áp dụng cho tất cả các thành viên trong WTO."
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Vai trò của dịch vụ trong việc thúc đẩy sự chuyển dịch cơ cấu kinh tế theo hướng CNH-HĐH được minh chứng qua chỉ tiêu thống kê về:",
+    "answer": "cơ cấu GDP phân theo khu vực kinh tế."
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Hoạt động Nghiên cứu thị trường được thực hiện nhằm mục đích cơ bản là:",
+    "answer": "Để cung cấp thông tin hỗ trợ cho quá trình ra các quyết định liên quan đến kinh doanh"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Dưới đây là các tiêu chuẩn để lựa chọn Web Hosting, ngoại trừ:",
+    "answer": "giá rẻ."
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Dưới đây là những lợi ích của mô hình thương mại điện tử B2C mạng xã hội, ngoại trừ:",
+    "answer": "Khách hàng được tiếp cận với thông tin phong phú, nhanh chóng, chính xác"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Trong kinh doanh hàng tư liệu sản xuất công nghiệp thì",
+    "answer": "Người tiêu dùng hiểu biết nhiều về hàng hóa"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Kênh phân phối có dạng: Nhà Sản xuất – Bán lẻ - Người tiêu dùng cuối cùng là loại kênh phân phối:",
+    "answer": "1 cấp."
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Thương mại, phân chia theo kỹ thuật giao dịch, bao gồm",
+    "answer": "Thương mại truyền thống; thương mại điện tử"
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Theo hình thức bán hàng, quan hệ thương mại bao gồm",
+    "answer": "Bán thẳng và bán qua kho, trạm, cửa hàng"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Một trong những nội dung của phương pháp hành chính là:",
+    "answer": "phải thiết lập được hệ thống quan hệ phụ thuộc lẫn nhau"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Theo quy định của Tổ chức Thương mại thế giới thì thương mại bao gồm:",
+    "answer": "thương mại hàng hóa; thương mại dịch vụ; đầu tư; sở hữu trí tuệ."
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Yếu tố KHÔNG phải lợi ích của Thương mại điện tử đối với xã hội là:",
+    "answer": "khung pháp lý hoàn chỉnh hơn"
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Một trong những nguyên nhân làm cho quan hệ thương mại ngày càng trở nên phức tạp hơn là do:",
+    "answer": "gia tăng số lượng các doanh nghiệp thuộc nhiều thành phần kinh tế."
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Khi doanh nghiệp tăng giá bán sản phẩm thì lượng cầu về sản phẩm của doanh nghiệp giảm nhẹ, song tổng doanh thu bán sản phẩm vẫn tăng lên. Trong trường hợp này, hệ số co giãn của cầu sản phẩm theo giá là",
+    "answer": "ít co giãn"
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Thương mại điện tử hiểu theo nghĩa rộng là:",
+    "answer": "việc sử dụng các phương tiện điện tử để làm thương mại"
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Tính vô hình của dịch vụ nghĩa là:",
+    "answer": "tính chất mà người tiêu dùng không cảm nhận được dịch vụ thông qua các giác quan."
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Dịch vụ giao nhận hàng hóa là:",
+    "answer": "dịch vụ mà tổ chức, cá nhân nhận hàng từ người gửi, tổ chức vận chuyển, lưu kho, lưu bãi, làm các thủ tục giấy tờ và các dịch vụ khác có liên quan để giao hàng cho người nhận theo sự ủy thác của chủ hàng, của người vận tải, hoặc của người làm dịch vụ giao nhận khác"
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Việc xây dựng Tháp chi phí cần đảm bảo các yêu cầu dưới đây, ngoại trừ:",
+    "answer": "sử dụng những tiêu chuẩn bên ngoài để xây dựng tháp chi phí."
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Một trong những nguyên nhân làm cho quan hệ thương mại ngày càng trở nên phức tạp hơn là do",
+    "answer": "Quy mô sản xuất kinh doanh ngày càng lớn"
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Yếu tố KHÔNG phải lợi ích của Thương mại điện tử đối với người tiêu dùng là:",
+    "answer": "chất lượng sản phẩm đảm bảo hơn."
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Nội dung hoạt động Tiêu thụ sản phẩm bao gồm:",
+    "answer": "8 bước."
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Giao dịch thương mại điện tử bao gồm bao nhiêu kiểu?",
+    "answer": "4 kiểu"
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "Để xác định lượng vật tư cần đặt mua kỳ kế hoạch, doanh nghiệp sử dụng phương pháp:",
+    "answer": "cân đối"
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Kinh tế thương mại ít đề cập nhất đến:",
+    "answer": "tổ chức quản lý sản xuất."
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "Một trong những đặc trưng cơ bản của quan hệ thương mại là",
+    "answer": "Quan hệ hai chiều"
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Hãng Pizza Pepperonis áp dụng chương trình ưu đãi Mua 1 tặng 1 khi mua pizza mang về vào thứ 5 hàng tuần. Đây là hình thức xúc tiến thương mại:",
+    "answer": "khuyến mại."
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "Vai trò của dịch vụ trước quá trình sản xuất kinh doanh là:",
+    "answer": "giúp tối ưu hoá đầu vào cho doanh nghiệp"
+  },
+  {
+    "id": 406,
+    "premium": true,
+    "question": "Các câu hỏi thường gặp (FAQs) được sử dụng nhiều vì những lí do sau đây, ngoại trừ:",
+    "answer": "FAQs có thể trả lời mọi câu hỏi của khách hàng"
+  },
+  {
+    "id": 407,
+    "premium": true,
+    "question": "Dưới đây là các chính sách giá, ngoại trừ:",
+    "answer": "giá phân biệt."
+  },
+  {
+    "id": 408,
+    "premium": true,
+    "question": "Ý nghĩa của hoạt động xúc tiến thương mại là:",
+    "answer": "thúc đẩy cơ hội mua bán hàng hóa, cung ứng dịch vụ"
+  },
+  {
+    "id": 409,
+    "premium": true,
+    "question": "Quan hệ thương mại trực tiếp không nên thiết lập trong trường hợp nào?",
+    "answer": "Nhu cầu tiêu dùng nhỏ, đột xuất"
+  },
+  {
+    "id": 410,
+    "premium": true,
+    "question": "Một trong những nguyên nhân làm cho quan hệ thương mại ngày càng trở nên phức tạp hơn là do",
+    "answer": "Gia tăng số lượng các doanh nghiệp thuộc nhiều thành phần kinh tế"
+  },
+  {
+    "id": 411,
+    "premium": true,
+    "question": "Loại hình kinh doanh nào dưới đây thường khó đào tạo được các chuyên gia giỏi cho các ngành hàng kinh doanh?",
+    "answer": "Kinh doanh tổng hợp"
+  },
+  {
+    "id": 412,
+    "premium": true,
+    "question": "Phương pháp kinh tế sử dụng các đòn hãm kinh tế:",
+    "answer": "như là phạt vật chất và trách nhiệm vật chất khác."
+  },
+  {
+    "id": 413,
+    "premium": true,
+    "question": "Khái niệm thương mại theo nghĩa hẹp",
+    "answer": "Là quá trình mua bán hàng hóa, dịch vụ trên thị trường, là lĩnh vực phân phối và lưu thông hàng hóa"
+  },
+  {
+    "id": 414,
+    "premium": true,
+    "question": "Thương mại là đối tượng quản lý của Nhà nước vì",
+    "answer": "Thương mại là lĩnh vực chứa đựng những mâu thuẫn của đời sống kinh tế, xã hội"
+  },
+  {
+    "id": 415,
+    "premium": true,
+    "question": "Doanh nghiệp sản xuất kinh doanh có thể tăng giá nhằm đạt mục tiêu tăng doanh thu trong trường hợp độ co giãn của cầu theo giá là:",
+    "answer": "Ít co giãn"
+  },
+  {
+    "id": 416,
+    "premium": true,
+    "question": "Thực hiện tự do hóa thương mại có nghĩa là",
+    "answer": "Đạt tới sự hài hòa giữa tăng cường xuất khẩu với nới lỏng nhập khẩu"
+  },
+  {
+    "id": 417,
+    "premium": true,
+    "question": "Dưới đây là các nội dung của Nguyên tắc 7C trong xây dựng website, ngoại trừ:",
+    "answer": "Customer."
+  },
+  {
+    "id": 418,
+    "premium": true,
+    "question": "Các chỉ tiêu sau đây được sử dụng để đánh giá kết quả và hiệu quả kinh doanh dịch vụ, ngoại trừ:",
+    "answer": "Giá vốn hàng bán"
+  },
+  {
+    "id": 419,
+    "premium": true,
+    "question": "Loại hàng hóa sau đây không phải là hàng hóa, theo quy định của Luật Thương mại (2005)",
+    "answer": "Vật phẩm trong trò chơi trực tuyến"
+  },
+  {
+    "id": 420,
+    "premium": true,
+    "question": "Một trong những nội dung của phương pháp hành chính là",
+    "answer": "Tác động bằng hệ thống pháp chế"
+  },
+  {
+    "id": 421,
+    "premium": true,
+    "question": "Những nội dung sau đây là đúng khi nói đến Dịch vụ thương mại, ngoại trừ:",
+    "answer": "Chỉ có doanh nghiệp thương mại mới cung cấp các dịch vụ thương mại cho khách hàng"
+  },
+  {
+    "id": 422,
+    "premium": true,
+    "question": "Cơ sở khách quan của sự tồn tại nhiều thành phần kinh tế trong thương mại ở nước ta hiện nay là do:",
+    "answer": "còn tồn tại nhiều hình thức sở hữu khác nhau về tư liệu sản xuất."
+  },
+  {
+    "id": 423,
+    "premium": true,
+    "question": "Đứng trên góc độ doanh nghiệp cung ứng dịch vụ, khái niệm Chất lượng dịch vụ là:",
+    "answer": "việc bảo đảm cung cấp dịch vụ theo đúng kịch bản với kỹ năng nghiệp vụ cao của nhân viên cung ứng và đội ngũ cán bộ quản lý"
+  },
+  {
+    "id": 424,
+    "premium": true,
+    "question": "Sau đây là ưu điểm của quan hệ thương mại gián tiếp, trừ ra:",
+    "answer": "Giảm được dự trữ lưu thông"
+  },
+  {
+    "id": 425,
+    "premium": true,
+    "question": "Công cụ cho phép khách hàng có thể thảo luận nhiều vấn đề liên quan đến sản phẩm hoặc các vấn đề khác với các chuyên gia của công ty hoặc những khách hàng khác là:",
+    "answer": "phòng chat."
+  },
+  {
+    "id": 426,
+    "premium": true,
+    "question": "Biện pháp để tăng tốc độ tải của website là:",
+    "answer": "thu nhỏ dung lượng ảnh."
+  },
+  {
+    "id": 427,
+    "premium": true,
+    "question": "Thương mại, phân chia theo phạm vi hoạt động (biên giới quốc gia), bao gồm",
+    "answer": "Thương mại trong nước; thương mại quốc tế"
+  },
+  {
+    "id": 428,
+    "premium": true,
+    "question": "Website là:",
+    "answer": "hệ thống thông tin dùng để thiết lập một hoặc nhiều trang thông tin được trình bày dưới dạng ký hiệu, số, chữ viết, hình ảnh, âm thanh và các dạng thông tin khác."
+  },
+  {
+    "id": 429,
+    "premium": true,
+    "question": "Hiệu quả của phương pháp kinh tế:",
+    "answer": "không bộc lộ ngay."
+  },
+  {
+    "id": 430,
+    "premium": true,
+    "question": "Hãy nêu vai trò của Nhà nước đối với sự phát triển của thương mại?",
+    "answer": "Nhà nước tạo môi trường và điều kiện cho thương mại phát triển; Nhà nước định hướng cho sự phát triển của thương mại thông qua việc xây dựng và tổ chức thực hiện các chiến lược phát triển kinh tế - xã hội."
+  },
+  {
+    "id": 431,
+    "premium": true,
+    "question": "Công ty May An Phước gia công hàng dệt may áo Sơmi cho thương hiệu Pierre Cardin . Cùng một chiếc áo như nhau (Chất liệu vải, kiểu dáng, kỹ thuật may) khi mang nhãn hiệu An Phước thì có giá là 580.000 nhưng nếu thay bằng nhãn của Pierre Cardin thì có giá là 1.250.000. Đây là kỹ thuật định giá:",
+    "answer": "theo thương hiệu."
+  },
+  {
+    "id": 432,
+    "premium": true,
+    "question": "Biện pháp gia tăng hiệu quả kinh tế nhờ tính không tách rời của sản phẩm dịch vụ là:",
+    "answer": "tạo điều kiện để những người cung ứng đặc biệt làm việc với số đông khách hàng hơn"
+  },
+  {
+    "id": 433,
+    "premium": true,
+    "question": "Dưới đây là các vai trò của tháp chi phí, ngoại trừ:",
+    "answer": "chuẩn hóa môi trường làm việc."
+  },
+  {
+    "id": 434,
+    "premium": true,
+    "question": "Phân loại vật tư kỹ thuật thành vật tư thông dụng và vật tư chuyên dụng là cách phân loại theo:",
+    "answer": "tính chất sử dụng"
+  },
+  {
+    "id": 435,
+    "premium": true,
+    "question": "Một trong những nội dung quản lý Nhà nước về thương mại là",
+    "answer": "Tổ chức bộ máy quản lý Nhà nước về thương mại"
+  },
+  {
+    "id": 436,
+    "premium": true,
+    "question": "Trên trang chủ website, vùng nên đặt các thông tin về doanh nghiệp là:",
+    "answer": "vùng 6."
+  },
+  {
+    "id": 437,
+    "premium": true,
+    "question": "Số lượng yếu tố đầu vào được thương mại đầu vào bảo đảm quyết định tới:",
+    "answer": "sản lượng sản phẩm."
+  },
+  {
+    "id": 438,
+    "premium": true,
+    "question": "Biện pháp nào sau đây KHÔNG nhằm khắc phục tính không lưu giữ được của sản phẩm dịch vụ?",
+    "answer": "tăng cường đào tạo đội ngũ nhân viên bán hàng"
+  },
+  {
+    "id": 439,
+    "premium": true,
+    "question": "Một trong những nguyên nhân làm cho quan hệ thương mại ngày càng trở nên phức tạp hơn là do:",
+    "answer": "mở rộng danh mục sản phẩm sản xuất kinh doanh."
+  },
+  {
+    "id": 440,
+    "premium": true,
+    "question": "Dưới đây là các hàng hóa phù hợp với mua sắm trực tuyến, ngoại trừ:",
+    "answer": "các sản phẩm có mức giá cao."
+  },
+  {
+    "id": 441,
+    "premium": true,
+    "question": "Công cụ cho phép khách hàng có thể thảo luận nhiều vấn đề liên quan đến sản phẩm hoặc các vấn đề khác với các chuyên gia của công ty hoặc những khách hàng khác là:",
+    "answer": "phòng chat"
+  },
+  {
+    "id": 442,
+    "premium": true,
+    "question": "Hiệu quả của phương pháp hành chính",
+    "answer": "Có tính chất tức thời"
+  },
+  {
+    "id": 443,
+    "premium": true,
+    "question": "Dịch vụ bảo hành, bảo dưỡng, sửa chữa sản phẩm, hàng hóa là:",
+    "answer": "dịch vụ miễn phí hoặc trả phí trong từng trường hợp cụ thể."
+  },
+  {
+    "id": 444,
+    "premium": true,
+    "question": "Trên thương trường, doanh nghiệp có thể cạnh tranh bằng các công cụ dưới đây, ngoại trừ:",
+    "answer": "xúc tiến thương mại"
+  },
+  {
+    "id": 445,
+    "premium": true,
+    "question": "Các nội dung dưới đây đều đúng khi nói về Tiêu thụ sản phẩm, ngoại trừ:",
+    "answer": "Thuật ngữ Tiêu thụ sản phẩm và Bán hàng là một."
+  },
+  {
+    "id": 446,
+    "premium": true,
+    "question": "Quan hệ thương mại gián tiếp là quan hệ có sự tham gia của",
+    "answer": "chủ thể sản xuất, chủ thể trung gian và chủ thể tiêu dùng."
+  },
+  {
+    "id": 447,
+    "premium": true,
+    "question": "Một trong những nội dung quản lý nhà nước về thương mại là:",
+    "answer": "quản lý hoạt động thương mại của Việt Nam ở nước ngoài."
+  },
+  {
+    "id": 448,
+    "premium": true,
+    "question": "Kết quả và hiệu quả kinh doanh dịch vụ bị ảnh hưởng trực tiếp bởi:",
+    "answer": "lao động và quản lý lao động"
+  },
+  {
+    "id": 449,
+    "premium": true,
+    "question": "Dưới đây là các mục tiêu định giá cơ bản, ngoại trừ:",
+    "answer": "phát triển."
+  },
+  {
+    "id": 450,
+    "premium": true,
+    "question": "Doanh nghiệp định giá sản phẩm ở mức cao nghĩa là đang hướng đến mục tiêu",
+    "answer": "dẫn đầu về chất lượng."
+  }
+]

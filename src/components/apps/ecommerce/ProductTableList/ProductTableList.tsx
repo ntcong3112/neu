@@ -1,8 +1,11 @@
-import * as React from 'react';
-import { alpha, useTheme } from '@mui/material/styles';
-import { format } from 'date-fns';
+// src/pages/QuestionTable.tsx
+import React, { useEffect, useMemo, useState } from 'react';
 import {
   Box,
+  Grid,
+  IconButton,
+  InputAdornment,
+  Paper,
   Table,
   TableBody,
   TableCell,
@@ -10,448 +13,270 @@ import {
   TableHead,
   TablePagination,
   TableRow,
-  TableSortLabel,
-  Toolbar,
-  IconButton,
-  Tooltip,
-  FormControlLabel,
-  Typography,
-  Avatar,
   TextField,
-  InputAdornment,
-  Paper,
+  Toolbar,
+  Typography,
 } from '@mui/material';
-import { visuallyHidden } from '@mui/utils';
-import { useSelector, useDispatch } from 'src/store/Store';
-import { fetchProducts } from 'src/store/apps/eCommerce/ECommerceSlice';
-import CustomCheckbox from '../../../forms/theme-elements/CustomCheckbox';
-import CustomSwitch from '../../../forms/theme-elements/CustomSwitch';
-import { IconDotsVertical, IconFilter, IconSearch, IconTrash } from '@tabler/icons';
-import { ProductType } from 'src/types/apps/eCommerce';
+import { IconSearch } from '@tabler/icons';
+import slugify from 'slugify';
+import { useParams, useNavigate, Link } from 'react-router-dom'; // ⬅️ đổi useLocation -> useParams
+import PageContainer from 'src/components/container/PageContainer';
+import breadcrumbImg from 'src/assets/images/breadcrumb/ChatBc.png';
 
-function descendingComparator<T>(a: T, b: T, orderBy: keyof T) {
-  if (b[orderBy] < a[orderBy]) {
-    return -1;
-  }
-  if (b[orderBy] > a[orderBy]) {
-    return 1;
-  }
-
-  return 0;
+/* ───── helpers ───── */
+type Question = { id: number; question: string; answer: string };
+interface DataEntry {
+  questions: Question[];
+  fieldName: string;
+  subjectName: string;
 }
 
-type Order = 'asc' | 'desc';
+slugify.extend({ đ: 'd', Đ: 'd' });
+const toSlug = (s: string) => slugify(s, { lower: true, strict: true, locale: 'vi' });
+const normalizeVi = (str: string) =>
+  str
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/đ/g, 'd')
+    .replace(/Đ/g, 'd')
+    .toLowerCase();
 
-function getComparator<Key extends keyof any>(
-  order: Order,
-  orderBy: Key,
-): (a: { [key in Key]: number | string }, b: { [key in Key]: number | string }) => number {
-  return order === 'desc'
-    ? (a, b) => descendingComparator(a, b, orderBy)
-    : (a, b) => -descendingComparator(a, b, orderBy);
-}
-
-function stableSort<T>(array: T[], comparator: (a: T, b: T) => number) {
-  const stabilizedThis = array.map((el, index) => [el, index] as [T, number]);
-  stabilizedThis.sort((a, b) => {
-    const order = comparator(a[0], b[0]);
-    if (order !== 0) {
-      return order;
-    }
-
-    return a[1] - b[1];
-  });
-
-  return stabilizedThis.map((el) => el[0]);
-}
-
-interface HeadCell {
-  disablePadding: boolean;
-  id: string;
-  label: string;
-  numeric: boolean;
-}
-
-const headCells: readonly HeadCell[] = [
-  {
-    id: 'name',
-    numeric: false,
-    disablePadding: false,
-    label: 'Products',
-  },
-  {
-    id: 'pname',
-    numeric: false,
-    disablePadding: false,
-    label: 'Date',
-  },
-
-  {
-    id: 'status',
-    numeric: false,
-    disablePadding: false,
-    label: 'Status',
-  },
-  {
-    id: 'price',
-    numeric: false,
-    disablePadding: false,
-    label: 'Price',
-  },
-  {
-    id: 'action',
-    numeric: false,
-    disablePadding: false,
-    label: 'Action',
-  },
-];
-
-interface EnhancedTableProps {
-  numSelected: number;
-  onRequestSort: (event: React.MouseEvent<unknown>, property: any) => void;
-  onSelectAllClick: (event: React.ChangeEvent<HTMLInputElement>) => void;
-  order: Order;
-  orderBy: string;
-  rowCount: number;
-}
-
-function EnhancedTableHead(props: EnhancedTableProps) {
-  const { onSelectAllClick, order, orderBy, numSelected, rowCount, onRequestSort } = props;
-  const createSortHandler = (property: any) => (event: React.MouseEvent<unknown>) => {
-    onRequestSort(event, property);
+/* ───── nạp dữ liệu ───── */
+const ctx = require.context('../../../../resources', true, /\.json$/); // điều chỉnh path tuỳ cấu trúc
+const DATA_MAP = ctx.keys().reduce<Record<string, DataEntry>>((acc, raw) => {
+  const m = raw.match(/^\.\/([^/]+)\/(.+)\.json$/); // ./folder/file.json
+  if (!m) return acc;
+  const [, field, subject] = m;
+  acc[`${toSlug(field)}/${toSlug(subject)}`] = {
+    questions: ctx(raw) as Question[],
+    fieldName: field,
+    subjectName: subject,
   };
 
-  return (
-    <TableHead>
-      <TableRow>
-        <TableCell padding="checkbox">
-          <CustomCheckbox
-            color="primary"
-            checked={rowCount > 0 && numSelected === rowCount}
-            onChange={onSelectAllClick}
-            inputProps={{
-              'aria-label': 'select all desserts',
-            }}
-          />
-        </TableCell>
-        {headCells.map((headCell) => (
-          <TableCell
-            key={headCell.id}
-            align={headCell.numeric ? 'right' : 'left'}
-            padding={headCell.disablePadding ? 'none' : 'normal'}
-            sortDirection={orderBy === headCell.id ? order : false}
-          >
-            <TableSortLabel
-              active={orderBy === headCell.id}
-              direction={orderBy === headCell.id ? order : 'asc'}
-              onClick={createSortHandler(headCell.id)}
-            >
-              {headCell.label}
-              {orderBy === headCell.id ? (
-                <Box component="span" sx={visuallyHidden}>
-                  {order === 'desc' ? 'sorted descending' : 'sorted ascending'}
-                </Box>
-              ) : null}
-            </TableSortLabel>
-          </TableCell>
-        ))}
-      </TableRow>
-    </TableHead>
-  );
-}
+  return acc;
+}, {});
 
-interface EnhancedTableToolbarProps {
-  numSelected: number;
-  handleSearch: React.ChangeEvent<HTMLInputElement> | any;
-  search: string;
-}
+/* ───── component ───── */
+const DEFAULT_ROUTE = '/mon-dai-cuong/chu-nghia-mac-lenin-1'; // slug mặc định
 
-const EnhancedTableToolbar = (props: EnhancedTableToolbarProps) => {
-  const { numSelected, handleSearch, search } = props;
+const QuestionTable: React.FC = () => {
+  /* ---- state ---- */
+  const [rows, setRows] = useState<Question[]>([]);
+  const [search, setSearch] = useState('');
+  const [page, setPage] = useState(0);
+  const [rowsPerPage, setRowsPerPage] = useState(100);
 
-  return (
-    <Toolbar
-      sx={{
-        pl: { sm: 2 },
-        pr: { xs: 1, sm: 1 },
-        ...(numSelected > 0 && {
-          bgcolor: (theme) =>
-            alpha(theme.palette.primary.main, theme.palette.action.activatedOpacity),
-        }),
-      }}
-    >
-      {numSelected > 0 ? (
-        <Typography sx={{ flex: '1 1 100%' }} color="inherit" variant="subtitle2" component="div">
-          {numSelected} selected
-        </Typography>
-      ) : (
-        <Box sx={{ flex: '1 1 100%' }}>
-          <TextField
-            InputProps={{
-              startAdornment: (
-                <InputAdornment position="start">
-                  <IconSearch size="1.1rem" />
-                </InputAdornment>
-              ),
-            }}
-            placeholder="Search Product"
-            size="small"
-            onChange={handleSearch}
-            value={search}
-          />
-        </Box>
-      )}
+  /* ---- URL params ---- */
+  const { field = '', subject = '' } = useParams(); // ⬅️ lấy từ path
+  const navigate = useNavigate();
+  const key = `${field}/${subject}`;
+  const entry = DATA_MAP[key];
+  const fieldName = entry?.fieldName ?? '';
+  const subjectName = entry?.subjectName ?? '';
 
-      {numSelected > 0 ? (
-        <Tooltip title="Delete">
-          <IconButton>
-            <IconTrash width="18" />
-          </IconButton>
-        </Tooltip>
-      ) : (
-        <Tooltip title="Filter list">
-          <IconButton>
-            <IconFilter size="1.2rem" />
-          </IconButton>
-        </Tooltip>
-      )}
-    </Toolbar>
-  );
-};
-
-const ProductTableList = () => {
-  const [order, setOrder] = React.useState<Order>('asc');
-  const [orderBy, setOrderBy] = React.useState<any>('calories');
-  const [selected, setSelected] = React.useState<readonly string[]>([]);
-  const [page, setPage] = React.useState(0);
-  const [dense, setDense] = React.useState(false);
-  const [rowsPerPage, setRowsPerPage] = React.useState(5);
-
-  const dispatch = useDispatch();
-
-  //Fetch Products
-  React.useEffect(() => {
-    dispatch(fetchProducts());
-  }, [dispatch]);
-
-  const getProducts: ProductType[] = useSelector((state) => state.ecommerceReducer.products);
-
-  const [rows, setRows] = React.useState<any>(getProducts);
-  const [search, setSearch] = React.useState('');
-
-  React.useEffect(() => {
-    setRows(getProducts);
-  }, [getProducts]);
-
-  const handleSearch = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const filteredRows: ProductType[] = getProducts.filter((row) => {
-      return row.title.toLowerCase().includes(event.target.value);
-    });
-    setSearch(event.target.value);
-    setRows(filteredRows);
-  };
-
-  // This is for the sorting
-  const handleRequestSort = (event: React.MouseEvent<unknown>, property: any) => {
-    const isAsc = orderBy === property && order === 'asc';
-    setOrder(isAsc ? 'desc' : 'asc');
-    setOrderBy(property);
-  };
-
-  // This is for select all the row
-  const handleSelectAllClick = (event: React.ChangeEvent<HTMLInputElement>) => {
-    if (event.target.checked) {
-      const newSelecteds = rows.map((n: any) => n.title);
-      setSelected(newSelecteds);
-
-      return;
-    }
-    setSelected([]);
-  };
-
-  // This is for the single row sleect
-  const handleClick = (event: React.MouseEvent<unknown>, name: string) => {
-    const selectedIndex = selected.indexOf(name);
-    let newSelected: readonly string[] = [];
-
-    if (selectedIndex === -1) {
-      newSelected = newSelected.concat(selected, name);
-    } else if (selectedIndex === 0) {
-      newSelected = newSelected.concat(selected.slice(1));
-    } else if (selectedIndex === selected.length - 1) {
-      newSelected = newSelected.concat(selected.slice(0, -1));
-    } else if (selectedIndex > 0) {
-      newSelected = newSelected.concat(
-        selected.slice(0, selectedIndex),
-        selected.slice(selectedIndex + 1),
-      );
-    }
-
-    setSelected(newSelected);
-  };
-
-  const handleChangePage = (event: unknown, newPage: number) => {
-    setPage(newPage);
-  };
-
-  const handleChangeRowsPerPage = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setRowsPerPage(parseInt(event.target.value, 10));
+  /* ---- load data khi key đổi ---- */
+  useEffect(() => {
+    setRows(entry?.questions ?? []);
     setPage(0);
-  };
+    setSearch('');
+  }, [entry]);
 
-  const handleChangeDense = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setDense(event.target.checked);
-  };
+  /* ---- fallback khi URL sai hoặc thiếu ---- */
+  useEffect(() => {
+    if (entry) return; // có dữ liệu → OK
+    navigate(DEFAULT_ROUTE, { replace: true });
+  }, [entry, navigate]);
 
-  const isSelected = (name: string) => selected.indexOf(name) !== -1;
+  /* ---- filter search ---- */
+  const filtered = useMemo(() => {
+    const kw = normalizeVi(search);
 
-  // Avoid a layout jump when reaching the last page with empty rows.
-  const emptyRows = page > 0 ? Math.max(0, (1 + page) * rowsPerPage - rows.length) : 0;
+    return rows.filter(
+      ({ question, answer }) =>
+        normalizeVi(question).includes(kw) || normalizeVi(answer).includes(kw),
+    );
+  }, [rows, search]);
+  const paged = filtered.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage);
 
-  const theme = useTheme();
-  const borderColor = theme.palette.divider;
-
+  /* ---- UI ---- */
   return (
-    <Box>
-      <Box>
-        <EnhancedTableToolbar
-          numSelected={selected.length}
-          search={search}
-          handleSearch={(event: any) => handleSearch(event)}
-        />
-        <Paper variant="outlined" sx={{ mx: 2, mt: 1, border: `1px solid ${borderColor}` }}>
-          <TableContainer>
-            <Table
-              sx={{ minWidth: 750 }}
-              aria-labelledby="tableTitle"
-              size={dense ? 'small' : 'medium'}
-            >
-              <EnhancedTableHead
-                numSelected={selected.length}
-                order={order}
-                orderBy={orderBy}
-                onSelectAllClick={handleSelectAllClick}
-                onRequestSort={handleRequestSort}
-                rowCount={rows.length}
-              />
-              <TableBody>
-                {stableSort(rows, getComparator(order, orderBy))
-                  .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
-                  .map((row: any, index) => {
-                    const isItemSelected = isSelected(row.title);
-                    const labelId = `enhanced-table-checkbox-${index}`;
-
-                    return (
-                      <TableRow
-                        hover
-                        onClick={(event) => handleClick(event, row.title)}
-                        role="checkbox"
-                        aria-checked={isItemSelected}
-                        tabIndex={-1}
-                        key={row.title}
-                        selected={isItemSelected}
-                      >
-                        <TableCell padding="checkbox">
-                          <CustomCheckbox
-                            color="primary"
-                            checked={isItemSelected}
-                            inputProps={{
-                              'aria-labelledby': labelId,
-                            }}
-                          />
-                        </TableCell>
-
-                        <TableCell>
-                          <Box display="flex" alignItems="center">
-                            <Avatar src={row.photo} alt="product" sx={{ width: 56, height: 56 }} />
-                            <Box
-                              sx={{
-                                ml: 2,
-                              }}
-                            >
-                              <Typography variant="h6" fontWeight="600">
-                                {row.title}
-                              </Typography>
-                              <Typography color="textSecondary" variant="subtitle2">
-                                {row.category}
-                              </Typography>
-                            </Box>
-                          </Box>
-                        </TableCell>
-                        <TableCell>
-                          <Typography>{format(new Date(row.created), 'E, MMM d yyyy')}</Typography>
-                        </TableCell>
-
-                        <TableCell>
-                          <Box display="flex" alignItems="center">
-                            <Box
-                              sx={{
-                                backgroundColor: row.stock
-                                  ? (theme) => theme.palette.success.main
-                                  : (theme) => theme.palette.error.main,
-                                borderRadius: '100%',
-                                height: '10px',
-                                width: '10px',
-                              }}
-                            />
-                            <Typography
-                              color="textSecondary"
-                              variant="subtitle2"
-                              sx={{
-                                ml: 1,
-                              }}
-                            >
-                              {row.stock ? 'InStock' : 'Out of Stock'}
-                            </Typography>
-                          </Box>
-                        </TableCell>
-
-                        <TableCell>
-                          <Typography fontWeight={600} variant="h6">
-                            ${row.price}
-                          </Typography>
-                        </TableCell>
-                        <TableCell>
-                          <Tooltip title="Edit">
-                            <IconButton size="small">
-                              <IconDotsVertical size="1.1rem" />
-                            </IconButton>
-                          </Tooltip>
-                        </TableCell>
-                      </TableRow>
-                    );
-                  })}
-                {emptyRows > 0 && (
-                  <TableRow
-                    style={{
-                      height: (dense ? 33 : 53) * emptyRows,
-                    }}
-                  >
-                    <TableCell colSpan={6} />
-                  </TableRow>
-                )}
-              </TableBody>
-            </Table>
-          </TableContainer>
-          <TablePagination
-            rowsPerPageOptions={[5, 10, 25]}
-            component="div"
-            count={rows.length}
-            rowsPerPage={rowsPerPage}
-            page={page}
-            onPageChange={handleChangePage}
-            onRowsPerPageChange={handleChangeRowsPerPage}
-          />
-        </Paper>
-        <Box ml={2}>
-          <FormControlLabel
-            control={<CustomSwitch checked={dense} onChange={handleChangeDense} />}
-            label="Dense padding"
-          />
+    <PageContainer title="Bộ câu hỏi" description="">
+      {/* Header có tên Ngành & Môn */}
+      <Grid
+        container
+        sx={{
+          backgroundColor: 'primary.light',
+          borderRadius: 5,
+          p: '30px 25px 20px',
+          mb: '30px',
+          position: 'relative',
+          overflow: 'hidden',
+        }}
+      >
+        <Grid item xs={12} sm={6} lg={8} mb={1}>
+          <Typography variant="h3">Ngành: {fieldName}</Typography>
+          <Typography color="textSecondary" variant="h5" fontWeight={500} mt={1.5}>
+            Môn: {subjectName}
+          </Typography>
+        </Grid>
+        <Grid item xs={12} sm={6} lg={4} display="flex" alignItems="flex-end">
+          <Box
+            sx={{
+              display: { xs: 'none', md: 'block', lg: 'flex' },
+              alignItems: 'center',
+              justifyContent: 'flex-end',
+              width: '100%',
+            }}
+          >
+            <Box sx={{ top: 0, position: 'absolute' }}>
+              <img src={breadcrumbImg} alt="" width={165} />
+            </Box>
+          </Box>
+        </Grid>
+      </Grid>
+      <Box
+        sx={{
+          height: { xs: 'auto', md: 180 },
+          width: '100%',
+          mb: 3,
+          p: { xs: 2, lg: 1.5 },
+          pl: 3,
+          pr: 3,
+          borderRadius: 3,
+          bgcolor: 'secondary.light',
+          display: 'flex',
+          flexDirection: { xs: 'column', md: 'row' },
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          gap: 3,
+          cursor: 'pointer',
+        }}
+        component={Link}
+        to="/donate"
+      >
+        <Box sx={{ maxWidth: { md: '70%' }, textAlign: { xs: 'center', md: 'left' } }}>
+          <Typography variant="h4" fontWeight={700} mb={2}>
+            Toàn bộ câu hỏi đều MIỄN PHÍ☕
+          </Typography>
+          <Typography variant="body1">
+            Mọi sự đóng góp đều được trân trọng và là nguồn động lực để tôi tiếp tục{' '}
+            <b>duy trì & cập nhật bộ câu hỏi!</b>
+          </Typography>
         </Box>
+
+        {/* Bên phải: QR bấm vào dẫn tới /donate */}
+
+        <Box
+          component="img"
+          src={`${process.env.PUBLIC_URL}/qrmini.jpg`}
+          alt="QR Donate"
+          sx={{
+            width: 'auto',
+            height: { xs: '150px', lg: '100%' },
+            boxShadow: 2,
+            transition: 'transform 0.2s',
+            '&:hover': { transform: 'scale(1.05)' },
+          }}
+        />
       </Box>
-    </Box>
+      {/* Search box */}
+      <Toolbar disableGutters sx={{ p: { xs: 0 }, maxWidth: 400, mb: '20px' }}>
+        <TextField
+          fullWidth
+          placeholder="Tìm kiếm câu hỏi hoặc đáp án"
+          value={search}
+          onChange={(e) => {
+            setSearch(e.target.value);
+            setPage(0);
+          }}
+          InputProps={{
+            startAdornment: (
+              <InputAdornment position="start">
+                <IconSearch size="1rem" />
+              </InputAdornment>
+            ),
+          }}
+        />
+      </Toolbar>
+
+      {/* Bảng */}
+      <Paper variant="outlined">
+        <TableContainer
+          onCopy={(e) => e.preventDefault()}
+          sx={{
+            '& th, & td': { userSelect: 'none', WebkitUserSelect: 'none', MozUserSelect: 'none' },
+          }}
+        >
+          <Table
+            size="small"
+            sx={{
+              borderCollapse: 'separate',
+              borderSpacing: 0,
+              '& th, & td': {
+                borderRight: '1px solid',
+                borderColor: (theme) => theme.palette.divider,
+              },
+              '& th:last-of-type, & td:last-of-type': { borderRight: 'none' },
+              '& tbody tr:last-of-type th, & tbody tr:last-of-type td': {
+                borderBottom: '1px solid',
+                borderColor: 'divider',
+              },
+            }}
+          >
+            <TableHead>
+              <TableRow>
+                <TableCell width={15} sx={{ fontSize: 16, fontWeight: 600 }}>
+                  STT
+                </TableCell>
+                <TableCell sx={{ width: '50%', fontSize: 16, fontWeight: 600 }}>Câu hỏi</TableCell>
+                <TableCell sx={{ width: '50%', fontSize: 16, fontWeight: 600 }}>Đáp án</TableCell>
+              </TableRow>
+            </TableHead>
+
+            <TableBody>
+              {paged.map((row, idx) => (
+                <TableRow key={row.id}>
+                  <TableCell sx={{ fontSize: 14, fontWeight: 500, textAlign: 'center' }}>
+                    {page * rowsPerPage + idx + 1}
+                  </TableCell>
+                  <TableCell sx={{ width: '50%' }}>
+                    <Typography
+                      variant="body2"
+                      sx={{ fontSize: 14, fontWeight: 500, p: '12px 4px' }}
+                    >
+                      {row.question}
+                    </Typography>
+                  </TableCell>
+                  <TableCell sx={{ width: '50%' }}>
+                    <Typography
+                      variant="body2"
+                      sx={{ fontSize: 14, fontWeight: 500, p: '12px 4px' }}
+                    >
+                      {row.answer}
+                    </Typography>
+                  </TableCell>
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        </TableContainer>
+
+        {/* Pagination */}
+        <TablePagination
+          component="div"
+          rowsPerPageOptions={[20, 50, 100, 200]}
+          count={filtered.length}
+          page={page}
+          onPageChange={(_, p) => setPage(p)}
+          rowsPerPage={rowsPerPage}
+          onRowsPerPageChange={(e) => {
+            setRowsPerPage(+e.target.value);
+            setPage(0);
+          }}
+        />
+      </Paper>
+    </PageContainer>
   );
 };
 
-export default ProductTableList;
+export default QuestionTable;

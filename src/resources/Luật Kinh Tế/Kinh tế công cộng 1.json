@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Một sinh viên viết trong luận văn của mình như sau: “Việc quy định mức trần học phí đại học của Bộ Giáo dục và Đào tạo là không cần thiết vì nó đang hạn chế quyền tự chủ của các trường đại học”. Câu văn này là",
+    "answer": "một nhận định chuẩn tắc."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Một nền kinh tế gồm hai cá nhân A và B. Trường hợp phân bổ lại nguồn lực nào dưới đây là một hoàn thiện Pareto so với cách phân bổ nguồn lực ban đầu?",
+    "answer": "cả ba trường hợp trên đều đúng"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây không phải một hoàn thiện Pareto?",
+    "answer": "Chính phủ đánh thuế vào người có thu nhập cao để có ngân sách trợ cấp cho người nghèo."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Các quyết định công cộng phải trải qua một quy trình chính trị phức tạp mới có thể được thông qua. Quy trình chính trị đó có thể",
+    "answer": "gây ra một trong hai tình huống trên."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Một nền kinh tế gồm hai ngành sản xuất là X và Y, sử dụng hai loại đầu vào là L và K. Nếu MRTSLKX = 2/3, còn MRTSLKY = 1/3 thì để tạo ra hoàn thiện Pareto trong sản xuất cần",
+    "answer": "chuyển K từ ngành X sang ngành Y và chuyển L từ ngành Y sang ngành X"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Vì độc quyền gây tổn thất phúc lợi xã hội nên Chính phủ cần có chính sách:",
+    "answer": "Kiểm soát độc quyền"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Giải pháp nào sau đây là khả thi nhất có thể dùng để khắc phục hiện tượng ô nhiễm không khí?",
+    "answer": "Dùng dư luận xã hội"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Mức trợ cấp tối ưu đối với ngoại ứng tiêu cực phải bằng:",
+    "answer": "Chi phí ngoại ứng biên tại mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Lợi ích ngoại ứng biên được xác định bằng:",
+    "answer": "Chênh lệch giữa lợi ích xã hội biên và lợi ích tư nhân biên"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Để hạn chế nạn phá rừng ở Tây Nguyên, Chính phủ quyết định trợ cấp cho các hộ gia đình sống xung quanh. Khi đó, tổng trợ cấp Chính phủ phải chi ra sẽ là:",
+    "answer": "MEC * (QXH – QTT)"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Cung cấp công cộng một hàng hóa là hình thức cung cấp hàng hóa:",
+    "answer": "theo cơ chế phi thị trường."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây là thí dụ về thất bại do thông tin không đối xứng gây ra?",
+    "answer": "Phương biết chiếc xe máy của mình có tật ở bộ phát điện, nhưng vẫn bán được với giá cao cho một người không biết điều đó."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Đứng trước tình hình tắc nghẽn trên tuyến đường quốc lộ X vào giờ cao điểm đang ngày càng gia tăng, chính phủ quyết định thu phí giao thông để đạt mức lưu lượng giao thông hiệu quả. Khi đó, mức phí giao thông sẽ bằng:",
+    "answer": "chênh lệch giữa chi phí xã hội biên và chi phí tư nhân biên đối với người tham gia giao thông vào giờ cao điểm."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Tư nhân cung cấp một hàng hóa là việc hàng hóa đó:",
+    "answer": "do tư nhân đứng ra cung cấp"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây thể hiện rõ nhất đặc tính của một hàng hóa công cộng có thể loại trừ bằng giá?",
+    "answer": "Kênh truyền hình cáp VCTV1."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Một ngũ phân vị là một nhóm dân cư có:",
+    "answer": "tổng số cá thể bằng 20% tổng dân số."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Cán bộ thống kê đưa ra các ước tính sau về hệ số Gini của địa phương. Cho biết ước tính nào chắc chắn không phải là một kết quả chính xác?",
+    "answer": "g = 1,02"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Nhược điểm của thước đo đói nghèo theo chi tiêu so với thước đo theo thu nhập là",
+    "answer": "buộc người kê khai phải nhớ lại mức chi tiêu từ năm trước."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nếu một cách phân phối lại làm cho độ thỏa dụng của người giàu tăng thêm 3 đơn vị lợi ích và độ thỏa dụng của người nghèo giảm 2 đơn vị lợi ích thì cách phân phối lại đó được thuyết nào dưới đây chấp nhận?",
+    "answer": "thuyết vị lợi."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Thước đo nào dưới đây cho biết độ sâu của nghèo đói?",
+    "answer": "Khoảng nghèo."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Nguyên tắc bỏ phiếu nào dễ dẫn đến tình trạng “án binh bất động” nhất?",
+    "answer": "nhất trí tuyệt đối"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Thể thức bỏ phiếu nào dưới đây cho phép các cử tri chỉ cần tham gia một lần bỏ phiếu là đã có thể tìm ra phương án được quyết định theo nguyên tắc bỏ phiếu theo đa số?",
+    "answer": "Bỏ phiếu cùng lúc và bỏ phiếu cho điểm"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Đỉnh trong lựa chọn của cá nhân là điểm mà tất cả các điểm lựa chọn khác ở xung quanh đều … nó",
+    "answer": "thấp hơn"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Liên minh trong biểu quyết có thể dẫn đến kết quả làm phúc lợi xã hội",
+    "answer": "một trong ba phương án đều đúng"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Thường trực Hội đồng bảo an Liên hiệp quốc bỏ phiếu theo nguyên tắc",
+    "answer": "nhất trí tuyệt đối"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Đường cầu hoàn toàn không co giãn thì với trợ cấp bên cung",
+    "answer": "Người tiêu dùng sẽ được nhận toàn bộ lợi ích."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Quy định “cấp giấy phép hành nghề” của Chính phủ thuộc nhóm chính sách:",
+    "answer": "Kiểm soát trực tiếp."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Sự mất mát về phúc lợi xã hội mà không thể bù đắp được bằng doanh thu thuế được gọi là",
+    "answer": "tổn thất phúc lợi của thuế."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Quy định về giá sàn:",
+    "answer": "Mục đích để bảo vệ được lợi ích của người sản xuất nhưng không phải lúc nào cũng đạt được."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Mọi yếu tố như nhau, đường cung càng thoải thì lợi ích từ trợ cấp mà người bán được hưởng sẽ:",
+    "answer": "Càng ít."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Theo điều kiện biên về tính hiệu quả, nguyên nhân khiến thị trường phân bổ nguồn lực chưa đạt mức hiệu quả xã hội (trong những trường hợp thất bại thị trường) là do",
+    "answer": "chỉ cần ít nhất (a) hoặc (b) xảy ra"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": ". Một trạng thái cân bằng của nền kinh tế được coi đạt hiệu quả theo tiêu chuẩn Pareto khi tại đó, nền kinh tế đạt",
+    "answer": "đồng thời đạt cả ba điều kiện hiệu quả sản xuất, trao đổi và hỗn hợp."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Chính phủ khi tham gia vào nền kinh tế thị trường có thể đóng vai trò như một",
+    "answer": "cả ba vai trò nói trên."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Tỉ suất thay thế biên cho biết",
+    "answer": "khả năng thay thế lẫn nhau giữa hai hàng hoá để tạo ra mức thoả dụng không đổi."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Một nền kinh tế gồm hai cá nhân là A và B, tiêu dùng hai loại hàng hoá là X và Y. Nếu MRSXYA = 2, còn MRSXYB = 4 thì để tạo ra hoàn thiện Pareto trong tiêu dùng cần",
+    "answer": "chuyển X từ cá nhân A sang cá nhân B và chuyển Y từ cá nhân B sang cá nhân A"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Mức trợ cấp hiệu quả (trợ cấp Pigou) đối với ngoại ứng tích cực bằng:",
+    "answer": "Chênh lệch giữa lợi ích xã hội biên và chi phí xã hội biên tại mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Trong độc quyền tự nhiên, mức sản lượng cung ứng trên thị trường khi Chính phủ đặt giá trần bằng chi phí trung bình sẽ:",
+    "answer": "Nhỏ hơn mức sản lượng khi đặt giá trần bằng chi phí biên"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Trong ngoại ứng tiêu cực, tổng thuế các hãng gây ô nhiễm sẽ phải nộp khi Chính phủ điều tiết là:",
+    "answer": "MEC * QXH"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Mức bù lỗ cho mỗi đơn vị hàng hóa khi Chính phủ buộc độc quyền tự nhiên phải bán tại mức giá trần bằng chi phí biên là:",
+    "answer": "Chênh lệch giữa chi phí trung bình và chi phí biên ở mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Trong trường hợp độc quyền tự nhiên, Chính phủ can thiệp bằng cách:",
+    "answer": "Cả a và c"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Một khu tập thể gồm 5 gia đình A, B, C, D và E cùng nhau thuê người thu dọn vệ sinh chung. Lợi ích biên mà mỗi gia đình nhận được từ việc thuê người dọn vệ sinh lần lượt là 100, 200, 300, 400 và 500 nghìn đồng. Số tiền tối đa mà các gia đình này muốn trả cho người thu dọn vệ sinh là:",
+    "answer": "1.500.000 đồng"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": ". Mức độ trong sạch của môi trường khu vực nội thành Hà Nội là một:",
+    "answer": "hàng hóa công cộng thuần túy."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây là một thí dụ về vấn đề kẻ ăn không?",
+    "answer": "Quang quyết định không đóng tiền vệ sinh tự nguyện hàng tháng cho phường nữa vì cho rằng bớt một khoản tiền nhỏ của mình cũng chẳng làm cho dịch vụ đó bị ảnh hưởng."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Lượng hàng hóa công cộng thuần túy hiệu quả là lượng hàng hóa khi:",
+    "answer": "lợi ích biên=chi phí biên"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": ". Hà thích nghe nhạc to, và sẵn sàng trả 10 đồng/giờ để được mở đài với âm lượng lớn, nhưng vì anh nghe nhạc trong phòng riêng của mình nên thực tế, Hà không phải trả gì hết. Thủy là hàng xóm của Hà, nhưng chị rất ghét sự ầm ĩ. Vì thế, chị sẵn sàng trả cho Hà 2 đồng/giờ để Hà vặn nhỏ đài xuống. Vì Hà nghe nhạc từ đài phát thanh nên thực ra không ai phải trả tiền khi Hà nghe đài. Vậy, lợi ích xã hội của việc nghe nhạc là:",
+    "answer": "8 đồng."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Quan điểm phổ biến hiện nay cho rằng, biểu hiện của sự nghèo khổ là:",
+    "answer": "cả ba khía cạnh trên đều đúng."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Chính phủ phải can thiệp vào vấn đề phân phối thu nhập vì đảm bảo công bằng xã hội",
+    "answer": "là mục tiêu mà cơ chế thị trường không chắc thực hiện được."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Chấm điểm thi học kỳ của sinh viên chỉ dựa trên chất lượng bài thi là nhằm đảm bảo nguyên tắc:",
+    "answer": "công bằng ngang."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Đường phản ánh các kết hợp khác nhau về độ thỏa dụng của cá nhân cùng tạo ra một mức phúc lợi xã hội như nhau được gọi là:",
+    "answer": "đường bàng quan xã hội."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Nhược điểm của thước đo đói nghèo theo thu nhập so với thước đo theo chi tiêu là",
+    "answer": "do tính chất bấp bênh theo thời vụ của thu nhập."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Lợi ích của hành động tập thể là ở chỗ, nhờ có hành động, xã hội có thể tiến từ một điểm phân bổ nguồn lực không hiệu quả đến một điểm phân bổ nguồn lực khác",
+    "answer": "gần với đường giới hạn khả năng sản xuất hơn"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Thể thức bỏ phiếu nào dưới đây cho phép các cử tri chỉ cần tham gia một lần bỏ phiếu là đã có thể tìm ra phương án được quyết định theo nguyên tắc bỏ phiếu theo đa số?",
+    "answer": "Bỏ phiếu cùng lúc và bỏ phiếu cho điểm"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Nếu một quyết định phải được một tỉ lệ lớn hơn tỉ lệ “quá bán” số người tham gia biểu quyết cùng nhất trí mới được thông qua thì việc ra quyết định đó đã tuân theo nguyên tắc",
+    "answer": "biểu quyết theo đa số tuyệt đối"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Kết quả cuối cùng của lựa chọn công cộng sẽ phản ánh đúng lựa chọn của cử tri trung gian. Định lý này được áp dụng trong trường hợp bỏ phiếu theo nguyên tắc",
+    "answer": "biểu quyết theo đa số"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Một cách gọi khác của liên minh trong biểu quyết là",
+    "answer": "mua bán phiếu bầu"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Nếu mọi yếu tố khác như nhau, trong điều kiện bình thường, đường cầu càng dốc thì thuế đánh vào bên cung:",
+    "answer": "do người tiêu dùng chịu nhiều hơn."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Tôn trọng và bảo vệ quyền sở hữu tư nhân về tài sản là một biện pháp nhằm",
+    "answer": "Hỗ trợ sự hình thành của thị trường."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Quy định về giá trần:",
+    "answer": "Mục đích để bảo vệ được lợi ích của người tiêu dùng nhưng không phải lúc nào cũng đạt được."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Mọi yếu tố khác như nhau, trong điều kiện thị trường hàng hóa bình thường, nếu gánh nặng thuế của người tiêu dùng lớn hơn gánh nặng thuế của người sản xuất thì",
+    "answer": "tổn thất thuế về phía người tiêu dùng cũng lớn hơn tổn thất thuế về phía người sản xuất."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Đường cầu hoàn toàn không co giãn thì với trợ cấp bên cung",
+    "answer": "Người tiêu dùng sẽ được nhận toàn bộ lợi ích."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây, chính phủ không cần can thiệp hoặc chỉ can thiệp ở phạm vi hạn chế nhất?",
+    "answer": "giao dịch mua bán xe ô tô mới"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây được coi là thất bại của thị trường?",
+    "answer": "tất cả các trường hợp kể trên."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Mô hình kế hoạch hoá tập trung phát huy tác dụng tích cực nhất của nói trong bối cảnh nền kinh tế",
+    "answer": "thời chiến."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Một nền kinh tế gồm hai cá nhân A và B. Trường hợp phân bổ lại nguồn lực nào dưới đây là một hoàn thiện Pareto so với cách phân bổ nguồn lực ban đầu?",
+    "answer": "cả ba trường hợp trên đều đúng"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây không phải một hoàn thiện Pareto?",
+    "answer": "Chính phủ đánh thuế vào người có thu nhập cao để có ngân sách trợ cấp cho người nghèo."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Mức trợ cấp tối ưu đối với ngoại ứng tích cực phải bằng:",
+    "answer": "Lợi ích ngoại ứng biên tại mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Ngoại ứng tiêu cực gây tác động xấu cho xã hội nên:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Giải pháp nào sau đây là khả thi nhất có thể dùng để khắc phục hiện tượng ô nhiễm không khí?",
+    "answer": "Dùng dư luận xã hội"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Giải pháp trao quyền sở hữu tài sản theo định lý Coase chỉ áp dụng được với những ngoại ứng mà:",
+    "answer": "Khả năng xác lập quyền sở hữu đối với tài sản tương đối dễ"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Mục tiêu của các giải pháp can thiệp của Chính phủ trong trường hợp độc quyền thường là nhằm:",
+    "answer": "Cả b và c"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": ". Nếu một hàng hóa không có tính cạnh tranh trong tiêu dùng thì",
+    "answer": "chi phí biên để phục vụ thêm một người tiêu dùng bằng 0."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Chị Bích muốn thuê gia sư về phụ đạo thêm môn toán cho con, nhưng chị không biết ai là gia sư tốt nên đành nhờ các trung tâm gia sư tìm hộ. Đây là một thí dụ về:",
+    "answer": "thông tin không hoàn hảo"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây là một dạng đặc biệt của hàng hóa công cộng:",
+    "answer": "ngoại ứng tích cực"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Định suất đồng đều trong cung cấp công cộng một hàng hóa cá nhân sẽ gây ra:",
+    "answer": "cả a và b."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Nếu mọi yếu tố khác như nhau, số lượng người tiêu dùng một loại hàng hóa công cộng càng nhiều thì đường cầu tổng hợp về hàng hóa đó:",
+    "answer": "càng dốc."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Điều kiện tối đa hóa phúc lợi xã hội theo thuyết vị lợi là",
+    "answer": "độ thỏa dụng biên của mọi thành viên trong xã hội bằng nhau."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Chiến lược xóa đói giảm nghèo chung của thế giới hiện nay đang tập trung vào việc",
+    "answer": "cả a và b."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Đứng trước các cú sốc trong nền kinh tế (khủng hoảng, suy thoái, thiên tai, dịch bệnh…), người nghèo là đối tượng dễ phải chịu tác động mạnh nhất khiến họ rất khó thoát nghèo. Đặc tính này được gọi là",
+    "answer": "người nghèo dễ bị tổn thương."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Quan điểm phổ biến hiện nay cho rằng, biểu hiện của sự nghèo khổ là:",
+    "answer": "cả ba khía cạnh trên đều đúng."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Chỉ số phản ánh tình trạng một bộ phận dân cư có mức sống dưới mức trung bình của cộng đồng được gọi là",
+    "answer": "ngưỡng nghèo tương đối."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây chắc chắn đảm bảo sẽ có cân bằng biểu quyết nếu tổ chức bỏ phiếu theo hình thức “đấu cặp” trong nguyên tắc bỏ phiếu theo đa số?",
+    "answer": "mọi cử tri đều tuân thủ quy luật lợi ích biên giảm dần"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Trong biểu quyết theo đa số, hai hiện tượng nào luôn đi kèm với nhau?",
+    "answer": "nghịch lý biểu quyết và quay vòng biểu quyết"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Nếu một quyết định chỉ cần có quá nửa số người tham gia biểu quyết cùng nhất trí là được thông qua thì việc ra quyết định đó đã tuân theo nguyên tắc",
+    "answer": "biểu quyết theo đa số"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Quay vòng trong biểu quyết là hiện tượng các phương án biểu quyết được",
+    "answer": "“đấu” theo cặp, nhưng không có phương án nào “thắng” trong mọi cặp đấu."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Lựa chọn công cộng có tính chất",
+    "answer": "có cả hai tính chất nói trên"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Người dân bị mất đất được nhận tiền giải phóng mặt bằng khi thực hiện các dự án bất động sản là hình thức:",
+    "answer": "đền bù tạm thời."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Nếu mọi yếu tố khác như nhau, trong điều kiện bình thường, đường cung càng co giãn thì trợ cấp bên cầu mang lại:",
+    "answer": "lợi ích hơn cho người tiêu dùng càng lớn hơn lợi ích cho người sản xuất."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Quy định “cấp giấy phép hành nghề” của Chính phủ thuộc nhóm chính sách:",
+    "answer": "Kiểm soát trực tiếp."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Chính phủ cấp kinh phí để các tổ chức phi lợi nhuận cung ứng hàng hóa dịch vụ gọi là hình thức",
+    "answer": "Thuê ngoài gián tiếp."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Bảo hiểm bắt buộc của chính phủ sẽ góp phần khắc phục được hiện tượng",
+    "answer": "Lựa chọn ngược."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": ". Tư tưởng chính trong Định lý cơ bản của kinh tế học phúc lợi phù hợp nhất với quan điểm",
+    "answer": "Bàn tay vô hình của Adam Smith."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây cần sự can thiệp của chính phủ?",
+    "answer": "Bà Phương bối rối không biết các loại thuốc được bán trên thị trường có thực sự công hiệu như quảng cáo hay không."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Các điểm đạt hiệu quả sản xuất sẽ nằm … đường giới hạn khả năng sản xuất",
+    "answer": "ngay tại"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây được coi là một thất bại của chính phủ?",
+    "answer": "Việc chính phủ tăng mức phạt đối với người đi xe máy vi phạm luật giao thông đã làm tăng hành vi “thoả thuận ngầm” giữa người vi phạm và cảnh sát giao thông."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây thể hiện rõ nhất một thất bại chung của cả thị trường và chính phủ?",
+    "answer": "Thiếu thông tin"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Chi phí ngoại ứng biên được xác định bằng:",
+    "answer": "Chênh lệch giữa chi phí xã hội biên và chi phí tư nhân biên"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Trong trường hợp ngoại ứng tích cực, nếu QTT = 15 tấn, QXH = 20 tấn và các giá trị tại đó MEB = 35 USD/tấn, MSB = 90 USD/tấn, MPB = 55 USD/tấn thì tổng trợ cấp Chính phủ phải chi ra là:",
+    "answer": "700 USD"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Để khắc phục tình trạng độc quyền tự nhiên, Chính phủ đã áp dụng biện pháp ấn định giá trần cho ngành này. Mức giá trần dự kiến sẽ được tính toán bằng với mức chi phí bình quân tối thiểu của ngành. Chính sách này sẽ khiến hãng độc quyền tự nhiên:",
+    "answer": "Chấp nhận vì sẽ nhận được mức lợi nhuận tài chính tương đương với các doanh nghiệp khác"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Giải pháp đặt giá trần bằng chi phí biên trong độc quyền tự nhiên sẽ:",
+    "answer": "Khắc phục được toàn bộ tổn thất phúc lợi xã hội"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Ngoại ứng gây ra tổn thất phúc lợi xã hội là vì doanh nghiệp gây ra ngoại ứng đã sản xuất mức sản lượng mà tại đó:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Hằng thấy rằng, khi có nhiều người cùng truy cập máy chủ Internet của trường Đại học Kinh tế Quốc dân thì em mất rất nhiều thời gian để truy cập và tải tài liệu xuống. Đây là một thí dụ về:",
+    "answer": "hàng hóa công cộng có khả năng tắc nghẽn."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Tổng lợi ích biên từ việc tiêu dùng một hàng hóa công cộng được tính bằng:",
+    "answer": "tổng lợi ích biên của tất cả các cá nhân cùng tiêu dùng hàng hóa."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Công cộng cung cấp một hàng hóa là việc hàng hóa đó:",
+    "answer": "do khu vực công cộng đứng ra cung cấp"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": ". Một hàng hóa có tính cạnh tranh trong tiêu dùng khi:",
+    "answer": "việc tiêu dùng của một cá nhân bất kỳ đều làm giảm lượng hàng hóa sẵn có dành cho những cá nhân còn lại"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Hàng hóa công cộng thuần túy là hàng hóa:",
+    "answer": "không có tính cạnh tranh cũng không có tính loại trừ trong tiêu dung"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Thuyết cực đại thấp nhất chỉ quan tâm đến phúc lợi của",
+    "answer": "người nghèo nhất trong xã hội."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Đường bàng quan xã hội theo thuyết cực đại thấp nhất có hình dạng",
+    "answer": "đường gấp khúc hình thước thợ."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Hàm phúc lợi xã hội theo thuyết Rawls coi phúc lợi xã hội bằng",
+    "answer": "độ thỏa dụng của người có mức phúc lợi thấp nhất."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Một ngũ phân vị là một nhóm dân cư có:",
+    "answer": "tổng số cá thể bằng 20% tổng dân số."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Một cách phân phối lại làm giảm độ thỏa dụng của người nghèo đi 1 đơn vị thỏa dụng và tăng độ thỏa dụng của người giàu lên 3 đơn vị thỏa dụng thì:",
+    "answer": "Thuyết vị lợi sẽ chấp nhận vì điều đó làm tăng tổng phúc lợi xã hội"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Một giải đấu quần vợt được tổ chức theo thể thức đấu loại trực tiếp. Người thắng cuộc ở vòng trước sẽ được quyền vào thi đấu vòng trong cho đến khi tìm được nhà vô địch. Giải đấu này đang áp dụng thể thức tương tự như",
+    "answer": "bỏ phiếu đấu cặp"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Cử tri trung gian là cử tri",
+    "answer": "có sự lựa chọn nằm ở giữa tập hợp lựa chọn của các cử tri"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Ánh và Thảo vừa đạt được một thoả thuận về lịch trực nhật phòng làm việc chung của hai người. Thoả thuận đó được gọi là",
+    "answer": "lựa chọn công cộng"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Nguyên tắc bỏ phiếu… quy định một lựa chọn phải nhận được một tỉ lệ phiếu bầu đồng ý cao hơn 50% và thấp hơn 100% mới được thông qua",
+    "answer": "theo đa số tuyệt đối"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Mặc dù qui trình bầu cử là trung thực và các cử tri đều nhất quán về phương án lựa chọn của mình, nhưng kết quả bầu cử vẫn có thể bị thao túng bởi cá nhân sắp xếp lịch trình bỏ phiếu. Vấn đề này được gọi là",
+    "answer": "nghịch lý biểu quyết"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Việc những người có bảo hiểm y tế không quan tâm bảo vệ sức khoẻ của mình là hành vi",
+    "answer": "Lợi dụng bảo lãnh cố ý làm liều."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Nếu mọi yếu tố khác như nhau, trong điều kiện bình thường, đường cầu càng thoải thì trợ cấp bên cung mang lại:",
+    "answer": "lợi ích hơn cho người sản xuất càng lớn hơn lợi ích cho người tiêu dùng."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Trong thị trường lao động có đường cung về lao động nằm ngang, thuế đánh vào người thuê lao động sẽ do",
+    "answer": "người thuê lao động chịu toàn bộ."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Trong điều kiện thị trường bình thường và các yếu tố khác như nhau, nếu đường cung co giãn nhiều, đường cầu co giãn ít thì phân bổ thuế hoặc trợ cấp của người sản xuất so với người tiêu dùng sẽ là:",
+    "answer": "ít thuế, ít trợ cấp"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Bảo hiểm bắt buộc là một qui định của chính phủ nhằm khắc phục",
+    "answer": "hiện tượng lựa chọn ngược."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Tỉ suất thay thế kỹ thuật biên cho biết",
+    "answer": "khả năng thay thế lẫn nhau giữa hai đầu vào để tạo ra mức sản lượng không đổi."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Định lý kinh tế học phúc lợi được xem xét trong những điều kiện nhất định. “Điều kiện nhất định” đó ở đây hàm ý",
+    "answer": "Cả hai ý trên."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Trong điều kiện cạnh tranh hoàn hảo, cơ chế thị trường không có khả năng thực hiện yêu cầu nào sau đây?",
+    "answer": "Phân phối thu nhập đảm bảo sự công bằng giữa các chủ thể."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Để hạn chế tình trạng tắc nghẽn giao thông nội đô, chính quyền thành phố đã có chính sách mở rộng mạng lưới xe buýt công cộng. Dịch vụ xe buýt công cộng là",
+    "answer": "hàng hoá cá nhân"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Tính chất nào dưới đây không phải là tính chất của phân tích thực chứng?",
+    "answer": "Nêu rõ quan điểm cá nhân về phương án giải quyết vấn đề"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Giải pháp đặt giá trần bằng chi phí trung bình trong độc quyền tự nhiên sẽ:",
+    "answer": "Khắc phục được một phần tổn thất phúc lợi xã hội"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Giải pháp nào Chính phủ sẽ can thiệp khi xuất hiện ngoại ứng tích cực?",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Việc một hộ gia đình trong ngõ mở nhạc to có thể là:",
+    "answer": "Cả a và b đều đúng"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Trong trường hợp ngoại ứng tiêu cực, nếu QTT = 15 tấn, QXH = 20 tấn và các giá trị tại đó MEC = 35 USD/tấn, MSC = 90 USD/tấn, MPC = 55 USD/tấn thì tổng trợ cấp Chính phủ phải chi ra là:",
+    "answer": "175 USD"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Giải pháp nào Chính phủ sẽ can thiệp khi xuất hiện ngoại ứng tích cực?",
+    "answer": "Trợ cấp cho các đối tượng"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Một hàng hóa không có tính loại trừ trong tiêu dùng khi:",
+    "answer": "không thể ngăn cản bất kỳ ai khỏi việc hưởng thụ dịch vụ mà hàng hóa đó mang lại."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Một khóa đào tạo về chứng khoán được xếp loại phù hợp nhất vào dạng hàng hóa nào dưới đây?",
+    "answer": "Hàng hóa chỉ có thể thẩm định khi sử dụng."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Cung cấp tư nhân một hàng hóa là việc hàng hóa đó:",
+    "answer": "được cung cấp bằng cơ chế thị trường"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Vấn đề «kẻ ăn không» xuất hiện đối với các loại hàng hóa:",
+    "answer": "không có tính chất loại trừ trong tiêu dùng."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Hàng hóa cá nhân thuần túy là hàng hóa:",
+    "answer": "vừa có tính cạnh tranh, vừa có tính loại trừ trong tiêu dùng"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Xét tuyển sinh vào đại học theo khu vực và đối tượng là một hình thức đảm bảo nguyên tắc:",
+    "answer": "công bằng dọc."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Hàm phúc lợi xã hội theo thuyết vị lợi coi phúc lợi xã hội bằng",
+    "answer": "tổng độ thỏa dụng của các thành viên trong xã hội."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Nếu một cách phân phối lại làm cho độ thỏa dụng của người giàu giảm 3 đơn vị lợi ích và độ thỏa dụng của người nghèo tăng thêm 2 đơn vị lợi ích thì cách phân phối lại đó được thuyết nào dưới đây chấp nhận?",
+    "answer": "thuyết cực đại thấp nhất."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Chuẩn nghèo chung cao hơn chuẩn nghèo về lương thực, thực phẩm (LTTP) là do",
+    "answer": "Chuẩn nghèo chung tính thêm nhu cầu chi tiêu phi LTTP."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Nếu một cách phân phối lại làm cho độ thỏa dụng của người giàu tăng thêm 3 đơn vị lợi ích và độ thỏa dụng của người nghèo giảm 2 đơn vị lợi ích thì cách phân phối lại đó được thuyết nào dưới đây chấp nhận?",
+    "answer": "thuyết vị lợi."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Lựa chọn đơn đỉnh là lựa chọn của cá nhân mà nếu di chuyển sang trái trong biểu đồ lựa chọn của anh ta, độ thoả dụng của anh ta sẽ giảm dần. Nếu di chuyển sang phải thì độ thoả dụng của anh ta",
+    "answer": "cũng sẽ giảm dần"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Hạn chế của bỏ phiếu theo nguyên tắc biểu quyết theo đa số là có nguy cơ dẫn đến tình trạng",
+    "answer": "nhóm đa số áp chế nhóm thiểu số"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nếu có một cử tri có lựa chọn đa đỉnh thì biểu quyết theo thể thức đấu cặp trong nguyên tắc biểu quyết theo đa số sẽ",
+    "answer": "không chắc dẫn đến cân bằng biểu quyết"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Lựa chọn theo nguyên tắc đa số giản đơn sẽ cho phép … miền ra quyết định so với lựa chọn theo nguyên tắc nhất trí tuyệt đối",
+    "answer": "mở rộng"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Bản chất Định lý bất khả thi của Arrow là ông cho rằng không có cách nào",
+    "answer": "có được một nguyên tắc lựa chọn công cộng đáp ứng được tất cả các tiêu chuẩn về hiệu quả, công bằng và dân chủ."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Việc cho phép các doanh nghiệp mua bán giấy phép xả thải nhằm hạn chế ô nhiễm môi trường là một giải pháp thuộc nhóm chính sách:",
+    "answer": "hợp thức hóa thị trường."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Dự trữ Quốc gia có thể ở dưới dạng:",
+    "answer": "Tất cả các dạng trên."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Nếu mọi yếu tố khác như nhau, trong điều kiện bình thường, đường cung co giãn ít, đường cầu co giãn nhiều thì thuế sẽ khiến cho",
+    "answer": "tổn thất thuế về phía người sản xuất lớn hơn tổn thất về phía người tiêu dùng."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Hình thức thuê ngoài gián tiếp thông qua các tổ chức phi lợi nhuận có ưu điểm là:",
+    "answer": "Tất cả các lý do trên."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Lý do cơ bản nhất khiến rất ít các công ty tư nhân tham gia lĩnh vực bảo hiểm y tế tự nguyện là:",
+    "answer": "Hiện tượng lựa chọn ngược."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây  là một hoàn thiện Pareto?",
+    "answer": "Cán bộ công chức thành phố ủng hộ một ngày lương cho chương trình hỗ trợ nạn nhân chất độc màu da cam."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Trong nền kinh tế hỗn hợp, chính phủ có vai trò",
+    "answer": "hỗ trợ, thúc đẩy sự phát triển của thị trường cạnh tranh."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Một sinh viên viết trong luận văn của mình như sau: “Việc quy định mức trần học phí đại học của Bộ Giáo dục và Đào tạo đang hạn chế quyền tự chủ của các trường đại học”. Câu văn này là",
+    "answer": "một nhận định thực chứng."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Thất bại thị trường diễn ra khi cơ chế thị trường không phân bổ được nguồn lực theo",
+    "answer": "mục tiêu tối đa hoá phúc lợi xã hội."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Một sinh viên viết trong luận văn của mình như sau: “Việc quy định mức trần học phí đại học của Bộ Giáo dục và Đào tạo là không cần thiết vì nó đang hạn chế quyền tự chủ của các trường đại học”. Câu văn này là",
+    "answer": "một nhận định chuẩn tắc."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Mức thuế hiệu quả (thuế Pigou) đối với ngoại ứng tiêu cực bằng:",
+    "answer": "Chênh lệch giữa chi phí xã hội biên và chi phí tư nhân biên tại mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Giải pháp nào Chính phủ sẽ can thiệp khi xuất hiện ngoại ứng tiêu cực?",
+    "answer": "Cả 3 đều đúng"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Ngoại ứng gây ra tổn thất phúc lợi xã hội là vì doanh nghiệp gây ra ngoại ứng đã sản xuất với:",
+    "answer": "Cả a và b đúng"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Giải pháp nào Chính phủ sẽ can thiệp khi xuất hiện ngoại ứng tích cực?",
+    "answer": "Trợ cấp"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Ngoại ứng gây ra tổn thất phúc lợi xã hội là vì doanh nghiệp gây ra ngoại ứng đã sản xuất mức sản lượng mà tại đó:",
+    "answer": "Cả a và b đúng"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Cung cấp công cộng một hàng hóa là hình thức cung cấp hàng hóa:",
+    "answer": "theo cơ chế phi thị trường."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây thể hiện rõ nhất đặc tính của một hàng hóa cá nhân?",
+    "answer": "Nước sạch đô thị"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": ". Chính phủ hỗ trợ kinh phí cho các trường đại học dân lập nhằm khắc phục thất bại nào của thị trường:",
+    "answer": "b và c"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Nếu mọi yếu tố khác như nhau, số lượng người tiêu dùng một loại hàng hóa cá nhân càng nhiều thì đường cầu tổng hợp về hàng hóa đó:",
+    "answer": "càng thoải."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Thất bại thị trường xuất hiện khi thị trường không mang lại:",
+    "answer": "hiệu quả mà xã hội mong muốn."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Chấm điểm thi học kỳ của sinh viên chỉ dựa trên chất lượng bài thi là nhằm đảm bảo nguyên tắc:",
+    "answer": "công bằng ngang."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Đường phản ánh các kết hợp khác nhau về độ thỏa dụng của cá nhân cùng tạo ra một mức phúc lợi xã hội như nhau được gọi là:",
+    "answer": "đường bàng quan xã hội."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Cho biết thu nhập cộng dồn của các nhóm dân cư theo ngũ phân vị của một quốc gia lần lượt là: 5%, 15%, 25%, 60% và 100%. Hệ số Gini trong phân phối thu nhập của quốc gia này bằng:",
+    "answer": "0.38"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Chính phủ phải can thiệp vào vấn đề phân phối thu nhập vì đảm bảo công bằng xã hội",
+    "answer": "là mục tiêu mà cơ chế thị trường không chắc thực hiện được."
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Nhận định “Phân phối lại thu nhập từ người giàu sang người nghèo không làm thay đổi tổng thu nhập quốc dân nhưng có thể làm tăng phúc lợi xã hội” phù hợp nhất với quan điểm nào dưới đây?",
+    "answer": "thuyết vị lợi."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Có 7 cử tri, mỗi cử tri ủng hộ một mức chi tiêu ngân sách quốc phòng của chính phủ, lần lượt như sau: 10, 15, 19, 41, 52, 74, 100 (nghìn tỉ đồng). Khi đó, cử tri ủng hộ mức chi 41 nghìn tỉ đồng được gọi là",
+    "answer": "cử tri trung gian"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Trong một cuộc bỏ phiếu bất tín nhiệm Chủ tịch của một câu lạc bộ, ban tổ chức tuyên bố: “Nếu đạt được quá hai phần ba số thành viên Câu lạc bộ bỏ phiếu bất tín nhiệm thì Chủ tịch sẽ phải từ chức”. Như vậy, Câu lạc bộ này đang áp dụng nguyên tắc bỏ phiếu",
+    "answer": "biểu quyết theo đa số tuyệt đối"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Cân bằng Lindahl chỉ có thể thành công trong thực tế nếu có cơ chế buộc tất cả mọi người phải",
+    "answer": "bộc lộ chính xác mức sẵn sàng chi trả của mình cho hàng hoá"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Đỉnh trong lựa chọn của cá nhân là điểm mà tất cả các điểm lựa chọn khác ở xung quanh đều … nó",
+    "answer": "thấp hơn"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Nếu tất cả các cử tri đều có lựa chọn đơn đỉnh thì biểu quyết theo thể thức đấu cặp trong nguyên tắc biểu quyết theo đa số sẽ",
+    "answer": "chắc chắn dẫn đến cân bằng biểu quyết"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Chị Loan năm nay 40 tuổi, và chị thấy nhu cầu mua bảo hiểm nhân thọ của mình cao hơn so với 15 năm trước. Thái độ này của chị được gọi là",
+    "answer": "động cơ lựa chọn ngược."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Việc cung ứng hàng hoá, dịch vụ bằng DNNN xuất phát từ những lý do:",
+    "answer": "Tất cả các lý do trên."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Việc những người có nhiều khả năng nhận được hưởng các khoản bồi thường của hãng bảo hiểm cao mới nhiệt tình mua bảo hiểm được gọi là hiện tượng",
+    "answer": "Lựa chọn ngược"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Giải pháp nào có thể kết hợp với chính sách giá sàn để khiến chính sách này hiệu quả?",
+    "answer": "Các biện pháp trên đều không đạt được hiệu quả."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Sự mất mát về phúc lợi xã hội mà không thể bù đắp được bằng doanh thu thuế được gọi là",
+    "answer": "tổn thất phúc lợi của thuế."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Tỉ suất chuyển đổi biên:",
+    "answer": "khả năng thay thế lẫn nhau trong việc sản xuất giữa hai hàng hoá với quỹ đầu vào cho trước."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Tỉ suất thay thế biên cho biết",
+    "answer": "khả năng thay thế lẫn nhau giữa hai hàng hoá để tạo ra mức thoả dụng không đổi."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Trong nền kinh tế hỗn hợp, chính phủ có vai trò",
+    "answer": "hỗ trợ, thúc đẩy sự phát triển của thị trường cạnh tranh."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây, chính phủ không cần can thiệp hoặc chỉ can thiệp ở phạm vi hạn chế nhất?",
+    "answer": "giao dịch mua bán xe ô tô mới"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Tính chất nào dưới đây không phải là tính chất của phân tích thực chứng?",
+    "answer": "Nêu rõ quan điểm cá nhân về phương án giải quyết vấn đề"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Mức trợ cấp tối ưu đối với ngoại ứng tích cực phải bằng:",
+    "answer": "Lợi ích ngoại ứng biên tại mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Mức bù lỗ cho mỗi đơn vị hàng hóa khi Chính phủ buộc độc quyền tự nhiên phải bán tại mức giá trần bằng chi phí biên là:",
+    "answer": "Chênh lệch giữa chi phí trung bình và chi phí biên ở mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Mục tiêu của các giải pháp can thiệp của Chính phủ trong trường hợp độc quyền thường là nhằm:",
+    "answer": "Cả b và c"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Để hạn chế nạn phá rừng ở Tây Nguyên, Chính phủ quyết định trợ cấp cho các hộ gia đình sống xung quanh. Khi đó, tổng trợ cấp Chính phủ phải chi ra sẽ là:",
+    "answer": "MEC * (QXH – QTT)"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Ngoại ứng gây ra tổn thất phúc lợi xã hội là vì doanh nghiệp gây ra ngoại ứng đã sản xuất mức sản lượng mà tại đó:",
+    "answer": "Cả a và b đúng"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": ". Một hàng hóa có tính cạnh tranh trong tiêu dùng khi:",
+    "answer": "việc tiêu dùng của một cá nhân bất kỳ đều làm giảm lượng hàng hóa sẵn có dành cho những cá nhân còn lại"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": ". Mức độ trong sạch của môi trường khu vực nội thành Hà Nội là một:",
+    "answer": "hàng hóa công cộng thuần túy."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây là thí dụ về thất bại do thông tin không đối xứng gây ra?",
+    "answer": "Phương biết chiếc xe máy của mình có tật ở bộ phát điện, nhưng vẫn bán được với giá cao cho một người không biết điều đó."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Tổng lợi ích biên từ việc tiêu dùng một hàng hóa công cộng được tính bằng:",
+    "answer": "tổng lợi ích biên của tất cả các cá nhân cùng tiêu dùng hàng hóa."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": ". Hà thích nghe nhạc to, và sẵn sàng trả 10 đồng/giờ để được mở đài với âm lượng lớn, nhưng vì anh nghe nhạc trong phòng riêng của mình nên thực tế, Hà không phải trả gì hết. Thủy là hàng xóm của Hà, nhưng chị rất ghét sự ầm ĩ. Vì thế, chị sẵn sàng trả cho Hà 2 đồng/giờ để Hà vặn nhỏ đài xuống. Vì Hà nghe nhạc từ đài phát thanh nên thực ra không ai phải trả tiền khi Hà nghe đài. Vậy, lợi ích xã hội của việc nghe nhạc là:",
+    "answer": "8 đồng."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Xét tuyển sinh vào đại học theo khu vực và đối tượng là một hình thức đảm bảo nguyên tắc:",
+    "answer": "công bằng dọc."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Trường phái phúc lợi coi đói nghèo là tình trạng:",
+    "answer": "cá nhân không được hưởng mức phúc lợi kinh tế tối thiểu theo chuẩn mực xã hội"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Cho biết thu nhập cộng dồn của các nhóm dân cư theo ngũ phân vị của một quốc gia lần lượt là: 5%, 15%, 25%, 60% và 100%. Hệ số Gini trong phân phối thu nhập của quốc gia này bằng:",
+    "answer": "0.38"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Một cách phân phối lại làm tăng độ thỏa dụng của người nghèo lên 1 đơn vị thỏa dụng và tăng độ thỏa dụng của người giàu lên 3 đơn vị thỏa dụng thì thì:",
+    "answer": "Thuyết cực đại thấp nhất sẽ chấp nhận vì điều đó làm tăng lợi ích người nghèo"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Quan điểm: “Giữa công bằng xã hội và hiệu quả không nhất thiết phải có mâu thuẫn” cho rằng phân phối lại thu nhập từ người giàu sang người nghèo",
+    "answer": "cả ba lập luận trên đều đúng."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Trong biểu quyết theo đa số, hai hiện tượng nào luôn đi kèm với nhau?",
+    "answer": "nghịch lý biểu quyết và quay vòng biểu quyết"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Ánh và Thảo vừa đạt được một thoả thuận về lịch trực nhật phòng làm việc chung của hai người. Thoả thuận đó được gọi là",
+    "answer": "lựa chọn công cộng"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Một cách gọi khác của liên minh trong biểu quyết là",
+    "answer": "mua bán phiếu bầu"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Nguyên tắc bỏ phiếu… quy định một lựa chọn phải nhận được một tỉ lệ phiếu bầu đồng ý cao hơn 50% và thấp hơn 100% mới được thông qua",
+    "answer": "theo đa số tuyệt đối"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Thể thức nào dưới đây vừa cho phép cử tri đưa ra thứ tự xếp hạng các phương án mà mình ưa thích, vừa bộc lộ được mức độ ưa thích tương đối của mình đối với từng phương án?",
+    "answer": "Bỏ phiếu cho điểm"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Mọi yếu tố như nhau, đường cung càng thoải thì lợi ích từ trợ cấp mà người bán được hưởng sẽ:",
+    "answer": "Càng ít."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Việc những người có bảo hiểm y tế không quan tâm bảo vệ sức khoẻ của mình là hành vi",
+    "answer": "Lợi dụng bảo lãnh cố ý làm liều."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Nếu mọi yếu tố khác như nhau, trong điều kiện bình thường, đường cung co giãn ít, đường cầu co giãn nhiều thì thuế sẽ khiến cho",
+    "answer": "tổn thất thuế về phía người sản xuất lớn hơn tổn thất về phía người tiêu dùng."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Lý do Chính phủ phải trực tiếp đứng ra cung ứng hàng hóa dịch vụ cho nền kinh tế:",
+    "answer": "Tất cả các lý do trên."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Giải pháp nào có thể kết hợp với chính sách giá sàn để khiến chính sách này hiệu quả?",
+    "answer": "Các biện pháp trên đều không đạt được hiệu quả."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây thể hiện rõ nhất một thất bại chung của cả thị trường và chính phủ?",
+    "answer": "Thiếu thông tin"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây cần sự can thiệp của chính phủ?",
+    "answer": "Bà Phương bối rối không biết các loại thuốc được bán trên thị trường có thực sự công hiệu như quảng cáo hay không."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây  là một hoàn thiện Pareto?",
+    "answer": "Cán bộ công chức thành phố ủng hộ một ngày lương cho chương trình hỗ trợ nạn nhân chất độc màu da cam."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Chính phủ khi tham gia vào nền kinh tế thị trường có thể đóng vai trò như một",
+    "answer": "cả ba vai trò nói trên."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Một sinh viên viết trong luận văn của mình như sau: “Việc quy định mức trần học phí đại học của Bộ Giáo dục và Đào tạo đang hạn chế quyền tự chủ của các trường đại học”. Câu văn này là",
+    "answer": "một nhận định thực chứng."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Trong trường hợp độc quyền tự nhiên, Chính phủ can thiệp bằng cách:",
+    "answer": "Cả a và c"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Mức thuế tối ưu đối với ngoại ứng tiêu cực phải bằng:",
+    "answer": "Chi phí ngoại ứng biên tại mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Giải pháp đặt giá trần bằng chi phí biên trong độc quyền tự nhiên sẽ:",
+    "answer": "Khắc phục được toàn bộ tổn thất phúc lợi xã hội"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Giải pháp nào Chính phủ sẽ can thiệp khi xuất hiện ngoại ứng tích cực?",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Giải pháp nào Chính phủ sẽ can thiệp khi xuất hiện ngoại ứng tiêu cực?",
+    "answer": "Cả 3 đều đúng"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây là một thí dụ về vấn đề kẻ ăn không?",
+    "answer": "Quang quyết định không đóng tiền vệ sinh tự nguyện hàng tháng cho phường nữa vì cho rằng bớt một khoản tiền nhỏ của mình cũng chẳng làm cho dịch vụ đó bị ảnh hưởng."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Nếu mọi yếu tố khác như nhau, số lượng người tiêu dùng một loại hàng hóa cá nhân càng nhiều thì đường cầu tổng hợp về hàng hóa đó:",
+    "answer": "càng thoải."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây là một dạng đặc biệt của hàng hóa công cộng:",
+    "answer": "ngoại ứng tích cực"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Hàng hóa cá nhân thuần túy là hàng hóa:",
+    "answer": "vừa có tính cạnh tranh, vừa có tính loại trừ trong tiêu dùng"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Hằng thấy rằng, khi có nhiều người cùng truy cập máy chủ Internet của trường Đại học Kinh tế Quốc dân thì em mất rất nhiều thời gian để truy cập và tải tài liệu xuống. Đây là một thí dụ về:",
+    "answer": "hàng hóa công cộng có khả năng tắc nghẽn."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Chuẩn nghèo chung cao hơn chuẩn nghèo về lương thực, thực phẩm (LTTP) là do",
+    "answer": "Chuẩn nghèo chung tính thêm nhu cầu chi tiêu phi LTTP."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Đường bàng quan xã hội theo thuyết cực đại thấp nhất có hình dạng",
+    "answer": "đường gấp khúc hình thước thợ."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Điều kiện tối đa hóa phúc lợi xã hội theo thuyết cực đại thấp nhất là",
+    "answer": "độ thỏa dụng của mọi thành viên trong xã hội bằng nhau."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Trường phái năng lực coi đói nghèo là tình trạng:",
+    "answer": "các phương án trên đúng"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Thước đo nào dưới đây cho biết diện rộng của nghèo đói?",
+    "answer": "Tỉ lệ nghèo."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Bản chất Định lý bất khả thi của Arrow là ông cho rằng không có cách nào",
+    "answer": "có được một nguyên tắc lựa chọn công cộng đáp ứng được tất cả các tiêu chuẩn về hiệu quả, công bằng và dân chủ."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Cân bằng Lindahl chỉ có thể thành công trong thực tế nếu có cơ chế buộc tất cả mọi người phải",
+    "answer": "bộc lộ chính xác mức sẵn sàng chi trả của mình cho hàng hoá"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Trong một cuộc bỏ phiếu bất tín nhiệm Chủ tịch của một câu lạc bộ, ban tổ chức tuyên bố: “Nếu đạt được quá hai phần ba số thành viên Câu lạc bộ bỏ phiếu bất tín nhiệm thì Chủ tịch sẽ phải từ chức”. Như vậy, Câu lạc bộ này đang áp dụng nguyên tắc bỏ phiếu",
+    "answer": "biểu quyết theo đa số tuyệt đối"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Nếu một cá nhân nhất quán với quy luật độ thoả dụng biên giảm dần trong lựa chọn các phương án thì cá nhân đó sẽ có",
+    "answer": "lựa chọn đơn đỉnh"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Nếu một quyết định chỉ cần có quá nửa số người tham gia biểu quyết cùng nhất trí là được thông qua thì việc ra quyết định đó đã tuân theo nguyên tắc",
+    "answer": "biểu quyết theo đa số"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Bảo hiểm bắt buộc của chính phủ sẽ góp phần khắc phục được hiện tượng",
+    "answer": "Lựa chọn ngược."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Việc cung ứng hàng hoá, dịch vụ bằng DNNN xuất phát từ những lý do:",
+    "answer": "Tất cả các lý do trên."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Chính phủ cấp kinh phí để các tổ chức phi lợi nhuận cung ứng hàng hóa dịch vụ gọi là hình thức",
+    "answer": "Thuê ngoài gián tiếp."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Việc người gửi tiền có xu hướng thích gửi tiền vào những ngân hàng đã tham gia Quỹ Bảo hiểm Tín dụng Ngân hàng hơn mà không cần biết hoạt động của những ngân hàng này ra sao là biểu hiện của hành vi:",
+    "answer": "Lợi dụng bảo lãnh, cố ý làm liều."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Quy định về giá trần:",
+    "answer": "Mục đích để bảo vệ được lợi ích của người tiêu dùng nhưng không phải lúc nào cũng đạt được."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Tính chất nào dưới đây không phải là tính chất của phân tích chuẩn tắc?",
+    "answer": "Mô tả tính quy luật vận động của sự vật, hiện tượng"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": ". Một trạng thái cân bằng của nền kinh tế được coi đạt hiệu quả theo tiêu chuẩn Pareto khi tại đó, nền kinh tế đạt",
+    "answer": "đồng thời đạt cả ba điều kiện hiệu quả sản xuất, trao đổi và hỗn hợp."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây được coi là một thất bại của chính phủ?",
+    "answer": "Việc chính phủ tăng mức phạt đối với người đi xe máy vi phạm luật giao thông đã làm tăng hành vi “thoả thuận ngầm” giữa người vi phạm và cảnh sát giao thông."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Tỉ suất thay thế kỹ thuật biên cho biết",
+    "answer": "khả năng thay thế lẫn nhau giữa hai đầu vào để tạo ra mức sản lượng không đổi."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": ". Mô hình nền kinh tế được theo đuổi phổ biến nhất trên thế giới hiện nay là mô hình nền kinh tế",
+    "answer": "hỗn hợp"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Trong độc quyền tự nhiên, mức sản lượng cung ứng trên thị trường khi Chính phủ đặt giá trần bằng chi phí trung bình sẽ:",
+    "answer": "Nhỏ hơn mức sản lượng khi đặt giá trần bằng chi phí biên"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Ngoại ứng tiêu cực gây tác động xấu cho xã hội nên:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Trong ngoại ứng tiêu cực, tổng thuế các hãng gây ô nhiễm sẽ phải nộp khi Chính phủ điều tiết là:",
+    "answer": "MEC * QXH"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Giải pháp trao quyền sở hữu tài sản theo định lý Coase chỉ áp dụng được với những ngoại ứng mà:",
+    "answer": "Khả năng xác lập quyền sở hữu đối với tài sản tương đối dễ"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Ngoại ứng gây ra tổn thất phúc lợi xã hội là vì doanh nghiệp gây ra ngoại ứng đã sản xuất mức sản lượng mà tại đó:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Thất bại thị trường xuất hiện khi thị trường không mang lại:",
+    "answer": "hiệu quả mà xã hội mong muốn."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Tư nhân cung cấp một hàng hóa là việc hàng hóa đó:",
+    "answer": "do tư nhân đứng ra cung cấp"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây thể hiện rõ nhất đặc tính của một hàng hóa cá nhân?",
+    "answer": "Nước sạch đô thị"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Một khu tập thể gồm 5 gia đình A, B, C, D và E cùng nhau thuê người thu dọn vệ sinh chung. Lợi ích biên mà mỗi gia đình nhận được từ việc thuê người dọn vệ sinh lần lượt là 100, 200, 300, 400 và 500 nghìn đồng. Số tiền tối đa mà các gia đình này muốn trả cho người thu dọn vệ sinh là:",
+    "answer": "1.500.000 đồng"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Một hàng hóa không có tính loại trừ trong tiêu dùng khi:",
+    "answer": "không thể ngăn cản bất kỳ ai khỏi việc hưởng thụ dịch vụ mà hàng hóa đó mang lại."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Đường Lorenz càng phình rộng chứng tỏ sự bất bình đẳng trong phân phối thu nhập",
+    "answer": "càng tăng."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Đường phản ánh mức thỏa dụng tối đa của một cá nhân khi cho trước mức thỏa dụng của các thành viên khác trong xã hội được gọi là",
+    "answer": "đường khả năng thỏa dụng."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Câu nói của Bác Hồ: “Tôi muốn dân ta ai cũng có cơm ăn, ai cũng có áo mặc, ai cũng được học hành” phản ánh chính xác nhất quan điểm của trường phái nào dưới đây?",
+    "answer": "Trường phái nhu cầu cơ bản."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Đường bàng quan xã hội theo thuyết vị lợi có hình dạng",
+    "answer": "đường thẳng dốc xuống như đường cầu."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Hệ số Gini",
+    "answer": "có thể so sánh giữa các quốc gia và các thời kỳ."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Có 7 cử tri, mỗi cử tri ủng hộ một mức chi tiêu ngân sách quốc phòng của chính phủ, lần lượt như sau: 10, 15, 19, 41, 52, 74, 100 (nghìn tỉ đồng). Khi đó, cử tri ủng hộ mức chi 41 nghìn tỉ đồng được gọi là",
+    "answer": "cử tri trung gian"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây chắc chắn đảm bảo sẽ có cân bằng biểu quyết nếu tổ chức bỏ phiếu theo hình thức “đấu cặp” trong nguyên tắc bỏ phiếu theo đa số?",
+    "answer": "mọi cử tri đều tuân thủ quy luật lợi ích biên giảm dần"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Liên minh trong biểu quyết có thể dẫn đến kết quả làm phúc lợi xã hội",
+    "answer": "một trong ba phương án đều đúng"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Định lý Bất khả thi của Arrow là kết quả của việc Arrow",
+    "answer": "đi tìm một cơ chế lựa chọn công cộng lý tưởng"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Nếu tất cả các cử tri đều có lựa chọn đơn đỉnh thì biểu quyết theo thể thức đấu cặp trong nguyên tắc biểu quyết theo đa số sẽ",
+    "answer": "chắc chắn dẫn đến cân bằng biểu quyết"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Đấu giá là một biện pháp nhằm:",
+    "answer": "Mô phỏng thị trường."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Người dân bị mất đất được nhận tiền giải phóng mặt bằng khi thực hiện các dự án bất động sản là hình thức:",
+    "answer": "đền bù tạm thời."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Nếu mọi yếu tố khác như nhau, trong điều kiện bình thường, đường cung càng co giãn thì thuế đánh vào bên cầu:",
+    "answer": "do người tiêu dùng chịu càng nhiều hơn."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Tôn trọng và bảo vệ quyền sở hữu tư nhân về tài sản là một biện pháp nhằm",
+    "answer": "Hỗ trợ sự hình thành của thị trường."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Dự trữ Quốc gia có thể ở dưới dạng:",
+    "answer": "Tất cả các dạng trên."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Mô hình kế hoạch hoá tập trung phát huy tác dụng tích cực nhất của nói trong bối cảnh nền kinh tế",
+    "answer": "thời chiến."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Các quyết định công cộng phải trải qua một quy trình chính trị phức tạp mới có thể được thông qua. Quy trình chính trị đó có thể",
+    "answer": "gây ra một trong hai tình huống trên."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Một nền kinh tế gồm hai cá nhân là A và B, tiêu dùng hai loại hàng hoá là X và Y. Nếu MRSXYA = 2, còn MRSXYB = 4 thì để tạo ra hoàn thiện Pareto trong tiêu dùng cần",
+    "answer": "chuyển X từ cá nhân A sang cá nhân B và chuyển Y từ cá nhân B sang cá nhân A"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Trong điều kiện cạnh tranh hoàn hảo, cơ chế thị trường không có khả năng thực hiện yêu cầu nào sau đây?",
+    "answer": "Phân phối thu nhập đảm bảo sự công bằng giữa các chủ thể."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Một nền kinh tế có quỹ đầu vào vốn và lao động không đổi, đang sản xuất ra hai loại hàng hoá X và Y để phân phối cho hai cá nhân A và B. Nếu MRTXY = ¼, còn MRSXYA = MRSXYB = 4 thì để tạo ra hoàn thiện Pareto hỗn hợp, nền kinh tế sẽ cần",
+    "answer": "giảm sản xuất Y và tăng sản xuất X"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Việc một hộ gia đình trong ngõ mở nhạc to có thể là:",
+    "answer": "Cả a và b đều đúng"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Mức thuế hiệu quả (thuế Pigou) đối với ngoại ứng tiêu cực bằng:",
+    "answer": "Chênh lệch giữa chi phí xã hội biên và chi phí tư nhân biên tại mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Trong trường hợp ngoại ứng tiêu cực, nếu QTT = 15 tấn, QXH = 20 tấn và các giá trị tại đó MEC = 35 USD/tấn, MSC = 90 USD/tấn, MPC = 55 USD/tấn thì tổng trợ cấp Chính phủ phải chi ra là:",
+    "answer": "175 USD"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Giải pháp nào Chính phủ sẽ can thiệp khi xuất hiện ngoại ứng tích cực?",
+    "answer": "Trợ cấp"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Q = 200 + 40P có thể là phương trình đường MC của:",
+    "answer": "Có thể của cả hai trường hợp trên"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Cung cấp tư nhân một hàng hóa là việc hàng hóa đó:",
+    "answer": "được cung cấp bằng cơ chế thị trường"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Một khóa đào tạo về chứng khoán được xếp loại phù hợp nhất vào dạng hàng hóa nào dưới đây?",
+    "answer": "Hàng hóa chỉ có thể thẩm định khi sử dụng."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Định suất đồng đều trong cung cấp công cộng một hàng hóa cá nhân sẽ gây ra:",
+    "answer": "cả a và b."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Nếu do thông tin không đối xứng nên công nhân không thể biết rõ như giám đốc về việc liệu công ty đã lắp đặt đủ hệ thống an toàn lao động như đã hứa hay chưa thì công ty sẽ có xu hướng",
+    "answer": "lắp đặt ít thiết bị an toàn lao động hơn mức hiệu quả cần thiết."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Hàng hóa công cộng thuần túy là hàng hóa:",
+    "answer": "không có tính cạnh tranh cũng không có tính loại trừ trong tiêu dung"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Thước đo nào dưới đây cho biết mức độ nghiêm trọng của nghèo đói?",
+    "answer": "Bình phương khoảng nghèo."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Hàm phúc lợi xã hội theo thuyết vị lợi coi phúc lợi xã hội bằng",
+    "answer": "tổng độ thỏa dụng của các thành viên trong xã hội."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Ước tính về hệ số Gini của một nước trong 4 năm như sau: Năm 2014 Năm 2015 Năm 2016 Năm 2017 g = 0,25 g = 0,32 g = 0,58 g = 0,47",
+    "answer": "Năm 2014"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Trường phái nhu cầu cơ bản coi đói nghèo là tình trạng:",
+    "answer": "cá nhân không được hưởng và thỏa mãn những hàng hóa, dịch vụ mà xã hội cho rằng mọi cá nhân có quyền được hưởng, không phụ thuộc thu nhập của họ"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Nếu một cách phân phối lại làm cho độ thỏa dụng của người giàu giảm 3 đơn vị lợi ích và độ thỏa dụng của người nghèo tăng thêm 2 đơn vị lợi ích thì cách phân phối lại đó được thuyết nào dưới đây chấp nhận?",
+    "answer": "thuyết cực đại thấp nhất."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Lựa chọn đơn đỉnh là lựa chọn của cá nhân mà nếu di chuyển sang trái trong biểu đồ lựa chọn của anh ta, độ thoả dụng của anh ta sẽ giảm dần. Nếu di chuyển sang phải thì độ thoả dụng của anh ta",
+    "answer": "cũng sẽ giảm dần"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Nếu có một cử tri có lựa chọn đa đỉnh thì biểu quyết theo thể thức đấu cặp trong nguyên tắc biểu quyết theo đa số sẽ",
+    "answer": "không chắc dẫn đến cân bằng biểu quyết"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Kết quả cuối cùng của lựa chọn công cộng sẽ phản ánh đúng lựa chọn của cử tri trung gian. Định lý này được áp dụng trong trường hợp bỏ phiếu theo nguyên tắc",
+    "answer": "biểu quyết theo đa số"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Lựa chọn theo nguyên tắc đa số giản đơn sẽ cho phép … miền ra quyết định so với lựa chọn theo nguyên tắc nhất trí tuyệt đối",
+    "answer": "mở rộng"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Hạn chế của bỏ phiếu theo nguyên tắc biểu quyết theo đa số là có nguy cơ dẫn đến tình trạng",
+    "answer": "nhóm đa số áp chế nhóm thiểu số"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Lý do cơ bản nhất khiến rất ít các công ty tư nhân tham gia lĩnh vực bảo hiểm y tế tự nguyện là:",
+    "answer": "Hiện tượng lựa chọn ngược."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Chị Loan năm nay 40 tuổi, và chị thấy nhu cầu mua bảo hiểm nhân thọ của mình cao hơn so với 15 năm trước. Thái độ này của chị được gọi là",
+    "answer": "động cơ lựa chọn ngược."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Trong điều kiện thị trường bình thường và các yếu tố khác như nhau, nếu đường cung co giãn nhiều, đường cầu co giãn ít thì phân bổ thuế hoặc trợ cấp của người sản xuất so với người tiêu dùng sẽ là:",
+    "answer": "ít thuế, ít trợ cấp"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Việc những người có nhiều khả năng nhận được hưởng các khoản bồi thường của hãng bảo hiểm cao mới nhiệt tình mua bảo hiểm được gọi là hiện tượng",
+    "answer": "Lựa chọn ngược"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Nếu mọi yếu tố khác như nhau, trong điều kiện bình thường, đường cầu càng dốc thì thuế đánh vào bên cung:",
+    "answer": "do người tiêu dùng chịu nhiều hơn."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Các điểm đạt hiệu quả sản xuất sẽ nằm … đường giới hạn khả năng sản xuất",
+    "answer": "ngay tại"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Định lý kinh tế học phúc lợi được xem xét trong những điều kiện nhất định. “Điều kiện nhất định” đó ở đây hàm ý",
+    "answer": "Cả hai ý trên."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Tổn thất phúc lợi xã hội chỉ xuất hiện khi thị trường sản xuất tại mức sản lượng mà",
+    "answer": "chi phí biên xã hội khác lợi ích biên xã hội (MSC ≠ MSB), MSB)"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": ". Tư tưởng chính trong Định lý cơ bản của kinh tế học phúc lợi phù hợp nhất với quan điểm",
+    "answer": "Bàn tay vô hình của Adam Smith."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Theo điều kiện biên về tính hiệu quả, nguyên nhân khiến thị trường phân bổ nguồn lực chưa đạt mức hiệu quả xã hội (trong những trường hợp thất bại thị trường) là do",
+    "answer": "chỉ cần ít nhất (a) hoặc (b) xảy ra"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Mức trợ cấp hiệu quả (trợ cấp Pigou) đối với ngoại ứng tích cực bằng:",
+    "answer": "Chênh lệch giữa lợi ích xã hội biên và chi phí xã hội biên tại mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Mức trợ cấp tối ưu đối với ngoại ứng tiêu cực phải bằng:",
+    "answer": "Chi phí ngoại ứng biên tại mức sản lượng tối ưu xã hội"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Lợi ích ngoại ứng biên được xác định bằng:",
+    "answer": "Chênh lệch giữa lợi ích xã hội biên và lợi ích tư nhân biên"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Chi phí ngoại ứng biên được xác định bằng:",
+    "answer": "Chênh lệch giữa chi phí xã hội biên và chi phí tư nhân biên"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Trong trường hợp ngoại ứng tích cực, nếu QTT = 15 tấn, QXH = 20 tấn và các giá trị tại đó MEB = 35 USD/tấn, MSB = 90 USD/tấn, MPB = 55 USD/tấn thì tổng trợ cấp Chính phủ phải chi ra là:",
+    "answer": "700 USD"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Nếu mọi yếu tố khác như nhau, số lượng người tiêu dùng một loại hàng hóa công cộng càng nhiều thì đường cầu tổng hợp về hàng hóa đó:",
+    "answer": "càng dốc."
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây thể hiện rõ nhất đặc tính của một hàng hóa công cộng có thể loại trừ bằng giá?",
+    "answer": "Kênh truyền hình cáp VCTV1."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": ". Nếu một hàng hóa không có tính cạnh tranh trong tiêu dùng thì",
+    "answer": "chi phí biên để phục vụ thêm một người tiêu dùng bằng 0."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": ". Chính phủ hỗ trợ kinh phí cho các trường đại học dân lập nhằm khắc phục thất bại nào của thị trường:",
+    "answer": "b và c"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Đứng trước tình hình tắc nghẽn trên tuyến đường quốc lộ X vào giờ cao điểm đang ngày càng gia tăng, chính phủ quyết định thu phí giao thông để đạt mức lưu lượng giao thông hiệu quả. Khi đó, mức phí giao thông sẽ bằng:",
+    "answer": "chênh lệch giữa chi phí xã hội biên và chi phí tư nhân biên đối với người tham gia giao thông vào giờ cao điểm."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Nhận định “Phân phối lại thu nhập từ người giàu sang người nghèo không làm thay đổi tổng thu nhập quốc dân nhưng có thể làm tăng phúc lợi xã hội” phù hợp nhất với quan điểm nào dưới đây?",
+    "answer": "thuyết vị lợi."
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Thuyết cực đại thấp nhất chỉ quan tâm đến phúc lợi của",
+    "answer": "người nghèo nhất trong xã hội."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Quan điểm: “Giữa công bằng và hiệu quả có mâu thuẫn với nhau” cho rằng phân phối lại thu nhập",
+    "answer": "sẽ làm mất mát nguồn lực xã hội do những thất thoát trong quá trình triển khai."
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Nhận định cho rằng: “Nghèo là tình trạng thu nhập của cá nhân nằm dưới chuẩn nghèo do nhà nước qui định” phản ánh chính xác nhất quan điểm của trường phái nào dưới đây?",
+    "answer": "Trường phái phúc lợi."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Nước A có hệ số gini g = 0,2; nước B có hệ số gini g = 0,7. Kết luận nào sau đây đúng?",
+    "answer": "Chưa đủ cơ sở để so sánh diện nghèo giữa nước A và nước B"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Quay vòng trong biểu quyết là hiện tượng các phương án biểu quyết được",
+    "answer": "“đấu” theo cặp, nhưng không có phương án nào “thắng” trong mọi cặp đấu."
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Cử tri trung gian là cử tri",
+    "answer": "có sự lựa chọn nằm ở giữa tập hợp lựa chọn của các cử tri"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Thường trực Hội đồng bảo an Liên hiệp quốc bỏ phiếu theo nguyên tắc",
+    "answer": "nhất trí tuyệt đối"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Lựa chọn đa đỉnh là lựa chọn của cá nhân mà nếu di chuyển theo một hướng nhất định nào đó trong biểu đồ lựa chọn của anh ta thì độ thoả dụng của anh ta cũng sẽ",
+    "answer": "lúc đầu giảm, sau đó tăng"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Lựa chọn công cộng có tính chất",
+    "answer": "có cả hai tính chất nói trên"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Quy định về giá sàn:",
+    "answer": "Mục đích để bảo vệ được lợi ích của người sản xuất nhưng không phải lúc nào cũng đạt được."
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Bảo hiểm bắt buộc là một qui định của chính phủ nhằm khắc phục",
+    "answer": "hiện tượng lựa chọn ngược."
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Việc Quốc hội thông qua Luật Thể dục, thể thao sửa đổi, theo đó chính thức hợp thức hóa đặt cược thể thao là một chính sách nhằm:",
+    "answer": "Tự do hóa thị trường."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Nếu mọi yếu tố khác như nhau, trong điều kiện bình thường, đường cầu càng thoải thì trợ cấp bên cung mang lại:",
+    "answer": "lợi ích hơn cho người sản xuất càng lớn hơn lợi ích cho người tiêu dùng."
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Hình thức thuê ngoài gián tiếp thông qua các tổ chức phi lợi nhuận có ưu điểm là:",
+    "answer": "Tất cả các lý do trên."
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Trong mô hình cung-cầu, đường cầu đồng thời cũng là đường phản ánh",
+    "answer": "lợi ích biên của cá nhân."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Thất bại thị trường diễn ra khi cơ chế thị trường không phân bổ được nguồn lực theo",
+    "answer": "mục tiêu tối đa hoá phúc lợi xã hội."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Để hạn chế tình trạng tắc nghẽn giao thông nội đô, chính quyền thành phố đã có chính sách mở rộng mạng lưới xe buýt công cộng. Dịch vụ xe buýt công cộng là",
+    "answer": "hàng hoá cá nhân"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây được coi là thất bại của thị trường?",
+    "answer": "tất cả các trường hợp kể trên."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Một nền kinh tế gồm hai ngành sản xuất là X và Y, sử dụng hai loại đầu vào là L và K. Nếu MRTSLKX = 2/3, còn MRTSLKY = 1/3 thì để tạo ra hoàn thiện Pareto trong sản xuất cần",
+    "answer": "chuyển K từ ngành X sang ngành Y và chuyển L từ ngành Y sang ngành X"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Để khắc phục tình trạng độc quyền tự nhiên, Chính phủ đã áp dụng biện pháp ấn định giá trần cho ngành này. Mức giá trần dự kiến sẽ được tính toán bằng với mức chi phí bình quân tối thiểu của ngành. Chính sách này sẽ khiến hãng độc quyền tự nhiên:",
+    "answer": "Chấp nhận vì sẽ nhận được mức lợi nhuận tài chính tương đương với các doanh nghiệp khác"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Giải pháp nào Chính phủ sẽ can thiệp khi xuất hiện ngoại ứng tích cực?",
+    "answer": "Trợ cấp cho các đối tượng"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Nếu QXH của ngoại ứng tiêu cực là 60 tấn và các giá trị tại đó: MEC = 40 USD/tấn, MPC = 60 USD/tấn và MSC = 100 USD/tấn thì tổng thuế doanh nghiệp phải nộp khi Chính phủ điều tiết là:",
+    "answer": "2400 USD"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Ngoại ứng gây ra tổn thất phúc lợi xã hội là vì doanh nghiệp gây ra ngoại ứng đã sản xuất với:",
+    "answer": "Cả a và b đúng"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Giải pháp đặt giá trần bằng chi phí trung bình trong độc quyền tự nhiên sẽ:",
+    "answer": "Khắc phục được một phần tổn thất phúc lợi xã hội"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Hàng hóa cá nhân có thể được cung cấp công cộng:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Công cộng cung cấp một hàng hóa là việc hàng hóa đó:",
+    "answer": "do khu vực công cộng đứng ra cung cấp"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Vấn đề «kẻ ăn không» xuất hiện đối với các loại hàng hóa:",
+    "answer": "không có tính chất loại trừ trong tiêu dùng."
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Chị Bích muốn thuê gia sư về phụ đạo thêm môn toán cho con, nhưng chị không biết ai là gia sư tốt nên đành nhờ các trung tâm gia sư tìm hộ. Đây là một thí dụ về:",
+    "answer": "thông tin không hoàn hảo"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Lượng hàng hóa công cộng thuần túy hiệu quả là lượng hàng hóa khi:",
+    "answer": "lợi ích biên=chi phí biên"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Nhận định cho rằng: “Nghèo là hèn, là người nghèo không có tiếng nói và luôn cảm thấy bất lực” phù hợp nhất với quan điểm của trường phái nào dưới đây?",
+    "answer": "Trường phái năng lực."
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Một cách phân phối lại làm giảm độ thỏa dụng của người nghèo đi 1 đơn vị thỏa dụng và tăng độ thỏa dụng của người giàu lên 3 đơn vị thỏa dụng thì:",
+    "answer": "Thuyết vị lợi sẽ chấp nhận vì điều đó làm tăng tổng phúc lợi xã hội"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Chỉ số đếm đầu là tên gọi khác của thước đo đói nghèo nào dưới đây?",
+    "answer": "Tỉ lệ nghèo."
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Hàm phúc lợi xã hội theo thuyết Rawls coi phúc lợi xã hội bằng",
+    "answer": "độ thỏa dụng của người có mức phúc lợi thấp nhất."
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Chỉ số phản ánh tình trạng một bộ phận dân cư có mức sống dưới mức trung bình của cộng đồng được gọi là",
+    "answer": "ngưỡng nghèo tương đối."
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Mặc dù qui trình bầu cử là trung thực và các cử tri đều nhất quán về phương án lựa chọn của mình, nhưng kết quả bầu cử vẫn có thể bị thao túng bởi cá nhân sắp xếp lịch trình bỏ phiếu. Vấn đề này được gọi là",
+    "answer": "nghịch lý biểu quyết"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Nếu một quyết định phải được một tỉ lệ lớn hơn tỉ lệ “quá bán” số người tham gia biểu quyết cùng nhất trí mới được thông qua thì việc ra quyết định đó đã tuân theo nguyên tắc",
+    "answer": "biểu quyết theo đa số tuyệt đối"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Lợi ích của hành động tập thể là ở chỗ, nhờ có hành động, xã hội có thể tiến từ một điểm phân bổ nguồn lực không hiệu quả đến một điểm phân bổ nguồn lực khác",
+    "answer": "gần với đường giới hạn khả năng sản xuất hơn"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Nếu một quyết định bắt buộc phải được tất cả mọi người tham gia biểu quyết cùng nhất trí mới được thông qua thì việc ra quyết định đó đã tuân theo nguyên tắc",
+    "answer": "nhất trí tuyệt đối"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Một giải đấu quần vợt được tổ chức theo thể thức đấu loại trực tiếp. Người thắng cuộc ở vòng trước sẽ được quyền vào thi đấu vòng trong cho đến khi tìm được nhà vô địch. Giải đấu này đang áp dụng thể thức tương tự như",
+    "answer": "bỏ phiếu đấu cặp"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Việc cho phép các doanh nghiệp mua bán giấy phép xả thải nhằm hạn chế ô nhiễm môi trường là một giải pháp thuộc nhóm chính sách:",
+    "answer": "hợp thức hóa thị trường."
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Mọi yếu tố khác như nhau, trong điều kiện thị trường hàng hóa bình thường, nếu gánh nặng thuế của người tiêu dùng lớn hơn gánh nặng thuế của người sản xuất thì",
+    "answer": "tổn thất thuế về phía người tiêu dùng cũng lớn hơn tổn thất thuế về phía người sản xuất."
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Trong thị trường lao động có đường cung về lao động nằm ngang, thuế đánh vào người thuê lao động sẽ do",
+    "answer": "người thuê lao động chịu toàn bộ."
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Việc các doanh nghiệp tư nhân tham gia xây cầu theo hình thức BOT là hình thức chính phủ:",
+    "answer": "Thuê ngoài trực tiếp."
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Nếu mọi yếu tố khác như nhau, trong điều kiện bình thường, đường cung càng co giãn thì trợ cấp bên cầu mang lại:",
+    "answer": "lợi ích hơn cho người tiêu dùng càng lớn hơn lợi ích cho người sản xuất."
+  }
+]

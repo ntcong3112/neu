@@ -1,0 +1,2492 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Việt Nam hòa vào mạng Internet toàn cầu vào khoảng năm nào?",
+    "answer": "1997"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Chữ E trong cụm từ E-learning là viết tắt của từ tiêng Anh nào dưới đây?",
+    "answer": "Electronic"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là sai?",
+    "answer": "Internet là từ viết tắt của International Terminal Network."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "IXP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Internet Exchange Provider."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "TCP/IP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Transmision Control Protocol/ Internet Protocol."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Theo định nghĩa của Compare Infobase Inc thì E-Learning là gì?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Theo định nghĩa của William Horton thì E-Learning là gì?",
+    "answer": "E-learning là sử dụng các công nghệ Web và Internet trong học tập."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Mạng ARPANET hình thành vào khoảng năm nào?",
+    "answer": "1969"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Cho 2 khẳng định sau:",
+    "answer": "KĐ1 sai, KĐ2 sai."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Tất cả các Web Server đều hiểu và chạy được file nào?",
+    "answer": "*.htm"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Không gian địa chỉ IPv6 gấp bao nhiêu lần không gian địa chỉ IPv4?",
+    "answer": "2^96"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Đâu là 1 địa chỉ IPv6 hợp lệ?",
+    "answer": "2001:0DC8::1005:2F43:0BCD:ABC6"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là đúng khi nói về phương thức kết nối quay số qua mạng điện thoại (Dial-up)?",
+    "answer": "Để kết nối, người dùng cần có một đường điện thoại và một modem."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "SMTP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Simple Mail Transfer Protocol."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Tên miền nào sau đây KHÔNG thuộc về quốc gia Việt Nam?",
+    "answer": "jnto.org.fr"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Mạng diện rộng WAN là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Wide Area Network."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Đâu là một địa chỉ IPv4 không hợp lệ?",
+    "answer": "256.168.254.50"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Mạng cục bộ LAN là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Local Area Network."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "IM là viết tắt của từ tiếng Anh nào dưới đây?",
+    "answer": "Instant Message."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Đâu là tên của trình duyệt Web?",
+    "answer": "Internet Explorer."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Khi sử dụng dịch vụ thư điện tử, ô nào dưới đây chứa thông tin về chủ đề của bức thư?",
+    "answer": "Subject"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Để chia sẻ thông tin về những vấn đề cùng quan tâm thông qua việc tạo chủ đề, đăng bài, phản hồi… bạn sử dụng dịch vụ nào sau đây?",
+    "answer": "Dịch vụ diễn đàn."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Dịch vụ Telnet là gì?",
+    "answer": "Là dịch vụ cho phép người sử dụng kết nối đến một máy chủ ở xa để sử dụng máy tính đó như máy của mình."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Giao thức nào dưới đây được sử dụng để truyền tải thư điện tử của MicroSoft Outlook?",
+    "answer": "POP/IMAP"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Trong số các chương trình gửi và nhận thư điện tử dưới đây, chương trình nào được phát triển bởi Microsoft?",
+    "answer": "Outlook"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Khi tìm kiếm bằng Google để tìm kiếm kết hợp bạn sử dụng dấu nào?",
+    "answer": "Dấu cộng (+)"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Trong số các phần mềm sau, phần mềm nào không hỗ trợ chức năng chat?",
+    "answer": "IDM"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Dịch vụ tải tệp tin được dùng để làm gì?",
+    "answer": "Để lấy dữ liệu từ trên mạng Internet xuống máy tính của bạn."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Theo đánh giá chung của Sloan Consortium thì các lớp học có áp dụng công nghệ Internet ở nhóm nào thì được coi là những lớp học E-learning?",
+    "answer": "Nhóm C và nhóm D."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Khi nói về kiến trúc Web để phát triển hệ thống E-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 sai, PB2 đúng."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Trong quá trình trao đổi và giải đáp thắc mắc, yếu tố nào sau đây KHÔNG phải là ưu điểm khi sử dụng diễn đàn?",
+    "answer": "Bạn không có được câu trả lời ngay tức khắc."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Trong số các đặc điểm sau, đâu không phải là đặc điểm của hệ thống E-Learning?",
+    "answer": "Học không có sự hợp tác, phối hợp."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Khi nói về các chuẩn và đặc tả cho hệ thống e-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Sau khi đăng nhập vào lớp học, sinh viên NEU-ELEARNING có thể thay đổi hình ảnh của mình. Chức năng thay đổi hình ảnh nằm trong mục nào dưới đây?",
+    "answer": "Cập nhật hồ sơ cá nhân."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Đâu không phải là các chuẩn và đặc tả cho hệ thống e-learning?",
+    "answer": "Các chuẩn phân tích hệ thống."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Theo Sloan Consortium lớp học nào dưới đây được coi là lớp học sử dụng công nghệ Internet?",
+    "answer": "Lớp học có 1-29% nội dung được truyền tải qua Internet."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Sau khi đăng nhập vào lớp học, thao tác nào sau đây KHÔNG thể thực hiện được?",
+    "answer": "Thay đổi mật khẩu đăng nhập của bạn cùng lớp."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Theo Sloan Consortium lớp học nào dưới đây là lớp học trực tuyến?",
+    "answer": "Tất cả nội dung trên Internet; không có gặp mặt trực tiếp."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "OSP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Online Service Provider."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Trong quá trình phát triển E-learning, ở giai đoạn 1984-1993, có thể tạo ra các bài giảng có tích hợp hình ảnh và âm thanh dựa trên công nghệ CBT.",
+    "answer": "Computer Based Training."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Thuật ngữ \"Internet\" xuất hiện lần đầu vào khoảng năm nào?",
+    "answer": "1974"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 sai, PB2 đúng."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Internet được hình thành từ dự án nào sau đây?",
+    "answer": "Từ một dự án nghiên cứu của Bộ quốc phòng Mỹ."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Chọn phát biểu SAI?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập không dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "ICP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Internet Content Provider."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Đâu là định nghĩa của Lance Dublin, hướng tới e-learning trong doanh nghiệp?",
+    "answer": "“Việc sử dụng công nghệ để tạo ra, đưa các dữ liệu có giá trị, thông tin, học tập và kiến thức với mục đích nâng cao hoạt động của tổ chức và phát triển khả năng cá nhân”."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là sai?",
+    "answer": "Internet là từ viết tắt của International Terminal Network."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Mạng ARPANET hình thành vào khoảng năm nào?",
+    "answer": "1969"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Có một tên miền như sau: neu.edu.vn thì thành phần “edu” thường được gọi là tên miền cấp mấy?",
+    "answer": "2"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Một tên miền đầy đủ có chiều dài không vượt quá 255 ký tự. Vậy chiều dài tối đa của tên miền ở mỗi cấp là bao nhiêu ký tự (bao gồm cả dấu “.”)?",
+    "answer": "63"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Dịch vụ web sử dụng giao thức nào?",
+    "answer": "HTTP"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Đâu là khuôn dạng của địa chỉ miền (Domain-Base Address)?",
+    "answer": "Thông_tin_người_dùng@thông_tin_tên_miền"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Có mấy phiên bản địa chỉ IP?",
+    "answer": "2"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Địa chỉ IP nào không thể gán cho các thiết bị trên mạng?",
+    "answer": "Địa chỉ quảng bá."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "NFS là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Network File System."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Đâu là một địa chỉ IPv4 hợp lệ?",
+    "answer": "192.168.10.6"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Chiều dài tối đa của một tên miền đầy đủ là bao nhiêu ký tự?",
+    "answer": "255"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Đâu là giao thức chuyển địa chỉ vật lý thành địa chỉ IP?",
+    "answer": "RARP."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Khi sử dụng công cụ tìm kiếm Google, nếu muốn kết quả trả về là các trang Web chỉ chứa cụm từ: kinh tế quốc dân, thì trong ô tìm kiếm bạn nhập vào từ khóa nào sau đây?",
+    "answer": "“kinh tế quốc dân”"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Chương trình nào dưới đây KHÔNG cho phép bạn gửi và nhận thư điện tử?",
+    "answer": "IDM"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Trong ô tìm kiếm nếu bạn gõ vào: Kinh tế quốc dân thì kết quả trả về sẽ là gì?",
+    "answer": "Chỉ có các trang có từ Kinh, các trang có từ tế, các trang có từ quốc và các trang có từ dân sẽ được hiển thị."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Khi tìm kiếm bằng Google để tìm kiếm chính xác bạn sử dụng dấu nào?",
+    "answer": "Dấu nháy kép (“”)"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Khi sử dụng các dịch vụ Webmail, khẳng định nào sau đây là đúng?",
+    "answer": "Vấn đề bảo mật thư hoàn toàn phụ thuộc vào nhà cung cấp."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Trang web nào không hỗ trợ tìm kiếm trực tuyến?",
+    "answer": "Safari"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Việc ghi nhớ địa chỉ email của người khác là khá khó khăn. Chức năng nào dưới đây của dịch vụ Mail hỗ trợ bạn trong việc ghi nhớ địa chỉ email?",
+    "answer": "Danh bạ."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Trong số các phần mềm sau, đâu không phải là phần mềm hỗ trợ tải tệp tin?",
+    "answer": "SnagIt"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Khẳng định nào dưới đây là đúng?",
+    "answer": "Có thể tìm kiếm bằng từ khóa tiếng Việt trong Google"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Sau khi hiển thị trang web, bạn có thể bấm chuột vào các liên kết trên trang web để xem tiếp các nội dung bên trong. Nếu muốn nội dung của các trang Web sau hiển thị trong một cửa sổ mới bạn làm như thế nào?",
+    "answer": "Click chuột phải vào liên kết, sau đó chọn Open in New Window."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Đâu không phải là một trong các yêu cầu giao diện người dùng của một hệ thống LMS điển hình?",
+    "answer": "Không cho phép thiết lập nhiều giao diện riêng biệt cho các nhóm người dùng khác nhau."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Khi nói về các chuẩn và đặc tả cho hệ thống e-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Để đánh giá kiến thức của sinh viên, các lớp học E-Learning chủ yếu dựa vào loại bài tập nào dưới đây?",
+    "answer": "Bài tập trắc nghiệm trực tuyến."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "LMS là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Learning Management System."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Đâu là đặc điểm của E-Learning?",
+    "answer": "Tiến trình học được theo dõi chặt chẽ và cung cấp công cụ tự đánh giá."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Khi sử dụng Website của chương trình Neu Elearning, sinh viên KHÔNG thể làm gì?",
+    "answer": "Thay đổi tên đăng nhập."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là hệ thống hỗ trợ học tập trong môi trường elearning?",
+    "answer": "Hệ thống phần mềm quản lý truy cập mạng Internet."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Trong số các đặc điểm sau, đâu không phải là đặc điểm của hệ thống E-Learning?",
+    "answer": "Các dịch vụ đào tạo không được triển khai đồng bộ."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Khi nói về mô hình chức năng hệ thống, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 đúng."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Đâu không phải là một trong các yêu cầu điều khiển truy nhập và bảo mật của một hệ thống LMS điển hình?",
+    "answer": "Không có khả năng hạn chế truy nhập tới dữ liệu/nội dung theo người dùng."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 sai, PB2 đúng."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Internet được hình thành từ dự án nào sau đây?",
+    "answer": "Từ một dự án nghiên cứu của Bộ quốc phòng Mỹ."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "TCP/IP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Transmision Control Protocol/ Internet Protocol."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Theo định nghĩa của William Horton thì E-Learning là gì?",
+    "answer": "E-learning là sử dụng các công nghệ Web và Internet trong học tập."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "OSP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Online Service Provider."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "IXP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Internet Exchange Provider."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Thuật ngữ \"Internet\" xuất hiện lần đầu vào khoảng năm nào?",
+    "answer": "1974"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Việt Nam hòa vào mạng Internet toàn cầu vào khoảng năm nào?",
+    "answer": "1997"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "ICP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Internet Content Provider."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Hệ thống thư điện tử được chia làm hai phần: MUA và MTA. MUA là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Mail User Agent."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Trong các giao thức sau giao thức nào là giao thức cung cấp khả năng truy nhập từ xa vào các máy tính khác?",
+    "answer": "Telnet."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Khẳng đinh nào sau đây là đúng khi nói về DSL đối xứng?",
+    "answer": "Có tốc độ download và upload bằng nhau và đều ở mức cao."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Domain Name là gì?",
+    "answer": "Tên miền."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Trong các công nghệ dưới đây thì đâu không phải là công nghệ “DSL đối xứng“?",
+    "answer": "ADSL"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Mục nào trong cấu trúc của một email mô tả ngắn gọn nội dung của email?",
+    "answer": "Subject"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Mỗi octet trong địa chỉ IPv4 có giá trị trong khoảng nào?",
+    "answer": "Từ 0 đến 255."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Hệ thống thư điện tử được chia làm hai phần: MUA và MTA. Chức năng của MTA là gì?",
+    "answer": "Định tuyến bản tin và xử lý các bản tin đến từ hệ thống của người dùng sao cho các bản tin đó đến được đúng hệ thống đích."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "HTML là tên viết tắt của cụm từ nào?",
+    "answer": "HyperText Markup Languages."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Đâu là 1 địa chỉ IPv6 không hợp lệ?",
+    "answer": "2001:0DC8::1005:2F43::ABC6"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Để khởi động trình duyệt web, bạn nhắp (click) chuột vào biểu tượng nào sau đây?",
+    "answer": "Biểu tượng Internet Explorer."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Trong quá trình duyệt Web, bạn không thể thực hiện thao tác nào dưới đây?",
+    "answer": "Chỉnh sửa nội dung trang Web."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Khi sử dụng phần mềm Mail, thư mục nào dưới đây chứa các thư bạn đã gửi đi?",
+    "answer": "Sent"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Chọn khẳng định đúng nhất?",
+    "answer": "Sau khi đăng nhập Email của Google, sinh viên có thể đọc thư, trả lời thư; chuyển tiếp thư; và xóa thư do người khác gửi tới."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Để đọc các trang siêu văn bản người ta thường sử dụng ?",
+    "answer": "Chương trình duyệt Web (Web Browser)"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Khi sử dụng ứng dụng Mail, thư mục nào dưới đây chứa các thư được gửi đến cho bạn?",
+    "answer": "Inbox"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Khi sử dụng Google, nếu bạn chỉ muốn tìm kiếm các trang web thương mại mà có chứa cụm từ kinh tế thì trong ô tìm kiếm bạn gõ vào từ khóa nào sau đây?",
+    "answer": "“kinh tế” site:com"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Khi sử dụng Mail để đính kèm tệp tin bạn bấm vào nút nào sau đây?",
+    "answer": "Attach Files"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Chương trình nào dưới đây cho phép bạn tải tệp tin từ Intenet xuống máy tính của bạn?",
+    "answer": "IDM"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Để một máy tính nối mạng truy cập được đến một WebSite cụ thể cần biết thông tin gì?",
+    "answer": "Địa chỉ WebSite dưới dạng URL (địa chỉ nguồn thống nhất)"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Theo quan điểm của cơ sở đào tạo, đâu KHÔNG phải là ưu điểm khi chuyển đổi các khoá học truyền thống sang khoá học e-learning?",
+    "answer": "Lợi ích của việc học trên mạng vẫn chưa được khẳng định."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Trong mô hình hệ thống E-Learning không bao gồm thành phần nào?",
+    "answer": "Đội ngũ kỹ sư công nghệ thông tin."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Chọn phát biểu SAI?",
+    "answer": "LCMS không cho phép người dùng tạo ra và sử dụng lại những đơn vị nội dung nhỏ trong kho dữ liệu trung tâm."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Theo Sloan Consortium lớp học nào dưới đây là lớp học truyền thống?",
+    "answer": "Không có nội dung được truyền tải bằng công nghệ Internet."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Khi nói về mô hình chức năng hệ thống, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 đúng."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Đối với các lớp học E-Learning, khẳng định nào dưới đây là đúng?",
+    "answer": "Sinh viên có thể làm các bài luyện tập trắc nghiệm không tính điểm bất cứ lúc nào."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Theo Sloan Consortium thì lớp học áp dụng Internet ở mức nào KHÔNG phải là lớp học E-learning?",
+    "answer": "Nhóm A và nhóm B."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "SCORM là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Sharable Content Object Reference Model."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Trong quá trình học e-learning, đâu không phải là 1 trong 4 hoạt động chính của sinh viên e-learning?",
+    "answer": "Lướt web."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Trong quy trình học tập E-learning của sinh viên, ở bước Học tập gồm có bốn hoạt động chính, đó là những hoạt động nào?",
+    "answer": "Tiếp thu bài giảng; Tương tác; Luyện tập; Kiểm tra và thi kết thúc môn học."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Đâu là định nghĩa của Lance Dublin, hướng tới e-learning trong doanh nghiệp?",
+    "answer": "“Việc sử dụng công nghệ để tạo ra, đưa các dữ liệu có giá trị, thông tin, học tập và kiến thức với mục đích nâng cao hoạt động của tổ chức và phát triển khả năng cá nhân”."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Chữ E trong cụm từ E-learning là viết tắt của từ tiêng Anh nào dưới đây?",
+    "answer": "Electronic"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Theo định nghĩa của Compare Infobase Inc thì E-Learning là gì?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Chọn phát biểu SAI?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập không dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Trong quá trình phát triển E-learning, ở giai đoạn 1984-1993, có thể tạo ra các bài giảng có tích hợp hình ảnh và âm thanh dựa trên công nghệ CBT.",
+    "answer": "Computer Based Training."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 sai, PB2 đúng."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "ICP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Internet Content Provider."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Theo định nghĩa của William Horton thì E-Learning là gì?",
+    "answer": "E-learning là sử dụng các công nghệ Web và Internet trong học tập."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Thuật ngữ \"Internet\" xuất hiện lần đầu vào khoảng năm nào?",
+    "answer": "1974"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Hệ thống thư điện tử được chia làm hai phần: MUA và MTA. MTA là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Message Transfer Agent."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Đâu không phải là 1 bộ giao thức kết nối mạng ?",
+    "answer": "HTML"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Để các máy tính trên Internet có thể liên lạc với nhau, mỗi máy tính cần có một địa chỉ liên lạc và địa chỉ này được gọi là gì?",
+    "answer": "Địa chỉ IP."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là SAI khi nói về trình duyệt web?",
+    "answer": "Là một phần mềm hệ thống được cài đặt trên máy tính của người sử dụng."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Địa chỉ IPv6 biểu diễn dưới dạng bao nhiêu cụm số hệ mười sáu phân cách bởi dấu hai chấm (:)?",
+    "answer": "8"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Trong cách biểu diễn địa chỉ IPv4 được chia thành bao nhiêu octet?",
+    "answer": "4"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Các cụm số hexa trong địa chỉ Ipv6 được tách biệt với nhau bằng dấu nào?",
+    "answer": "Dấu hai chấm “:”"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Trong mỗi cụm số hệ 16 (mỗi phần) của địa chỉ IPv6 có bao nhiêu ký số hệ 16?",
+    "answer": "4"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Việc sao chép một trang lên một Web Server được gọi là:",
+    "answer": "Uploading lên Website."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Mạng đô thị MAN là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Metropolitan Area Network."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Google KHÔNG hỗ trợ cách tìm kiếm nào dưới đây?",
+    "answer": "Tìm kiếm từ trái nghĩa."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Anh An muốn đồng gửi bức thư điện tử tới anh Hải và chị Huệ, tuy nhiên anh An không muốn chị Huệ biết mình đã gửi bức thư này cho anh Hải. Khi đó anh An phải nhập địa chỉ email của anh Hải vào ô nào?",
+    "answer": "Bcc"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Chọn khẳng định đúng?",
+    "answer": "Máy tìm kiếm không phân biệt chữ hoa và chữ thường trong câu điều kiện."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Đâu là nhược điểm của các dịch vụ thư điện tử trên web (webmail)?",
+    "answer": "Tổng dung lượng tệp tin đính kèm theo thư mỗi lần gửi bị giới hạn."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Anh Minh muốn gửi một bức thư điện tử tới chị Nga. Anh Minh sẽ điền địa chỉ email của chị Nga vào trong ô nào dưới đây?",
+    "answer": "To"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Khi sử dụng công cụ tìm kiếm Google, nếu muốn kết quả trả về là các trang Web vừa chứa cụm từ: kinh tế, vừa chứa cụm từ quốc dân thì trong ô tìm kiếm bạn nhập vào từ khóa nào sau đây?",
+    "answer": "“kinh tế” +“quốc dân”"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Dịch vụ Telnet trên mạng Internet là gì?",
+    "answer": "Là dịch vụ thiết lập sự liên hệ giữa MTĐT của ta với một máy chủ ở xa để người dùng có thể sử dụng khả năng xử lý của máy chủ đó."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Để xem các trang tài liệu siêu văn bản (trang web) trên Internet, bạn sử dụng dịch vụ nào sau đây?",
+    "answer": "Dịch vụ World Wide Web."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Để có thể trò chuyện trực tuyến với bạn bè trên Internet bạn sử dụng dịch vụ nào sau đây?",
+    "answer": "Dịch vụ Chat."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Khi sử dụng Google, nếu bạn muốn tìm kiếm các văn bản có đuôi .doc mà có chứa cặp từ kinh tế thì trong ô tìm kiếm bạn gõ vào từ khóa nào sau đây?",
+    "answer": "“kinh tế” filetype:doc"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Quy trình sinh viên học tập trên hệ thống e-learning KHÔNG bao gồm bước nào?",
+    "answer": "Gặp gỡ giáo viên."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "LCMS là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Learning Content Managerment System."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Trong số các đặc điểm sau, đâu không phải là đặc điểm của hệ thống E-Learning?",
+    "answer": "Không linh hoạt về khối lượng kiến thức cần tiếp thu."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Hộp thư điện tử của chương trình NEU-ELEARNING được xây dựng dựa trên hộp thư điện tử nào dưới đây?",
+    "answer": "Google Mail"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Đâu không là mục đích khi phổ biến mục tiêu học tập trong e-learning?",
+    "answer": "Để bạn biết được giảng viên nào sẽ giảng dạy."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Mô hình SCORM do tổ chức nào đưa ra?",
+    "answer": "Viện nghiên cứu công nghệ giáo dục từ xa (ADL)."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Đâu không phải là một trong các yêu cầu kỹ thuật của một hệ thống LMS điển hình?",
+    "answer": "Sử dụng lại, quản lý và phân phối nội dung học tập trong môi trường số từ một kho dữ liệu trung tâm."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Theo Sloan Consortium lớp học nào dưới đây là lớp học trực tuyến?",
+    "answer": "Tất cả nội dung trên Internet; không có gặp mặt trực tiếp."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Trong quy trình học tập E-learning của sinh viên, ở bước Học tập gồm có bốn hoạt động chính, đó là những hoạt động nào?",
+    "answer": "Tiếp thu bài giảng; Tương tác; Luyện tập; Kiểm tra và thi kết thúc môn học."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Đâu là đặc điểm của E-Learning?",
+    "answer": "Tiến trình học được theo dõi chặt chẽ và cung cấp công cụ tự đánh giá."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Chọn phát biểu SAI?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập không dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Mạng ARPANET hình thành vào khoảng năm nào?",
+    "answer": "1969"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Đâu là định nghĩa của Lance Dublin, hướng tới e-learning trong doanh nghiệp?",
+    "answer": "“Việc sử dụng công nghệ để tạo ra, đưa các dữ liệu có giá trị, thông tin, học tập và kiến thức với mục đích nâng cao hoạt động của tổ chức và phát triển khả năng cá nhân”."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Chữ E trong cụm từ E-learning là viết tắt của từ tiêng Anh nào dưới đây?",
+    "answer": "Electronic"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "TCP/IP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Transmision Control Protocol/ Internet Protocol."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Việt Nam hòa vào mạng Internet toàn cầu vào khoảng năm nào?",
+    "answer": "1997"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "OSP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Online Service Provider."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Trong quá trình phát triển E-learning, ở giai đoạn 1984-1993, có thể tạo ra các bài giảng có tích hợp hình ảnh và âm thanh dựa trên công nghệ CBT.",
+    "answer": "Computer Based Training."
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Theo định nghĩa của Compare Infobase Inc thì E-Learning là gì?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Trong các giao thức sau giao thức nào là giao thức truyền file (tệp)?",
+    "answer": "FTP"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Trong các tên dưới đây đâu là 1 tên miền không hợp lệ?",
+    "answer": "neu.edu&vn"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là SAI?",
+    "answer": "Không gian địa chỉ IPv4 lớn hơn và dễ dàng quản lý không gian địa chỉ IPv6."
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "TFTP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Trivial FTP."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "FTP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "File Transfer Protocol."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là sai khi nói về địa chỉ IP công cộng?",
+    "answer": "Không được định tuyến trên Internet Backbone."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Đâu không phải là một phương thức kết nối Internet?",
+    "answer": "TCP/IP"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "ARP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Address Resolution Protocol."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Địa chỉ IP v6 sử dụng bao nhiêu bit để đánh địa chỉ?",
+    "answer": "128"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Trong các công nghệ dưới đây thì đâu không phải là công nghệ “DSL bất đối xứng“?",
+    "answer": "IDSL"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Khi sử dụng công cụ tìm kiếm Google, nếu muốn kết quả trả về là các trang Web vừa chứa cụm từ: kinh tế, vừa chứa cụm từ quốc dân thì trong ô tìm kiếm bạn nhập vào từ khóa nào sau đây?",
+    "answer": "“kinh tế” +“quốc dân”"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Chọn khẳng định đúng nhất?",
+    "answer": "Sau khi đăng nhập Email của Google, sinh viên có thể đọc thư, trả lời thư; chuyển tiếp thư; và xóa thư do người khác gửi tới."
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Trong số các phần mềm sau, đâu không phải là phần mềm hỗ trợ tải tệp tin?",
+    "answer": "SnagIt"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Khi tìm kiếm bằng Google để tìm kiếm chính xác bạn sử dụng dấu nào?",
+    "answer": "Dấu nháy kép (“”)"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Dịch vụ Telnet trên mạng Internet là gì?",
+    "answer": "Là dịch vụ thiết lập sự liên hệ giữa MTĐT của ta với một máy chủ ở xa để người dùng có thể sử dụng khả năng xử lý của máy chủ đó."
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Trong số các chương trình gửi và nhận thư điện tử dưới đây, chương trình nào được phát triển bởi Microsoft?",
+    "answer": "Outlook"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Đâu là nhược điểm của các dịch vụ thư điện tử trên web (webmail)?",
+    "answer": "Tổng dung lượng tệp tin đính kèm theo thư mỗi lần gửi bị giới hạn."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Khi sử dụng dịch vụ thư điện tử, ô nào dưới đây chứa thông tin về chủ đề của bức thư?",
+    "answer": "Subject"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Dịch vụ tải tệp tin được dùng để làm gì?",
+    "answer": "Để lấy dữ liệu từ trên mạng Internet xuống máy tính của bạn."
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Dịch vụ Telnet là gì?",
+    "answer": "Là dịch vụ cho phép người sử dụng kết nối đến một máy chủ ở xa để sử dụng máy tính đó như máy của mình."
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Theo Sloan Consortium lớp học nào dưới đây được coi là lớp học sử dụng công nghệ Internet?",
+    "answer": "Lớp học có 1-29% nội dung được truyền tải qua Internet."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Để đánh giá kiến thức của sinh viên, các lớp học E-Learning chủ yếu dựa vào loại bài tập nào dưới đây?",
+    "answer": "Bài tập trắc nghiệm trực tuyến."
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Đâu không là mục đích khi phổ biến mục tiêu học tập trong e-learning?",
+    "answer": "Để bạn biết được giảng viên nào sẽ giảng dạy."
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Theo Sloan Consortium thì lớp học áp dụng Internet ở mức nào KHÔNG phải là lớp học E-learning?",
+    "answer": "Nhóm A và nhóm B."
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Theo đánh giá chung của Sloan Consortium thì các lớp học có áp dụng công nghệ Internet ở nhóm nào thì được coi là những lớp học E-learning?",
+    "answer": "Nhóm C và nhóm D."
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Trong mô hình hệ thống E-Learning không bao gồm thành phần nào?",
+    "answer": "Đội ngũ kỹ sư công nghệ thông tin."
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Hộp thư điện tử của chương trình NEU-ELEARNING được xây dựng dựa trên hộp thư điện tử nào dưới đây?",
+    "answer": "Google Mail"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Khi nói về các chuẩn và đặc tả cho hệ thống e-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Theo quan điểm của cơ sở đào tạo, đâu KHÔNG phải là ưu điểm khi chuyển đổi các khoá học truyền thống sang khoá học e-learning?",
+    "answer": "Lợi ích của việc học trên mạng vẫn chưa được khẳng định."
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Đâu không phải là một trong các yêu cầu điều khiển truy nhập và bảo mật của một hệ thống LMS điển hình?",
+    "answer": "Không có khả năng hạn chế truy nhập tới dữ liệu/nội dung theo người dùng."
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "IXP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Internet Exchange Provider."
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Internet được hình thành từ dự án nào sau đây?",
+    "answer": "Từ một dự án nghiên cứu của Bộ quốc phòng Mỹ."
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là sai?",
+    "answer": "Internet là từ viết tắt của International Terminal Network."
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Đâu là định nghĩa của Lance Dublin, hướng tới e-learning trong doanh nghiệp?",
+    "answer": "“Việc sử dụng công nghệ để tạo ra, đưa các dữ liệu có giá trị, thông tin, học tập và kiến thức với mục đích nâng cao hoạt động của tổ chức và phát triển khả năng cá nhân”."
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Việt Nam hòa vào mạng Internet toàn cầu vào khoảng năm nào?",
+    "answer": "1997"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "ICP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Internet Content Provider."
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Mạng ARPANET hình thành vào khoảng năm nào?",
+    "answer": "1969"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 sai, PB2 đúng."
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Có 2 khẳng định sau:",
+    "answer": "KĐ1 sai, KĐ2 đúng."
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Địa chỉ IP v4 sử dụng bao nhiêu bit để đánh địa chỉ?",
+    "answer": "32"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Wi-Fi là tên viết tắt của cụm từ nào?",
+    "answer": "Wireless Fidelity."
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Dấu:: xuất hiện tối đa là bao nhiêu lần trong địa chỉ IPv6?",
+    "answer": "1"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Có 2 khẳng định sau:",
+    "answer": "KĐ1 đúng, KĐ2 sai."
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Đâu là giao thức chuyển địa chỉ IP thành địa chỉ vật lý của các thiết bị mạng?",
+    "answer": "ARP."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Trong các khẳng định sau khẳng định nào là SAI?",
+    "answer": "Tên miền khó nhớ hơn địa chỉ IP."
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Hệ thống quản lý tên miền DNS là viết tắt của cụm từ tiêng Anh nào?",
+    "answer": "Domain Name System."
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Trong các công nghệ dưới đây thì đâu là công nghệ “DSL bất đối xứng“?",
+    "answer": "VDSL"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Để truy nhập đến một máy chủ, người dùng có thể dùng?",
+    "answer": "Địa chỉ IP hoặc tên miền."
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Trang web nào không hỗ trợ tìm kiếm trực tuyến?",
+    "answer": "Safari"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Khi sử dụng Mail để đính kèm tệp tin bạn bấm vào nút nào sau đây?",
+    "answer": "Attach Files"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Anh Minh muốn gửi một bức thư điện tử tới chị Nga. Anh Minh sẽ điền địa chỉ email của chị Nga vào trong ô nào dưới đây?",
+    "answer": "To"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Khi sử dụng công cụ tìm kiếm Google, nếu muốn kết quả trả về là các trang Web chỉ chứa cụm từ: kinh tế quốc dân, thì trong ô tìm kiếm bạn nhập vào từ khóa nào sau đây?",
+    "answer": "“kinh tế quốc dân”"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Trong số các phần mềm sau, phần mềm nào không hỗ trợ chức năng chat?",
+    "answer": "IDM"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Để khởi động trình duyệt web, bạn nhắp (click) chuột vào biểu tượng nào sau đây?",
+    "answer": "Biểu tượng Internet Explorer."
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Việc ghi nhớ địa chỉ email của người khác là khá khó khăn. Chức năng nào dưới đây của dịch vụ Mail hỗ trợ bạn trong việc ghi nhớ địa chỉ email?",
+    "answer": "Danh bạ."
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Khi sử dụng phần mềm Mail, thư mục nào dưới đây chứa các thư bạn đã gửi đi?",
+    "answer": "Sent"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Chương trình nào dưới đây cho phép bạn tải tệp tin từ Intenet xuống máy tính của bạn?",
+    "answer": "IDM"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Chọn khẳng định đúng?",
+    "answer": "Máy tìm kiếm không phân biệt chữ hoa và chữ thường trong câu điều kiện."
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Đâu không phải là một trong các yêu cầu giao diện người dùng của một hệ thống LMS điển hình?",
+    "answer": "Không cho phép thiết lập nhiều giao diện riêng biệt cho các nhóm người dùng khác nhau."
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Khi nói về mô hình chức năng hệ thống, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 đúng."
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Trong số các đặc điểm sau, đâu không phải là đặc điểm của hệ thống E-Learning?",
+    "answer": "Học không có sự hợp tác, phối hợp."
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Chọn phát biểu SAI?",
+    "answer": "LCMS không cho phép người dùng tạo ra và sử dụng lại những đơn vị nội dung nhỏ trong kho dữ liệu trung tâm."
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Khi sử dụng Website của chương trình Neu Elearning, sinh viên KHÔNG thể làm gì?",
+    "answer": "Thay đổi tên đăng nhập."
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "LCMS là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Learning Content Managerment System."
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Khi nói về mô hình chức năng hệ thống, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 đúng."
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Theo Sloan Consortium lớp học nào dưới đây là lớp học truyền thống?",
+    "answer": "Không có nội dung được truyền tải bằng công nghệ Internet."
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Trong quá trình trao đổi và giải đáp thắc mắc, yếu tố nào sau đây KHÔNG phải là ưu điểm khi sử dụng diễn đàn?",
+    "answer": "Bạn không có được câu trả lời ngay tức khắc."
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Đâu không phải là các chuẩn và đặc tả cho hệ thống e-learning?",
+    "answer": "Các chuẩn phân tích hệ thống."
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Chữ E trong cụm từ E-learning là viết tắt của từ tiêng Anh nào dưới đây?",
+    "answer": "Electronic"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Theo định nghĩa của William Horton thì E-Learning là gì?",
+    "answer": "E-learning là sử dụng các công nghệ Web và Internet trong học tập."
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Internet được hình thành từ dự án nào sau đây?",
+    "answer": "Từ một dự án nghiên cứu của Bộ quốc phòng Mỹ."
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "IXP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Internet Exchange Provider."
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là sai?",
+    "answer": "Internet là từ viết tắt của International Terminal Network."
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "TCP/IP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Transmision Control Protocol/ Internet Protocol."
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "OSP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Online Service Provider."
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Trong quá trình phát triển E-learning, ở giai đoạn 1984-1993, có thể tạo ra các bài giảng có tích hợp hình ảnh và âm thanh dựa trên công nghệ CBT.",
+    "answer": "Computer Based Training."
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Chọn phát biểu SAI?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập không dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "RARP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Reverse Address Resolution Protocol."
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Có 2 khẳng định sau:",
+    "answer": "KĐ1 đúng, KĐ2 đúng."
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Trong tên miền, dấu nào được sử dụng làm dấu phân cách?",
+    "answer": "Dấu chấm (.)"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Trong các giao thức sau giao thức nào là giao thức truyền thư điện tử?",
+    "answer": "SMTP."
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Khi đặt tên miền không được dùng ký tự nào dưới đây?",
+    "answer": "Ký tự @"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Phương thức kết nối nào là chậm nhất trong số các công nghệ truy cập Internet?",
+    "answer": "Quay số qua mạng điện thoại (Dial-up)."
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Hotspot là một địa điểm mà tại đó có cung cấp các dịch vụ:",
+    "answer": "kết nối không dây và dịch vụ truy cập Internet tốc độ cao thông qua hoạt động của các thiết bị thu phát không dây"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Đâu là một phương thức kết nối Internet?",
+    "answer": "Leased-Line"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Đâu là 1 bộ giao thức hệ thống file phân tán (được phát triển bởi Sun Microsystems) cho phép truy xuất file đến các thiết bị ở xa như 1 đĩa cứng trên mạng?",
+    "answer": "NFS"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Trong các tên dưới đây đâu là 1 tên miền hợp lệ?",
+    "answer": "neu.edu.vn"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Đâu là tên của trình duyệt Web?",
+    "answer": "Internet Explorer."
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Để xem các trang tài liệu siêu văn bản (trang web) trên Internet, bạn sử dụng dịch vụ nào sau đây?",
+    "answer": "Dịch vụ World Wide Web."
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Khi sử dụng Google, nếu bạn muốn tìm kiếm các văn bản có đuôi .doc mà có chứa cặp từ kinh tế thì trong ô tìm kiếm bạn gõ vào từ khóa nào sau đây?",
+    "answer": "“kinh tế” filetype:doc"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Anh An muốn đồng gửi bức thư điện tử tới anh Hải và chị Huệ, tuy nhiên anh An không muốn chị Huệ biết mình đã gửi bức thư này cho anh Hải. Khi đó anh An phải nhập địa chỉ email của anh Hải vào ô nào?",
+    "answer": "Bcc"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Khẳng định nào dưới đây là đúng?",
+    "answer": "Có thể tìm kiếm bằng từ khóa tiếng Việt trong Google"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Google KHÔNG hỗ trợ cách tìm kiếm nào dưới đây?",
+    "answer": "Tìm kiếm từ trái nghĩa."
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "IM là viết tắt của từ tiếng Anh nào dưới đây?",
+    "answer": "Instant Message."
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Để một máy tính nối mạng truy cập được đến một WebSite cụ thể cần biết thông tin gì?",
+    "answer": "Địa chỉ WebSite dưới dạng URL (địa chỉ nguồn thống nhất)"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Khi sử dụng Google, nếu bạn chỉ muốn tìm kiếm các trang web thương mại mà có chứa cụm từ kinh tế thì trong ô tìm kiếm bạn gõ vào từ khóa nào sau đây?",
+    "answer": "“kinh tế” site:com"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Giao thức nào dưới đây được sử dụng để truyền tải thư điện tử của MicroSoft Outlook?",
+    "answer": "POP/IMAP"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Sau khi đăng nhập vào lớp học, sinh viên NEU-ELEARNING có thể thay đổi hình ảnh của mình. Chức năng thay đổi hình ảnh nằm trong mục nào dưới đây?",
+    "answer": "Cập nhật hồ sơ cá nhân."
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Mô hình SCORM do tổ chức nào đưa ra?",
+    "answer": "Viện nghiên cứu công nghệ giáo dục từ xa (ADL)."
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Trong số các đặc điểm sau, đâu không phải là đặc điểm của hệ thống E-Learning?",
+    "answer": "Các dịch vụ đào tạo không được triển khai đồng bộ."
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là hệ thống hỗ trợ học tập trong môi trường elearning?",
+    "answer": "Hệ thống phần mềm quản lý truy cập mạng Internet."
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Khi nói về kiến trúc Web để phát triển hệ thống E-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 sai, PB2 đúng."
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "LMS là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Learning Management System."
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Sau khi đăng nhập vào lớp học, thao tác nào sau đây KHÔNG thể thực hiện được?",
+    "answer": "Thay đổi mật khẩu đăng nhập của bạn cùng lớp."
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Đối với các lớp học E-Learning, khẳng định nào dưới đây là đúng?",
+    "answer": "Sinh viên có thể làm các bài luyện tập trắc nghiệm không tính điểm bất cứ lúc nào."
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Quy trình sinh viên học tập trên hệ thống e-learning KHÔNG bao gồm bước nào?",
+    "answer": "Gặp gỡ giáo viên."
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Khi nói về các chuẩn và đặc tả cho hệ thống e-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Thuật ngữ \"Internet\" xuất hiện lần đầu vào khoảng năm nào?",
+    "answer": "1974"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Theo định nghĩa của Compare Infobase Inc thì E-Learning là gì?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 sai, PB2 đúng."
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Theo định nghĩa của William Horton thì E-Learning là gì?",
+    "answer": "E-learning là sử dụng các công nghệ Web và Internet trong học tập."
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "ICP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Internet Content Provider."
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Trong quá trình phát triển E-learning, ở giai đoạn 1984-1993, có thể tạo ra các bài giảng có tích hợp hình ảnh và âm thanh dựa trên công nghệ CBT.",
+    "answer": "Computer Based Training."
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Chữ E trong cụm từ E-learning là viết tắt của từ tiêng Anh nào dưới đây?",
+    "answer": "Electronic"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "OSP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Online Service Provider."
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Đâu là định nghĩa của Lance Dublin, hướng tới e-learning trong doanh nghiệp?",
+    "answer": "“Việc sử dụng công nghệ để tạo ra, đưa các dữ liệu có giá trị, thông tin, học tập và kiến thức với mục đích nâng cao hoạt động của tổ chức và phát triển khả năng cá nhân”."
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "TCP/IP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Transmision Control Protocol/ Internet Protocol."
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Địa chỉ IPv4 có cấu trúc như thế nào?",
+    "answer": "A.B.C.D"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Đâu là 1 bộ giao thức kết nối mạng?",
+    "answer": "TCP/IP"
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là sai khi nói về phương thức kết nối quay số qua mạng điện thoại (Dial-up)?",
+    "answer": "Kết nối kiểu này luôn thường trực 24/24."
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Mỗi octet trong địa chỉ IPv4 có giá trị trong khoảng nào?",
+    "answer": "Từ 0 đến 255."
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Chiều dài tối đa của một tên miền đầy đủ là bao nhiêu ký tự?",
+    "answer": "255"
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Tất cả các Web Server đều hiểu và chạy được file nào?",
+    "answer": "*.htm"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "NFS là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Network File System."
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Đâu là 1 địa chỉ IPv6 không hợp lệ?",
+    "answer": "2001:0DC8::1005:2F43::ABC6"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Để truy nhập đến một máy chủ, người dùng có thể dùng?",
+    "answer": "Địa chỉ IP hoặc tên miền."
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Đâu không phải là 1 bộ giao thức kết nối mạng ?",
+    "answer": "HTML"
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": "Khi sử dụng ứng dụng Mail, thư mục nào dưới đây chứa các thư được gửi đến cho bạn?",
+    "answer": "Inbox"
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "Sau khi hiển thị trang web, bạn có thể bấm chuột vào các liên kết trên trang web để xem tiếp các nội dung bên trong. Nếu muốn nội dung của các trang Web sau hiển thị trong một cửa sổ mới bạn làm như thế nào?",
+    "answer": "Click chuột phải vào liên kết, sau đó chọn Open in New Window."
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Để đọc các trang siêu văn bản người ta thường sử dụng ?",
+    "answer": "Chương trình duyệt Web (Web Browser)"
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "Khi sử dụng các dịch vụ Webmail, khẳng định nào sau đây là đúng?",
+    "answer": "Vấn đề bảo mật thư hoàn toàn phụ thuộc vào nhà cung cấp."
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Trong quá trình duyệt Web, bạn không thể thực hiện thao tác nào dưới đây?",
+    "answer": "Chỉnh sửa nội dung trang Web."
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Để chia sẻ thông tin về những vấn đề cùng quan tâm thông qua việc tạo chủ đề, đăng bài, phản hồi… bạn sử dụng dịch vụ nào sau đây?",
+    "answer": "Dịch vụ diễn đàn."
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "Trong ô tìm kiếm nếu bạn gõ vào: Kinh tế quốc dân thì kết quả trả về sẽ là gì?",
+    "answer": "Chỉ có các trang có từ Kinh, các trang có từ tế, các trang có từ quốc và các trang có từ dân sẽ được hiển thị."
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": "Chương trình nào dưới đây KHÔNG cho phép bạn gửi và nhận thư điện tử?",
+    "answer": "IDM"
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Để có thể trò chuyện trực tuyến với bạn bè trên Internet bạn sử dụng dịch vụ nào sau đây?",
+    "answer": "Dịch vụ Chat."
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "Khi tìm kiếm bằng Google để tìm kiếm kết hợp bạn sử dụng dấu nào?",
+    "answer": "Dấu cộng (+)"
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": "Đâu không phải là một trong các yêu cầu kỹ thuật của một hệ thống LMS điển hình?",
+    "answer": "Sử dụng lại, quản lý và phân phối nội dung học tập trong môi trường số từ một kho dữ liệu trung tâm."
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": "SCORM là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Sharable Content Object Reference Model."
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Trong quá trình học e-learning, đâu không phải là 1 trong 4 hoạt động chính của sinh viên e-learning?",
+    "answer": "Lướt web."
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "Trong số các đặc điểm sau, đâu không phải là đặc điểm của hệ thống E-Learning?",
+    "answer": "Không linh hoạt về khối lượng kiến thức cần tiếp thu."
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Sau khi đăng nhập vào lớp học, sinh viên NEU-ELEARNING có thể thay đổi hình ảnh của mình. Chức năng thay đổi hình ảnh nằm trong mục nào dưới đây?",
+    "answer": "Cập nhật hồ sơ cá nhân."
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Theo Sloan Consortium thì lớp học áp dụng Internet ở mức nào KHÔNG phải là lớp học E-learning?",
+    "answer": "Nhóm A và nhóm B."
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "Chọn phát biểu SAI?",
+    "answer": "LCMS không cho phép người dùng tạo ra và sử dụng lại những đơn vị nội dung nhỏ trong kho dữ liệu trung tâm."
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Trong mô hình hệ thống E-Learning không bao gồm thành phần nào?",
+    "answer": "Đội ngũ kỹ sư công nghệ thông tin."
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Trong quy trình học tập E-learning của sinh viên, ở bước Học tập gồm có bốn hoạt động chính, đó là những hoạt động nào?",
+    "answer": "Tiếp thu bài giảng; Tương tác; Luyện tập; Kiểm tra và thi kết thúc môn học."
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Đâu không là mục đích khi phổ biến mục tiêu học tập trong e-learning?",
+    "answer": "Để bạn biết được giảng viên nào sẽ giảng dạy."
+  },
+  {
+    "id": 321,
+    "premium": false,
+    "question": "Mạng ARPANET hình thành vào khoảng năm nào?",
+    "answer": "1969"
+  },
+  {
+    "id": 322,
+    "premium": false,
+    "question": "Việt Nam hòa vào mạng Internet toàn cầu vào khoảng năm nào?",
+    "answer": "1997"
+  },
+  {
+    "id": 323,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là sai?",
+    "answer": "Internet là từ viết tắt của International Terminal Network."
+  },
+  {
+    "id": 324,
+    "premium": false,
+    "question": "IXP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Internet Exchange Provider."
+  },
+  {
+    "id": 325,
+    "premium": false,
+    "question": "Theo định nghĩa của Compare Infobase Inc thì E-Learning là gì?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 326,
+    "premium": false,
+    "question": "Chọn phát biểu SAI?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập không dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 327,
+    "premium": false,
+    "question": "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 328,
+    "premium": false,
+    "question": "Thuật ngữ \"Internet\" xuất hiện lần đầu vào khoảng năm nào?",
+    "answer": "1974"
+  },
+  {
+    "id": 329,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 330,
+    "premium": false,
+    "question": "Internet được hình thành từ dự án nào sau đây?",
+    "answer": "Từ một dự án nghiên cứu của Bộ quốc phòng Mỹ."
+  },
+  {
+    "id": 331,
+    "premium": false,
+    "question": "ARP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Address Resolution Protocol."
+  },
+  {
+    "id": 332,
+    "premium": false,
+    "question": "Wi-Fi là tên viết tắt của cụm từ nào?",
+    "answer": "Wireless Fidelity."
+  },
+  {
+    "id": 333,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là đúng khi nói về phương thức kết nối quay số qua mạng điện thoại (Dial-up)?",
+    "answer": "Để kết nối, người dùng cần có một đường điện thoại và một modem."
+  },
+  {
+    "id": 334,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là SAI khi nói về trình duyệt web?",
+    "answer": "Là một phần mềm hệ thống được cài đặt trên máy tính của người sử dụng."
+  },
+  {
+    "id": 335,
+    "premium": false,
+    "question": "Địa chỉ IPv6 biểu diễn dưới dạng bao nhiêu cụm số hệ mười sáu phân cách bởi dấu hai chấm (:)?",
+    "answer": "8"
+  },
+  {
+    "id": 336,
+    "premium": false,
+    "question": "TFTP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Trivial FTP."
+  },
+  {
+    "id": 337,
+    "premium": false,
+    "question": "Đâu là một địa chỉ IPv4 không hợp lệ?",
+    "answer": "256.168.254.50"
+  },
+  {
+    "id": 338,
+    "premium": false,
+    "question": "HTML là tên viết tắt của cụm từ nào?",
+    "answer": "HyperText Markup Languages."
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Hệ thống quản lý tên miền DNS là viết tắt của cụm từ tiêng Anh nào?",
+    "answer": "Domain Name System."
+  },
+  {
+    "id": 340,
+    "premium": false,
+    "question": "Dịch vụ web sử dụng giao thức nào?",
+    "answer": "HTTP"
+  },
+  {
+    "id": 341,
+    "premium": false,
+    "question": "Dịch vụ Telnet trên mạng Internet là gì?",
+    "answer": "Là dịch vụ thiết lập sự liên hệ giữa MTĐT của ta với một máy chủ ở xa để người dùng có thể sử dụng khả năng xử lý của máy chủ đó."
+  },
+  {
+    "id": 342,
+    "premium": false,
+    "question": "IM là viết tắt của từ tiếng Anh nào dưới đây?",
+    "answer": "Instant Message."
+  },
+  {
+    "id": 343,
+    "premium": false,
+    "question": "Để một máy tính nối mạng truy cập được đến một WebSite cụ thể cần biết thông tin gì?",
+    "answer": "Địa chỉ WebSite dưới dạng URL (địa chỉ nguồn thống nhất)"
+  },
+  {
+    "id": 344,
+    "premium": false,
+    "question": "Để khởi động trình duyệt web, bạn nhắp (click) chuột vào biểu tượng nào sau đây?",
+    "answer": "Biểu tượng Internet Explorer."
+  },
+  {
+    "id": 345,
+    "premium": false,
+    "question": "Khi tìm kiếm bằng Google để tìm kiếm kết hợp bạn sử dụng dấu nào?",
+    "answer": "Dấu cộng (+)"
+  },
+  {
+    "id": 346,
+    "premium": false,
+    "question": "Việc ghi nhớ địa chỉ email của người khác là khá khó khăn. Chức năng nào dưới đây của dịch vụ Mail hỗ trợ bạn trong việc ghi nhớ địa chỉ email?",
+    "answer": "Danh bạ."
+  },
+  {
+    "id": 347,
+    "premium": false,
+    "question": "Anh An muốn đồng gửi bức thư điện tử tới anh Hải và chị Huệ, tuy nhiên anh An không muốn chị Huệ biết mình đã gửi bức thư này cho anh Hải. Khi đó anh An phải nhập địa chỉ email của anh Hải vào ô nào?",
+    "answer": "Bcc"
+  },
+  {
+    "id": 348,
+    "premium": false,
+    "question": "Khi sử dụng dịch vụ thư điện tử, ô nào dưới đây chứa thông tin về chủ đề của bức thư?",
+    "answer": "Subject"
+  },
+  {
+    "id": 349,
+    "premium": false,
+    "question": "Chọn khẳng định đúng nhất?",
+    "answer": "Sau khi đăng nhập Email của Google, sinh viên có thể đọc thư, trả lời thư; chuyển tiếp thư; và xóa thư do người khác gửi tới."
+  },
+  {
+    "id": 350,
+    "premium": false,
+    "question": "Để đọc các trang siêu văn bản người ta thường sử dụng ?",
+    "answer": "Chương trình duyệt Web (Web Browser)"
+  },
+  {
+    "id": 351,
+    "premium": false,
+    "question": "Khi nói về các chuẩn và đặc tả cho hệ thống e-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 352,
+    "premium": false,
+    "question": "Đâu là đặc điểm của E-Learning?",
+    "answer": "Tiến trình học được theo dõi chặt chẽ và cung cấp công cụ tự đánh giá."
+  },
+  {
+    "id": 353,
+    "premium": false,
+    "question": "Đối với các lớp học E-Learning, khẳng định nào dưới đây là đúng?",
+    "answer": "Sinh viên có thể làm các bài luyện tập trắc nghiệm không tính điểm bất cứ lúc nào."
+  },
+  {
+    "id": 354,
+    "premium": false,
+    "question": "Mô hình SCORM do tổ chức nào đưa ra?",
+    "answer": "Viện nghiên cứu công nghệ giáo dục từ xa (ADL)."
+  },
+  {
+    "id": 355,
+    "premium": false,
+    "question": "Khi sử dụng Website của chương trình Neu Elearning, sinh viên KHÔNG thể làm gì?",
+    "answer": "Thay đổi tên đăng nhập."
+  },
+  {
+    "id": 356,
+    "premium": false,
+    "question": "Theo Sloan Consortium lớp học nào dưới đây là lớp học truyền thống?",
+    "answer": "Không có nội dung được truyền tải bằng công nghệ Internet."
+  },
+  {
+    "id": 357,
+    "premium": false,
+    "question": "Theo đánh giá chung của Sloan Consortium thì các lớp học có áp dụng công nghệ Internet ở nhóm nào thì được coi là những lớp học E-learning?",
+    "answer": "Nhóm C và nhóm D."
+  },
+  {
+    "id": 358,
+    "premium": false,
+    "question": "Khi nói về mô hình chức năng hệ thống, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 đúng."
+  },
+  {
+    "id": 359,
+    "premium": false,
+    "question": "Khi nói về kiến trúc Web để phát triển hệ thống E-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 sai, PB2 đúng."
+  },
+  {
+    "id": 360,
+    "premium": false,
+    "question": "Trong số các đặc điểm sau, đâu không phải là đặc điểm của hệ thống E-Learning?",
+    "answer": "Không linh hoạt về khối lượng kiến thức cần tiếp thu."
+  },
+  {
+    "id": 361,
+    "premium": false,
+    "question": "Đâu là định nghĩa của Lance Dublin, hướng tới e-learning trong doanh nghiệp?",
+    "answer": "“Việc sử dụng công nghệ để tạo ra, đưa các dữ liệu có giá trị, thông tin, học tập và kiến thức với mục đích nâng cao hoạt động của tổ chức và phát triển khả năng cá nhân”."
+  },
+  {
+    "id": 362,
+    "premium": false,
+    "question": "OSP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Online Service Provider."
+  },
+  {
+    "id": 363,
+    "premium": false,
+    "question": "TCP/IP là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Transmision Control Protocol/ Internet Protocol."
+  },
+  {
+    "id": 364,
+    "premium": false,
+    "question": "Chọn phát biểu SAI?",
+    "answer": "E-learning là một thuật ngữ dùng để mô tả việc học tập không dựa trên công nghệ thông tin và truyền thông."
+  },
+  {
+    "id": 365,
+    "premium": false,
+    "question": "Theo định nghĩa của William Horton thì E-Learning là gì?",
+    "answer": "E-learning là sử dụng các công nghệ Web và Internet trong học tập."
+  },
+  {
+    "id": 366,
+    "premium": false,
+    "question": "Internet được hình thành từ dự án nào sau đây?",
+    "answer": "Từ một dự án nghiên cứu của Bộ quốc phòng Mỹ."
+  },
+  {
+    "id": 367,
+    "premium": false,
+    "question": "Trong quá trình phát triển E-learning, ở giai đoạn 1984-1993, có thể tạo ra các bài giảng có tích hợp hình ảnh và âm thanh dựa trên công nghệ CBT.",
+    "answer": "Computer Based Training."
+  },
+  {
+    "id": 368,
+    "premium": false,
+    "question": "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 369,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau:",
+    "answer": "PB1 đúng, PB2 sai."
+  },
+  {
+    "id": 370,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là sai?",
+    "answer": "Internet là từ viết tắt của International Terminal Network."
+  },
+  {
+    "id": 371,
+    "premium": false,
+    "question": "Đâu không phải là một phương thức kết nối Internet?",
+    "answer": "TCP/IP"
+  },
+  {
+    "id": 372,
+    "premium": false,
+    "question": "Một tên miền đầy đủ có chiều dài không vượt quá 255 ký tự. Vậy chiều dài tối đa của tên miền ở mỗi cấp là bao nhiêu ký tự (bao gồm cả dấu “.”)?",
+    "answer": "63"
+  },
+  {
+    "id": 373,
+    "premium": false,
+    "question": "Đâu là giao thức chuyển địa chỉ vật lý thành địa chỉ IP?",
+    "answer": "RARP."
+  },
+  {
+    "id": 374,
+    "premium": false,
+    "question": "Trong tên miền, dấu nào được sử dụng làm dấu phân cách?",
+    "answer": "Dấu chấm (.)"
+  },
+  {
+    "id": 375,
+    "premium": false,
+    "question": "Có 2 khẳng định sau:",
+    "answer": "KĐ1 sai, KĐ2 đúng."
+  },
+  {
+    "id": 376,
+    "premium": false,
+    "question": "Có một tên miền như sau: neu.edu.vn thì thành phần “edu” thường được gọi là tên miền cấp mấy?",
+    "answer": "2"
+  },
+  {
+    "id": 377,
+    "premium": false,
+    "question": "Đâu là một địa chỉ IPv4 hợp lệ?",
+    "answer": "192.168.10.6"
+  },
+  {
+    "id": 378,
+    "premium": false,
+    "question": "Đâu là một phương thức kết nối Internet?",
+    "answer": "Leased-Line"
+  },
+  {
+    "id": 379,
+    "premium": false,
+    "question": "Trong các khẳng định sau khẳng định nào là SAI?",
+    "answer": "Tên miền khó nhớ hơn địa chỉ IP."
+  },
+  {
+    "id": 380,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là sai khi nói về địa chỉ IP công cộng?",
+    "answer": "Không được định tuyến trên Internet Backbone."
+  },
+  {
+    "id": 381,
+    "premium": false,
+    "question": "Trong ô tìm kiếm nếu bạn gõ vào: Kinh tế quốc dân thì kết quả trả về sẽ là gì?",
+    "answer": "Chỉ có các trang có từ Kinh, các trang có từ tế, các trang có từ quốc và các trang có từ dân sẽ được hiển thị."
+  },
+  {
+    "id": 382,
+    "premium": false,
+    "question": "Trong quá trình duyệt Web, bạn không thể thực hiện thao tác nào dưới đây?",
+    "answer": "Chỉnh sửa nội dung trang Web."
+  },
+  {
+    "id": 383,
+    "premium": false,
+    "question": "Dịch vụ tải tệp tin được dùng để làm gì?",
+    "answer": "Để lấy dữ liệu từ trên mạng Internet xuống máy tính của bạn."
+  },
+  {
+    "id": 384,
+    "premium": false,
+    "question": "Khi sử dụng các dịch vụ Webmail, khẳng định nào sau đây là đúng?",
+    "answer": "Vấn đề bảo mật thư hoàn toàn phụ thuộc vào nhà cung cấp."
+  },
+  {
+    "id": 385,
+    "premium": false,
+    "question": "Sau khi hiển thị trang web, bạn có thể bấm chuột vào các liên kết trên trang web để xem tiếp các nội dung bên trong. Nếu muốn nội dung của các trang Web sau hiển thị trong một cửa sổ mới bạn làm như thế nào?",
+    "answer": "Click chuột phải vào liên kết, sau đó chọn Open in New Window."
+  },
+  {
+    "id": 386,
+    "premium": false,
+    "question": "Để xem các trang tài liệu siêu văn bản (trang web) trên Internet, bạn sử dụng dịch vụ nào sau đây?",
+    "answer": "Dịch vụ World Wide Web."
+  },
+  {
+    "id": 387,
+    "premium": false,
+    "question": "Để chia sẻ thông tin về những vấn đề cùng quan tâm thông qua việc tạo chủ đề, đăng bài, phản hồi… bạn sử dụng dịch vụ nào sau đây?",
+    "answer": "Dịch vụ diễn đàn."
+  },
+  {
+    "id": 388,
+    "premium": false,
+    "question": "Khi sử dụng ứng dụng Mail, thư mục nào dưới đây chứa các thư được gửi đến cho bạn?",
+    "answer": "Inbox"
+  },
+  {
+    "id": 389,
+    "premium": false,
+    "question": "Khi sử dụng Google, nếu bạn chỉ muốn tìm kiếm các trang web thương mại mà có chứa cụm từ kinh tế thì trong ô tìm kiếm bạn gõ vào từ khóa nào sau đây?",
+    "answer": "“kinh tế” site:com"
+  },
+  {
+    "id": 390,
+    "premium": false,
+    "question": "Khi sử dụng Google, nếu bạn muốn tìm kiếm các văn bản có đuôi .doc mà có chứa cặp từ kinh tế thì trong ô tìm kiếm bạn gõ vào từ khóa nào sau đây?",
+    "answer": "“kinh tế” filetype:doc"
+  },
+  {
+    "id": 391,
+    "premium": false,
+    "question": "Đâu không phải là một trong các yêu cầu kỹ thuật của một hệ thống LMS điển hình?",
+    "answer": "Sử dụng lại, quản lý và phân phối nội dung học tập trong môi trường số từ một kho dữ liệu trung tâm."
+  },
+  {
+    "id": 392,
+    "premium": false,
+    "question": "Theo Sloan Consortium lớp học nào dưới đây là lớp học trực tuyến?",
+    "answer": "Tất cả nội dung trên Internet; không có gặp mặt trực tiếp."
+  },
+  {
+    "id": 393,
+    "premium": false,
+    "question": "Trong số các đặc điểm sau, đâu không phải là đặc điểm của hệ thống E-Learning?",
+    "answer": "Các dịch vụ đào tạo không được triển khai đồng bộ."
+  },
+  {
+    "id": 394,
+    "premium": false,
+    "question": "SCORM là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Sharable Content Object Reference Model."
+  },
+  {
+    "id": 395,
+    "premium": false,
+    "question": "Đâu không phải là các chuẩn và đặc tả cho hệ thống e-learning?",
+    "answer": "Các chuẩn phân tích hệ thống."
+  },
+  {
+    "id": 396,
+    "premium": false,
+    "question": "Trong số các đặc điểm sau, đâu không phải là đặc điểm của hệ thống E-Learning?",
+    "answer": "Học không có sự hợp tác, phối hợp."
+  },
+  {
+    "id": 397,
+    "premium": false,
+    "question": "Sau khi đăng nhập vào lớp học, thao tác nào sau đây KHÔNG thể thực hiện được?",
+    "answer": "Thay đổi mật khẩu đăng nhập của bạn cùng lớp."
+  },
+  {
+    "id": 398,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là hệ thống hỗ trợ học tập trong môi trường elearning?",
+    "answer": "Hệ thống phần mềm quản lý truy cập mạng Internet."
+  },
+  {
+    "id": 399,
+    "premium": false,
+    "question": "LMS là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Learning Management System."
+  },
+  {
+    "id": 400,
+    "premium": false,
+    "question": "Trong quá trình trao đổi và giải đáp thắc mắc, yếu tố nào sau đây KHÔNG phải là ưu điểm khi sử dụng diễn đàn?",
+    "answer": "Bạn không có được câu trả lời ngay tức khắc."
+  },
+  {
+    "id": 401,
+    "premium": false,
+    "question": "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau: PB1: Trước năm 1983: phương pháp giáo dục “Lấy giảng viên làm trung tâm” là phương pháp phổ biến nhất trong các trường học. PB2: Giai đoạn 1984-1993: Khi công nghệ Web được phát minh ra, các nhà cung cấp dịch vụ đào tạo bắt đầu nghiên cứu cách thức cải tiến phương pháp giáo dục bằng công nghệ này. Hỏi khẳng định nào sau đây là đúng?",
+    "answer": "PB1 đúng, PB2 sai.\n"
+  },
+  {
+    "id": 402,
+    "premium": false,
+    "question": "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau: PB1: Giai đoạn 1984-1993: Người thầy thông thái đã dần lộ rõ thông qua các phương tiện: E-mail, CBT, qua Intranet với text và hình ảnh đơn giản, đào tạo bằng công nghệ WEB với hình ảnh chuyển động tốc độ thấp đã được triển khai trên diện rộng. PB2: Giai đoạn 1994-1999: Các công nghệ tiên tiến bao gồm JAVA và các ứng dụng mạng IP, công nghệ truy nhập mạng và băng thông Internet được nâng cao, các công nghệ thiết kế Web tiên tiến đã trở thành một cuộc cách mạng trong giáo dục đào tạo.",
+    "answer": "PB1 sai, PB2 sai.\n"
+  },
+  {
+    "id": 403,
+    "premium": false,
+    "question": "Khi nói về các chuẩn và đặc tả cho hệ thống e-learning, có 2 phát biểu như sau: PB1: Các chuẩn và đặc tả là thành phần kết nối tất cả các thành phần của hệ thống e-learning. PB2: Các chuẩn cho phép ghép các khóa học tạo bởi các công cụ khác nhau bởi các nhà sản xuất khác nhau thành các gói nội dung được gọi là các chuẩn metadata. Hỏi khẳng định nào sau đây là đúng?",
+    "answer": "PB1 đúng, PB2 sai.\n"
+  },
+  {
+    "id": 404,
+    "premium": false,
+    "question": "Khi nói về các chuẩn và đặc tả cho hệ thống e-learning, có 2 phát biểu như sau: PB1: LMS, LCMS, công cụ soạn bài giảng, và kho chứa bài giảng sẽ hiểu nhau và tương tác được với nhau thông qua các chuẩn/đặc tả. PB2: Các chuẩn quy định cách mà các nhà sản xuất nội dung có thể mô tả các khóa học và các module của mình để các hệ thống quản lý có thể tìm kiếm và phân loại được khi cần thiết được gọi là các chuẩn đóng gói. Hỏi khẳng định nào sau đây là đúng?",
+    "answer": "PB1 đúng, PB2 sai.\n"
+  },
+  {
+    "id": 405,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau: PB1: IAP có thể thực hiện cả chức năng của ISP nhưng ngược lại thì không. PB2: ICP cung cấp các dịch vụ trên cơ sở ứng dụng Internet như: mua bán qua mạng, giao dịch ngân hàng, tư vấn, đào tạo… Hỏi khẳng định nào sau đây là đúng",
+    "answer": "PB1 đúng, PB2 sai.\n"
+  },
+  {
+    "id": 406,
+    "premium": false,
+    "question": "Khi nói về chức năng của các nhà cung cấp dịch vụ Internet ở Việt Nam, có 2 phát biểu như sau: PB1: OSP cấp quyền truy cập Internet qua mạng viễn thông và các dịch vụ như: Email, Web, FTP, Telnet, Chat. PB2: ICP cung cấp các thông tin về: kinh tế, giáo dục, thể thao, chính trị, quân sự (thường xuyên cập nhật thông tin mới theo định kỳ) đưa lên mạng. Hỏi khẳng định nào sau đây là đúng?",
+    "answer": "PB1 sai, PB2 đúng.\n"
+  },
+  {
+    "id": 407,
+    "premium": false,
+    "question": "Khi nói về kiến trúc Web để phát triển hệ thống E-learning, có 2 phát biểu như sau: PB1: Mô hình kiến trúc Web không cho phép tăng cường sự tương hợp và mở rộng trên cơ sở hạ tầng mạng và các ứng dụng khác nhau sẵn có trên thị trường e-learning. PB2: Mô hình kiến trúc Web cho phép phát triển và sử dụng Intranet cũng như các dịch vụ Internet công cộng. Điều đó cho phép việc lựa chọn các công nghệ mạng là hoàn toàn trong suốt đối với các đơn vị phát triển nội dung và các nhà cung cấp dịch vụ. Hỏi khẳng định nào sau đây là đúng?",
+    "answer": "PB1 sai, PB2 đúng.\n"
+  },
+  {
+    "id": 408,
+    "premium": false,
+    "question": "Khi nói về mô hình chức năng hệ thống, có 2 phát biểu như sau: PB1: LMS là một hệ thống dịch vụ quản lý việc phân phối và tìm kiếm nội dung học tập cho người học. PB2: LMS lấy thông tin về vị trí của khoá học từ LCMS và về các hoạt động của sinh viên từ LCMS. Hỏi khẳng định nào sau đây là đúng?\t",
+    "answer": "PB1 đúng, PB2 đúng.\n"
+  },
+  {
+    "id": 409,
+    "premium": false,
+    "question": "Khi nói về mô hình chức năng hệ thống, có 2 phát biểu như sau: PB1: Một LCMS là một môi trường đa người dùng. PB2: LCMS cho phép người dùng tạo ra và sử dụng lại những đơn vị nội dung nhỏ trong kho dữ liệu trung tâm. Hỏi khẳng định nào sau đây là đúng?\t",
+    "answer": "Đáp án đúng là: PB1 đúng, PB2 đúng.\n"
+  },
+  {
+    "id": 410,
+    "premium": false,
+    "question": "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau: PB1: Giai đoạn 1984-1993: Người thầy thông thái đã dần lộ rõ thông qua các phương tiện: E-mail, CBT, qua Intranet với text và hình ảnh đơn giản, đào tạo bằng công nghệ WEB với hình ảnh chuyển động tốc độ thấp đã được triển khai trên diện rộng. PB2: Giai đoạn 1994-1999: Các công nghệ tiên tiến bao gồm JAVA và các ứng dụng mạng IP, công nghệ truy nhập mạng và băng thông Internet được nâng cao, các công nghệ thiết kế Web tiên tiến đã trở thành một cuộc cách mạng trong giáo dục đào tạo.\t",
+    "answer": "PB1 sai, PB2 sai.\n"
+  },
+  {
+    "id": 411,
+    "premium": false,
+    "question": "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau: PB1: Trước năm 1983: phương pháp giáo dục “Lấy giảng viên làm trung tâm” là phương pháp phổ biến nhất trong các trường học. PB2: Giai đoạn 1984-1993: Khi công nghệ Web được phát minh ra, các nhà cung cấp dịch vụ đào tạo bắt đầu nghiên cứu cách thức cải tiến phương pháp giáo dục bằng công nghệ này. Hỏi khẳng định nào sau đây là đúng?\t",
+    "answer": "PB1 đúng, PB2 sai.\n"
+  },
+  {
+    "id": 412,
+    "premium": false,
+    "question": "Có 2 khẳng định sau: KĐ1: Có tốc độ kết nối cao hơn ADSL. KĐ2: Cho phép chia sẻ chung với đường điện thoại. Nhận xét nào sau đây là đúng khi nói về công nghệ HDSL?",
+    "answer": "KĐ1 đúng, KĐ2 sai.\n"
+  },
+  {
+    "id": 413,
+    "premium": false,
+    "question": "Có 2 khẳng định sau: KĐ1: Đây là công nghệ DSL đối xứng. KĐ2: Để có thể kết nối Internet, người dùng sẽ cần phải lắp đặt một modem ADSL chuyên dụng. Nhận xét nào sau đây là đúng khi nói về công nghệ ADSL?",
+    "answer": "KĐ1 sai, KĐ2 đúng\n"
+  },
+  {
+    "id": 414,
+    "premium": false,
+    "question": "Có 2 khẳng định sau: KĐ1: là loại hình kết nối Internet tốc độ cao. KĐ2: luôn trong trạng thái kết nối 24/24. Nhận xét nào sau đây là đúng khi nói về phương thức kết nối Internet băng rộng?",
+    "answer": "KĐ1 đúng, KĐ2 đúng.\n"
+  },
+  {
+    "id": 415,
+    "premium": false,
+    "question": "Cho 2 khẳng định sau: KĐ1: DSL bất đối xứng có tốc độ tải xuống (download) chậm. KĐ2: DSL bất đối xứng có tốc độ tải lên (upload) nhanh.",
+    "answer": "KĐ1 sai, KĐ2 sai.\n"
+  }
+]

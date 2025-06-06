@@ -25,9 +25,6 @@ const SidebarItems = () => {
           // {/********SubHeader**********/}
           if (item.subheader) {
             return <NavGroup item={item} hideMenu={hideMenu} key={item.subheader} />;
-
-            // {/********If Sub Menu**********/}
-            /* eslint no-else-return: "off" */
           } else if (item.children) {
             return (
               <NavCollapse
@@ -44,8 +41,13 @@ const SidebarItems = () => {
             // {/********If Sub No Menu**********/}
           } else {
             return (
-              <NavItem item={item} key={item.id} pathDirect={pathDirect} hideMenu={hideMenu}
-              onClick={() => dispatch(toggleMobileSidebar())} />
+              <NavItem
+                item={item}
+                key={item.id}
+                pathDirect={pathDirect}
+                hideMenu={hideMenu}
+                onClick={() => dispatch(toggleMobileSidebar())}
+              />
             );
           }
         })}

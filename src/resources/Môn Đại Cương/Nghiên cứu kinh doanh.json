@@ -1,0 +1,1742 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Cụ thể hóa hơn các câu hỏi nghiên cứu tới mức có thể thu thập được dữ liệu cần thiết là",
+    "answer": "Câu hỏi điều tra"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Nhiều phương án trả lời được liệt kê sẵn và đối tượng điều tra được yêu cầu sắp xếp các phương án trả lời theo thứ tự nhất định.",
+    "answer": "Câu hỏi thứ bậc"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Quy trình thiết kế chọn mẫu gồm",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Quy trình của xác định mẫu theo phương pháp chỉ tiêu không gồm",
+    "answer": "Thực hiện điều tra"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Các phương án trả lời có quan hệ tỷ lệ với nhau và đối tượng nghiên cứu chỉ được lựa chọn một phương án là",
+    "answer": "Câu hỏi tỷ lệ"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Các yếu tố nào sau ảnh hưởng đến quyết định lựa chọn học tại trường Đại học Kinh tế Quốc dân? (Bạn có thể chọn hơn một phương án trả lời): Học phí hợp lý, Chương trình phù hợp, Ý kiến của bố mẹ, Theo bạn bè, Trường có danh tiếng cao, Môi trường học tốt, Gần nhà, Khác. Đây là ví dụ của:",
+    "answer": "Câu hỏi đa lựa chọn"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Thứ tự các bước trong quy trình nghiên cứu kinh doanh là:",
+    "answer": "Phát hiện vấn đề nghiên cứu, xác định câu hỏi nghiên cứu, điều tra, phân tích, xử lý số liệu"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Phỏng vấn là",
+    "answer": "Đưa ra các câu hỏi mở để đối tượng trả lời bày tỏ quan điểm"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Phương pháp điều tra ‘tự hoàn thành bảng hỏi’có ưu điểm",
+    "answer": "Tăng tỷ lệ trả lời những câu hỏi nhạy cảm"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Đâu là chủ đề nghiên cứu kinh doanh của lĩnh vực vật tư",
+    "answer": "Tỷ lệ hàng tồn kho"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Mẫu đại diện cần đảm bảo",
+    "answer": "Dễ chọn lựa"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Việc mã hóa dữ liệu sẽ phụ thuộc vào",
+    "answer": "Cách trình bày kết quả phân tích về biến đó"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Người nghiên cứu nên",
+    "answer": "Thu thập dữ liệu thứ cấp trước khi thu thập dữ liệu sơ cấp"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Lý do chọn mẫu không nhằm",
+    "answer": "Đo lường tổng thể"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Khung chọn mẫu chính xác cần",
+    "answer": "gồm tất cả các phần tử của tổng thể"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Giới thiệu về cách nghiên cứu của tác giả, giải thích tại sao lại thu nhập loại số liệu như vậy, các dữ liệu được thu thập là những dữ liệu nào, ở đau, khi nào, như thế nào và được phân tích như thế nào... là nội dung của mục .............. trong báo cáo",
+    "answer": "Giới thiệu về phương pháp nghiên cứu"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Quy trình đầy đủ thiết kế chọn mẫu không gồm",
+    "answer": "Xác định đề xuất nghiên cứu"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Quy trình đầy đủ thiết kế chọn mẫu không gồm",
+    "answer": "Xác định đạo đức nghiên cứu"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Các câu hỏi được thiết kế không nên",
+    "answer": "Dùng câu hỏi phủ định"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Thiết kế báo cáo cần chú ý",
+    "answer": "Xem lại mục đích của việc nghiên cứu"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Đâu không phải là chủ đề nghiên cứu kinh doanh của lĩnh vực tài chính",
+    "answer": "Phân tích thị phần"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Đâu là ví dụ của điều tra bằng bảng hỏi (hoặc phiếu điều tra)",
+    "answer": "Gửi phiếu điều tra qua email"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Nên sử dụng biểu đồ hình cột trong báo cáo khi muốn thể hiện",
+    "answer": "Xu hướng phát triển"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Chọn mẫu phi xác suất",
+    "answer": "ít tốn kém về chi phí"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Chọn mẫu xác suất là",
+    "answer": "các phần tử của tổng thể đều có cơ hội như nhau để trở thành phần tử của mẫuCâu hỏi 1"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Thứ tự các bước trong quy trình nghiên cứu kinh doanh là:",
+    "answer": "Phát hiện vấn đề nghiên cứu, xác định câu hỏi nghiên cứu, điều tra, phân tích, xử lý số liệu"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Một tuần bạn lên thư viện trường bao nhiêu ngày? (Bạn chỉ được lựa chọn một phương án trả lời): Không bao giờ, Một ngày, Hai ngày, Ba ngày, Trên bà ngày. Đây là ví dụ của:",
+    "answer": "Câu hỏi đơn lựa chọn"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Các câu hỏi được thiết kế cần",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Khi thiết kế các câu hỏi cần chú ý",
+    "answer": "Đảm bảo thu thập đủ dữ liệu cần thiết"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Điều tra bằng bảng hỏi (hoặc phiếu điều tra) là",
+    "answer": "Yêu cầu các đối tượng điều tra trả lời cùng một bộ câu hỏi đã được thiết kế trước theo thứ tự cố định"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Chỉ sử dụng…….. để biểu diễn các tỷ lệ phần trăm",
+    "answer": "Biểu đồ hình bánh"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Làm rõ những khái niệm và phân tích những điểm chính của các nghiên cứu trước về vấn đề được nghiên cứu là nội dung mục........... trong báo cáo",
+    "answer": "Tổng quan về lý thuyết"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Dữ liệu trực tuyến và phi trực tuyến là cách phân loại theo",
+    "answer": "Theo nguồn dữ liệu"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Nguồn dữ liệu thứ cấp bên ngoài không gồm",
+    "answer": "Báo cáo của các bộ phận trong doanh nghiệp"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Nhược điểm của phương pháp phỏng vấn là",
+    "answer": "Chi phí cao"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Người nghiên cứu nên",
+    "answer": "Thu thập dữ liệu thứ cấp trước khi thu thập dữ liệu sơ cấp"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Nghiên cứu nhân quả nhằm",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Đề xuất được soạn thảo bởi cá nhân hoặc tổ chức bên ngoài doanh nghiệp nhằm giành được kinh phí nghiên cứu là",
+    "answer": "Đề xuất bên ngoài"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Việc mã hóa dữ liệu sẽ phụ thuộc vào",
+    "answer": "Cách trình bày kết quả phân tích về biến đó"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Phỏng vấn không thể thực hiện qua",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Nguồn dữ liệu thứ cấp bên trong không gồm",
+    "answer": "Dữ liệu từ các công ty nghiên cứu"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Đâu không phải là chủ đề nghiên cứu kinh doanh của lĩnh vực tài chính",
+    "answer": "Phân tích thị phần"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Người nghiên cứu nên",
+    "answer": "Chỉ thu thập dữ liệu sơ cấp khi đã khai thác hết dữ liệu thứ cấp."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Đặc tính của dữ liệu sơ cấp định tính là nhằm",
+    "answer": "Có được sự hiểu biết chung, nghiên cứu khám phá"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Phần tóm tắt của đề xuất phải nêu bật được",
+    "answer": "Tất cả đáp án đều đúng"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Quy trình phát triển hệ thống câu hỏi nghiên cứu không gồm",
+    "answer": "Thu thập dữ liệu"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Ưu điểm của xác định mẫu theo phương pháp chỉ tiêu cần",
+    "answer": "Chính xác"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Nguồn dữ liệu thứ cấp bên ngoài gồm",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Phỏng vấn là",
+    "answer": "Đưa ra các câu hỏi mở để đối tượng trả lời bày tỏ quan điểm"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Thu thập dữ liệu sơ cấp",
+    "answer": "Rất phức tạp"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Khi xây dựng bảng mã cho dữ liệu thu được từ câu hỏi mở cần chú ý",
+    "answer": "Có thể sử dụng nhóm có tên “các câu trả lời khác” để tương ứng với các câu trả lời không thể xếp vào các nhóm đã có"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Khi thiết kế các câu hỏi cần chú ý",
+    "answer": "Xác định liệu đối tượng điều tra có đủ kiến thức cơ bản để trả lời các câu hỏi của phiếu điều tra"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Ưu điểm của xác định mẫu theo phương pháp chỉ tiêu",
+    "answer": "Chi phí thấp"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Hệ thống câu hỏi nghiên cứu kinh doanh gồm",
+    "answer": "Tất cả đáp án đều đúng"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Thứ tự đúng của quy trình thiết kế chọn mẫu là",
+    "answer": "Xác định tổng thể phù hợp, Lựa chọn tham số nghiên cứu, Xác định khung chọn mẫu, Lựa chọn phương pháp chọn mẫu"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Dữ liệu thứ cấp là",
+    "answer": "Có sẵn"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Mẫu đại diện cần đảm bảo",
+    "answer": "Dễ chọn lựa"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Nên sử dụng biểu đồ hình bánh trong báo cáo khi muốn thể hiện",
+    "answer": "Tỷ trọng từng loại"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Phần báo cáo kết quả của đề xuất nghiên cứu cần nêu được",
+    "answer": "Kết quả của nghiên cứu"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Dữ liệu được vi tính hóa là cách phân loại theo",
+    "answer": "Theo tính chất dữ liệu"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Nên liệt kê mục tiêu nghiên cứu của đề xuất theo thứ tự",
+    "answer": "Mức độ quan trọng tăng dần"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Xác định qui mô mẫu không cần",
+    "answer": "Tất cả đáp án trên đều sai"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Không sử dụng nghiên cứu kinh doanh trong việc",
+    "answer": "giảm chi phí nghiên cứu thị trường"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Nghiên cứu đa biến nhằm",
+    "answer": "Báo cáo những gì đã và đang xảy ra"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Thiết kế báo cáo cần chú ý",
+    "answer": "Xem lại mục đích của việc nghiên cứu"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Nghiên cứu chuẩn tắc nhằm",
+    "answer": "kiểm định giả thiết"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Phương pháp điều tra ‘tự hoàn thành bảng hỏi’có ưu điểm",
+    "answer": "Tăng tỷ lệ trả lời những câu hỏi nhạy cảm"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Mục đích thu thập dữ liệu sơ cấp để",
+    "answer": "Phục vụ cho chính mình"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Lý do chọn mẫu không nhằm",
+    "answer": "Đo lường tổng thể"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Người nghiên cứu cần làm gì trước khi bắt đầu quá trình thu thập thông tin",
+    "answer": "Tất cả các đáp án đều đúng"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Ưu điểm của phương pháp phỏng vấn là",
+    "answer": "Tỷ lệ phiếu hoàn thành cao"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Người nghiên cứu cần",
+    "answer": "tránh các bữa ăn, hoặc gọi điện thoại trước để sắp xếp cuộc hẹn với đối tượng phỏng vấn."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Dưới đây là ví dụ của câu hỏi loại gì? Hãy đánh giá mức độ quan trọng của các nhân tố sau khi bạn quyết định mua điện thoại di động. Số 1 là quan trọng nhất, số 2 là quan trong thứ hai và theo thứ tự quan trọng giảm dần cho đến số 5. Với yếu tố không quan trọng thì để ô trống. Nhân tố ảnh hưởng Tầm quan trọng Giá cả [ ] Độ bền của máy [ ] Tính năng [ ] Hình thức [ ]",
+    "answer": "Câu hỏi thứ bậc"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Không nên dùng câu hỏi phủ định trong thiết bảng hỏi vì",
+    "answer": "Thường gây nhầm lẫn cho đối tượng được nghiên cứu"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Đề xuất nghiên cứu không nhằm mục đích",
+    "answer": "Phát triển mối quan hệ"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Phần phụ lục của đề xuất nghiên cứu không gồm",
+    "answer": "Các kết quả nghiên cứu chính"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Nghiên cứu kinh doanh có thể gặp vấn đề nào?",
+    "answer": "Hệ thống lưu trữ thông tin nghèo nàn"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Ưu điểm của xác định mẫu theo phương pháp chỉ tiêu",
+    "answer": "Nhanh"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Nên sử dụng biểu đồ hình cột trong báo cáo khi muốn thể hiện",
+    "answer": "Xu hướng phát triển"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Nghiên cứu kinh doanh không nhằm mục đích",
+    "answer": "Mang lại lợi nhuận trực tiếp"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Những đặc điểm nhân chủng học của khách hàng và của đối thủ cạnh tranh là ví dụ của",
+    "answer": "Câu hỏi điều tra"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Nghiên cứu kinh doanh áp dụng trong lĩnh vực nào",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Xác định qui mô mẫu cần",
+    "answer": "tính đến tỷ lệ không phản hồi"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Các câu hỏi chuyển thể vấn đề nghiên cứu sang dạng câu hỏi và cần thiết phải trả lời để giải quyết vấn đề nghiên cứu là",
+    "answer": "Câu hỏi nghiên cứu"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Vai trò của Nhà nước trong lĩnh vực ngân hàng",
+    "answer": "Xây dựng và tổ chức thực hiện chính sách tiền tệ quốc giaCâu hỏi 1"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Thứ tự đúng của quy trình thiết kế chọn mẫu là",
+    "answer": "Xác định khung chọn mẫu, Lựa chọn phương pháp chọn mẫu, Xác định qui mô mẫu cần thiết, Xác định chi phí chọn mẫu"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Mẫu đại diện cần đảm bảo",
+    "answer": "Tính đại diện"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Phần tổng quan nghiên cứu của đề xuất cần chú ý",
+    "answer": "Các kết quả và kết luận quan trọng của những nghiên cứu trước"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Thu thập dữ liệu thứ cấp không cần quan tâm",
+    "answer": "Chi phí người đó đã được thực hiện"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Chọn mẫu phi xác suất",
+    "answer": "ít tốn kém về thời gian"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Xác định mẫu theo phương pháp chỉ tiêu cần",
+    "answer": "biết rõ phân bố của tổng thể trên các đặc tính được sử dụng"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Quy trình thiết kế chọn mẫu gồm",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Nghiên cứu mô tả nhằm",
+    "answer": "Giải thích mối quan hệ giữa các biến"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Thu thập dữ liệu thứ cấp",
+    "answer": "Cần chi phí thấp"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Phần phát biểu vấn đề quản trị cần được nghiên cứu của đề xuất phải nêu bật được",
+    "answer": "Lý do thực hiện nghiên cứu"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Phần tổng quan nghiên cứu của đề xuất phải nêu bật được",
+    "answer": "Các kết quả nghiên cứu liên quan được thực hiện mới gần đây"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Nhiều phương án trả lời được liệt kê sẵn và đối tượng điều tra được yêu cầu sắp xếp các phương án trả lời theo thứ tự nhất định.",
+    "answer": "Câu hỏi thứ bậc"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Chọn mẫu xác suất là",
+    "answer": "các phần tử của tổng thể đều có cơ hội như nhau để trở thành phần tử của mẫu"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Nghiên cứu thực nghiệm không nhằm",
+    "answer": "đo lường sự tác động của các biến"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Sau câu hỏi quản lý cần phát triển ngay",
+    "answer": "Câu hỏi nghiên cứu"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Ưu điểm của phương pháp phỏng vấn là",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Đề xuất được soạn thảo bởi những người trong nội bộ tổ chức, họ cũng đồng thời là những người trực tiếp tiến hành nghiên cứu là",
+    "answer": "Đề xuất bên trong"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Các phương án trả lời có quan hệ tỷ lệ với nhau và đối tượng nghiên cứu chỉ được lựa chọn một phương án là",
+    "answer": "Câu hỏi tỷ lệ"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Chọn mẫu nghiên cứu sẽ không giúp",
+    "answer": "xác định được số lượng tổng thể"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Đâu là chủ đề nghiên cứu kinh doanh của lĩnh vực vật tư",
+    "answer": "Tỷ lệ hàng tồn kho"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Phương pháp điều tra ‘tự hoàn thành bảng hỏi’có nhược điểm",
+    "answer": "Thời gian điều tra dài"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Thiết kế báo cáo không cần",
+    "answer": "Xem lại mục đích của việc nghiên cứu"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Đâu là ví dụ của điều tra bằng bảng hỏi (hoặc phiếu điều tra)",
+    "answer": "Gửi phiếu điều tra qua email"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Quy trình nghiên cứu kinh doanh không thể",
+    "answer": "Linh hoạt"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Quy trình nghiên cứu kinh doanh không thể",
+    "answer": "Không có đáp án nào"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Dữ liệu ở dạng bản in (hard copy) và ở dạng trực tuyến (online) là cách phân loại theo",
+    "answer": "Theo phương tiện lưu trữ"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Quy trình thiết kế chọn mẫu không gồm",
+    "answer": "Thực hiện điều tra"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Giới thiệu về cách nghiên cứu của tác giả, giải thích tại sao lại thu nhập loại số liệu như vậy, các dữ liệu được thu thập là những dữ liệu nào, ở đau, khi nào, như thế nào và được phân tích như thế nào... là nội dung của mục .............. trong báo cáo",
+    "answer": "Giới thiệu về phương pháp nghiên cứu"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Người nghiên cứu không cần",
+    "answer": "cường điệu hoá các câu hỏi"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Nghiên cứu nhân quả nhằm",
+    "answer": "Giải thích mối quan hệ giữa các biếnCâu hỏi 1"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Thứ tự đúng của quy trình thiết kế chọn mẫu là",
+    "answer": "Xác định khung chọn mẫu, Lựa chọn phương pháp chọn mẫu, Xác định qui mô mẫu cần thiết, Xác định chi phí chọn mẫu"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Mẫu đại diện cần đảm bảo",
+    "answer": "Tính đại diện"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Phần tổng quan nghiên cứu của đề xuất cần chú ý",
+    "answer": "Các kết quả và kết luận quan trọng của những nghiên cứu trước"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Thu thập dữ liệu thứ cấp không cần quan tâm",
+    "answer": "Chi phí người đó đã được thực hiện"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Chọn mẫu phi xác suất",
+    "answer": "ít tốn kém về thời gian"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Xác định mẫu theo phương pháp chỉ tiêu cần",
+    "answer": "biết rõ phân bố của tổng thể trên các đặc tính được sử dụng"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Quy trình thiết kế chọn mẫu gồm",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Nghiên cứu mô tả nhằm",
+    "answer": "Giải thích mối quan hệ giữa các biến"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Thu thập dữ liệu thứ cấp",
+    "answer": "Cần chi phí thấp"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Phần phát biểu vấn đề quản trị cần được nghiên cứu của đề xuất phải nêu bật được",
+    "answer": "Lý do thực hiện nghiên cứu"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Phần tổng quan nghiên cứu của đề xuất phải nêu bật được",
+    "answer": "Các kết quả nghiên cứu liên quan được thực hiện mới gần đây"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Nhiều phương án trả lời được liệt kê sẵn và đối tượng điều tra được yêu cầu sắp xếp các phương án trả lời theo thứ tự nhất định.",
+    "answer": "Câu hỏi thứ bậc"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Chọn mẫu xác suất là",
+    "answer": "các phần tử của tổng thể đều có cơ hội như nhau để trở thành phần tử của mẫu"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Nghiên cứu thực nghiệm không nhằm",
+    "answer": "đo lường sự tác động của các biến"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Sau câu hỏi quản lý cần phát triển ngay",
+    "answer": "Câu hỏi nghiên cứu"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Ưu điểm của phương pháp phỏng vấn là",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Đề xuất được soạn thảo bởi những người trong nội bộ tổ chức, họ cũng đồng thời là những người trực tiếp tiến hành nghiên cứu là",
+    "answer": "Đề xuất bên trong"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Các phương án trả lời có quan hệ tỷ lệ với nhau và đối tượng nghiên cứu chỉ được lựa chọn một phương án là",
+    "answer": "Câu hỏi tỷ lệ"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Chọn mẫu nghiên cứu sẽ không giúp",
+    "answer": "xác định được số lượng tổng thể"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Đâu là chủ đề nghiên cứu kinh doanh của lĩnh vực vật tư",
+    "answer": "Tỷ lệ hàng tồn kho"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Phương pháp điều tra ‘tự hoàn thành bảng hỏi’có nhược điểm",
+    "answer": "Thời gian điều tra dài"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Thiết kế báo cáo không cần",
+    "answer": "Xem lại mục đích của việc nghiên cứu"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Đâu là ví dụ của điều tra bằng bảng hỏi (hoặc phiếu điều tra)",
+    "answer": "Gửi phiếu điều tra qua email"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Quy trình nghiên cứu kinh doanh không thể",
+    "answer": "Linh hoạt"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Quy trình nghiên cứu kinh doanh không thể",
+    "answer": "Không có đáp án nào"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Dữ liệu ở dạng bản in (hard copy) và ở dạng trực tuyến (online) là cách phân loại theo",
+    "answer": "Theo phương tiện lưu trữ"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Quy trình thiết kế chọn mẫu không gồm",
+    "answer": "Thực hiện điều tra"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Giới thiệu về cách nghiên cứu của tác giả, giải thích tại sao lại thu nhập loại số liệu như vậy, các dữ liệu được thu thập là những dữ liệu nào, ở đau, khi nào, như thế nào và được phân tích như thế nào... là nội dung của mục .............. trong báo cáo",
+    "answer": "Giới thiệu về phương pháp nghiên cứu"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Người nghiên cứu không cần",
+    "answer": "cường điệu hoá các câu hỏi"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Nghiên cứu nhân quả nhằm",
+    "answer": "Giải thích mối quan hệ giữa các biến"
+  },
+  {
+    "id": 146,
+    "premium": true,
+    "question": "Nghiên cứu giao tiếp nhằm",
+    "answer": "Đặt ra các câu hỏi cho đối tượng nghiên cứu"
+  },
+  {
+    "id": 147,
+    "premium": true,
+    "question": "Thu thập dữ liệu thứ cấp cần quan tâm",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 148,
+    "premium": true,
+    "question": "Phần kế hoạch thực hiện của đề xuất nghiên cứu cần nêu được",
+    "answer": "Các mốc thời gian nghiên cứu"
+  },
+  {
+    "id": 149,
+    "premium": true,
+    "question": "Chọn mẫu phi xác suất",
+    "answer": "ít tốn kém về chi phí"
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "Thu thập dữ liệu thứ cấp",
+    "answer": "Không cần thời gian dài"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Xác định qui mô mẫu cần",
+    "answer": "liên lạc trước với các phẩn tử của mẫu"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Thiết kế nghiên cứu gồm",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Các yếu tố nào sau ảnh hưởng đến quyết định lựa chọn học tại trường Đại học Kinh tế Quốc dân? (Bạn có thể chọn hơn một phương án trả lời): Học phí hợp lý, Chương trình phù hợp, Ý kiến của bố mẹ, Theo bạn bè, Trường có danh tiếng cao, Môi trường học tốt, Gần nhà, Khác. Đây là ví dụ của:",
+    "answer": "Câu hỏi đa lựa chọn"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Không nên dùng từ đa nghĩa trong câu hỏi vì",
+    "answer": "Các phương án trả lời vì có thể sẽ làm đối tượng nghiên cứu hiểu sai nội dung chính của câu hỏi"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Hệ thống câu hỏi nghiên cứu kinh doanh không gồm",
+    "answer": "Câu hỏi ghi nhớ"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Đâu không phải là chủ đề nghiên cứu kinh doanh của lĩnh vực Marketing",
+    "answer": "Giao tiếp trong tổ chức"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Các câu hỏi được thiết kế không nên",
+    "answer": "Dùng câu hỏi phủ định"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Dữ liệu thứ cấp là",
+    "answer": "Dễ tìm hơn dữ liệu sơ cấp"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Quy trình thiết kế chọn mẫu gồm",
+    "answer": "Xác định phương pháp phân tích số liệu"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Nhiều phương án trả lời được liệt kê sẵn nhưng đối tượng điều tra chỉ được lựa chọn một phương án trả lời là",
+    "answer": "Câu hỏi đơn lựa chọn"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Khi xây dựng bảng mã cho dữ liệu thu được từ câu hỏi mở không cần chú ý",
+    "answer": "Thời gian phỏng vấn"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Nghiên cứu thăm dò nhằm",
+    "answer": "phát triển các giả thiết"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Xác định mẫu theo phương pháp chỉ tiêu cần",
+    "answer": "phân chia nhóm phải phù hợp với mục đích nghiên cứu"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Quy trình đầy đủ thiết kế chọn mẫu gồm",
+    "answer": "Xác định tổng thể phù hợp, Lựa chọn phương pháp chọn mẫu, Lựa chọn tham số nghiên cứu, Xác định khung chọn mẫu, Xác định qui mô mẫu cần thiết, Xác định chi phí chọn mẫu"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Đâu không phải là ví dụ của điều tra bằng bảng hỏi (hoặc phiếu điều tra)",
+    "answer": "Phỏng vấn"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Phần kết quả nghiên cứu của đề xuất nghiên cứu cần nêu được",
+    "answer": "Mục tiêu của nghiên cứu"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Lý do chọn mẫu nhằm",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Cơ cấu báo cáo gồm",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Phần năng lực của nghiên cứu viên của đề xuất nghiên cứu cần nêu được",
+    "answer": "Tất cả đáp án trên đều đúng"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Nhược điểm của phương pháp điều tra qua điện thoại là",
+    "answer": "Tính đại diện của mẫu thấp"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Nghiên cứu nhân quả không nhằm",
+    "answer": "kiểm định sự ảnh hưởng của một số biến đến những biến khác"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Nghiên cứu quan sát nhằm",
+    "answer": "Theo dõi các hành động hay hành vi của đối tượng nghiên cứu"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Hệ thống câu hỏi nghiên cứu kinh doanh không gồm",
+    "answer": "Câu hỏi vấn đáp"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Phần Ý nghĩa và lợi ích của việc nghiên cứu của đề xuất cần nêu được",
+    "answer": "Giá trị nhận được sau khi thực hiện nghiên cứu"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Việc mã hóa dữ liệu sẽ phụ thuộc vào",
+    "answer": "Cách đo lường các biến"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Đâu không phải là chủ đề nghiên cứu kinh doanh của lĩnh vực Nhân sự",
+    "answer": "Nghiên cứu những ảnh hưởng của môi trường sống"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Các câu hỏi được thiết kế không nên",
+    "answer": "Hỏi nhiều ý trong một câu"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Dữ liệu sơ cấp là",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Quy trình của xác định mẫu theo phương pháp chỉ tiêu không gồm",
+    "answer": "Phân giao mỗi người phụ trách phỏng vấn số lượng đối tượng cần phỏng vấn"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Đề xuất nghiên cứu không là",
+    "answer": "báo cáo thống kê"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Phương pháp điều tra ‘tự hoàn thành bảng hỏi’có ưu điểm",
+    "answer": "Linh hoạt về địa lý"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Nghiên cứu thực nghiệm nhằm",
+    "answer": "kiểm định sự ảnh hưởng của một số biến đến những biến khác"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Quy trình đầy đủ thiết kế chọn mẫu không gồm",
+    "answer": "Xác định đạo đức nghiên cứu"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Xác định qui mô mẫu cần",
+    "answer": "tính đến tỷ lệ không phản hồi"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Ưu điểm của phương pháp điều tra qua điện thoại là",
+    "answer": "Thời gian thực hiện nhanh"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Nhược điểm của xác định mẫu theo phương pháp chỉ tiêu",
+    "answer": "Mang tính chủ quan"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Quy trình đầy đủ thiết kế chọn mẫu không gồm",
+    "answer": "Xác định đề xuất nghiên cứu"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Cụ thể hóa hơn các câu hỏi nghiên cứu tới mức có thể thu thập được dữ liệu cần thiết là",
+    "answer": "Câu hỏi điều tra"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Quy trình của xác định mẫu theo phương pháp chỉ tiêu không gồm",
+    "answer": "Thực hiện điều tra"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Chọn mẫu xác suất là",
+    "answer": "lựa chọn không ngẫu nhiên"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Khi xây dựng bảng mã cho dữ liệu thu được từ câu hỏi mở cần chú ý",
+    "answer": "Các nhóm không được trùng lặp"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Đề xuất nghiên cứu là",
+    "answer": "bản tóm tắt"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Khung chọn mẫu chính xác cần",
+    "answer": "gồm tất cả các phần tử của tổng thể"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Khung chọn mẫu chính xác cần",
+    "answer": "loại bỏ các phần tử không thích hợp"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Dữ liệu sơ cấp là dữ liệu",
+    "answer": "Thu thập phục vụ cho mục đích của mình"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Chuyển các câu hỏi điều tra về dạng có thể đo lường các dữ liệu thu thập được là",
+    "answer": "Câu hỏi đo lường"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Thiết kế báo cáo không cần chú ý",
+    "answer": "Đối tượng điều tra"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Chuyển vấn đề nghiên cứu thành dạng câu hỏi là",
+    "answer": "Câu hỏi quản lý"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Nhiều phương án trả lời được liệt kê sẵn nhưng đối tượng điều tra được lựa chọn nhiều phương án trả lời là",
+    "answer": "Câu hỏi đa lựa chọn"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Đâu không phải vấn đề cần quá quan tâm khi thực hiện nghiên cứu kinh doanh?",
+    "answer": "Số lượng điều tra quá lớn"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Cơ cấu báo cáo không cần",
+    "answer": "Phân tích phương pháp lựa chọn cách viết báo cáo"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Chọn mẫu nghiên cứu sẽ không",
+    "answer": "Cho kết quả chính xác hơn nghiên cứu tổng thể"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": ": NCKD.B1.001:: Nghiên cứu kinh doanh nhằm mục đích",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Lý do chọn mẫu nhằm",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Phần mục tiêu nghiên cứu của đề xuất phải nêu bật được",
+    "answer": "Mục tiêu nghiên cứu"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Hệ thống câu hỏi nghiên cứu kinh doanh không gồm",
+    "answer": "Câu hỏi ghi nhớ"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Người nghiên cứu cần",
+    "answer": "tránh các bữa ăn, hoặc gọi điện thoại trước để sắp xếp cuộc hẹn với đối tượng phỏng vấn."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Đâu không phải là chủ đề nghiên cứu kinh doanh của lĩnh vực Nhân sự",
+    "answer": "Nghiên cứu những ảnh hưởng của môi trường sống"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Đâu không phải là chủ đề nghiên cứu kinh doanh của lĩnh vực tài chính",
+    "answer": "Phân tích thị phần"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Nghiên cứu kinh doanh có thể gặp vấn đề nào?",
+    "answer": "Hệ thống lưu trữ thông tin nghèo nàn"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Thứ tự các bước trong quy trình nghiên cứu kinh doanh là:",
+    "answer": "Phát hiện vấn đề nghiên cứu, xác định câu hỏi nghiên cứu, điều tra, phân tích, xử lý số liệu"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": ": NCKD.B1.001:: Nghiên cứu kinh doanh nhằm mục đích",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Đề xuất nghiên cứu không là",
+    "answer": "báo cáo thống kê"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Đề xuất nghiên cứu không nhằm mục đích",
+    "answer": "Phát triển mối quan hệ"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Phần kế hoạch thực hiện của đề xuất nghiên cứu cần nêu được",
+    "answer": "Các mốc thời gian nghiên cứu"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Nên liệt kê mục tiêu nghiên cứu của đề xuất theo thứ tự",
+    "answer": "Mức độ quan trọng tăng dần"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Đề xuất được soạn thảo bởi cá nhân hoặc tổ chức bên ngoài doanh nghiệp nhằm giành được kinh phí nghiên cứu là",
+    "answer": "Đề xuất bên ngoài"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Phần tổng quan nghiên cứu của đề xuất phải nêu bật được",
+    "answer": "Các kết quả nghiên cứu liên quan được thực hiện mới gần đây"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Nghiên cứu nhân quả không nhằm",
+    "answer": "kiểm định sự ảnh hưởng của một số biến đến những biến khác"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Thiết kế nghiên cứu gồm",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Nghiên cứu chuẩn tắc nhằm",
+    "answer": "kiểm định giả thiết"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Nghiên cứu quan sát nhằm",
+    "answer": "Theo dõi các hành động hay hành vi của đối tượng nghiên cứu"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Nghiên cứu nhân quả nhằm",
+    "answer": "Giải thích mối quan hệ giữa các biến"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Nghiên cứu mô tả nhằm",
+    "answer": "Giải thích mối quan hệ giữa các biến"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Nghiên cứu thực nghiệm nhằm",
+    "answer": "kiểm định sự ảnh hưởng của một số biến đến những biến khác"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Xác định qui mô mẫu cần",
+    "answer": "tính đến tỷ lệ không phản hồi"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Phần báo cáo kết quả của đề xuất nghiên cứu cần nêu được",
+    "answer": "Kết quả của nghiên cứu"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Lý do chọn mẫu nhằm",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Làm rõ những khái niệm và phân tích những điểm chính của các nghiên cứu trước về vấn đề được nghiên cứu là nội dung mục........... trong báo cáo",
+    "answer": "Tổng quan về lý thuyết"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Thiết kế nghiên cứu gồm",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Nghiên cứu nhân quả nhằm",
+    "answer": "Giải thích mối quan hệ giữa các biến"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Nhược điểm của phương pháp điều tra qua điện thoại là",
+    "answer": "Tính đại diện của mẫu thấp"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Nguồn dữ liệu thứ cấp bên ngoài gồm",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Người nghiên cứu cần",
+    "answer": "tránh các bữa ăn, hoặc gọi điện thoại trước để sắp xếp cuộc hẹn với đối tượng phỏng vấn."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Phần kết quả nghiên cứu của đề xuất nghiên cứu cần nêu được",
+    "answer": "Mục tiêu của nghiên cứu"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Nghiên cứu giao tiếp nhằm",
+    "answer": "Đặt ra các câu hỏi cho đối tượng nghiên cứu"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Dữ liệu sơ cấp là",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Nhược điểm của phương pháp phỏng vấn là",
+    "answer": "Chi phí cao"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Dưới đây là ví dụ của câu hỏi loại gì? Hãy đánh giá mức độ quan trọng của các nhân tố sau khi bạn quyết định mua điện thoại di động. Số 1 là quan trọng nhất, số 2 là quan trong thứ hai và theo thứ tự quan trọng giảm dần cho đến số 5. Với yếu tố không quan trọng thì để ô trống. Nhân tố ảnh hưởng Tầm quan trọng Giá cả [ ] Độ bền của máy [ ] Tính năng [ ] Hình thức [ ]",
+    "answer": "Câu hỏi thứ bậc"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Nguồn dữ liệu thứ cấp bên trong không gồm",
+    "answer": "Dữ liệu từ các công ty nghiên cứu"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Khi thiết kế các câu hỏi cần chú ý",
+    "answer": "Đảm bảo thu thập đủ dữ liệu cần thiết"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Những đặc điểm nhân chủng học của khách hàng và của đối thủ cạnh tranh là ví dụ của",
+    "answer": "Câu hỏi điều tra"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Thứ tự đúng của quy trình thiết kế chọn mẫu là",
+    "answer": "Xác định tổng thể phù hợp, Lựa chọn tham số nghiên cứu, Xác định khung chọn mẫu, Lựa chọn phương pháp chọn mẫu"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Ưu điểm của phương pháp điều tra qua điện thoại là",
+    "answer": "Thời gian thực hiện nhanh"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Nghiên cứu mô tả nhằm",
+    "answer": "Giải thích mối quan hệ giữa các biến"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Không nên dùng từ đa nghĩa trong câu hỏi vì",
+    "answer": "Các phương án trả lời vì có thể sẽ làm đối tượng nghiên cứu hiểu sai nội dung chính của câu hỏi"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Ưu điểm của xác định mẫu theo phương pháp chỉ tiêu",
+    "answer": "Chi phí thấp"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Nên liệt kê mục tiêu nghiên cứu của đề xuất theo thứ tự",
+    "answer": "Mức độ quan trọng tăng dần"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Thiết kế báo cáo không cần chú ý",
+    "answer": "Đối tượng điều tra"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Thứ tự đúng của quy trình thiết kế chọn mẫu là",
+    "answer": "Xác định khung chọn mẫu, Lựa chọn phương pháp chọn mẫu, Xác định qui mô mẫu cần thiết, Xác định chi phí chọn mẫu"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Không sử dụng nghiên cứu kinh doanh trong việc",
+    "answer": "giảm chi phí nghiên cứu thị trường"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Ưu điểm của xác định mẫu theo phương pháp chỉ tiêu cần",
+    "answer": "Chính xác"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Lý do chọn mẫu nhằm",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Cơ cấu báo cáo không cần",
+    "answer": "Phân tích phương pháp lựa chọn cách viết báo cáo"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Cơ cấu báo cáo gồm",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Quy trình phát triển hệ thống câu hỏi nghiên cứu không gồm",
+    "answer": "Thu thập dữ liệu"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Quy trình nghiên cứu kinh doanh không thể",
+    "answer": "Linh hoạt"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Nghiên cứu kinh doanh áp dụng trong lĩnh vực nào",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Phần tóm tắt của đề xuất phải nêu bật được",
+    "answer": "Tất cả đáp án đều đúng"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Quy trình của xác định mẫu theo phương pháp chỉ tiêu không gồm",
+    "answer": "Phân giao mỗi người phụ trách phỏng vấn số lượng đối tượng cần phỏng vấn"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Phần năng lực của nghiên cứu viên của đề xuất nghiên cứu cần nêu được",
+    "answer": "Tất cả đáp án trên đều đúng"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Nguồn dữ liệu thứ cấp bên ngoài không gồm",
+    "answer": "Báo cáo của các bộ phận trong doanh nghiệp"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Không nên dùng câu hỏi phủ định trong thiết bảng hỏi vì",
+    "answer": "Thường gây nhầm lẫn cho đối tượng được nghiên cứu"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Thu thập dữ liệu thứ cấp",
+    "answer": "Cần chi phí thấp"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Đâu không phải là chủ đề nghiên cứu kinh doanh của lĩnh vực Nhân sự",
+    "answer": "Nghiên cứu những ảnh hưởng của môi trường sống"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Đề xuất được soạn thảo bởi những người trong nội bộ tổ chức, họ cũng đồng thời là những người trực tiếp tiến hành nghiên cứu là",
+    "answer": "Đề xuất bên trong"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Nghiên cứu kinh doanh có thể gặp vấn đề nào?",
+    "answer": "Hệ thống lưu trữ thông tin nghèo nàn"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Nghiên cứu chuẩn tắc nhằm",
+    "answer": "kiểm định giả thiết"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Nghiên cứu nhân quả không nhằm",
+    "answer": "kiểm định sự ảnh hưởng của một số biến đến những biến khác"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Quy trình thiết kế chọn mẫu không gồm",
+    "answer": "Thực hiện điều tra"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Xác định mẫu theo phương pháp chỉ tiêu cần",
+    "answer": "biết rõ phân bố của tổng thể trên các đặc tính được sử dụng"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Chọn mẫu nghiên cứu sẽ không",
+    "answer": "Cho kết quả chính xác hơn nghiên cứu tổng thể"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Xác định mẫu theo phương pháp chỉ tiêu cần",
+    "answer": "phân chia nhóm phải phù hợp với mục đích nghiên cứu"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Phần phụ lục của đề xuất nghiên cứu không gồm",
+    "answer": "Các kết quả nghiên cứu chính"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Các câu hỏi được thiết kế không nên",
+    "answer": "Hỏi nhiều ý trong một câu"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Đề xuất nghiên cứu không nhằm mục đích",
+    "answer": "Phát triển mối quan hệ"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Phỏng vấn không thể thực hiện qua",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Nghiên cứu quan sát nhằm",
+    "answer": "Theo dõi các hành động hay hành vi của đối tượng nghiên cứu"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Chọn mẫu xác suất là",
+    "answer": "lựa chọn không ngẫu nhiên"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Phần Ý nghĩa và lợi ích của việc nghiên cứu của đề xuất cần nêu được",
+    "answer": "Giá trị nhận được sau khi thực hiện nghiên cứu"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Chuyển vấn đề nghiên cứu thành dạng câu hỏi là",
+    "answer": "Câu hỏi quản lý"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Phần tổng quan nghiên cứu của đề xuất phải nêu bật được",
+    "answer": "Các kết quả nghiên cứu liên quan được thực hiện mới gần đây"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Các câu hỏi được thiết kế cần",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Thiết kế báo cáo không cần",
+    "answer": "Xem lại mục đích của việc nghiên cứu"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Nhược điểm của xác định mẫu theo phương pháp chỉ tiêu",
+    "answer": "Mang tính chủ quan"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Phương pháp điều tra ‘tự hoàn thành bảng hỏi’có ưu điểm",
+    "answer": "Linh hoạt về địa lý"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Đặc tính của dữ liệu sơ cấp định tính là nhằm",
+    "answer": "Có được sự hiểu biết chung, nghiên cứu khám phá"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Xác định qui mô mẫu cần",
+    "answer": "tính đến tỷ lệ không phản hồi"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Khi thiết kế các câu hỏi cần chú ý",
+    "answer": "Xác định liệu đối tượng điều tra có đủ kiến thức cơ bản để trả lời các câu hỏi của phiếu điều tra"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Đề xuất được soạn thảo bởi cá nhân hoặc tổ chức bên ngoài doanh nghiệp nhằm giành được kinh phí nghiên cứu là",
+    "answer": "Đề xuất bên ngoài"
+  }
+]

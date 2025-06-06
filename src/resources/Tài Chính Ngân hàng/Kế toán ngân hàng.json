@@ -1,0 +1,1982 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Tài khoản nào khác nhất trong số các tài khoản sau đây?",
+    "answer": "Lãi phải thu."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Thanh toán qua các ngân hàng thương mại ở Việt Nam hiện nay gồm các thể thức nào?",
+    "answer": "Séc, uỷ nhiệm chi, uỷ nhiệm thu, thư tín dụng, thanh toán thẻ"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Tổ thanh toán bù trừ của Ngân hàng thương mại A mang về tờ séc chuyển khoản (cùng Bảng kê nộp séc) do Công ty B phát hành để mua hàng của Công ty Cổ phần 1 có tài khoản tiền gửi tại Ngân hàng thương mại C. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty B)/Có TK Thanh toán bù trừ"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Căn cứ vào hợp đồng tín dụng, kế toán đã lập phiếu chi để giải ngân bằng tiền mặt cho bà Lan là 60tr, thời hạn vay 6 tháng, lãi suất 1%//tháng . TS cầm cố là một tín phiếu kho bạc có mệnh giá là 100tr. Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng đồng VN (bà Lan) 60tr/Có TK Tiền mặt 60tr/Đồng thời: Nhập TK TS thế chấp cầm cố của KH. 100tr"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "KH D nộp 33tr để thanh toán nợ vay và lãi vay của một HĐTD đến hạn thanh toán. Số tiền vay là 30tr, lãi cho vay là 3 tr, thời hạn cho vay là 6 tháng. Trước đó NH đã dự thu toàn bộ số lãi cho vay đủ tiêu chuẩn trên. Kế toán hạch toán:",
+    "answer": "Nợ TK Tiền mặt 33tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND 30tr/Có TK Lãi phải thu từ cho vay 3tr"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Thông thường, các ngân hàng thương mại có thể huy động vốn từ các nguồn:",
+    "answer": "Tiền gửi của tổ chức kinh tế và cá nhân; Tiền gửi tiết kiệm; Phát hành các giấy tờ có giá; Vốn vay Ngân hàng Nhà nước, vay các tổ chức tín dụng khác trong và ngoài nước."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Ngày 20/8/N, Ngân hàng thương mại A nhận được Lệnh chuyển tiền từ Ngân hàng thương mại H (cùng hệ thống), nội dung thanh toán UNT số tiền 25 triệu đồng. UNT này do Công ty A lập để đòi tiền Công ty C. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Điều chuyển vốn: 25 triệu đồng/Có TK Tiền gửi thanh toán (Công ty A): 25 triệu đồng"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Ngày 20/2/N, ngân hàng phát hành 2.000 kỳ phiếu có mệnh giá 2 triệu đồng, thu bằng tiền mặt, thời hạn 3 tháng, lãi suất 8%/năm. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền Mặt: 4.000 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 4.000 triệu đồng"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Ngày 20/7/N, ông Dương đến Ngân hàng thương mại A gửi tiền tiết kiệm kỳ hạn 6 tháng, số tiền 22 triệu đồng, lãi suất 0,5%/ tháng. Ngân hàng thương mại hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 22 triệu đồng/Có TK Tiền gửi tiết kiệm (kỳ hạn 6 tháng): 22 triệu đồng"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Đặc điểm nào của kế toán ngân hàng đảm bảo an toàn vốn cho các doanh nghiệp?",
+    "answer": "Chính xác cao. Không ảnh hưởng đến bên chi trả và bên thụ hưởng."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "NHTM A kế toán dự phòng (DP) cuối quý 2 đối với nợ cho vay các tổ chức kinh tế và cá nhân trong nước: Tổng dự phòng đã trích tính đến cuối quý 1: 13 tỷ, trong đó có 8 tỷ dự phòng cụ thể. Trong tháng, ngân hàng đã xử lý 12 hợp đồng tín dụng đối với nợ nhóm 5. Số dự phòng đã sử dụng để bù đắp tổn thất là 4 tỷ, trong đó có 2,5 tỷ dự phòng cụ. Số dự phòng cụ thể đã hoàn nhập là 100 triệu đồng. Tổng dự phòng cần được trích theo trạng thái nợ ngày cuối cùng của quý 2 là 15 tỷ, trong đó có 11 tỷ dự phòng cụ thể. NHTM A hạch toán:",
+    "answer": "Nợ TK Chi DP nợ phải thu khó đòi 6,1 tỷ /Có TK DP cụ thể 5,6 tỷ/Có TK DP chung 0,5 tỷ"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Phương pháp hạch toán trả lãi vốn huy động của các ngân hàng thương mại là:",
+    "answer": "Dự chi/Dự trả."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Hiện nay ở Việt Nam có các hình thức thanh toán không dùng tiền mặt phổ biến nào sau đây?",
+    "answer": "Séc thanh toán; Uỷ nhiệm thu; Uỷ nhiệm chi; Thẻ thanh toán."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Trong ngành ngân hàng, ở mỗi pháp nhân ngân hàng có thể tồn tại mô hình tổ chức bộ máy kế toán nào sau đây?",
+    "answer": "Tùy từng trường hợp cụ thể (thường phụ thuộc vào từng thời kỳ phát triển)."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Trong hồ sơ vay của KH Hà có một khoản vay đến hạn trả. Gốc: 100 triệu, lãi đã tính cộng dồn dự thu: 10 triệu. KH Hà không trả được nợ, NHTM A đánh giá khoản vay này cần chuyển sang theo dõi ở nhóm 2. NHTM A hạch toán:",
+    "answer": "Nợ TK Nợ cho vay quá hạn (nhóm nợ cần chú ý) 100tr/Có TK Nợ cho vay trong hạn 100tr và Nợ TK Chi phí TD khác 10tr/Có TK Lãi phải thu từ cho vay 10tr/Đồng thời: Nhập TK Lãi cho vay chưa thu được bằng VND 10tr"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Tiền gửi thanh toán của khách hàng là:",
+    "answer": "vốn nợ của ngân hàng."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Trong hoạt động tín dụng, NHTM phải trích lập dự phòng gì?",
+    "answer": "Dự phòng rủi ro nợ phải thu khó đòi"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Ngân hàng thương mại A phát hành kỳ phiếu đợt 2 với 200 kỳ phiếu loại 1 năm, mệnh giá 1 kỳ phiếu là 1 triệu đồng, trả lãi sau, lãi suất 0,89%/tháng. Số tiền huy động thu bằng tiền mặt. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 200 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 200 triệu đồng"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Ngày 25/6/J, ngân hàng thanh toán bằng tiền mặt cho một số kỳ phiếu phát hành theo mệnh giá, trả lãi trước đã đến hạn thanh toán. Tổng mệnh giá là 3.000 triệu đồng, lãi suất 10%/năm, kỳ hạn 6 tháng. Biết ngân hàng đã phân bổ hết lãi trả trước vào chi phí. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Mệnh giá giấy tờ có giá: 3.000 triệu đồng/Có TK Tiền mặt: 3.000 triệu đồng"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Công ty A nộp vào Ngân hàng thương mại A bộ UNT, số tiền 16 triệu đồng, đòi tiền hàng đã giao cho người mua là HTX V có tài khoản tại Ngân hàng thương mại V cùng hệ thống. Ngân hàng thương mại A hạch toán:",
+    "answer": "Ngân hàng thương mại A gửi bộ UNT sang Ngân hàng thương mại V: 16 triệu đồng."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Trong hồ sơ vay của KH A có một khoản vay đến hạn trả. Gốc: 50 triệu, lãi đã tính cộng dồn dự thu: 4 triệu. KH A không trả được nợ, NHTM A đánh giá khoản vay này cần chuyển sang theo dõi ở nhóm 3. NHTM A hạch toán",
+    "answer": "Nợ TK Nợ cho vay quá hạn (nhóm nợ dứoi tiêu chuẩn) 50tr/Có TK Nợ cho vay trong hạn 50tr và Nợ TK Chi phí TD khác 4tr/Có TK Lãi phải thu từ cho vay 4tr/Đồng thời: Nhập TK Lãi cho vay chưa thu được bằng VND 4tr"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Khi một khoản vay NH đã tính và hạch toán dự thu đến hạn mà khách hàng không trả được nợ, phải chuyển sang nhóm nợ quá hạn, kế toán NH phải hạch toán trên các TK sau, loại trừ:",
+    "answer": "TK Thu lãi cho vay"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Theo quy định hiện hành, các NHTM phải thực hiện phân loại nợ dựa vào mấy nhóm sau đây:",
+    "answer": "5 nhóm nợ"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Nợ xấu là:",
+    "answer": "Nợ có khả năng mất vốn, nợ nghi ngờ, nợ dưới tiêu chuẩn"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Bà Nguyễn Thị Tâm nộp 200 triệu đồng tiền mặt kèm CMND để gửi tiền tiết kiệm có kỳ hạn 3 tháng có dự thưởng, lãi suất 11%/năm. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 200 triệu đồng/Có TK Tiền gửi tiết kiệm (bà Tâm): 200 triệu đồng"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Khách hàng A đến Ngân hàng B mua kỳ phiếu với số tiền là 260 triệu đồng. Khách hàng yêu cầu trích tài khoản tiền gửi thanh toán của mình để thanh toán. Khi hoàn thành hạch toán nghiệp vụ trên, nguồn vốn của Ngân hàng B sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Hình thức huy động vốn thường xuyên nhất của ngân hàng là:",
+    "answer": "Nhận tiền gửi"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Séc phát hành quá số dư là:",
+    "answer": "khi xuất trình trong thời hạn thanh toán của séc mà số tiền trên tài khoản của người ký phát không đủ để thanh toán toàn bộ số tiền trên tờ séc đó."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Ngân hàng thương mại A phát hành thêm trái phiếu kỳ hạn 2 năm, trả lãi trước, lãi suất 8%/năm, số lượng 800 trái phiếu, mệnh giá 5 triệu đồng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền mặt…: 3351,11 triệu đồng/Nợ TK Chi phí chờ phân bổ: 648,89 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 4000 triệu đồng"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Ngày 15/3/Y, ông Nguyễn Thành Nam nộp CMND kèm sổ tiết kiệm kỳ hạn 6 tháng mở ngày 15/9/Y-1, số tiền 80 triệu đồng, lãi suất 12%/năm, rút gốc và lãi khi đáo hạn. Ông Nam đề nghị rút toàn bộ gốc và lãi bằng tiền mặt. Ngân hàng đã dự trả toàn bộ số tiền lãi. Kế toán hạch toán",
+    "answer": "Nợ TK Tiền gửi tiết kiệm (ông Nam): 80 triệu đồng/Nợ TK Lãi phải trả: 4,83 triệu đồng/Có TK Tiền mặt: 84,83 triệu đồng"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Vốn huy động của ngân hàng thương mại KHÔNG bao gồm:",
+    "answer": "Thặng dư vốn cổ phần;"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Khi phân nhóm nợ, các món nợ được xếp vào nhóm nợ nào?",
+    "answer": "Được xếp vào 1 trong 5 nhóm nợ tương ứng"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Dự phòng chung được xác định như thế nào?",
+    "answer": "0,75% tổng dư nợ từ nhóm 1 đến nhóm 4"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Hoạt động tín dụng của NHTM là quan hệ nào sau đây?",
+    "answer": "Quan hệ tín dụng do NHTM cấp cho khách hàng"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được Lệnh chuyển tiền từ Hội sở chính của mình, nội dung thanh toán một UNC do người trả tiền có tài khoản tại Ngân hàng thương mại N (khác hệ thống, không tham gia thanh toán bù trừ) thanh toán cho người thụ hưởng là Công ty H, số tiền 120 triệu đồng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Thu hộ, chi hộ: 120 triệu đồng/Có TK Tiền gửi thanh toán (Công ty H): 120 triệu đồng"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Trật tự đúng của các tài khoản trong hệ thống tài khoản hiện hành của ngân hàng thương mại Việt Nam là:",
+    "answer": "Tiền gửi thanh toán tại ngân hàng nhà nước> Chứng khoán kinh doanh > Cho vay> Tiền gửi khách hàng"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Ngày 30/11/N, Khách hàng D nộp tiền mặt để thanh toán nợ và lãi vay của một HĐTD đến hạn thanh toán. Số tiền vay là 180tr, lãi suất cho vay là 1,7%/tháng, ngày vay 30/6/N. Biết NH dự thu đầu ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Tiền mặt 195,606tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND 180tr/Có TK Lãi phải thu từ cho vay 15,606tr"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Qua phiên thanh toán bù trừ, Ngân hàng thương mại A nhận được bộ UNT từ Ngân hàng thương mại H, số tiền 14 triệu đồng. Bộ UNT do Nhà máy 3 lập đòi tiền hàng hoá đã cung cấp cho Công ty A. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty A): 14 triệu đồng/Có TK Thanh toán bù trừ: 14 triệu đồng"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Căn cứ vào hợp đồng tín dụng và phiếu chi tiền mặt kèm CMND, kế toán giải ngân cho KH A với số tiền là 50tr, thời hạn vay là 6 tháng, lãi suất cho vay là 1,8%/tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng VND (KH A) 50tr/Có TK Tiền mặt 50tr"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Hình thức thanh toán cho phép người sử dụng “tiêu tiền trước, trả tiền sau” là:",
+    "answer": "Thanh toán bằng thẻ tín dụng"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Sự giống nhau của tiền gửi tiết kiệm có kỳ hạn và kỳ phiếu ngân hàng là:",
+    "answer": "Lãi có thể được hạch toán và thanh toán đầu kỳ, trong kỳ hoặc cuối kỳ tùy vào phương thức trả lãi"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Khi dự phòng cụ thể KHÔNG đủ bù đắp tổn thất tín dụng, ngân hàng thương mại sẽ:",
+    "answer": "Tiếp tục sử dụng dự phòng chung để bù đắp"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Ngày 20/10/N, bà Tư nộp 100 kỳ phiếu, kỳ hạn 6 tháng, mệnh giá 5 triệu đồng, trả lãi trước, lãi suất 8,5%/năm. Biết ngân hàng đã hạch toán phân bổ hết số tiền lãi. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Mệnh giá giấy tờ có giá: 500 triệu đồng/Có TK Tiền mặt: 500 triệu đồng"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được từ Công ty H bộ UNC trích tài khoản tiền gửi 12 triệu đồng để thanh toán tiền hàng cho Nhà máy S có tài khoản tiền gửi tại Ngân hàng thương mại S cùng tham gia thanh toán bù trừ. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty H): 12 triệu đồng/Có TK Thanh toán bù trừ: 12 triệu đồng"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "NHTM A kế toán dự phòng (DP) cuối quý 2 đối với nợ cho vay các tổ chức kinh tế và cá nhân trong nước: Tổng dự phòng đã trích tính đến cuối quý 1: 13 tỷ, trong đó có 8 tỷ dự phòng cụ thể. Trong tháng, ngân hàng đã xử lý 10 hợp đồng tín dụng đối với nợ nhóm 5. Số dự phòng đã sử dụng để bù đắp tổn thất là 4 tỷ, trong đó có 2,5 tỷ dự phòng cụ. Số dự phòng cụ thể đã hoàn nhập là 100 triệu đồng. Tổng dự phòng cần được trích theo trạng thái nợ ngày cuối cùng của quý 2 là 14 tỷ, trong đó có 11 tỷ dự phòng cụ thể. NHTM A hạch toán:",
+    "answer": "Nợ TK Chi DP rủi ro nợ phải thu khó đòi 5,6tỷ/Có TK DP cụ thể 5,6tỷ/Và Nợ TK DP chung 0,5 tỷ/ Có TK Chi DP rủi ro nợ phải thu khó đòi 0,5 tỷ"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Ngày 1/10/N, ngân hàng phát hành kỳ phiếu theo mệnh giá. Số kỳ phiếu đã phát hành thu bằng tiền mặt là 100.000, kỳ hạn 6 tháng, lãi suất 0,9%/tháng, trả lãi đáo hạn, mệnh giá 1 triệu đồng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 100.000 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 100.000 triệu đồng"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Ngày 30/5/N, khách hàng A đến Ngân hàng thương mại A xin rút hết tiền trên sổ tiết kiệm không kỳ hạn, gốc ban đầu 10 triệu đồng, ngày gửi 15/4/N, lãi suất 0,3%/tháng. Biết ngân hàng quy định ngày tính lãi cho tất cả các khoản tiền gửi tiết kiệm không kỳ hạn là vào ngày cuối tháng, ngân hàng dự trả lãi vào cuối ngày cuối tháng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm không kỳ hạn: 10,015 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,03 triệu đồng/Có TK Tiền mặt: 10,045 triệu đồng"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Nguyên tắc hạch toán thu lãi cho vay của các NHTM là phương pháp nào?",
+    "answer": "Dự thu đối với nợ tốt"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Để xác định số dự phòng chung cần trích lập, các NHTM căn cứ vào tỷ lệ trích lập dự phòng chung nào sau đấy?",
+    "answer": "0,75%"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Hoạt động KHÔNG giúp ngân hàng thương mại tăng nguồn vốn huy động là:",
+    "answer": "Phát hành thẻ tín dụng"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được thông báo từ Ngân hàng thương mại V (cùng tham gia thanh toán bù trừ) về tờ séc chuyển khoản do Công ty H nộp vào trước đây, số tiền 30 triệu đồng, nhưng hiện trên tài khoản của người phát hành chỉ còn 20 triệu đồng. Ngân hàng thương mại A xử lý:",
+    "answer": "vào sổ theo dõi và gửi Thông báo này cho Công ty H./Nợ TK Chờ thanh toán: 20 triệu đồng/Có TK Tiền gửi thanh toán (Công ty H): 20 triệu đồng"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Sau khi hợp đồng tín dụng được ký kết, Công ty Tiến Đạt nộp UNC với số tiền 500tr đề nghị giải ngân tiền vay để thanh toán tiền hàng hóa cho Công ty Vĩnh Hòa (có TK tại NHTM khác hệ thống khác tỉnh thành phố). Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay bằng đồng VN (Cty Tiến Đạt) 500tr/Có TK thu hộ, chi hộ 500tr"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Khi xác định được số dự phòng cần trích trong nghiệp vụ tín dụng theo định kỳ, nếu số tiền cần trích nhỏ hơn số tiền đã trích, ngân hàng thương mại:",
+    "answer": "Thực hiện hoàn nhập dự phòng"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Nguồn vốn huy động từ tiền gửi:",
+    "answer": "chiếm tỷ trọng lớn trong tổng nguồn vốn."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Thời hạn thanh toán của tờ séc là:",
+    "answer": "06 tháng kể từ ngày ký phát với điều kiện sau 30 ngày (kể từ ngày ký phát) người ký phát không có thông báo đình chỉ thanh toán đối với tờ séc đó."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được bộ UNT của Công ty G, 20 triệu đồng đòi tiền điện của Công ty H có tài khoản tại Ngân hàng thương mại N (cùng hệ thống ngân hàng thương mại). Ngân hàng thương mại A xử lý:",
+    "answer": "gửi bộ UNT sang Ngân hàng thương mại N."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Ngày 30/3/Y, Bà Hải Thanh xuất trình CMND cùng sổ tiết kiệm có kỳ hạn 4 tháng đề nghị rút toàn bộ tiền. Số tiền gửi là 100 triệu đồng, lãi suất là 10%/năm, ngày gửi là 30/1/Y. Biết lãi suất tiền gửi tiết kiệm không kỳ hạn áp dụng trong ngày là 2,4%/năm; ngân hàng dự trả lãi vào ngày cuối tháng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm (Hải Thanh): 100 triệu đồng/Nợ TK Lãi phải trả: 0,393 triệu đồng/Có TK Tiền mặt: 100,393 triệu đồng"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Ngày 30/11/N, Khách hàng D nộp tiền mặt để thanh toán nợ và lãi vay của một HĐTD đến hạn thanh toán. Số tiền vay là 180tr, lãi suất cho vay là 1,7%/tháng, ngày vay 30/6/N. Biết NH dự thu đầu ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Tiền mặt 195,606tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND 180tr/Có TK Lãi phải thu từ cho vay 15,606tr"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể đối với từng nhóm nợ lần lượt là:",
+    "answer": "0%; 5%; 20%; 50%; 100%"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Ngày 20/7/N, khách hàng H đến ngân hàng thương mại A nộp sổ tiền gửi tiết kiệm không kỳ hạn, số tiền 50 triệu đồng, ngày gửi 1/3/N, lãi suất 0,3%/tháng, xin tất toán như sau: chuyển số gốc 30 triệu đồng sang tiền gửi tiết kiệm kỳ hạn 9 tháng, số gốc còn lại và lãi xin rút bằng tiền mặt. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm không kỳ hạn (Khách hàng H): 50,608 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,101 triệu đồng/Có TK Tiền gửi tiết kiệm kỳ hạn 9 tháng (khách hàng H): 30 triệu đồng/Có TK Tiền mặt: 20,709 triệu đồng"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Khách hàng A đến Ngân hàng B mua kỳ phiếu với số tiền là 260 triệu đồng. Khách hàng yêu cầu trích tài khoản tiền gửi thanh toán của mình để thanh toán. Khi hoàn thành hạch toán nghiệp vụ trên, nguồn vốn của Ngân hàng B sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Ngân hàng kế toán dự phòng (DP) cuối quý 3 đối với nợ cho vay các tổ chức kinh tế và cá nhân trong nước:",
+    "answer": "Nợ TK Chi phí DP rủi ro nợ phải thu khó đòi 10,7 tỷ/Có TK DP cụ thể 9,2 tỷ/Có TK DP chung 1,5 tỷ"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Công ty K nộp vào Ngân hàng thương mại A bộ UNT và hoá đơn bán hàng đòi tiền hàng hoá đã giao cho Công ty D có TK tại Ngân hàng thương mại H (cùng tham gia thanh toán bù trừ), số tiền 12 triệu đồng. Ngân hàng thương mại A hạch toán:",
+    "answer": "vào sổ theo dõi, chuyển bộ UNT cho Ngân hàng thương mại H."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Ngày12/5/N, NH thu lãi cho vay bằng chuyển khoản đối với Công ty Hồng Hà. Số tiền vay là 500tr, lãi suất 1,2%/tháng, ngày vay 12/2/N, lãi trả vào ngày 12 hàng tháng bắt đầu từ tháng 3, gốc trả cuối kỳ. NH dự thu lãi vào ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TKTG thanh toán (Cty Hồng Hà) 6tr/Có TK Lãi phải thu từ cho vay 3,6tr/Có TK Thu lãi cho vay 2,4tr"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Ngày 20/1/N, Ngân hàng thương mại A phát hành kỳ phiếu kỳ hạn 9 tháng với lãi suất 0,8%/tháng, mệnh giá 1 triệu đồng, trả lãi trước. Số kỳ phiếu đã phát hành là 30.000. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền mặt…: 27.824 triệu đồng/Nợ TK Chi phí chờ phân bổ: 2.176 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 30.000 triệu đồng"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Séc được chấp nhận thanh toán trong phạm vi:",
+    "answer": "tuỳ quy định của từng ngân hàng."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Sự giống nhau của tiền gửi tiết kiệm có kỳ hạn và kỳ phiếu ngân hàng là:",
+    "answer": "Lãi có thể được hạch toán và thanh toán đầu kỳ, trong kỳ hoặc cuối kỳ tùy vào phương thức trả lãi"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Khi phát hành giấy tờ có giá, ngân hàng thương mại ghi nhận nghĩa vụ nợ phải trả đối với khách hàng:",
+    "answer": "Theo mệnh giá"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Bà Nguyễn Thị Tâm nộp 200 triệu đồng tiền mặt kèm CMND để gửi tiền tiết kiệm có kỳ hạn 3 tháng có dự thưởng, lãi suất 11%/năm. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 200 triệu đồng/Có TK Tiền gửi tiết kiệm (bà Tâm): 200 triệu đồng"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Chứng từ gốc trong kế toán cho vay gồm những chứng từ gì?",
+    "answer": "Giấy đề nghị vay vốn, giấy nhận nợ."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Ông Nguyễn Nam nộp vào ngân hàng số tiền 50 triệu đồng kèm CMND đề nghị gửi tiết kiệm kỳ hạn 6 tháng, lãi suất tiền gửi tiết kiệm kỳ hạn 6 tháng là 12%/năm. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 50 triệu đồng/Có TK Tiền gửi tiết kiệm (ông Nam): 50 triệu đồng"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "NHTM A kế toán dự phòng (DP) cuối quý 2 đối với nợ cho vay các tổ chức kinh tế và cá nhân trong nước: Tổng dự phòng đã trích tính đến cuối quý 1: 13 tỷ, trong đó có 8 tỷ dự phòng cụ thể. Trong tháng, ngân hàng đã xử lý 10 hợp đồng tín dụng đối với nợ nhóm 5. Số dự phòng đã sử dụng để bù đắp tổn thất là 4 tỷ, trong đó có 2,5 tỷ dự phòng cụ. Số dự phòng cụ thể đã hoàn nhập là 100 triệu đồng. Tổng dự phòng cần được trích theo trạng thái nợ ngày cuối cùng của quý 2 là 14 tỷ, trong đó có 11 tỷ dự phòng cụ thể. NHTM A hạch toán:",
+    "answer": "Nợ TK Chi DP rủi ro nợ phải thu khó đòi 5,6tỷ/Có TK DP cụ thể 5,6tỷ/Và Nợ TK DP chung 0,5 tỷ/ Có TK Chi DP rủi ro nợ phải thu khó đòi 0,5 tỷ"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Ngày 20/8/N, Ngân hàng thương mại A nhận được Lệnh chuyển tiền từ Ngân hàng thương mại H (cùng hệ thống), nội dung thanh toán UNT số tiền 25 triệu đồng. UNT này do Công ty A lập để đòi tiền Công ty C. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Điều chuyển vốn: 25 triệu đồng/Có TK Tiền gửi thanh toán (Công ty A): 25 triệu đồng"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Chứng từ kế toán ngân hàng bao gồm:",
+    "answer": "chứng từ ghi sổ, chứng từ gốc và chứng từ gốc kiêm chứng từ ghi sổ."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Ngày 31/10/N, Công ty A lập UNC để thanh toán nợ và lãi vay của một HĐTD đến hạn thanh toán. Số tiền vay là 150tr, lãi suất cho vay là 1,5%/tháng, ngày vay 30/6/N. Biết NH dự thu đầu ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TKTGTT (CT A)159,225tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND 150tr/Có TK Lãi phải thu từ cho vay 9,225tr, Nợ TK Tiền mặt 159,225tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND. 150tr/Có TK Lãi phải thu từ cho vay 9,225tr"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Nguyên tắc hạch toán thu lãi cho vay của các NHTM là phương pháp nào?",
+    "answer": "Dự thu đối với nợ tốt"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được Lệnh chuyển tiền về tờ séc chuyển khoản. Tờ séc này do Công ty A nộp vào 1 ngày trước đây. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Điều chuyển vốn/Có TK Tiền gửi thanh toán (Công ty A)"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được Bảng kê thanh toán bù trừ về bộ UNC từ Ngân hàng thương mại D (cùng tham gia thanh toán bù trừ), số tiền là 120 triệu đồng. Chủ tài khoản là Công ty may HA. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Thanh toán bự trừ: 120 triệu đồng/ Có TK Tiền gửi thanh toán (Công ty may HA): 120 triệu đồng"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Qua phiên thanh toán bù trừ, Ngân hàng thương mại A nhận được bộ UNT từ Ngân hàng thương mại H, số tiền 14 triệu đồng. Bộ UNT do Nhà máy 3 lập đòi tiền hàng hoá đã cung cấp cho Công ty A. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty A): 14 triệu đồng/Có TK Thanh toán bù trừ: 14 triệu đồng"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Ngày 31/3/N, NHTM A hạch toán lãi phải trả dồn tích cho tiền gửi kỳ hạn 2 tháng của Công ty N, số tiền 120 triệu đồng, ngày gửi 15/1/N, lãi suất kỳ hạn 2 tháng là 0,3%/tháng (Ngân hàng hạch toán dự trả lãi định kỳ vào ngày cuối tháng, lãi tính theo ngày thực tế). Bút toán hạch toán là:",
+    "answer": "Nợ TK Chi phí trả lãi tiền gửi: 0,372 triệu đồng/Có TK Lãi phải trả đối với tiền gửi: 0,372 triệu đồng"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Ngày 1/10/N, ngân hàng phát hành kỳ phiếu theo mệnh giá. Số kỳ phiếu đã phát hành thu bằng tiền mặt là 100.000, kỳ hạn 6 tháng, lãi suất 0,9%/tháng, trả lãi đáo hạn, mệnh giá 1 triệu đồng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 100.000 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 100.000 triệu đồng"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Ngày 31/7/N, Ngân hàng thương mại A thanh toán một số chứng chỉ tiền gửi cho khách hàng bằng tiền mặt, tổng mệnh giá: 110 triệu đồng, ngày phát hành 5/4/N-2, kỳ hạn 2 năm, lãi suất 8,4%/năm, trả lãi định kỳ năm. Lãi định kỳ lần 1 đã thanh toán cho khách hàng. Ngân hàng dự trả vào đầu ngày cuối tháng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Mệnh giá giấy tờ có giá: 110 triệu đồng/Nợ TK Lãi phải trả đối với giấy tờ có giá: 9,368 triệu đồng/Có TK Tiền mặt: 119,368 triệu đồng"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Hiện nay, các ngân hàng thương mại Việt Nam có các phương thức thanh toán vốn sau:",
+    "answer": "phương thức thanh toán liên chi nhánh ngân hàng nội bộ trong từng hệ thống; phương thức thanh toán bù trừ; phương thức thanh toán liên ngân hàng."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Trong các loại séc dưới đây, loại séc nào có thể là séc phát hành quá số dư?",
+    "answer": "Séc chuyển khoản."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Tổ thanh toán bù trừ của Ngân hàng thương mại A mang về tờ séc chuyển khoản (cùng Bảng kê nộp séc) do Công ty B phát hành để mua hàng của Công ty Cổ phần 1 có tài khoản tiền gửi tại Ngân hàng thương mại C. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty B)/Có TK Thanh toán bù trừ"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Ngân hàng thương mại A phát hành thêm trái phiếu kỳ hạn 2 năm, trả lãi trước, lãi suất 8%/năm, số lượng 800 trái phiếu, mệnh giá 5 triệu đồng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền mặt…: 3351,11 triệu đồng/Nợ TK Chi phí chờ phân bổ: 648,89 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 4000 triệu đồng"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Ngày 20/2/N, ngân hàng phát hành 2.000 kỳ phiếu có mệnh giá 2 triệu đồng, thu bằng tiền mặt, thời hạn 3 tháng, lãi suất 8%/năm. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền Mặt: 4.000 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 4.000 triệu đồng"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Ngày 21/10/N, bà Nguyễn Xuân Lan đến yêu cầu ngân hàng yêu cầu chuyển từ tài khoản tiết kiệm không kỳ hạn sang TK tiết kiệm kỳ hạn 3 tháng, số tiền 200 triệu đồng, lãi suất 0,8%/tháng. Sổ tiết kiệm không kỳ hạn ghi ngày gửi là 12/9/N, lãi suất 0,2%/tháng. Toàn bộ số tiền lãi khách hàng nhận bằng tiền mặt. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm không kỳ hạn (bà Lan): 200 triệu đồng/Có TK Tiền gửi tiết kiệm kỳ hạn 3 tháng (bà Lan): 200 triệu đồng Và Nợ TK Tiền gửi tiết kiệm không kỳ hạn (bà Lan): 0,24 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,28 triệu đồng/Có TK Tiền mặt: 0,52 triệu đồng"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Hệ thống tài khoản kế toán của ngân hàng thương mại bao gồm:",
+    "answer": "tài khoản tài sản, tài khoản nguồn vốn và tài khoản lưỡng tính."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Tài khoản nguồn vốn của ngân hàng là:",
+    "answer": "TK “Lãi phải trả”."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Các lý do phải kiểm soát chứng từ kế toán là:",
+    "answer": "thiếu hiểu biết về nguyên tắc lập chứng từ, sơ suất, nhầm lẫn và cố ý lập sai."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Nguồn vốn huy động từ tiền gửi:",
+    "answer": "chiếm tỷ trọng lớn trong tổng nguồn vốn."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Lãi phải thu so với lãi dự thu khi NH dự thu lãi hàng tháng và KH đến trả nợ đúng hạn sẽ như thế nào?",
+    "answer": "có thể bằng hoặc nhỏ hơn"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Hiện nay ở Việt Nam có các hình thức thanh toán không dùng tiền mặt phổ biến nào sau đây?",
+    "answer": "Séc thanh toán; Uỷ nhiệm thu; Uỷ nhiệm chi; Thẻ thanh toán."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Thanh toán qua các ngân hàng thương mại ở Việt Nam hiện nay gồm các thể thức nào?",
+    "answer": "Séc, uỷ nhiệm chi, uỷ nhiệm thu, thư tín dụng, thanh toán thẻ"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Khách hàng có thể thực hiện chuyển tiền qua:",
+    "answer": "ATM, trực tiếp tại chi nhánh ngân hàng và qua hệ thống Internet banking"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Công ty A nộp vào Ngân hàng thương mại A bộ UNT, số tiền 16 triệu đồng, đòi tiền hàng đã giao cho người mua là HTX V có tài khoản tại Ngân hàng thương mại V cùng hệ thống. Ngân hàng thương mại A hạch toán:",
+    "answer": "Ngân hàng thương mại A gửi bộ UNT sang Ngân hàng thương mại V: 16 triệu đồng."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Ngân hàng thương mại A phát hành kỳ phiếu đợt 2 với 200 kỳ phiếu loại 1 năm, mệnh giá 1 kỳ phiếu là 1 triệu đồng, trả lãi sau, lãi suất 0,89%/tháng. Số tiền huy động thu bằng tiền mặt. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 200 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 200 triệu đồng"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Ngày 31/5/N, Ngân hàng thương mại A hạch toán lãi phải trả dồn tích cho tiền gửi kỳ hạn 3 tháng của Công ty N, số tiền 100 triệu đồng, ngày gửi 15/4/N, lãi suất kỳ hạn 3 tháng là 0,3%/tháng như sau:",
+    "answer": "Nợ TK Chi phí trả lãi tiền gửi: 0,31 triệu đồng/Có TK Lãi phải trả đối với tiền gửi: 0,31 triệu đồng"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Trong hoạt động tín dụng, NHTM phải trích lập dự phòng gì?",
+    "answer": "Dự phòng rủi ro nợ phải thu khó đòi"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Sự kiện nào dưới đây KHÔNG phải là đối tượng của kế toán ngân hàng?",
+    "answer": "Ký hợp đồng tín dụng với khách hàng."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Ngày 20/7/N, ông Phan đến Ngân hàng thương mại A rút tiền tiết kiệm loại 6 tháng, số tiền gửi ban đầu 5 triệu đồng, ngày gửi 15/1/N, lãi suất 0,55%/tháng. Lãi suất tiền gửi tiết kiệm không kỳ hạn là 0,2%/tháng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm (kỳ hạn 6 tháng): 5,166 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,00172 triệu đồng/Có TK Tiền mặt: 5,16772 triệu đồng"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Vốn chủ sở hữu của ngân hàng thương mại bao gồm",
+    "answer": "Vốn của ngân hàng thương mại + Các quỹ + Chênh lệch đánh giá lại tài sản + Lợi nhuận chưa phân phối."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Khi phân nhóm nợ, các món nợ được xếp vào nhóm nợ nào?",
+    "answer": "Được xếp vào 1 trong 5 nhóm nợ tương ứng"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Sau khi hợp đồng tín dụng được ký kết, Công ty Tiến Đạt nộp UNC với số tiền 500tr đề nghị giải ngân tiền vay để thanh toán tiền hàng hóa cho Công ty Vĩnh Hòa (có TK tại NHTM khác hệ thống khác tỉnh thành phố). Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay bằng đồng VN (Cty Tiến Đạt) 500tr/Có TK thu hộ, chi hộ 500tr"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Ngày 23/10/N, Khoản cho vay của khách hàng B kỳ hạn 9 tháng ngày vay 23/4/N, trả lãi theo định kỳ 3 tháng đã đến hạn thanh toán lãi lần 2. Gốc: 50tr; lãi suất: 1,2%/tháng. Khách hàng không trả lãi được. NH hạch toán lãi dự thu vào ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Chi phí tín dụng khác 1,38tr/ Có TK Lãi phải thu từ cho vay 1,38tr/Đồng thời: Nhập TK Lãi cho vay chưa thu được bằng VND 1,84tr"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Hoạt động tín dụng của NHTM là quan hệ nào sau đây?",
+    "answer": "Quan hệ tín dụng do NHTM cấp cho khách hàng"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Chứng từ ghi sổ trong kế toán cho vay gồm những gì?",
+    "answer": "Séc tiền mặt, séc chuyển khoản, uỷ nhiệm chi, uỷ nhiệm thu, giấy mở thư tín dụng."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Chứng từ nào sau đây là chứng từ ghi sổ?",
+    "answer": "Phiếu chi tiền mặt."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Séc phát hành quá số dư là:",
+    "answer": "khi xuất trình trong thời hạn thanh toán của séc mà số tiền trên tài khoản của người ký phát không đủ để thanh toán toàn bộ số tiền trên tờ séc đó."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Ngày 30/3/Y, Bà Hải Thanh xuất trình CMND cùng sổ tiết kiệm có kỳ hạn 4 tháng đề nghị rút toàn bộ tiền. Số tiền gửi là 100 triệu đồng, lãi suất là 10%/năm, ngày gửi là 30/1/Y. Biết lãi suất tiền gửi tiết kiệm không kỳ hạn áp dụng trong ngày là 2,4%/năm; ngân hàng dự trả lãi vào ngày cuối tháng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm (Hải Thanh): 100 triệu đồng/Nợ TK Lãi phải trả: 0,393 triệu đồng/Có TK Tiền mặt: 100,393 triệu đồng"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Trong hồ sơ vay của KH A có một khoản vay đến hạn trả. Gốc: 50 triệu, lãi đã tính cộng dồn dự thu: 4 triệu. KH A không trả được nợ, NHTM A đánh giá khoản vay này cần chuyển sang theo dõi ở nhóm 3. NHTM A hạch toán",
+    "answer": "Nợ TK Nợ cho vay quá hạn (nhóm nợ dứoi tiêu chuẩn) 50tr/Có TK Nợ cho vay trong hạn 50tr và Nợ TK Chi phí TD khác 4tr/Có TK Lãi phải thu từ cho vay 4tr/Đồng thời: Nhập TK Lãi cho vay chưa thu được bằng VND 4tr"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Vốn huy động của ngân hàng thương mại KHÔNG bao gồm:",
+    "answer": "Thặng dư vốn cổ phần;"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Ngân hàng thương mại trích lập dự phòng rủi ro tín dụng là để:",
+    "answer": "Hạn chế rủi ro tín dụng của khách hàng vay vốn"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Ngày 31/5/N, NHTM A hạch toán lãi phải trả dồn tích cho Tiền gửi kỳ hạn 3 tháng của Công ty N, số tiền 100tr, ngày gửi 15/4/N, lãi suất kỳ hạn 3 tháng là 0,3%/tháng như sau",
+    "answer": "Nợ TK Chi phí trả lãi tiền gửi: 0,31tr/Có TK Lãi phải trả đối với tiền gửi: 0,31tr"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Ngày 31/8/N, thông qua phiên bù trừ Ngân hàng thương mại A nhận được từ Ngân hàng thương mại B bảng kê nộp séc kèm tờ séc chuyển khoản, số tiền 25 triệu đồng. Tờ séc này Công ty T phát hành ngày 1/8/N. Ngân hàng thương mại A xử lý:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty T): 25 triệu đồng/Có TK Thanh toán bù trừ: 25 triệu đồng"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Thông thường, các ngân hàng thương mại có thể huy động vốn từ các nguồn:",
+    "answer": "Tiền gửi của tổ chức kinh tế và cá nhân; Tiền gửi tiết kiệm; Phát hành các giấy tờ có giá; Vốn vay Ngân hàng Nhà nước, vay các tổ chức tín dụng khác trong và ngoài nước."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Theo quy định hiện hành, các NHTM phải thực hiện phân loại nợ dựa vào mấy nhóm sau đây:",
+    "answer": "5 nhóm nợ"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được thông báo từ Ngân hàng thương mại V (cùng tham gia thanh toán bù trừ) về tờ séc chuyển khoản do Công ty H nộp vào trước đây, số tiền 30 triệu đồng, nhưng hiện trên tài khoản của người phát hành chỉ còn 20 triệu đồng. Ngân hàng thương mại A xử lý:",
+    "answer": "vào sổ theo dõi và gửi Thông báo này cho Công ty H./Nợ TK Chờ thanh toán: 20 triệu đồng/Có TK Tiền gửi thanh toán (Công ty H): 20 triệu đồng"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Tài khoản nào khác nhất trong số các tài khoản sau đây?",
+    "answer": "Dự phòng rủi ro."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Tiền gửi thanh toán của khách hàng là:",
+    "answer": "vốn nợ của ngân hàng."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Căn cứ vào hợp đồng tín dụng và chứng từ thanh toán cho Công ty A có TKTG tại NHTM A (cùng hệ thống), kế toán giải ngân cho Công ty B và chuyển thanh toán với số tiền là 40tr, thời hạn vay là 2 tháng, lãi suất cho vay là 1,5%/tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng VND (CT B) 40tr/Có TK Điều chuyển vốn 40tr"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Khi sử dụng dự phòng để xử lý rủi ro tín dụng, ngân hàng thương mại:",
+    "answer": "Không xóa nợ cho khách hàng"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Ngày 30/5/N, khách hàng A đến Ngân hàng thương mại A xin rút hết tiền trên sổ tiết kiệm không kỳ hạn, gốc ban đầu 10 triệu đồng, ngày gửi 15/4/N, lãi suất 0,3%/tháng. Biết ngân hàng quy định ngày tính lãi cho tất cả các khoản tiền gửi tiết kiệm không kỳ hạn là vào ngày cuối tháng, ngân hàng dự trả lãi vào cuối ngày cuối tháng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm không kỳ hạn: 10,015 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,03 triệu đồng/Có TK Tiền mặt: 10,045 triệu đồng"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "NHTM A kế toán dự phòng (DP) cuối quý 2 đối với nợ cho vay các tổ chức kinh tế và cá nhân trong nước: Tổng dự phòng đã trích tính đến cuối quý 1: 13 tỷ, trong đó có 8 tỷ dự phòng cụ thể. Trong tháng, ngân hàng đã xử lý 12 hợp đồng tín dụng đối với nợ nhóm 5. Số dự phòng đã sử dụng để bù đắp tổn thất là 4 tỷ, trong đó có 2,5 tỷ dự phòng cụ. Số dự phòng cụ thể đã hoàn nhập là 100 triệu đồng. Tổng dự phòng cần được trích theo trạng thái nợ ngày cuối cùng của quý 2 là 15 tỷ, trong đó có 11 tỷ dự phòng cụ thể. NHTM A hạch toán:",
+    "answer": "Nợ TK Chi DP nợ phải thu khó đòi 6,1 tỷ /Có TK DP cụ thể 5,6 tỷ/Có TK DP chung 0,5 tỷ"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được Lệnh chuyển tiền từ Ngân hàng thương mại E, nội dung thanh toán séc chuyển khoản 70 triệu đồng. Séc này do Công ty A nộp vào trước đây. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Điều chuyển vốn: 70 triệu đồng/Có TK Tiền gửi thanh toán (Công ty A): 70 triệu đồng"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Hoạt động KHÔNG giúp ngân hàng thương mại tăng nguồn vốn huy động là:",
+    "answer": "Phát hành thẻ tín dụng"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Căn cứ vào hợp đồng tín dụng, kế toán đã lập phiếu chi để giải ngân bằng tiền mặt cho bà Lan là 60tr, thời hạn vay 6 tháng, lãi suất 1%//tháng . TS cầm cố là một tín phiếu kho bạc có mệnh giá là 100tr. Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng đồng VN (bà Lan) 60tr/Có TK Tiền mặt 60tr/Đồng thời: Nhập TK TS thế chấp cầm cố của KH. 100tr"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Hình thức huy động vốn thường xuyên nhất của ngân hàng là:",
+    "answer": "Nhận tiền gửi"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Hạch toán nội bảng khác hạch toán ngoại bảng như thế nào?",
+    "answer": "Hạch toán nội bảng là hạch toán kép, 2 vế, số liệu phản ánh trong cân đối kế toán; hạch toán ngoại bảng là hạch toán đơn, ghi chép nhập, xuất, số liệu ngoài bảng cân đối kế toán."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "NHTM A (chi nhánh Hà nội) giải quyết cho Công ty CP H vay 50 triệu đồng, thời hạn 12 tháng, lãi suất 0,92%/tháng, để thanh toán bằng UNC cho XN D có tài khoản tiền gửi tại NHTM D khác hệ thống (chi nhánh Cần Thơ). NHTM A hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng VND (CtyCP H) 50 triệu/Có TK Thu hộ, chi hộ 50 triệu"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Đặc điểm nào của kế toán ngân hàng đảm bảo an toàn vốn cho các doanh nghiệp?",
+    "answer": "Chính xác cao. Không ảnh hưởng đến bên chi trả và bên thụ hưởng."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Dự phòng chung được xác định như thế nào?",
+    "answer": "0,75% tổng dư nợ từ nhóm 1 đến nhóm 4"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "NHTM trích lập dự phòng RRTD khi nào?",
+    "answer": "Trước khi tổn thất xảy ra"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Ngày 20/10/N, bà Tư nộp 100 kỳ phiếu, kỳ hạn 6 tháng, mệnh giá 5 triệu đồng, trả lãi trước, lãi suất 8,5%/năm. Biết ngân hàng đã hạch toán phân bổ hết số tiền lãi. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Mệnh giá giấy tờ có giá: 500 triệu đồng/Có TK Tiền mặt: 500 triệu đồng"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được từ Công ty H bộ UNC trích tài khoản tiền gửi 12 triệu đồng để thanh toán tiền hàng cho Nhà máy S có tài khoản tiền gửi tại Ngân hàng thương mại S cùng tham gia thanh toán bù trừ. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty H): 12 triệu đồng/Có TK Thanh toán bù trừ: 12 triệu đồng"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Ngày 20/3/Y, bà Lan Anh nộp tiền mặt vào để mua 1.000 kỳ phiếu do ngân hàng phát hành, thời hạn 3 tháng, lãi suất 13%/năm, trả lãi trước, mệnh giá 1 triệu đồng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 966,78 triệu đồng/Nợ TK Chi phí lãi trả trước chờ phân bổ: 33,22 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 1.000 triệu đồng"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Thời hạn xuất trình của tờ séc là:",
+    "answer": "30 ngày theo lịch, kể từ ngày ký phát đến ngày tờ séc đó được xuất trình tại địa điểm thanh toán."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Tài khoản nào khác nhất trong số các tài khoản sau đây?",
+    "answer": "Lãi phải thu."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Trong hồ sơ vay của KH Hà có một khoản vay đến hạn trả. Gốc: 100 triệu, lãi đã tính cộng dồn dự thu: 10 triệu. KH Hà không trả được nợ, NHTM A đánh giá khoản vay này cần chuyển sang theo dõi ở nhóm 2. NHTM A hạch toán:",
+    "answer": "Nợ TK Nợ cho vay quá hạn (nhóm nợ cần chú ý) 100tr/Có TK Nợ cho vay trong hạn 100tr và Nợ TK Chi phí TD khác 10tr/Có TK Lãi phải thu từ cho vay 10tr/Đồng thời: Nhập TK Lãi cho vay chưa thu được bằng VND 10tr"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Để xác định số dự phòng chung cần trích lập, các NHTM căn cứ vào tỷ lệ trích lập dự phòng chung nào sau đấy?",
+    "answer": "0,75%"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Thời hạn thanh toán của tờ séc là:",
+    "answer": "06 tháng kể từ ngày ký phát với điều kiện sau 30 ngày (kể từ ngày ký phát) người ký phát không có thông báo đình chỉ thanh toán đối với tờ séc đó."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Tài khoản tài sản của ngân hàng là:",
+    "answer": "TK “Tài sản cố định”."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Tài khoản nào khác nhất trong số các tài khoản sau đây?",
+    "answer": "Chi phí dự phòng."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được bộ UNT của Công ty G, 20 triệu đồng đòi tiền điện của Công ty H có tài khoản tại Ngân hàng thương mại N (cùng hệ thống ngân hàng thương mại). Ngân hàng thương mại A xử lý:",
+    "answer": "gửi bộ UNT sang Ngân hàng thương mại N."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được tờ séc chuyển khoản cùng bảng kê nộp séc do người thụ hưởng nộp vào, số tiền 12 triệu đồng nhưng số dư trên tài khoản tiền gửi của người trả tiền chỉ là 10 triệu đồng. Ngân hàng thương mại A xử lý:",
+    "answer": "không thanh toán, đợi khi tài khoản tiền gửi của người trả tiền đủ tiền."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Phương pháp hạch toán trả lãi vốn huy động của các ngân hàng thương mại là:",
+    "answer": "Dự chi/Dự trả."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Trong ngành ngân hàng, ở mỗi pháp nhân ngân hàng có thể tồn tại mô hình tổ chức bộ máy kế toán nào sau đây?",
+    "answer": "Tùy từng trường hợp cụ thể (thường phụ thuộc vào từng thời kỳ phát triển)."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "KH D nộp 33tr để thanh toán nợ vay và lãi vay của một HĐTD đến hạn thanh toán. Số tiền vay là 30tr, lãi cho vay là 3 tr, thời hạn cho vay là 6 tháng. Trước đó NH đã dự thu toàn bộ số lãi cho vay đủ tiêu chuẩn trên. Kế toán hạch toán:",
+    "answer": "Nợ TK Tiền mặt 33tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND 30tr/Có TK Lãi phải thu từ cho vay 3tr"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Nội dung kiểm soát chứng từ là:",
+    "answer": "kiểm tra tính hợp lệ, hợp pháp của chứng từ; kiểm tra dấu và chữ ký của các bên có liên quan."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Ngày 20/7/N, ông Dương đến Ngân hàng thương mại A gửi tiền tiết kiệm kỳ hạn 6 tháng, số tiền 22 triệu đồng, lãi suất 0,5%/ tháng. Ngân hàng thương mại hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 22 triệu đồng/Có TK Tiền gửi tiết kiệm (kỳ hạn 6 tháng): 22 triệu đồng"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Vốn mà ngân hàng huy động từ phát hành giấy tờ có giá là vốn:",
+    "answer": "ngắn hạn và dài hạn."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Khi một khoản vay NH đã tính và hạch toán dự thu đến hạn mà khách hàng không trả được nợ, phải chuyển sang nhóm nợ quá hạn, kế toán NH phải hạch toán trên các TK sau, loại trừ:",
+    "answer": "TK Thu lãi cho vay"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Trật tự đúng của các tài khoản trong hệ thống tài khoản hiện hành của ngân hàng thương mại Việt Nam là:",
+    "answer": "Tiền gửi thanh toán tại ngân hàng nhà nước> Chứng khoán kinh doanh > Cho vay> Tiền gửi khách hàng"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Ngân hàng thương mại A nhận được Lệnh chuyển tiền từ Hội sở chính của mình, nội dung thanh toán một UNC do người trả tiền có tài khoản tại Ngân hàng thương mại N (khác hệ thống, không tham gia thanh toán bù trừ) thanh toán cho người thụ hưởng là Công ty H, số tiền 120 triệu đồng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Thu hộ, chi hộ: 120 triệu đồng/Có TK Tiền gửi thanh toán (Công ty H): 120 triệu đồng"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Ngày 27/9/N, Hợp tác xã H nộp vào Ngân hàng thương mại A tờ SCK cùng bảng kê nộp séc, số tiền 22 triệu đồng, do Xí nghiệp 2 có tài khoản tại Ngân hàng thương mại C (cùng tham gia thanh toán bù trừ hàng ngày) ký phát ngày 25/3/N. Ngân hàng thương mại A xử lý:",
+    "answer": "không thanh toán vì quá thời hạn thanh toán của tờ séc."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Căn cứ vào hợp đồng tín dụng và phiếu chi tiền mặt kèm CMND, kế toán giải ngân cho KH A với số tiền là 50tr, thời hạn vay là 6 tháng, lãi suất cho vay là 1,8%/tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng VND (KH A) 50tr/Có TK Tiền mặt 50tr"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Vốn nợ của ngân hàng thương mại bao gồm:",
+    "answer": "Tiền gửi của tổ chức kinh tế; Tiền gửi tiết kiệm; Giấy tờ có giá; Đi vay Ngân hàng Nhà nước và các tổ chức tín dụng khác; Một số nguồn khác."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Khi dự phòng cụ thể KHÔNG đủ bù đắp tổn thất tín dụng, ngân hàng thương mại sẽ:",
+    "answer": "Tiếp tục sử dụng dự phòng chung để bù đắp"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Ngày 15/3/Y, ông Nguyễn Thành Nam nộp CMND kèm sổ tiết kiệm kỳ hạn 6 tháng mở ngày 15/9/Y-1, số tiền 80 triệu đồng, lãi suất 12%/năm, rút gốc và lãi khi đáo hạn. Ông Nam đề nghị rút toàn bộ gốc và lãi bằng tiền mặt. Ngân hàng đã dự trả toàn bộ số tiền lãi. Kế toán hạch toán",
+    "answer": "Nợ TK Tiền gửi tiết kiệm (ông Nam): 80 triệu đồng/Nợ TK Lãi phải trả: 4,83 triệu đồng/Có TK Tiền mặt: 84,83 triệu đồng"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Trong hạch toán kế toán thanh toán qua ngân hàng, nguyên tắc nào quan trọng nhất?",
+    "answer": "Ghi nợ trước, Có sau; thực hiện nguyên tắc có tiền thì mới được chi trả"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Theo hệ thống Tài khoản kế toán các NHTM hiện hành, các TK phản ánh dự phòng rủi ro tín dụng được bố trí vào loại 2, thích hợp với các phương thức cho vay, vậy số dư trên các Tk dự phòng rủi ro tín dụng là số dư:",
+    "answer": "Có"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Nguyên tắc nào của kế toán ngân hàng đảm bảo cho sự an toàn vốn cho ngân hàng?",
+    "answer": "Ghi nợ trước, có sau."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Nợ xấu là:",
+    "answer": "Nợ có khả năng mất vốn, nợ nghi ngờ, nợ dưới tiêu chuẩn"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Hình thức thanh toán cho phép người sử dụng “tiêu tiền trước, trả tiền sau” là:",
+    "answer": "Thanh toán bằng thẻ tín dụng"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Nguồn vốn huy động từ tiền gửi:",
+    "answer": "chiếm tỷ trọng lớn trong tổng nguồn vốn."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Ngày 21/10/N, bà Nguyễn Xuân Lan đến yêu cầu ngân hàng yêu cầu chuyển từ tài khoản tiết kiệm không kỳ hạn sang TK tiết kiệm kỳ hạn 3 tháng, số tiền 200 triệu đồng, lãi suất 0,8%/tháng. Sổ tiết kiệm không kỳ hạn ghi ngày gửi là 12/9/N, lãi suất 0,2%/tháng. Toàn bộ số tiền lãi khách hàng nhận bằng tiền mặt. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm không kỳ hạn (bà Lan): 200 triệu đồng/Có TK Tiền gửi tiết kiệm kỳ hạn 3 tháng (bà Lan): 200 triệu đồng Và Nợ TK Tiền gửi tiết kiệm không kỳ hạn (bà Lan): 0,24 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,28 triệu đồng/Có TK Tiền mặt: 0,52 triệu đồng"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Thời hạn xuất trình của tờ séc là:",
+    "answer": "30 ngày theo lịch, kể từ ngày ký phát đến ngày tờ séc đó được xuất trình tại địa điểm thanh toán."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Lãi phải thu so với lãi dự thu khi NH dự thu lãi hàng tháng và KH đến trả nợ đúng hạn sẽ như thế nào?",
+    "answer": "có thể bằng hoặc nhỏ hơn"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Ngày 25/6/J, ngân hàng thanh toán bằng tiền mặt cho một số kỳ phiếu phát hành theo mệnh giá, trả lãi trước đã đến hạn thanh toán. Tổng mệnh giá là 3.000 triệu đồng, lãi suất 10%/năm, kỳ hạn 6 tháng. Biết ngân hàng đã phân bổ hết lãi trả trước vào chi phí. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Mệnh giá giấy tờ có giá: 3.000 triệu đồng/Có TK Tiền mặt: 3.000 triệu đồng"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Trong các loại séc dưới đây, loại séc nào có thể là séc phát hành quá số dư?",
+    "answer": "Séc chuyển khoản."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Ngày 31/5/N, Ngân hàng thương mại A hạch toán lãi phải trả dồn tích cho tiền gửi kỳ hạn 3 tháng của Công ty N, số tiền 100 triệu đồng, ngày gửi 15/4/N, lãi suất kỳ hạn 3 tháng là 0,3%/tháng như sau:",
+    "answer": "Nợ TK Chi phí trả lãi tiền gửi: 0,31 triệu đồng/Có TK Lãi phải trả đối với tiền gửi: 0,31 triệu đồng"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Tài khoản nào khác nhất trong số các tài khoản sau đây?",
+    "answer": "Lãi phải thu."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Ngày 20/3/Y, bà Lan Anh nộp tiền mặt vào để mua 1.000 kỳ phiếu do ngân hàng phát hành, thời hạn 3 tháng, lãi suất 13%/năm, trả lãi trước, mệnh giá 1 triệu đồng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 966,78 triệu đồng/Nợ TK Chi phí lãi trả trước chờ phân bổ: 33,22 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 1.000 triệu đồng"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Hoạt động tín dụng của NHTM là quan hệ nào sau đây?",
+    "answer": "Quan hệ tín dụng do NHTM cấp cho khách hàng"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được Lệnh chuyển tiền từ Ngân hàng thương mại E, nội dung thanh toán séc chuyển khoản 70 triệu đồng. Séc này do Công ty A nộp vào trước đây. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Điều chuyển vốn: 70 triệu đồng/Có TK Tiền gửi thanh toán (Công ty A): 70 triệu đồng"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Dự phòng chung được xác định như thế nào?",
+    "answer": "0,75% tổng dư nợ từ nhóm 1 đến nhóm 4"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Khi một khoản vay NH đã tính và hạch toán dự thu đến hạn mà khách hàng không trả được nợ, phải chuyển sang nhóm nợ quá hạn, kế toán NH phải hạch toán trên các TK sau, loại trừ:",
+    "answer": "TK Thu lãi cho vay"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Trong hồ sơ vay của KH A có một khoản vay đến hạn trả. Gốc: 50 triệu, lãi đã tính cộng dồn dự thu: 4 triệu. KH A không trả được nợ, NHTM A đánh giá khoản vay này cần chuyển sang theo dõi ở nhóm 3. NHTM A hạch toán",
+    "answer": "Nợ TK Nợ cho vay quá hạn (nhóm nợ dứoi tiêu chuẩn) 50tr/Có TK Nợ cho vay trong hạn 50tr và Nợ TK Chi phí TD khác 4tr/Có TK Lãi phải thu từ cho vay 4tr/Đồng thời: Nhập TK Lãi cho vay chưa thu được bằng VND 4tr"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Hệ thống tài khoản kế toán của ngân hàng thương mại bao gồm:",
+    "answer": "tài khoản tài sản, tài khoản nguồn vốn và tài khoản lưỡng tính."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Chứng từ ghi sổ trong kế toán cho vay gồm những gì?",
+    "answer": "Séc tiền mặt, séc chuyển khoản, uỷ nhiệm chi, uỷ nhiệm thu, giấy mở thư tín dụng."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "NHTM trích lập dự phòng RRTD khi nào?",
+    "answer": "Trước khi tổn thất xảy ra"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Tài khoản tài sản của ngân hàng là:",
+    "answer": "TK “Tài sản cố định”."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "NHTM A (chi nhánh Hà nội) giải quyết cho Công ty CP H vay 50 triệu đồng, thời hạn 12 tháng, lãi suất 0,92%/tháng, để thanh toán bằng UNC cho XN D có tài khoản tiền gửi tại NHTM D khác hệ thống (chi nhánh Cần Thơ). NHTM A hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng VND (CtyCP H) 50 triệu/Có TK Thu hộ, chi hộ 50 triệu"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Chứng từ gốc trong kế toán cho vay gồm những chứng từ gì?",
+    "answer": "Giấy đề nghị vay vốn, giấy nhận nợ."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Theo quy định hiện hành, các NHTM phải thực hiện phân loại nợ dựa vào mấy nhóm sau đây:",
+    "answer": "5 nhóm nợ"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "NHTM A kế toán dự phòng (DP) cuối quý 2 đối với nợ cho vay các tổ chức kinh tế và cá nhân trong nước: Tổng dự phòng đã trích tính đến cuối quý 1: 13 tỷ, trong đó có 8 tỷ dự phòng cụ thể. Trong tháng, ngân hàng đã xử lý 12 hợp đồng tín dụng đối với nợ nhóm 5. Số dự phòng đã sử dụng để bù đắp tổn thất là 4 tỷ, trong đó có 2,5 tỷ dự phòng cụ. Số dự phòng cụ thể đã hoàn nhập là 100 triệu đồng. Tổng dự phòng cần được trích theo trạng thái nợ ngày cuối cùng của quý 2 là 15 tỷ, trong đó có 11 tỷ dự phòng cụ thể. NHTM A hạch toán:",
+    "answer": "Nợ TK Chi DP nợ phải thu khó đòi 6,1 tỷ /Có TK DP cụ thể 5,6 tỷ/Có TK DP chung 0,5 tỷ"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Ngân hàng thương mại A phát hành thêm trái phiếu kỳ hạn 2 năm, trả lãi trước, lãi suất 8%/năm, số lượng 800 trái phiếu, mệnh giá 5 triệu đồng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền mặt…: 3351,11 triệu đồng/Nợ TK Chi phí chờ phân bổ: 648,89 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 4000 triệu đồng"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Sau khi hợp đồng tín dụng được ký kết, Công ty Tiến Đạt nộp UNC với số tiền 500tr đề nghị giải ngân tiền vay để thanh toán tiền hàng hóa cho Công ty Vĩnh Hòa (có TK tại NHTM khác hệ thống khác tỉnh thành phố). Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay bằng đồng VN (Cty Tiến Đạt) 500tr/Có TK thu hộ, chi hộ 500tr"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Khách hàng A đến Ngân hàng B mua kỳ phiếu với số tiền là 260 triệu đồng. Khách hàng yêu cầu trích tài khoản tiền gửi thanh toán của mình để thanh toán. Khi hoàn thành hạch toán nghiệp vụ trên, nguồn vốn của Ngân hàng B sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Khi phân nhóm nợ, các món nợ được xếp vào nhóm nợ nào?",
+    "answer": "Được xếp vào 1 trong 5 nhóm nợ tương ứng"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Sự kiện nào dưới đây KHÔNG phải là đối tượng của kế toán ngân hàng?",
+    "answer": "Ký hợp đồng tín dụng với khách hàng."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được tờ séc chuyển khoản cùng bảng kê nộp séc do người thụ hưởng nộp vào, số tiền 12 triệu đồng nhưng số dư trên tài khoản tiền gửi của người trả tiền chỉ là 10 triệu đồng. Ngân hàng thương mại A xử lý:",
+    "answer": "không thanh toán, đợi khi tài khoản tiền gửi của người trả tiền đủ tiền."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Vốn mà ngân hàng huy động từ phát hành giấy tờ có giá là vốn:",
+    "answer": "ngắn hạn và dài hạn."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Trong ngành ngân hàng, ở mỗi pháp nhân ngân hàng có thể tồn tại mô hình tổ chức bộ máy kế toán nào sau đây?",
+    "answer": "Tùy từng trường hợp cụ thể (thường phụ thuộc vào từng thời kỳ phát triển)."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Công ty K nộp vào Ngân hàng thương mại A bộ UNT và hoá đơn bán hàng đòi tiền hàng hoá đã giao cho Công ty D có TK tại Ngân hàng thương mại H (cùng tham gia thanh toán bù trừ), số tiền 12 triệu đồng. Ngân hàng thương mại A hạch toán:",
+    "answer": "vào sổ theo dõi, chuyển bộ UNT cho Ngân hàng thương mại H."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Chứng từ kế toán ngân hàng bao gồm:",
+    "answer": "chứng từ ghi sổ, chứng từ gốc và chứng từ gốc kiêm chứng từ ghi sổ."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Séc phát hành quá số dư là:",
+    "answer": "khi xuất trình trong thời hạn thanh toán của séc mà số tiền trên tài khoản của người ký phát không đủ để thanh toán toàn bộ số tiền trên tờ séc đó."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Khi phát hành giấy tờ có giá, ngân hàng thương mại ghi nhận nghĩa vụ nợ phải trả đối với khách hàng:",
+    "answer": "Theo mệnh giá"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Hạch toán nội bảng khác hạch toán ngoại bảng như thế nào?",
+    "answer": "Hạch toán nội bảng là hạch toán kép, 2 vế, số liệu phản ánh trong cân đối kế toán; hạch toán ngoại bảng là hạch toán đơn, ghi chép nhập, xuất, số liệu ngoài bảng cân đối kế toán."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Ngày 30/3/Y, Bà Hải Thanh xuất trình CMND cùng sổ tiết kiệm có kỳ hạn 4 tháng đề nghị rút toàn bộ tiền. Số tiền gửi là 100 triệu đồng, lãi suất là 10%/năm, ngày gửi là 30/1/Y. Biết lãi suất tiền gửi tiết kiệm không kỳ hạn áp dụng trong ngày là 2,4%/năm; ngân hàng dự trả lãi vào ngày cuối tháng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm (Hải Thanh): 100 triệu đồng/Nợ TK Lãi phải trả: 0,393 triệu đồng/Có TK Tiền mặt: 100,393 triệu đồng"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Căn cứ vào hợp đồng tín dụng và chứng từ thanh toán cho Công ty A có TKTG tại NHTM A (cùng hệ thống), kế toán giải ngân cho Công ty B và chuyển thanh toán với số tiền là 40tr, thời hạn vay là 2 tháng, lãi suất cho vay là 1,5%/tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng VND (CT B) 40tr/Có TK Điều chuyển vốn 40tr"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được bộ UNT của Công ty G, 20 triệu đồng đòi tiền điện của Công ty H có tài khoản tại Ngân hàng thương mại N (cùng hệ thống ngân hàng thương mại). Ngân hàng thương mại A xử lý:",
+    "answer": "gửi bộ UNT sang Ngân hàng thương mại N."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Tổ chức bộ máy kế toán trong các ngân hàng thương mại ở Việt Nam hiện nay là:",
+    "answer": "mô hình kế toán tập trung kết hợp phân tán."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Tài khoản nguồn vốn của ngân hàng là:",
+    "answer": "TK “Lãi phải trả”."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "KH D nộp 33tr để thanh toán nợ vay và lãi vay của một HĐTD đến hạn thanh toán. Số tiền vay là 30tr, lãi cho vay là 3 tr, thời hạn cho vay là 6 tháng. Trước đó NH đã dự thu toàn bộ số lãi cho vay đủ tiêu chuẩn trên. Kế toán hạch toán:",
+    "answer": "Nợ TK Tiền mặt 33tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND 30tr/Có TK Lãi phải thu từ cho vay 3tr"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Nguyên tắc hạch toán thu lãi cho vay của các NHTM là phương pháp nào?",
+    "answer": "Dự thu đối với nợ tốt"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Tổ thanh toán bù trừ của Ngân hàng thương mại A mang về tờ séc chuyển khoản (cùng Bảng kê nộp séc) do Công ty B phát hành để mua hàng của Công ty Cổ phần 1 có tài khoản tiền gửi tại Ngân hàng thương mại C. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty B)/Có TK Thanh toán bù trừ"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Chứng từ nào sau đây là chứng từ ghi sổ?",
+    "answer": "Phiếu chi tiền mặt."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được Lệnh chuyển tiền về tờ séc chuyển khoản. Tờ séc này do Công ty A nộp vào 1 ngày trước đây. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Điều chuyển vốn/Có TK Tiền gửi thanh toán (Công ty A)"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Ngày 30/5/N, khách hàng A đến Ngân hàng thương mại A xin rút hết tiền trên sổ tiết kiệm không kỳ hạn, gốc ban đầu 10 triệu đồng, ngày gửi 15/4/N, lãi suất 0,3%/tháng. Biết ngân hàng quy định ngày tính lãi cho tất cả các khoản tiền gửi tiết kiệm không kỳ hạn là vào ngày cuối tháng, ngân hàng dự trả lãi vào cuối ngày cuối tháng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm không kỳ hạn: 10,015 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,03 triệu đồng/Có TK Tiền mặt: 10,045 triệu đồng"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Khách hàng có thể thực hiện chuyển tiền qua:",
+    "answer": "ATM, trực tiếp tại chi nhánh ngân hàng và qua hệ thống Internet banking"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được Bảng kê thanh toán bù trừ về bộ UNC từ Ngân hàng thương mại D (cùng tham gia thanh toán bù trừ), số tiền là 120 triệu đồng. Chủ tài khoản là Công ty may HA. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Thanh toán bự trừ: 120 triệu đồng/ Có TK Tiền gửi thanh toán (Công ty may HA): 120 triệu đồng"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Ngày 20/7/N, ông Dương đến Ngân hàng thương mại A gửi tiền tiết kiệm kỳ hạn 6 tháng, số tiền 22 triệu đồng, lãi suất 0,5%/ tháng. Ngân hàng thương mại hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 22 triệu đồng/Có TK Tiền gửi tiết kiệm (kỳ hạn 6 tháng): 22 triệu đồng"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Hình thức huy động vốn thường xuyên nhất của ngân hàng là:",
+    "answer": "Nhận tiền gửi"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Hiện nay, các ngân hàng thương mại Việt Nam có các phương thức thanh toán vốn sau:",
+    "answer": "phương thức thanh toán liên chi nhánh ngân hàng nội bộ trong từng hệ thống; phương thức thanh toán bù trừ; phương thức thanh toán liên ngân hàng."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Sự giống nhau của tiền gửi tiết kiệm có kỳ hạn và kỳ phiếu ngân hàng là:",
+    "answer": "Lãi có thể được hạch toán và thanh toán đầu kỳ, trong kỳ hoặc cuối kỳ tùy vào phương thức trả lãi"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Ngày 31/10/N, Công ty A lập UNC để thanh toán nợ và lãi vay của một HĐTD đến hạn thanh toán. Số tiền vay là 150tr, lãi suất cho vay là 1,5%/tháng, ngày vay 30/6/N. Biết NH dự thu đầu ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TKTGTT (CT A)159,225tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND 150tr/Có TK Lãi phải thu từ cho vay 9,225tr, Nợ TK Tiền mặt 159,225tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND. 150tr/Có TK Lãi phải thu từ cho vay 9,225tr"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Ngày 20/7/N, khách hàng H đến ngân hàng thương mại A nộp sổ tiền gửi tiết kiệm không kỳ hạn, số tiền 50 triệu đồng, ngày gửi 1/3/N, lãi suất 0,3%/tháng, xin tất toán như sau: chuyển số gốc 30 triệu đồng sang tiền gửi tiết kiệm kỳ hạn 9 tháng, số gốc còn lại và lãi xin rút bằng tiền mặt. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm không kỳ hạn (Khách hàng H): 50,608 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,101 triệu đồng/Có TK Tiền gửi tiết kiệm kỳ hạn 9 tháng (khách hàng H): 30 triệu đồng/Có TK Tiền mặt: 20,709 triệu đồng"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Theo hệ thống Tài khoản kế toán các NHTM hiện hành, các TK phản ánh dự phòng rủi ro tín dụng được bố trí vào loại 2, thích hợp với các phương thức cho vay, vậy số dư trên các Tk dự phòng rủi ro tín dụng là số dư:",
+    "answer": "Có"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Ngày 31/7/N, Ngân hàng thương mại A thanh toán một số chứng chỉ tiền gửi cho khách hàng bằng tiền mặt, tổng mệnh giá: 110 triệu đồng, ngày phát hành 5/4/N-2, kỳ hạn 2 năm, lãi suất 8,4%/năm, trả lãi định kỳ năm. Lãi định kỳ lần 1 đã thanh toán cho khách hàng. Ngân hàng dự trả vào đầu ngày cuối tháng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Mệnh giá giấy tờ có giá: 110 triệu đồng/Nợ TK Lãi phải trả đối với giấy tờ có giá: 9,368 triệu đồng/Có TK Tiền mặt: 119,368 triệu đồng"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Ngày 1/10/N, ngân hàng phát hành kỳ phiếu theo mệnh giá. Số kỳ phiếu đã phát hành thu bằng tiền mặt là 100.000, kỳ hạn 6 tháng, lãi suất 0,9%/tháng, trả lãi đáo hạn, mệnh giá 1 triệu đồng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 100.000 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 100.000 triệu đồng"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Ngày12/5/N, NH thu lãi cho vay bằng chuyển khoản đối với Công ty Hồng Hà. Số tiền vay là 500tr, lãi suất 1,2%/tháng, ngày vay 12/2/N, lãi trả vào ngày 12 hàng tháng bắt đầu từ tháng 3, gốc trả cuối kỳ. NH dự thu lãi vào ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TKTG thanh toán (Cty Hồng Hà) 6tr/Có TK Lãi phải thu từ cho vay 3,6tr/Có TK Thu lãi cho vay 2,4tr"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể đối với từng nhóm nợ lần lượt là:",
+    "answer": "0%; 5%; 20%; 50%; 100%"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Tài khoản nào khác nhất trong số các tài khoản sau đây?",
+    "answer": "Dự phòng rủi ro."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Vốn huy động của ngân hàng thương mại KHÔNG bao gồm:",
+    "answer": "Thặng dư vốn cổ phần;"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trong hồ sơ vay của KH Hà có một khoản vay đến hạn trả. Gốc: 100 triệu, lãi đã tính cộng dồn dự thu: 10 triệu. KH Hà không trả được nợ, NHTM A đánh giá khoản vay này cần chuyển sang theo dõi ở nhóm 2. NHTM A hạch toán:",
+    "answer": "Nợ TK Nợ cho vay quá hạn (nhóm nợ cần chú ý) 100tr/Có TK Nợ cho vay trong hạn 100tr và Nợ TK Chi phí TD khác 10tr/Có TK Lãi phải thu từ cho vay 10tr/Đồng thời: Nhập TK Lãi cho vay chưa thu được bằng VND 10tr"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Đặc điểm nào của kế toán ngân hàng đảm bảo an toàn vốn cho các doanh nghiệp?",
+    "answer": "Chính xác cao. Không ảnh hưởng đến bên chi trả và bên thụ hưởng."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Ngân hàng thương mại trích lập dự phòng rủi ro tín dụng là để:",
+    "answer": "Hạn chế rủi ro tín dụng của khách hàng vay vốn"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Hoạt động KHÔNG giúp ngân hàng thương mại tăng nguồn vốn huy động là:",
+    "answer": "Phát hành thẻ tín dụng"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Khi dự phòng cụ thể KHÔNG đủ bù đắp tổn thất tín dụng, ngân hàng thương mại sẽ:",
+    "answer": "Tiếp tục sử dụng dự phòng chung để bù đắp"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Ngày 27/9/N, Hợp tác xã H nộp vào Ngân hàng thương mại A tờ SCK cùng bảng kê nộp séc, số tiền 22 triệu đồng, do Xí nghiệp 2 có tài khoản tại Ngân hàng thương mại C (cùng tham gia thanh toán bù trừ hàng ngày) ký phát ngày 25/3/N. Ngân hàng thương mại A xử lý:",
+    "answer": "không thanh toán vì quá thời hạn thanh toán của tờ séc."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Tài khoản nào khác nhất trong số các tài khoản sau đây?",
+    "answer": "Chi phí dự phòng."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "NHTM A kế toán dự phòng (DP) cuối quý 2 đối với nợ cho vay các tổ chức kinh tế và cá nhân trong nước: Tổng dự phòng đã trích tính đến cuối quý 1: 13 tỷ, trong đó có 8 tỷ dự phòng cụ thể. Trong tháng, ngân hàng đã xử lý 10 hợp đồng tín dụng đối với nợ nhóm 5. Số dự phòng đã sử dụng để bù đắp tổn thất là 4 tỷ, trong đó có 2,5 tỷ dự phòng cụ. Số dự phòng cụ thể đã hoàn nhập là 100 triệu đồng. Tổng dự phòng cần được trích theo trạng thái nợ ngày cuối cùng của quý 2 là 14 tỷ, trong đó có 11 tỷ dự phòng cụ thể. NHTM A hạch toán:",
+    "answer": "Nợ TK Chi DP rủi ro nợ phải thu khó đòi 5,6tỷ/Có TK DP cụ thể 5,6tỷ/Và Nợ TK DP chung 0,5 tỷ/ Có TK Chi DP rủi ro nợ phải thu khó đòi 0,5 tỷ"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Ngày 31/5/N, NHTM A hạch toán lãi phải trả dồn tích cho Tiền gửi kỳ hạn 3 tháng của Công ty N, số tiền 100tr, ngày gửi 15/4/N, lãi suất kỳ hạn 3 tháng là 0,3%/tháng như sau",
+    "answer": "Nợ TK Chi phí trả lãi tiền gửi: 0,31tr/Có TK Lãi phải trả đối với tiền gửi: 0,31tr"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Vốn chủ sở hữu của ngân hàng thương mại bao gồm",
+    "answer": "Vốn của ngân hàng thương mại + Các quỹ + Chênh lệch đánh giá lại tài sản + Lợi nhuận chưa phân phối."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Ngày 20/7/N, ông Phan đến Ngân hàng thương mại A rút tiền tiết kiệm loại 6 tháng, số tiền gửi ban đầu 5 triệu đồng, ngày gửi 15/1/N, lãi suất 0,55%/tháng. Lãi suất tiền gửi tiết kiệm không kỳ hạn là 0,2%/tháng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm (kỳ hạn 6 tháng): 5,166 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,00172 triệu đồng/Có TK Tiền mặt: 5,16772 triệu đồng"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Căn cứ vào hợp đồng tín dụng và phiếu chi tiền mặt kèm CMND, kế toán giải ngân cho KH A với số tiền là 50tr, thời hạn vay là 6 tháng, lãi suất cho vay là 1,8%/tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng VND (KH A) 50tr/Có TK Tiền mặt 50tr"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Ngày 20/8/N, Ngân hàng thương mại A nhận được Lệnh chuyển tiền từ Ngân hàng thương mại H (cùng hệ thống), nội dung thanh toán UNT số tiền 25 triệu đồng. UNT này do Công ty A lập để đòi tiền Công ty C. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Điều chuyển vốn: 25 triệu đồng/Có TK Tiền gửi thanh toán (Công ty A): 25 triệu đồng"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Trong hạch toán kế toán thanh toán qua ngân hàng, nguyên tắc nào quan trọng nhất?",
+    "answer": "Ghi nợ trước, Có sau; thực hiện nguyên tắc có tiền thì mới được chi trả"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Ngày 15/3/Y, ông Nguyễn Thành Nam nộp CMND kèm sổ tiết kiệm kỳ hạn 6 tháng mở ngày 15/9/Y-1, số tiền 80 triệu đồng, lãi suất 12%/năm, rút gốc và lãi khi đáo hạn. Ông Nam đề nghị rút toàn bộ gốc và lãi bằng tiền mặt. Ngân hàng đã dự trả toàn bộ số tiền lãi. Kế toán hạch toán",
+    "answer": "Nợ TK Tiền gửi tiết kiệm (ông Nam): 80 triệu đồng/Nợ TK Lãi phải trả: 4,83 triệu đồng/Có TK Tiền mặt: 84,83 triệu đồng"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Nguyên tắc nào của kế toán ngân hàng đảm bảo cho sự an toàn vốn cho ngân hàng?",
+    "answer": "Ghi nợ trước, có sau."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Ngày 20/2/N, ngân hàng phát hành 2.000 kỳ phiếu có mệnh giá 2 triệu đồng, thu bằng tiền mặt, thời hạn 3 tháng, lãi suất 8%/năm. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền Mặt: 4.000 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 4.000 triệu đồng"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Ngân hàng kế toán dự phòng (DP) cuối quý 3 đối với nợ cho vay các tổ chức kinh tế và cá nhân trong nước:",
+    "answer": "Nợ TK Chi phí DP rủi ro nợ phải thu khó đòi 10,7 tỷ/Có TK DP cụ thể 9,2 tỷ/Có TK DP chung 1,5 tỷ"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Thông thường, các ngân hàng thương mại có thể huy động vốn từ các nguồn:",
+    "answer": "Tiền gửi của tổ chức kinh tế và cá nhân; Tiền gửi tiết kiệm; Phát hành các giấy tờ có giá; Vốn vay Ngân hàng Nhà nước, vay các tổ chức tín dụng khác trong và ngoài nước."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Trong hoạt động tín dụng, NHTM phải trích lập dự phòng gì?",
+    "answer": "Dự phòng rủi ro nợ phải thu khó đòi"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Công ty A nộp vào Ngân hàng thương mại A bộ UNT, số tiền 16 triệu đồng, đòi tiền hàng đã giao cho người mua là HTX V có tài khoản tại Ngân hàng thương mại V cùng hệ thống. Ngân hàng thương mại A hạch toán:",
+    "answer": "Ngân hàng thương mại A gửi bộ UNT sang Ngân hàng thương mại V: 16 triệu đồng."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Ngày 23/10/N, Khoản cho vay của khách hàng B kỳ hạn 9 tháng ngày vay 23/4/N, trả lãi theo định kỳ 3 tháng đã đến hạn thanh toán lãi lần 2. Gốc: 50tr; lãi suất: 1,2%/tháng. Khách hàng không trả lãi được. NH hạch toán lãi dự thu vào ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Chi phí tín dụng khác 1,38tr/ Có TK Lãi phải thu từ cho vay 1,38tr/Đồng thời: Nhập TK Lãi cho vay chưa thu được bằng VND 1,84tr"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Thanh toán qua các ngân hàng thương mại ở Việt Nam hiện nay gồm các thể thức nào?",
+    "answer": "Séc, uỷ nhiệm chi, uỷ nhiệm thu, thư tín dụng, thanh toán thẻ"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Nợ xấu là:",
+    "answer": "Nợ có khả năng mất vốn, nợ nghi ngờ, nợ dưới tiêu chuẩn"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Căn cứ vào hợp đồng tín dụng, kế toán đã lập phiếu chi để giải ngân bằng tiền mặt cho bà Lan là 60tr, thời hạn vay 6 tháng, lãi suất 1%//tháng . TS cầm cố là một tín phiếu kho bạc có mệnh giá là 100tr. Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng đồng VN (bà Lan) 60tr/Có TK Tiền mặt 60tr/Đồng thời: Nhập TK TS thế chấp cầm cố của KH. 100tr"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Ngân hàng thương mại A phát hành kỳ phiếu đợt 2 với 200 kỳ phiếu loại 1 năm, mệnh giá 1 kỳ phiếu là 1 triệu đồng, trả lãi sau, lãi suất 0,89%/tháng. Số tiền huy động thu bằng tiền mặt. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 200 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 200 triệu đồng"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Qua phiên thanh toán bù trừ, Ngân hàng thương mại A nhận được bộ UNT từ Ngân hàng thương mại H, số tiền 14 triệu đồng. Bộ UNT do Nhà máy 3 lập đòi tiền hàng hoá đã cung cấp cho Công ty A. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty A): 14 triệu đồng/Có TK Thanh toán bù trừ: 14 triệu đồng"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Séc được chấp nhận thanh toán trong phạm vi:",
+    "answer": "tuỳ quy định của từng ngân hàng."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Vốn nợ của ngân hàng thương mại bao gồm:",
+    "answer": "Tiền gửi của tổ chức kinh tế; Tiền gửi tiết kiệm; Giấy tờ có giá; Đi vay Ngân hàng Nhà nước và các tổ chức tín dụng khác; Một số nguồn khác."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Nội dung kiểm soát chứng từ là:",
+    "answer": "kiểm tra tính hợp lệ, hợp pháp của chứng từ; kiểm tra dấu và chữ ký của các bên có liên quan."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Để xác định số dự phòng chung cần trích lập, các NHTM căn cứ vào tỷ lệ trích lập dự phòng chung nào sau đấy?",
+    "answer": "0,75%"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được thông báo từ Ngân hàng thương mại V (cùng tham gia thanh toán bù trừ) về tờ séc chuyển khoản do Công ty H nộp vào trước đây, số tiền 30 triệu đồng, nhưng hiện trên tài khoản của người phát hành chỉ còn 20 triệu đồng. Ngân hàng thương mại A xử lý:",
+    "answer": "vào sổ theo dõi và gửi Thông báo này cho Công ty H./Nợ TK Chờ thanh toán: 20 triệu đồng/Có TK Tiền gửi thanh toán (Công ty H): 20 triệu đồng"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Thời hạn thanh toán của tờ séc là:",
+    "answer": "06 tháng kể từ ngày ký phát với điều kiện sau 30 ngày (kể từ ngày ký phát) người ký phát không có thông báo đình chỉ thanh toán đối với tờ séc đó."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Trật tự đúng của các tài khoản trong hệ thống tài khoản hiện hành của ngân hàng thương mại Việt Nam là:",
+    "answer": "Tiền gửi thanh toán tại ngân hàng nhà nước> Chứng khoán kinh doanh > Cho vay> Tiền gửi khách hàng"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Hiện nay ở Việt Nam có các hình thức thanh toán không dùng tiền mặt phổ biến nào sau đây?",
+    "answer": "Séc thanh toán; Uỷ nhiệm thu; Uỷ nhiệm chi; Thẻ thanh toán."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Bà Nguyễn Thị Tâm nộp 200 triệu đồng tiền mặt kèm CMND để gửi tiền tiết kiệm có kỳ hạn 3 tháng có dự thưởng, lãi suất 11%/năm. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 200 triệu đồng/Có TK Tiền gửi tiết kiệm (bà Tâm): 200 triệu đồng"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Các lý do phải kiểm soát chứng từ kế toán là:",
+    "answer": "thiếu hiểu biết về nguyên tắc lập chứng từ, sơ suất, nhầm lẫn và cố ý lập sai."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Ngày 30/11/N, Khách hàng D nộp tiền mặt để thanh toán nợ và lãi vay của một HĐTD đến hạn thanh toán. Số tiền vay là 180tr, lãi suất cho vay là 1,7%/tháng, ngày vay 30/6/N. Biết NH dự thu đầu ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Tiền mặt 195,606tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND 180tr/Có TK Lãi phải thu từ cho vay 15,606tr"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được từ Công ty H bộ UNC trích tài khoản tiền gửi 12 triệu đồng để thanh toán tiền hàng cho Nhà máy S có tài khoản tiền gửi tại Ngân hàng thương mại S cùng tham gia thanh toán bù trừ. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty H): 12 triệu đồng/Có TK Thanh toán bù trừ: 12 triệu đồng"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Ngày 31/3/N, NHTM A hạch toán lãi phải trả dồn tích cho tiền gửi kỳ hạn 2 tháng của Công ty N, số tiền 120 triệu đồng, ngày gửi 15/1/N, lãi suất kỳ hạn 2 tháng là 0,3%/tháng (Ngân hàng hạch toán dự trả lãi định kỳ vào ngày cuối tháng, lãi tính theo ngày thực tế). Bút toán hạch toán là:",
+    "answer": "Nợ TK Chi phí trả lãi tiền gửi: 0,372 triệu đồng/Có TK Lãi phải trả đối với tiền gửi: 0,372 triệu đồng"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Khi sử dụng dự phòng để xử lý rủi ro tín dụng, ngân hàng thương mại:",
+    "answer": "Không xóa nợ cho khách hàng"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Ngày 20/1/N, Ngân hàng thương mại A phát hành kỳ phiếu kỳ hạn 9 tháng với lãi suất 0,8%/tháng, mệnh giá 1 triệu đồng, trả lãi trước. Số kỳ phiếu đã phát hành là 30.000. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền mặt…: 27.824 triệu đồng/Nợ TK Chi phí chờ phân bổ: 2.176 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 30.000 triệu đồng"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Hình thức thanh toán cho phép người sử dụng “tiêu tiền trước, trả tiền sau” là:",
+    "answer": "Thanh toán bằng thẻ tín dụng"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Ngày 31/8/N, thông qua phiên bù trừ Ngân hàng thương mại A nhận được từ Ngân hàng thương mại B bảng kê nộp séc kèm tờ séc chuyển khoản, số tiền 25 triệu đồng. Tờ séc này Công ty T phát hành ngày 1/8/N. Ngân hàng thương mại A xử lý:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty T): 25 triệu đồng/Có TK Thanh toán bù trừ: 25 triệu đồng"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Phương pháp hạch toán trả lãi vốn huy động của các ngân hàng thương mại là:",
+    "answer": "Dự chi/Dự trả."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Ngày 20/10/N, bà Tư nộp 100 kỳ phiếu, kỳ hạn 6 tháng, mệnh giá 5 triệu đồng, trả lãi trước, lãi suất 8,5%/năm. Biết ngân hàng đã hạch toán phân bổ hết số tiền lãi. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Mệnh giá giấy tờ có giá: 500 triệu đồng/Có TK Tiền mặt: 500 triệu đồng"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Ông Nguyễn Nam nộp vào ngân hàng số tiền 50 triệu đồng kèm CMND đề nghị gửi tiết kiệm kỳ hạn 6 tháng, lãi suất tiền gửi tiết kiệm kỳ hạn 6 tháng là 12%/năm. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 50 triệu đồng/Có TK Tiền gửi tiết kiệm (ông Nam): 50 triệu đồng"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Khi xác định được số dự phòng cần trích trong nghiệp vụ tín dụng theo định kỳ, nếu số tiền cần trích nhỏ hơn số tiền đã trích, ngân hàng thương mại:",
+    "answer": "Thực hiện hoàn nhập dự phòng"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được Lệnh chuyển tiền từ Hội sở chính của mình, nội dung thanh toán một UNC do người trả tiền có tài khoản tại Ngân hàng thương mại N (khác hệ thống, không tham gia thanh toán bù trừ) thanh toán cho người thụ hưởng là Công ty H, số tiền 120 triệu đồng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Thu hộ, chi hộ: 120 triệu đồng/Có TK Tiền gửi thanh toán (Công ty H): 120 triệu đồng"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Tiền gửi thanh toán của khách hàng là:",
+    "answer": "vốn nợ của ngân hàng."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Chứng từ gốc trong kế toán cho vay gồm những chứng từ gì?",
+    "answer": "Giấy đề nghị vay vốn, giấy nhận nợ."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Tài khoản nguồn vốn của ngân hàng là:",
+    "answer": "TK “Lãi phải trả”."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Ngày 20/7/N, ông Phan đến Ngân hàng thương mại A rút tiền tiết kiệm loại 6 tháng, số tiền gửi ban đầu 5 triệu đồng, ngày gửi 15/1/N, lãi suất 0,55%/tháng. Lãi suất tiền gửi tiết kiệm không kỳ hạn là 0,2%/tháng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm (kỳ hạn 6 tháng): 5,166 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,00172 triệu đồng/Có TK Tiền mặt: 5,16772 triệu đồng"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được Lệnh chuyển tiền từ Ngân hàng thương mại E, nội dung thanh toán séc chuyển khoản 70 triệu đồng. Séc này do Công ty A nộp vào trước đây. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Điều chuyển vốn: 70 triệu đồng/Có TK Tiền gửi thanh toán (Công ty A): 70 triệu đồng"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Hệ thống tài khoản kế toán của ngân hàng thương mại bao gồm:",
+    "answer": "tài khoản tài sản, tài khoản nguồn vốn và tài khoản lưỡng tính."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Trong các loại séc dưới đây, loại séc nào có thể là séc phát hành quá số dư?",
+    "answer": "Séc chuyển khoản."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Ngày 31/5/N, Ngân hàng thương mại A hạch toán lãi phải trả dồn tích cho tiền gửi kỳ hạn 3 tháng của Công ty N, số tiền 100 triệu đồng, ngày gửi 15/4/N, lãi suất kỳ hạn 3 tháng là 0,3%/tháng như sau:",
+    "answer": "Nợ TK Chi phí trả lãi tiền gửi: 0,31 triệu đồng/Có TK Lãi phải trả đối với tiền gửi: 0,31 triệu đồng"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Căn cứ vào hợp đồng tín dụng và chứng từ thanh toán cho Công ty A có TKTG tại NHTM A (cùng hệ thống), kế toán giải ngân cho Công ty B và chuyển thanh toán với số tiền là 40tr, thời hạn vay là 2 tháng, lãi suất cho vay là 1,5%/tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng VND (CT B) 40tr/Có TK Điều chuyển vốn 40tr"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Vốn chủ sở hữu của ngân hàng thương mại bao gồm",
+    "answer": "Vốn của ngân hàng thương mại + Các quỹ + Chênh lệch đánh giá lại tài sản + Lợi nhuận chưa phân phối."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Chứng từ nào sau đây là chứng từ ghi sổ?",
+    "answer": "Phiếu chi tiền mặt."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Nguyên tắc nào của kế toán ngân hàng đảm bảo cho sự an toàn vốn cho ngân hàng?",
+    "answer": "Ghi nợ trước, có sau."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Ngày 27/9/N, Hợp tác xã H nộp vào Ngân hàng thương mại A tờ SCK cùng bảng kê nộp séc, số tiền 22 triệu đồng, do Xí nghiệp 2 có tài khoản tại Ngân hàng thương mại C (cùng tham gia thanh toán bù trừ hàng ngày) ký phát ngày 25/3/N. Ngân hàng thương mại A xử lý:",
+    "answer": "không thanh toán vì quá thời hạn thanh toán của tờ séc."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Hạch toán nội bảng khác hạch toán ngoại bảng như thế nào?",
+    "answer": "Hạch toán nội bảng là hạch toán kép, 2 vế, số liệu phản ánh trong cân đối kế toán; hạch toán ngoại bảng là hạch toán đơn, ghi chép nhập, xuất, số liệu ngoài bảng cân đối kế toán."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Tài khoản nào khác nhất trong số các tài khoản sau đây?",
+    "answer": "Chi phí dự phòng."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Ngày 20/1/N, Ngân hàng thương mại A phát hành kỳ phiếu kỳ hạn 9 tháng với lãi suất 0,8%/tháng, mệnh giá 1 triệu đồng, trả lãi trước. Số kỳ phiếu đã phát hành là 30.000. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền mặt…: 27.824 triệu đồng/Nợ TK Chi phí chờ phân bổ: 2.176 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 30.000 triệu đồng"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được Lệnh chuyển tiền về tờ séc chuyển khoản. Tờ séc này do Công ty A nộp vào 1 ngày trước đây. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Điều chuyển vốn/Có TK Tiền gửi thanh toán (Công ty A)"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Tài khoản nào khác nhất trong số các tài khoản sau đây?",
+    "answer": "Dự phòng rủi ro."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Lãi phải thu so với lãi dự thu khi NH dự thu lãi hàng tháng và KH đến trả nợ đúng hạn sẽ như thế nào?",
+    "answer": "có thể bằng hoặc nhỏ hơn"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Ngày 21/10/N, bà Nguyễn Xuân Lan đến yêu cầu ngân hàng yêu cầu chuyển từ tài khoản tiết kiệm không kỳ hạn sang TK tiết kiệm kỳ hạn 3 tháng, số tiền 200 triệu đồng, lãi suất 0,8%/tháng. Sổ tiết kiệm không kỳ hạn ghi ngày gửi là 12/9/N, lãi suất 0,2%/tháng. Toàn bộ số tiền lãi khách hàng nhận bằng tiền mặt. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm không kỳ hạn (bà Lan): 200 triệu đồng/Có TK Tiền gửi tiết kiệm kỳ hạn 3 tháng (bà Lan): 200 triệu đồng Và Nợ TK Tiền gửi tiết kiệm không kỳ hạn (bà Lan): 0,24 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,28 triệu đồng/Có TK Tiền mặt: 0,52 triệu đồng"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Ngày 31/7/N, Ngân hàng thương mại A thanh toán một số chứng chỉ tiền gửi cho khách hàng bằng tiền mặt, tổng mệnh giá: 110 triệu đồng, ngày phát hành 5/4/N-2, kỳ hạn 2 năm, lãi suất 8,4%/năm, trả lãi định kỳ năm. Lãi định kỳ lần 1 đã thanh toán cho khách hàng. Ngân hàng dự trả vào đầu ngày cuối tháng. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Mệnh giá giấy tờ có giá: 110 triệu đồng/Nợ TK Lãi phải trả đối với giấy tờ có giá: 9,368 triệu đồng/Có TK Tiền mặt: 119,368 triệu đồng"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Hiện nay, các ngân hàng thương mại Việt Nam có các phương thức thanh toán vốn sau:",
+    "answer": "phương thức thanh toán liên chi nhánh ngân hàng nội bộ trong từng hệ thống; phương thức thanh toán bù trừ; phương thức thanh toán liên ngân hàng."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Ngày 20/3/Y, bà Lan Anh nộp tiền mặt vào để mua 1.000 kỳ phiếu do ngân hàng phát hành, thời hạn 3 tháng, lãi suất 13%/năm, trả lãi trước, mệnh giá 1 triệu đồng. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 966,78 triệu đồng/Nợ TK Chi phí lãi trả trước chờ phân bổ: 33,22 triệu đồng/Có TK Mệnh giá giấy tờ có giá: 1.000 triệu đồng"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể đối với từng nhóm nợ lần lượt là:",
+    "answer": "0%; 5%; 20%; 50%; 100%"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Ngày 31/8/N, thông qua phiên bù trừ Ngân hàng thương mại A nhận được từ Ngân hàng thương mại B bảng kê nộp séc kèm tờ séc chuyển khoản, số tiền 25 triệu đồng. Tờ séc này Công ty T phát hành ngày 1/8/N. Ngân hàng thương mại A xử lý:",
+    "answer": "Nợ TK Tiền gửi thanh toán (Công ty T): 25 triệu đồng/Có TK Thanh toán bù trừ: 25 triệu đồng"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Ông Nguyễn Nam nộp vào ngân hàng số tiền 50 triệu đồng kèm CMND đề nghị gửi tiết kiệm kỳ hạn 6 tháng, lãi suất tiền gửi tiết kiệm kỳ hạn 6 tháng là 12%/năm. Ngân hàng hạch toán:",
+    "answer": "Nợ TK Tiền mặt: 50 triệu đồng/Có TK Tiền gửi tiết kiệm (ông Nam): 50 triệu đồng"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Khi sử dụng dự phòng để xử lý rủi ro tín dụng, ngân hàng thương mại:",
+    "answer": "Không xóa nợ cho khách hàng"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Vốn mà ngân hàng huy động từ phát hành giấy tờ có giá là vốn:",
+    "answer": "ngắn hạn và dài hạn."
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Ngân hàng kế toán dự phòng (DP) cuối quý 3 đối với nợ cho vay các tổ chức kinh tế và cá nhân trong nước:",
+    "answer": "Nợ TK Chi phí DP rủi ro nợ phải thu khó đòi 10,7 tỷ/Có TK DP cụ thể 9,2 tỷ/Có TK DP chung 1,5 tỷ"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được Bảng kê thanh toán bù trừ về bộ UNC từ Ngân hàng thương mại D (cùng tham gia thanh toán bù trừ), số tiền là 120 triệu đồng. Chủ tài khoản là Công ty may HA. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Thanh toán bự trừ: 120 triệu đồng/ Có TK Tiền gửi thanh toán (Công ty may HA): 120 triệu đồng"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "NHTM trích lập dự phòng RRTD khi nào?",
+    "answer": "Trước khi tổn thất xảy ra"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Trong hạch toán kế toán thanh toán qua ngân hàng, nguyên tắc nào quan trọng nhất?",
+    "answer": "Ghi nợ trước, Có sau; thực hiện nguyên tắc có tiền thì mới được chi trả"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Ngày 23/10/N, Khoản cho vay của khách hàng B kỳ hạn 9 tháng ngày vay 23/4/N, trả lãi theo định kỳ 3 tháng đã đến hạn thanh toán lãi lần 2. Gốc: 50tr; lãi suất: 1,2%/tháng. Khách hàng không trả lãi được. NH hạch toán lãi dự thu vào ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TK Chi phí tín dụng khác 1,38tr/ Có TK Lãi phải thu từ cho vay 1,38tr/Đồng thời: Nhập TK Lãi cho vay chưa thu được bằng VND 1,84tr"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Ngày 31/5/N, NHTM A hạch toán lãi phải trả dồn tích cho Tiền gửi kỳ hạn 3 tháng của Công ty N, số tiền 100tr, ngày gửi 15/4/N, lãi suất kỳ hạn 3 tháng là 0,3%/tháng như sau",
+    "answer": "Nợ TK Chi phí trả lãi tiền gửi: 0,31tr/Có TK Lãi phải trả đối với tiền gửi: 0,31tr"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Chứng từ ghi sổ trong kế toán cho vay gồm những gì?",
+    "answer": "Séc tiền mặt, séc chuyển khoản, uỷ nhiệm chi, uỷ nhiệm thu, giấy mở thư tín dụng."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Ngân hàng thương mại trích lập dự phòng rủi ro tín dụng là để:",
+    "answer": "Hạn chế rủi ro tín dụng của khách hàng vay vốn"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Ngày12/5/N, NH thu lãi cho vay bằng chuyển khoản đối với Công ty Hồng Hà. Số tiền vay là 500tr, lãi suất 1,2%/tháng, ngày vay 12/2/N, lãi trả vào ngày 12 hàng tháng bắt đầu từ tháng 3, gốc trả cuối kỳ. NH dự thu lãi vào ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TKTG thanh toán (Cty Hồng Hà) 6tr/Có TK Lãi phải thu từ cho vay 3,6tr/Có TK Thu lãi cho vay 2,4tr"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Công ty K nộp vào Ngân hàng thương mại A bộ UNT và hoá đơn bán hàng đòi tiền hàng hoá đã giao cho Công ty D có TK tại Ngân hàng thương mại H (cùng tham gia thanh toán bù trừ), số tiền 12 triệu đồng. Ngân hàng thương mại A hạch toán:",
+    "answer": "vào sổ theo dõi, chuyển bộ UNT cho Ngân hàng thương mại H."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Khi phát hành giấy tờ có giá, ngân hàng thương mại ghi nhận nghĩa vụ nợ phải trả đối với khách hàng:",
+    "answer": "Theo mệnh giá"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Séc được chấp nhận thanh toán trong phạm vi:",
+    "answer": "tuỳ quy định của từng ngân hàng."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Nội dung kiểm soát chứng từ là:",
+    "answer": "kiểm tra tính hợp lệ, hợp pháp của chứng từ; kiểm tra dấu và chữ ký của các bên có liên quan."
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Vốn nợ của ngân hàng thương mại bao gồm:",
+    "answer": "Tiền gửi của tổ chức kinh tế; Tiền gửi tiết kiệm; Giấy tờ có giá; Đi vay Ngân hàng Nhà nước và các tổ chức tín dụng khác; Một số nguồn khác."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Ngân hàng thương mại A nhận được tờ séc chuyển khoản cùng bảng kê nộp séc do người thụ hưởng nộp vào, số tiền 12 triệu đồng nhưng số dư trên tài khoản tiền gửi của người trả tiền chỉ là 10 triệu đồng. Ngân hàng thương mại A xử lý:",
+    "answer": "không thanh toán, đợi khi tài khoản tiền gửi của người trả tiền đủ tiền."
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Ngày 31/10/N, Công ty A lập UNC để thanh toán nợ và lãi vay của một HĐTD đến hạn thanh toán. Số tiền vay là 150tr, lãi suất cho vay là 1,5%/tháng, ngày vay 30/6/N. Biết NH dự thu đầu ngày cuối tháng. Kế toán hạch toán:",
+    "answer": "Nợ TKTGTT (CT A)159,225tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND 150tr/Có TK Lãi phải thu từ cho vay 9,225tr, Nợ TK Tiền mặt 159,225tr/Có TK Nợ trong hạn cho vay ngắn hạn bằng VND. 150tr/Có TK Lãi phải thu từ cho vay 9,225tr"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Chứng từ kế toán ngân hàng bao gồm:",
+    "answer": "chứng từ ghi sổ, chứng từ gốc và chứng từ gốc kiêm chứng từ ghi sổ."
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Thời hạn xuất trình của tờ séc là:",
+    "answer": "30 ngày theo lịch, kể từ ngày ký phát đến ngày tờ séc đó được xuất trình tại địa điểm thanh toán."
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Theo hệ thống Tài khoản kế toán các NHTM hiện hành, các TK phản ánh dự phòng rủi ro tín dụng được bố trí vào loại 2, thích hợp với các phương thức cho vay, vậy số dư trên các Tk dự phòng rủi ro tín dụng là số dư:",
+    "answer": "Có"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Ngày 20/7/N, khách hàng H đến ngân hàng thương mại A nộp sổ tiền gửi tiết kiệm không kỳ hạn, số tiền 50 triệu đồng, ngày gửi 1/3/N, lãi suất 0,3%/tháng, xin tất toán như sau: chuyển số gốc 30 triệu đồng sang tiền gửi tiết kiệm kỳ hạn 9 tháng, số gốc còn lại và lãi xin rút bằng tiền mặt. Ngân hàng thương mại A hạch toán:",
+    "answer": "Nợ TK Tiền gửi tiết kiệm không kỳ hạn (Khách hàng H): 50,608 triệu đồng/Nợ TK Chi phí trả lãi tiền gửi: 0,101 triệu đồng/Có TK Tiền gửi tiết kiệm kỳ hạn 9 tháng (khách hàng H): 30 triệu đồng/Có TK Tiền mặt: 20,709 triệu đồng"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "NHTM A (chi nhánh Hà nội) giải quyết cho Công ty CP H vay 50 triệu đồng, thời hạn 12 tháng, lãi suất 0,92%/tháng, để thanh toán bằng UNC cho XN D có tài khoản tiền gửi tại NHTM D khác hệ thống (chi nhánh Cần Thơ). NHTM A hạch toán:",
+    "answer": "Nợ TK Nợ trong hạn cho vay ngắn hạn bằng VND (CtyCP H) 50 triệu/Có TK Thu hộ, chi hộ 50 triệu"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Tài khoản tài sản của ngân hàng là:",
+    "answer": "TK “Tài sản cố định”."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Ngày 31/3/N, NHTM A hạch toán lãi phải trả dồn tích cho tiền gửi kỳ hạn 2 tháng của Công ty N, số tiền 120 triệu đồng, ngày gửi 15/1/N, lãi suất kỳ hạn 2 tháng là 0,3%/tháng (Ngân hàng hạch toán dự trả lãi định kỳ vào ngày cuối tháng, lãi tính theo ngày thực tế). Bút toán hạch toán là:",
+    "answer": "Nợ TK Chi phí trả lãi tiền gửi: 0,372 triệu đồng/Có TK Lãi phải trả đối với tiền gửi: 0,372 triệu đồng"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Khách hàng có thể thực hiện chuyển tiền qua:",
+    "answer": "ATM, trực tiếp tại chi nhánh ngân hàng và qua hệ thống Internet banking"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Các lý do phải kiểm soát chứng từ kế toán là:",
+    "answer": "thiếu hiểu biết về nguyên tắc lập chứng từ, sơ suất, nhầm lẫn và cố ý lập sai."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Sự kiện nào dưới đây KHÔNG phải là đối tượng của kế toán ngân hàng?",
+    "answer": "Ký hợp đồng tín dụng với khách hàng."
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Tổ chức bộ máy kế toán trong các ngân hàng thương mại ở Việt Nam hiện nay là:",
+    "answer": "mô hình kế toán tập trung kết hợp phân tán."
+  }
+]

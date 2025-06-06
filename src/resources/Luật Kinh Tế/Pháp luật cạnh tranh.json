@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào là không đúng về nhiệm vụ, quyền hạn của Uỷ ban cạnh tranh quốc gia:",
+    "answer": "Điều tra vụ việc cạnh tranh"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không phải là nhiệm vụ quyền hạn của Chủ tịch Ủy ban Cạnh tranh Quốc gia khi tiến hành tố tụng cạnh tranh",
+    "answer": "Không được thay đổi thành viên Hội đồng xử lý vụ việc hạn chế cạnh tranh, thư ký phiên điều trần."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí độc quyền bị cấm",
+    "answer": "Áp đặt giá mua, giá bán hàng hóa, dịch vụ"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá khả năng doanh nghiệp sau tập trung kinh tế loại bỏ hoặc ngăn cản doanh nghiệp khác gia nhập, mở rộng thị trường.",
+    "answer": "Đặc điểm cạnh tranh trong ngành, lĩnh vực và hành vi cạnh tranh của doanh nghiệp tham gia tập trung kinh tế trong giai đoạn sau tập trung kinh tế;"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh",
+    "answer": "Thỏa thuận mở rộng thị trường tiêu thụ sản phẩm, nguồn cung cấp hàng hóa, cung ứng dịch vụ."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tăng cường khả năng tiếp cận thị trường, nâng cao hiệu quả kinh tế, phúc lợi xã hội và bảo vệ quyền lợi của người tiêu dùng."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không phải là cơ quan tiến hành tố tụng cạnh tranh",
+    "answer": "Tổng cục quản lý thị trường;"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá khả năng doanh nghiệp tăng giá hoặc tăng tỷ suất lợi nhuận trên doanh thu sau tập trung kinh tế",
+    "answer": "Thay đổi dự kiến về cung của các doanh nghiệp là đối thủ cạnh tranh trên thị trường địa lý liên quan trước khả năng doanh nghiệp sau tập trung kinh tế tăng giá, thay đổi sản lượng hoặc điều kiện giao dịch của hàng hóa, dịch vụ;"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là trường hợp các doanh nghiệp dự định tham gia tập trung kinh tế, phải thông báo cho Ủy ban Cạnh tranh Quốc gia trước khi thực hiện tập trung kinh tế",
+    "answer": "Thị phần kết hợp của các doanh nghiệp dự định tham gia tập trung kinh tế từ 30% trở lên trên thị trường liên quan trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tạo điều kiện để xã hội, người tiêu dùng tham gia quá trình giám sát việc thực hiện pháp luật về cạnh tranh."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hình thức tập trung kinh tế",
+    "answer": "Mua trái phiếu doanh nghiệp;"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào là không đúng về nhiệm vụ, quyền hạn của Cơ quan điều tra vụ việc cạnh tranh:",
+    "answer": "Tiến hành tố tụng cạnh tranh; kiểm soát tập trung kinh tế"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận ấn định giá hàng hóa, dịch vụ một cách trực tiếp hoặc gián tiếp giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Gây rối hoạt động kinh doanh của doanh nghiệp khác bằng cách cản trở, làm gián đoạn hoạt động kinh doanh bất hợp pháp của doanh nghiệp đó."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Bán hàng hóa, cung ứng dịch vụ dưới giá thành toàn bộ dẫn đến hoặc có khả năng dẫn đến loại bỏ doanh nghiệp khác cùng kinh doanh loại hàng hóa, dịch vụ đó."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Trong trường hợp có quy định khác nhau về hình thức tập trung kinh tế giữa quy định của các đạo luật sau thì áp dụng quy định của Luật nào",
+    "answer": "Luật kinh doanh bảo hiểm"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Lợi dụng chức vụ, quyền hạn để can thiệp trái pháp luật vào hoạt động cạnh tranh."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế cạnh tranh giữa các doanh nghiệp trên cùng thị trường sản phẩm liên quan quy định tại các khoản 1, 2 và 3 Điều 11 của Luật cạnh tranh 2018."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Không phân biệt đối xử giữa các doanh nghiệp;"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không đúng với việc xác định chứng cứ của tố tụng cạnh tranh:",
+    "answer": "Tài liệu đọc được nội dung được coi là chứng cứ phải là bản chính"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí thống lĩnh thị trường bị cấm",
+    "answer": "Bán hàng hóa, cung ứng dịch vụ dưới giá thành toàn bộ"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Yêu cầu, khuyến nghị doanh nghiệp, cơ quan, tổ chức, cá nhân phải thực hiện hoặc không thực hiện việc sản xuất, mua, bán hàng hóa, cung ứng, sử dụng dịch vụ cụ thể hoặc mua, bán hàng hóa, cung ứng, sử dụng dịch vụ với doanh nghiệp cụ thể, trừ hàng hóa, dịch vụ thuộc lĩnh vực độc quyền nhà nước hoặc trong trường hợp khẩn cấp theo quy định của pháp luật"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá khả năng doanh nghiệp tăng giá hoặc tăng tỷ suất lợi nhuận trên doanh thu sau tập trung kinh tế",
+    "answer": "Thay đổi lớn về giá, sản lượng, điều kiện giao dịch của doanh nghiệp cung ứng hàng hóa, dịch vụ là các yếu tố đầu vào cho các doanh nghiệp tham gia tập trung kinh tế;"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây là không đúng:",
+    "answer": "Thị trường địa lý liên quan là khu vực địa lý cụ thể, trong đó có những hàng hóa, dịch vụ được cung cấp có thể thay thế cho nhau với các điều kiện cạnh tranh tương tự và không có sự khác biệt đáng kể với các khu vực địa lý lân cận."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào LÀ không đúng",
+    "answer": "Đối với thỏa thuận hạn chế cạnh tranh giữa các doanh nghiệp trên cùng thị trường liên quan, khi thị phần kết hợp của các doanh nghiệp tham gia thỏa thuận nhỏ hơn 15%"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Nhóm doanh nghiệp có vị trí thống lĩnh thị trường quy định tại khoản 2 Điều 24 Luật cạnh tranh 2018 không bao gồm doanh nghiệp có thị phần ít hơn 5% trên thị trường liên quan."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không phải là cơ quan tiến hành tố tụng cạnh tranh",
+    "answer": "Bộ Kế hoạch và Đầu tư"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá khả năng doanh nghiệp tăng giá hoặc tăng tỷ suất lợi nhuận trên doanh thu sau tập trung kinh tế",
+    "answer": "Điều kiện và nguy cơ các doanh nghiệp là đối thủ cạnh tranh trên thị trường phối hợp hoặc thỏa thuận nhằm giảm giá bán hoặc tỷ suất lợi nhuận trên doanh thu;"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG ĐÚNG về nhóm doanh nghiệp được coi là có vị trí thống lĩnh thị trường",
+    "answer": "Hai doanh nghiệp có tổng thị phần từ 40% trở lên trên thị trường liên quan;"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tăng cường khả năng tiếp cận thị trường, nâng cao hiệu quả kinh tế, phúc lợi xã hội và bảo vệ quyền lợi của người tiêu dùng."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây là không đúng:",
+    "answer": "Thị trường liên quan là thị trường sản phẩm liên quan"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận áp đặt hoặc ấn định điều kiện ký kết hợp đồng mua, bán hàng hóa, cung ứng dịch vụ cho doanh nghiệp khác hoặc thỏa thuận buộc doanh nghiệp khác chấp nhận các nghĩa vụ không liên quan trực tiếp đến đối tượng của hợp đồng giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Không lợi dụng chức vụ, quyền hạn để can thiệp trái pháp luật vào hoạt động cạnh tranh."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế cạnh tranh giữa các doanh nghiệp trên cùng thị trường sản phẩm liên quan quy định tại các khoản 7, 8, 9, 10 và 11 Điều 11 của Luật cạnh tranh 2018 khi thỏa thuận đó gây tác động hoặc có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá khả năng doanh nghiệp tăng giá hoặc tăng tỷ suất lợi nhuận trên doanh thu sau tập trung kinh tế",
+    "answer": "Thay đổi dự kiến về cầu trước khả năng doanh nghiệp sau tập trung kinh tế tăng giá, thay đổi sản lượng hoặc điều kiện giao dịch của hàng hóa, dịch vụ trên thị trường sản phẩm liên quan;"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí thống lĩnh thị trường bị cấm",
+    "answer": "Không ngăn cản việc tham gia hoặc mở rộng thị trường của doanh nghiệp khác;"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là trường hợp các doanh nghiệp dự định tham gia tập trung kinh tế, phải thông báo cho Ủy ban Cạnh tranh Quốc gia trước khi thực hiện tập trung kinh tế",
+    "answer": "Giá trị giao dịch của tập trung kinh tế từ 2.000 tỷ đồng trở lên;"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Nhận định nào sau đây ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Bộ Công Thương là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Chỉ cung cấp thông tin trung thực về doanh nghiệp khác mà thông tin đó có thể gây ảnh hưởng xấu đến uy tín, tình trạng tài chính hoặc hoạt động kinh doanh của doanh nghiệp đó"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là phương pháp xác định thị phần của doanh nghiệp trên thị trường liên quan:",
+    "answer": "Tỷ lệ phần trăm giữa số đơn vị hàng hóa, dịch vụ bán ra của doanh nghiệp này với tổng số đơn vị hàng hóa, dịch vụ bán ra của một số doanh nghiệp trên thị trường liên quan theo tháng, quý, năm"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí độc quyền bị cấm",
+    "answer": "Áp đặt điều kiện cho khách hàng;"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Lợi thế cạnh tranh do tập trung kinh tế mang lại trên thị trường sản phẩm liên quan;"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố xác định sức mạnh thị trường đáng kể của doanh nghiệp và nhóm doanh nghiệp",
+    "answer": "Khả năng nắm giữ, tiếp cận, kiểm soát thị trường phân phối, tiêu thụ hàng hóa, dịch vụ hoặc nguồn cung hàng hóa, dịch vụ được, đánh giá căn cứ vào ưu thế của doanh nghiệp, nhóm doanh nghiệp so với tất các doanh nghiệp khác nhờ việc nắm giữ, kiểm soát mạng lưới phân phối, tiêu thụ hàng hóa, dịch vụ hoặc nguồn cung hàng hóa, dịch vụ trên thị trường;"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Trong trường hợp có quy định khác nhau về thông báo tập trung kinh tế giữa quy định của các đạo luật sau thì áp dụng quy định của Luật nào",
+    "answer": "Luật cạnh tranh"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào là không đúng về nhiệm vụ, quyền hạn của Uỷ ban cạnh tranh quốc gia:",
+    "answer": "Kiến nghị áp dụng, thay đổi hoặc hủy bỏ các biện pháp ngăn chặn và bảo đảm xử lý vi phạm hành chính trong điều tra, xử lý vụ việc cạnh tranh"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG ĐÚNG :",
+    "answer": "Doanh thu bán ra, doanh số mua vào, số đơn vị bán ra, mua vào đối với một loại hàng hóa, dịch vụ của nhóm doanh nghiệp liên kết bao gồm doanh thu bán ra, doanh số mua vào, số đơn vị bán ra, mua vào từ việc bán hàng hóa, cung ứng dịch vụ giữa các doanh nghiệp trong nhóm doanh nghiệp liên kết."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Công Thương thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không phải là nguyên tắc của tố tụng cạnh tranh:",
+    "answer": "Cơ quan tiến hành tố tụng cạnh tranh, người tiến hành tố tụng cạnh tranh, người tham gia tố tụng cạnh tranh không phải giữ bí mật về thông tin liên quan tới vụ việc cạnh tranh, bí mật kinh doanh của doanh nghiệp"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Thời hạn ra quyết định về việc hưởng miễn trừ là 30 ngày kể từ ngày thụ lý hồ sơ."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Lôi kéo khách hàng bất chính bằng cách so sánh hàng hóa, dịch vụ của mình với hàng hóa, dịch vụ giả mạo cùng loại của doanh nghiệp khác đã được chứng minh."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Nhận định nào sau đây ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Các Bộ, cơ quan ngang Bộ trong phạm vì nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Công thương thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Nhóm doanh nghiệp có vị trí thống lĩnh thị trường quy định tại khoản 2 Điều 24 Luật cạnh tranh 2018 không bao gồm doanh nghiệp có thị phần ít hơn 5% trên thị trường liên quan."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tạo điều kiện để xã hội, người tiêu dùng tham gia quá trình giám sát việc thực hiện pháp luật về cạnh tranh."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí độc quyền bị cấm",
+    "answer": "Áp đặt giá mua, giá bán hàng hóa, dịch vụ hoặc ấn định giá bán lại tối thiểu"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế cạnh tranh giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định quy định tại các khoản 1, 2, 3, 7, 8, 9, 10 và 11 Điều 11 của Luật cạnh tranh 2018 khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế phát triển kỹ thuật, công nghệ, hạn chế đầu tư giữa các doanh nghiệp trên cùng thị trường liên quan khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào KHÔNG phải là chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tăng cường khả năng tiếp cận thị trường, nâng cao hiệu quả kinh tế, phúc lợi xã hội và bảo vệ quyền lực Nhà nước"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Quốc hội thống nhất quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Nhận định nào sau đây là nhận định ĐÚNG về xác định khả năng thay thế về cung:",
+    "answer": "Khả năng thay thế về cung là việc các doanh nghiệp đang sản xuất, kinh doanh một loại hàng hóa, dịch vụ có khả năng gia tăng sản lượng, số lượng bán hoặc các doanh nghiệp khác bắt đầu hoặc chuyển sang sản xuất, kinh doanh sản phẩm đó trong thời gian dưới 06 tháng mà không có sự tăng lên đáng kể về chi phí nếu giá cả của hàng hóa, dịch vụ đó tăng lên từ 5% đến 10%."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về xác định thị trường sản phẩm liên quan trong trường hợp đặc biệt:",
+    "answer": "Khi xác định thị trường sản phẩm liên quan có thể xem xét thêm thị trường của các hàng hóa, dịch vụ khác cho sản phẩm liên quan."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không phải là nhiệm vụ, quyền hạn của Thủ trưởng Cơ quan điều tra vụ việc cạnh tranh khi tiến hành tố tụng cạnh tranh",
+    "answer": "Quyết định phân công điều tra viên vụ việc cạnh tranh;"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tăng cường khả năng tiếp cận thị trường, nâng cao hiệu quả kinh tế, phúc lợi xã hội và bảo vệ quyền lợi của người tiêu dùng."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Mối quan hệ của các doanh nghiệp tham gia tập trung kinh tế trong chuỗi sản xuất, phân phối, cung ứng đối với một số loại hàng hóa, dịch vụ nhất định hoặc ngành, nghề kinh doanh của các doanh nghiệp tham gia tập trung kinh tế là đầu vào của nhau hoặc bổ trợ cho nhau;"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Tiếp cận, thu thập mọi thông tin trong kinh doanh của người sở hữu thông tin đó đã công bố"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận phân chia khách hàng, phân chia thị trường tiêu thụ, nguồn cung cấp hàng hóa, cung ứng dịch vụ giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Trong trường hợp có quy định khác nhau về miễn trừ đối với thỏa thuận hạn chế cạnh tranh bị cấm giữa quy định của các đạo luật sau thì áp dụng quy định của Luật nào",
+    "answer": "Luật cạnh tranh"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Chỉ cung cấp thông tin trung thực về doanh nghiệp khác mà thông tin đó có thể gây ảnh hưởng xấu đến uy tín, tình trạng tài chính hoặc hoạt động kinh doanh của doanh nghiệp đó"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là yếu tố xác định thuộc tính có thể thay thế cho nhau của hàng hóa, dịch vụ để kết luận về thị trường sản phẩm liên quan:",
+    "answer": "Thói quen trong thực hiện hợp đồng của các doanh nghiệp"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không phải là nhiệm vụ, quyền hạn của Thủ trưởng Cơ quan điều tra vụ việc cạnh tranh khi tiến hành tố tụng cạnh tranh",
+    "answer": "Quyết định điều tra vụ việc cạnh tranh không cần sự chấp thuận của Chủ tịch Ủy ban Cạnh tranh Quốc gia;"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Lôi kéo khách hàng bất chính bằng cách đưa thông tin gian dối hoặc gây nhầm lẫn cho khách hàng về doanh nghiệp hoặc hàng hóa, dịch vụ, khuyến mại, điều kiện giao dịch liên quan đến hàng hóa, dịch vụ mà doanh nghiệp cung cấp nhằm thu hút khách hàng của doanh nghiệp khá"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là trường hợp các doanh nghiệp dự định tham gia tập trung kinh tế, phải thông báo cho Ủy ban Cạnh tranh Quốc gia trước khi thực hiện tập trung kinh tế",
+    "answer": "Tổng tài sản trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 5.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Yêu cầu, khuyến nghị các hiệp hội ngành, nghề, tổ chức xã hội - nghề nghiệp khác hoặc các doanh nghiệp liên kết với nhau nhằm hạn chế cạnh tranh trên thị trường;"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là trường hợp UB cạnh tranh quốc gia quyết định bãi bỏ quyết định hưởng miễn trừ",
+    "answer": "Quyết định hưởng miễn trừ dựa trên thông tin, tài liệu chính xác về điều kiện được hưởng miễn trừ"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Yêu cầu, khuyến nghị doanh nghiệp, cơ quan, tổ chức, cá nhân phải thực hiện hoặc không thực hiện việc sản xuất, mua, bán hàng hóa, cung ứng, sử dụng dịch vụ cụ thể hoặc mua, bán hàng hóa, cung ứng, sử dụng dịch vụ với doanh nghiệp cụ thể, trừ hàng hóa, dịch vụ thuộc lĩnh vực độc quyền nhà nước hoặc trong trường hợp khẩn cấp theo quy định của pháp luật"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Không yêu cầu, khuyến nghị các hiệp hội ngành, nghề, tổ chức xã hội - nghề nghiệp khác hoặc các doanh nghiệp liên kết với nhau nhằm hạn chế cạnh tranh trên thị trường;"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Trong trường hợp có quy định khác nhau về hình thức tập trung kinh tế giữa quy định của các đạo luật sau thì áp dụng quy định của Luật nào",
+    "answer": "Luật kinh doanh bảo hiểm"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Trong trường hợp có quy định khác nhau về thông báo tập trung kinh tế giữa quy định của các đạo luật sau thì áp dụng quy định của Luật nào",
+    "answer": "Luật cạnh tranh"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá khả năng doanh nghiệp sau tập trung kinh tế loại bỏ hoặc ngăn cản doanh nghiệp khác gia nhập, mở rộng thị trường.",
+    "answer": "Đặc điểm cạnh tranh trong ngành, lĩnh vực và hành vi cạnh tranh của doanh nghiệp tham gia tập trung kinh tế trong giai đoạn sau tập trung kinh tế;"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là tiêu chí để xác định ngưỡng thông báo tập trung kinh tế",
+    "answer": "Tổng doanh thu trên thị trường liên quan của doanh nghiệp tham gia tập trung kinh tế;"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là tiêu chí để xác định ngưỡng thông báo tập trung kinh tế",
+    "answer": "Thị phần kết hợp trên thị trường sản phẩm liên quan của doanh nghiệp tham gia tập trung kinh tế."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Bán hàng hóa, cung ứng dịch vụ dưới giá thành toàn bộ thanh lý hàng tồn kho và chấm dứt kinh doanh loại hàng hóa, dịch vụ đó"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá khả năng doanh nghiệp tăng giá hoặc tăng tỷ suất lợi nhuận trên doanh thu sau tập trung kinh tế",
+    "answer": "Thay đổi lớn về giá, sản lượng, điều kiện giao dịch của doanh nghiệp cung ứng hàng hóa, dịch vụ là các yếu tố đầu vào cho các doanh nghiệp tham gia tập trung kinh tế;"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG ĐÚNG về nhóm doanh nghiệp được coi là có vị trí thống lĩnh thị trường",
+    "answer": "Hai doanh nghiệp có tổng thị phần từ 40% trở lên trên thị trường liên quan;"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Xâm phạm thông tin bí mật trong kinh doanh bằng cách tiếp cận, thu thập thông tin bí mật trong kinh doanh bằng cách chống lại các biện pháp bảo mật của người sở hữu thông tin đó"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào là không đúng về nhiệm vụ, quyền hạn của Uỷ ban cạnh tranh quốc gia:",
+    "answer": "Điều tra vụ việc cạnh tranh"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây là không đúng:",
+    "answer": "Thị trường liên quan là thị trường địa lý liên quan."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Nhận định nào sau đây ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Bộ Công Thương là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không phải là nguyên tắc của tố tụng cạnh tranh:",
+    "answer": "Hoạt động tố tụng cạnh tranh của cơ quan tiến hành tố tụng cạnh tranh, người tiến hành tố tụng cạnh tranh, người tham gia tố tụng cạnh tranh và của cơ quan, tổ chức, cá nhân có liên quan phải tuân theo quy định của pháp luật tố tụng dân sự."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là biện pháp Nhà nước kiểm soát doanh nghiệp hoạt động trong lĩnh vực độc quyền nhà nước",
+    "answer": "Quyết định doanh thu của các Doanh nghiệp hoạt động trong lĩnh vực độc quyền nhà nướ"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Xâm phạm thông tin bí mật trong kinh doanh bằng cách tiết lộ, sử dụng thông tin bí mật trong kinh doanh mà không được phép của chủ sở hữu thông tin đó."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh",
+    "answer": "Thỏa thuận mở rộng thị trường tiêu thụ sản phẩm, nguồn cung cấp hàng hóa, cung ứng dịch vụ."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố xác định sức mạnh thị trường đáng kể của doanh nghiệp và nhóm doanh nghiệp",
+    "answer": "Các yếu tố đặc thù trong ngành, lĩnh vực mà doanh nghiệp, nhóm doanh nghiệp đang hoạt động kinh doanh được đánh giá để xác định ưu thế của doanh nghiệp, nhóm doanh nghiệp so với tất cả các doanh nghiệp khác trong điều kiện cụ thể của ngành, lĩnh vực đó"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh",
+    "answer": "Thỏa thuận giao dịch mua bán hàng hóa giữa các doanh nghiệp."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí độc quyền bị cấm",
+    "answer": "Đơn phương thay đổi hoặc hủy bỏ hợp đồng đã giao kết"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận ấn định giá hàng hóa, dịch vụ một cách trực tiếp hoặc gián tiếp giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Trong trường hợp có quy định khác nhau về điều tra, xử lý vụ việc cạnh tranh giữa quy định của các đạo luật sau thì áp dụng quy định của Luật nào",
+    "answer": "Luật cạnh tranh"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không đúng với việc xác định chứng cứ của tố tụng cạnh tranh:",
+    "answer": "Tài liệu đọc được nội dung được coi là chứng cứ phải là bản chính"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Thúc đẩy cạnh tranh, bảo đảm quyền tự do cạnh tranh trong kinh doanh của doanh nghiệp theo quy định của pháp luật."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Cung cấp thông tin không trung thực về doanh nghiệp khác bằng cách trực tiếp hoặc gián tiếp đưa thông tin không trung thực về doanh nghiệp gây ảnh hưởng xấu đến uy tín, tình trạng tài chính hoặc hoạt động kinh doanh của doanh nghiệp đó"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào KHÔNG phải là nguyên tắc của hoạt động cạnh tranh",
+    "answer": "Khách quan"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Lôi kéo khách hàng bất chính bằng cách đưa thông tin trung thực cho khách hàng về doanh nghiệp hoặc hàng hóa, dịch vụ, khuyến mại mà doanh nghiệp cung cấp nhằm thu hút khách hàng của doanh nghiệp khá"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh",
+    "answer": "Thỏa thuận phạt vi phạm hợp đồng giữa các doanh nghiệp"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hình thức tập trung kinh tế",
+    "answer": "Chia doanh nghiệp;"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào KHÔNG phải là chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tạo điều kiện để các cơ quan nhà nước giám sát việc thực hiện pháp luật về cạnh tranh."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là phương pháp xác định thị phần của doanh nghiệp trên thị trường liên quan:",
+    "answer": "Tỷ lệ phần trăm giữa số đơn vị hàng hóa, dịch vụ bán ra của doanh nghiệp này với tổng số đơn vị hàng hóa, dịch vụ bán ra của một số doanh nghiệp trên thị trường liên quan theo tháng, quý, năm"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí thống lĩnh thị trường bị cấm",
+    "answer": "Không ngăn cản việc tham gia hoặc mở rộng thị trường của doanh nghiệp khác;"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không phải là nhiệm vụ quyền hạn của Chủ tịch Ủy ban Cạnh tranh Quốc gia khi tiến hành tố tụng cạnh tranh",
+    "answer": "Thành lập Hội đồng giải quyết khiếu nại quyết định xử lý vụ việc hạn chế cạnh tranh nhưng không được là Chủ tịch Hội đồng."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Lợi thế cạnh tranh do tập trung kinh tế mang lại trên thị trường sản phẩm liên quan;"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây là không đúng:",
+    "answer": "Thị trường địa lý liên quan là khu vực địa lý không xác định trong đó có những hàng hóa, dịch vụ được cung cấp có thể thay thế cho nhau với các điều kiện cạnh tranh tương tự và có sự khác biệt đáng kể với các khu vực địa lý lân cận."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không phải là nhiệm vụ quyền hạn của Chủ tịch Ủy ban Cạnh tranh Quốc gia khi tiến hành tố tụng cạnh tranh",
+    "answer": "Không được thay đổi thành viên Hội đồng xử lý vụ việc hạn chế cạnh tranh, thư ký phiên điều trần."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hình thức tập trung kinh tế",
+    "answer": "Mua trái phiếu doanh nghiệp;"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là yếu tố xác định thuộc tính có thể thay thế cho nhau của hàng hóa, dịch vụ để kết luận về thị trường sản phẩm liên quan:",
+    "answer": "Thói quen của người tiêu dùng"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tạo lập, duy trì môi trường cạnh tranh lành mạnh, công bằng, bình đẳng, minh bạch."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không đúng với việc xác định chứng cứ của tố tụng cạnh tranh",
+    "answer": "Kết luận giám định"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Đối với vụ việc phức tạp, thời hạn ra quyết định có thể được Ủy ban Cạnh tranh Quốc gia gia hạn nhưng không quá 10 ngày. Việc gia hạn phải được thông báo bằng văn bản cho bên nộp hồ sơ chậm nhất là 05 ngày làm việc trước ngày hết thời hạn ra quyết định."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG ĐÚNG :",
+    "answer": "Doanh thu bán ra, doanh số mua vào, số đơn vị bán ra, mua vào đối với một loại hàng hóa, dịch vụ của nhóm doanh nghiệp liên kết bao gồm doanh thu bán ra, doanh số mua vào, số đơn vị bán ra, mua vào từ việc bán hàng hóa, cung ứng dịch vụ giữa các doanh nghiệp trong nhóm doanh nghiệp liên kết."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Phân biệt đối xử giữa các doanh nghiệp;"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Khả năng doanh nghiệp sau tập trung kinh tế giảm giá hoặc giảm tỷ suất lợi nhuận trên doanh thu một cách đáng kể;"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Nhận định sau đây về Hành vi cạnh tranh không lành mạnh là đúng?",
+    "answer": "Là hành vi của doanh nghiệp trái với nguyên tắc thiện chí, trung thực, tập quán thương mại và các chuẩn mực khác trong kinh doanh, gây thiệt hại hoặc có thể gây thiệt hại đến quyền và lợi ích hợp pháp của doanh nghiệp khác"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG ĐÚNG về nhóm doanh nghiệp được coi là có vị trí thống lĩnh thị trường",
+    "answer": "Bốn doanh nghiệp có tổng thị phần từ 80% trở lên trên thị trường liên quan;"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Doanh nghiệp được coi là có vị trí thống lĩnh thị trường nếu có thị phần từ 40% trở lên trên thị trường liên quan."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Lợi dụng chức vụ, quyền hạn để can thiệp trái pháp luật vào hoạt động cạnh tranh."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào không phải là cơ quan tiến hành tố tụng cạnh tranh",
+    "answer": "Bộ Kế hoạch và Đầu tư"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào không phải là người tiến hành tố tụng cạnh tranh",
+    "answer": "Thừa phát lại"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG ĐÚNG :",
+    "answer": "Thị phần của doanh nghiệp thuộc nhóm doanh nghiệp liên kết là thị phần của các doanh nghiệp lớn trong nhóm doanh nghiệp liên kết đó."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá khả năng doanh nghiệp tăng giá hoặc tăng tỷ suất lợi nhuận trên doanh thu sau tập trung kinh tế",
+    "answer": "Điều kiện và nguy cơ các doanh nghiệp là đối thủ cạnh tranh trên thị trường phối hợp hoặc thỏa thuận nhằm giảm giá bán hoặc tỷ suất lợi nhuận trên doanh thu;"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về xác định thị trường sản phẩm liên quan trong trường hợp đặc biệt:",
+    "answer": "Thị trường sản phẩm liên quan trọng trường hợp đặc biệt có thể được xác định là thị trường của một nhóm hàng hóa, dịch vụ căn cứ vào đặc tính của hàng hóa, dịch vụ đó, tập quán tiêu dùng hoặc phương thức giao dịch đặc thù, bao gồm các phương thức có sử dụng công nghệ thông tin."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tạo lập, duy trì môi trường cạnh tranh lành mạnh, công bằng, bình đẳng, minh bạch."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Trong thời hạn bao nhiêu ngày làm việc kể từ ngày tiếp nhận hồ sơ đề nghị hưởng miễn trừ, Ủy ban Cạnh tranh Quốc gia có trách nhiệm thông báo bằng văn bản cho bên nộp hồ sơ về tính đầy đủ, hợp lệ của hồ sơ:",
+    "answer": "7 ngày"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là phương pháp xác định thị phần của doanh nghiệp trên thị trường liên quan:",
+    "answer": "Tỷ lệ phần trăm giữa số đơn vị hàng hóa, dịch vụ bán ra của doanh nghiệp này với tổng số đơn vị hàng hóa, dịch vụ bán ra của một số doanh nghiệp trên thị trường liên quan theo tháng, quý, năm"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Bảo vệ quyền lợi người tiêu dùng"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của thỏa thuận hạn chế cạnh tranh:",
+    "answer": "Khuyến khích nghiên cứu, phát triển, đổi mới công nghệ hoặc năng lực công nghệ được đánh giá để xác định tác động hoặc khả năng gây tác động của thỏa thuận hạn chế cạnh tranh đối với mục tiêu nghiên cứu, phát triển, đổi mới công nghệ hoặc nâng cao năng lực công nghệ trong ngành và lĩnh vực liên quan;"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Mức độ tập trung trên thị trường sản phẩm liên quan sau khi tập trung kinh tế;"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá khả năng doanh nghiệp sau tập trung kinh tế loại bỏ hoặc ngăn cản doanh nghiệp khác gia nhập, mở rộng thị trường.",
+    "answer": "Mức độ kiểm soát yếu tố đầu vào cho sản xuất, kinh doanh sau tập trung kinh tế;"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Yêu cầu, khuyến nghị doanh nghiệp, cơ quan, tổ chức, cá nhân không thực hiện việc sản xuất, mua, bán hàng hóa, cung ứng, sử dụng dịch vụ cụ thể hoặc mua, bán hàng hóa, cung ứng, sử dụng dịch vụ với doanh nghiệp cụ thể, trừ hàng hóa, dịch vụ thuộc lĩnh vực độc quyền nhà nước hoặc trong trường hợp khẩn cấp theo quy định của pháp luật"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Nhận định nào sau đây ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Chính phủ thống nhất quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí độc quyền bị cấm",
+    "answer": "Áp đặt giá mua, giá bán hàng hóa, dịch vụ"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của thỏa thuận hạn chế cạnh tranh:",
+    "answer": "Tăng khả năng tiếp cận, nắm giữ cơ sở hạ tầng thiết yếu được đánh giá căn cứ vào mức độ thiết yếu của cơ sở hạ tầng đối với hoạt động sản xuất, kinh doanh và chi phí, thời gian để các doanh nghiệp là đối thủ cạnh tranh không tham gia thỏa thuận có thể tiếp cận, nắm giữ cơ sở hạ tầng đó hoặc cơ sở hạ tầng tương tự;"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố xác định sức mạnh thị trường đáng kể của doanh nghiệp và nhóm doanh nghiệp",
+    "answer": "Khả năng chuyển sang nguồn cung hoặc cầu đối với các hàng hóa, dịch vụ liên quan khác được xác định dựa trên chi phí và thời gian cần thiết để khách hàng, doanh nghiệp chuyển sang mua, bán hàng hóa, dịch vụ của doanh nghiệp khác trên cùng thị trường sản phẩm liên quan;"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây là không đúng:",
+    "answer": "Thị trường địa lý liên quan là khu vực địa lý cụ thể trong đó có những hàng hóa, dịch vụ được cung cấp không thể thay thế cho nhau với các điều kiện cạnh tranh tương tự và có sự khác biệt đáng kể với các khu vực địa lý lân cận."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tăng cường khả năng tiếp cận thị trường, nâng cao hiệu quả kinh tế, phúc lợi xã hội và bảo vệ quyền lợi của người tiêu dùng."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Không lợi dụng chức vụ, quyền hạn để can thiệp trái pháp luật vào hoạt động cạnh tranh."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là phương pháp xác định thị phần của doanh nghiệp trên thị trường liên quan:",
+    "answer": "Tỷ lệ phần trăm giữa doanh thu bán ra của doanh nghiệp này với tổng doanh thu bán ra của một số doanh nghiệp trên thị trường liên quan theo tháng, quý, năm;"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là điều kiện để được hưởng miễn trừ đối với thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thống nhất các điều kiện thực hiện hợp đồng, giao hàng, thanh toán liên quan đến giá và các yếu tố của giá."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Trong các nhận định sau nhận định nào là không đúng về nhiệm vụ, quyền hạn của Uỷ ban cạnh tranh quốc gia:",
+    "answer": "Thực hiện các biện pháp nghiệp vụ điều tra trong quá trình điều tra phù hợp với quy định của pháp luật"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế hoặc kiểm soát số lượng, khối lượng sản xuất, mua, bán hàng hóa, cung ứng dịch vụ giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Nhận định nào sau đây ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là phương pháp xác định thị phần của doanh nghiệp trên thị trường liên quan:",
+    "answer": "Tỷ lệ phần trăm giữa doanh số mua vào của doanh nghiệp này với tổng doanh số mua vào của một số doanh nghiệp trên thị trường liên quan theo tháng, quý, năm;"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Mối quan hệ của các doanh nghiệp tham gia tập trung kinh tế trong chuỗi sản xuất, phân phối, cung ứng đối với một số loại hàng hóa, dịch vụ nhất định hoặc ngành, nghề kinh doanh của các doanh nghiệp tham gia tập trung kinh tế là đầu vào của nhau hoặc bổ trợ cho nhau;"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Yêu cầu, khuyến nghị doanh nghiệp, cơ quan, tổ chức, cá nhân phải thực hiện hoặc không thực hiện việc sản xuất, mua, bán hàng hóa, cung ứng, sử dụng dịch vụ cụ thể hoặc mua, bán hàng hóa, cung ứng, sử dụng dịch vụ với doanh nghiệp cụ thể trong trường hợp khẩn cấp theo quy định của pháp luật;"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày làm việc kể từ ngày tiếp nhận hồ sơ đề nghị hưởng miễn trừ, Ủy ban Cạnh tranh Quốc gia có trách nhiệm thông báo bằng văn bản cho bên nộp hồ sơ về tính đầy đủ, hợp lệ của hồ sơ:",
+    "answer": "7 ngày"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Mối quan hệ của các doanh nghiệp tham gia tập trung kinh tế trong chuỗi sản xuất, phân phối, cung ứng đối với một số loại hàng hóa, dịch vụ nhất định hoặc ngành, nghề kinh doanh của các doanh nghiệp tham gia tập trung kinh tế là đầu vào của nhau hoặc bổ trợ cho nhau;"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Bán hàng hóa, cung ứng dịch vụ dưới giá thành toàn bộ thanh lý hàng tồn kho và chấm dứt kinh doanh loại hàng hóa, dịch vụ đó"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của thỏa thuận hạn chế cạnh tranh:",
+    "answer": "Diễn biến, xu hướng thay đổi mức doanh thu của các doanh nghiệp tham gia thỏa thuận được đánh giá trong tương quan với các doanh nghiệp khác là đối thủ cạnh tranh không tham gia thỏa thuận;"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không đúng với việc xác định chứng cứ của tố tụng cạnh tranh",
+    "answer": "Kết luận giám định"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Nhận định nào sau đây ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Các Bộ, cơ quan ngang Bộ trong phạm vì nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Công thương thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào là đúng về nhiệm vụ, quyền hạn của Uỷ ban cạnh tranh quốc gia:",
+    "answer": "Giải quyết khiếu nại quyết định xử lý vụ việc cạnh tranh"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh",
+    "answer": "Thỏa thuận giao dịch mua bán hàng hóa giữa các doanh nghiệp."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào KHÔNG phải là nguyên tắc của hoạt động cạnh tranh",
+    "answer": "Khách quan"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Yêu cầu, khuyến nghị các hiệp hội ngành, nghề, tổ chức xã hội - nghề nghiệp khác hoặc các doanh nghiệp liên kết với nhau nhằm hạn chế cạnh tranh trên thị trường;"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Thúc đẩy cạnh tranh, bảo đảm quyền tự do cạnh tranh trong kinh doanh của doanh nghiệp theo quy định của pháp luật."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây là không đúng:",
+    "answer": "Thị trường sản phẩm liên quan là thị trường của những hàng hóa, dịch vụ có thể thay thế cho nhau về đặc tính, mục đích sử dụng nhưng không thể thay thế cho nhau về giá cả."
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí độc quyền bị cấm",
+    "answer": "Áp đặt giá mua, giá bán hàng hóa, dịch vụ hoặc ấn định giá bán lại tối thiểu"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Lôi kéo khách hàng bất chính bằng cách so sánh hàng hóa, dịch vụ của mình với hàng hóa, dịch vụ cùng loại của doanh nghiệp khác nhưng không chứng minh được nội dung."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Thời hạn ra quyết định về việc hưởng miễn trừ là 30 ngày kể từ ngày thụ lý hồ sơ."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế hoặc kiểm soát số lượng, khối lượng sản xuất, mua, bán hàng hóa, cung ứng dịch vụ giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là trường hợp UB cạnh tranh quốc gia quyết định bãi bỏ quyết định hưởng miễn trừ",
+    "answer": "Quyết định hưởng miễn trừ dựa trên thông tin, tài liệu chính xác về điều kiện được hưởng miễn trừ"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí thống lĩnh thị trường bị cấm",
+    "answer": "Áp dụng điều kiện thương mại khác nhau trong các giao dịch khác nhau không ngăn cản doanh nghiệp khác tham gia, mở rộng thị trường hoặc loại bỏ doanh nghiệp khác;"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Nhận định sau đây về Hành vi cạnh tranh không lành mạnh là đúng?",
+    "answer": "Là hành vi của doanh nghiệp trái với nguyên tắc thiện chí, trung thực, tập quán thương mại và các chuẩn mực khác trong kinh doanh, gây thiệt hại hoặc có thể gây thiệt hại đến quyền và lợi ích hợp pháp của doanh nghiệp khác"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Lôi kéo khách hàng bất chính bằng cách đưa thông tin gian dối hoặc gây nhầm lẫn cho khách hàng về doanh nghiệp hoặc hàng hóa, dịch vụ, khuyến mại, điều kiện giao dịch liên quan đến hàng hóa, dịch vụ mà doanh nghiệp cung cấp nhằm thu hút khách hàng của doanh nghiệp khá"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào là không đúng về nhiệm vụ, quyền hạn của Cơ quan điều tra vụ việc cạnh tranh:",
+    "answer": "Quyết định việc miễn trừ đối với thỏa thuận hạn chế cạnh tranh bị cấm; giải quyết khiếu nại quyết định xử lý vụ việc cạnh tranh và các nhiệm vụ khác theo quy định của Luật này và quy định của luật khác có liên quan"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Xâm phạm thông tin bí mật trong kinh doanh bằng cách tiếp cận, thu thập thông tin bí mật trong kinh doanh bằng cách chống lại các biện pháp bảo mật của người sở hữu thông tin đó"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG ĐÚNG :",
+    "answer": "Thị phần của doanh nghiệp thuộc nhóm doanh nghiệp liên kết là thị phần của các doanh nghiệp lớn trong nhóm doanh nghiệp liên kết đó."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố đánh giá tác động tích cực của việc tập trung kinh tế",
+    "answer": "Thu hút nguồn vốn đầu tư trong nước và nước ngoài"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Trong trường hợp có quy định khác nhau về miễn trừ đối với thỏa thuận hạn chế cạnh tranh bị cấm giữa quy định của các đạo luật sau thì áp dụng quy định của Luật nào",
+    "answer": "Luật cạnh tranh"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí độc quyền bị cấm",
+    "answer": "Bán hàng hóa, cung ứng dịch vụ dưới giá thành toàn bộ dẫn đến hoặc có khả năng dẫn đến loại bỏ đối thủ cạnh tranh"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào KHÔNG phải là chính sách của Nhà nước về cạnh tranh",
+    "answer": "Thúc đẩy đầu tư, bảo đảm quyền tự do cạnh tranh trong kinh doanh của doanh nghiệp theo quy định của pháp luật."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây là không đúng:",
+    "answer": "Thị trường liên quan là thị trường địa lý liên quan."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là phương pháp xác định thị phần của doanh nghiệp trên thị trường liên quan:",
+    "answer": "Tỷ lệ phần trăm giữa doanh thu bán ra của doanh nghiệp này với tổng doanh thu bán ra của một số doanh nghiệp trên thị trường liên quan theo tháng, quý, năm;"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là phương pháp xác định thị phần của doanh nghiệp trên thị trường liên quan:",
+    "answer": "Tỷ lệ phần trăm giữa số đơn vị hàng hóa, dịch vụ mua vào của doanh nghiệp này với tổng số đơn vị hàng hóa, dịch vụ mua vào của một số doanh nghiệp trên thị trường liên quan theo tháng, quý, năm."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Sau khi thụ lý hồ sơ đề nghị hưởng miễn trừ đối với thỏa thuận hạn chế cạnh tranh bị cấm, Ủy ban Cạnh tranh Quốc gia không có quyền yêu cầu bên nộp hồ sơ bổ sung thông tin, tài liệu cần thiết khác có liên quan đến dự định thực hiện thỏa thuận hạn chế cạnh tranh."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Thuyết phục khách hàng, đối tác kinh doanh của doanh nghiệp khác giao dịch với doanh nghiệp mình."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận áp đặt hoặc ấn định điều kiện ký kết hợp đồng mua, bán hàng hóa, cung ứng dịch vụ cho doanh nghiệp khác hoặc thỏa thuận buộc doanh nghiệp khác chấp nhận các nghĩa vụ không liên quan trực tiếp đến đối tượng của hợp đồng giữa các doanh nghiệp trên cùng thị trường liên quan khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG ĐÚNG về nhóm doanh nghiệp được coi là có vị trí thống lĩnh thị trường",
+    "answer": "Bốn doanh nghiệp có tổng thị phần từ 80% trở lên trên thị trường liên quan;"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hình thức tập trung kinh tế",
+    "answer": "Tách doanh nghiệp;"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là phương pháp xác định thị phần của doanh nghiệp trên thị trường liên quan:",
+    "answer": "Tỷ lệ phần trăm giữa số đơn vị hàng hóa, dịch vụ bán ra của doanh nghiệp này với tổng số đơn vị hàng hóa, dịch vụ bán ra của một số doanh nghiệp trên thị trường liên quan theo tháng, quý, năm"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Tiếp cận, thu thập mọi thông tin trong kinh doanh của người sở hữu thông tin đó đã công bố"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là phương pháp xác định thị phần của doanh nghiệp trên thị trường liên quan:",
+    "answer": "Tỷ lệ phần trăm giữa doanh số mua vào của doanh nghiệp này với tổng doanh số mua vào của một số doanh nghiệp trên thị trường liên quan theo tháng, quý, năm;"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố xác định sức mạnh thị trường đáng kể của doanh nghiệp và nhóm doanh nghiệp",
+    "answer": "Quyền sở hữu, nắm giữ, tiếp cận cơ sở hạ tầng được đánh giá để xác định ưu thế của doanh nghiệp, nhóm doanh nghiệp so với tất cả các doanh nghiệp khác căn cứ vào mức độ thiết yếu, khả năng tiếp cận cơ sở hạ tầng cho sản xuất, kinh doanh hàng hóa, dịch vụ;"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về xác định ranh giới của khu vực địa lý của thị trường địa lý liên quan:",
+    "answer": "Khu vực địa lý có cơ sở kinh doanh và không có cơ sở kinh doanh của doanh nghiệp tham gia phân phối hàng hóa, dịch vụ liên quan;"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là trường hợp UB cạnh tranh quốc gia quyết định bãi bỏ quyết định hưởng miễn trừ",
+    "answer": "Điều kiện được hưởng miễn trừ vẫn còn;"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là trường hợp các doanh nghiệp dự định tham gia tập trung kinh tế, phải thông báo cho Ủy ban Cạnh tranh Quốc gia trước khi thực hiện tập trung kinh tế",
+    "answer": "Tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 5.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là phương pháp xác định thị phần của doanh nghiệp trên thị trường liên quan:",
+    "answer": "Tỷ lệ phần trăm giữa số đơn vị hàng hóa, dịch vụ mua vào của doanh nghiệp này với tổng số đơn vị hàng hóa, dịch vụ mua vào của một số doanh nghiệp trên thị trường liên quan theo tháng, quý, năm."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Tiết lộ, sử dụng thông tin bí mật trong kinh doanh khi được phép của chủ sở hữu thông tin đó."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế thị trường tiêu thụ sản phẩm, nguồn cung cấp hàng hóa, cung ứng dịch vụ của các bên không tham gia thỏa thuận giữa các doanh nghiệp trên cùng thị trường liên quan khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không phải là nguyên tắc của tố tụng cạnh tranh:",
+    "answer": "Hoạt động tố tụng cạnh tranh của cơ quan tiến hành tố tụng cạnh tranh, người tiến hành tố tụng cạnh tranh, người tham gia tố tụng cạnh tranh và của cơ quan, tổ chức, cá nhân có liên quan phải tuân theo quy định của pháp luật tố tụng dân sự."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG ĐÚNG :",
+    "answer": "Doanh thu bán ra, doanh số mua vào, số đơn vị bán ra, mua vào đối với một loại hàng hóa, dịch vụ để xác định thị phần của nhóm doanh nghiệp liên kết được tính bằng tổng doanh thu bán ra, doanh số mua vào, số đơn vị bán ra, mua vào đối với loại hàng hóa, dịch vụ đó của một số doanh nghiệp lớn trong nhóm doanh nghiệp liên kết;"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào không phải là người tiến hành tố tụng cạnh tranh",
+    "answer": "Thừa phát lại"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Phân biệt đối xử giữa các doanh nghiệp;"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là biện pháp Nhà nước kiểm soát doanh nghiệp hoạt động trong lĩnh vực độc quyền nhà nước",
+    "answer": "Quyết định doanh thu của các Doanh nghiệp hoạt động trong lĩnh vực độc quyền nhà nướ"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hình thức tập trung kinh tế",
+    "answer": "Chia doanh nghiệp;"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Trong trường hợp có quy định khác nhau về điều tra, xử lý vụ việc cạnh tranh giữa quy định của các đạo luật sau thì áp dụng quy định của Luật nào",
+    "answer": "Luật cạnh tranh"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không đúng với việc xác định chứng cứ của tố tụng cạnh tranh:",
+    "answer": "Vật chứng là chứng cứ không nhất thiết phải là hiện vật gốc liên quan đến vụ việc;"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là điều kiện để được hưởng miễn trừ đối với thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thống nhất các điều kiện thực hiện hợp đồng, giao hàng, thanh toán liên quan đến giá và các yếu tố của giá."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Hoạt động nào trong số các hoạt động sau KHÔNG thuộc sự điều chỉnh của pháp luật cạnh tranh",
+    "answer": "Thỏa thuận phạt vi phạm hợp đồng mua bán hàng hóa"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố xác định sức mạnh thị trường đáng kể của doanh nghiệp và nhóm doanh nghiệp:",
+    "answer": "Tương quan thị phần giữa các doanh nghiệp trên thị trường liên quan được đánh giá trên cơ sở so sánh thị phần giữa các doanh nghiệp, nhóm doanh nghiệp trên thị trường sản phẩm liên quan"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về xác định thị trường sản phẩm liên quan trong trường hợp đặc biệt:",
+    "answer": "Khi xác định thị trường sản phẩm liên quan có thể xem xét thêm thị trường của các hàng hóa, dịch vụ khác cho sản phẩm liên quan."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là tiêu chí để xác định ngưỡng thông báo tập trung kinh tế",
+    "answer": "Tổng tài sản trên thị trường liên quan của doanh nghiệp tham gia tập trung kinh tế;"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG PHẢI là rào cản gia nhập, mở rộng thị trường:",
+    "answer": "Chi phí ban đầu khi gia nhập thị trường mà doanh nghiệp có thể thu hồi khi rút khỏi thị trường."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố xác định sức mạnh thị trường đáng kể của doanh nghiệp và nhóm doanh nghiệp",
+    "answer": "Các yếu tố đặc thù trong ngành, lĩnh vực mà doanh nghiệp, nhóm doanh nghiệp đang hoạt động kinh doanh được đánh giá để xác định ưu thế của doanh nghiệp, nhóm doanh nghiệp so với tất cả các doanh nghiệp khác trong điều kiện cụ thể của ngành, lĩnh vực đó"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào là đúng về nhiệm vụ, quyền hạn của Uỷ ban cạnh tranh quốc gia:",
+    "answer": "Tham mưu giúp Bộ trưởng Bộ Công Thương thực hiện chức năng quản lý nhà nước về cạnh tranh Tham mưu giúp Bộ trưởng Bộ Công Thương thực hiện chức năng quản lý nhà nước về cạnh tranh"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Nhận định nào sau đây ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây là không đúng:",
+    "answer": "Thị trường sản phẩm liên quan là thị trường của những hàng hóa, dịch vụ không thể thay thế cho nhau về đặc tính, mục đích sử dụng và giá cả."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tăng cường khả năng tiếp cận thị trường, nâng cao hiệu quả kinh tế, phúc lợi xã hội và bảo vệ quyền lợi người tiêu dùng."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận không giao dịch với các bên không tham gia thỏa thuận giữa các doanh nghiệp trên cùng thị trường liên quan khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí thống lĩnh thị trường bị cấm",
+    "answer": "Áp dụng điều kiện thương mại khác nhau trong các giao dịch khác nhau không ngăn cản doanh nghiệp khác tham gia, mở rộng thị trường hoặc loại bỏ doanh nghiệp khác;"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của thỏa thuận hạn chế cạnh tranh:",
+    "answer": "Giảm chi phí, thời gian của khách hàng trong việc mua hàng hóa, dịch vụ của doanh nghiệp tham gia thỏa thuận hoặc khi chuyển sang mua hàng hóa, dịch vụ liên quan khác được xác định bằng việc so sánh chi phí, thời gian cần thiết của khách hàng khi mua hàng hóa, dịch vụ của doanh nghiệp tham gia thỏa thuận hoặc khi chuyển sang mua hàng hóa, dịch vụ của doanh nghiệp là đối thủ cạnh tranh trước và sau khi có thỏa thuận;"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của thỏa thuận hạn chế cạnh tranh:",
+    "answer": "Diễn biến, xu hướng thay đổi mức lợi nhuận của các doanh nghiệp tham gia thỏa thuận được đánh giá trong tương quan với các doanh nghiệp khác là đối thủ cạnh tranh không tham gia thỏa thuận"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không phải là nguyên tắc của tố tụng cạnh tranh:",
+    "answer": "Cơ quan tiến hành tố tụng cạnh tranh, người tiến hành tố tụng cạnh tranh, người tham gia tố tụng cạnh tranh không phải giữ bí mật về thông tin liên quan tới vụ việc cạnh tranh, bí mật kinh doanh của doanh nghiệp"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Trong trường hợp có quy định khác nhau về hành vi hạn chế cạnh tranh giữa quy định của các đạo luật sau thì áp dụng quy định của Luật nào",
+    "answer": "Luật các tổ chức tín dụng"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tạo điều kiện để xã hội, người tiêu dùng tham gia quá trình giám sát việc thực hiện pháp luật về cạnh tranh."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí độc quyền bị cấm",
+    "answer": "Đơn phương thay đổi hoặc hủy bỏ hợp đồng đã giao kết"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Bảo vệ quyền lợi người tiêu dùng"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Khả năng doanh nghiệp sau tập trung kinh tế giảm giá hoặc giảm tỷ suất lợi nhuận trên doanh thu một cách đáng kể;"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Trong các loại quyền sau quyền nào là quyền được đảm bảo thực hiện theo quy định của pháp luật cạnh tranh",
+    "answer": "Quyền tự do cạnh tranh hợp pháp"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trong trường hợp có quy định khác nhau về hành vi cạnh tranh không lành mạnh giữa quy định của các đạo luật sau thì áp dụng quy định của Luật nào",
+    "answer": "Luật xây dựng"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Quốc hội thống nhất quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Xâm phạm thông tin bí mật trong kinh doanh bằng cách tiết lộ, sử dụng thông tin bí mật trong kinh doanh mà không được phép của chủ sở hữu thông tin đó."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của thỏa thuận hạn chế cạnh tranh:",
+    "answer": "Hạn chế nghiên cứu, phát triển, đổi mới công nghệ hoặc hạn chế năng lực công nghệ được đánh giá để xác định tác động hoặc khả năng gây tác động của thỏa thuận hạn chế cạnh tranh đối với mục tiêu nghiên cứu, phát triển, đổi mới công nghệ hoặc nâng cao năng lực công nghệ trong tất cả các ngành và lĩnh vực kinh doanh"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Công Thương thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Doanh nghiệp được coi là có vị trí thống lĩnh thị trường nếu có thị phần từ 40% trở lên trên thị trường liên quan."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào là không đúng về nhiệm vụ, quyền hạn của Uỷ ban cạnh tranh quốc gia:",
+    "answer": "Thực hiện các biện pháp nghiệp vụ điều tra trong quá trình điều tra phù hợp với quy định của pháp luật"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không phải là nhiệm vụ, quyền hạn của Thủ trưởng Cơ quan điều tra vụ việc cạnh tranh khi tiến hành tố tụng cạnh tranh",
+    "answer": "Quyết định phân công điều tra viên vụ việc cạnh tranh;"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Yêu cầu, khuyến nghị doanh nghiệp, cơ quan, tổ chức, cá nhân không thực hiện việc sản xuất, mua, bán hàng hóa, cung ứng, sử dụng dịch vụ cụ thể hoặc mua, bán hàng hóa, cung ứng, sử dụng dịch vụ với doanh nghiệp cụ thể, trừ hàng hóa, dịch vụ thuộc lĩnh vực độc quyền nhà nước hoặc trong trường hợp khẩn cấp theo quy định của pháp luật"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là biện pháp Nhà nước kiểm soát doanh nghiệp hoạt động trong lĩnh vực độc quyền nhà nước",
+    "answer": "Quyết định thị trường liên quan đến hàng hóa, dịch vụ thuộc lĩnh vực độc quyền nhà nước"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không phải là nhiệm vụ quyền hạn của Chủ tịch Ủy ban Cạnh tranh Quốc gia khi tiến hành tố tụng cạnh tranh",
+    "answer": "Không được yêu cầu cơ quan có thẩm quyền áp dụng, thay đổi hoặc hủy bỏ biện pháp ngăn chặn và bảo đảm xử lý vi phạm hành chính trong điều tra, xử lý vụ việc cạnh tranh theo quy định của pháp luật về xử lý vi phạm hành chính"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của thỏa thuận hạn chế cạnh tranh:",
+    "answer": "Tăng khả năng tiếp cận, nắm giữ cơ sở hạ tầng thiết yếu được đánh giá căn cứ vào mức độ thiết yếu của cơ sở hạ tầng đối với hoạt động sản xuất, kinh doanh và chi phí, thời gian để các doanh nghiệp là đối thủ cạnh tranh không tham gia thỏa thuận có thể tiếp cận, nắm giữ cơ sở hạ tầng đó hoặc cơ sở hạ tầng tương tự;"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là tiêu chí để xác định ngưỡng thông báo tập trung kinh tế",
+    "answer": "Thị phần kết hợp trên thị trường sản phẩm liên quan của doanh nghiệp tham gia tập trung kinh tế."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tăng cường khả năng tiếp cận thị trường, nâng cao hiệu quả kinh tế, phúc lợi xã hội và bảo vệ quyền lợi của người tiêu dùng."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Thị phần kết hợp của các doanh nghiệp tham gia tập trung kinh tế trên thị trường hàng hóa, dịch vụ;"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây là không đúng:",
+    "answer": "Thị trường địa lý liên quan là khu vực địa lý không xác định trong đó có những hàng hóa, dịch vụ được cung cấp có thể thay thế cho nhau với các điều kiện cạnh tranh tương tự và có sự khác biệt đáng kể với các khu vực địa lý lân cận."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế phát triển kỹ thuật, công nghệ, hạn chế đầu tư giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố xác định sức mạnh thị trường đáng kể của doanh nghiệp và nhóm doanh nghiệp",
+    "answer": "Quyền sở hữu, quyền sử dụng đối tượng quyền sở hữu trí tuệ được đánh giá để xác định ưu thế của doanh nghiệp, nhóm doanh nghiệp so với tất cả các doanh nghiệp khác căn cứ vào mức độ thiết yếu, khả năng tiếp cận đối tượng quyền sở hữu trí tuệ của doanh nghiệp trong hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ;"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh",
+    "answer": "Thỏa thuận phát triển kỹ thuật, công nghệ, đầu tư."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí thống lĩnh thị trường bị cấm",
+    "answer": "Áp đặt điều kiện cho doanh nghiệp khác trong ký kết hợp đồng mua, bán hàng hóa, dịch vụ hoặc yêu cầu doanh nghiệp khác, khách hàng chấp nhận các nghĩa vụ liên quan trực tiếp đến đối tượng của hợp đồng không ngăn cản doanh nghiệp khác tham gia, mở rộng thị trường hoặc loại bỏ doanh nghiệp khác;"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hành vi lạm dụng vị trí độc quyền bị cấm",
+    "answer": "Áp dụng điều kiện thương mại khác nhau trong các giao dịch khác nhau không ngăn cản doanh nghiệp khác tham gia, mở rộng thị trường hoặc loại bỏ doanh nghiệp khác;"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Thúc đẩy cạnh tranh, bảo đảm quyền tự do cạnh tranh trong kinh doanh của doanh nghiệp theo quy định của pháp luật."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế cạnh tranh giữa các doanh nghiệp trên cùng thị trường sản phẩm liên quan quy định tại các khoản 4, 5 và 6 Điều 11 của Luật cạnh tranh 2018."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Lợi thế cạnh tranh do tập trung kinh tế mang lại trên thị trường sản phẩm liên quan;"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Lôi kéo khách hàng bất chính bằng cách đưa thông tin trung thực cho khách hàng về doanh nghiệp hoặc hàng hóa, dịch vụ, khuyến mại mà doanh nghiệp cung cấp nhằm thu hút khách hàng của doanh nghiệp khá"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là điều kiện để được hưởng miễn trừ đối với thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Tăng cường sức cạnh tranh của doanh nghiệp trên thị trường Việt Nam;"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận ấn định giá hàng hóa, dịch vụ một cách trực tiếp hoặc gián tiếp giữa các doanh nghiệp trên cùng thị trường liên quan giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tạo lập, duy trì môi trường cạnh tranh lành mạnh, công bằng, bình đẳng, minh bạch."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây không phải là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Lôi kéo khách hàng bất chính bằng cách so sánh hàng hóa, dịch vụ của mình với hàng hóa, dịch vụ giả mạo cùng loại của doanh nghiệp khác đã được chứng minh."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Ép buộc khách hàng, đối tác kinh doanh của doanh nghiệp khác bằng hành vi đe dọa hoặc cưỡng ép để buộc họ không giao dịch hoặc ngừng giao dịch với doanh nghiệp đó."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào không phải là người tiến hành tố tụng cạnh tranh",
+    "answer": "Tổng cục trưởng tổng cục thuế"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào là không đúng về nhiệm vụ, quyền hạn của Cơ quan điều tra vụ việc cạnh tranh:",
+    "answer": "Giải quyết vụ việc cạnh tranh"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không phải là nhiệm vụ, quyền hạn của Thủ trưởng Cơ quan điều tra vụ việc cạnh tranh khi tiến hành tố tụng cạnh tranh",
+    "answer": "Quyết định điều tra vụ việc cạnh tranh không cần sự chấp thuận của Chủ tịch Ủy ban Cạnh tranh Quốc gia;"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh",
+    "answer": "Thỏa thuận giao dịch mua bán hàng hóa giữa các doanh nghiệp ."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Mối quan hệ của các doanh nghiệp tham gia tập trung kinh tế trong chuỗi sản xuất, phân phối, cung ứng đối với một số loại hàng hóa, dịch vụ nhất định hoặc ngành, nghề kinh doanh của các doanh nghiệp tham gia tập trung kinh tế là đầu vào của nhau hoặc bổ trợ cho nhau;"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Cung cấp thông tin không trung thực về doanh nghiệp khác bằng cách trực tiếp hoặc gián tiếp đưa thông tin không trung thực về doanh nghiệp gây ảnh hưởng xấu đến uy tín, tình trạng tài chính hoặc hoạt động kinh doanh của doanh nghiệp đó"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của thỏa thuận hạn chế cạnh tranh:",
+    "answer": "Rào cản gia nhập, mở rộng thị trường được đánh giá để xác định tác động hoặc khả năng gây tác động hạn chế cạnh tranh của thỏa thuận không căn cứ vào những yếu tố ảnh hưởng đến việc quyết định của doanh nghiệp khi gia nhập, mở rộng thị trường;"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về xác định thị trường sản phẩm liên quan trong trường hợp đặc biệt:",
+    "answer": "Thị trường sản phẩm liên quan trọng trường hợp đặc biệt có thể được xác định là thị trường của một nhóm hàng hóa, dịch vụ căn cứ vào đặc tính của hàng hóa, dịch vụ đó, tập quán tiêu dùng hoặc phương thức giao dịch đặc thù, bao gồm các phương thức có sử dụng công nghệ thông tin."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Trong thời hạn 10 ngày kể từ ngày nhận được yêu cầu của Ủy ban Cạnh tranh Quốc gia về việc tham vấn ý kiến, cơ quan, tổ chức, cá nhân được tham vấn có trách nhiệm trả lời bằng văn bản và cung cấp thông tin, tài liệu có liên quan về nội dung được tham vấn."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Doanh nghiệp được coi là có vị trí thống lĩnh thị trường nếu có sức mạnh thị trường đáng kể được xác định theo quy định tại Điều 26 của Luật cạnh tranh 2018 và có thị phần từ 30% trở lên trên thị trường liên quan."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của thỏa thuận hạn chế cạnh tranh:",
+    "answer": "Tăng khả năng tiếp cận, nắm giữ cơ sở hạ tầng thiết yếu được đánh giá căn cứ vào mức độ thiết yếu của cơ sở hạ tầng đối với hoạt động sản xuất, kinh doanh và chi phí, thời gian để các doanh nghiệp là đối thủ cạnh tranh không tham gia thỏa thuận có thể tiếp cận, nắm giữ cơ sở hạ tầng đó hoặc cơ sở hạ tầng tương tự;"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận phân chia khách hàng, phân chia thị trường tiêu thụ, nguồn cung cấp hàng hóa, cung ứng dịch vụ giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Nhận định nào sau đây ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Chính phủ thống nhất quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không đúng với việc xác định chứng cứ của tố tụng cạnh tranh:",
+    "answer": "Thông điệp dữ liệu điện tử được thể hiện chỉ dưới hình thức trao đổi dữ liệu điện tử, chứng từ điện tử, thư điện tử, điện tín, điện báo, fax"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào KHÔNG phải là chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tạo điều kiện để các cơ quan nhà nước giám sát việc thực hiện pháp luật về cạnh tranh."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không phải là nhiệm vụ, quyền hạn của Thủ trưởng Cơ quan điều tra vụ việc cạnh tranh khi tiến hành tố tụng cạnh tranh",
+    "answer": "Tổ chức xử lý vụ việc hạn chế cạnh tranh"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây là không đúng:",
+    "answer": "Thị trường địa lý liên quan là khu vực địa lý cụ thể trong đó có những hàng hóa, dịch vụ được cung cấp không thể thay thế cho nhau với các điều kiện cạnh tranh tương tự và có sự khác biệt đáng kể với các khu vực địa lý lân cận."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không đúng với việc xác định chứng cứ của tố tụng cạnh tranh:",
+    "answer": "Tài liệu nghe được, nhìn được chỉ được coi là chứng cứ nếu được xuất trình kèm theo văn bản trình bày của người có tài liệu đó về xuất xứ của tài liệu nếu họ tự thu âm, thu hình"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tạo lập, duy trì môi trường cạnh tranh lành mạnh, công bằng, bình đẳng, minh bạch."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào KHÔNG phải là chính sách của Nhà nước về cạnh tranh",
+    "answer": "Thu hút đầu tư nước ngoài vào Việt Nam"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG ĐÚNG về quản lý nhà nước về cạnh tranh",
+    "answer": "Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình trực tiếp thực hiện quản lý nhà nước về cạnh tranh."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào là đúng chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tăng cường khả năng tiếp cận thị trường, nâng cao hiệu quả kinh tế, phúc lợi xã hội và bảo vệ quyền lợi của người tiêu dùng."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh",
+    "answer": "Thỏa thuận phạt vi phạm hợp đồng giữa các doanh nghiệp"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế cạnh tranh giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định quy định tại các khoản 1, 2, 3, 7, 8, 9, 10 và 11 Điều 11 của Luật cạnh tranh 2018 khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là yếu tố xác định thuộc tính có thể thay thế cho nhau của hàng hóa, dịch vụ để kết luận về thị trường sản phẩm liên quan:",
+    "answer": "Thói quen của người tiêu dùng"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Nhận định nào trong các nhận định sau đây không phải là yếu tố xác định thuộc tính có thể thay thế cho nhau của hàng hóa, dịch vụ để kết luận về thị trường sản phẩm liên quan:",
+    "answer": "Thói quen trong thực hiện hợp đồng của các doanh nghiệp"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là tiêu chí để xác định ngưỡng thông báo tập trung kinh tế",
+    "answer": "Tổng doanh thu trên thị trường liên quan của doanh nghiệp tham gia tập trung kinh tế;"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là không đúng",
+    "answer": "Đối với vụ việc phức tạp, thời hạn ra quyết định có thể được Ủy ban Cạnh tranh Quốc gia gia hạn nhưng không quá 10 ngày. Việc gia hạn phải được thông báo bằng văn bản cho bên nộp hồ sơ chậm nhất là 05 ngày làm việc trước ngày hết thời hạn ra quyết định."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào là KHÔNG bị nghiêm cấm có liên quan đến cạnh tranh",
+    "answer": "Không yêu cầu, khuyến nghị các hiệp hội ngành, nghề, tổ chức xã hội - nghề nghiệp khác hoặc các doanh nghiệp liên kết với nhau nhằm hạn chế cạnh tranh trên thị trường;"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế phát triển kỹ thuật, công nghệ, hạn chế đầu tư giữa các doanh nghiệp trên cùng thị trường liên quan khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Trong các nhận định sau nhận định nào không phải là nhiệm vụ quyền hạn của Chủ tịch Ủy ban Cạnh tranh Quốc gia khi tiến hành tố tụng cạnh tranh",
+    "answer": "Thành lập Hội đồng giải quyết khiếu nại quyết định xử lý vụ việc hạn chế cạnh tranh nhưng không được là Chủ tịch Hội đồng."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để Ủy ban Cạnh tranh Quốc gia đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của việc tập trung kinh tế",
+    "answer": "Mức độ tập trung trên thị trường sản phẩm liên quan sau khi tập trung kinh tế;"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là trường hợp các doanh nghiệp dự định tham gia tập trung kinh tế, phải thông báo cho Ủy ban Cạnh tranh Quốc gia trước khi thực hiện tập trung kinh tế",
+    "answer": "Tổng tài sản trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 5.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố xác định sức mạnh thị trường đáng kể của doanh nghiệp và nhóm doanh nghiệp:",
+    "answer": "Sức mạnh tài chính, quy mô của doanh nghiệp, nhóm doanh nghiệp được cánh giá căn cứ vào năng lực tài chính, khả năng tiếp cận nguồn vốn, tín dụng và các nguồn tài chính khác, tổng nguồn vốn, tổng tài sản, số lao động, quy mô sản xuất, mạng lưới phân phối, tiêu thụ hàng hóa, dịch vụ của doanh nghiệp, nhóm doanh nghiệp đó trong tương quan với tất cả các doanh nghiệp khác"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố xác định sức mạnh thị trường đáng kể của doanh nghiệp và nhóm doanh nghiệp",
+    "answer": "Lợi thế về công nghệ, hạ tầng kỹ thuật của doanh nghiệp, nhóm doanh nghiệp được đánh giá căn cứ vào ưu thế về công nghệ, hạ tầng kỹ thuật của doanh nghiệp, nhóm doanh nghiệp đang sở hữu hoặc sử dụng cho sản xuất, kinh doanh so với tất cả các doanh nghiệp khác"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Nhận định nào sau đây là nhận định ĐÚNG về xác định khả năng thay thế về cung:",
+    "answer": "Khả năng thay thế về cung là việc các doanh nghiệp đang sản xuất, kinh doanh một loại hàng hóa, dịch vụ có khả năng gia tăng sản lượng, số lượng bán hoặc các doanh nghiệp khác bắt đầu hoặc chuyển sang sản xuất, kinh doanh sản phẩm đó trong thời gian dưới 06 tháng mà không có sự tăng lên đáng kể về chi phí nếu giá cả của hàng hóa, dịch vụ đó tăng lên từ 5% đến 10%."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Trong số các nhận định sau đây, nhận định nào KHÔNG phải là chính sách của Nhà nước về cạnh tranh",
+    "answer": "Tăng cường khả năng tiếp cận thị trường, nâng cao hiệu quả kinh tế, phúc lợi xã hội và bảo vệ quyền lực Nhà nước"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Theo Luật Cạnh tranh 2018, hành vi nào sau đây là hành vi cạnh tranh không lành mạnh bị cấm?",
+    "answer": "Gây rối hoạt động kinh doanh của doanh nghiệp khác bằng cách trực tiếp hoặc gián tiếp cản trở, làm gián đoạn hoạt động kinh doanh hợp pháp của doanh nghiệp đó"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là hình thức tập trung kinh tế",
+    "answer": "Hợp tác kinh doanh;"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Trong các nhận định sau, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá khả năng doanh nghiệp sau tập trung kinh tế loại bỏ hoặc ngăn cản doanh nghiệp khác gia nhập, mở rộng thị trường.",
+    "answer": "Mức độ kiểm soát yếu tố đầu vào cho sản xuất, kinh doanh sau tập trung kinh tế;"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố xác định sức mạnh thị trường đáng kể của doanh nghiệp và nhóm doanh nghiệp",
+    "answer": "Khả năng chuyển sang nguồn cung hoặc cầu đối với các hàng hóa, dịch vụ liên quan khác được xác định dựa trên chi phí và thời gian cần thiết để khách hàng, doanh nghiệp chuyển sang mua, bán hàng hóa, dịch vụ của doanh nghiệp khác trên cùng thị trường sản phẩm liên quan;"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là yếu tố để đánh giá tác động hoặc khả năng gây tác động hạn chế cạnh tranh một cách đáng kể của thỏa thuận hạn chế cạnh tranh:",
+    "answer": "Khuyến khích nghiên cứu, phát triển, đổi mới công nghệ hoặc năng lực công nghệ được đánh giá để xác định tác động hoặc khả năng gây tác động của thỏa thuận hạn chế cạnh tranh đối với mục tiêu nghiên cứu, phát triển, đổi mới công nghệ hoặc nâng cao năng lực công nghệ trong ngành và lĩnh vực liên quan;"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Trong các nhận định sau đây, nhận định nào KHÔNG PHẢI là thỏa thuận hạn chế cạnh tranh bị cấm",
+    "answer": "Thỏa thuận hạn chế thị trường tiêu thụ sản phẩm, nguồn cung cấp hàng hóa, cung ứng dịch vụ của các bên không tham gia thỏa thuận giữa các doanh nghiệp kinh doanh ở các công đoạn khác nhau trong cùng một chuỗi sản xuất, phân phối, cung ứng đối với một loại hàng hóa, dịch vụ nhất định khi thỏa thuận đó không gây tác động hoặc không có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường"
+  }
+]

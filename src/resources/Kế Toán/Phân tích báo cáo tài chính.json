@@ -1,0 +1,2882 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Khả năng thanh toán nợ ngắn hạn được xác định:",
+    "answer": "Tài sản ngắn hạn/Nợ ngắn hạn"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Số lần thanh toán được xác định:",
+    "answer": "Tổng tiền hàng mua chịu/Nợ phải trả KH bình quân"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Số lần thu hồi tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29.600\nTiền hàng mua chịu: 25.800\nNợ phải thu bình quân: 1.480\nNợ phải trả bình quân: 2.580\nlà:",
+    "answer": "20 lần"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng).\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán tổng quát bằng:",
+    "answer": "2,86 lần"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán tức thời cho biết:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi mấy đồng tiền và các khoản tương đương tiền."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán nợ dài hạn cho biết:",
+    "answer": "một đồng nợ dài hạn được bảo đảm bởi mấy đồng tài sản dài hạn"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng)\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n+ Hàng tồn kho: 400\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán tức thời bằng:",
+    "answer": "0,5 lần"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán nhanh được xác định:",
+    "answer": "(Tài sản ngắn hạn – Hàng tồn kho)/Nợ ngắn hạn"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán tức thời được xác định:",
+    "answer": "Tiền và các khoản tương đương tiền/Nợ ngắn hạn"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Phân tích khả năng thanh toán theo thời gian nhằm mục đích cung cấp thông tin về:",
+    "answer": "năng lực thanh toán trước mắt và năng lực thanh toán lâu dài của doanh nghiệp."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Phân tích khả năng thanh toán cung cấp cho người sử dụng những thông tin:",
+    "answer": "đánh giá khái quát khả năng thanh toán, xác định khả năng thanh toán ngắn hạn, dài hạn và khả năng thanh toán theo thời gian của doanh nghiệp."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Hệ số nợ phải thu so với nợ phải trả > 1:",
+    "answer": "Doanh nghiệp bị chiếm dụng vốn"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán nợ dài hạn được xác định:",
+    "answer": "Tài sản dài hạn/Nợ dài hạn"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán nhanh cho biết:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi mấy đồng tài sản ngắn hạn sau khi đã loại trừ giá trị hàng tồn kho."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Thời gian thanh toán tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29600\nTiền hàng mua chịu: 25800\nNợ phải thu bình quân: 1480\nNợ phải trả bình quân: 2580\nlà:",
+    "answer": "36 ngày"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng). - Tài sản ngắn hạn: 550; trong đó: + Tiền và các khoản tương đương tiền: 50 + Hàng tồn kho: 400 - Tài sản dài hạn: 450 - Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300, nợ dài hạn: 50 - Vốn chủ sở hữu: 650 Hệ số khả năng thanh toán nợ dài hạn bằng:",
+    "answer": "9 lần"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng)\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n+ Hàng tồn kho: 400\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán nhanh bằng:",
+    "answer": "0,5 lần"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Hệ số nợ được xác định:",
+    "answer": "Nợ phải trả/Tổng tài sản"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Thời gian thu hồi tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29600\nTiền hàng mua chịu: 25800\nNợ phải thu bình quân: 1480\nNợ phải trả bình quân: 2580\nlà:",
+    "answer": "18 ngày"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Về mặt lý thuyết, trị số chỉ tiêu “Hệ số khả năng thanh toán nợ ngắn hạn” < 1 cho biết:",
+    "answer": "doanh nghiệp không có đủ khả năng thanh toán các khoản nợ ngắn hạn."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Thời gian thu hồi tiền hàng và thanh toán tiền hàng ở Công ty H theo số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29.600\nTiền hàng mua chịu: 25.800\nNợ phải thu bình quân: 1.480\nNợ phải trả bình quân: 2.580\nlà:",
+    "answer": "18 ngày và 36 ngày"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Số lần thanh toán tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29.600\nTiền hàng mua chịu: 25.800\nNợ phải thu bình quân: 1.480\nNợ phải trả bình quân: 2.580\nlà:",
+    "answer": "10 lần"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Chỉ tiêu “Hệ số khả năng thanh toán nợ ngắn hạn” cho biết:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi mấy đồng tài sản ngắn hạn."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Phân tích tốc độ thanh toán là:",
+    "answer": "Phân tích tình hình thu hồi tiền bán ra và thanh toán tiền hàng mau vào của DN"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Trích bảng CĐKT năm N: (đvt: 1tỷ đ)\n- TSNH: 550; trong đó:\n+ Tiền và các KTĐT: 50\n+ HTK: 400\n- TSDH: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300, nợ dài hạn: 50\n- Vốn chủ sở hữu: 650\nHệ số giữa tài sản dài hạn so với nguồn tài trợ thường xuyên bằng:",
+    "answer": "0,64 lần"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Hệ số nợ phải thu so với nợ phải trả < 1:",
+    "answer": "Doanh nghiệp đi chiếm dụng vốn"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Phần mẫu số ở công thức xác định số lần thu hồi tiền hàng là:",
+    "answer": "nợ phải thu bình quân."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Trích bảng CĐKT năm N: (đvt: 1 tỷ đồng)\n- TSNH: 550; trong đó:\n+ Tiền và các KTĐT: 50\n+ HTK: 400\n- TSDH: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300\n- Vốn chủ sở hữu: 650\nHệ số nợ bằng:",
+    "answer": "0,35 lần"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Hệ số thanh toán tức thời bằng 0,5 có nghĩa là:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi 0,5 đồng tiền và các khoản tương đương tiền."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Về mặt lý thuyết, chỉ tiêu “Hệ số khả năng thanh toán nợ ngắn hạn” ≥ 1 cho biết:",
+    "answer": "doanh nghiệp có đủ và thừa khả năng thanh toán các khoản nợ ngắn hạn."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng)\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán nợ ngắn hạn bằng:",
+    "answer": "1,83 lần"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Phần tử số ở công thức xác định số lần thu hồi tiền hàng là:",
+    "answer": "tổng tiền hàng bán chịu."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Hệ số giữa nợ phải trả so với vốn chủ sở hữu được xác định:",
+    "answer": "Nợ phải trả/Vốn chủ sở hữu"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "“Hệ số giữa tài sản dài hạn so với nguồn tài trợ thường xuyên” được xác định:",
+    "answer": "Tài sản dài hạn/Nguồn tài trợ thường xuyên"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Hệ số nợ phải thu so với nợ phải trả > 1:",
+    "answer": "Doanh nghiệp bị chiếm dụng vốn"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng).\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán tổng quát bằng:",
+    "answer": "2,86 lần"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Phân tích tốc độ thanh toán là:",
+    "answer": "Phân tích tình hình thu hồi tiền bán ra và thanh toán tiền hàng mau vào của DN"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Về mặt lý thuyết, chỉ tiêu “Hệ số khả năng thanh toán nợ ngắn hạn” ≥ 1 cho biết:",
+    "answer": "doanh nghiệp có đủ và thừa khả năng thanh toán các khoản nợ ngắn hạn."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Thời gian thu hồi tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29600\nTiền hàng mua chịu: 25800\nNợ phải thu bình quân: 1480\nNợ phải trả bình quân: 2580\nlà:",
+    "answer": "18 ngày"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng). - Tài sản ngắn hạn: 550; trong đó: + Tiền và các khoản tương đương tiền: 50 + Hàng tồn kho: 400 - Tài sản dài hạn: 450 - Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300, nợ dài hạn: 50 - Vốn chủ sở hữu: 650 Hệ số khả năng thanh toán nợ dài hạn bằng:",
+    "answer": "9 lần"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng)\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n+ Hàng tồn kho: 400\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán nhanh bằng:",
+    "answer": "0,5 lần"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Khả năng thanh toán nợ ngắn hạn được xác định:",
+    "answer": "Tài sản ngắn hạn/Nợ ngắn hạn"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán nhanh được xác định:",
+    "answer": "(Tài sản ngắn hạn – Hàng tồn kho)/Nợ ngắn hạn"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán tức thời cho biết:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi mấy đồng tiền và các khoản tương đương tiền."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Thời gian thu hồi tiền hàng và thanh toán tiền hàng ở Công ty H theo số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29.600\nTiền hàng mua chịu: 25.800\nNợ phải thu bình quân: 1.480\nNợ phải trả bình quân: 2.580\nlà:",
+    "answer": "18 ngày và 36 ngày"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Thời gian thanh toán tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29600\nTiền hàng mua chịu: 25800\nNợ phải thu bình quân: 1480\nNợ phải trả bình quân: 2580\nlà:",
+    "answer": "36 ngày"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Chỉ tiêu “Hệ số khả năng thanh toán nợ ngắn hạn” cho biết:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi mấy đồng tài sản ngắn hạn."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Phần mẫu số ở công thức xác định số lần thu hồi tiền hàng là:",
+    "answer": "nợ phải thu bình quân."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Số lần thu hồi tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29.600\nTiền hàng mua chịu: 25.800\nNợ phải thu bình quân: 1.480\nNợ phải trả bình quân: 2.580\nlà:",
+    "answer": "20 lần"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng)\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán nợ ngắn hạn bằng:",
+    "answer": "1,83 lần"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Hệ số giữa nợ phải trả so với vốn chủ sở hữu được xác định:",
+    "answer": "Nợ phải trả/Vốn chủ sở hữu"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Phân tích khả năng thanh toán theo thời gian nhằm mục đích cung cấp thông tin về:",
+    "answer": "năng lực thanh toán trước mắt và năng lực thanh toán lâu dài của doanh nghiệp."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán tức thời được xác định:",
+    "answer": "Tiền và các khoản tương đương tiền/Nợ ngắn hạn"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Phân tích khả năng thanh toán cung cấp cho người sử dụng những thông tin:",
+    "answer": "đánh giá khái quát khả năng thanh toán, xác định khả năng thanh toán ngắn hạn, dài hạn và khả năng thanh toán theo thời gian của doanh nghiệp."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Số lần thanh toán tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29.600\nTiền hàng mua chịu: 25.800\nNợ phải thu bình quân: 1.480\nNợ phải trả bình quân: 2.580\nlà:",
+    "answer": "10 lần"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Hệ số thanh toán tức thời bằng 0,5 có nghĩa là:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi 0,5 đồng tiền và các khoản tương đương tiền."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Trích bảng CĐKT năm N: (đvt: 1 tỷ đồng)\n- TSNH: 550; trong đó:\n+ Tiền và các KTĐT: 50\n+ HTK: 400\n- TSDH: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300\n- Vốn chủ sở hữu: 650\nHệ số nợ bằng:",
+    "answer": "0,35 lần"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Trích bảng CĐKT năm N: (đvt: 1tỷ đ)\n- TSNH: 550; trong đó:\n+ Tiền và các KTĐT: 50\n+ HTK: 400\n- TSDH: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300, nợ dài hạn: 50\n- Vốn chủ sở hữu: 650\nHệ số giữa tài sản dài hạn so với nguồn tài trợ thường xuyên bằng:",
+    "answer": "0,64 lần"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán nhanh cho biết:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi mấy đồng tài sản ngắn hạn sau khi đã loại trừ giá trị hàng tồn kho."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Về mặt lý thuyết, trị số chỉ tiêu “Hệ số khả năng thanh toán nợ ngắn hạn” < 1 cho biết:",
+    "answer": "doanh ngCâu hỏi 1"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng)\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n+ Hàng tồn kho: 400\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán tức thời bằng:",
+    "answer": "0,5 lần"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Phần tử số ở công thức xác định số lần thu hồi tiền hàng là:",
+    "answer": "tổng tiền hàng bán chịu."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Hệ số nợ phải thu so với nợ phải trả < 1:",
+    "answer": "Doanh nghiệp đi chiếm dụng vốn"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "“Hệ số giữa tài sản dài hạn so với nguồn tài trợ thường xuyên” được xác định:",
+    "answer": "Tài sản dài hạn/Nguồn tài trợ thường xuyên"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Hệ số nợ được xác định:",
+    "answer": "Nợ phải trả/Tổng tài sản"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán nợ dài hạn được xác định:",
+    "answer": "Tài sản dài hạn/Nợ dài hạn"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Số lần thanh toán được xác định:",
+    "answer": "Tổng tiền hàng mua chịu/Nợ phải trả KH bình quân"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán nợ dài hạn cho biết:",
+    "answer": "một đồng nợ dài hạn được bảo đảm bởi mấy đồng tài sản dài hạn"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Thời gian thanh toán tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29600\nTiền hàng mua chịu: 25800\nNợ phải thu bình quân: 1480\nNợ phải trả bình quân: 2580\nlà:",
+    "answer": "36 ngày"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng)\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n+ Hàng tồn kho: 400\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán nhanh bằng:",
+    "answer": "0,5 lần"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Phân tích khả năng thanh toán theo thời gian nhằm mục đích cung cấp thông tin về:",
+    "answer": "năng lực thanh toán trước mắt và năng lực thanh toán lâu dài của doanh nghiệp."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Phần mẫu số ở công thức xác định số lần thu hồi tiền hàng là:",
+    "answer": "nợ phải thu bình quân."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Hệ số thanh toán tức thời bằng 0,5 có nghĩa là:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi 0,5 đồng tiền và các khoản tương đương tiền."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Phân tích khả năng thanh toán cung cấp cho người sử dụng những thông tin:",
+    "answer": "đánh giá khái quát khả năng thanh toán, xác định khả năng thanh toán ngắn hạn, dài hạn và khả năng thanh toán theo thời gian của doanh nghiệp."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Thời gian thu hồi tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29600\nTiền hàng mua chịu: 25800\nNợ phải thu bình quân: 1480\nNợ phải trả bình quân: 2580\nlà:",
+    "answer": "18 ngày"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Tốc độ luân chuyển của tài sản ngắn hạn (TSNH) kỳ phân tích so với kỳ gốc thay đổi như thế nào khi thời gian luân chuyển của TSNH tại Công ty L như sau:\nNăm (NN1): 36 ngày\nNăm N: 40 ngày",
+    "answer": "càng thấp."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” của Công ty TT trong kỳ phân tích là 0,15 lần, trong kỳ gốc là 0,2 lần. Tốc độ thay đổi của chỉ tiêu này kỳ phân tích so với kỳ gốc là:",
+    "answer": "\\ 25%"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Khả năng sinh lợi của doanh nghiệp được biểu hiện rõ nét và cao độ nhất qua chỉ tiêu:",
+    "answer": "ROE"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\n• Tài sản bình quân: 91.500\n• Vốn dài hạn bình quân: 36.600\n• Doanh thu thuần: 489.000\n• Lợi nhuận trước thuế và lãi vay: 9.150\nChỉ tiêu “Sức sinh lợi của vốn dài hạn” - ROCE - có trị số là:",
+    "answer": "0,25 lần"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau (đơn vị tính: tỷ đồng):\na. Vốn chủ sở hữu bình quân: 75.750\nb. Tổng tài sản bình quân: 101.000\nc. Doanh thu thuần: 505.000\nd. Lợi nhuận sau thuế: 15.150\nChỉ tiêu ROS và AFL lần lượt có trị số là:",
+    "answer": "0,03 lần và 1,33 lần"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Chỉ tiêu “Số lần luân chuyển tài sản” (TAT) năm (N(1) và năm N lần lượt có trị số nào sau đây khi Công ty Q có số liệu như sau (đơn vị tính: triệu đồng):\nNăm (NN1):\nTài sản bình quân: 91.500 Doanh thu thuần: 489.000\nNăm N:\nTài sản bình quân: 77.200\nDoanh thu thuần: 520.000",
+    "answer": "5,34 lần và 6,74 lần"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Mức biến động và tốc độ tăng trưởng của số lần luân chuyển tài sản ngắn hạn kỳ phân tích so với kỳ gốc ở Công ty P theo số liệu sau:\nNăm (NN1): 9 lần\nNăm N: 10 lần\nlà:",
+    "answer": "\\+ 1 lần và \\+ 11,11%"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Số lần luân chuyển của tài sản ngắn hạn (TSNH) năm (Nn1) và năm N lần lượt có trị số nào sau đây khi Công ty Q có số liệu như sau (đơn vị tính: triệu đồng):\nNăm (N 1):\nTSNH bình quân: 9.800\nDoanh thu thuần: 88.200\nNăm N:\nTSNH bình quân: 10.000\nDoanh thu thuần: 100.000",
+    "answer": "9 lần và 10 lần"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Đại lượng nào mà doanh nghiệp có thể thu được trên một đơn vị chi phí hay yếu tố đầu vào hoặc trên một đơn vị đầu ra phản ánh kết quả kinh doanh thể hiện khả năng sinh lợi của doanh nghiệp?",
+    "answer": "Lợi nhuận."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Chỉ tiêu ROE có trị số càng giảm, sức sinh lợi của vốn chủ sở hữu:",
+    "answer": "càng thấp."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau (đơn vị tính: tỷ đồng):\n3.1. Vốn đầu tư bình quân: 75750\n3.2. Doanh thu thuần: 500000\n3.3. Lợi nhuận sau thuế của chủ sở hữu và nhà cung cấp tín dụng: 15150\nChỉ tiêu ROIC có trị số là:",
+    "answer": "0,2 lần"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Tỷ suất sinh lợi cơ bản của tài sản (BEPR) có phần tử số ở công thức là:",
+    "answer": "lợi nhuận trước thuế và lãi vay."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Mức ảnh hưởng của nhân tố doanh thu thuần đến sự thay đổi thời gian luân chuyển tài sản ngắn hạn (TSNH) giữa kỳ phân tích với kỳ gốc ở Công ty Q theo số liệu sau (đơn vị tính: triệu đồng):\nNăm (NN1):\nTSNH bình quân: 9.800\nDoanh thu thuần: 88.200\nNăm N:\nTSNH bình quân: 10.000\nDoanh thu thuần: 100.000 là:",
+    "answer": "= 4,82 ngày"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn dài hạn” của Công ty TT kỳ thực hiện là 0,25 lần, trong kỳ kế hoạch là 0,3 lần. Quy mô thay đổi của chỉ tiêu này kỳ thực hiện so với kỳ kế hoạch là:",
+    "answer": "\\ 0,05 lần"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Tỷ suất sinh lợi của vốn chủ sở hữu có phần mẫu số là:",
+    "answer": "vốn chủ sở hữu bình quân."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn đầu tư” của Công ty TT trong kỳ gốc là 0,25 lần, trong kỳ phân tích là 0,35 lần. Tốc độ thay đổi của chỉ tiêu này kỳ phân tích so với kỳ gốc là:",
+    "answer": "\\+ 40%"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Mức biến động và tốc độ tăng trưởng của chỉ tiêu “Số lần luân chuyển tài sản” (TAT) kỳ phân tích so với kỳ gốc ở Công ty Q theo số liệu sau:\nNăm (NN1): 5,34 lần\nNăm N: 6,34 lần\nlà:",
+    "answer": "\\+ 1,4 lần và \\+ 26,22%"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn đầu tư” của Công ty TT trong năm (Nt1) là 0,25 lần, trong năm N là 0,35 lần. Quy mô thay đổi của chỉ tiêu này năm N so với năm (N 1) là:",
+    "answer": "\\+ 0,10 lần"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Mức ảnh hưởng của nhân tố doanh thu thuần đến chỉ tiêu “Số lần luân chuyển tài sản” (TAT) ở Công ty Q theo số liệu sau (đơn vị tính: triệu đồng):\nNăm (N N 1):\nTài sản bình quân: 91.500 Doanh thu thuần: 489.000\nNăm N:\nTài sản bình quân: 77.200\nDoanh thu thuần: 520.000\nlà:",
+    "answer": "\\ 61,18 lần"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Tỷ suất sinh lợi của vốn chủ sở hữu có tử số là:",
+    "answer": "lợi nhuận sau thuế."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của tài sản” của Công ty TT trong kỳ thực hiện là 0,35 lần, trong kỳ kế hoạch là 0,3 lần. Tốc độ tăng trưởng của chỉ tiêu kỳ thực hiện so với kỳ kế hoạch là:",
+    "answer": "\\+ 16,67%"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Tỷ suất sinh lợi của vốn dài hạn có tử số là:",
+    "answer": "lợi nhuận trước thuế và lãi vay."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Phân tích khả năng sinh lợi theo từng đối tượng áp dụng quy trình phân tích gồm:",
+    "answer": "3 bước"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau: AFL: 2,0; TAT: 5,34; ROS: 0,02 và trong năm (N(1) như sau: AFL: 2,5; TAT: 6,74; ROS: 0,03.\nHãy xác định ảnh hưởng của nhân tố ROS tới sự thay đổi chỉ tiêu ROE.",
+    "answer": "\\– 0,1068 lần"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\na. Vốn chủ sở hữu bình quân: 75.750\nb. Tổng tài sản bình quân: 101.000\nc. Doanh thu thuần: 505.000\nd. Lợi nhuận sau thuế: 15.150\nChỉ tiêu ROA và ROS lần lượt có trị số là:",
+    "answer": "0,15 lần và 0,03 lần"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\nA. Vốn chủ sở hữu bình quân: 75.750\nB. Tổng tài sản bình quân: 101.000\nC. Doanh thu thuần: 505.000\nD. Lợi nhuận sau thuế: 15.150\nChỉ tiêu AFL và TAT lần lượt có trị số là:",
+    "answer": "1,33 lần và 5 lần"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Tử số của chỉ tiêu “Tốc độ tăng trưởng về khả năng sinh lợi” được xác định bằng:",
+    "answer": "trị số của từng chỉ tiêu phản ánh khả năng sinh lợi kỳ phân tích trừ trị số của từng chỉ tiêu phản ánh khả năng sinh lợi kỳ gốc."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Mức ảnh hưởng của nhân tố tổng tài sản bình quân đến chỉ tiêu “Số lần luân chuyển tài sản” (TAT) ở Công ty Q theo số liệu sau (đơn vị tính: triệu đồng):\nNăm (NN1):\nTài sản bình quân: 91.500 Doanh thu thuần: 489.000\nNăm N:\nTài sản bình quân: 77.200\nDoanh thu thuần: 520.000\nlà:",
+    "answer": "62,58 lần"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau: AFL: 2,0; TAT: 5,34; ROS: 0,02 và trong năm (Nu1) như sau: AFL: 2,5; TAT: 6,74; ROS: 0,03.\nHãy xác định ảnh hưởng của nhân tố AFL tới sự thay đổi chỉ tiêu ROE.",
+    "answer": "\\ 0,1 lần"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Mức ảnh hưởng của nhân tố tài sản ngắn hạn (TSNH) bình quân đến sự thay đổi thời gian luân chuyển TSNH giữa kỳ phân tích với kỳ gốc ở Công ty Q theo số liệu sau (đơn vị tính: triệu đồng):\nNăm (NN1):\nTSNH bình quân: 9.800\nDoanh thu thuần: 88.200\nNăm N:\nTSNH bình quân: 10.000\nDoanh thu thuần: 100.000 là:",
+    "answer": "\\+ 0,82 ngày"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” của Công ty TT trong kỳ phân tích là 0,15 lần, trong kỳ gốc là 0,2 lần. Quy mô thay đổi của chỉ tiêu này kỳ phân tích so với kỳ gốc là:",
+    "answer": "\\ 0,05 lần"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau: AFL: 2,0; TAT: 5,34; ROS: 0,02 và trong năm (Nu1) như sau: AFL: 2,5; TAT: 6,74; ROS: 0,03.\nHãy xác định ảnh hưởng của nhân tố TAT tới sự thay đổi chỉ tiêu ROE.",
+    "answer": "\\ 0,084 lần"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\n- Tài sản bình quân: 101.500\n- Vốn chủ sở hữu bình quân: 38.000\n- Doanh thu thuần: 500.000\n- Lợi nhuận sau thuế: 10.150\nChỉ tiêu ROE có trị số là:",
+    "answer": "0,27 lần"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Khi tính toán sự thay đổi chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” giữa kỳ thực hiện với kỳ kế hoạch theo kỹ thuật Dupont, trong quan hệ với doanh thu thuần và tài sản, sự thay đổi này chịu ảnh hưởng tác động số lượng nhân tố là:",
+    "answer": "3 nhân tố."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau (đơn vị tính: tỷ đồng):\nA. Vốn chủ sở hữu bình quân: 75.750\nB. Tổng tài sản bình quân: 101.000\nC. Doanh thu thuần: 500.000\nD. Lợi nhuận sau thuế: 15.150\nChỉ tiêu ROA có trị số là:",
+    "answer": "0,15 lần"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Tỷ suất sinh lợi cơ bản của tài sản (BEPR) có phần mẫu số ở công thức là:",
+    "answer": "tài sản bình quân."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\nA. Vốn chủ sở hữu bình quân: 75.750\nB. Tổng tài sản bình quân: 101.000\nC. Doanh thu thuần: 505.000\nD. Lợi nhuận sau thuế: 15.150\nChỉ tiêu ROE và TAT lần lượt có trị số là:",
+    "answer": "0,2 lần và 5 lần"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau: TAT: 5,34; ROS: 0,02 và trong năm (Nu1) như sau: TAT: 6,74; ROS: 0,03.\nHãy xác định ảnh hưởng của nhân tố TAT tới sự thay đổi chỉ tiêu ROA.",
+    "answer": "\\ 0,042 lần"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của tài sản” của Công ty TT trong kỳ thực hiện là 0,35 lần, trong kỳ kế hoạch là 0,30 lần. Quy mô thay đổi của chỉ tiêu kỳ thực hiện so với kỳ kế hoạch là:",
+    "answer": "\\+ 0,05 lần"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "như sau: TAT: 5,34; ROS: 0,02 và trong năm (N+1) như sau: TAT: 6,74; ROS: 0,03. Hãy xác định ảnh hưởng của nhân tố ROS tới sự thay đổi chỉ tiêu ROA.",
+    "answer": "\\– 0,0534 lần"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn dài hạn” của Công ty TT kỳ thực hiện là 0,25 lần, trong kỳ kế hoạch là 0,3 lần. Tốc độ tăng trưởng của chỉ tiêu này kỳ thực hiện so với kỳ kế hoạch là:",
+    "answer": "\\– 16,67%"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Khi tính toán sự thay đổi chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” giữa kỳ thực hiện với kỳ kế hoạch theo kỹ thuật Dupont kết hợp, sự thay đổi này chịu ảnh hưởng tác của ba nhân tố sắp xếp theo thứ tự:",
+    "answer": "nhân tố số lượng đến nhân tố chất lượng."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Khi tính toán sự thay đổi chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” giữa kỳ thực hiện với kỳ kế hoạch theo kỹ thuật thay thế liên hoàn, sự thay đổi này chịu ảnh hưởng tác động của hai nhân tố là:",
+    "answer": "vốn chủ sở hữu bình quân và lợi nhuận sau thuế."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau: AFL: 2,0; TAT: 5,34; ROS: 0,02 và trong năm (N(1) như sau: AFL: 2,5; TAT: 6,74; ROS: 0,03.\nHãy xác định ảnh hưởng của nhân tố ROS tới sự thay đổi chỉ tiêu ROE.",
+    "answer": "\\– 0,1068 lần"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn đầu tư” của Công ty TT trong năm (Nt1) là 0,25 lần, trong năm N là 0,35 lần. Quy mô thay đổi của chỉ tiêu này năm N so với năm (N 1) là:",
+    "answer": "\\+ 0,10 lần"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Chỉ tiêu “Số lần luân chuyển tài sản” (TAT) năm (N(1) và năm N lần lượt có trị số nào sau đây khi Công ty Q có số liệu như sau (đơn vị tính: triệu đồng):\nNăm (NN1):\nTài sản bình quân: 91.500 Doanh thu thuần: 489.000\nNăm N:\nTài sản bình quân: 77.200\nDoanh thu thuần: 520.000",
+    "answer": "5,34 lần và 6,74 lần"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Tỷ suất sinh lợi của vốn chủ sở hữu có phần mẫu số là:",
+    "answer": "vốn chủ sở hữu bình quân."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn dài hạn” của Công ty TT kỳ thực hiện là 0,25 lần, trong kỳ kế hoạch là 0,3 lần. Quy mô thay đổi của chỉ tiêu này kỳ thực hiện so với kỳ kế hoạch là:",
+    "answer": "\\ 0,05 lần"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Số lần luân chuyển của tài sản ngắn hạn (TSNH) năm (Nn1) và năm N lần lượt có trị số nào sau đây khi Công ty Q có số liệu như sau (đơn vị tính: triệu đồng):\nNăm (N 1):\nTSNH bình quân: 9.800\nDoanh thu thuần: 88.200\nNăm N:\nTSNH bình quân: 10.000\nDoanh thu thuần: 100.000",
+    "answer": "9 lần và 10 lần"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "như sau: TAT: 5,34; ROS: 0,02 và trong năm (N+1) như sau: TAT: 6,74; ROS: 0,03. Hãy xác định ảnh hưởng của nhân tố ROS tới sự thay đổi chỉ tiêu ROA.",
+    "answer": "\\– 0,0534 lần"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau: AFL: 2,0; TAT: 5,34; ROS: 0,02 và trong năm (Nu1) như sau: AFL: 2,5; TAT: 6,74; ROS: 0,03.\nHãy xác định ảnh hưởng của nhân tố TAT tới sự thay đổi chỉ tiêu ROE.",
+    "answer": "\\ 0,084 lần"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Khi tính toán sự thay đổi chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” giữa kỳ thực hiện với kỳ kế hoạch theo kỹ thuật thay thế liên hoàn, sự thay đổi này chịu ảnh hưởng tác động của hai nhân tố là:",
+    "answer": "vốn chủ sở hữu bình quân và lợi nhuận sau thuế."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” của Công ty TT trong kỳ phân tích là 0,15 lần, trong kỳ gốc là 0,2 lần. Tốc độ thay đổi của chỉ tiêu này kỳ phân tích so với kỳ gốc là:",
+    "answer": "\\ 25%"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của tài sản” của Công ty TT trong kỳ thực hiện là 0,35 lần, trong kỳ kế hoạch là 0,3 lần. Tốc độ tăng trưởng của chỉ tiêu kỳ thực hiện so với kỳ kế hoạch là:",
+    "answer": "\\+ 16,67%"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Khả năng sinh lợi của doanh nghiệp được biểu hiện rõ nét và cao độ nhất qua chỉ tiêu:",
+    "answer": "ROE"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Mức ảnh hưởng của nhân tố doanh thu thuần đến chỉ tiêu “Số lần luân chuyển tài sản” (TAT) ở Công ty Q theo số liệu sau (đơn vị tính: triệu đồng):\nNăm (N N 1):\nTài sản bình quân: 91.500 Doanh thu thuần: 489.000\nNăm N:\nTài sản bình quân: 77.200\nDoanh thu thuần: 520.000\nlà:",
+    "answer": "\\ 61,18 lần"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\nA. Vốn chủ sở hữu bình quân: 75.750\nB. Tổng tài sản bình quân: 101.000\nC. Doanh thu thuần: 505.000\nD. Lợi nhuận sau thuế: 15.150\nChỉ tiêu AFL và TAT lần lượt có trị số là:",
+    "answer": "1,33 lần và 5 lần"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Tỷ suất sinh lợi của vốn dài hạn có tử số là:",
+    "answer": "lợi nhuận trước thuế và lãi vay."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Phân tích khả năng sinh lợi theo từng đối tượng áp dụng quy trình phân tích gồm:",
+    "answer": "3 bước"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Mức biến động và tốc độ tăng trưởng của số lần luân chuyển tài sản ngắn hạn kỳ phân tích so với kỳ gốc ở Công ty P theo số liệu sau:\nNăm (NN1): 9 lần\nNăm N: 10 lần\nlà:",
+    "answer": "\\+ 1 lần và \\+ 11,11%"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Khi tính toán sự thay đổi chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” giữa kỳ thực hiện với kỳ kế hoạch theo kỹ thuật Dupont, trong quan hệ với doanh thu thuần và tài sản, sự thay đổi này chịu ảnh hưởng tác động số lượng nhân tố là:",
+    "answer": "3 nhân tố."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” của Công ty TT trong kỳ phân tích là 0,15 lần, trong kỳ gốc là 0,2 lần. Quy mô thay đổi của chỉ tiêu này kỳ phân tích so với kỳ gốc là:",
+    "answer": "\\ 0,05 lần"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Khi tính toán sự thay đổi chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” giữa kỳ thực hiện với kỳ kế hoạch theo kỹ thuật Dupont kết hợp, sự thay đổi này chịu ảnh hưởng tác của ba nhân tố sắp xếp theo thứ tự:",
+    "answer": "nhân tố số lượng đến nhân tố chất lượng."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\na. Vốn chủ sở hữu bình quân: 75.750\nb. Tổng tài sản bình quân: 101.000\nc. Doanh thu thuần: 505.000\nd. Lợi nhuận sau thuế: 15.150\nChỉ tiêu ROA và ROS lần lượt có trị số là:",
+    "answer": "0,15 lần và 0,03 lần"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau (đơn vị tính: tỷ đồng):\na. Vốn chủ sở hữu bình quân: 75.750\nb. Tổng tài sản bình quân: 101.000\nc. Doanh thu thuần: 505.000\nd. Lợi nhuận sau thuế: 15.150\nChỉ tiêu ROS và AFL lần lượt có trị số là:",
+    "answer": "0,03 lần và 1,33 lần"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Tốc độ luân chuyển của tài sản ngắn hạn (TSNH) kỳ phân tích so với kỳ gốc thay đổi như thế nào khi thời gian luân chuyển của TSNH tại Công ty L như sau:\nNăm (NN1): 36 ngày\nNăm N: 40 ngày",
+    "answer": "càng thấp."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\n• Tài sản bình quân: 91.500\n• Vốn dài hạn bình quân: 36.600\n• Doanh thu thuần: 489.000\n• Lợi nhuận trước thuế và lãi vay: 9.150\nChỉ tiêu “Sức sinh lợi của vốn dài hạn” - ROCE - có trị số là:",
+    "answer": "0,25 lần"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn dài hạn” của Công ty TT kỳ thực hiện là 0,25 lần, trong kỳ kế hoạch là 0,3 lần. Tốc độ tăng trưởng của chỉ tiêu này kỳ thực hiện so với kỳ kế hoạch là:",
+    "answer": "\\– 16,67%"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau: TAT: 5,34; ROS: 0,02 và trong năm (Nu1) như sau: TAT: 6,74; ROS: 0,03.\nHãy xác định ảnh hưởng của nhân tố TAT tới sự thay đổi chỉ tiêu ROA.",
+    "answer": "\\ 0,042 lần"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Đại lượng nào mà doanh nghiệp có thể thu được trên một đơn vị chi phí hay yếu tố đầu vào hoặc trên một đơn vị đầu ra phản ánh kết quả kinh doanh thể hiện khả năng sinh lợi của doanh nghiệp?",
+    "answer": "Lợi nhuận."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Tỷ suất sinh lợi của vốn chủ sở hữu có tử số là:",
+    "answer": "lợi nhuận sau thuế."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Tỷ suất sinh lợi cơ bản của tài sản (BEPR) có phần tử số ở công thức là:",
+    "answer": "lợi nhuận trước thuế và lãi vay."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Mức ảnh hưởng của nhân tố doanh thu thuần đến sự thay đổi thời gian luân chuyển tài sản ngắn hạn (TSNH) giữa kỳ phân tích với kỳ gốc ở Công ty Q theo số liệu sau (đơn vị tính: triệu đồng):\nNăm (NN1):\nTSNH bình quân: 9.800\nDoanh thu thuần: 88.200\nNăm N:\nTSNH bình quân: 10.000\nDoanh thu thuần: 100.000 là:",
+    "answer": "= 4,82 ngày"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Chỉ tiêu ROE có trị số càng giảm, sức sinh lợi của vốn chủ sở hữu:",
+    "answer": "càng thấp."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Mức biến động và tốc độ tăng trưởng của chỉ tiêu “Số lần luân chuyển tài sản” (TAT) kỳ phân tích so với kỳ gốc ở Công ty Q theo số liệu sau:\nNăm (NN1): 5,34 lần\nNăm N: 6,34 lần\nlà:",
+    "answer": "\\+ 1,4 lần và \\+ 26,22%"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Kỹ thuật nào sau đây được áp dụng khi các nhân tố và chỉ tiêu có quan hệ với nhau dưới dạng tích số:",
+    "answer": "số chênh lệch và thay thế liên hoàn."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Khi tiếp cận báo cáo tài chính theo chuyên đề với nội dung “Phân tích cân bằng tài chính” bao gồm các đánh giá về:",
+    "answer": "theo mức độ an toàn và mức độ ổn định của nguồn tài trợ."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Các nhân tố phải được sắp xếp theo thứ tự nào sau đây khi sử dụng kỹ thuật số chênh lệch:",
+    "answer": "từ nhân tố số lượng đến nhân tố chất lượng."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Khi tiếp cận báo cáo tài chính theo chuyên đề với nội dung “Phân tích kết quả kinh doanh” bao gồm các đánh giá về:",
+    "answer": "doanh thu, tổng thu nhập, lợi nhuận."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Trên báo cáo tài chính khi dùng kỹ thuật so sánh ngang theo từng chỉ tiêu sẽ cho biết sự thay đổi về:",
+    "answer": "quy mô và tốc độ, sự biến động tỷ trọng cũng như xu hướng tăng trưởng và nhịp điệu tăng trưởng."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo nhóm chỉ tiêu khái quát là:",
+    "answer": "cấu trúc tài chính."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, chỉ tiêu “Nợ phải trả” phản ánh:",
+    "answer": "trách nhiệm của doanh nghiệp đối với các chủ nợ (ngân sách, ngân hàng, người bán, người mua, người lao động…) về các khoản phải nộp, phải trả hay các khoản mà doanh nghiệp chiếm dụng khác."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo nhóm chỉ tiêu khái quát là:",
+    "answer": "khả năng thanh toán."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Phân tích giá trị thị trường của doanh nghiệp sử dụng nhóm chỉ tiêu thể hiện:",
+    "answer": "khả năng tạo lợi nhuận của tài sản, nguồn vốn, doanh thu."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Theo chế độ kế toán hiện hành “Bảng cân đối kế toán” có mẫu số quy định là như thế nào?",
+    "answer": "Mẫu số B01 – DN"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Sai sót kế toán"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Phân tích năng lực hoạt động của doanh nghiệp sử dụng nhóm chỉ tiêu để:",
+    "answer": "đánh giá chất lượng quản lý và sử dụng tài sản, nguồn vốn, công nợ của doanh nghiệp."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Chính sách kế toán"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, chỉ tiêu “Vốn chủ sở hữu” phản ánh:",
+    "answer": "số vốn của các chủ sở hữu, các nhà đầu tư góp vốn ban đầu và bổ sung thêm trong quá trình hoạt động kinh doanh."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Phân tích nội dung và cách thức ghi nhận các chỉ tiêu theo từng Báo cáo bao gồm cá báo cáo:",
+    "answer": "Bảng cân đối kế toán, Báo cáo kết quả kinh doanh, Báo cáo lưu chuyển tiền tệ, Thuyết minh báo cáo tài chính"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền được xác định:",
+    "answer": "Dòng tiền lưu chuyển thuần từ hoạt động kinh doanh/Tổng số nợ ngắn hạn bình quân."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền cho biết:",
+    "answer": "một đồng nợ ngắn hạn phải trả bình quân trong kỳ của doanh nghiệp được bảo đảm bởi mấy đồng tiền lưu chuyển thuần từ hoạt động kinh doanh trong kỳ."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Trị số nào của chỉ tiêu “Sức sinh lợi của tài sản” (ROA) sau đây là đúng khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,1 lần"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Trị số của chỉ tiêu “Sức sinh lợi của tài sản” (ROA) và “Sức sinh lợi của doanh thu thuần” (ROS) lần lượt có cặp giá trị nào sau đây khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,1 lần và 0,019 lần"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Phân tích khả năng thanh toán sử dụng nhóm chỉ tiêu thể hiện:",
+    "answer": "mức độ đáp ứng các khoản nợ phải trả của doanh nghiệp."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Sức sinh lợi của Vốn CSH được xác định bằng công thức:",
+    "answer": "Lợi nhuận sau thuế/ VCSH bình quân"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây phản ánh chính sách sử dụng vốn của doanh nghiệp?",
+    "answer": "Hệ số nợ so với tổng tài sản."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Sức sinh lợi của Vốn dài hạn được xác định bằng công thức:",
+    "answer": "Lợi nhuận trước thuế và lãi vay/Vốn dài hạn bình quân"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Trị số nào của chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” (ROE) sau đây là đúng khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,25 lần"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Đánh giá khái quát tình hình tài chính bao gồm các nội dung sau:",
+    "answer": "Đánh giá khái quát tình hình huy động vốn, Mức độ độc lập tài chính, khả năng thanh toán, khả năng sinh lời và tốc độ tăng trưởng bền vững"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Đối tượng của phân tích báo cáo tài chính là:",
+    "answer": "hệ thống chỉ tiêu tài chính phản ánh trên các báo cáo tài chính cùng mối liên hệ giữa các chỉ tiêu trên từng báo cáo tài chính hoặc giữa các báo cáo tài chính với nhau."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "phân tích tình hình thanh toán."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo nhóm chỉ tiêu khái quát là:",
+    "answer": "khả năng sinh lợi."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "phân tích kết quả kinh doanh."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Công thức nào dưới đây để tính tỷ lệ % đạt được của chỉ tiêu nghiên cứu giữa kỳ phân tích so với kỳ gốc?",
+    "answer": "B"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Công thức nào dưới đây để tính tỷ lệ % đạt được của chỉ tiêu nghiên cứu giữa kỳ phân tích so với kỳ gốc?",
+    "answer": "5 %"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Nợ phải trả: 320\n- Vốn chủ sở hữu: 870\n- Tài sản ngắn hạn: 550\n- Tổng nguồn vốn: 1190\nHệ số tài trợ bằng:",
+    "answer": "0,73"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Phân tích cấu trúc tài chính bao gồm các nội dung:",
+    "answer": "phân tích cơ cấu tài sản, cơ cấu nguồn vốn, mối quan hệ giữa tài sản và nguồn vốn."
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Trong 1 doanh nghiệp, tỷ trọng tài sản ngắn hạn chiếm trong tổng tài sản bằng 70% thì tỷ trọng tài sản dài hạn chiếm trong tổng tài sản sẽ là:",
+    "answer": "30 %"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "“Hệ số tài trợ” có thể có trị số là:",
+    "answer": "\\≥ 0 và \\< 0"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Số lần thanh toán được xác định:",
+    "answer": "Tổng tiền hàng mua chịu/Nợ phải trả KH bình quân"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán nhanh cho biết:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi mấy đồng tài sản ngắn hạn sau khi đã loại trừ giá trị hàng tồn kho."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Thời gian thanh toán tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29600\nTiền hàng mua chịu: 25800\nNợ phải thu bình quân: 1480\nNợ phải trả bình quân: 2580\nlà:",
+    "answer": "36 ngày"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Số lần thu hồi tiền hàng ở Công ty H với số liệu trong năm N như sau (đơn vị tính: triệu đồng):\nTiền hàng bán chịu: 29.600\nTiền hàng mua chịu: 25.800\nNợ phải thu bình quân: 1.480\nNợ phải trả bình quân: 2.580\nlà:",
+    "answer": "20 lần"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Hệ số thanh toán tức thời bằng 0,5 có nghĩa là:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi 0,5 đồng tiền và các khoản tương đương tiền."
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng). - Tài sản ngắn hạn: 550; trong đó: + Tiền và các khoản tương đương tiền: 50 + Hàng tồn kho: 400 - Tài sản dài hạn: 450 - Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300, nợ dài hạn: 50 - Vốn chủ sở hữu: 650 Hệ số khả năng thanh toán nợ dài hạn bằng:",
+    "answer": "9 lần"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Phân tích khả năng thanh toán cung cấp cho người sử dụng những thông tin:",
+    "answer": "đánh giá khái quát khả năng thanh toán, xác định khả năng thanh toán ngắn hạn, dài hạn và khả năng thanh toán theo thời gian của doanh nghiệp."
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Hệ số giữa nợ phải trả so với vốn chủ sở hữu được xác định:",
+    "answer": "Nợ phải trả/Vốn chủ sở hữu"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Hệ số nợ phải thu so với nợ phải trả < 1:",
+    "answer": "Doanh nghiệp đi chiếm dụng vốn"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán tức thời được xác định:",
+    "answer": "Tiền và các khoản tương đương tiền/Nợ ngắn hạn"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\n• Tài sản bình quân: 91.500\n• Vốn dài hạn bình quân: 36.600\n• Doanh thu thuần: 489.000\n• Lợi nhuận trước thuế và lãi vay: 9.150\nChỉ tiêu “Sức sinh lợi của vốn dài hạn” - ROCE - có trị số là:",
+    "answer": "0,25 lần"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau: TAT: 5,34; ROS: 0,02 và trong năm (Nu1) như sau: TAT: 6,74; ROS: 0,03.\nHãy xác định ảnh hưởng của nhân tố TAT tới sự thay đổi chỉ tiêu ROA.",
+    "answer": "\\ 0,042 lần"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\nA. Vốn chủ sở hữu bình quân: 75.750\nB. Tổng tài sản bình quân: 101.000\nC. Doanh thu thuần: 505.000\nD. Lợi nhuận sau thuế: 15.150\nChỉ tiêu ROE và TAT lần lượt có trị số là:",
+    "answer": "0,2 lần và 5 lần"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Tốc độ luân chuyển của tài sản ngắn hạn (TSNH) kỳ phân tích so với kỳ gốc thay đổi như thế nào khi thời gian luân chuyển của TSNH tại Công ty L như sau:\nNăm (NN1): 36 ngày\nNăm N: 40 ngày",
+    "answer": "càng thấp."
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn dài hạn” của Công ty TT kỳ thực hiện là 0,25 lần, trong kỳ kế hoạch là 0,3 lần. Tốc độ tăng trưởng của chỉ tiêu này kỳ thực hiện so với kỳ kế hoạch là:",
+    "answer": "\\– 16,67%"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của tài sản” của Công ty TT trong kỳ thực hiện là 0,35 lần, trong kỳ kế hoạch là 0,30 lần. Quy mô thay đổi của chỉ tiêu kỳ thực hiện so với kỳ kế hoạch là:",
+    "answer": "\\+ 0,05 lần"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau: AFL: 2,0; TAT: 5,34; ROS: 0,02 và trong năm (Nu1) như sau: AFL: 2,5; TAT: 6,74; ROS: 0,03.\nHãy xác định ảnh hưởng của nhân tố TAT tới sự thay đổi chỉ tiêu ROE.",
+    "answer": "\\ 0,084 lần"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "như sau: TAT: 5,34; ROS: 0,02 và trong năm (N+1) như sau: TAT: 6,74; ROS: 0,03. Hãy xác định ảnh hưởng của nhân tố ROS tới sự thay đổi chỉ tiêu ROA.",
+    "answer": "\\– 0,0534 lần"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Mức ảnh hưởng của nhân tố doanh thu thuần đến sự thay đổi thời gian luân chuyển tài sản ngắn hạn (TSNH) giữa kỳ phân tích với kỳ gốc ở Công ty Q theo số liệu sau (đơn vị tính: triệu đồng):\nNăm (NN1):\nTSNH bình quân: 9.800\nDoanh thu thuần: 88.200\nNăm N:\nTSNH bình quân: 10.000\nDoanh thu thuần: 100.000 là:",
+    "answer": "= 4,82 ngày"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau (đơn vị tính: tỷ đồng):\na. Vốn chủ sở hữu bình quân: 75.750\nb. Tổng tài sản bình quân: 101.000\nc. Doanh thu thuần: 505.000\nd. Lợi nhuận sau thuế: 15.150\nChỉ tiêu ROS và AFL lần lượt có trị số là:",
+    "answer": "0,03 lần và 1,33 lần"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Tỷ trọng tiền và các khoản tương đương tiền chiếm trong tổng tài sản được xác định:",
+    "answer": "(Tiền và các khoản tương đương tiền/Tổng tài sản) x 100"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Tỷ trọng vốn chủ sở hữu chiếm trong tổng nguồn vốn cao, doanh nghiệp sẽ:",
+    "answer": "có khả năng độc lập tài chính cao, không bị sức ép về các khoản công nợ hay có thể tự chủ về tài chính."
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Tiền và các KTĐT: 75\n- Hàng tồn kho: 175\n- Tài sản ngắn hạn: 700\n- Tổng tài sản: 1.500\nXác định tỷ trọng hàng tồn kho so với tổng tài sản:",
+    "answer": "12%"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Giá trị tài sản ngắn hạn (TSNH) ở Công ty T trong năm N theo số liệu sau:\nTSNH: 6 tỷ đồng.\nTổng tài sản: 10 tỷ đồng.\nTỷ trọng TSNH chiếm trong tổng tài sản là:",
+    "answer": "60%"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "“Hệ số tài trợ” cho biết:",
+    "answer": "một đồng tài sản của doanh nghiệp được tài trợ bởi mấy đồng từ vốn chủ sở hữu."
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Tỷ trọng hàng tồn kho chiếm trong tổng tài sản được xác định:",
+    "answer": "(Hàng tồn kho/Tổng tài sản) x 100"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Phân tích cơ cấu nguồn vốn tiến hành theo quy trình sau:",
+    "answer": "đánh giá tình hình biến động cơ cấu nguồn vốn trên tổng thể, phân tích tình hình biến động cơ cấu nguồn vốn trong từng bộ phận."
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Trong 1 doanh nghiệp, “Hệ số nợ so với tài sản” bằng 0,6 thì hệ số tài trợ bằng:",
+    "answer": "0,4"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Cơ sở dữ liệu để phân tích cấu trúc tài chính là:",
+    "answer": "bảng cân đối kế toán."
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Phân tích mối quan hệ giữa tài sản với nguồn hình thành tài sản, nhà phân tích thường sử dụng một trong số các chỉ tiêu sau:",
+    "answer": "hệ số nợ so với tài sản, hệ số khả năng thanh toán tổng quát, hệ số tài trợ…"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Về mặt lý thuyết, chỉ tiêu “Hệ số khả năng thanh toán nợ ngắn hạn” ≥ 1 cho biết:",
+    "answer": "doanh nghiệp có đủ và thừa khả năng thanh toán các khoản nợ ngắn hạn."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán tức thời cho biết:",
+    "answer": "một đồng nợ ngắn hạn được bảo đảm bởi mấy đồng tiền và các khoản tương đương tiền."
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng).\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán tổng quát bằng:",
+    "answer": "2,86 lần"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Phần mẫu số ở công thức xác định số lần thu hồi tiền hàng là:",
+    "answer": "nợ phải thu bình quân."
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Hệ số nợ phải thu so với nợ phải trả > 1:",
+    "answer": "Doanh nghiệp bị chiếm dụng vốn"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Trích bảng CĐKT năm N: (đvt: 1tỷ đ)\n- TSNH: 550; trong đó:\n+ Tiền và các KTĐT: 50\n+ HTK: 400\n- TSDH: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300, nợ dài hạn: 50\n- Vốn chủ sở hữu: 650\nHệ số giữa tài sản dài hạn so với nguồn tài trợ thường xuyên bằng:",
+    "answer": "0,64 lần"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "“Hệ số giữa tài sản dài hạn so với nguồn tài trợ thường xuyên” được xác định:",
+    "answer": "Tài sản dài hạn/Nguồn tài trợ thường xuyên"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Trích bảng cân đối kế toán năm N: (đvt: 1 tỷ đồng)\n- Tài sản ngắn hạn: 550; trong đó:\n+ Tiền và các khoản tương đương tiền: 50\n- Tài sản dài hạn: 450\n- Nợ phải trả: 350; trong đó: Nợ ngắn hạn: 300\n- Vốn chủ sở hữu: 650\nHệ số khả năng thanh toán nợ ngắn hạn bằng:",
+    "answer": "1,83 lần"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Khả năng thanh toán nợ ngắn hạn được xác định:",
+    "answer": "Tài sản ngắn hạn/Nợ ngắn hạn"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Hệ số khả năng thanh toán nợ dài hạn được xác định:",
+    "answer": "Tài sản dài hạn/Nợ dài hạn"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Tử số của chỉ tiêu “Tốc độ tăng trưởng về khả năng sinh lợi” được xác định bằng:",
+    "answer": "trị số của từng chỉ tiêu phản ánh khả năng sinh lợi kỳ phân tích trừ trị số của từng chỉ tiêu phản ánh khả năng sinh lợi kỳ gốc."
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong năm N như sau: AFL: 2,0; TAT: 5,34; ROS: 0,02 và trong năm (N(1) như sau: AFL: 2,5; TAT: 6,74; ROS: 0,03.\nHãy xác định ảnh hưởng của nhân tố ROS tới sự thay đổi chỉ tiêu ROE.",
+    "answer": "\\– 0,1068 lần"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Khả năng sinh lợi của doanh nghiệp được biểu hiện rõ nét và cao độ nhất qua chỉ tiêu:",
+    "answer": "ROE"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Công ty TT có tài liệu trong Năm N như sau (đơn vị tính: tỷ đồng):\na. Vốn chủ sở hữu bình quân: 75.750\nb. Tổng tài sản bình quân: 101.000\nc. Doanh thu thuần: 505.000\nd. Lợi nhuận sau thuế: 15.150\nChỉ tiêu ROA và ROS lần lượt có trị số là:",
+    "answer": "0,15 lần và 0,03 lần"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn đầu tư” của Công ty TT trong kỳ gốc là 0,25 lần, trong kỳ phân tích là 0,35 lần. Tốc độ thay đổi của chỉ tiêu này kỳ phân tích so với kỳ gốc là:",
+    "answer": "\\+ 40%"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Số lần luân chuyển của tài sản ngắn hạn (TSNH) năm (Nn1) và năm N lần lượt có trị số nào sau đây khi Công ty Q có số liệu như sau (đơn vị tính: triệu đồng):\nNăm (N 1):\nTSNH bình quân: 9.800\nDoanh thu thuần: 88.200\nNăm N:\nTSNH bình quân: 10.000\nDoanh thu thuần: 100.000",
+    "answer": "9 lần và 10 lần"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Tỷ suất sinh lợi của vốn dài hạn có tử số là:",
+    "answer": "lợi nhuận trước thuế và lãi vay."
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” của Công ty TT trong kỳ phân tích là 0,15 lần, trong kỳ gốc là 0,2 lần. Quy mô thay đổi của chỉ tiêu này kỳ phân tích so với kỳ gốc là:",
+    "answer": "\\ 0,05 lần"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Phân tích khả năng sinh lợi theo từng đối tượng áp dụng quy trình phân tích gồm:",
+    "answer": "3 bước"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Chỉ tiêu “Sức sinh lợi của tài sản” của Công ty TT trong kỳ thực hiện là 0,35 lần, trong kỳ kế hoạch là 0,3 lần. Tốc độ tăng trưởng của chỉ tiêu kỳ thực hiện so với kỳ kế hoạch là:",
+    "answer": "\\+ 16,67%"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "“Hệ số nợ” (hay “Hệ số nợ so với tổng tài sản”) được xác định bằng:",
+    "answer": "Nợ phải trả/Tổng tài sản."
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Hệ số thanh toán tổng quát có thể có trị số:",
+    "answer": "\\≥ 1 và \\< 1"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "“Hệ số tài trợ” được xác định theo công thức:",
+    "answer": "Vốn chủ sở hữu/Tổng tài sản"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Kỹ thuật phân tích sử dụng trong phân tích cơ cấu tài sản là:",
+    "answer": "kỹ thuật so sánh."
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Nội dung phân tích cấu trúc tài chính bao gồm:",
+    "answer": "phân tích cơ cấu nguồn vốn, phân tích cơ cấu tài sản, phân tích mối quan hệ giữa nguồn vốn và tài sản"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "phân tích tình hình thanh toán."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Tốc độ tăng trưởng của doanh thu bán hàng ở Công ty Z giữa kỳ phân tích so với kỳ gốc theo số liệu sau:\nTháng (TT1): 100 tỷ đồng.\nTháng T: 120 tỷ đồng.\nlà:",
+    "answer": "\\+ 20%"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Kỹ thuật so sánh không cần quan tâm đến yếu tố nào sau đây?",
+    "answer": "Mối quan hệ giữa các nhân tố với chỉ tiêu."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Phân tích tốc độ tăng trưởng của doanh nghiệp sử dụng nhóm chỉ tiêu thể hiện:",
+    "answer": "tốc độ tăng trưởng của doanh thu, lợi nhuận."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Trị số chỉ tiêu ở kỳ nào sau đây được cố định khi xác định xu hướng tăng trưởng?",
+    "answer": "Ở kỳ gốc."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Các nhân tố phải được sắp xếp theo thứ tự nào sau đây khi sử dụng kỹ thuật số chênh lệch:",
+    "answer": "từ nhân tố số lượng đến nhân tố chất lượng."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo nhóm chỉ tiêu khái quát là:",
+    "answer": "năng lực hoạt động."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Phân tích kế toán và phân tích tài chính thuộc:",
+    "answer": "phân tích báo cáo tài chính."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "phân tích cân bằng tài chính."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Trên báo cáo tài chính khi dùng kỹ thuật so sánh ngang theo từng chỉ tiêu sẽ cho biết sự thay đổi về:",
+    "answer": "quy mô và tốc độ, sự biến động tỷ trọng cũng như xu hướng tăng trưởng và nhịp điệu tăng trưởng."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Kỹ thuật nào sau đây được áp dụng khi quan hệ giữa các nhân tố ảnh hưởng với chỉ tiêu Z dưới dạng cả tổng số và hiệu số như sau:\nZ = a b c + d",
+    "answer": "liên hệ cân đối."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "phân tích rủi ro tài chính."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Báo cáo tài chính năm và báo cáo tài chính giữa niên độ thuộc:",
+    "answer": "hệ thống báo cáo tài chính."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Báo cáo tổng hợp về tình hình tài chính, kết quả kinh doanh và dòng tiền trong kỳ của doanh nghiệp là:",
+    "answer": "báo cáo tài chính."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Phân tích cấu trúc tài chính của doanh nghiệp là nội dung phân tích tiếp cận theo:",
+    "answer": "Phân tài chính, tiếp cận theo Bảng cân đối kế toán"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Tỷ lệ % đạt được của doanh thu bán hàng ở Công ty Y giữa kỳ phân tích so với kỳ gốc theo số liệu sau:\nTháng (TT1): 100 tỷ đồng.\nTháng T: 120 tỷ đồng.\nlà:::",
+    "answer": "120%"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Nội dung nào sau đây thuộc phân tích tình hình thanh toán:",
+    "answer": "phân tích xu hướng và nhịp điệu tăng trưởng nợ phải thu, nợ phải trả; phân tích tốc độ thanh toán."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "đánh giá khái quát tình hình tài chính."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Kỹ thuật nào sau đây được áp dụng khi các nhân tố và chỉ tiêu có quan hệ với nhau dưới dạng tích số:",
+    "answer": "số chênh lệch và thay thế liên hoàn."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Khi các nhân tố và chỉ tiêu có quan hệ với nhau dưới dạng nào sau đây thì sử dụng kỹ thuật thay thế liên hoàn?",
+    "answer": "thương số hoặc tích số."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Mục đích của phân tích báo cáo tài chính là cung cấp thông tin cho:",
+    "answer": "nhiều nhóm người khác nhau."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Khi tiếp cận báo cáo tài chính theo chuyên đề với nội dung “Phân tích kết quả kinh doanh” bao gồm các đánh giá về:",
+    "answer": "doanh thu, tổng thu nhập, lợi nhuận."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "phân tích cấu trúc tài chính."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo nhóm chỉ tiêu khái quát là:",
+    "answer": "khả năng sinh lợi."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "phân tích kết quả kinh doanh."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Đối tượng của phân tích báo cáo tài chính là:",
+    "answer": "hệ thống chỉ tiêu tài chính phản ánh trên các báo cáo tài chính cùng mối liên hệ giữa các chỉ tiêu trên từng báo cáo tài chính hoặc giữa các báo cáo tài chính với nhau."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Khi tiếp cận báo cáo tài chính theo chuyên đề với nội dung “Đánh giá khái quát tình hình tài chính” bao gồm các đánh giá về:",
+    "answer": "huy động vốn, độc lập tài chính, khả năng thanh toán, khả năng sinh lợi."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Khi thực hiện phân tích một chỉ tiêu tổng hợp bằng kỹ thuật chi tiết chỉ tiêu, chỉ tiêu tổng hợp đó bao gồm:",
+    "answer": "nhiều chỉ tiêu bộ phận cấu thành."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Mối quan hệ nào sau đây giữa các nhân tố là đúng khi sử dụng kỹ thuật liên hệ cân đối:",
+    "answer": "quan hệ dạng tổng số hoặc hiệu số hoặc kết hợp tổng số với hiệu số."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Công thức nào sau đây được dùng để tính toán tỷ trọng của từng bộ phận trong tổng thể?",
+    "answer": "C"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Khi tiếp cận báo cáo tài chính theo chuyên đề với nội dung “Phân tích cân bằng tài chính” bao gồm các đánh giá về:",
+    "answer": "theo mức độ an toàn và mức độ ổn định của nguồn tài trợ."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Khi tiếp cận báo cáo tài chính theo chuyên đề với nội dung “Phân tích rủi ro tài chính” bao gồm các phân tích rủi ro về:",
+    "answer": "khả năng thanh toán, khả năng thu hồi nợ, dòng tiền, tỷ giá, hiệu quả kinh doanh, hiệu năng hoạt động, phá sản, sử dụng đòn bẩy tài chính."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Kỳ nào sau đây được dùng để so sánh với trị số chỉ tiêu nghiên cứu khi phân tích nhịp điệu tăng trưởng?",
+    "answer": "Kỳ liền kề trước đó."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "phân tích tình hình thanh toán."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Phân tích báo cáo tài chính bao gồm các phương thức tiếp cận:",
+    "answer": "tiếp cận từng báo cáo tài chính, tiếp cận theo nhóm chỉ tiêu khái quát, tiếp cận theo chuyên đề."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Công thức nào dưới đây để tính tỷ lệ % đạt được của chỉ tiêu nghiên cứu giữa kỳ phân tích so với kỳ gốc?",
+    "answer": "B"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Xác định quy mô thay đổi của chỉ tiêu nghiên cứu được thực hiện bằng cách lấy:",
+    "answer": "trị số kỳ phân tích trừ trị số kỳ gốc."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Sự biến động về quy mô của doanh thu bán hàng ở Công ty X giữa kỳ phân tích so với kỳ gốc theo số liệu sau:\nTháng (TT1): 100 tỷ đồng.\nTháng T: 120 tỷ đồng.\nlà:",
+    "answer": "\\+ 20 tỷ đồng."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Báo cáo tài chính giữa niên độ của doanh nghiệp gồm:",
+    "answer": "bảng cân đối kế toán, báo cáo kết quản hoạt động kinh doanh, báo cáo lưu chuyển tiền tệ, bản thuyết minh báo cáo tài chính."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Kỹ thuật so sánh không cần quan tâm đến yếu tố nào sau đây?",
+    "answer": "Mối quan hệ giữa các nhân tố với chỉ tiêu."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "phân tích kết quả kinh doanh."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Khi các nhân tố và chỉ tiêu có quan hệ với nhau dưới dạng nào sau đây thì sử dụng kỹ thuật thay thế liên hoàn?",
+    "answer": "thương số hoặc tích số."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Kỹ thuật nào sau đây được áp dụng khi các nhân tố và chỉ tiêu có quan hệ với nhau dưới dạng tích số:",
+    "answer": "số chênh lệch và thay thế liên hoàn."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Đối tượng của phân tích báo cáo tài chính là:",
+    "answer": "hệ thống chỉ tiêu tài chính phản ánh trên các báo cáo tài chính cùng mối liên hệ giữa các chỉ tiêu trên từng báo cáo tài chính hoặc giữa các báo cáo tài chính với nhau."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "đánh giá khái quát tình hình tài chính."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Sự biến động về quy mô của doanh thu bán hàng ở Công ty X giữa kỳ phân tích so với kỳ gốc theo số liệu sau:\nTháng (TT1): 100 tỷ đồng.\nTháng T: 120 tỷ đồng.\nlà:",
+    "answer": "\\+ 20 tỷ đồng."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Xác định quy mô thay đổi của chỉ tiêu nghiên cứu được thực hiện bằng cách lấy:",
+    "answer": "trị số kỳ phân tích trừ trị số kỳ gốc."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Khi tiếp cận báo cáo tài chính theo chuyên đề với nội dung “Phân tích rủi ro tài chính” bao gồm các phân tích rủi ro về:",
+    "answer": "khả năng thanh toán, khả năng thu hồi nợ, dòng tiền, tỷ giá, hiệu quả kinh doanh, hiệu năng hoạt động, phá sản, sử dụng đòn bẩy tài chính."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Mục đích của phân tích báo cáo tài chính là cung cấp thông tin cho:",
+    "answer": "nhiều nhóm người khác nhau."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Khi tiếp cận báo cáo tài chính theo chuyên đề với nội dung “Phân tích cân bằng tài chính” bao gồm các đánh giá về:",
+    "answer": "theo mức độ an toàn và mức độ ổn định của nguồn tài trợ."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Báo cáo tài chính giữa niên độ của doanh nghiệp gồm:",
+    "answer": "bảng cân đối kế toán, báo cáo kết quản hoạt động kinh doanh, báo cáo lưu chuyển tiền tệ, bản thuyết minh báo cáo tài chính."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Mối quan hệ nào sau đây giữa các nhân tố là đúng khi sử dụng kỹ thuật liên hệ cân đối:",
+    "answer": "quan hệ dạng tổng số hoặc hiệu số hoặc kết hợp tổng số với hiệu số."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Tốc độ tăng trưởng của doanh thu bán hàng ở Công ty Z giữa kỳ phân tích so với kỳ gốc theo số liệu sau:\nTháng (TT1): 100 tỷ đồng.\nTháng T: 120 tỷ đồng.\nlà:",
+    "answer": "\\+ 20%"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Kỹ thuật nào sau đây được áp dụng khi quan hệ giữa các nhân tố ảnh hưởng với chỉ tiêu Z dưới dạng cả tổng số và hiệu số như sau:\nZ = a b c + d",
+    "answer": "liên hệ cân đối."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Phân tích kế toán và phân tích tài chính thuộc:",
+    "answer": "phân tích báo cáo tài chính."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Công thức nào sau đây được dùng để tính toán tỷ trọng của từng bộ phận trong tổng thể?",
+    "answer": "C"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Phân tích cấu trúc tài chính của doanh nghiệp là nội dung phân tích tiếp cận theo:",
+    "answer": "Phân tài chính, tiếp cận theo Bảng cân đối kế toán"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Báo cáo tài chính năm và báo cáo tài chính giữa niên độ thuộc:",
+    "answer": "hệ thống báo cáo tài chính."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Phân tích tốc độ tăng trưởng của doanh nghiệp sử dụng nhóm chỉ tiêu thể hiện:",
+    "answer": "tốc độ tăng trưởng của doanh thu, lợi nhuận."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo chuyên đề là:",
+    "answer": "phân tích cấu trúc tài chính."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, phần “Nguồn vốn” phản ánh:",
+    "answer": "tổng số nguồn hình thành (nguồn tài trợ) tài sản của doanh nghiệp, bao gồm nợ phải trả và vốn chủ sở hữu."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận các chỉ tiêu theo từng Báo cáo bao gồm cá báo cáo:",
+    "answer": "Bảng cân đối kế toán, Báo cáo kết quả kinh doanh, Báo cáo lưu chuyển tiền tệ, Thuyết minh báo cáo tài chính"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Phân tích giá trị thị trường của doanh nghiệp sử dụng nhóm chỉ tiêu thể hiện:",
+    "answer": "giá cổ phiếu, lợi nhuận, dòng tiền, giá trị sổ sách của doanh nghiệp."
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận các chỉ tiêu theo từng hoạt động bao gồm các hoạt động:",
+    "answer": "Hoạt động kinh doanh, hoạt động đầu tư và hoạt động tài chính"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Chính sách kế toán"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành “Bảng cân đối kế toán” có mẫu số quy định là như thế nào?",
+    "answer": "Mẫu số B01 – DN"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Sự thay đổỉ tỷ giá hối đoái"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Sự thay đổi ước tính kế toán"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành “Báo cáo kết quả hoạt động kinh doanh ” có mẫu số quy định là như thế nào?",
+    "answer": "Mẫu số B02 – DN"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, chỉ tiêu “Vốn chủ sở hữu” phản ánh:",
+    "answer": "số vốn của các chủ sở hữu, các nhà đầu tư góp vốn ban đầu và bổ sung thêm trong quá trình hoạt động kinh doanh."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Sai sót kế toán"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo nhóm chỉ tiêu khái quát là:",
+    "answer": "khả năng thanh toán."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, chỉ tiêu “Nợ phải trả” phản ánh:",
+    "answer": "trách nhiệm của doanh nghiệp đối với các chủ nợ (ngân sách, ngân hàng, người bán, người mua, người lao động…) về các khoản phải nộp, phải trả hay các khoản mà doanh nghiệp chiếm dụng khác."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo nhóm chỉ tiêu khái quát là:",
+    "answer": "cấu trúc tài chính."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Phân tích năng lực hoạt động của doanh nghiệp sử dụng nhóm chỉ tiêu để:",
+    "answer": "đánh giá chất lượng quản lý và sử dụng tài sản, nguồn vốn, công nợ của doanh nghiệp."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Phân tích giá trị thị trường của doanh nghiệp sử dụng nhóm chỉ tiêu thể hiện:",
+    "answer": "khả năng tạo lợi nhuận của tài sản, nguồn vốn, doanh thu."
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo nhóm chỉ tiêu khái quát là:",
+    "answer": "cấu trúc tài chính."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành “Bảng cân đối kế toán” có mẫu số quy định là như thế nào?",
+    "answer": "Mẫu số B01 – DN"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, chỉ tiêu “Nợ phải trả” phản ánh:",
+    "answer": "trách nhiệm của doanh nghiệp đối với các chủ nợ (ngân sách, ngân hàng, người bán, người mua, người lao động…) về các khoản phải nộp, phải trả hay các khoản mà doanh nghiệp chiếm dụng khác."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Chính sách kế toán"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành “Báo cáo kết quả hoạt động kinh doanh ” có mẫu số quy định là như thế nào?",
+    "answer": "Mẫu số B02 – DN"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Phân tích giá trị thị trường của doanh nghiệp sử dụng nhóm chỉ tiêu thể hiện:",
+    "answer": "giá cổ phiếu, lợi nhuận, dòng tiền, giá trị sổ sách của doanh nghiệp."
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, phần “Nguồn vốn” phản ánh:",
+    "answer": "tổng số nguồn hình thành (nguồn tài trợ) tài sản của doanh nghiệp, bao gồm nợ phải trả và vốn chủ sở hữu."
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Phân tích năng lực hoạt động của doanh nghiệp sử dụng nhóm chỉ tiêu để:",
+    "answer": "đánh giá chất lượng quản lý và sử dụng tài sản, nguồn vốn, công nợ của doanh nghiệp."
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, chỉ tiêu “Vốn chủ sở hữu” phản ánh:",
+    "answer": "số vốn của các chủ sở hữu, các nhà đầu tư góp vốn ban đầu và bổ sung thêm trong quá trình hoạt động kinh doanh."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Sự thay đổỉ tỷ giá hối đoái"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận các chỉ tiêu theo từng hoạt động bao gồm các hoạt động:",
+    "answer": "Hoạt động kinh doanh, hoạt động đầu tư và hoạt động tài chính"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Sai sót kế toán"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận các chỉ tiêu theo từng Báo cáo bao gồm cá báo cáo:",
+    "answer": "Bảng cân đối kế toán, Báo cáo kết quả kinh doanh, Báo cáo lưu chuyển tiền tệ, Thuyết minh báo cáo tài chính"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Sự thay đổi ước tính kế toán"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo nhóm chỉ tiêu khái quát là:",
+    "answer": "khả năng thanh toán."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Phân tích giá trị thị trường của doanh nghiệp sử dụng nhóm chỉ tiêu thể hiện:",
+    "answer": "khả năng tạo lợi nhuận của tài sản, nguồn vốn, doanh thu."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Sự thay đổỉ tỷ giá hối đoái"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Phân tích năng lực hoạt động của doanh nghiệp sử dụng nhóm chỉ tiêu để:",
+    "answer": "đánh giá chất lượng quản lý và sử dụng tài sản, nguồn vốn, công nợ của doanh nghiệp."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, phần “Nguồn vốn” phản ánh:",
+    "answer": "tổng số nguồn hình thành (nguồn tài trợ) tài sản của doanh nghiệp, bao gồm nợ phải trả và vốn chủ sở hữu."
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Một trong những nội dung của phương thức tiếp cận báo cáo tài chính theo nhóm chỉ tiêu khái quát là:",
+    "answer": "cấu trúc tài chính."
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, chỉ tiêu “Vốn chủ sở hữu” phản ánh:",
+    "answer": "số vốn của các chủ sở hữu, các nhà đầu tư góp vốn ban đầu và bổ sung thêm trong quá trình hoạt động kinh doanh."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận các chỉ tiêu theo từng Báo cáo bao gồm cá báo cáo:",
+    "answer": "Bảng cân đối kế toán, Báo cáo kết quả kinh doanh, Báo cáo lưu chuyển tiền tệ, Thuyết minh báo cáo tài chính"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Chính sách kế toán"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Sai sót kế toán"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành trong bảng cân đối kế toán, chỉ tiêu “Nợ phải trả” phản ánh:",
+    "answer": "trách nhiệm của doanh nghiệp đối với các chủ nợ (ngân sách, ngân hàng, người bán, người mua, người lao động…) về các khoản phải nộp, phải trả hay các khoản mà doanh nghiệp chiếm dụng khác."
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành “Báo cáo kết quả hoạt động kinh doanh ” có mẫu số quy định là như thế nào?",
+    "answer": "Mẫu số B02 – DN"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận ảnh hưởng đến các chỉ tiêu trên BCTC bao gồm:",
+    "answer": "Sự thay đổi ước tính kế toán"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Phân tích nội dung và cách thức ghi nhận các chỉ tiêu theo từng hoạt động bao gồm các hoạt động:",
+    "answer": "Hoạt động kinh doanh, hoạt động đầu tư và hoạt động tài chính"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Theo chế độ kế toán hiện hành “Bảng cân đối kế toán” có mẫu số quy định là như thế nào?",
+    "answer": "Mẫu số B01 – DN"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "“Hệ số tài trợ” có ý nghĩa:",
+    "answer": "một đồng tài sản của doanh nghiệp được tài trợ bởi mấy đồng từ vốn chủ sở hữu."
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Đánh giá khái mức độ độc lập tài chính là đánh giá các chỉ tiêu:",
+    "answer": "Hệ số tài trợ, Hệ số nợ"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây phản ánh chính sách sử dụng vốn của doanh nghiệp?",
+    "answer": "Hệ số nợ so với tổng tài sản."
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Hệ số tài trợ được xác định bằng công thức:",
+    "answer": "Vốn chủ sở hữu/ Tổng nguồn vốn"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Trị số của chỉ tiêu “Sức sinh lợi của tài sản” (ROA) và “Sức sinh lợi của doanh thu thuần” (ROS) lần lượt có cặp giá trị nào sau đây khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,1 lần và 0,019 lần"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Trị số nào của chỉ tiêu “Số lần luân chuyển vốn chủ sở hữu” (ET) sau đây là đúng khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "13,36 lần"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát cho biết:",
+    "answer": "một đồng nợ phải trả của doanh nghiệp được bảo đảm bởi mấy đồng tài sản."
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát = 1 thì:",
+    "answer": "doanh nghiệp bảo đảm khả năng thanh toán tổng quát."
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Trị số của chỉ tiêu “Sức sinh lợi của tài sản” (ROA) và “Sức sinh lợi của vốn chủ sở hữu” (ROE) lần lượt có cặp giá trị nào sau đây khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Tài sản bình quân: 91.500\nB. Vốn chủ sở hữu bình quân: 36.600\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,1 lần và 0,25 lần"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Hệ số khả năng thanh toán tổng quát được xác định bằng công thức:",
+    "answer": "Tổng Tài sản/ Tổng số nợ phải trả."
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây phản ánh tình hình sử dụng vốn của doanh nghiệp?",
+    "answer": "Tỷ trọng tài sản ngắn hạn trong tổng tài sản."
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Sức sinh lợi của Vốn CSH được xác định bằng công thức:",
+    "answer": "Lợi nhuận sau thuế/ VCSH bình quân"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Sức sinh lợi của Vốn dài hạn được xác định bằng công thức:",
+    "answer": "Lợi nhuận trước thuế và lãi vay/Vốn dài hạn bình quân"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Đánh giá khái quát tình hình huy động vốn là:",
+    "answer": "Đánh giá qui mô thay đổi của Nợ phải trả, Vốn chủ sở hữu và Tổng tài sản kỳ này so với kỳ trước"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát < 1 khi:",
+    "answer": "vốn chủ sở hữu \\< 0"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền được xác định:",
+    "answer": "Dòng tiền lưu chuyển thuần từ hoạt động kinh doanh/Tổng số nợ ngắn hạn bình quân."
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát có thể có trị số:",
+    "answer": "\\≥ 1 và \\< 1"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Nợ phải trả: 320\n- Vốn chủ sở hữu: 870\n- Tài sản ngắn hạn: 550\n- Tổng nguồn vốn: 1190\nHệ số tài trợ bằng:",
+    "answer": "0,73"
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền < 1 thì:",
+    "answer": "dòng tiền lưu chuyển thuần trong kỳ không bảo đảm đủ bù đắp các khoản nợ ngắn hạn."
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền được xác định bằng công thức:",
+    "answer": "Dòng tiền lưu chuyển từ HĐKD/ Tổng số nợ ngắn hạn bình quân"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát > 1 thì:",
+    "answer": "doanh nghiệp có thừa khả năng thanh toán tổng quát."
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Trị số nào của chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” (ROE) sau đây là đúng khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,25 lần"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát < 1 thì:",
+    "answer": "doanh nghiệp không bảo đảm được khả năng trang trải các khoản nợ phải trả."
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền cho biết:",
+    "answer": "một đồng nợ ngắn hạn phải trả bình quân trong kỳ của doanh nghiệp được bảo đảm bởi mấy đồng tiền lưu chuyển thuần từ hoạt động kinh doanh trong kỳ."
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Trị số của chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” (ROE) và “Sức sinh lợi của doanh thu thuần” (ROS) lần lượt có cặp giá trị nào sau đây khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,25 lần và 0,019 lần"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát của doanh nghiệp được xác định:",
+    "answer": "Tổng số tài sản/Tổng nợ phải trả"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Trị số nào của chỉ tiêu “Sức sinh lợi của doanh thu thuần” (ROS) sau đây là đúng khi số liệu của Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,019 lần"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Trị số nào của chỉ tiêu “Sức sinh lợi của tài sản” (ROA) sau đây là đúng khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,1 lần"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền ≥ 1 cho biết:",
+    "answer": "dòng tiền lưu chuyển thuần từ hoạt động kinh doanh trong kỳ bảo đảm đủ và thừa khả năng trang trải các khoản nợ ngắn hạn."
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Đánh giá khái quát tình hình tài chính bao gồm các nội dung sau:",
+    "answer": "Đánh giá khái quát tình hình huy động vốn, Mức độ độc lập tài chính, khả năng thanh toán, khả năng sinh lời và tốc độ tăng trưởng bền vững"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "“Hệ số tài trợ” có thể có giá trị là:",
+    "answer": "\\≥ 0 và \\< 0"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Đánh giá khái quát tình hình huy động vốn là đánh giá các chỉ tiêu về:",
+    "answer": "Tổng Tài sản, Nợ phải trả và Vốn chủ sở hữu"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Hệ số tài trợ < 0 khi:",
+    "answer": "vốn chủ sở hữu \\< 0"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Phân tích khả năng thanh toán sử dụng nhóm chỉ tiêu thể hiện:",
+    "answer": "mức độ đáp ứng các khoản nợ phải trả của doanh nghiệp."
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Trị số của chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” (ROE) và “Sức sinh lợi của doanh thu thuần” (ROS) lần lượt có cặp giá trị nào sau đây khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,25 lần và 0,019 lần"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Trị số của chỉ tiêu “Sức sinh lợi của tài sản” (ROA) và “Sức sinh lợi của vốn chủ sở hữu” (ROE) lần lượt có cặp giá trị nào sau đây khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Tài sản bình quân: 91.500\nB. Vốn chủ sở hữu bình quân: 36.600\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,1 lần và 0,25 lần"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Đánh giá khái quát tình hình tài chính bao gồm các nội dung sau:",
+    "answer": "Đánh giá khái quát tình hình huy động vốn, Mức độ độc lập tài chính, khả năng thanh toán, khả năng sinh lời và tốc độ tăng trưởng bền vững"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Sức sinh lợi của Vốn CSH được xác định bằng công thức:",
+    "answer": "Lợi nhuận sau thuế/ VCSH bình quân"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây phản ánh chính sách sử dụng vốn của doanh nghiệp?",
+    "answer": "Hệ số nợ so với tổng tài sản."
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát của doanh nghiệp được xác định:",
+    "answer": "Tổng số tài sản/Tổng nợ phải trả"
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Đánh giá khái quát tình hình huy động vốn là:",
+    "answer": "Đánh giá qui mô thay đổi của Nợ phải trả, Vốn chủ sở hữu và Tổng tài sản kỳ này so với kỳ trước"
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền cho biết:",
+    "answer": "một đồng nợ ngắn hạn phải trả bình quân trong kỳ của doanh nghiệp được bảo đảm bởi mấy đồng tiền lưu chuyển thuần từ hoạt động kinh doanh trong kỳ."
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát < 1 khi:",
+    "answer": "vốn chủ sở hữu \\< 0"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền < 1 thì:",
+    "answer": "dòng tiền lưu chuyển thuần trong kỳ không bảo đảm đủ bù đắp các khoản nợ ngắn hạn."
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát có thể có trị số:",
+    "answer": "\\≥ 1 và \\< 1"
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Nợ phải trả: 320\n- Vốn chủ sở hữu: 870\n- Tài sản ngắn hạn: 550\n- Tổng nguồn vốn: 1190\nHệ số tài trợ bằng:",
+    "answer": "0,73"
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Trị số nào của chỉ tiêu “Sức sinh lợi của doanh thu thuần” (ROS) sau đây là đúng khi số liệu của Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,019 lần"
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền được xác định:",
+    "answer": "Dòng tiền lưu chuyển thuần từ hoạt động kinh doanh/Tổng số nợ ngắn hạn bình quân."
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền được xác định bằng công thức:",
+    "answer": "Dòng tiền lưu chuyển từ HĐKD/ Tổng số nợ ngắn hạn bình quân"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Trị số nào của chỉ tiêu “Sức sinh lợi của vốn chủ sở hữu” (ROE) sau đây là đúng khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,25 lần"
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Hệ số tài trợ được xác định bằng công thức:",
+    "answer": "Vốn chủ sở hữu/ Tổng nguồn vốn"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Trị số nào của chỉ tiêu “Sức sinh lợi của tài sản” (ROA) sau đây là đúng khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "0,1 lần"
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "“Hệ số tài trợ” có ý nghĩa:",
+    "answer": "một đồng tài sản của doanh nghiệp được tài trợ bởi mấy đồng từ vốn chủ sở hữu."
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát > 1 thì:",
+    "answer": "doanh nghiệp có thừa khả năng thanh toán tổng quát."
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Hệ số tài trợ < 0 khi:",
+    "answer": "vốn chủ sở hữu \\< 0"
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "Hệ số khả năng thanh khoản của dòng tiền ≥ 1 cho biết:",
+    "answer": "dòng tiền lưu chuyển thuần từ hoạt động kinh doanh trong kỳ bảo đảm đủ và thừa khả năng trang trải các khoản nợ ngắn hạn."
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Hệ số khả năng thanh toán tổng quát được xác định bằng công thức:",
+    "answer": "Tổng Tài sản/ Tổng số nợ phải trả."
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "Đánh giá khái quát tình hình huy động vốn là đánh giá các chỉ tiêu về:",
+    "answer": "Tổng Tài sản, Nợ phải trả và Vốn chủ sở hữu"
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Phân tích khả năng thanh toán sử dụng nhóm chỉ tiêu thể hiện:",
+    "answer": "mức độ đáp ứng các khoản nợ phải trả của doanh nghiệp."
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "Trị số nào của chỉ tiêu “Số lần luân chuyển vốn chủ sở hữu” (ET) sau đây là đúng khi số liệu ở Công ty Q trong năm N như sau (đơn vị tính: triệu đồng):\nA. Vốn chủ sở hữu bình quân: 36.600\nB. Tài sản bình quân: 91.500\nC. Doanh thu thuần: 489.000\nLợi nhuận sau thuế: 9.150",
+    "answer": "13,36 lần"
+  },
+  {
+    "id": 406,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Tiền và các KTĐT: 75\n- Hàng tồn kho: 175\n- Tài sản ngắn hạn: 700\n- Tổng tài sản: 1.500\nXác định tỷ trọng hàng tồn kho so với tổng tài sản:",
+    "answer": "12%"
+  },
+  {
+    "id": 407,
+    "premium": true,
+    "question": "Phân tích cơ cấu nguồn vốn tiến hành theo quy trình sau:",
+    "answer": "đánh giá tình hình biến động cơ cấu nguồn vốn trên tổng thể, phân tích tình hình biến động cơ cấu nguồn vốn trong từng bộ phận."
+  },
+  {
+    "id": 408,
+    "premium": true,
+    "question": "Hệ số tài trợ < 0 khi:",
+    "answer": "vốn chủ sở hữu \\< 0"
+  },
+  {
+    "id": 409,
+    "premium": true,
+    "question": "Kỹ thuật phân tích sử dụng trong phân tích cơ cấu tài sản là:",
+    "answer": "kỹ thuật so sánh."
+  },
+  {
+    "id": 410,
+    "premium": true,
+    "question": "Phân tích cấu trúc tài chính bao gồm các nội dung:",
+    "answer": "phân tích cơ cấu tài sản, cơ cấu nguồn vốn, mối quan hệ giữa tài sản và nguồn vốn."
+  },
+  {
+    "id": 411,
+    "premium": true,
+    "question": "Cơ cấu tài sản của doanh nghiệp phản ánh:",
+    "answer": "tỷ trọng của từng bộ phận tài sản chiếm trong tổng tài sản của doanh nghiệp."
+  },
+  {
+    "id": 412,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Nợ phải trả: 320\n- Vốn chủ sở hữu: 870\n- Tài sản ngắn hạn: 550\n- Tổng nguồn vốn: 1190\nHệ số tài trợ bằng:",
+    "answer": "0,73"
+  },
+  {
+    "id": 413,
+    "premium": true,
+    "question": "“Hệ số nợ so với tài sản” có thể có trị số:",
+    "answer": "\\≥ 1 và \\< 1"
+  },
+  {
+    "id": 414,
+    "premium": true,
+    "question": "Tỷ trọng vốn chủ sở hữu chiếm trong tổng nguồn vốn cao, doanh nghiệp sẽ:",
+    "answer": "có khả năng độc lập tài chính cao, không bị sức ép về các khoản công nợ hay có thể tự chủ về tài chính."
+  },
+  {
+    "id": 415,
+    "premium": true,
+    "question": "“Hệ số tài trợ” có thể có trị số là:",
+    "answer": "\\≥ 0 và \\< 0"
+  },
+  {
+    "id": 416,
+    "premium": true,
+    "question": "Phân tích cơ cấu tài sản nhằm mục đích:",
+    "answer": "xem xét, đánh giá tính hợp lý của cơ cấu tài sản tại thời điểm hiện tại (hay kỳ phân tích) và xu hướng biến động của cơ cấu tài sản giữa kỳ phân tích với kỳ gốc."
+  },
+  {
+    "id": 417,
+    "premium": true,
+    "question": "Phân tích cơ cấu tài sản tiến hành theo quy trình sau:",
+    "answer": "đánh giá tình hình biến động cơ cấu tài sản trên tổng thể, phân tích tình hình biến động cơ cấu tài sản trong từng bộ phận."
+  },
+  {
+    "id": 418,
+    "premium": true,
+    "question": "Nội dung phân tích cấu trúc tài chính bao gồm:",
+    "answer": "phân tích cơ cấu nguồn vốn, phân tích cơ cấu tài sản, phân tích mối quan hệ giữa nguồn vốn và tài sản"
+  },
+  {
+    "id": 419,
+    "premium": true,
+    "question": "Tỷ trọng hàng tồn kho chiếm trong tổng tài sản được xác định:",
+    "answer": "(Hàng tồn kho/Tổng tài sản) x 100"
+  },
+  {
+    "id": 420,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Nợ phải trả: 650\n- Các khoản phải thu: 450\n- Tài sản ngắn hạn: 700\n- Tổng tài sản: 1500\nTỷ trọng các khoản phải thu chiếm trong tổng tài sản là:",
+    "answer": "30 %"
+  },
+  {
+    "id": 421,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát < 1 khi:",
+    "answer": "vốn chủ sở hữu \\< 0"
+  },
+  {
+    "id": 422,
+    "premium": true,
+    "question": "“Hệ số tài trợ” cho biết:",
+    "answer": "một đồng tài sản của doanh nghiệp được tài trợ bởi mấy đồng từ vốn chủ sở hữu."
+  },
+  {
+    "id": 423,
+    "premium": true,
+    "question": "“Hệ số tài trợ” được xác định theo công thức:",
+    "answer": "Vốn chủ sở hữu/Tổng tài sản"
+  },
+  {
+    "id": 424,
+    "premium": true,
+    "question": "Cơ cấu nguồn vốn của doanh nghiệp phản ánh:",
+    "answer": "tỷ trọng của từng bộ phận nguồn vốn chiếm trong tổng nguồn vốn của doanh nghiệp."
+  },
+  {
+    "id": 425,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau: - Tiền và các KTĐT: 75 - Các khoản phải thu: 450 - Tài sản ngắn hạn: 700 - Tổng tài sản: 1.500 Tỷ trọng tiền và các khoản tương đương tiền trong tổng tài sản bằng:",
+    "answer": "5 %"
+  },
+  {
+    "id": 426,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau: (đvt: tỷ đồng).\n- Nợ phải trả: 320\n- Vốn chủ sở hữu: 870\n- Tài sản ngắn hạn: 550\n- Tổng nguồn vốn: 1.190\nHệ số nợ so với tổng tài sản bằng:",
+    "answer": "0,37"
+  },
+  {
+    "id": 427,
+    "premium": true,
+    "question": "Giá trị tài sản ngắn hạn (TSNH) ở Công ty T trong năm N theo số liệu sau:\nTSNH: 6 tỷ đồng.\nTổng tài sản: 10 tỷ đồng.\nTỷ trọng TSNH chiếm trong tổng tài sản là:",
+    "answer": "60%"
+  },
+  {
+    "id": 428,
+    "premium": true,
+    "question": "Tỷ trọng tiền và các khoản tương đương tiền chiếm trong tổng tài sản của doanh nghiệp cao phản ánh:",
+    "answer": "doanh nghiệp có khả năng thanh toán các khoản công nợ, nhưng lãng phí, hiệu quả sử dụng vốn kém."
+  },
+  {
+    "id": 429,
+    "premium": true,
+    "question": "“Hệ số nợ so với tài sản” cho biết:",
+    "answer": "chính sách sử dụng nợ phải trả để tài trợ tài sản hay một đồng tổng tài sản của doanh nghiệp được tài trợ từ mấy đồng nợ phải trả."
+  },
+  {
+    "id": 430,
+    "premium": true,
+    "question": "Phân tích cơ cấu nguồn vốn nhằm mục đích:",
+    "answer": "xem xét, đánh giá tính hợp lý của cơ cấu nguồn vốn tại thời điểm hiện tại (hay kỳ phân tích) và xu hướng biến động của cơ cấu nguồn vốn giữa kỳ phân tích với kỳ gốc."
+  },
+  {
+    "id": 431,
+    "premium": true,
+    "question": "“Hệ số nợ” (hay “Hệ số nợ so với tổng tài sản”) được xác định bằng:",
+    "answer": "Nợ phải trả/Tổng tài sản."
+  },
+  {
+    "id": 432,
+    "premium": true,
+    "question": "Doanh nghiệp có cơ cấu nợ dài hạn cao trong nguồn vốn huy động thêm từ bên ngoài, tức là:",
+    "answer": "doanh nghiệp đó đã huy động được những nguồn vốn ổn định và lâu dài để tài trợ cho hoạt động kinh doanh."
+  },
+  {
+    "id": 433,
+    "premium": true,
+    "question": "Tỷ trọng tiền và các khoản tương đương tiền chiếm trong tổng tài sản được xác định:",
+    "answer": "(Tiền và các khoản tương đương tiền/Tổng tài sản) x 100"
+  },
+  {
+    "id": 434,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát có thể có trị số:",
+    "answer": "\\≥ 1 và \\< 1"
+  },
+  {
+    "id": 435,
+    "premium": true,
+    "question": "Trong 1 doanh nghiệp, “Hệ số nợ so với tài sản” bằng 0,6 thì hệ số tài trợ bằng:",
+    "answer": "0,4"
+  },
+  {
+    "id": 436,
+    "premium": true,
+    "question": "Phân tích mối quan hệ giữa tài sản với nguồn hình thành tài sản, nhà phân tích thường sử dụng một trong số các chỉ tiêu sau:",
+    "answer": "hệ số nợ so với tài sản, hệ số khả năng thanh toán tổng quát, hệ số tài trợ…"
+  },
+  {
+    "id": 437,
+    "premium": true,
+    "question": "Trong 1 doanh nghiệp, tỷ trọng tài sản ngắn hạn chiếm trong tổng tài sản bằng 70% thì tỷ trọng tài sản dài hạn chiếm trong tổng tài sản sẽ là:",
+    "answer": "30 %"
+  },
+  {
+    "id": 438,
+    "premium": true,
+    "question": "Sự biến động về cơ cấu TSNH ở Công ty U giữa kỳ phân tích so với kỳ gốc theo số liệu sau:\nNăm (N N 1): 60%\nNăm N: 70%\nlà:",
+    "answer": "+ 10%"
+  },
+  {
+    "id": 439,
+    "premium": true,
+    "question": "Cơ sở dữ liệu để phân tích cấu trúc tài chính là:",
+    "answer": "bảng cân đối kế toán."
+  },
+  {
+    "id": 440,
+    "premium": true,
+    "question": "“Hệ số tài trợ” được xác định theo công thức:",
+    "answer": "Vốn chủ sở hữu/Tổng tài sản"
+  },
+  {
+    "id": 441,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Nợ phải trả: 650\n- Các khoản phải thu: 450\n- Tài sản ngắn hạn: 700\n- Tổng tài sản: 1500\nTỷ trọng các khoản phải thu chiếm trong tổng tài sản là:",
+    "answer": "30 %"
+  },
+  {
+    "id": 442,
+    "premium": true,
+    "question": "Phân tích cơ cấu tài sản nhằm mục đích:",
+    "answer": "xem xét, đánh giá tính hợp lý của cơ cấu tài sản tại thời điểm hiện tại (hay kỳ phân tích) và xu hướng biến động của cơ cấu tài sản giữa kỳ phân tích với kỳ gốc."
+  },
+  {
+    "id": 443,
+    "premium": true,
+    "question": "“Hệ số nợ so với tài sản” cho biết:",
+    "answer": "chính sách sử dụng nợ phải trả để tài trợ tài sản hay một đồng tổng tài sản của doanh nghiệp được tài trợ từ mấy đồng nợ phải trả."
+  },
+  {
+    "id": 444,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Tiền và các KTĐT: 75\n- Hàng tồn kho: 175\n- Tài sản ngắn hạn: 700\n- Tổng tài sản: 1.500\nXác định tỷ trọng hàng tồn kho so với tổng tài sản:",
+    "answer": "12%"
+  },
+  {
+    "id": 445,
+    "premium": true,
+    "question": "Tỷ trọng vốn chủ sở hữu chiếm trong tổng nguồn vốn cao, doanh nghiệp sẽ:",
+    "answer": "có khả năng độc lập tài chính cao, không bị sức ép về các khoản công nợ hay có thể tự chủ về tài chính."
+  },
+  {
+    "id": 446,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau: (đvt: tỷ đồng).\n- Nợ phải trả: 320\n- Vốn chủ sở hữu: 870\n- Tài sản ngắn hạn: 550\n- Tổng nguồn vốn: 1.190\nHệ số nợ so với tổng tài sản bằng:",
+    "answer": "0,37"
+  },
+  {
+    "id": 447,
+    "premium": true,
+    "question": "“Hệ số nợ” (hay “Hệ số nợ so với tổng tài sản”) được xác định bằng:",
+    "answer": "Nợ phải trả/Tổng tài sản."
+  },
+  {
+    "id": 448,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát < 1 khi:",
+    "answer": "vốn chủ sở hữu \\< 0"
+  },
+  {
+    "id": 449,
+    "premium": true,
+    "question": "Phân tích cấu trúc tài chính bao gồm các nội dung:",
+    "answer": "phân tích cơ cấu tài sản, cơ cấu nguồn vốn, mối quan hệ giữa tài sản và nguồn vốn."
+  },
+  {
+    "id": 450,
+    "premium": true,
+    "question": "Giá trị tài sản ngắn hạn (TSNH) ở Công ty T trong năm N theo số liệu sau:\nTSNH: 6 tỷ đồng.\nTổng tài sản: 10 tỷ đồng.\nTỷ trọng TSNH chiếm trong tổng tài sản là:",
+    "answer": "60%"
+  },
+  {
+    "id": 451,
+    "premium": true,
+    "question": "Hệ số tài trợ < 0 khi:",
+    "answer": "vốn chủ sở hữu \\< 0"
+  },
+  {
+    "id": 452,
+    "premium": true,
+    "question": "“Hệ số tài trợ” có thể có trị số là:",
+    "answer": "\\≥ 0 và \\< 0"
+  },
+  {
+    "id": 453,
+    "premium": true,
+    "question": "Phân tích mối quan hệ giữa tài sản với nguồn hình thành tài sản, nhà phân tích thường sử dụng một trong số các chỉ tiêu sau:",
+    "answer": "hệ số nợ so với tài sản, hệ số khả năng thanh toán tổng quát, hệ số tài trợ…"
+  },
+  {
+    "id": 454,
+    "premium": true,
+    "question": "Phân tích cơ cấu tài sản tiến hành theo quy trình sau:",
+    "answer": "đánh giá tình hình biến động cơ cấu tài sản trên tổng thể, phân tích tình hình biến động cơ cấu tài sản trong từng bộ phận."
+  },
+  {
+    "id": 455,
+    "premium": true,
+    "question": "Phân tích cơ cấu nguồn vốn nhằm mục đích:",
+    "answer": "xem xét, đánh giá tính hợp lý của cơ cấu nguồn vốn tại thời điểm hiện tại (hay kỳ phân tích) và xu hướng biến động của cơ cấu nguồn vốn giữa kỳ phân tích với kỳ gốc."
+  },
+  {
+    "id": 456,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát có thể có trị số:",
+    "answer": "\\≥ 1 và \\< 1"
+  },
+  {
+    "id": 457,
+    "premium": true,
+    "question": "Tỷ trọng tiền và các khoản tương đương tiền chiếm trong tổng tài sản được xác định:",
+    "answer": "(Tiền và các khoản tương đương tiền/Tổng tài sản) x 100"
+  },
+  {
+    "id": 458,
+    "premium": true,
+    "question": "Phân tích cơ cấu nguồn vốn tiến hành theo quy trình sau:",
+    "answer": "đánh giá tình hình biến động cơ cấu nguồn vốn trên tổng thể, phân tích tình hình biến động cơ cấu nguồn vốn trong từng bộ phận."
+  },
+  {
+    "id": 459,
+    "premium": true,
+    "question": "Trong 1 doanh nghiệp, tỷ trọng tài sản ngắn hạn chiếm trong tổng tài sản bằng 70% thì tỷ trọng tài sản dài hạn chiếm trong tổng tài sản sẽ là:",
+    "answer": "30 %"
+  },
+  {
+    "id": 460,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau: - Tiền và các KTĐT: 75 - Các khoản phải thu: 450 - Tài sản ngắn hạn: 700 - Tổng tài sản: 1.500 Tỷ trọng tiền và các khoản tương đương tiền trong tổng tài sản bằng:",
+    "answer": "5 %"
+  },
+  {
+    "id": 461,
+    "premium": true,
+    "question": "Tỷ trọng tiền và các khoản tương đương tiền chiếm trong tổng tài sản của doanh nghiệp cao phản ánh:",
+    "answer": "doanh nghiệp có khả năng thanh toán các khoản công nợ, nhưng lãng phí, hiệu quả sử dụng vốn kém."
+  },
+  {
+    "id": 462,
+    "premium": true,
+    "question": "Doanh nghiệp có cơ cấu nợ dài hạn cao trong nguồn vốn huy động thêm từ bên ngoài, tức là:",
+    "answer": "doanh nghiệp đó đã huy động được những nguồn vốn ổn định và lâu dài để tài trợ cho hoạt động kinh doanh."
+  },
+  {
+    "id": 463,
+    "premium": true,
+    "question": "Kỹ thuật phân tích sử dụng trong phân tích cơ cấu tài sản là:",
+    "answer": "kỹ thuật so sánh."
+  },
+  {
+    "id": 464,
+    "premium": true,
+    "question": "Cơ cấu tài sản của doanh nghiệp phản ánh:",
+    "answer": "tỷ trọng của từng bộ phận tài sản chiếm trong tổng tài sản của doanh nghiệp."
+  },
+  {
+    "id": 465,
+    "premium": true,
+    "question": "Sự biến động về cơ cấu TSNH ở Công ty U giữa kỳ phân tích so với kỳ gốc theo số liệu sau:\nNăm (N N 1): 60%\nNăm N: 70%\nlà:",
+    "answer": "+ 10%"
+  },
+  {
+    "id": 466,
+    "premium": true,
+    "question": "Cơ sở dữ liệu để phân tích cấu trúc tài chính là:",
+    "answer": "bảng cân đối kế toán."
+  },
+  {
+    "id": 467,
+    "premium": true,
+    "question": "Nội dung phân tích cấu trúc tài chính bao gồm:",
+    "answer": "phân tích cơ cấu nguồn vốn, phân tích cơ cấu tài sản, phân tích mối quan hệ giữa nguồn vốn và tài sản"
+  },
+  {
+    "id": 468,
+    "premium": true,
+    "question": "Trong 1 doanh nghiệp, “Hệ số nợ so với tài sản” bằng 0,6 thì hệ số tài trợ bằng:",
+    "answer": "0,4"
+  },
+  {
+    "id": 469,
+    "premium": true,
+    "question": "Tỷ trọng hàng tồn kho chiếm trong tổng tài sản được xác định:",
+    "answer": "(Hàng tồn kho/Tổng tài sản) x 100"
+  },
+  {
+    "id": 470,
+    "premium": true,
+    "question": "“Hệ số nợ so với tài sản” có thể có trị số:",
+    "answer": "\\≥ 1 và \\< 1"
+  },
+  {
+    "id": 471,
+    "premium": true,
+    "question": "Cơ cấu nguồn vốn của doanh nghiệp phản ánh:",
+    "answer": "tỷ trọng của từng bộ phận nguồn vốn chiếm trong tổng nguồn vốn của doanh nghiệp."
+  },
+  {
+    "id": 472,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Nợ phải trả: 320\n- Vốn chủ sở hữu: 870\n- Tài sản ngắn hạn: 550\n- Tổng nguồn vốn: 1190\nHệ số tài trợ bằng:",
+    "answer": "0,73"
+  },
+  {
+    "id": 473,
+    "premium": true,
+    "question": "“Hệ số tài trợ” cho biết:",
+    "answer": "một đồng tài sản của doanh nghiệp được tài trợ bởi mấy đồng từ vốn chủ sở hữu."
+  },
+  {
+    "id": 474,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau:\n- Nợ phải trả: 650\n- Các khoản phải thu: 450\n- Tài sản ngắn hạn: 700\n- Tổng tài sản: 1500\nTỷ trọng các khoản phải thu chiếm trong tổng tài sản là:",
+    "answer": "30 %"
+  },
+  {
+    "id": 475,
+    "premium": true,
+    "question": "Sự biến động về cơ cấu TSNH ở Công ty U giữa kỳ phân tích so với kỳ gốc theo số liệu sau:\nNăm (N N 1): 60%\nNăm N: 70%\nlà:",
+    "answer": "+ 10%"
+  },
+  {
+    "id": 476,
+    "premium": true,
+    "question": "Doanh nghiệp có cơ cấu nợ dài hạn cao trong nguồn vốn huy động thêm từ bên ngoài, tức là:",
+    "answer": "doanh nghiệp đó đã huy động được những nguồn vốn ổn định và lâu dài để tài trợ cho hoạt động kinh doanh."
+  },
+  {
+    "id": 477,
+    "premium": true,
+    "question": "Hệ số thanh toán tổng quát có thể có trị số:",
+    "answer": "\\≥ 1 và \\< 1"
+  },
+  {
+    "id": 478,
+    "premium": true,
+    "question": "Phân tích cơ cấu tài sản tiến hành theo quy trình sau:",
+    "answer": "đánh giá tình hình biến động cơ cấu tài sản trên tổng thể, phân tích tình hình biến động cơ cấu tài sản trong từng bộ phận."
+  },
+  {
+    "id": 479,
+    "premium": true,
+    "question": "Trích bảng cân đối kế toán Công ty X 31/12/N như sau: - Tiền và các KTĐT: 75 - Các khoản phải thu: 450 - Tài sản ngắn hạn: 700 - Tổng tài sản: 1.500 Tỷ trọng tiền và các khoản tương đương tiền trong tổng tài sản bằng:",
+    "answer": "5 %"
+  },
+  {
+    "id": 480,
+    "premium": true,
+    "question": "“Hệ số nợ” (hay “Hệ số nợ so với tổng tài sản”) được xác định bằng:",
+    "answer": "Nợ phải trả/Tổng tài sản."
+  }
+]

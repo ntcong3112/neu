@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Xét xử phúc thẩm đối với vụ án dân sự là:",
+    "answer": "Việc toà án nhân dân cấp trên xét lại các bản án, quyết định sơ thẩm của toà án nhân dân cấp dưới bị kháng cáo, kháng nghị trong thời hạn luật định"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Việc kháng nghị bản án, quyết định sơ thẩm:",
+    "answer": "Được thực hiện bởi viện trưởng Viện kiểm sát nhân dân cùng cấp hoặc cấp trên"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Thời hạn Viện kiểm sát nghiên cứu hồ sơ vụ án do Tòa án cấp phúc thẩm chuyển kể từ ngày nhận được hồ sơ vụ án là bao nhiêu ngày?",
+    "answer": "15 ngày kể từ ngày nhận được hồ sơ vụ án."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Kể từ ngày ra bản án, trong thời hạn bao lâu thì Tòa án cấp phúc thẩm (cấp tỉnh) phải gửi bản án cho đương sự?",
+    "answer": "Không quá 15 ngày."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Phát biểu nào sau đây không đúng về việc gửi bản án, quyết định phúc thẩm?",
+    "answer": "Trong mọi trường hợp, bản án phúc thẩm được Tòa án cấp phúc thẩm công bố trên Cổng thông tin điện tử của Tòa án (nếu có)."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Đối với bản án sơ thẩm xét xử theo thủ tục rút gọn, thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cùng cấp là bao nhiêu ngày?",
+    "answer": "07 ngày kể từ ngày nhận bản án."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Đối với bản án sơ thẩm xét xử theo thủ tục rút gọn, thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cấp trên trực tiếp là bao nhiêu ngày?",
+    "answer": "10 ngày kể từ ngày nhận bản án."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Đối với vụ án xét xử phúc thẩm theo thủ tục rút gọn, thời hạn Viện kiểm sát nghiên cứu hồ sơ là bao lâu kể từ ngày nhận được hồ sơ mà hết thời hạn đó thì Viện kiểm sát phải trả lại hồ sơ cho Tòa án?",
+    "answer": "05 ngày."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Phiên tòa phúc thẩm xét xử vụ án dân sự theo thủ tục rút gọn bắt buộc phải có sự tham gia của kiểm sát viên Viện kiểm sát cùng cấp?",
+    "answer": "Chỉ bắt buộc trong trường hợp có kháng nghị phúc thẩm của Viện kiểm sát"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Thủ tục tố tụng rút gọn:",
+    "answer": "Có thể áp dụng đối với các vụ án có tình tiết đơn giản, chứng cứ rõ ràng, các đương sự đều thừa nhận quyền và nghĩa vụ của mình trong quan hệ đó"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Người yêu cầu giải quyết việc dân sự:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Thủ tục giải quyết việc dân sự được áp dụng:",
+    "answer": "Khi giữa các bên không có tranh chấp"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Giải quyết việc dân sự được thực hiện bởi:",
+    "answer": "Một phiên họp giải quyết việc dân sự"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Hiệu lực của quyết định giải quyết việc dân sự:",
+    "answer": "Quyết định công nhận kết quả hoà giải thành ngoài toà án không bị kháng cáo, kháng nghị"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Quyết định giải quyết việc dân sự",
+    "answer": "Có hiệu lực thi hành ngay và không bị kháng cáo, kháng nghị đối với Quyết định công nhận thuận tình ly hôn, thoả thuận nuôi con, chia tài sản khi ly hôn"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Việc kháng nghị theo thủ tục tái thẩm được thực hiện khi:",
+    "answer": "Người tiến hành tố tụng cố ý làm sai lệch hồ sơ vụ án"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Hội đồng xét xử giám đốc thẩm và Hội đồng xét xử tái thẩm vụ việc dân sự có quyền sửa một phần hoặc toàn bộ bản án, quyết định của Tòa án đã có hiệu lực pháp luật không?",
+    "answer": "Chỉ Hội đồng xét xử giám đốc thẩm mới có quyền sửa."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Phát biểu nào sau đây không đúng về phạm vi giám đốc thẩm?",
+    "answer": "Hội đồng xét xử giám đốc thẩm chỉ có quyền xem xét lại phần quyết định của bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Toà án có thẩm quyền xét lại bản án, quyết định đã có hiệu lực pháp luật theo thủ tục giám đốc thẩm và tái thẩm là:",
+    "answer": "Toà án nhân dân cấp cao và toà án nhân dân cấp cao"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Việc xét lại bản án, quyết định đã có hiệu lực pháp luật được thực hiện thông qua thủ tục:",
+    "answer": "Xét xử giám đốc thẩmCâu hỏi 1"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Đâu là nguyên tắc đặc thù của luật tố tụng dân sự",
+    "answer": "Hoà giải trong tố tụng"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Bộ luật Tố tụng dân sự 2015 quy định có bao nhiêu nguyên tắc cơ bản trong tố tụng dân sự?",
+    "answer": "23"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Đương sự trong vụ việc dân sự là:",
+    "answer": "Nguyên đơn, bị đơn, người có quyền lợi, nghĩa vụ liên quan trong vụ án dân sự, người yêu cầu giải quyết việc dân sự và người có quyền lợi, nghĩa vụ liên quan trong việc dân sự."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Việc xét xử phúc thẩm vụ án tranh chấp về kinh doanh thương mại có thể do bao nhiêu thẩm phán thực hiện?",
+    "answer": "01 thẩm phán hoặc 03 thẩm phán."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Kiểm sát viên không có nhiệm vụ, quyền hạn nào sau đây trong quá trình giải quyết vụ việc dân sự?",
+    "answer": "Kháng nghị bản án, quyết định của Tòa án có vi phạm pháp luật."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Y và Z đang tranh chấp về quyền sở hữu một ngôi nhà. Tranh chấp giữa Y và Z thuộc thẩm quyền giải quyết của toà án:",
+    "answer": "Nơi có ngôi nhà"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Tòa gia đình và người chưa thành niên thuộc Tòa án nhân dân cấp tỉnh có thẩm quyền nào?",
+    "answer": "Giải quyết những tranh chấp, yêu cầu về hôn nhân và gia đình theo thủ tục sơ thẩm và theo thủ tục phúc thẩm đối với bản án, quyết định của Tòa án cấp huyện bị kháng cáo, kháng nghị."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Tranh chấp kinh doanh thương mại thuộc thẩm quyền của giải quyết của toà án gồm:",
+    "answer": "Tranh chấp về hợp đồng kinh doanh thương mại"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Thẩm quyền của Tòa án chuyên trách thuộc Tòa án nhân dân cấp huyện được quy định như thế nào?",
+    "answer": "Giải quyết những việc dân sự, kinh doanh thương mại, lao động thuộc thẩm quyền Tòa án nhân dân cấp huyện. Tòa gia đình và người chưa thành niên giải quyết vụ việc về hôn nhân và gia đình thuộc thẩm quyền Tòa án nhân dân cấp huyện."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Khẳng định nào sau đây đúng về thẩm quyền của toà án trong giải quyết các vụ việc dân sự theo nghĩa rộng:",
+    "answer": "Khẳng định A và B"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Trong trường hợp Thẩm phán lấy lời khai của đương sự ngoài trụ sở Tòa án thì cần phải có người nào sau đây?",
+    "answer": "Người làm chứng hoặc UBND xã xác nhận."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Chứng cứ được rút ra từ những nguồn sau:",
+    "answer": "Cả 3 nguồn trên"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Khẳng định nào sau đây không đúng về nghĩa vụ chứng minh trong tố tụng dân sự:",
+    "answer": "Người tiêu dùng khởi kiện có nghĩa vụ chứng minh cá nhân, pháp nhân kinh doanh hàng hoá dịch vụ có lỗi đối với hành vi xâm phạm quyền lợi hợp pháp của mình"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Chứng cứ hợp pháp của vụ việc yêu cầu bồi thường thiệt hại theo hợp đồng là:",
+    "answer": "Biên bản làm việc với cơ quan chức năng liên quan tới hàng hoá là đối tượng của hợp đồng"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Khẳng định nào sau đây đúng về chứng minh trong tố tụng dân sự:",
+    "answer": "Những tình tiết, sự kiện rõ ràng, mọi người đều biết và toà án thừa nhận thì không cần chứng minh"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Yêu cầu khởi kiện",
+    "answer": "Có thể khởi kiện một hoặc nhiều chủ thể về một hoặc nhiều quan hệ có tranh chấp mà các quan hệ này có liên quan mật thiết với nhau"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Việc khởi kiện của đương sự:",
+    "answer": "Bằng văn bản có chữ ký hoặc điểm chỉ của người khởi kiện vụ án"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Việc toà án ra quyết định thụ lý vụ án:",
+    "answer": "Thông báo cho nguyên đơn, bị đơn và người có quyền lợi, nghĩa vụ liên quan biết trong thời hạn 3 ngày kể từ ngày thụ lý"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Thời hạn hoãn phiên tòa xét xử vụ án theo thủ tục rút gọn là bao lâu",
+    "answer": "Không quá 15 ngày."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Việc bị đơn có ý kiến đối với yêu cầu khởi kiện của nguyên đơn là:",
+    "answer": "Có thể là yêu cầu phản tố hoặc yêu cầu độc lập tuỳ thuộc vào nội dung cụ thể."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Thành phần Hội đồng xét xử phúc thẩm:",
+    "answer": "Gồm ba thẩm phán trừ trường hợp vụ án xét xử theo thủ tục rút gọn"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Những người tham gia phiên tòa phúc thẩm bao gồm:",
+    "answer": "Người kháng cáo, đương sự, cơ quan, tổ chức cá nhân có liên quan đến việc giải quyết kháng cáo, kháng nghị; người bảo vệ quyền lợi hợp pháp của đương sự và kiểm sát viên."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Trong giai đoạn chuẩn bị xét xử phúc thẩm, toà án cấp phúc thẩm:",
+    "answer": "Ra quyết định đình chỉ xét xử phúc thẩm vụ án"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Việc kháng cáo bản án, quyết định dân sự sơ thẩm",
+    "answer": "Được thực hiện bởi các đương sự"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Toà án cấp phúc thẩm có quyền:",
+    "answer": "Xét lại phần bản án bị kháng cáo, kháng nghị và các nội dung có liên quan khác"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Bản án, quyết định dân sự theo thủ tục tố tụng rút gọn:",
+    "answer": "Có hiệu lực thi hành nếu sau 7 ngày kể từ ngày tuyên án không bị kháng cáo, sau 7 ngày nếu không bị kháng nghị bởi Viện kiểm sát nhân dân cùng cấp và sau 10 ngày nếu không bị kháng nghị bởi Viện kiểm sát nhân dân cấp trên."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Vụ án dân sự có đương sự cư trú ở nước ngoài hoặc tài sản tranh chấp ở nước ngoài thì có được áp dụng thủ tục rút gọn không?",
+    "answer": "Vẫn được áp dụng khi đương sự ở nước ngoài và đương sự ở Việt Nam có thỏa thuận đề nghị Tòa án giải quyết theo thủ tục rút gọn hoặc các đương sự đã xuất trình được chứng cứ về quyền sở hữu hợp pháp tài sản và có thỏa thuận thống nhất về việc xử lý tài sản."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Việc chuẩn bị xét xử đối với vụ án áp dụng thủ tục tố tụng rút gọn:",
+    "answer": "Trong thời hạn 1 tháng kể từ ngày thụ lý vụ án"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Đối với những vụ án xét xử phúc thẩm theo thủ tục rút gọn, trong thời hạn 01 tháng, kể từ ngày thụ lý vụ án, Thẩm phán được phân công giải quyết vụ án theo thủ tục phúc thẩm có thể ra quyết định nào sau đây?",
+    "answer": "Tạm đình chỉ xét xử phúc thẩm vụ án hoặc Đình chỉ xét xử phúc thẩm vụ án hoặc Đưa vụ án ra xét xử phúc thẩm."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Vụ án dân sự đã được giải quyết ở cấp sơ thẩm theo thủ tục rút gọn thì khi lên cấp phúc thẩm vẫn bắt buộc phải giải quyết theo thủ tục rút gọn?",
+    "answer": "Do Tòa án cấp phúc thẩm quyết định trên cơ sở vụ án đó có phát sinh tình tiết mới quy định tại khoản 3 Điều 317 Bộ luật Tố tụng dân sự hay không."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Phát biểu nào sau đây không đúng?",
+    "answer": "Tòa án trả lại đơn yêu cầu nếu người yêu cầu không nộp lệ phí trong thời hạn quy định kể cả trong trường hợp vì sự kiện bất khả kháng."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Thủ tục giải quyết việc dân sự:",
+    "answer": "Áp dụng đối với yêu cầu về xác định năng lực hành vi dân sự của cá nhân"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Người yêu cầu giải quyết việc dân sự:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Chủ thể tham gia tố tụng trong giải quyết việc dân sự gồm:",
+    "answer": "Người yêu cầu giải quyết việc dân sự, người có quyền lợi, nghĩa vụ liên quan trong giải quyết việc dân sự và các chủ thể tham gia tố tụng khác"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Kết quả phiên họp giải quyết việc dân sự là:",
+    "answer": "Quyết định giải quyết việc dân sự"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Hội đồng xét xử tái thẩm có thẩm quyền:",
+    "answer": "Huỷ bản án, quyết định đã có hiệu lực pháp luật và đình chỉ giải quyết vụ án"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Tái thẩm:",
+    "answer": "Là việc xét lại bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị do phát hiện tình tiết mới làm thay đổi nội dung vụ án"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Trong trường hợp thời hạn kháng nghị theo thủ tục giám đốc thẩm đã hết nhưng có những căn cứ theo quy định pháp luật, thời hạn kháng nghị sẽ được kéo dài thêm bao lâu?",
+    "answer": "02 năm kể từ ngày hết thời hạn kháng nghị."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm, tái thẩm là:",
+    "answer": "Chánh án, toà án nhân dân, viện trưởng Viện kiểm sát nhân dân cấp cao, tối cao."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Thành phần nào bắt buộc phải tham gia trong phiên tòa giám đốc thẩm?",
+    "answer": "Viện kiểm sát.Câu hỏi 1"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Biện pháp khẩn cấp tạm thời khi được áp dụng trong quá trình giải quyết vụ án dân sự phải thực hiện biện pháp bảo đảm là:",
+    "answer": "Kê biên tài sản đang tranh chấp"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Hãy cho biết đâu là nguyên tắc cơ bản, đặc thù của luật tố tụng dân sự:",
+    "answer": "Đảm bảo quyền tự định đoạt của đương sự"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Phát biểu nào sau đây là không đúng?",
+    "answer": "Thời hạn tố tụng là một khoảng thời gian được xác định từ thời điểm này đến thời điểm khác để người tham gia tố tụng thực hiện các quyền và nghĩa vụ của mình do Bộ luật Tố tụng dân sự quy định."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Biện pháp bảo đảm áp dụng khi toà án áp dụng biện pháp khẩn cấp tạm thời là",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Theo quy định, người đại diện là những ai?",
+    "answer": "Cá nhân, pháp nhân, người đứng đầu cơ quan Nhà nước hoặc tổ chức."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Toà án có thẩm quyền giải quyết các tranh chấp dân sự (theo nghĩa rộng) nếu:",
+    "answer": "Vụ việc đó thuộc thẩm quyền của toà án đó và nguyên đơn khởi kiện để yêu cầu toà án giải quyết."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Tranh chấp đối với hợp đồng mua bán hàng hóa sẽ thuộc thẩm quyền của Tòa án chuyên trách nào sau đây?",
+    "answer": "Tòa dân sự Tòa án nhân dân cấp huyện"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "A và Y làm thủ tục đăng ký kết hôn tại phường X Quận T, thành phố HCM. Hiện tại Y đang sinh sống ở Campuchia còn A cư trú tại Quận Đ, thành phố HN. Việc kết hôn của A và Y là trái pháp luật. Toà án có thẩm quyền giải quyết là:",
+    "answer": "Toà án nhân dân quận T, Thành phố HCM"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Toà án là chủ thể đầu tiên có thẩm quyền giải quyết theo thủ tục tố tụng dân sự các tranh chấp:",
+    "answer": "Tranh chấp về quyền sở hữu trí tuệ, chuyển giao công nghệ giữa các chủ thể."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Tòa án áp dụng tập quán để giải quyết vụ án kinh doanh thương mại trong trường hợp nào?",
+    "answer": "Các bên không có thỏa thuận và pháp luật không có quy định."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Chủ thể có nghĩa vụ chứng minh trong vụ việc dân sự là:",
+    "answer": "Đương sự"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Việc thu thập chứng cứ phục vụ việc giải quyết vụ việc dân sự:",
+    "answer": "Toà án thực hiện việc xác minh, thu thập chứng cứ trong trường hợp cần thiết để làm rõ sự thật khách quan của vụ việc"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Trong giai đoạn phúc thẩm, giám đốc thẩm, tái thẩm khi nào Viện kiểm sát được thu thập tài liệu chứng cứ?",
+    "answer": "Thực hiện thẩm quyền kháng nghị."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Nguồn chứng cứ trong vụ việc yêu cầu cấp dưỡng nuôi con ngoài giá thú gồm:",
+    "answer": "Giám định ADN của đứa trẻ với cha, mẹ nó"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Chủ thể nào sau đây không có nghĩa vụ chứng minh?",
+    "answer": "Tòa án."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Những vụ án dân sự nào sẽ không được hòa giải?",
+    "answer": "Những vụ án yêu cầu đòi bồi thường vì lý do gây thiệt hại đến tài sản của Nhà nước hoặc những vụ án phát sinh từ giao dịch dân sự vi phạm điều cấm của luật hoặc trái đạo đức xã hội."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Việc hoà giải giữa các đương sự:",
+    "answer": "Không được tiến hành đối với một số vụ án dân sự"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Trong trường hợp nào thì Tòa án có căn cứ để ra quyết định tạm đình chỉ giải quyết vụ án dân sự?",
+    "answer": "Đương sự chết mà chưa có người kế thừa quyền và nghĩa vụ tố tụng của họ."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Người khởi kiện vụ án phải là:",
+    "answer": "Người có đủ năng lực hành vi tố tụng dân sự"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Kể từ ngày tuyên án, Tòa án cấp sơ thẩm phải giao hoặc gửi bản án cho đương sự trong thời hạn là bao nhiêu ngày?",
+    "answer": "Không quá 15 ngày."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Thời hạn chuẩn bị xét xử phúc thẩm là bao lâu?",
+    "answer": "01 tháng kể từ ngày thụ lý vụ án."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cấp trên trực tiếp đối với bản án sơ thẩm là bao lâu?",
+    "answer": "01 tháng kể từ ngày tuyên án."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Hội đồng xét xử phúc thẩm có quyền ra quyết định:",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Bản án, quyết định xét xử phúc thẩm",
+    "answer": "Có hiệu lực thi hành ngay"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Kể từ ngày có quyết định đưa vụ án ra xét xử phúc thẩm, thời gian bao lâu phải mở phiên tòa phúc thẩm?",
+    "answer": "01 tháng, trường hợp có lý do chính đáng thì thời hạn này là 02 tháng."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Đối với bản án sơ thẩm xét xử theo thủ tục rút gọn, thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cùng cấp là bao nhiêu ngày?",
+    "answer": "07 ngày kể từ ngày nhận bản án."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Thành phần Hội đồng xét xử sơ thẩm vụ án theo thủ tục tố tụng rút gọn",
+    "answer": "Chỉ có 1 thẩm phán"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Thủ tục tố tụng thông thường:",
+    "answer": "Được áp dụng ngay cả với những vụ án đã được xác định áp dụng thủ tục đơn giản"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Thủ tục tố tụng rút gọn áp dụng đối với",
+    "answer": "Các vụ án đơn giản, có yếu tố nước ngoài nhưng các bên có thoả thuận bằng văn bản về việc đề nghị toà án giải quyết theo thủ tục tố tụng rút gọn"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Phiên tòa phúc thẩm xét xử vụ án dân sự theo thủ tục rút gọn bắt buộc phải có sự tham gia của kiểm sát viên Viện kiểm sát cùng cấp?",
+    "answer": "Chỉ bắt buộc trong trường hợp có kháng nghị phúc thẩm của Viện kiểm sát"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Thẩm quyền xét tính hợp pháp của cuộc đình công đối với cấp sơ thẩm?",
+    "answer": "Tòa án nhân dân cấp tỉnh"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cùng cấp đối với quyết định giải quyết vụ việc dân sự là bao nhiêu ngày?",
+    "answer": "10 ngày kể từ ngày Tòa án ra quyết định."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Thời hạn để Viện kiểm sát cấp trên trực tiếp kháng nghị theo thủ tục phúc thẩm đối với quyết định giải quyết việc dân sự là bao nhiêu ngày?",
+    "answer": "15 ngày kể từ ngày Tòa án ra quyết định."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Khẳng định nào sau đây đúng về phiên họp giải quyết việc dân sự:",
+    "answer": "Đại diện Viện kiểm sát nếu không có mặt, phiên họp giải quyết yêu cầu vẫn tiến hành"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Phát biểu nào sau đây không đúng?",
+    "answer": "Tòa án trả lại đơn yêu cầu nếu người yêu cầu không nộp lệ phí trong thời hạn quy định kể cả trong trường hợp vì sự kiện bất khả kháng."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Thời hạn kháng nghị theo thủ tục giám đốc thẩm án dân sự là bao lâu?",
+    "answer": "03 năm kể từ ngày bản án có hiệu lực."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Phiên toà giám đốc thẩm;",
+    "answer": "Đương sự, người bảo vệ quyền lợi hợp pháp của đương sự, người đại diện hợp pháp của đương sự … chỉ tham gia nếu toà án triệu tập"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Việc kháng nghị theo thủ tục giám đốc thẩm:",
+    "answer": "Người có quyền kháng nghị thực hiện kháng nghị trong thời hạn 3 năm kể từ ngày bản án, quyết định có hiệu lực pháp luật, trừ trường hợp pháp luật có quy định khác"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Thời hạn kháng nghị theo thủ tục giám đốc thẩm đối với bản án, quyết định của Tòa án đã có hiệu lực pháp luật là bao nhiêu năm?",
+    "answer": "05 năm"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Kể từ ngày nhận được kháng nghị kèm theo hồ sơ vụ án, trong thời hạn bao lâu thì Tòa án có thẩm quyền tái thẩm sẽ phải mở phiên tòa để xét xử vụ án theo thủ tục tái thẩm?",
+    "answer": "04 tháng.Câu hỏi 1"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Phát biểu nào sau đây là không đúng?",
+    "answer": "Thời hạn tố tụng là một khoảng thời gian được xác định từ thời điểm này đến thời điểm khác để người tham gia tố tụng thực hiện các quyền và nghĩa vụ của mình do Bộ luật Tố tụng dân sự quy định."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Theo quy định, có bao nhiêu người tiến hành tố tụng?",
+    "answer": "8"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Bộ luật Tố tụng dân sự 2015 quy định có bao nhiêu nguyên tắc cơ bản trong tố tụng dân sự?",
+    "answer": "23"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Biện pháp bảo đảm áp dụng khi toà án áp dụng biện pháp khẩn cấp tạm thời là",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Biện pháp khẩn cấp tạm thời khi được áp dụng trong tố tụng dân sự không cần áp dụng biện pháp bảo đảm là:",
+    "answer": "Cấm xuất nhập cảnh đối với người có nghĩa vụ"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Tranh chấp giữa người chưa phải là thành viên của công ty nhưng có giao dịch về chuyển nhượng phần vốn hợp với công ty, thành viên công ty là tranh chấp gì?",
+    "answer": "Kinh doanh thương mại."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Các vụ việc dân sự theo nghĩa rộng thuộc thẩm quyền giải quyết của toà án nhân dân cấp tỉnh là:",
+    "answer": "Các tranh chấp dân sự không thuộc thẩm quyền giải quyết của toà án nhân dân cấp huyện"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Tranh chấp lao động thuộc thẩm quyền giải quyết của toà án nhân dân gồm",
+    "answer": "Tranh chấp về bảo hiểm y tế"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Trong trường hợp chưa có điều luật để áp dụng, Tòa án giải quyết vụ việc dân sự có thể áp dụng nguyên tắc nào sau đây? Chọn phương án đúng nhất.",
+    "answer": "Nguyên tắc áp dụng tập quán, tương tự pháp luật và án lệ, lẽ công bằng."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Các khẳng định nào sau đây đúng về thẩm quyền của Toà án nhân dân trong giải quyết các vụ việc dân sự",
+    "answer": "Toà án nhân dân cấp tỉnh có thẩm quyền giải quyết theo thủ tục các tranh chấp dân sự theo nghĩa rộng nếu tranh chấp đó không thuộc thẩm quyền giải quyết của toà án nhân dân cấp huyện"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Biện pháp mà toà án sử dụng để xác minh và thu thập chứng cứ là",
+    "answer": "Đối chất giữa các đương sự"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Chứng cứ có các đặc tính:",
+    "answer": "Tính khách quan, tính liên quan, tính hợp pháp"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Phát biểu nào sau đây đúng?",
+    "answer": "Chứng cứ được Tòa án sử dụng làm căn cứ để xác định yêu cầu hay sự phản đối của đương sự là có căn cứ và hợp pháp."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Tình tiết, sự kiện nào sau đây vẫn phải chứng minh?",
+    "answer": "Tình tiết, sự kiện rõ ràng mà các bên đều đồng thuận."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Chứng cứ không có đặc điểm nào sau đây?",
+    "answer": "Tính cần thiết."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Đối với những vụ án mà Viện kiểm sát tham gia phiên tòa sơ thẩm, trong thời hạn bao lâu kể từ ngày nhận được hồ sơ, Viện kiểm sát phải nghiên cứu và trả lại hồ sơ cho Tòa án?",
+    "answer": "15 ngày."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Việc hoà giải giữa các đương sự:",
+    "answer": "Có thể diễn ra trong bất cứ giai đoạn nào của quá trình giải quyết vụ án"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Phát biểu nào sau đây đúng về tuyên án?",
+    "answer": "Một thành viên của Hội đồng xét xử tuyên đọc bản án và có thể giải thích thêm về việc thi hành bản án và quyền kháng cáo."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Thời điểm toà án thụ lý vụ án là:",
+    "answer": "Thời điểm người khởi kiện nộp cho toà án biên lại nộp tạm ứng án phí"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Thời điểm khởi kiện vụ án dân sự là:",
+    "answer": "Thời điểm người khởi kiện trực tiếp nộp hồ sơ khởi kiện tại toà án có thẩm quyền giải quyết vụ án"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Thời hạn người khởi kiện nộp tiền tạm ứng án phí phúc thẩm là bao nhiêu ngày?",
+    "answer": "10 ngày kể từ ngày nhận được giấy báo."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Thời điểm nào thì Quyết định tạm đình chỉ xét xử phúc thẩm vụ án có hiệu lực?",
+    "answer": "Ngay sau khi ra quyết định."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Tòa án cấp phúc thẩm sẽ thông báo bằng văn bản cho các đương sự, cơ quan, tổ chức, cá nhân khởi kiện và Viện kiểm sát cùng cấp về việc Tòa án đã thụ lý vụ án trong thời hạn bao nhiêu ngày?",
+    "answer": "03 ngày làm việc kể từ khi thụ lý."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Thời hạn phúc thẩm đối với quyết định của Tòa án cấp sơ thẩm bị kháng cáo, kháng nghị là bao lâu?",
+    "answer": "01 tháng kể từ ngày thụ lý, trường hợp có lý do chính đáng thì thời hạn này là 02 tháng."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Việc kháng nghị bản án hoặc quyết định dân sự sơ thẩm:",
+    "answer": "Do viện trưởng Viện kiểm sát nhân dân cùng cấp thực hiện trong thời hạn 15 ngày, viện trưởng Viện kiểm sát nhân dân cấp trên thực hiện trong thời hạn 30 ngày kể từ ngày toà án cấp sơ thẩm tuyên án"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Thành phần Hội đồng xét xử sơ thẩm vụ án theo thủ tục tố tụng rút gọn",
+    "answer": "Chỉ có 1 thẩm phán"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Đối với bản án sơ thẩm xét xử theo thủ tục rút gọn, thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cùng cấp là bao nhiêu ngày?",
+    "answer": "07 ngày kể từ ngày nhận bản án."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Đối với bản án sơ thẩm xét xử theo thủ tục rút gọn, thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cấp trên trực tiếp là bao nhiêu ngày?",
+    "answer": "10 ngày kể từ ngày nhận bản án."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Thủ tục tố tụng rút gọn:",
+    "answer": "Có thể áp dụng đối với các vụ án có tình tiết đơn giản, chứng cứ rõ ràng, các đương sự đều thừa nhận quyền và nghĩa vụ của mình trong quan hệ đó"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Bản án, quyết định dân sự theo thủ tục tố tụng rút gọn:",
+    "answer": "Có hiệu lực thi hành nếu sau 7 ngày kể từ ngày tuyên án không bị kháng cáo, sau 7 ngày nếu không bị kháng nghị bởi Viện kiểm sát nhân dân cùng cấp và sau 10 ngày nếu không bị kháng nghị bởi Viện kiểm sát nhân dân cấp trên."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Người yêu cầu giải quyết việc dân sự:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Quyết định giải quyết việc dân sự",
+    "answer": "Có hiệu lực thi hành ngay và không bị kháng cáo, kháng nghị đối với Quyết định công nhận thuận tình ly hôn, thoả thuận nuôi con, chia tài sản khi ly hôn"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Thủ tục giải quyết việc dân sự được áp dụng:",
+    "answer": "Khi giữa các bên không có tranh chấp"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Giải quyết việc dân sự được thực hiện bởi:",
+    "answer": "Một phiên họp giải quyết việc dân sự"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Hiệu lực của quyết định giải quyết việc dân sự:",
+    "answer": "Quyết định công nhận kết quả hoà giải thành ngoài toà án không bị kháng cáo, kháng nghị"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Đối với những vụ án tái thẩm do Chánh án Tòa án kháng nghị, thời hạn Viện kiểm sát nghiên cứu hồ sơ là bao nhiêu ngày, mà khi hết thời hạn này thì Viện kiểm sát phải trả lại hồ sơ cho Tòa án?",
+    "answer": "15 ngày."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Sau khi Viện kiểm sát ngang cấp nhận được quyết định kháng nghị giám đốc thẩm cùng hồ sơ vụ án Tòa án chuyển thì thời hạn để Viện kiểm sát nghiên cứu hồ sơ là bao nhiêu ngày?",
+    "answer": "15 ngày."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Những người nào sau đây có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm đối với bản án đã có hiệu lực pháp luật?",
+    "answer": "Chánh án TANDCC và Viện trưởng Viện Kiểm sát nhân dân cấp cao theo khu vực; Chánh án TANDTC và Viện trưởng VKSNDTC."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Người có quyền kháng nghị theo thủ tục giám đốc thẩm thực hiện việc kháng nghị khi:",
+    "answer": "Xác định được Hội đồng xét xử đã áp dụng các văn bản pháp luật hết hiệu lực để giải quyết vụ việc"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Giám đốc thẩm, tái thẩm là việc:",
+    "answer": "Xem xét lại các bản án, quyết định đã có hiệu lực pháp luật trên cơ sở có kháng nghị có người có thẩm quyềnâu hỏi 1"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Chủ thể quan hệ pháp luật tố tụng dân sự gồm:",
+    "answer": "Chủ thể tiến hành tố tụng và chủ thể tham gia tố tụng"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Viện Kiểm sát nhân dân tham gia các phiên tòa sơ thẩm trong trường hợp nào? Chọn phương án đúng.",
+    "answer": "Viện kiểm sát tham gia các phiên tỏa sơ thẩm dân sự đối với những vụ án do Tòa án tiến hành thu thập chứng cứ mà đương sự có khiếu nại."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Đâu là biện pháp khẩn cấp tạm thời được áp dụng trong quá trình giải quyết vụ án dân sự:",
+    "answer": "cả A và C"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Công việc nào sau đây thuộc quyền hạn, nhiệm vụ của Thẩm tra viên?",
+    "answer": "Lập hồ sơ kiểm sát vụ việc dân sự."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Hãy cho biết đâu là nguyên tắc cơ bản, đặc thù của luật tố tụng dân sự:",
+    "answer": "Đảm bảo quyền tự định đoạt của đương sự"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Các tranh chấp thuộc thẩm quyền giải quyết của toà án theo thủ tục tố tụng dân sự là:",
+    "answer": "Những tranh chấp về dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động được pháp luật quy định"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Việc dân sự (theo nghĩa rộng) thuộc thẩm quyền giải quyết của toà án nhân dân là:",
+    "answer": "Yêu cầu liên quan đến xác định năng lực hành vi của cá nhân"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Tranh chấp kinh doanh thương mại nào sau đây thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp huyện?",
+    "answer": "Tranh chấp phát sinh trong hoạt động kinh doanh, thương mại giữa cá nhân, tổ chức có đăng ký kinh doanh với nhau và đều có mục đích lợi nhuận."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Tranh chấp giữa các bên không ở tại cùng địa phương sẽ được giải quyết bởi:",
+    "answer": "Toà án nơi bị đơn đặt trụ sở hoặc cư trú"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Tranh chấp kinh doanh thương mại thuộc thẩm quyền của giải quyết của toà án gồm:",
+    "answer": "Tranh chấp về hợp đồng kinh doanh thương mại"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Chủ thể có nghĩa vụ chứng minh trong tố tụng dân sự là",
+    "answer": "Nguyên đơn, bị đơn (trong trường hợp bị đơn phản đối các yêu cầu khởi kiện của nguyên đơn"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Biện pháp mà toà án sử dụng để xác minh và thu thập chứng cứ là",
+    "answer": "Đối chất giữa các đương sự"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Nguồn chứng cứ trong vụ việc yêu cầu cấp dưỡng nuôi con ngoài giá thú gồm:",
+    "answer": "Giám định ADN của đứa trẻ với cha, mẹ nó"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Chứng cứ là:",
+    "answer": "Những gì có thật, phản ánh sự thật khách quan của vụ việc"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Trong trường hợp Thẩm phán lấy lời khai của đương sự ngoài trụ sở Tòa án thì cần phải có người nào sau đây?",
+    "answer": "Người làm chứng hoặc UBND xã xác nhận."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Trong thời hạn chuẩn bị xét xử, Thẩm phán sẽ không ra quyết định nào sau đây?",
+    "answer": "Trả lại đơn khởi kiện."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Việc khởi kiện của nguyên đơn tới toà án bằng:",
+    "answer": "Hồ sơ khởi kiện"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Trong trường hợp nào thì Tòa án có căn cứ để ra quyết định tạm đình chỉ giải quyết vụ án dân sự?",
+    "answer": "Đương sự chết mà chưa có người kế thừa quyền và nghĩa vụ tố tụng của họ."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Toà án trả lại đơn khởi kiện khi:",
+    "answer": "Vụ tranh chấp về quyền sở hữu tài sản giữa các bên đã được giải quyết bằng một bản án có hiệu lực pháp luật của toà án"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Yêu cầu phản tố của bị đơn đối với nguyên đơn không được chấp nhận khi thuộc trường hợp sau đây?",
+    "answer": "Giữa yêu cầu phản tố và yêu cầu của nguyên đơn có sự liên quan với nhau, nếu được giải quyết trong cùng một vụ án thì làm cho việc giải quyết vụ án phức tạp hơn."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Trong trường hợp có quyết định tạm đình chỉ xét xử phúc thẩm vụ án, thời hạn chuẩn bị xét xử phúc thẩm được tính lại như thế nào?",
+    "answer": "Kể từ ngày quyết định tiếp tục giải quyết vụ án của Tòa án có hiệu lực pháp luật."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Phiên tòa phúc thẩm sẽ không phải hoãn trong trường hợp nào sau đây?",
+    "answer": "Người không kháng cáo nhưng có quyền lợi, nghĩa vụ liên quan đến việc kháng cáo, kháng nghị và những người tham gia tố tụng khác đã được Tòa án triệu tập hợp lệ lần thứ hai mà vẫn vắng mặt."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Việc kháng cáo theo thủ tục phúc thẩm là:",
+    "answer": "Là việc đương sự hoặc người đại diện hợp pháp của đương sự nộp cho toà án đã xét xử sơ thẩm đơn kháng cáo"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Phát biểu nào sau đây không đúng về việc gửi bản án, quyết định phúc thẩm?",
+    "answer": "Trong mọi trường hợp, bản án phúc thẩm được Tòa án cấp phúc thẩm công bố trên Cổng thông tin điện tử của Tòa án (nếu có)."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Bản án, quyết định xét xử phúc thẩm",
+    "answer": "Có hiệu lực thi hành ngay"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Việc chuẩn bị xét xử đối với vụ án áp dụng thủ tục tố tụng rút gọn:",
+    "answer": "Trong thời hạn 1 tháng kể từ ngày thụ lý vụ án"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Vụ án dân sự có đương sự cư trú ở nước ngoài hoặc tài sản tranh chấp ở nước ngoài thì có được áp dụng thủ tục rút gọn không?",
+    "answer": "Vẫn được áp dụng khi đương sự ở nước ngoài và đương sự ở Việt Nam có thỏa thuận đề nghị Tòa án giải quyết theo thủ tục rút gọn hoặc các đương sự đã xuất trình được chứng cứ về quyền sở hữu hợp pháp tài sản và có thỏa thuận thống nhất về việc xử lý tài sản."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Thủ tục tố tụng thông thường:",
+    "answer": "Được áp dụng ngay cả với những vụ án đã được xác định áp dụng thủ tục đơn giản"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Thủ tục tố tụng rút gọn áp dụng đối với",
+    "answer": "Các vụ án đơn giản, có yếu tố nước ngoài nhưng các bên có thoả thuận bằng văn bản về việc đề nghị toà án giải quyết theo thủ tục tố tụng rút gọn"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Vụ án dân sự đã được giải quyết ở cấp sơ thẩm theo thủ tục rút gọn thì khi lên cấp phúc thẩm vẫn bắt buộc phải giải quyết theo thủ tục rút gọn?",
+    "answer": "Do Tòa án cấp phúc thẩm quyết định trên cơ sở vụ án đó có phát sinh tình tiết mới quy định tại khoản 3 Điều 317 Bộ luật Tố tụng dân sự hay không."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Thủ tục giải quyết việc dân sự:",
+    "answer": "Áp dụng đối với yêu cầu về xác định năng lực hành vi dân sự của cá nhân"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Thời hạn để Viện kiểm sát cấp trên trực tiếp kháng nghị theo thủ tục phúc thẩm đối với quyết định giải quyết việc dân sự là bao nhiêu ngày?",
+    "answer": "15 ngày kể từ ngày Tòa án ra quyết định."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cùng cấp đối với quyết định giải quyết vụ việc dân sự là bao nhiêu ngày?",
+    "answer": "10 ngày kể từ ngày Tòa án ra quyết định."
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Khẳng định nào sau đây đúng về phiên họp giải quyết việc dân sự:",
+    "answer": "Đại diện Viện kiểm sát nếu không có mặt, phiên họp giải quyết yêu cầu vẫn tiến hành"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Kết quả phiên họp giải quyết việc dân sự là:",
+    "answer": "Quyết định giải quyết việc dân sự"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Việc kháng nghị theo thủ tục tái thẩm được thực hiện khi:",
+    "answer": "Người tiến hành tố tụng cố ý làm sai lệch hồ sơ vụ án"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Đối với những vụ án giám đốc thẩm do Chánh án Tòa án kháng nghị, thời hạn Viện kiểm sát nghiên cứu hồ sơ bao nhiêu ngày, mà khi hết thời hạn này thì Viện kiểm sát phải trả lại hồ sơ cho Tòa án?",
+    "answer": "15 ngày."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Hội đồng xét xử giám đốc thẩm và Hội đồng xét xử tái thẩm vụ việc dân sự có quyền sửa một phần hoặc toàn bộ bản án, quyết định của Tòa án đã có hiệu lực pháp luật không?",
+    "answer": "Chỉ Hội đồng xét xử giám đốc thẩm mới có quyền sửa."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Thời hạn kháng nghị theo thủ tục tái thẩm là bao lâu, kể từ ngày người có thẩm quyền kháng nghị biết được căn cứ để kháng nghị theo thủ tục tái thẩm?",
+    "answer": "01 năm."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Thời hạn kháng nghị theo thủ tục tái thẩm là bao lâu kể từ ngày người có quyền kháng nghị biết được căn cứ để kháng nghị theo thủ tục tái thẩm?",
+    "answer": "01 năm"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Biện pháp khẩn cấp tạm thời khi được áp dụng trong tố tụng dân sự không cần áp dụng biện pháp bảo đảm là:",
+    "answer": "Cấm xuất nhập cảnh đối với người có nghĩa vụ"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Có bao nhiêu biện pháp khẩn cấp tạm thời được quy định trong Bộ luật Tố tụng dân sự 2015?",
+    "answer": "16"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Theo quy định, có bao nhiêu người tiến hành tố tụng?",
+    "answer": "8"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Phát biểu nào sau đây không đúng về người bảo vệ quyền và lợi ích hợp pháp của đương sự?",
+    "answer": "Tất cả các công dân Việt Nam có năng lực hành vi dân sự đầy đủ và không phải là cán bộ, công chức trong các cơ quan Tòa án, Viện kiểm sát và công chức, sĩ quan, hạ sĩ quan trong ngành Công an đều có thể làm người bảo vệ quyền và lợi ích hợp pháp của đương sự."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Chủ thể quan hệ pháp luật tố tụng dân sự gồm:",
+    "answer": "Chủ thể tiến hành tố tụng và chủ thể tham gia tố tụng"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Các tranh chấp thuộc thẩm quyền giải quyết của toà án theo thủ tục tố tụng dân sự là:",
+    "answer": "Những tranh chấp về dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động được pháp luật quy định"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Việc dân sự (theo nghĩa rộng) thuộc thẩm quyền giải quyết của toà án nhân dân là:",
+    "answer": "Yêu cầu liên quan đến xác định năng lực hành vi của cá nhân"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "A và Y làm thủ tục đăng ký kết hôn tại phường X Quận T, thành phố HCM. Hiện tại Y đang sinh sống ở Campuchia còn A cư trú tại Quận Đ, thành phố HN. Việc kết hôn của A và Y là trái pháp luật. Toà án có thẩm quyền giải quyết là:",
+    "answer": "Toà án nhân dân quận T, Thành phố HCM"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Các vụ việc dân sự theo nghĩa rộng thuộc thẩm quyền giải quyết của toà án nhân dân cấp tỉnh là:",
+    "answer": "Các tranh chấp dân sự không thuộc thẩm quyền giải quyết của toà án nhân dân cấp huyện"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Tòa án áp dụng tập quán để giải quyết vụ án kinh doanh thương mại trong trường hợp nào?",
+    "answer": "Các bên không có thỏa thuận và pháp luật không có quy định."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Chứng cứ hợp pháp là:",
+    "answer": "Lời khai của đương sự, của người làm chứng tại toà án"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Nguồn chứng cứ trong vụ việc yêu cầu cấp dưỡng nuôi con ngoài giá thú gồm:",
+    "answer": "Giám định ADN của đứa trẻ với cha, mẹ nó"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Chứng cứ hợp pháp của vụ việc yêu cầu bồi thường thiệt hại theo hợp đồng là:",
+    "answer": "Biên bản làm việc với cơ quan chức năng liên quan tới hàng hoá là đối tượng của hợp đồng"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Biện pháp mà toà án sử dụng để xác minh và thu thập chứng cứ là",
+    "answer": "Đối chất giữa các đương sự"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Chứng cứ có các đặc tính:",
+    "answer": "Tính khách quan, tính liên quan, tính hợp pháp"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Hồ sơ khởi kiện bao gồm:",
+    "answer": "Đơn khởi kiện và tài liệu chứng cứ kèm theo để chứng minh yêu cầu khởi kiện"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Toà án ra quyết định đình chỉ giải quyết vụ án khi:",
+    "answer": "Nguyên đơn được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Yêu cầu phản tố của bị đơn đối với nguyên đơn không được chấp nhận khi thuộc trường hợp sau đây?",
+    "answer": "Giữa yêu cầu phản tố và yêu cầu của nguyên đơn có sự liên quan với nhau, nếu được giải quyết trong cùng một vụ án thì làm cho việc giải quyết vụ án phức tạp hơn."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Thời hạn chuẩn bị xét xử:",
+    "answer": "Có thể là 01 tháng, 02 tháng, 04 tháng tuỳ vào tính chất của từng vụ án cụ thể theo quy định của pháp luật tố tụng"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Quyết định đình chỉ giải quyết vụ án:",
+    "answer": "Đương sự vẫn có quyền khởi kiện vụ án nếu đây là vụ án về ly hôn"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Kể từ ngày ra bản án, trong thời hạn bao lâu thì Tòa án cấp phúc thẩm (cấp tỉnh) phải gửi bản án cho đương sự?",
+    "answer": "Không quá 15 ngày."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Thời hạn người khởi kiện nộp tiền tạm ứng án phí phúc thẩm là bao nhiêu ngày?",
+    "answer": "10 ngày kể từ ngày nhận được giấy báo."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Những người tham gia phiên tòa phúc thẩm bao gồm:",
+    "answer": "Người kháng cáo, đương sự, cơ quan, tổ chức cá nhân có liên quan đến việc giải quyết kháng cáo, kháng nghị; người bảo vệ quyền lợi hợp pháp của đương sự và kiểm sát viên."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Trong giai đoạn chuẩn bị xét xử phúc thẩm, toà án cấp phúc thẩm:",
+    "answer": "Ra quyết định đình chỉ xét xử phúc thẩm vụ án"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Tòa án cấp phúc thẩm sẽ thông báo bằng văn bản cho các đương sự, cơ quan, tổ chức, cá nhân khởi kiện và Viện kiểm sát cùng cấp về việc Tòa án đã thụ lý vụ án trong thời hạn bao nhiêu ngày?",
+    "answer": "03 ngày làm việc kể từ khi thụ lý."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Vụ án dân sự đã được giải quyết ở cấp sơ thẩm theo thủ tục rút gọn thì khi lên cấp phúc thẩm vẫn bắt buộc phải giải quyết theo thủ tục rút gọn?",
+    "answer": "Do Tòa án cấp phúc thẩm quyết định trên cơ sở vụ án đó có phát sinh tình tiết mới quy định tại khoản 3 Điều 317 Bộ luật Tố tụng dân sự hay không."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Thành phần Hội đồng xét xử sơ thẩm vụ án theo thủ tục tố tụng rút gọn",
+    "answer": "Chỉ có 1 thẩm phán"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Vụ án dân sự có đương sự cư trú ở nước ngoài hoặc tài sản tranh chấp ở nước ngoài thì có được áp dụng thủ tục rút gọn không?",
+    "answer": "Vẫn được áp dụng khi đương sự ở nước ngoài và đương sự ở Việt Nam có thỏa thuận đề nghị Tòa án giải quyết theo thủ tục rút gọn hoặc các đương sự đã xuất trình được chứng cứ về quyền sở hữu hợp pháp tài sản và có thỏa thuận thống nhất về việc xử lý tài sản."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Đối với những vụ án xét xử phúc thẩm theo thủ tục rút gọn, trong thời hạn 01 tháng, kể từ ngày thụ lý vụ án, Thẩm phán được phân công giải quyết vụ án theo thủ tục phúc thẩm có thể ra quyết định nào sau đây?",
+    "answer": "Tạm đình chỉ xét xử phúc thẩm vụ án hoặc Đình chỉ xét xử phúc thẩm vụ án hoặc Đưa vụ án ra xét xử phúc thẩm."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Thủ tục tố tụng rút gọn:",
+    "answer": "Có thể áp dụng đối với các vụ án có tình tiết đơn giản, chứng cứ rõ ràng, các đương sự đều thừa nhận quyền và nghĩa vụ của mình trong quan hệ đó"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Thủ tục giải quyết việc dân sự:",
+    "answer": "Áp dụng đối với yêu cầu về xác định năng lực hành vi dân sự của cá nhân"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Thủ tục giải quyết việc dân sự được áp dụng:",
+    "answer": "Khi giữa các bên không có tranh chấp"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Thẩm quyền xét tính hợp pháp của cuộc đình công đối với cấp sơ thẩm?",
+    "answer": "Tòa án nhân dân cấp tỉnh"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Hiệu lực của quyết định giải quyết việc dân sự:",
+    "answer": "Quyết định công nhận kết quả hoà giải thành ngoài toà án không bị kháng cáo, kháng nghị"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cùng cấp đối với quyết định giải quyết vụ việc dân sự là bao nhiêu ngày?",
+    "answer": "10 ngày kể từ ngày Tòa án ra quyết định."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Hội đồng xét xử giám đốc thẩm có quyền:",
+    "answer": "Không chấp nhận kháng nghị và giữ nguyên bản án, quyết định có hiệu lực pháp luật"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Đối với những vụ án giám đốc thẩm do Chánh án Tòa án kháng nghị, thời hạn Viện kiểm sát nghiên cứu hồ sơ bao nhiêu ngày, mà khi hết thời hạn này thì Viện kiểm sát phải trả lại hồ sơ cho Tòa án?",
+    "answer": "15 ngày."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Người có quyền kháng nghị theo thủ tục giám đốc thẩm thực hiện việc kháng nghị khi:",
+    "answer": "Xác định được Hội đồng xét xử đã áp dụng các văn bản pháp luật hết hiệu lực để giải quyết vụ việc"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Giám đốc thẩm, tái thẩm là việc:",
+    "answer": "Xem xét lại các bản án, quyết định đã có hiệu lực pháp luật trên cơ sở có kháng nghị có người có thẩm quyền"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Đối với những vụ án tái thẩm do Chánh án Tòa án kháng nghị, thời hạn Viện kiểm sát nghiên cứu hồ sơ là bao nhiêu ngày, mà khi hết thời hạn này thì Viện kiểm sát phải trả lại hồ sơ cho Tòa án?",
+    "answer": "15 ngày.Câu hỏi 1"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Biện pháp khẩn cấp tạm thời được áp dụng trên cơ sở:",
+    "answer": "Yêu cầu của đương sự"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Khi giải quyết vụ, việc dân sự mà chưa có điều luật để áp dụng, thì thứ tự áp dụng các nguồn luật khác được quy định như thế nào theo Bộ luật Tố tụng dân sự 2015? Chọn phương án đúng.",
+    "answer": "Áp dụng tập quán, tương tự pháp luật, án lệ, lẽ công bằng."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Biện pháp khẩn cấp tạm thời được áp dụng nhằm:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Nguyên tắc giải quyết vụ việc dân sự trong trường hợp chưa có điều luật áp dụng là:",
+    "answer": "Áp dụng tập quán, trường hợp không có tập quán thì áp dụng tương tự pháp luật để giải quyết"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Các cơ quan tiến hành tố tụng trong vụ án dân sự gồm có:",
+    "answer": "Tòa án và Viện kiểm sát."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Toà án là chủ thể đầu tiên có thẩm quyền giải quyết theo thủ tục tố tụng dân sự các tranh chấp:",
+    "answer": "Tranh chấp về quyền sở hữu trí tuệ, chuyển giao công nghệ giữa các chủ thể."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Các khẳng định nào sau đây đúng về thẩm quyền của Toà án nhân dân trong giải quyết các vụ việc dân sự",
+    "answer": "Toà án nhân dân cấp tỉnh có thẩm quyền giải quyết theo thủ tục các tranh chấp dân sự theo nghĩa rộng nếu tranh chấp đó không thuộc thẩm quyền giải quyết của toà án nhân dân cấp huyện"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Thẩm quyền giải quyết vụ việc dân sự của Toà án nhân dân được xác định dựa trên:",
+    "answer": "Cả A và C"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Tranh chấp lao động thuộc thẩm quyền giải quyết của toà án nhân dân gồm",
+    "answer": "Tranh chấp về bảo hiểm y tế"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Tranh chấp giữa người chưa phải là thành viên của công ty nhưng có giao dịch về chuyển nhượng phần vốn hợp với công ty, thành viên công ty là tranh chấp gì?",
+    "answer": "Kinh doanh thương mại."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Chủ thể nào sau đây không có nghĩa vụ chứng minh?",
+    "answer": "Tòa án."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Thời điểm giao nộp chứng cứ:",
+    "answer": "Là khoảng thời gian kể từ ngày khởi kiện vụ án cho đến hết thời hạn chuẩn bị xét xử vụ án, phụ thuộc vào quyết định của thẩm phán phụ trách giải quyết vụ án."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Việc thu thập chứng cứ phục vụ việc giải quyết vụ việc dân sự:",
+    "answer": "Toà án thực hiện việc xác minh, thu thập chứng cứ trong trường hợp cần thiết để làm rõ sự thật khách quan của vụ việc"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Chứng cứ tồn tại dưới các dạng",
+    "answer": "Chứng cứ có dấu vết vật chất và phi vật chất"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Khẳng định nào sau đây đúng về chứng minh trong tố tụng dân sự:",
+    "answer": "Những tình tiết, sự kiện rõ ràng, mọi người đều biết và toà án thừa nhận thì không cần chứng minh"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Việc hoà giải thành giữa các đương sự:",
+    "answer": "Dẫn tới việc toà án ra quyết định công nhận sự thoả thuận của đương sự"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Quyết định công nhận sự thoả thuận của đương sự:",
+    "answer": "Có hiệu lực thi hành ngay và không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Hoà giải giữa các đương sự",
+    "answer": "Là thủ tục bắt buộc của giai đoạn chuẩn bị xét xử"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Viện kiểm sát cùng cấp có phải tham gia phiên họp xem xét giải quyết khiếu nại kiến nghị về việc trả lại đơn kiện không?",
+    "answer": "Không."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Thời hạn thẩm phán phải mở phiên họp xem xét, giải quyết khiếu nại, kiến nghị về việc trả lại đơn khởi kiện là bao nhiêu ngày?",
+    "answer": "05 ngày"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Phiên tòa phúc thẩm sẽ không phải hoãn trong trường hợp nào sau đây?",
+    "answer": "Người không kháng cáo nhưng có quyền lợi, nghĩa vụ liên quan đến việc kháng cáo, kháng nghị và những người tham gia tố tụng khác đã được Tòa án triệu tập hợp lệ lần thứ hai mà vẫn vắng mặt."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Trong trường hợp có quyết định tạm đình chỉ xét xử phúc thẩm vụ án, thời hạn chuẩn bị xét xử phúc thẩm được tính lại như thế nào?",
+    "answer": "Kể từ ngày quyết định tiếp tục giải quyết vụ án của Tòa án có hiệu lực pháp luật."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Việc kháng nghị bản án, quyết định sơ thẩm:",
+    "answer": "Được thực hiện bởi viện trưởng Viện kiểm sát nhân dân cùng cấp hoặc cấp trên"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Phát biểu nào sau đây không đúng về việc gửi bản án, quyết định phúc thẩm?",
+    "answer": "Trong mọi trường hợp, bản án phúc thẩm được Tòa án cấp phúc thẩm công bố trên Cổng thông tin điện tử của Tòa án (nếu có)."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Việc kháng cáo bản án, quyết định dân sự sơ thẩm",
+    "answer": "Được thực hiện bởi các đương sự"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Phiên tòa phúc thẩm xét xử vụ án dân sự theo thủ tục rút gọn bắt buộc phải có sự tham gia của kiểm sát viên Viện kiểm sát cùng cấp?",
+    "answer": "Chỉ bắt buộc trong trường hợp có kháng nghị phúc thẩm của Viện kiểm sát"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Bản án, quyết định dân sự theo thủ tục tố tụng rút gọn:",
+    "answer": "Có hiệu lực thi hành nếu sau 7 ngày kể từ ngày tuyên án không bị kháng cáo, sau 7 ngày nếu không bị kháng nghị bởi Viện kiểm sát nhân dân cùng cấp và sau 10 ngày nếu không bị kháng nghị bởi Viện kiểm sát nhân dân cấp trên."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Thủ tục tố tụng rút gọn áp dụng đối với",
+    "answer": "Các vụ án đơn giản, có yếu tố nước ngoài nhưng các bên có thoả thuận bằng văn bản về việc đề nghị toà án giải quyết theo thủ tục tố tụng rút gọn"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Vụ án dân sự đã được giải quyết ở cấp sơ thẩm theo thủ tục rút gọn thì khi lên cấp phúc thẩm vẫn bắt buộc phải giải quyết theo thủ tục rút gọn?",
+    "answer": "Do Tòa án cấp phúc thẩm quyết định trên cơ sở vụ án đó có phát sinh tình tiết mới quy định tại khoản 3 Điều 317 Bộ luật Tố tụng dân sự hay không."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Đối với những vụ án xét xử phúc thẩm theo thủ tục rút gọn, trong thời hạn 01 tháng, kể từ ngày thụ lý vụ án, Thẩm phán được phân công giải quyết vụ án theo thủ tục phúc thẩm có thể ra quyết định nào sau đây?",
+    "answer": "Tạm đình chỉ xét xử phúc thẩm vụ án hoặc Đình chỉ xét xử phúc thẩm vụ án hoặc Đưa vụ án ra xét xử phúc thẩm."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Giải quyết việc dân sự được thực hiện bởi:",
+    "answer": "Một phiên họp giải quyết việc dân sự"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Quyết định giải quyết việc dân sự",
+    "answer": "Có hiệu lực thi hành ngay và không bị kháng cáo, kháng nghị đối với Quyết định công nhận thuận tình ly hôn, thoả thuận nuôi con, chia tài sản khi ly hôn"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Kết quả phiên họp giải quyết việc dân sự là:",
+    "answer": "Quyết định giải quyết việc dân sự"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Hiệu lực của quyết định giải quyết việc dân sự:",
+    "answer": "Quyết định công nhận kết quả hoà giải thành ngoài toà án không bị kháng cáo, kháng nghị"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cùng cấp đối với quyết định giải quyết vụ việc dân sự là bao nhiêu ngày?",
+    "answer": "10 ngày kể từ ngày Tòa án ra quyết định."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Thời hạn kháng nghị theo thủ tục giám đốc thẩm án dân sự là bao lâu?",
+    "answer": "03 năm kể từ ngày bản án có hiệu lực."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Hội đồng xét xử giám đốc thẩm có thẩm quyền:",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Thời hạn kháng nghị theo thủ tục giám đốc thẩm đối với bản án, quyết định của Tòa án đã có hiệu lực pháp luật là bao nhiêu năm?",
+    "answer": "05 năm"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Kể từ ngày nhận được kháng nghị kèm theo hồ sơ vụ án, trong thời hạn bao lâu thì Tòa án có thẩm quyền tái thẩm sẽ phải mở phiên tòa để xét xử vụ án theo thủ tục tái thẩm?",
+    "answer": "04 tháng."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Thành phần nào bắt buộc phải tham gia trong phiên tòa giám đốc thẩm?",
+    "answer": "Viện kiểm sát.Câu hỏi 1"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Thời hạn tố tụng có thể xác định bằng:",
+    "answer": "Giờ, ngày, tuần, tháng, năm hoặc một sự kiện có thể xảy ra."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Người tiến hành tố tụng dân sự là những ai?",
+    "answer": "Thẩm tra viên, Thư ký Tòa án."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Hãy chỉ ra: Đâu là nguyên tắc cơ bản đặc thù của pháp luật tố tụng dân sự",
+    "answer": "Toà án không được từ chối xét xử với lý do chưa có luật"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Biện pháp khẩn cấp tạm thời trong tố tụng dân sự là:",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Chủ thể có quyền yêu cầu áp dụng biện pháp khẩn cấp tạm thời là:",
+    "answer": "Đương sự, người khởi kiện, người bảo vệ quyền lợi hợp pháp của đương sự"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Tranh chấp hôn nhân và gia đình thuộc thẩm quyền giải quyết của toà án nhân dân gồm:",
+    "answer": "Tranh chấp về chia tài sản sau ly hôn"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Toà án có thẩm quyền giải quyết các tranh chấp dân sự (theo nghĩa rộng) nếu:",
+    "answer": "Vụ việc đó thuộc thẩm quyền của toà án đó và nguyên đơn khởi kiện để yêu cầu toà án giải quyết."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Trong trường hợp chưa có điều luật để áp dụng, Tòa án giải quyết vụ việc dân sự có thể áp dụng nguyên tắc nào sau đây? Chọn phương án đúng nhất.",
+    "answer": "Nguyên tắc áp dụng tập quán, tương tự pháp luật và án lệ, lẽ công bằng."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Y và Z đang tranh chấp về quyền sở hữu một ngôi nhà. Tranh chấp giữa Y và Z thuộc thẩm quyền giải quyết của toà án:",
+    "answer": "Nơi có ngôi nhà"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Tranh chấp giữa các bên không ở tại cùng địa phương sẽ được giải quyết bởi:",
+    "answer": "Toà án nơi bị đơn đặt trụ sở hoặc cư trú"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Chứng cứ được rút ra từ những nguồn sau:",
+    "answer": "Cả 3 nguồn trên"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Chứng cứ là:",
+    "answer": "Những gì có thật, phản ánh sự thật khách quan của vụ việc"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Nguồn của chứng cứ trong vụ việc bồi thường thiệt hại về tài sản bị huỷ hoại gồm:",
+    "answer": "Cả ba nguồn trên"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Biện pháp mà toà án sử dụng để xác minh và thu thập chứng cứ là;",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Trong giai đoạn phúc thẩm, giám đốc thẩm, tái thẩm khi nào Viện kiểm sát được thu thập tài liệu chứng cứ?",
+    "answer": "Thực hiện thẩm quyền kháng nghị."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Phát biểu nào sau đây về chủ thể khởi kiện là đúng nhất?",
+    "answer": "Chủ thể không có quyền, lợi ích dân sự thì không có quyền khởi kiện trừ một số trường hợp ngoại lệ theo quy định của pháp luật."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Tại phiên tòa sơ thẩm, sau khi những người tham gia tố tụng phát biểu tranh luận và đối đáp xong, kiểm sát viên phát biểu ý kiến về những nội dung gì?",
+    "answer": "Kiểm sát viên phát biểu ý kiến về việc tuân theo pháp luật tố tụng của Thẩm phán, Hội đồng xét xử, thư ký Tòa án và những người tham gia tố tụng kể từ khi thụ lý đến trước khi nghị án và phát biểu ý kiến về việc giải quyết vụ án."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Thời hạn thực hiện yêu cầu sửa đổi, bổ sung đơn khởi kiện là bao nhiêu ngày?",
+    "answer": "01 tháng."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Việc khởi kiện của nguyên đơn tới toà án bằng:",
+    "answer": "Hồ sơ khởi kiện"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Chủ thể khởi kiện vụ án dân sự để bảo vệ quyền và lợi ích chính đáng của chủ thể khác, lợi ích công cộng, lợi ích nhà nước là:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Thời điểm nào thì Quyết định tạm đình chỉ xét xử phúc thẩm vụ án có hiệu lực?",
+    "answer": "Ngay sau khi ra quyết định."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Thời hạn phúc thẩm đối với quyết định của Tòa án cấp sơ thẩm bị kháng cáo, kháng nghị là bao lâu?",
+    "answer": "01 tháng kể từ ngày thụ lý, trường hợp có lý do chính đáng thì thời hạn này là 02 tháng."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Việc kháng nghị bản án hoặc quyết định dân sự sơ thẩm:",
+    "answer": "Do viện trưởng Viện kiểm sát nhân dân cùng cấp thực hiện trong thời hạn 15 ngày, viện trưởng Viện kiểm sát nhân dân cấp trên thực hiện trong thời hạn 30 ngày kể từ ngày toà án cấp sơ thẩm tuyên án"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Thời hạn chuẩn bị xét xử phúc thẩm là bao lâu?",
+    "answer": "01 tháng kể từ ngày thụ lý vụ án."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Bản án, quyết định xét xử phúc thẩm",
+    "answer": "Có hiệu lực thi hành ngay"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Đối với bản án sơ thẩm xét xử theo thủ tục rút gọn, thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cấp trên trực tiếp là bao nhiêu ngày?",
+    "answer": "10 ngày kể từ ngày nhận bản án."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Thủ tục tố tụng rút gọn áp dụng đối với",
+    "answer": "Các vụ án đơn giản, có yếu tố nước ngoài nhưng các bên có thoả thuận bằng văn bản về việc đề nghị toà án giải quyết theo thủ tục tố tụng rút gọn"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Thành phần Hội đồng xét xử sơ thẩm vụ án theo thủ tục tố tụng rút gọn",
+    "answer": "Chỉ có 1 thẩm phán"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Bản án, quyết định dân sự theo thủ tục tố tụng rút gọn:",
+    "answer": "Có hiệu lực thi hành nếu sau 7 ngày kể từ ngày tuyên án không bị kháng cáo, sau 7 ngày nếu không bị kháng nghị bởi Viện kiểm sát nhân dân cùng cấp và sau 10 ngày nếu không bị kháng nghị bởi Viện kiểm sát nhân dân cấp trên."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Việc chuẩn bị xét xử đối với vụ án áp dụng thủ tục tố tụng rút gọn:",
+    "answer": "Trong thời hạn 1 tháng kể từ ngày thụ lý vụ án"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Chủ thể tham gia tố tụng trong giải quyết việc dân sự gồm:",
+    "answer": "Người yêu cầu giải quyết việc dân sự, người có quyền lợi, nghĩa vụ liên quan trong giải quyết việc dân sự và các chủ thể tham gia tố tụng khác"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Giải quyết việc dân sự được thực hiện bởi:",
+    "answer": "Một phiên họp giải quyết việc dân sự"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Thẩm quyền xét tính hợp pháp của cuộc đình công đối với cấp sơ thẩm?",
+    "answer": "Tòa án nhân dân cấp tỉnh"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Quyết định giải quyết việc dân sự",
+    "answer": "Có hiệu lực thi hành ngay và không bị kháng cáo, kháng nghị đối với Quyết định công nhận thuận tình ly hôn, thoả thuận nuôi con, chia tài sản khi ly hôn"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Thủ tục giải quyết việc dân sự:",
+    "answer": "Áp dụng đối với yêu cầu về xác định năng lực hành vi dân sự của cá nhân"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Kể từ ngày nhận được kháng nghị kèm theo hồ sơ vụ án, trong thời hạn bao lâu thì Tòa án có thẩm quyền giám đốc thẩm phải mở phiên tòa để xét xử vụ án theo thủ tục giám đốc thẩm?",
+    "answer": "04 tháng."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Khẳng định nào dưới đây đúng nhất về căn cứ kháng nghị theo thủ tục giám đốc thẩm đối với bản án, quyết định đã có hiệu lực pháp luật?",
+    "answer": "Có vi phạm nghiêm trọng thủ tục tố tụng làm cho đương sự không thực hiện được quyền và nghĩa vụ của mình dẫn đến quyền và lợi ích hợp pháp của họ không được bảo vệ theo quy định của pháp luật."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm, tái thẩm là:",
+    "answer": "Chánh án, toà án nhân dân, viện trưởng Viện kiểm sát nhân dân cấp cao, tối cao."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Quyết định giám đốc thẩm:",
+    "answer": "Có hiệu lực pháp luật từ thời điểm Hội đồng giám đốc thẩm ra quyết định"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Những người nào sau đây có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm đối với bản án đã có hiệu lực pháp luật?",
+    "answer": "Chánh án TANDCC và Viện trưởng Viện Kiểm sát nhân dân cấp cao theo khu vực; Chánh án TANDTC và Viện trưởng VKSNDTC.Câu hỏi 1"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Hội đồng xét xử sơ thẩm vụ án dân sự bắt buộc phải có Hội thẩm nhân dân tham gia:",
+    "answer": "Sai."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Việc thi hành quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời được thi hành theo quy định của pháp luật nào?",
+    "answer": "Pháp luật về thi hành án dân sự."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Công việc nào sau đây thuộc quyền hạn, nhiệm vụ của Thẩm tra viên?",
+    "answer": "Lập hồ sơ kiểm sát vụ việc dân sự."
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Người tham gia tố tụng là:",
+    "answer": "Đương sự, luật sư, người làm chứng, người giám định, người phiên dịch"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Đâu là biện pháp khẩn cấp tạm thời được áp dụng trong quá trình giải quyết vụ án dân sự:",
+    "answer": "cả A và C"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Tranh chấp đối với hợp đồng mua bán hàng hóa sẽ thuộc thẩm quyền của Tòa án chuyên trách nào sau đây?",
+    "answer": "Tòa dân sự Tòa án nhân dân cấp huyện"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Thẩm quyền của Tòa án chuyên trách thuộc Tòa án nhân dân cấp huyện được quy định như thế nào?",
+    "answer": "Giải quyết những việc dân sự, kinh doanh thương mại, lao động thuộc thẩm quyền Tòa án nhân dân cấp huyện. Tòa gia đình và người chưa thành niên giải quyết vụ việc về hôn nhân và gia đình thuộc thẩm quyền Tòa án nhân dân cấp huyện."
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Tranh chấp kinh doanh thương mại thuộc thẩm quyền của giải quyết của toà án gồm:",
+    "answer": "Tranh chấp về hợp đồng kinh doanh thương mại"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Công ty A và công ty B có tranh chấp liên quan đến việc thực hiện hợp đồng vận chuyển hàng hoá (công ty A là nguyên đơn). Toà án có thẩm quyền giải quyết tranh chấp giữa các bên là:",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Tranh chấp giữa các bên không ở tại cùng địa phương sẽ được giải quyết bởi:",
+    "answer": "Toà án nơi bị đơn đặt trụ sở hoặc cư trú"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Chủ thể có nghĩa vụ chứng minh trong tố tụng dân sự là:",
+    "answer": "Người khởi kiện để bảo vệ quyền, lợi ích hợp pháp của mình hay của người khác."
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Khẳng định nào sau đây không đúng về nghĩa vụ chứng minh trong tố tụng dân sự:",
+    "answer": "Người tiêu dùng khởi kiện có nghĩa vụ chứng minh cá nhân, pháp nhân kinh doanh hàng hoá dịch vụ có lỗi đối với hành vi xâm phạm quyền lợi hợp pháp của mình"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Chủ thể có nghĩa vụ chứng minh trong vụ việc dân sự là:",
+    "answer": "Đương sự"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Thời điểm giao nộp chứng cứ:",
+    "answer": "Là khoảng thời gian kể từ ngày khởi kiện vụ án cho đến hết thời hạn chuẩn bị xét xử vụ án, phụ thuộc vào quyết định của thẩm phán phụ trách giải quyết vụ án."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Chứng cứ là:",
+    "answer": "Những gì có thật, phản ánh sự thật khách quan của vụ việc"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Chủ thể có quyền khởi kiện vụ án:",
+    "answer": "Cá nhân, pháp nhân khởi kiện để bảo vệ quyền và lợi ích chính đáng của mình"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Ngay sau khi thụ lý vụ án, thẩm phán được phân công phục trách việc giải quyết vụ án có thể ra các quyết định:",
+    "answer": "Áp dụng biện pháp khẩn cấp tạm thời"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Toà án ra quyết định tạm đình chỉ giải quyết vụ án khi:",
+    "answer": "Chờ kết quả giải quyết phá sản đối với đương sự là các pháp nhân"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Khi có căn cứ theo quy định, phiên tòa có thể tạm ngừng trong thời hạn bao lâu?",
+    "answer": "01 tháng kể từ ngày có quyết định tạm ngừng phiên tòa."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Tài liệu nào sau đây không được gửi kèm đơn khởi kiện",
+    "answer": "Các tài liệu, chứng cứ chứng minh thẩm quyền của Tòa án."
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Việc kháng cáo theo thủ tục phúc thẩm là:",
+    "answer": "Là việc đương sự hoặc người đại diện hợp pháp của đương sự nộp cho toà án đã xét xử sơ thẩm đơn kháng cáo"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Xét xử phúc thẩm đối với vụ án dân sự là:",
+    "answer": "Việc toà án nhân dân cấp trên xét lại các bản án, quyết định sơ thẩm của toà án nhân dân cấp dưới bị kháng cáo, kháng nghị trong thời hạn luật định"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cấp trên trực tiếp đối với bản án sơ thẩm là bao lâu?",
+    "answer": "01 tháng kể từ ngày tuyên án."
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Thời hạn Viện kiểm sát nghiên cứu hồ sơ vụ án do Tòa án cấp phúc thẩm chuyển kể từ ngày nhận được hồ sơ vụ án là bao nhiêu ngày?",
+    "answer": "15 ngày kể từ ngày nhận được hồ sơ vụ án."
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Việc kháng cáo bản án, quyết định dân sự sơ thẩm",
+    "answer": "Được thực hiện bởi đương sự trong thời hạn 15 ngày kể từ ngày toà án tuyên án/ra quyết định xét xử sơ thẩm"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Phiên tòa phúc thẩm xét xử vụ án dân sự theo thủ tục rút gọn bắt buộc phải có sự tham gia của kiểm sát viên Viện kiểm sát cùng cấp?",
+    "answer": "Chỉ bắt buộc trong trường hợp có kháng nghị phúc thẩm của Viện kiểm sát"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Thủ tục tố tụng rút gọn:",
+    "answer": "Có thể áp dụng đối với các vụ án có tình tiết đơn giản, chứng cứ rõ ràng, các đương sự đều thừa nhận quyền và nghĩa vụ của mình trong quan hệ đó"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Đối với vụ án xét xử phúc thẩm theo thủ tục rút gọn, thời hạn Viện kiểm sát nghiên cứu hồ sơ là bao lâu kể từ ngày nhận được hồ sơ mà hết thời hạn đó thì Viện kiểm sát phải trả lại hồ sơ cho Tòa án?",
+    "answer": "05 ngày."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Vụ án dân sự có đương sự cư trú ở nước ngoài hoặc tài sản tranh chấp ở nước ngoài thì có được áp dụng thủ tục rút gọn không?",
+    "answer": "Vẫn được áp dụng khi đương sự ở nước ngoài và đương sự ở Việt Nam có thỏa thuận đề nghị Tòa án giải quyết theo thủ tục rút gọn hoặc các đương sự đã xuất trình được chứng cứ về quyền sở hữu hợp pháp tài sản và có thỏa thuận thống nhất về việc xử lý tài sản."
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Thủ tục tố tụng thông thường:",
+    "answer": "Được áp dụng ngay cả với những vụ án đã được xác định áp dụng thủ tục đơn giản"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Kết quả phiên họp giải quyết việc dân sự là:",
+    "answer": "Quyết định giải quyết việc dân sự"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Thời hạn để Viện kiểm sát cấp trên trực tiếp kháng nghị theo thủ tục phúc thẩm đối với quyết định giải quyết việc dân sự là bao nhiêu ngày?",
+    "answer": "15 ngày kể từ ngày Tòa án ra quyết định."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Phát biểu nào sau đây không đúng?",
+    "answer": "Tòa án trả lại đơn yêu cầu nếu người yêu cầu không nộp lệ phí trong thời hạn quy định kể cả trong trường hợp vì sự kiện bất khả kháng."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Thủ tục giải quyết việc dân sự được áp dụng:",
+    "answer": "Khi giữa các bên không có tranh chấp"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Khẳng định nào sau đây đúng về phiên họp giải quyết việc dân sự:",
+    "answer": "Đại diện Viện kiểm sát nếu không có mặt, phiên họp giải quyết yêu cầu vẫn tiến hành"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để kháng nghị theo thủ tục tái thẩm bản án, quyết định của Tòa án đã có hiệu lực pháp luật?",
+    "answer": "Đương sự không đồng ý với kết luận của cơ quan giám định."
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Thời hạn kháng nghị theo thủ tục tái thẩm là bao lâu, kể từ ngày người có thẩm quyền kháng nghị biết được căn cứ để kháng nghị theo thủ tục tái thẩm?",
+    "answer": "01 năm."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Sau khi Viện kiểm sát ngang cấp nhận được quyết định kháng nghị giám đốc thẩm cùng hồ sơ vụ án Tòa án chuyển thì thời hạn để Viện kiểm sát nghiên cứu hồ sơ là bao nhiêu ngày?",
+    "answer": "15 ngày."
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Việc kháng nghị theo thủ tục giám đốc thẩm:",
+    "answer": "Người có quyền kháng nghị thực hiện kháng nghị trong thời hạn 3 năm kể từ ngày bản án, quyết định có hiệu lực pháp luật, trừ trường hợp pháp luật có quy định khác"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Hội đồng xét xử tái thẩm có thẩm quyền gì?",
+    "answer": "Hủy bản án, quyết định đã có hiệu lực pháp luật để xét xử sơ thẩm lại theo thủ tục do pháp luật quy định.Câu hỏi 1"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Theo quy định, người đại diện là những ai?",
+    "answer": "Cá nhân, pháp nhân, người đứng đầu cơ quan Nhà nước hoặc tổ chức."
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Người tiến hành tố tụng là:",
+    "answer": "Thẩm phán, Hội thẩm nhân dân, thư ký toà, kiểm sát viên"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Chủ thể tham gia tố tụng gồm:",
+    "answer": "Đương sự, người đại diện của đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự, người làm chứng, người phiên dịch, người giám định"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Những người nào dưới đây có quyền yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời? (Chọn phương án đúng nhất)",
+    "answer": "Đương sự, người đại diện hợp pháp của đương sự hoặc cơ quan, tổ chức, cá nhân khởi kiện."
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Viện Kiểm sát nhân dân tham gia các phiên tòa sơ thẩm trong trường hợp nào? Chọn phương án đúng.",
+    "answer": "Viện kiểm sát tham gia các phiên tỏa sơ thẩm dân sự đối với những vụ án do Tòa án tiến hành thu thập chứng cứ mà đương sự có khiếu nại."
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Thẩm quyền giải quyết vụ việc dân sự của Toà án nhân dân được xác định dựa trên:",
+    "answer": "Cả A và C"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Công ty A và công ty B có tranh chấp liên quan đến việc thực hiện hợp đồng vận chuyển hàng hoá (công ty A là nguyên đơn). Toà án có thẩm quyền giải quyết tranh chấp giữa các bên là:",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Khẳng định nào sau đây không đúng về thẩm quyền của toà án trong giải quyết các vụ việc dân sự theo nghĩa rộng:",
+    "answer": "Toà án nhân dân cấp huyện nơi công ty cổ phần đặt trụ sở giải quyết tranh chấp về chuyển nhượng cổ phần trong công ty"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Thẩm quyền giải quyết vụ việc dân sự (theo nghĩa rộng) của Toà án được xác định dựa trên:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Tranh chấp hôn nhân và gia đình thuộc thẩm quyền giải quyết của toà án nhân dân gồm:",
+    "answer": "Tranh chấp về chia tài sản sau ly hôn"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Chứng cứ hợp pháp là:",
+    "answer": "Lời khai của đương sự, của người làm chứng tại toà án"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Biện pháp mà toà án sử dụng để xác minh và thu thập chứng cứ là;",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Chủ thể có nghĩa vụ chứng minh trong tố tụng dân sự là:",
+    "answer": "Người khởi kiện để bảo vệ quyền, lợi ích hợp pháp của mình hay của người khác."
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Chứng cứ tồn tại dưới các dạng",
+    "answer": "Chứng cứ có dấu vết vật chất và phi vật chất"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Nguồn của chứng cứ trong vụ việc bồi thường thiệt hại về tài sản bị huỷ hoại gồm:",
+    "answer": "Cả ba nguồn trên"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Thành phần Hội đồng xét xử sơ thẩm đối với các vụ án dân sự:",
+    "answer": "Là 01 thẩm phán và 02 hội thẩm nhân dân hoặc 02 thẩm phán và 03 hội thẩm nhân dân, tuỳ thuộc vào cấp xét xử sơ thẩm và tính chất của vụ án"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Thời hạn Thẩm phán xem xét đơn khởi kiện là bao lâu?",
+    "answer": "5 ngày kể từ ngày được phân công."
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Người có quyền và nghĩa vụ liên quan có quyền đưa ra yêu cầu độc lập vào thời điểm nào trong quá trình giải quyết vụ án?",
+    "answer": "Trước thời điểm mở phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và hòa giải."
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Toà án trả lại đơn khởi kiện khi:",
+    "answer": "Vụ tranh chấp về quyền sở hữu tài sản giữa các bên đã được giải quyết bằng một bản án có hiệu lực pháp luật của toà án"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Thời hạn gửi bài phát biểu của kiểm sát viên được quy định như thế nào?",
+    "answer": "Ngay sau khi kết thúc phiên tòa, kiểm sát viên phải gửi văn bản phát biểu ý kiến cho Tòa án để lưu vào hồ sơ thụ án."
+  }
+]

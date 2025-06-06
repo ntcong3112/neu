@@ -1,0 +1,2342 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Khi thuế suất thuế thu nhập doanh nghiệp thay đổi thế nảo?",
+    "answer": "Thuế suất tăng sẽ khuyến khích doanh nghiệp sử dụng nợ"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Công ty Mạnh Hà có doanh thu hàng năm là 15,000$. Chi phí biến đổi bằng 60% doanh thu, chi phí cố định là 1,000$. Nếu doanh thu của công ty tăng lên 10%, hỏi EBIT sẽ tăng bao nhiêu %?",
+    "answer": "12%"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Rủi ro kinh doanh càng lớn, tỷ lệ nợ tối ưu:",
+    "answer": "Càng thấp"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Sự tồn tại của… trên bảng cân đối kế toán tạo ra khoản tiết kiệm thuế nhờ lãi vay ảnh hưởng trự tiếp đến cấu trúc vốn của công ty",
+    "answer": "Nợ dài hạn"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Hai doanh nghiệp giống hệt nhau ngoại trừ cấu trúc vốn đang có giá trị thị trường là khác nhau. Theo lý thuyết M&M",
+    "answer": "Điều này sẽ không tiếp tục kéo dài vì việc mua bán chênh lệch giá cuối cùng sẽ làm cho giá trị của 2 doanh nghiệp bằng nhau"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Trong trường hợp không có thuế thu nhập doanh nghiệp theo lý thuyết lợi nhuận hoạt động ròng NOI, khi mức độ đòn bẩy tài chính thay đổi thì",
+    "answer": "Chi phí vốn bình quân và giá trị doanh nghiệp không đổi"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Nội dung của mệnh để I của M&M về giá trị công ty trong trường hợp không có thuế",
+    "answer": "Giá trị công ty có vay nợ bằng giá trị công ty không có vay nợ"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Giả định rằng nền kinh tế đã bất ngờ đi vào suy thoái. Trong số các doanh nghiệp cùng ngành và cùng rủi ro kinh doanh, doanh nghiệp nào sau đây sẽ có mức tăng chi phí phá sản (chi phí kiệt quệ tài chính) nhiều nhất?",
+    "answer": "Doanh nghiệp với tỷ lệ nợ cao nhất"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Tư duy truyền thống về giá trị của doanh nghiệp cho rằng:",
+    "answer": "Có cơ cấu vốn tối ưu"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Nếu doanh nghiệp có đòn bẩy hoạt động ở mức độ 5 với sản lượng Q có nghĩa là:",
+    "answer": "Nếu doanh doanh thu tăng 1%, EBIT sẽ tăng 5%"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "EBIT kỳ vọng của công ty ABC là một dòng tiền đều vô hạn. Thuế suất thuế Thu nhập doanh nghiệp là 34% và toàn bộ lợi nhuận sau thuế đều được công ty sử dụng để trả cổ tức. Công ty hiện có quy mô nợ vay là 500.000 USD với lãi suất vay là 10%/năm. Công ty có giá trị thị trường là 1.700.000 USD. Yêu cầu: Sử dụng lý thuyết M&M về cơ cấu vốn, hãy xác định: Giá trị công ty ABC trong trường hợp không vay nợ.",
+    "answer": "$1.530.000"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Công ty trà Phước Long bán 1 gói trà loại 1 giá 15.000 đồng. Chi phí cố định là 500 triệu cho lượng sản xuất đến 400.000 gói trà. Chi phí biến đổi 10.000 đồng/gói trà. Tính DOL tại mức sản lượng 125.000 gói",
+    "answer": "5"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Mệnh đề II của M&M trong trường hợp không có thuế phát biểu rằng:",
+    "answer": "Lợi nhuận kỳ vọng trên vốn cổ phần có quan hệ cùng chiều với mức độ sử dụng đòn bẩy tài chính"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Trong việc sử dụng đòn bẩy tài chính (DFL), doanh nghiệp có lợi do:",
+    "answer": "Cả A,B đều đúng"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "EBIT kỳ vọng của công ty ABC là một dòng tiền đều vô hạn. Thuế suất thuế Thu nhập doanh nghiệp là 34% và toàn bộ lợi nhuận sau thuế đều được công ty sử dụng để trả cổ tức. Công ty hiện có quy mô nợ vay là 500.000 USD với lãi suất vay là 10%/năm. Công ty có giá trị thị trường là 1.700.000 USD. Các nhà phân tích ước tính rằng chi phí VCSH của công ty trong trường hợp sử dụng 100% VCSH là 20%. Yêu cầu: Sử dụng lý thuyết M&M về cơ cấu vốn, hãy xác định: Chi phí VCSH của công ty ABC ứng với mức sử dụng đòn bẩy tài chính hiện tại.",
+    "answer": "22.75%"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Nhận định nào sau đây là ĐÚNG về mô hình đặt hàng hiệu quả EOQ?",
+    "answer": "Theo mô hình EOQ, giá trị Q* tỷ lệ thuận với C2 và tỷ lệ nghịch với C1"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Doanh nghiệp A có nhu cầu sử dụng nguyên vật liệu trong năm là 10.800 đơn vị. Doanh nghiệp hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên vật liệu này. Doanh nghiệp xác định điểm đặt hàng lại đối với loại nguyên vật liệu nói trên là 180 đơn vị. Yêu cầu: Hãy xác định thời gian giao hàng, biết 1 năm có 360 ngày và doanh nghiệp A không tiến hành dự trữ an toàn đối với loại nguyên vật liệu đề cập.",
+    "answer": "6 ngày."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Theo mô hình EOQ, trong điều kiện các yếu tố khác không đổi, nếu chi phí 1 lần đặt hàng và chi phí lưu kho 1 đơn vị hàng hóa trong kỳ cùng tăng lên gấp hai lần thì lượng hàng hóa tối ưu mỗi lần cung ứng sẽ thay đổi như thế nào?",
+    "answer": "Không đổi."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Phòng kế hoạch – tài chính của công ty May Sông Hồng sử dụng mô hình của Miller-Orr để xác định số dư tiền mặt tối ưu là 180 tỷ đồng và tối đa là 220 tỷ đồng. Hãy xác định số dư tiền mặt tối thiểu của công ty Sông Hồng?",
+    "answer": "160 tỷ đồng."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Phòng kế hoạch – tài chính của công ty An Viên sử dụng mô hình của Merton Miller và Daniel Orr để xác định số dư tiền mặt tối thiểu là 35 tỷ đồng và tối đa là 75 tỷ đồng. Sau 1 giao dịch kinh tế, số dư tiền mặt của công ty đạt 87 tỷ đồng. Hỏi: Khi ấy, công ty nên mua (hay bán) chứng khoán với giá trị bằng bao nhiêu (giả sử công ty có đủ điều kiện thực hiện giao dịch)?",
+    "answer": "Mua chứng khoán với giá trị 32 tỷ đồng."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Nhận định nào sau đây là SAI về mô hình quản lý tiền Miller-Orr?",
+    "answer": "Theo mô hình Miller-Orr, khi số dư ngân quỹ vượt quá Mmax, tạo ra trạng thái thặng dư, DN nên đi vay ngắn hạn hoặc rút tiền gửi tiết kiệm về"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Công ty Việt Minh dự định lượng tiền mặt tối thiểu là 5.000 đvtt. Phương sai thu chi ngân quỹ hàng ngày là 520.000 đvtt, lãi suất hiệu dụng là 20%/năm, chi phí giao dịch cho mỗi lần mua hoặc bán chứng khoán là 3 đvtt. Hãy tính lượng tiền mặt tối ưu của công ty Việt Minh.",
+    "answer": "6.327,61 đvtt."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Công ty KIKI sử dụng mô hình Miller-Orr xác định được số dư tiền tối thiểu là 39 tỷ đồng và số dư tối đa bằng 162 tỷ đồng. Hãy tính lượng tiền mặt tối ưu của công ty? Nếu hiện tại số dư ngân quỹ của công ty đang là 189 tỷ đồng, công ty có cần áp dụng biện pháp điều chỉnh ngân quỹ nào không, nếu có thì như thế nào?",
+    "answer": "M* = 80 tỷ đồng. Số dư ngân quỹ hiện tại đã vượt lớn hơn Mmax, tạo nên trạng thái thặng dư nên công ty cần mua chứng khoán hoặc gửi tiền tiết kiệm với số tiền: 189 – 80 = 109 tỷ đồng."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Hiện tại, công ty Hiwi đang sử dụng mô hình Baumol để quản lý tiền mặt. Mức ngân quỹ tối ưu xác định được là 100 triệu đồng. Biết tổng nhu cầu tiền mặt trong năm của công ty là 1,25 tỷ đồng. Lãi suất hàng năm của các loại chứng khoán ngắn hạn có tính thanh khoản cao là 7,5%. Hỏi chi phí giao dịch mà công ty phải chịu mỗi khi bán chứng khoán ngắn hạn là bao nhiêu?",
+    "answer": "300.000 đồng"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Doanh nghiệp ABC có nhu cầu sử dụng nguyên vật liệu trong năm là 5.800 đơn vị, chi phí mỗi lần đặt hàng là 3 triệu đồng, chi phí lưu kho trên 1 đơn vị nguyên vật liệu trong 1 năm là 1,5 triệu đồng. Anh (chị) hãy áp dụng mô hình EOQ để xác định tổng chi phí đặt hàng tối ưu trong năm cho doanh nghiệp.",
+    "answer": "114 triệu đồng."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Nhận định nào sau đây là ĐÚNG về lợi ích khi tích trữ hàng hóa, nguyên liệu trong kho?",
+    "answer": "Chủ động trong sản xuất kinh doanh."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Một doanh nghiệp duy trì một tài khoản riêng biệt cho việc thanh toán bằng tiền mặt. Tổng số tiền thanh toán là 100 triệu đồng/tháng và đều đặn trong suốt các tháng. Các chi phí hành chính và giao dịch của việc chuyển tiền đến tài khoản thanh toán này là 100.000 đồng mỗi lần chuyển. Các chứng khoán thanh khoản trên thị trường có lãi suất 12%/năm. Anh (chị) hãy tư vấn cho doanh nghiệp này về số lần chuyển tiền tối ưu trong năm.",
+    "answer": "27 lần."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Công ty Siprodex có nhu cầu sử dụng nguyên vật liệu thô trong năm là 1.000 đơn vị. Giá mua là 600.000 đồng/đơn vị, chi phí một lần đặt hàng là 100.000 đồng, chi phí lưu kho (chi phí tồn trữ) bằng 15% giá mua. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng nguyên vật liệu dự trữ an toàn là 30 đơn vị. Anh (chị) hãy áp dụng mô hình EOQ để xác định số lần đặt hàng tối ưu trong năm cho công ty.",
+    "answer": "22 lần."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Công ty TJF sử dụng mô hình Miller-Orr xác định được số dư tiền tối thiểu là 23 tỷ đồng và số dư tối đa bằng 161 tỷ đồng. Hãy tính lượng tiền mặt tối ưu của công ty? Nếu hiện tại số dư ngân quỹ của công ty đang là 15 tỷ đồng, công ty có cần áp dụng biện pháp điều chỉnh ngân quỹ nào không, nếu có thì như thế nào?",
+    "answer": "M* = 69 tỷ đồng. Số dư ngân quỹ hiện tại đã nhỏ hơn Mmin, tạo nên trạng thái thâm hụt nên công ty cần bán chứng khoán hoặc rút tiền tiết kiệm với số tiền: 69 – 15 = 54 tỷ đồng."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Nhận định nào sau đây SAI về lợi ích khi bán chịu hàng hóa?",
+    "answer": "Tăng khả năng thanh toán bằng dòng tiền thực."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Phòng kế hoạch – tài chính của công ty Thành Phát sử dụng mô hình của Merton Miller và Daniel Orr để xác định số dư tiền mặt tối thiểu là 20 tỷ đồng và tối ưu là 40 tỷ đồng. Hỏi: Khi số dư tiền mặt của công ty Thành Phát bằng 50 tỷ đồng, công ty nên mua (hay bán) chứng khoán với giá trị bằng bao nhiêu (giả sử công ty có đủ điều kiện thực hiện giao dịch).",
+    "answer": "Không mua hoặc bán chứng khoán."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Số liệu về dòng tiền mặt ròng (chênh lệch thu chi ngân quỹ) hàng ngày của công ty Arizona trong 200 ngày gần nhất như sau:",
+    "answer": "316 triệu đồng."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Theo mô hình Baumol, trong điều kiện lãi suất của các chứng khoán thanh khoản trên thị trường một năm tăng gấp hai, còn chi phí mỗi lần bán chứng khoán giảm 50%, khi ấy, lượng dự trữ tiền mặt tối ưu của doanh nghiệp trong năm sẽ thay đổi như thế nào?",
+    "answer": "Giảm xuống 1/2."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Phòng kế hoạch – tài chính của công ty may Thành Công sử dụng mô hình của Merton Miller và Daniel Orr để xác định số dư tiền mặt tối thiểu là 30 tỷ đồng và tối đa là 90 tỷ đồng. Hỏi: Khi số dư tiền mặt của công ty Thành Công bằng 18 tỷ đồng, công ty nên mua (hay bán) chứng khoán với giá trị bằng bao nhiêu (giả sử công ty có đủ điều kiện thực hiện giao dịch).",
+    "answer": "Bán chứng khoán với giá trị 32 tỷ đồng."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Nhận định nào sau ĐÚNG về mô hình đặt hàng đúng lúc JIT?",
+    "answer": "Mô hình JIT thích hợp áp dụng đối với những loại nguyên vật liệu mà nguồn cung nguyên vật liệu ổn định, dồi dào, không thay đổi theo mùa vụ"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Công ty Đại An có nhu cầu sử dụng nguyên vật liệu thô trong năm là 1.800 đơn vị. Chi phí một lần đặt hàng là 2.000.000 đồng, chi phí lưu kho (chi phí tồn trữ) là 500.000 đồng/1 đơn vị/1 năm. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng nguyên vật liệu dự trữ an toàn là 50 đơn vị. Anh (chị) hãy xác định tổng chi phí lưu kho (chi phí tồn trữ) trong năm của công ty ứng với lượng đặt hàng tối ưu.",
+    "answer": "55 triệu đồng."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Công ty Gia Khang có nhu cầu sử dụng nguyên vật liệu trong năm là 3.375 đơn vị, chi phí mỗi lần đặt hàng là 1 triệu đồng, chi phí lưu kho trên 1 đơn vị nguyên vật liệu trong năm là 0,3 triệu đồng. Anh (chị) hãy áp dụng mô hình EOQ để xác định số lần đặt hàng tối ưu trong năm cho công ty.",
+    "answer": "23 lần."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Theo mô hình EOQ, trong điều kiện các yếu tố khác không đổi, nếu chi phí 1 lần đặt hàng tăng lên gấp bốn, và chi phí lưu kho 1 đơn vị hàng hóa trong kỳ lại giảm xuống 25%, thì lượng hàng hóa tối ưu mỗi lần cung ứng sẽ thay đổi như thế nào?",
+    "answer": "Tăng lên gấp 4."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Công ty Danila sử dụng mô hình Baumol để quản lý tiền mặt. Tổng nhu cầu tiền mặt trong năm của công ty là 5 tỷ đồng. Chi phí giao dịch mà công ty phải chịu mỗi khi bán chứng khoán ngắn hạn là 300.000 đồng. Biết mức ngân quỹ tối ưu xác định được là 200 triệu đồng, hỏi lãi suất hàng năm của các loại chứng khoán ngắn hạn có tính thanh khoản cao là bao nhiêu?",
+    "answer": "7,5%/năm"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Công ty Youth có nhu cầu sử dụng nguyên vật liệu thô trong năm là 1.800 đơn vị. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng nguyên vật liệu dự trữ an toàn là 80 đơn vị. Công ty hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên vật liệu thô nói trên. Biết: 1 năm có 360 ngày và thời gian giao hàng là 5 ngày. Hãy xác định điểm đặt hàng lại cho công ty.",
+    "answer": "105 đơn vị."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Nhận định nào sau đây là ĐÚNG về lợi ích khi tích trữ tiền mặt/tiền gửi thanh toán?",
+    "answer": "Tận dụng cơ hội để mua nguyên vật liệu đang có nguồn cung dồi dào hoặc giá giảm thấp nhờ lượng tiền tích trữ lớn, có thể sử dụng được ngay"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Công ty đóng tàu Biển Lớn hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên vật liệu quan trọng của công ty là thép tấm. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng dự trữ an toàn là 30 tấn thép tấm. Hỏi: Số lần đặt mua thép tấm trong năm của công ty là bao nhiêu? Biết: Tổng nhu cầu thép tấm trong năm của công ty là 6.480 tấn, lượng thép tấm tồn kho bình quân trong năm của công ty là 300 tấn.",
+    "answer": "12 lần."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Nhận định nào sau đây là SAI về thiệt hại khi tích trữ tiền mặt/tiền gửi thanh toán?",
+    "answer": "Giảm tính thanh khoản của DN"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Nhận định nào sau đây là SAI về thiệt hại khi tích trữ hàng hóa, nguyên liệu trong kho?",
+    "answer": "Giảm vị thế của DN vì uy tín của DN được đánh giá dựa trên quy mô hàng tồn kho."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Theo chế độ kế toán của Việt Nam, tài sản nào sau đây LÀ tài sản ngắn hạn của DN?",
+    "answer": "Tiền gửi ngân hàng không kỳ hạn."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Công ty xây dựng Quyết Thắng hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên liệu quan trọng của công ty là sắt thành phẩm. Hỏi: Tổng nhu cầu nguyên liệu trong năm của công ty là bao nhiêu? Biết: Mỗi lần đặt hàng, công ty đặt mua 50 tấn sắt, tổng chi phí đặt hàng trong năm của công ty là 60 triệu đồng, chi phí một lần đặt hàng là 2 triệu đồng.",
+    "answer": "1.500 tấn."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Theo chế độ kế toán của Việt Nam, tài sản nào sau đây KHÔNG thuộc tài sản ngắn hạn của DN?",
+    "answer": "Phải trả tiền cho người bán hàng"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Công ty Bình Điền có nhu cầu sử dụng nguyên vật liệu thô trong năm là 720 đơn vị. Công ty hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên vật liệu thô này. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng nguyên vật liệu dự trữ an toàn là 72 đơn vị. Công ty xác định điểm đặt hàng lại đối với loại nguyên vật liệu nói trên là 80 đơn vị. Yêu cầu: Hãy xác định thời gian giao hàng, biết 1 năm có 360 ngày",
+    "answer": "4 ngày."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Công ty WANWAN sử dụng mô hình Miller-Orr xác định được số dư tiền tối thiểu là 24 tỷ đồng và số dư tối đa bằng 120 tỷ đồng. Hãy tính lượng tiền mặt tối ưu của công ty? Nếu hiện tại số dư ngân quỹ của công ty đang là 89 tỷ đồng, công ty có cần áp dụng biện pháp điều chỉnh ngân quỹ nào không, nếu có thì như thế nào?",
+    "answer": "M* = 56 tỷ đồng. Số dư ngân quỹ hiện tại nằm trong khoảng Mmin và Mmax nên công ty không cần áp dụng biện pháp điều chỉnh nào."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Hiện tại, công ty Tiến Đạt đang sử dụng mô hình Baumol để quản lý tiền mặt. Lãi suất hàng năm của các loại chứng khoán ngắn hạn có tính thanh khoản cao là 7,5%. Chi phí giao dịch mà công ty phải chịu mỗi khi bán chứng khoán ngắn hạn là 300.000 đồng. Yêu cầu: Dựa vào các thông tin đã cho, anh (chị) hãy suy luận xem tổng nhu cầu tiền mặt trong năm của công ty Tiến Đạt là bao nhiêu? Biết rằng: Lượng dự trữ tiền mặt tối ưu của công ty được xác định là 100 triệu đồng.",
+    "answer": "1,25 tỷ đồng."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Công ty Siprodex có nhu cầu sử dụng nguyên vật liệu thô trong năm là 1.000 đơn vị. Giá mua là 600.000 đồng/đơn vị, chi phí một lần đặt hàng là 100.000 đồng, chi phí lưu kho (chi phí tồn trữ) bằng 15% giá mua. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng nguyên vật liệu dự trữ an toàn là 30 đơn vị. Anh (chị) hãy áp dụng mô hình EOQ để xác định số lần đặt hàng tối ưu trong năm cho công ty.",
+    "answer": "22 lần."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Phòng kế hoạch – tài chính của công ty Thành Phát sử dụng mô hình của Merton Miller và Daniel Orr để xác định số dư tiền mặt tối thiểu là 20 tỷ đồng và tối ưu là 40 tỷ đồng. Hỏi: Khi số dư tiền mặt của công ty Thành Phát bằng 50 tỷ đồng, công ty nên mua (hay bán) chứng khoán với giá trị bằng bao nhiêu (giả sử công ty có đủ điều kiện thực hiện giao dịch).",
+    "answer": "Không mua hoặc bán chứng khoán."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Công ty Việt Minh dự định lượng tiền mặt tối thiểu là 5.000 đvtt. Phương sai thu chi ngân quỹ hàng ngày là 520.000 đvtt, lãi suất hiệu dụng là 20%/năm, chi phí giao dịch cho mỗi lần mua hoặc bán chứng khoán là 3 đvtt. Hãy tính lượng tiền mặt tối ưu của công ty Việt Minh.",
+    "answer": "6.327,61 đvtt."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Phòng kế hoạch – tài chính của công ty may Thành Công sử dụng mô hình của Merton Miller và Daniel Orr để xác định số dư tiền mặt tối thiểu là 30 tỷ đồng và tối đa là 90 tỷ đồng. Hỏi: Khi số dư tiền mặt của công ty Thành Công bằng 18 tỷ đồng, công ty nên mua (hay bán) chứng khoán với giá trị bằng bao nhiêu (giả sử công ty có đủ điều kiện thực hiện giao dịch).",
+    "answer": "Bán chứng khoán với giá trị 32 tỷ đồng."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Công ty đóng tàu Biển Lớn hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên vật liệu quan trọng của công ty là thép tấm. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng dự trữ an toàn là 30 tấn thép tấm. Hỏi: Số lần đặt mua thép tấm trong năm của công ty là bao nhiêu? Biết: Tổng nhu cầu thép tấm trong năm của công ty là 6.480 tấn, lượng thép tấm tồn kho bình quân trong năm của công ty là 300 tấn.",
+    "answer": "12 lần."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Phòng kế hoạch – tài chính của công ty May Sông Hồng sử dụng mô hình của Miller-Orr để xác định số dư tiền mặt tối ưu là 180 tỷ đồng và tối đa là 220 tỷ đồng. Hãy xác định số dư tiền mặt tối thiểu của công ty Sông Hồng?",
+    "answer": "160 tỷ đồng."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Nhận định nào sau đây là ĐÚNG về lợi ích khi tích trữ hàng hóa, nguyên liệu trong kho?",
+    "answer": "Chủ động trong sản xuất kinh doanh."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Nhận định nào sau đây là SAI về mô hình quản lý tiền Miller-Orr?",
+    "answer": "Theo mô hình Miller-Orr, khi số dư ngân quỹ vượt quá Mmax, tạo ra trạng thái thặng dư, DN nên đi vay ngắn hạn hoặc rút tiền gửi tiết kiệm về"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Theo mô hình Baumol, trong điều kiện lãi suất của các chứng khoán thanh khoản trên thị trường một năm tăng gấp hai, còn chi phí mỗi lần bán chứng khoán giảm 50%, khi ấy, lượng dự trữ tiền mặt tối ưu của doanh nghiệp trong năm sẽ thay đổi như thế nào?",
+    "answer": "Giảm xuống 1/2."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Nhận định nào sau đây là ĐÚNG về mô hình đặt hàng hiệu quả EOQ?",
+    "answer": "Theo mô hình EOQ, giá trị Q* tỷ lệ thuận với C2 và tỷ lệ nghịch với C1"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Nhận định nào sau đây là SAI về thiệt hại khi tích trữ tiền mặt/tiền gửi thanh toán?",
+    "answer": "Giảm tính thanh khoản của DN"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Công ty Youth có nhu cầu sử dụng nguyên vật liệu thô trong năm là 1.800 đơn vị. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng nguyên vật liệu dự trữ an toàn là 80 đơn vị. Công ty hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên vật liệu thô nói trên. Biết: 1 năm có 360 ngày và thời gian giao hàng là 5 ngày. Hãy xác định điểm đặt hàng lại cho công ty.",
+    "answer": "105 đơn vị."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Công ty Bình Điền có nhu cầu sử dụng nguyên vật liệu thô trong năm là 720 đơn vị. Công ty hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên vật liệu thô này. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng nguyên vật liệu dự trữ an toàn là 72 đơn vị. Công ty xác định điểm đặt hàng lại đối với loại nguyên vật liệu nói trên là 80 đơn vị. Yêu cầu: Hãy xác định thời gian giao hàng, biết 1 năm có 360 ngày",
+    "answer": "4 ngày."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Theo chế độ kế toán của Việt Nam, tài sản nào sau đây KHÔNG thuộc tài sản ngắn hạn của DN?",
+    "answer": "Phải trả tiền cho người bán hàng"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Theo chế độ kế toán của Việt Nam, tài sản nào sau đây LÀ tài sản ngắn hạn của DN?",
+    "answer": "Tiền gửi ngân hàng không kỳ hạn."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Công ty TJF sử dụng mô hình Miller-Orr xác định được số dư tiền tối thiểu là 23 tỷ đồng và số dư tối đa bằng 161 tỷ đồng. Hãy tính lượng tiền mặt tối ưu của công ty? Nếu hiện tại số dư ngân quỹ của công ty đang là 15 tỷ đồng, công ty có cần áp dụng biện pháp điều chỉnh ngân quỹ nào không, nếu có thì như thế nào?",
+    "answer": "M* = 69 tỷ đồng. Số dư ngân quỹ hiện tại đã nhỏ hơn Mmin, tạo nên trạng thái thâm hụt nên công ty cần bán chứng khoán hoặc rút tiền tiết kiệm với số tiền: 69 – 15 = 54 tỷ đồng."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Nhận định nào sau đây là ĐÚNG về lợi ích khi tích trữ tiền mặt/tiền gửi thanh toán?",
+    "answer": "Tận dụng cơ hội để mua nguyên vật liệu đang có nguồn cung dồi dào hoặc giá giảm thấp nhờ lượng tiền tích trữ lớn, có thể sử dụng được ngay"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Theo mô hình EOQ, trong điều kiện các yếu tố khác không đổi, nếu chi phí 1 lần đặt hàng và chi phí lưu kho 1 đơn vị hàng hóa trong kỳ cùng tăng lên gấp hai lần thì lượng hàng hóa tối ưu mỗi lần cung ứng sẽ thay đổi như thế nào?",
+    "answer": "Không đổi."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Công ty Danila sử dụng mô hình Baumol để quản lý tiền mặt. Tổng nhu cầu tiền mặt trong năm của công ty là 5 tỷ đồng. Chi phí giao dịch mà công ty phải chịu mỗi khi bán chứng khoán ngắn hạn là 300.000 đồng. Biết mức ngân quỹ tối ưu xác định được là 200 triệu đồng, hỏi lãi suất hàng năm của các loại chứng khoán ngắn hạn có tính thanh khoản cao là bao nhiêu?",
+    "answer": "7,5%/năm"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Phòng kế hoạch – tài chính của công ty An Viên sử dụng mô hình của Merton Miller và Daniel Orr để xác định số dư tiền mặt tối thiểu là 35 tỷ đồng và tối đa là 75 tỷ đồng. Sau 1 giao dịch kinh tế, số dư tiền mặt của công ty đạt 87 tỷ đồng. Hỏi: Khi ấy, công ty nên mua (hay bán) chứng khoán với giá trị bằng bao nhiêu (giả sử công ty có đủ điều kiện thực hiện giao dịch)?",
+    "answer": "Mua chứng khoán với giá trị 32 tỷ đồng."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Số liệu về dòng tiền mặt ròng (chênh lệch thu chi ngân quỹ) hàng ngày của công ty Arizona trong 200 ngày gần nhất như sau:",
+    "answer": "316 triệu đồng."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Công ty WANWAN sử dụng mô hình Miller-Orr xác định được số dư tiền tối thiểu là 24 tỷ đồng và số dư tối đa bằng 120 tỷ đồng. Hãy tính lượng tiền mặt tối ưu của công ty? Nếu hiện tại số dư ngân quỹ của công ty đang là 89 tỷ đồng, công ty có cần áp dụng biện pháp điều chỉnh ngân quỹ nào không, nếu có thì như thế nào?",
+    "answer": "M* = 56 tỷ đồng. Số dư ngân quỹ hiện tại nằm trong khoảng Mmin và Mmax nên công ty không cần áp dụng biện pháp điều chỉnh nào."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Theo mô hình EOQ, trong điều kiện các yếu tố khác không đổi, nếu chi phí 1 lần đặt hàng tăng lên gấp bốn, và chi phí lưu kho 1 đơn vị hàng hóa trong kỳ lại giảm xuống 25%, thì lượng hàng hóa tối ưu mỗi lần cung ứng sẽ thay đổi như thế nào?",
+    "answer": "Tăng lên gấp 4."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Nhận định nào sau ĐÚNG về mô hình đặt hàng đúng lúc JIT?",
+    "answer": "Mô hình JIT thích hợp áp dụng đối với những loại nguyên vật liệu mà nguồn cung nguyên vật liệu ổn định, dồi dào, không thay đổi theo mùa vụ"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Hiện tại, công ty Tiến Đạt đang sử dụng mô hình Baumol để quản lý tiền mặt. Lãi suất hàng năm của các loại chứng khoán ngắn hạn có tính thanh khoản cao là 7,5%. Chi phí giao dịch mà công ty phải chịu mỗi khi bán chứng khoán ngắn hạn là 300.000 đồng. Yêu cầu: Dựa vào các thông tin đã cho, anh (chị) hãy suy luận xem tổng nhu cầu tiền mặt trong năm của công ty Tiến Đạt là bao nhiêu? Biết rằng: Lượng dự trữ tiền mặt tối ưu của công ty được xác định là 100 triệu đồng.",
+    "answer": "1,25 tỷ đồng."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Hiện tại, công ty Hiwi đang sử dụng mô hình Baumol để quản lý tiền mặt. Mức ngân quỹ tối ưu xác định được là 100 triệu đồng. Biết tổng nhu cầu tiền mặt trong năm của công ty là 1,25 tỷ đồng. Lãi suất hàng năm của các loại chứng khoán ngắn hạn có tính thanh khoản cao là 7,5%. Hỏi chi phí giao dịch mà công ty phải chịu mỗi khi bán chứng khoán ngắn hạn là bao nhiêu?",
+    "answer": "300.000 đồng"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Doanh nghiệp A có nhu cầu sử dụng nguyên vật liệu trong năm là 10.800 đơn vị. Doanh nghiệp hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên vật liệu này. Doanh nghiệp xác định điểm đặt hàng lại đối với loại nguyên vật liệu nói trên là 180 đơn vị. Yêu cầu: Hãy xác định thời gian giao hàng, biết 1 năm có 360 ngày và doanh nghiệp A không tiến hành dự trữ an toàn đối với loại nguyên vật liệu đề cập.",
+    "answer": "6 ngày."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Công ty Gia Khang có nhu cầu sử dụng nguyên vật liệu trong năm là 3.375 đơn vị, chi phí mỗi lần đặt hàng là 1 triệu đồng, chi phí lưu kho trên 1 đơn vị nguyên vật liệu trong năm là 0,3 triệu đồng. Anh (chị) hãy áp dụng mô hình EOQ để xác định số lần đặt hàng tối ưu trong năm cho công ty.",
+    "answer": "23 lần."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Một doanh nghiệp duy trì một tài khoản riêng biệt cho việc thanh toán bằng tiền mặt. Tổng số tiền thanh toán là 100 triệu đồng/tháng và đều đặn trong suốt các tháng. Các chi phí hành chính và giao dịch của việc chuyển tiền đến tài khoản thanh toán này là 100.000 đồng mỗi lần chuyển. Các chứng khoán thanh khoản trên thị trường có lãi suất 12%/năm. Anh (chị) hãy tư vấn cho doanh nghiệp này về số lần chuyển tiền tối ưu trong năm.",
+    "answer": "27 lần."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Công ty xây dựng Quyết Thắng hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên liệu quan trọng của công ty là sắt thành phẩm. Hỏi: Tổng nhu cầu nguyên liệu trong năm của công ty là bao nhiêu? Biết: Mỗi lần đặt hàng, công ty đặt mua 50 tấn sắt, tổng chi phí đặt hàng trong năm của công ty là 60 triệu đồng, chi phí một lần đặt hàng là 2 triệu đồng.",
+    "answer": "1.500 tấn."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Doanh nghiệp ABC có nhu cầu sử dụng nguyên vật liệu trong năm là 5.800 đơn vị, chi phí mỗi lần đặt hàng là 3 triệu đồng, chi phí lưu kho trên 1 đơn vị nguyên vật liệu trong 1 năm là 1,5 triệu đồng. Anh (chị) hãy áp dụng mô hình EOQ để xác định tổng chi phí đặt hàng tối ưu trong năm cho doanh nghiệp.",
+    "answer": "114 triệu đồng."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Công ty KIKI sử dụng mô hình Miller-Orr xác định được số dư tiền tối thiểu là 39 tỷ đồng và số dư tối đa bằng 162 tỷ đồng. Hãy tính lượng tiền mặt tối ưu của công ty? Nếu hiện tại số dư ngân quỹ của công ty đang là 189 tỷ đồng, công ty có cần áp dụng biện pháp điều chỉnh ngân quỹ nào không, nếu có thì như thế nào?",
+    "answer": "M* = 80 tỷ đồng. Số dư ngân quỹ hiện tại đã vượt lớn hơn Mmax, tạo nên trạng thái thặng dư nên công ty cần mua chứng khoán hoặc gửi tiền tiết kiệm với số tiền: 189 – 80 = 109 tỷ đồng."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Công ty Đại An có nhu cầu sử dụng nguyên vật liệu thô trong năm là 1.800 đơn vị. Chi phí một lần đặt hàng là 2.000.000 đồng, chi phí lưu kho (chi phí tồn trữ) là 500.000 đồng/1 đơn vị/1 năm. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng nguyên vật liệu dự trữ an toàn là 50 đơn vị. Anh (chị) hãy xác định tổng chi phí lưu kho (chi phí tồn trữ) trong năm của công ty ứng với lượng đặt hàng tối ưu.",
+    "answer": "55 triệu đồng."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Nhận định nào sau đây là SAI về thiệt hại khi tích trữ hàng hóa, nguyên liệu trong kho?",
+    "answer": "Giảm vị thế của DN vì uy tín của DN được đánh giá dựa trên quy mô hàng tồn kho."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Nhận định nào sau đây SAI về lợi ích khi bán chịu hàng hóa?",
+    "answer": "Tăng khả năng thanh toán bằng dòng tiền thực."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Theo mô hình EOQ, trong điều kiện các yếu tố khác không đổi, nếu chi phí 1 lần đặt hàng tăng lên gấp bốn, và chi phí lưu kho 1 đơn vị hàng hóa trong kỳ lại giảm xuống 25%, thì lượng hàng hóa tối ưu mỗi lần cung ứng sẽ thay đổi như thế nào?",
+    "answer": "Tăng lên gấp 4."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Nhận định nào sau đây là ĐÚNG về lợi ích khi tích trữ hàng hóa, nguyên liệu trong kho?",
+    "answer": "Chủ động trong sản xuất kinh doanh."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Công ty Việt Minh dự định lượng tiền mặt tối thiểu là 5.000 đvtt. Phương sai thu chi ngân quỹ hàng ngày là 520.000 đvtt, lãi suất hiệu dụng là 20%/năm, chi phí giao dịch cho mỗi lần mua hoặc bán chứng khoán là 3 đvtt. Hãy tính lượng tiền mặt tối ưu của công ty Việt Minh.",
+    "answer": "6.327,61 đvtt."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Công ty WANWAN sử dụng mô hình Miller-Orr xác định được số dư tiền tối thiểu là 24 tỷ đồng và số dư tối đa bằng 120 tỷ đồng. Hãy tính lượng tiền mặt tối ưu của công ty? Nếu hiện tại số dư ngân quỹ của công ty đang là 89 tỷ đồng, công ty có cần áp dụng biện pháp điều chỉnh ngân quỹ nào không, nếu có thì như thế nào?",
+    "answer": "M* = 56 tỷ đồng. Số dư ngân quỹ hiện tại nằm trong khoảng Mmin và Mmax nên công ty không cần áp dụng biện pháp điều chỉnh nào."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Theo chế độ kế toán của Việt Nam, tài sản nào sau đây KHÔNG thuộc tài sản ngắn hạn của DN?",
+    "answer": "Phải trả tiền cho người bán hàng"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Công ty BZ phát sinh tiền mua vật liệu tháng 2 và 3 năm N lần lượt là 150 và 180 triệu VND. Công ty dự báo trong tháng 4, 5 và 6 sắp tới sẽ phát sinh tiền mua vật liệu lần lượt là 204, 172 và 256 triệu VND. Các nhà lập kế hoạch tài chính của BZ ước lượng rằng 60% tiền mua vật liệu mỗi tháng phải được trả ngay trong tháng, 30% được trả muộn 1 tháng và 10% còn lại được trả muộn 2 tháng. Bên cạnh đó, mỗi tháng công ty sẽ phải chi thêm 51 triệu để trang trải một số chi phí khác. Ngoài ra công ty không có khoản xuất quỹ nào khác. Hãy dự báo dòng tiền xuất quỹ lần lượt trong các tháng 4, 5 và 6 sắp tới của BZ?",
+    "answer": "242,4 triệu VND, 233,4 triệu VND, 276,6 triệu VND"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Giả định các yếu tố khác không đổi trường hợp nào sau đây có thể làm giảm lợi nhuận sau thuế dự kiến của doanh nghiệp?",
+    "answer": "Doanh nghiệp vay nợ nhiều hơn từ ngân hàng"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty RH có dự trữ tiền mặt là 250 triệu VND và bắt đầu kinh doanh. Công ty dự báo trong quý 1/N sẽ có doanh thu bán hàng mỗi tháng là 800 triệu VND, mặt khác mỗi tháng sẽ phát sinh tiền mua vật liệu bằng 50% doanh thu bán hàng trong tháng. Biết rằng 80% tiền mua vật liệu mỗi tháng phải được thanh toán ngay trong tháng, phần còn lại được thanh toán muộn 1 tháng. Ngoài ra công ty không dự kiến có thêm khoản nhập quỹ hay xuất quỹ nào khác. Công ty yêu cầu mức dự trữ tiền mặt tối thiểu ở cuối quý 1/N là 730 triệu. Chính sách bán hàng của công ty yêu cầu khách hàng thanh toán ngay một phần tiền mua hàng, phần còn lại cho phép trả chậm 1 tháng. Hỏi nếu công ty muốn có thặng dư ngân quỹ ở cuối quý 1/N là 600 triệu VND thì cần yêu cầu khách hàng thanh toán ngay tiền mua hàng mỗi tháng với tỷ lệ là bao nhiêu?",
+    "answer": "75%"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Công ty DC dự báo trong năm tới sẽ đạt doanh thu là $1854000. Giá vốn hàng bán năm tới dự kiến bao gồm chi phí cố định là $743500 và chi phí biến đổi bằng 20% doanh thu. Chi phí hoạt động năm tới dự kiến bao gồm chi phí cố định là $75000 và chi phí biến đổi bằng 10% doanh thu. Chi phí lãi vay dự kiến năm tới là $2500. Công ty chịu thuế suất thuế thu nhập doanh nghiệp là 15%. Hãy xác định lợi nhuận sau thuế dự kiến năm tới của công ty?",
+    "answer": "$405280"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty RT có dự trữ tiền mặt là $153000 và bắt đầu kinh doanh. Tình hình kinh doanh quý 1/N của công ty được dự báo như sau: Tiền bán hàng mỗi tháng $348000, trong đó có 50% được khách hàng thanh toán ngay, 25% được thu hồi sau 1 tháng và phần còn lại được thu hồi sau 2 tháng; tiền mua vật liệu mỗi tháng bằng 50% tiền bán hàng mỗi tháng, trong đó có 60% được công ty thanh toán ngay, phần còn lại được thanh toán sau 2 tháng. Giả sử công ty không có thêm bất kỳ khoản nhập quỹ và xuất quỹ nào khác. Hãy dự báo số dư tiền mặt tại thời điểm 31/3/N của RT?",
+    "answer": "$553200"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Tại thời điểm đầu quý I/N, công ty DR có $450000 tiền mặt. Công ty dự báo chênh lệch thu chi của các tháng 1, 2 và 3 năm N lần lượt là $32500, -$6800 và $15000. Hãy xác định số dư tiền mặt dự báo ở thời điểm cuối quý I/N của DR?",
+    "answer": "$490700"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Năm N-1, công ty P có doanh thu là $625000, chi phí (chưa kể lãi vay) là $258000, chi phí lãi vay là $12000. Công ty dự kiến trong năm N doanh thu sẽ tăng trưởng 8%, tỷ trọng chi phí (chưa kể lãi vay) / doanh thu không đổi so với năm trước. Lãi vay dự kiến không thay đổi. Hỏi lợi nhuận sau thuế dự kiến năm N của công ty là bao nhiêu? Cho thuế suất thuế thu nhập doanh nghiệp là 40%.",
+    "answer": "230616 USD"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Doanh nghiệp A đang cân nhắc trong năm tới sẽ huy động vốn theo phương thức nào: Phát hành cổ phiếu, phát hành trái phiếu hay giữ lại lợi nhuận, hay kết hợp các phương thức nêu trên. Những vấn đề trên thuộc phương diện nào trong kế hoạch hóa tài chính của doanh nghiệp A?",
+    "answer": "Lập kế hoạch nguồn vốn"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Đầu năm N, công ty SA có tài sản cổ định (TSCĐ) hữu hình là $4500000, TSCĐ vô hình là $1200000. Công ty dự kiến trong năm N sẽ mua thêm trang thiết bị và máy móc mới (sẽ được sử dụng trong nhiều năm) với giá trị là $2650000. Cũng trong năm N, công ty dự kiến sẽ khấu hao cho TSCĐ hữu hình $500000, cho TSCĐ vô hình $60000. Hãy xác định giá trị của tổng TSCĐ dự kiến được ghi nhận ở thời điểm cuối năm của công ty?",
+    "answer": "$7790000"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Công ty MV dự kiến trong năm tới sẽ phát sinh chi phí hoạt động cố định là $250000, chi phí hoạt động biến đổi bằng 20% doanh thu bán hàng. Biết giá bán mỗi đơn vị sản phẩm của công ty là $5. Hỏi công ty phải đạt mức sản lượng tiêu thụ bằng bao nhiêu để có lợi nhuận hoạt động dự kiến năm tới bằng $125000?",
+    "answer": "93750 đơn vị sản phẩm"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Các kế hoạch tài chính dài hạn thường được xây dựng cho khoảng thời gian bao nhiêu năm?",
+    "answer": "Trên 1 năm đến 10 năm"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Công ty EP dự báo trong năm 2016 sẽ đạt doanh thu là $4892000. Công ty ước tính tiền mua vật tư chiếm khoảng 40% doanh thu hàng năm của công ty và thời gian trì hoãn thanh toán cho nhà cung cấp trung bình khoảng 1 tháng. Hãy xác định giá trị khoản phải trả bình quân dự kiến năm 2016 của EP?",
+    "answer": "Xấp xỉ $163067"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Trong trường hợp nào doanh nghiệp sẽ dự báo có thặng dư ngân quỹ ở cuối kỳ kinh doanh?",
+    "answer": "Số dư tiền dự báo ở cuối kỳ lớn hơn mức dự trữ tiền tối thiểu"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Công ty Y có doanh thu năm 2014 là 1,5 tỷ VND. Công ty dự kiến tỷ lệ tăng trưởng doanh thu thường niên sẽ được duy trì ổn định trong 4 năm tới và dự báo sẽ đạt doanh thu là 1,894 tỷ VND trong năm 2018. Hỏi tỷ lệ tăng trưởng doanh thu dự kiến hàng năm của Y trong giai đoạn 2015-2018 là bao nhiêu?",
+    "answer": "Xấp xỉ 6%"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Công ty SK có doanh thu bán hàng tháng 8 và 9 năm N lần lượt là 650 và 720 triệu VND. Công ty dự báo trong tháng 10, 11 và 12 sắp tới sẽ có doanh thu bán hàng lần lượt là 800, 960 và 1200 triệu VND. Theo chính sách bán hàng của công ty, 50% tiền bán hàng mỗi tháng được thu ngay trong tháng, 40% được thu hồi sau 1 tháng và 10% còn lại được thu hồi sau 2 tháng. Mặt khác trong tháng 11 công ty sẽ có thêm một khoản nhập quỹ là 124 triệu VND từ hoạt động đầu tư tài chính. Ngoài ra, công ty không có thêm khoản nhập quỹ nào khác. Hãy dự báo dòng tiền nhập quỹ lần lượt cho các tháng 10, 11 và 12 của SK?",
+    "answer": "753 triệu VND, 996 triệu VND, 1064 triệu VND"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Công ty Long An kinh doanh 2 mặt hàng là đường loại I với giá 15000 VND/kg và đường loại II với giá 12000 VND/kg. Công ty dự báo trong năm tới sẽ phát sinh tổng chi phí là 1,44 tỷ VND. Hỏi mức sản lượng tiêu thụ dự kiến nào sau đây có thể giúp công ty hòa vốn trong năm tới (giả định giá bán mỗi mặt hàng không đổi)?",
+    "answer": "60000 kg đường loại I và 45000 kg đường loại II"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Tại thời điểm đầu năm N, công ty CC có các thông tin tài chính sau: Tiền mặt $250000, phải thu ngắn hạn $180000, dự trữ vật tư hàng hóa $316000, các tài sản ngắn hạn (TSNH) khác: $30000, tài sản dài hạn (TSDH) $870000. Những tài sản này được tài trợ một nửa bởi nợ và một nửa bởi vốn chủ sở hữu (VSCH). Nhà lập kế hoạch tài chính dự báo ở thời điểm cuối năm N, dự trữ tiền sẽ tăng thêm $150000, phải thu ngắn hạn giảm đi $50000, dự trữ vật tư hàng hóa còn $200000, các TSNH khác không đổi, TSDH giảm đi $90000 do khấu hao. Mặt khác, nợ của công ty ở cuối năm sẽ giảm đi $200000 so với đầu năm. Nhận định nào sau đây là chính xác về tình trạng tài chính dự báo ở cuối năm N của CC?",
+    "answer": "TSDH gấp 1,03 lần TSNH, VCSH gấp 1,47 lần nợ"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Công ty Q dự báo cuối năm 2015 số dư tiền mặt tăng 350 triệu VND so với thời điểm đầu năm, các tài sản ngắn hạn khác thay đổi không đáng kể, tài sản dài hạn được khấu hao trong năm 90 triệu VND. Mặt khác, nợ ngắn hạn của công ty ở cuối năm giảm 100 triệu VND so với đầu năm, nợ dài hạn không đổi. Hỏi vốn chủ sở hữu (VCSH) của công ty ở thời điểm cuối năm dự kiến sẽ thay đổi như thế nào so với đầu năm?",
+    "answer": "VCSH tăng 360 triệu VND"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty AG bắt đầu kinh doanh. Nhà lập kế hoạch tài chính đưa ra các dự báo sau về tình hình kinh doanh quý 1/N của công ty: Tiền bán hàng mỗi tháng $896000, khách hàng thanh toán ngay 75%, còn lại trả muộn 1 tháng; tiền mua vật tư mỗi tháng $491000, doanh nghiệp thanh toán ngay cho nhà cung cấp 60%, còn lại trả muộn 2 tháng. Các khoản xuất quỹ khác mỗi tháng $45000. Ngoài ra doanh nghiệp không có khoản nhập quỹ hay xuất quỹ nào khác. Hãy dự báo chênh lệch thu-chi cho các tháng trong quý 1/N của AG?",
+    "answer": "Tháng 1: $332400, tháng 2: $556400, tháng 3: $360000"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Năm N, công ty Phương Đông có doanh thu thuần là 2,5 tỷ VND, tổng chi phí là 1,2 tỷ VND và chịu thuế suất thuế thu nhập doanh nghiệp là 22%. Công ty dự kiến năm N+1, doanh thu thuần sẽ tăng trưởng 10% trong khi tổng chi phí sẽ tăng 8% và thuế suất thuế thu nhập doanh nghiệp sẽ giảm xuống 20%. Hỏi lợi nhuận sau thuế dự kiến trong năm N+1 của công ty sẽ tăng bao nhiêu so với năm N?",
+    "answer": "0,1492 tỷ VND"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty AL có dự trữ tiền mặt là 120 triệu VND và bắt đầu kinh doanh. Tình hình kinh doanh quý 1/N của công ty được dự báo như sau: Tiền bán hàng mỗi tháng 450 triệu VND, trong đó công ty thu ngay một phần, phần còn lại cho phép khách hàng trả muộn 1 tháng. Tiền mua vật tư mỗi tháng bằng 60% tiền bán hàng trong tháng, trong đó doanh nghiệp thanh toán ngay một phần cho nhà cung cấp, phần còn lại trả muộn 1 tháng. Các khoản chi khác mỗi tháng 50 triệu VND. Cuối tháng 3 công ty có nhập quỹ 90 triệu VND từ hoạt động kinh doanh khác. Giả sử công ty yêu cầu mức dự trữ tiền mặt tối thiểu cuối quý là 250 triệu VND. Hỏi công ty phải lựa chọn phương án thu tiền bán hàng và trả tiền mua vật tư mỗi tháng như thế nào trong các phương án sau để đạt thặng dư ngân quỹ cuối quý 1/N là 422 triệu VND?",
+    "answer": "Thu ngay 80% tiền bán hàng, trả ngay 40% tiền mua vật tư trong tháng"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Việc lập kế hoạch và dự báo lợi nhuận kế toán của doanh nghiệp KHÔNG bao gồm nội dung nào sau đây?",
+    "answer": "Dự báo tỷ lệ thanh toán ngay tiền mua hàng của khách hang"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Công ty X có doanh thu năm 2014 là $300000. Công ty dự báo tỷ lệ tăng trưởng doanh thu trong 5 năm tới sẽ ổn định ở mức 5%/năm. Hỏi doanh thu dự kiến năm 2017 của công ty là bao nhiêu?",
+    "answer": "Khoảng $347000"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Năm ngoái, công ty J có doanh thu là 800000 USD và tổng chi phí là 550000 USD. Công ty dự báo trong năm nay doanh thu sẽ tăng 7,5%. Giả định tỷ lệ chi phí / doanh thu không đổi, hỏi năm nay công ty dự kiến sẽ đạt lợi nhuận sau thuế bằng bao nhiêu? (Cho thuế suất thuế thu nhập doanh nghiệp bằng 28%).",
+    "answer": "193500 USD"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Doanh nghiệp Price sẽ sản xuất và tiêu thụ 55000 thiết bị máy vào năm tới. Chi phí hoạt động biến đổi bằng 40% doanh thu bán hàng, còn chi phí hoạt động cố định là $110000. Hỏi doanh nghiệp phải bán mỗi thiết bị máy với giá bao nhiêu để đạt được lợi nhuận trước thuế và lãi vay (EBIT) là $95000?",
+    "answer": "$6,21"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty KC bắt đầu kinh doanh. Công ty dự kiến trong trường hợp khả quan nhất, mỗi tháng công ty sẽ tiêu thụ được 1000 đơn vị sản phẩm, 80% tiền bán hàng mỗi tháng sẽ được thu ngay trong tháng, phần còn lại thu muộn 1 tháng. Ngược lại, trong trường hợp xấu nhất, mỗi tháng công ty sẽ chỉ tiêu thụ được 300 đơn vị sản phẩm, 50% tiền bán hàng mỗi tháng sẽ được thu ngay trong tháng, phần còn lại thu muộn 2 tháng. Giả sử giá bán mỗi đơn vị sản phẩm là $45. Hãy xác định chênh lệch nhập quỹ tiền bán hàng dự kiến giữa trường hợp khả quan nhất với trường hợp xấu nhất của KC trong quý 1/N?",
+    "answer": "$99000"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Công ty WH dự báo doanh thu cho năm 2015 là $3720000. Theo kinh nghiệm của các nhà lập kế hoạch tài chính, giá trị khoản phải thu bình quân đại diện cho 45 ngày doanh thu của công ty. Giả định giá trị khoản phải thu ở cuối năm bằng phải thu bình quân của năm, hãy xác định giá trị khoản phải thu dự kiến ở thời điểm 31/12/2015 của công ty? (Quy ước 1 năm = 360 ngày)",
+    "answer": "$465000"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Phương án kế hoạch kinh doanh nào sau đây được thiết kế nhằm tối thiểu hóa vốn đầu tư yêu cầu?",
+    "answer": "Kế hoạch cắt giảm"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Công ty V dự kiến trong tháng sắp tới sẽ có nhập quỹ 760 triệu VND từ bán hàng và cung cấp dịch vụ, đồng thời xuất quỹ 500 triệu VND để trang trải các chi phí và nộp thuế. Ngoài ra công ty không có các khoản thu hay chi nào khác. Công ty yêu cầu mức dự trữ tiền mặt tối thiểu cuối mỗi tháng là 200 triệu VND để đảm bảo thanh khoản. Biết số dư tiền mặt cuối tháng này của V là 280 triệu VND. Nhận định nào sau đây về tình trạng ngân quỹ dự kiến ở thời điểm cuối tháng tới của V là chính xác?",
+    "answer": "Công ty sẽ có thặng dư ngân quỹ 340 triệu VND"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Năm N-1, công ty Y có doanh thu là $1500000, phát sinh chi phí giá vốn hàng bán là $810000, chi phí hoạt động là $126000, chi phí lãi vay là $15000. Công ty dự báo trong năm N sẽ đạt mức doanh thu là $1820000, tỷ trọng các loại chi phí / doanh thu không đổi so với năm N-1. Hãy xác định lợi nhuận sau thuế dự kiến của công ty trong năm N? Cho thuế suất thuế thu nhập doanh nghiệp là 40%.",
+    "answer": "$399672"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty Kim Liên có 9,84 tỷ VND tiền mặt. Công ty dự báo trong quý I/N sẽ có tổng nhập quỹ là 3,15 tỷ VND và xuất quỹ là 1,64 tỷ VND. Nhà lập kế hoạch tài chính của công ty dự báo ở thời điểm cuối quý I/N, công ty sẽ có thặng dư ngân quỹ là 5,63 tỷ VND. Hãy xác định mức dự trữ tiền mặt tối thiểu mà công ty dự kiến yêu cầu ở thời điểm cuối quý I/N?",
+    "answer": "5,72 tỷ VND"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty AL có dự trữ tiền mặt là 120 triệu VND và bắt đầu kinh doanh. Tình hình kinh doanh quý 1/N của công ty được dự báo như sau: Tiền bán hàng mỗi tháng 450 triệu VND, trong đó công ty thu ngay một phần, phần còn lại cho phép khách hàng trả muộn 1 tháng. Tiền mua vật tư mỗi tháng bằng 60% tiền bán hàng trong tháng, trong đó doanh nghiệp thanh toán ngay một phần cho nhà cung cấp, phần còn lại trả muộn 1 tháng. Các khoản chi khác mỗi tháng 50 triệu VND. Cuối tháng 3 công ty có nhập quỹ 90 triệu VND từ hoạt động kinh doanh khác. Giả sử công ty yêu cầu mức dự trữ tiền mặt tối thiểu cuối quý là 250 triệu VND. Hỏi công ty phải lựa chọn phương án thu tiền bán hàng và trả tiền mua vật tư mỗi tháng như thế nào trong các phương án sau để đạt thặng dư ngân quỹ cuối quý 1/N là 422 triệu VND?",
+    "answer": "Thu ngay 80% tiền bán hàng, trả ngay 40% tiền mua vật tư trong tháng"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Năm N, công ty Phương Đông có doanh thu thuần là 2,5 tỷ VND, tổng chi phí là 1,2 tỷ VND và chịu thuế suất thuế thu nhập doanh nghiệp là 22%. Công ty dự kiến năm N+1, doanh thu thuần sẽ tăng trưởng 10% trong khi tổng chi phí sẽ tăng 8% và thuế suất thuế thu nhập doanh nghiệp sẽ giảm xuống 20%. Hỏi lợi nhuận sau thuế dự kiến trong năm N+1 của công ty sẽ tăng bao nhiêu so với năm N?",
+    "answer": "0,1492 tỷ VND"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Công ty K kinh doanh 2 mặt hàng bánh mỳ và bánh ngọt. Năm 2014, sản lượng tiêu thụ bánh mỳ là 20000 chiếc, giá bán là 5000 VND/chiếc, sản lượng tiêu thụ bánh ngọt là 15000 chiếc, giá bán là 8000 VND/chiếc. Công ty dự báo trong năm 2015, sản lượng tiêu thụ bánh mỳ tăng 8%, giá bánh mỳ tăng thêm 400 VND/chiếc, sản lượng tiêu thụ bánh ngọt tăng 5%, giá bánh ngọt tăng 500 VND/chiếc. Hỏi tổng doanh thu dự kiến của K trong năm 2015 là bao nhiêu?",
+    "answer": "250,515 triệu VND"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Công ty EP dự báo trong năm 2016 sẽ đạt doanh thu là $4892000. Công ty ước tính tiền mua vật tư chiếm khoảng 40% doanh thu hàng năm của công ty và thời gian trì hoãn thanh toán cho nhà cung cấp trung bình khoảng 1 tháng. Hãy xác định giá trị khoản phải trả bình quân dự kiến năm 2016 của EP?",
+    "answer": "Xấp xỉ $163067"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Công ty M dự kiến trong tháng 9/N sẽ bán được 3000 đơn vị sản phẩm với mức giá $15,20/đvsp. Chính sách của công ty quy định khách hàng phải thanh toán ngay 80% tiền mua hàng, 20% còn lại được thanh toán trễ 1 tháng. Mặt khác, cũng trong tháng này công ty dự kiến sẽ thu được $5400 từ hoạt động kinh doanh khác. Ngoài ra công ty không còn khoản thu nào khác. Hãy xác định tổng dòng tiền nhập quỹ dự kiến tháng 9/N của công ty?",
+    "answer": "$41880"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Doanh nghiệp A đang cân nhắc trong năm tới sẽ huy động vốn theo phương thức nào: Phát hành cổ phiếu, phát hành trái phiếu hay giữ lại lợi nhuận, hay kết hợp các phương thức nêu trên. Những vấn đề trên thuộc phương diện nào trong kế hoạch hóa tài chính của doanh nghiệp A?",
+    "answer": "Lập kế hoạch nguồn vốn"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Công ty Q dự báo cuối năm 2015 số dư tiền mặt tăng 350 triệu VND so với thời điểm đầu năm, các tài sản ngắn hạn khác thay đổi không đáng kể, tài sản dài hạn được khấu hao trong năm 90 triệu VND. Mặt khác, nợ ngắn hạn của công ty ở cuối năm giảm 100 triệu VND so với đầu năm, nợ dài hạn không đổi. Hỏi vốn chủ sở hữu (VCSH) của công ty ở thời điểm cuối năm dự kiến sẽ thay đổi như thế nào so với đầu năm?",
+    "answer": "VCSH tăng 360 triệu VND"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Công ty US có doanh thu bán hàng tháng 6/N là $450000. Công ty dự báo trong tháng 7 và 8 sắp tới sẽ có doanh thu bán hàng lần lượt là $360000 và $512000. Theo chính sách bán hàng của US, 80% tiền bán hàng mỗi tháng được công ty thu ngay trong tháng, 20% còn lại được thu vào tháng sau. Mặt khác, mỗi tháng US phát sinh tiền mua vật tư bằng 60% doanh thu của tháng đó. Theo kinh nghiệm của US, 70% tiền mua vật tư mỗi tháng phải được thanh toán ngay trong tháng, phần còn lại được thanh toán muộn 1 tháng. Ngoài ra công ty không có khoản nhập quỹ hay xuất quỹ nào khác. Hãy dự báo các dòng tiền nhập quỹ và xuất quỹ lần lượt cho các tháng 7 và 8 sắp tới cùa US?",
+    "answer": "Tháng 7: Nhập quỹ $378000, xuất quỹ $232200; tháng 8: Nhập quỹ $481600, xuất quỹ $279840."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Tại thời điểm đầu năm N, công ty CC có các thông tin tài chính sau: Tiền mặt $250000, phải thu ngắn hạn $180000, dự trữ vật tư hàng hóa $316000, các tài sản ngắn hạn (TSNH) khác: $30000, tài sản dài hạn (TSDH) $870000. Những tài sản này được tài trợ một nửa bởi nợ và một nửa bởi vốn chủ sở hữu (VSCH). Nhà lập kế hoạch tài chính dự báo ở thời điểm cuối năm N, dự trữ tiền sẽ tăng thêm $150000, phải thu ngắn hạn giảm đi $50000, dự trữ vật tư hàng hóa còn $200000, các TSNH khác không đổi, TSDH giảm đi $90000 do khấu hao. Mặt khác, nợ của công ty ở cuối năm sẽ giảm đi $200000 so với đầu năm. Nhận định nào sau đây là chính xác về tình trạng tài chính dự báo ở cuối năm N của CC?",
+    "answer": "TSDH gấp 1,03 lần TSNH, VCSH gấp 1,47 lần nợ"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Kết quả của dự báo ngân quỹ xuất hiện trên báo cáo tài chính dự báo nào của doanh nghiệp?",
+    "answer": "Báo cáo ngân quỹ dự báo và bảng cân đối kế toán cuối kỳ dự báo"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Việc lập kế hoạch tài chính của các doanh nghiệp có cấu trúc dọc thường gặp phải vấn đề gì sau đây?",
+    "answer": "Thiếu nhất quán"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Năm N-1, công ty Y có doanh thu là $1500000, phát sinh chi phí giá vốn hàng bán là $810000, chi phí hoạt động là $126000, chi phí lãi vay là $15000. Công ty dự báo trong năm N sẽ đạt mức doanh thu là $1820000, tỷ trọng các loại chi phí / doanh thu không đổi so với năm N-1. Hãy xác định lợi nhuận sau thuế dự kiến của công ty trong năm N? Cho thuế suất thuế thu nhập doanh nghiệp là 40%.",
+    "answer": "$399672"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Công ty V dự kiến trong tháng sắp tới sẽ có nhập quỹ 760 triệu VND từ bán hàng và cung cấp dịch vụ, đồng thời xuất quỹ 500 triệu VND để trang trải các chi phí và nộp thuế. Ngoài ra công ty không có các khoản thu hay chi nào khác. Công ty yêu cầu mức dự trữ tiền mặt tối thiểu cuối mỗi tháng là 200 triệu VND để đảm bảo thanh khoản. Biết số dư tiền mặt cuối tháng này của V là 280 triệu VND. Nhận định nào sau đây về tình trạng ngân quỹ dự kiến ở thời điểm cuối tháng tới của V là chính xác?",
+    "answer": "Công ty sẽ có thặng dư ngân quỹ 340 triệu VND"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty KC bắt đầu kinh doanh. Công ty dự kiến trong trường hợp khả quan nhất, mỗi tháng công ty sẽ tiêu thụ được 1000 đơn vị sản phẩm, 80% tiền bán hàng mỗi tháng sẽ được thu ngay trong tháng, phần còn lại thu muộn 1 tháng. Ngược lại, trong trường hợp xấu nhất, mỗi tháng công ty sẽ chỉ tiêu thụ được 300 đơn vị sản phẩm, 50% tiền bán hàng mỗi tháng sẽ được thu ngay trong tháng, phần còn lại thu muộn 2 tháng. Giả sử giá bán mỗi đơn vị sản phẩm là $45. Hãy xác định chênh lệch nhập quỹ tiền bán hàng dự kiến giữa trường hợp khả quan nhất với trường hợp xấu nhất của KC trong quý 1/N?",
+    "answer": "$99000"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Công ty K kinh doanh 2 mặt hàng bánh mỳ và bánh ngọt. Năm 2014, sản lượng tiêu thụ bánh mỳ là 20000 chiếc, giá bán là 5000 VND/chiếc, sản lượng tiêu thụ bánh ngọt là 15000 chiếc, giá bán là 8000 VND/chiếc. Công ty dự báo trong năm 2015, sản lượng tiêu thụ bánh mỳ tăng 8%, giá bánh mỳ tăng thêm 400 VND/chiếc, sản lượng tiêu thụ bánh ngọt tăng 5%, giá bánh ngọt tăng 500 VND/chiếc. Hỏi tổng doanh thu dự kiến của K trong năm 2015 là bao nhiêu?",
+    "answer": "250,515 triệu VND"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Kết quả của dự báo ngân quỹ xuất hiện trên báo cáo tài chính dự báo nào của doanh nghiệp?",
+    "answer": "Báo cáo ngân quỹ dự báo và bảng cân đối kế toán cuối kỳ dự báo"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Dự báo các dòng tiền nhập quỹ, xuất quỹ và cân đối ngân quỹ là những nội dung nằm trong nghiệp vụ lập báo cáo tài chính dự báo nào?",
+    "answer": "Báo cáo lưu chuyển tiền tệ dự báo"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Công ty CA có doanh thu năm 2012, 2013 và 2014 lần lượt là $3450000, $3833000 và $4127000. Các nhà lập kế hoạch tài chính của công ty cho rằng tỷ lệ tăng trưởng doanh thu năm 2015 sẽ bằng trung bình cộng của tỷ lệ tăng trưởng doanh thu năm 2013 và 2014. Mặt khác, giá trị khoản phải thu bình quân trong năm được ước lượng đại diện cho 15 ngày doanh thu của công ty. Hãy xác định giá trị khoản phải thu bình quân dự kiến trong năm 2015 của CA? (1 năm = 365 ngày)",
+    "answer": "Xấp xỉ $185520"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Công ty TLC có doanh thu các năm 2010, 2011, 2012, 2013 và 2014 lần lượt là $1490000, $1832000, $1758000, $2067000 và $2113000. Các nhà lập kế hoạch tài chính ước lượng tỷ lệ tăng trưởng doanh thu năm 2015 của công ty bằng cách lấy trung bình cộng của tỷ lệ tăng trưởng doanh thu 4 năm liền kề trước đó. Hãy xác định doanh thu dự kiến năm 2015 của TLC?",
+    "answer": "Xấp xỉ $2317540"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Công ty GB có doanh thu năm 2013 là $1250000. Năm 2014 doanh thu của GB tăng lên $160000. Công ty dự báo tỷ lệ tăng trưởng doanh thu này sẽ được duy trì ổn định trong 3 năm tới. Hỏi doanh thu dự kiến năm 2016 của công ty là bao nhiêu?",
+    "answer": "Xấp xỉ $262000"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Công ty M dự kiến trong tháng 9/N sẽ bán được 3000 đơn vị sản phẩm với mức giá $15,20/đvsp. Chính sách của công ty quy định khách hàng phải thanh toán ngay 80% tiền mua hàng, 20% còn lại được thanh toán trễ 1 tháng. Mặt khác, cũng trong tháng này công ty dự kiến sẽ thu được $5400 từ hoạt động kinh doanh khác. Ngoài ra công ty không còn khoản thu nào khác. Hãy xác định tổng dòng tiền nhập quỹ dự kiến tháng 9/N của công ty?",
+    "answer": "$41880"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Công ty MC dự kiến ở thời điểm cuối năm 2015 sẽ có quy mô tài sản ngắn hạn là $812000, tài sản dài hạn là $2544000. Khối lượng tài sản này sẽ được tài trợ bởi $632000 nợ ngắn hạn, $1100000 nợ dài hạn và vốn chủ sở hữu. Hãy xác định vốn chủ sở hữu dự báo ở thời điểm cuối 2015 của doanh nghiệp?",
+    "answer": "$1624000"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Việc lập kế hoạch tài chính của các doanh nghiệp có cấu trúc dọc thường gặp phải vấn đề gì sau đây?",
+    "answer": "Thiếu nhất quán"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty Kim Liên có 9,84 tỷ VND tiền mặt. Công ty dự báo trong quý I/N sẽ có tổng nhập quỹ là 3,15 tỷ VND và xuất quỹ là 1,64 tỷ VND. Nhà lập kế hoạch tài chính của công ty dự báo ở thời điểm cuối quý I/N, công ty sẽ có thặng dư ngân quỹ là 5,63 tỷ VND. Hãy xác định mức dự trữ tiền mặt tối thiểu mà công ty dự kiến yêu cầu ở thời điểm cuối quý I/N?",
+    "answer": "5,72 tỷ VND"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty SG có tổng tài sản 1200 triệu VND, trong đó có tài sản cố định (TSCĐ) là 900 triệu VND, dự trữ hàng hóa là 200 triệu VND, còn lại là tiền mặt. Công ty dự kiến tình hình kinh doanh Q1/N như sau: Tiền bán hàng cả quý là 560 triệu VND, khách hàng thanh toán ngay 80%, còn lại trả vào quý sau; tiền mua hàng hóa cả quý là 340 triệu VND, công ty thanh toán ngay 60%, còn lại trả vào quý sau; các khoản chi phí khác (chưa kể khấu hao TSCĐ) và thuế cả quý là 105 triệu VND, được công ty thanh toán ngay trong quý; khấu hao TSCĐ cả quý là 90 triệu VND. Dự kiến cuối quý 1/N công ty sẽ còn dự trữ hàng hóa là 150 triệu VND. Hãy xác định giá trị các tài sản dự kiến ở cuối quý 1/N của SG?",
+    "answer": "Tiền mặt: 239 triệu VND, phải thu ngắn hạn: 112 triệu VND, tồn kho: 150 triệu VND, TSCĐ: 810"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Công ty Vạn Hoa kinh doanh 2 mặt hàng: Hoa tươi, đạt doanh thu năm 2014 là 120 triệu VND và hoa khô, đạt doanh thu năm 2014 là 80 triệu VND. Công ty dự báo doanh thu của mặt hàng hoa tươi sẽ tăng 10% còn hoa khô sẽ tăng 5% trong năm 2015. Hỏi tổng doanh thu dự kiến của Vạn Hoa năm 2015 là bao nhiêu?",
+    "answer": "216 triệu VND"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Công ty US có doanh thu bán hàng tháng 6/N là $450000. Công ty dự báo trong tháng 7 và 8 sắp tới sẽ có doanh thu bán hàng lần lượt là $360000 và $512000. Theo chính sách bán hàng của US, 80% tiền bán hàng mỗi tháng được công ty thu ngay trong tháng, 20% còn lại được thu vào tháng sau. Mặt khác, mỗi tháng US phát sinh tiền mua vật tư bằng 60% doanh thu của tháng đó. Theo kinh nghiệm của US, 70% tiền mua vật tư mỗi tháng phải được thanh toán ngay trong tháng, phần còn lại được thanh toán muộn 1 tháng. Ngoài ra công ty không có khoản nhập quỹ hay xuất quỹ nào khác. Hãy dự báo các dòng tiền nhập quỹ và xuất quỹ lần lượt cho các tháng 7 và 8 sắp tới cùa US?",
+    "answer": "Tháng 7: Nhập quỹ $378000, xuất quỹ $232200; tháng 8: Nhập quỹ $481600, xuất quỹ $279840."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty RH có dự trữ tiền mặt là 250 triệu VND và bắt đầu kinh doanh. Công ty dự báo trong quý 1/N sẽ có doanh thu bán hàng mỗi tháng là 800 triệu VND, mặt khác mỗi tháng sẽ phát sinh tiền mua vật liệu bằng 50% doanh thu bán hàng trong tháng. Biết rằng 80% tiền mua vật liệu mỗi tháng phải được thanh toán ngay trong tháng, phần còn lại được thanh toán muộn 1 tháng. Ngoài ra công ty không dự kiến có thêm khoản nhập quỹ hay xuất quỹ nào khác. Công ty yêu cầu mức dự trữ tiền mặt tối thiểu ở cuối quý 1/N là 730 triệu. Chính sách bán hàng của công ty yêu cầu khách hàng thanh toán ngay một phần tiền mua hàng, phần còn lại cho phép trả chậm 1 tháng. Hỏi nếu công ty muốn có thặng dư ngân quỹ ở cuối quý 1/N là 600 triệu VND thì cần yêu cầu khách hàng thanh toán ngay tiền mua hàng mỗi tháng với tỷ lệ là bao nhiêu?",
+    "answer": "75%"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty RT có dự trữ tiền mặt là $153000 và bắt đầu kinh doanh. Tình hình kinh doanh quý 1/N của công ty được dự báo như sau: Tiền bán hàng mỗi tháng $348000, trong đó có 50% được khách hàng thanh toán ngay, 25% được thu hồi sau 1 tháng và phần còn lại được thu hồi sau 2 tháng; tiền mua vật liệu mỗi tháng bằng 50% tiền bán hàng mỗi tháng, trong đó có 60% được công ty thanh toán ngay, phần còn lại được thanh toán sau 2 tháng. Giả sử công ty không có thêm bất kỳ khoản nhập quỹ và xuất quỹ nào khác. Hãy dự báo số dư tiền mặt tại thời điểm 31/3/N của RT?",
+    "answer": "$553200"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Công ty Long An kinh doanh 2 mặt hàng là đường loại I với giá 15000 VND/kg và đường loại II với giá 12000 VND/kg. Công ty dự báo trong năm tới sẽ phát sinh tổng chi phí là 1,44 tỷ VND. Hỏi mức sản lượng tiêu thụ dự kiến nào sau đây có thể giúp công ty hòa vốn trong năm tới (giả định giá bán mỗi mặt hàng không đổi)?",
+    "answer": "60000 kg đường loại I và 45000 kg đường loại II"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Tại thời điểm đầu năm N, công ty CC có các thông tin tài chính sau: Tiền mặt $250000, phải thu ngắn hạn $180000, dự trữ vật tư hàng hóa $316000, các tài sản ngắn hạn (TSNH) khác: $30000, tài sản dài hạn (TSDH) $870000. Những tài sản này được tài trợ một nửa bởi nợ và một nửa bởi vốn chủ sở hữu (VSCH). Nhà lập kế hoạch tài chính dự báo ở thời điểm cuối năm N, dự trữ tiền sẽ tăng thêm $150000, phải thu ngắn hạn giảm đi $50000, dự trữ vật tư hàng hóa còn $200000, các TSNH khác không đổi, TSDH giảm đi $90000 do khấu hao. Mặt khác, nợ của công ty ở cuối năm sẽ giảm đi $200000 so với đầu năm. Nhận định nào sau đây là chính xác về tình trạng tài chính dự báo ở cuối năm N của CC?",
+    "answer": "TSDH gấp 1,03 lần TSNH, VCSH gấp 1,47 lần nợ"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Công ty Q dự báo cuối năm 2015 số dư tiền mặt tăng 350 triệu VND so với thời điểm đầu năm, các tài sản ngắn hạn khác thay đổi không đáng kể, tài sản dài hạn được khấu hao trong năm 90 triệu VND. Mặt khác, nợ ngắn hạn của công ty ở cuối năm giảm 100 triệu VND so với đầu năm, nợ dài hạn không đổi. Hỏi vốn chủ sở hữu (VCSH) của công ty ở thời điểm cuối năm dự kiến sẽ thay đổi như thế nào so với đầu năm?",
+    "answer": "VCSH tăng 360 triệu VND"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty AG bắt đầu kinh doanh. Nhà lập kế hoạch tài chính đưa ra các dự báo sau về tình hình kinh doanh quý 1/N của công ty: Tiền bán hàng mỗi tháng $896000, khách hàng thanh toán ngay 75%, còn lại trả muộn 1 tháng; tiền mua vật tư mỗi tháng $491000, doanh nghiệp thanh toán ngay cho nhà cung cấp 60%, còn lại trả muộn 2 tháng. Các khoản xuất quỹ khác mỗi tháng $45000. Ngoài ra doanh nghiệp không có khoản nhập quỹ hay xuất quỹ nào khác. Hãy dự báo chênh lệch thu-chi cho các tháng trong quý 1/N của AG?",
+    "answer": "Tháng 1: $332400, tháng 2: $556400, tháng 3: $360000"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Năm N, công ty Phương Đông có doanh thu thuần là 2,5 tỷ VND, tổng chi phí là 1,2 tỷ VND và chịu thuế suất thuế thu nhập doanh nghiệp là 22%. Công ty dự kiến năm N+1, doanh thu thuần sẽ tăng trưởng 10% trong khi tổng chi phí sẽ tăng 8% và thuế suất thuế thu nhập doanh nghiệp sẽ giảm xuống 20%. Hỏi lợi nhuận sau thuế dự kiến trong năm N+1 của công ty sẽ tăng bao nhiêu so với năm N?",
+    "answer": "0,1492 tỷ VND"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty AL có dự trữ tiền mặt là 120 triệu VND và bắt đầu kinh doanh. Tình hình kinh doanh quý 1/N của công ty được dự báo như sau: Tiền bán hàng mỗi tháng 450 triệu VND, trong đó công ty thu ngay một phần, phần còn lại cho phép khách hàng trả muộn 1 tháng. Tiền mua vật tư mỗi tháng bằng 60% tiền bán hàng trong tháng, trong đó doanh nghiệp thanh toán ngay một phần cho nhà cung cấp, phần còn lại trả muộn 1 tháng. Các khoản chi khác mỗi tháng 50 triệu VND. Cuối tháng 3 công ty có nhập quỹ 90 triệu VND từ hoạt động kinh doanh khác. Giả sử công ty yêu cầu mức dự trữ tiền mặt tối thiểu cuối quý là 250 triệu VND. Hỏi công ty phải lựa chọn phương án thu tiền bán hàng và trả tiền mua vật tư mỗi tháng như thế nào trong các phương án sau để đạt thặng dư ngân quỹ cuối quý 1/N là 422 triệu VND?",
+    "answer": "Thu ngay 80% tiền bán hàng, trả ngay 40% tiền mua vật tư trong tháng"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Việc lập kế hoạch và dự báo lợi nhuận kế toán của doanh nghiệp KHÔNG bao gồm nội dung nào sau đây?",
+    "answer": "Dự báo tỷ lệ thanh toán ngay tiền mua hàng của khách hang"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Công ty X có doanh thu năm 2014 là $300000. Công ty dự báo tỷ lệ tăng trưởng doanh thu trong 5 năm tới sẽ ổn định ở mức 5%/năm. Hỏi doanh thu dự kiến năm 2017 của công ty là bao nhiêu?",
+    "answer": "Khoảng $347000"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Năm ngoái, công ty J có doanh thu là 800000 USD và tổng chi phí là 550000 USD. Công ty dự báo trong năm nay doanh thu sẽ tăng 7,5%. Giả định tỷ lệ chi phí / doanh thu không đổi, hỏi năm nay công ty dự kiến sẽ đạt lợi nhuận sau thuế bằng bao nhiêu? (Cho thuế suất thuế thu nhập doanh nghiệp bằng 28%).",
+    "answer": "193500 USD"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Doanh nghiệp Price sẽ sản xuất và tiêu thụ 55000 thiết bị máy vào năm tới. Chi phí hoạt động biến đổi bằng 40% doanh thu bán hàng, còn chi phí hoạt động cố định là $110000. Hỏi doanh nghiệp phải bán mỗi thiết bị máy với giá bao nhiêu để đạt được lợi nhuận trước thuế và lãi vay (EBIT) là $95000?",
+    "answer": "$6,21"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty KC bắt đầu kinh doanh. Công ty dự kiến trong trường hợp khả quan nhất, mỗi tháng công ty sẽ tiêu thụ được 1000 đơn vị sản phẩm, 80% tiền bán hàng mỗi tháng sẽ được thu ngay trong tháng, phần còn lại thu muộn 1 tháng. Ngược lại, trong trường hợp xấu nhất, mỗi tháng công ty sẽ chỉ tiêu thụ được 300 đơn vị sản phẩm, 50% tiền bán hàng mỗi tháng sẽ được thu ngay trong tháng, phần còn lại thu muộn 2 tháng. Giả sử giá bán mỗi đơn vị sản phẩm là $45. Hãy xác định chênh lệch nhập quỹ tiền bán hàng dự kiến giữa trường hợp khả quan nhất với trường hợp xấu nhất của KC trong quý 1/N?",
+    "answer": "$99000"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Công ty WH dự báo doanh thu cho năm 2015 là $3720000. Theo kinh nghiệm của các nhà lập kế hoạch tài chính, giá trị khoản phải thu bình quân đại diện cho 45 ngày doanh thu của công ty. Giả định giá trị khoản phải thu ở cuối năm bằng phải thu bình quân của năm, hãy xác định giá trị khoản phải thu dự kiến ở thời điểm 31/12/2015 của công ty? (Quy ước 1 năm = 360 ngày)",
+    "answer": "$465000"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Phương án kế hoạch kinh doanh nào sau đây được thiết kế nhằm tối thiểu hóa vốn đầu tư yêu cầu?",
+    "answer": "Kế hoạch cắt giảm"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Công ty V dự kiến trong tháng sắp tới sẽ có nhập quỹ 760 triệu VND từ bán hàng và cung cấp dịch vụ, đồng thời xuất quỹ 500 triệu VND để trang trải các chi phí và nộp thuế. Ngoài ra công ty không có các khoản thu hay chi nào khác. Công ty yêu cầu mức dự trữ tiền mặt tối thiểu cuối mỗi tháng là 200 triệu VND để đảm bảo thanh khoản. Biết số dư tiền mặt cuối tháng này của V là 280 triệu VND. Nhận định nào sau đây về tình trạng ngân quỹ dự kiến ở thời điểm cuối tháng tới của V là chính xác?",
+    "answer": "Công ty sẽ có thặng dư ngân quỹ 340 triệu VND"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Năm N-1, công ty Y có doanh thu là $1500000, phát sinh chi phí giá vốn hàng bán là $810000, chi phí hoạt động là $126000, chi phí lãi vay là $15000. Công ty dự báo trong năm N sẽ đạt mức doanh thu là $1820000, tỷ trọng các loại chi phí / doanh thu không đổi so với năm N-1. Hãy xác định lợi nhuận sau thuế dự kiến của công ty trong năm N? Cho thuế suất thuế thu nhập doanh nghiệp là 40%.",
+    "answer": "$399672"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Công ty A cần huy động 200 triệu đồng cho một dự án mới và đang xét hai phương án: một, sử dụng 100 triệu đồng từ lơị nhuận giữ lại từ kỳ trước và 100 triệu đồng vay ngân hàng với lãi suất 15%/năm; hai, sử dụng toàn bộ 200 triệu đồng từ lợi nhuận giữ lại và không cần sử dụng vốn vay. Thuế thu nhập doanh nghiệp là 20%.",
+    "answer": "3 triệu đồng."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Công ty Youth có nhu cầu sử dụng nguyên vật liệu thô trong năm là 1.800 đơn vị. Để đảm bảo cho sự ổn định của sản xuất, công ty tiến hành duy trì 1 lượng nguyên vật liệu dự trữ an toàn là 80 đơn vị. Công ty hiện đang sử dụng mô hình EOQ để quản lý việc mua sắm và dự trữ loại nguyên vật liệu thô nói trên. Biết: 1 năm có 360 ngày và thời gian giao hàng là 5 ngày. Hãy xác định điểm đặt hàng lại cho công ty.",
+    "answer": "105 đơn vị."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Những tình huống nào sau đây sẽ khuyến khích các doanh nghiệp tăng nợ vay trong cơ cấu vốn",
+    "answer": "Thuế thu nhập doanh nghiệp tăng lên"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Một doanh nghiệp duy trì một tài khoản riêng biệt cho việc thanh toán bằng tiền mặt. Tổng số tiền thanh toán là 100 triệu đồng/tháng và đều đặn trong suốt các tháng. Các chi phí hành chính và giao dịch của việc chuyển tiền đến tài khoản thanh toán này là 100.000 đồng mỗi lần chuyển. Các chứng khoán thanh khoản trên thị trường có lãi suất 12%/năm. Anh (chị) hãy tư vấn cho doanh nghiệp này về số lần chuyển tiền tối ưu trong năm.",
+    "answer": "27 lần."
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Một danh mục đầu tư gồm 2 tài sản A và B. Để xác định doanh lợi kỳ vọng của danh mục này, cần biết những đại lượng nào sau đây?",
+    "answer": "Doanh lợi kỳ vọng và trọng số của A và B."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Công ty A dự định vay tiền ngân hàng với lãi suất 16% ghi trên hợp đồng vay vốn. Xác định chi phí nợ vay sau thuế và phần tiết kiệm thuế, biết thuế suất thuế TNDN là 20%.",
+    "answer": "12,8% và 3,2%"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Nội dung của mệnh để I của M&M về giá trị công ty trong trường hợp không có thuế",
+    "answer": "Giá trị công ty có vay nợ bằng giá trị công ty không có vay nợ"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Công ty G dự kiến lợi nhuận/cổ phiếu trong năm nay là $3,5. Công ty đã dự tính tỷ lệ chi trả cổ tức là 40%, tỷ lệ tăng trưởng cổ tức kỳ vọng của công ty là 4%, và hiện tại cổ phiếu thường mới của công ty được bán với giá $40/cổ phiếu. Cổ phiếu thường mới của công ty có thể được phát hành ra công chúng ở mức giá hiện tại, nhưng công ty phài chịu chi phí phát hành/cổ phiếu là 10%. Hỏi chi phí cổ phiếu thường mới của công ty là bao nhiêu?",
+    "answer": "7,89%"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Theo mô hình EOQ, trong điều kiện các yếu tố khác không đổi, nếu chi phí 1 lần đặt hàng và chi phí lưu kho 1 đơn vị hàng hóa trong kỳ cùng tăng lên gấp hai lần thì lượng hàng hóa tối ưu mỗi lần cung ứng sẽ thay đổi như thế nào?",
+    "answer": "Không đổi."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Công ty C có các số liệu sau: Cơ cấu vốn mục tiêu: 40% nợ, 10% cổ phiếu ưu đãi, và 50% cổ phiếu thường. Chi phí nợ sau thuế là 8%, chi phí cổ phiếu ưu đãi là 13% và chi phí lợi nhuận giữ lại là 15,5%. Công ty sẽ không phát hành thêm cổ phiếu thường mới. Hỏi chi phí trung bình của vốn của công ty là bao nhiêu?",
+    "answer": "12,25%"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Nhận định nào sau đây là SAI về thiệt hại khi tích trữ tiền mặt/tiền gửi thanh toán?",
+    "answer": "Giảm tính thanh khoản của DN"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Công ty C có các số liệu sau: RF = 5,0%; RM = 11,0%; beta = 1,1. Dựa vào mô hình CAPM, hãy tính chi phí lợi nhuận không chia?",
+    "answer": "11,6%"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Doanh nghiệp ABC có nhu cầu sử dụng nguyên vật liệu trong năm là 5.800 đơn vị, chi phí mỗi lần đặt hàng là 3 triệu đồng, chi phí lưu kho trên 1 đơn vị nguyên vật liệu trong 1 năm là 1,5 triệu đồng. Anh (chị) hãy áp dụng mô hình EOQ để xác định tổng chi phí đặt hàng tối ưu trong năm cho doanh nghiệp.",
+    "answer": "114 triệu đồng."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Một danh mục đầu tư có tổng giá trị là 200 triệu VND, trong đó có 80 triệu được đầu tư vào tài sản A và phần còn lại đầu tư vào tài sản B. Trong tình trạng kinh tế hưng thịnh, cổ phiếu A có doanh lợi kỳ vọng là 12%, cổ phiếu B là 16%. Trong tình trạng kinh tế suy thoái, cổ phiếu A có doanh lợi kỳ vọng là 1%, cổ phiếu B là -5%. Biết phương sai của danh mục là 60,69 (%2). Hỏi xác suất xảy ra tình trạng kinh tế hưng thịnh và suy thoái lần lượt là bao nhiêu? (Chú ý xác suất của tình trạng kinh tế hưng thịnh cao hơn tình trạng kinh tế suy thoái).",
+    "answer": "Xác suất tình trạng kinh tế hưng thịnh: 0,70; suy thoái: 0,30."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Một cách xác định nhanh chi phí vốn cổ phiếu thường của doanh nghiệp là:",
+    "answer": "cộng 4% phần bù rủi ro vào chi phí nợ vay trước thuế của doanh nghiệp."
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Công ty DC dự báo trong năm tới sẽ đạt doanh thu là $1854000. Giá vốn hàng bán năm tới dự kiến bao gồm chi phí cố định là $743500 và chi phí biến đổi bằng 20% doanh thu. Chi phí hoạt động năm tới dự kiến bao gồm chi phí cố định là $75000 và chi phí biến đổi bằng 10% doanh thu. Chi phí lãi vay dự kiến năm tới là $2500. Công ty chịu thuế suất thuế thu nhập doanh nghiệp là 15%. Hãy xác định lợi nhuận sau thuế dự kiến năm tới của công ty?",
+    "answer": "$405280"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Nội dung của mệnh đề M&M I trong trường hợp có thuế",
+    "answer": "Giá trị công ty có vay nợ bằng với giá trị công ty không có vay nợ cộng với hiện giá của lá chắn thuế"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Ngày 1/1/N, công ty Kim Liên có 9,84 tỷ VND tiền mặt. Công ty dự báo trong quý I/N sẽ có tổng nhập quỹ là 3,15 tỷ VND và xuất quỹ là 1,64 tỷ VND. Nhà lập kế hoạch tài chính của công ty dự báo ở thời điểm cuối quý I/N, công ty sẽ có thặng dư ngân quỹ là 5,63 tỷ VND. Hãy xác định mức dự trữ tiền mặt tối thiểu mà công ty dự kiến yêu cầu ở thời điểm cuối quý I/N?",
+    "answer": "5,72 tỷ VND"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Một danh mục đầu tư gồm 2 cổ phiếu là A (E(RA) = 16%) và B (E(RB) = 12%) với tổng số vốn đầu tư là 250 triệu VND. Biết danh mục này có doanh lợi kỳ vọng là 14,6%. Giả sử người nắm giữ danh mục đi vay thêm 100 triệu VND ở mức lãi suất phi rủi ro 5%, rồi dùng 60 triệu trong khoản vay đó để đầu tư thêm vào A và 40 triệu còn lại đầu tư thêm vào B, thì doanh lợi kỳ vọng mới của danh mục sẽ bằng bao nhiêu?",
+    "answer": "18,36%"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Cổ phiếu X có hệ số beta là 1,3. Hỏi nếu lãi suất phi rủi ro trên thị trường tăng 1% và tỷ lệ sinh lợi bình quân trên thị trường tăng 3% thì tỷ lệ sinh lợi kỳ vọng của cổ phiếu X sẽ thay đổi như thế nào?",
+    "answer": "Tăng 3,6%"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Doanh nghiệp A đang cân nhắc trong năm tới sẽ huy động vốn theo phương thức nào: Phát hành cổ phiếu, phát hành trái phiếu hay giữ lại lợi nhuận, hay kết hợp các phương thức nêu trên. Những vấn đề trên thuộc phương diện nào trong kế hoạch hóa tài chính của doanh nghiệp A?",
+    "answer": "Lập kế hoạch nguồn vốn"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Công ty TJF sử dụng mô hình Miller-Orr xác định được số dư tiền tối thiểu là 23 tỷ đồng và số dư tối đa bằng 161 tỷ đồng. Hãy tính lượng tiền mặt tối ưu của công ty? Nếu hiện tại số dư ngân quỹ của công ty đang là 15 tỷ đồng, công ty có cần áp dụng biện pháp điều chỉnh ngân quỹ nào không, nếu có thì như thế nào?",
+    "answer": "M* = 69 tỷ đồng. Số dư ngân quỹ hiện tại đã nhỏ hơn Mmin, tạo nên trạng thái thâm hụt nên công ty cần bán chứng khoán hoặc rút tiền tiết kiệm với số tiền: 69 – 15 = 54 tỷ đồng."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Một công ty không sử dụng đòn bẩy tài chính có:",
+    "answer": "Toàn bộ là vốn cổ phần trong cơ cấu vốn"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Phương án kế hoạch kinh doanh nào sau đây được thiết kế nhằm tối thiểu hóa vốn đầu tư yêu cầu?",
+    "answer": "Kế hoạch cắt giảm"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Đầu năm 2014, thị giá của cổ phiếu A và B lần lượt là $20/cổ phiếu và $35/cổ phiếu. Trong năm 2014, cổ phiếu A trả cổ tức là $1,5/cổ phiếu, cổ phiếu B trả cổ tức là $1,8/cổ phiếu. Cuối năm 2014, thị giá của cổ phiếu A và B lần lượt là $28/cổ phiếu và $47,5/cổ phiếu. Hỏi doanh lợi của cổ phiếu B năm 2014 chênh lệch như thế nào với cổ phiếu A?",
+    "answer": "Thấp hơn 6,64%."
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Cần chú ý gì khi xác định thành phần chi phí nợ vay trong chi phí vốn trung bình của doanh nghiệp?",
+    "answer": "Sử dụng chi phí nợ vay sau thuế của doanh nghiệp."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Công ty Danila sử dụng mô hình Baumol để quản lý tiền mặt. Tổng nhu cầu tiền mặt trong năm của công ty là 5 tỷ đồng. Chi phí giao dịch mà công ty phải chịu mỗi khi bán chứng khoán ngắn hạn là 300.000 đồng. Biết mức ngân quỹ tối ưu xác định được là 200 triệu đồng, hỏi lãi suất hàng năm của các loại chứng khoán ngắn hạn có tính thanh khoản cao là bao nhiêu?",
+    "answer": "7,5%/năm"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Phòng kế hoạch – tài chính của công ty May Sông Hồng sử dụng mô hình của Miller-Orr để xác định số dư tiền mặt tối ưu là 180 tỷ đồng và tối đa là 220 tỷ đồng. Hãy xác định số dư tiền mặt tối thiểu của công ty Sông Hồng?",
+    "answer": "160 tỷ đồng."
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Cổ phiếu A có doanh lợi kỳ vọng là 17,5%. Một người quyết định đầu tư vào A với tổng số tiền là $100000, trong đó có một phần là vốn của riêng anh ta, phần còn lại là vốn vay ở lãi suất phi rủi ro bằng 6%. Khoản đầu tư này dự kiến sẽ đem lại doanh lợi là 20,375% cho nhà đầu tư. Hãy xác định quy mô của khoản vốn vay trong tổng số tiền $100000 đầu tư vào A nêu trên?",
+    "answer": "20000 USD"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Công ty Thanh Vân có tổng tài sản là 300 triệu $. Hiện tại công ty không sử dụng nợ. Suất sinh lời cơ bản (BEP = EBIT/Tổng TS) của công ty là 15%. Công ty đang dự tính tái cơ cấu vốn, cụ thể là sẽ phát hành nợ với tỷ trọng là 10% và lãi suất là 10%, đồng thời sử dụng tiền thu được để mua lại cổ phiếu thường của công ty. Nếu công ty tiến hành tái cơ cấu vốn thì thu nhập từ hoạt động kinh doanh, tổng tài sản và thuế suất của công ty vẫn giữ nguyên như trước. Điều nào sau đây xảy ra như là kết quả của việc tái cơ cấu vốn?",
+    "answer": "ROE của công ty sẽ tăng"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Cổ phiếu A hiện có hệ số beta bằng 0,8 và lợi nhuận kỳ vọng là 10%. Cổ phiếu B hiện có hệ số beta bằng 1,1 và lợi nhuận kỳ vọng là 14,5%. Biết lãi suất phi rủi ro là 5% và phần bù rủi ro bình quân trên thị trường là 8%. Trong thị trường đầu tư hiệu quả (cạnh tranh hoàn hảo), thị giá của cổ phiếu A và B sẽ có xu hướng thay đổi như thế nào?",
+    "answer": "Thị giá của A giảm, của B tăng."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Một danh mục đầu tư với tổng giá trị 150 triệu VND bao gồm 3 cổ phiếu là A (β = -0,2; E(R) = 4%), B (β = 0,8; E(R) = 11,5%) và C (β = 1,5; E(R) = 17,6%). Biết beta của danh mục là 0,91 và doanh lợi kỳ vọng của danh mục là 12,58%. Hỏi số vốn đầu tư vào các cổ phiếu A, B và C lần lượt là bao nhiêu?",
+    "answer": "15 triệu, 90 triệu và 45 triệu"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Cổ phiếu A có hệ số beta bằng 0,8 và độ lệch chuẩn doanh lợi bằng 11,87%. Cổ phiếu B có hệ số beta bằng 1,1 và độ lệch chuẩn doanh lợi bằng 9,32%. Nhận định nào sau đây là chính xác?",
+    "answer": "Cổ phiếu A có rủi ro hệ thống thấp hơn B nhưng rủi ro phi hệ thống cao hơn B."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Bạn đang nắm giữ một danh mục gồm 20 cổ phiếu khác nhau với số vốn đầu tư cho mỗi cổ phiếu là $10000. Hệ số beta của danh mục này là 1,2. Bạn quyết định bán 1 cổ phiếu có beta bằng 0,7 lấy $10000 để mua 1 cổ phiếu khác có beta bằng 1,4. Hãy tính beta của danh mục mới?",
+    "answer": "1,235"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 cổ phiếu X và Y. Trong tình trạng kinh tế hưng thịnh, cổ phiếu X có doanh lợi kỳ vọng là 15%, Y có doanh lợi kỳ vọng là -4%. Trong tình trạng kinh tế suy thoái, cổ phiếu X có doanh lợi kỳ vọng là -2%, Y có doanh lợi kỳ vọng là 20%. Hãy xác định trọng số của X và Y trong danh mục để đảm bảo doanh lợi kỳ vọng của danh mục là như nhau trong cả 2 tình trạng kinh tế nêu trên?",
+    "answer": "wx = 0,5854; wy = 0,4146"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Trong tình trạng nền kinh tế như thế nào thì tỷ lệ sinh lợi kỳ vọng của các cổ phiếu có beta âm nhiều khả năng sẽ tăng?",
+    "answer": "Suy thoái"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Đầu năm 2014, thị giá của cổ phiếu A và B lần lượt là $20/cổ phiếu và $35/cổ phiếu. Trong năm 2014, cổ phiếu A trả cổ tức là $1,5/cổ phiếu, cổ phiếu B trả cổ tức là $1,8/cổ phiếu. Cuối năm 2014, thị giá của cổ phiếu A và B lần lượt là $28/cổ phiếu và $47,5/cổ phiếu. Hỏi doanh lợi của cổ phiếu B năm 2014 chênh lệch như thế nào với cổ phiếu A?",
+    "answer": "Thấp hơn 6,64%."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Một nhà đầu tư có số vốn là 250 triệu VND và hiện đang sử dụng 100% số vốn này để đầu tư vào cổ phiếu VCB. Hỏi nếu người này muốn nâng tỷ lệ đầu tư vào cổ phiếu VCB lên 120% thì cần đi vay thêm một khoản vốn bằng bao nhiêu?",
+    "answer": "50 triệu"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 cổ phiếu là A (E(RA) = 16%) và B (E(RB) = 12%) với tổng số vốn đầu tư là 250 triệu VND. Biết danh mục này có doanh lợi kỳ vọng là 14,6%. Giả sử người nắm giữ danh mục đi vay thêm 100 triệu VND ở mức lãi suất phi rủi ro 5%, rồi dùng 60 triệu trong khoản vay đó để đầu tư thêm vào A và 40 triệu còn lại đầu tư thêm vào B, thì doanh lợi kỳ vọng mới của danh mục sẽ bằng bao nhiêu?",
+    "answer": "18,36%"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Nhận định nào sau đây là chính xác về tài sản đầu tư phi rủi ro?",
+    "answer": "Tài sản phi rủi ro không có cả rủi ro hệ thống và rủi ro phi hệ thống."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 cổ phiếu A và B với tỷ lệ đầu tư bằng nhau. Trong tình trạng kinh tế hưng thịnh, 2 cổ phiếu này có doanh lợi kỳ vọng lần lượt là E(RA) = 0,12 và E(RB) = -0,02. Trong tình trạng kinh tế suy thoái, 2 cổ phiếu này có doanh lợi kỳ vọng lần lượt là E(RA) = -0,05 và E(RB) = 0,1. Biết xác suất xảy ra 2 tình trạng kinh tế nêu trên là như nhau. Giả định tổng số vốn đầu tư vào danh mục là không đổi. Nhận định nào sau đây là chính xác?",
+    "answer": "Nếu tăng tỷ lệ đầu tư vào A thì phương sai của danh mục sẽ tăng."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 cổ phiếu A và B, với tổng vốn là $100000 được chia đều cho 2 cổ phiếu. Trong tình trạng kinh tế hưng thịnh (xác suất 0,5), cổ phiếu A có tỷ lệ sinh lợi kỳ vọng là 12%, cổ phiếu B là -2%. Trong tình trạng kinh tế suy thoái (xác suất 0,5), cổ phiếu A có tỷ lệ sinh lợi kỳ vọng là -4%, cổ phiếu B là 10%. Người nắm giữ danh mục này đang cân nhắc việc mở rộng danh mục bằng cách bổ sung vào danh mục cổ phiếu C với số vốn đầu tư là 50000 (số vốn đầu tư vào A và B không đổi). Cổ phiếu C có tỷ lệ sinh lợi kỳ vọng là 20% trong tình trạng kinh tế hưng thịnh và -9% trong tình trạng kinh tế suy thoái. Hỏi nếu cổ phiếu C được bổ sung vào danh mục thì doanh lợi kỳ vọng bình quân và độ lệch chuẩn của danh mục sẽ thay đổi như thế nào?",
+    "answer": "Doanh lợi kỳ vọng bình quân tăng 0,5%; độ lệch chuẩn tăng 4,5%."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Một nhà đầu tư có tổng số vốn là 300 triệu và sử dụng số vốn này đầu tư vào 4 cổ phiếu là A, B, C và D. Biết trong tình trạng kinh tế hưng thịnh (xác suất xảy ra bằng 0,2), các cổ phiếu A, B, C và D có doanh lợi kỳ vọng lần lượt là 18%, 12%, -3% và 5%; trong tình trạng kinh tế ổn định (xác suất xảy ra bằng 0,6), các cổ phiếu trên có doanh lợi kỳ vọng lần lượt là 5%, 4%, 2% và 3%; trong tình trạng kinh tế suy thoái (xác suất xảy ra bằng 0,2), các cổ phiếu trên có doanh lợi kỳ vọng lần lượt là -10%, -2%, 16% và 0%. Biết doanh lợi kỳ vọng của danh mục trong các tình trạng kinh tế hưng thịnh, ổn định và suy thoái lần lượt là 9,55%; 3,7% và -0,5%. Hỏi người này đã đầu tư số vốn vào A, B, C và D lần lượt là bao nhiêu?",
+    "answer": "60 triệu, 135 triệu, 45 triệu và 60 triệu."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 tài sản A và B. Để xác định doanh lợi kỳ vọng của danh mục này, cần biết những đại lượng nào sau đây?",
+    "answer": "Doanh lợi kỳ vọng và trọng số của A và B."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Cổ phiếu G và H có hệ số beta lần lượt là 0,5 và 1,2. Hãy tính chênh lệch tỷ lệ sinh lợi kỳ vọng giữa 2 cổ phiếu này biết tỷ lệ sinh lợi bình quân và lãi suất phi rủi ro trên thị trường lần lượt bằng 14% và 5%?",
+    "answer": "6,3%"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Một nhà đầu tư đang cân nhắc lựa chọn đầu tư vào 1 trong 3 cổ phiếu A, B hoặc C. Biết doanh lợi kỳ vọng của A bằng B và bằng 12%, của C bằng 10%. Mặt khác, độ lệch chuẩn của A bằng 11%, của B và C bằng nhau và bằng 8%. Vậy nhà đầu tư nên lựa chọn cổ phiếu nào?",
+    "answer": "Cổ phiếu B"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Điều nào sau đây là chính xác về nguyên lý của đa dạng hóa?",
+    "answer": "Đa dạng hóa có thể loại trừ một phần rủi ro của danh mục đầu tư."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Loại rủi ro nào sau đây có thể loại trừ bằng đa dạng hóa danh mục đầu tư?",
+    "answer": "Rủi ro do nhà quản lý doanh nghiệp ra quyết định sai lầm"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Một nhà đầu tư đang nắm giữ một danh mục gồm 10 cổ phiếu với số vốn đầu tư vào mỗi cổ phiếu là $1000. Danh mục này có hệ số beta bằng 1,5. Nhà đầu tư muốn giảm hệ số beta của danh mục xuống 1,2 mà không làm thay đổi tổng số vốn đầu tư vào danh mục. Biện pháp nào sau đây có thể giúp nhà đầu tư đạt được mục tiêu này?",
+    "answer": "Bán 1 cổ phiếu beta bằng 2,2 và 1 cổ phiếu beta bằng 1,8; sử dụng số tiền thu được để mua 1 cổ phiếu beta bằng 0,5."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Hãy xác định hệ số beta của cổ phiếu I biết nếu tỷ lệ sinh lợi bình quân trị thường đầu tư tăng 2%, đồng thời lãi suất phi rủi ro giảm 1% thì tỷ lệ sinh lợi kỳ vọng của cổ phiếu I sẽ tăng 1,25%?",
+    "answer": "0,75"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "A và B là 2 tài sản đầu tư nằm vào đường thị trường chứng khoán (SML). Biết tỷ lệ sinh lợi kỳ vọng của A và B lần lượt là 10,4% và 15,8%; hệ số beta của A và B lần lượt là 0,6 và 1,2. Hãy xác định phương trình của đường thị trường chứng khoán?",
+    "answer": "E(Ri) = βi x 9% + 5%"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Cho các cổ phiếu A, B, C và D với hệ số beta lần lượt là 0,7; 1,2; 0,3 và 1,6; tỷ lệ sinh lợi kỳ vọng lần lượt là 9,2%; 16,4%; 7,4% và 17,8%. Biết trong số 4 cổ phiếu trên có 2 cổ phiếu nằm vào đường thị trường chứng khoán (SML), 2 cổ phiếu còn lại nằm ngoài SML. Hãy xác định vị trí của các cổ phiếu này trên đồ thị của SML? Biết lãi suất phi rủi ro bằng 5%.",
+    "answer": "A nằm phía dưới SML, B nằm phía trên SML, C và D nằm vào SML."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Một nhà đầu tư xây dựng danh mục gồm 2 cổ phiếu T và U với số vốn đầu tư vào T là 120 triệu và U là 40 triệu. Trong tình trạng kinh tế hưng thịnh, doanh lợi kỳ vọng của T và U lần lượt là 14% và 12%. Trong tình trạng kinh tế suy thoái, doanh lợi kỳ vọng của T và U lần lượt là -5% và -3%. Biết doanh lợi kỳ vọng bình quân của danh mục là 5,4%. Hỏi xác suất xảy ra tình trạng kinh tế hưng thịnh và suy thoái lần lượt là bao nhiêu?",
+    "answer": "Xác suất tình trạng kinh tế hưng thịnh: 0,55; suy thoái: 0,45."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Hai cổ phiếu X và Y có hệ số beta bằng nhau nhưng cổ phiếu X nằm ở phía trên đường thị trường chứng khoán (SML) còn Y nằm dưới SML. Nhận định nào sau đây là chính xác?",
+    "answer": "Tỷ lệ sinh lợi của X cao hơn Y."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 cổ phiếu A và B với trọng số lần lượt là 0,6 và 0,4. Biết doanh lợi mà cổ phiếu A đem lại cho nhà đầu tư trong 5 năm gần đây nhất lần lượt là -12%, 8%, 11%, 5% và 9%. Doanh lợi mà cổ phiếu B đem lại cho nhà đầu tư trong 5 năm gần đây nhất lần lượt là -14%, 10%, 13%, 9% và 7%. Hãy xác định doanh lợi bình quân của danh mục này trong 5 năm gần đây nhất?",
+    "answer": "4,52%"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Bạn đang nắm giữ một danh mục đa dạng hóa với tỷ lệ sinh lợi kỳ vọng 12%, hệ số beta 1,2 và tổng vốn đầu tư $9000. Bạn dự định mở rộng danh mục bằng cách mua thêm 100 cổ phiếu công ty X với giá $10/cổ phiếu. Cổ phiếu X có tỷ lệ sinh lợi kỳ vọng 20% và beta bằng 2,0. Sau khi mua thêm cổ phiếu này, tỷ lệ sinh lợi kỳ vọng và hệ số beta của danh mục mới bằng bao nhiêu?",
+    "answer": "E(Rp) = 12,8%; βp = 1,28."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Cổ phiếu T có doanh lợi trong 3 năm gần đây nhất là 0,05; 0,11 và 0,16. Cổ phiếu U có doanh lợi trong 3 năm gần đây nhất là -0,03; 0,17 và 0,21. Hãy tính chênh lệch phương sai của doanh lợi theo thời gian của U so với T?",
+    "answer": "0,0135"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Khi số lượng tài sản đầu tư trong một danh mục ngày càng tăng thì phương sai của danh mục đó sẽ thay đổi như thế nào?",
+    "answer": "Giảm ngày càng chậm"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "“Doanh lợi được điều chỉnh theo tỷ lệ lạm phát” còn được gọi là gì?",
+    "answer": "Doanh lợi thực tế"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Cổ phiếu X có hệ số beta là 1,3. Hỏi nếu lãi suất phi rủi ro trên thị trường tăng 1% và tỷ lệ sinh lợi bình quân trên thị trường tăng 3% thì tỷ lệ sinh lợi kỳ vọng của cổ phiếu X sẽ thay đổi như thế nào?",
+    "answer": "Tăng 3,6%"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Tài sản đầu tư Z có mức doanh lợi danh nghĩa là 20%. Biết tỷ lệ lạm phát là 8%. Hãy xác định doanh lợi thực tế của Z?",
+    "answer": "11,11%"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Loại tài sản đầu tư nào sau đây thường có tỷ lệ sinh lợi kỳ vọng cao nhất?",
+    "answer": "Cổ phiếu thường"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Cổ phiếu T có mức doanh lợi kỳ vọng là 10,3%. Hãy xác định hệ số beta của cổ phiếu này biết nếu lãi suất phi rủi ro tăng 2% và doanh lợi bình quân trên thị trường tăng 4% thì doanh lợi kỳ vọng của T sẽ tăng lên 15,7%?",
+    "answer": "1,7"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Một danh mục đầu tư có tổng giá trị là 200 triệu VND, trong đó có 80 triệu được đầu tư vào tài sản A và phần còn lại đầu tư vào tài sản B. Trong tình trạng kinh tế hưng thịnh, cổ phiếu A có doanh lợi kỳ vọng là 12%, cổ phiếu B là 16%. Trong tình trạng kinh tế suy thoái, cổ phiếu A có doanh lợi kỳ vọng là 1%, cổ phiếu B là -5%. Biết phương sai của danh mục là 60,69 (%2). Hỏi xác suất xảy ra tình trạng kinh tế hưng thịnh và suy thoái lần lượt là bao nhiêu? (Chú ý xác suất của tình trạng kinh tế hưng thịnh cao hơn tình trạng kinh tế suy thoái).",
+    "answer": "Xác suất tình trạng kinh tế hưng thịnh: 0,70; suy thoái: 0,30."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Cổ phiếu A có doanh lợi kỳ vọng là 17,5%. Một người quyết định đầu tư vào A với tổng số tiền là $100000, trong đó có một phần là vốn của riêng anh ta, phần còn lại là vốn vay ở lãi suất phi rủi ro bằng 6%. Khoản đầu tư này dự kiến sẽ đem lại doanh lợi là 20,375% cho nhà đầu tư. Hãy xác định quy mô của khoản vốn vay trong tổng số tiền $100000 đầu tư vào A nêu trên?",
+    "answer": "20000 USD"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Cho 4 cổ phiếu A, B, C và D với doanh lợi kỳ vọng lần lượt là 11,9%; 18,5%; 20% và 16,2%. Biết A, B, C và D có hệ số beta lần lượt bằng 1,5; 2,5; 3,0 và 3,5. Hãy sắp xếp các cố phiếu trên theo thứ tự mức bù đắp rủi ro cho 1 đơn vị rủi ro có hệ thống giảm dần, biết lãi suất phi rủi ro bằng 5%.",
+    "answer": "B, C, A, D."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Một nhà đầu tư hiện đang nắm giữ một danh mục có tổng giá trị $20000, trong đó có $12000 được đầu tư vào cổ phiếu A và phần còn lại đầu tư vào cổ phiếu B. Biết βA = 1,2; βB = 0,3; E(RA) = 12%; E(RB) = 6%. Người này đang cân nhắc việc mở rộng danh mục bằng cách đầu tư thêm $5000 vào một cổ phiếu C mà anh ta ưa thích (số vốn đầu tư vào A và B không đổi). Biết nếu người này đầu tư thêm vào C theo phương án trên thì danh mục mới sẽ có beta bằng 0,962 và doanh lợi kỳ vọng bằng 10,68%. Hãy xác định beta và doanh lợi kỳ vọng của cổ phiếu C?",
+    "answer": "βC = 1,45; E(RC) = 15,00%."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Cổ phiếu X có hệ số beta là 0,6 và tỷ lệ sinh lợi kỳ vọng là 9,5%. Cổ phiếu Y có hệ số beta là 1,4 và tỷ lệ sinh lợi kỳ vọng là 15,5%. 2 cổ phiếu này đều nằm vào đường thị trường chứng khoán (SML). Dựa vào những thông tin trên hãy xác định lợi suất kỳ vọng của tài sản phi rủi ro trên thị trường?",
+    "answer": "5%"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Cổ phiếu A có các mức tỷ lệ sinh lợi kỳ vọng ứng với mỗi tình trạng kinh tế như nhau: Tình trạng kinh tế bùng nổ (xác suất 0,1): 25%; kinh tế tăng trưởng khá (xác suất 0,2): 10%; kinh tế tăng trưởng trung bình (xác suất 0,4): 5%; kinh tế tăng trưởng dưới trung bình (xác suất 0,2): 0% và kinh tế suy thoái (xác suất 0,1): -15%. So với các cổ phiếu khác có độ lệch chuẩn bình quân là 8%, độ lệch chuẩn của cổ phiếu A chênh lệch bao nhiêu phần trăm?",
+    "answer": "Nhiều hơn xấp xỉ 1,49%"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "A và B là 2 tài sản đầu tư nằm vào đường thị trường chứng khoán (SML). Biết tỷ lệ sinh lợi kỳ vọng của A và B lần lượt là 10,4% và 15,8%; hệ số beta của A và B lần lượt là 0,6 và 1,2. Hãy xác định phương trình của đường thị trường chứng khoán?",
+    "answer": "E(Ri) = βi x 9% + 5%"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Đầu năm 2014, thị giá của cổ phiếu A và B lần lượt là $20/cổ phiếu và $35/cổ phiếu. Trong năm 2014, cổ phiếu A trả cổ tức là $1,5/cổ phiếu, cổ phiếu B trả cổ tức là $1,8/cổ phiếu. Cuối năm 2014, thị giá của cổ phiếu A và B lần lượt là $28/cổ phiếu và $47,5/cổ phiếu. Hỏi doanh lợi của cổ phiếu B năm 2014 chênh lệch như thế nào với cổ phiếu A?",
+    "answer": "Thấp hơn 6,64%."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Một nhà đầu tư đang cân nhắc lựa chọn đầu tư vào 1 trong 3 cổ phiếu A, B hoặc C. Biết doanh lợi kỳ vọng của A bằng B và bằng 12%, của C bằng 10%. Mặt khác, độ lệch chuẩn của A bằng 11%, của B và C bằng nhau và bằng 8%. Vậy nhà đầu tư nên lựa chọn cổ phiếu nào?",
+    "answer": "Cổ phiếu B"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Cho các cổ phiếu A, B, C và D với hệ số beta lần lượt là 0,7; 1,2; 0,3 và 1,6; tỷ lệ sinh lợi kỳ vọng lần lượt là 9,2%; 16,4%; 7,4% và 17,8%. Biết trong số 4 cổ phiếu trên có 2 cổ phiếu nằm vào đường thị trường chứng khoán (SML), 2 cổ phiếu còn lại nằm ngoài SML. Hãy xác định vị trí của các cổ phiếu này trên đồ thị của SML? Biết lãi suất phi rủi ro bằng 5%.",
+    "answer": "A nằm phía dưới SML, B nằm phía trên SML, C và D nằm vào SML."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Cổ phiếu T có doanh lợi trong 3 năm gần đây nhất là 0,05; 0,11 và 0,16. Cổ phiếu U có doanh lợi trong 3 năm gần đây nhất là -0,03; 0,17 và 0,21. Hãy tính chênh lệch phương sai của doanh lợi theo thời gian của U so với T?",
+    "answer": "0,0135"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Hai cổ phiếu X và Y có hệ số beta bằng nhau nhưng cổ phiếu X nằm ở phía trên đường thị trường chứng khoán (SML) còn Y nằm dưới SML. Nhận định nào sau đây là chính xác?",
+    "answer": "Tỷ lệ sinh lợi của X cao hơn Y."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Một danh mục đầu tư có tổng giá trị là 200 triệu VND, trong đó có 80 triệu được đầu tư vào tài sản A và phần còn lại đầu tư vào tài sản B. Trong tình trạng kinh tế hưng thịnh, cổ phiếu A có doanh lợi kỳ vọng là 12%, cổ phiếu B là 16%. Trong tình trạng kinh tế suy thoái, cổ phiếu A có doanh lợi kỳ vọng là 1%, cổ phiếu B là -5%. Biết phương sai của danh mục là 60,69 (%2). Hỏi xác suất xảy ra tình trạng kinh tế hưng thịnh và suy thoái lần lượt là bao nhiêu? (Chú ý xác suất của tình trạng kinh tế hưng thịnh cao hơn tình trạng kinh tế suy thoái).",
+    "answer": "Xác suất tình trạng kinh tế hưng thịnh: 0,70; suy thoái: 0,30."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Cổ phiếu X có hệ số beta là 0,6 và tỷ lệ sinh lợi kỳ vọng là 9,5%. Cổ phiếu Y có hệ số beta là 1,4 và tỷ lệ sinh lợi kỳ vọng là 15,5%. 2 cổ phiếu này đều nằm vào đường thị trường chứng khoán (SML). Dựa vào những thông tin trên hãy xác định lợi suất kỳ vọng của tài sản phi rủi ro trên thị trường?",
+    "answer": "5%"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Cổ phiếu A có các mức tỷ lệ sinh lợi kỳ vọng ứng với mỗi tình trạng kinh tế như nhau: Tình trạng kinh tế bùng nổ (xác suất 0,1): 25%; kinh tế tăng trưởng khá (xác suất 0,2): 10%; kinh tế tăng trưởng trung bình (xác suất 0,4): 5%; kinh tế tăng trưởng dưới trung bình (xác suất 0,2): 0% và kinh tế suy thoái (xác suất 0,1): -15%. So với các cổ phiếu khác có độ lệch chuẩn bình quân là 8%, độ lệch chuẩn của cổ phiếu A chênh lệch bao nhiêu phần trăm?",
+    "answer": "Nhiều hơn xấp xỉ 1,49%"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Bạn đang nắm giữ một danh mục đa dạng hóa với tỷ lệ sinh lợi kỳ vọng 12%, hệ số beta 1,2 và tổng vốn đầu tư $9000. Bạn dự định mở rộng danh mục bằng cách mua thêm 100 cổ phiếu công ty X với giá $10/cổ phiếu. Cổ phiếu X có tỷ lệ sinh lợi kỳ vọng 20% và beta bằng 2,0. Sau khi mua thêm cổ phiếu này, tỷ lệ sinh lợi kỳ vọng và hệ số beta của danh mục mới bằng bao nhiêu?",
+    "answer": "E(Rp) = 12,8%; βp = 1,28."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Bạn đang nắm giữ một danh mục gồm 20 cổ phiếu khác nhau với số vốn đầu tư cho mỗi cổ phiếu là $10000. Hệ số beta của danh mục này là 1,2. Bạn quyết định bán 1 cổ phiếu có beta bằng 0,7 lấy $10000 để mua 1 cổ phiếu khác có beta bằng 1,4. Hãy tính beta của danh mục mới?",
+    "answer": "1,235"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Hãy xác định hệ số beta của cổ phiếu I biết nếu tỷ lệ sinh lợi bình quân trị thường đầu tư tăng 2%, đồng thời lãi suất phi rủi ro giảm 1% thì tỷ lệ sinh lợi kỳ vọng của cổ phiếu I sẽ tăng 1,25%?",
+    "answer": "0,75"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Cổ phiếu X có hệ số beta là 1,3. Hỏi nếu lãi suất phi rủi ro trên thị trường tăng 1% và tỷ lệ sinh lợi bình quân trên thị trường tăng 3% thì tỷ lệ sinh lợi kỳ vọng của cổ phiếu X sẽ thay đổi như thế nào?",
+    "answer": "Tăng 3,6%"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 cổ phiếu A và B với tỷ lệ đầu tư bằng nhau. Trong tình trạng kinh tế hưng thịnh, 2 cổ phiếu này có doanh lợi kỳ vọng lần lượt là E(RA) = 0,12 và E(RB) = -0,02. Trong tình trạng kinh tế suy thoái, 2 cổ phiếu này có doanh lợi kỳ vọng lần lượt là E(RA) = -0,05 và E(RB) = 0,1. Biết xác suất xảy ra 2 tình trạng kinh tế nêu trên là như nhau. Giả định tổng số vốn đầu tư vào danh mục là không đổi. Nhận định nào sau đây là chính xác?",
+    "answer": "Nếu tăng tỷ lệ đầu tư vào A thì phương sai của danh mục sẽ tăng."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Cho 4 cổ phiếu A, B, C và D với doanh lợi kỳ vọng lần lượt là 11,9%; 18,5%; 20% và 16,2%. Biết A, B, C và D có hệ số beta lần lượt bằng 1,5; 2,5; 3,0 và 3,5. Hãy sắp xếp các cố phiếu trên theo thứ tự mức bù đắp rủi ro cho 1 đơn vị rủi ro có hệ thống giảm dần, biết lãi suất phi rủi ro bằng 5%.",
+    "answer": "B, C, A, D."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Tài sản đầu tư Z có mức doanh lợi danh nghĩa là 20%. Biết tỷ lệ lạm phát là 8%. Hãy xác định doanh lợi thực tế của Z?",
+    "answer": "11,11%"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Một nhà đầu tư đang nắm giữ một danh mục gồm 10 cổ phiếu với số vốn đầu tư vào mỗi cổ phiếu là $1000. Danh mục này có hệ số beta bằng 1,5. Nhà đầu tư muốn giảm hệ số beta của danh mục xuống 1,2 mà không làm thay đổi tổng số vốn đầu tư vào danh mục. Biện pháp nào sau đây có thể giúp nhà đầu tư đạt được mục tiêu này?",
+    "answer": "Bán 1 cổ phiếu beta bằng 2,2 và 1 cổ phiếu beta bằng 1,8; sử dụng số tiền thu được để mua 1 cổ phiếu beta bằng 0,5."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Một nhà đầu tư có tổng số vốn là 300 triệu và sử dụng số vốn này đầu tư vào 4 cổ phiếu là A, B, C và D. Biết trong tình trạng kinh tế hưng thịnh (xác suất xảy ra bằng 0,2), các cổ phiếu A, B, C và D có doanh lợi kỳ vọng lần lượt là 18%, 12%, -3% và 5%; trong tình trạng kinh tế ổn định (xác suất xảy ra bằng 0,6), các cổ phiếu trên có doanh lợi kỳ vọng lần lượt là 5%, 4%, 2% và 3%; trong tình trạng kinh tế suy thoái (xác suất xảy ra bằng 0,2), các cổ phiếu trên có doanh lợi kỳ vọng lần lượt là -10%, -2%, 16% và 0%. Biết doanh lợi kỳ vọng của danh mục trong các tình trạng kinh tế hưng thịnh, ổn định và suy thoái lần lượt là 9,55%; 3,7% và -0,5%. Hỏi người này đã đầu tư số vốn vào A, B, C và D lần lượt là bao nhiêu?",
+    "answer": "60 triệu, 135 triệu, 45 triệu và 60 triệu."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trong tình trạng nền kinh tế như thế nào thì tỷ lệ sinh lợi kỳ vọng của các cổ phiếu có beta âm nhiều khả năng sẽ tăng?",
+    "answer": "Suy thoái"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Cổ phiếu A hiện có hệ số beta bằng 0,8 và lợi nhuận kỳ vọng là 10%. Cổ phiếu B hiện có hệ số beta bằng 1,1 và lợi nhuận kỳ vọng là 14,5%. Biết lãi suất phi rủi ro là 5% và phần bù rủi ro bình quân trên thị trường là 8%. Trong thị trường đầu tư hiệu quả (cạnh tranh hoàn hảo), thị giá của cổ phiếu A và B sẽ có xu hướng thay đổi như thế nào?",
+    "answer": "Thị giá của A giảm, của B tăng."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Cổ phiếu A có hệ số beta bằng 0,8 và độ lệch chuẩn doanh lợi bằng 11,87%. Cổ phiếu B có hệ số beta bằng 1,1 và độ lệch chuẩn doanh lợi bằng 9,32%. Nhận định nào sau đây là chính xác?",
+    "answer": "Cổ phiếu A có rủi ro hệ thống thấp hơn B nhưng rủi ro phi hệ thống cao hơn B."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "“Doanh lợi được điều chỉnh theo tỷ lệ lạm phát” còn được gọi là gì?",
+    "answer": "Doanh lợi thực tế"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 cổ phiếu là A (E(RA) = 16%) và B (E(RB) = 12%) với tổng số vốn đầu tư là 250 triệu VND. Biết danh mục này có doanh lợi kỳ vọng là 14,6%. Giả sử người nắm giữ danh mục đi vay thêm 100 triệu VND ở mức lãi suất phi rủi ro 5%, rồi dùng 60 triệu trong khoản vay đó để đầu tư thêm vào A và 40 triệu còn lại đầu tư thêm vào B, thì doanh lợi kỳ vọng mới của danh mục sẽ bằng bao nhiêu?",
+    "answer": "18,36%"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Một nhà đầu tư có số vốn là 250 triệu VND và hiện đang sử dụng 100% số vốn này để đầu tư vào cổ phiếu VCB. Hỏi nếu người này muốn nâng tỷ lệ đầu tư vào cổ phiếu VCB lên 120% thì cần đi vay thêm một khoản vốn bằng bao nhiêu?",
+    "answer": "50 triệu"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Loại tài sản đầu tư nào sau đây thường có tỷ lệ sinh lợi kỳ vọng cao nhất?",
+    "answer": "Cổ phiếu thường"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Loại rủi ro nào sau đây có thể loại trừ bằng đa dạng hóa danh mục đầu tư?",
+    "answer": "Rủi ro do nhà quản lý doanh nghiệp ra quyết định sai lầm"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Khi số lượng tài sản đầu tư trong một danh mục ngày càng tăng thì phương sai của danh mục đó sẽ thay đổi như thế nào?",
+    "answer": "Giảm ngày càng chậm"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Điều nào sau đây là chính xác về nguyên lý của đa dạng hóa?",
+    "answer": "Đa dạng hóa có thể loại trừ một phần rủi ro của danh mục đầu tư."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Cổ phiếu A có doanh lợi kỳ vọng là 17,5%. Một người quyết định đầu tư vào A với tổng số tiền là $100000, trong đó có một phần là vốn của riêng anh ta, phần còn lại là vốn vay ở lãi suất phi rủi ro bằng 6%. Khoản đầu tư này dự kiến sẽ đem lại doanh lợi là 20,375% cho nhà đầu tư. Hãy xác định quy mô của khoản vốn vay trong tổng số tiền $100000 đầu tư vào A nêu trên?",
+    "answer": "20000 USD"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Cổ phiếu T có mức doanh lợi kỳ vọng là 10,3%. Hãy xác định hệ số beta của cổ phiếu này biết nếu lãi suất phi rủi ro tăng 2% và doanh lợi bình quân trên thị trường tăng 4% thì doanh lợi kỳ vọng của T sẽ tăng lên 15,7%?",
+    "answer": "1,7"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 cổ phiếu A và B, với tổng vốn là $100000 được chia đều cho 2 cổ phiếu. Trong tình trạng kinh tế hưng thịnh (xác suất 0,5), cổ phiếu A có tỷ lệ sinh lợi kỳ vọng là 12%, cổ phiếu B là -2%. Trong tình trạng kinh tế suy thoái (xác suất 0,5), cổ phiếu A có tỷ lệ sinh lợi kỳ vọng là -4%, cổ phiếu B là 10%. Người nắm giữ danh mục này đang cân nhắc việc mở rộng danh mục bằng cách bổ sung vào danh mục cổ phiếu C với số vốn đầu tư là 50000 (số vốn đầu tư vào A và B không đổi). Cổ phiếu C có tỷ lệ sinh lợi kỳ vọng là 20% trong tình trạng kinh tế hưng thịnh và -9% trong tình trạng kinh tế suy thoái. Hỏi nếu cổ phiếu C được bổ sung vào danh mục thì doanh lợi kỳ vọng bình quân và độ lệch chuẩn của danh mục sẽ thay đổi như thế nào?",
+    "answer": "Doanh lợi kỳ vọng bình quân tăng 0,5%; độ lệch chuẩn tăng 4,5%."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Một danh mục đầu tư với tổng giá trị 150 triệu VND bao gồm 3 cổ phiếu là A (β = -0,2; E(R) = 4%), B (β = 0,8; E(R) = 11,5%) và C (β = 1,5; E(R) = 17,6%). Biết beta của danh mục là 0,91 và doanh lợi kỳ vọng của danh mục là 12,58%. Hỏi số vốn đầu tư vào các cổ phiếu A, B và C lần lượt là bao nhiêu?",
+    "answer": "15 triệu, 90 triệu và 45 triệu"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 cổ phiếu A và B với trọng số lần lượt là 0,6 và 0,4. Biết doanh lợi mà cổ phiếu A đem lại cho nhà đầu tư trong 5 năm gần đây nhất lần lượt là -12%, 8%, 11%, 5% và 9%. Doanh lợi mà cổ phiếu B đem lại cho nhà đầu tư trong 5 năm gần đây nhất lần lượt là -14%, 10%, 13%, 9% và 7%. Hãy xác định doanh lợi bình quân của danh mục này trong 5 năm gần đây nhất?",
+    "answer": "4,52%"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Một danh mục đầu tư gồm 2 tài sản A và B. Để xác định doanh lợi kỳ vọng của danh mục này, cần biết những đại lượng nào sau đây?",
+    "answer": "Doanh lợi kỳ vọng và trọng số của A và B."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Nhận định nào sau đây là chính xác về tài sản đầu tư phi rủi ro?",
+    "answer": "Tài sản phi rủi ro không có cả rủi ro hệ thống và rủi ro phi hệ thống."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Cổ phiếu G và H có hệ số beta lần lượt là 0,5 và 1,2. Hãy tính chênh lệch tỷ lệ sinh lợi kỳ vọng giữa 2 cổ phiếu này biết tỷ lệ sinh lợi bình quân và lãi suất phi rủi ro trên thị trường lần lượt bằng 14% và 5%?",
+    "answer": "6,3%"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Hệ số beta của cổ phiếu bằng 1,5 có nghĩa là gì?",
+    "answer": "Giá cổ phiếu có biên độ dao động nhiều hơn thị trường 50%."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Giả sử tỷ lệ sinh lời của tài sản phi rủi ro bằng 5% và phần thưởng rủi ro thị trường bằng 7%. Nếu cổ phiếu có tỷ lệ sinh lời của tài sản phi rủi ro là 13,75%, hệ số beta bằng bao nhiêu?",
+    "answer": "1,25"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Công ty A dự định vay tiền ngân hàng với lãi suất 16% ghi trên hợp đồng vay vốn. Xác định chi phí nợ vay sau thuế và phần tiết kiệm thuế, biết thuế suất thuế TNDN là 20%.",
+    "answer": "12,8% và 3,2%"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Điều nào KHÔNG đúng với chi phí vốn chủ sở hữu?",
+    "answer": "Thường thấp hơn chi phí nợ vay."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Cần chú ý gì khi xác định thành phần chi phí nợ vay trong chi phí vốn trung bình của doanh nghiệp?",
+    "answer": "Sử dụng chi phí nợ vay sau thuế của doanh nghiệp."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Công ty B có các thông tin sau: Lãi suất trái phiếu là 6,5% và chi phí vốn có thể được ước tính với mức bù rủi ro là 4%. Hãy ước tính chi phí lợi nhuận giữ lại của công ty?",
+    "answer": "10,5%"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Điềm nào sau đây KHÔNG phải là khái niệm chi phí vốn của doanh nghiệp?",
+    "answer": "Chi phí để có được nguồn vốn, bao gồm chi phí giao dịch với ngân hàng hay chi phí phát hành cổ phiếu."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Bạn đang cân nhắc đầu tư vào công ty H. Điều nào sau đây là ví dụ về rủi ro phi hệ thống trong cân nhắc đa dạng hóa danh mục đầu tư của bạn?",
+    "answer": "Rủi ro phát sinh do sự không chắc chắn liên quan tới đình công tại H."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Một cách xác định nhanh chi phí vốn cổ phiếu thường của doanh nghiệp là:",
+    "answer": "cộng 4% phần bù rủi ro vào chi phí nợ vay trước thuế của doanh nghiệp."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Cổ phiếu của công ty E có tỷ lệ lợi nhuận kỳ vọng bằng 13%, tỷ lệ sinh lời của tài sản phi rủi ro là 7% và phần thưởng rủi ro thị trường bằng 4%. Giả định rằng có một sự thay đổi khiến phần thưởng rủi ro thị trường tăng thêm 2%. Khi đó, lợi nhuận kỳ vọng của cổ phiếu công ty sẽ bằng bao nhiêu?",
+    "answer": "16%"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Công ty G dự kiến lợi nhuận/cổ phiếu trong năm nay là $3,5. Công ty đã dự tính tỷ lệ chi trả cổ tức là 40%, tỷ lệ tăng trưởng cổ tức kỳ vọng của công ty là 4%, và hiện tại cổ phiếu thường mới của công ty được bán với giá $40/cổ phiếu. Cổ phiếu thường mới của công ty có thể được phát hành ra công chúng ở mức giá hiện tại, nhưng công ty phài chịu chi phí phát hành/cổ phiếu là 10%. Hỏi chi phí cổ phiếu thường mới của công ty là bao nhiêu?",
+    "answer": "7,89%"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Công ty H có cấu trúc vốn gồm 60% nợ và 40% vốn chủ sở hữu. Giám đốc tài chính của công ty đã thu được những thông tin sau:",
+    "answer": "8,64%"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Công ty E thuê bạn ước tính chi phí vốn của công ty. Bạn được cung cấp những số liệu sau: D1 = $1,25; P0 = $40; g = 6% (không đổi). Công ty phát hành cổ phiếu thường mới, chi phí phát hành là f = 5%. Hỏi chi phí vốn tăng lên từ việc bán cổ phiếu thường mới là bao nhiêu?",
+    "answer": "9,29%"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Một quỹ đầu tư có số vốn là 10.000 USD, hệ số beta bằng 1,05 và tỷ lệ lợi nhuận kỳ vọng 12%. Tỷ lệ sinh lời của tài sản phi rủi ro là 4,75%. Nếu quỹ nhận được thêm 10.000 USD và quyết định đầu tư vào một số cổ phiếu có hệ số beta bình quân bằng 0,65 thì tỷ lệ lợi nhuận kỳ vọng của danh mục đầu tư 20.000 USD bằng bao nhiêu?",
+    "answer": "10,62%"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Yếu tố nào KHÔNG phải là yếu tố cần được xác định trực tiếp khi tính chi phí lợi nhuận không chia theo mô hình luồng tiền chiết khấu?",
+    "answer": "Tốc độ tăng trưởng của lợi nhuận"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Giả sử bạn là nhà tư vấn cho công ty A và bạn được cung cấp số liệu sau: D1 = $1,00; P0 = $25,00; và g = 6% (không đổi). Hỏi chi phí lợi nhuận giữ lại theo phương pháp dòng tiền chiết khấu là bao nhiêu?",
+    "answer": "10,00%"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Công ty C có các số liệu sau: RF = 5,0%; RM = 11,0%; beta = 1,1. Dựa vào mô hình CAPM, hãy tính chi phí lợi nhuận không chia?",
+    "answer": "11,6%"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Giả sử công ty D thuê bạn tư vấn để trợ giúp họ ước tính chi phí vốn. Bạn được cung cấp số liệu như sau: D0 = $1,20; P0 = $40,00; và g = 7% (không đổi). Dựa vào phương pháp dòng tiền chiết khấu, hãy tính chi phí lợi nhuận giữ lại của công ty D?",
+    "answer": "10,21%"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Công ty Q kỳ vọng chi trả cổ tức/cổ phiếu vào cuối năm là $3 (D1 = $3), cổ tức được kỳ vọng tăng trưởng không thay đổi mỗi năm là 7%, hiện tại cổ phiếu thường của công ty được bán với giá $60/cổ phiếu. Chi phí nợ trước thuế là 8% và thuế suất thuế thu nhập doanh nghiệp là 20%. Cơ cấu vốn mục tiêu của công ty gồm 60% nợ và 40% vốn chủ sở hữu. Hỏi chi phí vốn trung bình của công ty là bao nhiêu?",
+    "answer": "8,64%"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Yếu tố nào là yếu tố cần được xác định trực tiếp khi tính chi phí vốn cổ phiếu thường của doanh nghiệp theo mô hình luồng tiền chiết khấu?",
+    "answer": "Tỷ lệ tăng trưởng cổ tức"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Công ty C có các số liệu sau: Cơ cấu vốn mục tiêu: 40% nợ, 10% cổ phiếu ưu đãi, và 50% cổ phiếu thường. Chi phí nợ sau thuế là 8%, chi phí cổ phiếu ưu đãi là 13% và chi phí lợi nhuận giữ lại là 15,5%. Công ty sẽ không phát hành thêm cổ phiếu thường mới. Hỏi chi phí trung bình của vốn của công ty là bao nhiêu?",
+    "answer": "12,25%"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Công ty H có các số liệu sau: Cơ cấu vốn mục tiêu là 30% nơ, 20% cổ phiếu ưu đãi, và 50% cổ phiếu thường. Lãi suất trả cho nợ là 7,5%, lợi tức trả cho cổ phiếu ưu đãi là 12%, chi phí lợi nhuận giữ lại là 14%, và thuế thu nhập doanh nghiệp là 20%. Công ty không phát hành thêm cổ phiếu thường mới. Hỏi chi phí vốn trung bình của công ty là bao nhiêu?",
+    "answer": "11,20%"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Cổ phiếu ưu tiên của công ty A bán với giá 90.000 VNĐ/cổ phiếu và trả cổ tức hàng năm là 7.500 VNĐ/cổ phiếu. Nếu công ty phát hành cổ phiếu ưu tiên mới thì công ty phải chịu chi phí phát hành bằng 5% giá bán/cổ phiếu. Hỏi chi phí cổ phiếu ưu tiên của công ty là bao nhiêu?",
+    "answer": "8,77%"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Điểm nào sau đây KHÔNG phải là các đặc điểm của chi phí cổ phiếu thường?",
+    "answer": "Cổ tức không thay đổi."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Công ty có chi phí vốn cận biên tương ứng như sau: 0 – 300 triệu: 14% > 300 triệu: 14,5% ",
+    "answer": "Dự án A và B"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Những tình huống nào sau đây sẽ khuyến khích các doanh nghiệp tăng nợ vay trong cơ cấu vốn",
+    "answer": "Thuế thu nhập doanh nghiệp tăng lên"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Yếu tố nào KHÔNG phải là yếu tố cần được xác định trực tiếp khi tính chi phí lợi nhuận không chia theo mô hình CAPM?",
+    "answer": "Lợi nhuận dự báo cho năm tiếp theo."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Điểm nào sau đây KHÔNG phải là các đặc điểm của chi phí cổ phiếu ưu tiên?",
+    "answer": "Thường lớn hơn chi phí cổ phiếu thường."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Công ty A cần huy động 200 triệu đồng cho một dự án mới và đang xét hai phương án: một, sử dụng 100 triệu đồng từ lơị nhuận giữ lại từ kỳ trước và 100 triệu đồng vay ngân hàng với lãi suất 15%/năm; hai, sử dụng toàn bộ 200 triệu đồng từ lợi nhuận giữ lại và không cần sử dụng vốn vay. Thuế thu nhập doanh nghiệp là 20%.",
+    "answer": "3 triệu đồng."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Rủi do nào sau đây là rủi ro hệ thống?",
+    "answer": "Rủi ro nảy sinh do lạm phát."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Yếu tố nào sau đây KHÔNG phải là yếu tố cần được xác định trực tiếp khi tính chi phí cổ phiếu ưu tiên?",
+    "answer": "Số lượng cổ phiếu ưu tiên đã phát hành."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Cơ cấu vốn mục tiêu của công ty V là 80% nợ và 20% vốn chủ sở hữu. Công ty kỳ vọng sẽ thu được lợi nhuận sau thuế trong năm nay là 3 tỷ VNĐ và 60% lợi nhuận sau thuế được dùng để chi trả cổ tức. Hỏi tổng vốn của công ty trong năm nay bằng bao nhiêu trước khi công ty phát hành thêm cổ phiếu thường mới?",
+    "answer": "6 tỷ VNĐ."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Cổ phiếu của D có hệ số beta bằng 1,5, tỷ lệ lợi nhuận kỳ vọng của nó là 14%. Tỷ lệ sinh lời của tài sản phi rủi ro bằng 5%. Hãy tình tỷ lệ lợi nhuận kỳ vọng trên thị trường chứng khoán?",
+    "answer": "11%"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Công ty F có beta bằng 1. Nếu thu nhập kỳ vọng trên thị trường là 12%, lợi tức kỳ vọng trên cổ phiếu của F là bao nhiêu?",
+    "answer": "12%"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Giả sử rằng công ty B có các số liệu sau: RF = 5,5%; RPM = 6,0%; và beta = 0,8. Hỏi chi phí lợi nhuận không chia theo mô hình CAMP là bao nhiêu?",
+    "answer": "10,30%"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Công ty A dự định vay tiền ngân hàng với lãi suất 16% ghi trên hợp đồng vay vốn. Xác định chi phí nợ vay sau thuế và phần tiết kiệm thuế, biết thuế suất thuế TNDN là 20%.",
+    "answer": "12,8% và 3,2%"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Giả sử bạn là nhà tư vấn cho công ty A và bạn được cung cấp số liệu sau: D1 = $1,00; P0 = $25,00; và g = 6% (không đổi). Hỏi chi phí lợi nhuận giữ lại theo phương pháp dòng tiền chiết khấu là bao nhiêu?",
+    "answer": "10,00%"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Cổ phiếu của công ty E có tỷ lệ lợi nhuận kỳ vọng bằng 13%, tỷ lệ sinh lời của tài sản phi rủi ro là 7% và phần thưởng rủi ro thị trường bằng 4%. Giả định rằng có một sự thay đổi khiến phần thưởng rủi ro thị trường tăng thêm 2%. Khi đó, lợi nhuận kỳ vọng của cổ phiếu công ty sẽ bằng bao nhiêu?",
+    "answer": "16%"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Một quỹ đầu tư có số vốn là 10.000 USD, hệ số beta bằng 1,05 và tỷ lệ lợi nhuận kỳ vọng 12%. Tỷ lệ sinh lời của tài sản phi rủi ro là 4,75%. Nếu quỹ nhận được thêm 10.000 USD và quyết định đầu tư vào một số cổ phiếu có hệ số beta bình quân bằng 0,65 thì tỷ lệ lợi nhuận kỳ vọng của danh mục đầu tư 20.000 USD bằng bao nhiêu?",
+    "answer": "10,62%"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Công ty B có các thông tin sau: Lãi suất trái phiếu là 6,5% và chi phí vốn có thể được ước tính với mức bù rủi ro là 4%. Hãy ước tính chi phí lợi nhuận giữ lại của công ty?",
+    "answer": "10,5%"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Công ty H có các số liệu sau: Cơ cấu vốn mục tiêu là 30% nơ, 20% cổ phiếu ưu đãi, và 50% cổ phiếu thường. Lãi suất trả cho nợ là 7,5%, lợi tức trả cho cổ phiếu ưu đãi là 12%, chi phí lợi nhuận giữ lại là 14%, và thuế thu nhập doanh nghiệp là 20%. Công ty không phát hành thêm cổ phiếu thường mới. Hỏi chi phí vốn trung bình của công ty là bao nhiêu?",
+    "answer": "11,20%"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Công ty Q kỳ vọng chi trả cổ tức/cổ phiếu vào cuối năm là $3 (D1 = $3), cổ tức được kỳ vọng tăng trưởng không thay đổi mỗi năm là 7%, hiện tại cổ phiếu thường của công ty được bán với giá $60/cổ phiếu. Chi phí nợ trước thuế là 8% và thuế suất thuế thu nhập doanh nghiệp là 20%. Cơ cấu vốn mục tiêu của công ty gồm 60% nợ và 40% vốn chủ sở hữu. Hỏi chi phí vốn trung bình của công ty là bao nhiêu?",
+    "answer": "8,64%"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Công ty H có cấu trúc vốn gồm 60% nợ và 40% vốn chủ sở hữu. Giám đốc tài chính của công ty đã thu được những thông tin sau:",
+    "answer": "8,64%"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Công ty C có các số liệu sau: RF = 5,0%; RM = 11,0%; beta = 1,1. Dựa vào mô hình CAPM, hãy tính chi phí lợi nhuận không chia?",
+    "answer": "11,6%"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Điều nào KHÔNG đúng với chi phí vốn chủ sở hữu?",
+    "answer": "Thường thấp hơn chi phí nợ vay."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Yếu tố nào là yếu tố cần được xác định trực tiếp khi tính chi phí vốn cổ phiếu thường của doanh nghiệp theo mô hình luồng tiền chiết khấu?",
+    "answer": "Tỷ lệ tăng trưởng cổ tức"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Công ty A cần huy động 200 triệu đồng cho một dự án mới và đang xét hai phương án: một, sử dụng 100 triệu đồng từ lơị nhuận giữ lại từ kỳ trước và 100 triệu đồng vay ngân hàng với lãi suất 15%/năm; hai, sử dụng toàn bộ 200 triệu đồng từ lợi nhuận giữ lại và không cần sử dụng vốn vay. Thuế thu nhập doanh nghiệp là 20%.",
+    "answer": "3 triệu đồng."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Công ty F có beta bằng 1. Nếu thu nhập kỳ vọng trên thị trường là 12%, lợi tức kỳ vọng trên cổ phiếu của F là bao nhiêu?",
+    "answer": "12%"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Điềm nào sau đây KHÔNG phải là khái niệm chi phí vốn của doanh nghiệp?",
+    "answer": "Chi phí để có được nguồn vốn, bao gồm chi phí giao dịch với ngân hàng hay chi phí phát hành cổ phiếu."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Bạn đang cân nhắc đầu tư vào công ty H. Điều nào sau đây là ví dụ về rủi ro phi hệ thống trong cân nhắc đa dạng hóa danh mục đầu tư của bạn?",
+    "answer": "Rủi ro phát sinh do sự không chắc chắn liên quan tới đình công tại H."
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Yếu tố nào KHÔNG phải là yếu tố cần được xác định trực tiếp khi tính chi phí lợi nhuận không chia theo mô hình luồng tiền chiết khấu?",
+    "answer": "Tốc độ tăng trưởng của lợi nhuận"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Hệ số beta của cổ phiếu bằng 1,5 có nghĩa là gì?",
+    "answer": "Giá cổ phiếu có biên độ dao động nhiều hơn thị trường 50%."
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Giả sử rằng công ty B có các số liệu sau: RF = 5,5%; RPM = 6,0%; và beta = 0,8. Hỏi chi phí lợi nhuận không chia theo mô hình CAMP là bao nhiêu?",
+    "answer": "10,30%"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Công ty C có các số liệu sau: Cơ cấu vốn mục tiêu: 40% nợ, 10% cổ phiếu ưu đãi, và 50% cổ phiếu thường. Chi phí nợ sau thuế là 8%, chi phí cổ phiếu ưu đãi là 13% và chi phí lợi nhuận giữ lại là 15,5%. Công ty sẽ không phát hành thêm cổ phiếu thường mới. Hỏi chi phí trung bình của vốn của công ty là bao nhiêu?",
+    "answer": "12,25%"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Cổ phiếu của D có hệ số beta bằng 1,5, tỷ lệ lợi nhuận kỳ vọng của nó là 14%. Tỷ lệ sinh lời của tài sản phi rủi ro bằng 5%. Hãy tình tỷ lệ lợi nhuận kỳ vọng trên thị trường chứng khoán?",
+    "answer": "11%"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Điểm nào sau đây KHÔNG phải là các đặc điểm của chi phí cổ phiếu ưu tiên?",
+    "answer": "Thường lớn hơn chi phí cổ phiếu thường."
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Giả sử tỷ lệ sinh lời của tài sản phi rủi ro bằng 5% và phần thưởng rủi ro thị trường bằng 7%. Nếu cổ phiếu có tỷ lệ sinh lời của tài sản phi rủi ro là 13,75%, hệ số beta bằng bao nhiêu?",
+    "answer": "1,25"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Giả sử công ty D thuê bạn tư vấn để trợ giúp họ ước tính chi phí vốn. Bạn được cung cấp số liệu như sau: D0 = $1,20; P0 = $40,00; và g = 7% (không đổi). Dựa vào phương pháp dòng tiền chiết khấu, hãy tính chi phí lợi nhuận giữ lại của công ty D?",
+    "answer": "10,21%"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Cơ cấu vốn mục tiêu của công ty V là 80% nợ và 20% vốn chủ sở hữu. Công ty kỳ vọng sẽ thu được lợi nhuận sau thuế trong năm nay là 3 tỷ VNĐ và 60% lợi nhuận sau thuế được dùng để chi trả cổ tức. Hỏi tổng vốn của công ty trong năm nay bằng bao nhiêu trước khi công ty phát hành thêm cổ phiếu thường mới?",
+    "answer": "6 tỷ VNĐ."
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Công ty G dự kiến lợi nhuận/cổ phiếu trong năm nay là $3,5. Công ty đã dự tính tỷ lệ chi trả cổ tức là 40%, tỷ lệ tăng trưởng cổ tức kỳ vọng của công ty là 4%, và hiện tại cổ phiếu thường mới của công ty được bán với giá $40/cổ phiếu. Cổ phiếu thường mới của công ty có thể được phát hành ra công chúng ở mức giá hiện tại, nhưng công ty phài chịu chi phí phát hành/cổ phiếu là 10%. Hỏi chi phí cổ phiếu thường mới của công ty là bao nhiêu?",
+    "answer": "7,89%"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Công ty có chi phí vốn cận biên tương ứng như sau: 0 – 300 triệu: 14% > 300 triệu: 14,5% ",
+    "answer": "Dự án A và B"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Yếu tố nào KHÔNG phải là yếu tố cần được xác định trực tiếp khi tính chi phí lợi nhuận không chia theo mô hình CAPM?",
+    "answer": "Lợi nhuận dự báo cho năm tiếp theo."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Công ty E thuê bạn ước tính chi phí vốn của công ty. Bạn được cung cấp những số liệu sau: D1 = $1,25; P0 = $40; g = 6% (không đổi). Công ty phát hành cổ phiếu thường mới, chi phí phát hành là f = 5%. Hỏi chi phí vốn tăng lên từ việc bán cổ phiếu thường mới là bao nhiêu?",
+    "answer": "9,29%"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Những tình huống nào sau đây sẽ khuyến khích các doanh nghiệp tăng nợ vay trong cơ cấu vốn",
+    "answer": "Thuế thu nhập doanh nghiệp tăng lên"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Cần chú ý gì khi xác định thành phần chi phí nợ vay trong chi phí vốn trung bình của doanh nghiệp?",
+    "answer": "Sử dụng chi phí nợ vay sau thuế của doanh nghiệp."
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Cổ phiếu ưu tiên của công ty A bán với giá 90.000 VNĐ/cổ phiếu và trả cổ tức hàng năm là 7.500 VNĐ/cổ phiếu. Nếu công ty phát hành cổ phiếu ưu tiên mới thì công ty phải chịu chi phí phát hành bằng 5% giá bán/cổ phiếu. Hỏi chi phí cổ phiếu ưu tiên của công ty là bao nhiêu?",
+    "answer": "8,77%"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Điểm nào sau đây KHÔNG phải là các đặc điểm của chi phí cổ phiếu thường?",
+    "answer": "Cổ tức không thay đổi."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Rủi do nào sau đây là rủi ro hệ thống?",
+    "answer": "Rủi ro nảy sinh do lạm phát."
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Một cách xác định nhanh chi phí vốn cổ phiếu thường của doanh nghiệp là:",
+    "answer": "cộng 4% phần bù rủi ro vào chi phí nợ vay trước thuế của doanh nghiệp."
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Yếu tố nào sau đây KHÔNG phải là yếu tố cần được xác định trực tiếp khi tính chi phí cổ phiếu ưu tiên?",
+    "answer": "Số lượng cổ phiếu ưu tiên đã phát hành."
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Một quỹ đầu tư có số vốn là 10.000 USD, hệ số beta bằng 1,05 và tỷ lệ lợi nhuận kỳ vọng 12%. Tỷ lệ sinh lời của tài sản phi rủi ro là 4,75%. Nếu quỹ nhận được thêm 10.000 USD và quyết định đầu tư vào một số cổ phiếu có hệ số beta bình quân bằng 0,65 thì tỷ lệ lợi nhuận kỳ vọng của danh mục đầu tư 20.000 USD bằng bao nhiêu?",
+    "answer": "10,62%"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Giả sử bạn là nhà tư vấn cho công ty A và bạn được cung cấp số liệu sau: D1 = $1,00; P0 = $25,00; và g = 6% (không đổi). Hỏi chi phí lợi nhuận giữ lại theo phương pháp dòng tiền chiết khấu là bao nhiêu?",
+    "answer": "10,00%"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Yếu tố nào KHÔNG phải là yếu tố cần được xác định trực tiếp khi tính chi phí lợi nhuận không chia theo mô hình luồng tiền chiết khấu?",
+    "answer": "Tốc độ tăng trưởng của lợi nhuận"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Giả sử công ty D thuê bạn tư vấn để trợ giúp họ ước tính chi phí vốn. Bạn được cung cấp số liệu như sau: D0 = $1,20; P0 = $40,00; và g = 7% (không đổi). Dựa vào phương pháp dòng tiền chiết khấu, hãy tính chi phí lợi nhuận giữ lại của công ty D?",
+    "answer": "10,21%"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Cơ cấu vốn mục tiêu của công ty V là 80% nợ và 20% vốn chủ sở hữu. Công ty kỳ vọng sẽ thu được lợi nhuận sau thuế trong năm nay là 3 tỷ VNĐ và 60% lợi nhuận sau thuế được dùng để chi trả cổ tức. Hỏi tổng vốn của công ty trong năm nay bằng bao nhiêu trước khi công ty phát hành thêm cổ phiếu thường mới?",
+    "answer": "6 tỷ VNĐ."
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Lý thuyết M&M về cơ cấu vốn công ty đã cho ra những kết luận quan trọng về",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Theo mệnh đề II của M&M trong trường hợp không có thuế thì chi phí vốn trung bình của công ty sẽ thay đổi như thế nào nếu cơ cấu vốn hay tỷ số nợ của công ty thay đổi",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Rủi ro kinh doanh càng lớn, tỷ lệ nợ tối ưu:",
+    "answer": "Càng thấp"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Công ty Mạnh Hà có doanh thu hàng năm là 15,000$. Chi phí biến đổi bằng 60% doanh thu, chi phí cố định là 1,000$. Nếu doanh thu của công ty tăng lên 10%, hỏi EBIT sẽ tăng bao nhiêu %?",
+    "answer": "12%"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Một công ty không sử dụng đòn bẩy tài chính có:",
+    "answer": "Toàn bộ là vốn cổ phần trong cơ cấu vốn"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Công ty trà Phước Long bán 1 gói trà loại 1 giá 15.000 đồng. Chi phí cố định là 500 triệu cho lượng sản xuất đến 400.000 gói trà. Chi phí biến đổi 10.000 đồng/gói trà. Tính DOL tại mức sản lượng 125.000 gói",
+    "answer": "5"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Nội dung của mệnh để I của M&M về giá trị công ty trong trường hợp không có thuế",
+    "answer": "Giá trị công ty có vay nợ bằng giá trị công ty không có vay nợ"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Tư duy truyền thống về giá trị của doanh nghiệp cho rằng:",
+    "answer": "Có cơ cấu vốn tối ưu"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Yếu tố nào dưới đây không phải là yếu tố được sử dụng để đánh giá cơ cấu vốn tối ưu?",
+    "answer": "Tất cả các điều trên đều được sử dụng để đánh giá cơ cấu vốn tối ưu"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Công ty Hải Linh sản xuất thiết bị theo dõi cho các tổ chức tình báo. Doanh thu của công ty là 75 triệu $. Chi phí cố định, bao gồm cả chi phí nghiên cứu và phát triển là 40 triệu $, chi phí biến đổi bằng 30% doanh thu. Công ty lập kế hoạch mở rộng sản xuất, kế hoạch này khiến cho chi phí cố định tăng thêm 15 triệu $, giảm chi phí biến đổi xuống bằng 25% doanh thu và doanh thu cho phép tăng lên đến 100 triệu $. Hỏi DOL tại mức doanh thu mới là bao nhiêu?",
+    "answer": "3,75"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Trong trường hợp công ty không có vay nợ, khi lợi nhuận trước thuế và lãi vay (EBIT) tăng thì lợi nhuận trên vốn cổ phần (ROE):",
+    "answer": "Tăng"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Trong việc sử dụng đòn bẩy tài chính (DFL), doanh nghiệp có lợi do:",
+    "answer": "Cả A,B đều đúng"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Công ty Thanh Vân có tổng tài sản là 300 triệu $. Hiện tại công ty không sử dụng nợ. Suất sinh lời cơ bản (BEP = EBIT/Tổng TS) của công ty là 15%. Công ty đang dự tính tái cơ cấu vốn, cụ thể là sẽ phát hành nợ với tỷ trọng là 10% và lãi suất là 10%, đồng thời sử dụng tiền thu được để mua lại cổ phiếu thường của công ty. Nếu công ty tiến hành tái cơ cấu vốn thì thu nhập từ hoạt động kinh doanh, tổng tài sản và thuế suất của công ty vẫn giữ nguyên như trước. Điều nào sau đây xảy ra như là kết quả của việc tái cơ cấu vốn?",
+    "answer": "ROE của công ty sẽ tăng"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Công ty Mạnh Hà có doanh thu hàng năm là 15,000$. Chi phí biến đổi bằng 60% doanh thu, chi phí cố định là 1,000$. Nếu doanh thu của công ty tăng lên 10%, hỏi EBIT sẽ tăng bao nhiêu %?",
+    "answer": "12%"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Công ty Tỏa Sáng hiện tại là công ty không có vay nợ. Mức lợi nhuận trước thuế và lãi (EBIT) mà công ty kiếm được trong các năm gần đây là bằng nhau và công ty kỳ vọng điều này sẽ kéo dài mãi mãi. Toàn bộ lợi nhuận sau thuế đều được dùng để trả cổ tức. Công ty có tổng giá trị tài sản theo giá trị thị trường hiện tại là 400 triệu USD. Công ty hiện đang xem xét vấn đề tái cấu trúc vốn, theo đó, công ty sẽ vay nợ 100 triệu USD với lãi suất là 9%/năm. Hệ số tổng tài sản của công ty tại mức đòn bẩy tài chính bằng 0 (n unlevered) là 1,2. Lãi suất trái phiếu chính phủ (trái phiếu chính phủ được coi là 1 loại tài sản phi rủi ro) tại thời điểm phân tích là 8%, phần bù rủi ro thị trường là 5%. Thuế suất thuế TNDN là 20%. Công ty chỉ sử dụng cổ phiếu thường để huy động vốn, không sử dụng cổ phiếu ưu tiên (cổ phiếu ưu đãi cổ tức). Anh (chị) hãy tính chi phí vốn cổ phần của công ty sau khi tiến hành tái cấu trúc vốn",
+    "answer": "15,25%"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Nếu biết các chỉ số: sản lượng (Q), đơn giá bán (P), chi phí biến đổi (V) và EBIT(Q)",
+    "answer": "Cả a,b,c đều đúng"
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Mệnh đề II của M&M trong trường hợp không có thuế phát biểu rằng:",
+    "answer": "Lợi nhuận kỳ vọng trên vốn cổ phần có quan hệ cùng chiều với mức độ sử dụng đòn bẩy tài chính"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Theo lý thuyết cơ cấu vốn tối ưu, nhà quản trị có thể thiết lập cơ cấu vốn tối ưu làm:",
+    "answer": "Cả B và C."
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "…………….. của một doanh nghiệp được định nghĩa là thước đo tác động từ chi phí cố định",
+    "answer": "DOL"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "EBIT kỳ vọng của công ty ABC là một dòng tiền đều vô hạn. Thuế suất thuế Thu nhập doanh nghiệp là 34% và toàn bộ lợi nhuận sau thuế đều được công ty sử dụng để trả cổ tức. Công ty hiện có quy mô nợ vay là 500.000 USD với lãi suất vay là 10%/năm. Công ty có giá trị thị trường là 1.700.000 USD. Các nhà phân tích ước tính rằng chi phí VCSH của công ty trong trường hợp sử dụng 100% VCSH là 20%. Yêu cầu: Sử dụng lý thuyết M&M về cơ cấu vốn, hãy xác định: Lợi nhuận sau thuế của công ty ABC ứng với mức sử dụng đòn bẩy tài chính hiện tại.",
+    "answer": "$273.000"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Nội dung của mệnh đề M&M I trong trường hợp có thuế",
+    "answer": "Giá trị công ty có vay nợ bằng với giá trị công ty không có vay nợ cộng với hiện giá của lá chắn thuế"
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Sự tồn tại của… trên bảng cân đối kế toán tạo ra khoản tiết kiệm thuế nhờ lãi vay ảnh hưởng trự tiếp đến cấu trúc vốn của công ty",
+    "answer": "Nợ dài hạn"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Trong các giả định sau, giả định nào KHÔNG phải là giả định của lý thuyết M&M trong trường hợp không có thuế thu nhập doanh nghiệp?",
+    "answer": "Có thuế thu nhập cá nhân"
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "EBIT kỳ vọng của công ty ABC là một dòng tiền đều vô hạn. Thuế suất thuế Thu nhập doanh nghiệp là 34% và toàn bộ lợi nhuận sau thuế đều được công ty sử dụng để trả cổ tức. Công ty hiện có quy mô nợ vay là 500.000 USD với lãi suất vay là 10%/năm. Công ty có giá trị thị trường là 1.700.000 USD. Các nhà phân tích ước tính rằng chi phí VCSH của công ty trong trường hợp sử dụng 100% VCSH là 20%. Yêu cầu: Sử dụng lý thuyết M&M về cơ cấu vốn, hãy xác định: Chi phí VCSH của công ty ABC ứng với mức sử dụng đòn bẩy tài chính hiện tại.",
+    "answer": "22.75%"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Theo M&M trong trường hợp có thuế, khi công ty gia tăng tỷ số nợ trong cơ cấu vốn, chi phí sử dụng vốn cổ phần có khuynh hướng",
+    "answer": "Tăng"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Một giả định quan trọng của lý thuyết lợi nhuận hoạt động ròng trong việc định giá là:",
+    "answer": "Lãi suất vay nợ không thay đổi"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Trong trường hợp nền kinh tế suy thoái, doanh nghiệp đang bị lỗ, nếu doanh nghiệp có đòn bẩy kinh doanh cao thì",
+    "answer": "Cả a,b,c đều sai"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Khi thuế suất thuế thu nhập doanh nghiệp thay đổi thế nảo?",
+    "answer": "Thuế suất tăng sẽ khuyến khích doanh nghiệp sử dụng nợ"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Theo M&M trong trường hợp có thuế, khi công ty gia tăng tỷ số nợ trong cơ cấu vốn, chi phí sử dụng vốn trung bình có khuynh hướng",
+    "answer": "Giảm"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Giá trị của lá chắn thuế của nợ là bao nhiêu nếu giá trị thị trường hiện tại của công ty là 10 triệu đô la, giá trị khi không có đòn bẩy là 8 triệu đô la, và giá trị của chi phí phá sản và chi phí đại diện là 500.000 đô la?",
+    "answer": "$2.500.000"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Giả định nào sau đây không liên quan đến các giả định của lý thuyết M&M về cơ cấu vốn trong trường hợp không có thuế",
+    "answer": "Không có lạm phát"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Giả định rằng nền kinh tế đã bất ngờ đi vào suy thoái. Trong số các doanh nghiệp cùng ngành và cùng rủi ro kinh doanh, doanh nghiệp nào sau đây sẽ có mức tăng chi phí phá sản (chi phí kiệt quệ tài chính) nhiều nhất?",
+    "answer": "Doanh nghiệp với tỷ lệ nợ cao nhất"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Mức độ đòn bẩy tổng hợp của doanh nghiệp bằng với mức độ đòn bẩy hoạt động và mức độ đòn bẩy tài chính của doanh nghiệp đó",
+    "answer": "Nhân với nhau"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "EBIT kỳ vọng của công ty ABC là một dòng tiền đều vô hạn. Thuế suất thuế Thu nhập doanh nghiệp là 34% và toàn bộ lợi nhuận sau thuế đều được công ty sử dụng để trả cổ tức. Công ty hiện có quy mô nợ vay là 500.000 USD với lãi suất vay là 10%/năm. Công ty có giá trị thị trường là 1.700.000 USD. Yêu cầu: Sử dụng lý thuyết M&M về cơ cấu vốn, hãy xác định: Giá trị công ty ABC trong trường hợp không vay nợ.",
+    "answer": "$1.530.000"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Hai doanh nghiệp giống hệt nhau ngoại trừ cấu trúc vốn đang có giá trị thị trường là khác nhau. Theo lý thuyết M&M",
+    "answer": "Điều này sẽ không tiếp tục kéo dài vì việc mua bán chênh lệch giá cuối cùng sẽ làm cho giá trị của 2 doanh nghiệp bằng nhau"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Trong trường hợp không có thuế thu nhập doanh nghiệp theo lý thuyết lợi nhuận hoạt động ròng NOI, khi mức độ đòn bẩy tài chính thay đổi thì",
+    "answer": "Chi phí vốn bình quân và giá trị doanh nghiệp không đổi"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Nếu doanh nghiệp có đòn bẩy hoạt động ở mức độ 5 với sản lượng Q có nghĩa là:",
+    "answer": "Nếu doanh doanh thu tăng 1%, EBIT sẽ tăng 5%"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Công ty Tỏa Sáng hiện tại là công ty không có vay nợ. Mức lợi nhuận trước thuế và lãi (EBIT) mà công ty kiếm được trong các năm gần đây là bằng nhau và công ty kỳ vọng điều này sẽ kéo dài mãi mãi. Toàn bộ lợi nhuận sau thuế đều được dùng để trả cổ tức. Công ty có tổng giá trị tài sản theo giá trị thị trường hiện tại là 400 triệu USD. Công ty hiện đang xem xét vấn đề tái cấu trúc vốn, theo đó, công ty sẽ vay nợ 100 triệu USD với lãi suất là 9%/năm. Hệ số tổng tài sản của công ty tại mức đòn bẩy tài chính bằng 0 (n unlevered) là 1,2. Lãi suất trái phiếu chính phủ (trái phiếu chính phủ được coi là 1 loại tài sản phi rủi ro) tại thời điểm phân tích là 8%, phần bù rủi ro thị trường là 5%. Thuế suất thuế TNDN là 20%. Công ty chỉ sử dụng cổ phiếu thường để huy động vốn, không sử dụng cổ phiếu ưu tiên (cổ phiếu ưu đãi cổ tức). Anh (chị) hãy tính chi phí vốn cổ phần của công ty sau khi tiến hành tái cấu trúc vốn",
+    "answer": "15,25%"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Giá trị của lá chắn thuế của nợ là bao nhiêu nếu giá trị thị trường hiện tại của công ty là 10 triệu đô la, giá trị khi không có đòn bẩy là 8 triệu đô la, và giá trị của chi phí phá sản và chi phí đại diện là 500.000 đô la?",
+    "answer": "$2.500.000"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Công ty Thanh Vân có tổng tài sản là 300 triệu $. Hiện tại công ty không sử dụng nợ. Suất sinh lời cơ bản (BEP = EBIT/Tổng TS) của công ty là 15%. Công ty đang dự tính tái cơ cấu vốn, cụ thể là sẽ phát hành nợ với tỷ trọng là 10% và lãi suất là 10%, đồng thời sử dụng tiền thu được để mua lại cổ phiếu thường của công ty. Nếu công ty tiến hành tái cơ cấu vốn thì thu nhập từ hoạt động kinh doanh, tổng tài sản và thuế suất của công ty vẫn giữ nguyên như trước. Điều nào sau đây xảy ra như là kết quả của việc tái cơ cấu vốn?",
+    "answer": "ROE của công ty sẽ tăng"
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Nếu biết các chỉ số: sản lượng (Q), đơn giá bán (P), chi phí biến đổi (V) và EBIT(Q)",
+    "answer": "Cả a,b,c đều đúng"
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Công ty Mạnh Hà có doanh thu hàng năm là 15,000$. Chi phí biến đổi bằng 60% doanh thu, chi phí cố định là 1,000$. Nếu doanh thu của công ty tăng lên 10%, hỏi EBIT sẽ tăng bao nhiêu %?",
+    "answer": "12%"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Một công ty không sử dụng đòn bẩy tài chính có:",
+    "answer": "Toàn bộ là vốn cổ phần trong cơ cấu vốn"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Công ty Hải Linh sản xuất thiết bị theo dõi cho các tổ chức tình báo. Doanh thu của công ty là 75 triệu $. Chi phí cố định, bao gồm cả chi phí nghiên cứu và phát triển là 40 triệu $, chi phí biến đổi bằng 30% doanh thu. Công ty lập kế hoạch mở rộng sản xuất, kế hoạch này khiến cho chi phí cố định tăng thêm 15 triệu $, giảm chi phí biến đổi xuống bằng 25% doanh thu và doanh thu cho phép tăng lên đến 100 triệu $. Hỏi DOL tại mức doanh thu mới là bao nhiêu?",
+    "answer": "3,75"
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "EBIT kỳ vọng của công ty ABC là một dòng tiền đều vô hạn. Thuế suất thuế Thu nhập doanh nghiệp là 34% và toàn bộ lợi nhuận sau thuế đều được công ty sử dụng để trả cổ tức. Công ty hiện có quy mô nợ vay là 500.000 USD với lãi suất vay là 10%/năm. Công ty có giá trị thị trường là 1.700.000 USD. Các nhà phân tích ước tính rằng chi phí VCSH của công ty trong trường hợp sử dụng 100% VCSH là 20%. Yêu cầu: Sử dụng lý thuyết M&M về cơ cấu vốn, hãy xác định: Lợi nhuận sau thuế của công ty ABC ứng với mức sử dụng đòn bẩy tài chính hiện tại.",
+    "answer": "$273.000"
+  }
+]

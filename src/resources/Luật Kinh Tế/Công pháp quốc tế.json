@@ -1,0 +1,2732 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Nhận định sau là đúng hay sai? Các nguyên tắc cơ bản của LQT hiện đại là cơ sở cho sự hình thành và phát triển của LQT.",
+    "answer": "Sai"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Nhận định sau là đúng hay sai? Nguyên tắc cơ bản của LQT có thể bị thay thế bởi một nguyên tắc mới được cộng đồng quốc tế thừa nhận",
+    "answer": "Đúng"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Nguồn nào dưới đây không phải nguồn của LQT?",
+    "answer": "Luật quốc gia"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Luật quốc tế có mấy đặc điểm cơ bản?",
+    "answer": "4"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Trong các nguyên tắc cơ bản của LQT hiện đại, nguyên tắc nào ra đời sớm nhất?",
+    "answer": "Nguyên tắc tận tâm, thiện chí thực hiện cam kết quốc tế (pacta sunt servanda)"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Có mấy trường hợp ĐƯQT có hiệu lực với bên thứ 3?",
+    "answer": "3"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Các dân tộc đang đấu tranh nhằm thực hiện quyền dân tộc tự quyết có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Có mấy hình thức ký điều ước quốc tế?",
+    "answer": "3"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Căn cứ vào phạm vi áp dụng, có thể phân chia điều ước quốc tế thành mấy loại?",
+    "answer": "3"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Có mấy yếu tổ cơ bản để hình thành một quốc gia?",
+    "answer": "4"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Thuộc tính chính trị - pháp lý vốn có của quốc gia là gì?",
+    "answer": "Chủ quyền"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Chủ quyền quốc gia được thực hiện ở mấy nội dung chính?",
+    "answer": "2"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Hình thức công nhận quốc tế nào thể hiện ý chí thực sự muốn thiết lập quan hệ bình thường giữa bên công nhận và bên được công nhận?",
+    "answer": "Công nhận de jure"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Công nhận de jure là hình thức công nhận như thế nào?",
+    "answer": "Công nhận quốc tế ở mức chính thức, ở mức độ đầy đủ nhất và trong phạm vi đầy đủ nhất"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Có mấy nguyên nhân dẫn đến vấn đề kế thừa quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Quyền tự do biển cả (vùng biển quốc tế) bao gồm nội dung nào dưới đây?",
+    "answer": "Cả 3 phương án trên."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Theo Luật hàng không quốc tế, có bao nhiêu quyền thương mại hàng không (các quyền tự do hàng không) được đề cập?",
+    "answer": "6"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Lãnh thổ quốc gia bao gồm mấy bộ phận (vùng)?",
+    "answer": "4"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây KHÔNG phải nguyên tắc của Luật hàng không quốc tế?",
+    "answer": "Nguyên tắc tự do bay trong vùng trời của bất kể một quốc gia nào"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Trong vùng đất, quốc gia có chủ quyền:",
+    "answer": "Hoàn toàn và tuyệt đối"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Luật quốc tế về quyền con người có bao nhiêu nguyên tắc?",
+    "answer": "3"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Có mấy nguyên tắc thường được áp dụng đối với việc hưởng quốc tịch theo sự sinh đẻ",
+    "answer": "2"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Nội dung của nguyên tắc huyết thống trong quy chế pháp lý về quốc tịch là gì?",
+    "answer": "Đứa trẻ sinh ra có quốc tịch theo cha mẹ chứ không phụ thuộc vào nơi sinh"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Đứa trẻ sinh ra trên lãnh thổ Việt Nam có cha là người Việt Nam, mẹ là người Trung Quốc",
+    "answer": "Do sự lựa chọn của cha mẹ"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Nội dung của nguyên tắc nơi sinh trong quy chế pháp lý về quốc tịch là gì?",
+    "answer": "Đứa trẻ sinh ra ở nước nào thì có quốc tịch nước ấy, không phụ thuộc vào quốc tịch cha mẹ"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây không phải nguyên tắc hoạt của WTO?",
+    "answer": "Nguyên tắc không có bất kỳ ưu đãi đối với quốc gia nào"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "WTO được thành lập vào thời gian nào?",
+    "answer": "01/01/1995"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Cơ quan nào của Liên hợp quốc có sự tham gia của tất cả các thành viên?",
+    "answer": "Đại hội đồng"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "UN là tên viết tắt của tổ chức quốc tế nào?",
+    "answer": "Liên hợp quốc"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Việt Nam chính thức trở thành thành viên ASEAN năm nào?",
+    "answer": "1995"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Tòa trọng tài có thẩm quyền giải quyết tranh chấp quốc tế do:",
+    "answer": "Sự nhất trí của các bên tranh chấp"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Giá trị pháp lý của phán quyết do Tòa án Công lý Liên hợp quốc xét xử là:",
+    "answer": "Chung thẩm và bắt buộc đối với các bên"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Biện pháp nào dưới đây KHÔNG phải là biện pháp hòa bình giải quyết tranh chấp?",
+    "answer": "Phát động chiến tranh"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Tòa án Công lý quốc tế Liên hợp quốc có thẩm quyền giải quyết các tranh chấp phát sinh giữa các chủ thể nào dưới đây?",
+    "answer": "Các quốc gia bất kể có phải là thành viên của Liên hợp quốc hay không"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Đâu là ưu điểm của trọng tài khi so với tòa án?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Nguyên tắc Pacta sunt servanda được nhắc tới trong LQT là nguyên tắc nào dưới đây?",
+    "answer": "Nguyên tắc tận tâm, thiện chí thực hiện cam kết quốc tế"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Trong số các nguyên tắc sau, nguyên tắc nào không nằm trong hệ thống các nguyên tắc cơ bản của LQT hiện đại?",
+    "answer": "Nguyên tắc đối xử tối huệ quốc"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Đâu không phải là nội dung chính của nguyên tắc bình đẳng về chủ quyền quốc gia?",
+    "answer": "Không được cho các quốc gia khác sử dụng lãnh thổ nước mình để tiến hành xâm lược lược chống quốc gia thứ ba"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Hai loại nguồn luật chính của Luật quốc tế là:",
+    "answer": "Điều ước quốc tế và tập quán quốc tế"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Khái niệm “Luật quốc tế” được hình thành từ khi nào?",
+    "answer": "Từ thời kỳ chiếm hữu nô lệ"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Chủ thể nào dưới đây là chủ thể cơ bản của LQT?",
+    "answer": "Quốc gia"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Quốc gia không có quyền nào sau đây?",
+    "answer": "Quyền can thiệp vào công việc nội bộ của quốc gia khác"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Chủ thể nào dưới đây không phải chủ thể của LQT?",
+    "answer": "Các tập đoàn đa quốc gia"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Trình tự ký kết điều ước quốc tế bao gồm mấy bước?",
+    "answer": "3"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Đâu là hình thức ký kết điều ước quốc tế phổ biến nhất?",
+    "answer": "Ký đầy đủ"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Đối tượng kế thừa (Khách thể của quan hệ kế thừa) quốc tế là gì?",
+    "answer": "Các quyền và nghĩa vụ quốc tế"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Nhận định sau đây đúng hay sai. Tư cách chủ thể của quốc gia là do sự công nhận.",
+    "answer": "Sai"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Trong các nghĩa vụ sau, đâu không phải là nghĩa vụ quốc tế cơ bản của quốc gia?",
+    "answer": "Chia sẻ bí mật quốc gia với những quốc gia khác"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không phải yếu tố cơ bản của Luật quốc tế?",
+    "answer": "Có biên giới quốc gia trên biển"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Có mấy hình thức công nhận quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Khái niệm nào sau đây là đúng khi nói về vùng trời quốc gia?",
+    "answer": "Là khoảng không gian bao trùm lên vùng đất, vùng nước của lãnh thổ quốc gia và nằm dưới chủ quyền hoàn toàn, riêng biệt của quốc gia đó"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trong vùng biển nào quốc gia có chủ quyền hoàn toàn, tuyệt đối và đầy đủ?",
+    "answer": "Vùng nội thủy"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Luật biển quốc tế có bao nhiêu nguyên tắc chung?",
+    "answer": "4"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Trong vùng nước, quốc gia có chủ quyền:",
+    "answer": "Hoàn toàn và đầy đủ"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Vùng trời quốc gia bị giới hạn bởi:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan đại diện ngoại giao cao nhất của một nước ở nước ngoài?",
+    "answer": "Đại sứ quán"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Viên chức ngoại giao KHÔNG được hưởng quyền miễn trừ tuyệt đối nào sau đây?",
+    "answer": "Quyền miễn trừ xét xử về dân sự"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Peter là người có quốc tịch Hoa Kỳ đang sinh sống tại Việt Nam. Để có thể nhập quốc tịch Việt Nam thì anh phải đáp ứng những điều kiện nào sau đây, biết Peter không có người thân là người Việt Nam:",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Trường hợp mất quốc tịch nào dưới đây là biện pháp trừng phạt của Nhà nước?",
+    "answer": "Bị tước quốc tịch"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Có bao nhiêu trường hợp bị mất quốc tịch?",
+    "answer": "3"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Mục đích của hòa hội là gì?",
+    "answer": "Hội nghị nhằm ký kết hòa ước, giải quyết những vấn đề do chiến tranh đặt ra và bình thường hóa quan hệ giữa các nước tham gia chiến tranh"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Thành phần tham gia hội nghị quốc tế phổ cập là:",
+    "answer": "Hầu hết các nước trên thế giới"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "ASEAN được thành lập vào thời gian nào?",
+    "answer": "08/08/1967"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Tổ chức quốc tế được thành lập dựa trên cơ sở nào sau đây?",
+    "answer": "Dựa vào các Điều ước quốc tế được ký kết giữa các quốc gia"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Mục đích nào dưới đây không phải mục đích hoạt động của Liên hợp quốc",
+    "answer": "Giúp các thành viên hoạch định và thực hiện chính sách nhằm mở rộng sản xuất, thương mại hàng hóa và dịch vụ, nâng cao mức sống, tạo thêm việc làm cho nhân dân các nước thành viên"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Nhiệm vụ chủ yếu của ủy ban điều tra là gì?",
+    "answer": "Giải thích khách quan, rõ ràng các sự kiện đã xảy ra"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Biện pháp hòa bình giải quyết tranh chấp quốc tế được sử dụng phổ biến nhất là:",
+    "answer": "Đàm phán trực tiếp"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Nhận xét nào không đúng khi nói về giá trị pháp lý của phán quyết trọng tài?",
+    "answer": "Không được xem xét lại trong mọi trường hợp"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Vai trò chính của bên thứ ba trong biện pháp hòa giải là gì?",
+    "answer": "Tham gia tích cực trong các cuộc đàm phán giữa các bên tranh chấp"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Số lượng trọng tài viên tham gia một vụ tranh chấp quốc tế KHÔNG thể là:",
+    "answer": "4"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Chọn nhận xét đúng nhất về quá trình hình thành Luật quốc tế?",
+    "answer": "Là quá trình mang tính chất tự nguyện của các quốc gia, là sự tự điều chỉnh quan hệ lập pháp được tiến hành theo phương thức thỏa thuận công khai"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Tự lựa chọn con đường phát triển phù hợp với truyền thống lịch sử văn hóa, tín ngưỡng, điều kiện địa lý” là nội dung chính của nguyên tắc nào?",
+    "answer": "Nguyên tắc dân tộc tự quyết"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Đâu là một trong những nội dung chính của nguyên tắc cấm dùng vũ lực hay đe dọa dùng vũ lực?",
+    "answer": "Mỗi quốc gia có quyền tự do lựa chọn và phát triển chế độ chính trị, xã hội, kinh tế và văn hóa của mình"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Nhận xét về mối quan hệ giữa Luật quốc tế và pháp luật quốc gia",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Quy phạm Jus cogens là gì?",
+    "answer": "Là những quy phạm mệnh lệnh, có giá trị bắt buộc chung, là những nguyên tắc cơ bản của LQT"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Vì sao tổ chức quốc tế liên chính phủ có quyền năng chủ thể LQT?",
+    "answer": "Do sự thỏa thuận của các quốc gia thành viên tự trao cho"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Điều ước quốc tế có hiệu lực khi nào?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Quốc gia có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Tổ chức quốc tế liên chính phủ có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Nêu cơ sở để xác định trách nhiệm quốc tế pháp lý.",
+    "answer": "Cả 3 cơ sở trên"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Chủ quyền quốc gia được thực hiện ở mấy nội dung chính?",
+    "answer": "2"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Có mấy nguyên nhân dẫn đến vấn đề kế thừa quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không phải yếu tố cơ bản của Luật quốc tế?",
+    "answer": "Có biên giới quốc gia trên biển"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Thuộc tính chính trị - pháp lý vốn có của quốc gia là gì?",
+    "answer": "Chủ quyền"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Công nhận de jure là hình thức công nhận như thế nào?",
+    "answer": "Công nhận quốc tế ở mức chính thức, ở mức độ đầy đủ nhất và trong phạm vi đầy đủ nhất"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của vùng tiếp giáp lãnh hải là bao nhiêu?",
+    "answer": "24 hải lý tính từ đường cơ sở"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của lãnh hải là bao nhiêu?",
+    "answer": "12 hải lý tính từ đường cơ sở"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Luật hàng không quốc tế có bao nhiêu nguyên tắc?",
+    "answer": "3"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của nội thủy là bao nhiêu?",
+    "answer": "Không có quy định"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của vùng đặc quyền kinh tế là bao nhiêu?",
+    "answer": "200 hải lý tính từ đường cơ sở"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Viên chức lãnh sự không có quyền nào sau đây",
+    "answer": "Quyền bất khả xâm phạm về thân thể trong mọi trường hợp"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Nhân viên phục vụ trong cơ quan đại diện ngoại giao không có quyền nào sau đây:",
+    "answer": "Quyền bất khả xâm phạm về thân thể trong mọi trường hợp"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Việt Nam áp dụng nguyên tắc nào trong các nguyên tắc về việc hưởng quốc tịch theo sự sinh đẻ",
+    "answer": "Kết hợp cả nguyên tắc huyết thống và nguyên tắc nơi sinh"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan lãnh sự cao nhất?",
+    "answer": "Tổng lãnh sự quán"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Đứa trẻ sinh ra trên lãnh thổ Việt Nam có cha là người Việt Nam, mẹ là người không có quốc tịch",
+    "answer": "Việt Nam"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới không phải là nguyên tắc hoạt động của Liên hợp quốc",
+    "answer": "Liên hợp quốc được phép can thiệp vào những công việc thuộc thẩm quyền nội bộ của bất cứ quốc gia nào"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "WTO là tên viết tắt của tổ chức quốc tế nào?",
+    "answer": "Tổ chức thương mại thế giới"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Theo Hiệp định thành lập WTO, WTO có bao nhiêu chức năng chính?",
+    "answer": "5"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Thành viên duy nhất của Đông Nam Á không là thành viên của ASEAN là:",
+    "answer": "Đông – ti – mo"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan cao nhất của WTO",
+    "answer": "Hội nghị bộ trưởng"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Hội đồng bảo an KHÔNG có quyền nào dưới đây ngay cả khi xét thầy có sự đe dọa hoặc phá hoại hòa bình, có hành vi xâm lược?",
+    "answer": "Can thiệp vào công việc nội bộ của quốc gia"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Hòa giải được coi là kết thúc trong trường hợp nào sau đây?",
+    "answer": "Cả 3 trường hợp trên"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Đâu không phải là ưu thế của đàm phán trực tiếp so với các biện pháp hòa bình giải quyết tranh chấp còn lại?",
+    "answer": "Có biện pháp cưỡng chế các quốc gia phải tuân theo"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Cơ quan nào của Liên hợp quốc có chức năng rộng lớn nhất trong giải quyết hòa bình các tranh chấp quốc tế.",
+    "answer": "Hội đồng bảo an"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Vai trò chính của bên thứ ba trong biện pháp trung gian là gì?",
+    "answer": "Động viên, khuyến khích các quốc gia có liên quan đến tranh chấp giải quyết vụ tranh chấp bằng biện pháp hòa bình nào đó"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Tự lựa chọn con đường phát triển phù hợp với truyền thống lịch sử văn hóa, tín ngưỡng, điều kiện địa lý” là nội dung chính của nguyên tắc nào?",
+    "answer": "Nguyên tắc dân tộc tự quyết"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Đâu không phải là nội dung chính của nguyên tắc bình đẳng về chủ quyền quốc gia?",
+    "answer": "Không được cho các quốc gia khác sử dụng lãnh thổ nước mình để tiến hành xâm lược lược chống quốc gia thứ ba"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Trong các nguyên tắc cơ bản của LQT hiện đại, nguyên tắc nào ra đời sớm nhất?",
+    "answer": "Nguyên tắc tận tâm, thiện chí thực hiện cam kết quốc tế (pacta sunt servanda)"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Quy phạm Jus cogens là gì?",
+    "answer": "Là những quy phạm mệnh lệnh, có giá trị bắt buộc chung, là những nguyên tắc cơ bản của LQT"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Nhận định sau là đúng hay sai? Các nguyên tắc cơ bản của LQT hiện đại là cơ sở cho sự hình thành và phát triển của LQT.",
+    "answer": "Sai"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Chủ thể nào dưới đây là chủ thể cơ bản của LQT?",
+    "answer": "Quốc gia"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Trình tự ký kết điều ước quốc tế bao gồm mấy bước?",
+    "answer": "3"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Đâu là hình thức ký kết điều ước quốc tế phổ biến nhất?",
+    "answer": "Ký đầy đủ"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Nêu cơ sở để xác định trách nhiệm quốc tế pháp lý.",
+    "answer": "Cả 3 cơ sở trên"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Căn cứ vào phạm vi áp dụng, có thể phân chia điều ước quốc tế thành mấy loại?",
+    "answer": "3"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Hình thức công nhận quốc tế nào thể hiện ý chí thực sự muốn thiết lập quan hệ bình thường giữa bên công nhận và bên được công nhận?",
+    "answer": "Công nhận de jure"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Nhận định sau đây đúng hay sai. Tư cách chủ thể của quốc gia là do sự công nhận.",
+    "answer": "Sai"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Đối tượng kế thừa (Khách thể của quan hệ kế thừa) quốc tế là gì?",
+    "answer": "Các quyền và nghĩa vụ quốc tế"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Có mấy hình thức công nhận quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Trong các nghĩa vụ sau, đâu không phải là nghĩa vụ quốc tế cơ bản của quốc gia?",
+    "answer": "Chia sẻ bí mật quốc gia với những quốc gia khác"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Đáp án nào thể hiện mức độ tăng dần của chủ quyền quốc gia đối với các vùng biển?",
+    "answer": "Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Trong vùng trời, quốc gia có chủ quyền:",
+    "answer": "Hoàn toàn và riêng biệt"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Theo Luật hàng không quốc tế, độ cao của biên giới trên cao của vùng trời tối đa là bao nhiêu?",
+    "answer": "Không có quy định"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Mỗi phương tiện bay được phép mang bao nhiêu quốc tịch?",
+    "answer": "1 quốc tịch"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Quốc gia nào được xác lập chủ quyền đối với vùng biển cả?",
+    "answer": "Không một quốc gia nào"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Viên chức ngoại giao không các quyền nào sau đây:",
+    "answer": "Quyền được phép biết bí mật quốc gia của nước tiếp nhận"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Cơ quan đại diện ngoại giao không có chức năng nào sau đây?",
+    "answer": "Cấp hộ chiếu và giấy tờ đi lại cho công dân nước cử và cấp thị thực hoặc các giấy tờ thích hợp cho những người muốn đến nước cử"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Tại sao có trường hợp người không có quốc tịch?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Thành viên của cơ quan đại diện ngoại giao bao gồm:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Tại sao có những trường hợp người có 2 quốc tịch?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Thành viên duy nhất của Đông Nam Á không là thành viên của ASEAN là:",
+    "answer": "Đông – ti – mo"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Theo Hiệp định thành lập WTO, WTO có bao nhiêu chức năng chính?",
+    "answer": "5"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Tổ chức quốc tế được thành lập dựa trên cơ sở nào sau đây?",
+    "answer": "Dựa vào các Điều ước quốc tế được ký kết giữa các quốc gia"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây không phải nguyên tắc hoạt của WTO?",
+    "answer": "Nguyên tắc không có bất kỳ ưu đãi đối với quốc gia nào"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Thành phần tham gia hội nghị quốc tế phổ cập là:",
+    "answer": "Hầu hết các nước trên thế giới"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan giải quyết tranh chấp của WTO",
+    "answer": "DSB"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Căn cứ vào số lượng chủ thể tham gia tranh chấp, tranh chấp quốc tế được phân thành mấy loại?",
+    "answer": "2"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Trong một nhiệm kỳ, Tòa án Công lý Liên hợp quốc có bao nhiêu thẩm phán?",
+    "answer": "15"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Một vụ tranh chấp được đưa ra Tòa án Công lý quốc tế Liên hợp quốc kết thúc khi nào?",
+    "answer": "CẢ 3 trường hợp trên"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Nhóm chuyên gia (PANEL) do cơ quan nào thành lập?",
+    "answer": "Cơ quan giải quyết tranh chấp (DSB)"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Khái niệm “Luật quốc tế” được hình thành từ khi nào?",
+    "answer": "Từ thời kỳ chiếm hữu nô lệ"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Chọn nhận xét đúng nhất về quá trình hình thành Luật quốc tế?",
+    "answer": "Là quá trình mang tính chất tự nguyện của các quốc gia, là sự tự điều chỉnh quan hệ lập pháp được tiến hành theo phương thức thỏa thuận công khai"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nhận xét về mối quan hệ giữa Luật quốc tế và pháp luật quốc gia",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Luật quốc tế có mấy đặc điểm cơ bản?",
+    "answer": "4"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Nguồn nào dưới đây không phải nguồn của LQT?",
+    "answer": "Luật quốc gia"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Có mấy trường hợp ĐƯQT có hiệu lực với bên thứ 3?",
+    "answer": "3"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Điều ước quốc tế có hiệu lực khi nào?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Các dân tộc đang đấu tranh nhằm thực hiện quyền dân tộc tự quyết có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Quốc gia không có quyền nào sau đây?",
+    "answer": "Quyền can thiệp vào công việc nội bộ của quốc gia khác"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Có mấy hình thức ký điều ước quốc tế?",
+    "answer": "3"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Thuộc tính chính trị - pháp lý vốn có của quốc gia là gì?",
+    "answer": "Chủ quyền"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Chủ quyền quốc gia được thực hiện ở mấy nội dung chính?",
+    "answer": "2"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không phải yếu tố cơ bản của Luật quốc tế?",
+    "answer": "Có biên giới quốc gia trên biển"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Nhận định sau đây đúng hay sai. Tư cách chủ thể của quốc gia là do sự công nhận.",
+    "answer": "Sai"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Đối tượng kế thừa (Khách thể của quan hệ kế thừa) quốc tế là gì?",
+    "answer": "Các quyền và nghĩa vụ quốc tế"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Quốc gia nào được xác lập chủ quyền đối với vùng biển cả?",
+    "answer": "Không một quốc gia nào"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của vùng tiếp giáp lãnh hải là bao nhiêu?",
+    "answer": "24 hải lý tính từ đường cơ sở"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây KHÔNG phải nguyên tắc của Luật hàng không quốc tế?",
+    "answer": "Nguyên tắc tự do bay trong vùng trời của bất kể một quốc gia nào"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Vùng trời quốc gia bị giới hạn bởi:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Luật hàng không quốc tế có bao nhiêu nguyên tắc?",
+    "answer": "3"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Cơ quan lãnh sự không có chức năng nào trong các chức năng dưới đây:",
+    "answer": "Đàm phán với Chính phủ Nước tiếp nhận"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Viên chức ngoại giao KHÔNG được hưởng quyền nào sau đây?",
+    "answer": "Quyền miễn trừ xét xử dân sự khi tham gia với tư cách cá nhân trong một vụ tranh chấp bất động sản tại nước tiếp nhận"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Trong các cách thức hưởng quốc tịch, cách thức nào là phổ biến nhất?",
+    "answer": "Theo sự sinh đẻ"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Đứa trẻ sinh ra trên lãnh thổ Bra-xin có cha mẹ đều là người Ac-hen-ti-na, biết cả 2 Bra-xin và Ac-hen-ti-na đều xác định quốc tịch trên nguyên tắc quyền nơi sinh.",
+    "answer": "Bra-xin"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Người đứng đầu cơ quan đại diện ngoại giao thường được chia thành bao nhiêu cấp?",
+    "answer": "3"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan cao nhất của WTO",
+    "answer": "Hội nghị bộ trưởng"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "ASEAN được thành lập vào thời gian nào?",
+    "answer": "08/08/1967"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Cơ quan nào của Liên hợp quốc có sự tham gia của tất cả các thành viên?",
+    "answer": "Đại hội đồng"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "UN là tên viết tắt của tổ chức quốc tế nào?",
+    "answer": "Liên hợp quốc"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "WTO được thành lập vào thời gian nào?",
+    "answer": "01/01/1995"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Tòa án Công lý quốc tế Liên hợp quốc có thẩm quyền giải quyết các tranh chấp phát sinh giữa các chủ thể nào dưới đây?",
+    "answer": "Các quốc gia bất kể có phải là thành viên của Liên hợp quốc hay không"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Vai trò chính của bên thứ ba trong biện pháp hòa giải là gì?",
+    "answer": "Tham gia tích cực trong các cuộc đàm phán giữa các bên tranh chấp"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Căn cứ vào số lượng chủ thể tham gia tranh chấp, tranh chấp quốc tế được phân thành mấy loại?",
+    "answer": "2"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Biện pháp hòa bình giải quyết tranh chấp quốc tế được sử dụng phổ biến nhất là:",
+    "answer": "Đàm phán trực tiếp"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Nhóm chuyên gia (PANEL) do cơ quan nào thành lập?",
+    "answer": "Cơ quan giải quyết tranh chấp (DSB)"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Nguyên tắc Pacta sunt servanda được nhắc tới trong LQT là nguyên tắc nào dưới đây?",
+    "answer": "Nguyên tắc tận tâm, thiện chí thực hiện cam kết quốc tế"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Đâu là một trong những nội dung chính của nguyên tắc cấm dùng vũ lực hay đe dọa dùng vũ lực?",
+    "answer": "Mỗi quốc gia có quyền tự do lựa chọn và phát triển chế độ chính trị, xã hội, kinh tế và văn hóa của mình"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Trong số các nguyên tắc sau, nguyên tắc nào không nằm trong hệ thống các nguyên tắc cơ bản của LQT hiện đại?",
+    "answer": "Nguyên tắc đối xử tối huệ quốc"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Hai loại nguồn luật chính của Luật quốc tế là:",
+    "answer": "Điều ước quốc tế và tập quán quốc tế"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Nhận định sau là đúng hay sai? Nguyên tắc cơ bản của LQT có thể bị thay thế bởi một nguyên tắc mới được cộng đồng quốc tế thừa nhận",
+    "answer": "Đúng"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Có mấy yếu tổ cơ bản để hình thành một quốc gia?",
+    "answer": "4"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Quốc gia có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Chủ thể nào dưới đây không phải chủ thể của LQT?",
+    "answer": "Các tập đoàn đa quốc gia"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Vì sao tổ chức quốc tế liên chính phủ có quyền năng chủ thể LQT?",
+    "answer": "Do sự thỏa thuận của các quốc gia thành viên tự trao cho"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Tổ chức quốc tế liên chính phủ có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Công nhận de jure là hình thức công nhận như thế nào?",
+    "answer": "Công nhận quốc tế ở mức chính thức, ở mức độ đầy đủ nhất và trong phạm vi đầy đủ nhất"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Trong các nghĩa vụ sau, đâu không phải là nghĩa vụ quốc tế cơ bản của quốc gia?",
+    "answer": "Chia sẻ bí mật quốc gia với những quốc gia khác"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Có mấy hình thức công nhận quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Có mấy nguyên nhân dẫn đến vấn đề kế thừa quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Hình thức công nhận quốc tế nào thể hiện ý chí thực sự muốn thiết lập quan hệ bình thường giữa bên công nhận và bên được công nhận?",
+    "answer": "Công nhận de jure"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Trong vùng nước, quốc gia có chủ quyền:",
+    "answer": "Hoàn toàn và đầy đủ"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Luật biển quốc tế có bao nhiêu nguyên tắc chung?",
+    "answer": "4"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của vùng đặc quyền kinh tế là bao nhiêu?",
+    "answer": "200 hải lý tính từ đường cơ sở"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Đáp án nào thể hiện mức độ tăng dần của chủ quyền quốc gia đối với các vùng biển?",
+    "answer": "Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Mỗi phương tiện bay được phép mang bao nhiêu quốc tịch?",
+    "answer": "1 quốc tịch"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Viên chức ngoại giao KHÔNG được hưởng quyền nào sau đây?",
+    "answer": "Quyền miễn trừ xét xử dân sự khi tham gia với tư cách cá nhân trong một vụ tranh chấp bất động sản tại nước tiếp nhận"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Việt Nam áp dụng nguyên tắc nào trong các nguyên tắc về việc hưởng quốc tịch theo sự sinh đẻ",
+    "answer": "Kết hợp cả nguyên tắc huyết thống và nguyên tắc nơi sinh"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Trong các cách thức hưởng quốc tịch, cách thức nào là phổ biến nhất?",
+    "answer": "Theo sự sinh đẻ"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Đứa trẻ sinh ra trên lãnh thổ Việt Nam có cha là người Việt Nam, mẹ là người Trung Quốc",
+    "answer": "Do sự lựa chọn của cha mẹ"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Viên chức ngoại giao không các quyền nào sau đây:",
+    "answer": "Quyền được phép biết bí mật quốc gia của nước tiếp nhận"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới không phải là nguyên tắc hoạt động của Liên hợp quốc",
+    "answer": "Liên hợp quốc được phép can thiệp vào những công việc thuộc thẩm quyền nội bộ của bất cứ quốc gia nào"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Mục đích của hòa hội là gì?",
+    "answer": "Hội nghị nhằm ký kết hòa ước, giải quyết những vấn đề do chiến tranh đặt ra và bình thường hóa quan hệ giữa các nước tham gia chiến tranh"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Mục đích nào dưới đây không phải mục đích hoạt động của Liên hợp quốc",
+    "answer": "Giúp các thành viên hoạch định và thực hiện chính sách nhằm mở rộng sản xuất, thương mại hàng hóa và dịch vụ, nâng cao mức sống, tạo thêm việc làm cho nhân dân các nước thành viên"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "WTO là tên viết tắt của tổ chức quốc tế nào?",
+    "answer": "Tổ chức thương mại thế giới"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Việt Nam chính thức trở thành thành viên ASEAN năm nào?",
+    "answer": "1995"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Nhiệm vụ chủ yếu của ủy ban điều tra là gì?",
+    "answer": "Giải thích khách quan, rõ ràng các sự kiện đã xảy ra"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Đâu là ưu điểm của trọng tài khi so với tòa án?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Giá trị pháp lý của phán quyết do Tòa án Công lý Liên hợp quốc xét xử là:",
+    "answer": "Chung thẩm và bắt buộc đối với các bên"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Biện pháp nào dưới đây KHÔNG phải là biện pháp hòa bình giải quyết tranh chấp?",
+    "answer": "Phát động chiến tranh"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Tòa trọng tài có thẩm quyền giải quyết tranh chấp quốc tế do:",
+    "answer": "Sự nhất trí của các bên tranh chấp"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Đâu là một trong những nội dung chính của nguyên tắc cấm dùng vũ lực hay đe dọa dùng vũ lực?",
+    "answer": "Mỗi quốc gia có quyền tự do lựa chọn và phát triển chế độ chính trị, xã hội, kinh tế và văn hóa của mình"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Trong các nguyên tắc cơ bản của LQT hiện đại, nguyên tắc nào ra đời sớm nhất?",
+    "answer": "Nguyên tắc tận tâm, thiện chí thực hiện cam kết quốc tế (pacta sunt servanda)"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Nhận xét về mối quan hệ giữa Luật quốc tế và pháp luật quốc gia",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Khái niệm “Luật quốc tế” được hình thành từ khi nào?",
+    "answer": "Từ thời kỳ chiếm hữu nô lệ"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Tự lựa chọn con đường phát triển phù hợp với truyền thống lịch sử văn hóa, tín ngưỡng, điều kiện địa lý” là nội dung chính của nguyên tắc nào?",
+    "answer": "Nguyên tắc dân tộc tự quyết"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Trình tự ký kết điều ước quốc tế bao gồm mấy bước?",
+    "answer": "3"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Có mấy hình thức ký điều ước quốc tế?",
+    "answer": "3"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Quốc gia không có quyền nào sau đây?",
+    "answer": "Quyền can thiệp vào công việc nội bộ của quốc gia khác"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Có mấy yếu tổ cơ bản để hình thành một quốc gia?",
+    "answer": "4"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Có mấy trường hợp ĐƯQT có hiệu lực với bên thứ 3?",
+    "answer": "3"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Có mấy hình thức công nhận quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Trong các nghĩa vụ sau, đâu không phải là nghĩa vụ quốc tế cơ bản của quốc gia?",
+    "answer": "Chia sẻ bí mật quốc gia với những quốc gia khác"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Hình thức công nhận quốc tế nào thể hiện ý chí thực sự muốn thiết lập quan hệ bình thường giữa bên công nhận và bên được công nhận?",
+    "answer": "Công nhận de jure"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Có mấy nguyên nhân dẫn đến vấn đề kế thừa quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Công nhận de jure là hình thức công nhận như thế nào?",
+    "answer": "Công nhận quốc tế ở mức chính thức, ở mức độ đầy đủ nhất và trong phạm vi đầy đủ nhất"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Trong vùng đất, quốc gia có chủ quyền:",
+    "answer": "Hoàn toàn và tuyệt đối"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Quyền tự do biển cả (vùng biển quốc tế) bao gồm nội dung nào dưới đây?",
+    "answer": "Cả 3 phương án trên."
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Trong vùng biển nào quốc gia có chủ quyền hoàn toàn, tuyệt đối và đầy đủ?",
+    "answer": "Vùng nội thủy"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Trong vùng trời, quốc gia có chủ quyền:",
+    "answer": "Hoàn toàn và riêng biệt"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Theo Luật hàng không quốc tế, độ cao của biên giới trên cao của vùng trời tối đa là bao nhiêu?",
+    "answer": "Không có quy định"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Đứa trẻ sinh ra trên lãnh thổ Việt Nam có cha là người Việt Nam, mẹ là người không có quốc tịch",
+    "answer": "Việt Nam"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Peter là người có quốc tịch Hoa Kỳ đang sinh sống tại Việt Nam. Để có thể nhập quốc tịch Việt Nam thì anh phải đáp ứng những điều kiện nào sau đây, biết Peter không có người thân là người Việt Nam:",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Có bao nhiêu trường hợp bị mất quốc tịch?",
+    "answer": "3"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Nội dung của nguyên tắc nơi sinh trong quy chế pháp lý về quốc tịch là gì?",
+    "answer": "Đứa trẻ sinh ra ở nước nào thì có quốc tịch nước ấy, không phụ thuộc vào quốc tịch cha mẹ"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Luật quốc tế về quyền con người có bao nhiêu nguyên tắc?",
+    "answer": "3"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây không phải nguyên tắc hoạt của WTO?",
+    "answer": "Nguyên tắc không có bất kỳ ưu đãi đối với quốc gia nào"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Theo Hiệp định thành lập WTO, WTO có bao nhiêu chức năng chính?",
+    "answer": "5"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Cơ quan nào của Liên hợp quốc có sự tham gia của tất cả các thành viên?",
+    "answer": "Đại hội đồng"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "WTO được thành lập vào thời gian nào?",
+    "answer": "01/01/1995"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan cao nhất của WTO",
+    "answer": "Hội nghị bộ trưởng"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Nhận xét nào không đúng khi nói về giá trị pháp lý của phán quyết trọng tài?",
+    "answer": "Không được xem xét lại trong mọi trường hợp"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Đâu không phải là ưu thế của đàm phán trực tiếp so với các biện pháp hòa bình giải quyết tranh chấp còn lại?",
+    "answer": "Có biện pháp cưỡng chế các quốc gia phải tuân theo"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Hội đồng bảo an KHÔNG có quyền nào dưới đây ngay cả khi xét thầy có sự đe dọa hoặc phá hoại hòa bình, có hành vi xâm lược?",
+    "answer": "Can thiệp vào công việc nội bộ của quốc gia"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Hòa giải được coi là kết thúc trong trường hợp nào sau đây?",
+    "answer": "Cả 3 trường hợp trên"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Trong một nhiệm kỳ, Tòa án Công lý Liên hợp quốc có bao nhiêu thẩm phán?",
+    "answer": "15"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Nguồn nào dưới đây không phải nguồn của LQT?",
+    "answer": "Luật quốc gia"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Chọn nhận xét đúng nhất về quá trình hình thành Luật quốc tế?",
+    "answer": "Là quá trình mang tính chất tự nguyện của các quốc gia, là sự tự điều chỉnh quan hệ lập pháp được tiến hành theo phương thức thỏa thuận công khai"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Nhận định sau là đúng hay sai? Các nguyên tắc cơ bản của LQT hiện đại là cơ sở cho sự hình thành và phát triển của LQT.",
+    "answer": "Sai"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Luật quốc tế có mấy đặc điểm cơ bản?",
+    "answer": "4"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Trong số các nguyên tắc sau, nguyên tắc nào không nằm trong hệ thống các nguyên tắc cơ bản của LQT hiện đại?",
+    "answer": "Nguyên tắc đối xử tối huệ quốc"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Chủ thể nào dưới đây không phải chủ thể của LQT?",
+    "answer": "Các tập đoàn đa quốc gia"
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Quốc gia có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Điều ước quốc tế có hiệu lực khi nào?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Chủ thể nào dưới đây là chủ thể cơ bản của LQT?",
+    "answer": "Quốc gia"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Căn cứ vào phạm vi áp dụng, có thể phân chia điều ước quốc tế thành mấy loại?",
+    "answer": "3"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Đối tượng kế thừa (Khách thể của quan hệ kế thừa) quốc tế là gì?",
+    "answer": "Các quyền và nghĩa vụ quốc tế"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Thuộc tính chính trị - pháp lý vốn có của quốc gia là gì?",
+    "answer": "Chủ quyền"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Nhận định sau đây đúng hay sai. Tư cách chủ thể của quốc gia là do sự công nhận.",
+    "answer": "Sai"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Chủ quyền quốc gia được thực hiện ở mấy nội dung chính?",
+    "answer": "2"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không phải yếu tố cơ bản của Luật quốc tế?",
+    "answer": "Có biên giới quốc gia trên biển"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Khái niệm nào sau đây là đúng khi nói về vùng trời quốc gia?",
+    "answer": "Là khoảng không gian bao trùm lên vùng đất, vùng nước của lãnh thổ quốc gia và nằm dưới chủ quyền hoàn toàn, riêng biệt của quốc gia đó"
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của nội thủy là bao nhiêu?",
+    "answer": "Không có quy định"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Theo Luật hàng không quốc tế, có bao nhiêu quyền thương mại hàng không (các quyền tự do hàng không) được đề cập?",
+    "answer": "6"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của lãnh hải là bao nhiêu?",
+    "answer": "12 hải lý tính từ đường cơ sở"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Lãnh thổ quốc gia bao gồm mấy bộ phận (vùng)?",
+    "answer": "4"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Viên chức ngoại giao KHÔNG được hưởng quyền miễn trừ tuyệt đối nào sau đây?",
+    "answer": "Quyền miễn trừ xét xử về dân sự"
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Cơ quan lãnh sự không có chức năng nào trong các chức năng dưới đây:",
+    "answer": "Đàm phán với Chính phủ Nước tiếp nhận"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Tại sao có trường hợp người không có quốc tịch?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Có mấy nguyên tắc thường được áp dụng đối với việc hưởng quốc tịch theo sự sinh đẻ",
+    "answer": "2"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Thành viên của cơ quan đại diện ngoại giao bao gồm:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "UN là tên viết tắt của tổ chức quốc tế nào?",
+    "answer": "Liên hợp quốc"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "WTO là tên viết tắt của tổ chức quốc tế nào?",
+    "answer": "Tổ chức thương mại thế giới"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Thành viên duy nhất của Đông Nam Á không là thành viên của ASEAN là:",
+    "answer": "Đông – ti – mo"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Tổ chức quốc tế được thành lập dựa trên cơ sở nào sau đây?",
+    "answer": "Dựa vào các Điều ước quốc tế được ký kết giữa các quốc gia"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Thành phần tham gia hội nghị quốc tế phổ cập là:",
+    "answer": "Hầu hết các nước trên thế giới"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Cơ quan nào của Liên hợp quốc có chức năng rộng lớn nhất trong giải quyết hòa bình các tranh chấp quốc tế.",
+    "answer": "Hội đồng bảo an"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan giải quyết tranh chấp của WTO",
+    "answer": "DSB"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Một vụ tranh chấp được đưa ra Tòa án Công lý quốc tế Liên hợp quốc kết thúc khi nào?",
+    "answer": "CẢ 3 trường hợp trên"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Vai trò chính của bên thứ ba trong biện pháp trung gian là gì?",
+    "answer": "Động viên, khuyến khích các quốc gia có liên quan đến tranh chấp giải quyết vụ tranh chấp bằng biện pháp hòa bình nào đó"
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Số lượng trọng tài viên tham gia một vụ tranh chấp quốc tế KHÔNG thể là:",
+    "answer": "4"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Hai loại nguồn luật chính của Luật quốc tế là:",
+    "answer": "Điều ước quốc tế và tập quán quốc tế"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Nguyên tắc Pacta sunt servanda được nhắc tới trong LQT là nguyên tắc nào dưới đây?",
+    "answer": "Nguyên tắc tận tâm, thiện chí thực hiện cam kết quốc tế"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Nhận định sau là đúng hay sai? Nguyên tắc cơ bản của LQT có thể bị thay thế bởi một nguyên tắc mới được cộng đồng quốc tế thừa nhận",
+    "answer": "Đúng"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Đâu không phải là nội dung chính của nguyên tắc bình đẳng về chủ quyền quốc gia?",
+    "answer": "Không được cho các quốc gia khác sử dụng lãnh thổ nước mình để tiến hành xâm lược lược chống quốc gia thứ ba"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Quy phạm Jus cogens là gì?",
+    "answer": "Là những quy phạm mệnh lệnh, có giá trị bắt buộc chung, là những nguyên tắc cơ bản của LQT"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Vì sao tổ chức quốc tế liên chính phủ có quyền năng chủ thể LQT?",
+    "answer": "Do sự thỏa thuận của các quốc gia thành viên tự trao cho"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Đâu là hình thức ký kết điều ước quốc tế phổ biến nhất?",
+    "answer": "Ký đầy đủ"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Nêu cơ sở để xác định trách nhiệm quốc tế pháp lý.",
+    "answer": "Cả 3 cơ sở trên"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Các dân tộc đang đấu tranh nhằm thực hiện quyền dân tộc tự quyết có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Tổ chức quốc tế liên chính phủ có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Nhận định sau đây đúng hay sai. Tư cách chủ thể của quốc gia là do sự công nhận.",
+    "answer": "Sai"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Hình thức công nhận quốc tế nào thể hiện ý chí thực sự muốn thiết lập quan hệ bình thường giữa bên công nhận và bên được công nhận?",
+    "answer": "Công nhận de jure"
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Trong các nghĩa vụ sau, đâu không phải là nghĩa vụ quốc tế cơ bản của quốc gia?",
+    "answer": "Chia sẻ bí mật quốc gia với những quốc gia khác"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Có mấy nguyên nhân dẫn đến vấn đề kế thừa quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Đối tượng kế thừa (Khách thể của quan hệ kế thừa) quốc tế là gì?",
+    "answer": "Các quyền và nghĩa vụ quốc tế"
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của vùng tiếp giáp lãnh hải là bao nhiêu?",
+    "answer": "24 hải lý tính từ đường cơ sở"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Trong vùng đất, quốc gia có chủ quyền:",
+    "answer": "Hoàn toàn và tuyệt đối"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Khái niệm nào sau đây là đúng khi nói về vùng trời quốc gia?",
+    "answer": "Là khoảng không gian bao trùm lên vùng đất, vùng nước của lãnh thổ quốc gia và nằm dưới chủ quyền hoàn toàn, riêng biệt của quốc gia đó"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây KHÔNG phải nguyên tắc của Luật hàng không quốc tế?",
+    "answer": "Nguyên tắc tự do bay trong vùng trời của bất kể một quốc gia nào"
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Trong vùng trời, quốc gia có chủ quyền:",
+    "answer": "Hoàn toàn và riêng biệt"
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": "Đứa trẻ sinh ra trên lãnh thổ Bra-xin có cha mẹ đều là người Ac-hen-ti-na, biết cả 2 Bra-xin và Ac-hen-ti-na đều xác định quốc tịch trên nguyên tắc quyền nơi sinh.",
+    "answer": "Bra-xin"
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan đại diện ngoại giao cao nhất của một nước ở nước ngoài?",
+    "answer": "Đại sứ quán"
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Người đứng đầu cơ quan đại diện ngoại giao thường được chia thành bao nhiêu cấp?",
+    "answer": "3"
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "Nhân viên phục vụ trong cơ quan đại diện ngoại giao không có quyền nào sau đây:",
+    "answer": "Quyền bất khả xâm phạm về thân thể trong mọi trường hợp"
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Nội dung của nguyên tắc huyết thống trong quy chế pháp lý về quốc tịch là gì?",
+    "answer": "Đứa trẻ sinh ra có quốc tịch theo cha mẹ chứ không phụ thuộc vào nơi sinh"
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Mục đích của hòa hội là gì?",
+    "answer": "Hội nghị nhằm ký kết hòa ước, giải quyết những vấn đề do chiến tranh đặt ra và bình thường hóa quan hệ giữa các nước tham gia chiến tranh"
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "ASEAN được thành lập vào thời gian nào?",
+    "answer": "08/08/1967"
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": "Mục đích nào dưới đây không phải mục đích hoạt động của Liên hợp quốc",
+    "answer": "Giúp các thành viên hoạch định và thực hiện chính sách nhằm mở rộng sản xuất, thương mại hàng hóa và dịch vụ, nâng cao mức sống, tạo thêm việc làm cho nhân dân các nước thành viên"
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Việt Nam chính thức trở thành thành viên ASEAN năm nào?",
+    "answer": "1995"
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới không phải là nguyên tắc hoạt động của Liên hợp quốc",
+    "answer": "Liên hợp quốc được phép can thiệp vào những công việc thuộc thẩm quyền nội bộ của bất cứ quốc gia nào"
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": "Cơ quan nào của Liên hợp quốc có chức năng rộng lớn nhất trong giải quyết hòa bình các tranh chấp quốc tế.",
+    "answer": "Hội đồng bảo an"
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": "Nhóm chuyên gia (PANEL) do cơ quan nào thành lập?",
+    "answer": "Cơ quan giải quyết tranh chấp (DSB)"
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Biện pháp hòa bình giải quyết tranh chấp quốc tế được sử dụng phổ biến nhất là:",
+    "answer": "Đàm phán trực tiếp"
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "Biện pháp nào dưới đây KHÔNG phải là biện pháp hòa bình giải quyết tranh chấp?",
+    "answer": "Phát động chiến tranh"
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Nhận xét nào không đúng khi nói về giá trị pháp lý của phán quyết trọng tài?",
+    "answer": "Không được xem xét lại trong mọi trường hợp"
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Nguyên tắc Pacta sunt servanda được nhắc tới trong LQT là nguyên tắc nào dưới đây?",
+    "answer": "Nguyên tắc tận tâm, thiện chí thực hiện cam kết quốc tế"
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "Trong số các nguyên tắc sau, nguyên tắc nào không nằm trong hệ thống các nguyên tắc cơ bản của LQT hiện đại?",
+    "answer": "Nguyên tắc đối xử tối huệ quốc"
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Nhận định sau là đúng hay sai? Các nguyên tắc cơ bản của LQT hiện đại là cơ sở cho sự hình thành và phát triển của LQT.",
+    "answer": "Sai"
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Chọn nhận xét đúng nhất về quá trình hình thành Luật quốc tế?",
+    "answer": "Là quá trình mang tính chất tự nguyện của các quốc gia, là sự tự điều chỉnh quan hệ lập pháp được tiến hành theo phương thức thỏa thuận công khai"
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Nguồn nào dưới đây không phải nguồn của LQT?",
+    "answer": "Luật quốc gia"
+  },
+  {
+    "id": 321,
+    "premium": false,
+    "question": "Tổ chức quốc tế liên chính phủ có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 322,
+    "premium": false,
+    "question": "Nêu cơ sở để xác định trách nhiệm quốc tế pháp lý.",
+    "answer": "Cả 3 cơ sở trên"
+  },
+  {
+    "id": 323,
+    "premium": false,
+    "question": "Có mấy yếu tổ cơ bản để hình thành một quốc gia?",
+    "answer": "4"
+  },
+  {
+    "id": 324,
+    "premium": false,
+    "question": "Căn cứ vào phạm vi áp dụng, có thể phân chia điều ước quốc tế thành mấy loại?",
+    "answer": "3"
+  },
+  {
+    "id": 325,
+    "premium": false,
+    "question": "Điều ước quốc tế có hiệu lực khi nào?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 326,
+    "premium": false,
+    "question": "Thuộc tính chính trị - pháp lý vốn có của quốc gia là gì?",
+    "answer": "Chủ quyền"
+  },
+  {
+    "id": 327,
+    "premium": false,
+    "question": "Công nhận de jure là hình thức công nhận như thế nào?",
+    "answer": "Công nhận quốc tế ở mức chính thức, ở mức độ đầy đủ nhất và trong phạm vi đầy đủ nhất"
+  },
+  {
+    "id": 328,
+    "premium": false,
+    "question": "Chủ quyền quốc gia được thực hiện ở mấy nội dung chính?",
+    "answer": "2"
+  },
+  {
+    "id": 329,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không phải yếu tố cơ bản của Luật quốc tế?",
+    "answer": "Có biên giới quốc gia trên biển"
+  },
+  {
+    "id": 330,
+    "premium": false,
+    "question": "Có mấy hình thức công nhận quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 331,
+    "premium": false,
+    "question": "Luật hàng không quốc tế có bao nhiêu nguyên tắc?",
+    "answer": "3"
+  },
+  {
+    "id": 332,
+    "premium": false,
+    "question": "Quốc gia nào được xác lập chủ quyền đối với vùng biển cả?",
+    "answer": "Không một quốc gia nào"
+  },
+  {
+    "id": 333,
+    "premium": false,
+    "question": "Vùng trời quốc gia bị giới hạn bởi:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 334,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của lãnh hải là bao nhiêu?",
+    "answer": "12 hải lý tính từ đường cơ sở"
+  },
+  {
+    "id": 335,
+    "premium": false,
+    "question": "Theo Luật hàng không quốc tế, độ cao của biên giới trên cao của vùng trời tối đa là bao nhiêu?",
+    "answer": "Không có quy định"
+  },
+  {
+    "id": 336,
+    "premium": false,
+    "question": "Tại sao có những trường hợp người có 2 quốc tịch?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 337,
+    "premium": false,
+    "question": "Cơ quan đại diện ngoại giao không có chức năng nào sau đây?",
+    "answer": "Cấp hộ chiếu và giấy tờ đi lại cho công dân nước cử và cấp thị thực hoặc các giấy tờ thích hợp cho những người muốn đến nước cử"
+  },
+  {
+    "id": 338,
+    "premium": false,
+    "question": "Trường hợp mất quốc tịch nào dưới đây là biện pháp trừng phạt của Nhà nước?",
+    "answer": "Bị tước quốc tịch"
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan lãnh sự cao nhất?",
+    "answer": "Tổng lãnh sự quán"
+  },
+  {
+    "id": 340,
+    "premium": false,
+    "question": "Viên chức lãnh sự không có quyền nào sau đây",
+    "answer": "Quyền bất khả xâm phạm về thân thể trong mọi trường hợp"
+  },
+  {
+    "id": 341,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây không phải nguyên tắc hoạt của WTO?",
+    "answer": "Nguyên tắc không có bất kỳ ưu đãi đối với quốc gia nào"
+  },
+  {
+    "id": 342,
+    "premium": false,
+    "question": "Thành phần tham gia hội nghị quốc tế phổ cập là:",
+    "answer": "Hầu hết các nước trên thế giới"
+  },
+  {
+    "id": 343,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới không phải là nguyên tắc hoạt động của Liên hợp quốc",
+    "answer": "Liên hợp quốc được phép can thiệp vào những công việc thuộc thẩm quyền nội bộ của bất cứ quốc gia nào"
+  },
+  {
+    "id": 344,
+    "premium": false,
+    "question": "WTO là tên viết tắt của tổ chức quốc tế nào?",
+    "answer": "Tổ chức thương mại thế giới"
+  },
+  {
+    "id": 345,
+    "premium": false,
+    "question": "UN là tên viết tắt của tổ chức quốc tế nào?",
+    "answer": "Liên hợp quốc"
+  },
+  {
+    "id": 346,
+    "premium": false,
+    "question": "Một vụ tranh chấp được đưa ra Tòa án Công lý quốc tế Liên hợp quốc kết thúc khi nào?",
+    "answer": "CẢ 3 trường hợp trên"
+  },
+  {
+    "id": 347,
+    "premium": false,
+    "question": "Nhiệm vụ chủ yếu của ủy ban điều tra là gì?",
+    "answer": "Giải thích khách quan, rõ ràng các sự kiện đã xảy ra"
+  },
+  {
+    "id": 348,
+    "premium": false,
+    "question": "Trong một nhiệm kỳ, Tòa án Công lý Liên hợp quốc có bao nhiêu thẩm phán?",
+    "answer": "15"
+  },
+  {
+    "id": 349,
+    "premium": false,
+    "question": "Đâu không phải là ưu thế của đàm phán trực tiếp so với các biện pháp hòa bình giải quyết tranh chấp còn lại?",
+    "answer": "Có biện pháp cưỡng chế các quốc gia phải tuân theo"
+  },
+  {
+    "id": 350,
+    "premium": false,
+    "question": "Tòa trọng tài có thẩm quyền giải quyết tranh chấp quốc tế do:",
+    "answer": "Sự nhất trí của các bên tranh chấp"
+  },
+  {
+    "id": 351,
+    "premium": false,
+    "question": "Nhận định sau là đúng hay sai? Nguyên tắc cơ bản của LQT có thể bị thay thế bởi một nguyên tắc mới được cộng đồng quốc tế thừa nhận",
+    "answer": "Đúng"
+  },
+  {
+    "id": 352,
+    "premium": false,
+    "question": "Đâu không phải là nội dung chính của nguyên tắc bình đẳng về chủ quyền quốc gia?",
+    "answer": "Không được cho các quốc gia khác sử dụng lãnh thổ nước mình để tiến hành xâm lược lược chống quốc gia thứ ba"
+  },
+  {
+    "id": 353,
+    "premium": false,
+    "question": "Khái niệm “Luật quốc tế” được hình thành từ khi nào?",
+    "answer": "Từ thời kỳ chiếm hữu nô lệ"
+  },
+  {
+    "id": 354,
+    "premium": false,
+    "question": "Luật quốc tế có mấy đặc điểm cơ bản?",
+    "answer": "4"
+  },
+  {
+    "id": 355,
+    "premium": false,
+    "question": "Nhận xét về mối quan hệ giữa Luật quốc tế và pháp luật quốc gia",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 356,
+    "premium": false,
+    "question": "Có mấy trường hợp ĐƯQT có hiệu lực với bên thứ 3?",
+    "answer": "3"
+  },
+  {
+    "id": 357,
+    "premium": false,
+    "question": "Quốc gia có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 358,
+    "premium": false,
+    "question": "Chủ thể nào dưới đây là chủ thể cơ bản của LQT?",
+    "answer": "Quốc gia"
+  },
+  {
+    "id": 359,
+    "premium": false,
+    "question": "Đâu là hình thức ký kết điều ước quốc tế phổ biến nhất?",
+    "answer": "Ký đầy đủ"
+  },
+  {
+    "id": 360,
+    "premium": false,
+    "question": "Các dân tộc đang đấu tranh nhằm thực hiện quyền dân tộc tự quyết có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 361,
+    "premium": false,
+    "question": "Đối tượng kế thừa (Khách thể của quan hệ kế thừa) quốc tế là gì?",
+    "answer": "Các quyền và nghĩa vụ quốc tế"
+  },
+  {
+    "id": 362,
+    "premium": false,
+    "question": "Hình thức công nhận quốc tế nào thể hiện ý chí thực sự muốn thiết lập quan hệ bình thường giữa bên công nhận và bên được công nhận?",
+    "answer": "Công nhận de jure"
+  },
+  {
+    "id": 363,
+    "premium": false,
+    "question": "Có mấy nguyên nhân dẫn đến vấn đề kế thừa quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 364,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không phải yếu tố cơ bản của Luật quốc tế?",
+    "answer": "Có biên giới quốc gia trên biển"
+  },
+  {
+    "id": 365,
+    "premium": false,
+    "question": "Trong các nghĩa vụ sau, đâu không phải là nghĩa vụ quốc tế cơ bản của quốc gia?",
+    "answer": "Chia sẻ bí mật quốc gia với những quốc gia khác"
+  },
+  {
+    "id": 366,
+    "premium": false,
+    "question": "Quyền tự do biển cả (vùng biển quốc tế) bao gồm nội dung nào dưới đây?",
+    "answer": "Cả 3 phương án trên."
+  },
+  {
+    "id": 367,
+    "premium": false,
+    "question": "Trong vùng nước, quốc gia có chủ quyền:",
+    "answer": "Hoàn toàn và đầy đủ"
+  },
+  {
+    "id": 368,
+    "premium": false,
+    "question": "Mỗi phương tiện bay được phép mang bao nhiêu quốc tịch?",
+    "answer": "1 quốc tịch"
+  },
+  {
+    "id": 369,
+    "premium": false,
+    "question": "Lãnh thổ quốc gia bao gồm mấy bộ phận (vùng)?",
+    "answer": "4"
+  },
+  {
+    "id": 370,
+    "premium": false,
+    "question": "Theo Luật hàng không quốc tế, có bao nhiêu quyền thương mại hàng không (các quyền tự do hàng không) được đề cập?",
+    "answer": "6"
+  },
+  {
+    "id": 371,
+    "premium": false,
+    "question": "Nhân viên phục vụ trong cơ quan đại diện ngoại giao không có quyền nào sau đây:",
+    "answer": "Quyền bất khả xâm phạm về thân thể trong mọi trường hợp"
+  },
+  {
+    "id": 372,
+    "premium": false,
+    "question": "Cơ quan lãnh sự không có chức năng nào trong các chức năng dưới đây:",
+    "answer": "Đàm phán với Chính phủ Nước tiếp nhận"
+  },
+  {
+    "id": 373,
+    "premium": false,
+    "question": "Viên chức ngoại giao KHÔNG được hưởng quyền miễn trừ tuyệt đối nào sau đây?",
+    "answer": "Quyền miễn trừ xét xử về dân sự"
+  },
+  {
+    "id": 374,
+    "premium": false,
+    "question": "Thành viên của cơ quan đại diện ngoại giao bao gồm:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 375,
+    "premium": false,
+    "question": "Viên chức lãnh sự không có quyền nào sau đây",
+    "answer": "Quyền bất khả xâm phạm về thân thể trong mọi trường hợp"
+  },
+  {
+    "id": 376,
+    "premium": false,
+    "question": "Mục đích của hòa hội là gì?",
+    "answer": "Hội nghị nhằm ký kết hòa ước, giải quyết những vấn đề do chiến tranh đặt ra và bình thường hóa quan hệ giữa các nước tham gia chiến tranh"
+  },
+  {
+    "id": 377,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan cao nhất của WTO",
+    "answer": "Hội nghị bộ trưởng"
+  },
+  {
+    "id": 378,
+    "premium": false,
+    "question": "Theo Hiệp định thành lập WTO, WTO có bao nhiêu chức năng chính?",
+    "answer": "5"
+  },
+  {
+    "id": 379,
+    "premium": false,
+    "question": "ASEAN được thành lập vào thời gian nào?",
+    "answer": "08/08/1967"
+  },
+  {
+    "id": 380,
+    "premium": false,
+    "question": "WTO được thành lập vào thời gian nào?",
+    "answer": "01/01/1995"
+  },
+  {
+    "id": 381,
+    "premium": false,
+    "question": "Giá trị pháp lý của phán quyết do Tòa án Công lý Liên hợp quốc xét xử là:",
+    "answer": "Chung thẩm và bắt buộc đối với các bên"
+  },
+  {
+    "id": 382,
+    "premium": false,
+    "question": "Tòa án Công lý quốc tế Liên hợp quốc có thẩm quyền giải quyết các tranh chấp phát sinh giữa các chủ thể nào dưới đây?",
+    "answer": "Các quốc gia bất kể có phải là thành viên của Liên hợp quốc hay không"
+  },
+  {
+    "id": 383,
+    "premium": false,
+    "question": "Đâu là ưu điểm của trọng tài khi so với tòa án?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 384,
+    "premium": false,
+    "question": "Hòa giải được coi là kết thúc trong trường hợp nào sau đây?",
+    "answer": "Cả 3 trường hợp trên"
+  },
+  {
+    "id": 385,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan giải quyết tranh chấp của WTO",
+    "answer": "DSB"
+  },
+  {
+    "id": 386,
+    "premium": false,
+    "question": "Tự lựa chọn con đường phát triển phù hợp với truyền thống lịch sử văn hóa, tín ngưỡng, điều kiện địa lý” là nội dung chính của nguyên tắc nào?",
+    "answer": "Nguyên tắc dân tộc tự quyết"
+  },
+  {
+    "id": 387,
+    "premium": false,
+    "question": "Quy phạm Jus cogens là gì?",
+    "answer": "Là những quy phạm mệnh lệnh, có giá trị bắt buộc chung, là những nguyên tắc cơ bản của LQT"
+  },
+  {
+    "id": 388,
+    "premium": false,
+    "question": "Đâu là một trong những nội dung chính của nguyên tắc cấm dùng vũ lực hay đe dọa dùng vũ lực?",
+    "answer": "Mỗi quốc gia có quyền tự do lựa chọn và phát triển chế độ chính trị, xã hội, kinh tế và văn hóa của mình"
+  },
+  {
+    "id": 389,
+    "premium": false,
+    "question": "Hai loại nguồn luật chính của Luật quốc tế là:",
+    "answer": "Điều ước quốc tế và tập quán quốc tế"
+  },
+  {
+    "id": 390,
+    "premium": false,
+    "question": "Trong các nguyên tắc cơ bản của LQT hiện đại, nguyên tắc nào ra đời sớm nhất?",
+    "answer": "Nguyên tắc tận tâm, thiện chí thực hiện cam kết quốc tế (pacta sunt servanda)"
+  },
+  {
+    "id": 391,
+    "premium": false,
+    "question": "Trình tự ký kết điều ước quốc tế bao gồm mấy bước?",
+    "answer": "3"
+  },
+  {
+    "id": 392,
+    "premium": false,
+    "question": "Quốc gia không có quyền nào sau đây?",
+    "answer": "Quyền can thiệp vào công việc nội bộ của quốc gia khác"
+  },
+  {
+    "id": 393,
+    "premium": false,
+    "question": "Chủ thể nào dưới đây không phải chủ thể của LQT?",
+    "answer": "Các tập đoàn đa quốc gia"
+  },
+  {
+    "id": 394,
+    "premium": false,
+    "question": "Có mấy hình thức ký điều ước quốc tế?",
+    "answer": "3"
+  },
+  {
+    "id": 395,
+    "premium": false,
+    "question": "Vì sao tổ chức quốc tế liên chính phủ có quyền năng chủ thể LQT?",
+    "answer": "Do sự thỏa thuận của các quốc gia thành viên tự trao cho"
+  },
+  {
+    "id": 396,
+    "premium": false,
+    "question": "Nhận định sau đây đúng hay sai. Tư cách chủ thể của quốc gia là do sự công nhận.",
+    "answer": "Sai"
+  },
+  {
+    "id": 397,
+    "premium": false,
+    "question": "Chủ quyền quốc gia được thực hiện ở mấy nội dung chính?",
+    "answer": "2"
+  },
+  {
+    "id": 398,
+    "premium": false,
+    "question": "Có mấy hình thức công nhận quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 399,
+    "premium": false,
+    "question": "Thuộc tính chính trị - pháp lý vốn có của quốc gia là gì?",
+    "answer": "Chủ quyền"
+  },
+  {
+    "id": 400,
+    "premium": false,
+    "question": "Công nhận de jure là hình thức công nhận như thế nào?",
+    "answer": "Công nhận quốc tế ở mức chính thức, ở mức độ đầy đủ nhất và trong phạm vi đầy đủ nhất"
+  },
+  {
+    "id": 401,
+    "premium": false,
+    "question": "Đáp án nào thể hiện mức độ tăng dần của chủ quyền quốc gia đối với các vùng biển?",
+    "answer": "Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải"
+  },
+  {
+    "id": 402,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của nội thủy là bao nhiêu?",
+    "answer": "Không có quy định"
+  },
+  {
+    "id": 403,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của vùng đặc quyền kinh tế là bao nhiêu?",
+    "answer": "200 hải lý tính từ đường cơ sở"
+  },
+  {
+    "id": 404,
+    "premium": false,
+    "question": "Luật biển quốc tế có bao nhiêu nguyên tắc chung?",
+    "answer": "4"
+  },
+  {
+    "id": 405,
+    "premium": false,
+    "question": "Trong vùng biển nào quốc gia có chủ quyền hoàn toàn, tuyệt đối và đầy đủ?",
+    "answer": "Vùng nội thủy"
+  },
+  {
+    "id": 406,
+    "premium": false,
+    "question": "Peter là người có quốc tịch Hoa Kỳ đang sinh sống tại Việt Nam. Để có thể nhập quốc tịch Việt Nam thì anh phải đáp ứng những điều kiện nào sau đây, biết Peter không có người thân là người Việt Nam:",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 407,
+    "premium": false,
+    "question": "Nội dung của nguyên tắc nơi sinh trong quy chế pháp lý về quốc tịch là gì?",
+    "answer": "Đứa trẻ sinh ra ở nước nào thì có quốc tịch nước ấy, không phụ thuộc vào quốc tịch cha mẹ"
+  },
+  {
+    "id": 408,
+    "premium": false,
+    "question": "Trường hợp mất quốc tịch nào dưới đây là biện pháp trừng phạt của Nhà nước?",
+    "answer": "Bị tước quốc tịch"
+  },
+  {
+    "id": 409,
+    "premium": false,
+    "question": "Người đứng đầu cơ quan đại diện ngoại giao thường được chia thành bao nhiêu cấp?",
+    "answer": "3"
+  },
+  {
+    "id": 410,
+    "premium": false,
+    "question": "Đứa trẻ sinh ra trên lãnh thổ Việt Nam có cha là người Việt Nam, mẹ là người không có quốc tịch",
+    "answer": "Việt Nam"
+  },
+  {
+    "id": 411,
+    "premium": false,
+    "question": "Tổ chức quốc tế được thành lập dựa trên cơ sở nào sau đây?",
+    "answer": "Dựa vào các Điều ước quốc tế được ký kết giữa các quốc gia"
+  },
+  {
+    "id": 412,
+    "premium": false,
+    "question": "Mục đích nào dưới đây không phải mục đích hoạt động của Liên hợp quốc",
+    "answer": "Giúp các thành viên hoạch định và thực hiện chính sách nhằm mở rộng sản xuất, thương mại hàng hóa và dịch vụ, nâng cao mức sống, tạo thêm việc làm cho nhân dân các nước thành viên"
+  },
+  {
+    "id": 413,
+    "premium": false,
+    "question": "Thành viên duy nhất của Đông Nam Á không là thành viên của ASEAN là:",
+    "answer": "Đông – ti – mo"
+  },
+  {
+    "id": 414,
+    "premium": false,
+    "question": "Cơ quan nào của Liên hợp quốc có sự tham gia của tất cả các thành viên?",
+    "answer": "Đại hội đồng"
+  },
+  {
+    "id": 415,
+    "premium": false,
+    "question": "Việt Nam chính thức trở thành thành viên ASEAN năm nào?",
+    "answer": "1995"
+  },
+  {
+    "id": 416,
+    "premium": false,
+    "question": "Vai trò chính của bên thứ ba trong biện pháp hòa giải là gì?",
+    "answer": "Tham gia tích cực trong các cuộc đàm phán giữa các bên tranh chấp"
+  },
+  {
+    "id": 417,
+    "premium": false,
+    "question": "Hội đồng bảo an KHÔNG có quyền nào dưới đây ngay cả khi xét thầy có sự đe dọa hoặc phá hoại hòa bình, có hành vi xâm lược?",
+    "answer": "Can thiệp vào công việc nội bộ của quốc gia"
+  },
+  {
+    "id": 418,
+    "premium": false,
+    "question": "Căn cứ vào số lượng chủ thể tham gia tranh chấp, tranh chấp quốc tế được phân thành mấy loại?",
+    "answer": "2"
+  },
+  {
+    "id": 419,
+    "premium": false,
+    "question": "Vai trò chính của bên thứ ba trong biện pháp trung gian là gì?",
+    "answer": "Động viên, khuyến khích các quốc gia có liên quan đến tranh chấp giải quyết vụ tranh chấp bằng biện pháp hòa bình nào đó"
+  },
+  {
+    "id": 420,
+    "premium": false,
+    "question": "Số lượng trọng tài viên tham gia một vụ tranh chấp quốc tế KHÔNG thể là:",
+    "answer": "4"
+  },
+  {
+    "id": 421,
+    "premium": false,
+    "question": "Chọn nhận xét đúng nhất về quá trình hình thành Luật quốc tế?",
+    "answer": "Là quá trình mang tính chất tự nguyện của các quốc gia, là sự tự điều chỉnh quan hệ lập pháp được tiến hành theo phương thức thỏa thuận công khai"
+  },
+  {
+    "id": 422,
+    "premium": false,
+    "question": "Quy phạm Jus cogens là gì?",
+    "answer": "Là những quy phạm mệnh lệnh, có giá trị bắt buộc chung, là những nguyên tắc cơ bản của LQT"
+  },
+  {
+    "id": 423,
+    "premium": false,
+    "question": "Nguồn nào dưới đây không phải nguồn của LQT?",
+    "answer": "Luật quốc gia"
+  },
+  {
+    "id": 424,
+    "premium": false,
+    "question": "Nguyên tắc Pacta sunt servanda được nhắc tới trong LQT là nguyên tắc nào dưới đây?",
+    "answer": "Nguyên tắc tận tâm, thiện chí thực hiện cam kết quốc tế"
+  },
+  {
+    "id": 425,
+    "premium": false,
+    "question": "Hai loại nguồn luật chính của Luật quốc tế là:",
+    "answer": "Điều ước quốc tế và tập quán quốc tế"
+  },
+  {
+    "id": 426,
+    "premium": false,
+    "question": "Căn cứ vào phạm vi áp dụng, có thể phân chia điều ước quốc tế thành mấy loại?",
+    "answer": "3"
+  },
+  {
+    "id": 427,
+    "premium": false,
+    "question": "Trình tự ký kết điều ước quốc tế bao gồm mấy bước?",
+    "answer": "3"
+  },
+  {
+    "id": 428,
+    "premium": false,
+    "question": "Tổ chức quốc tế liên chính phủ có các quyền nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 429,
+    "premium": false,
+    "question": "Quốc gia không có quyền nào sau đây?",
+    "answer": "Quyền can thiệp vào công việc nội bộ của quốc gia khác"
+  },
+  {
+    "id": 430,
+    "premium": false,
+    "question": "Vì sao tổ chức quốc tế liên chính phủ có quyền năng chủ thể LQT?",
+    "answer": "Do sự thỏa thuận của các quốc gia thành viên tự trao cho"
+  },
+  {
+    "id": 431,
+    "premium": false,
+    "question": "Hình thức công nhận quốc tế nào thể hiện ý chí thực sự muốn thiết lập quan hệ bình thường giữa bên công nhận và bên được công nhận?",
+    "answer": "Công nhận de jure"
+  },
+  {
+    "id": 432,
+    "premium": false,
+    "question": "Đối tượng kế thừa (Khách thể của quan hệ kế thừa) quốc tế là gì?",
+    "answer": "Các quyền và nghĩa vụ quốc tế"
+  },
+  {
+    "id": 433,
+    "premium": false,
+    "question": "Nhận định sau đây đúng hay sai. Tư cách chủ thể của quốc gia là do sự công nhận.",
+    "answer": "Sai"
+  },
+  {
+    "id": 434,
+    "premium": false,
+    "question": "Có mấy nguyên nhân dẫn đến vấn đề kế thừa quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 435,
+    "premium": false,
+    "question": "Có mấy hình thức công nhận quốc gia?",
+    "answer": "3"
+  },
+  {
+    "id": 436,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây KHÔNG phải nguyên tắc của Luật hàng không quốc tế?",
+    "answer": "Nguyên tắc tự do bay trong vùng trời của bất kể một quốc gia nào"
+  },
+  {
+    "id": 437,
+    "premium": false,
+    "question": "Quốc gia nào được xác lập chủ quyền đối với vùng biển cả?",
+    "answer": "Không một quốc gia nào"
+  },
+  {
+    "id": 438,
+    "premium": false,
+    "question": "Luật biển quốc tế có bao nhiêu nguyên tắc chung?",
+    "answer": "4"
+  },
+  {
+    "id": 439,
+    "premium": false,
+    "question": "Mỗi phương tiện bay được phép mang bao nhiêu quốc tịch?",
+    "answer": "1 quốc tịch"
+  },
+  {
+    "id": 440,
+    "premium": false,
+    "question": "Theo Công ước Liên hợp quốc về Luật biển 1982, chiều rộng tối đa của vùng tiếp giáp lãnh hải là bao nhiêu?",
+    "answer": "24 hải lý tính từ đường cơ sở"
+  },
+  {
+    "id": 441,
+    "premium": false,
+    "question": "Việt Nam áp dụng nguyên tắc nào trong các nguyên tắc về việc hưởng quốc tịch theo sự sinh đẻ",
+    "answer": "Kết hợp cả nguyên tắc huyết thống và nguyên tắc nơi sinh"
+  },
+  {
+    "id": 442,
+    "premium": false,
+    "question": "Trong các cách thức hưởng quốc tịch, cách thức nào là phổ biến nhất?",
+    "answer": "Theo sự sinh đẻ"
+  },
+  {
+    "id": 443,
+    "premium": false,
+    "question": "Có mấy nguyên tắc thường được áp dụng đối với việc hưởng quốc tịch theo sự sinh đẻ",
+    "answer": "2"
+  },
+  {
+    "id": 444,
+    "premium": false,
+    "question": "Tại sao có trường hợp người không có quốc tịch?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 445,
+    "premium": false,
+    "question": "Tại sao có những trường hợp người có 2 quốc tịch?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 446,
+    "premium": false,
+    "question": "Thành phần tham gia hội nghị quốc tế phổ cập là:",
+    "answer": "Hầu hết các nước trên thế giới"
+  },
+  {
+    "id": 447,
+    "premium": false,
+    "question": "ASEAN được thành lập vào thời gian nào?",
+    "answer": "08/08/1967"
+  },
+  {
+    "id": 448,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây không phải nguyên tắc hoạt của WTO?",
+    "answer": "Nguyên tắc không có bất kỳ ưu đãi đối với quốc gia nào"
+  },
+  {
+    "id": 449,
+    "premium": false,
+    "question": "Thành viên duy nhất của Đông Nam Á không là thành viên của ASEAN là:",
+    "answer": "Đông – ti – mo"
+  },
+  {
+    "id": 450,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây là cơ quan cao nhất của WTO",
+    "answer": "Hội nghị bộ trưởng"
+  },
+  {
+    "id": 451,
+    "premium": false,
+    "question": "Một vụ tranh chấp được đưa ra Tòa án Công lý quốc tế Liên hợp quốc kết thúc khi nào?",
+    "answer": "CẢ 3 trường hợp trên"
+  },
+  {
+    "id": 452,
+    "premium": false,
+    "question": "Nhiệm vụ chủ yếu của ủy ban điều tra là gì?",
+    "answer": "Giải thích khách quan, rõ ràng các sự kiện đã xảy ra"
+  },
+  {
+    "id": 453,
+    "premium": false,
+    "question": "Biện pháp hòa bình giải quyết tranh chấp quốc tế được sử dụng phổ biến nhất là:",
+    "answer": "Đàm phán trực tiếp"
+  },
+  {
+    "id": 454,
+    "premium": false,
+    "question": "Số lượng trọng tài viên tham gia một vụ tranh chấp quốc tế KHÔNG thể là:",
+    "answer": "4"
+  },
+  {
+    "id": 455,
+    "premium": false,
+    "question": "Vai trò chính của bên thứ ba trong biện pháp hòa giải là gì?",
+    "answer": "Tham gia tích cực trong các cuộc đàm phán giữa các bên tranh chấp"
+  }
+]

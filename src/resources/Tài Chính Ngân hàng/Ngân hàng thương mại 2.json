@@ -1,0 +1,2804 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không tác động đến tỷ lệ an toàn vốn tối thiểu?",
+    "answer": "Tiền gửi của khách hàng"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không nằm trong vốn chủ sở hữu?",
+    "answer": "Vay dài hạn"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Nếu ROA = 1,2% và ROE = 88% thì đòn bẩy tài chính là?",
+    "answer": "72,3"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Đâu là khoản mục thuộc bảng cân đối kế toán?",
+    "answer": "Nợ nhóm 4"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu bỏ qua dự phòng thì ROE là?",
+    "answer": "40,66%"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Nhân tố nào sau đây không ảnh hưởng đến kết quả huy động vốn?",
+    "answer": "Nhu cầu vay vốn của khách hàng"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Khoản mục nào sau đây hình thành từ tài sản nợ của ngân hàng?",
+    "answer": "Tiền gửi tại các tổ chức tín dụng khác"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Khi ngân hàng bán nợ xấu cho VAMC, những báo cáo tài chính nào thay đổi?",
+    "answer": "Cả 3 báo cáo trên"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Cùng một tỷ lệ sinh lời trên tài sản (ROA) và tổng tài sản, ngân hàng có vốn chủ sở hữu càng thấp thì tỷ lệ sinh lời vốn chủ sở hữu (ROE)?",
+    "answer": "Càng cao"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Bộ phận kiểm toán nội bộ nên... với Ủy ban quan lý rủi ro?",
+    "answer": "Độc lập"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Yếu tố nào sau đây không gây ra rủi ro lãi suất?",
+    "answer": "Lãi suất thị trường tăng sẽ làm giảm giá trị của các trái phiếu ngân hàng giữ."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Ngân hàng thương mại ở Việt Nam không gặp rủi ro tỷ giá khi?",
+    "answer": "Mua bán chứng khoán bằng VNĐ."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Khi khách hàng không thực hiện hợp đồng mà ngân hàng đứng ra bảo lãnh thì đây là?",
+    "answer": "Rủi ro tín dụng"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không nhạy cảm với biến động của lãi suất trên thị trường?",
+    "answer": "Tiền mặt tại quỹ"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Khi sự kiện rủi ro xảy ra, ngân hàng phải dùng quỹ dự phòng để bù đắp tổn thất. Đây là?",
+    "answer": "Gánh chịu rủi ro"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Rủi ro tỷ giá không xảy ra khi?",
+    "answer": "Ngân hàng không ở trạng thái mở"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Ngân hàng giữ nhiều tiền mặt hơn để đề phòng khách hàng rút tiền bất ngờ. Đây là?",
+    "answer": "Tránh né rủi ro"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Khi lãi suất tăng, làm giá chứng khoán mà ngân hàng nắm giữ có thể giảm xuống. Đây là?",
+    "answer": "Rủi ro giá cả"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Trước khi bị phá sản vào năm 1984 thì đây là ngân hàng lớn thứ 7 của nước Mỹ. Nguyên nhân của sự sụp đổ của ngân hàng này bắt nguồn từ sự sáp nhập của nó với Penn Square Bank. John Lyte, Giám đốc điều hành mảng cho vay đầu tư dầu mỏ đã nhận hối lộ 585.000 đô la tiền hối lộ để bỏ qua các khoản nợ xấu của Penn Square Bank và ủng hộ việc sáp nhập của 2 ngân hàng. Đây là?",
+    "answer": "Rủi ro hoạt động"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Loại hình kinh doanh nào dưới đây của NHTM ở Việt Nam có thể gặp rủi ro tỷ giá?",
+    "answer": "Vay vốn bằng đồng USD để cấp tín dụng bằng đồng USD."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Loại nào sau đây là tài sản thanh khoản?",
+    "answer": "Trái phiếu chính phủ kỳ hạn 5 năm, thời gian đáo hạn 6 tháng do ngân hàng nắm giữ."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Tính thanh khoản là?",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Khách hàng gửi 10 triệu vào tài khoản, nhưng do sơ suất, nhân viên đã ghi thành 100 triệu. Đây là?",
+    "answer": "Rủi ro hoạt động"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Hoạt động nào sau đây có thể không làm cho ngân hàng gặp rủi ro?",
+    "answer": "Thực hiện ủy thác"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Sự việc nào sau đây là tổn thất sau khi rủi ro tín dụng xảy ra?",
+    "answer": "Ngân hàng sử dụng dự phòng để bù đắp tổn thấp xảy ra khi khách hàng vay vốn không trả được nợ và trốn ra nước ngoài."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Khi rủi ro tín dụng xảy ra thì?",
+    "answer": "Dự phòng của ngân hàng tăng lên."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Khi khách hàng không trả nợ đúng hạn và xin gia hạn 400 triệu với giá trị khấu trừ tài sản đảm bảo là 500 triệu. Ngân hàng đồng ý nhưng chuyển sang nợ nhóm 2. Khi đó dự phòng?",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Khoản mục nào sau đây là rủi ro tín dụng đối với 1 khoản mục?",
+    "answer": "Khách hàng sử dụng vốn sai mục đích."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Khoản mục nào sau đây là rủi ro tín dụng đối với 1 danh mục?",
+    "answer": "Ngân hàng tập trung tín dụng vào 1 nhóm khách hàng."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Khi khách hàng vay vừa vay vốn nhưng đột ngột qua đời, ngân hàng chuyển nợ thành nhóm 5. Khi đó dự phòng chung?",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Sau 90 ngày, khách hàng vay vốn ngân hàng không trả nợ, với dư nợ là 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khi đó dự phòng của ngân hàng?",
+    "answer": "Tăng 20 triệu"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng chung của ngân hàng?",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó lợi nhuận sau thuế của ngân hàng thế nào nếu thuế suất thuế thu nhập doanh nghiệp là 22%?",
+    "answer": "Tăng 825000 đồng"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó lợi nhuận sau thuế của ngân hàng thế nào nếu thuế suất thuế thu nhập doanh nghiệp là 22%?",
+    "answer": "Giảm 20,075 triệu"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng không phải từ phía môi trường ngoài?",
+    "answer": "Khách hàng cố tình gian dối khi vay vốn"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng của ngân hàng?",
+    "answer": "Giảm 3,75 triệu"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng chung của ngân hàng?",
+    "answer": "Giảm 3,75 triệu"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng từ phía ngân hàng?",
+    "answer": "Nghiệp vụ tín dụng của nhân viên ngân hàng yếu kém."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không phải là rủi ro tín dụng đối với 1 khoản mục?",
+    "answer": "Ngân hàng tập trung tín dụng vào 1 nhóm khách hàng."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Đối với tài sản đảm bảo dạng thế chấp thì?",
+    "answer": "Phải chuyển giấy tờ sử hữu đến ngân hàng"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không phải là chỉ tiêu phi tài chính?",
+    "answer": "Đòn bẩy tài chính của khách hàng"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu thay “tiền gửi các tổ chức tín dụng khác” thành “Cho vay tại các tổ chức tín dụng khác” thì khoản mục nào sau đây thay đổi?",
+    "answer": "Dư nợ"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Nếu dự phòng rủi ro tín dụng kỳ này của ngân hàng lớn hơn dự phòng rủi ro tín dụng của kỳ trước thì (điều kiện các yếu tố khác không đổi)?",
+    "answer": "Chi phí của ngân hàng tăng lên"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Dự phòng cụ thể của nợ nhóm 4 là?",
+    "answer": "51,25"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Cách nào sau đây không phải là hướng xử lý nợ xấu?",
+    "answer": "Tính lãi phạt dựa trên cả gốc và lãi"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Dựa vào dữ liệu 1 và trả lời câu hỏi Khoản mục nào sau đây vẫn thu được đầy đủ lãi?",
+    "answer": "Tiền gửi các tổ chức tín dụng"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Ngân hàng không thể làm việc nào sau đây?",
+    "answer": "Xử lý rủi ro tín dụng"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Dòng tiền của doanh nghiệp thường hình thành từ?",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Dự phòng cụ thể của nợ nhóm 3 là?",
+    "answer": "0"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Chọn câu sai?",
+    "answer": "Chỉ cần quản lý rủi ro tín dụng đối với tài sản nội bảng"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Đối với tài sản đảm bảo dạng thế chấp thì hoa lợi sẽ thuộc về?",
+    "answer": "Khách hàng"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Tỷ lệ nợ quá hạn là?",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Câu nào sai?",
+    "answer": "Dự phòng cụ thể của nợ nhóm 5 bằng 100% tổng dư nợ"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Khoản mục nào sau đây nằm trong tài sản ngoại bảng được coi là hậu quả của rủi ro tín dụng?",
+    "answer": "Nợ nhóm 5 bị đẩy ra ngoại bảng"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Lý do nào sau đây làm cho tiền gửi dài hạn không phải là khoản mục của vốn tự có?",
+    "answer": "Có thể bị rút bất ngờ"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Để tăng tỷ lệ an toàn vốn tối thiểu, ngân hàng có thể?",
+    "answer": "Tăng vay nợ dài hạn"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Việc nào sau đây làm giảm vốn tự có?",
+    "answer": "Thời gian đáo hạn của khoản vay dài hạn giảm xuống trung hạn"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Khi vốn chủ sở hữu giảm thì?",
+    "answer": "ROE tăng"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Việc nào sau đây chỉ làm tăng vốn tự có mà không làm tăng vốn chủ sở hữu?",
+    "answer": "Đi vay dài hạn"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Đâu không phải là lợi thế của vốn cấp 2 so với vốn chủ sở hữu?",
+    "answer": "Không phải hoàn trả."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Trường hợp nào sau đây bị cấm?",
+    "answer": "Phát hành cổ phiếu thấp hơn mệnh giá"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không thuộc vốn cấp 2?",
+    "answer": "Chênh lệch giảm do đánh giá lại tài sản"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Câu nào sau đây không phải là đáp ứng yêu cầu quản lý vốn chủ sở hữu?",
+    "answer": "Hình thành tài sản cố định"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Nếu ROA = 1,2%, tỷ lệ đòn bẩy tài chính trong ngân hàng là 82 thì ROE là?",
+    "answer": "99,6%"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Khi vốn điều lệ tăng thì?",
+    "answer": "ROE giảm"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Việc nào sau đây làm tăng vốn chủ sở hữu?",
+    "answer": "Phát hành cổ phiếu mới"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Khoản mục nào sau đây thuộc vốn chủ sở hữu?",
+    "answer": "Vay nợ dài hạn"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Vốn tự có có thể dùng để xác định?",
+    "answer": "Giới hạn cấp tín dụng cho khách hàng"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Khi vốn chủ sở hữu tăng thì sẽ?",
+    "answer": "ROE giảm"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Khi vốn chủ sở hữu tăng thì sẽ?",
+    "answer": "Có"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Khi ROA = 2% tại mức lãi suất cho vay mới thì ROE là?",
+    "answer": "48,62%"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu bỏ qua dự phòng thì ROA là?",
+    "answer": "1,67%"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Đâu là khoản mục thuộc bảng cân đối kế toán?",
+    "answer": "Nợ nhóm 4"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Chọn câu sai. Chi phí dự phòng tổn thất có thể tính dự vào?",
+    "answer": "Thời hạn trả nợ"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Trong ngân hàng thương mại?",
+    "answer": "Tài sản sinh lời bao gồm tài sản sinh lãi"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Đâu không phải là một bước trong quy trình phân tích báo cáo tài chính của ngân hàng?",
+    "answer": "Điều tra tình hình nhân sự của ngân hàng"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Khi ngân hàng bán nợ xấu cho VAMC, những báo cáo tài chính nào thay đổi?",
+    "answer": "Cả 3 báo cáo trên"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi. Nếu muốn ROA = 2% thì lãi suất cho vay phải là?",
+    "answer": "10,97%"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Cùng một tỷ lệ sinh lời trên tài sản (ROA) và tổng tài sản, ngân hàng có vốn chủ sở hữu càng cao thì tỷ lệ sinh lời vốn chủ sở hữu (ROE)?",
+    "answer": "Càng thấp"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Khi ngân hàng trả lãi cổ tức, bảng cấn đối kế toán sẽ bị ảnh hưởng như thế nào?",
+    "answer": "Tài sản có và vốn chủ sở hữu giảm"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Trong ngân hàng, ROA thường .... so với ROE. Từ còn thiếu ở chỗ trống là?",
+    "answer": "Nhỏ hơn"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây hình thành tài sản có của ngân hàng?",
+    "answer": "Tiền gửi từ các tổ chức tín dụng khác"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây không phản ánh rủi ro trong ngân hàng?",
+    "answer": "Tỷ lệ sinh lời của tài sản"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây không phải là phân tích tình hình tài chính?",
+    "answer": "Giá trị tài sản đảm bảo"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Loại nào sau đây là nguồn vốn thanh khoản?",
+    "answer": "Tiền gửi thanh toán"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Khoản mục nào sau đây nhạy cảm với những biến động của lãi suất trên thị trường?",
+    "answer": "Tiền gửi tiết kiệm"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Ngân hàng có thể gặp rủi ro tỷ giá khi?",
+    "answer": "Mua trái phiếu chính phủ"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Loại nào sau đây là không phải tài sản thanh khoản?",
+    "answer": "Tiền gửi từ các tổ chức tín dụng khác."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Tỷ giá tăng làm cho ngân hàng có thể được lợi từ các hợp đồng cho vay bằng chứng khoán?",
+    "answer": "Bất trắc"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Ngân hàng có thể hạn chế rủi ro lãi suất bằng cách?",
+    "answer": "Sử dụng lãi suất thả nổi"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Trước khi bị phá sản vào năm 1984 thì đây là ngân hàng lớn thứ 7 của nước Mỹ. Nguyên nhân của sự sụp đổ của ngân hàng này bắt nguồn từ sự sáp nhập của nó với Penn Square Bank. John Lyte, Giám đốc điều hành mảng cho vay đầu tư dầu mỏ đã nhận hối lộ 585.000 đô la tiền hối lộ để bỏ qua các khoản nợ xấu của Penn Square Bank và ủng hộ việc sáp nhập của 2 ngân hàng. Đây là?",
+    "answer": "Rủi ro hoạt động"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Đo lường rủi ro là quá trình?",
+    "answer": "Định lượng được xác suất xảy ra rủi ro và tổn thất nó có thể gây ra cho ngân hàng."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Ngân hàng không thể gặp rủi ro tỷ giá khi",
+    "answer": "Không có hoạt động nào phát sinh liên quan đến ngoại tệ"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Trích lập dự phòng rủi ro tín dụng theo yêu cầu của Ngân hàng nhà nước là một trong những biện pháp?",
+    "answer": "Gánh chịu rủi ro"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Khi khách hàng không thực hiện hợp đồng mà ngân hàng đứng ra bảo lãnh thì đây là?",
+    "answer": "Rủi ro tín dụng"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Quản lý rủi ro bao gồm các bước?",
+    "answer": "Nhận diện – Đo lường – Xây dựng và thực hiện các biện pháp quản lý – Giám sát – Báo cáo."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Ngân hàng ký hợp đồng bảo lãnh với khách hàng A, sau đó được ngân hàng B tái bảo lãnh lại hợp đồng này. Đây có thể coi là hình thức?",
+    "answer": "Bán lại hợp đồng"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Trong các câu sau đây, câu nào không phải là rủi ro trong ngân hàng?",
+    "answer": "Khách hàng rút vốn bất ngờ làm ngân hàng tổn thất 500 tỷ."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Ngân hàng giữ nhiều tiền mặt hơn để đề phòng khách hàng rút tiền bất ngờ. Đây là?",
+    "answer": "Tránh né rủi ro"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Chọn câu sai\nKhách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó?",
+    "answer": "Tỷ lệ nợ quá hạn tăng"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Sự việc nào sau đây là rủi ro tín dụng?",
+    "answer": "Ngân hàng phát hiện khách hàng sử dụng vốn sai mục đích."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng từ phía khách hàng?",
+    "answer": "Khách hàng sử dụng vốn sai mục đích"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng cụ thể của ngân hàng?",
+    "answer": "Tăng 95 triệu"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Khi khách hàng không trả nợ đúng hạn và xin gia hạn 500 triệu với giá trị khấu trừ tài sản đảm bảo là 400 triệu. Ngân hàng đồng ý nhưng chuyển sang nợ nhóm 2. Khi đó dự phòng?",
+    "answer": "Tăng 100 triệu"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng được cho là từ phía môi trường ngoài?",
+    "answer": "Nhà nước thay đổi chính sách."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng không phải từ phía khách hàng?",
+    "answer": "Khách hàng bị tác động của thiên tai."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó tỷ lệ nợ xấu?",
+    "answer": "Tăng lên"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây không gây ra rủi ro tín dụng từ phía ngân hàng?",
+    "answer": "Chính sách của ngân hàng bị tác động bởi nhà nước"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Đâu không phải là tác động của rủi ro tín dụng?",
+    "answer": "Thu lãi của ngân hàng tăng"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không phải là rủi ro tín dụng đối với 1 danh mục?",
+    "answer": "Khách hàng sử dụng vốn sai mục đích."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng của ngân hàng?",
+    "answer": "Tăng 91,25 triệu"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 3. Khi đó dự phòng của ngân hàng?",
+    "answer": "Tăng 15 triệu"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Theo quan điểm của Ngân hàng Nhà nước Việt Nam thì rủi ro tín dụng là?",
+    "answer": "Tổn thất có thể xảy ra"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 3 thành nhóm 5. Khi đó tỷ lệ nợ xấu?",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Khoản mục nào sau đây có thể gây ra rủi ro tín dụng nhưng lại không thuộc tài sản nội bảng?",
+    "answer": "Bảo lãnh"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Ngân hàng X có số liệu về dư nợ ngắn hạn, trung hạn, và dài hạn lần lượt là: 25780; 19450; 13440 (tỷ đồng). Tỷ lệ nợ nhóm 1 là 95%, tỷ lệ nợ nhóm 2 là 3% số còn lại là nợ nhóm 5. Dự phòng chung là?",
+    "answer": "431,225 tỷ đồng"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Để bù đắp những tổn thất của rủi ro tín dụng, ngân hàng dùng biện pháp nào đầu tiên?",
+    "answer": "Phát mại tài sản"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Chọn câu sai. Mục đích của xếp hạng tín dụng là để?",
+    "answer": "Đo lường rủi ro thanh khoản"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Điền vào chỗ trống\nThường thì tỷ lệ nợ xấu ... so với tỷ lệ nợ quá hạn?",
+    "answer": "Thấp hơn"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Đâu là chỉ tiêu phi tài chính?",
+    "answer": "Ngành nghề của khách hàng"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi. Dư nợ là?",
+    "answer": "7050"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Câu nào sai?",
+    "answer": "Dự phòng có thể âm"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Câu nào sai?",
+    "answer": "Dự phòng cụ thể của nợ nhóm 5 bằng 100% tổng dư nợ"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Khoản mục nào sau đây được có thể được tính vào nợ quá hạn không thu được lãi?",
+    "answer": "Cho vay trung hạn"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Tổng dự phòng cụ thể là?",
+    "answer": "102,5"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Đối với tài sản đảm bảo dạng thế chấp thì?",
+    "answer": "Phải chuyển giấy tờ sử hữu đến ngân hàng"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Đâu là chỉ tiêu tài chính?",
+    "answer": "Đòn bẩy tài chính của khách hàng"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Tỷ lệ nợ quá hạn là?",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Câu nào sau đây đúng? Đối với Ngân hàng Thương mại Việt Nam thì?",
+    "answer": "Vốn tự có khác vốn chủ sở hữu"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Khi vốn chủ sở hữu giảm thì?",
+    "answer": "ROE tăng"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Vốn chủ sở hữu tác động đến chỉ tiêu nào sau đây?",
+    "answer": "ROE"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Nếu ngân hàng sử dụng toàn bộ lợi nhuận sau thuế để tái đầu tư trong điều kiện các yếu tố khác không đổi thì?",
+    "answer": "ROE giảm"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Trường hợp nào sau đây bị cấm?",
+    "answer": "Phát hành cổ phiếu thấp hơn mệnh giá"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Thặng dư vốn cổ phần là?",
+    "answer": "Phần thặng dư giữa toàn bộ giá cổ phiếu phát hành và mệnh giá"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Tỷ lệ an toàn vốn tối thiểu không đổi khi?",
+    "answer": "Tăng tiền mặt, giảm chứng khoán chính phủ"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Khoản mục nào sau đây tác động đến tỷ lệ an toàn vốn tối thiểu?",
+    "answer": "Cho vay tín chấp"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Khi giảm Quỹ khen thưởng phúc lợi thì?",
+    "answer": "ROE tăng"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Ngân hàng X có ROE = 1,2%. Nếu tiền gửi tăng 10% trong điều kiện các yếu tố khác không đổi thì thì ROE sẽ?",
+    "answer": "Không thay đổi"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Để tăng tỷ lệ an toàn vốn tối thiểu, ngân hàng có thể?",
+    "answer": "Tăng vay nợ dài hạn"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Vốn tự có tác động đến chỉ tiêu nào sau đây?",
+    "answer": "CAR"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Khoản mục nào sau đây thuộc vốn chủ sở hữu song không thuộc vốn tự có?",
+    "answer": "Quỹ khen thưởng phúc lợi"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Câu nào sau đây không phải là đáp ứng yêu cầu quản lý vốn chủ sở hữu?",
+    "answer": "Hình thành tài sản cố định"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Ngân hàng Z có ROE = 25% và tỷ lệ tài sản trên vốn chủ sở hữu là 22 thì ROA là?",
+    "answer": "1,14%"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Thực hiện bán nợ cho VAMC sẽ làm thay đổi cơ cấu của?",
+    "answer": "Tài sản"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Cùng một tỷ lệ sinh lời trên tài sản (ROA) và tổng tài sản, ngân hàng có vốn chủ sở hữu càng thấp thì tỷ lệ sinh lời vốn chủ sở hữu (ROE)?",
+    "answer": "Càng cao"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Phân tích hoạt động kinh doanh ngân hàng thường gồm mấy bước?",
+    "answer": "5"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi: Thu lãi bằng?",
+    "answer": "1220,56"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 2 và trả lời câu hỏi Tỷ lệ nợ xấu của ngân hàng là?",
+    "answer": "10%"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu như vốn cấp 1 bằng 70% vốn chủ sở hữu; vốn cấp 2 bằng 20% vay trung và dài hạn thì vốn tự có là (bỏ qua các khoản giảm trừ). Biết rằng chỉ có các khoản cho vay có hệ số rủi ro: ngắn hạn hệ số rủi ro là 50%; trung và dài hạn là 100%. Ngân hàng nên tác động nên thay đổi CAR thế nào?",
+    "answer": "Giảm"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 2 và trả lời câu hỏi Dự phòng chung là?",
+    "answer": "72,75"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Với chính sách tín dụng hiện nay, ngân hàng nên tập trung vào phân tích chỉ tiêu nào?",
+    "answer": "Chỉ tiêu rủi ro"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây không phản ánh khả năng thanh toán của ngân hàng?",
+    "answer": "Khả năng thanh toán ngắn hạn"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Sử dụng dữ liêu 1 và trả lời câu hỏi: Nếu như vốn cấp 1 bằng 70% vốn chủ sở hữu; vốn cấp 2 bằng 20% vay trung và dài hạn thì vốn tự có là (bỏ qua các khoản giảm trừ)?",
+    "answer": "910"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Trong các khoản sau, khoản mục nào nằm trên bảng báo cáo lưu chuyển tiền tệ của ngân hàng?",
+    "answer": "Chi phí khấu hao"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu bỏ qua dự phòng thì ROE là?",
+    "answer": "40,66%"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây không phản ánh mức độ an toàn trong ngân hàng?",
+    "answer": "ROE"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 2 và trả lời câu hỏi Dự phòng cụ thể của nhóm 4 là?",
+    "answer": "0"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Nhân tố nào sau đây không ảnh hưởng đến kết quả huy động vốn?",
+    "answer": "Nhu cầu vay vốn của khách hàng"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Chọn câu sai?",
+    "answer": "Chỉ cần quản lý rủi ro tín dụng đối với tài sản nội bảng"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Sau khi bán tài sản đảm bảo song vẫn không thu được đầy đủ gốc và lãi, ngân hàng phải bù đắp bằng?",
+    "answer": "Dự phòng cụ thể"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Khoản mục dự phòng nào sau đây nhỏ nhất?",
+    "answer": "Dự phòng cụ thể của nợ nhóm 1"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Dự phòng phải trích trong kỳ là?",
+    "answer": "49,3"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu thay “tiền gửi các tổ chức tín dụng khác” thành “Cho vay tại các tổ chức tín dụng khác” thì khoản mục nào sau đây thay đổi?",
+    "answer": "Dư nợ"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Dòng tiền của doanh nghiệp thường hình thành từ?",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Ngân hàng X có số liệu về dư nợ ngắn hạn, trung hạn, và dài hạn lần lượt là: 25780; 19450; 13440 (tỷ đồng). Tỷ lệ nợ nhóm 1 là 95%, tỷ lệ nợ nhóm 2 là 3% số còn lại là nợ nhóm 5. Dự phòng chung là?",
+    "answer": "431,225 tỷ đồng"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Yếu tố nào sau đây không phải là hậu quả của rủi ro tín dụng?",
+    "answer": "Thu lãi tăng"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Khoản mục nào sau đây nằm trong tài sản ngoại bảng được coi là hậu quả của rủi ro tín dụng?",
+    "answer": "Nợ nhóm 5 bị đẩy ra ngoại bảng"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Điền vào chỗ trống\nThường thì tỷ lệ nợ xấu ... so với tỷ lệ nợ quá hạn?",
+    "answer": "Thấp hơn"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Dự phòng cụ thể của nợ nhóm 5 là?",
+    "answer": "41"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Khoản mục nào sau đây không được tính vào nợ quá hạn không thu được lãi?",
+    "answer": "Tiền mặt"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Để bù đắp những tổn thất của rủi ro tín dụng, ngân hàng dùng biện pháp nào đầu tiên?",
+    "answer": "Phát mại tài sản"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Nếu dự phòng rủi ro tín dụng kỳ này của ngân hàng nhỏ hơn dự phòng rủi ro tín dụng của kỳ trước thì (điều kiện các yếu tố khác không đổi)?",
+    "answer": "Lợi nhuận của ngân hàng tăng lên"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây không thuộc về khả năng sinh lời khi phân tích khách hàng?",
+    "answer": "EBIT"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Khoản mục nào sau đây thuộc vốn tự có song không thuộc vốn chủ sở hữu?",
+    "answer": "Vay dài hạn"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Nếu ROA = 1,2% và ROE = 88% thì đòn bẩy tài chính là?",
+    "answer": "72,3"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Việc nào sau đây làm giảm vốn tự có?",
+    "answer": "Thời gian đáo hạn của khoản vay dài hạn giảm xuống trung hạn"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Câu nào sau đây sai?",
+    "answer": "Vốn cấp 1 không vượt quá vốn cấp 2"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Đâu không phải là lợi thế của vốn cấp 2 so với vốn chủ sở hữu?",
+    "answer": "Không phải hoàn trả."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Câu nào sau đây sai?",
+    "answer": "Vốn chủ sở hữu dùng để tính tỷ lệ an toàn vốn tối thiểu"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không thuộc vốn cấp 2?",
+    "answer": "Chênh lệch giảm do đánh giá lại tài sản"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Ngân hàng X có ROA = 1% và tỷ lệ tài sản trên vốn chủ sở hữu là 22 thì ROE là?",
+    "answer": "22%"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Đây là bất lợi khi tăng vốn chủ sở hữu thông qua tích lũy?",
+    "answer": "Cổ đông được chia ít cổ tức"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Đâu là tác động tích cực của gia tăng vốn chủ sở hữu thông qua tích lũy?",
+    "answer": "Thị giá cổ phiếu tăng"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Việc nào sau đây chỉ làm tăng vốn tự có mà không làm tăng vốn chủ sở hữu?",
+    "answer": "Đi vay dài hạn"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Việc nào sau đây làm tăng vốn tự có?",
+    "answer": "Phát hành cổ phiếu mới"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Lý do nào sau đây làm cho tiền gửi dài hạn không phải là khoản mục của vốn tự có?",
+    "answer": "Có thể bị rút bất ngờ"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không nằm trong vốn chủ sở hữu?",
+    "answer": "Vay dài hạn"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Yếu tố nào sau đây là bất lợi khi tăng vốn chủ sở hữu mới bằng cách phát hành thêm cổ phiếu?",
+    "answer": "Làm loãng quyền sở hữu"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Khoản mục nào sau đây hình thành từ tài sản nợ của ngân hàng?",
+    "answer": "Tiền gửi tại các tổ chức tín dụng khác"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Chi lãi bằng?",
+    "answer": "887,75"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu như vốn cấp 1 bằng 70% vốn chủ sở hữu; vốn cấp 2 bằng 20% vay trung và dài hạn thì vốn tự có là (bỏ qua các khoản giảm trừ). Biết rằng chỉ có các khoản cho vay có hệ số rủi ro: ngắn hạn hệ số rủi ro là 50%; trung và dài hạn là 100%. CAR là?",
+    "answer": "10,2%"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Chọn câu sai. Khi ngân hàng bán nợ xấu cho VAMC thì?",
+    "answer": "Tỷ lệ nợ xấu không đổi"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Nếu như vốn cấp 1 bằng 70% vốn chủ sở hữu; vốn cấp 2 bằng 20% vay trung và dài hạn thì vốn tự có là (bỏ qua các khoản giảm trừ). Biết rằng chỉ có các khoản cho vay có hệ số rủi ro: ngắn hạn hệ số rủi ro là 50%; trung và dài hạn là 100%. Ngân hàng nên thay đổi cơ cấu tài sản thế nào?",
+    "answer": "Tăng cho vay dài hạn, giảm tiền mặt"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi: Thu lãi bằng?",
+    "answer": "1220,56"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Trong ngân hàng thương mại?",
+    "answer": "Tài sản sinh lời bao gồm tài sản sinh lãi"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Thực hiện bán nợ cho VAMC sẽ làm thay đổi cơ cấu của?",
+    "answer": "Tài sản"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Mục tiêu quan trọng nhất của một ngân hàng thương mại là?",
+    "answer": "Tối đa hóa lợi ích của chủ sở hữu"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây không phản ánh khả năng thanh toán của ngân hàng?",
+    "answer": "Khả năng thanh toán ngắn hạn"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Trong ngân hàng, ROA thường .... so với ROE. Từ còn thiếu ở chỗ trống là?",
+    "answer": "Nhỏ hơn"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Sử dụng dữ liêu 1 và trả lời câu hỏi: Nếu như vốn cấp 1 bằng 70% vốn chủ sở hữu; vốn cấp 2 bằng 20% vay trung và dài hạn thì vốn tự có là (bỏ qua các khoản giảm trừ)?",
+    "answer": "910"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây không phản ánh rủi ro trong ngân hàng?",
+    "answer": "Tỷ lệ sinh lời của tài sản"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Đâu là khoản mục thuộc bảng cân đối kế toán?",
+    "answer": "Nợ nhóm 4"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Đâu không phải là một bước trong quy trình phân tích báo cáo tài chính của ngân hàng?",
+    "answer": "Điều tra tình hình nhân sự của ngân hàng"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Các hợp đồng dài hạn thường có mức lãi suất ... so với các hợp đồng ngắn hạn. Từ cần điền vào chỗ trống là?",
+    "answer": "Cao hơn"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Continental Illinois National Bank and Trust Company đã vỡ nợ vì các khoản nợ xấu. Những người gửi tiền sau khi biết thông tin này đã tới rút hơn 10 tỷ đôla ra khỏi ngân hàng này chỉ trong vài ngày đầu tiên của tháng 5/1984 làm ngân hàng sụp đổ hoàn toàn. Đây là hậu quả của?",
+    "answer": "Rủi ro thanh khoản"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Khi kỳ hạn của tài sản dài hơn nguồn vốn, ngân hàng có thể gặp phải?",
+    "answer": "Rủi ro thanh khoản"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Đo lường Khe hở lãi suất thuộc về?",
+    "answer": "Đo lường độ nhạy cảm"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Yếu tố nào sau đây không gây ra rủi ro lãi suất?",
+    "answer": "Lãi suất thị trường tăng sẽ làm giảm giá trị của các trái phiếu ngân hàng giữ."
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Ngân hàng thương mại ở Việt Nam không gặp rủi ro tỷ giá khi?",
+    "answer": "Mua bán chứng khoán bằng VNĐ."
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "1 ngân hàng đang duy trì tỷ lệ cho vay phi sản xuất là 30%. Tuy nhiên NHTW đã quy định các ngân hàng phải giảm tỷ lệ cho vay phi sản xuất xuống dưới mức 22% áp dụng từ ngày 01/7/X. Ngân hàng đã phải áp dụng nhiều biện pháp khác nhau để đáp ứng với qui định này như: không tiếp tục cho vay phi sản xuất kể cả với những dự án rủi ro thấp, thu hồi sớm các khoản cho vay phi sản xuất, bán 1 số khoản cho vay sang các ngân hàng khác… Những hoạt động này làm cho ngân hàng thiệt hại rất lớn. Ví dụ trên ứng với rủi ro nào trong số các rủi ro sau?",
+    "answer": "Rủi ro thanh khoản."
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Ngân hàng Công thương Việt Nam (VietinBank) nhận gửi tiết kiệm bằng vàng. Do biến động tăng bất thường của thị trường vàng trong nước và thế giới trong thời gian vừa qua nên giá trị các sổ tiết kiệm vàng đáo hạn vào tháng 8/2014 tăng 10 tỷ đồng so với dự kiến. Đây là?",
+    "answer": "Rủi ro giá cả"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Khoản mục nào sau đây là Nguồn vốn thanh khoản?",
+    "answer": "Tiền gửi tại các tổ chức tín dụng khác"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Rủi ro tỷ giá không xảy ra khi?",
+    "answer": "Ngân hàng không ở trạng thái mở"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không nhạy cảm với biến động của lãi suất trên thị trường?",
+    "answer": "Tiền mặt tại quỹ"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Khi tránh né rủi ro, ngân hàng không thể?",
+    "answer": "Làm mất đi rủi ro"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Ngân hàng mua hợp đồng tương lai của khách hàng A, sau đó lại bán đúng hợp đồng giống hệt như thế cho ngân hàng B. Ngân hàng đã?",
+    "answer": "Hoán chuyển rủi ro."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Khi lãi suất tăng, làm giá chứng khoán mà ngân hàng nắm giữ có thể giảm xuống. Đây là?",
+    "answer": "Rủi ro giá cả"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Theo quan điểm của Ngân hàng Nhà nước Việt Nam thì rủi ro tín dụng là?",
+    "answer": "Tổn thất có thể xảy ra"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng từ phía ngân hàng?",
+    "answer": "Nghiệp vụ tín dụng của nhân viên ngân hàng yếu kém."
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó tỷ lệ nợ xấu?",
+    "answer": "Tăng lên"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Theo quan điểm của Ngân hàng Nhà nước Việt Nam thì rủi ro tín dụng là?",
+    "answer": "Tổn thất có thể xảy ra"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng được cho là từ phía môi trường ngoài?",
+    "answer": "Nhà nước thay đổi chính sách."
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng của ngân hàng?",
+    "answer": "Giảm 3,75 triệu"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Sau 90 ngày, khách hàng vay vốn ngân hàng không trả nợ, với dư nợ là 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khi đó dự phòng của ngân hàng?",
+    "answer": "Tăng 20 triệu"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng không phải từ phía môi trường ngoài?",
+    "answer": "Khách hàng cố tình gian dối khi vay vốn"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không phải là rủi ro tín dụng đối với 1 khoản mục?",
+    "answer": "Ngân hàng tập trung tín dụng vào 1 nhóm khách hàng."
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Sự việc nào sau đây là rủi ro tín dụng?",
+    "answer": "Ngân hàng phát hiện khách hàng sử dụng vốn sai mục đích."
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng cụ thể của ngân hàng?",
+    "answer": "Tăng 95 triệu"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Khi khách hàng vay vừa vay vốn nhưng đột ngột qua đời, ngân hàng chuyển nợ thành nhóm 5. Khi đó dự phòng chung?",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó lợi nhuận sau thuế của ngân hàng thế nào nếu thuế suất thuế thu nhập doanh nghiệp là 22%?",
+    "answer": "Tăng 825000 đồng"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng chung của ngân hàng?",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Khi khách hàng không trả nợ đúng hạn và xin gia hạn 400 triệu với giá trị khấu trừ tài sản đảm bảo là 500 triệu. Ngân hàng đồng ý nhưng chuyển sang nợ nhóm 2. Khi đó dự phòng?",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó lợi nhuận sau thuế của ngân hàng thế nào nếu thuế suất thuế thu nhập doanh nghiệp là 22%?",
+    "answer": "Giảm 20,075 triệu"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Đo lường Khe hở lãi suất thuộc về?",
+    "answer": "Đo lường độ nhạy cảm"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Đo lường rủi ro là quá trình?",
+    "answer": "Định lượng được xác suất xảy ra rủi ro và tổn thất nó có thể gây ra cho ngân hàng."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "1 ngân hàng đang duy trì tỷ lệ cho vay phi sản xuất là 30%. Tuy nhiên NHTW đã quy định các ngân hàng phải giảm tỷ lệ cho vay phi sản xuất xuống dưới mức 22% áp dụng từ ngày 01/7/X. Ngân hàng đã phải áp dụng nhiều biện pháp khác nhau để đáp ứng với qui định này như: không tiếp tục cho vay phi sản xuất kể cả với những dự án rủi ro thấp, thu hồi sớm các khoản cho vay phi sản xuất, bán 1 số khoản cho vay sang các ngân hàng khác… Những hoạt động này làm cho ngân hàng thiệt hại rất lớn. Ví dụ trên ứng với rủi ro nào trong số các rủi ro sau?",
+    "answer": "Rủi ro thanh khoản."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Khách hàng gửi 10 triệu vào tài khoản, nhưng do sơ suất, nhân viên đã ghi thành 100 triệu. Đây là?",
+    "answer": "Rủi ro hoạt động"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Khi rủi ro càng cao thì?",
+    "answer": "Lợi nhuận kỳ vọng càng cao"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Ngân hàng Công thương Việt Nam (VietinBank) nhận gửi tiết kiệm bằng vàng. Do biến động tăng bất thường của thị trường vàng trong nước và thế giới trong thời gian vừa qua nên giá trị các sổ tiết kiệm vàng đáo hạn vào tháng 8/2014 tăng 10 tỷ đồng so với dự kiến. Đây là?",
+    "answer": "Rủi ro giá cả"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Khi kỳ hạn của tài sản dài hơn nguồn vốn, ngân hàng có thể gặp phải?",
+    "answer": "Rủi ro thanh khoản"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Loại hình kinh doanh nào dưới đây của NHTM ở Việt Nam có thể gặp rủi ro tỷ giá?",
+    "answer": "Vay vốn bằng đồng USD để cấp tín dụng bằng đồng USD."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Ngân hàng mua hợp đồng tương lai của khách hàng A, sau đó lại bán đúng hợp đồng giống hệt như thế cho ngân hàng B. Ngân hàng đã?",
+    "answer": "Hoán chuyển rủi ro."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Khoản mục nào sau đây là Nguồn vốn thanh khoản?",
+    "answer": "Tiền gửi tại các tổ chức tín dụng khác"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Tính thanh khoản là?",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Loại nào sau đây là nguồn vốn thanh khoản?",
+    "answer": "Tiền gửi thanh toán"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Loại nào sau đây là không phải tài sản thanh khoản?",
+    "answer": "Tiền gửi từ các tổ chức tín dụng khác."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Khoản mục nào sau đây nhạy cảm với những biến động của lãi suất trên thị trường?",
+    "answer": "Tiền gửi tiết kiệm"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Ngân hàng A có tổng dư nợ là 10000, trong đó nợ nhóm 1 chiếm 95%, số còn lại là nợ nhóm 3. Tài sản đảm bảo của nợ nhóm 3 là 555. Tổng dự phòng của ngân hàng A là?",
+    "answer": "75"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Tính thanh khoản của ngân hàng bao gồm?",
+    "answer": "Tính thanh khoản của cả tài sản và nguồn vốn."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Trong các câu sau đây, câu nào không phải là rủi ro trong ngân hàng?",
+    "answer": "Khách hàng rút vốn bất ngờ làm ngân hàng tổn thất 500 tỷ."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Ngân hàng ký hợp đồng bảo lãnh với khách hàng A, sau đó được ngân hàng B tái bảo lãnh lại hợp đồng này. Đây có thể coi là hình thức?",
+    "answer": "Bán lại hợp đồng"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Hoạt động nào sau đây có thể không làm cho ngân hàng gặp rủi ro?",
+    "answer": "Thực hiện ủy thác"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Ngân hàng có thể gặp rủi ro tỷ giá khi?",
+    "answer": "Mua trái phiếu chính phủ"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Khi tránh né rủi ro, ngân hàng không thể?",
+    "answer": "Làm mất đi rủi ro"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Ngân hàng không thể gặp rủi ro tỷ giá khi",
+    "answer": "Không có hoạt động nào phát sinh liên quan đến ngoại tệ"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Tỷ giá tăng làm cho ngân hàng có thể được lợi từ các hợp đồng cho vay bằng chứng khoán?",
+    "answer": "Bất trắc"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Ngân hàng có thể hạn chế rủi ro lãi suất bằng cách?",
+    "answer": "Sử dụng lãi suất thả nổi"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Continental Illinois National Bank and Trust Company đã vỡ nợ vì các khoản nợ xấu. Những người gửi tiền sau khi biết thông tin này đã tới rút hơn 10 tỷ đôla ra khỏi ngân hàng này chỉ trong vài ngày đầu tiên của tháng 5/1984 làm ngân hàng sụp đổ hoàn toàn. Đây là hậu quả của?",
+    "answer": "Rủi ro thanh khoản"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Các hợp đồng dài hạn thường có mức lãi suất ... so với các hợp đồng ngắn hạn. Từ cần điền vào chỗ trống là?",
+    "answer": "Cao hơn"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Trích lập dự phòng rủi ro tín dụng theo yêu cầu của Ngân hàng nhà nước là một trong những biện pháp?",
+    "answer": "Gánh chịu rủi ro"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Quản lý rủi ro bao gồm các bước?",
+    "answer": "Nhận diện – Đo lường – Xây dựng và thực hiện các biện pháp quản lý – Giám sát – Báo cáo."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Theo quan điểm của Ngân hàng Nhà nước Việt Nam thì rủi ro tín dụng là?",
+    "answer": "Tổn thất có thể xảy ra"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng từ phía ngân hàng?",
+    "answer": "Nghiệp vụ tín dụng của nhân viên ngân hàng yếu kém."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Khi khách hàng vay vừa vay vốn nhưng đột ngột qua đời, ngân hàng chuyển nợ thành nhóm 5. Khi đó dự phòng chung?",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng cụ thể của ngân hàng?",
+    "answer": "Tăng 95 triệu"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Khi khách hàng không trả nợ đúng hạn và xin gia hạn 500 triệu với giá trị khấu trừ tài sản đảm bảo là 400 triệu. Ngân hàng đồng ý nhưng chuyển sang nợ nhóm 2. Khi đó dự phòng?",
+    "answer": "Tăng 100 triệu"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Sự việc nào sau đây là tổn thất sau khi rủi ro tín dụng xảy ra?",
+    "answer": "Ngân hàng sử dụng dự phòng để bù đắp tổn thấp xảy ra khi khách hàng vay vốn không trả được nợ và trốn ra nước ngoài."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó lợi nhuận sau thuế của ngân hàng thế nào nếu thuế suất thuế thu nhập doanh nghiệp là 22%?",
+    "answer": "Giảm 20,075 triệu"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Khoản mục nào sau đây không phải là rủi ro tín dụng đối với 1 danh mục?",
+    "answer": "Khách hàng sử dụng vốn sai mục đích."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Khi rủi ro tín dụng xảy ra thì?",
+    "answer": "Dự phòng của ngân hàng tăng lên."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Đâu không phải là tác động của rủi ro tín dụng?",
+    "answer": "Thu lãi của ngân hàng tăng"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó tỷ lệ nợ xấu?",
+    "answer": "Tăng lên"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Khoản mục nào sau đây là rủi ro tín dụng đối với 1 khoản mục?",
+    "answer": "Khách hàng sử dụng vốn sai mục đích."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng chung của ngân hàng?",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Chọn câu sai\nKhách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó?",
+    "answer": "Tỷ lệ nợ quá hạn tăng"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng chung của ngân hàng?",
+    "answer": "Giảm 3,75 triệu"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Khoản mục nào sau đây là rủi ro tín dụng đối với 1 danh mục?",
+    "answer": "Ngân hàng tập trung tín dụng vào 1 nhóm khách hàng."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó lợi nhuận sau thuế của ngân hàng thế nào nếu thuế suất thuế thu nhập doanh nghiệp là 22%?",
+    "answer": "Tăng 825000 đồng"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây không gây ra rủi ro tín dụng từ phía ngân hàng?",
+    "answer": "Chính sách của ngân hàng bị tác động bởi nhà nước"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng từ phía khách hàng?",
+    "answer": "Khách hàng sử dụng vốn sai mục đích"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Sự việc nào sau đây là rủi ro tín dụng?",
+    "answer": "Ngân hàng phát hiện khách hàng sử dụng vốn sai mục đích."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng không phải từ phía khách hàng?",
+    "answer": "Khách hàng bị tác động của thiên tai."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Sau 90 ngày, khách hàng vay vốn ngân hàng không trả nợ, với dư nợ là 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khi đó dự phòng của ngân hàng?",
+    "answer": "Tăng 20 triệu"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Theo quan điểm của Ngân hàng Nhà nước Việt Nam thì rủi ro tín dụng là?",
+    "answer": "Tổn thất có thể xảy ra"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng của ngân hàng?",
+    "answer": "Giảm 3,75 triệu"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 3 thành nhóm 5. Khi đó tỷ lệ nợ xấu?",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 3. Khi đó dự phòng của ngân hàng?",
+    "answer": "Tăng 15 triệu"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Khoản mục nào sau đây không phải là rủi ro tín dụng đối với 1 khoản mục?",
+    "answer": "Ngân hàng tập trung tín dụng vào 1 nhóm khách hàng."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Khi khách hàng không trả nợ đúng hạn và xin gia hạn 400 triệu với giá trị khấu trừ tài sản đảm bảo là 500 triệu. Ngân hàng đồng ý nhưng chuyển sang nợ nhóm 2. Khi đó dự phòng?",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng của ngân hàng?",
+    "answer": "Tăng 91,25 triệu"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng được cho là từ phía môi trường ngoài?",
+    "answer": "Nhà nước thay đổi chính sách."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng không phải từ phía môi trường ngoài?",
+    "answer": "Khách hàng cố tình gian dối khi vay vốn"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Nếu dự phòng của kỳ này lớn hơn của kỳ trước thì?",
+    "answer": "Lợi nhuận sau thuế giảm"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Dự phòng cụ thể của nợ nhóm 5 là?",
+    "answer": "41"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Đâu là chỉ tiêu tài chính?",
+    "answer": "Đòn bẩy tài chính của khách hàng"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Khoản mục nào sau đây không được tính vào nợ quá hạn không thu được lãi?",
+    "answer": "Tiền mặt"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Tổng dự phòng là (làm tròn đến 1 con số sau dấu phẩy)?",
+    "answer": "154,3"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Chọn câu sai. Lãi suất của ngân hàng thường?",
+    "answer": "Cố định"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Khi xem xét đến khả năng sử dụng nợ của khách hàng, ngân hàng quan tâm đến chỉ tiêu nào sau đây?",
+    "answer": "Đòn bẩy tài chính"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Sau khi dùng dự phòng cụ thể mà không bù đắp được tổn thất thì ngân hàng sẽ phải bù đắp bằng?",
+    "answer": "Dự phòng chung"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Khoản mục dự phòng nào sau đây nhỏ nhất?",
+    "answer": "Dự phòng cụ thể của nợ nhóm 1"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Nếu dự phòng rủi ro tín dụng kỳ này của ngân hàng nhỏ hơn dự phòng rủi ro tín dụng của kỳ trước thì (điều kiện các yếu tố khác không đổi)?",
+    "answer": "Lợi nhuận của ngân hàng tăng lên"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Dựa vào dữ liệu 1 và trả lời câu hỏi Khoản mục nào sau đây không thu được đầy đủ lãi?",
+    "answer": "Cho vay ngắn hạn"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Khoản mục nào sau đây dùng để đánh giá rủi ro tín dụng không phải là chỉ tiêu tài chính?",
+    "answer": "Bằng cấp của giám đốc"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Sau khi dự phòng không bù đắp được tổn thất thì ngân hàng sẽ phải bù đắp bằng?",
+    "answer": "Vốn chủ sở hữu"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Dự phòng phải trích trong kỳ là?",
+    "answer": "49,3"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Yếu tố nào sau đây là hậu quả của rủi ro tín dụng?",
+    "answer": "Tài sản giảm"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Yếu tố nào sau đây không phải là hậu quả của rủi ro tín dụng?",
+    "answer": "Thu lãi tăng"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Khi xử lý nợ quá hạn thông qua bán TSĐB nhưng số tiền đó không đủ bù đắp lãi và gốc thì?",
+    "answer": "Ngân hàng thu gốc trước"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Khoản mục nào sau đây được có thể được tính vào nợ quá hạn không thu được lãi?",
+    "answer": "Cho vay trung hạn"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Dự phòng chung phải trích là?",
+    "answer": "51,8175"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Dự phòng cụ thể của nợ nhóm 2 là?",
+    "answer": "10,25\n15,25\n20,25"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Tổng dự phòng cụ thể là?",
+    "answer": "102,5"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Đâu là chỉ tiêu phi tài chính?",
+    "answer": "Ngành nghề của khách hàng"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Câu nào sai?",
+    "answer": "Dự phòng có thể âm"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi. Dư nợ là?",
+    "answer": "7050"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Nếu dự phòng của kỳ này nhỏ hơn của kỳ trước thì?",
+    "answer": "Lợi nhuận trước thuế tăng"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây không thuộc về khả năng sinh lời khi phân tích khách hàng?",
+    "answer": "EBIT"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Sau khi bán tài sản đảm bảo song vẫn không thu được đầy đủ gốc và lãi, ngân hàng phải bù đắp bằng?",
+    "answer": "Dự phòng cụ thể"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Tài sản đảm bảo thuộc?",
+    "answer": "Không thuộc cả 2 chỉ tiêu trên"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Biện pháp nào sau đây có thể giảm tổn thất khi rủi ro tín dụng xảy ra?",
+    "answer": "Mua bảo hiểm tín dụng"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Khoản mục nào sau đây thuộc vốn chủ sở hữu song không thuộc vốn tự có?",
+    "answer": "Quỹ khen thưởng phúc lợi"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Khoản mục nào sau đây thuộc vốn tự có song không thuộc vốn chủ sở hữu?",
+    "answer": "Vay dài hạn"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Nếu ROA = 1,2% và ROE = 88% thì đòn bẩy tài chính là?",
+    "answer": "72,3"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Câu nào sau đây sai?",
+    "answer": "Vốn chủ sở hữu dùng để tính tỷ lệ an toàn vốn tối thiểu"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Khi vốn điều lệ tăng thì?",
+    "answer": "ROE giảm"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Việc nào sau đây làm tăng vốn tự có?",
+    "answer": "Phát hành cổ phiếu mới"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Nếu ngân hàng sử dụng toàn bộ lợi nhuận sau thuế để tái đầu tư trong điều kiện các yếu tố khác không đổi thì?",
+    "answer": "ROE giảm"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Vốn tự có tác động đến chỉ tiêu nào sau đây?",
+    "answer": "CAR"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Vốn tự có có thể dùng để xác định?",
+    "answer": "Giới hạn cấp tín dụng cho khách hàng"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Việc nào sau đây chỉ làm tăng vốn chủ sở hữu mà không làm tăng vốn tự có?",
+    "answer": "Tăng quỹ khen thưởng phúc lợi"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Đâu là tác động tích cực của gia tăng vốn chủ sở hữu thông qua tích lũy?",
+    "answer": "Thị giá cổ phiếu tăng"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Khoản mục nào sau đây không tác động đến tỷ lệ an toàn vốn tối thiểu?",
+    "answer": "Tiền gửi của khách hàng"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Ngân hàng Z có ROE = 25% và tỷ lệ tài sản trên vốn chủ sở hữu là 22 thì ROA là?",
+    "answer": "1,14%"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Khoản mục nào sau đây không nằm trong vốn chủ sở hữu?",
+    "answer": "Vay dài hạn"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Yếu tố nào sau đây là bất lợi khi tăng vốn chủ sở hữu mới bằng cách phát hành thêm cổ phiếu?",
+    "answer": "Làm loãng quyền sở hữu"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Câu nào sau đây sai?",
+    "answer": "Giới hạn cấp tín dụng với một khách hàng không vượt quá 25% vốn tự có của ngân hàng."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Việc nào sau đây làm tăng vốn chủ sở hữu?",
+    "answer": "Phát hành cổ phiếu mới"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Khoản mục nào sau đây thuộc vốn chủ sở hữu?",
+    "answer": "Vay nợ dài hạn"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Khi giảm Quỹ khen thưởng phúc lợi thì?",
+    "answer": "ROE tăng"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Khi vốn chủ sở hữu tăng thì sẽ?",
+    "answer": "ROE giảm"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Câu nào sau đây sai?",
+    "answer": "Vốn cấp 1 không vượt quá vốn cấp 2"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Đây là bất lợi khi tăng vốn chủ sở hữu thông qua tích lũy?",
+    "answer": "Cổ đông được chia ít cổ tức"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Khoản mục nào sau đây tác động đến tỷ lệ an toàn vốn tối thiểu?",
+    "answer": "Cho vay tín chấp"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Câu nào sau đây đúng? Đối với Ngân hàng Thương mại Việt Nam thì?",
+    "answer": "Vốn tự có khác vốn chủ sở hữu"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Ngân hàng X có ROA = 1% và tỷ lệ tài sản trên vốn chủ sở hữu là 22 thì ROE là?",
+    "answer": "22%"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Vốn chủ sở hữu tác động đến chỉ tiêu nào sau đây?",
+    "answer": "ROE"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Khoản mục nào sau đây không tác động đến vốn tự có?",
+    "answer": "Nhận tiền gửi dài hạn của khách hàng"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Ngân hàng X có ROE = 1,2%. Nếu tiền gửi tăng 10% trong điều kiện các yếu tố khác không đổi thì thì ROE sẽ?",
+    "answer": "Không thay đổi"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Thặng dư vốn cổ phần là?",
+    "answer": "Phần thặng dư giữa toàn bộ giá cổ phiếu phát hành và mệnh giá"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Tỷ lệ an toàn vốn tối thiểu không đổi khi?",
+    "answer": "Tăng tiền mặt, giảm chứng khoán chính phủ"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Chọn câu sai. Chi phí dự phòng tổn thất có thể tính dự vào?",
+    "answer": "Thời hạn trả nợ"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây không phản ánh khả năng thanh toán của ngân hàng?",
+    "answer": "Khả năng thanh toán ngắn hạn"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Khi ngân hàng bán nợ xấu cho VAMC, những báo cáo tài chính nào thay đổi?",
+    "answer": "Cả 3 báo cáo trên"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Trong các khoản sau, khoản mục nào nằm trên bảng báo cáo lưu chuyển tiền tệ của ngân hàng?",
+    "answer": "Chi phí khấu hao"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Trong ngân hàng, ROA thường .... so với ROE. Từ còn thiếu ở chỗ trống là?",
+    "answer": "Nhỏ hơn"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Khoản mục nào sau đây hình thành từ tài sản nợ của ngân hàng?",
+    "answer": "Tiền gửi tại các tổ chức tín dụng khác"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi: Thu lãi bằng?",
+    "answer": "1220,56"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi. Nếu muốn ROA = 2% thì lãi suất cho vay phải là?",
+    "answer": "10,97%"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Chi lãi bằng?",
+    "answer": "887,75"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Mục tiêu quan trọng nhất của một ngân hàng thương mại là?",
+    "answer": "Tối đa hóa lợi ích của chủ sở hữu"
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 2 và trả lời câu hỏi Dự phòng cụ thể của nhóm 4 là?",
+    "answer": "0"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi NIM bằng?",
+    "answer": "2,25%"
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Cùng một tỷ lệ ROE nhưng đòn bẩy tài chính càng cao thì ROA?",
+    "answer": "Càng thấp"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Cùng một tỷ lệ sinh lời trên tài sản (ROA) và tổng tài sản, ngân hàng có vốn chủ sở hữu càng cao thì tỷ lệ sinh lời vốn chủ sở hữu (ROE)?",
+    "answer": "Càng thấp"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu bỏ qua dự phòng thì ROA là?",
+    "answer": "1,67%"
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây không phải là phân tích tình hình tài chính?",
+    "answer": "Giá trị tài sản đảm bảo"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Nếu như vốn cấp 1 bằng 70% vốn chủ sở hữu; vốn cấp 2 bằng 20% vay trung và dài hạn thì vốn tự có là (bỏ qua các khoản giảm trừ). Biết rằng chỉ có các khoản cho vay có hệ số rủi ro: ngắn hạn hệ số rủi ro là 50%; trung và dài hạn là 100%. Ngân hàng nên thay đổi cơ cấu tài sản thế nào?",
+    "answer": "Tăng cho vay dài hạn, giảm tiền mặt"
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 2 và trả lời câu hỏi Tỷ lệ nợ xấu của ngân hàng là?",
+    "answer": "10%"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Nhân tố nào sau đây không ảnh hưởng đến kết quả huy động vốn?",
+    "answer": "Nhu cầu vay vốn của khách hàng"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Trong ngân hàng thương mại?",
+    "answer": "Tài sản sinh lời bao gồm tài sản sinh lãi"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Cùng một tỷ lệ sinh lời trên tài sản (ROA) và tổng tài sản, ngân hàng có vốn chủ sở hữu càng thấp thì tỷ lệ sinh lời vốn chủ sở hữu (ROE)?",
+    "answer": "Càng cao"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây không phản ánh rủi ro trong ngân hàng?",
+    "answer": "Tỷ lệ sinh lời của tài sản"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu như vốn cấp 1 bằng 70% vốn chủ sở hữu; vốn cấp 2 bằng 20% vay trung và dài hạn thì vốn tự có là (bỏ qua các khoản giảm trừ). Biết rằng chỉ có các khoản cho vay có hệ số rủi ro: ngắn hạn hệ số rủi ro là 50%; trung và dài hạn là 100%. Ngân hàng nên tác động nên thay đổi CAR thế nào?",
+    "answer": "Giảm"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Chênh lệch lãi suất?",
+    "answer": "2,1%"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu bỏ qua dự phòng thì ROE là?",
+    "answer": "40,66%"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây không phản ánh mức độ sinh lời trong ngân hàng?",
+    "answer": "Tỷ lệ nợ xấu"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Khi ROA = 2% tại mức lãi suất cho vay mới thì ROE là?",
+    "answer": "48,62%"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Với chính sách tín dụng hiện nay, ngân hàng nên tập trung vào phân tích chỉ tiêu nào?",
+    "answer": "Chỉ tiêu rủi ro"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Sử dụng dữ liêu 1 và trả lời câu hỏi: Nếu như vốn cấp 1 bằng 70% vốn chủ sở hữu; vốn cấp 2 bằng 20% vay trung và dài hạn thì vốn tự có là (bỏ qua các khoản giảm trừ)?",
+    "answer": "910"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Khi ngân hàng trả lãi cổ tức, bảng cấn đối kế toán sẽ bị ảnh hưởng như thế nào?",
+    "answer": "Tài sản có và vốn chủ sở hữu giảm"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây không phản ánh mức độ an toàn trong ngân hàng?",
+    "answer": "ROE"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Phân tích hoạt động kinh doanh ngân hàng thường gồm mấy bước?",
+    "answer": "5"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu như vốn cấp 1 bằng 70% vốn chủ sở hữu; vốn cấp 2 bằng 20% vay trung và dài hạn thì vốn tự có là (bỏ qua các khoản giảm trừ). Biết rằng chỉ có các khoản cho vay có hệ số rủi ro: ngắn hạn hệ số rủi ro là 50%; trung và dài hạn là 100%. CAR có đáp ứng được yêu cầu của NHNN hiện tại không?",
+    "answer": "Có"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Đâu không phải là một bước trong quy trình phân tích báo cáo tài chính của ngân hàng?",
+    "answer": "Điều tra tình hình nhân sự của ngân hàng"
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 2 và trả lời câu hỏi Dự phòng chung là?",
+    "answer": "72,75"
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Đâu là khoản mục thuộc bảng cân đối kế toán?",
+    "answer": "Nợ nhóm 4"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu như vốn cấp 1 bằng 70% vốn chủ sở hữu; vốn cấp 2 bằng 20% vay trung và dài hạn thì vốn tự có là (bỏ qua các khoản giảm trừ). Biết rằng chỉ có các khoản cho vay có hệ số rủi ro: ngắn hạn hệ số rủi ro là 50%; trung và dài hạn là 100%. CAR là?",
+    "answer": "10,2%"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây hình thành tài sản có của ngân hàng?",
+    "answer": "Tiền gửi từ các tổ chức tín dụng khác"
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Thực hiện bán nợ cho VAMC sẽ làm thay đổi cơ cấu của?",
+    "answer": "Tài sản"
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Chọn câu sai. Khi ngân hàng bán nợ xấu cho VAMC thì?",
+    "answer": "Tỷ lệ nợ xấu không đổi"
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi NIM bằng?",
+    "answer": "2,25%"
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Chênh lệch lãi suất?",
+    "answer": "2,1%"
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Cùng một tỷ lệ ROE nhưng đòn bẩy tài chính càng cao thì ROA?",
+    "answer": "Càng thấp"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây không phản ánh mức độ sinh lời trong ngân hàng?",
+    "answer": "Tỷ lệ nợ xấu"
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Mục tiêu quan trọng nhất của một ngân hàng thương mại là?",
+    "answer": "Tối đa hóa lợi ích của chủ sở hữu"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Ngân hàng mua hợp đồng tương lai của khách hàng A, sau đó lại bán đúng hợp đồng giống hệt như thế cho ngân hàng B. Ngân hàng đã?",
+    "answer": "Hoán chuyển rủi ro."
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Ngân hàng ký hợp đồng bảo lãnh với khách hàng A, sau đó được ngân hàng B tái bảo lãnh lại hợp đồng này. Đây có thể coi là hình thức?",
+    "answer": "Bán lại hợp đồng"
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Ngân hàng có thể gặp rủi ro tỷ giá khi?",
+    "answer": "Mua trái phiếu chính phủ"
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Các hợp đồng dài hạn thường có mức lãi suất ... so với các hợp đồng ngắn hạn. Từ cần điền vào chỗ trống là?",
+    "answer": "Cao hơn"
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "Khi lãi suất tăng, làm giá chứng khoán mà ngân hàng nắm giữ có thể giảm xuống. Đây là?",
+    "answer": "Rủi ro giá cả"
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Ngân hàng không thể gặp rủi ro tỷ giá khi",
+    "answer": "Không có hoạt động nào phát sinh liên quan đến ngoại tệ"
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "Theo quan điểm của Ngân hàng Nhà nước Việt Nam thì rủi ro tín dụng là?",
+    "answer": "Tổn thất có thể xảy ra"
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Ngân hàng thương mại ở Việt Nam không gặp rủi ro tỷ giá khi?",
+    "answer": "Mua bán chứng khoán bằng VNĐ."
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "Bộ phận kiểm toán nội bộ nên... với Ủy ban quan lý rủi ro?",
+    "answer": "Độc lập"
+  },
+  {
+    "id": 406,
+    "premium": true,
+    "question": "Khi tránh né rủi ro, ngân hàng không thể?",
+    "answer": "Làm mất đi rủi ro"
+  },
+  {
+    "id": 407,
+    "premium": true,
+    "question": "Sau 90 ngày, khách hàng vay vốn ngân hàng không trả nợ, với dư nợ là 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khi đó dự phòng của ngân hàng?",
+    "answer": "Tăng 20 triệu"
+  },
+  {
+    "id": 408,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng không phải từ phía khách hàng?",
+    "answer": "Khách hàng bị tác động của thiên tai."
+  },
+  {
+    "id": 409,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng không phải từ phía môi trường ngoài?",
+    "answer": "Khách hàng cố tình gian dối khi vay vốn"
+  },
+  {
+    "id": 410,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 3. Khi đó dự phòng của ngân hàng?",
+    "answer": "Tăng 15 triệu"
+  },
+  {
+    "id": 411,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó lợi nhuận sau thuế của ngân hàng thế nào nếu thuế suất thuế thu nhập doanh nghiệp là 22%?",
+    "answer": "Giảm 20,075 triệu"
+  },
+  {
+    "id": 412,
+    "premium": true,
+    "question": "Đâu không phải là tác động của rủi ro tín dụng?",
+    "answer": "Thu lãi của ngân hàng tăng"
+  },
+  {
+    "id": 413,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng cụ thể của ngân hàng?",
+    "answer": "Tăng 95 triệu"
+  },
+  {
+    "id": 414,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó tỷ lệ nợ xấu?",
+    "answer": "Tăng lên"
+  },
+  {
+    "id": 415,
+    "premium": true,
+    "question": "Chọn câu sai\nKhách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó?",
+    "answer": "Tỷ lệ nợ quá hạn tăng"
+  },
+  {
+    "id": 416,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng được cho là từ phía môi trường ngoài?",
+    "answer": "Nhà nước thay đổi chính sách."
+  },
+  {
+    "id": 417,
+    "premium": true,
+    "question": "Khoản mục nào sau đây là Nguồn vốn thanh khoản?",
+    "answer": "Tiền gửi tại các tổ chức tín dụng khác"
+  },
+  {
+    "id": 418,
+    "premium": true,
+    "question": "Khách hàng gửi 10 triệu vào tài khoản, nhưng do sơ suất, nhân viên đã ghi thành 100 triệu. Đây là?",
+    "answer": "Rủi ro hoạt động"
+  },
+  {
+    "id": 419,
+    "premium": true,
+    "question": "Tỷ giá tăng làm cho ngân hàng có thể được lợi từ các hợp đồng cho vay bằng chứng khoán?",
+    "answer": "Bất trắc"
+  },
+  {
+    "id": 420,
+    "premium": true,
+    "question": "Rủi ro tỷ giá không xảy ra khi?",
+    "answer": "Ngân hàng không ở trạng thái mở"
+  },
+  {
+    "id": 421,
+    "premium": true,
+    "question": "Loại nào sau đây là tài sản thanh khoản?",
+    "answer": "Trái phiếu chính phủ kỳ hạn 5 năm, thời gian đáo hạn 6 tháng do ngân hàng nắm giữ."
+  },
+  {
+    "id": 422,
+    "premium": true,
+    "question": "Quản lý rủi ro bao gồm các bước?",
+    "answer": "Nhận diện – Đo lường – Xây dựng và thực hiện các biện pháp quản lý – Giám sát – Báo cáo."
+  },
+  {
+    "id": 423,
+    "premium": true,
+    "question": "Ngân hàng A có tổng dư nợ là 10000, trong đó nợ nhóm 1 chiếm 95%, số còn lại là nợ nhóm 3. Tài sản đảm bảo của nợ nhóm 3 là 555. Tổng dự phòng của ngân hàng A là?",
+    "answer": "75"
+  },
+  {
+    "id": 424,
+    "premium": true,
+    "question": "Yếu tố nào sau đây không gây ra rủi ro lãi suất?",
+    "answer": "Lãi suất thị trường tăng sẽ làm giảm giá trị của các trái phiếu ngân hàng giữ."
+  },
+  {
+    "id": 425,
+    "premium": true,
+    "question": "Khoản mục nào sau đây nhạy cảm với những biến động của lãi suất trên thị trường?",
+    "answer": "Tiền gửi tiết kiệm"
+  },
+  {
+    "id": 426,
+    "premium": true,
+    "question": "Tính thanh khoản là?",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 427,
+    "premium": true,
+    "question": "Khoản mục nào sau đây là rủi ro tín dụng đối với 1 danh mục?",
+    "answer": "Ngân hàng tập trung tín dụng vào 1 nhóm khách hàng."
+  },
+  {
+    "id": 428,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây gây ra rủi ro tín dụng từ phía ngân hàng?",
+    "answer": "Nghiệp vụ tín dụng của nhân viên ngân hàng yếu kém."
+  },
+  {
+    "id": 429,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng chung của ngân hàng?",
+    "answer": "Giảm 3,75 triệu"
+  },
+  {
+    "id": 430,
+    "premium": true,
+    "question": "Khoản mục nào sau đây là rủi ro tín dụng đối với 1 khoản mục?",
+    "answer": "Khách hàng sử dụng vốn sai mục đích."
+  },
+  {
+    "id": 431,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 400 triệu, giá trị khấu trừ tài sản đảm bảo là 500 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó lợi nhuận sau thuế của ngân hàng thế nào nếu thuế suất thuế thu nhập doanh nghiệp là 22%?",
+    "answer": "Tăng 825000 đồng"
+  },
+  {
+    "id": 432,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng của ngân hàng?",
+    "answer": "Tăng 91,25 triệu"
+  },
+  {
+    "id": 433,
+    "premium": true,
+    "question": "Sự việc nào sau đây là rủi ro tín dụng?",
+    "answer": "Ngân hàng phát hiện khách hàng sử dụng vốn sai mục đích."
+  },
+  {
+    "id": 434,
+    "premium": true,
+    "question": "Khi khách hàng vay vừa vay vốn nhưng đột ngột qua đời, ngân hàng chuyển nợ thành nhóm 5. Khi đó dự phòng chung?",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 435,
+    "premium": true,
+    "question": "Khách hàng vay vốn ngân hàng 500 triệu, giá trị khấu trừ tài sản đảm bảo là 400 triệu. Khách hàng bị chuyển nợ từ nhóm 2 thành nhóm 5. Khi đó dự phòng chung của ngân hàng?",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 436,
+    "premium": true,
+    "question": "Khi khách hàng không trả nợ đúng hạn và xin gia hạn 400 triệu với giá trị khấu trừ tài sản đảm bảo là 500 triệu. Ngân hàng đồng ý nhưng chuyển sang nợ nhóm 2. Khi đó dự phòng?",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 437,
+    "premium": true,
+    "question": "Đâu là chỉ tiêu phi tài chính?",
+    "answer": "Ngành nghề của khách hàng"
+  },
+  {
+    "id": 438,
+    "premium": true,
+    "question": "Sau khi bán tài sản đảm bảo song vẫn không thu được đầy đủ gốc và lãi, ngân hàng phải bù đắp bằng?",
+    "answer": "Dự phòng cụ thể"
+  },
+  {
+    "id": 439,
+    "premium": true,
+    "question": "Nếu dự phòng rủi ro tín dụng kỳ này của ngân hàng lớn hơn dự phòng rủi ro tín dụng của kỳ trước thì (điều kiện các yếu tố khác không đổi)?",
+    "answer": "Chi phí của ngân hàng tăng lên"
+  },
+  {
+    "id": 440,
+    "premium": true,
+    "question": "Khoản mục nào sau đây dùng để đánh giá rủi ro tín dụng không phải là chỉ tiêu tài chính?",
+    "answer": "Bằng cấp của giám đốc"
+  },
+  {
+    "id": 441,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Dự phòng chung phải trích là?",
+    "answer": "51,8175"
+  },
+  {
+    "id": 442,
+    "premium": true,
+    "question": "Khoản mục nào sau đây không phải là chỉ tiêu phi tài chính?",
+    "answer": "Đòn bẩy tài chính của khách hàng"
+  },
+  {
+    "id": 443,
+    "premium": true,
+    "question": "Khoản mục nào sau đây nằm trong tài sản ngoại bảng được coi là hậu quả của rủi ro tín dụng?",
+    "answer": "Nợ nhóm 5 bị đẩy ra ngoại bảng"
+  },
+  {
+    "id": 444,
+    "premium": true,
+    "question": "Khoản mục nào sau đây thuộc vốn chủ sở hữu song không thuộc vốn tự có?",
+    "answer": "Quỹ khen thưởng phúc lợi"
+  },
+  {
+    "id": 445,
+    "premium": true,
+    "question": "Lý do nào sau đây làm cho tiền gửi dài hạn không phải là khoản mục của vốn tự có?",
+    "answer": "Có thể bị rút bất ngờ"
+  },
+  {
+    "id": 446,
+    "premium": true,
+    "question": "Tỷ lệ an toàn vốn tối thiểu không đổi khi?",
+    "answer": "Tăng tiền mặt, giảm chứng khoán chính phủ"
+  },
+  {
+    "id": 447,
+    "premium": true,
+    "question": "Câu nào sau đây sai?",
+    "answer": "Vốn chủ sở hữu dùng để tính tỷ lệ an toàn vốn tối thiểu"
+  },
+  {
+    "id": 448,
+    "premium": true,
+    "question": "Thặng dư vốn cổ phần là?",
+    "answer": "Phần thặng dư giữa toàn bộ giá cổ phiếu phát hành và mệnh giá"
+  },
+  {
+    "id": 449,
+    "premium": true,
+    "question": "Vốn tự có tác động đến chỉ tiêu nào sau đây?",
+    "answer": "CAR"
+  },
+  {
+    "id": 450,
+    "premium": true,
+    "question": "Câu nào sau đây không phải là đáp ứng yêu cầu quản lý vốn chủ sở hữu?",
+    "answer": "Hình thành tài sản cố định"
+  },
+  {
+    "id": 451,
+    "premium": true,
+    "question": "Chọn câu sai. Chi phí dự phòng tổn thất có thể tính dự vào?",
+    "answer": "Thời hạn trả nợ"
+  },
+  {
+    "id": 452,
+    "premium": true,
+    "question": "Phân tích hoạt động kinh doanh ngân hàng thường gồm mấy bước?",
+    "answer": "5"
+  },
+  {
+    "id": 453,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Nếu bỏ qua dự phòng thì ROA là?",
+    "answer": "1,67%"
+  },
+  {
+    "id": 454,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 2 và trả lời câu hỏi Dự phòng cụ thể của nhóm 4 là?",
+    "answer": "0"
+  },
+  {
+    "id": 455,
+    "premium": true,
+    "question": "Chỉ tiêu nào sau đây không phản ánh mức độ an toàn trong ngân hàng?",
+    "answer": "ROE"
+  },
+  {
+    "id": 456,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 2 và trả lời câu hỏi Dự phòng chung là?",
+    "answer": "72,75"
+  },
+  {
+    "id": 457,
+    "premium": true,
+    "question": "Tổng dự phòng cụ thể là?",
+    "answer": "102,5"
+  },
+  {
+    "id": 458,
+    "premium": true,
+    "question": "Tỷ lệ nợ quá hạn là?",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 459,
+    "premium": true,
+    "question": "Yếu tố nào sau đây không phải là hậu quả của rủi ro tín dụng?",
+    "answer": "Thu lãi tăng"
+  },
+  {
+    "id": 460,
+    "premium": true,
+    "question": "Điền vào chỗ trống\nThường thì tỷ lệ nợ xấu ... so với tỷ lệ nợ quá hạn?",
+    "answer": "Thấp hơn"
+  },
+  {
+    "id": 461,
+    "premium": true,
+    "question": "Đâu là chỉ tiêu tài chính?",
+    "answer": "Đòn bẩy tài chính của khách hàng"
+  },
+  {
+    "id": 462,
+    "premium": true,
+    "question": "Sử dụng dữ liệu 1 và trả lời câu hỏi Khoản mục nào sau đây được có thể được tính vào nợ quá hạn không thu được lãi?",
+    "answer": "Cho vay trung hạn"
+  },
+  {
+    "id": 463,
+    "premium": true,
+    "question": "Dòng tiền của doanh nghiệp thường hình thành từ?",
+    "answer": "Đáp án khác"
+  },
+  {
+    "id": 464,
+    "premium": true,
+    "question": "Việc nào sau đây chỉ làm tăng vốn tự có mà không làm tăng vốn chủ sở hữu?",
+    "answer": "Đi vay dài hạn"
+  },
+  {
+    "id": 465,
+    "premium": true,
+    "question": "Việc nào sau đây làm giảm vốn tự có?",
+    "answer": "Thời gian đáo hạn của khoản vay dài hạn giảm xuống trung hạn"
+  },
+  {
+    "id": 466,
+    "premium": true,
+    "question": "Trường hợp nào sau đây bị cấm?",
+    "answer": "Phát hành cổ phiếu thấp hơn mệnh giá"
+  },
+  {
+    "id": 467,
+    "premium": true,
+    "question": "Vốn chủ sở hữu tác động đến chỉ tiêu nào sau đây?",
+    "answer": "ROE"
+  }
+]

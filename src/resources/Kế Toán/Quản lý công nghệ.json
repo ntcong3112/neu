@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Một trong các yếu tố liên quan tới cơ chế để phát triển công nghệ là:",
+    "answer": "Tạo dựng nền văn hóa công nghệ."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Một doanh nghiệp có một kế hoạch chuyển giao công nghệ trong thời hạn 2 năm.Đây là kế hoạch",
+    "answer": "Ngắn hạn"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Ở giai đoạn đầu quá trình công nghiệp hoá cùng với kết quả của công nghiệp hoá (sự gia tăng số lượng công nghệ và năng lực công nghệ) là:",
+    "answer": "Suy giảm các nguồn tài nguyên."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Hiện nay trong cơ cấu kinh tế của các quốc gia thuộc nhóm G7, tỷ trọng trong GDP của nhóm ngành dịch vụ chiếm khoảng:",
+    "answer": "Khoảng 80%"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Sự phát triển công nghệ làm thay đổi cơ cấu kinh tế của các quốc gia Đang phát triển hiện nay theo hướng:",
+    "answer": "Tăng tỷ trọng công nghiệp,dịch vụ và giảm tỷ trọng nông nghiệp"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Môi trường công nghệ của các nước Đang phát triển so với môi trường công nghệ của các nước Phát triển:",
+    "answer": "Thấp hơn"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Đầu tư cho R&D của các nước Đang phát triển so với các nước Phát triển:",
+    "answer": "Thấp hơn"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Mối quan hệ giữa CMCK và CMCC là:",
+    "answer": "Hai mặt của một vấn đề"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "CMCK là",
+    "answer": "Số đo yếu tố định lượng được của môi trường công nghệ quốc gia"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Cấu trúc dân số là",
+    "answer": "Một phần của môi trường công nghệ"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Thiết bị thứ I là thiết bị tự động chuyên dùng thì giá trị trên của nó là:",
+    "answer": "7"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Một doanh nghiệp ở Việt Nam và một doanh nghiệp ở Nhật Bản đang cùng sử dụng một công nghệ với cùng hệ số đóng góp. Giá bán sản phẩm bằng nhau. Giá trị tăng thêm do công nghệ đóng góp của doanh nghiệp Nhật Bản so với doanh nghiệp Việt Nam:",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Hai doanh nghiệpA&B hoạt động trong cùng một môi trường công nghệ và đang khai thác CN với số liệu như sau: TA=0,75;HA=0,50; IA=0,40;OA=0,40; Và: TB= 0,80;HB = 0,40; IB = 0,45;OB = 0,50;",
+    "answer": "DN B có năng lực CN cao hơn DN A"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Khả năng sáng tạo công nghệ, tạo ra các sản phẩm hoàn toàn mới là tiêu chí đánh giá năng lực công nghệ cơ sở của nhóm:",
+    "answer": "Năng lực đổi mới công nghệ"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Việc xác định giá trị hàm hệ số đóng góp của công nghệ bao gồm:",
+    "answer": "5 bước."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Các nhóm công nghệ sau đây được đề cập theo chiến lược phát triển công nghệ thích hợp cho các nước đang phát triển, ngoại trừ:",
+    "answer": "Công nghệ lạc hậu"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Doanh nghiệp A đang sử dụng CN với số liệu sau: T=0,8; H=0,50; I=0,30; O=0,4. Công nghệ này doanh nghiệp A có được từ việc mua công nghệ của doanh nghiệp B. Số liệu của doanh nghiệp B là: T=0,8;H=0,7; I=0,6; O=0,65. Biết: βT=0,55; βH=0,15; βI=0,1; βO=0,2. Hệ số hấp thụ công nghệ hiện tại của doanh nghiệp A là:",
+    "answer": "80%"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Khi giá trị sản lượng của một doanh nghiệp giảm 10%(trong điều kiện các yếu tố khác không thay đổi) Giá trị do công nghệ tạo ra của doanh nghiệp đó sẽ:",
+    "answer": "Giảm 10%"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Hai doanh nghiệpA&B hoạt động trong cùng một môi trường công nghệ và đang khai thác CN với số liệu như sau: TA=0,75;HA=0,50; IA=0,40;OA=0,40;",
+    "answer": "DN B có năng lực CN cao hơn DN A"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Theo chiến lược phát triển công nghệ thích hợp cho các nước đang phát triển, số nhóm công nghệ được đề cập đến là:",
+    "answer": "3 nhóm"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Trong quá trình hình thành và ứng dụng công nghệ mới, hoạt động biến đổi tri thức và các ý thưởng thành phần cứng, phần mềm hoặc dịch vụ là:",
+    "answer": "Triển khai công nghệ."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Các sáng chế có tính sáng tạo,có khả năng ứng dụng đều có thể được pháp luật bảo hộ là do:",
+    "answer": "Có khả năng ứng dụng."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Một trong những phát minh là:",
+    "answer": "Định luật cảm ứng điện từ."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Một trong phát minh là:",
+    "answer": "Định luật cảm ứng điện từ"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Cơ chế đổi mới công nghệ bao gồm:",
+    "answer": "2 cơ chế"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Theo ESCAP và UNIDO, việc chuyển giao diễn ra giữa các bên đóng ở các quốc gia khác nhau thì gọi là:",
+    "answer": "Chuyển giao công nghệ"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Theo sơ đồ phát triển công nghệ nội sinh, sau bước triển khai áp dụng thì bước tiếp theo sẽ là:",
+    "answer": "Cải tiến"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Những khó khăn đối với chuyển giao công nghệ quốc tế thuộc về bên nhận công nghệ không bao gồm:",
+    "answer": "Tiến bộ khoa học và công nghệ."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Theo sơ đồ phát triển công nghệ nội sinh, sau bước nghiên cứu tạo ra công nghệ thì bước tiếp theo sẽ là",
+    "answer": "Triển khai áp dụng"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Một trong các khó khăn trong chuyển giao công nghệ quốc tế là:",
+    "answer": "Những khác biệt về ngôn ngữ, nền văn hóa"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Các hoạt động công nghệ liên quan đến quản lý công nghệ bao gồm:",
+    "answer": "4 nhóm"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Hàm hệ số đóng góp của công nghệ được xác định bằng công thức:",
+    "answer": "...Q"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Theo Sharif,Trong các thành phần sau đây,thành phần không thuộc về công nghệ là:",
+    "answer": "Năng lực tài chính"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Trong các dữ liệu dưới đây, dữ liệu không thuộc về phần tổ chức của công nghệ là:",
+    "answer": "Thông số của thiết bị."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Một trong các yếu tố liên quan tới cơ chế để phát triển công nghệ là:",
+    "answer": "Tạo dựng nền văn hóa công nghệ"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Phát minh không bao gồm:",
+    "answer": "Nguyên lý của pin sinh học"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Đặc điểm của hệ thống văn hoá xã hội của một quốc gia:",
+    "answer": "Là một phần của môi trường công nghệ quốc gia"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Tri thức khoa học khác tri thức kinh nghiệm ở:",
+    "answer": "Con đường hình thành"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Nông dân làm khoa học - “ Các nhà khoa học chân đất” là:",
+    "answer": "Tiến sỹ"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Phát minh và sáng chế:",
+    "answer": "Chỉ bảo hộ sáng chế"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Trong phân tích định lượng năng lực công nghệ cơ sở theo Atlas công nghệ, có thể kết luận năng lực công nghệ cơ sở là cao hay thấp căn cứ vào:",
+    "answer": "Giá trị do công nghệ tạo ra."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Định nghĩa: “Năng lực công nghệ của một quốc gia (ngành hoặc cơ sở) là khả năng triển khai những công nghệ đã có một cách có hiệu quả và đương đầu được với những thay đổi lớn về công nghệ” là định nghĩa của:",
+    "answer": "S. Lall"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Trong một doanh nghiệp, phần con người của một công nghệ gồm 3 dạng lao động:Công nhân vận hành ,cán bộ R&D và các nhà quản lý với hệ số đóng góp tương ứng là:",
+    "answer": "0,75"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Trong một doanh nghiệp có 02 loại thiết bị với hệ số đóng góp tương ứng là:",
+    "answer": "0,52"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Các tiêu chí đánh giá năng lực công nghệ cơ sở được chia thành:",
+    "answer": "Bốn nhóm"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Doanh nghiệp A của Việt Nam thực hiện nhập khẩu công nghệ với hệ số hấp thụ của các thành phần công nghệ là: KTA=100%; KHA =65%; KIA =60% và X%.",
+    "answer": "58%"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Trong phương pháp phân tích chi phí –lợi ích định lượng áp dụng trong đánh giá công nghệ, sau bước so sánh chi phí và lợi ích của các phương án công nghệ, bước tiếp theo sẽ là:",
+    "answer": "Chọn phương án công nghệ thích hợp"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Trong phương pháp phân tích chi phí-lợi ích, p là ký hiệu của:",
+    "answer": "Số năm tồn tại của phương án công nghệ theo quy định để tính toán."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Xác định giá trị ròng hiện tại trong đánh giá công nghệ là mục tiêu của:",
+    "answer": "Phương pháp phân tích chi phí- lợi ích định lượng."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Các nguyên tắc của đánh giá công nghệ bao gồm:",
+    "answer": "3 nguyên tắc"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Ở giai đoạn đầu khi mới xuất hiện trên thị trường,giá thành sản phẩm của công nghệ mới có thể cao hơn giá thành sản phẩm của công nghệ đã ổn định là do:",
+    "answer": "Công nghệ mới chưa hoàn thiện."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trong tình huống đổi mới công nghệ nhằm cải thiện thông số sản xuất thì công nghệ mới có:",
+    "answer": "lớn hơn."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Mục tiêu của nghiên cứu ứng dụng là tạo ra:",
+    "answer": "Sáng chế, giải pháp hữu ích."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Thời điểm đánh dấu sự diệt vong cho tính cạnh tranh của công nghệ đang sử dụng là:",
+    "answer": "GTSP của công nghệ đang sử dụng bằng giá bán sản phẩm của công nghệ mới."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Mô hình đổi mới công nghệ bao gồm:",
+    "answer": "2 mô hình."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Nguyên nhân xuất phát từ bên nhận trong hoạt động chuyển giao công nghệ quốc tế không bao gồm:",
+    "answer": "Hưởng lợi từ các cải tiến công nghệ của bên nhận."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Một trong những yếu tố thúc đẩy chuyển giao công nghệ quốc tế là:",
+    "answer": "Xu thế mở rộng hợp tác và khuyến khích ngoại thương của thế giới"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Hai doanh nghiệp A&B đang khai thác CN với:iA=0.6; B=0.62.",
+    "answer": "Lớn hơn."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Theo Luật Chuyển giao công nghệ của Việt Nam, việc chuyển giao diễn ra giữa các bên đóng ở cùng một quốc gia thì gọi là:",
+    "answer": "Chuyển giao công nghệ trong nước"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Một doanh nghiệp may mặc của Việt Nam tiến hành nhập khẩu công nghệ từ nước ngoài với các dữ liệu:",
+    "answer": "0,70"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Ở phạm vi quốc gia quản lý công nghệ chú trọng vào:",
+    "answer": "Xây dựng chính sách liên quan đến khoa học và công nghệ."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Công ty A thực hiện đổi mới công nghệ. Công nghệ mới có hệ số đóng góp cao hơn 20% so với công nghệ cũ,các yếu tố khác không thay đổi. So với trước khi đổi mới công nghệ thì hàm lượng công nghệ của công ty tăng thêm:",
+    "answer": "20%"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Thông số kỹ thuật của sản phẩm thuộc về",
+    "answer": "Phần I của CN."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Nội dung không phải là mục tiêu phát triển công nghệ là:",
+    "answer": "Xây dựng kế hoạch thương mại hóa công nghệ"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Yếu tố không liên quan tới cơ chế đề phát triển công nghệ là:",
+    "answer": "Marketing công nghệ"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Nghiên cứu cơ bản tạo ra:",
+    "answer": "Phát minh"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Các tổ chức R&D không bao gồm:",
+    "answer": "Doanh nghiệp lắp ráp xe máy."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Sáng chế là kết quả của hoạt động:",
+    "answer": "Nghiên cứu ứng dụng"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Tri thức khoa học được hình thành thông qua:",
+    "answer": "Hoạt động nghiên cứu khoa học."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trong công thức xác định chỉ số môi trường công nghệ quốc gia thì a, b:",
+    "answer": "a = 1-b"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Phân tích năng lực công nghệ của một ngành bao gồm:",
+    "answer": "Bảy bước"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Khi đánh giá năng lực công nghệ của một cơ sở : khả năng thích nghi công nghệ đã tiếp nhận thuộc về:",
+    "answer": "Năng lực đổi mới công nghệ"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Khả năng lựa chọn hình thức tiếp nhận công nghệ phù hợp nhất là tiêu chí đánh giá năng lực công nghệ cơ sở của nhóm:",
+    "answer": "Năng lực tiếp nhận công nghệ"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Doanh nghiệp A của Việt Nam thực hiện nhập khẩu công nghệ với hệ số hấp thụ của các thành phần công nghệ là: KTA = 100%; KHA = 65%; KIA = 60% và X%.",
+    "answer": "58%"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Hai doanh nghiệp hoạt động trong cùng một môi trường công nghệ có giá trị do công nghệ tạo ra bằng nhau doanh nghiệp nào có giá trị sản lượng lớn hơn sẽ có giá trị hàm hệ số đóng góp của công nghệ:",
+    "answer": "Nhỏ hơn."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Doanh nghiệp A nhập khẩu công nghệ từ nước ngoài với hệ số hấp thụ bằng 85%.Hệ số đóng góp của công nghệ gốc: c = 0,75. Hệ số đóng góp của công nghệ của doanh nghiệp A là:",
+    "answer": "0,64."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Nguyên tắc không được sử dụng trong đánh giá công nghệ là:",
+    "answer": "Công bằng"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Một doanh nghiệp nhập công nghệ về từ nước ngoài với hệ số hấp thụ từng thành phần theo thứ tự T,H,I,O là: 100%, X%, 50% và 40%.",
+    "answer": "0,8"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Xây dựng cơ sở dữ liệu về công nghệ sử dụng làm đầu vào cho quá trình ra quyết định là một trong các mục đích của:",
+    "answer": "Đánh giá công nghệ"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Khi hệ số đóng góp của phần con người của một công nghệ sử dụng tăng lên 10% (các phần khác của công nghệ không đổi). Hiệu suất hấp thụ của công nghệ sẽ:",
+    "answer": "Tăng (1,1βH – 1).100%"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Phát minh không được bảo hộ vì:",
+    "answer": "Chưa có khả năng ứng dụng"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Các sáng chế có tính sáng tạo,có khả năng ứng dụng đều có thể được pháp luật bảo hộ là do:",
+    "answer": "Có khả năng ứng dụng."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Cơ sở của đổi mới công nghệ là:",
+    "answer": "Thành tựu của khoa học."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Theo porter, trong vòng xoắn tiến của đổi mới công nghệ thì việc thu hút các cá nhân sáng tạo có nguyên nhân quan trọng là do:",
+    "answer": "Danh tiếng đổi mới của doanh nghiệp."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Sáng chế được chia thành:",
+    "answer": "3 loại"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Một trong các khó khăn trong chuyển giao công nghệ quốc tế là:",
+    "answer": "Công nghệ là kiến thức, do đó kết quả chuyển giao công nghệ mang tính bất định"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Một trong các khó khăn trong chuyển giao công nghệ quốc tế thuộc về bên giao công nghệ là:",
+    "answer": "Động cơ của bên giao công nghệ thường khó xác định"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Nguyên nhân xuất phát từ bên nhận trong hoạt động chuyển giao công nghệ quốc tế không bao gồm:",
+    "answer": "Hưởng lợi từ các cải tiến công nghệ của bên nhận."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Trong quá trình Chuyển giao công nghệ, sự cần thiết của hoạt động thích nghi hóa công nghệ của bên nhận là do:",
+    "answer": "Sự khác biệt về mục tiêu và bối cảnh giữa các bên."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Sự xuất hiện chiếc vô tuyến màn hình LED đầu tiên là:",
+    "answer": "Một sáng chế kế tục."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Các giai đoạn không phải là giai đoạn của tiến bộ công nghệ ( đường chữ S) là:",
+    "answer": "Hồi sinh"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Select one:",
+    "answer": "0,64"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Yếu tố thuận lợi đối với phát triển công nghệ ở các nước Đang phát triển là:",
+    "answer": "Tương đối giàu có về tài nguyên thiên nhiên."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Với giả thiết các phần khác không đổi, khi hệ số đóng góp của phần con người của một công nghệ tăng lên 10% (sau khi tăng lên thì giá trị của nó nằm trong (0;1]) thì hệ số đóng góp của công nghệ:",
+    "answer": "Tăng (1,1βh - 1).100 %"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Yếu tố không phải là bất lợi đối với phát triển công nghệ ở các nước Đang phát triển là:",
+    "answer": "Nguồn lao động rẻ,dồi dào."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Môi trường công nghệ quốc gia bao gồm các yếu tố có tác dụng:",
+    "answer": "Thúc đẩy hay kìm hãm công nghệ phát triển"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Trong công thức xác định chỉ số môi trường công nghệ quốc gia thì CMCC là",
+    "answer": "Một con số"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Triển khai thực nghiệm dựa trên:",
+    "answer": "Kết quả nghiên cứu ứng dụng"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Môi trường công nghệ quốc gia:",
+    "answer": "Bao gồm cả cơ sở hạ tầng công nghệ quốc gia"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Kết quả của nghiên cứu ứng dụng:",
+    "answer": "Chưa ứng dụng được"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Hệ số hấp thụ công nghệ là: tỷ số giữa hệ số đóng góp của công nghệ khi bên mua sử dụng với hệ số đóng góp của công nghệ do bên chuyển sử dung. Nó đặc trưng cho:",
+    "answer": "Hiệu quả đầu tư."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Hai doanh nghiệp A&B đang khai thác CN với: :A = 0.63; B = 0.7. Hai DN này có được các CN đó thông qua việc mua CN tương ứng từ hai DN C và D với hệ số hấp thụ CN tương ứng là 70% và 80%. Hệ số đóng góp của CN của DN C so với hệ số đóng góp của CN của DN D là:",
+    "answer": "Lớn hơn."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Khi giá trị sản lượng của một doanh nghiệp giảm 10%(trong điều kiện các yếu tố khác không thay đổi) Giá trị do công nghệ tạo ra của doanh nghiệp đó sẽ:",
+    "answer": "Giảm 10%"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Một doanh nghiệp đang sử dụng một công nghệ với:; ;H = 0,25;=I = 0,15, Giá trị cường độ đóng góp của phần vật tư kỹ thuật gấp đôi giá trị cường độ đóng góp của phần tổ chức. Giá trị cường độ đóng góp của phần vật tư kỹ thuật của công nghệ đó bằng:",
+    "answer": "0,4"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Một doanh nghiệp ở Việt Nam và một doanh nghiệp ở Nhật Bản đang cùng sử dụng một công nghệ với cùng hệ số đóng góp. Giá bán sản phẩm bằng nhau. Giá trị tăng thêm do công nghệ đóng góp của doanh nghiệp Nhật Bản so với doanh nghiệp Việt Nam:",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Khi hệ số đóng góp của phần con người của một công nghệ sử dụng tăng lên a% (các phần khác của công nghệ không đổi) thì hiệu suất hấp thụ của công nghệ sẽ:",
+    "answer": "Tăng [(1+a%)βH - 1].100%"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Hai doanh nghiệp A&B đang khai thác CN với số liệu như sau: TA=0,75;HA=0,50; IA=0,40;OA=0,40;",
+    "answer": "0,15"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Lý do phải quy tất cả các lợi nhuận ròng của các phương án công nghệ về thời điểm hiện tại là để:",
+    "answer": "So sánh giữa các phương án công nghệ."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Trong phương pháp phân tích chi phí –lợi ích áp dụng trong đánh giá công nghệ, sau bước tính tổng lợi ích của tất cả các phương án công nghệ theo giá trị hiện tại bước tiếp theo sẽ là:",
+    "answer": "So sánh chi phí và lợi ích của các phương án công nghệ"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Miền xác định của các đại lượng T,H,I,O là:",
+    "answer": "0 < T,H,I,O ≤ 1"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Quy luật phủ định có trật tự trong quá trình phủ định đa cấp có nguyên nhân là:",
+    "answer": "Bản chất của cơ chế đổi mới công nghệ."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Đại đa số các trường hợp ở các ngành công nghiệp, đổi mới công nghệ xảy ra theo:",
+    "answer": "Mô hình mạng lưới và liên kết trong hệ thống."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Ở giai đoạn đầu khi mới xuất hiện trên thị trường,giá thành sản phẩm của công nghệ mới có thể cao hơn giá thành sản phẩm của công nghệ đã ổn định là do:",
+    "answer": "Công nghệ mới chưa hoàn thiện."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Một trong những sáng chế là:",
+    "answer": "Phương pháp và thiết bị ghi,lưu trữ và phát lại âm nhạc sử dụng ánh sáng của Rusell(1965)"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Trong quá trình hình thành và ứng dụng công nghệ mới, hoạt động biến đổi tri thức và các ý thưởng thành phần cứng, phần mềm hoặc dịch vụ là:",
+    "answer": "Triển khai công nghệ."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Một trong các nguyên nhân xuất phát từ bên nhận trong hoạt động chuyển giao công nghệ quốc tế là:",
+    "answer": "Tránh được rủi ro nếu phải tự làm."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Trong các nguyên nhân chuyển giao công nghệ, sự phát triển công nghệ không đồng đều giữa các quốc gia trên thế giới thuộc nhóm:",
+    "answer": "Nguyên nhân khách quan"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Kinh nghiệm chuyển giao công nghệ quốc tế cho thấy khi bên nhận có năng lực công nghệ từ trung bình trở lên và khoảng cách công nghệ giữa bên giao và bên nhận là trung bình thì:",
+    "answer": "Chuyển giao công nghệ hiệu quả nhất."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Theo ESCAP và UNIDO, việc chuyển giao diễn ra giữa các bên đóng ở các quốc gia khác nhau thì gọi là:",
+    "answer": "Chuyển giao công nghệ"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Xét về khía cạnh bối cảnh xung quanh,tính thích hợp của công nghệ nội sinh so với tính thích hợp của công nghệ ngoại sinh là:",
+    "answer": "Cao hơn"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Hai công ty may mặc(A&B) ở Việt Nam có hàm lượng công nghệ bằng nhau,Hệ số đóng góp công nghệ của A lớn hơn.Tổng giá trị sản phẩm do công nghệ tạo ra của A so với B là:",
+    "answer": "Nhỏ hơn."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Quy trình công nghệ để sản xuất ra một sản phẩm thuộc về:",
+    "answer": "Phần I"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Trong các dữ liệu về người lao động dưới đây, dữ liệu không thuộc về phần con người của công nghệ là:",
+    "answer": "Sở thích ăn uống."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Ở phạm vi cơ sở, quản lý công nghệ là phương tiện để đáp ứng lợi ích cho:",
+    "answer": "Cho cả người sản xuất và người tiêu dùng."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Tiêu chuẩn lựa chọn công nghệ phải được xem xét:",
+    "answer": "Trong quan điểm động cả theo không gian và theo thời gian."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Hoạt động R&D không bao gồm:",
+    "answer": "Triển khai công nghệ"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Năng lực R&D của các nước Phát triển so với các nước Đang phát triển:",
+    "answer": "Tốt hơn"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Trong Chuyển giao công nghệ, hoạt động R&D:",
+    "answer": "Có vai trò mang tính quyết định"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Cơ sở hạ tầng công nghệ của một quốc gia bao gồm:",
+    "answer": "5 yếu tố."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Hệ số môi trường công nghệ quốc gia và CMC:",
+    "answer": "Hệ số môi trường công nghệ quốc gia là tập con của CMC"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Phần vật tư kỹ thuật của một công nghệ gồm 2 loại thiết bị .Giá trị hệ số đóng góp của từng thành phần tương ứng lần lượt là: T1 = 0,5, 1 = 0,3, T2 = 0,8, 2 = 0,7. Hệ số đóng góp của phần vật tư kỹ thuật của công nghệ đó là:",
+    "answer": "0,71"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Khi giá bán sản phẩm của công nghệ giảm 5% thì Giá trị tăng thêm do công nghệ đóng góp:",
+    "answer": "Giảm 5%"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Hiệu suất hấp thụ của công nghệ được xác định như sau:",
+    "answer": "Tăng (1,1βH – 1).100%"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Hai doanh nghiệpA&B hoạt động trong cùng một môi trường công nghệ và đang khai thác CN với số liệu như sau: TA=0,75;HA=0,50; IA=0,40;OA=0,40; Và: TB= 0,80;HB = 0,40; IB = 0,45;OB = 0,50;",
+    "answer": "DN B có năng lực CN cao hơn DN A"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Trong công thức:",
+    "answer": "Sản lượng tính bằng tiền"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Đánh giá công nghệ phải xem xét tới các tác động:",
+    "answer": "Bao gồm cả tác động trực tiếp và gián tiếp."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Nội dung Phân tích chính sách trong đánh giá công nghệ bao gồm:",
+    "answer": "2 mức."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Đánh giá công nghệ liên quan đến:",
+    "answer": "Nhiều hơn 3 biến số."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Một doanh nghiệp đang sử dụng CN với số liệu sau: T=0,75; H=0,30; I=0,30; O=0,20; βT=0,55; βH=0,15; βI=0,10; βO=0,20. Công nghệ này được nhập về từ nước ngoài với hệ số hấp thụ từng thành phần tương ứng lần lượt là 100%, 50%, 50% và 40%. Hệ số hấp thụ công nghệ của doanh nghiệp là:",
+    "answer": "0,7"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": ": là:",
+    "answer": "Hệ số môi trường công nghệ quốc gia"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Để nâng cao năng suất và cải thiện chất lượng sản phẩm,công ty A của Việt Nam đã nhập và đưa vào vận hành một công nghệ của Hàn Quốc. Công nghệ này phía Hàn Quốc đã sử dụng từ cuối thập niên 90.Hoạt động đó của công ty A được xem là:",
+    "answer": "Đổi mới công nghệ."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Cơ chế đổi mới công nghệ bao gồm:",
+    "answer": "2 cơ chế"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Công nghệ mới là sản phẩm trực tiếp của hoạt động:",
+    "answer": "Triển khai."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Sáng chế là kết quả của hoạt động:",
+    "answer": "Nghiên cứu ứng dụng."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Hoạt động nghiên cứu cơ bản tạo ra:",
+    "answer": "Phát minh."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Số bước khi thực hiện nghiệp vụ tiếp nhận công nghệ trong chuyển giao công nghệ bao gồm:",
+    "answer": "4 bước"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Một trong những ưu điểm của công nghệ ngoại sinh so với công nghệ nội sinh là:",
+    "answer": "Thời gian để có được công nghệ mới ngắn hơn."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Nguyên nhân chuyển giao công nghệ quốc tế đươc chia thành:",
+    "answer": "3 nhóm"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Theo quan điểm của ESCAP,UNIDO. Điểm khác biệt cơ bản của chuyển giao công nghệ so với hỗ trợ công nghệ là:",
+    "answer": "Chuyển giao giữa các bên đóng tại các quốc gia khác nhau"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Trong các nguyên nhân chuyển giao công nghệ, sự phát triển công nghệ không đồng đều giữa các quốc gia trên thế giới thuộc nhóm:",
+    "answer": "Nguyên nhân khách quan"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Mục tiêu cao nhất của phát triển công nghệ là:",
+    "answer": "Độc lập về công nghệ."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Hoàn thiện năng lực công nghệ nhằm xây dựng và thực hiện các mục tiêu của một tổ chức thuộc phạm vi quản lý công nghệ ở góc độ:",
+    "answer": "Vi mô"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Tác động của phát triển công nghệ đối với phát triển kinh tế - xã hội có",
+    "answer": "Tính hai mặt"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Nếu 3. t = 2.( h + +i + +o ) thì cường độ đóng góp của phần vật tư kỹ thuật bằng:",
+    "answer": "0,4"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Lịch sử phát triển của công nghệ",
+    "answer": "Gắn liền với lịch sử phát triển của xã hội loài người."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Việc James Watt tạo ra động cơ hơi nước đầu tiên là:",
+    "answer": "Một sáng chế"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Hệ thống công nghệ là hệ thống:",
+    "answer": "Mở"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Chỉ số môi trường công nghệ quốc gia",
+    "answer": "Càng lớn càng tốt"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Chính sách thuế đối với nhập khẩu ô tô là:",
+    "answer": "Thuộc về môi trường công nghệ quốc gia"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Sản phẩm của nghiên cứu cơ bản là:",
+    "answer": "Phát minh"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Phân tích năng lực công nghệ của một ngành bao gồm:",
+    "answer": "Bảy bước"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Một doanh nghiệp đang sử dụng một công nghệ với:; ;H = 0,2; =I = 0,2, Giá trị cường độ đóng góp của phần vật tư kỹ thuật gấp đôi giá trị cường độ đóng góp của phần tổ chức. Giá trị cường độ đóng góp của phần vật tư kỹ thuật của công nghệ đó bằng:",
+    "answer": "0,4"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Khi đánh giá năng lực công nghệ của một cơ sở thì khả năng học tập, tiếp thu công nghệ mới được chuyển giao thuộc về:",
+    "answer": "Năng lực tiếp nhận công nghệ"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Doanh nghiệp A của Việt Nam thực hiện nhập khẩu công nghệ với hệ số hấp thụ của các thành phần công nghệ là: KTA = 100%; KHA = 65%; KIA = 60% và X%.",
+    "answer": "58%"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Hai doanh nghiệp A&B đang khai thác CN với số liệu như sau: TA = 0,75;HA = 0,50; IA = 0,40;OA = 0,40;",
+    "answer": "0,15"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Các nội dung sau đây không phải là nội dung tổng quát của đánh giá công nghệ, ngoại trừ:",
+    "answer": "Phân tích chính sách"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Trong phương pháp phân tích chi phí –lợi ích định lượng áp dụng trong đánh giá công nghệ, sau bước so sánh chi phí và lợi ích của các phương án công nghệ, bước tiếp theo sẽ là:",
+    "answer": "Chọn phương án công nghệ thích hợp"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Hai doanh nghiệpA&B hoạt động trong cùng một môi trường công nghệ và đang khai thác CN với số liệu như sau: TA=0,75;HA=0,50; IA=0,40;OA=0,40;",
+    "answer": "DN B có năng lực CN cao hơn DN A"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Khi hệ số đóng góp của phần con người của một công nghệ sử dụng tăng lên a% (các phần khác của công nghệ không đổi) thì hiệu suất hấp thụ của công nghệ sẽ:",
+    "answer": "Tăng [(1+a%)βH - 1].100%"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Doanh nghiệp A nhập khẩu công nghệ với hệ số hấp thụ công nghệ của từng thành phần là:",
+    "answer": "83%"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Trong tình huống đổi mới công nghệ nhằm cải thiện thông số sản xuất thì công nghệ mới có:",
+    "answer": "lớn hơn."
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Quá trình đổi mới công nghệ bao gồm:",
+    "answer": "8 giai đoạn."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Kết quả của nghiên cứu ứng dụng:",
+    "answer": "Chưa ứng dụng được."
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Những giải pháp thúc đẩy sự sáng tạo,đổi mới của doanh nghiệp không bao gồm:",
+    "answer": "Duy trì kỷ luật lao động."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Các phát minh không được pháp luật bảo hộ là do:",
+    "answer": "Chưa có khả năng ứng dụng."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Một trong các khó khăn trong chuyển giao công nghệ quốc tế là:",
+    "answer": "Vấn đề sở hữu trí tuệ"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Theo sơ đồ phát triển công nghệ theo phương thức chuyển giao, sau bước nghiên cứu thị trường thì bước tiếp theo sẽ là:",
+    "answer": "Đánh giá lựa chọn công nghệ"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Trong chuyển giao công nghệ, hệ số đặc trưng cho khả năng học tập và làm chủ công nghệ được chuyển giao là:",
+    "answer": "Hệ số hấp thụ công nghệ."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Theo ESCAP và UNIDO, việc chuyển giao công nghệ diễn ra giữa các bên đóng ở cùng một quốc gia thì được gọi là:",
+    "answer": "Hỗ trợ công nghệ"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Một trong các yếu tố thúc đẩy chuyển giao công nghệ quốc tế là:",
+    "answer": "Các nước đã tích lũy được nhiều kinh nghiệm trong chuyển giao"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Phần vật tư kỹ thuật của công nghệ không hàm chứa trong :",
+    "answer": "Vật liệu để sản xuất"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Mối lo hàng thế kỷ của loài người là trái đất không đủ khả năng nuôi sống loài người trong dài hạn đã và đang được giải quyết nhờ cơ bản vào sự phát triển của",
+    "answer": "Công nghệ sinh học."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Trong các dữ liệu dưới đây,dữ liệu thuộc về phần thông tin của công nghệ là:",
+    "answer": "Số liệu vận hành thiết bị."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Một trong những tác động tích cực của phát triển công nghệ là:",
+    "answer": "Tăng hiệu suất sử dụng tài nguyên thiên nhiên."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Theo tổng quanLiên hiệp quốc 1984: “Việc cung cấp tiền bạc và công nghệ cho các nước đang phát triển đã không mang lại sự phát triển” có nguyên nhân là:",
+    "answer": "Năng lực quản lý công nghệ thấp."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Môi trường công nghệ của các nước Đang phát triển so với môi trường công nghệ của các nước Phát triển:",
+    "answer": "Thấp hơn"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Các tổ chức R&D không bao gồm:",
+    "answer": "Doanh nghiệp lắp ráp xe máy."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Phát minh không bao gồm:",
+    "answer": "Nguyên lý của pin sinh học"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Cấu trúc dân số là",
+    "answer": "Một phần của môi trường công nghệ"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Hệ số môi trường công nghệ quốc gia và CMC:",
+    "answer": "Hệ số môi trường công nghệ quốc gia là tập con của CMC"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Trong công thức:",
+    "answer": "Sản lượng tính bằng tiền"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Theo S.Lall, năng lực công nghệ của một quốc gia (ngành hoặc cơ sở) là",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Hai doanh nghiệp A&B đang khai thác CN với số liệu như sau: TA = 0,75;HA = 0,50; IA = 0,40;OA = 0,40;",
+    "answer": "0,15"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Hiệu suất hấp thụ của công nghệ được xác định như sau:",
+    "answer": "Tăng (1,1βH – 1).100%"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Một doanh nghiệp đang sử dụng một công nghệ có :",
+    "answer": "0.65"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Doanh nghiệp A nhập khẩu công nghệ với hệ số hấp thụ công nghệ của từng thành phần là:",
+    "answer": "83%"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Yêu cầu đề cập đến tất cả các tác động có thể có của một công nghệ đến bối cảnh xung quanh nhằm đảm bảo nguyên tắc:",
+    "answer": "Toàn diện"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Trong phương pháp phân tích chi phí–lợi ích áp dụng trong đánh giá công nghệ, sau bước tính tổng lợi ích của tất cả các phương án công nghệ theo giá trị hiện tại bước tiếp theo sẽ là:",
+    "answer": "So sánh chi phí và lợi ích của các phương án công nghệ"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Đánh giá công nghệ liên quan đến:",
+    "answer": "Nhiều hơn 3 biến số."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Trong đánh giá công nghệ,đề cập đến các tác động có thể có của một công nghệ tới bối cảnh xung quanh là nội dung của nguyên tắc:",
+    "answer": "Toàn diện"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Quy luật phủ định có trật tự trong quá trình phủ định đa cấp có nguyên nhân là:",
+    "answer": "Bản chất của cơ chế đổi mới công nghệ."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Hoạt động nghiên cứu cơ bản tạo ra:",
+    "answer": "Phát minh."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Đổi mới công nghệ xảy ra theo:",
+    "answer": "2 cơ chế"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Kết quả của nghiên cứu ứng dụng:",
+    "answer": "Chưa ứng dụng được."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Những giải pháp thúc đẩy sự sáng tạo,đổi mới của doanh nghiệp không bao gồm:",
+    "answer": "Duy trì kỷ luật lao động."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Khả năng làm chủ công nghệ nội sinh so với khả năng làm chủ công nghệ ngoại sinh là:",
+    "answer": "Cao hơn."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Trong chuyển giao công nghệ, hệ số đặc trưng cho khả năng học tập và làm chủ công nghệ được chuyển giao là:",
+    "answer": "Hệ số hấp thụ công nghệ."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Doanh nghiệp A đang sử dụng CN với số liệu sau: T=0,8; H=0,50; I=0,30; O=0,4.",
+    "answer": "80%"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Kinh nghiệm chuyển giao công nghệ quốc tế cho thấy khi bên nhận có năng lực công nghệ từ trung bình trở lên và khoảng cách công nghệ giữa bên giao và bên nhận là trung bình thì:",
+    "answer": "Chuyển giao công nghệ hiệu quả nhất."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Theo Luật Chuyển giao công nghệ của Việt Nam, việc chuyển giao diễn ra giữa các bên đóng ở cùng một quốc gia thì gọi là:",
+    "answer": "Chuyển giao công nghệ trong nước"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Hai doanh nghiệp A&B hoạt động trong cùng một môi trường công nghê và có tổng giá trị sản phẩm do công nghệ tạo ra bằng nhau.Hàm lượng công nghệ của A lớn hơn 20% so với B.Tỷ số giữa giá trị hàm hệ số đóng góp công nghệ của A so với B là:",
+    "answer": "1,2"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Định nghĩa công nghệ của ESCAP được áp dụng trong các lĩnh vực:",
+    "answer": "Tạo ra hàng hóa và cung cấp các dịch vụ."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Kế hoạch phát triển công nghệ của Việt Nam giai đoạn 2011 đến 2015 là kế hoạch:",
+    "answer": "Trung hạn."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Tiêu chuẩn lựa chọn công nghệ trong quản lý công nghệ là:",
+    "answer": "Tối đa hóa tác động tích cực và Tối thiểu hóa tác động tiêu cực."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Nội dung không thuộc phạm vi quản lý công nghệ ở góc độ vĩ mô là:",
+    "answer": "Hoàn thiện năng lực công nghệ của một tổ chức"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Năng lực R&D của các nước Phát triển so với các nước Đang phát triển:",
+    "answer": "Tốt hơn"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Trong Chuyển giao công nghệ, hoạt động R&D:",
+    "answer": "Có vai trò mang tính quyết định"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Đặc điểm của hệ thống văn hoá xã hội của một quốc gia:",
+    "answer": "Là một phần của môi trường công nghệ quốc gia"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Trong công thức xác định chỉ số môi trường công nghệ quốc gia thì a, b:",
+    "answer": "a = 1-b"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Môi trường công nghệ quốc gia bao gồm các yếu tố có tác dụng:",
+    "answer": "Thúc đẩy hay kìm hãm công nghệ phát triển"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Khi hệ số đóng góp của phần con người của một công nghệ sử dụng tăng lên a% (các phần khác của công nghệ không đổi) thì hiệu suất hấp thụ của công nghệ sẽ:",
+    "answer": "Tăng [(1+a%)βH - 1].100%"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Khi giá bán sản phẩm của công nghệ giảm 5% thì Giá trị tăng thêm do công nghệ đóng góp:",
+    "answer": "Giảm 5%"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Khi giá trị sản lượng của một doanh nghiệp giảm 10%(trong điều kiện các yếu tố khác không thay đổi) Giá trị do công nghệ tạo ra của doanh nghiệp đó sẽ:",
+    "answer": "Giảm 10%"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "“Các yếu tố cấu thành năng lực công nghệ bao gồm: khả năng đào tạo nhân lực; khả năng tiến hành nghiên cứu cơ bản; khả năng thử nghiệm các phương tiện kỹ thuật; khả năng tiếp nhận và thích nghi các công nghệ; khả năng cung cấp và xử lý thông tin” là quan điểm về năng lực công nghệ của:",
+    "answer": "UNIDO"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Khi giá trị sản lượng của một doanh nghiệp giảm 10%(trong điều kiện các yếu tố khác không thay đổi) Giá trị do công nghệ tạo ra của doanh nghiệp đó sẽ:",
+    "answer": "Giảm 10%"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Đánh giá công nghệ phải đảm bảo:",
+    "answer": "3 nguyên tắc."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trong phương pháp phân tích chi phí –lợi ích áp dụng trong đánh giá công nghệ, sau bước so sánh chi phí và lợi ích của các phương án công nghệ, bước tiếp theo sẽ là:",
+    "answer": "Chọn phương án công nghệ thích hợp"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Hai doanh nghiệp A&B đang khai thác CN với:iA=0.63; B=0.7. Hai DN này có được các CN đó thông qua việc mua CN tương ứng từ hai DN C và D với hệ số hấp thụ CN tương ứng là 70% và 80%. Hệ số đóng góp của CN của DN C so với hệ số đóng góp của CN của DN D là:",
+    "answer": "Lớn hơn."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Định hướng công nghệ thích hợp bao gồm:",
+    "answer": "4 định hướng"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Nội dung cơ bản trong đánh giá công nghệ không bao gồm:",
+    "answer": "Chuyển giao công nghệ"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Sự xuất hiện công nghệ sản xuất điện bằng năng lượng hạt nhân của nhà máy điện hạt nhân tuân theo mô hình:",
+    "answer": "Sức đẩy của khoa học."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Tính tất yếu của đổi mới công nghệ là do:",
+    "answer": "Qui luật vòng đời và các lợi ích mà nó tạo ra"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Theo porter, trong vòng xoắn tiến của đổi mới công nghệ thì việc thu hút các cá nhân sáng tạo có nguyên nhân quan trọng là do:",
+    "answer": "Danh tiếng đổi mới của doanh nghiệp."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Công nghệ mới là sản phẩm trực tiếp của hoạt động:",
+    "answer": "Triển khai."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Sáng chế được chia thành:",
+    "answer": "3 loại"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Một trong các khó khăn trong chuyển giao công nghệ quốc tế thuộc về bên giao công nghệ là:",
+    "answer": "Động cơ của bên giao công nghệ thường khó xác định"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Một doanh nghiệp nhập công nghệ về từ nước ngoài với hệ số hấp thụ từng thành phần theo thứ tự T,H,I,O là: 100%, X%, 50% và 40%.",
+    "answer": "80 %"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Các yếu tố sau là những yếu tố thúc đẩy chuyển giao công ở Việt Nam, ngoại trừ:",
+    "answer": "Sự khác biệt về văn hóa, chính trị"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Nguyên nhân chuyển giao công nghệ quốc tế đươc chia thành:",
+    "answer": "3 nhóm"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Số bước khi thực hiện nghiệp vụ tiếp nhận công nghệ trong chuyển giao công nghệ bao gồm:",
+    "answer": "4 bước"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Nếu ut = 0,5; h = 0,25; i = 0,1 thì cường độ đóng góp của phần tổ chức bằng:",
+    "answer": "0,15"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "A&B là hai doanh nhiệp sản xuất đồ gỗ ở Việt Nam có tổng giá trị sản phẩm bằng nhau.Hệ số đóng góp công nghệ của hai doanh nghiệp theo thứ tự trên là:0.5&0.6. Hàm lượng công nghệ của doanh nghiệp B so với A bằng:",
+    "answer": "120%"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Sự phát triển công nghệ làm thay đổi cơ cấu kinh tế của các quốc gia Đang phát triển hiện nay theo hướng:",
+    "answer": "Tăng tỷ trọng công nghiệp,dịch vụ và giảm tỷ trọng nông nghiệp"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Sau bước củng cố và phát triển ý tưởng, bước tiếp theo của quá trình nghiên cứu và triển khai là:",
+    "answer": "Kỹ nghệ hóa"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Trong các dữ liệu dưới đây,dữ liệu thuộc về phần tổ chức của công nghệ là:",
+    "answer": "Chế độ khen thưởng."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Nghiên cứu cơ bản tạo ra:",
+    "answer": "Phát minh"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Đầu tư cho R&D của các nước Đang phát triển so với các nước Phát triển:",
+    "answer": "Thấp hơn"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Tri thức khoa học khác tri thức kinh nghiệm ở:",
+    "answer": "Con đường hình thành"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "CMCK là",
+    "answer": "Số đo yếu tố định lượng được của môi trường công nghệ quốc gia"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Kết quả của nghiên cứu ứng dụng:",
+    "answer": "Chưa ứng dụng được"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Năng lực công nghệ là của",
+    "answer": "Một tổ chức"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Hai doanh nghiệp có cùng \"tô\" (ký tự hy lạp) , doanh nghiệp nào có khối lượng đầu ra lớn hơn sẽ có giá trị gia tăng của công nghệ :",
+    "answer": "Lớn hơn."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Khi đánh giá năng lực công nghệ của một cơ sở thì khả năng học tập, tiếp thu công nghệ mới được chuyển giao thuộc về:",
+    "answer": "Năng lực tiếp nhận công nghệ"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Một doanh nghiệp đang khai thác công nghệ với số liệu như sau:",
+    "answer": "30%"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Một doanh nghiệp đang sử dụng một công nghệ với:; ;H = 0,25;=I = 0,15, Giá trị cường độ đóng góp của phần vật tư kỹ thuật gấp đôi giá trị cường độ đóng góp của phần tổ chức. Giá trị cường độ đóng góp của phần vật tư kỹ thuật của công nghệ đó bằng:",
+    "answer": "0,4"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Xây dựng cơ sở dữ liệu về công nghệ sử dụng làm đầu vào cho quá trình ra quyết định là một trong các mục đích của hoạt động:",
+    "answer": "Đánh giá công nghệ"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Việc phát triển công nghệ thích hợp của quốc gia phải tuẩn thủ các nguyên tắc:",
+    "answer": "Cân đối,không thiên vị và liên tục xem xét lại."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Điều chỉnh và kiểm soát công nghệ là một trong các mục đích của hoạt động:",
+    "answer": "Đánh giá công nghệ"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Một doanh nghiệp đang sử dụng CN với số liệu sau: T=0,8; H=0,6; I=0,65; O=0,7; βT=0,55; βH=0,15; βI=0,10; βO=0,20. Biết: Hệ số môi trường công nghệ quốc gia =0,6; Giá trị sản lượng Q=1,6 tỷ VND.",
+    "answer": "0,7 tỷ VND"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Nội dung mô tả công nghệ trong đánh giá công nghệ bao gồm:",
+    "answer": "3 bước."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Sản phẩm của hoạt động nghiên cứu khoa học không phải là sáng chế là:",
+    "answer": "Thuyết tương đối của Albert Einstein."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Đổi mới công nghệ là:",
+    "answer": "Việc thay thế phần quan trọng (cơ bản, cốt lõi) hay toàn bộ công nghệ đang sử dụng bằng một công nghệ khác tiên tiến hơn."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Mô hình đổi mới công nghệ bao gồm:",
+    "answer": "2 mô hình."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Một trong các nguyên nhân làm rút ngắn vòng đời công nghệ là:",
+    "answer": "Tiến bộ khoa học và công nghệ."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Mục tiêu cơ bản của đổi mới công nghệ bao gồm:",
+    "answer": "2 mục tiêu."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Một trong các khó khăn trong chuyển giao công nghệ quốc tế là:",
+    "answer": "Công nghệ là kiến thức, do đó kết quả chuyển giao công nghệ mang tính bất định"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Hai doanh nghiệp A&B đang khai thác CN với:iA=0.6; B=0.62.",
+    "answer": "Lớn hơn."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Một trong các yếu tố thúc đẩy chuyển giao công nghệ quốc tế là:",
+    "answer": "Các nước đã tích lũy được nhiều kinh nghiệm trong chuyển giao"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Theo ESCAP và UNIDO, việc chuyển giao công nghệ diễn ra giữa các bên đóng ở cùng một quốc gia thì được gọi là:",
+    "answer": "Hỗ trợ công nghệ"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Trong các nguyên nhân chuyển giao công nghệ, sự phát triển công nghệ không đồng đều giữa các quốc gia trên thế giới thuộc nhóm:",
+    "answer": "Nguyên nhân khách quan"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Trong một công nghệ:",
+    "answer": "Phải có đủ 4 thành phần:T,H,I,O ."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Trong một công nghệ có: T=0.4;=H=0.25; =I =0.2. Cường độ đóng góp của phần tổ chức bằng:",
+    "answer": "0,15"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Số lượng tiêu chuẩn lựa chọn công nghệ trong quản lý công nghệ là",
+    "answer": "2"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Phạm vi của quản lý công nghệ bao gồm:",
+    "answer": "6 nhóm"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Quản lý công nghệ không phải là để:",
+    "answer": "Quản lý xã hội."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Chính sách thuế đối với nhập khẩu ô tô là:",
+    "answer": "Thuộc về môi trường công nghệ quốc gia"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Hoạt động R&D không bao gồm:",
+    "answer": "Triển khai công nghệ"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Tri thức khoa học được hình thành thông qua:",
+    "answer": "Hoạt động nghiên cứu khoa học."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Môi trường công nghệ quốc gia:",
+    "answer": "Bao gồm cả cơ sở hạ tầng công nghệ quốc gia"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Sản phẩm của nghiên cứu cơ bản là:",
+    "answer": "Phát minh"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Doanh nghiệp A nhập khẩu công nghệ từ nước ngoài với hệ số hấp thụ bằng 85%.Hệ số đóng góp của công nghệ gốc:",
+    "answer": "0,64."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Bước đầu tiên của việc phân tích năng lực công nghệ của một ngành là",
+    "answer": "Giới thiệu và đánh giá tổng quan về ngành."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Hai doanh nghiệp hoạt động trong cùng một môi trường công nghệ có giá trị do công nghệ tạo ra bằng nhau doanh nghiệp nào có giá trị sản lượng lớn hơn sẽ có giá trị hàm hệ số đóng góp của công nghệ:",
+    "answer": "Nhỏ hơn."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Một doanh nghiệp đang sử dụng CN với số liệu sau: T = 0,8; H = 0,6; I = 0,65; O = 0,7; βT = 0,55; βH = 0,15; βI = 0,10; βO = 0,20. Biết: Hệ số môi trường công nghệ quốc gia = 0,6; Giá trị sản lượng Q = 1,6 tỷ VND. Giá trị do công nghệ tạo ra của doanh nghiệp đó là:",
+    "answer": "0,7 tỷ VND"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Theo WB, năng lực công nghệ được chia thành mấy nhóm độc lập?",
+    "answer": "3 nhóm"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Theo chiến lược phát triển công nghệ thích hợp cho các nước đang phát triển, số nhóm công nghệ được đề cập đến là:",
+    "answer": "3 nhóm"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Đánh giá công nghệ nhằm:",
+    "answer": "Chọn được công nghệ thích hợp"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Trong đánh giá công nghệ, bước phác họa các phương án sẽ đánh giá nằm ở giai đoạn:",
+    "answer": "Mô tả công nghệ"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Khi hệ số đóng góp của phần tổ chức của một công nghệ sử dụng tăng lên 10% (các phần khác của công nghệ không đổi) thì hệ số hấp thụ của công nghệ sẽ:",
+    "answer": "Tăng (1,1βo – 1).100%"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Khi hệ số đóng góp của phần thông tin của một công nghệ sử dụng tăng lên x% (các phần khác của công nghệ không đổi) thì hiệu suất hấp thụ của công nghệ sẽ:",
+    "answer": "Tăng [(1+x%)βI - 1].100%"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Để nâng cao năng suất và cải thiện chất lượng sản phẩm,công ty A của Việt Nam đã nhập và đưa vào vận hành một công nghệ của Hàn Quốc. Công nghệ này phía Hàn Quốc đã sử dụng từ cuối thập niên 90.Hoạt động đó của công ty A được xem là:",
+    "answer": "Đổi mới công nghệ."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Cơ sở của đổi mới công nghệ là:",
+    "answer": "Thành tựu của khoa học."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Phát minh không được bảo hộ vì:",
+    "answer": "Chưa có khả năng ứng dụng"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Thời điểm đánh dấu sự diệt vong cho tính cạnh tranh của công nghệ đang sử dụng là:",
+    "answer": "GTSP của công nghệ đang sử dụng bằng giá bán sản phẩm của công nghệ mới."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Vai trò của xã hội đối với đổi mới công nghệ bao gồm:",
+    "answer": "2 vai trò."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Căn cứ để phân biệt giữa công nghệ nội sinh và công nghệ ngoại sinh là:",
+    "answer": "Nguồn gốc xuất xứ"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Một trong các nguyên nhân xuất phát từ bên nhận trong hoạt động chuyển giao công nghệ quốc tế là:",
+    "answer": "Tránh được rủi ro nếu phải tự làm."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Trong các nguyên nhân chuyển giao công nghệ, sự phát triển công nghệ không đồng đều giữa các quốc gia trên thế giới thuộc nhóm:",
+    "answer": "Nguyên nhân khách quan"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Xét về khía cạnh bối cảnh xung quanh,tính thích hợp của công nghệ nội sinh so với tính thích hợp của công nghệ ngoại sinh là:",
+    "answer": "Cao hơn"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Các nội dung sau là các đối tượng sở hữu công nghiệp công nghiệp, ngoại trừ:",
+    "answer": "Phát minh"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Lý do phải quản lý công nghệ bao gồm:",
+    "answer": "4 lý do"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Theo Sharif, số thành phần cấu thành một công nghệ là:",
+    "answer": "bốn"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Giai đoạn không phải là giai đoạn của tiến bộ công nghệ ( đường chữ S) là:",
+    "answer": "Hồi sinh"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Cường độ đóng góp của các thành phần công nghệ có ý nghĩa:",
+    "answer": "Thể hiện tầm quan trọng của các thành phần công nghệ."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Mục đích của quản lý công nghệ ở góc độ vi mô là xây dựng và thực hiên các mục tiêu:",
+    "answer": "Trước mắt và lâu dài"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Chỉ số môi trường công nghệ quốc gia",
+    "answer": "Càng lớn càng tốt"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Hệ thống công nghệ là hệ thống:",
+    "answer": "Mở"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Cơ sở hạ tầng công nghệ của một quốc gia bao gồm:",
+    "answer": "5 yếu tố."
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Trong công thức xác định chỉ số môi trường công nghệ quốc gia thì CMCC là",
+    "answer": "Một con số"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Triển khai thực nghiệm dựa trên:",
+    "answer": "Kết quả nghiên cứu ứng dụng"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Một doanh nghiệp đang sử dụng một công nghệ với = 1. Hiệu quả hoạt động của doanh nghiệp đó:",
+    "answer": "Lý tưởng"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Hai doanh nghiệp A&B ở Việt Nam sản xuất cùng một loại sản phẩm với giá bán như nhau và có giá trị do công nghệ tạo ra bằng nhau, hệ số đóng góp công nghệ của A bằng 80% so với B. Quy mô sản xuất của A so với B là:",
+    "answer": "Bằng 125%"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Phần vật tư kỹ thuật của một công nghệ gồm 2 loại thiết bị .Giá trị hệ số đóng góp của từng thành phần tương ứng lần lượt là: T1 = 0,5, 1 = 0,3, T2 = 0,8, 2 = 0,7. Hệ số đóng góp của phần vật tư kỹ thuật của công nghệ đó là:",
+    "answer": "0,71"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Hai doanh nghiệp A&B đang khai thác CN với: :A = 0.63; B = 0.7. Hai DN này có được các CN đó thông qua việc mua CN tương ứng từ hai DN C và D với hệ số hấp thụ CN tương ứng là 70% và 80%. Hệ số đóng góp của CN của DN C so với hệ số đóng góp của CN của DN D là:",
+    "answer": "Lớn hơn."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Khi đánh giá năng lực công nghệ của một cơ sở thì khả năng vận hành ổn định dây chuyền sản xuất theo đúng quy trình, quy phạm về công nghệ thuộc về:",
+    "answer": "Năng lực vận hành."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Hai doanh nghiệp A&B ở Việt Nam sản xuất cùng một loại sản phẩm với giá bán như nhau và có giá trị do công nghệ tạo ra bằng nhau, Hệ số đóng góp công nghệ của A bằng 80% so với B. Quy mô sản xuất của A so với B là:",
+    "answer": "Bằng 125%"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Tiêu chuẩn thích hợp của nhóm công nghệ dẫn dắt đối với các nước Đang phát triển là:",
+    "answer": "Tối đa hóa lợi nhuận ngoại thương."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Đánh giá công nghệ bao gồm bao nhiêu mục đích?",
+    "answer": "3 mục đích"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Một doanh nghiệp đang sử dụng một công nghệ với i = 0,65.Doanh nghiệp này có được công nghệ từ việc nhập khẩu công nghệ từ nước ngoài với hệ số hấp thụ bằng 85%.Hệ số đóng góp của công nghệ gốc là:",
+    "answer": "0,76."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Trong đánh giá công nghệ,báo cáo kết quả đánh giá tới cơ quan sử dụng kết quả là mục tiêu của nội dung:",
+    "answer": "Phân tích chính sách."
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Phát minh là:",
+    "answer": "Việc khám phá ra những hiện tượng, qui luật của tự nhiên và xã hội đã tồn tại hiển nhiên mà trước đây mà loài người chưa biết."
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Ngày nay, hầu hết các sáng chế:",
+    "answer": "Có được từ các phát minh"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "So với cải tiến công nghệ thì đổi mới công nghệ cần:",
+    "answer": "Đầu tư nhiều hơn và rủi ro cũng cao hơn."
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Đại đa số các trường hợp ở các ngành công nghiệp, đổi mới công nghệ xảy ra theo:",
+    "answer": "Mô hình mạng lưới và liên kết trong hệ thống."
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Một trong những sự khác biệt của đổi mới công nghệ so với cải tiến công nghệ là:",
+    "answer": "Loại bỏ cái cũ, tạo ra cái mới dựa trên nguyên lý mới."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Theo sơ đồ phát triển công nghệ theo phương thức chuyển giao, sau bước nghiên cứu thị trường thì bước tiếp theo sẽ là:",
+    "answer": "Đánh giá lựa chọn công nghệ"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Theo sơ đồ phát triển công nghệ theo phương thức chuyển giao, sau bước chuyển giao công nghệ thì bước tiếp theo sẽ là:",
+    "answer": "Thích nghi hóa"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Một trong các nguyên nhân xuất phát từ bên giao trong hoạt động chuyển giao công nghệ quốc tế là:",
+    "answer": "Tránh được các hàng rào thương mại như thuế quan và hạn ngạch"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Trong quá trình Chuyển giao công nghệ, sự cần thiết của hoạt động thích nghi hóa công nghệ của bên nhận là do:",
+    "answer": "Sự khác biệt về mục tiêu và bối cảnh giữa các bên."
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Lo ngại về việc bên nhận trở thành đối thủ cạnh tranh trong chuyển giao công nghệ quốc tế là :",
+    "answer": "Khó khăn thuộc về bên giao công nghệ."
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Trong các dữ liệu dưới đây,dữ liệu không thuộc về phần thông tin của công nghệ là:",
+    "answer": "Khả năng sáng tạo của người lao động."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Sau kỹ nghệ hóa, bước tiếp theo của quá trình nghiên cứu và triển khai là:",
+    "answer": "Marketing và truyền bá"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Số nhóm yếu tố chi phối sự phát triển công nghệ bao gồm:",
+    "answer": "6 nhóm"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Với giả thiết các phần khác không đổi. Khi hệ số đóng góp của phần vật tư kỹ thuật của một công nghệ giảm 10% thì hệ số đóng góp của công nghệ giảm:",
+    "answer": "Giảm (1-0,9βt ).100 %"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Quy trình tuyển dụng và sa thải lao động thuộc về:",
+    "answer": "Phần O"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Mối quan hệ giữa CMCK và CMCC là:",
+    "answer": "Hai mặt của một vấn đề"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Nông dân làm khoa học - “ Các nhà khoa học chân đất” là:",
+    "answer": "Tiến sỹ"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Việc James Watt tạo ra động cơ hơi nước đầu tiên là:",
+    "answer": "Một sáng chế"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Phát minh và sáng chế:",
+    "answer": "Chỉ bảo hộ sáng chế"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Sáng chế là kết quả của hoạt động:",
+    "answer": "Nghiên cứu ứng dụng"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Một doanh nghiệp đang sử dụng một công nghệ với  = 0,65.Doanh nghiệp này có được công nghệ từ việc nhập khẩu công nghệ từ nước ngoài với hệ số hấp thụ bằng 85%.Hệ số đóng góp của công nghệ gốc là:",
+    "answer": "0,76."
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Khả năng tìm kiếm, đánh giá và chọn ra công nghệ thích hợp là tiêu chí đánh giá năng lực công nghệ cơ sở của nhóm",
+    "answer": "Năng lực tiếp nhận công nghệ"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Khi hệ số đóng góp của phần tổ chức của một công nghệ sử dụng tăng lên 10% (các phần khác của công nghệ không đổi) thì hệ số hấp thụ của công nghệ sẽ:",
+    "answer": "Tăng (1,1βo – 1).100%"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Một doanh nghiệp đang sử dụng một công nghệ với:; ;H = 0,2; =I = 0,2, Giá trị cường độ đóng góp của phần vật tư kỹ thuật gấp đôi giá trị cường độ đóng góp của phần tổ chức. Giá trị cường độ đóng góp của phần vật tư kỹ thuật của công nghệ đó bằng:",
+    "answer": "0,4"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Hệ số hấp thụ công nghệ là: tỷ số giữa hệ số đóng góp của công nghệ khi bên mua sử dụng với hệ số đóng góp của công nghệ do bên chuyển sử dung. Nó đặc trưng cho:",
+    "answer": "Hiệu quả đầu tư."
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Nội dung đánh giá tác động trong đánh giá công nghệ bao gồm:",
+    "answer": "3 bước."
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Đánh giá công nghệ không nhằm mục đích:",
+    "answer": "Tạo ra công nghệ mới"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Một doanh nghiệp đang khai thác công nghệ với số liệu như sau:",
+    "answer": "30%"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Đánh giá công nghệ và khảo sát môi trường công nghệ là việc khảo sát sơ đồ tổng quan nhìn nhận về công nghệ:",
+    "answer": "Ngược chiều nhau"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Đánh giá công nghệ phải xem xét tới các tác động:",
+    "answer": "Bao gồm cả tác động trực tiếp và gián tiếp."
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Sáng chế là kết quả của hoạt động:",
+    "answer": "Nghiên cứu ứng dụng."
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Các phát minh không được pháp luật bảo hộ là do:",
+    "answer": "Chưa có khả năng ứng dụng."
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Mục tiêu của nghiên cứu ứng dụng là tạo ra:",
+    "answer": "Sáng chế, giải pháp hữu ích."
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Một trong những sáng chế là:",
+    "answer": "Phương pháp và thiết bị ghi,lưu trữ và phát lại âm nhạc sử dụng ánh sáng của Rusell(1965)"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Quá trình đổi mới công nghệ bao gồm:",
+    "answer": "8 giai đoạn."
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Theo quan điểm của ESCAP,UNIDO. Điểm khác biệt cơ bản của chuyển giao công nghệ so với hỗ trợ công nghệ là:",
+    "answer": "Chuyển giao giữa các bên đóng tại các quốc gia khác nhau"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Sự xuất hiện chiếc vô tuyến màn hình LED đầu tiên là:",
+    "answer": "Một sáng chế kế tục."
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Một trong những ưu điểm của công nghệ ngoại sinh so với công nghệ nội sinh là:",
+    "answer": "Thời gian để có được công nghệ mới ngắn hơn."
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Một doanh nghiệp may mặc của Việt Nam tiến hành nhập khẩu công nghệ từ nước ngoài với các dữ liệu:",
+    "answer": "0,70"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Một trong các khó khăn trong chuyển giao công nghệ quốc tế là:",
+    "answer": "Vấn đề sở hữu trí tuệ"
+  }
+]

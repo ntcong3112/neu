@@ -1,0 +1,2492 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Nhận định nào sau đây là SAI",
+    "answer": "NAV là hiệu số giữa tổng giá trị tài sản và các khoản đầu tư của quỹ với giá trị các khoản nợ ngắn hạn của quỹ"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Ở Việt nam, công ty đầu tư chứng khoán là quỹ đầu tư chứng khoán được tổ chức dưới hình thức",
+    "answer": "công ty cổ phần"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Theo cách thức huy động vốn, quỹ đầu tư được chia thành:",
+    "answer": "QĐT đóng, QĐT mở"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Theo công cụ đầu tư, quỹ đầu tư được chia thành:",
+    "answer": "QĐT cổ phiếu, QĐT thị trường tiền tệ"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Những thông tin sau sẽ đúng với quỹ đóng nếu chúng",
+    "answer": "Không sẵn sàng mua lại cổ phiếu tại bất cứ thời điểm nào"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Một quỹ mở có NAV là $9,2, lệ phí bán là 7%, nếu một nhà đầu tư muốn mua 200 CCQ, số tiền nhà đầu tư sẽ phải trả là",
+    "answer": "$1968,8"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Điều kiện thành lập công ty QLQ gồm:",
+    "answer": "Điều kiện về vốn, nhân sự, cơ sở vật chất và trang thiết bị hoạt động và cổ đông sáng lập"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Một quỹ mở có NAV là $9,2, phí mua lại 1%, nếu một nhà đầu tư muốn hoàn lại 200 CCQ, số tiền nhà đầu tư sẽ nhận được là",
+    "answer": "$1821,6"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Một quỹ mở khác quỹ đóng ở điểm",
+    "answer": "Nơi giao dịch chứng chỉ quỹ"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Ở Việt nam, vốn pháp định cho công ty QLQ là",
+    "answer": "25 tỷ đồng"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Ở Việt nam, công ty QLQ được phép thành lập dưới hình thức",
+    "answer": "Công ty TNHH, công ty cổ phần"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Một quỹ mở có P0 là $11, lệ phí bán là 7%, phí mua lại 1%, nếu một nhà đầu tư muốn hoàn lại 200 CCQ, số tiền nhà đầu tư sẽ nhận được là",
+    "answer": "$2173,6"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Một tờ báo niêm yết giá CCQ của quỹ tính phí chỉ ra giá chào mua sẽ",
+    "answer": "Thấp hơn giá chào bán"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Một tờ báo niêm yết giá CCQ của quỹ không tính phí chỉ ra giá chào mua sẽ",
+    "answer": "Bằng giá chào bán"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam, Quỹ trái phiếu là quỹ mở đầu tư vào các loại trái phiếu, giấy tờ có giá với tỷ trọng đầu tư vào các tài sản này từ …… giá trị tài sản ròng trở lên",
+    "answer": "80%"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Một quỹ mở có giá chào bán (P0) là $12, NAV/CCQ là $10, lệ phí bán của quỹ là",
+    "answer": "16,67%"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Những thông tin sau sẽ đúng với quỹ đóng nếu chúng",
+    "answer": "Có thể niêm yết và giao dịch tại sở"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Hoạt động hoàn tất các giao dịch chứng khoán, trong đó các bên sẽ thực hiện nghĩa vụ của mình là",
+    "answer": "Hoạt động thanh toán chứng khoán"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nguyên tắc của hoạt động đăng ký chứng khoán là:",
+    "answer": "người nắm giữ chứng khoán phải có tên trong danh sách người sở hữu chứng khoán của tổ chức phát hành vào trước một thời điểm nhất định do tổ chức phát hành qui định."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Hệ thống lưu ký, thanh toán chứng khoán sẽ KHÔNG giúp nhà đầu tư giảm rủi ro sau:",
+    "answer": "Rủi ro sụt giảm giá trị chứng khoán"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Đối tượng nào KHÔNG phải là thành viên lưu ký của trung tâm lưu ký:",
+    "answer": "Nhà đầu tư cá nhân."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Chủ thể tham gia vào giao dịch cầm cố chứng khoán KHÔNG gồm:",
+    "answer": "Ủy ban chứng khoán Nhà nước"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Thời gian thanh toán là khoảng thời gian được xác định:",
+    "answer": "từ khi giao dịch được thực hiện đến khi việc thanh toán hoàn tất."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Điều nào sau đây KHÔNG đúng với hình thức lưu ký riêng biệt đối với 1 loại chứng khoán",
+    "answer": "Khi rút chứng khoán, từng chủ sở hữu chỉ có quyền đòi chuyển trả số lượng tờ chứng khoán đã đưa vào lưu ký hay số lượng với giá trị tính theo mệnh giá."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Tài khoản dùng để hạch toán việc giao và nhận chứng khoán theo chứng từ thanh toán chứng khoán là:",
+    "answer": "Tài khoản thanh toán bù trừ chứng khoán đã giao dịch"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Chứng khoán được phép giao dịch là chứng khoán có trên:",
+    "answer": "Tài khoản chứng khoán giao dịch."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Điều nào sau đây KHÔNG đúng với hình thức lưu ký tổng hợp đối với 1 loại chứng khoán",
+    "answer": "Chứng khoán được lưu giữ theo các ký hiệu riêng được lập cho từng khách hàng."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Tài khoản dùng để phản ánh các chứng khoán bị kiểm soát hoặc không còn bị kiểm soát nữa nhưng đang ngừng giao dịch để xác định lại giá tham chiếu của chứng khoán đó.",
+    "answer": "Tài khoản tài khoản tạm ngừng giao dịch"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Các dịch vụ liên quan tới mở tài khoản lưu ký chứng khoán KHÔNG gồm:",
+    "answer": "Thực hiện quyền người sở hữu"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Tiêu chí đối với ngân hàng thanh toán ở Việt nam là:",
+    "answer": "Ngân hàng thương mại Việt nam."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Ý nghĩa của nguyên tắc chuyển giao chứng khoán cùng với thanh toán tiền",
+    "answer": "Hạn chế rủi ro đối tác, rủi ro tín dụng."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Tài khoản dùng để hạch toán số chứng khoán nhận được từ việc sử dụng quĩ hỗ trợ thanh toán là",
+    "answer": "Tài khoản tạm giữ"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Hoạt động bù trừ chứng khoán là:",
+    "answer": "việc xử lý thông tin về các giao dịch chứng khoán nhằm đưa ra một con số ròng cuối cùng mà các bên tham gia phải thanh toán sau khi giao dịch."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Việc thanh toán bù trừ chứng khoán phải tuân thủ nguyên tắc",
+    "answer": "Giao chứng khoán đồng thời với thanh toán trả tiền."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Quỹ hỗ trợ thanh toán được hình thành nhằm",
+    "answer": "hạn chế rủi ro xảy ra trong việc thanh toán tiền và chuyển giao chứng khoán."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Đâu không phải là vai trò của nguyên tắc tập trung hóa chứng khoán tại hệ thống:",
+    "answer": "Hạn chế rủi ro đối tác, rủi ro tín dụng."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Chuyển khoản chứng khoán chỉ được thực hiện trong các trường hợp sau:",
+    "answer": "khi có lệnh của chủ tài khoản kèm theo các tài liệu chứng minh cho những yêu cầu chuyển khoản."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Tham gia vào cầm cố chứng khoán gồm:",
+    "answer": "Bên cầm cố, bên nhận cầm cố, thành viên lưu ký của bên nhận cầm cố và bên cầm cố và trung tâm lưu ký."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Các tổ chức đặc biệt sau đây được mở tài khoản trực tiếp tại Trung tâm lưu ký ở Việt nam",
+    "answer": "Ngân hàng thương mại, kho bạc Nhà nước, trung tâm lưu ký các nước."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Hoạt động ghi nhận và theo dõi các thông tin về người sở hữu chứng khoán là",
+    "answer": "Hoạt động đăng ký chứng khoán"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Hoạt động lưu giữ, bảo quản chứng khoán của khách hàng và giúp khách hàng thực hiện các quyền của mình đối với chứng khoán lưu ký là",
+    "answer": "Hoạt động lưu ký chứng khoán"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Nguyên tắc hoạt động đăng ký chứng khoán",
+    "answer": "người nắm giữ chứng khoán phải có tên trong danh sách người sở hữu chứng khoán của tổ chức phát hành vào trước một thời điểm nhất định do tổ chức phát hành qui định."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Ưu điểm của lưu ký tổng hợp",
+    "answer": "Tạo thuận lợi cho khách hàng thực hiện các giao dịch chứng khoán."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là chức năng của hệ thống lưu ký, thanh toán chứng khoán",
+    "answer": "Xác định giá giao dịch cho các nhà đầu tư."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Thực hiện quyền đối với chứng khoán lưu ký được thực hiện thông qua các bước sau:",
+    "answer": "Tổ chức phát hành -----> Trung tâm lưu ký -----> Thành viên lưu ký -----> Nhà đầu tư"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Nguyên tắc lưu ký chứng khoán là",
+    "answer": "Các thành viên lưu ký phải mở tài khoản lưu ký chứng khoán cho khách hàng tách biệt với tài khoản lưu ký chứng khoán của chính các thành viên."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Mục tiêu của phương thức bù trừ chứng khoán:",
+    "answer": "Giảm số khoản thanh toán cuối cùng mà các bên phải thực hiện."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Phương thức thanh toán đòi hỏi các giao dịch phải được thanh toán trong một số ngày nhất định sau ngày giao dịch là:",
+    "answer": "Phương thức thanh toán cuốn chiếu."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Chứng khoán được lưu ký phải là chứng khoán",
+    "answer": "hợp lệ, không bị hư hỏng và không thuộc loại bị cấm trao đổi."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Một trong những nguyên tắc thanh toán bù trừ là:",
+    "answer": "Hoạt động thanh toán bù trừ chứng khoán chỉ được thực hiện đối với các loại chứng khoán được phép lưu ký tổng hợp tại các trung tâm lưu ký."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Nhược điểm của phương thức thanh toán theo kết quả bù trừ song phương, TRỪ:",
+    "answer": "Phải thành lập một đối tác thanh toán trung tâm trên cơ sở hoạt động của TTLK, bù trừ."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trong phương thức thanh toán ròng liên tục theo kết quả bù trừ đa phương:",
+    "answer": "Các thành viên sẽ phải giao hoặc được nhận tiền, chứng khoán theo kết quả bù trừ với tổ chức thanh toán bù trừ chứ không phải giao nhận trực tiếp với nhau."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Mục tiêu của nguyên tắc chuyển giao chứng khoán cùng với tiền là",
+    "answer": "đảm bảo hai công đoạn được diễn ra đồng thời."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Chứng khoán ký gửi tại Trung tâm lưu ký chứng khoán ở Việt nam được phân loại thành:",
+    "answer": "chứng khoán tự do chuyển nhượng và chứng khoán chuyển nhượng có điều kiện (hạn chế chuyển nhượng)."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Mục tiêu của hoạt động đăng ký chứng khoán gồm:",
+    "answer": "Theo dõi các thông tin về chứng khoán và về người sở hữu chứng khoán."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Nguyên tắc lưu ký chứng khoán",
+    "answer": "Các chứng khoán niêm yết tại SGDCK phải được lưu ký tập trung tại TTLK."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Hoạt động xử lý thông tin về các giao dịch chứng khoán nhằm đưa ra một con số ròng cuối cùng mà các bên tham gia phải thanh toán sau khi giao dịch là",
+    "answer": "Hoạt động bù trừ chứng khoán"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Thời gian thanh toán là khoảng thời gian được xác định:",
+    "answer": "từ khi giao dịch được thực hiện đến khi việc thanh toán hoàn tất."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Tiêu chí đối với ngân hàng thanh toán ở Việt nam là:",
+    "answer": "Ngân hàng thương mại Việt nam."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Hoạt động hoàn tất các giao dịch chứng khoán, trong đó các bên sẽ thực hiện nghĩa vụ của mình là",
+    "answer": "Hoạt động thanh toán chứng khoán"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Tham gia vào cầm cố chứng khoán gồm:",
+    "answer": "Bên cầm cố, bên nhận cầm cố, thành viên lưu ký của bên nhận cầm cố và bên cầm cố và trung tâm lưu ký."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Tài khoản dùng để hạch toán số chứng khoán nhận được từ việc sử dụng quĩ hỗ trợ thanh toán là",
+    "answer": "Tài khoản tạm giữ"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Tài khoản dùng để hạch toán việc giao và nhận chứng khoán theo chứng từ thanh toán chứng khoán là:",
+    "answer": "Tài khoản thanh toán bù trừ chứng khoán đã giao dịch"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Tài khoản dùng để phản ánh các chứng khoán bị kiểm soát hoặc không còn bị kiểm soát nữa nhưng đang ngừng giao dịch để xác định lại giá tham chiếu của chứng khoán đó.",
+    "answer": "Tài khoản tài khoản tạm ngừng giao dịch"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Một trong những nguyên tắc thanh toán bù trừ là:",
+    "answer": "Hoạt động thanh toán bù trừ chứng khoán chỉ được thực hiện đối với các loại chứng khoán được phép lưu ký tổng hợp tại các trung tâm lưu ký."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Phương thức thanh toán đòi hỏi các giao dịch phải được thanh toán trong một số ngày nhất định sau ngày giao dịch là:",
+    "answer": "Phương thức thanh toán cuốn chiếu."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Nguyên tắc của hoạt động đăng ký chứng khoán là:",
+    "answer": "người nắm giữ chứng khoán phải có tên trong danh sách người sở hữu chứng khoán của tổ chức phát hành vào trước một thời điểm nhất định do tổ chức phát hành qui định."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là chức năng của hệ thống lưu ký, thanh toán chứng khoán",
+    "answer": "Xác định giá giao dịch cho các nhà đầu tư."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Hệ thống lưu ký, thanh toán chứng khoán sẽ KHÔNG giúp nhà đầu tư giảm rủi ro sau:",
+    "answer": "Rủi ro sụt giảm giá trị chứng khoán"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Nguyên tắc lưu ký chứng khoán là",
+    "answer": "Các thành viên lưu ký phải mở tài khoản lưu ký chứng khoán cho khách hàng tách biệt với tài khoản lưu ký chứng khoán của chính các thành viên."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Việc thanh toán bù trừ chứng khoán phải tuân thủ nguyên tắc",
+    "answer": "Giao chứng khoán đồng thời với thanh toán trả tiền."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Các dịch vụ liên quan tới mở tài khoản lưu ký chứng khoán KHÔNG gồm:",
+    "answer": "Thực hiện quyền người sở hữu"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Chuyển khoản chứng khoán chỉ được thực hiện trong các trường hợp sau:",
+    "answer": "khi có lệnh của chủ tài khoản kèm theo các tài liệu chứng minh cho những yêu cầu chuyển khoản."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Hoạt động ghi nhận và theo dõi các thông tin về người sở hữu chứng khoán là",
+    "answer": "Hoạt động đăng ký chứng khoán"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Mục tiêu của nguyên tắc chuyển giao chứng khoán cùng với tiền là",
+    "answer": "đảm bảo hai công đoạn được diễn ra đồng thời."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Mục tiêu của hoạt động đăng ký chứng khoán gồm:",
+    "answer": "Theo dõi các thông tin về chứng khoán và về người sở hữu chứng khoán."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Điều nào sau đây KHÔNG đúng với hình thức lưu ký riêng biệt đối với 1 loại chứng khoán",
+    "answer": "Khi rút chứng khoán, từng chủ sở hữu chỉ có quyền đòi chuyển trả số lượng tờ chứng khoán đã đưa vào lưu ký hay số lượng với giá trị tính theo mệnh giá."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Đâu không phải là vai trò của nguyên tắc tập trung hóa chứng khoán tại hệ thống:",
+    "answer": "Hạn chế rủi ro đối tác, rủi ro tín dụng."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Nguyên tắc hoạt động đăng ký chứng khoán",
+    "answer": "người nắm giữ chứng khoán phải có tên trong danh sách người sở hữu chứng khoán của tổ chức phát hành vào trước một thời điểm nhất định do tổ chức phát hành qui định."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Chứng khoán được phép giao dịch là chứng khoán có trên:",
+    "answer": "Tài khoản chứng khoán giao dịch."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Thực hiện quyền đối với chứng khoán lưu ký được thực hiện thông qua các bước sau:",
+    "answer": "Tổ chức phát hành -----> Trung tâm lưu ký -----> Thành viên lưu ký -----> Nhà đầu tư"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Ý nghĩa của nguyên tắc chuyển giao chứng khoán cùng với thanh toán tiền",
+    "answer": "Hạn chế rủi ro đối tác, rủi ro tín dụng."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Đối tượng nào KHÔNG phải là thành viên lưu ký của trung tâm lưu ký:",
+    "answer": "Nhà đầu tư cá nhân."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Các tổ chức đặc biệt sau đây được mở tài khoản trực tiếp tại Trung tâm lưu ký ở Việt nam",
+    "answer": "Ngân hàng thương mại, kho bạc Nhà nước, trung tâm lưu ký các nước."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Điều nào sau đây KHÔNG đúng với hình thức lưu ký tổng hợp đối với 1 loại chứng khoán",
+    "answer": "Chứng khoán được lưu giữ theo các ký hiệu riêng được lập cho từng khách hàng."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Nhược điểm của phương thức thanh toán theo kết quả bù trừ song phương, TRỪ:",
+    "answer": "Phải thành lập một đối tác thanh toán trung tâm trên cơ sở hoạt động của TTLK, bù trừ."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Ưu điểm của lưu ký tổng hợp",
+    "answer": "Tạo thuận lợi cho khách hàng thực hiện các giao dịch chứng khoán."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Nguyên tắc lưu ký chứng khoán",
+    "answer": "Các chứng khoán niêm yết tại SGDCK phải được lưu ký tập trung tại TTLK."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Hoạt động lưu giữ, bảo quản chứng khoán của khách hàng và giúp khách hàng thực hiện các quyền của mình đối với chứng khoán lưu ký là",
+    "answer": "Hoạt động lưu ký chứng khoán"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Mục tiêu của phương thức bù trừ chứng khoán:",
+    "answer": "Giảm số khoản thanh toán cuối cùng mà các bên phải thực hiện."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Quỹ hỗ trợ thanh toán được hình thành nhằm",
+    "answer": "hạn chế rủi ro xảy ra trong việc thanh toán tiền và chuyển giao chứng khoán."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Hoạt động xử lý thông tin về các giao dịch chứng khoán nhằm đưa ra một con số ròng cuối cùng mà các bên tham gia phải thanh toán sau khi giao dịch là",
+    "answer": "Hoạt động bù trừ chứng khoán"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Đây là thời kỳ của các nhà kinh doanh giảm giá.",
+    "answer": "Giai đoạn tăng trưởng giảm"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Câu nào dưới đây ĐÚNG",
+    "answer": "Sự cạnh tranh giữa các doanh nghiệp trong ngành càng lớn, rủi ro càng cao và tỷ suất lợi nhuận biên của ngành càng giảm."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Các điều kiện kinh tế vĩ mô cần quan tâm trong phân tích chứng khoán là:",
+    "answer": "Tỷ lệ lạm phát; lãi suất; tỷ giá"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Để thực hiện hoạt động đầu tư hưởng lợi, các nhà quản trị tài chính thường:",
+    "answer": "thực hiện kinh doanh chênh lệch giá."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Dấu hiệu thường đi kèm với giai đoạn suy giảm nền kinh tế là:",
+    "answer": "số lượng công ty phá sản và các trường hợp mất khả năng chi trả lãi và vốn của trái phiếu tăng."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Căn cứ mục đích đầu tư, có thể phân loại đầu tư:",
+    "answer": "đầu tư ngân quỹ, đầu tư hưởng lợi, đầu tư phòng vệ và đầu tư nắm quyền kiểm soát."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Ưu điểm của phân tích kỹ thuật là:",
+    "answer": "không cần quan tâm nhiều đến báo cáo tài chính."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Phần chênh lệch giữa doanh thu và chi phí được gọi là",
+    "answer": "Lợi nhuận tuyệt đối"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Để thực hiện hoạt động đầu tư ngân quỹ, các nhà quản trị tài chính thường đầu tư vào:",
+    "answer": "chứng khoán ngắn hạn có khả năng chuyển đổi thành tiền cao."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Cổ phiếu quỹ:",
+    "answer": "Là loại cổ phiếu được phát hành và được tổ chức phát hành mua lại trên thị trường"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Theo Porter, các lực lượng cạnh tranh cơ bản không bao gồm",
+    "answer": "Áp lực từ phía cơ quan quản lý thị trường"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Giá trị thực của cổ phiếu phụ thuộc vào các nhân tố",
+    "answer": "Độ lớn và các thời điểm của các luồng thu nhập; mức độ rủi ro của luồng tiền và tỷ lệ chiết khấu"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Rủi ro thường được tính bằng mức độ biến động của thu nhập phát sinh từ hoạt động sản xuất kinh doanh của công ty.",
+    "answer": "Rủi ro kinh doanh"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Tổ chức nào thường là nhà tạo lập thị trường trái phiếu:",
+    "answer": "ngân hàng thương mại."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây là KHÔNG đúng về thị trường hiệu quả?",
+    "answer": "Khi thị trường là hiệu quả, sẽ tồn tại nhiều cơ hội kinh doanh chênh lệch giá cho các nhà đầu tư."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Kinh doanh chênh lệch giá là hoạt động:",
+    "answer": "tìm kiếm lợi nhuận trong ngắn hạn đối với cổ phiếu được niêm yết trên hai thị trường."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ ngược với chu kỳ kinh tế:",
+    "answer": "Ngành sản xuất hàng xuất khẩu"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ vận động phù hợp với chu kỳ kinh tế",
+    "answer": "Ngành ngân hàng tài chính"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Rủi ro có thể loại trừ bằng đa dạng hoá đầu tư theo phương châm “không nên để tất cả số trứng vào một giỏ”",
+    "answer": "Rủi ro kinh doanh"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Lợi nhuận thực tế là lợi nhuận bình quân của các lợi nhuận kỳ vọng có thể nhận được trong tương lai."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là giả định của phân tích kỹ thuật?",
+    "answer": "Thị giá chứng khoán sẽ đạt đến giá trị thực qua thời gian"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Mỗi ngành khác nhau có mức độ cạnh tranh khác nhau, mức độ cạnh tranh càng lớn, thu nhập và rủi ro càng cao cho các doanh nghiệp trong ngành."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Căn cứ loại tài sản đầu tư, có thể phân loại đầu tư thành:",
+    "answer": "đầu tư cổ phiếu, đầu tư trái phiếu và đầu tư các tài sản tài chính khác."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Giai đoạn suy giảm trong nền kinh tế thường đi kèm với các dấu hiệu sau, TRỪ:",
+    "answer": "GDP tăng."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Giai đoạn này giá cổ phiếu biến động, tạo cơ hội cho các nhà đầu tư thực hiện hoạt động kinh doanh chênh lệch giá",
+    "answer": "Giai đoạn ổn định và tăng trưởng chín muồi"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Các nhà phân tích kỹ thuật thường ít quan tâm đến:",
+    "answer": "báo cáo tài chính."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": ". “Chiến lược xoay vòng” (Rotation Strategy) là:",
+    "answer": "Sự chuyển hướng từ một nhóm ngành này sang một nhóm khác dựa vào các chu kỳ kinh doanh"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Đầu tư trực tiếp là việc các nhà đầu tư:",
+    "answer": "bỏ vốn vào trang thiết bị, máy móc."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Đâu không phải là cơ sở lý thuyết Dow?",
+    "answer": "Chỉ số bình quân thị trường không thể phản ánh tất cả."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Lý thuyết sóng ELLIOT có mấy khía cạnh cơ bản?",
+    "answer": "3"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Các ngành có doanh thu tăng hoặc giảm cùng với chu kỳ kinh tế sẽ hấp dẫn các nhà đầu tư trong giai đoạn nào?",
+    "answer": "Trong giai đoạn đầu của giai đoạn phục hồi."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Khi mong muốn tìm kiếm lợi tức cao, nhà đầu tư nên lựa chọn:",
+    "answer": "cổ phiếu OTC."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Giai đoạn gắn với hoạt động đầu tư mạo hiểm",
+    "answer": "Giai đoạn bắt đầu phát triển"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Các yếu tố mà nhà đầu tư phải theo dõi và ước đoán các ảnh hưởng đến danh mục đầu tư trái phiếu là:",
+    "answer": "Sự thay đổi của lãi suất;cơ cấu kỳ hạn của lãi suất; mức chênh lệch lãi suất giữa các loại trái phiếu khác nhau."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Các công cụ mà Ngân hàng Nhà nước tác động vào cung tiền trong nền kinh tế, TRỪ:",
+    "answer": "cổ phiếu."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Rủi ro là biến cố không thể khắc phục"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Loại hình đầu tư nào sau đây KHÔNG thuộc loại hình đầu tư hưởng lợi?",
+    "answer": "Đầu tư ngân quỹ."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Thu nhập chỉ có khi nhà đầu tư bán chứng khoán",
+    "answer": "Lãi vốn"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Khi tình hình kinh doanh bắt đầu sụt giảm, nền kinh tế bước vào giai đoạn:",
+    "answer": "suy thoái."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Để thực hiện hoạt động đầu tư hưởng lợi, các nhà quản trị tài chính thường:",
+    "answer": "thực hiện kinh doanh chênh lệch giá."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Rủi ro thường được tính bằng mức độ biến động của thu nhập phát sinh từ hoạt động sản xuất kinh doanh của công ty.",
+    "answer": "Rủi ro kinh doanh"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Các nhà phân tích kỹ thuật thường ít quan tâm đến:",
+    "answer": "báo cáo tài chính."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Giai đoạn suy giảm trong nền kinh tế thường đi kèm với các dấu hiệu sau, TRỪ:",
+    "answer": "GDP tăng."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Lợi nhuận thực tế là lợi nhuận bình quân của các lợi nhuận kỳ vọng có thể nhận được trong tương lai."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Đây là thời kỳ của các nhà kinh doanh giảm giá.",
+    "answer": "Giai đoạn tăng trưởng giảm"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Câu nào dưới đây ĐÚNG",
+    "answer": "Sự cạnh tranh giữa các doanh nghiệp trong ngành càng lớn, rủi ro càng cao và tỷ suất lợi nhuận biên của ngành càng giảm."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Rủi ro có thể loại trừ bằng đa dạng hoá đầu tư theo phương châm “không nên để tất cả số trứng vào một giỏ”",
+    "answer": "Rủi ro kinh doanh"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": ". “Chiến lược xoay vòng” (Rotation Strategy) là:",
+    "answer": "Sự chuyển hướng từ một nhóm ngành này sang một nhóm khác dựa vào các chu kỳ kinh doanh"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Phần chênh lệch giữa doanh thu và chi phí được gọi là",
+    "answer": "Lợi nhuận tuyệt đối"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Khi tình hình kinh doanh bắt đầu sụt giảm, nền kinh tế bước vào giai đoạn:",
+    "answer": "suy thoái."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Lý thuyết sóng ELLIOT có mấy khía cạnh cơ bản?",
+    "answer": "3"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là giả định của phân tích kỹ thuật?",
+    "answer": "Thị giá chứng khoán sẽ đạt đến giá trị thực qua thời gian"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Cổ phiếu quỹ:",
+    "answer": "Là loại cổ phiếu được phát hành và được tổ chức phát hành mua lại trên thị trường"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Các ngành có doanh thu tăng hoặc giảm cùng với chu kỳ kinh tế sẽ hấp dẫn các nhà đầu tư trong giai đoạn nào?",
+    "answer": "Trong giai đoạn đầu của giai đoạn phục hồi."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ vận động phù hợp với chu kỳ kinh tế",
+    "answer": "Ngành ngân hàng tài chính"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây là KHÔNG đúng về thị trường hiệu quả?",
+    "answer": "Khi thị trường là hiệu quả, sẽ tồn tại nhiều cơ hội kinh doanh chênh lệch giá cho các nhà đầu tư."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ ngược với chu kỳ kinh tế:",
+    "answer": "Ngành sản xuất hàng xuất khẩu"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Căn cứ loại tài sản đầu tư, có thể phân loại đầu tư thành:",
+    "answer": "đầu tư cổ phiếu, đầu tư trái phiếu và đầu tư các tài sản tài chính khác."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Giai đoạn gắn với hoạt động đầu tư mạo hiểm",
+    "answer": "Giai đoạn bắt đầu phát triển"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Các yếu tố mà nhà đầu tư phải theo dõi và ước đoán các ảnh hưởng đến danh mục đầu tư trái phiếu là:",
+    "answer": "Sự thay đổi của lãi suất;cơ cấu kỳ hạn của lãi suất; mức chênh lệch lãi suất giữa các loại trái phiếu khác nhau."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Loại hình đầu tư nào sau đây KHÔNG thuộc loại hình đầu tư hưởng lợi?",
+    "answer": "Đầu tư ngân quỹ."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Các điều kiện kinh tế vĩ mô cần quan tâm trong phân tích chứng khoán là:",
+    "answer": "Tỷ lệ lạm phát; lãi suất; tỷ giá"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Mỗi ngành khác nhau có mức độ cạnh tranh khác nhau, mức độ cạnh tranh càng lớn, thu nhập và rủi ro càng cao cho các doanh nghiệp trong ngành."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Theo Porter, các lực lượng cạnh tranh cơ bản không bao gồm",
+    "answer": "Áp lực từ phía cơ quan quản lý thị trường"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Giai đoạn này giá cổ phiếu biến động, tạo cơ hội cho các nhà đầu tư thực hiện hoạt động kinh doanh chênh lệch giá",
+    "answer": "Giai đoạn ổn định và tăng trưởng chín muồi"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Giá trị thực của cổ phiếu phụ thuộc vào các nhân tố",
+    "answer": "Độ lớn và các thời điểm của các luồng thu nhập; mức độ rủi ro của luồng tiền và tỷ lệ chiết khấu"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Đâu không phải là cơ sở lý thuyết Dow?",
+    "answer": "Chỉ số bình quân thị trường không thể phản ánh tất cả."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Khi mong muốn tìm kiếm lợi tức cao, nhà đầu tư nên lựa chọn:",
+    "answer": "cổ phiếu OTC."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Tổ chức nào thường là nhà tạo lập thị trường trái phiếu:",
+    "answer": "ngân hàng thương mại."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Căn cứ mục đích đầu tư, có thể phân loại đầu tư:",
+    "answer": "đầu tư ngân quỹ, đầu tư hưởng lợi, đầu tư phòng vệ và đầu tư nắm quyền kiểm soát."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Để thực hiện hoạt động đầu tư ngân quỹ, các nhà quản trị tài chính thường đầu tư vào:",
+    "answer": "chứng khoán ngắn hạn có khả năng chuyển đổi thành tiền cao."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Dấu hiệu thường đi kèm với giai đoạn suy giảm nền kinh tế là:",
+    "answer": "số lượng công ty phá sản và các trường hợp mất khả năng chi trả lãi và vốn của trái phiếu tăng."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Các công cụ mà Ngân hàng Nhà nước tác động vào cung tiền trong nền kinh tế, TRỪ:",
+    "answer": "cổ phiếu."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Ưu điểm của phân tích kỹ thuật là:",
+    "answer": "không cần quan tâm nhiều đến báo cáo tài chính."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Kinh doanh chênh lệch giá là hoạt động:",
+    "answer": "tìm kiếm lợi nhuận trong ngắn hạn đối với cổ phiếu được niêm yết trên hai thị trường."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Ưu điểm của hình thức quản lý bằng pháp luật:",
+    "answer": "Đảm bảo được sự chặt chẽ và công bằng của các chủ thể trước pháp luật"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Theo dõi chứng khoán là một trong những hoạt động giám sát cơ quan nào dưới đây:",
+    "answer": "Sở giao dịch"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Tiết lộ, cung cấp thông tin nội bộ hoặc tư vấn cho bên thứ ba mua, bán chứng khoán trên cơ sở thông tin nội bộ được coi là hành vi:",
+    "answer": "Giao dịch nội gián"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Phương thức quản lý nào dưới đây có thể bổ sung thêm những tiêu chuẩn, những quy định phù hợp với thực tế mà các văn bản pháp quy hoặc chưa có hoặc chưa phù hợp",
+    "answer": "Tự quản"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Quản lý thị trường chứng khoán có thể bao gồm:",
+    "answer": "Quản lý hàng hóa chứng khoán và quản lý các chủ thể tham gia thị trường."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Quản lý và giám sát đồng nghĩa với việc ngăn chặn và kiểm soát các rủi ro dẫn đến rủi ro phi hệ thống làm sụp đổ thị trường"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Giám sát hoạt động công bố thông tin là một trong những nội dung của hoạt động giám sát nào dưới đây :",
+    "answer": "Giám sát tổ chức niêm yết"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Quản lý và giám sát thị trường chứng khoán đảm bảo dung hòa lợi ích của các nhà đầu tư lớn tham gia thị trường"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Việc lập hồ sơ giám sát các công ty chứng khoán, công ty quản lý quỹ là hoạt động cơ bản của:",
+    "answer": "Sở giao dịch chứng khoán"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Điều nào dưới đây không nằm trong các mục tiêu quản lý thị trường chứng khoán?",
+    "answer": "Đảm bảo tính vận hành của thị trường"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Điều nào là điều kiện về nhân sự của CTCK:",
+    "answer": "Có Tổng giám đốc (Giám đốc), tối thiểu 05 nhân viên có chứng chỉ hành nghề chứng khoán phù hợp cho mỗi nghiệp vụ kinh doanh chứng khoán đề nghị cấp phép và tối thiểu 01 nhân viên kiểm soát tuân thủ."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Nghiệp vụ bảo lãnh phát hành chứng khoán là việc CTCK tiến hành",
+    "answer": "Cam kết với tổ chức phát hành nhận mua một phần hoặc toàn bộ chứng khoán của tổ chức phát hành để bán lại hoặc mua số chứng khoán còn lại chưa được phân phối hết hoặc cố gắng tối đa để phân phối số chứng khoán cần phát hành của tổ chức phát hành"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Điều nào là điều kiện cho các tổ chức nước ngoài tham gia góp vốn thành lập, mua cổ phần, phần vốn góp để sở hữu 100% vốn điều lệ của CTCK:",
+    "answer": "Cơ quan cấp phép của nước nguyên xứ và Ủy ban Chứng khoán Nhà nước đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán;"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Nguyên tắc mang tính đạo đức trong hoạt động của CTCK là",
+    "answer": "CTCK phải ưu tiên thực hiện lệnh của khách hàng trước khi thực hiện lệnh của công ty"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Đâu là trường hợp mà CTCK xung đột lợi ích với khách hàng",
+    "answer": "CTCK khuyến nghị mua chứng khoán do chính họ bảo lãnh phát hành trong khi đưa ra nhận định chứng khoán đó rủi ro cho nhân viên của họ."
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "CTCK ở Việt Nam được thành lập dưới hình thức:",
+    "answer": "Công ty TNHH, Công ty cổ phần"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Mô hình kinh doanh chứng khoán đa năng toàn phần là mô hình:",
+    "answer": "Các ngân hàng được phép trực tiếp kinh doanh chứng khoán, kinh doanh bảo hiểm và kinh doanh tiền tệ cũng như các dịch vụ tài chính khác"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Điều kiện về cơ sở vật chất của CTCK bao gồm:\nI. Có trụ sở làm việc bảo đảm cho hoạt động kinh doanh chứng khoán;\nII. Có đủ cơ sở vật chất, kỹ thuật, trang bị, thiết bị văn phòng, hệ thống công nghệ phù hợp với quy trình nghiệp vụ về hoạt động kinh doanh chứng khoán.",
+    "answer": "I và II đúng"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Mục đích của hoạt động tự doanh của CTCK là",
+    "answer": "Thu lợi nhuận cho chính công ty thông qua hành vi mua bán chứng khoán với khách hàng"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Ở Việt Nam, các trường hợp sau KHÔNG được coi là hoạt động tự doanh chứng khoán",
+    "answer": "Mua, bán cổ phiếu quỹ"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Theo công cụ đầu tư, quỹ đầu tư được chia thành:",
+    "answer": "QĐT cổ phiếu, QĐT thị trường tiền tệ"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Theo tính chất pháp lý, quỹ đầu tư được chia thành:",
+    "answer": "QĐT dạng công ty, QĐT dạng hợp đồng"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Câu nào sau đây đúng với QĐT mở",
+    "answer": "Giá mua bằng NAV cộng với phí giao dịch"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Ở Việt nam, vốn pháp định cho công ty QLQ là",
+    "answer": "25 tỷ đồng"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Những thông tin sau sẽ đúng với quỹ đóng nếu chúng",
+    "answer": "Không sẵn sàng mua lại cổ phiếu tại bất cứ thời điểm nào"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Nhận định nào là SAI về QĐT mở",
+    "answer": "QĐT chỉ chào bán chứng chỉ quỹ một lần"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Nhận định nào sau đây là SAI",
+    "answer": "NAV là hiệu số giữa tổng giá trị tài sản và các khoản đầu tư của quỹ với giá trị các khoản nợ ngắn hạn của quỹ"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Thời gian thanh toán là khoảng thời gian được xác định:",
+    "answer": "từ khi giao dịch được thực hiện đến khi việc thanh toán hoàn tất."
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Mục tiêu của phương thức bù trừ chứng khoán:",
+    "answer": "Giảm số khoản thanh toán cuối cùng mà các bên phải thực hiện."
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Điều nào sau đây KHÔNG đúng với hình thức lưu ký riêng biệt đối với 1 loại chứng khoán",
+    "answer": "Khi rút chứng khoán, từng chủ sở hữu chỉ có quyền đòi chuyển trả số lượng tờ chứng khoán đã đưa vào lưu ký hay số lượng với giá trị tính theo mệnh giá."
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Hoạt động lưu giữ, bảo quản chứng khoán của khách hàng và giúp khách hàng thực hiện các quyền của mình đối với chứng khoán lưu ký là",
+    "answer": "Hoạt động lưu ký chứng khoán"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Tiêu chí đối với ngân hàng thanh toán ở Việt nam là:",
+    "answer": "Ngân hàng thương mại Việt nam."
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Chứng khoán ký gửi tại Trung tâm lưu ký chứng khoán ở Việt nam được phân loại thành:",
+    "answer": "chứng khoán tự do chuyển nhượng và chứng khoán chuyển nhượng có điều kiện (hạn chế chuyển nhượng)."
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Chứng khoán được phép giao dịch là chứng khoán có trên:",
+    "answer": "Tài khoản chứng khoán giao dịch."
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Đầu tư trực tiếp là việc các nhà đầu tư:",
+    "answer": "bỏ vốn vào trang thiết bị, máy móc."
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Dấu hiệu thường đi kèm với giai đoạn suy giảm nền kinh tế là:",
+    "answer": "số lượng công ty phá sản và các trường hợp mất khả năng chi trả lãi và vốn của trái phiếu tăng."
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Các nhà phân tích kỹ thuật thường ít quan tâm đến:",
+    "answer": "báo cáo tài chính."
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Lý thuyết sóng ELLIOT có mấy khía cạnh cơ bản?",
+    "answer": "3"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Khi tình hình kinh doanh bắt đầu sụt giảm, nền kinh tế bước vào giai đoạn:",
+    "answer": "suy thoái."
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ vận động phù hợp với chu kỳ kinh tế",
+    "answer": "Ngành ngân hàng tài chính"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Ủy ban quản lý chứng khoán tại Trung Quốc được thành lập năm nào?",
+    "answer": "1992"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Cơ quan quản lý chứng khoán ra đời sớm nhất trên thế giới:",
+    "answer": "UBCK Mỹ (SEC)"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Cơ quan nào dưới đây là Cơ quan quản lý Nhà nước về Thị trường chứng khoán",
+    "answer": "Bộ Tài chính"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Ủy ban chứng khoán Nhà nước tại Việt Nam ra đời năm:",
+    "answer": "1996"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Sở giao dịch chứng khoán có trách nhiệm báo cáo giám sát giao dịch bất thường cho Ủy ban chứng khoán dưới hình thức văn bản và file dữ liệu điện tử trong vòng bao lâu kể từ khi phát hiện sự việc:",
+    "answer": "24 giờ"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Phạm vi giám sát thanh tra không bao gồm hoạt động nào dưới đây :",
+    "answer": "Hoạt động quản lý thị trường"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Hành vi của nhà đầu tư cá nhân hoặc nhà đầu tư tổ chức thực hiện các giao dịch để làm cho mọi nhà đầu tư khác hiểu sai lệch về thị trường",
+    "answer": "Thao túng thị trường"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Phương pháp giám sát nào dưới đây được áp dụng khi xuất hiện tin đồn về một loại chứng khoán có giao dịch khả nghi:",
+    "answer": "Theo dõi trong ngày"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Hình thức quản lý nào dưới đây sẽ tiêu tốn một phần của ngân sách nhà nước",
+    "answer": "Quản lý bằng pháp luật"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Việc lập hồ sơ giám sát các công ty chứng khoán, công ty quản lý quỹ là hoạt động cơ bản của:",
+    "answer": "Sở giao dịch chứng khoán"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "SGDCK và TTLKCK có trách nhiệm báo cáo UBCKNN kết quả công tác giám sát tuân thủ định kỳ hàng tháng trong vòng bao nhiêu ngày làm việc đầu tiên của tháng tiếp theo:",
+    "answer": "11 ngày"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Theo dõi chứng khoán là một trong những hoạt động giám sát cơ quan nào dưới đây:",
+    "answer": "Sở giao dịch"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Mục tiêu nào dưới đây không phải là mục tiêu của theo dõi chứng khoán :",
+    "answer": "Theo dõi hoạt động của cơ quan giám sát thị trường."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Đối tượng thanh tra thị trường chứng khoán bao gồm:",
+    "answer": "Sở giao dịch chứng khoán"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Điều nào dưới đây không nằm trong các mục tiêu quản lý thị trường chứng khoán?",
+    "answer": "Đảm bảo tính vận hành của thị trường"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "SGDCK và TTLKCK có trách nhiệm báo cáo UBCKNN trong vòng bao lâu kể từ khi phát sinh các sự kiện bất thường",
+    "answer": "72 giờ"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Phạm vi giám sát thanh tra bao gồm:",
+    "answer": "Hoạt động công bố thông tin"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Tiết lộ, cung cấp thông tin nội bộ hoặc tư vấn cho bên thứ ba mua, bán chứng khoán trên cơ sở thông tin nội bộ được coi là hành vi:",
+    "answer": "Giao dịch nội gián"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Quản lý thị trường chứng khoán có thể bao gồm:",
+    "answer": "Quản lý hàng hóa chứng khoán và quản lý các chủ thể tham gia thị trường."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Cơ quan quản lý Nhà nước cao nhất trong lĩnh vực chứng khoán tại Việt Nam",
+    "answer": "Ủy ban chứng khoán"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Phương thức quản lý dễ phát sinh những rủi ro, tiêu cực do năng lực chuyên môn của tổ chức:",
+    "answer": "Tự quản"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "SGDCK có trách nhiệm gửi UBCKNN báo cáo giám sát giao dịch tháng trong vòng bao nhiêu ngày làm việc đầu tiên của tháng tiếp theo?",
+    "answer": "11 ngày"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Thị trường chứng khoán đòi hỏi một trình độ tổ chức cao, tuy nhiên không cần có sự quản lý và giám sát chặt chẽ trên cơ sở một hệ thống pháp lý hoàn chỉnh và đồng bộ"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Quản lý và giám sát thị trường chứng khoán đảm bảo dung hòa lợi ích của các nhà đầu tư lớn tham gia thị trường"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Giám sát hoạt động công bố thông tin là một trong những nội dung của hoạt động giám sát nào dưới đây :",
+    "answer": "Giám sát tổ chức niêm yết"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Ưu điểm của hình thức quản lý bằng pháp luật:",
+    "answer": "Đảm bảo được sự chặt chẽ và công bằng của các chủ thể trước pháp luật"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Đặc điểm của các tổ chức tự quản (tổ chức tự định chế) là:",
+    "answer": "Tự cân đối thu – chi dựa vào nguồn thu từ các hoạt động trên thị trường"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Kể từ khi nhận đầy đủ báo cáo kết quả công tác tuân thủ và giám sát tuân thủ hàng năm của SGDCK và TTLKCK, UBCKNN báo cáo Bộ Tài chính kết quả thực hiện công tác giám sát tuân thủ trong vòng bao nhiêu ngày:",
+    "answer": "20 ngày"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Phương thức quản lý nào dưới đây có thể bổ sung thêm những tiêu chuẩn, những quy định phù hợp với thực tế mà các văn bản pháp quy hoặc chưa có hoặc chưa phù hợp",
+    "answer": "Tự quản"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Thị trường chứng khoán được quản lý dưới hình thức",
+    "answer": "Pháp luật và tự quản"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Hoạt động quản lý pháp hành được thực hiện theo chế độ:",
+    "answer": "Đăng ký và cấp phép"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "SGDCK có trách nhiệm gửi UBCKNN báo cáo giám sát giao dịch tuần trong vòng bao nhiêu ngày làm việc đầu tiên của tuần tiếp theo?",
+    "answer": "2 ngày"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Tự quản là hình thức quản lý cổ điển và thông dụng được sử dụng phổ biến ở hầu hết các thị trường trên thế giới."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Quản lý và giám sát đồng nghĩa với việc ngăn chặn và kiểm soát các rủi ro dẫn đến rủi ro phi hệ thống làm sụp đổ thị trường"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Nội dung của quản lý chứng khoán quốc tế bao gồm:",
+    "answer": "Quản lý việc phát hành chứng khoán của tổ chức phát hành trong nước ra thị trường nước ngoài."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Hội đồng chứng khoán Nhật Bản được thành lập năm:",
+    "answer": "1952"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Cơ quan nào dưới đây thực hiện chức năng quản lý thông qua việc ban hành hoặc đề nghị các cơ quan cấp trên như Chính phủ, Quốc hội ban hành các văn bản pháp luật định hướng và điều tiết hoạt động của thị trường",
+    "answer": "Ủy ban chứng khoán"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Quản lý và giám sát thị trường chứng khoán nhằm mục đích:",
+    "answer": "Bảo vệ quyền lợi cho các nhà đầu tư"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Mục tiêu quản lý thị trường chứng khoán nhằm:",
+    "answer": "Đảm bảo tính trung thực, minh bạch, hiệu quả và công bằng của thị trường"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Hiệp hội kinh doanh chứng khoán có trách nhiệm:",
+    "answer": "Thu thập và phản ánh các khiếu nại của khách hàng đến các đơn vị thành viên."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Ủy ban quản lý chứng khoán tại Trung Quốc được thành lập năm nào?",
+    "answer": "1992"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Quản lý và giám sát thị trường chứng khoán đảm bảo dung hòa lợi ích của các nhà đầu tư lớn tham gia thị trường"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Cơ quan quản lý chứng khoán ra đời sớm nhất trên thế giới:",
+    "answer": "UBCK Mỹ (SEC)"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Đối tượng thanh tra thị trường chứng khoán bao gồm:",
+    "answer": "Sở giao dịch chứng khoán"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Thị trường chứng khoán được quản lý dưới hình thức",
+    "answer": "Pháp luật và tự quản"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "SGDCK và TTLKCK có trách nhiệm báo cáo UBCKNN trong vòng bao lâu kể từ khi phát sinh các sự kiện bất thường",
+    "answer": "72 giờ"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Nội dung của quản lý chứng khoán quốc tế bao gồm:",
+    "answer": "Quản lý việc phát hành chứng khoán của tổ chức phát hành trong nước ra thị trường nước ngoài."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Phạm vi giám sát thanh tra không bao gồm hoạt động nào dưới đây :",
+    "answer": "Hoạt động quản lý thị trường"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Đặc điểm của các tổ chức tự quản (tổ chức tự định chế) là:",
+    "answer": "Tự cân đối thu – chi dựa vào nguồn thu từ các hoạt động trên thị trường"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Hành vi của nhà đầu tư cá nhân hoặc nhà đầu tư tổ chức thực hiện các giao dịch để làm cho mọi nhà đầu tư khác hiểu sai lệch về thị trường",
+    "answer": "Thao túng thị trường"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Quản lý và giám sát thị trường chứng khoán nhằm mục đích:",
+    "answer": "Bảo vệ quyền lợi cho các nhà đầu tư"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Phương pháp giám sát nào dưới đây được áp dụng khi xuất hiện tin đồn về một loại chứng khoán có giao dịch khả nghi:",
+    "answer": "Theo dõi trong ngày"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Việc lập hồ sơ giám sát các công ty chứng khoán, công ty quản lý quỹ là hoạt động cơ bản của:",
+    "answer": "Sở giao dịch chứng khoán"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Thị trường chứng khoán đòi hỏi một trình độ tổ chức cao, tuy nhiên không cần có sự quản lý và giám sát chặt chẽ trên cơ sở một hệ thống pháp lý hoàn chỉnh và đồng bộ"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Phạm vi giám sát thanh tra bao gồm:",
+    "answer": "Hoạt động công bố thông tin"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Quản lý và giám sát đồng nghĩa với việc ngăn chặn và kiểm soát các rủi ro dẫn đến rủi ro phi hệ thống làm sụp đổ thị trường"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Mục tiêu quản lý thị trường chứng khoán nhằm:",
+    "answer": "Đảm bảo tính trung thực, minh bạch, hiệu quả và công bằng của thị trường"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Cơ quan nào dưới đây là Cơ quan quản lý Nhà nước về Thị trường chứng khoán",
+    "answer": "Bộ Tài chính"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Kể từ khi nhận đầy đủ báo cáo kết quả công tác tuân thủ và giám sát tuân thủ hàng năm của SGDCK và TTLKCK, UBCKNN báo cáo Bộ Tài chính kết quả thực hiện công tác giám sát tuân thủ trong vòng bao nhiêu ngày:",
+    "answer": "20 ngày"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Điều nào dưới đây không nằm trong các mục tiêu quản lý thị trường chứng khoán?",
+    "answer": "Đảm bảo tính vận hành của thị trường"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Sở giao dịch chứng khoán có trách nhiệm báo cáo giám sát giao dịch bất thường cho Ủy ban chứng khoán dưới hình thức văn bản và file dữ liệu điện tử trong vòng bao lâu kể từ khi phát hiện sự việc:",
+    "answer": "24 giờ"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Hiệp hội kinh doanh chứng khoán có trách nhiệm:",
+    "answer": "Thu thập và phản ánh các khiếu nại của khách hàng đến các đơn vị thành viên."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Phương thức quản lý nào dưới đây có thể bổ sung thêm những tiêu chuẩn, những quy định phù hợp với thực tế mà các văn bản pháp quy hoặc chưa có hoặc chưa phù hợp",
+    "answer": "Tự quản"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Hoạt động quản lý pháp hành được thực hiện theo chế độ:",
+    "answer": "Đăng ký và cấp phép"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Giám sát hoạt động công bố thông tin là một trong những nội dung của hoạt động giám sát nào dưới đây :",
+    "answer": "Giám sát tổ chức niêm yết"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Ủy ban chứng khoán Nhà nước tại Việt Nam ra đời năm:",
+    "answer": "1996"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "SGDCK và TTLKCK có trách nhiệm báo cáo UBCKNN kết quả công tác giám sát tuân thủ định kỳ hàng tháng trong vòng bao nhiêu ngày làm việc đầu tiên của tháng tiếp theo:",
+    "answer": "11 ngày"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Cơ quan quản lý Nhà nước cao nhất trong lĩnh vực chứng khoán tại Việt Nam",
+    "answer": "Ủy ban chứng khoán"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Mục tiêu nào dưới đây không phải là mục tiêu của theo dõi chứng khoán :",
+    "answer": "Theo dõi hoạt động của cơ quan giám sát thị trường."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Cơ quan nào dưới đây thực hiện chức năng quản lý thông qua việc ban hành hoặc đề nghị các cơ quan cấp trên như Chính phủ, Quốc hội ban hành các văn bản pháp luật định hướng và điều tiết hoạt động của thị trường",
+    "answer": "Ủy ban chứng khoán"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Câu nào dưới đây KHÔNG ĐÚNG",
+    "answer": "Tự quản là hình thức quản lý cổ điển và thông dụng được sử dụng phổ biến ở hầu hết các thị trường trên thế giới."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Phương thức quản lý dễ phát sinh những rủi ro, tiêu cực do năng lực chuyên môn của tổ chức:",
+    "answer": "Tự quản"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Hội đồng chứng khoán Nhật Bản được thành lập năm:",
+    "answer": "1952"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Quản lý thị trường chứng khoán có thể bao gồm:",
+    "answer": "Quản lý hàng hóa chứng khoán và quản lý các chủ thể tham gia thị trường."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "SGDCK có trách nhiệm gửi UBCKNN báo cáo giám sát giao dịch tuần trong vòng bao nhiêu ngày làm việc đầu tiên của tuần tiếp theo?",
+    "answer": "2 ngày"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Tổng giám đốc (Giám đốc) của CTCK phải đáp ứng các tiêu chuẩn sau đây:\nI. Không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc chấp hành án phạt tù hoặc bị cấm hành nghề chứng khoán theo quy định của pháp luật;\nII. Có tối thiểu 02 năm kinh nghiệm làm việc tại bộ phận nghiệp vụ của các tổ chức trong lĩnh vực tài chính, chứng khoán, ngân hàng, bảo hiểm hoặc tại bộ phận tài chính, kế toán, đầu tư trong các doanh nghiệp khác;\nIII. Có chứng chỉ hành nghề phân tích tài chính hoặc chứng chỉ hành nghề quản lý quỹ;\nIV. Không bị xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán trong thời hạn 06 tháng gần nhất tính đến thời điểm nộp hồ sơ.\nCác điều kiện gồm có:",
+    "answer": "I, II, III, IV"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Vai trò nào dưới đây là vai trò CTCK đối với nhà phát hành",
+    "answer": "Tạo ra cơ chế huy động vốn phục vụ các nhà phát hành"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Điều kiện nào là quy định về việc cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán của CTCK:",
+    "answer": "Việc góp vốn điều lệ vào công ty chứng khoán phải bằng Đồng Việt Nam."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Hoạt động tư vấn doanh nghiệp gồm:",
+    "answer": "Các hoạt động tư vấn doanh nghiệp bao gồm: tư vấn tái cấu trúc, tư vấn tái cơ cấu vốn, tư vấn cho các thương vụ mua bán và sáp nhập, tư vấn xác định giá trị doanh nghiệp, tư vấn phát hành, tư vấn niêm yết."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Cho vay ký quỹ là hình thức CTCK",
+    "answer": "Cấp tín dụng cho khách hàng của mình để họ mua chứng khoán và sử dụng chứng khoán đó làm vật thế chấp cho khoản vay đó"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Điều nào sau đây về nghiệp vụ kinh doanh của CTCK là KHÔNG đúng theo quy định hiện hành của Việt Nam:",
+    "answer": "Công ty chứng khoán chỉ được cấp phép thực hiện nghiệp vụ môi giới chứng khoán khi được cấp phép thực hiện nghiệp vụ tự doanh chứng khoán."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây KHÔNG thuộc nhóm nguyên tắc tài chính của CTCK",
+    "answer": "Ưu tiên thực hiện lệnh của khách hàng trước lệnh của công ty"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Mục đích của hoạt động tự doanh của CTCK là",
+    "answer": "Thu lợi nhuận cho chính công ty thông qua hành vi mua bán chứng khoán với khách hàng"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Điều kiện nào sau đây đúng về tỷ lệ sở hữu của nhà đầu tư nước ngoài là cá nhân và người có liên quan trong CTCK:",
+    "answer": "Nhà đầu tư nước ngoài là cá nhân và người có liên quan chỉ được sở hữu đến 49% vốn điều lệ của công ty chứng khoán"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Điều kiện nào KHÔNG phải là điều kiện về cổ đông, thành viên góp vốn của CTCK",
+    "answer": "Cổ đông, thành viên góp vốn sở hữu từ 15% trở lên vốn điều lệ của 01 công ty chứng khoán và người có liên quan của cổ đông, thành viên góp vốn đó (nếu có) không sở hữu trên 5% vốn điều lệ của 01 công ty chứng khoán khác"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Đâu là trường hợp mà CTCK xung đột lợi ích với khách hàng",
+    "answer": "CTCK khuyến nghị mua chứng khoán do chính họ bảo lãnh phát hành trong khi đưa ra nhận định chứng khoán đó rủi ro cho nhân viên của họ."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Nghiệp vụ lưu ký chứng khoán của CTCK là:",
+    "answer": "Lưu giữ, bảo quản chứng khoán của khách hàng thông qua các tài khoản lưu ký chứng khoán"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây KHÔNG thuộc nhóm nguyên tắc đạo đức của CTCK",
+    "answer": "Phải tách bạch tiền và chứng khoán của khách hàng với tài sản của công ty"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "CTCK ở Việt Nam được thành lập dưới hình thức:",
+    "answer": "Công ty TNHH, Công ty cổ phần"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Chức năng cơ bản của CTCK là",
+    "answer": "Cung cấp cơ chế giá cả cho giao dịch (thông qua hệ thống khớp giá hoặc khớp lệnh)"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Điều nào là điều kiện về cơ cấu cổ đông, thành viên góp vốn của CTCK",
+    "answer": "Tổng tỷ lệ vốn góp của các tổ chức tối thiểu là 65% vốn điều lệ, trong đó các tổ chức là doanh nghiệp bảo hiểm, ngân hàng thương mại sở hữu tối thiểu là 30% vốn điều lệ."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Điều nào là điều kiện về nhân sự của CTCK:",
+    "answer": "Có Tổng giám đốc (Giám đốc), tối thiểu 05 nhân viên có chứng chỉ hành nghề chứng khoán phù hợp cho mỗi nghiệp vụ kinh doanh chứng khoán đề nghị cấp phép và tối thiểu 01 nhân viên kiểm soát tuân thủ."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Điều nào là điều kiện cho các tổ chức nước ngoài tham gia góp vốn thành lập, mua cổ phần, phần vốn góp để sở hữu 100% vốn điều lệ của CTCK:",
+    "answer": "Hoạt động kinh doanh có lãi trong 02 năm liền trước năm tham gia góp vốn thành lập, mua cổ phần, phần vốn góp và báo cáo tài chính năm gần nhất phải được kiểm toán với ý kiến chấp nhận toàn phần."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Hoạt động kinh doanh chứng khoán của CTCK là",
+    "answer": "Là việc thực hiện nghiệp vụ môi giới chứng khoán, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán, tư vấn đầu tư chứng khoán, quản lý quỹ đầu tư chứng khoán, quản lý danh mục đầu tư chứng khoán và cung cấp dịch vụ về chứng khoán"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Ở Việt Nam, các trường hợp sau KHÔNG được coi là hoạt động tự doanh chứng khoán",
+    "answer": "Mua, bán cổ phiếu quỹ"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Mô hình kinh doanh chứng khoán đa năng một phần là mô hình:",
+    "answer": "Các ngân hàng muốn kinh doanh chứng khoán, kinh doanh bảo hiểm phải thành lập công ty con hạch toán độc lập và hoạt động tách rời với hoạt động kinh doanh tiền tệ"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Điều kiện về cơ sở vật chất của CTCK bao gồm:\nI. Có trụ sở làm việc bảo đảm cho hoạt động kinh doanh chứng khoán;\nII. Có đủ cơ sở vật chất, kỹ thuật, trang bị, thiết bị văn phòng, hệ thống công nghệ phù hợp với quy trình nghiệp vụ về hoạt động kinh doanh chứng khoán.",
+    "answer": "I và II đúng"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Đặc điểm của CTCK là",
+    "answer": "tổ chức kinh doanh có điều kiện"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Điều nào là điều kiện cho các tổ chức nước ngoài tham gia góp vốn thành lập, mua cổ phần, phần vốn góp để sở hữu 100% vốn điều lệ của CTCK:",
+    "answer": "Cơ quan cấp phép của nước nguyên xứ và Ủy ban Chứng khoán Nhà nước đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán;"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Các nguyên tắc cơ bản sau, nguyên tắc nào KHÔNG phải là nguyên tắc của họạt động tư vấn đầu tư chứng khoán",
+    "answer": "Ưu tiên khách hàng"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Hoạt động bình ổn thị trường của CTCK là",
+    "answer": "CTCK có nghĩa vụ mua vào khi giá chứng khoán bị giảm và bán ra khi giá chứng khoán lên nhằm giữ giá chứng khoán ổn định"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Vai trò của CTCK đối với nhà đầu tư là",
+    "answer": "Giảm chi phí và thời gian giao dịch, do đó nâng cao hiệu quả các khoản đầu tư"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Mô hình kinh doanh chứng khoán đa năng toàn phần là mô hình:",
+    "answer": "Các ngân hàng được phép trực tiếp kinh doanh chứng khoán, kinh doanh bảo hiểm và kinh doanh tiền tệ cũng như các dịch vụ tài chính khác"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Nguyên tắc mang tính đạo đức trong hoạt động của CTCK là",
+    "answer": "CTCK phải ưu tiên thực hiện lệnh của khách hàng trước khi thực hiện lệnh của công ty"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Nhà tư vấn đầu tư chứng khoán sẽ thu về khoản phí dịch vụ tư vấn trong trường hợp:",
+    "answer": "Bất kể nhà đầu tư lỗ hay lãi"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Hoạt động môi giới chứng khoán là:",
+    "answer": "Hoạt động trung gian hoặc đại diện mua, bán chứng khoán cho khách hàng để hưởng hoa hồng"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Nghiệp vụ bảo lãnh phát hành chứng khoán là việc CTCK tiến hành",
+    "answer": "Cam kết với tổ chức phát hành nhận mua một phần hoặc toàn bộ chứng khoán của tổ chức phát hành để bán lại hoặc mua số chứng khoán còn lại chưa được phân phối hết hoặc cố gắng tối đa để phân phối số chứng khoán cần phát hành của tổ chức phát hành"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Mô hình kinh doanh chứng khoán đa năng một phần là mô hình:",
+    "answer": "Hoạt động kinh doanh chứng khoán sẽ do các công ty độc lập và chuyên môn hóa trong lĩnh vực chứng khoán đảm trách, các ngân hàng không được tham gia kinh doanh chứng khoán."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Các yêu cầu sau, yêu cầu nào KHÔNG phải là yêu cầu đối với hoạt động tự doanh chứng khoán của CTCK",
+    "answer": "Bảo mật thông tin của khách hàng"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Tự doanh chứng khoán là việc",
+    "answer": "Công ty chứng khoán mua bán chứng khoán cho chính mình"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Nguyên tắc mang tính tài chính trong hoạt động của CTCK là",
+    "answer": "CTCK phải đảm bảo các yêu cầu về vốn, cơ cấu vốn và nguyên tắc hạch toán, báo cáo theo quy định của UBCKNN"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Luật pháp của các nước đều yêu cầu tách biệt rõ ràng giữa các nghiệp vụ",
+    "answer": "Môi giới và tự doanh"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Ở Việt Nam, các trường hợp sau KHÔNG được coi là hoạt động tự doanh chứng khoán",
+    "answer": "Mua, bán chứng khoán do sửa lỗi sau giao dịch"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "CTCK ở Việt Nam KHÔNG được thành lập dưới hình thức:",
+    "answer": "Công ty tư nhân"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Điều nào KHÔNG phải là nói về các mô hình kinh doanh chứng khoán:",
+    "answer": "Ngân hàng thương mại nhận tiền gửi và cho vay."
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Nhà tư vấn đầu tư chứng khoán sẽ thu về khoản phí dịch vụ tư vấn trong trường hợp:",
+    "answer": "Bất kể nhà đầu tư lỗ hay lãi"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Đặc điểm của CTCK là",
+    "answer": "tổ chức kinh doanh có điều kiện"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây KHÔNG thuộc nhóm nguyên tắc đạo đức của CTCK",
+    "answer": "Phải tách bạch tiền và chứng khoán của khách hàng với tài sản của công ty"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Điều nào là điều kiện cho các tổ chức nước ngoài tham gia góp vốn thành lập, mua cổ phần, phần vốn góp để sở hữu 100% vốn điều lệ của CTCK:",
+    "answer": "Cơ quan cấp phép của nước nguyên xứ và Ủy ban Chứng khoán Nhà nước đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán;"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Hoạt động kinh doanh chứng khoán của CTCK là",
+    "answer": "Là việc thực hiện nghiệp vụ môi giới chứng khoán, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán, tư vấn đầu tư chứng khoán, quản lý quỹ đầu tư chứng khoán, quản lý danh mục đầu tư chứng khoán và cung cấp dịch vụ về chứng khoán"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Điều kiện về cơ sở vật chất của CTCK bao gồm:\nI. Có trụ sở làm việc bảo đảm cho hoạt động kinh doanh chứng khoán;\nII. Có đủ cơ sở vật chất, kỹ thuật, trang bị, thiết bị văn phòng, hệ thống công nghệ phù hợp với quy trình nghiệp vụ về hoạt động kinh doanh chứng khoán.",
+    "answer": "I và II đúng"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Cho vay ký quỹ là hình thức CTCK",
+    "answer": "Cấp tín dụng cho khách hàng của mình để họ mua chứng khoán và sử dụng chứng khoán đó làm vật thế chấp cho khoản vay đó"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Các yêu cầu sau, yêu cầu nào KHÔNG phải là yêu cầu đối với hoạt động tự doanh chứng khoán của CTCK",
+    "answer": "Bảo mật thông tin của khách hàng"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Điều nào là điều kiện cho các tổ chức nước ngoài tham gia góp vốn thành lập, mua cổ phần, phần vốn góp để sở hữu 100% vốn điều lệ của CTCK:",
+    "answer": "Hoạt động kinh doanh có lãi trong 02 năm liền trước năm tham gia góp vốn thành lập, mua cổ phần, phần vốn góp và báo cáo tài chính năm gần nhất phải được kiểm toán với ý kiến chấp nhận toàn phần."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây KHÔNG thuộc nhóm nguyên tắc tài chính của CTCK",
+    "answer": "Ưu tiên thực hiện lệnh của khách hàng trước lệnh của công ty"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Điều nào là điều kiện về nhân sự của CTCK:",
+    "answer": "Có Tổng giám đốc (Giám đốc), tối thiểu 05 nhân viên có chứng chỉ hành nghề chứng khoán phù hợp cho mỗi nghiệp vụ kinh doanh chứng khoán đề nghị cấp phép và tối thiểu 01 nhân viên kiểm soát tuân thủ."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Hoạt động bình ổn thị trường của CTCK là",
+    "answer": "CTCK có nghĩa vụ mua vào khi giá chứng khoán bị giảm và bán ra khi giá chứng khoán lên nhằm giữ giá chứng khoán ổn định"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "CTCK ở Việt Nam KHÔNG được thành lập dưới hình thức:",
+    "answer": "Công ty tư nhân"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Vai trò nào dưới đây là vai trò CTCK đối với nhà phát hành",
+    "answer": "Tạo ra cơ chế huy động vốn phục vụ các nhà phát hành"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Nguyên tắc mang tính tài chính trong hoạt động của CTCK là",
+    "answer": "CTCK phải đảm bảo các yêu cầu về vốn, cơ cấu vốn và nguyên tắc hạch toán, báo cáo theo quy định của UBCKNN"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Điều kiện nào KHÔNG phải là điều kiện về cổ đông, thành viên góp vốn của CTCK",
+    "answer": "Cổ đông, thành viên góp vốn sở hữu từ 15% trở lên vốn điều lệ của 01 công ty chứng khoán và người có liên quan của cổ đông, thành viên góp vốn đó (nếu có) không sở hữu trên 5% vốn điều lệ của 01 công ty chứng khoán khác"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Điều nào KHÔNG phải là nói về các mô hình kinh doanh chứng khoán:",
+    "answer": "Ngân hàng thương mại nhận tiền gửi và cho vay."
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Mô hình kinh doanh chứng khoán đa năng một phần là mô hình:",
+    "answer": "Hoạt động kinh doanh chứng khoán sẽ do các công ty độc lập và chuyên môn hóa trong lĩnh vực chứng khoán đảm trách, các ngân hàng không được tham gia kinh doanh chứng khoán."
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Luật pháp của các nước đều yêu cầu tách biệt rõ ràng giữa các nghiệp vụ",
+    "answer": "Môi giới và tự doanh"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Mô hình kinh doanh chứng khoán đa năng một phần là mô hình:",
+    "answer": "Các ngân hàng muốn kinh doanh chứng khoán, kinh doanh bảo hiểm phải thành lập công ty con hạch toán độc lập và hoạt động tách rời với hoạt động kinh doanh tiền tệ"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Điều nào sau đây về nghiệp vụ kinh doanh của CTCK là KHÔNG đúng theo quy định hiện hành của Việt Nam:",
+    "answer": "Công ty chứng khoán chỉ được cấp phép thực hiện nghiệp vụ môi giới chứng khoán khi được cấp phép thực hiện nghiệp vụ tự doanh chứng khoán."
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Nghiệp vụ bảo lãnh phát hành chứng khoán là việc CTCK tiến hành",
+    "answer": "Cam kết với tổ chức phát hành nhận mua một phần hoặc toàn bộ chứng khoán của tổ chức phát hành để bán lại hoặc mua số chứng khoán còn lại chưa được phân phối hết hoặc cố gắng tối đa để phân phối số chứng khoán cần phát hành của tổ chức phát hành"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "CTCK ở Việt Nam được thành lập dưới hình thức:",
+    "answer": "Công ty TNHH, Công ty cổ phần"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Các nguyên tắc cơ bản sau, nguyên tắc nào KHÔNG phải là nguyên tắc của họạt động tư vấn đầu tư chứng khoán",
+    "answer": "Ưu tiên khách hàng"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Ở Việt Nam, các trường hợp sau KHÔNG được coi là hoạt động tự doanh chứng khoán",
+    "answer": "Mua, bán chứng khoán do sửa lỗi sau giao dịch"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Điều kiện nào là quy định về việc cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán của CTCK:",
+    "answer": "Việc góp vốn điều lệ vào công ty chứng khoán phải bằng Đồng Việt Nam."
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Mục đích của hoạt động tự doanh của CTCK là",
+    "answer": "Thu lợi nhuận cho chính công ty thông qua hành vi mua bán chứng khoán với khách hàng"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Tổng giám đốc (Giám đốc) của CTCK phải đáp ứng các tiêu chuẩn sau đây:\nI. Không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc chấp hành án phạt tù hoặc bị cấm hành nghề chứng khoán theo quy định của pháp luật;\nII. Có tối thiểu 02 năm kinh nghiệm làm việc tại bộ phận nghiệp vụ của các tổ chức trong lĩnh vực tài chính, chứng khoán, ngân hàng, bảo hiểm hoặc tại bộ phận tài chính, kế toán, đầu tư trong các doanh nghiệp khác;\nIII. Có chứng chỉ hành nghề phân tích tài chính hoặc chứng chỉ hành nghề quản lý quỹ;\nIV. Không bị xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán trong thời hạn 06 tháng gần nhất tính đến thời điểm nộp hồ sơ.\nCác điều kiện gồm có:",
+    "answer": "I, II, III, IV"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Nguyên tắc mang tính đạo đức trong hoạt động của CTCK là",
+    "answer": "CTCK phải ưu tiên thực hiện lệnh của khách hàng trước khi thực hiện lệnh của công ty"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Điều kiện nào sau đây đúng về tỷ lệ sở hữu của nhà đầu tư nước ngoài là cá nhân và người có liên quan trong CTCK:",
+    "answer": "Nhà đầu tư nước ngoài là cá nhân và người có liên quan chỉ được sở hữu đến 49% vốn điều lệ của công ty chứng khoán"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Nghiệp vụ lưu ký chứng khoán của CTCK là:",
+    "answer": "Lưu giữ, bảo quản chứng khoán của khách hàng thông qua các tài khoản lưu ký chứng khoán"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Mô hình kinh doanh chứng khoán đa năng toàn phần là mô hình:",
+    "answer": "Các ngân hàng được phép trực tiếp kinh doanh chứng khoán, kinh doanh bảo hiểm và kinh doanh tiền tệ cũng như các dịch vụ tài chính khác"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Ở Việt Nam, các trường hợp sau KHÔNG được coi là hoạt động tự doanh chứng khoán",
+    "answer": "Mua, bán cổ phiếu quỹ"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Đâu là trường hợp mà CTCK xung đột lợi ích với khách hàng",
+    "answer": "CTCK khuyến nghị mua chứng khoán do chính họ bảo lãnh phát hành trong khi đưa ra nhận định chứng khoán đó rủi ro cho nhân viên của họ."
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Chức năng cơ bản của CTCK là",
+    "answer": "Cung cấp cơ chế giá cả cho giao dịch (thông qua hệ thống khớp giá hoặc khớp lệnh)"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Một quỹ mở có giá chào bán (P0) là $12, NAV/CCQ là $10, lệ phí bán của quỹ là",
+    "answer": "16,67%"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Một quỹ mở khác quỹ đóng ở điểm",
+    "answer": "Nơi giao dịch chứng chỉ quỹ"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Câu nào sau đây đúng với QĐT mở",
+    "answer": "Giá mua bằng NAV cộng với phí giao dịch"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Ở Việt nam,việc xác định giá trị tài sản ròng trên một đơn vị quỹ đầu tư chứng khoán do",
+    "answer": "công ty quản lý quỹ thực hiện và được ngân hàng giám sát xác nhận"
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Câu nào sau đây đúng với QĐT đóng",
+    "answer": "Chứng chỉ của quỹ được niêm yết và giao dịch trên SGDCK"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Ở Việt nam, ngày giao dịch CCQ mở là",
+    "answer": "ngày định giá mà công ty QLQ, thay mặt quỹ phát hành và mua lại CCQ mở"
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Một quỹ mở có NAV là $9,2, phí mua lại 1%, nếu một nhà đầu tư muốn hoàn lại 200 CCQ, số tiền nhà đầu tư sẽ nhận được là",
+    "answer": "$1821,6"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Giá trị thu nhập đầu tư ròng chia cho giá trị tài sản ròng trung bình là",
+    "answer": "Tỷ lệ thu nhập đầu tư"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Theo quy định ở Việt nam, Quỹ trái phiếu là quỹ mở đầu tư vào các loại trái phiếu, giấy tờ có giá với tỷ trọng đầu tư vào các tài sản này từ …… giá trị tài sản ròng trở lên",
+    "answer": "80%"
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Một quỹ mở có NAV/CCQ là $10, lệ phí bán 12%, giá chào bán của quỹ là",
+    "answer": "$11,9"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Một tờ báo niêm yết giá CCQ của quỹ tính phí chỉ ra giá chào mua sẽ",
+    "answer": "Thấp hơn giá chào bán"
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Quy trình đầu tư của quỹ đầu tư là",
+    "answer": "Nghiên cứu → phân bổ tài sản → lựa chọn chứng khoán → xây dựng danh mục"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Một quỹ mở có P0 là $11, lệ phí bán là 7%, phí mua lại 1%, nếu một nhà đầu tư muốn hoàn lại 200 CCQ, số tiền nhà đầu tư sẽ nhận được là",
+    "answer": "$2173,6"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Một quỹ mở có giá chào bán (P0) là $10, lệ phí bán là 8%, NAV/CCQ của quỹ là",
+    "answer": "$9,2"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Những thông tin sau sẽ đúng với quỹ đóng nếu chúng",
+    "answer": "Có thể niêm yết và giao dịch tại sở"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Theo cách thức huy động vốn, quỹ đầu tư được chia thành:",
+    "answer": "QĐT đóng, QĐT mở"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Một tờ báo niêm yết giá CCQ của quỹ không tính phí chỉ ra giá chào mua sẽ",
+    "answer": "Bằng giá chào bán"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Ở Việt nam, vốn pháp định cho công ty QLQ là",
+    "answer": "25 tỷ đồng"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Theo đối tượng tham gia đầu tư, quỹ đầu tư được chia thành:",
+    "answer": "QĐT tập thể, QĐT thành viên"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Ở Việt nam, công ty đầu tư chứng khoán là quỹ đầu tư chứng khoán được tổ chức dưới hình thức",
+    "answer": "công ty cổ phần"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Theo mục tiêu đầu tư, quỹ đầu tư được chia thành:",
+    "answer": "QĐT thu nhập, QĐT mạo hiểm"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Tổng gia trị giao dịch trong năm chia cho giá trị tài sản ròng của quỹ trong năm là",
+    "answer": "Tỷ lệ doanh thu"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Một NĐT có $ 1994, NĐT có thể mua được bao nhiêu CCQ quỹ mở nếu NAV của quỹ là $12 và lệ phí bán là 8%",
+    "answer": "150 CCQ"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Nhận định nào là SAI về QĐT mở",
+    "answer": "QĐT chỉ chào bán chứng chỉ quỹ một lần"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Ở Việt nam, công ty QLQ được thực hiện các nghiệp vụ kinh doanh sau đây:",
+    "answer": "Tư vấn đầu tư chứng khoán, quản lý quỹ đầu tư chứng khoán, quản lý danh mục đầu tư chứng khoán"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Điều kiện thành lập công ty QLQ gồm:",
+    "answer": "Điều kiện về vốn, nhân sự, cơ sở vật chất và trang thiết bị hoạt động và cổ đông sáng lập"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Quản lý danh mục đầu tư là",
+    "answer": "việc công ty quản lý quỹ đầu tư chứng khoán thực hiện quản lý theo uỷ thác của từng nhà đầu tư trong mua, bán, nắm giữ chứng khoán"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Ở Việt nam, công ty quản lý quỹ tổ chức duới hình thức công ty cổ phần đuợc mua lại không quá ……… tổng số cổ phần phổ thông đã bán làm cổ phiếu quỹ",
+    "answer": "30%"
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Chi phí hoạt động trong năm chia cho giá trị tài sản ròng trung bình của quỹ là",
+    "answer": "Tỷ lệ chi phí"
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Phát biểu nào sau đây là ĐÚNG",
+    "answer": "CCQ của quỹ đóng được niêm yết và giao dịch trên SGDCK"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Theo tính chất pháp lý, quỹ đầu tư được chia thành:",
+    "answer": "QĐT dạng công ty, QĐT dạng hợp đồng"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "NAV của quỹ đầu tư phụ thuộc vào",
+    "answer": "Giá trị danh mục đầu tư của quỹ đầu tư"
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Ở Việt nam, công ty QLQ được phép thành lập dưới hình thức",
+    "answer": "Công ty TNHH, công ty cổ phần"
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Nhận định nào sau đây là SAI",
+    "answer": "NAV là hiệu số giữa tổng giá trị tài sản và các khoản đầu tư của quỹ với giá trị các khoản nợ ngắn hạn của quỹ"
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Theo công cụ đầu tư, quỹ đầu tư được chia thành:",
+    "answer": "QĐT cổ phiếu, QĐT thị trường tiền tệ"
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Một quỹ mở có NAV là $9,2, lệ phí bán là 7%, nếu một nhà đầu tư muốn mua 200 CCQ, số tiền nhà đầu tư sẽ phải trả là",
+    "answer": "$1968,8"
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Nhận định nào là SAI về QĐT đóng",
+    "answer": "QĐT đóng có mua lại chứng chỉ của quỹ"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Ở Việt nam, quỹ thành viên là quỹ đầu tư chứng khoán có số thành viên tham gia góp vốn không vuợt quá ….. thành viên và chỉ bao gồm thành viên là pháp nhân.",
+    "answer": "30"
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Một quỹ mở có NAV là $11, phí mua lại 1,2%, nếu một nhà đầu tư muốn hoàn lại 200 CCQ, số tiền nhà đầu tư sẽ nhận được là",
+    "answer": "$2173,6"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Những thông tin sau sẽ đúng với quỹ đóng nếu chúng",
+    "answer": "Không sẵn sàng mua lại cổ phiếu tại bất cứ thời điểm nào"
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Câu nào sau đây đúng với QĐT mở",
+    "answer": "Giá mua bằng NAV cộng với phí giao dịch"
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Ở Việt nam, công ty quản lý quỹ tổ chức duới hình thức công ty cổ phần đuợc mua lại không quá ……… tổng số cổ phần phổ thông đã bán làm cổ phiếu quỹ",
+    "answer": "30%"
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Nhận định nào là SAI về QĐT mở",
+    "answer": "QĐT chỉ chào bán chứng chỉ quỹ một lần"
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "Theo mục tiêu đầu tư, quỹ đầu tư được chia thành:",
+    "answer": "QĐT thu nhập, QĐT mạo hiểm"
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Chi phí hoạt động trong năm chia cho giá trị tài sản ròng trung bình của quỹ là",
+    "answer": "Tỷ lệ chi phí"
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "NAV của quỹ đầu tư phụ thuộc vào",
+    "answer": "Giá trị danh mục đầu tư của quỹ đầu tư"
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Một NĐT có $ 1994, NĐT có thể mua được bao nhiêu CCQ quỹ mở nếu NAV của quỹ là $12 và lệ phí bán là 8%",
+    "answer": "150 CCQ"
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "Một quỹ mở có giá chào bán (P0) là $10, lệ phí bán là 8%, NAV/CCQ của quỹ là",
+    "answer": "$9,2"
+  },
+  {
+    "id": 406,
+    "premium": true,
+    "question": "Câu nào sau đây đúng với QĐT đóng",
+    "answer": "Chứng chỉ của quỹ được niêm yết và giao dịch trên SGDCK"
+  },
+  {
+    "id": 407,
+    "premium": true,
+    "question": "Ở Việt nam, ngày giao dịch CCQ mở là",
+    "answer": "ngày định giá mà công ty QLQ, thay mặt quỹ phát hành và mua lại CCQ mở"
+  },
+  {
+    "id": 408,
+    "premium": true,
+    "question": "Giá trị thu nhập đầu tư ròng chia cho giá trị tài sản ròng trung bình là",
+    "answer": "Tỷ lệ thu nhập đầu tư"
+  },
+  {
+    "id": 409,
+    "premium": true,
+    "question": "Một quỹ mở có NAV/CCQ là $10, lệ phí bán 12%, giá chào bán của quỹ là",
+    "answer": "$11,9"
+  },
+  {
+    "id": 410,
+    "premium": true,
+    "question": "Phát biểu nào sau đây là ĐÚNG",
+    "answer": "CCQ của quỹ đóng được niêm yết và giao dịch trên SGDCK"
+  },
+  {
+    "id": 411,
+    "premium": true,
+    "question": "Ở Việt nam, quỹ thành viên là quỹ đầu tư chứng khoán có số thành viên tham gia góp vốn không vuợt quá ….. thành viên và chỉ bao gồm thành viên là pháp nhân.",
+    "answer": "30"
+  },
+  {
+    "id": 412,
+    "premium": true,
+    "question": "Nhận định nào là SAI về QĐT đóng",
+    "answer": "QĐT đóng có mua lại chứng chỉ của quỹ"
+  },
+  {
+    "id": 413,
+    "premium": true,
+    "question": "Ở Việt nam,việc xác định giá trị tài sản ròng trên một đơn vị quỹ đầu tư chứng khoán do",
+    "answer": "công ty quản lý quỹ thực hiện và được ngân hàng giám sát xác nhận"
+  },
+  {
+    "id": 414,
+    "premium": true,
+    "question": "Theo đối tượng tham gia đầu tư, quỹ đầu tư được chia thành:",
+    "answer": "QĐT tập thể, QĐT thành viên"
+  },
+  {
+    "id": 415,
+    "premium": true,
+    "question": "Theo tính chất pháp lý, quỹ đầu tư được chia thành:",
+    "answer": "QĐT dạng công ty, QĐT dạng hợp đồng"
+  }
+]

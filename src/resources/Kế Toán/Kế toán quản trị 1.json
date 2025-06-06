@@ -1,0 +1,1796 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Nội dung báo cáo kế toán quản trị do ai nào quy định?",
+    "answer": "Kết hợp các yêu cầu trên"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Phát biểu nào sau đây là đúng?",
+    "answer": "Các doanh nghiệp có thể tự thiết kế hệ thống KTQT phù hợp với đặc điêm của mình"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Đối tượng sử dụng thông tin KTQT chủ yếu là?",
+    "answer": "Tất cả các bộ phận trên"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Nhiệm vụ chính của KTQT trong doanh nghiệp không phải là",
+    "answer": "Định khoản các NVKT phát sinh cho quản lý."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Điều nào sau sau đây không phải là bản chất của Kế toán quản trị?",
+    "answer": "Thông tin KTQT phải được phát triển phù hợp với các nguyên tắc kế toán được chấp nhận chung hoặc các quy định về thuế thu nhập"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Công ty Ngọc Minh đang kinh doanh 1 loại sản phẩm với doanh thu 2.000.000 đ, tổng chi phí 1.800.000 đ. Sản phẩm đang có dấu hiệu suy thoái và bế tắc trong tương lai. Vì vậy, Công ty quyết định ngừng kinh doanh sản phẩm này để chuyển sang kinh doanh sản phẩm mới. Trong năm đầu kinh doanh sản phẩm mới, doanh thu là 2.400.000 đ, chi phí 2.250.000 đ.\nChi phí cơ hội khi kinh doanh sản phẩm mới là:",
+    "answer": "50.000 đ"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Phân loại chi phí theo mối quan hệ với quy trình sản xuất, chi phí sản xuất được chia thành những loại nào dưới đây?",
+    "answer": "Chi phí nguyên vật liệu trực tiếp; chi phí nhân công trực tiếp; chi phí sản xuất chung"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Trong các khoản chi phí dưới đây, khoản nào không phải là chi phí gián tiếp?",
+    "answer": "Chi phí nguyên vật liệu trực tiếp"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Tại 1 công ty có khoản mục chi phí sản xuất chung (CPSXC) biến động qua các tháng theo số giờ máy hoạt động.\nMức cao nhất Tổng CPSXC là 32.000.000 /6000 giờ máy\nMức thấp nhất Tổng CPSXC là 36.000.000 / 8.500 giờ máy\nChi tiết CPSXC của Công ty ở mức hoạt động thấp nhất như sau:\nChi phí dụng cụ sản xuất 8.100.000 (biến phí)\nThuê nhà xưởng và lương quản lý phân xưởng 12.800.000 (định phí)\nDịch vụ mua ngoài 11.100.000 (chi phí hỗn hợp)\nTính chi phí dịch vụ mua ngoài ở mức hoạt động cao nhất?",
+    "answer": "11.725.000 đồng"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Khi mức hoạt động thay đổi trong phạm vi phù hợp thì:",
+    "answer": "Biến phí thay đổi theo tỉ lệ thuận trực tiếp"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Công ty V9Z có tài liệu trong kỳ như sau: Số lượng sản phẩm dở dang đầu tháng là 100 sản phẩm với mức độ hoàn thành 40% Số lượng sản phẩm được đưa vào sản xuất trong tháng là 1.500 sản phẩm Trong kỳ hoàn thành 1.300 sản phẩm, dở dang cuối kỳ là 200 sản phẩm (mức độ hoàn thành 50%) Tính số lượng sản phẩm hoàn thành tương đương theo phương pháp nhập trước xuất trước đối với khoản mục chi phí chế biến?",
+    "answer": "1.460 sản phẩm"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Công ty ABC tính tỷ lệ phân bổ chi phí sản xuất chung hàng năm dựa trên số giờ lao động trực tiếp. Tổng chi phí sản xuất chung (CPSXC) ước tính đầu năm là 580.000.000 đồng và tổng số giờ lao động trực tiếp là 40.000. Thực tế trong năm tổng CPSXC phát sinh là 720.000.000 đồng và 41.000 giờ lao động trực tiếp.\nXác định CP SXC phân bổ thừa/thiếu trong kỳ?",
+    "answer": "Phân bổ thiếu 125.500.000 đồng"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Công ty A đang thực hiện 2 đơn hàng. Số liệu chi phí thực tế phát sinh trong kỳ như sau: (1000đ)\nChi phí nguyên vật liệu đơn 1: 100.000; đơn 2: 96.000\nChi phí nhân công đơn 1: 60.000; đơn 2: 70.000\nChi phí sản xuất chung: 138.000;\nHệ số phân bổ chi phí sản xuất chung ước tính là 0,6; Công ty phân bổ theo chi phí nguyên vật liệu trực tiếp\nCuối kỳ, đơn 1 đã hoàn thành; đơn 2 còn dở dang\nXác chi phí dở dang cuối kỳ?",
+    "answer": "223.600 nghìn đồng"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Phân xưởng 1 có 1000 sản phẩm dở dang cuối kỳ, tỷ lệ hoàn thành là 30%. Cho biết số sản phẩm tiếp tục phải thực hiện ở kỳ sau là bao nhiêu?",
+    "answer": "700 sản phẩm"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Khi xác định sản lượng tương đương theo phương pháp bình quân cả kỳ có thể không sử dụng thông tin nào dưới đây?",
+    "answer": "Sản lượng dở dang đầu kỳ"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Công ty K có giá bán đơn vị sản phẩm là 200.000 đ; sản lượng hòa vốn là 1.000 sản phẩm và CPCĐ là 40 triệu đồng. Nếu công ty chi 20 triệu đồng để quảng cáo và sản lượng tăng thêm 400 SP thì lợi nhuận thay đổi:",
+    "answer": "Giảm 4 triệu đồng"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Công ty T bán hai sản phẩm A và B với LNG đơn vị SP lần lượt là 125.000 đ và 200.000 đ. Nếu tổng CPCĐ phát sinh trong kỳ của công ty T là 85 triệu đồng và cơ cấu sản lượng tiêu thụ là 2: 3 thì sản lượng hòa vốn của công ty sẽ là:",
+    "answer": "500 SP"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Công ty X có tài liệu sản phẩm A như sau\nĐơn giá bán 1000đ\nBiến phí đơn vị 600đ\nTổng định phí 40.000.000đ\nSản lượng hòa vốn và doanh thu hòa vốn sản phẩm A là?",
+    "answer": "100.000 sp và 100.000.000đ"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Phát biểu nào sau đây về doanh thu an toàn là không chính xác",
+    "answer": "Doanh thu an toàn càng cao thì doanh nghiệp càng khó hòa vốn"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Tổng lợi nhuận góp của doanh nghiệp được tính bằng cách?",
+    "answer": "Doanh thu trừ biến phí"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Định mức lượng nguyên vật liệu trực tiếp bao gồm?",
+    "answer": "Bao gồm tất cả các định mức trên"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Phát biểu nào sau đây không chính xác? Dự toán chi phí bán hàng và quản lý doanh nghiệp",
+    "answer": "Được lập dựa trên sản lượng sản xuất dự toán"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Định mức chi phí sản xuất chung phải tách biệt hai phần chi phí biến đổi và chi phí cố định vì",
+    "answer": "Chi phí này là chi phí hỗn hợp"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Dự toán tiêu thụ thường bao gồm?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Công ty A có tài liệu dự báo như sau: Sản lượng tiêu thụ 1.000 sản phẩm, dự trữ tồn kho đầu kỳ 20% trên nhu cầu tiêu thụ trong kỳ; sản lượng tồn kho cuối kỳ là 300 sản phẩm.\nNhu cầu sản xuất trong kỳ?",
+    "answer": "1100 sản phẩm"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Biến động mức tiêu hao nguyên vật liệu là?",
+    "answer": "Chênh lệch giữa tổng mức NVL thực tế và tổng mức nguyên vật liệu dự toán tiêu hao cho khối lượng sản xuất thực tế nhân với đơn giá định mức vật liệu."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Công ty Hùng Thắng sản xuất 2000 sản phẩm A. Định mức nhân công là 3h/sp. Đơn giá định mức là 35.000đ/giờ, thực tế công ty trả 30.000đ/giờ. Số giờ nhân công thực tế sử dụng là 7.000 giờ. Biến động giá nhân công là bao nhiêu?",
+    "answer": "+35.000.000đ"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Thông tin về chi phí nhân công trực tiếp tại một công ty trong tháng 6 như sau:\nTổng giờ lao động định mức là 4.200 giờ\nSố giờ lao động thực tế là 4.000 giờ\nĐơn giá định mức là 63.000 đ/giờ\nBiến động giá nhân công là tốt: 84.000 (T)\nVậy tổng chi phí nhân công trực tiếp của công ty này trong tháng 6 là:",
+    "answer": "243.600.000"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Công ty Nam Anh dùng một loại nguyên vật liệu để sản xuất có đơn giá định mức định mức là 70.000đ/m. trong tháng 9 công ty mua và sử dụng 1.000m với giá mua thực tế 75.000đ/m. Định mức lượng của sản phẩm là 2m/sp. Trong tháng 9 công ty sản xuất 400 sản phẩm. Biến động giá NVL trong tháng 9 của công ty là?",
+    "answer": "+ 5.000.000đ"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Công ty Hùng Thắng sản xuất 2000 sản phẩm A. Định mức nhân công là 3h/sp. Đơn giá định mức là 35.000đ/giờ, thực tế công ty trả 30.000đ/giờ. Số giờ nhân công thực tế sử dụng là 7.000 giờ. Biến động năng suất lao động là bao nhiêu?",
+    "answer": "-35.000.000"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Quy trình xử lý thông tin kế toán quản trị theo trình tự như thế nào?",
+    "answer": "Nhu cầu thông tin quản trị - Thu thập, phân tích, định tính, định lượng - Báo cáo chỉ tiêu quản trị"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Báo cáo kế toán quản trị phải đảm bảo cung cấp thông tin như thế nào?",
+    "answer": "Thường ưu tiên tính kịp thời hơn chính xác và đầy đủ"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Kế toán quản trị và kế toán tài chính có mối quan hệ với nhau như thế nào?",
+    "answer": "Liên kết với kế toán tài chính"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Kế toán quản trị áp dụng trong các tổ chức DN nào dưới đây?",
+    "answer": "Tất cả các tổ chức trên"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Thông tin Kế toán quản trị giúp các nhà quản trị thực hiện các chức năng quản trị thông qua các công việc gì?",
+    "answer": "Lập KH, tổ chức thực hiện, kiểm tra và đánh giá; ra quyết định"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Tại công ty Sao Biếc có phương trình dự đoán chi phí quản lý doanh nghiệp là: Y = 180.000 + 15 X\nPhương trình dự đoán chi phí bán hàng là: Y = 200.000 + 8X\nPhương trình dư đoán chi phí sản xuất là: Y= 2.500.000 + 80 X\nTrong tháng, công ty sản xuất và tiêu thụ 70.000 sản phẩm, đơn giá bán 180/SP (đơn vị tính 1.000 đồng)\nTính lợi nhuận góp trong tháng?",
+    "answer": "Tất cả các đáp án đều sai"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Thương hiệu McDonald’s vừa triển khai 1 chuỗi cửa hàng bán bánh hambuger. Chi phí biến đổi trên mỗi chiếc bánh bán ra là 12.000 đồng; Chi phí cố định hàng tuần của 1 cơ sở bán là 15.000.000 đồng Biết số bánh bán được trong tuần đầu tại 1 cơ sở là 2.000 chiếc Tính tổng chi phí của cơ sở đó trong tuần đầu tiên?",
+    "answer": "39.000.000 đồng"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Tại 1 công ty có khoản mục chi phí sản xuất chung (CPSXC) biến động qua các tháng theo số giờ máy hoạt động. Mức cao nhất Tổng CPSXC là 32.000.000 /6000 giờ máy Mức thấp nhất Tổng CPSXC là 36.000.000 / 8.500 giờ máy Chi tiết CPSXC của Công ty ở mức hoạt động thấp nhất như sau: Chi phí dụng cụ sản xuất 8.100.000 (biến phí) Thuê nhà xưởng và lương quản lý phân xưởng 12.800.000 (định phí) Dịch vụ mua ngoài 11.100.000 (chi phí hỗn hợp) Xây dựng công thức dự đoán chi phí dịch vụ mua ngoài?",
+    "answer": "Y=9.600.000 + 250 X"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Nhận định nào về chi phí chìm dưới đây là đúng:",
+    "answer": "Đã phát sinh và không thể cắt giảm, không thể tránh trong hiện tại và tương lai."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Tại công ty Sao Biếc có phương trình dự đoán chi phí quản lý doanh nghiệp là: Y = 180.000 + 15 X\nPhương trình dự đoán chi phí bán hàng là:\nY = 200.000 + 8X\nPhương trình dư đoán chi phí sản xuất là:\nY = 2.500.000 + 80 X\nĐịnh phí ngoài sản xuất của doanh nghiệp là? (đơn vị tính 1.000 đồng)",
+    "answer": "380.000 nghìn đồng"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Công ty A đang thực hiện 2 đơn hàng. Số liệu chi phí thực tế phát sinh trong kỳ như sau: (1000đ)\nChi phí nguyên vật liệu đơn 1: 100.000; đơn 2: 96.000\nChi phí nhân công đơn 1: 60.000; đơn 2: 70.000\nChi phí sản xuất chung: 138.000;\nHệ số phân bổ chi phí sản xuất chung ước tính là 0,6; Công ty phân bổ theo chi phí nguyên vật liệu trực tiếp\nCuối kỳ, đơn 1 đã hoàn thành; đơn 2 còn dở dang. Chi phí sản xuất chung phân bổ thừa thiếu được kế toán xử lý vào cả 2 tài khoản “giá vốn hàng bán” và “Chi phí sản xuất dở dang cuối kỳ”.\nHãy tính toán số liệu xử lý chi phí sản xuất chung thừa thiếu?",
+    "answer": "Tất cả đều sai"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Doanh nghiệp nào dưới đây nên chọn phương pháp xác định chi phí theo quá trình sản xuất?",
+    "answer": "Công ty sản xuất phân bón"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Phân xưởng A có 2000 sản phẩm dở dang đầu kỳ đã hoàn thành 80% ở kỳ trước. Cho biết sản lượng tương đương của số lượng sản phẩm dở dang đầu kỳ này là bao nhiêu?",
+    "answer": "400 sản phẩm"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Tại công ty X, các khoản chi phí phát sinh trong kỳ như sau: (1000đồng)\nXuất nguyên vật liệu để sản xuất đơn hàng: 80.000\nTiền lương trả cho công nhân trực tiếp sản xuất: 45.000\nLương trả cho nhân viên quản lý: 5.000\nChi phí xăng dầu chạy máy: 5.500\nChi phí khấu háo TSCĐ: 12.000\nChi phí điện nước và các chi phí khác bằng tiền mặt: 4.500\nXác định tổng chi phí sản xuất trong kỳ của Công ty",
+    "answer": "152.000 nghìn đồng"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Công ty A đang thực hiện 2 đơn hàng. Số liệu chi phí thực tế phát sinh trong kỳ như sau: (1000đ)\nChi phí nguyên vật liệu đơn 1: 100.000; đơn 2: 96.000\nChi phí nhân công đơn 1: 60.000; đơn 2: 70.000\nChi phí sản xuất chung 138.000;\nHệ số phân bổ chi phí sản xuất chung ước tính là 0,6; Công ty phân bổ theo chi phí nguyên vật liệu trực tiếp\nCuối kỳ, đơn 1 đã hoàn thành; đơn 2 còn dở dang\nXác định giá thành trong kỳ của Công ty?",
+    "answer": "220.000 nghìn đồng"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Khi tăng doanh thu một lượng thì những sản phẩm có tỷ lệ lợi nhuận góp lớn hơn sẽ?",
+    "answer": "Đạt được mức tăng lợi nhuận lớn hơn"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Trong điều kiện tổng định phí không đổi, khi sản lượng tiêu thụ vượt điểm hòa vốn, nếu tăng doanh thu một lượng thì lợi nhuận tăng một lượng bằng?",
+    "answer": "Tỷ lệ lợi nhuận góp nhân với mức tăng doanh thu"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Doanh thu hòa vốn thay đổi khi thay đổi cơ cấu sản phẩm tiêu thụ vì?",
+    "answer": "Tỷ lệ lợi nhuận góp bình quân thay đổi"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Sản phẩm có độ lớn đòn bẩy hoạt động lớn hơn, khi tăng doanh thu cùng tốc độ?",
+    "answer": "Tốc độ tăng lợi nhuận nhanh hơn"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Trong điều kiện các yếu tố khác không thay đổi, lợi nhuận góp đơn vị sản phẩm sẽ tăng khi?",
+    "answer": "Giá bán đơn vị sản phẩm tăng."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Doanh nghiệp LNT có lượng thành phẩm tồn kho đầu kỳ là 300 sản phẩm; sản lượng tiêu thụ kế hoạch là 2.000 sản phẩm và tỷ lệ dự trữ thành phẩm là 10% nhu cầu tiêu thụ trong kỳ thì sản lượng sản xuất là:",
+    "answer": "1.900 sản phẩm"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Nếu sản lượng tiêu thụ quý 2 dự kiến là 20.000 sản phẩm; giá bán dự kiến là 200.000 đồng/SP và tỷ lệ doanh thu bán chịu là 40% thì số tiền thu được từ doanh thu quý 2 là:",
+    "answer": "2400 triệu đồng"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Cơ sở để xây dựng dự toán không bao gồm",
+    "answer": "Cảm hứng của nhà quản lý."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Định mức thời gian lao động trực tiếp là 1,5h/SP; sản lượng sản xuất trong kỳ là 20.000 SP và tổng chi phí nhân công trực tiếp kỳ dự toán là 600 triệu thì đơn giá thời gian lao động là",
+    "answer": "20.000 đồng/h"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Định mức giá nguyên vật liệu trực tiếp bao gồm?",
+    "answer": "Bao gồm tất cả các định mức trên."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Biến động chi phí nguyên vật liệu trực tiếp là?",
+    "answer": "Chênh lệch giữa chi phí nguyên vật liệu trực tiếp thực tế phát sinh với chi phí nguyên vật liệu dự toán cho khối lượng sản xuất thực tế."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Cơ sở để lập báo cáo kết quả kinh doanh dự toán cho các mức độ hoạt động khác nhau là?",
+    "answer": "Định mức chi phí của công ty."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Dự toán linh hoạt là loại dự toán?",
+    "answer": "Lập cho một loạt các mức độ hoạt động"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Trong điều kiện khác không thay đổi, biến động giảm định mức nguyên vật liệu trực tiếp góp phần?",
+    "answer": "Giảm chi phí nguyên vật liệu."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Công ty Mai Hoa xây dựng tỷ lệ phân bổ định phí sản xuất chung định mức là 10.000 đồng/ giờ LĐTT; tỷ lệ phân bổ biến phí sản xuất chung định mức là 40.000 đồng/ giờ LĐTT, tổng số giờ LĐTT định mức là 4.000h/tháng. Trong tháng 8, số giờ LĐTT thực tế là 3.950h, số giờ LĐTT định mức để sản xuất mức sản lượng thực tế là 3.900h, tổng biến động chi phí sản xuất chung là tốt: 2.000.000(T). Hãy xác định chi phí sản xuất chung phân bổ trong tháng 8 tại công ty",
+    "answer": "195.000.000"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Công ty Mai Hoa xây dựng tỷ lệ phân bổ định phí sản xuất chung định mức là 10.000 đồng/ giờ LĐTT; tỷ lệ phân bổ biến phí sản xuất chung định mức là 40.000 đồng/ giờ LĐTT, tổng số giờ LĐTT định mức là 4.000h/tháng. Trong tháng 8, số giờ LĐTT thực tế là 3.950h, số giờ LĐTT định mức để sản xuất mức sản lượng thực tế là 3.900h, tổng biến động chi phí sản xuất chung là tốt: 2.000.000(T). Hãy xác định chi phí sản xuất chung phân bổ trong tháng 8 tại công ty",
+    "answer": "Cổ đông"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Kế toán quản trị:",
+    "answer": "Thường lập các báo cáo theo bộ phận trong doanh nghiệp, mẫu biểu báo cáo phụ thuộc vào nhu cầu quản trị của các cấp và đặc điểm kinh doanh cụ thể của doanh nghiệp"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không chính xác khi so sánh kế toán tài chính và kế toán quản trị là",
+    "answer": "Đều có đặc điểm thông tin giống nhau"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Nhu cầu thông tin nào sau đây quyết định xây dựng kế toán quẩn trị thành công và hữu hiệu trong doanh nghiệp?",
+    "answer": "Xây dựng KTQT theo nhu cầu thông tin của những nhà quản trị trong nội bộ doanh nghiệp"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Nhân viên kế toán quản trị cần phải hiểu biết những gì?",
+    "answer": "Tất cả các trường hợp trên"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Một công ty chuyên sản xuất bút bi. Hãy cho biết, trong các khoản chi phí phát sinh dưới đây tại công ty, khoản nào là chi phí thời kỳ?",
+    "answer": "Chi phí lương của Ban giám đốc"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Có tài liệu chi tiết tại một công ty như sau:\n- Giá thành đơn vị : 10.000 đ (trong đó, biến phí sản xuất: 8.000 đ/sp)\n- Chi phí bán hàng và quản lý 5.000 đ/sp (trong đó, biến phí bán hàng và quản lý: 1.200 đ/sp)\n- Sản lượng sản xuất: 2.000 sp\n- Sản lượng tiêu thụ: 1.500 sp\nTổng định phí sản xuất kinh doanh trong kỳ là",
+    "answer": "970.000 đ"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Những đặc điểm nào sau đây thể hiện đặc diểm của chi phí sản phẩm?",
+    "answer": "Thời kỳ phát sinh thường có sự khác biệt với thời kỳ ghi nhận chi phí trên báo cáo tài chính"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Tại công ty Sao Biếc có phương trình dự đoán chi phí quản lý doanh nghiệp là:\nY = 180.000 + 15 X\nPhương trình dự đoán chi phí bán hàng là: Y = 200.000 + 8X\nPhương trình dư đoán chi phí sản xuất là: Y= 2.500.000 + 80 X\nTrong tháng, công ty sản xuất và tiêu thụ 70.000 sản phẩm. Xác định mức chi phí cố định bình quân của doanh nghiệp ? (đơn vị tính 1.000 đồng)",
+    "answer": "Tất cả các đáp án đều sai"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Tài liệu về chi phí sản xuất tại một công ty chuyên sản xuất và tiêu thụ 1 loại sản phẩm như sau:",
+    "answer": "Y = 7.000 + 60 X"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Khi xác định sản lượng tương đương theo phương pháp bình quân cả kỳ, đặc điểm của sản phẩm hoàn thành là gi?",
+    "answer": "Không phân biệt nguồn gốc"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Doanh nghiệp nào dưới đây nên chọn phương pháp xác định chi phí theo công việc?",
+    "answer": "Công ty tổ chức sự kiện"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Nhận định nào sau đây sai về đặc điểm của sản lượng chuyển đỉ khi lập Báo cáo sản xuất theo phương pháp nhập trước xuất trước:",
+    "answer": "Không phân biệt nguồn gốc"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Nội dung của Báo cáo sản xuất không bao gồm điều nào dưới đây?",
+    "answer": "Giá vốn sản phẩm tiêu thụ"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Công ty Thời Đại Mới sử dụng tỷ lệ phân bổ chi phí sản xuất chung (CPSXC) định trước là 21.500 đồng trên 1 giờ lao động trực tiếp. Tổng chi phí sản xuất chung thực tế phát sinh trong kỳ là 173.600.000 đồng và tổng số giờ lao động trực tiếp trong kỳ là 8250 giờ. Biết toàn bộ CPSXC phân bổ thừa/thiếu được hạch toán hết vào giá vôn hàng bán. Hãy xác định ảnh hưởng của CPSXC phân bổ thừa/thiếu đến lợi nhuận gộp của Công ty?",
+    "answer": "Lợi nhuận gộp tăng 3.775.000 đồng"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Doanh thu an toàn là mức doanh thu?",
+    "answer": "Chênh lệch giữa doanh thu thực tế và doanh thu hòa vốn."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Phân tích mối quan hệ chi phí – khối lượng – lợi nhuận là nghiên cứu sự tác động của các nhân tố sau đến lợi nhuận?",
+    "answer": "Khối lượng sản phẩm tiêu thụ, giá bán, biến phí, định phí và kết cấu hàng bán."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Công ty K có giá bán đơn vị sản phẩm là 200.000 đ; sản lượng hòa vốn là 1.000 sản phẩm và CPCĐ là 40 triệu đồng. Nếu công ty chi 10 triệu cho quảng cáo thì sản lượng tối thiểu cần đạt là:",
+    "answer": "1.250 Sản phẩm"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Công ty Hoa Mai kinh doanh hai mặt hàng A, B có tài liệu chi tiết như sau:\nMặt hàng A: Đơn giá bán 1000đ/sp; biến phí đơn vị 600đ/sp; sản lượng tiêu thụ 50.000sp.\nMặt hàng B: Đơn giá bán 1500đ/sp; biến phí đơn vị 800đ/sp; sản lượng tiêu thụ 150.000sp\nĐịnh phí toàn công ty là 62,5 triệu. Tổng doanh thu hòa vốn của doanh nghiệp là:",
+    "answer": "120.000.000đ"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Công ty K có sản lượng tiêu thụ thực tế là 1.200 SP; sản lượng hòa vốn là 1.000 SP và CPCĐ là 40 triệu đồng. Nếu công ty tặng kèm mỗi sản phẩm bán được một phần quà trị giá 1.000 đ thì sản lượng tiêu thụ cần đạt:",
+    "answer": "1.230 SP"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Phát biểu nào sau đây KHÔNG chính xác? Dự toán chi phí bán hàng và quản lý doanh nghiệp?",
+    "answer": "Được lập dựa trên sản lượng dự trữ dự toán."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Phân loại dự toán theo thời hạn áp dụng chia thành?",
+    "answer": "Dự toán ngắn hạn và dự toán dài hạn."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Các khoản chi tiền trong dự toán tiền thường KHÔNG bao gồm các khoản?",
+    "answer": "Khấu hao tài sản cố định."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Dự toán áp đặt có các đặc điểm sau?",
+    "answer": "Được góp ý của thành viên quản trị ở các cấp."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Định mức chi phí sản xuất chung phải tách biệt hai phần chi phí biến đổi và chi phí cố định vì?",
+    "answer": "Chi phí này là chi phí hỗn hợp."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Hãy xác định số giờ lao động thực tế tại công ty Hà Phương trong tháng 10 biết:\nSố giờ lao động định mức là 2.000h\nĐơn giá nhân công thực tế là 84.000 đ/h\nĐơn giá nhân công định mức là 80.000 đ/h\nBiến động năng suất lao động là không tốt: 16.000.000 (X)",
+    "answer": "2.200"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Công ty Hoa Mai lập dự toán linh hoạt cho sản xuất với mức hoạt động 1.000 sản phẩm với tổng chi phí 8.000 triệu đồng. Biến phí đơn vị từng yếu tố: NVL trực tiếp: 2,0 triệu đồng; nhân công trực tiếp: 3,0 triệu; sản xuất chung 1,0 triệu.\nĐể sản xuất 1.200 sản phẩm thì tổng chi phí là?",
+    "answer": "9.200 triệu"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Hãy xác định ảnh hưởng của biến động lượng vải sử dụng tới biến động chi phí vật liệu tại công ty Như Mai trong tháng 7, biết: để sản xuất 5.000 bộ đồng phục. công ty dự kiến sử dụng 9.000m vải với tổng chi phí là 540.000.000đ. Tuy nhiên, số lượng vải thực tế sử dụng nhiều hơn dự kiến là 100m với chi phí phát sinh thêm là 4.180.000 đ",
+    "answer": "+ 6.000.000 (X)"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Trong điều kiện khác không thay đổi, biến động giảm định mức lượng lao động góp phần?",
+    "answer": "Tất cả các trường hợp trên."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Câu nào sau đây đúng về báo cáo kết quả kinh doanh dự kiến cho các mức độ hoạt động khác nhau?",
+    "answer": "Cơ sở để lập báo cáo kết quả kinh doanh dự kiến cho các mức độ hoạt động khác nhau này là định mức chi phí của công ty"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Nhận định nào sau đây không phù hợp với bản chất của kế toán quản trị",
+    "answer": "Thông tin phải được phát triển phù hợp với các nguyên tắc kế toán được chấp nhận chung hoặc các quy định về thuế thu nhập"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây là của thông tin KTQT?",
+    "answer": "Không cần thiết tuân thủ tất cả những yêu cầu trên"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Báo cáo KTQT được lập tại thời điểm nào?",
+    "answer": "Khi nhà quản trị có nhu cầu"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Tính linh hoạt của thông tin KTQT thể hiện ở các khía cạnh nào?",
+    "answer": "Tất cả các điều trên"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Một trong những đặc điểm của hệ thống báo cáo KTQT là:",
+    "answer": "Các báo cáo không mang tính pháp lệnh"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Trong các khoản chi phí sau, đâu là chi phí sản phẩm?",
+    "answer": "Chi phí nguyên vật liệu trực tiếp và chi phí chế biến hoặc giá mua hàng hóa"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Chi phí trực tiếp có đặc điểm nào dưới",
+    "answer": "Mức phí được ghi nhận chính xác cho từng đối tượng"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Tài liệu thống kê tại công ty Lala như sau:",
+    "answer": "Chi phí hoạt động kinh doanh ở mức 8.000 sp là 2.600.000 đ"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Theo cách phân loại chi phí theo mức độ hoạt động, chi phí cố định bao gồm những khoản chi phí nào?",
+    "answer": "Chi phí cố định trong sản xuất và chi phí cố định ngoài sản xuất"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Thương hiệu McDonald’s vừa triển khai 1 chuỗi cửa hàng bán bánh hambuger. Chi phí biến đổi trên mỗi chiếc bánh bán ra là 12.000 đồng; Chi phí cố định hàng tuần là 15.000.000 đồng\nKhi số bánh bán được tăng lên thì chi phí bình quân 1 chiếc bánh sẽ thay đổi như thế nào?",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Công ty ABC tính tỷ lệ phân bổ chi phí sản xuất chung hàng năm dựa trên số giờ lao động trực tiếp. Tổng chi phí sản xuất chung (CPSXC) ước tính đầu năm là 580.000.000 đồng và tổng số giờ lao động trực tiếp là 40.000. Thực tế trong năm tổng CPSXC phát sinh là 720.000.000 đồng và 41.000 giờ lao động trực tiếp.\nTính tỷ lệ phân bổ CPSXC định trước của công ty trong năm?",
+    "answer": "14.500"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Khi áp dụng phương pháp xác định chi phí theo công việc, đối tượng tập hợp chi phí thường là đối tượng nào?",
+    "answer": "Sản phẩm sản xuất"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Khi lập Báo cáo sản xuất theo phương pháp bình quân cả kỳ, giá thành đơn vị không bao gồm :",
+    "answer": "Chi phí sản xuất kỳ kế tiếp"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Trong kỳ, công ty tập hợp chi phí của 2 đơn hàng đang thực hiện như sau\nKhoản mục CF Đơn 1 Đơn 2\nCFSXDD đầu ký 80.000 25.000\nCFNVLTT 100.000 96.000\nCFNCTT 60.000 70.000\nCFSXC 78.000 60.000\nTổng chi phí 328.000 251.000\nCuối kỳ, đơn 1 đã hoàn thành, đơn 2 đang tiếp tục thực hiện. Vậy chi phí sản xuất dở dang cuối kỳ của công ty",
+    "answer": "251.000"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Chi phí bình quân đơn vị sản phẩm tương đương khi lập Báo cáo sản xuất theo phương pháp Nhập trước - Xuất trước bao gồm khoản nào sau đây?",
+    "answer": "Chi phí sản xuất kỳ trước và kỳ hiện hành"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Công ty X có tài liệu sản phẩm A như sau\nĐơn giá bán: 1000đ\nBiến phí đơn vị: 600đ\nTổng định phí: 40.000.000đ\nNếu doanh nghiệp tiêu thụ 150.000 sản phẩm A thì đòn bẩy hoạt động của doanh nghiệp là?",
+    "answer": "3,0"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Công ty Hoa Mai kinh doanh hai mặt hàng A, B có tài liệu chi tiết như sau:\nMặt hàng A: Đơn giá bán 1000đ/sp; biến phí đơn vị 600đ/sp; sản lượng tiêu thụ 50.000sp.\nMặt hàng B: Đơn giá bán 1500đ/sp; biến phí đơn vị 800đ/sp; sản lượng tiêu thụ 150.000sp\nĐịnh phí toàn công ty là 62,5 triệu. Sản lượng hòa vốn của doanh nghiệp là:",
+    "answer": "25.000 SPA và 75.000 SPB"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Nếu đơn giá bán và biến phí đơn vị không đổi, khi định phí tăng thì?",
+    "answer": "Sản lượng và doanh thu hòa vốn tăng"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Lợi nhuận góp đơn vị sản phẩm được xác định bằng cách?",
+    "answer": "Giá bán trừ chi phí biến đổi đơn vị sản phẩm"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Công ty T bán hai sản phẩm A và B với LNG đơn vị SP lần lượt là 125.000 đ và 200.000 đ. Nếu tổng CPCĐ phát sinh trong kỳ của công ty T là 85 triệu đồng và cơ cấu sản lượng tiêu thụ là 2: 3 thì sản lượng SP A tại điểm hòa vốn là:",
+    "answer": "200 SP"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Công ty Hoa Mai xuất 100.000 kg vật liệu X cho sản xuất sản phẩm A thu được 9500 sản phẩm, trong đó hao hụt và thất thoát ngoài định mức tính được 3.000 kg, nguyên vật liệu cho sản phẩm hỏng ngoài định mức 2.000 kg.\nĐịnh mức tiêu hao nguyên vật liệu để sản xuất sản phẩm A?",
+    "answer": "10 kg/sp"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Dự toán có thể được mô tả bằng hình ảnh như?",
+    "answer": "Một bức tranh kinh tế, tài chính tổng thể của doanh nghiệp trong tương lai."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Định mức tiêu hao NVL là 1,8 m2; sản lượng sản xuất là 10.000 sản phẩm và tỷ lệ dự trữ NVL là 20% nhu cầu cho sản xuất trong kỳ thì lượng NVL dự trữ cuối kỳ là bao nhiêu?",
+    "answer": "3.600 m2"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Dự toán linh hoạt (dự toán động) là?",
+    "answer": "Dự toán lập cho đồng thời nhiều mức hoạt động."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Công ty A xây dựng định mức thời gian lao động trực tiếp cho một đơn vị sản phẩm X như sau: Đứng máy: 0,8 giờ; giải lao: 0,05 giờ; lau chùi và chết máy: 0,05 giờ; di chuyển: 0,2 giờ. Định mức thời gian cho 1 sản phẩm X?",
+    "answer": "1,1 giờ"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Câu nào đúng về Biến động chi phí nhân công trực tiếp?",
+    "answer": "Biến động chi phí nhân công trực tiếp là chênh lệch giữa chi phí nhân công trực tiếp thực tế phát sinh với chi phí nhân công dự toán cho khối lượng sản xuất thực tế."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Trong tháng 7, công ty TNHH Như Mai sản xuất 5.000 bộ đồng phục. Theo dự kiến, định mức vật liệu để sản xuất lô sản phẩm này là 1,8m/bộ với tổng chi phí là 540.000.000đ. Tuy nhiên, số lượng vải thực tế sử dụng nhiều hơn dự kiến là 100m với chi phí phát sinh thêm là 4.180.000 đ. Hãy xác định ảnh hưởng của biến động giá vải tới biến động chi phí vật liệu tại công ty",
+    "answer": "– 1.820.000 (T)"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Câu nào đúng về Biến động biến phí sản xuất chung?",
+    "answer": "Biến động biến phí sản xuất chung là chênh lệch giữa biến phí sản xuất chung thực tế và biến phí sản xuất chung dự toán cho khối lượng sản xuất thực tế."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Vai trò vượt trội của dự toán linh hoạt là?",
+    "answer": "Giúp cho các đơn vị đánh giá các nhà quản lý đã thực hiện trách nhiệm kiểm soát chi phí của họ như thế nào"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Trong điều kiện khác không thay đổi, biến động tăng định mức nguyên vật liệu trực tiếp góp phần?",
+    "answer": "Tăng chi phí nhân công"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Báo cáo KTQT được lập tại thời điểm nào?",
+    "answer": "Khi nhà quản trị có nhu cầu"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Điều nào sau sau đây không phải là bản chất của Kế toán quản trị?",
+    "answer": "Thông tin KTQT phải được phát triển phù hợp với các nguyên tắc kế toán được chấp nhận chung hoặc các quy định về thuế thu nhập"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Kế toán quản trị và kế toán tài chính có mối quan hệ với nhau như thế nào?",
+    "answer": "Liên kết với kế toán tài chính"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Thông tin Kế toán quản trị giúp các nhà quản trị thực hiện các chức năng quản trị thông qua các công việc gì?",
+    "answer": "Lập KH, tổ chức thực hiện, kiểm tra và đánh giá; ra quyết định"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Kế toán quản trị:",
+    "answer": "Thường lập các báo cáo theo bộ phận trong doanh nghiệp, mẫu biểu báo cáo phụ thuộc vào nhu cầu quản trị của các cấp và đặc điểm kinh doanh cụ thể của doanh nghiệp"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Tài liệu chi tiết của một Công ty như sau:\n- Biến phí: 10.000 đ/sp\n- Tổng định phí: 50.000.000 đ (định phí sản xuất: 40.000.000 đ)\n- Sản lượng sản xuất: 2.000 sp\n- Sản lượng tiêu thụ: 1.500 sp\nTổng chi phí thể hiện trên báo cáo kết quả kinh doanh theo chức năng trong kỳ là",
+    "answer": "55.000.000 đ"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Nếu mức sản xuất giảm 25% thì chi phí biến đổi đơn vị sẽ thay đổi như thế nào?",
+    "answer": "Không thay đổi"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Khách sạn Bình Minh có 200 phòng nghỉ. Tỷ lệ thuê phòng ở tháng cao nhất là 80%. Ở mức này tổng chi phí hoạt động bình quân trong ngày là: 16.000.000 đồng Tháng thấp nhất trong năm, tỷ lệ thuê phòng chỉ đạt 50% và tổng chi phí hoạt động bình quân trong ngày này là 11.800.000 đồng\nYêu cầu: Xác định chi phí biến đổi của mỗi phòng trong ngày ?",
+    "answer": "Các đáp án trên đều sai"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Trong các khoản chi phí sau, đâu là chi phí thời kỳ?",
+    "answer": "Chi phí bán hàng và chi phí quản lý doanh nghiệp"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Phương pháp xác định chi phí theo quá trình sản xuất có thể được áp dụng cho các sản phẩm có đặc điểm như thế nào?",
+    "answer": "Sản phẩm đồng nhất, được sản xuất hàng loạt"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Khi lập báo cáo sản xuất theo phương pháp bình quân cả kỳ, giá thành đơn vị không gồm khoản nào dưới đây?",
+    "answer": "Chi phí sản xuất kỳ kế tiếp"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Để phản ánh chi phí sản xuất chung, kế toán sử dụng tài khoản CFSXC. Chênh lệch giữa số phát sinh bên Nợ và bên Có của TK này trước khi kết chuyển cho biết:",
+    "answer": "CFSXC thực tế khác CFSXC ước tính phân bổ"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Khi áp dụng phương pháp xác định chi phí theo quá trình sản xuất, đối tượng tập hợp chi phí thường là đối tượng nào?",
+    "answer": "Phân xưởng sản xuất"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Công ty V9Z có tài liệu trong kỳ như sau:\nSố lượng sản phẩm dở dang đầu tháng là 100 sản phẩm với mức độ hoàn thành 40%\nSố lượng sản phẩm được đưa vào sản xuất trong tháng là 1.500 sản phẩm\nTrong kỳ hoàn thành 1.300 sản phẩm, dở dang cuối kỳ là 200 sản phẩm (mức độ hoàn thành 50%)\nTính số lượng sản phẩm hoàn thành tương đương theo phương pháp nhập trước xuất trước đối với khoản mục chi phí nguyên vật liệu trực tiếp?",
+    "answer": "1.500 sản phẩm"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Công ty N kinh doanh đồng thời 3 SP A; B; C có Tỷ lệ LN góp lần lượt là 10%; 30% và 20%. Nếu doanh thu SP A là 90 triệu đồng; SP B là 90 triệu đồng; SP C là 270 triệu đồng và sản lượng tiêu thụ là 1.000 bộ sản phẩm (2A: 2B: 1C) thì LN góp đơn vị SP bình quân là:",
+    "answer": "18.000 đ"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Doanh thu hòa vốn khi DN sản xuất 1 loại sản phẩm được tính theo các công thức sau?",
+    "answer": "Tổng định phí chia cho tỷ lệ lợi nhuận góp đơn vị sản phẩm"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Độ lớn đòn bẩy hoạt động cho biết mức độ thay đổi của?",
+    "answer": "Lợi nhuận thuần khi doanh thu tiêu thụ thay đổi."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Công ty X có tài liệu sản phẩm A như sau\nĐơn giá bán: 1000đ\nBiến phí đơn vị: 600đ\nTổng định phí: 40.000.000đ\nLợi nhuận góp và tỷ lệ lợi nhuận góp của sản phẩm A là?",
+    "answer": "400đ và 40%"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Nếu sản phẩm A có tỷ lệ lợi nhuận góp lớn hơn sản phẩm B thì tỷ lệ lợi nhuận góp bình quân sẽ tăng nếu?",
+    "answer": "Doanh thu SPA chiếm tỷ trọng tăng."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Dự toán không áp đặt có ưu điểm là?",
+    "answer": "Tính khả thi của dự toán cao."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Công ty Hoa Mai xuất 100.000 kg vật liệu X cho sản xuất sản phẩm A thu được 9500 sản phẩm, trong đó hao hụt trong định mức tính được 3.000 kg, nguyên vật liệu cho sản phẩm hỏng ngoài định mức 2.000 kg.\nĐịnh mức tiêu hao nguyên vật liệu để sản xuất sản phẩm A?",
+    "answer": "10,315 kg/sp"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Định mức tiêu hao NVL là 1,8 m2; sản lượng sản xuất là 10.000 sản phẩm và tỷ lệ dự trữ NVL là 20% nhu cầu cho sản xuất trong kỳ thì lượng NVL cần mua sẽ là bao nhiêu? Biết đầu kỳ có 1.500 m2",
+    "answer": "20.100 m2"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Định mức giá nhân công trực tiếp bao gồm?",
+    "answer": "Bao gồm tất cả các khoản trên."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Đâu không phải một vai trò của dự toán?",
+    "answer": "Dự toán giúp nhà quản lý cấp thấp đối phó với các nhà quản lý cấp cao."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Công ty Hằng Nga sản xuất và tiêu thụ dự kiến 2000 sản phẩm A. Đơn giá định mức là 33.000đ/SP, thực tế công ty sản xuất và tiêu thụ 2500 sản phẩm với giá bán thực tế 30.000đ/sp. Biến động đơn giá là bao nhiêu?",
+    "answer": "-7.500.000đ"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Dự toán linh hoạt có vai trò quan trọng hơn dự toán tĩnh trên các khía cạnh?",
+    "answer": "Hoạt động kiểm soát chi phí"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Trong điều kiện khác không thay đổi, biến động tăng định mức lượng lao động góp phần?",
+    "answer": "Tất cả các trường hợp trên."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Câu nào sau đây đúng về dự toán linh hoạt?",
+    "answer": "Lập cho một loạt các mức độ hoạt động nhằm cung cấp thông tin về tình hình chi phí, doanh thu và lợi nhuận đơn vị có thể đạt được theo các phương án kinh doanh và khả năng có thể xảy ra."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Công ty Nam Anh dùng một loại nguyên vật liệu để sản xuất có đơn giá định mức định mức là 70.000đ/m. trong tháng 9 công ty mua và sử dụng 1.000m với giá mua thực tế 75.000đ/m. Định mức lượng của sản phẩm là 2m/sp. Trong tháng 9 công ty sản xuất 400 sản phẩm. Biến động lượng NVL trong tháng 9 của công ty là?",
+    "answer": "+5.000.000đ"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây là của thông tin KTQT?",
+    "answer": "Không cần thiết tuân thủ tất cả những yêu cầu trên"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Nhận định nào sau đây không phù hợp với bản chất của kế toán quản trị",
+    "answer": "Thông tin phải được phát triển phù hợp với các nguyên tắc kế toán được chấp nhận chung hoặc các quy định về thuế thu nhập"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Quy trình xử lý thông tin kế toán quản trị theo trình tự như thế nào?",
+    "answer": "Nhu cầu thông tin quản trị - Thu thập, phân tích, định tính, định lượng - Báo cáo chỉ tiêu quản trị"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Nhu cầu thông tin nào sau đây quyết định xây dựng kế toán quẩn trị thành công và hữu hiệu trong doanh nghiệp?",
+    "answer": "Xây dựng KTQT theo nhu cầu thông tin của những nhà quản trị trong nội bộ doanh nghiệp"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Phát biểu nào sau đây là đúng?",
+    "answer": "Các doanh nghiệp có thể tự thiết kế hệ thống KTQT phù hợp với đặc điêm của mình"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Công ty thương mại Mai Anh có tài liệu chi tiết như sau:\n- Biến phí: 10.000 đ/sp (giá vốn hàng mua: 8.000 đ/sp, biến phí bán hàng và quản lý: 2.000 đ/sp)\n- Tổng định phí bán hàng và quản lý: 50.000.000 đ\n- Sản lượng mua: 2.000 sp\n- Sản lượng tiêu thụ: 1.500 sp\nTổng chi phí thể hiện trên báo cáo kết quả kinh doanh theo lợi nhuận góp trong kỳ là",
+    "answer": "65.000.000 đ"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Tại công ty Sao Biếc có phương trình dự đoán chi phí quản lý doanh nghiệp là:\nY = 180.000 + 15 X\nPhương trình dự đoán chi phí bán hàng là: Y = 200.000 + 8X\nPhương trình dư đoán chi phí sản xuất là: Y= 2.500.000 + 80 X\nTrong tháng, công ty sản xuất và tiêu thụ 70.000 sản phẩm; đơn giá bán 180/SP (đơn vị tính 1.000 đồng)\nTính lợi nhuận thuần trong tháng?",
+    "answer": "2.510.000 nghìn đồng"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Công ty ANZ ký hợp đồng thuê nhà xưởng dài hạn với phương thức như sau:",
+    "answer": "12.000.000 đ"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Cơ cấu chi phí sản phẩm tại một công ty như sau:\n- Biến phí: 1.000 đ/sp\n- Định phí hàng kỳ: 2.000.000 đ\n- Mức sản xuất trong kỳ: 4.000 sp\n- Năng lực SX từ 2.000 đến 8.000 sp\nNhận định nào sau đây là chính xác?",
+    "answer": "Mức phí hoạt động cực đại là 10.000.000đ"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Trong các khoản chi phí dưới đây, đâu là khoản chi phí biến đối?",
+    "answer": "Chi phí dọn vệ sinh sau mỗi buổi chiếu phim"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Trích Báo cáo sản xuất tại PX 1 của công ty A trong tháng N như sau :\n- Đầu kỳ, dở dang 100 sp mức độ hoàn thành 40%\n- Trong kỳ, đưa vào sản xuất 2.000 sp và hoàn thành 1.800 sp\n- Cuối kỳ dở dang 300 sp mức độ hoàn thành 60%\nVậy, sản lượng tương đương theo phương pháp bình quân cả kỳ là :",
+    "answer": "1.980"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Công ty Thời Đại Mới sử dụng tỷ lệ phân bổ chi phí sản xuất chung (CPSXC) định trước là 21.500 đồng trên 1 giờ lao động trực tiếp. Tổng chi phí sản xuất chung thực tế phát sinh trong kỳ là 173.600.000 đồng và tổng số giờ lao động trực tiếp trong kỳ là 8250 giờ\nXác định CPSXC không phân bổ hết hoặc phân bổ thừa trong kỳ?",
+    "answer": "Phân bổ thừa 3.775.000 đồng"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Công ty V9Z có tài liệu trong kỳ như sau:\nSố lượng sản phẩm dở dang đầu tháng là 100 sản phẩm với mức độ hoàn thành 40%\nSố lượng sản phẩm được đưa vào sản xuất trong tháng là 1.500 sản phẩm\nTrong kỳ hoàn thành 1.300 sản phẩm, dở dang cuối kỳ là 200 sản phẩm (mức độ hoàn thành 50%)\nTính số lượng sản phẩm hoàn thành tương đương theo phương pháp bình quân đối với khoản mục chi phí nguyên vật liệu trực tiếp?",
+    "answer": "1.600 sản phẩm"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Khi áp dụng phương pháp xác định chi phí theo quá trình sản xuất, đối tượng tập hợp chi phí thường là đối tượng nào?",
+    "answer": "Sản phẩm sản xuất"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Khi lập Báo cáo sản xuất theo phương pháp bình quân cả kỳ, đặc điểm của sản lượng chuyển đi là :",
+    "answer": "Không phân biệt nguồn gốc"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Đường biểu diễn tổng chi phí trong đồ thị điểm hòa vốn là đường thẳng",
+    "answer": "Song song với đường chi phí biến đổi"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Cơ cấu chi phí là chỉ tiêu tương đối phản ánh mối quan hệ giữa?",
+    "answer": "Cả A, B, C đều đúng"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Doanh thu hòa vốn khi DN sản xuất 1 loại sản phẩm được xác định bằng công thức như sau?",
+    "answer": "Sản lượng hòa vốn × Giá bán đơn vị sản phẩm"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Trong điều kiện các yếu tố khác không thay đổi, lợi nhuận góp đơn vị sản phẩm sẽ giảm khi?",
+    "answer": "Biến phí đơn vị sản phẩm tăng"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Phát biểu nào sau đây là chính xác",
+    "answer": "Độ lớn đòn bảy kinh doanh giảm khi doanh thu tăng"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Định mức lý tưởng là định mức được xây dựng dựa trên?",
+    "answer": "Điều kiện sản xuất hoàn hảo nhất."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Dự toán bảng cân đối kế toán không được lập dựa trên?",
+    "answer": "Giá trị thị trường của các tài sản trong kỳ dự toán."
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Công ty A có tài liệu dự toán doanh thu như sau: Tháng 1: 200tr; tháng 2: 250tr; tháng 3: 300tr. Chế độ thu tiền: doanh thu bán hàng ngay 30%, tháng kế tiếp thứ nhất thu 50% , tháng kế tiếp thứ hai thu nốt 20%. Số tiền thu được trong tháng 3 là?",
+    "answer": "255tr"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Dự toán bảng cân đối kết toán không được lập dựa trên:",
+    "answer": "Giá trị thị trường của các tài sản trong kỳ dự toán"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Lượng NVL cần mua là 21.000 m2 và đơn giá NVL là 25.000 đ/m2. Nếu phải trả đầu kỳ là 50 triệu và tiền hàng được thanh toán chậm 60% thì số tiền doanh nghiệp chi mua NVL là:",
+    "answer": "260 triệu đồng"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Trong điều kiện khác không thay đổi, biến động tăng định mức nguyên vật liệu trực tiếp góp phần?",
+    "answer": "Tăng chi phí nhân công"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Câu nào đúng về Biến động chi phí nhân công trực tiếp?",
+    "answer": "Biến động chi phí nhân công trực tiếp là chênh lệch giữa chi phí nhân công trực tiếp thực tế phát sinh với chi phí nhân công dự toán cho khối lượng sản xuất thực tế."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Trong tháng 7, công ty TNHH Như Mai sản xuất 5.000 bộ đồng phục. Theo dự kiến, định mức vật liệu để sản xuất lô sản phẩm này là 1,8m/bộ với tổng chi phí là 540.000.000đ. Tuy nhiên, số lượng vải thực tế sử dụng nhiều hơn dự kiến là 100m với chi phí phát sinh thêm là 4.180.000 đ. Hãy xác định ảnh hưởng của biến động giá vải tới biến động chi phí vật liệu tại công ty",
+    "answer": "– 1.820.000 (T)"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Hãy xác định số giờ lao động thực tế tại công ty Hà Phương trong tháng 10 biết:\nSố giờ lao động định mức là 2.000h\nĐơn giá nhân công thực tế là 84.000 đ/h\nĐơn giá nhân công định mức là 80.000 đ/h\nBiến động năng suất lao động là không tốt: 16.000.000 (X)",
+    "answer": "2.200"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Công ty Hằng Nga sản xuất và tiêu thụ dự kiến 2000 sản phẩm A. Đơn giá định mức là 33.000đ/SP, thực tế công ty sản xuất và tiêu thụ 2500 sản phẩm với giá bán thực tế 30.000đ/sp. Biến động đơn giá là bao nhiêu?",
+    "answer": "-7.500.000đ"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không chính xác khi so sánh kế toán tài chính và kế toán quản trị là",
+    "answer": "Đều có đặc điểm thông tin giống nhau"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Một trong những đặc điểm của hệ thống báo cáo KTQT là:",
+    "answer": "Các báo cáo không mang tính pháp lệnh"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Kế toán quản trị áp dụng trong các tổ chức DN nào dưới đây?",
+    "answer": "Tất cả các tổ chức trên"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Nội dung báo cáo kế toán quản trị do ai nào quy định?",
+    "answer": "Kết hợp các yêu cầu trên"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Tính linh hoạt của thông tin KTQT thể hiện ở các khía cạnh nào?",
+    "answer": "Tất cả các điều trên"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Chi phí biến đổi (biến phí) có đặc điểm gì?",
+    "answer": "Tất cả các đặc điểm trên"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Chi phí hỗn hợp có đặc điểm gì?",
+    "answer": "Vừa có yếu tố biến phí vừa có yếu tối định phí"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Khách sạn Bình Minh có 200 phòng nghỉ. Số phòng cho thuê ở tháng cao nhất là 160 phòng/ngày. Ở mức này tổng chi phí hoạt động bình quân trong ngày là: 16.000.000 đồng Tháng thấp nhất trong năm, số phòng cho thuê 100 phòng / ngày và tổng chi phí hoạt động bình quân trong ngày này là 11.800.000 đồng\nYêu cầu: Xác định chi phí cố định trong tháng của Khách sạn?",
+    "answer": "144.000.000 đồng"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Những đặc điểm nào sau đây thể hiện đặc diểm của chi phí thời kỳ?",
+    "answer": "Tất cả các đặc điểm trên"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Tài liệu về chi phí phát sinh trong kỳ tại công ty A như sau: chi phí nguyên vật liệu trực tiếp và chi phí nhân công trực tiếp 1.000 đ/sp ; chi phí sản xuất chung 400 đ/sp; chi phí bán hàng và chi phí quản lý doanh nghiệp 500đ/sp; mức sản xuất là 5.000 sp; tiêu thụ là 4.000 sp; giá bán là 2.400 đ/sp.\nNhận định nào dưới đây là phù hợp?",
+    "answer": "Giá vốn thành phẩm tồn kho là 1.400.000 đ"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Khi tổng hợp chi phí sản xuât theo phương pháp bình quân cả kỳ, không cần xác định chỉ tiêu nào trong số các chỉ tiêu sau:",
+    "answer": "Chi phí sản xuất dở dang cuối kỳ"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Tại công ty X, các khoản chi phí phát sinh trong kỳ như sau (1000đồng)\nXuất nguyên vật liệu để sản xuất đơn hàng: 80.000\nTiền lương trả cho công nhân trực tiếp sản xuất: 45.000\nLương trả cho nhân viên quản lý: 5.000\nChi phí xăng dầu chạy máy: 5.500\nChi phí khấu háo TSCĐ: 12.000\nChi phí điện nước và các chi phí khác bằng tiền mặt: 4.500\nXác định chi phí sản xuất chung trong kỳ của Công ty?",
+    "answer": "27.000 nghìn đồng"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Chênh lệch giữa số phát sinh bên Nợ với bên Có của tài khoản Chi phí sản xuất chung (CP SXC) cho biết thông tin gì?",
+    "answer": "CP SXC thực tế khác với CP SXC ước tính phân bổ"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Trích Báo cáo sản xuất tại PX 1 của công ty A trong tháng N như sau :\n- Đầu kỳ, dở dang 100 sp mức độ hoàn thành 40%\n- Trong kỳ, đưa vào sản xuất 2.000 sp và hoàn thành 1.800 sp\n- Cuối kỳ dở dang 300 sp mức độ hoàn thành 60%\nVậy, sản lượng tương đương theo phương pháp nhập trước xuất trước là :",
+    "answer": "1.940"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Nếu chênh lệch giữa số phát sinh bên Nợ với bên Có của tài khoản Chi phí sản xuất chung (CP SXC) trước khi kết chuyển là dương thì cho biết thông tin gì?",
+    "answer": "CP SXC thực tế lớn hơn CP SXC ước tính phân bổ"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Độ lớn đòn bẩy hoạt động được xác định theo công thức?",
+    "answer": "Cả B và C đều đúng"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Công ty Hoa Mai kinh doanh hai mặt hàng A, B có tài liệu chi tiết như sau:\nMặt hàng A: Đơn giá bán 1000đ/sp; biến phí đơn vị 600đ/sp; sản lượng tiêu thụ 50.000sp.\nMặt hàng B: Đơn giá bán 1500đ/sp; biến phí đơn vị 800đ/sp; sản lượng tiêu thụ 150.000sp\nTỷ lệ lợi nhuận góp bình quân đơn vị sản phẩm là?",
+    "answer": "45,45%"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Doanh nghiệp kinh doanh hòa vốn khi?",
+    "answer": "45,45%"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Phân tích mối quan hệ chi phí – khối lượng – lợi nhuận được dựa theo giả thiết?",
+    "answer": "Tất cả các giả thiết trên"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Công ty Hoa Mai kinh doanh hai mặt hàng A, B có tài liệu chi tiết như sau:\nMặt hàng A: Đơn giá bán 1000đ/sp; biến phí đơn vị 600đ/sp; sản lượng tiêu thụ 50.000sp.\nMặt hàng B: Đơn giá bán 1500đ/sp; biến phí đơn vị 800đ/sp; sản lượng tiêu thụ 150.000sp\nLợi nhuận góp bình quân đơn vị sản phẩm là?",
+    "answer": "625đ"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Cơ sở để xây dựng định mức dự toán sản xuất kinh doanh?",
+    "answer": "Định mức chi phí thực tế kết hợp với tác động của các nhân tố khác"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Dự toán giá vốn hàng bán được lập căn cứ vào?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Số lượng dự toán tại doanh nghiệp thương mại thường:",
+    "answer": "Ít hơn doanh nghiệp sản xuất"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Công ty A có dữ liệu như sau: Khối lượng sản phẩm tiêu thụ: Tháng 10: 10.000 sản phẩm; tháng 11: 12.000 sản phẩm. Định mức tồn kho thành phẩm đầu các tháng bằng 10% nhu cầu tiêu thụ trong tháng.\nKhối lượng sản phẩm cần sản xuất tháng 10?",
+    "answer": "11.000 sản phẩm"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Những nhân tố nào sau đây thuộc nhóm nhân tố khách quan tác động đến lập dự toán?",
+    "answer": "Quy luật cung cầu, quy chế quản lý kinh tế, chính sách kinh tế, phong tục tập quán, điều kiện tự nhiên, đặc thù hoạt động kinh doanh từng ngành."
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Câu nào sau đây đúng về báo cáo kết quả kinh doanh dự kiến cho các mức độ hoạt động khác nhau?",
+    "answer": "Cơ sở để lập báo cáo kết quả kinh doanh dự kiến cho các mức độ hoạt động khác nhau này là định mức chi phí của công ty"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Cơ sở để lập báo cáo kết quả kinh doanh dự toán cho các mức độ hoạt động khác nhau là?",
+    "answer": "Định mức chi phí của công ty."
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Hãy xác định ảnh hưởng của biến động lượng vải sử dụng tới biến động chi phí vật liệu tại công ty Như Mai trong tháng 7, biết: để sản xuất 5.000 bộ đồng phục. công ty dự kiến sử dụng 9.000m vải với tổng chi phí là 540.000.000đ. Tuy nhiên, số lượng vải thực tế sử dụng nhiều hơn dự kiến là 100m với chi phí phát sinh thêm là 4.180.000 đ",
+    "answer": "+ 6.000.000 (X)"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Dự toán linh hoạt là loại dự toán?",
+    "answer": "Lập cho một loạt các mức độ hoạt động"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Công ty Nam Anh dùng một loại nguyên vật liệu để sản xuất có đơn giá định mức định mức là 70.000đ/m. trong tháng 9 công ty mua và sử dụng 1.000m với giá mua thực tế 75.000đ/m. Định mức lượng của sản phẩm là 2m/sp. Trong tháng 9 công ty sản xuất 400 sản phẩm. Biến động lượng NVL trong tháng 9 của công ty là?",
+    "answer": "+5.000.000đ"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây là của thông tin KTQT?",
+    "answer": "Không cần thiết tuân thủ tất cả những yêu cầu trên"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Kế toán quản trị:",
+    "answer": "Thường lập các báo cáo theo bộ phận trong doanh nghiệp, mẫu biểu báo cáo phụ thuộc vào nhu cầu quản trị của các cấp và đặc điểm kinh doanh cụ thể của doanh nghiệp"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Quy trình xử lý thông tin kế toán quản trị theo trình tự như thế nào?",
+    "answer": "Nhu cầu thông tin quản trị - Thu thập, phân tích, định tính, định lượng - Báo cáo chỉ tiêu quản trị"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Nhu cầu thông tin nào sau đây quyết định xây dựng kế toán quẩn trị thành công và hữu hiệu trong doanh nghiệp?",
+    "answer": "Xây dựng KTQT theo nhu cầu thông tin của những nhà quản trị trong nội bộ doanh nghiệp"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Tính linh hoạt của thông tin KTQT thể hiện ở các khía cạnh nào?",
+    "answer": "Tất cả các điều trên"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Công ty Biển Nhớ có số liệu về tình hình kinh doanh trong tháng như sau:\n- Doanh thu bán hàng 3,2 tỷ đồng\n- Hàng tồn kho dư đầu tháng là 180 triệu đồng; trong tháng mua thêm 1,5 tỷ đồng; tồn cuối tháng là 120 triệu đồng\n- Chi phí bán hàng 440 triệu đồng\n- Chi phí quản lý doanh nghiêp là 520 triệu đồng\nTính lợi nhuận thuần tháng 8 của Công ty?",
+    "answer": "680 triệu đồng"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Nếu mức sản xuất giảm 25% thì chi phí biến đổi đơn vị sẽ thay đổi như thế nào?",
+    "answer": "Không thay đổi"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Công ty thương mại Mai Anh có tài liệu chi tiết như sau:\n- Biến phí: 10.000 đ/sp (giá vốn hàng mua: 8.000 đ/sp, biến phí bán hàng và quản lý: 2.000 đ/sp)\n- Tổng định phí bán hàng và quản lý: 50.000.000 đ\n- Sản lượng mua: 2.000 sp\n- Sản lượng tiêu thụ: 1.500 sp\nTổng chi phí thể hiện trên báo cáo kết quả kinh doanh theo lợi nhuận góp trong kỳ là",
+    "answer": "65.000.000 đ"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Tài liệu về chi phí sản xuất tại một công ty chuyên sản xuất và tiêu thụ 1 loại sản phẩm như sau:",
+    "answer": "Y = 7.000 + 60 X"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Khách sạn Bình Minh có 200 phòng nghỉ. Số phòng cho thuê ở tháng cao nhất là 160 phòng/ngày. Ở mức này tổng chi phí hoạt động bình quân trong ngày là: 16.000.000 đồng Tháng thấp nhất trong năm, số phòng cho thuê 100 phòng / ngày và tổng chi phí hoạt động bình quân trong ngày này là 11.800.000 đồng\nYêu cầu: Xác định chi phí cố định trong tháng của Khách sạn?",
+    "answer": "144.000.000 đồng"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Chi phí sản xuất chung có thể phân bổ theo các tiêu thức nào?",
+    "answer": "Không có tiêu thức bắt buộc"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Báo cáo sản xuất là báo cáo gì?",
+    "answer": "Báo cáo quản trị"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Kế toán cung cấp thông tin tổng hợp về chi phí cho các đơn hàng đang thực hiện như sau ",
+    "answer": "Nhỏ hơn CFSXC thực tế"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Công ty V9Z có tài liệu trong kỳ như sau:\nSố lượng sản phẩm dở dang đầu tháng là 100 sản phẩm với mức độ hoàn thành 40%\nSố lượng sản phẩm được đưa vào sản xuất trong tháng là 1.500 sản phẩm\nTrong kỳ hoàn thành 1.300 sản phẩm, dở dang cuối kỳ là 200 sản phẩm (mức độ hoàn thành 50%)\nTính số lượng sản phẩm hoàn thành tương đương theo phương pháp bình quân đối với khoản mục chi phí chế biến?",
+    "answer": "1.500 sản phẩm"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Khi áp dụng phương pháp xác định chi phí theo đơn hàng, kế toán sử dụng chứng từ gì để tổng hợp chi phí?",
+    "answer": "Phiếu theo dõi chi phí theo công việc"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Công ty K có sản lượng thực tế là 1.200 SP; sản lượng hòa vốn là 1.000 SP và CPCĐ là 40 triệu đồng. Nếu công ty muốn tăng sản lượng tiêu thụ lên 1.600 SP bằng cách khuyến mại thêm quà tặng cho mỗi SP bán được thì trị giá tối đa của món quà là",
+    "answer": "10.000 đồng"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Công ty Hoa Mai kinh doanh hai mặt hàng A, B có tài liệu chi tiết như sau:\nMặt hàng A: Đơn giá bán 1000đ/sp; biến phí đơn vị 600đ/sp; sản lượng tiêu thụ 50.000sp.\nMặt hàng B: Đơn giá bán 1500đ/sp; biến phí đơn vị 800đ/sp; sản lượng tiêu thụ 150.000sp\nTỷ lệ lợi nhuận góp bình quân đơn vị sản phẩm là?",
+    "answer": "45,45%"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Công ty N kinh doanh đồng thời 3 SP A; B; C có Tỷ lệ LN góp lần lượt là 10%; 30% và 20%. Nếu doanh thu SP A là 90 triệu đồng; SP B là 90 triệu đồng; SP C là 270 triệu đồng và sản lượng tiêu thụ là 1.000 bộ sản phẩm (2A: 2B: 1C) thì LN góp đơn vị SP bình quân là:",
+    "answer": "18.000 đ"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Độ lớn đòn bẩy hoạt động cho biết mức độ thay đổi của?",
+    "answer": "Lợi nhuận thuần khi doanh thu tiêu thụ thay đổi."
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Tổng lợi nhuận góp của doanh nghiệp được tính bằng cách?",
+    "answer": "Doanh thu trừ biến phí"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Dự toán bảng cân đối kế toán không được lập dựa trên?",
+    "answer": "Giá trị thị trường của các tài sản trong kỳ dự toán."
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Công ty A có tài liệu dự toán doanh thu như sau: Tháng 1: 200tr; tháng 2: 250tr; tháng 3: 300tr. Chế độ thu tiền: doanh thu bán hàng ngay 30%, tháng kế tiếp thứ nhất thu 50% , tháng kế tiếp thứ hai thu nốt 20%. Số tiền thu được trong tháng 3 là?",
+    "answer": "255tr"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Doanh nghiệp LNT có lượng thành phẩm tồn kho đầu kỳ là 300 sản phẩm; sản lượng tiêu thụ kế hoạch là 2.000 sản phẩm và tỷ lệ dự trữ thành phẩm là 10% nhu cầu tiêu thụ trong kỳ thì sản lượng sản xuất là:",
+    "answer": "1.900 sản phẩm"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Đâu không phải một vai trò của dự toán?",
+    "answer": "Dự toán giúp nhà quản lý cấp thấp đối phó với các nhà quản lý cấp cao."
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Cơ sở để xây dựng dự toán không bao gồm",
+    "answer": "Cảm hứng của nhà quản lý."
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Biến động mức tiêu hao nguyên vật liệu là?",
+    "answer": "Chênh lệch giữa tổng mức NVL thực tế và tổng mức nguyên vật liệu dự toán tiêu hao cho khối lượng sản xuất thực tế nhân với đơn giá định mức vật liệu."
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Trong điều kiện khác không thay đổi, biến động tăng định mức lượng lao động góp phần?",
+    "answer": "Tất cả các trường hợp trên."
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Trong điều kiện khác không thay đổi, biến động giảm định mức lượng lao động góp phần?",
+    "answer": "Tất cả các trường hợp trên."
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Câu nào sau đây đúng về dự toán linh hoạt?",
+    "answer": "Lập cho một loạt các mức độ hoạt động nhằm cung cấp thông tin về tình hình chi phí, doanh thu và lợi nhuận đơn vị có thể đạt được theo các phương án kinh doanh và khả năng có thể xảy ra."
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Công ty Nam Anh dùng một loại nguyên vật liệu để sản xuất có đơn giá định mức định mức là 70.000đ/m. trong tháng 9 công ty mua và sử dụng 1.000m với giá mua thực tế 75.000đ/m. Định mức lượng của sản phẩm là 2m/sp. Trong tháng 9 công ty sản xuất 400 sản phẩm. Biến động giá NVL trong tháng 9 của công ty là?",
+    "answer": "+ 5.000.000đ"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Báo cáo kế toán quản trị phải đảm bảo cung cấp thông tin như thế nào?",
+    "answer": "Thường ưu tiên tính kịp thời hơn chính xác và đầy đủ"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Đối tượng sử dụng thông tin KTQT chủ yếu là?",
+    "answer": "Tất cả các bộ phận trên"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Nhiệm vụ chính của KTQT trong doanh nghiệp không phải là",
+    "answer": "Định khoản các NVKT phát sinh cho quản lý."
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Nhân viên kế toán quản trị cần phải hiểu biết những gì?",
+    "answer": "Tất cả các trường hợp trên"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Nhóm nào dưới đây khả năng được cung cấp báo cáo KTQT là ít nhất?",
+    "answer": "Cổ đông"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Tại 1 công ty có khoản mục chi phí sản xuất chung (CPSXC) biến động qua các tháng theo số giờ máy hoạt động. Mức cao nhất Tổng CPSXC là 32.000.000 /6000 giờ máy Mức thấp nhất Tổng CPSXC là 36.000.000 / 8.500 giờ máy Chi tiết CPSXC của Công ty ở mức hoạt động thấp nhất như sau: Chi phí dụng cụ sản xuất 8.100.000 (biến phí) Thuê nhà xưởng và lương quản lý phân xưởng 12.800.000 (định phí) Dịch vụ mua ngoài11.100.000 (chi phí hỗn hợp) Tính định phí dịch vụ mua ngoài ?",
+    "answer": "9.600.000 đồng"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Công ty Biển Nhớ có số liệu về tình hình kinh doanh trong tháng như sau:\n- Doanh thu bán hàng 3,2 tỷ đồng\n- Hàng tồn kho dư đầu tháng là 180 triệu đồng; trong tháng mua thêm 1,5 tỷ đồng; tồn cuối tháng là 120 triệu đồng\n- Chi phí bán hàng 440 triệu đồng\n- Chi phí quản lý doanh nghiêp là 520 triệu đồng\nTính lợi nhuận thuần tháng 8 của Công ty?",
+    "answer": "680 triệu đồng"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Trong các khoản chi phí dưới đây, khoản nào không phải là chi phí gián tiếp?",
+    "answer": "Chi phí nguyên vật liệu trực tiếp"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Có tài liệu chi tiết tại một công ty như sau:\n- Giá thành đơn vị : 10.000 đ (trong đó, biến phí sản xuất: 8.000 đ/sp)\n- Chi phí bán hàng và quản lý 5.000 đ/sp (trong đó, biến phí bán hàng và quản lý: 1.200 đ/sp)\n- Sản lượng sản xuất: 2.000 sp\n- Sản lượng tiêu thụ: 1.500 sp\nTổng định phí sản xuất kinh doanh trong kỳ là",
+    "answer": "970.000 đ"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Công ty ANZ ký hợp đồng thuê nhà xưởng dài hạn với phương thức như sau:",
+    "answer": "12.000.000 đ"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Công ty A đang thực hiện 2 đơn hàng. Số liệu chi phí thực tế phát sinh trong kỳ như sau: (1000đ)\nChi phí nguyên vật liệu đơn 1 là 100.000; đơn 2: 96.000\nChi phí nhân công đơn 1 là 60.000; đơn 2 là 70.000\nChi phí sản xuất chung 138.000;\nHệ số phân bổ chi phí sản xuất chung ước tính là 0,6; Công ty phân bổ theo chi phí nguyên vật liệu trực tiếp\nCuối kỳ, đơn 1 đã hoàn thành; đơn 2 còn dở dang\nXác định mức chi phí sản xuất chung phân bổ thừa/thiếu?",
+    "answer": "20.400 nghìn đồng"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Khi áp dụng phương pháp xác định chi phí theo đơn hàng, kế toán sử dụng chứng từ gì để tổng hợp chi phí?",
+    "answer": "Phiếu theo dõi chi phí theo công việc"
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Khi áp dụng phương pháp xác định cho phí theo quá trình sản xuất, số lượng tài khoản “sản phẩm dở dang” cần mở là bao nhiêu?",
+    "answer": "Phụ thuộc vào số phân xưởng tham gia vào quá trình sản xuất"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Phương pháp xác định chi phí theo công việc có thể được áp dụng cho các sản phẩm có điểm gì?",
+    "answer": "Sản phẩm mang tính đơn chiếc, dễ nhận diện"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Khi tổng hợp chi phí sản xuât theo phương pháp nhập trước – xuất trước, chỉ cần xác định chỉ tiêu sau:",
+    "answer": "Chi phí sản xuất phát sinh trong kỳ"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Trong điều kiện tổng định phí không đổi, khi sản lượng tiêu thụ vượt sản lượng hòa vốn, mức tăng lợi nhuận là?",
+    "answer": "Lợi nhuận góp của những sản phẩm vượt quá điểm hòa vốn"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Tỷ lệ lợi nhuận góp được xác định bằng cách?",
+    "answer": "Tổng lợi nhuận góp chia tổng doanh thu."
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Công ty K có sản lượng thực tế là 1.200 SP; sản lượng hòa vốn là 1.000 SP và CPCĐ là 40 triệu đồng. Nếu công ty muốn tăng sản lượng tiêu thụ lên 1.600 SP bằng cách khuyến mại thêm quà tặng cho mỗi SP bán được thì trị giá tối đa của món quà là",
+    "answer": "10.000 đồng"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Công ty X có đòn bẩy hoạt động là 3,0. Nếu doanh nghiệp tăng doanh thu lên 20% thì lợi nhuận tăng bao nhiêu %?",
+    "answer": "60%"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Cơ cấu tiêu thụ theo sản lượng của sản phẩm i trong trường hợp doanh nghiệp kinh doanh đồng thời nhiều loại sản phẩm đồng chất được tính bằng?",
+    "answer": "Sản lượng tiêu thụ SPi/Tổng sản lượng tiêu thụ các SP"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Cơ sở để xây dựng định mức dự toán sản xuất kinh doanh?",
+    "answer": "Định mức chi phí thực tế kết hợp với tác động của các nhân tố khác"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Định mức giá nhân công trực tiếp bao gồm?",
+    "answer": "Bao gồm tất cả các khoản trên."
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Dự toán áp đặt có các đặc điểm sau?",
+    "answer": "Được góp ý của thành viên quản trị ở các cấp."
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Công ty A có tài liệu dự báo như sau: Sản lượng tiêu thụ 1.000 sản phẩm, dự trữ tồn kho đầu kỳ 20% trên nhu cầu tiêu thụ trong kỳ; sản lượng tồn kho cuối kỳ là 300 sản phẩm.\nNhu cầu sản xuất trong kỳ?",
+    "answer": "1100 sản phẩm"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Dự toán tiêu thụ thường bao gồm?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Công ty Hùng Thắng sản xuất 2000 sản phẩm A. Định mức nhân công là 3h/sp. Đơn giá định mức là 35.000đ/giờ, thực tế công ty trả 30.000đ/giờ. Số giờ nhân công thực tế sử dụng là 7.000 giờ. Biến động năng suất lao động là bao nhiêu?",
+    "answer": "-35.000.000"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Câu nào đúng về Biến động biến phí sản xuất chung?",
+    "answer": "Biến động biến phí sản xuất chung là chênh lệch giữa biến phí sản xuất chung thực tế và biến phí sản xuất chung dự toán cho khối lượng sản xuất thực tế."
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Vai trò vượt trội của dự toán linh hoạt là?",
+    "answer": "Giúp cho các đơn vị đánh giá các nhà quản lý đã thực hiện trách nhiệm kiểm soát chi phí của họ như thế nào"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Dự toán linh hoạt có vai trò quan trọng hơn dự toán tĩnh trên các khía cạnh?",
+    "answer": "Hoạt động kiểm soát chi phí"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Công ty Hùng Thắng sản xuất 2000 sản phẩm A. Định mức nhân công là 3h/sp. Đơn giá định mức là 35.000đ/giờ, thực tế công ty trả 30.000đ/giờ. Số giờ nhân công thực tế sử dụng là 7.000 giờ. Biến động giá nhân công là bao nhiêu?",
+    "answer": "+35.000.000đ"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Báo cáo KTQT được lập tại thời điểm nào?",
+    "answer": "Khi nhà quản trị có nhu cầu"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Báo cáo kế toán quản trị phải đảm bảo cung cấp thông tin như thế nào?",
+    "answer": "Thường ưu tiên tính kịp thời hơn chính xác và đầy đủ"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Kế toán quản trị và kế toán tài chính có mối quan hệ với nhau như thế nào?",
+    "answer": "Liên kết với kế toán tài chính"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Nhận định nào sau đây không phù hợp với bản chất của kế toán quản trị",
+    "answer": "Thông tin phải được phát triển phù hợp với các nguyên tắc kế toán được chấp nhận chung hoặc các quy định về thuế thu nhập"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Điều nào sau sau đây không phải là bản chất của Kế toán quản trị?",
+    "answer": "Thông tin KTQT phải được phát triển phù hợp với các nguyên tắc kế toán được chấp nhận chung hoặc các quy định về thuế thu nhập"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Công ty Ngọc Minh đang kinh doanh 1 loại sản phẩm với doanh thu 2.000.000 đ, tổng chi phí 1.800.000 đ. Sản phẩm đang có dấu hiệu suy thoái và bế tắc trong tương lai. Vì vậy, Công ty quyết định ngừng kinh doanh sản phẩm này để chuyển sang kinh doanh sản phẩm mới. Trong năm đầu kinh doanh sản phẩm mới, doanh thu là 2.400.000 đ, chi phí 2.250.000 đ.\nChi phí cơ hội khi kinh doanh sản phẩm mới là:",
+    "answer": "50.000 đ"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Tại công ty Sao Biếc có phương trình dự đoán chi phí quản lý doanh nghiệp là: Y = 180.000 + 15 X\nPhương trình dự đoán chi phí bán hàng là: Y = 200.000 + 8X\nPhương trình dư đoán chi phí sản xuất là: Y= 2.500.000 + 80 X\nTrong tháng, công ty sản xuất và tiêu thụ 70.000 sản phẩm, đơn giá bán 180/SP (đơn vị tính 1.000 đồng)\nTính lợi nhuận góp trong tháng?",
+    "answer": "Tất cả các đáp án đều sai"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Tại 1 công ty có khoản mục chi phí sản xuất chung (CPSXC) biến động qua các tháng theo số giờ máy hoạt động.\nMức cao nhất Tổng CPSXC là 32.000.000 /6000 giờ máy\nMức thấp nhất Tổng CPSXC là 36.000.000 / 8.500 giờ máy\nChi tiết CPSXC của Công ty ở mức hoạt động thấp nhất như sau:\nChi phí dụng cụ sản xuất 8.100.000 (biến phí)\nThuê nhà xưởng và lương quản lý phân xưởng 12.800.000 (định phí)\nDịch vụ mua ngoài 11.100.000 (chi phí hỗn hợp)\nTính chi phí dịch vụ mua ngoài ở mức hoạt động cao nhất?",
+    "answer": "11.725.000 đồng"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Trong các khoản chi phí dưới đây, đâu là khoản chi phí biến đối?",
+    "answer": "Chi phí dọn vệ sinh sau mỗi buổi chiếu phim"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Tại công ty Sao Biếc có phương trình dự đoán chi phí quản lý doanh nghiệp là: Y = 180.000 + 15 X\nPhương trình dự đoán chi phí bán hàng là:\nY = 200.000 + 8X\nPhương trình dư đoán chi phí sản xuất là:\nY = 2.500.000 + 80 X\nĐịnh phí ngoài sản xuất của doanh nghiệp là? (đơn vị tính 1.000 đồng)",
+    "answer": "380.000 nghìn đồng"
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Doanh nghiệp nào dưới đây nên chọn phương pháp xác định chi phí theo quá trình sản xuất?",
+    "answer": "Công ty sản xuất phân bón"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Khi lập Báo cáo sản xuất theo phương pháp bình quân cả kỳ, đặc điểm của sản lượng chuyển đi là :",
+    "answer": "Không phân biệt nguồn gốc"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Công ty ABC tính tỷ lệ phân bổ chi phí sản xuất chung hàng năm dựa trên số giờ lao động trực tiếp. Tổng chi phí sản xuất chung (CPSXC) ước tính đầu năm là 580.000.000 đồng và tổng số giờ lao động trực tiếp là 40.000. Thực tế trong năm tổng CPSXC phát sinh là 720.000.000 đồng và 41.000 giờ lao động trực tiếp.\nTính tỷ lệ phân bổ CPSXC định trước của công ty trong năm?",
+    "answer": "14.500"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Khi lập báo cáo sản xuất theo phương pháp bình quân cả kỳ, giá thành đơn vị không gồm khoản nào dưới đây?",
+    "answer": "Chi phí sản xuất kỳ kế tiếp"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Công ty Thời Đại Mới sử dụng tỷ lệ phân bổ chi phí sản xuất chung (CPSXC) định trước là 21.500 đồng trên 1 giờ lao động trực tiếp. Tổng chi phí sản xuất chung thực tế phát sinh trong kỳ là 173.600.000 đồng và tổng số giờ lao động trực tiếp trong kỳ là 8250 giờ. Biết toàn bộ CPSXC phân bổ thừa/thiếu được hạch toán hết vào giá vôn hàng bán. Hãy xác định ảnh hưởng của CPSXC phân bổ thừa/thiếu đến lợi nhuận gộp của Công ty?",
+    "answer": "Lợi nhuận gộp tăng 3.775.000 đồng"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Phân tích mối quan hệ chi phí – khối lượng – lợi nhuận là nghiên cứu sự tác động của các nhân tố sau đến lợi nhuận?",
+    "answer": "Khối lượng sản phẩm tiêu thụ, giá bán, biến phí, định phí và kết cấu hàng bán."
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Công ty X có tài liệu sản phẩm A như sau\nĐơn giá bán: 1000đ\nBiến phí đơn vị: 600đ\nTổng định phí: 40.000.000đ\nLợi nhuận góp và tỷ lệ lợi nhuận góp của sản phẩm A là?",
+    "answer": "400đ và 40%"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Doanh nghiệp kinh doanh hòa vốn khi?",
+    "answer": "400đ và 40%"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Doanh thu an toàn là mức doanh thu?",
+    "answer": "Chênh lệch giữa doanh thu thực tế và doanh thu hòa vốn."
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Trong điều kiện tổng định phí không đổi, khi sản lượng tiêu thụ vượt điểm hòa vốn, nếu tăng doanh thu một lượng thì lợi nhuận tăng một lượng bằng?",
+    "answer": "Tỷ lệ lợi nhuận góp nhân với mức tăng doanh thu"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Kế toán quản trị áp dụng trong các tổ chức DN nào dưới đây?",
+    "answer": "Được lập dựa trên sản lượng dự trữ dự toán."
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Công ty Hoa Mai xuất 100.000 kg vật liệu X cho sản xuất sản phẩm A thu được 9500 sản phẩm, trong đó hao hụt và thất thoát ngoài định mức tính được 3.000 kg, nguyên vật liệu cho sản phẩm hỏng ngoài định mức 2.000 kg.\nĐịnh mức tiêu hao nguyên vật liệu để sản xuất sản phẩm A?",
+    "answer": "10 kg/sp"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Định mức chi phí sản xuất chung phải tách biệt hai phần chi phí biến đổi và chi phí cố định vì?",
+    "answer": "Chi phí này là chi phí hỗn hợp."
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Những nhân tố nào sau đây thuộc nhóm nhân tố khách quan tác động đến lập dự toán?",
+    "answer": "Quy luật cung cầu, quy chế quản lý kinh tế, chính sách kinh tế, phong tục tập quán, điều kiện tự nhiên, đặc thù hoạt động kinh doanh từng ngành."
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Định mức thời gian lao động trực tiếp là 1,5h/SP; sản lượng sản xuất trong kỳ là 20.000 SP và tổng chi phí nhân công trực tiếp kỳ dự toán là 600 triệu thì đơn giá thời gian lao động là",
+    "answer": "20.000 đồng/h"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Biến động chi phí nguyên vật liệu trực tiếp là?",
+    "answer": "Chênh lệch giữa chi phí nguyên vật liệu trực tiếp thực tế phát sinh với chi phí nguyên vật liệu dự toán cho khối lượng sản xuất thực tế."
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Trong điều kiện khác không thay đổi, biến động giảm định mức nguyên vật liệu trực tiếp góp phần?",
+    "answer": "Giảm chi phí nguyên vật liệu."
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Thông tin về chi phí nhân công trực tiếp tại một công ty trong tháng 6 như sau:\nTổng giờ lao động định mức là 4.200 giờ\nSố giờ lao động thực tế là 4.000 giờ\nĐơn giá định mức là 63.000 đ/giờ\nBiến động giá nhân công là tốt: 84.000 (T)\nVậy tổng chi phí nhân công trực tiếp của công ty này trong tháng 6 là:",
+    "answer": "243.600.000"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Công ty Hoa Mai lập dự toán linh hoạt cho sản xuất với mức hoạt động 1.000 sản phẩm với tổng chi phí 8.000 triệu đồng. Biến phí đơn vị từng yếu tố: NVL trực tiếp: 2,0 triệu đồng; nhân công trực tiếp: 3,0 triệu; sản xuất chung 1,0 triệu.\nĐể sản xuất 1.200 sản phẩm thì tổng chi phí là?",
+    "answer": "9.200 triệu"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Công ty Mai Hoa xây dựng tỷ lệ phân bổ định phí sản xuất chung định mức là 10.000 đồng/ giờ LĐTT; tỷ lệ phân bổ biến phí sản xuất chung định mức là 40.000 đồng/ giờ LĐTT, tổng số giờ LĐTT định mức là 4.000h/tháng. Trong tháng 8, số giờ LĐTT thực tế là 3.950h, số giờ LĐTT định mức để sản xuất mức sản lượng thực tế là 3.900h, tổng biến động chi phí sản xuất chung là tốt: 2.000.000(T). Hãy xác định chi phí sản xuất chung phân bổ trong tháng 8 tại công ty",
+    "answer": "195.000.000"
+  }
+]

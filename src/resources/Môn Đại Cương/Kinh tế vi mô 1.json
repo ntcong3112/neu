@@ -1,0 +1,2306 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": ". Điều nào dưới đây là tuyên bố thực chứng:",
+    "answer": "Tiền thuê nhà thấp sẽ hạn chế cung nhà ở"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Vấn đề nào dưới đây không thuộc kinh tế vĩ mô:",
+    "answer": "Các nguyên nhân làm giá cam giảm"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Chi phí cơ hội là:",
+    "answer": "Giá trị của sự lựa chọn tốt nhất bị bỏ qua khi đưa ra sự lựa chọn"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Dọc theo đường giới hạn khả năng sản xuất, chi phí cơ hội là:",
+    "answer": "Số lượng một hàng hoá phải hy sinh để sản xuất thêm một đơn vị hàng hoá kia"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Chi phí đầu vào để sản xuất ra dầu gội Romano dành cho các quý ông giảm xuống sẽ làm cho:",
+    "answer": "Đường cung dịch chuyển xuống dưới."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Cầu của một hàng hoá luôn giảm khi",
+    "answer": "Giá của hàng hoá thay thế cho hàng hoá đó giảm"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Thị trường sản phẩm A có hàm cung và cầu như sau:Ps = 10 + Qs và Pd = 100 - Qd",
+    "answer": "Dư thừa 50"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Điều gì chắc chắn gây ra sự gia tăng của giá cân bằng:",
+    "answer": "Sự tăng lên của cầu kết hợp với sự giảm xuống của cung"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Nếu giá giảm 6% dẫn đến lượng cầu tăng 5%, độ co giãn của cầu bằng",
+    "answer": "-0,83"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Nếu co giãn chéo giữa hai hàng hóa X và Y là dương, thì",
+    "answer": "X và Y là 2 hàng hóa thay thế"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Thu nhập tăng 10% làm cho lượng cầu tăng 5%. Co giãn của cầu theo thu nhập là:",
+    "answer": "0,5"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Nếu cầu về nước cam ép là co giãn theo giá, thời tiết băng giá làm mất mùa cam sẽ gây ra",
+    "answer": "lượng cân bằng giảm và tổng chi tiêu về nước cam cũng giảm"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Ở điểm cân bằng, câu nào sau đây là không đúng?",
+    "answer": "tổng ích lợi của tất cả các hàng hóa là bằng nhau"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "ích lợi cận biên bằng",
+    "answer": "độ dốc của đường tổng ích lợi"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Giả sử Hà có thể ăn táo, cam và đào. Nếu Hà tăng lượng cam tiêu dùng, ceteris paribus, theo lý thuyết ích lợi thì ích lợi cận biên của",
+    "answer": "cam giảm"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Giả sử MUA và MUB tương ứng là ích lợi cận biên của hai hàng hóa A và B; PA và PB là giá của hai hàng hóa đó. Công thức nào sau đây minh họa ở điểm cân bằng?",
+    "answer": "MUA/ MUB = PA / PB"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Nếu sản lượng tăng từ 5 đến 10 làm cho tổng chi phí tăng từ 100$ lên 200$, chi phí cận biên của mỗi sản phẩm trong 5 sản phẩm tăng lên này là",
+    "answer": "20$"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Khoảng cách theo chiều thẳng đứng giữa TC và VC",
+    "answer": "FC"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nếu tất cả các yếu tố đầu vào tăng 10% và sản lượng đầu ra tăng nhỏ hơn 10%. Đây là trường hợp:",
+    "answer": "Hiệu suất giảm theo quy mô"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Doanh thu được xác định là",
+    "answer": "Số thu từ việc bán các hàng hóa và dịch vụ"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Một hãng độc quyền tối đa hóa lợi nhuận sẽ không bao giờ sản xuất ở mức sản lượng",
+    "answer": "Trong miền không co giãn của đường cầu"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Một nhà độc quyền sẽ tăng mức giá tối đa hóa lợi nhuận khi",
+    "answer": "Chi phí cận biên tăng"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Một nhà độc quyền có hàm chi phí TC = Q2 + 2Q + 100 và đối diện với hàm cầu P = 122 – Q.",
+    "answer": "IImax = 1700"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": ". Một hãng cạnh tranh hoàn hảo quyết định sản lượng tối ưu khi",
+    "answer": "Chi phí cận biên bằng giá và giá lớn hơn chi phí biến đổi bình quân tối thiểu"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Nếu nước A có thể sản xuất lương thực, quần áo hoặc một kết hợp của hai loại hàng hóa này thì",
+    "answer": "Chi phí cơ hội của việc sản xuất lượng thực của nước A là nghịch đảo của chi phí cơ hội của việc sản xuất quần áo."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Trong phân tích về lợi ích và chi phí từ thương mại quốc tế, việc giả sử một nền kinh tế là nhỏ thường được thực hiện bởi",
+    "answer": "Nhờ đó chúng ta có thể giả sử rằng mức giá thế giới sẽ không bị ảnh hưởng bởi sự tham gia của quốc gia này vào thương mại quốc tế"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Nếu nước D có lợi thế so sánh so với các nước khác trong việc sản xuất đường, nhưng các nước khác có lợi thế tuyệt đối so với nước D trong việc sản xuất đường. Nếu thương mại quốc tế với đường được cho phép thì nước D sẽ",
+    "answer": "Xuất khẩu đường"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Nếu nước E có lợi thế tuyệt đối so với các nước khác trong việc sản xuất đường, nhưng các nước khác có lợi thế so sánh so với nước E trong việc sản xuất đường. Nếu thương mại quốc tế với đường được cho phép thì nước E sẽ",
+    "answer": "Nhập khẩu đường"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Thu nhập không công bằng trong nền kinh tế vì",
+    "answer": "Thị trường xác định giá yếu tố sản xuất"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Sự tiêu dùng tự do (không phải trả tiền):",
+    "answer": "Có thể xảy ra nếu việc tiêu dùng hàng hóa dịch vụ không có tính loại trừ"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Độc quyền tự nhiên thường có",
+    "answer": "Chi phí cố định cao và chi phí cận biên thấp"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Điều nào sau đây được các nhà kinh tế học gọi là thất bại thị trường",
+    "answer": "Sản xuất những hàng hóa, dịch vụ gây ra ngoại ứng"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X2 +Y2=225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp.",
+    "answer": "Y=5"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Một mô hình kinh tế tốt bao gồm:",
+    "answer": "Số lượng ít nhất các thông tin cần thiết để trả lời các câu hỏi đề cập trong mô hình"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Đường giới hạn khả năng sản xuất biểu thị:",
+    "answer": "Những kết hợp hàng hoá có thể sản xuất của nền kinh tế"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X2 +Y2=225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp.",
+    "answer": "Nền kinh tế không có khả năng sản xuất kết hợp hàng hóa trên vì nó nằm ngoài khả năng của nền kinh tế."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Đường cung về thịt bò dịch chuyển là do:",
+    "answer": "Chi phí chăn nuôi bò tăng"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Lượng cầu giảm có nghĩa là:",
+    "answer": "Vận động về phía trên (bên trái) đường cầu"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Thị trường sản phẩm A có hàm cung và cầu như sau:Ps = 10 + Qs và Pd = 100 - Qd",
+    "answer": "Pe = 60 và Qe = 40"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Điều nào dưới đây làm dịch chuyển đường cung đối với Cà phê Trung Nguyên:",
+    "answer": "Công nghệ chế biến cà phê Trung Nguyên thay đổi"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Nếu giá giảm xuống rất nhiều dẫn đến lượng cầu tăng lên không đáng kể thì",
+    "answer": "Cầu là không co giãn"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Thu nhập của Minh tăng từ $950/ tuần lên $1050/tuần. Kết quả là anh ta quyết định tăng số bộ phim anh ta sẽ xem lên 5%. Vậy cầu về phim của Minh là:",
+    "answer": "không co giãn theo thu nhập"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": ". Nếu cầu về một hàng hóa là co giãn đơn vị, giá tăng 5% sẽ dẫn đến",
+    "answer": "tổng doanh thu không đổi"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Co giãn của cầu theo thu nhập là phần trăm",
+    "answer": "thay đổi trong lượng cầu chia cho phần trăm thay đổi trong thu nhập"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Đường cầu có độ dốc âm được xác định trực tiếp từ",
+    "answer": "quy luật ích lợi cận biên giảm dần"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Nếu tiêu dùng hết thu nhập và ích lợi cận biên trên một $ của tất cả các hàng hóa chi mua là bằng nhau thì",
+    "answer": "tổng ích lợi là lớn nhất"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Có một thực tế rằng cốc nước cam thứ ba không mang lại sự thỏa mãn nhiều như cốc nước cam thứ hai, đây và một ví dụ về",
+    "answer": "lợi ích cận biên giảm dần"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": ". Mai tiêu dùng 2 hàng hóa A và B, và đang ở điểm cân bằng. ích lợi cận biên của đơn vị hàng hóa A cuối cùng là 10 và B là 5. Nếu giá của A là $0,5, thì giá của B là:",
+    "answer": "$0,25"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Nếu chi phí biến đổi trung bình để sản xuất 10 đơn vị sản phẩm là 18$ và chi phí biến đổi trung bình để sản xuất 11 sản phẩm là 20$, chúng ta biết rằng giữa 10 và 11 sản phẩm",
+    "answer": "chi phí cận biên đang tăng"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Tỷ lệ lãi suất là 10%/năm. Bạn đầu tư 150 triệu đồng tiền riêng của mình vào một công việc kinh doanh và kiếm được lợi nhuận tính toán là 40 triệu đồng sau một năm. Giả định các yếu tố khác không đổi thì lợi nhuận kinh tế bạn thu được là:",
+    "answer": "25 triệu đồng"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Quy luật năng suất cận biên giảm dần nói rằng",
+    "answer": "Khi một hãng sử dụng ngày càng nhiều một đầu vào biến đổi, với lượng các đầu vào cố định cho trước, sản phẩm cận biên của đầu vào biến đổi cuối cùng sẽ giảm xuống"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trong những tuyên bố đề cập đến chi phí ngắn hạn dưới đây, tuyên bố nào là sai?",
+    "answer": "đường tổng chi phí có dạng chữ U"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Một nhà độc quyền có hàm chi phí TC = Q2 + 2Q + 100 và đối diện với hàm cầu P = 122 – Q. Để tối đa hoá lợi nhuận, nhà độc quyền sẽ sản xuất tại mức sản lượng Q và bán với giá P là:",
+    "answer": "Q= 30; P = 92"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Một nhà độc quyền có hàm chi phí TC = Q2 + 2Q + 100 và đối diện với hàm cầu P = 122 – Q.",
+    "answer": "PS=1800"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Trong dài hạn, tất cả các hãng trong ngành cạnh tranh độc quyền thu được",
+    "answer": "Lợi nhuận kinh tế bằng 0"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Điều nào dưới đây không đúng trong trường hợp hãng cạnh tranh hoàn hảo.",
+    "answer": "Doanh thu cận biên thường nhỏ hơn doanh thu trung bình"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Một quốc gia có lợi thế so sánh trong việc sản xuất một sản phẩm nếu mức giá thế giới",
+    "answer": "Cao hơn mức giá trong nước khi không có thương mại"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Lợi thế tuyệt đối được xác định bởi việc so sánh",
+    "answer": "Mức đầu vào cần thiết cho một đơn vị đầu ra"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Giả sử nước A xuất khẩu điện thoại sang nước B và nhập khẩu gạo từ nước C. Tình huống này cho thấy rằng",
+    "answer": "Nước A có lợi thế so sánh so với nước B trong việc sản xuất điện thoại, nước C có lợi thế so sánh so với nước A trong việc sản xuất gạo"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Nếu mức giá thép trên thị trường thế giới cao hơn mức giá trong nước khi không có thương mại thì nước này nên",
+    "answer": "Xuất khẩu thép, vì nước đó có lợi thế so sánh trong sản xuất thép"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Chính phủ điều tiết độc quyền tự nhiên nhằm mục tiêu",
+    "answer": "Giảm giá và tăng sản lượng của nhà độc quyền"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Khi sự tiêu dùng không có tính cạnh tranh và không có tính loại trừ, thì sản phẩm là một",
+    "answer": "Hàng hóa công cộng"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Chính phủ có thể khắc phục mất công bằng trong phân phối thu nhập thông qua",
+    "answer": "Đánh thuế thu nhập"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Hàng hóa nào sau đây không có tính loại trừ trong tiêu dùng",
+    "answer": "Ngọn hải đăng"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Hàm tổng lợi ích (TB) và hàm tổng chi phí (TC) của một hoạt động như sau: TB=200Q - Q2và TC=200 + 20Q + 0,5Q2.",
+    "answer": "Q=100"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Bộ phận của kinh tế học nghiên cứu các quyết định của hãng và hộ gia đình được gọi là:",
+    "answer": "Kinh tế vi mô"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Chi phí cơ hội của một người đi cắt tóc mất 10.000 đồng là:",
+    "answer": "Việc sử dụng tốt nhất cả thời gian và 10000 đồng của người đó"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Tăng trưởng kinh tế có thể được minh hoạ bởi:",
+    "answer": "Sự dịch chuyển đường giới hạn khả năng sản xuất ra bên ngoài"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Giả sử thị trường có ba cá nhân khác nhau có phương trình cung như sau: P1 =10 + Q1; P2 =18 +0,5Q2 và P3=16 + 0,4Q3. Phương trình đường cung của thị trường là:",
+    "answer": "Q= -86 + 5,5P"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Chính phủ đặt giá trần đối với xăng dầu sẽ dẫn đến:",
+    "answer": "Buôn lậu xăng dầu qua biên giới"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Điều nào dưới đây không làm dịch chuyển đường cầu đối với Cà phê Trung Nguyên:",
+    "answer": "Giá Cà phê Trung Nguyên giảm xuống."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Nếu X và Y là hai hàng hóa bổ sung trong tiêu dùng và chi phí nguồn lực để sản xuất ra hàng hóa X giảm xuống, thì giá của:",
+    "answer": "X sẽ giảm và Y sẽ tăng"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Nếu giá tăng 10% dẫn đến lượng cầu giảm 5% thì độ co giãn của cầu theo giá là:",
+    "answer": "-0,5"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Nếu giá của hàng hóa Y tăng làm cho cầu về hàng hóa X tăng thì",
+    "answer": "X và Y là 2 hàng hóa thay thế"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Giả sử giá của một hàng hóa tăng từ $5, 5 lên $6, 5 làm cho lượng cầu về hàng hóa đó giảm từ 12.000 xuống 11.500 đơn vị. co giãn khoảng của cầu theo giá là:",
+    "answer": "-0,5"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Nếu phần trăm tăng lên trong giá là như nhau có thể dẫn đến phần trăm giảm trong lượng cầu là nhiều hơn nếu",
+    "answer": "tỷ lệ thu nhập cho chi tiêu vào hàng hóa đó là nhiều hơn"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": ". Nếu Mai tối đa hóa ích lợi và 2 hàng hóa mà cô ta tiêu dùng có cùng ích lợi cận biên, thì",
+    "answer": "Mai sẵn sàng trả giá như nhau cho 2 loại hàng hóa đó"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Giả sử bạn ăn xúc xích và uống Coca và bạn tin rằng thu được tổng ích lợi lớn nhất từ bữa ăn đó với mức chi là $6. Giá của một chiếc xúc xích và một lon Coca đều là $1. Có thể rút ra kết luận nào sau đây?",
+    "answer": "số lượng chiếc xúc xích được ăn / số lượng lon Coca được uống, ích lợi cận biên của xúc xích và Coca là bằng nhau"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Bảo có thể ăn xôi hoặc phở. Giá của xôi là 1000đ, trong khi giá của phở là 5000đ. Giả sử ích lợi cận biên của xôi là MUx, của phở là MUp. ở điểm cân bằng, tỷ số MUx/ MUp bằng:",
+    "answer": "1/5"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Tổng ích lợi bằng",
+    "answer": "tổng ích lợi cận biên của tất cả các đơn vị hàng hóa được tiêu dùng"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Khi người lao động thứ 7 được thuê, sản lượng tăng từ 100 đơn vị một tuần lên 110 đơn vị một tuần. Khi người lao động thứ 8 được thuê, sản lượng tăng từ 110 lên 118 đơn vị. Đây là ví dụ về",
+    "answer": "năng suất cận biên giảm dần"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Hàm sản xuất ngắn hạn của một hãng mô tả",
+    "answer": "sản lượng đầu ra thay đổi như thế nào khi số lượng lao động thay đổi với quy mô nhà máy cố định"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Trong dài hạn thì:",
+    "answer": "Tất cả các đầu vào đều biến đổi"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Chi phí biến đổi trung bình đạt cực tiểu cùng mức sản lượng tại đó",
+    "answer": "sản phẩm trung bình đạt cực đại"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Thị trường sản phẩm A được coi là cạnh tranh và được mô tả bằng hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd.",
+    "answer": "NSB = 1800"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Doanh thu cận biên của một hãng độc quyền bán là",
+    "answer": "Sự thay đổi tổng doanh thu khi bán thêm một đơn vị sản phẩm"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Một nhà độc quyền có hàm chi phí TC = Q2 + 2Q + 100 và đối diện với hàm cầu P = 122 – Q.Phần mất không nhà độc quyền gây ra đối với xã hội là(DWL):",
+    "answer": "DWL = 150"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Một thị trường độc quyền bán",
+    "answer": "Chỉ có một hãng duy nhất"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Khi phân tích lợi ích và chi phí từ thương mại quốc tế, nếu ta nói rằng nước A là nước nhỏ có nghĩa là",
+    "answer": "Nước A là người chấp nhận giá"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Nước A không cho phép thương mại quốc tế. Ở nước này, người ta có thể mua 1 cân cá với giá là 2 cân thịt bò. Ở các nước khác, người ta có thể mua 1 cân cá với giá là 3 cân thịt bò. Điều này chỉ ra rằng",
+    "answer": "Nếu nước B cho phép thương mại quốc tế, họ sẽ xuất khẩu cá"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Đường giới hạn khả năng sản xuất của một nền kinh tế cũng chính là đường giới hạn khả năng tiêu dùng của nền kinh tế đó",
+    "answer": "Khi nền kinh tế không tham gia vào thương mại quốc tế"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Nước A không cho phép thương mại quốc tế. Ở nước này, người ta có thể mua 1 cân cá với giá là 2 cân thịt bò. Ở các nước khác, người ta có thể mua 1 cân cá với giá là 1,5 cân thịt bò. Điều này chỉ ra rằng",
+    "answer": "Nếu nước A cho phép thương mại quốc tế, họ sẽ nhập khẩu cá"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Đường cầu thị trường đối với hàng hóa công cộng được xác định",
+    "answer": "Cộng các đường lợi ích cận biên cá nhân theo chiều dọc"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Một nhà độc quyền tự nhiên có hàm cầu P=1000-Q, trong đó P tính bằng $ và Q tính bằng chiếc. Nhà độc quyền có hàm tổng chi phí là TC=21000+300Q",
+    "answer": "DWL= 61250"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": ". Việc sản xuất quá nhiều hàng hóa có ngoại ứng tiêu cực là ví dụ về",
+    "answer": "Thất bại thị trường"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Điều nào sau đây được các nhà kinh tế học gọi là thất bại thị trường",
+    "answer": "Cung cấp hàng hóa và dịch vụ công cộng"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Vấn đề khan hiếm tồn tại:",
+    "answer": "Trong tất cả các nền kinh tế"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Điều nào dưới đây không được coi là bộ phận của chi phí cơ hội của việc đi học đại học:",
+    "answer": "Chi phí ăn uống"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Một nền kinh tế có đường giới hạn năng lực sản xuất được biểu diễn bằng phương trình sau X+2Y=100. Đường giới hạn năng lực sản xuất trên cho biết:",
+    "answer": "Lượng X tối đa là 100 và lượng Y tối đa là 50"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Hàm tổng lợi ích (TB) và hàm tổng chi phí (TC) của một hoạt động như sau: TB=200Q - Q2và TC=200 + 20Q + 0,5Q2.",
+    "answer": "Tăng sản lượng"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Nếu chính phủ muốn giá lúa giảm chính phủ có thể làm điều nào dưới đây:",
+    "answer": "Tăng diện tích trồng lúa"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Hạn hán có thể sẽ:",
+    "answer": "Làm cho đường cung đối với lúa gạo dịch chuyển lên trên sang bên trái"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Nếu giá hàng hoá X tăng lên gây ra sự dịch chuyển của đường cầu đối với hàng hoá Y về phía bên trái thì:",
+    "answer": "X và Y là hàng hoá bổ sung trong tiêu dùng."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Điều nào dưới đây mô tả sự điều chỉnh của giá để hạn chế dư thừa?",
+    "answer": "Nếu giá giảm, lượng cầu sẽ tăng trong khi lượng cung sẽ giảm"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Cầu về một hàng hóa là không co giãn nếu",
+    "answer": "giá tăng làm tổng doanh thu tăng"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Học phí giảm sẽ làm giảm doanh thu của các trường đại học nếu cầu về giáo dục đại học là",
+    "answer": "nằm giữa 0 và 1"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Cầu sẽ co giãn nhiều hơn nếu",
+    "answer": "khoảng thời gian kể từ khi giá thay đổi dài hơn"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": ". Nếu độ co giãn của cầu theo giá bằng -2 có nghĩa là giá tăng 10% dẫn đến:",
+    "answer": "lượng cầu giảm 20%"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Một nhà kinh tế học định nghĩa sở thích là",
+    "answer": "việc thích hay không thích các loại hàng hóa của một cá nhân"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Khi số lượng hàng hóa được tiêu dùng tăng lên",
+    "answer": "ích lợi cận biên giảm xuống"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Ích lợi tăng thêm từ tiêu dùng đơn vị hàng hóa cuối cùng gọi là",
+    "answer": "ích lợi cận biên"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Theo lý thuyết về ích lợi, người tiêu dùng",
+    "answer": "tối đa hóa ích lợi và làm cân bằng ích lợi cân biên trên một $ của tất cả các hàng hóa chi mua"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Lợi nhuận kinh tế được định nghĩa là sự chênh lệch giữa tổng doanh thu và",
+    "answer": "Chi phí kinh tế của sản xuất"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Giả sử tăng thêm 1 đơn vị lao động, từ 2 lên 3 công nhân, sản lượng tăng từ 10 đến 15 cái áo len. Sản phẩm cận biên của người công nhân thứ 3 là",
+    "answer": "5"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": ". Sản phẩm bình quân của lao động là",
+    "answer": "Tổng sản phẩm chia cho lượng lao động"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Khi sản phẩm cận biên của lao động lớn hơn sản phẩm trung bình của lao động",
+    "answer": "sản phẩm trung bình của lao động đang tăng"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Điều nào dưới đây đúng với cạnh tranh độc quyền nhưng không đúng với độc quyền tập đoàn",
+    "answer": "Mỗi hãng đối diện với đường cầu dốc xuống"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Điều nào dưới đây đúng với cả độc quyền bán, cạnh tranh độc quyền và cạnh tranh hoàn hảo",
+    "answer": "Tối đa hóa lợi nhuận tại mức sản lượng có MR, MC"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây là của độc quyền tập đoàn",
+    "answer": "Các hãng tương đối lớn so với quy mô của thị trường"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây không phải của cạnh tranh độc quyền",
+    "answer": "Sản phẩm của các hãng trong ngành là giống hệt nhau"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Giả sử ở Việt Nam, mức giá trong nước của cà chua khi không có thương mại quốc tế cao hơn mức giá thế giới. Điều này chứng tỏ rằng trong việc sản xuất cà chua thì",
+    "answer": "Các nước khác có lợi thế so sánh so với Việt Nam và Việt Nam nên nhập khẩu cà chua"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Nguyên lý về lợi thế so sánh cho thấy",
+    "answer": "Một quốc gia có thể thu lợi từ việc tập trung nguồn lực vào hàng hóa mà họ sản xuất hiệu quả nhất"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "A trồng lúa và B nuôi cá. Trong trường hợp nào thì A và B không thể thu được lợi ích từ trao đổi",
+    "answer": "A không thích tiêu dùng cá và B không thích tiêu dùng lúa"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Khi nào hai nước A và B có thể thu được lợi ích từ việc trao đổi hai hàng hóa 1 và 2",
+    "answer": "Hai nước có thể thu được lợi ích từ việc trao đổi hai hàng hóa trong tất cả các trường hợp"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Lượng hàng hóa công cộng do thị trường không bị điều tiết sản xuất có xu hướng:",
+    "answer": "ít hơn mức sản lượng có hiệu quả"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Khi sự tiêu dùng có tính cạnh tranh và có tính loại trừ, thì sản phẩm là một",
+    "answer": "Hàng hóa tư nhân"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Một nhà độc quyền tự nhiên có hàm cầu P=1000-Q, trong đó P tính bằng $ và Q tính bằng chiếc. Nhà độc quyền có hàm tổng chi phí là TC=21000+300Q",
+    "answer": "500"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Chính phủ giải quyết vấn đề ngoại ứng bằng cách",
+    "answer": "Đánh thuế vào ngoại ứng tiêu cực và trợ cấp cho ngoại ứng tích cực"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Hoa có thể chọn đi xem phim hoặc đi chơi tennis. Nếu như Hoa quyết định đi xem phim thì giá trị của việc chơi tennis là:",
+    "answer": "Là chi phí cơ hội của việc xem phim"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Các kết hợp hàng hoá nằm phía trong đường giới hạn khả năng sản xuất là:",
+    "answer": "Sản xuất không hiệu quả"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Một nền kinh tế có đường giới hạn năng lực sản xuất được biểu diễn bằng phương trình sau X+2Y=100.",
+    "answer": "Đường thẳng tuyến tính"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Thực tiễn nhu cầu của con người không được thoả mãn đầy đủ với nguồn lực hiện có được gọi là vấn đề:",
+    "answer": "Khan hiếm"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Điều nào sau đây mô tả đường cung",
+    "answer": "Số lượng hàng hoá mà người sản xuât muốn bán và có khả năng bán tại các mức giá khác nhau trong một khoảng thời gian nhất định (các yếu tố khác không đổi)"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Đường cầu thị trường có thể được xác định bằng cách:",
+    "answer": "Cộng tất cả đường cầu của các cá nhân theo chiều ngang"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Với giả định các yếu tố khác không thay đổi, luật cầu cho biết:",
+    "answer": "Giá hàng hoá càng cao thì lượng cầu càng giảm"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Điều gì xảy ra với giá và lượng cân bằng khi cung tăng:",
+    "answer": "Giá cân bằng giảm và lượng cân bằng tăng"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Nếu giá tăng làm tổng doanh thu giảm thì co giãn của cầu theo giá là",
+    "answer": "lớn hơn 1"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": ". Giả sử lượng cầu về bia tươi giảm từ 103.000 lít /tuần xuống 97.000lít/tuần do giá tăng 10%. Co giãn của cầu theo giá:",
+    "answer": "là -0,6"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": ". Một hàng hóa có cầu là co giãn khi giá trị của độ co giãn là",
+    "answer": "nằm giữa 1 và vô cùng"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Giả sử giá của A giảm từ $10, 50 xuống $9, 50 làm cho lượng cầu về B tăng từ 7960 lên 8040 đơn vị. Co giãn chéo giữa A và B là:",
+    "answer": "-0,1"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Giả sử bạn ăn xúc xích và uống Coca và bạn tin rằng thu được tổng ích lợi lớn nhất từ bữa ăn đó với mức chi là $6. Giá của một chiếc xúc xích và một lon Coca đều là $1. Giả sử giá của một chiếc xúc xích tăng lên thành $2. Bạn sẽ thay đổi số lượng xúc xích và Coca được mua và tin rằng sẽ lại tối đa hóa tổng ích lợi. Có thể rút ra kết luận nào sau đây?",
+    "answer": "ích lợi cận biên của xúc xích phải tăng lên so với ích lợi cận biên của Coca"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": ". Ích lợi cận biên giảm dần có nghĩa là:",
+    "answer": "Bảo sẽ thích chiếc bánh mỳ thứ nhất hơn chiếc bánh mỳ thứ hai"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Mai có thể mua A hoặc B. Giá của cả A và B là $1. Khi chi tiêu hết thu nhập, Mai thu được ích lợi cận biên từ mua A là 10 và từ B là 8. Mai sẽ có lợi hơn nếu",
+    "answer": "mua nhiều A hơn và ít B hơn"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Các yếu tố khác không đổi, khi thu nhập tăng lên, thặng dư tiêu dùng của hàng hóa thông thường thay đổi như thế nào?",
+    "answer": "nó sẽ tăng"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Tăng giá một đầu vào cố định sẽ làm cho",
+    "answer": "đường tổng chi phí trung bình dịch chuyển lên trên"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Giả sử một hãng tăng tổng số lao động từ 5 lên 6 công nhân, và kết quả là tổng sản phẩm của hãng tăng từ 100 đơn vị lên 400 đơn vị. Sản phẩm cận biên của đơn vị lao động thứ 6 là",
+    "answer": "300"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Phần chi phí biến đổi trung bình đang giảm dần chính là phần tại đó",
+    "answer": "sản phẩm trung bình đang tăng"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Câu nào sau đây là đúng",
+    "answer": "Chi phí kinh tế lớn hơn chi phí tính toán và lợi nhuận kinh tế nhỏ hơn lợi nhuận tính toán"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Đường cung ngắn hạn của ngành là",
+    "answer": "Tổng chiều ngang của các đường cung cá nhân các hãng"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Một hãng cạnh tranh hoàn hảo có hàm chi phí là Q2 + Q+ 169",
+    "answer": "1"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Nếu một hãng cạnh tranh hoàn hảo trong ngắn hạn có thể bù đắp được chi phí biến đổi và một phần chi phí cố định thì nó đang hoạt động tại phần đường chi phí cận biên mà",
+    "answer": "Nằm giữa điểm đóng cửa và điểm hòa vốn"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Nếu một nhà độc quyền đang sản xuất tại mức sản lượng tại đó chi phí cận biên lớn hơn doanh thu cận biên, nhà độc quyền nên",
+    "answer": "Tăng giá và giảm sản lượng"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Nếu một quốc gia cho phép thương mại, và với một hàng hóa mức giá trong nước khi không có thương mại thấp hơn mức giá thế giới",
+    "answer": "Nước đó sẽ xuất khẩu hàng hóa đó"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Nước A không cho phép thương mại quốc tế. Ở nước này, người ta có thể mua 1 cân cá với giá là 2 cân thịt bò. Ở các nước khác, người ta có thể mua 1 cân cá với giá là 3 cân thịt bò. Điều này chỉ ra rằng",
+    "answer": "Nếu nước B cho phép thương mại quốc tế, họ sẽ xuất khẩu cá"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Nếu mức giá thép trên thị trường thế giới cao hơn mức giá trong nước khi không có thương mại thì nước này nên",
+    "answer": "Xuất khẩu thép, vì nước đó có lợi thế so sánh trong sản xuất thép"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Nếu nước A có thể sản xuất lương thực, quần áo hoặc một kết hợp của hai loại hàng hóa này thì",
+    "answer": "Chi phí cơ hội của việc sản xuất lượng thực của nước A là nghịch đảo của chi phí cơ hội của việc sản xuất quần áo."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Các ngoại ứng tích cực là",
+    "answer": "Những lợi ích mà những người không trả tiền cho sản phẩm được nhận"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Chính phủ cung cấp hàng hóa công cộng thuần túy như an ninh quốc gia vì",
+    "answer": "Vấn đề tiêu dùng tự do xuất hiện"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Các đợt tiêm phòng để chống lại các bênh lây lan tạo ra",
+    "answer": "Ngoại ứng tích cực"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Độc quyền tự nhiên thường có",
+    "answer": "Chi phí cố định cao và chi phí cận biên thấp"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Chi phí cơ hội của một người đi cắt tóc mất 10.000 đồng là:",
+    "answer": "Việc sử dụng tốt nhất cả thời gian và 10000 đồng của người đó"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Vấn đề khan hiếm tồn tại:",
+    "answer": "Trong tất cả các nền kinh tế"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Vấn đề nào dưới đây không thuộc kinh tế vĩ mô:",
+    "answer": "Các nguyên nhân làm giá cam giảm"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Đường giới hạn khả năng sản xuất biểu thị:",
+    "answer": "Những kết hợp hàng hoá có thể sản xuất của nền kinh tế"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": ". Điều nào dưới đây gây ra sự vận động dọc theo đường cung:",
+    "answer": "Giá hàng hoá thay đổi"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": ". Thiếu hụt trên thị trường tồn tại khi:",
+    "answer": "Giá thấp hơn giá cân bằng"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Đường cung dịch chuyển sang phải có nghĩa là:",
+    "answer": "Lượng cung ứng với mỗi mức giá tăng lên"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Nhân tố nào sau gây ra sự vận động dọc theo đường cầu:",
+    "answer": "Giá của bản thân hàng hoá"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Nếu giá tăng 10% dẫn đến lượng cầu giảm 5% thì độ co giãn của cầu theo giá là:",
+    "answer": "-0,5"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": ". Nếu độ co giãn của cầu theo giá bằng -2 có nghĩa là giá tăng 10% dẫn đến:",
+    "answer": "lượng cầu giảm 20%"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Co giãn của cầu theo thu nhập là phần trăm",
+    "answer": "thay đổi trong lượng cầu chia cho phần trăm thay đổi trong thu nhập"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Nếu giá của hàng hóa Y tăng làm cho cầu về hàng hóa X tăng thì",
+    "answer": "X và Y là 2 hàng hóa thay thế"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Các yếu tố khác không đổi, khi thu nhập tăng lên, thặng dư tiêu dùng của hàng hóa thông thường thay đổi như thế nào?",
+    "answer": "nó sẽ tăng"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Nếu tiêu dùng hết thu nhập và ích lợi cận biên trên một $ của tất cả các hàng hóa chi mua là bằng nhau thì",
+    "answer": "tổng ích lợi là lớn nhất"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Giả sử bạn ăn xúc xích và uống Coca và bạn tin rằng thu được tổng ích lợi lớn nhất từ bữa ăn đó với mức chi là $6. Giá của một chiếc xúc xích và một lon Coca đều là $1. Có thể rút ra kết luận nào sau đây?",
+    "answer": "số lượng chiếc xúc xích được ăn / số lượng lon Coca được uống, ích lợi cận biên của xúc xích và Coca là bằng nhau"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": ". Ích lợi cận biên giảm dần có nghĩa là:",
+    "answer": "Bảo sẽ thích chiếc bánh mỳ thứ nhất hơn chiếc bánh mỳ thứ hai"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Chi phí cận biên được tính là",
+    "answer": "sự tăng lên của tổng chi phí chia cho sự gia tăng của sản lượng"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Khi sản phẩm cận biên của lao động nhỏ hơn sản phẩm trung bình của lao động",
+    "answer": "hãng đang gặp năng suất cận biên giảm dần"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Hiệu suất không đổi theo quy mô có nghĩa là khi tất cả các đầu vào tăng lên:",
+    "answer": "Chi phí trung bình dài hạn không đổi"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Trong những tuyên bố đề cập đến chi phí ngắn hạn dưới đây, tuyên bố nào là sai?",
+    "answer": "khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần là chi phí cận biên"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Một hãng cạnh tranh hoàn hảo có hàm chi phí là Q2 + Q+ 169.",
+    "answer": "Q = 27"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Điều nào dưới đây không phải là đặc điểm của thị trường cạnh tranh hoàn hảo:",
+    "answer": "Sản phẩm khác nhau"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Đường cung của một hãng cạnh tranh hoàn hảo là phần dốc lên của",
+    "answer": "Đường chi phí cận biên của hãng, ở tất cả những điểm phía trên điểm chi phí biến đổi trung bình tối thiểu"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Một hãng nên đóng cửa sản xuất nếu giá",
+    "answer": "Nhỏ hơn chi phí biến đổi trung bình tối thiểu"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Nước A không cho phép thương mại quốc tế. Ở nước này, người ta có thể mua 1 cân cá với giá là 2 cân thịt bò. Ở các nước khác, người ta có thể mua 1 cân cá với giá là 1,5 cân thịt bò. Điều này chỉ ra rằng",
+    "answer": "Nếu nước A cho phép thương mại quốc tế, họ sẽ nhập khẩu cá"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Đường giới hạn khả năng sản xuất của một nền kinh tế cũng chính là đường giới hạn khả năng tiêu dùng của nền kinh tế đó",
+    "answer": "Khi nền kinh tế không tham gia vào thương mại quốc tế"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Khi phân tích lợi ích và chi phí từ thương mại quốc tế, nếu ta nói rằng nước A là nước nhỏ có nghĩa là",
+    "answer": "Nước A là người chấp nhận giá"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Giả sử ở Việt Nam, mức giá trong nước của cà chua khi không có thương mại quốc tế cao hơn mức giá thế giới. Điều này chứng tỏ rằng trong việc sản xuất cà chua thì",
+    "answer": "Các nước khác có lợi thế so sánh so với Việt Nam và Việt Nam nên nhập khẩu cà chua"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Sự tiêu dùng tự do (không phải trả tiền):",
+    "answer": "Có thể xảy ra nếu việc tiêu dùng hàng hóa dịch vụ không có tính loại trừ"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Lượng hàng hóa công cộng do thị trường không bị điều tiết sản xuất có xu hướng:",
+    "answer": "ít hơn mức sản lượng có hiệu quả"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Chính phủ giải quyết vấn đề ngoại ứng bằng cách",
+    "answer": "Đánh thuế vào ngoại ứng tiêu cực và trợ cấp cho ngoại ứng tích cực"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Đường cầu thị trường đối với hàng hóa công cộng được xác định",
+    "answer": "Cộng các đường lợi ích cận biên cá nhân theo chiều dọc"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Dọc theo đường giới hạn khả năng sản xuất, chi phí cơ hội là:",
+    "answer": "Số lượng một hàng hoá phải hy sinh để sản xuất thêm một đơn vị hàng hoá kia"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X2 +Y2=225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp.",
+    "answer": "Nền kinh tế không có khả năng sản xuất kết hợp hàng hóa trên vì nó nằm ngoài khả năng của nền kinh tế."
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Hàm tổng lợi ích (TB) và hàm tổng chi phí (TC) của một hoạt động như sau: TB=200Q - Q2và TC=200 + 20Q + 0,5Q2.",
+    "answer": "Tăng sản lượng"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X2 +Y2=225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp.",
+    "answer": "Y=5"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Thuế đánh vào đơn vị hàng hoá của nhà sản xuất sẽ làm cho:",
+    "answer": "Đường cung của nhà sản xuất dịch chuyển lên trên"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Giả sử thị trường có ba cá nhân khác nhau có phương trình cầu như sau: P1 =100–Q1; P2= 80 – 0,5Q2 và P3 = 60 – 0,4Q3. Phương trình đường cầu của thị trường là:",
+    "answer": "Q= 410 – 5,5P"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Trong nền kinh tế thị trường, giá cân bằng được xác định bởi",
+    "answer": "Tương tác giữa cung và cầu"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Đường cung thị trường có thể được xác định bằng cách:",
+    "answer": "Cộng tất cả đường cung của các cá nhân theo chiều ngang"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Học phí giảm sẽ làm giảm doanh thu của các trường đại học nếu cầu về giáo dục đại học là",
+    "answer": "nằm giữa 0 và 1"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Nếu giá giảm 6% dẫn đến lượng cầu tăng 5%, độ co giãn của cầu bằng",
+    "answer": "-0,83"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Nếu co giãn chéo giữa hai hàng hóa X và Y là dương, thì",
+    "answer": "X và Y là 2 hàng hóa thay thế"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Cầu sẽ co giãn nhiều hơn nếu",
+    "answer": "khoảng thời gian kể từ khi giá thay đổi dài hơn"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Mai có thể mua A hoặc B. Giá của cả A và B là $1. Khi chi tiêu hết thu nhập, Mai thu được ích lợi cận biên từ mua A là 10 và từ B là 8. Mai sẽ có lợi hơn nếu",
+    "answer": "mua nhiều A hơn và ít B hơn"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Theo lý thuyết về ích lợi, người tiêu dùng",
+    "answer": "tối đa hóa ích lợi và làm cân bằng ích lợi cân biên trên một $ của tất cả các hàng hóa chi mua"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Một nhà kinh tế học định nghĩa sở thích là",
+    "answer": "việc thích hay không thích các loại hàng hóa của một cá nhân"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Bảo có thể ăn xôi hoặc phở. Giá của xôi là 1000đ, trong khi giá của phở là 5000đ. Giả sử ích lợi cận biên của xôi là MUx, của phở là MUp. ở điểm cân bằng, tỷ số MUx/ MUp bằng:",
+    "answer": "1/5"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Trong kinh tế học, ngắn hạn đề cập đến giai đoạn",
+    "answer": "trong đó ít nhất một đầu vào cố định và ít nhất một đầu vào biến đổi"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Quy luật hiệu suất giảm dần đúng với",
+    "answer": "Đầu vào lao động và tư bản"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Trong các đẳng thức dưới đây đẳng thức nào đúng ứng với mức sản lượng tại đó ATC đạt giá trị cực tiểu",
+    "answer": "MC=ATC, P=AVC"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Sản phẩm cận biên của lao động là sự thay đổi trong tổng sản phẩm gây ra bởi",
+    "answer": "tăng một đơn vị lao động, với lượng vốn không đổi"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Sức mạnh thị trường đề cập tới",
+    "answer": "Khả năng đặt giá"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Trong điều kiện nào dưới đây, một hãng cạnh tranh hoàn hảo sẽ kiếm được lợi nhuận kinh tế",
+    "answer": "MR>ATC"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Đối với một hãng độc quyền tự nhiên, đường tổng chi phí trung bình",
+    "answer": "Luôn giảm khi hãng tăng sản lượng"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Trong cạnh tranh hoàn hảo, doanh thu bình quân của một hãng là",
+    "answer": "Bằng giá"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Khi nào hai nước A và B có thể thu được lợi ích từ việc trao đổi hai hàng hóa 1 và 2",
+    "answer": "Hai nước có thể thu được lợi ích từ việc trao đổi hai hàng hóa trong tất cả các trường hợp"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Nếu nước E có lợi thế tuyệt đối so với các nước khác trong việc sản xuất đường, nhưng các nước khác có lợi thế so sánh so với nước E trong việc sản xuất đường. Nếu thương mại quốc tế với đường được cho phép thì nước E sẽ",
+    "answer": "Nhập khẩu đường"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Lợi thế tuyệt đối được xác định bởi việc so sánh",
+    "answer": "Mức đầu vào cần thiết cho một đơn vị đầu ra"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Giả sử nước A xuất khẩu điện thoại sang nước B và nhập khẩu gạo từ nước C. Tình huống này cho thấy rằng",
+    "answer": "Nước A có lợi thế so sánh so với nước B trong việc sản xuất điện thoại, nước C có lợi thế so sánh so với nước A trong việc sản xuất gạo"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Các đợt tiêm phòng để chống lại các bênh lây lan tạo ra",
+    "answer": "Ngoại ứng tích cực"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Khi sự tiêu dùng không có tính cạnh tranh và không có tính loại trừ, thì sản phẩm là một",
+    "answer": "Hàng hóa công cộng"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": ". Việc sản xuất quá nhiều hàng hóa có ngoại ứng tiêu cực là ví dụ về",
+    "answer": "Thất bại thị trường"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Chính phủ cung cấp hàng hóa công cộng thuần túy như an ninh quốc gia vì",
+    "answer": "Vấn đề tiêu dùng tự do xuất hiện"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Một mô hình kinh tế tốt bao gồm:",
+    "answer": "Số lượng ít nhất các thông tin cần thiết để trả lời các câu hỏi đề cập trong mô hình"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Một nền kinh tế có đường giới hạn năng lực sản xuất được biểu diễn bằng phương trình sau X+2Y=100.",
+    "answer": "Đường thẳng tuyến tính"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Một nền kinh tế có đường giới hạn năng lực sản xuất được biểu diễn bằng phương trình sau X+2Y=100. Đường giới hạn năng lực sản xuất trên cho biết:",
+    "answer": "Lượng X tối đa là 100 và lượng Y tối đa là 50"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Bộ phận của kinh tế học nghiên cứu các quyết định của hãng và hộ gia đình được gọi là:",
+    "answer": "Kinh tế vi mô"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Có thể hạn chế dư thừa hàng hóa trên thị trường thông qua:",
+    "answer": "Giảm giá"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Điều nào dưới đây gây ra sự dịch chuyển của đường cung:",
+    "answer": "Công nghệ sản xuất thay đổi"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": ". Thị trường sản phẩm A có hàm cung và cầu như sau:Ps = 10 + Qs và Pd = 100 - Qd",
+    "answer": "Thiếu hụt 30"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Khi cung tăng và cầu giảm thì:",
+    "answer": "Giá cân bằng chắc chắn giảm"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Giả sử giá của A giảm từ $10, 50 xuống $9, 50 làm cho lượng cầu về B tăng từ 7960 lên 8040 đơn vị. Co giãn chéo giữa A và B là:",
+    "answer": "-0,1"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Giả sử giá của một hàng hóa tăng từ $5, 5 lên $6, 5 làm cho lượng cầu về hàng hóa đó giảm từ 12.000 xuống 11.500 đơn vị. co giãn khoảng của cầu theo giá là:",
+    "answer": "-0,5"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Nếu cầu về nước cam ép là co giãn theo giá, thời tiết băng giá làm mất mùa cam sẽ gây ra",
+    "answer": "lượng cân bằng giảm và tổng chi tiêu về nước cam cũng giảm"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Nếu phần trăm tăng lên trong giá là như nhau có thể dẫn đến phần trăm giảm trong lượng cầu là nhiều hơn nếu",
+    "answer": "tỷ lệ thu nhập cho chi tiêu vào hàng hóa đó là nhiều hơn"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Giả sử MUA và MUB tương ứng là ích lợi cận biên của hai hàng hóa A và B; PA và PB là giá của hai hàng hóa đó. Công thức nào sau đây minh họa ở điểm cân bằng?",
+    "answer": "MUA/ MUB = PA / PB"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": ". Mai tiêu dùng 2 hàng hóa A và B, và đang ở điểm cân bằng. ích lợi cận biên của đơn vị hàng hóa A cuối cùng là 10 và B là 5. Nếu giá của A là $0,5, thì giá của B là:",
+    "answer": "$0,25"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Khi số lượng hàng hóa được tiêu dùng tăng lên",
+    "answer": "ích lợi cận biên giảm xuống"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Ích lợi tăng thêm từ tiêu dùng đơn vị hàng hóa cuối cùng gọi là",
+    "answer": "ích lợi cận biên"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": ". Năng suất cận biên giảm dần đề cập tới tình huống mà ________ của công nhân cuối cùng giảm xuống thấp hơn ________ của người công nhân trước đó",
+    "answer": "sản phẩm cận biên, sản phẩm cận biên"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Chi phí cận biên là",
+    "answer": "sự gia tăng tổng chi phí khi sản xuất thêm một đơn vị sản phẩm"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Khi giá yếu tố đầu vào cố định của một hãng tăng sẽ làm cho",
+    "answer": "Đường chi phí cận biên dịch chuyển lên trên"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Tuyên bố nào dưới đây là đúng?",
+    "answer": "Đường sản phẩm trung bình đạt giá trị cao nhất khi sản phẩm cận biên bằng sản phẩm trung bình"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Một nhà độc quyền có hàm chi phí TC = Q2 + 2Q + 100 và đối diện với hàm cầu P = 122 – Q. Để tối đa hoá doanh thu, nhà độc quyền sẽ sản xuất tại mức sản lượng Q và bán với giá P là:",
+    "answer": "Q= 61; P = 61"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Một hãng cạnh tranh hoàn hảo có hàm chi phí là Q2 + Q + 169.",
+    "answer": "Ps = 2Q + 1"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Mô hình đường cầu gẫy",
+    "answer": "Giả định rằng các đối thủ sẽ đáp lại sự giảm giá và lờ đi sự tăng giá"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Thị trường sản phẩm A được coi là cạnh tranh và được mô tả bằng hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd.",
+    "answer": "CS = 1012,5; PS = 1012,5"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "A trồng lúa và B nuôi cá. Trong trường hợp nào thì A và B không thể thu được lợi ích từ trao đổi",
+    "answer": "A không thích tiêu dùng cá và B không thích tiêu dùng lúa"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Trong phân tích về lợi ích và chi phí từ thương mại quốc tế, việc giả sử một nền kinh tế là nhỏ thường được thực hiện bởi",
+    "answer": "Nhờ đó chúng ta có thể giả sử rằng mức giá thế giới sẽ không bị ảnh hưởng bởi sự tham gia của quốc gia này vào thương mại quốc tế"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Một quốc gia có lợi thế so sánh trong việc sản xuất một sản phẩm nếu mức giá thế giới",
+    "answer": "Cao hơn mức giá trong nước khi không có thương mại"
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Nguyên lý về lợi thế so sánh cho thấy",
+    "answer": "Một quốc gia có thể thu lợi từ việc tập trung nguồn lực vào hàng hóa mà họ sản xuất hiệu quả nhất"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Thu nhập không công bằng trong nền kinh tế vì",
+    "answer": "Thị trường xác định giá yếu tố sản xuất"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Các ngoại ứng tích cực là",
+    "answer": "Những lợi ích mà những người không trả tiền cho sản phẩm được nhận"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Điều nào sau đây được các nhà kinh tế học gọi là thất bại thị trường",
+    "answer": "Cung cấp hàng hóa và dịch vụ công cộng"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Một nhà độc quyền tự nhiên có hàm cầu P=1000-Q, trong đó P tính bằng $ và Q tính bằng chiếc. Nhà độc quyền có hàm tổng chi phí là TC=21000+300Q",
+    "answer": "500"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Thực tiễn nhu cầu của con người không được thoả mãn đầy đủ với nguồn lực hiện có được gọi là vấn đề:",
+    "answer": "Khan hiếm"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Tăng trưởng kinh tế có thể được minh hoạ bởi:",
+    "answer": "Sự dịch chuyển đường giới hạn khả năng sản xuất ra bên ngoài"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Hàm tổng lợi ích (TB) và hàm tổng chi phí (TC) của một hoạt động như sau: TB=200Q - Q2và TC=200 + 20Q + 0,5Q2.",
+    "answer": "Q=100"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": ". Điều nào dưới đây là tuyên bố thực chứng:",
+    "answer": "Tiền thuê nhà thấp sẽ hạn chế cung nhà ở"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Thị trường sản phẩm A có hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd.",
+    "answer": "5/sản phẩm"
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Điều nào sau đây sau mô tả đường cầu:",
+    "answer": "Số lượng hàng hoá mà người tiêu dùng muốn mua và có khả năng mua tại các mức giá khác nhau trong một khoảng thời gian xác định (các yếu tố khác không đổi)"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Thị trường sản phẩm A có hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd.",
+    "answer": "5/sản phẩm"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Nếu cả cung và cầu đều tăng, giá thị trường sẽ:",
+    "answer": "Có thể tăng, giảm hoặc không đổi"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": ". Một hàng hóa có cầu là co giãn khi giá trị của độ co giãn là",
+    "answer": "nằm giữa 1 và vô cùng"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Thu nhập của Minh tăng từ $950/ tuần lên $1050/tuần. Kết quả là anh ta quyết định tăng số bộ phim anh ta sẽ xem lên 5%. Vậy cầu về phim của Minh là:",
+    "answer": "không co giãn theo thu nhập"
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": ". Giả sử lượng cầu về bia tươi giảm từ 103.000 lít /tuần xuống 97.000lít/tuần do giá tăng 10%. Co giãn của cầu theo giá:",
+    "answer": "là -0,6"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Thu nhập tăng 10% làm cho lượng cầu tăng 5%. Co giãn của cầu theo thu nhập là:",
+    "answer": "0,5"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Giả sử bạn ăn xúc xích và uống Coca và bạn tin rằng thu được tổng ích lợi lớn nhất từ bữa ăn đó với mức chi là $6. Giá của một chiếc xúc xích và một lon Coca đều là $1. Giả sử giá của một chiếc xúc xích tăng lên thành $2. Bạn sẽ thay đổi số lượng xúc xích và Coca được mua và tin rằng sẽ lại tối đa hóa tổng ích lợi. Có thể rút ra kết luận nào sau đây?",
+    "answer": "ích lợi cận biên của xúc xích phải tăng lên so với ích lợi cận biên của Coca"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Ở điểm cân bằng, câu nào sau đây là không đúng?",
+    "answer": "tổng ích lợi của tất cả các hàng hóa là bằng nhau"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Tổng ích lợi bằng",
+    "answer": "tổng ích lợi cận biên của tất cả các đơn vị hàng hóa được tiêu dùng"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Giả sử Hà có thể ăn táo, cam và đào. Nếu Hà tăng lượng cam tiêu dùng, ceteris paribus, theo lý thuyết ích lợi thì ích lợi cận biên của",
+    "answer": "cam giảm"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Nếu ATC đang giảm, khi đó MC phải",
+    "answer": "phía dưới ATC"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Chi phí cận biên (MC) cắt",
+    "answer": "ATC và AVC tại điểm cực tiểu của chúng"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Chi phí cố định của một hãng là 100$. Nếu tổng chi phí sản xuất một đơn vị sản phẩm là 200$ và tổng chi phí sản xuất 2 đơn vị sản phẩm là 310$, chi phí cận biên của đơn vị sản phẩm thứ 2 là",
+    "answer": "110$"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Khi tiền lương lao động trực tiếp tăng lên",
+    "answer": "Các đường TC, ATC, AVC và MC đều dịch chuyển lên trên"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Một hãng cạnh tranh hoàn hảo có hàm chi phí là Q2 + Q+ 169.",
+    "answer": "13"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Đường cung của độc quyền bán",
+    "answer": "Trong độc quyền không có đường cung"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Khả năng tối đa hóa lợi nhuận bằng việc đặt giá là",
+    "answer": "Một đặc trưng cơ bản của độc quyền"
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây không phải của độc quyền tập đoàn",
+    "answer": "Lượng bán của một hãng sẽ không có ảnh hưởng đáng kể đến các hãng khác"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Nếu nước D có lợi thế so sánh so với các nước khác trong việc sản xuất đường, nhưng các nước khác có lợi thế tuyệt đối so với nước D trong việc sản xuất đường. Nếu thương mại quốc tế với đường được cho phép thì nước D sẽ",
+    "answer": "Xuất khẩu đường"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Nếu một quốc gia cho phép thương mại, và với một hàng hóa mức giá trong nước khi không có thương mại thấp hơn mức giá thế giới",
+    "answer": "Nước đó sẽ xuất khẩu hàng hóa đó"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Khi phân tích lợi ích và chi phí từ thương mại quốc tế, nếu ta nói rằng nước A là nước nhỏ có nghĩa là",
+    "answer": "Nước A là người chấp nhận giá"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Khi nào hai nước A và B có thể thu được lợi ích từ việc trao đổi hai hàng hóa 1 và 2",
+    "answer": "Hai nước có thể thu được lợi ích từ việc trao đổi hai hàng hóa trong tất cả các trường hợp"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Chính phủ có thể khắc phục mất công bằng trong phân phối thu nhập thông qua",
+    "answer": "Đánh thuế thu nhập"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Hàng hóa nào sau đây không có tính loại trừ trong tiêu dùng",
+    "answer": "Ngọn hải đăng"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Khi sự tiêu dùng có tính cạnh tranh và có tính loại trừ, thì sản phẩm là một",
+    "answer": "Hàng hóa tư nhân"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Điều nào sau đây được các nhà kinh tế học gọi là thất bại thị trường",
+    "answer": "Sản xuất những hàng hóa, dịch vụ gây ra ngoại ứng"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Chi phí cơ hội là:",
+    "answer": "Giá trị của sự lựa chọn tốt nhất bị bỏ qua khi đưa ra sự lựa chọn"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Hoa có thể chọn đi xem phim hoặc đi chơi tennis. Nếu như Hoa quyết định đi xem phim thì giá trị của việc chơi tennis là:",
+    "answer": "Là chi phí cơ hội của việc xem phim"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Điều nào dưới đây không được coi là bộ phận của chi phí cơ hội của việc đi học đại học:",
+    "answer": "Chi phí ăn uống"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Các kết hợp hàng hoá nằm phía trong đường giới hạn khả năng sản xuất là:",
+    "answer": "Sản xuất không hiệu quả"
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Thị trường sản phẩm A có hàm cung và cầu như sau:Ps = 10 + Qs và Pd = 100 - Qd",
+    "answer": "TR=2475"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Nếu giá cam tăng lên bạn sẽ nghĩ gì về giá của quýt trên cùng một thị trường",
+    "answer": "Giá quýt sẽ tăng"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Thị trường sản phẩm A có hàm cung và cầu như sau:Ps = 10 + Qs và Pd = 100 - Qd",
+    "answer": "Pe =55 và Qe = 45"
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Đối với hàng hóa bình thường, khi thu nhập tăng:",
+    "answer": "Đường cầu dịch chuyển sang phải"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": ". Nếu cầu về một hàng hóa là co giãn đơn vị, giá tăng 5% sẽ dẫn đến",
+    "answer": "tổng doanh thu không đổi"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Cầu về một hàng hóa là không co giãn nếu",
+    "answer": "giá tăng làm tổng doanh thu tăng"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Nếu giá giảm xuống rất nhiều dẫn đến lượng cầu tăng lên không đáng kể thì",
+    "answer": "Cầu là không co giãn"
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Nếu giá tăng làm tổng doanh thu giảm thì co giãn của cầu theo giá là",
+    "answer": "lớn hơn 1"
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": ". Nếu Mai tối đa hóa ích lợi và 2 hàng hóa mà cô ta tiêu dùng có cùng ích lợi cận biên, thì",
+    "answer": "Mai sẵn sàng trả giá như nhau cho 2 loại hàng hóa đó"
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "ích lợi cận biên bằng",
+    "answer": "độ dốc của đường tổng ích lợi"
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Có một thực tế rằng cốc nước cam thứ ba không mang lại sự thỏa mãn nhiều như cốc nước cam thứ hai, đây và một ví dụ về",
+    "answer": "lợi ích cận biên giảm dần"
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "Đường cầu có độ dốc âm được xác định trực tiếp từ",
+    "answer": "quy luật ích lợi cận biên giảm dần"
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Tuyên bố nào dưới đây là sai",
+    "answer": "Tổng chi phí bằng chi phí cố định cộng chi phí trung bình"
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Quy luật năng suất cận biên giảm dần nói rằng",
+    "answer": "Khi một hãng sử dụng ngày càng nhiều một đầu vào biến đổi, với lượng các đầu vào cố định cho trước, sản phẩm cận biên của đầu vào biến đổi cuối cùng sẽ giảm xuống"
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "Tuyên bố nào dưới đây là đúng?",
+    "answer": "Đường sản phẩm trung bình đạt giá trị cao nhất khi sản phẩm cận biên bằng sản phẩm trung bình"
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": ". Năng suất cận biên giảm dần đề cập tới tình huống mà ________ của công nhân cuối cùng giảm xuống thấp hơn ________ của người công nhân trước đó",
+    "answer": "sản phẩm cận biên, sản phẩm cận biên"
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Nhà độc quyền đối diện với đường cầu dốc xuống, doanh thu cận biên không bao giờ lớn hơn giá vì",
+    "answer": "Nhà độc quyền phải giảm giá để bán thêm sản phẩm trong bất kỳ giai đoạn nào"
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "Thị trường sản phẩm A được coi là cạnh tranh và được mô tả bằng hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd.",
+    "answer": "Pe = 55 và Qe = 45"
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": "Thị trường sản phẩm A được coi là cạnh tranh và được mô tả bằng hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd.",
+    "answer": "CS = 1012,5; PS = 1012,5"
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": "Sức mạnh thị trường đề cập tới",
+    "answer": "Khả năng đặt giá"
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Nguyên lý về lợi thế so sánh cho thấy",
+    "answer": "Một quốc gia có thể thu lợi từ việc tập trung nguồn lực vào hàng hóa mà họ sản xuất hiệu quả nhất"
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "Giả sử nước A xuất khẩu điện thoại sang nước B và nhập khẩu gạo từ nước C. Tình huống này cho thấy rằng",
+    "answer": "Nước A có lợi thế so sánh so với nước B trong việc sản xuất điện thoại, nước C có lợi thế so sánh so với nước A trong việc sản xuất gạo"
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Nếu nước E có lợi thế tuyệt đối so với các nước khác trong việc sản xuất đường, nhưng các nước khác có lợi thế so sánh so với nước E trong việc sản xuất đường. Nếu thương mại quốc tế với đường được cho phép thì nước E sẽ",
+    "answer": "Nhập khẩu đường"
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Nếu nước D có lợi thế so sánh so với các nước khác trong việc sản xuất đường, nhưng các nước khác có lợi thế tuyệt đối so với nước D trong việc sản xuất đường. Nếu thương mại quốc tế với đường được cho phép thì nước D sẽ",
+    "answer": "Xuất khẩu đường"
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "Một nhà độc quyền tự nhiên có hàm cầu P=1000-Q, trong đó P tính bằng $ và Q tính bằng chiếc. Nhà độc quyền có hàm tổng chi phí là TC=21000+300Q",
+    "answer": "DWL= 61250"
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Chính phủ điều tiết độc quyền tự nhiên nhằm mục tiêu",
+    "answer": "Giảm giá và tăng sản lượng của nhà độc quyền"
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Chính phủ có thể khắc phục mất công bằng trong phân phối thu nhập thông qua",
+    "answer": "Đánh thuế thu nhập"
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Hàng hóa nào sau đây không có tính loại trừ trong tiêu dùng",
+    "answer": "Ngọn hải đăng"
+  },
+  {
+    "id": 321,
+    "premium": false,
+    "question": "Một nền kinh tế có đường giới hạn năng lực sản xuất được minh họa bởi phương trình sau: 2X2 +Y2=225 trong đó X là hàng hoá nông nghiệp còn Y là hàng hoá công nghiệp.",
+    "answer": "Nền kinh tế không có khả năng sản xuất kết hợp hàng hóa trên vì nó nằm ngoài khả năng của nền kinh tế."
+  },
+  {
+    "id": 322,
+    "premium": false,
+    "question": "Vấn đề khan hiếm tồn tại:",
+    "answer": "Trong tất cả các nền kinh tế"
+  },
+  {
+    "id": 323,
+    "premium": false,
+    "question": "Một nền kinh tế có đường giới hạn năng lực sản xuất được biểu diễn bằng phương trình sau X+2Y=100.",
+    "answer": "Đường thẳng tuyến tính"
+  },
+  {
+    "id": 324,
+    "premium": false,
+    "question": "Hàm tổng lợi ích (TB) và hàm tổng chi phí (TC) của một hoạt động như sau: TB=200Q - Q2và TC=200 + 20Q + 0,5Q2.",
+    "answer": "Q=100"
+  },
+  {
+    "id": 325,
+    "premium": false,
+    "question": "Nếu giá hàng hoá X tăng lên gây ra sự dịch chuyển của đường cầu đối với hàng hoá Y về phía bên trái thì:",
+    "answer": "X và Y là hàng hoá bổ sung trong tiêu dùng."
+  },
+  {
+    "id": 326,
+    "premium": false,
+    "question": "Giả sử thị trường có ba cá nhân khác nhau có phương trình cung như sau: P1 =10 + Q1; P2 =18 +0,5Q2 và P3=16 + 0,4Q3. Phương trình đường cung của thị trường là:",
+    "answer": "Q= -86 + 5,5P"
+  },
+  {
+    "id": 327,
+    "premium": false,
+    "question": "Điều nào dưới đây gây ra sự dịch chuyển của đường cung:",
+    "answer": "Công nghệ sản xuất thay đổi"
+  },
+  {
+    "id": 328,
+    "premium": false,
+    "question": "Điều nào sau đây sau mô tả đường cầu:",
+    "answer": "Số lượng hàng hoá mà người tiêu dùng muốn mua và có khả năng mua tại các mức giá khác nhau trong một khoảng thời gian xác định (các yếu tố khác không đổi)"
+  },
+  {
+    "id": 329,
+    "premium": false,
+    "question": "Giả sử giá của một hàng hóa tăng từ $5, 5 lên $6, 5 làm cho lượng cầu về hàng hóa đó giảm từ 12.000 xuống 11.500 đơn vị. co giãn khoảng của cầu theo giá là:",
+    "answer": "-0,5"
+  },
+  {
+    "id": 330,
+    "premium": false,
+    "question": "Nếu phần trăm tăng lên trong giá là như nhau có thể dẫn đến phần trăm giảm trong lượng cầu là nhiều hơn nếu",
+    "answer": "tỷ lệ thu nhập cho chi tiêu vào hàng hóa đó là nhiều hơn"
+  },
+  {
+    "id": 331,
+    "premium": false,
+    "question": "Nếu giá giảm 6% dẫn đến lượng cầu tăng 5%, độ co giãn của cầu bằng",
+    "answer": "-0,83"
+  },
+  {
+    "id": 332,
+    "premium": false,
+    "question": ". Một hàng hóa có cầu là co giãn khi giá trị của độ co giãn là",
+    "answer": "nằm giữa 1 và vô cùng"
+  },
+  {
+    "id": 333,
+    "premium": false,
+    "question": "Giả sử bạn ăn xúc xích và uống Coca và bạn tin rằng thu được tổng ích lợi lớn nhất từ bữa ăn đó với mức chi là $6. Giá của một chiếc xúc xích và một lon Coca đều là $1. Có thể rút ra kết luận nào sau đây?",
+    "answer": "số lượng chiếc xúc xích được ăn / số lượng lon Coca được uống, ích lợi cận biên của xúc xích và Coca là bằng nhau"
+  },
+  {
+    "id": 334,
+    "premium": false,
+    "question": "Có một thực tế rằng cốc nước cam thứ ba không mang lại sự thỏa mãn nhiều như cốc nước cam thứ hai, đây và một ví dụ về",
+    "answer": "lợi ích cận biên giảm dần"
+  },
+  {
+    "id": 335,
+    "premium": false,
+    "question": "Một nhà kinh tế học định nghĩa sở thích là",
+    "answer": "việc thích hay không thích các loại hàng hóa của một cá nhân"
+  },
+  {
+    "id": 336,
+    "premium": false,
+    "question": ". Mai tiêu dùng 2 hàng hóa A và B, và đang ở điểm cân bằng. ích lợi cận biên của đơn vị hàng hóa A cuối cùng là 10 và B là 5. Nếu giá của A là $0,5, thì giá của B là:",
+    "answer": "$0,25"
+  },
+  {
+    "id": 337,
+    "premium": false,
+    "question": "Giả sử tăng thêm 1 đơn vị lao động, từ 2 lên 3 công nhân, sản lượng tăng từ 10 đến 15 cái áo len. Sản phẩm cận biên của người công nhân thứ 3 là",
+    "answer": "5"
+  },
+  {
+    "id": 338,
+    "premium": false,
+    "question": "Chi phí cố định của một hãng là 100$. Nếu tổng chi phí sản xuất một đơn vị sản phẩm là 200$ và tổng chi phí sản xuất 2 đơn vị sản phẩm là 310$, chi phí cận biên của đơn vị sản phẩm thứ 2 là",
+    "answer": "110$"
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Khi sản phẩm cận biên của lao động lớn hơn sản phẩm trung bình của lao động",
+    "answer": "sản phẩm trung bình của lao động đang tăng"
+  },
+  {
+    "id": 340,
+    "premium": false,
+    "question": "Lợi nhuận kinh tế được định nghĩa là sự chênh lệch giữa tổng doanh thu và",
+    "answer": "Chi phí kinh tế của sản xuất"
+  },
+  {
+    "id": 341,
+    "premium": false,
+    "question": "Một hãng cạnh tranh hoàn hảo có hàm chi phí là Q2 + Q + 169.",
+    "answer": "Ps = 2Q + 1"
+  },
+  {
+    "id": 342,
+    "premium": false,
+    "question": "Khả năng tối đa hóa lợi nhuận bằng việc đặt giá là",
+    "answer": "Một đặc trưng cơ bản của độc quyền"
+  },
+  {
+    "id": 343,
+    "premium": false,
+    "question": "Đối với một hãng độc quyền tự nhiên, đường tổng chi phí trung bình",
+    "answer": "Luôn giảm khi hãng tăng sản lượng"
+  },
+  {
+    "id": 344,
+    "premium": false,
+    "question": "Một nhà độc quyền có hàm chi phí TC = Q2 + 2Q + 100 và đối diện với hàm cầu P = 122 – Q.",
+    "answer": "IImax = 1700"
+  },
+  {
+    "id": 345,
+    "premium": false,
+    "question": "Một quốc gia có lợi thế so sánh trong việc sản xuất một sản phẩm nếu mức giá thế giới",
+    "answer": "Cao hơn mức giá trong nước khi không có thương mại"
+  },
+  {
+    "id": 346,
+    "premium": false,
+    "question": "Nếu nước A có thể sản xuất lương thực, quần áo hoặc một kết hợp của hai loại hàng hóa này thì",
+    "answer": "Chi phí cơ hội của việc sản xuất lượng thực của nước A là nghịch đảo của chi phí cơ hội của việc sản xuất quần áo."
+  },
+  {
+    "id": 347,
+    "premium": false,
+    "question": "Trong phân tích về lợi ích và chi phí từ thương mại quốc tế, việc giả sử một nền kinh tế là nhỏ thường được thực hiện bởi",
+    "answer": "Nhờ đó chúng ta có thể giả sử rằng mức giá thế giới sẽ không bị ảnh hưởng bởi sự tham gia của quốc gia này vào thương mại quốc tế"
+  },
+  {
+    "id": 348,
+    "premium": false,
+    "question": "Nước A không cho phép thương mại quốc tế. Ở nước này, người ta có thể mua 1 cân cá với giá là 2 cân thịt bò. Ở các nước khác, người ta có thể mua 1 cân cá với giá là 3 cân thịt bò. Điều này chỉ ra rằng",
+    "answer": "Nếu nước B cho phép thương mại quốc tế, họ sẽ xuất khẩu cá"
+  },
+  {
+    "id": 349,
+    "premium": false,
+    "question": "Độc quyền tự nhiên thường có",
+    "answer": "Chi phí cố định cao và chi phí cận biên thấp"
+  },
+  {
+    "id": 350,
+    "premium": false,
+    "question": "Các ngoại ứng tích cực là",
+    "answer": "Những lợi ích mà những người không trả tiền cho sản phẩm được nhận"
+  },
+  {
+    "id": 351,
+    "premium": false,
+    "question": "Điều nào sau đây được các nhà kinh tế học gọi là thất bại thị trường",
+    "answer": "Sản xuất những hàng hóa, dịch vụ gây ra ngoại ứng"
+  },
+  {
+    "id": 352,
+    "premium": false,
+    "question": "Điều nào sau đây được các nhà kinh tế học gọi là thất bại thị trường",
+    "answer": "Cung cấp hàng hóa và dịch vụ công cộng"
+  },
+  {
+    "id": 353,
+    "premium": false,
+    "question": ". Điều nào dưới đây là tuyên bố thực chứng:",
+    "answer": "Tiền thuê nhà thấp sẽ hạn chế cung nhà ở"
+  },
+  {
+    "id": 354,
+    "premium": false,
+    "question": "Đường giới hạn khả năng sản xuất biểu thị:",
+    "answer": "Những kết hợp hàng hoá có thể sản xuất của nền kinh tế"
+  },
+  {
+    "id": 355,
+    "premium": false,
+    "question": "Vấn đề nào dưới đây không thuộc kinh tế vĩ mô:",
+    "answer": "Các nguyên nhân làm giá cam giảm"
+  },
+  {
+    "id": 356,
+    "premium": false,
+    "question": "Các kết hợp hàng hoá nằm phía trong đường giới hạn khả năng sản xuất là:",
+    "answer": "Sản xuất không hiệu quả"
+  },
+  {
+    "id": 357,
+    "premium": false,
+    "question": "Đường cung về thịt bò dịch chuyển là do:",
+    "answer": "Chi phí chăn nuôi bò tăng"
+  },
+  {
+    "id": 358,
+    "premium": false,
+    "question": "Giả sử thị trường có ba cá nhân khác nhau có phương trình cầu như sau: P1 =100–Q1; P2= 80 – 0,5Q2 và P3 = 60 – 0,4Q3. Phương trình đường cầu của thị trường là:",
+    "answer": "Q= 410 – 5,5P"
+  },
+  {
+    "id": 359,
+    "premium": false,
+    "question": "Cầu của một hàng hoá luôn giảm khi",
+    "answer": "Giá của hàng hoá thay thế cho hàng hoá đó giảm"
+  },
+  {
+    "id": 360,
+    "premium": false,
+    "question": "Thị trường sản phẩm A có hàm cung và cầu như sau: Ps = 10 + Qs và Pd = 100 - Qd.",
+    "answer": "5/sản phẩm"
+  },
+  {
+    "id": 361,
+    "premium": false,
+    "question": "Thu nhập tăng 10% làm cho lượng cầu tăng 5%. Co giãn của cầu theo thu nhập là:",
+    "answer": "0,5"
+  },
+  {
+    "id": 362,
+    "premium": false,
+    "question": "Nếu giá tăng làm tổng doanh thu giảm thì co giãn của cầu theo giá là",
+    "answer": "lớn hơn 1"
+  },
+  {
+    "id": 363,
+    "premium": false,
+    "question": "Thu nhập của Minh tăng từ $950/ tuần lên $1050/tuần. Kết quả là anh ta quyết định tăng số bộ phim anh ta sẽ xem lên 5%. Vậy cầu về phim của Minh là:",
+    "answer": "không co giãn theo thu nhập"
+  },
+  {
+    "id": 364,
+    "premium": false,
+    "question": "Cầu sẽ co giãn nhiều hơn nếu",
+    "answer": "khoảng thời gian kể từ khi giá thay đổi dài hơn"
+  },
+  {
+    "id": 365,
+    "premium": false,
+    "question": "Nếu tiêu dùng hết thu nhập và ích lợi cận biên trên một $ của tất cả các hàng hóa chi mua là bằng nhau thì",
+    "answer": "tổng ích lợi là lớn nhất"
+  },
+  {
+    "id": 366,
+    "premium": false,
+    "question": "Khi số lượng hàng hóa được tiêu dùng tăng lên",
+    "answer": "ích lợi cận biên giảm xuống"
+  },
+  {
+    "id": 367,
+    "premium": false,
+    "question": "Ở điểm cân bằng, câu nào sau đây là không đúng?",
+    "answer": "tổng ích lợi của tất cả các hàng hóa là bằng nhau"
+  },
+  {
+    "id": 368,
+    "premium": false,
+    "question": ". Ích lợi cận biên giảm dần có nghĩa là:",
+    "answer": "Bảo sẽ thích chiếc bánh mỳ thứ nhất hơn chiếc bánh mỳ thứ hai"
+  },
+  {
+    "id": 369,
+    "premium": false,
+    "question": "Nếu sản lượng tăng từ 5 đến 10 làm cho tổng chi phí tăng từ 100$ lên 200$, chi phí cận biên của mỗi sản phẩm trong 5 sản phẩm tăng lên này là",
+    "answer": "20$"
+  },
+  {
+    "id": 370,
+    "premium": false,
+    "question": "Chi phí cận biên là",
+    "answer": "sự gia tăng tổng chi phí khi sản xuất thêm một đơn vị sản phẩm"
+  },
+  {
+    "id": 371,
+    "premium": false,
+    "question": "Nếu chi phí biến đổi trung bình để sản xuất 10 đơn vị sản phẩm là 18$ và chi phí biến đổi trung bình để sản xuất 11 sản phẩm là 20$, chúng ta biết rằng giữa 10 và 11 sản phẩm",
+    "answer": "chi phí cận biên đang tăng"
+  },
+  {
+    "id": 372,
+    "premium": false,
+    "question": "Doanh thu được xác định là",
+    "answer": "Số thu từ việc bán các hàng hóa và dịch vụ"
+  },
+  {
+    "id": 373,
+    "premium": false,
+    "question": "Điều nào dưới đây đúng với cả độc quyền bán, cạnh tranh độc quyền và cạnh tranh hoàn hảo",
+    "answer": "Tối đa hóa lợi nhuận tại mức sản lượng có MR, MC"
+  },
+  {
+    "id": 374,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây không phải của cạnh tranh độc quyền",
+    "answer": "Sản phẩm của các hãng trong ngành là giống hệt nhau"
+  },
+  {
+    "id": 375,
+    "premium": false,
+    "question": "Điều nào dưới đây đúng với cạnh tranh độc quyền nhưng không đúng với độc quyền tập đoàn",
+    "answer": "Mỗi hãng đối diện với đường cầu dốc xuống"
+  },
+  {
+    "id": 376,
+    "premium": false,
+    "question": "Điều nào dưới đây không đúng trong trường hợp hãng cạnh tranh hoàn hảo.",
+    "answer": "Doanh thu cận biên thường nhỏ hơn doanh thu trung bình"
+  },
+  {
+    "id": 377,
+    "premium": false,
+    "question": "Nếu mức giá thép trên thị trường thế giới cao hơn mức giá trong nước khi không có thương mại thì nước này nên",
+    "answer": "Xuất khẩu thép, vì nước đó có lợi thế so sánh trong sản xuất thép"
+  },
+  {
+    "id": 378,
+    "premium": false,
+    "question": "Lợi thế tuyệt đối được xác định bởi việc so sánh",
+    "answer": "Mức đầu vào cần thiết cho một đơn vị đầu ra"
+  },
+  {
+    "id": 379,
+    "premium": false,
+    "question": "Đường giới hạn khả năng sản xuất của một nền kinh tế cũng chính là đường giới hạn khả năng tiêu dùng của nền kinh tế đó",
+    "answer": "Khi nền kinh tế không tham gia vào thương mại quốc tế"
+  },
+  {
+    "id": 380,
+    "premium": false,
+    "question": "Nước A không cho phép thương mại quốc tế. Ở nước này, người ta có thể mua 1 cân cá với giá là 2 cân thịt bò. Ở các nước khác, người ta có thể mua 1 cân cá với giá là 1,5 cân thịt bò. Điều này chỉ ra rằng",
+    "answer": "Nếu nước A cho phép thương mại quốc tế, họ sẽ nhập khẩu cá"
+  },
+  {
+    "id": 381,
+    "premium": false,
+    "question": "Khi sự tiêu dùng có tính cạnh tranh và có tính loại trừ, thì sản phẩm là một",
+    "answer": "Hàng hóa tư nhân"
+  },
+  {
+    "id": 382,
+    "premium": false,
+    "question": "Sự tiêu dùng tự do (không phải trả tiền):",
+    "answer": "Có thể xảy ra nếu việc tiêu dùng hàng hóa dịch vụ không có tính loại trừ"
+  },
+  {
+    "id": 383,
+    "premium": false,
+    "question": "Thu nhập không công bằng trong nền kinh tế vì",
+    "answer": "Thị trường xác định giá yếu tố sản xuất"
+  },
+  {
+    "id": 384,
+    "premium": false,
+    "question": "Chính phủ điều tiết độc quyền tự nhiên nhằm mục tiêu",
+    "answer": "Giảm giá và tăng sản lượng của nhà độc quyền"
+  }
+]

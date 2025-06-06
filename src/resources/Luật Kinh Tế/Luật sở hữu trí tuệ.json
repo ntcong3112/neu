@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Trong các trường hợp sau đây, trường hợp nào phải trả tiền nhuận bút, thù lao cho chủ sở hữu quyền tác giả khi sử dụng tác phẩm đã công bố?",
+    "answer": "Biểu diễn tác phẩm trước công chúng"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh?",
+    "answer": "Tác phẩm cải biên"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Quyền sở hữu công nghiệp đối với đối tượng nào sau đây có thể được chuyển nhượng:",
+    "answer": "tên thương mại, nhãn hiệu, sáng chế"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Chủ thể nào sau đây phải có nghĩa vụ nộp lệ phí gia hạn hiệu lực:",
+    "answer": "Chủ văn bằng bảo hộ Bằng độc quyền kiểu dáng công nghiệp, Giấy chứng nhận đăng ký nhãn hiệu"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Đối tượng nào sau đây thuộc quyền sở hữu công nghiệp",
+    "answer": "Nhãn hiệu"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Tên thương mại được bảo hộ nếu đáp ứng điều kiện nào sau đây:",
+    "answer": "có khả năng phân biệt chủ thể kinh doanh mang tên thương mại đó với chủ thể kinh doanh khác trong cùng lĩnh vực và khu vực kinh doanh"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "DỄ Đối tượng nào sau đây không thuộc quyền sở hữu công nghiệp",
+    "answer": "Chỉ dẫn thương mại"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về sử dụng nhãn hiệu:",
+    "answer": "Trình chiếu nhãn hiệu để giảng dạy"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Quyền sở hữu công nghiệp đối với đối tượng nào sau đây không được chuyển nhượng:",
+    "answer": "chỉ dẫn địa lý"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Quyền nào sau đây không phải là quyền tác giả?",
+    "answer": "Quyền của người biểu diễn đối với cuộc biểu diễn của mình"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Luật sở hữu trí tuệ 2005, sửa đổi, bổ sung 2009 là:",
+    "answer": "Văn bản quy phạm pháp luật quy định về quyền tác giả, quyền liên quan đến quyền tác giả, quyền sở hữu công nghiệp, quyền đối với giống cây trồng và việc bảo hộ các quyền đó."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Tại Việt Nam, quyền sở hữu trí tuệ được điều chỉnh bởi:",
+    "answer": "Hiến pháp 2013, Bộ luật dân sự, Luật sở hữu trí tuệ và các đạo luật chuyên ngành, Các điều ước quốc tế về sở hữu trí tuệ mà Việt Nam là thành viên"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Nội dung bắt buộc của hợp đồng chuyển giao công nghệ là:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Bằng bảo hộ giống cây trồng có hiệu lực :",
+    "answer": "từ ngày cấp đến hết hai mươi lăm năm đối với giống cây thân gỗ và cây nho; đến hết hai mươi năm đối với các giống cây trồng khác."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa chỉ dẫn địa lý",
+    "answer": "Tên gọi, chỉ dẫn đã trở thành tên gọi chung của hàng hóa ở Việt Nam, chỉ dẫn địa lý của nước ngoài mà tại nước đó chỉ dẫn địa lý không được bảo hộ, đã bị chấm dứt bảo hộ hoặc không còn được sử dụng, chỉ dẫn địa lý trùng hoặc tương tự với một nhãn hiệu đang được bảo hộ, nếu việc sử dụng chỉ dẫn địa lý đó được thực hiện thì sẽ gây nhầm lẫn về nguồn gốc của sản phẩm; Chỉ dẫn địa lý gây hiểu sai lệch cho người tiêu dùng về nguồn gốc địa lý thực của sản phẩm mang chỉ dẫn địa lý đó."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Phương thức chuyển giao công nghệ là:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Công bố, phân phối tác phẩm được phép của tác giả."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Làm tác phẩm phái sinh với sự cho phép của tác giả, chủ sở hữu quyền tác giả đối với tác phẩm được dùng để làm tác phẩm phái sinh"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Tự sao chép một bản nhằm mục đích giảng dạy, trừ trường hợp cuộc biểu diễn, bản ghi âm, ghi hình, chương trình phát sóng đã được công bố để giảng dạy"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Các đối tượng công nghệ nào sau đây không được phép chuyển giao:",
+    "answer": "chất phóng xạ không đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng:",
+    "answer": "Các từ thông dụng không thể được sử dụng đăng ký bảo hộ nhãn hiệu"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Quyền sở hữu trí tuệ không có đặc điểm nào sau đây:",
+    "answer": "Là quyền mang tính đích danh, không thể chuyển nhượng, chuyển giao cho người khác"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Chủ bằng bảo hộ giống cây trồng có quyền sử dụng hoặc cho phép người khác sử dụng các quyền nào sau đây liên quan đến vật liệu nhân giống của giống đã được bảo hộ:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây không phải là tác phẩm phái sinh?",
+    "answer": "Chương trình máy tính"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa tên thương mại:",
+    "answer": "Tên của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp hoặc chủ thể khác không liên quan đến hoạt động kinh doanh"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Trong các trường hợp sau đây, trường hợp nào phải trả tiền nhuận bút, thù lao cho chủ sở hữu quyền tác giả khi sử dụng tác phẩm đã công bố?",
+    "answer": "Phân phối, nhập khẩu bản gốc hoặc bản sao tác phẩm"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Quyền nào sau đây không phải là quyền tác giả?",
+    "answer": "Quyền của tổ chức, cá nhân đối với sáng chế của mình"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về Giấy chứng nhận đăng ký chỉ dẫn địa lý:",
+    "answer": "Giấy chứng nhận đăng ký chỉ dẫn địa lý có hiệu lực vô thời hạn kể từ ngày cấp."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Thiệt hại do hành vi xâm phạm quyền sở hữu trí tuệ bao gồm:",
+    "answer": "A và B"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh?",
+    "answer": "Tác phẩm dịch"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với tên thương mại:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Nội dung bắt buộc của hợp đồng chuyển giao công nghệ là:",
+    "answer": "Phương thức chuyển giao công nghệ"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Sao chép tác phẩm có sự cho phép của tác giả, chủ sở hữu quyền tác giả"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Căn cứ xác định hành vi xâm phạm quyền sở hữu trí tuệ là:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Tác giả giống cây trồng có quyền nào sau đây",
+    "answer": "a và b"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Toà án có thể áp dụng các biện pháp dân sự nào để xử lý tổ chức, cá nhân có hành vi xâm phạm quyền sở hữu trí tuệ:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Quyền nào sau đây thuộc quyền tác giả được phép chuyển nhượng?",
+    "answer": "Biểu diễn tác phẩm trước công chúng"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Tổ chức phát sóng tự làm bản sao tạm thời để phát sóng khi được hưởng quyền phát sóng"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Nội dung nào là không bắt buộc của hợp đồng chuyển giao công nghệ:",
+    "answer": "Bồi thường thiệt hại"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "DỄ Đối tượng nào sau đây không thuộc quyền sở hữu công nghiệp",
+    "answer": "Tín hiệu vệ tinh mang chương trình được mã hoá"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Quyền nào sau đây thuộc quyền tác giả được phép chuyển nhượng?",
+    "answer": "Công bố tác phẩm hoặc cho phép người khác công bố tác phẩm"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hợp đồng sử dụng quyền sở hữu công nghiệp:",
+    "answer": "Các hợp đồng sử dụng quyền sở hữu công nghiệp đối với các loại quyền sở hữu công nghiệp được xác lập trên cơ sở đăng ký có hiệu lực theo thoả thuận giữa các bên nhưng chỉ có giá trị pháp lý đối với bên thứ ba khi đã được đăng ký tại cơ quan quản lý nhà nước về quyền sở hữu công nghiệp, trừ hợp đồng sử dụng nhãn hiệu."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Căn cứ bắt buộc chuyển giao quyền sử dụng giống cây trồng đối với người nắm độc quyền sử dụng giống cây trồng là:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh?",
+    "answer": "Tác phẩm biên soạn"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "DỄ Đối tượng nào sau đây không thuộc quyền sở hữu công nghiệp",
+    "answer": "Chỉ dẫn thương mại"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Ghi âm, ghi hình trực tiếp buổi biểu diễn để đưa tin thời sự hoặc để giảng dạy."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hợp đồng chuyển nhượng quyền sở hữu công nghiệp:",
+    "answer": "Các hợp đồng chuyển nhượng quyền sở hữu công nghiệp đối với các loại quyền sở hữu công nghiệp được xác lập trên cơ sở đăng ký chỉ có hiệu lực khi đăng ký tại cơ quan quản lý nhà nước về sở hữu công nghiệp"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Để được bảo hộ dưới hình thức cấp Bằng độc quyền sáng chế, sáng chế phải đáp ứng điều kiện nào sau đây:",
+    "answer": "Có tính mới, có trình độ sáng tạo, có khả năng áp dụng công nghiệp"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Trường hợp nào sau đây không thuộc các trường hợp sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Tự sao chép một bản tác phẩm tạo hình nhằm mục đích nghiên cứu khoa học, giảng dạy của cá nhân"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Công nghệ là:",
+    "answer": "giải pháp, quy trình, bí quyết có kèm hoặc không kèm công cụ, phương tiện dùng để biến đổi nguồn lực thành sản phẩm"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Đối tượng nào sau đây được bảo hộ quyền tác giả?",
+    "answer": "Tác phẩm khoa học"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về Hợp đồng chuyển giao quyền sử dụng công nghệ:",
+    "answer": "Trong mọi trường hợp bên nhận chuyển giao công nghệ trong Hợp đồng chuyển giao quyền sử dụng công nghệ không thể có quyền chuyển giao tiếp quyền sử dụng công nghệ cho bên thứ ba"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Các đối tượng công nghệ nào sau đây được chuyển giao:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Người có quyền chuyển giao công nghệ là:",
+    "answer": "a và b"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Phương thức chuyển giao công nghệ là:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về Bằng độc quyền kiểu dáng công nghiệp:",
+    "answer": "Bằng độc quyền kiểu dáng công nghiệp có hiệu lực từ ngày cấp và kéo dài đến hết năm năm kể từ ngày nộp đơn, có thể gia hạn hai lần liên tiếp, mỗi lần năm năm."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Nhận định nào là đúng về phương thức chuyển giao công nghệ:",
+    "answer": "Luật chuyển giao công nghệ năm 2017 liệt kê một số phương thức chuyển giao công nghệ và công nhận các phương thức chuyển giao khác do các bên thoả thuận phù hợp với các quy định của pháp luật"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về điều kiện bảo hộ đối với nhãn hiệu tại Việt Nam:",
+    "answer": "dấu hiệu nhìn thấy được dưới dạng chữ cái, từ ngữ, hình vẽ, hình ảnh, kể cả hình ba chiều hoặc sự kết hợp các yếu tố đó, được thể hiện bằng một hoặc nhiều mầu sắc và có khả năng phân biệt hàng hoá, dịch vụ của chủ sở hữu nhãn hiệu với hàng hoá, dịch vụ của chủ thể khác"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh?",
+    "answer": "Tác phẩm phóng tác"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Tại Việt Nam, một tác phẩm đồ hoạ có thể được bảo hộ theo:",
+    "answer": "Có thể là quyền tác giả, nhãn hiệu, kiểu dáng công nghiệp tuỳ theo lựa chọn của chủ thể quyền."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Nội dung bắt buộc của hợp đồng chuyển giao công nghệ là:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Các đối tượng công nghệ nào sau đây được chuyển giao:",
+    "answer": "cả a và b"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Sử dụng tác phẩm được phép của chủ sở hữu quyền tác giả và trả tiền nhuận bút, thù lao, quyền lợi vật chất khác cho chủ sở hữu quyền tác giả theo quy định của pháp luật"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền tác giả?",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Bằng độc quyền sáng chế có hiệu lực :",
+    "answer": "từ ngày cấp và kéo dài đến hết hai mươi năm kể từ ngày nộp đơn."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Tự sao chép một bản nhằm mục đích giảng dạy, trừ trường hợp cuộc biểu diễn, bản ghi âm, ghi hình, chương trình phát sóng đã được công bố để giảng dạy"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Nhập khẩu bản sao tác phẩm của người khác để sử dụng riêng"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Chủ thể nào sau đây được thực hiện hoạt động giám định về sở hữu trí tuệ nếu đáp ứng các điều kiện theo quy định của luật sở hữu trí tuệ:",
+    "answer": "A và C"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa thiết kế bố trí",
+    "answer": "Nguyên lý, quy trình, hệ thống, phương pháp được thực hiện bởi mạch tích hợp bán dẫn, thông tin chứa trong mạch tích hợp bán dẫn, phần mềm chứa trong mạch tích hợp bán dẫn."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh",
+    "answer": "Tác phẩm chú giải"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Chủ thể nào sau đây phải có nghĩa vụ nộp lệ phí duy trì hiệu lực:",
+    "answer": "Chủ văn bằng bảo hộ Bằng độc quyền sáng chế, Bằng độc quyền giải pháp hữu ích."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Theo pháp luật Việt Nam, các đối tượng của quyền sở hữu trí tuệ được chia thành:",
+    "answer": "03 nhóm, bao gồm: quyền tác giả và quyền liên quan, quyền sở hữu công nghiệp và quyền đối với giống cây trồng"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Các đối tượng công nghệ nào sau đây không được phép chuyển giao:",
+    "answer": "chất phóng xạ không đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Ghi âm, ghi hình trực tiếp buổi biểu diễn để đưa tin thời sự hoặc để giảng dạy."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Căn cứ xác định hành vi xâm phạm quyền sở hữu trí tuệ là:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Chủ thể quyền đối với giống cây trồng không thể cấm hành vi nào dưới đây?",
+    "answer": "Sử dụng cây trồng để tạo ra một giống cây trồng mới"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Trường hợp nào sau đây không thuộc các trường hợp sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Sao chép tác phẩm tạo hình để lưu trữ trong thư viện với mục đích nghiên cứu"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây không phải là tác phẩm phái sinh?",
+    "answer": "Bài giảng"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Các công nghệ nào sau đây bị hạn chế chuyển giao:",
+    "answer": "Sử dụng hóa chất độc hại hoặc phát sinh chất thải nguy hại đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Các đối tượng công nghệ nào sau đây bị hạn chế chuyển giao:",
+    "answer": "Tạo ra sản phẩm bằng phương pháp biến đổi gen"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Chuyển tác phẩm sang chữ nổi hoặc ngôn ngữ khác cho người khiếm thị"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền tác giả?",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Cơ quan nào có thẩm quyền cấp Giấy Chứng nhận đăng ký quyền liên quan?",
+    "answer": "Cục Bản quyền tác giả"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Người nào có quyền đăng ký bảo hộ giống cây trồng:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Chỉ dẫn địa lý được bảo hộ nếu đáp ứng điều kiện nào sau đây:",
+    "answer": "Sản phẩm mang chỉ dẫn địa lý có nguồn gốc địa lý từ khu vực, địa phương, vùng lãnh thổ hoặc nước tương ứng với chỉ dẫn địa lý; Sản phẩm mang chỉ dẫn địa lý có danh tiếng, chất lượng hoặc đặc tính chủ yếu do điều kiện địa lý của khu vực, địa phương, vùng lãnh thổ hoặc nước tương ứng với chỉ dẫn địa lý đó quyết định."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Đối tượng quyền sở hữu công nghiệp nào sau đây được bảo hộ không xác định thời hạn:",
+    "answer": "chỉ dẫn địa lý, bí mật kinh doanh, tên thương mại"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "DỄ Đối tượng nào sau đây không thuộc quyền sở hữu công nghiệp",
+    "answer": "Chỉ dẫn thương mại"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Giống cây trồng được bảo hộ nếu đáp ứng điều kiện nào sau đây:",
+    "answer": "là giống cây trồng được chọn tạo hoặc phát hiện và phát triển, thuộc Danh mục loài cây trồng được Nhà nước bảo hộ do Bộ Nông nghiệp và Phát triển nông thôn ban hành, có tính mới, tính khác biệt, tính đồng nhất, tính ổn định và có tên phù hợp."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Đối tượng nào sau đây được xác lập quyền sở hữu công nghiệp dựa trên cơ sở quyết định cấp văn bằng bảo hộ của cơ quan nhà nước có thẩm quyền theo thủ tục đăng ký:",
+    "answer": "Nhãn hiệu, sáng chế, chỉ dẫn địa lý"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Trong các trường hợp sau đây, trường hợp nào phải trả tiền nhuận bút, thù lao cho chủ sở hữu quyền tác giả khi sử dụng tác phẩm đã công bố?",
+    "answer": "Biểu diễn tác phẩm trước công chúng"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Chủ thể quyền sở hữu trí tuệ có quyền áp dụng các biện pháp nào sau đây để bảo vệ quyền sở hữu trí tuệ của mình:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về Giấy chứng nhận đăng ký chỉ dẫn địa lý:",
+    "answer": "Giấy chứng nhận đăng ký chỉ dẫn địa lý có hiệu lực vô thời hạn kể từ ngày cấp."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Chuyển giao công nghệ là",
+    "answer": "chuyển nhượng quyền sở hữu công nghệ hoặc chuyển giao quyền sử dụng công nghệ từ bên có quyền chuyển giao công nghệ sang bên nhận công nghệ."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Quyền sở hữu công nghiệp đối với đối tượng nào sau đây có thể được chuyển quyền sử dụng:",
+    "answer": "nhãn hiệu, sáng chế"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Đối tượng nào sau đây thuộc quyền sở hữu công nghiệp:",
+    "answer": "Sáng chế"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Quyền nào sau đây thuộc quyền tác giả được phép chuyển nhượng?",
+    "answer": "Làm tác phẩm phái sinh"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Quyền nào sau đây không phải là quyền tác giả?",
+    "answer": "Quyền của người biểu diễn đối với cuộc biểu diễn của mình"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Trong các trường hợp sau đây, trường hợp nào phải trả tiền nhuận bút, thù lao cho chủ sở hữu quyền tác giả khi sử dụng tác phẩm đã công bố?",
+    "answer": "Truyền đạt tác phẩm đến công chúng bằng phương tiện hữu tuyến, vô tuyến, mạng thông tin điện tử hoặc bất kỳ phương tiện kỹ thuật nào khác"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Chủ bằng bảo hộ giống cây trồng có nghĩa vụ nào sau đây:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa bí mật kinh doanh",
+    "answer": "Bí mật về nhân thân, bí mật về quản lý nhà nước, bí mật về quốc phòng, an ninh, Thông tin bí mật khác không liên quan đến kinh doanh."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Dấu hiệu nào sau đây có khả năng phân biệt đáp ứng điều kiện bảo hộ nhãn hiệu:",
+    "answer": "một nhân vật hoạt hình mới và một từ tự tạo không mang tính mô tả"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền tác giả?",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa chỉ dẫn địa lý",
+    "answer": "Tên gọi, chỉ dẫn đã trở thành tên gọi chung của hàng hóa ở Việt Nam, chỉ dẫn địa lý của nước ngoài mà tại nước đó chỉ dẫn địa lý không được bảo hộ, đã bị chấm dứt bảo hộ hoặc không còn được sử dụng, chỉ dẫn địa lý trùng hoặc tương tự với một nhãn hiệu đang được bảo hộ, nếu việc sử dụng chỉ dẫn địa lý đó được thực hiện thì sẽ gây nhầm lẫn về nguồn gốc của sản phẩm; Chỉ dẫn địa lý gây hiểu sai lệch cho người tiêu dùng về nguồn gốc địa lý thực của sản phẩm mang chỉ dẫn địa lý đó."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với nhãn hiệu:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Căn cứ vào phạm vi địa giới lãnh thổ diễn ra hoạt động chuyển giao công nghệ, hoạt động chuyển giao công nghệ được chia thành mấy loại:",
+    "answer": "03 loại"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Đối tượng nào sau đây được xác lập quyền sở hữu công nghiệp không dựa trên cơ sở quyết định cấp văn bằng bảo hộ của cơ quan nhà nước có thẩm quyền theo thủ tục đăng ký:",
+    "answer": "Tên thương mại, bí mật kinh doanh"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Hợp đồng chuyển giao công nghệ được điều chỉnh bởi:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với nhãn hiệu:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Quyền nào sau đây thuộc quyền tác giả được phép chuyển nhượng?",
+    "answer": "Biểu diễn tác phẩm trước công chúng"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": ". Chuyển giao công nghệ được chia thành:",
+    "answer": "Chuyển giao công nghệ trong nước, chuyển giao công nghệ từ Việt Nam ra nước ngoài, chuyển giao công nghệ từ nước ngoài vào Việt Nam"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Nhận định nào sau đây đúng về Hợp đồng chuyển giao quyền sử dụng công nghệ:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền tác giả?",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Công bố, phân phối tác phẩm được phép của tác giả."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Đối tượng nào sau đây thuộc quyền sở hữu công nghiệp",
+    "answer": "Bí mật kinh doanh"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Kiểu dáng công nghiệp được bảo hộ nếu đáp ứng điều kiện nào sau đây:",
+    "answer": "Có tính mới, có tính sáng tạo, có khả năng áp dụng công nghiệp"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Tổ chức phát sóng tự làm bản sao tạm thời để phát sóng khi được hưởng quyền phát sóng"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Trích dẫn tác phẩm để giảng dạy trong nhà trường mà không làm sai ý tác giả, không nhằm mục đích thương mại"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Người nào có quyền đăng ký bảo hộ giống cây trồng:",
+    "answer": "a và b"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa nhãn hiệu",
+    "answer": "Dấu hiệu trùng hoặc tương tự đến mức gây nhầm lẫn với hình quốc kỳ, quốc huy của các nước, dấu hiệu trùng hoặc tương tự đến mức gây nhầm lẫn với tên thật, biệt hiệu, bút danh, hình ảnh của lãnh tụ, anh hùng dân tộc, danh nhân của Việt Nam, của nước ngoài, dấu hiệu làm hiểu sai lệch, gây nhầm lẫn hoặc có tính chất lừa dối người tiêu dùng về nguồn gốc xuất xứ, tính năng, công dụng, chất lượng, giá trị hoặc các đặc tính khác của hàng hóa, dịch vụ."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Chủ sở hữu chỉ dẫn địa lý của Việt Nam là:",
+    "answer": "Nhà nước"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Hành vi nào sau đây là không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": " Xuất bản tác phẩm với sự cho phép của chủ sở hữu quyền tác giả"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Nội dung bắt buộc của hợp đồng chuyển giao công nghệ là:",
+    "answer": "Giá, phương thức thanh toán"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây không phải là tác phẩm phái sinh?",
+    "answer": "Tác phẩm tạo hình"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa sáng chế:",
+    "answer": "Phát minh, lý thuyết khoa học, phương pháp toán học, sơ đồ, kế hoạch, quy tắc và phương pháp để thực hiện các hoạt động trí óc, huấn luyện vật nuôi, thực hiện trò chơi, kinh doanh; chương trình máy tính, cách thức thể hiện thông tin, Giải pháp chỉ mang đặc tính thẩm mỹ, Giống thực vật, giống động vật, quy trình sản xuất thực vật, động vật chủ yếu mang bản chất sinh học mà không phải là quy trình vi sinh, Phương pháp phòng ngừa, chẩn đoán và chữa bệnh cho người và động vật."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Nội dung nào là không bắt buộc của hợp đồng chuyển giao công nghệ:",
+    "answer": "Thế chấp"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh?",
+    "answer": "Tác phẩm chuyển thể"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Tên của giống cây trồng không được coi là phù hợp trong trường hợp nào sau đây:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không thuộc quyền sở hữu công nghiệp",
+    "answer": "Tên miền"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Làm tác phẩm phái sinh với sự cho phép của tác giả, chủ sở hữu quyền tác giả đối với tác phẩm được dùng để làm tác phẩm phái sinh"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Quyền sở hữu trí tuệ được điều chỉnh bởi:",
+    "answer": "hệ thống pháp luật quốc tế về sở hữu trí tuệ mà Việt Nam là thành viên và hệ thống pháp luật Việt Nam về sở hữu trí tuệ"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Chủ thể quyền sở hữu trí tuệ có quyền áp dụng các biện pháp nào sau đây để bảo vệ quyền sở hữu trí tuệ của mình:",
+    "answer": "A và B"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Trường hợp nào sau đây không thuộc các trường hợp sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Sao chép tác phẩm kiến trúc để lưu trữ trong thư viện với mục đích nghiên cứu"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "DỄ Đối tượng nào sau đây không thuộc quyền sở hữu công nghiệp",
+    "answer": "Chỉ dẫn thương mại"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Trích dẫn hợp lý tác phẩm mà không làm sai ý tác giả để bình luận hoặc minh hoạ trong tác phẩm của mình"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Trong các trường hợp sau đây, trường hợp nào phải trả tiền nhuận bút, thù lao cho chủ sở hữu quyền tác giả khi sử dụng tác phẩm đã công bố?",
+    "answer": "Phân phối, nhập khẩu bản gốc hoặc bản sao tác phẩm"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh?",
+    "answer": "Tác phẩm cải biên"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Hàng hóa giả mạo nhãn hiệu, chỉ dẫn địa lý là:",
+    "answer": "A và B"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Quyền sở hữu công nghiệp đối với đối tượng nào sau đây có thể được chuyển nhượng:",
+    "answer": "tên thương mại, nhãn hiệu, sáng chế"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Hàng hóa giả mạo về sở hữu trí tuệ là :",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Công bố, phân phối tác phẩm có đồng tác giả mà có sự cho phép của đồng tác giả đó"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Trích dẫn hợp lý nhằm mục đích cung cấp thông tin"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Tên của giống cây trồng không được coi là phù hợp trong trường hợp nào sau đây:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh?",
+    "answer": "Tác phẩm biên soạn"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Quyền đối với giống cây trồng được xác lập trên cơ sở:",
+    "answer": "Đăng ký và được cấp Bằng bảo hộ giống cây trồng của cơ quan nhà nước có thẩm quyền"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Để được bảo hộ dưới hình thức cấp Bằng độc quyền sáng chế, sáng chế phải đáp ứng điều kiện nào sau đây:",
+    "answer": "Có tính mới, có trình độ sáng tạo, có khả năng áp dụng công nghiệp"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Các đối tượng công nghệ nào sau đây không được phép chuyển giao:",
+    "answer": "Máy móc, thiết bị kèm theo công nghệ không còn sử dụng phổ biến và chuyển giao ở các quốc gia đang phát triển và không đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm các quyền liên quan",
+    "answer": "Tự sao chép một bản nhằm mục đích nghiên cứu khoa học của cá nhân"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Chủ sở hữu chỉ dẫn địa lý của Việt Nam là:",
+    "answer": "Nhà nước"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh",
+    "answer": "Tác phẩm chú giải"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Người nào có quyền đăng ký bảo hộ giống cây trồng:",
+    "answer": "a và b"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Các công nghệ nào sau đây bị hạn chế chuyển giao:",
+    "answer": "Sử dụng hóa chất độc hại hoặc phát sinh chất thải nguy hại đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Biện pháp kiểm soát hàng hóa xuất khẩu, nhập khẩu liên quan đến sở hữu trí tuệ:",
+    "answer": "A và B"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Quyền nào sau đây thuộc quyền tác giả được phép chuyển nhượng?",
+    "answer": "Làm tác phẩm phái sinh"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Người có quyền chuyển giao công nghệ là:",
+    "answer": "a và b"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Cho thuê tác phẩm có trả tiền nhuận bút, thù lao và quyền lợi vật chất khác cho tác giả hoặc chủ sở hữu quyền tác giả."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Nhân bản, sản xuất bản sao, phân phối, trưng bày hoặc truyền đạt tác phẩm đến công chúng qua mạng truyền thông và các phương tiện kỹ thuật số với sự cho phép của chủ sở hữu quyền tác giả"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh?",
+    "answer": "Tác phẩm chuyển thể"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Trường hợp nào sau đây không thuộc các trường hợp sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Sao chép tác phẩm kiến trúc để lưu trữ trong thư viện với mục đích nghiên cứu"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi cạnh tranh không lành mạnh",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với chỉ dẫn địa lý:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Trường hợp nào sau đây không thuộc các trường hợp sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Tự sao chép một bản chương trình máy tính nhằm mục đích nghiên cứu khoa học, giảng dạy của cá nhân"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Nhận định nào sau đây là đúng:",
+    "answer": "Hợp đồng chuyển giao công nghệ phải được lập thành văn bản hoặc hình thức khác được coi là giao dịch bằng văn bản theo quy định của Bộ luật dân sự"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Dấu hiệu nào sau đây không có khả năng phân biệt:",
+    "answer": "“Motors” đăng ký cho nhóm sản phẩm xe máy"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Chủ thể quyền đối với giống cây trồng không thể cấm hành vi nào dưới đây?",
+    "answer": "Sử dụng cây trồng để tạo ra một giống cây trồng mới"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Đối tượng nào sau đây được bảo hộ quyền tác giả?",
+    "answer": "Sưu tập dữ liệu"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Chuyển tác phẩm sang chữ nổi hoặc ngôn ngữ khác cho người khiếm thị"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Hành vi nào sau đây không bị coi là xâm phạm quyền đối với giống cây trồng đã được bảo hộ:",
+    "answer": "a và b"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền tác giả?",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không được bảo hộ quyền tác giả?",
+    "answer": "Phương pháp hoạt động"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Hành vi xâm phạm quyền sở hữu trí tuệ bị xử phạt vi phạm hành chính là :",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Toà án có thể áp dụng các biện pháp dân sự nào để xử lý tổ chức, cá nhân có hành vi xâm phạm quyền sở hữu trí tuệ:",
+    "answer": "A và B"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Đối tượng nào sau đây thuộc quyền sở hữu công nghiệp:",
+    "answer": "Kiểu dáng công nghiệp"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh?",
+    "answer": "Tác phẩm tuyển chọn"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": ". Chuyển giao công nghệ được chia thành:",
+    "answer": "Chuyển giao công nghệ trong nước, chuyển giao công nghệ từ Việt Nam ra nước ngoài, chuyển giao công nghệ từ nước ngoài vào Việt Nam"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Nội dung nào là không bắt buộc của hợp đồng chuyển giao công nghệ:",
+    "answer": "Thế chấp"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Chụp ảnh, truyền hình tác phẩm tạo hình, kiến trúc, nhiếp ảnh, mỹ thuật ứng dụng được trưng bày tại nơi công cộng nhằm giới thiệu hình ảnh của tác phẩm đó"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Bằng độc quyền giải pháp hữu ích có hiệu lực :",
+    "answer": "từ ngày cấp và kéo dài đến hết mười năm kể từ ngày nộp đơn."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Nhận định nào sau đây là sai?",
+    "answer": "Hiệp định TRIPs là một trong những hiệp định do WIPO quản lý."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": " Biểu diễn tác phẩm sân khấu, loại hình biểu diễn nghệ thuật khác trong các buổi sinh hoạt văn hóa, tuyên truyền cổ động không thu tiền dưới bất kỳ hình thức nào"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa thiết kế bố trí",
+    "answer": "Nguyên lý, quy trình, hệ thống, phương pháp được thực hiện bởi mạch tích hợp bán dẫn, thông tin chứa trong mạch tích hợp bán dẫn, phần mềm chứa trong mạch tích hợp bán dẫn."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Anh An là một kỹ sư nông nghiệp đã chọn tạo và phát triển một giống lúa năng suất cao và thơm ngon hơn các giống lúa khác hiện đang có tại Việt Nam. Anh An muốn biết liệu giống lúa mới của mình có thể được bảo hộ dưới hình thức nào:",
+    "answer": "Giống cây trồng"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Đối tượng nào sau đây thuộc quyền sở hữu công nghiệp:",
+    "answer": "Sáng chế"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa sáng chế:",
+    "answer": "Phát minh, lý thuyết khoa học, phương pháp toán học, sơ đồ, kế hoạch, quy tắc và phương pháp để thực hiện các hoạt động trí óc, huấn luyện vật nuôi, thực hiện trò chơi, kinh doanh; chương trình máy tính, cách thức thể hiện thông tin, Giải pháp chỉ mang đặc tính thẩm mỹ, Giống thực vật, giống động vật, quy trình sản xuất thực vật, động vật chủ yếu mang bản chất sinh học mà không phải là quy trình vi sinh, Phương pháp phòng ngừa, chẩn đoán và chữa bệnh cho người và động vật."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Nhận định nào sau đây đúng về Hợp đồng chuyển giao quyền sử dụng công nghệ:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi cạnh tranh không lành mạnh:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Tác phẩm nào sau đây không phải là tác phẩm phái sinh?",
+    "answer": "Tác phẩm tạo hình"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Các đối tượng công nghệ nào sau đây được chuyển giao:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Trích dẫn tác phẩm để giảng dạy trong nhà trường mà không làm sai ý tác giả, không nhằm mục đích thương mại"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Chủ thể nào sau đây phải có nghĩa vụ nộp lệ phí duy trì hiệu lực:",
+    "answer": "Chủ văn bằng bảo hộ Bằng độc quyền sáng chế, Bằng độc quyền giải pháp hữu ích."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Đối tượng nào sau đây được xác lập quyền sở hữu công nghiệp không dựa trên cơ sở quyết định cấp văn bằng bảo hộ của cơ quan nhà nước có thẩm quyền theo thủ tục đăng ký:",
+    "answer": "Tên thương mại, bí mật kinh doanh"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Quyền sở hữu trí tuệ được điều chỉnh bởi:",
+    "answer": "hệ thống pháp luật quốc tế về sở hữu trí tuệ mà Việt Nam là thành viên và hệ thống pháp luật Việt Nam về sở hữu trí tuệ"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Nhận định nào sau đây là đúng về Bằng độc quyền kiểu dáng công nghiệp:",
+    "answer": "Bằng độc quyền kiểu dáng công nghiệp có hiệu lực từ ngày cấp và kéo dài đến hết năm năm kể từ ngày nộp đơn, có thể gia hạn hai lần liên tiếp, mỗi lần năm năm."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Tự sao chép một bản nhằm mục đích nghiên cứu khoa học, giảng dạy của cá nhân"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa kiểu dáng công nghiệp",
+    "answer": "Hình dáng bên ngoài của sản phẩm do đặc tính kỹ thuật của sản phẩm bắt buộc phải có, hình dáng bên ngoài của công trình xây dựng dân dụng hoặc công nghiệp, hình dáng của sản phẩm không nhìn thấy được trong quá trình sử dụng sản phẩm."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không thuộc quyền sở hữu công nghiệp",
+    "answer": "Tên miền"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Chủ thể quyền sở hữu trí tuệ có quyền áp dụng các biện pháp nào sau đây để bảo vệ quyền sở hữu trí tuệ của mình:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Nhãn hiệu được bảo hộ nếu đáp ứng điều kiện nào sau đây:",
+    "answer": "Là dấu hiệu nhìn thấy được dưới dạng chữ cái, từ ngữ, hình vẽ, hình ảnh, kể cả hình ba chiều hoặc sự kết hợp các yếu tố đó, được thể hiện bằng một hoặc nhiều mầu sắc; Có khả năng phân biệt hàng hóa, dịch vụ của chủ sở hữu nhãn hiệu với hàng hóa, dịch vụ của chủ thể khác"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Việc bắt buộc chuyển giao quyền sử dụng giống cây trồng đối với người nắm độc quyền sử dụng giống cây trồng phải phù hợp với điều kiện nào sau đây:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Trích dẫn hợp lý tác phẩm mà không làm sai ý tác giả để bình luận hoặc minh hoạ trong tác phẩm của mình"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không được bảo hộ quyền tác giả?",
+    "answer": "Tin tức thời sự thuần tuý đưa tin"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Quyền sở hữu công nghiệp đối với đối tượng nào sau đây có thể được chuyển quyền sử dụng:",
+    "answer": "nhãn hiệu, sáng chế"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Trường hợp nào sau đây không thuộc các trường hợp sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Sao chép tác phẩm tạo hình để lưu trữ trong thư viện với mục đích nghiên cứu"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Đối tượng nào sau đây được bảo hộ quyền tác giả?",
+    "answer": "Chương trình máy tính"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Hàng hóa giả mạo về sở hữu trí tuệ là :",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Trích dẫn tác phẩm mà không làm sai ý tác giả để viết báo, dùng trong ấn phẩm định kỳ, trong chương trình phát thanh, truyền hình, phim tài liệu"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Nhận định nào sau đây là đúng về Giấy chứng nhận đăng ký nhãn hiệu:",
+    "answer": "Giấy chứng nhận đăng ký nhãn hiệu có hiệu lực từ ngày cấp đến hết mười năm kể từ ngày nộp đơn, có thể gia hạn nhiều lần liên tiếp, mỗi lần mười năm."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Chủ bằng bảo hộ giống cây trồng có quyền sử dụng hoặc cho phép người khác sử dụng các quyền nào sau đây liên quan đến vật liệu nhân giống của giống đã được bảo hộ:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Để được bảo hộ dưới hình thức cấp Bằng độc quyền giải pháp hữu ích, sáng chế nếu không phải là hiểu biết thông thường thì phải đáp ứng điều kiện nào sau đây:",
+    "answer": "Có tính mới, có khả năng áp dụng công nghiệp"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Trường hợp nào sau đây không thuộc các trường hợp sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Tự sao chép một bản tác phẩm kiến trúc nhằm mục đích nghiên cứu khoa học, giảng dạy của cá nhân"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Hàng hóa sao chép lậu là:",
+    "answer": "A và B"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Bí mật kinh doanh được bảo hộ nếu đáp ứng điều kiện nào sau đây:",
+    "answer": "Không phải là hiểu biết thông thường và không dễ dàng có được; khi được sử dụng trong kinh doanh sẽ tạo cho người nắm giữ bí mật kinh doanh lợi thế so với người không nắm giữ hoặc không sử dụng bí mật kinh doanh đó; Được chủ sở hữu bảo mật bằng các biện pháp cần thiết để bí mật kinh doanh đó không bị bộc lộ và không dễ dàng tiếp cận được."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Giấy chứng nhận đăng ký chỉ dẫn địa lý có hiệu lực :",
+    "answer": "vô thời hạn kể từ ngày cấp"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Nhận định nào sau đây là không đúng về Hợp đồng chuyển giao quyền sử dụng công nghệ:",
+    "answer": "Trong mọi trường hợp bên nhận chuyển giao công nghệ trong Hợp đồng chuyển giao quyền sử dụng công nghệ không thể có quyền chuyển giao tiếp quyền sử dụng công nghệ cho bên thứ ba"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Xuất khẩu, nhập khẩu, phân phối bản sao tác phẩm với sự đồng ý của chủ sở hữu quyền tác giả."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Nhập khẩu bản sao tác phẩm của người khác để sử dụng riêng"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Tại Việt Nam, một tác phẩm đồ hoạ có thể được bảo hộ theo:",
+    "answer": "Có thể là quyền tác giả, nhãn hiệu, kiểu dáng công nghiệp tuỳ theo lựa chọn của chủ thể quyền."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Hành vi nào sau đây là không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": " Xuất bản tác phẩm với sự cho phép của chủ sở hữu quyền tác giả"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Bằng bảo hộ giống cây trồng bị hủy bỏ hiệu lực trong trường hợp nào sau đây:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền tác giả?",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Các công nghệ nào sau đây bị hạn chế chuyển giao:",
+    "answer": "Công nghệ; máy móc, thiết bị kèm theo công nghệ không còn sử dụng phổ biến ở các quốc gia công nghiệp phát triển"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với nhãn hiệu:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Đối tượng quyền sở hữu công nghiệp nào sau đây được bảo hộ không xác định thời hạn:",
+    "answer": "chỉ dẫn địa lý, bí mật kinh doanh, tên thương mại"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền tác giả?",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Trường hợp nào sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Sao chép tác phẩm để lưu trữ trong thư viện với mục đích nghiên cứu"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Nhận định nào sau đây là đúng:",
+    "answer": "Hợp đồng chuyển giao công nghệ và phần chuyển giao công nghệ thuộc trường hợp: Chuyển giao công nghệ từ nước ngoài vào Việt Nam, Chuyển giao công nghệ từ Việt Nam ra nước ngoài và Chuyển giao công nghệ trong nước có sử dụng vốn nhà nước hoặc ngân sách nhà nước, trừ trường hợp đã được cấp Giấy chứng nhận đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ phải đăng ký với cơ quan quản lý nhà nước về khoa học và công nghệ, trừ công nghệ hạn chế chuyển giao đã được cấp Giấy phép chuyển giao công nghệ"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Quyền sở hữu công nghiệp đối với đối tượng nào sau đây không được chuyển quyền sử dụng:",
+    "answer": "chỉ dẫn địa lý, tên thương mại"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Các đối tượng công nghệ nào sau đây bị hạn chế chuyển giao:",
+    "answer": "Sử dụng chất phóng xạ, tạo ra chất phóng xạ mà đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Thiết kế bố trí được bảo hộ nếu đáp ứng điều kiện nào sau đây:",
+    "answer": "Có tính nguyên gốc, có tính mới thương mại"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Sử dụng tác phẩm được phép của chủ sở hữu quyền tác giả và trả tiền nhuận bút, thù lao, quyền lợi vật chất khác cho chủ sở hữu quyền tác giả theo quy định của pháp luật"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Nội dung bắt buộc của hợp đồng chuyển giao công nghệ là:",
+    "answer": "Giá, phương thức thanh toán"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Trong các trường hợp sau đây, trường hợp nào phải trả tiền nhuận bút, thù lao cho chủ sở hữu quyền tác giả khi sử dụng tác phẩm đã công bố?",
+    "answer": "Cho thuê tác phẩm điện ảnh, chương trình máy tính"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền tác giả?",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Cơ quan nào có thẩm quyền cấp Giấy Chứng nhận đăng ký quyền liên quan?",
+    "answer": "Cục Bản quyền tác giả"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm các quyền liên quan",
+    "answer": "Tự sao chép một bản nhằm mục đích nghiên cứu khoa học của cá nhân"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Giấy chứng nhận đăng ký nhãn hiệu có hiệu lực :",
+    "answer": "từ ngày cấp đến hết mười năm kể từ ngày nộp đơn."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Bằng độc quyền kiểu dáng công nghiệp có hiệu lực:",
+    "answer": "từ ngày cấp và kéo dài đến hết năm năm kể từ ngày nộp đơn."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Tên của giống cây trồng không được coi là phù hợp trong trường hợp nào sau đây:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Các đối tượng công nghệ nào sau đây bị hạn chế chuyển giao:",
+    "answer": "Tạo ra sản phẩm bằng phương pháp biến đổi gen"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Chuyển giao công nghệ là",
+    "answer": "chuyển nhượng quyền sở hữu công nghệ hoặc chuyển giao quyền sử dụng công nghệ từ bên có quyền chuyển giao công nghệ sang bên nhận công nghệ."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Tên của giống cây trồng không được coi là phù hợp trong trường hợp nào sau đây:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm các quyền liên quan:",
+    "answer": "Trích dẫn hợp lý nhằm mục đích cung cấp thông tin"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Quyền đối với giống cây trồng được xác lập trên cơ sở:",
+    "answer": "Đăng ký và được cấp Bằng bảo hộ giống cây trồng của cơ quan nhà nước có thẩm quyền"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Người nào có quyền đăng ký bảo hộ giống cây trồng:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không thuộc quyền sở hữu công nghiệp",
+    "answer": "Tín hiệu vệ tinh mang chương trình được mã hoá"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Trong các trường hợp sau đây, trường hợp nào phải trả tiền nhuận bút, thù lao cho chủ sở hữu quyền tác giả khi sử dụng tác phẩm đã công bố?",
+    "answer": "Làm tác phẩm phái sinh"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Quyền sở hữu trí tuệ không có đặc điểm nào sau đây:",
+    "answer": "Là quyền mang tính toàn cầu tức là một khi quyền sở hữu trí tuệ được xác lập thì chủ thể quyền có thể thực thi tại bất kỳ quốc gia nào."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Đối tượng nào sau đây thuộc quyền sở hữu công nghiệp",
+    "answer": "Bí mật kinh doanh"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Sáng chế được coi là có tính mới nếu chưa bị bộc lộ công khai trước thời điểm nào sau đây:",
+    "answer": "ngày nộp đơn đăng ký sáng chế hoặc ngày ưu tiên"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Nhãn hiệu nổi tiếng là:",
+    "answer": "là nhãn hiệu được người tiêu dùng biết đến rộng rãi trên toàn lãnh thổ Việt Nam."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với nhãn hiệu:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Đối tượng nào sau đây được bảo hộ quyền tác giả?",
+    "answer": "Tác phẩm khoa học"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Các công nghệ nào sau đây được khuyến khích chuyển giao:",
+    "answer": "Máy móc, thiết bị đi kèm công nghệ cao được khuyến khích chuyển giao theo pháp luật về công nghệ cao"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Hàng hóa giả mạo nhãn hiệu, chỉ dẫn địa lý là:",
+    "answer": "A và B"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với bí mật kinh doanh:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Hành vi nào sau đây không phải là hành vi xâm phạm quyền tác giả?",
+    "answer": "Công bố, phân phối tác phẩm có đồng tác giả mà có sự cho phép của đồng tác giả đó"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Chỉ dẫn địa lý được bảo hộ nếu đáp ứng điều kiện nào sau đây:",
+    "answer": "Sản phẩm mang chỉ dẫn địa lý có nguồn gốc địa lý từ khu vực, địa phương, vùng lãnh thổ hoặc nước tương ứng với chỉ dẫn địa lý; Sản phẩm mang chỉ dẫn địa lý có danh tiếng, chất lượng hoặc đặc tính chủ yếu do điều kiện địa lý của khu vực, địa phương, vùng lãnh thổ hoặc nước tương ứng với chỉ dẫn địa lý đó quyết định."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Trong các trường hợp sau đây, trường hợp nào phải trả tiền nhuận bút, thù lao cho chủ sở hữu quyền tác giả khi sử dụng tác phẩm đã công bố?",
+    "answer": "Truyền đạt tác phẩm đến công chúng bằng phương tiện hữu tuyến, vô tuyến, mạng thông tin điện tử hoặc bất kỳ phương tiện kỹ thuật nào khác"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Giống cây trồng được bảo hộ nếu đáp ứng điều kiện nào sau đây:",
+    "answer": "là giống cây trồng được chọn tạo hoặc phát hiện và phát triển, thuộc Danh mục loài cây trồng được Nhà nước bảo hộ do Bộ Nông nghiệp và Phát triển nông thôn ban hành, có tính mới, tính khác biệt, tính đồng nhất, tính ổn định và có tên phù hợp."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Các đối tượng công nghệ nào sau đây bị hạn chế chuyển giao:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với sáng chế, kiểu dáng công nghiệp thiết kế bố trí:",
+    "answer": "A và B"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Quyền sở hữu trí tuệ không có đặc điểm nào sau đây:",
+    "answer": "Là một quyền vĩnh viễn"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Dấu hiệu nào sau đây có khả năng phân biệt đáp ứng điều kiện bảo hộ nhãn hiệu:",
+    "answer": "một nhân vật hoạt hình mới và một từ tự tạo không mang tính mô tả"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Nhận định nào sau đây là không đúng:",
+    "answer": "Một nhãn hiệu đã được đăng ký tại Mỹ thì sẽ được tự động bảo hộ tại Việt Nam"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với bí mật kinh doanh:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Căn cứ vào phạm vi địa giới lãnh thổ diễn ra hoạt động chuyển giao công nghệ, hoạt động chuyển giao công nghệ được chia thành mấy loại:",
+    "answer": "03 loại"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Nhận định nào sau đây là đúng về điều kiện bảo hộ đối với nhãn hiệu tại Việt Nam:",
+    "answer": "dấu hiệu nhìn thấy được dưới dạng chữ cái, từ ngữ, hình vẽ, hình ảnh, kể cả hình ba chiều hoặc sự kết hợp các yếu tố đó, được thể hiện bằng một hoặc nhiều mầu sắc và có khả năng phân biệt hàng hoá, dịch vụ của chủ sở hữu nhãn hiệu với hàng hoá, dịch vụ của chủ thể khác"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa bí mật kinh doanh",
+    "answer": "Bí mật về nhân thân, bí mật về quản lý nhà nước, bí mật về quốc phòng, an ninh, Thông tin bí mật khác không liên quan đến kinh doanh."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Quyền nào sau đây là quyền tác giả?",
+    "answer": "Quyền của tổ chức, cá nhân đối với tác phẩm do mình sáng tạo ra hoặc sở hữu."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với chỉ dẫn địa lý:",
+    "answer": "A và B"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền đối với giống cây trồng:",
+    "answer": "A, B và C"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không được bảo hộ với danh nghĩa nhãn hiệu",
+    "answer": "Dấu hiệu trùng hoặc tương tự đến mức gây nhầm lẫn với hình quốc kỳ, quốc huy của các nước, dấu hiệu trùng hoặc tương tự đến mức gây nhầm lẫn với tên thật, biệt hiệu, bút danh, hình ảnh của lãnh tụ, anh hùng dân tộc, danh nhân của Việt Nam, của nước ngoài, dấu hiệu làm hiểu sai lệch, gây nhầm lẫn hoặc có tính chất lừa dối người tiêu dùng về nguồn gốc xuất xứ, tính năng, công dụng, chất lượng, giá trị hoặc các đặc tính khác của hàng hóa, dịch vụ."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Quyền sở hữu trí tuệ phân loại trên cơ sở phát sinh được chia thành:",
+    "answer": "Nhóm quyền tự động phát sinh, nhóm quyền phát sinh có điều kiện, nhóm quyền phát sinh khi có đăng ký và được Nhà nước cấp văn bằng bảo hộ"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Chủ bằng bảo hộ giống cây trồng có nghĩa vụ nào sau đây:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Các công nghệ nào sau đây được khuyến khích chuyển giao:",
+    "answer": "Công nghệ cao"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Công nghệ là:",
+    "answer": "giải pháp, quy trình, bí quyết có kèm hoặc không kèm công cụ, phương tiện dùng để biến đổi nguồn lực thành sản phẩm"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Tác phẩm nào sau đây là tác phẩm phái sinh?",
+    "answer": "Tác phẩm phóng tác"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Kiểu dáng công nghiệp được bảo hộ nếu đáp ứng điều kiện nào sau đây:",
+    "answer": "Có tính mới, có tính sáng tạo, có khả năng áp dụng công nghiệp"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Hợp đồng chuyển giao công nghệ được điều chỉnh bởi:",
+    "answer": "cả a, b và c"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Trường hợp nào sau đây không thuộc các trường hợp sử dụng tác phẩm đã công bố không phải xin phép, không phải trả tiền nhuận bút, thù lao?",
+    "answer": "Sao chép chương trình máy tính để lưu trữ trong thư viện với mục đích nghiên cứu"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Hành vi nào sau đây không bị coi là xâm phạm quyền đối với giống cây trồng đã được bảo hộ:",
+    "answer": "a, b và c"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Theo pháp luật Việt Nam, các đối tượng của quyền sở hữu trí tuệ được chia thành:",
+    "answer": "03 nhóm, bao gồm: quyền tác giả và quyền liên quan, quyền sở hữu công nghiệp và quyền đối với giống cây trồng"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không được bảo hộ quyền tác giả?",
+    "answer": "Văn bản hành chính"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Chủ thể quyền sở hữu trí tuệ có quyền áp dụng các biện pháp nào sau đây để bảo vệ quyền sở hữu trí tuệ của mình:",
+    "answer": "A và B"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Tác phẩm nào sau đây không phải là tác phẩm phái sinh?",
+    "answer": "Bài giảng"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi xâm phạm quyền tác giả?",
+    "answer": "Cả A, B và C."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Trong các trường hợp sau đây, trường hợp nào phải trả tiền nhuận bút, thù lao cho chủ sở hữu quyền tác giả khi sử dụng tác phẩm đã công bố?",
+    "answer": "Sao chép tác phẩm"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Chủ thể nào sau đây được thực hiện hoạt động giám định về sở hữu trí tuệ nếu đáp ứng các điều kiện theo quy định của luật sở hữu trí tuệ:",
+    "answer": "A và C"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Các đối tượng công nghệ nào sau đây không được phép chuyển giao:",
+    "answer": "Máy móc, thiết bị kèm theo công nghệ không còn sử dụng phổ biến và chuyển giao ở các quốc gia đang phát triển và không đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật quốc gia"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Đối tượng nào sau đây được xác lập quyền sở hữu công nghiệp dựa trên cơ sở quyết định cấp văn bằng bảo hộ của cơ quan nhà nước có thẩm quyền theo thủ tục đăng ký:",
+    "answer": "Nhãn hiệu, sáng chế, chỉ dẫn địa lý"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Tác phẩm nào sau đây không phải là tác phẩm phái sinh?",
+    "answer": "Tác phẩm sân khấu"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Việc bắt buộc chuyển giao quyền sử dụng giống cây trồng đối với người nắm độc quyền sử dụng giống cây trồng phải phù hợp với điều kiện nào sau đây:",
+    "answer": "a và b"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Bằng độc quyền sáng chế có hiệu lực :",
+    "answer": "từ ngày cấp và kéo dài đến hết hai mươi năm kể từ ngày nộp đơn."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Nhãn hiệu là:",
+    "answer": "dấu hiệu dùng để phân biệt hàng hoá, dịch vụ của các tổ chức, cá nhân khác nhau."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Các đối tượng công nghệ nào sau đây được chuyển giao:",
+    "answer": "cả a và b"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Nhận định nào là đúng về phương thức chuyển giao công nghệ:",
+    "answer": "Luật chuyển giao công nghệ năm 2017 liệt kê một số phương thức chuyển giao công nghệ và công nhận các phương thức chuyển giao khác do các bên thoả thuận phù hợp với các quy định của pháp luật"
+  }
+]

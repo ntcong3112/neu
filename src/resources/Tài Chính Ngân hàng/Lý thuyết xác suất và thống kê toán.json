@@ -1,0 +1,3938 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố có đúng một người chấp nhận được viết là:",
+    "answer": "G¯.P+G.P¯"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Cho hai biến cố M và N. Cho biết biến cố M+N¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ tương đương với trường hợp nào sau đây?",
+    "answer": "M¯.N¯"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Nếu biến cố A và B là hai biến cố độc lập thì A và B là:",
+    "answer": "có thể xảy ra trong cùng một phép thử."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Cho số liệu về khách hàng: ",
+    "answer": "0,5"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Cho số liệu về người lao động ở một cơ quan: (ảnh). ",
+    "answer": "0,9"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Một người đi đấu thầu ở hai nơi độc lập nhau. Xác suất trúng thầu ở nơi 1 và 2 lần lượt là 0,3 và 0,4. Xác suất người đó chỉ trúng thầu ở lần thứ 2 là:",
+    "answer": "0,28"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Xác suất một người biết về quảng cáo của sản phẩm là 0,6. Với người biết về quảng cáo sản phẩm thì khả năng người đó mua là 0,4; với người không biết về quảng cáo thì khả năng mua là 0,2. Vậy xác suất một người bất kỳ mua sản phẩm là:",
+    "answer": "0,32"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Xác suất ba dự án đầu tư có lãi lần lượt là 0,6; 0,7 và 0,8. Giả sử ba dự án độc lập nhau. Khi đó xác suất để không dự án nào có lãi là:",
+    "answer": "0,024"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Một nhân viên phục vụ 10 khách hàng, xác suất mỗi khách hàng hài lòng là 0,6. Với mỗi khách hài lòng nhân viên sẽ được tiền công 3 triệu, với mỗi khách không hài lòng nhân viên chỉ được tiền công 1 triệu. Tính xác suất nhân viên được 22 triệu tiền công.",
+    "answer": "0,251"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Xác suất để một khách hàng mua hàng là 0,5. Giả sử các khách hàng mua hàng độc lập với nhau. Xác suất để trong 5 khách có nhiều hơn 3 khách mua hàng là:",
+    "answer": "0,1876"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Cho ba hàm số có đồ thị dưới đây: ",
+    "answer": "Đồ thị thứ hai"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Cho các hàm số có công thức như sau: ",
+    "answer": "k(x)"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về số tiền lãi thu được của một dự án (số âm ứng với trường hợp bị lỗ) như sau:",
+    "answer": "E(X) = 0,2 và V(X) = 3,56"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về điểm thi môn Toán của học sinh: ",
+    "answer": "80%"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về lợi nhuận ròng (X: đơn vị là tỉ đồng) của doanh nghiệp như sau: ",
+    "answer": "0,7"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Xác suất để biến ngẫu nhiên Chuẩn hóa lớn hơn (–1,25) là:",
+    "answer": "0,8944"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": " ",
+    "answer": "chọn công ty II."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Xác suất để biến ngẫu nhiên Chuẩn hóa lớn hơn 1,5 là:",
+    "answer": "0,0668"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Tỷ lệ chính phẩm của một nhà máy là 70%. Lấy ngẫu nhiên 4 sản phẩm của nhà máy để kiểm tra. Số chính phẩm lấy được có khả năng xảy ra cao nhất là:",
+    "answer": "3"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Với X là trọng lượng sản phẩm, X∼N(μ;σ2). Sản phẩm đạt tiêu chuẩn nếu trọng lượng chênh lệch so với trung bình không quá ba lần độ lệch chuẩn. Trong 1000 sản phẩm thì số sản phẩm đạt tiêu chuẩn trung bình gần bằng:",
+    "answer": "997 sản phẩm."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "13,5"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,5"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "9,1"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "7,04"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,405"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Từ tổng thể có tỷ lệ là 0,4 rút ra một mẫu ngẫu nhiên kích thước là 10. Khi đó phương sai của tỷ lệ mẫu là:",
+    "answer": "0,024"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Điều tra cân nặng 100 trẻ sơ sinh tại 1 bệnh viện thấy trung bình mẫu bằng 3 kg, đô phân tán 0,04 kg2. Với độ tin cậy 90%, cân nặng trung bình trẻ sơ sinh nằm trong khoảng:",
+    "answer": "(2,9671; 3,0329) (kg)"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Một huyện vùng núi muốn ước lượng tỷ lệ hộ nghèo của huyện, khi đó cần ước lượng tham số nào?",
+    "answer": "Tỷ lệ tổng thể."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Với mẫu kích thước bằng 3, trong các ước lượng sau, ước lượng nào là không chệch cho trung bình tổng thể?",
+    "answer": "14X1+34X2"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho tỷ lệ khách hàng sử dụng dịch vụ, thông tin dựa trên một mẫu kích thước n≥100, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "f−uα/2f(1−f)√n√<p<f+uα/2f(1−f)√n√"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho giá cả trung bình của thị trường, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng là?",
+    "answer": "X¯−t(n−1)α/2Sn√<μ<X¯+t(n−1)α/2Sn√"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Trước đây tiêu chuẩn cho tỷ lệ phế phẩm là không được quá 5%. Kiểm tra 200 sản phẩm thấy có 11 phế phẩm. Với mức ý nghĩa 5% kiểm định ý kiến cho rằng “Sản phẩm không đạt tiêu chuẩn” có kết luận là:",
+    "answer": "Chưa có cơ sở bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Khi kiểm định cặp giả thuyết: H0:σ2=100;H1:σ2<100. Với mẫu kích thước 27, mức ý nghĩa 5%, tính được giá trị quan sát là 14. Vậy kết luận là:",
+    "answer": "χ2qs<χ2(n−1)1−α⇒ bác bỏ H0"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía về trung bình tổng thể với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0, khi đó phát biểu nào chắc chắn đúng:",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Khi kiểm định cặp giả thuyết: H0:μ=100;H1:μ>100. Với mẫu kích thước 27, mức ý nghĩa 5%, tính được giá trị quan sát là 1,67. Vậy kết luận là: ",
+    "answer": "Tqs<t(n−1)α⇒ chưa có cơ sở bác bỏ H0"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Cần kiểm định giả thuyết rằng \"Tỷ lệ hộ có thu nhập cao là trên 20%\", thì với một mẫu ngẫu nhiên có kích thước n≥100, thống kê sử dụng là:",
+    "answer": "Z"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía về hai trung bình của hai tổng thể có phân phối chuẩn, các mẫu có kích thước lớn hơn 30; với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0, khi đó phát biểu nào chắc chắn đúng?",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu thu nhập trung bình của cả 2 tỉnh đều chưa biết nhưng muốn xem xét về nhận định cho rằng thu nhập trung bình của 2 tỉnh là như nhau, thì cặp giả thuyết sẽ là:",
+    "answer": "H0:μA=μB;H1:μA≠μB"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Giả sử ta muốn kiểm định xem một biến ngẫu nhiên có tuân theo quy luật phân phối Chuẩn hay không. Khi đó giá trị tới hạn χ2 cần sử dụng sẽ có bậc tự do là:",
+    "answer": "Bậc 2"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của tỉnh A là cao hơn so với tỉnh B, khi đó giá trị quan sát của thống kê cần sử dụng trong kiểm định là:",
+    "answer": "Zqs"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía so sánh hai giá trị trung bình của 2 tổng thể phân phối Chuẩn sử dụng hai mẫu có kích thước lớn hơn 30, với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0. Khi đó phát biểu nào chắc chắn đúng?",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Một người đầu tư vào hai dự án, xét các biến cố:",
+    "answer": "A4"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Một người thi tuyển phải làm ba bài đánh giá. Nếu qua được từ hai bài trở lên thì trúng tuyển. Kí hiệu biến cố qua được các bài lần lượt là B1,B2,B3. Khi đó trong các trường hợp sau, trường hợp nào là người đó chắc chắn trúng tuyển?",
+    "answer": "B1.B2+B1.B2.B3¯"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố Giám đốc và Phó giám đốc có ý kiến giống nhau là:",
+    "answer": "G.P+G¯.P¯"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố G¯.P¯ nghĩa là:",
+    "answer": "không ai chấp nhận."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Cho số liệu về khách hàng: ",
+    "answer": "0,6"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Xác suất một người biết về quảng cáo của sản phẩm là 0,6. Với người biết về quảng cáo sản phẩm thì khả năng người đó mua là 0,4; với người không biết về quảng cáo thì khả năng mua là 0,2. Vậy với một người bất kỳ đã mua sản phẩm thì khả năng để người đó không biết gì về quảng cáo là:",
+    "answer": "0,25"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Một người đầu tư vào ba dự án độc lập nhau. Khả năng mỗi dự án thành công đều bằng 0,3. Khi đó xác suất để cả ba dự án đều thành công là:",
+    "answer": "0,027"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Có hai dự án độc lập nhau, xác suất để mỗi dự án thành công lần lượt là 0,3 và 0,4. Vậy xác suất để chỉ có đúng một dự án thành công là:",
+    "answer": "0,46"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Xác suất ba dự án đầu tư có lãi lần lượt là 0,6; 0,7 và 0,8. Giả sử ba dự án độc lập nhau. Khi đó xác suất để có ít nhất một dự án có lãi là:",
+    "answer": "0,976"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Xác suất để một cái máy hỏng trong ba năm đầu sử dụng là 0,1. Một phân xưởng có 6 chiếc máy hoạt động độc lập. Trong ba năm đầu sử dụng, tìm xác suất để có nhiều nhất là 1 máy hỏng là:",
+    "answer": "0,8857"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Một sinh viên thi hết học phần, gọi:",
+    "answer": "X"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Cho bốn bảng số về số sản phẩm bán được:",
+    "answer": "Bảng (b)"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Nếu dự án thành công thì lãi là 7 (tỷ VND), nếu không thành công thì lỗ 2 (tỷ VND). Biết xác suất thành công là 0,6. Khi đó kỳ vọng và phương sai của lợi nhuận là:",
+    "answer": "3,4 và 19,44"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Với một chiếc tivi được chọn ngẫu nhiên, trong các đại lượng sau, đâu là biến ngẫu nhiên rời rạc:",
+    "answer": "W"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Một người quan tâm đến số người đi làm ở một hộ gia đình có bốn người. Khi đó biến ngẫu nhiên “số người đi làm trong hộ gia đình có bốn người” gồm các giá trị có thể có là:",
+    "answer": "0, 1, 2, 3, 4"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Chiều dài sản phẩm là phân phối Chuẩn với trung bình 20 cm, độ lệch chuẩn 2 cm. Xác suất để đo thử một sản phẩm ngẫu nhiên thì chiều dài sản phẩm trong khoảng (21; 23) cm là:",
+    "answer": "0,2417"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Xác suất để một sản phẩm của hãng A hỏng trong một năm đầu sử dụng là 0,1. Trong 100 sản phẩm của hãng A có trung bình số sản phẩm hỏng trong năm đầu sử dụng là:",
+    "answer": "10"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Chi phí để sản xuất một sản phẩm là phân phối Chuẩn với trung bình 26 USD và độ lệch chuẩn là 2 USD. Xác suất để một sản phẩm ngẫu nhiên có chi phí trong khoảng (25; 28) USD là:",
+    "answer": "0,5328"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Cho lợi nhuận của ba công ty I, II, III là phân phối Chuẩn có hàm mật độ như hình vẽ. Nếu muốn chọn công ty có lợi nhuận phân tán nhất thì chọn:",
+    "answer": "công ty III."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Thời gian hoàn thành một sản phẩm là phân phối Chuẩn với trung bình 35 phút và độ lệch chuẩn 4 phút. Xác suất để một sản phẩm ngẫu nhiên có thời gian hoàn thành trong khoảng 32 đến 38 phút xấp xỉ là:",
+    "answer": "0,5468"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "9,29"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,143"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": " ",
+    "answer": "5,52"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,7"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,65"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Cho mẫu sau về doanh thu:",
+    "answer": "2,53"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Ước lượng cho tỷ lệ sinh viên có việc làm sau 1 năm tốt nghiệp, khảo sát trên một mẫu thu được tỷ lệ mẫu là 81%. Trong các khoảng sau, khoảng nào có thể là kết quả ước lượng khoảng tin cậy đối xứng cho tỷ lệ tổng thể?",
+    "answer": "(75%; 87%)"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Khi điều tra một mẫu kích thước 25 thu được trung bình mẫu bằng 7, phương sai mẫu bằng 4. Giả sử tổng thể phân phối Chuẩn, với độ tin cậy 95%, ước lượng cho độ dao động của tổng thể là:",
+    "answer": "(2,439; 7,7419)"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Với mẫu kích thước bằng 3, trong các ước lượng sau, ước lượng nào là hiệu quả nhất?",
+    "answer": "38X1+38X2+28X3"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Ước lượng mức giá trung bình thông qua một mẫu kích thước 20, trung bình mẫu 30 USD, phương sai mẫu là 9 USD2. Với độ tin cậy 95% thì độ dài khoảng tin cậy đối xứng là:",
+    "answer": "2,81"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Người quản lý muốn ước lượng độ biến động của giá cả hàng hóa, vậy cần ước lượng tham số nào?",
+    "answer": "Phương sai tổng thể."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Năm ngoái tỷ lệ hộ nghèo là 10%. Để kiểm định ý kiến: “Tỷ lệ hộ nghèo đã giảm đi”, với cặp giả thuyết",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "t(19)0,1=1,328"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Cần kiểm định giả thuyết: “Mức giá trung bình đã vượt trên 120 (nghìn)”, với giá phân phối Chuẩn chưa biết phương sai. Điều tra mẫu kích thước 100 được trung bình mẫu là 122, phương sai mẫu là 10. Khi đó giá trị quan sát là:",
+    "answer": "6,32"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "χ2(19)0,95"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "χ_0,95^(2(19))"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Khi kiểm định về tính phân phối Chuẩn của một biến ngẫu nhiên bằng kiểm định Jarque-Bera, nếu các hệ số nhọn, hệ số bất đối xứng của mẫu không đổi, mức ý nghĩa không đổi, kích thước mẫu tăng lên thì khả năng bác bỏ giả thuyết H0 sẽ: ",
+    "answer": "tăng lên."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng muốn xem phải chăng thu nhập hộ ở tỉnh A đồng đều hơn của hộ ở tỉnh B, khi đó giá trị quan sát của thống kê cần sử dụng sẽ là:",
+    "answer": "Fqs"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B, trong đó dấu hiệu A có 3 phạm trù, dấu hiệu B có 2 phạm trù. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không thì giá trị tới hạn χ2 cần sử dụng sẽ có bậc tự do là:",
+    "answer": "Bậc 2"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng muốn xem phải chăng thu nhập hộ ở tỉnh A đồng đều hơn của hộ ở tỉnh B, khi đó cặp giả thuyết sẽ là:",
+    "answer": "H0:σ2A=σ2B;H1:σ2A<σ2B"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B, trong đó dấu hiệu A có 3 phạm trù, dấu hiệu B có 2 phạm trù. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không ở mức ý nghĩa 5%, mà tính được giá trị quan sát là 4,56 thì kết luận sẽ là: ",
+    "answer": "chưa có cơ sở bác bỏ H0; hai dấu hiệu độc lập."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Trong lớp có 10 sinh viên miền Bắc, 7 sinh viên miền Trung, 3 sinh viên miền Nam. Chọn ngẫu nhiên một nhóm 3 người, thì xác suất để cả ba người chỉ ở một miền là:",
+    "answer": "0,137"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố G¯.P¯ nghĩa là:",
+    "answer": "không ai chấp nhận."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Cho số liệu về khách hàng: ",
+    "answer": "0,6"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Một khoa có 100 sinh viên mới tốt nghiệp, trong đó có 20 sinh viên được bằng giỏi, 65 sinh viên được bằng khá và 15 sinh viên được bằng trung bình. Chọn ngẫu nhiên một sinh viên mới tốt nghiệp của khoa này. Xác suất chọn được sinh viên đạt bằng khá trở lên là:",
+    "answer": "0,85"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố có đúng một người chấp nhận được viết là:",
+    "answer": "G¯.P+G.P¯"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Một người đi bán hàng ở 5 nơi độc lập, xác suất ở mỗi nơi bán được hàng đều bằng 0,2. Vậy xác suất để người đó bán được hàng ở đúng 2 nơi là xấp xỉ:",
+    "answer": "0,2"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Một người thi tuyển dụng ở hai công ty, độc lập với nhau. Xác suất trúng tuyển ở hai công ty lần lượt là 0,4 và 0,6. Vậy xác suất người đó có trúng tuyển là:",
+    "answer": "0,76"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Một nhân viên phục vụ 10 khách hàng, xác suất mỗi khách hàng hài lòng là 0,6. Với mỗi khách hài lòng nhân viên sẽ được tiền công 3 triệu, với mỗi khách không hài lòng nhân viên chỉ được tiền công 1 triệu. Tính xác suất nhân viên được 22 triệu tiền công.",
+    "answer": "0,251"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Xác suất ba dự án đầu tư có lãi lần lượt là 0,6; 0,7 và 0,8. Giả sử ba dự án độc lập nhau. Khi đó xác suất để có ít nhất một dự án có lãi là:",
+    "answer": "0,976"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Trong 20 người có 8 người đã từng sử dụng sản phẩm của công ty. Chọn ngẫu nhiên một người để hỏi, sau đó chọn thêm một người khác để hỏi. Xác suất để cả hai người đều đã từng sử dụng sản phẩm của công ty xấp xỉ là:",
+    "answer": "0,15"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Công ty bán sản phẩm cho khách hàng với thời gian bảo hành miễn phí quy định là 1 năm. Tỷ lệ sản phẩm của công ty bị hỏng trong 1 năm đầu sử dụng là 10%. Khi bán 1 sản phẩm thì công ty thu lãi 120 nghìn đồng. Nếu sản phẩm bị hỏng trong thời gian bảo hành miễn phí thì công ty phải chi 100 nghìn đồng cho việc bảo hành. Tiền lãi trung bình trên mỗi sản phẩm bán được của công ty là:",
+    "answer": "110 (nghìn đồng)"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Ba biến ngẫu nhiên có hàm mật độ xác suất dưới đây là lợi nhuận của ba công ty.",
+    "answer": "Chọn công ty nào cũng được."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về số sản phẩm lỗi trong một lô hàng: ",
+    "answer": "E(X)=0,7 và σX=0,78"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Trong một cuộc thi bắn, xạ thủ phải bắn 3 viên đạn. Gọi:",
+    "answer": "X"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên một khóa. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau:",
+    "answer": "0,56"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Nhiệt độ trong ngày là phân phối Chuẩn với trung bình 25 độ (C), phương sai là 6,25 độ2. Xác suất để vào một thời điểm ngẫu nhiên nhiệt độ lớn hơn 30 độ là:",
+    "answer": "0,0228"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Với X là trọng lượng sản phẩm, X∼N(μ;σ2). Sản phẩm đạt tiêu chuẩn nếu trọng lượng chênh lệch so với trung bình không quá một lần độ lệch chuẩn. Trong 1000 sản phẩm thì số sản phẩm đạt tiêu chuẩn trung bình gần bằng:",
+    "answer": "683 sản phẩm."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Chiều dài sản phẩm là phân phối Chuẩn với trung bình 20 cm, phương sai 4 cm2. Xác suất để đo thử một sản phẩm ngẫu nhiên thì sản phẩm dài hơn 19 cm là:",
+    "answer": "0,6915"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Với X là trọng lượng sản phẩm, X∼N(μ;σ2). Sản phẩm đạt tiêu chuẩn nếu trọng lượng chênh lệch so với trung bình không quá hai lần độ lệch chuẩn. Trong 1000 sản phẩm thì số sản phẩm đạt tiêu chuẩn trung bình gần bằng:",
+    "answer": "954 sản phẩm."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Khối lượng sản phẩm là phân phối chuẩn với trung bình là 12 g và độ lệch chuẩn là 2 g. Xác suất để khi cân ngẫu nhiên một sản phẩm thì khối lượng sản phẩm có khối lượng trong khoảng (13; 14) g là:",
+    "answer": "0,1498"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,1"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Cho XA,XB lần lượt là giá bán của hai loại sản phẩm A, B trên thị trường.",
+    "answer": "XA,XB là hai biến ngẫu nhiên độc lập."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "9,1"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,405"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,65"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Đại lượng là tính toán trên mẫu, là đặc trưng cho mẫu gọi là:",
+    "answer": "thống kê."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Điều tra ngẫu nhiên 40 người tại một vùng thấy có 15 người có sử dụng sản phẩm của doanh nghiệp. Với độ tin cậy 90%, khoảng tin cậy tỷ lệ người có sử dụng sản phẩm của doanh nghiệp trong vùng là:",
+    "answer": "(0,2491; 0,5009)"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Với mẫu kích thước bằng 2, trong các ước lượng sau, ước lượng nào là chệch cho trung bình tổng thể?",
+    "answer": "15X1+25X2"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Một nhà đầu tư muốn ước lượng tỷ suất lợi nhuận bình quân, khi đó cần ước lượng tham số nào?",
+    "answer": "Trung bình tổng thể."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Điều tra ngẫu nhiên 100 khách hàng thấy có 15 khách không hài lòng. Với độ tin cậy 95%, khoảng ước lượng tỷ lệ khách không hài lòng là:",
+    "answer": "(0,08; 0,22)"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Khi điều tra một mẫu kích thước 25 thu được trung bình mẫu bằng 7, phương sai mẫu bằng 4. Giả sử tổng thể phân phối chuẩn, với độ tin cậy 95%, ước lượng cho độ lệch chuẩn tổng thể là:",
+    "answer": "(1,5617; 2,7824)"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 200, phương sai là 24. Kiểm định ý kiến “năm nay mức chi trung bình đã thay đổi”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:μ=200;H1:μ≠200"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Năm ngoái tỷ lệ hộ nghèo là 10%. Để kiểm định ý kiến: “Tỷ lệ hộ nghèo đã giảm đi”, với cặp giả thuyết",
+    "answer": "chưa có cơ sở bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "t(19)0,05=1,729"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Cần kiểm định giả thuyết rằng \"Thu nhập trung bình của người lao động là ổn định hơn mức 20 triệu2\", tổng thể phân phối Chuẩn chưa biết các tham số. Với một mẫu ngẫu nhiên, thống kê sử dụng là:",
+    "answer": "χ2"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Trước đây tỉ lệ người biết đến sản phẩm mới của doanh nghiệp là 50%. Sau chiến dịch quảng cáo, phỏng vấn ngẫu nhiên 100 người. Với mức ý nghĩa 5%, kiểm định giả thuyết tỉ lệ người biết đến sản phẩm mới đã tăng lên, thì cần giá trị tới hạn là:",
+    "answer": "z0,05"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B. Khi kiểm định xem \"phải chăng tỷ lệ hộ nghèo của hai tỉnh là thực sự khác nhau hay không\", với mức ý nghĩa 5%, giả thuyết H0 bị bác bỏ. Vậy nếu tỷ lệ hộ nghèo trong mẫu của tỉnh A cao hơn tỉnh B, thì khi kiểm định tỷ lệ hộ nghèo của tỉnh A có cao hơn của tỉnh B hay không, kết luận sẽ là:",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Giả sử ta muốn kiểm định xem một biến ngẫu nhiên có tuân theo quy luật phân phối Chuẩn hay không. Khi đó giá trị tới hạn χ2 cần sử dụng sẽ có bậc tự do là:",
+    "answer": "Bậc 2"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của hai tỉnh là thực sự khác nhau hay không. Nếu ta tính được giá trị quan sát là 1,46 thì sẽ kết luận như thế nào với mức ý nghĩa 5%: ",
+    "answer": "chưa có cơ sở bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B, trong đó dấu hiệu A có 3 phạm trù, dấu hiệu B có 2 phạm trù. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không ở mức ý nghĩa 5%, mà tính được giá trị quan sát là 4,56 thì kết luận sẽ là: ",
+    "answer": "chưa có cơ sở bác bỏ H0; hai dấu hiệu độc lập."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía so sánh hai giá trị trung bình của 2 tổng thể phân phối Chuẩn sử dụng hai mẫu có kích thước lớn hơn 30, với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0. Khi đó phát biểu nào chắc chắn đúng?",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Cho số liệu về khách hàng: ",
+    "answer": "0,5"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố G¯+P¯ nghĩa là:",
+    "answer": "có người không chấp nhận."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Một người thi tuyển phải làm ba bài đánh giá. Nếu qua được từ hai bài trở lên thì trúng tuyển. Kí hiệu biến cố qua được các bài lần lượt là B1,B2,B3. Khi đó trong các trường hợp sau, trường hợp nào là người đó chắc chắn trúng tuyển?",
+    "answer": "B1.B2+B1.B2.B3¯"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Trong lớp có 10 sinh viên miền Bắc, 7 sinh viên miền Trung, 3 sinh viên miền Nam. Chọn ngẫu nhiên một nhóm 3 người, thì xác suất để cả ba người chỉ ở một miền là:",
+    "answer": "0,137"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Nếu biến cố A và B là hai biến cố độc lập thì A và B là:",
+    "answer": "có thể xảy ra trong cùng một phép thử."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Một người đấu thầu ở hai vòng, nếu qua được vòng ngoài thì mới được vào vòng trong. Xác suất qua được vòng ngoài là 0,3; nếu vào vòng trong thì xác suất qua được là 0,4. Xác suất để người đó qua vòng đầu và trượt ở vòng thứ hai là:",
+    "answer": "0,18"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Cho số liệu về người lao động ở một cơ quan: ",
+    "answer": "0,714"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Mỗi cái máy có 2 bộ phận hoạt động độc lập. Xác suất mỗi bộ phận hỏng đều là 0,1 và máy sẽ hỏng nếu có bộ phận hỏng. Xác suất trong 5 máy có đúng 1 máy hỏng là:",
+    "answer": "0,4089"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Xác suất để một khách hàng mua hàng là 0,5. Giả sử các khách hàng mua hàng độc lập với nhau. Xác suất để trong 5 khách có nhiều hơn 3 khách mua hàng là:",
+    "answer": "0,1876"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Một người đầu tư vào ba dự án độc lập nhau. Khả năng mỗi dự án thành công đều bằng 0,3. Khi đó xác suất để cả ba dự án đều thành công là:",
+    "answer": "0,027"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Cho ba hàm số có đồ thị dưới đây: ",
+    "answer": "Đồ thị thứ hai"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Một người quan tâm đến số người đi làm ở một hộ gia đình có bốn người. Khi đó biến ngẫu nhiên “số người đi làm trong hộ gia đình có bốn người” gồm các giá trị có thể có là:",
+    "answer": "0, 1, 2, 3, 4"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về số sản phẩm lỗi (X) trong một lô hàng như sau: ",
+    "answer": "2,7"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Trong một cuộc thi bắn, xạ thủ phải bắn 3 viên đạn. Gọi:",
+    "answer": "X"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về lợi nhuận ròng (X: đơn vị là tỉ đồng) của doanh nghiệp như sau: ",
+    "answer": "0,7"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Khối lượng sản phẩm là phân phối Chuẩn với trung bình là 12g và phương sai là 4 g2. Xác suất để khi cân ngẫu nhiên một sản phẩm thì khối lượng sản phẩm nhẹ hơn 15g là:",
+    "answer": "0,9332"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Chiều dài sản phẩm là phân phối Chuẩn với trung bình 20 cm, độ lệch chuẩn 2 cm. Xác suất để đo thử một sản phẩm ngẫu nhiên thì chiều dài sản phẩm trong khoảng (21; 23) cm là:",
+    "answer": "0,2417"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Xác suất để một người vào siêu thị điện máy mua hàng là 0,8. Xác suất để 5 người vào siêu thị thì có đúng 2 người mua hàng là:",
+    "answer": "A. 0,0512"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Nhiệt độ kí hiệu là X, và X∼N(25;9) có nghĩa là nhiệt độ có:",
+    "answer": "trung bình là 25, phương sai là 9."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nhiệt độ kí hiệu là X, và X∼N(25;42) có nghĩa là nhiệt độ có:",
+    "answer": "trung bình là 25, phương sai là 16."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Cho XA,XB lần lượt là tỷ suất lợi nhuận trong một năm của hai loại cổ phiếu A, B trên thị trường.",
+    "answer": "52,4 triệu"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "7,04"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": " ",
+    "answer": "5,52"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,6"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "13,5"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Cho mẫu sau về doanh thu:",
+    "answer": "37,2 và 2,9"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Ước lượng mức giá trung bình thông qua một mẫu kích thước 20, trung bình mẫu 30 USD, phương sai mẫu là 9 USD2. Với độ tin cậy 95% thì sai số của ước lượng khoảng đối xứng là:",
+    "answer": "1,40"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Muốn đánh giá về tỷ lệ người có thu nhập cao hơn mức trung bình, khi đó cần ước lượng tham số nào?",
+    "answer": "Tỷ lệ tổng thể."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Sau khi đã ước lượng khoảng cho tỉ lệ tổng thể trên một mẫu cụ thể, người ta muốn cho độ dài khoảng tin cậy giảm đi thì cách chắc chắn là:",
+    "answer": "giảm độ tin cậy, mẫu không thay đổi."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho chi phí bình quân của các doanh nghiệp, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "X¯−t(n−1)α/2Sn√<μ<X¯+t(n−1)α/2Sn√"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Một nhà đầu tư muốn ước lượng độ rủi ro khi đầu tư vào một cổ phiếu, khi đó cần ước lượng tham số nào?",
+    "answer": "Phương sai tổng thể."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, độ lệch chuẩn là 20. Kiểm định ý kiến “năm nay mức chi ổn định hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=400;H1:σ2<400"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 200, phương sai là 24. Kiểm định ý kiến “năm nay mức chi trung bình đã thay đổi”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:μ=200;H1:μ≠200"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Năm ngoái tỷ lệ hộ nghèo là 10%. Để kiểm định ý kiến: “Tỷ lệ hộ nghèo đã giảm đi”, với cặp giả thuyết",
+    "answer": "chưa có cơ sở bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, phương sai là 24. Kiểm định ý kiến “năm nay mức chi ổn định hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=24;H1:σ2<24"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Cần kiểm định giả thuyết: “Mức giá trung bình đã vượt trên 120 (nghìn)”, với giá phân phối Chuẩn chưa biết phương sai. Điều tra mẫu kích thước 100 được trung bình mẫu là 122, phương sai mẫu là 10. Khi đó giá trị quan sát là:",
+    "answer": "6,32"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B. Khi kiểm định xem \"phải chăng tỷ lệ hộ nghèo của hai tỉnh là thực sự khác nhau hay không\", với mức ý nghĩa 5%, giả thuyết H0 bị bác bỏ. Vậy nếu tỷ lệ hộ nghèo trong mẫu của tỉnh A cao hơn tỉnh B, thì khi kiểm định tỷ lệ hộ nghèo của tỉnh A có cao hơn của tỉnh B hay không, kết luận sẽ là:",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không thì giá trị thống kê cần sử dụng sẽ là:",
+    "answer": "χ2qs"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu thu nhập trung bình của cả 2 tỉnh đều chưa biết nhưng muốn xem xét về nhận định cho rằng thu nhập trung bình của 2 tỉnh là như nhau. Với 2 mẫu kích thước là 50, nếu tính được giá trị quan sát là 2,16 thì với mức ý nghĩa 5% kết luận sẽ là: ",
+    "answer": "bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng muốn xem phải chăng thu nhập hộ ở tỉnh A đồng đều hơn của hộ ở tỉnh B, khi đó cặp giả thuyết sẽ là:",
+    "answer": "H0:σ2A=σ2B;H1:σ2A<σ2B"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng ta muốn xem phải chăng thu nhập của hộ ở hai tỉnh này có độ phân tán khác nhau. Với 2 mẫu kích thước đều là 100, ta tính được giá trị quan sát của tiêu chuẩn kiểm định là 1,58. Khi đó kết luận với mức ý nghĩa 5% sẽ là:",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Cho số liệu về người lao động ở một cơ quan: (ảnh). ",
+    "answer": "0,9"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Một nhóm gồm 4 nam và 2 nữ. Chọn ngẫu nhiên 3 người trong số đó, thì xác suất để được 2 người nam và 1 người nữ là:",
+    "answer": "0,6"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Xác suất một người trúng phần thưởng trong một trò chơi là 1/4 và độc lập. Người đó đã chơi 3 lần và đều trượt. Khi chơi lần thứ tư thì khả năng người đó trúng phần thưởng là:",
+    "answer": "bằng 1/4 vì xác suất giữ nguyên."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Cho hai biến cố M và N. Cho biết biến cố M+N¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ tương đương với trường hợp nào sau đây?",
+    "answer": "M¯.N¯"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố Giám đốc và Phó giám đốc có ý kiến giống nhau là:",
+    "answer": "G.P+G¯.P¯"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Một người đi đấu thầu ở hai nơi độc lập nhau. Xác suất trúng thầu ở nơi 1 và 2 lần lượt là 0,3 và 0,4. Xác suất người đó chỉ trúng thầu ở lần thứ 2 là:",
+    "answer": "0,28"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Xác suất một người biết về quảng cáo của sản phẩm là 0,6. Với người biết về quảng cáo sản phẩm thì khả năng người đó mua là 0,4; với người không biết về quảng cáo thì khả năng mua là 0,2. Vậy với một người bất kỳ đã mua sản phẩm thì khả năng để người đó không biết gì về quảng cáo là:",
+    "answer": "0,25"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Một nhà đầu tư khảo sát ba dự án độc lập. Xác suất các dự án thành công lần lượt là 0,7; 0,8 và 0,9. Xác suất có đúng hai dự án thành công là:",
+    "answer": "0,398"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Xác suất để một cái máy hỏng trong ba năm đầu sử dụng là 0,1. Một phân xưởng có 6 chiếc máy hoạt động độc lập. Trong ba năm đầu sử dụng, tìm xác suất để có nhiều nhất là 1 máy hỏng là:",
+    "answer": "0,8857"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Có hai dự án độc lập nhau, xác suất để mỗi dự án thành công lần lượt là 0,3 và 0,4. Vậy xác suất để chỉ có đúng một dự án thành công là:",
+    "answer": "0,46"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Nếu dự án thành công thì lãi là 7 (tỷ VND), nếu không thành công thì lỗ 2 (tỷ VND). Biết xác suất thành công là 0,6. Khi đó kỳ vọng và phương sai của lợi nhuận là:",
+    "answer": "3,4 và 19,44"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Cho các hàm số có công thức như sau: ",
+    "answer": "k(x)"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau:",
+    "answer": "0,2637"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Ba biến ngẫu nhiên có hàm mật độ xác suất dưới đây là lợi nhuận của ba công ty.",
+    "answer": "Chọn công ty nào cũng được."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về lợi nhuận của một doanh nghiệp (X: đơn vị tỷ đồng, số âm tương ứng với bị lỗ) như sau: ",
+    "answer": "1,7 tỷ"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Thời gian hoàn thành một sản phẩm là phân phối Chuẩn với trung bình 35 phút và độ lệch chuẩn 4 phút. Xác suất để một sản phẩm ngẫu nhiên có thời gian hoàn thành trong khoảng 32 đến 38 phút xấp xỉ là:",
+    "answer": "0,5468"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Xác suất để biến ngẫu nhiên Chuẩn hóa lớn hơn 1,5 là:",
+    "answer": "0,0668"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Với X là trọng lượng sản phẩm, X∼N(μ;σ2). Sản phẩm đạt tiêu chuẩn nếu trọng lượng chênh lệch so với trung bình không quá một lần độ lệch chuẩn. Trong 1000 sản phẩm thì số sản phẩm đạt tiêu chuẩn trung bình gần bằng:",
+    "answer": "683 sản phẩm."
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Nhiệt độ trong ngày là phân phối Chuẩn với trung bình 25 độ (C), độ lệch chuẩn là 2,5 độ. Xác suất để vào một thời điểm ngẫu nhiên nhiệt độ trong khoảng (27,5; 30) độ là:",
+    "answer": "0,1359"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Thời gian hoàn thành một sản phẩm là phân phối Chuẩn với trung bình 35 phút và phương sai là 16 phút2. Xác suất để một sản phẩm ngẫu nhiên có thời gian hoàn thành là nhiều hơn 30 phút là:",
+    "answer": "0,8944"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "9,29"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,5"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,7"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,7"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,143"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Cho mẫu sau về một số người lao động:",
+    "answer": "15,2"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Với mẫu kích thước bằng 2, trong các ước lượng sau, ước lượng nào là chệch cho trung bình tổng thể?",
+    "answer": "13X1+13X2"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho tỷ lệ người lao động có mua bảo hiểm sức khỏe, dựa trên một mẫu kích thước  n≥100, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "f−uα/2f(1−f)√n√<p<f+uα/2f(1−f)√n√"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Sau khi đã ước lượng khoảng cho trung bình tổng thể trên một mẫu cụ thể, cách nào sau đây chắc chắn làm độ dài khoảng tin cậy tăng lên?",
+    "answer": "Tăng độ tin cậy, mẫu không thay đổi."
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho độ phân tán của năng suất người lao động, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "(n−1)S2χ2(n−1)α/2<σ2<(n−1)S2χ2(n−1)1−α/2"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho chi phí bình quân của các doanh nghiệp, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "X¯−t(n−1)α/2Sn√<μ<X¯+t(n−1)α/2Sn√"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Khi kiểm định cặp giả thuyết: H0:σ2=100;H1:σ2<100. Với mẫu kích thước 27, mức ý nghĩa 5%, tính được giá trị quan sát là 14. Vậy kết luận là:",
+    "answer": "χ2qs<χ2(n−1)1−α⇒ bác bỏ H0"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "t(19)0,1=1,328"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, độ lệch chuẩn là 20. Kiểm định ý kiến “năm nay mức chi biến động hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=400;H1:σ2>400"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Trước đây tiêu chuẩn cho trọng lượng bình quân sản phẩm là 14g. Trọng lượng phân phối Chuẩn. Có ý kiến cho rằng: “hiện nay không cần phải thay đổi tiêu chuẩn”. Với mức ý nghĩa 5%, dựa trên mẫu kích thước 20 tính được giá trị quan sát là 1,832. Vậy kết luận là: ",
+    "answer": "chưa có cơ sở bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Khi kiểm định cặp giả thuyết:",
+    "answer": "Zqs<−zα/2⇒ bác bỏ H0"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng muốn xem phải chăng thu nhập hộ ở tỉnh A đồng đều hơn của hộ ở tỉnh B, khi đó giá trị quan sát của thống kê cần sử dụng sẽ là:",
+    "answer": "Fqs"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Giả sử ta muốn kiểm định xem Tuổi thọ của một loại sản phẩm (X) có tuân theo quy luật phân phối chuẩn hay không. Với mẫu cụ thể ta tính được giá trị quan sát là 6,13. Khi đó kết luận ở mức ý nghĩa 5% sẽ là: ",
+    "answer": "Bác bỏ H0; X không phân phối Chuẩn."
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu thu nhập trung bình của cả 2 tỉnh đều chưa biết nhưng muốn xem xét về nhận định cho rằng thu nhập trung bình của 2 tỉnh là như nhau, thì cặp giả thuyết sẽ là:",
+    "answer": "H0:μA=μB;H1:μA≠μB"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của tỉnh A là cao hơn so với tỉnh B, khi đó giá trị quan sát của thống kê cần sử dụng trong kiểm định là:",
+    "answer": "Zqs"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của tỉnh A (pA) là cao hơn so với tỉnh B (pB), khi đó cặp giả thuyết sẽ là:",
+    "answer": "H0:pA=pB;H1:pA>pB"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Có 3 người vào cửa hàng, xét các biến cố:",
+    "answer": "A1 và A2"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Một hộp có 6 chính phẩm và 4 phế phẩm. Nếu lấy ra một chính phẩm và bỏ ra ngoài. Tiếp đó lấy ra một sản phẩm thì xác suất để đó là chính phẩm là:",
+    "answer": "59"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Một người đầu tư vào hai dự án, xét các biến cố:",
+    "answer": "A4"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Nếu biến cố A và B là hai biến cố độc lập thì A và B là:",
+    "answer": "có thể xảy ra trong cùng một phép thử."
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Trong lớp có 10 sinh viên miền Bắc, 7 sinh viên miền Trung, 3 sinh viên miền Nam. Chọn ngẫu nhiên một nhóm 3 người, thì xác suất để cả ba người chỉ ở một miền là:",
+    "answer": "0,137"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Xác suất một người biết về quảng cáo của sản phẩm là 0,6. Với người biết về quảng cáo sản phẩm thì khả năng người đó mua là 0,4; với người không biết về quảng cáo thì khả năng mua là 0,2. Vậy xác suất một người bất kỳ mua sản phẩm là:",
+    "answer": "0,32"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Xác suất ba dự án đầu tư có lãi lần lượt là 0,6; 0,7 và 0,8. Giả sử ba dự án độc lập nhau. Khi đó xác suất để không dự án nào có lãi là:",
+    "answer": "0,024"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Một người đi bán hàng ở 5 nơi độc lập, xác suất ở mỗi nơi bán được hàng đều bằng 0,2. Vậy xác suất để người đó bán được hàng ở đúng 2 nơi là xấp xỉ:",
+    "answer": "0,2"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Một người đấu thầu ở hai vòng, nếu qua được vòng ngoài thì mới được vào vòng trong. Xác suất qua được vòng ngoài là 0,3; nếu vào vòng trong thì xác suất qua được là 0,4. Xác suất để người đó qua vòng đầu và trượt ở vòng thứ hai là:",
+    "answer": "0,18"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Một người đầu tư vào ba dự án độc lập nhau. Khả năng mỗi dự án thành công đều bằng 0,3. Khi đó xác suất để cả ba dự án đều thành công là:",
+    "answer": "0,027"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Một sinh viên thi hết học phần, gọi:",
+    "answer": "X"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về lợi nhuận ròng (X: đơn vị là tỉ đồng) của doanh nghiệp như sau: ",
+    "answer": "0,9"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về điểm thi môn Toán của học sinh: ",
+    "answer": "80%"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về số tiền lãi thu được của một dự án (số âm ứng với trường hợp bị lỗ) như sau:",
+    "answer": "E(X) = 0,2 và V(X) = 3,56"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau: ",
+    "answer": "0,25"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Tỷ lệ sinh viên đi làm thêm là 40%. Tính xác suất để trong 10 sinh viên thì có không quá 2 sinh viên đi làm thêm.",
+    "answer": "0,1673"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Chi phí để sản xuất một sản phẩm là phân phối Chuẩn với trung bình 26 USD và phương sai là 9 USD2. Xác suất để một sản phẩm ngẫu nhiên có chi phí nhiều hơn 29 USD là:",
+    "answer": "0,1587"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Với X là trọng lượng sản phẩm, X∼N(μ;σ2). Sản phẩm đạt tiêu chuẩn nếu trọng lượng chênh lệch so với trung bình không quá ba lần độ lệch chuẩn. Trong 1000 sản phẩm thì số sản phẩm đạt tiêu chuẩn trung bình gần bằng:",
+    "answer": "997 sản phẩm."
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Chi phí để sản xuất một sản phẩm là phân phối Chuẩn với trung bình 26 USD và độ lệch chuẩn là 2 USD. Xác suất để một sản phẩm ngẫu nhiên có chi phí trong khoảng (25; 28) USD là:",
+    "answer": "0,5328"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Xác suất để biến ngẫu nhiên Chuẩn hóa lớn hơn (–1,25) là:",
+    "answer": "0,8944"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Cho XA,XB lần lượt là tỷ suất lợi nhuận trong một năm của hai loại cổ phiếu A, B trên thị trường.",
+    "answer": "4,6039(%)2"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,1"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Cho XA,XB lần lượt là giá bán của hai loại sản phẩm A, B trên thị trường.",
+    "answer": "0,6"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "9,29"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,143"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Cho mẫu sau về một số người lao động:",
+    "answer": "16,9"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Với mẫu kích thước bằng 2, trong các ước lượng sau, ước lượng nào là không chệch cho trung bình tổng thể?",
+    "answer": "13X1+23X2"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Ước lượng cho độ dài trung bình của sản phẩm, với một mẫu khảo sát thu được trung bình mẫu bằng 14,2. Trong các khoảng sau, khoảng nào có thể là kết quả ước lượng khoảng tin cậy đối xứng cho trung bình tổng thể?",
+    "answer": "(12; 16,4)"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho độ phân tán của năng suất người lao động, thông tin dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "(n−1)S2χ2(n−1)α/2<σ2<(n−1)S2χ2(n−1)1−α/2"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Ước lượng mức giá trung bình thông qua một mẫu kích thước 20, trung bình mẫu 30 USD, phương sai mẫu là 9 USD2. Với độ tin cậy 95% thì sai số của ước lượng khoảng đối xứng là:",
+    "answer": "1,40"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Ước lượng cho tỷ lệ sinh viên có việc làm sau 1 năm tốt nghiệp, khảo sát trên một mẫu thu được tỷ lệ mẫu là 81%. Trong các khoảng sau, khoảng nào có thể là kết quả ước lượng khoảng tin cậy đối xứng cho tỷ lệ tổng thể?",
+    "answer": "(75%; 87%)"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Trước đây tỉ lệ người biết đến sản phẩm mới của doanh nghiệp là 50%. Sau chiến dịch quảng cáo, phỏng vấn ngẫu nhiên 100 người. Với mức ý nghĩa 5%, kiểm định giả thuyết tỉ lệ người biết đến sản phẩm mới đã tăng lên, thì cần giá trị tới hạn là:",
+    "answer": "z0,05"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Trước đây tiêu chuẩn cho tỷ lệ phế phẩm là không được quá 5%. Kiểm tra 200 sản phẩm thấy có 11 phế phẩm. Với mức ý nghĩa 5% kiểm định ý kiến cho rằng “Sản phẩm không đạt tiêu chuẩn” có kết luận là:",
+    "answer": "Chưa có cơ sở bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "χ2(19)0,95"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Khi kiểm định cặp giả thuyết: H0:μ=100;H1:μ>100. Với mẫu kích thước 27, mức ý nghĩa 5%, tính được giá trị quan sát là 1,67. Vậy kết luận là: ",
+    "answer": "Tqs<t(n−1)α⇒ chưa có cơ sở bác bỏ H0"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Năm ngoái tỷ lệ hộ nghèo là 10%. Để kiểm định ý kiến: “Tỷ lệ hộ nghèo đã giảm đi”, với cặp giả thuyết",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía về hai trung bình của hai tổng thể có phân phối chuẩn, các mẫu có kích thước lớn hơn 30; với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0, khi đó phát biểu nào chắc chắn đúng?",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Khi kiểm định về tính phân phối Chuẩn của một biến ngẫu nhiên bằng kiểm định Jarque-Bera, nếu các hệ số nhọn, hệ số bất đối xứng của mẫu không đổi, mức ý nghĩa không đổi, kích thước mẫu tăng lên thì khả năng bác bỏ giả thuyết H0 sẽ: ",
+    "answer": "tăng lên."
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B, trong đó dấu hiệu A có 3 phạm trù, dấu hiệu B có 2 phạm trù. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không thì giá trị tới hạn χ2 cần sử dụng sẽ có bậc tự do là:",
+    "answer": "Bậc 2"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không thì giá trị thống kê cần sử dụng sẽ là:",
+    "answer": "χ2qs"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Giả sử ta muốn kiểm định xem Tuổi thọ của một loại sản phẩm (X) có tuân theo quy luật phân phối chuẩn hay không. Với mẫu cụ thể ta tính được giá trị quan sát là 6,13. Khi đó kết luận ở mức ý nghĩa 5% sẽ là: ",
+    "answer": "Bác bỏ H0; X không phân phối Chuẩn."
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố G¯+P¯ nghĩa là:",
+    "answer": "có người không chấp nhận."
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Cho số liệu về người lao động ở một cơ quan: (ảnh). ",
+    "answer": "0,9"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Một hộp có 6 chính phẩm và 4 phế phẩm. Nếu lấy ra một chính phẩm và bỏ ra ngoài. Tiếp đó lấy ra một sản phẩm thì xác suất để đó là chính phẩm là:",
+    "answer": "59"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố G¯.P¯ nghĩa là:",
+    "answer": "không ai chấp nhận."
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Có 3 người vào cửa hàng, xét các biến cố:",
+    "answer": "A1 và A2"
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Xác suất để một khách hàng mua hàng là 0,5. Giả sử các khách hàng mua hàng độc lập với nhau. Xác suất để trong 5 khách có nhiều hơn 3 khách mua hàng là:",
+    "answer": "0,1876"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Một người đi đấu thầu ở hai nơi độc lập nhau. Xác suất trúng thầu ở nơi 1 và 2 lần lượt là 0,3 và 0,4. Xác suất người đó chỉ trúng thầu ở lần thứ 2 là:",
+    "answer": "0,28"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Một người thi tuyển dụng ở hai công ty, độc lập với nhau. Xác suất trúng tuyển ở hai công ty lần lượt là 0,4 và 0,6. Vậy xác suất người đó có trúng tuyển là:",
+    "answer": "0,76"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Mỗi cái máy có 2 bộ phận hoạt động độc lập. Xác suất mỗi bộ phận hỏng đều là 0,1 và máy sẽ hỏng nếu có bộ phận hỏng. Xác suất trong 5 máy có đúng 1 máy hỏng là:",
+    "answer": "0,4089"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Một nhân viên phục vụ 10 khách hàng, xác suất mỗi khách hàng hài lòng là 0,6. Với mỗi khách hài lòng nhân viên sẽ được tiền công 3 triệu, với mỗi khách không hài lòng nhân viên chỉ được tiền công 1 triệu. Tính xác suất nhân viên được 22 triệu tiền công.",
+    "answer": "0,251"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": " Qua thống kê của một cửa hàng thực phẩm tươi sống thì số kg thưc phẩm bán được trong một ngày (hay nhu cầu = X) có bảng phân phối xác suất như sau:",
+    "answer": "925 (nghìn đồng)"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về số sản phẩm lỗi trong một lô hàng: ",
+    "answer": "E(X)=0,7 và σX=0,78"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Xạ thủ dùng 4 viên đạn để tập bắn với quy định nếu bắn trúng hai viên liên tiếp hoặc hết đạn thì dừng bắn. Các viên đạn được bắn độc lập với xác suất trúng đều là 0,8. Khi đó số viên đạn xạ thủ sử dụng trung bình là:",
+    "answer": "2,592 (viên)"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về số sản phẩm bán được trong một ngày của một cửa hàng: ",
+    "answer": "1260 (nghìn đồng)"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Ba biến ngẫu nhiên có hàm mật độ xác suất dưới đây là lợi nhuận của ba công ty: ",
+    "answer": "Công ty II."
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Tỷ lệ chính phẩm của một nhà máy là 70%. Lấy ngẫu nhiên 4 sản phẩm của nhà máy để kiểm tra. Số chính phẩm lấy được có khả năng xảy ra cao nhất là:",
+    "answer": "3"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Khối lượng sản phẩm phân phối Chuẩn với trung bình 15g, độ dao động là 3g2. Nếu đặt X là khối lượng sản phẩm thì có thể viết là:",
+    "answer": "X∼N(15;3)"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Cho lợi nhuận của ba công ty I, II, III là phân phối Chuẩn có hàm mật độ như hình vẽ. Nếu muốn chọn công ty có lợi nhuận phân tán nhất thì chọn:",
+    "answer": "công ty III."
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Nhiệt độ trong ngày là phân phối Chuẩn với trung bình 25 độ (C), phương sai là 6,25 độ2. Xác suất để vào một thời điểm ngẫu nhiên nhiệt độ lớn hơn 30 độ là:",
+    "answer": "0,0228"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": " ",
+    "answer": "chọn công ty II."
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "9,1"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,6"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,7"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": " ",
+    "answer": "5,52"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Cho XA,XB lần lượt là giá bán của hai loại sản phẩm A, B trên thị trường.",
+    "answer": "XA,XB là hai biến ngẫu nhiên độc lập."
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Cho mẫu sau về giá cả:",
+    "answer": "1,26"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Khi điều tra một mẫu kích thước 25 thu được trung bình mẫu bằng 7, phương sai mẫu bằng 4. Giả sử tổng thể phân phối Chuẩn, với độ tin cậy 95%, ước lượng cho độ dao động của tổng thể là:",
+    "answer": "(2,439; 7,7419)"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Ước lượng mức giá trung bình thông qua một mẫu kích thước 20, trung bình mẫu 30 USD, phương sai mẫu là 9 USD2. Với độ tin cậy 95% thì độ dài khoảng tin cậy đối xứng là:",
+    "answer": "2,81"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Điều tra ngẫu nhiên 100 khách hàng thấy có 15 khách không hài lòng. Với độ tin cậy 95%, khoảng ước lượng tỷ lệ khách không hài lòng là:",
+    "answer": "(0,08; 0,22)"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho độ dao động của giá cả thị trường, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "(n−1)S2χ2(n−1)α/2<σ2<(n−1)S2χ2(n−1)1−α/2"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Ước lượng cho độ dài trung bình của sản phẩm, với một mẫu khảo sát thu được trung bình mẫu bằng 14,2. Trong các khoảng sau, khoảng nào có thể là kết quả ước lượng khoảng tin cậy đối xứng cho trung bình tổng thể?",
+    "answer": "(12; 16,4)"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Cần kiểm định giả thuyết rằng \"Thu nhập trung bình của người lao động là ổn định hơn mức 20 triệu2\", tổng thể phân phối Chuẩn chưa biết các tham số. Với một mẫu ngẫu nhiên, thống kê sử dụng là:",
+    "answer": "χ2"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Trước đây trọng lượng sản phẩm phân phối Chuẩn với trung bình 25g và độ dao động là 4g. Trọng lượng phân phối Chuẩn. Kiểm định ý kiến cho rằng “độ dao động của trọng lượng không như trước” với mức ý nghĩa 5%. Với mẫu kích thước 20 tính được giá trị quan sát là 3,28. Vậy kết luận là: ",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, độ lệch chuẩn là 20. Kiểm định ý kiến “năm nay mức chi ổn định hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=400;H1:σ2<400"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Cần kiểm định giả thuyết rằng \"Tỷ lệ hộ có thu nhập cao là trên 20%\", thì với một mẫu ngẫu nhiên có kích thước n≥100, thống kê sử dụng là:",
+    "answer": "Z"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Cần kiểm định giả thuyết rằng \"Thu nhập trung bình của người lao động đã vượt trên 10 triệu đồng/tháng\", tổng thể phân phối Chuẩn chưa biết các tham số. Với một mẫu ngẫu nhiên, thống kê sử dụng là:",
+    "answer": "T"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu thu nhập trung bình của cả 2 tỉnh đều chưa biết nhưng muốn xem xét về nhận định cho rằng thu nhập trung bình của 2 tỉnh là như nhau, thì cặp giả thuyết sẽ là:",
+    "answer": "H0:μA=μB;H1:μA≠μB"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía so sánh hai giá trị trung bình của 2 tổng thể phân phối Chuẩn sử dụng hai mẫu có kích thước lớn hơn 30, với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0. Khi đó phát biểu nào chắc chắn đúng?",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của tỉnh A là cao hơn so với tỉnh B, khi đó giá trị quan sát của thống kê cần sử dụng trong kiểm định là:",
+    "answer": "Zqs"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng muốn xem phải chăng thu nhập hộ ở tỉnh A đồng đều hơn của hộ ở tỉnh B, khi đó cặp giả thuyết sẽ là:",
+    "answer": "H0:σ2A=σ2B;H1:σ2A<σ2B"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của tỉnh A (pA) là cao hơn so với tỉnh B (pB), khi đó cặp giả thuyết sẽ là:",
+    "answer": "H0:pA=pB;H1:pA>pB"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Cho số liệu về khách hàng: ",
+    "answer": "0,5"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Cho số liệu về khách hàng: ",
+    "answer": "0,6"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Cho hai biến cố M và N. Cho biết biến cố M+N¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ tương đương với trường hợp nào sau đây?",
+    "answer": "M¯.N¯"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Một người thi tuyển phải làm ba bài đánh giá. Nếu qua được từ hai bài trở lên thì trúng tuyển. Kí hiệu biến cố qua được các bài lần lượt là B1,B2,B3. Khi đó trong các trường hợp sau, trường hợp nào là người đó chắc chắn trúng tuyển?",
+    "answer": "B1.B2+B1.B2.B3¯"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Xác suất một người trúng phần thưởng trong một trò chơi là 1/4 và độc lập. Người đó đã chơi 3 lần và đều trượt. Khi chơi lần thứ tư thì khả năng người đó trúng phần thưởng là:",
+    "answer": "bằng 1/4 vì xác suất giữ nguyên."
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Một người đi bán hàng ở 5 nơi độc lập, xác suất ở mỗi nơi bán được hàng đều bằng 0,2. Vậy xác suất để người đó bán được hàng ở đúng 2 nơi là xấp xỉ:",
+    "answer": "0,2"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Xác suất ba dự án đầu tư có lãi lần lượt là 0,6; 0,7 và 0,8. Giả sử ba dự án độc lập nhau. Khi đó xác suất để có ít nhất một dự án có lãi là:",
+    "answer": "0,976"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Xác suất một người biết về quảng cáo của sản phẩm là 0,6. Với người biết về quảng cáo sản phẩm thì khả năng người đó mua là 0,4; với người không biết về quảng cáo thì khả năng mua là 0,2. Vậy xác suất một người bất kỳ mua sản phẩm là:",
+    "answer": "0,32"
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Có hai dự án độc lập nhau, xác suất để mỗi dự án thành công lần lượt là 0,3 và 0,4. Vậy xác suất để chỉ có đúng một dự án thành công là:",
+    "answer": "0,46"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Cho số liệu về người lao động ở một cơ quan: ",
+    "answer": "0,714"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Cho bốn bảng số về số sản phẩm bán được:",
+    "answer": "Bảng (b)"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau:",
+    "answer": "6,7 điểm"
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Với một chiếc tivi được chọn ngẫu nhiên, trong các đại lượng sau, đâu là biến ngẫu nhiên rời rạc:",
+    "answer": "W"
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": "Cho bảng phân phối xác suất về số tiền lãi thu được của một dự án (số âm ứng với trường hợp bị lỗ) như sau:",
+    "answer": "E(X) = 0,2 và V(X) = 3,56"
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "Một người đi bán hàng ở hai nơi độc lập nhau, xác suất bán được ở mỗi nơi đều bằng 0,7. Với mỗi nơi nếu bán được hàng thì người đó được lãi 5 triệu. Kỳ vọng và phương sai tiền lãi là:",
+    "answer": "7 và 10,5"
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Xác suất để một sản phẩm của hãng A hỏng trong một năm đầu sử dụng là 0,1. Trong 100 sản phẩm của hãng A có trung bình số sản phẩm hỏng trong năm đầu sử dụng là:",
+    "answer": "10"
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "Với X phân phối Chuẩn: X∼N(μ;σ2 thì:",
+    "answer": "P(X<μ−σ)=P(X>μ+σ)"
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Khối lượng sản phẩm phân phối Chuẩn với trung bình 15g, độ dao động là 3g. Nếu đặt X là khối lượng sản phẩm thì có thể viết là:",
+    "answer": "X∼N(15;9)"
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Chi phí để sản xuất một sản phẩm là phân phối Chuẩn với trung bình 26 USD và độ lệch chuẩn là 2 USD. Xác suất để một sản phẩm ngẫu nhiên có chi phí trong khoảng (25; 28) USD là:",
+    "answer": "0,5328"
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "Tỷ lệ sinh viên đi làm thêm là 40%. Tính xác suất để trong 10 sinh viên thì có không quá 2 sinh viên đi làm thêm.",
+    "answer": "0,1673"
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": "Cho XA,XB lần lượt là tỷ suất lợi nhuận trong một năm của hai loại cổ phiếu A, B trên thị trường.",
+    "answer": "4,6039(%)2"
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Cho XA,XB lần lượt là giá bán của hai loại sản phẩm A, B trên thị trường.",
+    "answer": "0,6"
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "Cho XA,XB lần lượt là tỷ suất lợi nhuận trong một năm của hai loại cổ phiếu A, B trên thị trường.",
+    "answer": "52,4 triệu"
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,65"
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "13,5"
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Cho mẫu sau về chi phí:",
+    "answer": "27,2 và 8,4"
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "Với mẫu kích thước bằng 2, trong các ước lượng sau, ước lượng nào là không chệch cho trung bình tổng thể?",
+    "answer": "13X1+23X2"
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho chi phí bình quân của các doanh nghiệp, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "X¯−t(n−1)α/2Sn√<μ<X¯+t(n−1)α/2Sn√"
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho tỷ lệ người lao động có mua bảo hiểm sức khỏe, dựa trên một mẫu kích thước  n≥100, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "f−uα/2f(1−f)√n√<p<f+uα/2f(1−f)√n√"
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "Khi muốn ước lượng khoảng cho tỷ lệ khách hàng sử dụng dịch vụ, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "f−uα/2f(1−f)√n√<p<f+uα/2f(1−f)√n√"
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Người quản lý muốn ước lượng độ biến động của giá cả hàng hóa, vậy cần ước lượng tham số nào?",
+    "answer": "Phương sai tổng thể."
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Năm ngoái giá cả trung bình là 120 USD, độ dao động là 6 USD. Giá cả phân phối Chuẩn. Năm nay điều tra mẫu kích thước 15, kiểm định giả thuyết giá biến động nhiều hơn trước với mức ý nghĩa 5%. Khi đó, để kiểm định thì cần giá trị tới hạn nào trong quá trình kiểm định?",
+    "answer": "23,68"
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía về trung bình tổng thể với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0, khi đó phát biểu nào chắc chắn đúng:",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 321,
+    "premium": false,
+    "question": "Cần kiểm định giả thuyết “Độ biến động của chi tiêu đã nhiều hơn mức 4 (triệu2)”, với chi tiêu phân phối Chuẩn chưa biết các tham số. Điều tra mẫu kích thước 100 được trung bình mẫu 30 và phương sai mẫu là 9 (triệu2). Khi đó giá trị quan sát là:",
+    "answer": "222,75"
+  },
+  {
+    "id": 322,
+    "premium": false,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, phương sai là 24. Kiểm định ý kiến “năm nay mức chi trung bình đã tăng lên”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:μ=220;H1:μ>220"
+  },
+  {
+    "id": 323,
+    "premium": false,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "χ_0,95^(2(19))"
+  },
+  {
+    "id": 324,
+    "premium": false,
+    "question": "Giả sử ta muốn kiểm định xem một biến ngẫu nhiên có tuân theo quy luật phân phối Chuẩn hay không. Khi đó giá trị tới hạn χ2 cần sử dụng sẽ có bậc tự do là:",
+    "answer": "Bậc 2"
+  },
+  {
+    "id": 325,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng muốn xem phải chăng thu nhập hộ ở tỉnh A đồng đều hơn của hộ ở tỉnh B, khi đó giá trị quan sát của thống kê cần sử dụng sẽ là:",
+    "answer": "Fqs"
+  },
+  {
+    "id": 326,
+    "premium": false,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng ta muốn xem phải chăng thu nhập của hộ ở hai tỉnh này có độ phân tán khác nhau. Với 2 mẫu kích thước đều là 100, ta tính được giá trị quan sát của tiêu chuẩn kiểm định là 1,58. Khi đó kết luận với mức ý nghĩa 5% sẽ là:",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 327,
+    "premium": false,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía về hai trung bình của hai tổng thể có phân phối chuẩn, các mẫu có kích thước lớn hơn 30; với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0, khi đó phát biểu nào chắc chắn đúng?",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 328,
+    "premium": false,
+    "question": "Khi kiểm định về tính phân phối Chuẩn của một biến ngẫu nhiên bằng kiểm định Jarque-Bera, nếu các hệ số nhọn, hệ số bất đối xứng của mẫu không đổi, mức ý nghĩa không đổi, kích thước mẫu tăng lên thì khả năng bác bỏ giả thuyết H0 sẽ: ",
+    "answer": "tăng lên."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Cho số liệu về khách hàng: ",
+    "answer": "0,5"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Nếu biến cố A và B là hai biến cố độc lập thì A và B là:",
+    "answer": "có thể xảy ra trong cùng một phép thử."
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Có 3 người vào cửa hàng, xét các biến cố:",
+    "answer": "A1 và A2"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Trong lớp có 10 sinh viên miền Bắc, 7 sinh viên miền Trung, 3 sinh viên miền Nam. Chọn ngẫu nhiên một nhóm 3 người, thì xác suất để cả ba người chỉ ở một miền là:",
+    "answer": "0,137"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố G¯+P¯ nghĩa là:",
+    "answer": "có người không chấp nhận."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Xác suất ba dự án đầu tư có lãi lần lượt là 0,6; 0,7 và 0,8. Giả sử ba dự án độc lập nhau. Khi đó xác suất để không dự án nào có lãi là:",
+    "answer": "0,024"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Có hai dự án độc lập nhau, xác suất để mỗi dự án thành công lần lượt là 0,3 và 0,4. Vậy xác suất để chỉ có đúng một dự án thành công là:",
+    "answer": "0,46"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Một người thi tuyển dụng ở hai công ty, độc lập với nhau. Xác suất trúng tuyển ở hai công ty lần lượt là 0,4 và 0,6. Vậy xác suất người đó có trúng tuyển là:",
+    "answer": "0,76"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Một người đi đấu thầu ở hai nơi độc lập nhau. Xác suất trúng thầu ở nơi 1 và 2 lần lượt là 0,3 và 0,4. Xác suất người đó chỉ trúng thầu ở lần thứ 2 là:",
+    "answer": "0,28"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Một người đi bán hàng ở 5 nơi độc lập, xác suất ở mỗi nơi bán được hàng đều bằng 0,2. Vậy xác suất để người đó bán được hàng ở đúng 2 nơi là xấp xỉ:",
+    "answer": "0,2"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về số sản phẩm bán được trong một ngày của một cửa hàng: ",
+    "answer": "1260 (nghìn đồng)"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Xạ thủ dùng 4 viên đạn để tập bắn với quy định nếu bắn trúng hai viên liên tiếp hoặc hết đạn thì dừng bắn. Các viên đạn được bắn độc lập với xác suất trúng đều là 0,8. Khi đó số viên đạn xạ thủ sử dụng trung bình là:",
+    "answer": "2,592 (viên)"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Cho ba hàm số có đồ thị dưới đây: ",
+    "answer": "Đồ thị thứ hai"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Một người quan tâm đến số người đi làm ở một hộ gia đình có bốn người. Khi đó biến ngẫu nhiên “số người đi làm trong hộ gia đình có bốn người” gồm các giá trị có thể có là:",
+    "answer": "0, 1, 2, 3, 4"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Một sinh viên thi hết học phần, gọi:",
+    "answer": "X"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Xác suất để biến ngẫu nhiên Chuẩn hóa lớn hơn (–1,25) là:",
+    "answer": "0,8944"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Thời gian hoàn thành một sản phẩm là phân phối Chuẩn với trung bình 35 phút và phương sai là 16 phút2. Xác suất để một sản phẩm ngẫu nhiên có thời gian hoàn thành là nhiều hơn 30 phút là:",
+    "answer": "0,8944"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Chi phí để sản xuất một sản phẩm là phân phối Chuẩn với trung bình 26 USD và độ lệch chuẩn là 2 USD. Xác suất để một sản phẩm ngẫu nhiên có chi phí trong khoảng (25; 28) USD là:",
+    "answer": "0,5328"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Khối lượng sản phẩm là phân phối chuẩn với trung bình là 12 g và độ lệch chuẩn là 2 g. Xác suất để khi cân ngẫu nhiên một sản phẩm thì khối lượng sản phẩm có khối lượng trong khoảng (13; 14) g là:",
+    "answer": "0,1498"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Nhiệt độ trong ngày là phân phối Chuẩn với trung bình 25 độ (C), độ lệch chuẩn là 2,5 độ. Xác suất để vào một thời điểm ngẫu nhiên nhiệt độ trong khoảng (27,5; 30) độ là:",
+    "answer": "0,1359"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,7"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,65"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "9,1"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,405"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,1"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Với cùng một bộ số liệu, nếu coi là số liệu tổng thể thì tính được phương sai tổng thể, nếu coi là số liệu mẫu thì tính được phương sai mẫu, khi đó phương sai tổng thể:",
+    "answer": "nhỏ hơn phương sai mẫu."
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho độ phân tán của năng suất người lao động, thông tin dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "(n−1)S2χ2(n−1)α/2<σ2<(n−1)S2χ2(n−1)1−α/2"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Với mẫu kích thước bằng 2, trong các ước lượng sau, ước lượng nào là chệch cho trung bình tổng thể?",
+    "answer": "13X1+13X2"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho tỷ lệ khách hàng sử dụng dịch vụ, thông tin dựa trên một mẫu kích thước n≥100, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "f−uα/2f(1−f)√n√<p<f+uα/2f(1−f)√n√"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Ước lượng cho tỷ lệ sinh viên có việc làm sau 1 năm tốt nghiệp, khảo sát trên một mẫu thu được tỷ lệ mẫu là 81%. Trong các khoảng sau, khoảng nào có thể là kết quả ước lượng khoảng tin cậy đối xứng cho tỷ lệ tổng thể?",
+    "answer": "(75%; 87%)"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Một huyện vùng núi muốn ước lượng tỷ lệ hộ nghèo của huyện, khi đó cần ước lượng tham số nào?",
+    "answer": "Tỷ lệ tổng thể."
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, độ lệch chuẩn là 20. Kiểm định ý kiến “năm nay mức chi biến động hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=400;H1:σ2>400"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía về tỷ lệ tổng thể với mức ý nghĩa 5% thì bác bỏ H0, khi đó phát biểu nào chắc chắn đúng:",
+    "answer": "với mức ý nghĩa lớn hơn 5% thì kết luận sẽ là bác bỏ H0."
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Cần kiểm định giả thuyết “Độ phân tán của chi tiêu là chưa đến 8 (triệu2)”, với chi tiêu phân phối Chuẩn chưa biết các tham số. Điều tra mẫu kích thước 50 được trung bình mẫu 30 và phương sai mẫu là 5 (triệu2). Khi đó giá trị quan sát là:",
+    "answer": "30,63"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Trước đây tỉ lệ người biết đến sản phẩm mới của doanh nghiệp là 50%. Sau chiến dịch quảng cáo, phỏng vấn ngẫu nhiên 100 người. Với mức ý nghĩa 5%, kiểm định giả thuyết tỉ lệ người biết đến sản phẩm mới đã tăng lên, thì cần giá trị tới hạn là:",
+    "answer": "z0,05"
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, phương sai là 24. Kiểm định ý kiến “năm nay mức chi trung bình đã tăng lên”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:μ=220;H1:μ>220"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng muốn xem phải chăng thu nhập hộ ở tỉnh A đồng đều hơn của hộ ở tỉnh B, khi đó giá trị quan sát của thống kê cần sử dụng sẽ là:",
+    "answer": "Fqs"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B. Khi kiểm định xem \"phải chăng tỷ lệ hộ nghèo của hai tỉnh là thực sự khác nhau hay không\", với mức ý nghĩa 5%, giả thuyết H0 bị bác bỏ. Vậy nếu tỷ lệ hộ nghèo trong mẫu của tỉnh A cao hơn tỉnh B, thì khi kiểm định tỷ lệ hộ nghèo của tỉnh A có cao hơn của tỉnh B hay không, kết luận sẽ là:",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng ta muốn xem phải chăng thu nhập của hộ ở hai tỉnh này có độ phân tán khác nhau. Với 2 mẫu kích thước đều là 100, ta tính được giá trị quan sát của tiêu chuẩn kiểm định là 1,58. Khi đó kết luận với mức ý nghĩa 5% sẽ là:",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B, trong đó dấu hiệu A có 3 phạm trù, dấu hiệu B có 2 phạm trù. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không thì giá trị tới hạn χ2 cần sử dụng sẽ có bậc tự do là:",
+    "answer": "Bậc 2"
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Khi kiểm định về tính phân phối Chuẩn của một biến ngẫu nhiên bằng kiểm định Jarque-Bera, nếu các hệ số nhọn, hệ số bất đối xứng của mẫu không đổi, mức ý nghĩa không đổi, kích thước mẫu tăng lên thì khả năng bác bỏ giả thuyết H0 sẽ: ",
+    "answer": "tăng lên."
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Cho số liệu về khách hàng: ",
+    "answer": "0,6"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Một hộp có 6 chính phẩm và 4 phế phẩm. Nếu lấy ra một chính phẩm và bỏ ra ngoài. Tiếp đó lấy ra một sản phẩm thì xác suất để đó là chính phẩm là:",
+    "answer": "59"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Một nhóm gồm 4 nam và 2 nữ. Chọn ngẫu nhiên 3 người trong số đó, thì xác suất để được 2 người nam và 1 người nữ là:",
+    "answer": "0,6"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố Giám đốc và Phó giám đốc có ý kiến giống nhau là:",
+    "answer": "G.P+G¯.P¯"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Cho hai biến cố M và N. Cho biết biến cố M+N¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ tương đương với trường hợp nào sau đây?",
+    "answer": "M¯.N¯"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Xác suất một người biết về quảng cáo của sản phẩm là 0,6. Với người biết về quảng cáo sản phẩm thì khả năng người đó mua là 0,4; với người không biết về quảng cáo thì khả năng mua là 0,2. Vậy với một người bất kỳ đã mua sản phẩm thì khả năng để người đó không biết gì về quảng cáo là:",
+    "answer": "0,25"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Xác suất một người biết về quảng cáo của sản phẩm là 0,6. Với người biết về quảng cáo sản phẩm thì khả năng người đó mua là 0,4; với người không biết về quảng cáo thì khả năng mua là 0,2. Vậy xác suất một người bất kỳ mua sản phẩm là:",
+    "answer": "0,32"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Xác suất để một khách hàng mua hàng là 0,5. Giả sử các khách hàng mua hàng độc lập với nhau. Xác suất để trong 5 khách có nhiều hơn 3 khách mua hàng là:",
+    "answer": "0,1876"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Một nhân viên phục vụ 10 khách hàng, xác suất mỗi khách hàng hài lòng là 0,6. Với mỗi khách hài lòng nhân viên sẽ được tiền công 3 triệu, với mỗi khách không hài lòng nhân viên chỉ được tiền công 1 triệu. Tính xác suất nhân viên được 22 triệu tiền công.",
+    "answer": "0,251"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Cho số liệu về người lao động ở một cơ quan: ",
+    "answer": "0,714"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về lợi nhuận ròng (X: đơn vị là tỉ đồng) của doanh nghiệp như sau: ",
+    "answer": "0,9"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về số sản phẩm lỗi (X) trong một lô hàng như sau: ",
+    "answer": "2,7"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": " Qua thống kê của một cửa hàng thực phẩm tươi sống thì số kg thưc phẩm bán được trong một ngày (hay nhu cầu = X) có bảng phân phối xác suất như sau:",
+    "answer": "925 (nghìn đồng)"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên một khóa. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau:",
+    "answer": "0,56"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Nếu dự án thành công thì lãi là 7 (tỷ VND), nếu không thành công thì lỗ 2 (tỷ VND). Biết xác suất thành công là 0,6. Khi đó kỳ vọng và phương sai của lợi nhuận là:",
+    "answer": "3,4 và 19,44"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Tỷ lệ chính phẩm của một nhà máy là 70%. Lấy ngẫu nhiên 4 sản phẩm của nhà máy để kiểm tra. Số chính phẩm lấy được có khả năng xảy ra cao nhất là:",
+    "answer": "3"
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Với X là trọng lượng sản phẩm, X∼N(μ;σ2). Sản phẩm đạt tiêu chuẩn nếu trọng lượng chênh lệch so với trung bình không quá ba lần độ lệch chuẩn. Trong 1000 sản phẩm thì số sản phẩm đạt tiêu chuẩn trung bình gần bằng:",
+    "answer": "997 sản phẩm."
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Với X là trọng lượng sản phẩm, X∼N(μ;σ2). Sản phẩm đạt tiêu chuẩn nếu trọng lượng chênh lệch so với trung bình không quá một lần độ lệch chuẩn. Trong 1000 sản phẩm thì số sản phẩm đạt tiêu chuẩn trung bình gần bằng:",
+    "answer": "683 sản phẩm."
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Xác suất để biến ngẫu nhiên Chuẩn hóa lớn hơn 1,5 là:",
+    "answer": "0,0668"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Xác suất để một người vào siêu thị điện máy mua hàng là 0,8. Xác suất để 5 người vào siêu thị thì có đúng 2 người mua hàng là:",
+    "answer": "A. 0,0512"
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là giá bán của hai loại sản phẩm A, B trên thị trường.",
+    "answer": "XA,XB là hai biến ngẫu nhiên độc lập."
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": " ",
+    "answer": "5,52"
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là giá bán của hai loại sản phẩm A, B trên thị trường.",
+    "answer": "0,6"
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là tỷ suất lợi nhuận trong một năm của hai loại cổ phiếu A, B trên thị trường.",
+    "answer": "4,6039(%)2"
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,7"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Trung bình tổng thể là 30, phương sai tổng thể là 20 rút ra một mẫu ngẫu nhiên kích thước là 10. Khi đó độ lệch chuẩn của trung bình mẫu là:",
+    "answer": "1,4"
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Điều tra ngẫu nhiên 40 người tại một vùng thấy có 15 người có sử dụng sản phẩm của doanh nghiệp. Với độ tin cậy 90%, khoảng tin cậy tỷ lệ người có sử dụng sản phẩm của doanh nghiệp trong vùng là:",
+    "answer": "(0,2491; 0,5009)"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Sau khi đã ước lượng khoảng cho tỉ lệ tổng thể trên một mẫu cụ thể, người ta muốn cho độ dài khoảng tin cậy giảm đi thì cách chắc chắn là:",
+    "answer": "giảm độ tin cậy, mẫu không thay đổi."
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho độ dao động của giá cả thị trường, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "(n−1)S2χ2(n−1)α/2<σ2<(n−1)S2χ2(n−1)1−α/2"
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho tỷ lệ khách hàng sử dụng dịch vụ, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "f−uα/2f(1−f)√n√<p<f+uα/2f(1−f)√n√"
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Với mẫu kích thước bằng 3, trong các ước lượng sau, ước lượng nào là hiệu quả nhất?",
+    "answer": "38X1+38X2+28X3"
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "Khi kiểm định cặp giả thuyết: H0:μ=100;H1:μ>100. Với mẫu kích thước 27, mức ý nghĩa 5%, tính được giá trị quan sát là 1,67. Vậy kết luận là: ",
+    "answer": "Tqs<t(n−1)α⇒ chưa có cơ sở bác bỏ H0"
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "χ2(19)0,95"
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "χ_0,95^(2(19))"
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 200, phương sai là 24. Kiểm định ý kiến “năm nay mức chi trung bình đã thay đổi”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:μ=200;H1:μ≠200"
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "Năm ngoái giá cả trung bình là 120 USD, độ dao động là 6 USD. Giá cả phân phối Chuẩn. Năm nay điều tra mẫu kích thước 15, kiểm định giả thuyết giá biến động nhiều hơn trước với mức ý nghĩa 5%. Khi đó, để kiểm định thì cần giá trị tới hạn nào trong quá trình kiểm định?",
+    "answer": "23,68"
+  },
+  {
+    "id": 406,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu thu nhập trung bình của cả 2 tỉnh đều chưa biết nhưng muốn xem xét về nhận định cho rằng thu nhập trung bình của 2 tỉnh là như nhau, thì cặp giả thuyết sẽ là:",
+    "answer": "H0:μA=μB;H1:μA≠μB"
+  },
+  {
+    "id": 407,
+    "premium": true,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của tỉnh A (pA) là cao hơn so với tỉnh B (pB), khi đó cặp giả thuyết sẽ là:",
+    "answer": "H0:pA=pB;H1:pA>pB"
+  },
+  {
+    "id": 408,
+    "premium": true,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B, trong đó dấu hiệu A có 3 phạm trù, dấu hiệu B có 2 phạm trù. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không ở mức ý nghĩa 5%, mà tính được giá trị quan sát là 4,56 thì kết luận sẽ là: ",
+    "answer": "chưa có cơ sở bác bỏ H0; hai dấu hiệu độc lập."
+  },
+  {
+    "id": 409,
+    "premium": true,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía so sánh hai giá trị trung bình của 2 tổng thể phân phối Chuẩn sử dụng hai mẫu có kích thước lớn hơn 30, với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0. Khi đó phát biểu nào chắc chắn đúng?",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 410,
+    "premium": true,
+    "question": "Giả sử ta muốn kiểm định xem một biến ngẫu nhiên có tuân theo quy luật phân phối Chuẩn hay không. Khi đó giá trị tới hạn χ2 cần sử dụng sẽ có bậc tự do là:",
+    "answer": "Bậc 2"
+  },
+  {
+    "id": 411,
+    "premium": true,
+    "question": "Một người đầu tư vào hai dự án, xét các biến cố:",
+    "answer": "A4"
+  },
+  {
+    "id": 412,
+    "premium": true,
+    "question": "Xác suất một người trúng phần thưởng trong một trò chơi là 1/4 và độc lập. Người đó đã chơi 3 lần và đều trượt. Khi chơi lần thứ tư thì khả năng người đó trúng phần thưởng là:",
+    "answer": "bằng 1/4 vì xác suất giữ nguyên."
+  },
+  {
+    "id": 413,
+    "premium": true,
+    "question": "Một người thi tuyển phải làm ba bài đánh giá. Nếu qua được từ hai bài trở lên thì trúng tuyển. Kí hiệu biến cố qua được các bài lần lượt là B1,B2,B3. Khi đó trong các trường hợp sau, trường hợp nào là người đó chắc chắn trúng tuyển?",
+    "answer": "B1.B2+B1.B2.B3¯"
+  },
+  {
+    "id": 414,
+    "premium": true,
+    "question": "Cho số liệu về người lao động ở một cơ quan: (ảnh). ",
+    "answer": "0,9"
+  },
+  {
+    "id": 415,
+    "premium": true,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố G¯.P¯ nghĩa là:",
+    "answer": "không ai chấp nhận."
+  },
+  {
+    "id": 416,
+    "premium": true,
+    "question": "Xác suất ba dự án đầu tư có lãi lần lượt là 0,6; 0,7 và 0,8. Giả sử ba dự án độc lập nhau. Khi đó xác suất để có ít nhất một dự án có lãi là:",
+    "answer": "0,976"
+  },
+  {
+    "id": 417,
+    "premium": true,
+    "question": "Mỗi cái máy có 2 bộ phận hoạt động độc lập. Xác suất mỗi bộ phận hỏng đều là 0,1 và máy sẽ hỏng nếu có bộ phận hỏng. Xác suất trong 5 máy có đúng 1 máy hỏng là:",
+    "answer": "0,4089"
+  },
+  {
+    "id": 418,
+    "premium": true,
+    "question": "Một nhà đầu tư khảo sát ba dự án độc lập. Xác suất các dự án thành công lần lượt là 0,7; 0,8 và 0,9. Xác suất có đúng hai dự án thành công là:",
+    "answer": "0,398"
+  },
+  {
+    "id": 419,
+    "premium": true,
+    "question": "Một người đấu thầu ở hai vòng, nếu qua được vòng ngoài thì mới được vào vòng trong. Xác suất qua được vòng ngoài là 0,3; nếu vào vòng trong thì xác suất qua được là 0,4. Xác suất để người đó qua vòng đầu và trượt ở vòng thứ hai là:",
+    "answer": "0,18"
+  },
+  {
+    "id": 420,
+    "premium": true,
+    "question": "Xác suất để một cái máy hỏng trong ba năm đầu sử dụng là 0,1. Một phân xưởng có 6 chiếc máy hoạt động độc lập. Trong ba năm đầu sử dụng, tìm xác suất để có nhiều nhất là 1 máy hỏng là:",
+    "answer": "0,8857"
+  },
+  {
+    "id": 421,
+    "premium": true,
+    "question": "Ba biến ngẫu nhiên có hàm mật độ xác suất dưới đây là lợi nhuận của ba công ty.",
+    "answer": "Chọn công ty nào cũng được."
+  },
+  {
+    "id": 422,
+    "premium": true,
+    "question": "Cho bốn bảng số về số sản phẩm bán được:",
+    "answer": "Bảng (b)"
+  },
+  {
+    "id": 423,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về số tiền lãi thu được của một dự án (số âm ứng với trường hợp bị lỗ) như sau:",
+    "answer": "E(X) = 0,2 và V(X) = 3,56"
+  },
+  {
+    "id": 424,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về lợi nhuận của một doanh nghiệp (X: đơn vị tỷ đồng, số âm tương ứng với bị lỗ) như sau: ",
+    "answer": "1,7 tỷ"
+  },
+  {
+    "id": 425,
+    "premium": true,
+    "question": "Ba biến ngẫu nhiên có hàm mật độ xác suất dưới đây là lợi nhuận của ba công ty: ",
+    "answer": "Công ty II."
+  },
+  {
+    "id": 426,
+    "premium": true,
+    "question": "Với X là trọng lượng sản phẩm, X∼N(μ;σ2). Sản phẩm đạt tiêu chuẩn nếu trọng lượng chênh lệch so với trung bình không quá hai lần độ lệch chuẩn. Trong 1000 sản phẩm thì số sản phẩm đạt tiêu chuẩn trung bình gần bằng:",
+    "answer": "954 sản phẩm."
+  },
+  {
+    "id": 427,
+    "premium": true,
+    "question": "Nhiệt độ trong ngày là phân phối Chuẩn với trung bình 25 độ (C), phương sai là 6,25 độ2. Xác suất để vào một thời điểm ngẫu nhiên nhiệt độ lớn hơn 30 độ là:",
+    "answer": "0,0228"
+  },
+  {
+    "id": 428,
+    "premium": true,
+    "question": "Với X phân phối Chuẩn: X∼N(μ;σ2 thì:",
+    "answer": "P(X<μ−σ)=P(X>μ+σ)"
+  },
+  {
+    "id": 429,
+    "premium": true,
+    "question": "Chiều dài sản phẩm là phân phối Chuẩn với trung bình 20 cm, phương sai 4 cm2. Xác suất để đo thử một sản phẩm ngẫu nhiên thì sản phẩm dài hơn 19 cm là:",
+    "answer": "0,6915"
+  },
+  {
+    "id": 430,
+    "premium": true,
+    "question": " ",
+    "answer": "chọn công ty II."
+  },
+  {
+    "id": 431,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "7,04"
+  },
+  {
+    "id": 432,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "9,29"
+  },
+  {
+    "id": 433,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "13,5"
+  },
+  {
+    "id": 434,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,5"
+  },
+  {
+    "id": 435,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là tỷ suất lợi nhuận trong một năm của hai loại cổ phiếu A, B trên thị trường.",
+    "answer": "52,4 triệu"
+  },
+  {
+    "id": 436,
+    "premium": true,
+    "question": "Tỷ lệ thành công trong tổng thể là 30%. Rút một mẫu ngẫu nhiên kích thước 100 từ tổng thể. Khi đó kỳ vọng của tỷ lệ mẫu là:",
+    "answer": "0,3"
+  },
+  {
+    "id": 437,
+    "premium": true,
+    "question": "Điều tra 400 người thấy có 160 người có mua bảo hiểm. Với độ tin cậy 95% trong 2000 người số người không mua bảo hiểm thuộc khoảng:",
+    "answer": "1104 đến 1296"
+  },
+  {
+    "id": 438,
+    "premium": true,
+    "question": "Khi điều tra một mẫu kích thước 25 thu được trung bình mẫu bằng 7, phương sai mẫu bằng 4. Giả sử tổng thể phân phối Chuẩn, với độ tin cậy 95%, ước lượng cho độ dao động của tổng thể là:",
+    "answer": "(2,439; 7,7419)"
+  },
+  {
+    "id": 439,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho chi phí bình quân của các doanh nghiệp, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "X¯−t(n−1)α/2Sn√<μ<X¯+t(n−1)α/2Sn√"
+  },
+  {
+    "id": 440,
+    "premium": true,
+    "question": "Điều tra ngẫu nhiên 400 thanh niên tại một vùng thấy có 150 thanh niên có sử dụng dịch vụ của doanh nghiệp. Độ dài khoảng tin cậy 90% tỷ lệ thanh niên sử dụng dịch vụ của doanh nghiệp là:",
+    "answer": "0,0796"
+  },
+  {
+    "id": 441,
+    "premium": true,
+    "question": "Sau khi đã ước lượng khoảng cho trung bình tổng thể trên một mẫu cụ thể, cách nào sau đây chắc chắn làm độ dài khoảng tin cậy tăng lên?",
+    "answer": "Tăng độ tin cậy, mẫu không thay đổi."
+  },
+  {
+    "id": 442,
+    "premium": true,
+    "question": "Trước đây tiêu chuẩn cho tỷ lệ phế phẩm là không được quá 5%. Kiểm tra 200 sản phẩm thấy có 11 phế phẩm. Với mức ý nghĩa 5% kiểm định ý kiến cho rằng “Sản phẩm không đạt tiêu chuẩn” có kết luận là:",
+    "answer": "Chưa có cơ sở bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 443,
+    "premium": true,
+    "question": "Cần kiểm định giả thuyết “Độ biến động của chi tiêu đã nhiều hơn mức 4 (triệu2)”, với chi tiêu phân phối Chuẩn chưa biết các tham số. Điều tra mẫu kích thước 100 được trung bình mẫu 30 và phương sai mẫu là 9 (triệu2). Khi đó giá trị quan sát là:",
+    "answer": "222,75"
+  },
+  {
+    "id": 444,
+    "premium": true,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 200, phương sai là 24. Kiểm định ý kiến “năm nay mức chi biến động hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=24;H1:σ2>24"
+  },
+  {
+    "id": 445,
+    "premium": true,
+    "question": "Trước đây trọng lượng sản phẩm phân phối Chuẩn với trung bình 25g và độ dao động là 4g. Trọng lượng phân phối Chuẩn. Kiểm định ý kiến cho rằng “độ dao động của trọng lượng không như trước” với mức ý nghĩa 5%. Với mẫu kích thước 20 tính được giá trị quan sát là 3,28. Vậy kết luận là: ",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 446,
+    "premium": true,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "t(19)0,05=1,729"
+  },
+  {
+    "id": 447,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng muốn xem phải chăng thu nhập hộ ở tỉnh A đồng đều hơn của hộ ở tỉnh B, khi đó cặp giả thuyết sẽ là:",
+    "answer": "H0:σ2A=σ2B;H1:σ2A<σ2B"
+  },
+  {
+    "id": 448,
+    "premium": true,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của tỉnh A là cao hơn so với tỉnh B, khi đó giá trị quan sát của thống kê cần sử dụng trong kiểm định là:",
+    "answer": "Zqs"
+  },
+  {
+    "id": 449,
+    "premium": true,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía về hai trung bình của hai tổng thể có phân phối chuẩn, các mẫu có kích thước lớn hơn 30; với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0, khi đó phát biểu nào chắc chắn đúng?",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 450,
+    "premium": true,
+    "question": "Giả sử ta muốn kiểm định xem Tuổi thọ của một loại sản phẩm (X) có tuân theo quy luật phân phối chuẩn hay không. Với mẫu cụ thể ta tính được giá trị quan sát là 6,13. Khi đó kết luận ở mức ý nghĩa 5% sẽ là: ",
+    "answer": "Bác bỏ H0; X không phân phối Chuẩn."
+  },
+  {
+    "id": 451,
+    "premium": true,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không thì giá trị thống kê cần sử dụng sẽ là:",
+    "answer": "χ2qs"
+  },
+  {
+    "id": 452,
+    "premium": true,
+    "question": "Một khoa có 100 sinh viên mới tốt nghiệp, trong đó có 20 sinh viên được bằng giỏi, 65 sinh viên được bằng khá và 15 sinh viên được bằng trung bình. Chọn ngẫu nhiên một sinh viên mới tốt nghiệp của khoa này. Xác suất chọn được sinh viên đạt bằng khá trở lên là:",
+    "answer": "0,85"
+  },
+  {
+    "id": 453,
+    "premium": true,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố có đúng một người chấp nhận được viết là:",
+    "answer": "G¯.P+G.P¯"
+  },
+  {
+    "id": 454,
+    "premium": true,
+    "question": "Một hộp có 6 chính phẩm và 4 phế phẩm. Nếu lấy ra một chính phẩm và bỏ ra ngoài. Tiếp đó lấy ra một sản phẩm thì xác suất để đó là chính phẩm là:",
+    "answer": "59"
+  },
+  {
+    "id": 455,
+    "premium": true,
+    "question": "Cho số liệu về khách hàng: ",
+    "answer": "0,5"
+  },
+  {
+    "id": 456,
+    "premium": true,
+    "question": "Cho hai biến cố M và N. Cho biết biến cố M+N¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ tương đương với trường hợp nào sau đây?",
+    "answer": "M¯.N¯"
+  },
+  {
+    "id": 457,
+    "premium": true,
+    "question": "Một người đầu tư vào ba dự án độc lập nhau. Khả năng mỗi dự án thành công đều bằng 0,3. Khi đó xác suất để cả ba dự án đều thành công là:",
+    "answer": "0,027"
+  },
+  {
+    "id": 458,
+    "premium": true,
+    "question": "Trong 20 người có 8 người đã từng sử dụng sản phẩm của công ty. Chọn ngẫu nhiên một người để hỏi, sau đó chọn thêm một người khác để hỏi. Xác suất để cả hai người đều đã từng sử dụng sản phẩm của công ty xấp xỉ là:",
+    "answer": "0,15"
+  },
+  {
+    "id": 459,
+    "premium": true,
+    "question": "Xác suất ba dự án đầu tư có lãi lần lượt là 0,6; 0,7 và 0,8. Giả sử ba dự án độc lập nhau. Khi đó xác suất để có ít nhất một dự án có lãi là:",
+    "answer": "0,976"
+  },
+  {
+    "id": 460,
+    "premium": true,
+    "question": "Cho số liệu về người lao động ở một cơ quan: ",
+    "answer": "0,714"
+  },
+  {
+    "id": 461,
+    "premium": true,
+    "question": "Xác suất để một cái máy hỏng trong ba năm đầu sử dụng là 0,1. Một phân xưởng có 6 chiếc máy hoạt động độc lập. Trong ba năm đầu sử dụng, tìm xác suất để có nhiều nhất là 1 máy hỏng là:",
+    "answer": "0,8857"
+  },
+  {
+    "id": 462,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về số tiền lãi thu được của một dự án (số âm ứng với trường hợp bị lỗ) như sau:",
+    "answer": "E(X) = 0,2 và V(X) = 3,56"
+  },
+  {
+    "id": 463,
+    "premium": true,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau: ",
+    "answer": "0,25"
+  },
+  {
+    "id": 464,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về điểm thi môn Toán của học sinh: ",
+    "answer": "80%"
+  },
+  {
+    "id": 465,
+    "premium": true,
+    "question": "Một người đi bán hàng ở hai nơi độc lập nhau, xác suất bán được ở mỗi nơi đều bằng 0,7. Với mỗi nơi nếu bán được hàng thì người đó được lãi 5 triệu. Kỳ vọng và phương sai tiền lãi là:",
+    "answer": "7 và 10,5"
+  },
+  {
+    "id": 466,
+    "premium": true,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau:",
+    "answer": "0,2637"
+  },
+  {
+    "id": 467,
+    "premium": true,
+    "question": "Khối lượng sản phẩm là phân phối Chuẩn với trung bình là 12g và phương sai là 4 g2. Xác suất để khi cân ngẫu nhiên một sản phẩm thì khối lượng sản phẩm nhẹ hơn 15g là:",
+    "answer": "0,9332"
+  },
+  {
+    "id": 468,
+    "premium": true,
+    "question": "Cho lợi nhuận của ba công ty I, II, III là phân phối Chuẩn có hàm mật độ như hình vẽ. Nếu muốn chọn công ty có lợi nhuận phân tán nhất thì chọn:",
+    "answer": "công ty III."
+  },
+  {
+    "id": 469,
+    "premium": true,
+    "question": "Nhiệt độ kí hiệu là X, và X∼N(25;42) có nghĩa là nhiệt độ có:",
+    "answer": "trung bình là 25, phương sai là 16."
+  },
+  {
+    "id": 470,
+    "premium": true,
+    "question": "Khối lượng sản phẩm phân phối Chuẩn với trung bình 15g, độ dao động là 3g2. Nếu đặt X là khối lượng sản phẩm thì có thể viết là:",
+    "answer": "X∼N(15;3)"
+  },
+  {
+    "id": 471,
+    "premium": true,
+    "question": "Xác suất để một sản phẩm của hãng A hỏng trong một năm đầu sử dụng là 0,1. Trong 100 sản phẩm của hãng A có trung bình số sản phẩm hỏng trong năm đầu sử dụng là:",
+    "answer": "10"
+  },
+  {
+    "id": 472,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,6"
+  },
+  {
+    "id": 473,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,143"
+  },
+  {
+    "id": 474,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là giá bán của hai loại sản phẩm A, B trên thị trường.",
+    "answer": "0,6"
+  },
+  {
+    "id": 475,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "13,5"
+  },
+  {
+    "id": 476,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "9,29"
+  },
+  {
+    "id": 477,
+    "premium": true,
+    "question": "Đại lượng là tính toán trên tổng thể, là đặc trưng cho tổng thể gọi là:",
+    "answer": "tham số."
+  },
+  {
+    "id": 478,
+    "premium": true,
+    "question": "Với mẫu kích thước bằng 3, trong các ước lượng sau, ước lượng nào là không chệch cho trung bình tổng thể?",
+    "answer": "14X1+34X2"
+  },
+  {
+    "id": 479,
+    "premium": true,
+    "question": "Với mẫu kích thước bằng 2, trong các ước lượng sau, ước lượng nào là không chệch cho trung bình tổng thể?",
+    "answer": "13X1+23X2"
+  },
+  {
+    "id": 480,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho tỷ lệ người lao động có mua bảo hiểm sức khỏe, dựa trên một mẫu kích thước  n≥100, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "f−uα/2f(1−f)√n√<p<f+uα/2f(1−f)√n√"
+  },
+  {
+    "id": 481,
+    "premium": true,
+    "question": "Điều tra ngẫu nhiên 100 khách hàng thấy có 15 khách không hài lòng. Với độ tin cậy 95%, khoảng ước lượng tỷ lệ khách không hài lòng là:",
+    "answer": "(0,08; 0,22)"
+  },
+  {
+    "id": 482,
+    "premium": true,
+    "question": "Ước lượng mức giá trung bình thông qua một mẫu kích thước 20, trung bình mẫu 30 USD, phương sai mẫu là 9 USD2. Với độ tin cậy 95% thì sai số của ước lượng khoảng đối xứng là:",
+    "answer": "1,40"
+  },
+  {
+    "id": 483,
+    "premium": true,
+    "question": "Cần kiểm định giả thuyết: “Mức giá trung bình đã vượt trên 120 (nghìn)”, với giá phân phối Chuẩn chưa biết phương sai. Điều tra mẫu kích thước 100 được trung bình mẫu là 122, phương sai mẫu là 10. Khi đó giá trị quan sát là:",
+    "answer": "6,32"
+  },
+  {
+    "id": 484,
+    "premium": true,
+    "question": "Khi kiểm định cặp giả thuyết:",
+    "answer": "Zqs<−zα/2⇒ bác bỏ H0"
+  },
+  {
+    "id": 485,
+    "premium": true,
+    "question": "Năm ngoái tỷ lệ hộ nghèo là 10%. Để kiểm định ý kiến: “Tỷ lệ hộ nghèo đã giảm đi”, với cặp giả thuyết",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 486,
+    "premium": true,
+    "question": "Cần kiểm định giả thuyết rằng \"Thu nhập trung bình của người lao động là ổn định hơn mức 20 triệu2\", tổng thể phân phối Chuẩn chưa biết các tham số. Với một mẫu ngẫu nhiên, thống kê sử dụng là:",
+    "answer": "χ2"
+  },
+  {
+    "id": 487,
+    "premium": true,
+    "question": "Khi kiểm định cặp giả thuyết: H0:σ2=100;H1:σ2<100. Với mẫu kích thước 27, mức ý nghĩa 5%, tính được giá trị quan sát là 14. Vậy kết luận là:",
+    "answer": "χ2qs<χ2(n−1)1−α⇒ bác bỏ H0"
+  },
+  {
+    "id": 488,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu thu nhập trung bình của cả 2 tỉnh đều chưa biết nhưng muốn xem xét về nhận định cho rằng thu nhập trung bình của 2 tỉnh là như nhau. Với 2 mẫu kích thước là 50, nếu tính được giá trị quan sát là 2,16 thì với mức ý nghĩa 5% kết luận sẽ là: ",
+    "answer": "bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 489,
+    "premium": true,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của hai tỉnh là thực sự khác nhau hay không. Nếu ta tính được giá trị quan sát là 1,46 thì sẽ kết luận như thế nào với mức ý nghĩa 5%: ",
+    "answer": "chưa có cơ sở bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 490,
+    "premium": true,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía so sánh hai giá trị trung bình của 2 tổng thể phân phối Chuẩn sử dụng hai mẫu có kích thước lớn hơn 30, với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0. Khi đó phát biểu nào chắc chắn đúng?",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 491,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng muốn xem phải chăng thu nhập hộ ở tỉnh A đồng đều hơn của hộ ở tỉnh B, khi đó giá trị quan sát của thống kê cần sử dụng sẽ là:",
+    "answer": "Fqs"
+  },
+  {
+    "id": 492,
+    "premium": true,
+    "question": "Giả sử ta muốn kiểm định xem Tuổi thọ của một loại sản phẩm (X) có tuân theo quy luật phân phối chuẩn hay không. Với mẫu cụ thể ta tính được giá trị quan sát là 6,13. Khi đó kết luận ở mức ý nghĩa 5% sẽ là: ",
+    "answer": "Bác bỏ H0; X không phân phối Chuẩn."
+  },
+  {
+    "id": 493,
+    "premium": true,
+    "question": "Xác suất một người trúng phần thưởng trong một trò chơi là 1/4 và độc lập. Người đó đã chơi 3 lần và đều trượt. Khi chơi lần thứ tư thì khả năng người đó trúng phần thưởng là:",
+    "answer": "bằng 1/4 vì xác suất giữ nguyên."
+  },
+  {
+    "id": 494,
+    "premium": true,
+    "question": "Nếu biến cố A và B là hai biến cố độc lập thì A và B là:",
+    "answer": "có thể xảy ra trong cùng một phép thử."
+  },
+  {
+    "id": 495,
+    "premium": true,
+    "question": "Một người đầu tư vào hai dự án, xét các biến cố:",
+    "answer": "A4"
+  },
+  {
+    "id": 496,
+    "premium": true,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố G¯+P¯ nghĩa là:",
+    "answer": "có người không chấp nhận."
+  },
+  {
+    "id": 497,
+    "premium": true,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố G¯.P¯ nghĩa là:",
+    "answer": "không ai chấp nhận."
+  },
+  {
+    "id": 498,
+    "premium": true,
+    "question": "Xác suất ba dự án đầu tư có lãi lần lượt là 0,6; 0,7 và 0,8. Giả sử ba dự án độc lập nhau. Khi đó xác suất để không dự án nào có lãi là:",
+    "answer": "0,024"
+  },
+  {
+    "id": 499,
+    "premium": true,
+    "question": "Xác suất một người biết về quảng cáo của sản phẩm là 0,6. Với người biết về quảng cáo sản phẩm thì khả năng người đó mua là 0,4; với người không biết về quảng cáo thì khả năng mua là 0,2. Vậy với một người bất kỳ đã mua sản phẩm thì khả năng để người đó không biết gì về quảng cáo là:",
+    "answer": "0,25"
+  },
+  {
+    "id": 500,
+    "premium": true,
+    "question": "Một người đi bán hàng ở 5 nơi độc lập, xác suất ở mỗi nơi bán được hàng đều bằng 0,2. Vậy xác suất để người đó bán được hàng ở đúng 2 nơi là xấp xỉ:",
+    "answer": "0,2"
+  },
+  {
+    "id": 501,
+    "premium": true,
+    "question": "Một người thi tuyển dụng ở hai công ty, độc lập với nhau. Xác suất trúng tuyển ở hai công ty lần lượt là 0,4 và 0,6. Vậy xác suất người đó có trúng tuyển là:",
+    "answer": "0,76"
+  },
+  {
+    "id": 502,
+    "premium": true,
+    "question": "Một nhà đầu tư khảo sát ba dự án độc lập. Xác suất các dự án thành công lần lượt là 0,7; 0,8 và 0,9. Xác suất có đúng hai dự án thành công là:",
+    "answer": "0,398"
+  },
+  {
+    "id": 503,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về lợi nhuận ròng (X: đơn vị là tỉ đồng) của doanh nghiệp như sau: ",
+    "answer": "0,7"
+  },
+  {
+    "id": 504,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về số sản phẩm lỗi trong một lô hàng: ",
+    "answer": "E(X)=0,7 và σX=0,78"
+  },
+  {
+    "id": 505,
+    "premium": true,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau:",
+    "answer": "6,7 điểm"
+  },
+  {
+    "id": 506,
+    "premium": true,
+    "question": "Công ty bán sản phẩm cho khách hàng với thời gian bảo hành miễn phí quy định là 1 năm. Tỷ lệ sản phẩm của công ty bị hỏng trong 1 năm đầu sử dụng là 10%. Khi bán 1 sản phẩm thì công ty thu lãi 120 nghìn đồng. Nếu sản phẩm bị hỏng trong thời gian bảo hành miễn phí thì công ty phải chi 100 nghìn đồng cho việc bảo hành. Tiền lãi trung bình trên mỗi sản phẩm bán được của công ty là:",
+    "answer": "110 (nghìn đồng)"
+  },
+  {
+    "id": 507,
+    "premium": true,
+    "question": "Với một chiếc tivi được chọn ngẫu nhiên, trong các đại lượng sau, đâu là biến ngẫu nhiên rời rạc:",
+    "answer": "W"
+  },
+  {
+    "id": 508,
+    "premium": true,
+    "question": "Chiều dài sản phẩm là phân phối Chuẩn với trung bình 20 cm, độ lệch chuẩn 2 cm. Xác suất để đo thử một sản phẩm ngẫu nhiên thì chiều dài sản phẩm trong khoảng (21; 23) cm là:",
+    "answer": "0,2417"
+  },
+  {
+    "id": 509,
+    "premium": true,
+    "question": "Tỷ lệ sinh viên đi làm thêm là 40%. Tính xác suất để trong 10 sinh viên thì có không quá 2 sinh viên đi làm thêm.",
+    "answer": "0,1673"
+  },
+  {
+    "id": 510,
+    "premium": true,
+    "question": "Nhiệt độ kí hiệu là X, và X∼N(25;9) có nghĩa là nhiệt độ có:",
+    "answer": "trung bình là 25, phương sai là 9."
+  },
+  {
+    "id": 511,
+    "premium": true,
+    "question": "Chi phí để sản xuất một sản phẩm là phân phối Chuẩn với trung bình 26 USD và phương sai là 9 USD2. Xác suất để một sản phẩm ngẫu nhiên có chi phí nhiều hơn 29 USD là:",
+    "answer": "0,1587"
+  },
+  {
+    "id": 512,
+    "premium": true,
+    "question": "Khối lượng sản phẩm phân phối Chuẩn với trung bình 15g, độ dao động là 3g. Nếu đặt X là khối lượng sản phẩm thì có thể viết là:",
+    "answer": "X∼N(15;9)"
+  },
+  {
+    "id": 513,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,7"
+  },
+  {
+    "id": 514,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là giá bán của hai loại sản phẩm A, B trên thị trường.",
+    "answer": "XA,XB là hai biến ngẫu nhiên độc lập."
+  },
+  {
+    "id": 515,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là tỷ suất lợi nhuận trong một năm của hai loại cổ phiếu A, B trên thị trường.",
+    "answer": "4,6039(%)2"
+  },
+  {
+    "id": 516,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,5"
+  },
+  {
+    "id": 517,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,7"
+  },
+  {
+    "id": 518,
+    "premium": true,
+    "question": "Cho mẫu sau về một số người lao động:",
+    "answer": "11,1 và 0,41"
+  },
+  {
+    "id": 519,
+    "premium": true,
+    "question": "Người quản lý muốn ước lượng độ biến động của giá cả hàng hóa, vậy cần ước lượng tham số nào?",
+    "answer": "Phương sai tổng thể."
+  },
+  {
+    "id": 520,
+    "premium": true,
+    "question": "Khi điều tra một mẫu kích thước 25 thu được trung bình mẫu bằng 7, phương sai mẫu bằng 4. Giả sử tổng thể phân phối chuẩn, với độ tin cậy 95%, ước lượng cho độ lệch chuẩn tổng thể là:",
+    "answer": "(1,5617; 2,7824)"
+  },
+  {
+    "id": 521,
+    "premium": true,
+    "question": "Một nhà đầu tư muốn ước lượng độ rủi ro khi đầu tư vào một cổ phiếu, khi đó cần ước lượng tham số nào?",
+    "answer": "Phương sai tổng thể."
+  },
+  {
+    "id": 522,
+    "premium": true,
+    "question": "Ước lượng mức giá trung bình thông qua một mẫu kích thước 20, trung bình mẫu 30 USD, phương sai mẫu là 9 USD2. Với độ tin cậy 95% thì độ dài khoảng tin cậy đối xứng là:",
+    "answer": "2,81"
+  },
+  {
+    "id": 523,
+    "premium": true,
+    "question": "Ước lượng cho độ dài trung bình của sản phẩm, với một mẫu khảo sát thu được trung bình mẫu bằng 14,2. Trong các khoảng sau, khoảng nào có thể là kết quả ước lượng khoảng tin cậy đối xứng cho trung bình tổng thể?",
+    "answer": "(12; 16,4)"
+  },
+  {
+    "id": 524,
+    "premium": true,
+    "question": "Cần kiểm định giả thuyết rằng \"Thu nhập trung bình của người lao động đã vượt trên 10 triệu đồng/tháng\", tổng thể phân phối Chuẩn chưa biết các tham số. Với một mẫu ngẫu nhiên, thống kê sử dụng là:",
+    "answer": "T"
+  },
+  {
+    "id": 525,
+    "premium": true,
+    "question": "Trước đây tiêu chuẩn cho trọng lượng bình quân sản phẩm là 14g. Trọng lượng phân phối Chuẩn. Có ý kiến cho rằng: “hiện nay không cần phải thay đổi tiêu chuẩn”. Với mức ý nghĩa 5%, dựa trên mẫu kích thước 20 tính được giá trị quan sát là 1,832. Vậy kết luận là: ",
+    "answer": "chưa có cơ sở bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 526,
+    "premium": true,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, phương sai là 24. Kiểm định ý kiến “năm nay mức chi ổn định hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=24;H1:σ2<24"
+  },
+  {
+    "id": 527,
+    "premium": true,
+    "question": "Cần kiểm định giả thuyết rằng \"Tỷ lệ hộ có thu nhập cao là trên 20%\", thì với một mẫu ngẫu nhiên có kích thước n≥100, thống kê sử dụng là:",
+    "answer": "Z"
+  },
+  {
+    "id": 528,
+    "premium": true,
+    "question": "Năm ngoái tỷ lệ hộ nghèo là 10%. Để kiểm định ý kiến: “Tỷ lệ hộ nghèo đã giảm đi”, với cặp giả thuyết",
+    "answer": "chưa có cơ sở bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 529,
+    "premium": true,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B, trong đó dấu hiệu A có 3 phạm trù, dấu hiệu B có 2 phạm trù. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không thì giá trị tới hạn χ2 cần sử dụng sẽ có bậc tự do là:",
+    "answer": "Bậc 2"
+  },
+  {
+    "id": 530,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu thu nhập trung bình của cả 2 tỉnh đều chưa biết nhưng muốn xem xét về nhận định cho rằng thu nhập trung bình của 2 tỉnh là như nhau. Với 2 mẫu kích thước là 50, nếu tính được giá trị quan sát là 2,16 thì với mức ý nghĩa 5% kết luận sẽ là: ",
+    "answer": "bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 531,
+    "premium": true,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không thì giá trị thống kê cần sử dụng sẽ là:",
+    "answer": "χ2qs"
+  },
+  {
+    "id": 532,
+    "premium": true,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của tỉnh A (pA) là cao hơn so với tỉnh B (pB), khi đó cặp giả thuyết sẽ là:",
+    "answer": "H0:pA=pB;H1:pA>pB"
+  },
+  {
+    "id": 533,
+    "premium": true,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của hai tỉnh là thực sự khác nhau hay không. Nếu ta tính được giá trị quan sát là 1,46 thì sẽ kết luận như thế nào với mức ý nghĩa 5%: ",
+    "answer": "chưa có cơ sở bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 534,
+    "premium": true,
+    "question": "Một khoa có 100 sinh viên mới tốt nghiệp, trong đó có 20 sinh viên được bằng giỏi, 65 sinh viên được bằng khá và 15 sinh viên được bằng trung bình. Chọn ngẫu nhiên một sinh viên mới tốt nghiệp của khoa này. Xác suất chọn được sinh viên đạt bằng khá trở lên là:",
+    "answer": "0,85"
+  },
+  {
+    "id": 535,
+    "premium": true,
+    "question": "Trong lớp có 10 sinh viên miền Bắc, 7 sinh viên miền Trung, 3 sinh viên miền Nam. Chọn ngẫu nhiên một nhóm 3 người, thì xác suất để cả ba người chỉ ở một miền là:",
+    "answer": "0,137"
+  },
+  {
+    "id": 536,
+    "premium": true,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố Giám đốc và Phó giám đốc có ý kiến giống nhau là:",
+    "answer": "G.P+G¯.P¯"
+  },
+  {
+    "id": 537,
+    "premium": true,
+    "question": "Có 3 người vào cửa hàng, xét các biến cố:",
+    "answer": "A1 và A2"
+  },
+  {
+    "id": 538,
+    "premium": true,
+    "question": "Một người thi tuyển phải làm ba bài đánh giá. Nếu qua được từ hai bài trở lên thì trúng tuyển. Kí hiệu biến cố qua được các bài lần lượt là B1,B2,B3. Khi đó trong các trường hợp sau, trường hợp nào là người đó chắc chắn trúng tuyển?",
+    "answer": "B1.B2+B1.B2.B3¯"
+  },
+  {
+    "id": 539,
+    "premium": true,
+    "question": "Một người đầu tư vào ba dự án độc lập nhau. Khả năng mỗi dự án thành công đều bằng 0,3. Khi đó xác suất để cả ba dự án đều thành công là:",
+    "answer": "0,027"
+  },
+  {
+    "id": 540,
+    "premium": true,
+    "question": "Một người đấu thầu ở hai vòng, nếu qua được vòng ngoài thì mới được vào vòng trong. Xác suất qua được vòng ngoài là 0,3; nếu vào vòng trong thì xác suất qua được là 0,4. Xác suất để người đó qua vòng đầu và trượt ở vòng thứ hai là:",
+    "answer": "0,18"
+  },
+  {
+    "id": 541,
+    "premium": true,
+    "question": "Trong 20 người có 8 người đã từng sử dụng sản phẩm của công ty. Chọn ngẫu nhiên một người để hỏi, sau đó chọn thêm một người khác để hỏi. Xác suất để cả hai người đều đã từng sử dụng sản phẩm của công ty xấp xỉ là:",
+    "answer": "0,15"
+  },
+  {
+    "id": 542,
+    "premium": true,
+    "question": "Một nhân viên phục vụ 10 khách hàng, xác suất mỗi khách hàng hài lòng là 0,6. Với mỗi khách hài lòng nhân viên sẽ được tiền công 3 triệu, với mỗi khách không hài lòng nhân viên chỉ được tiền công 1 triệu. Tính xác suất nhân viên được 22 triệu tiền công.",
+    "answer": "0,251"
+  },
+  {
+    "id": 543,
+    "premium": true,
+    "question": "Xác suất để một khách hàng mua hàng là 0,5. Giả sử các khách hàng mua hàng độc lập với nhau. Xác suất để trong 5 khách có nhiều hơn 3 khách mua hàng là:",
+    "answer": "0,1876"
+  },
+  {
+    "id": 544,
+    "premium": true,
+    "question": "Cho các hàm số có công thức như sau: ",
+    "answer": "k(x)"
+  },
+  {
+    "id": 545,
+    "premium": true,
+    "question": "Trong một cuộc thi bắn, xạ thủ phải bắn 3 viên đạn. Gọi:",
+    "answer": "X"
+  },
+  {
+    "id": 546,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về số sản phẩm bán được trong một ngày của một cửa hàng: ",
+    "answer": "1260 (nghìn đồng)"
+  },
+  {
+    "id": 547,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về số sản phẩm lỗi (X) trong một lô hàng như sau: ",
+    "answer": "2,7"
+  },
+  {
+    "id": 548,
+    "premium": true,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau:",
+    "answer": "6,7 điểm"
+  },
+  {
+    "id": 549,
+    "premium": true,
+    "question": "Thời gian hoàn thành một sản phẩm là phân phối Chuẩn với trung bình 35 phút và độ lệch chuẩn 4 phút. Xác suất để một sản phẩm ngẫu nhiên có thời gian hoàn thành trong khoảng 32 đến 38 phút xấp xỉ là:",
+    "answer": "0,5468"
+  },
+  {
+    "id": 550,
+    "premium": true,
+    "question": "Tỷ lệ sinh viên đi làm thêm là 40%. Tính xác suất để trong 10 sinh viên thì có không quá 2 sinh viên đi làm thêm.",
+    "answer": "0,1673"
+  },
+  {
+    "id": 551,
+    "premium": true,
+    "question": "Khối lượng sản phẩm phân phối Chuẩn với trung bình 15g, độ dao động là 3g. Nếu đặt X là khối lượng sản phẩm thì có thể viết là:",
+    "answer": "X∼N(15;9)"
+  },
+  {
+    "id": 552,
+    "premium": true,
+    "question": "Xác suất để một người vào siêu thị điện máy mua hàng là 0,8. Xác suất để 5 người vào siêu thị thì có đúng 2 người mua hàng là:",
+    "answer": "A. 0,0512"
+  },
+  {
+    "id": 553,
+    "premium": true,
+    "question": "Khối lượng sản phẩm là phân phối chuẩn với trung bình là 12 g và độ lệch chuẩn là 2 g. Xác suất để khi cân ngẫu nhiên một sản phẩm thì khối lượng sản phẩm có khối lượng trong khoảng (13; 14) g là:",
+    "answer": "0,1498"
+  },
+  {
+    "id": 554,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,6"
+  },
+  {
+    "id": 555,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "9,1"
+  },
+  {
+    "id": 556,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,143"
+  },
+  {
+    "id": 557,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,1"
+  },
+  {
+    "id": 558,
+    "premium": true,
+    "question": " ",
+    "answer": "5,52"
+  },
+  {
+    "id": 559,
+    "premium": true,
+    "question": "Sau khi điều tra một mẫu tính được phương sai mẫu, sau đó điều tra thêm một số số liệu và gộp vào số liệu đã có rồi tính phương sai mẫu. Khi đó giá trị của phương sai mẫu mới so với phương sai mẫu cũ sẽ:",
+    "answer": "không đủ thông tin để biết."
+  },
+  {
+    "id": 560,
+    "premium": true,
+    "question": "Một nhà đầu tư muốn ước lượng tỷ suất lợi nhuận bình quân, khi đó cần ước lượng tham số nào?",
+    "answer": "Trung bình tổng thể."
+  },
+  {
+    "id": 561,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho chi phí bình quân của các doanh nghiệp, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "X¯−t(n−1)α/2Sn√<μ<X¯+t(n−1)α/2Sn√"
+  },
+  {
+    "id": 562,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho giá cả trung bình của thị trường, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng là?",
+    "answer": "X¯−t(n−1)α/2Sn√<μ<X¯+t(n−1)α/2Sn√"
+  },
+  {
+    "id": 563,
+    "premium": true,
+    "question": "Với mẫu kích thước bằng 2, trong các ước lượng sau, ước lượng nào là chệch cho trung bình tổng thể?",
+    "answer": "15X1+25X2"
+  },
+  {
+    "id": 564,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho độ phân tán của năng suất người lao động, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "(n−1)S2χ2(n−1)α/2<σ2<(n−1)S2χ2(n−1)1−α/2"
+  },
+  {
+    "id": 565,
+    "premium": true,
+    "question": "Kiểm định cặp giả thuyết:",
+    "answer": "t(19)0,1=1,328"
+  },
+  {
+    "id": 566,
+    "premium": true,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, độ lệch chuẩn là 20. Kiểm định ý kiến “năm nay mức chi ổn định hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=400;H1:σ2<400"
+  },
+  {
+    "id": 567,
+    "premium": true,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía về trung bình tổng thể với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0, khi đó phát biểu nào chắc chắn đúng:",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 568,
+    "premium": true,
+    "question": "Cần kiểm định giả thuyết rằng \"Thu nhập trung bình của người lao động đã vượt trên 10 triệu đồng/tháng\", tổng thể phân phối Chuẩn chưa biết các tham số. Với một mẫu ngẫu nhiên, thống kê sử dụng là:",
+    "answer": "T"
+  },
+  {
+    "id": 569,
+    "premium": true,
+    "question": "Trước đây trọng lượng sản phẩm phân phối Chuẩn với trung bình 25g và độ dao động là 4g. Trọng lượng phân phối Chuẩn. Kiểm định ý kiến cho rằng “độ dao động của trọng lượng không như trước” với mức ý nghĩa 5%. Với mẫu kích thước 20 tính được giá trị quan sát là 3,28. Vậy kết luận là: ",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 570,
+    "premium": true,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của tỉnh A là cao hơn so với tỉnh B, khi đó giá trị quan sát của thống kê cần sử dụng trong kiểm định là:",
+    "answer": "Zqs"
+  },
+  {
+    "id": 571,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng ta muốn xem phải chăng thu nhập của hộ ở hai tỉnh này có độ phân tán khác nhau. Với 2 mẫu kích thước đều là 100, ta tính được giá trị quan sát của tiêu chuẩn kiểm định là 1,58. Khi đó kết luận với mức ý nghĩa 5% sẽ là:",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 572,
+    "premium": true,
+    "question": "Giả sử ta muốn kiểm định xem một biến ngẫu nhiên có tuân theo quy luật phân phối Chuẩn hay không. Khi đó giá trị tới hạn χ2 cần sử dụng sẽ có bậc tự do là:",
+    "answer": "Bậc 2"
+  },
+  {
+    "id": 573,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng muốn xem phải chăng thu nhập hộ ở tỉnh A đồng đều hơn của hộ ở tỉnh B, khi đó cặp giả thuyết sẽ là:",
+    "answer": "H0:σ2A=σ2B;H1:σ2A<σ2B"
+  },
+  {
+    "id": 574,
+    "premium": true,
+    "question": "Khi kiểm định về tính phân phối Chuẩn của một biến ngẫu nhiên bằng kiểm định Jarque-Bera, nếu các hệ số nhọn, hệ số bất đối xứng của mẫu không đổi, mức ý nghĩa không đổi, kích thước mẫu tăng lên thì khả năng bác bỏ giả thuyết H0 sẽ: ",
+    "answer": "tăng lên."
+  },
+  {
+    "id": 575,
+    "premium": true,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố có đúng một người chấp nhận được viết là:",
+    "answer": "G¯.P+G.P¯"
+  },
+  {
+    "id": 576,
+    "premium": true,
+    "question": "Cho số liệu về khách hàng: ",
+    "answer": "0,6"
+  },
+  {
+    "id": 577,
+    "premium": true,
+    "question": "Cho số liệu về người lao động ở một cơ quan: (ảnh). ",
+    "answer": "0,9"
+  },
+  {
+    "id": 578,
+    "premium": true,
+    "question": "Một nhóm gồm 4 nam và 2 nữ. Chọn ngẫu nhiên 3 người trong số đó, thì xác suất để được 2 người nam và 1 người nữ là:",
+    "answer": "0,6"
+  },
+  {
+    "id": 579,
+    "premium": true,
+    "question": "Xác suất một người trúng phần thưởng trong một trò chơi là 1/4 và độc lập. Người đó đã chơi 3 lần và đều trượt. Khi chơi lần thứ tư thì khả năng người đó trúng phần thưởng là:",
+    "answer": "bằng 1/4 vì xác suất giữ nguyên."
+  },
+  {
+    "id": 580,
+    "premium": true,
+    "question": "Xác suất một người biết về quảng cáo của sản phẩm là 0,6. Với người biết về quảng cáo sản phẩm thì khả năng người đó mua là 0,4; với người không biết về quảng cáo thì khả năng mua là 0,2. Vậy xác suất một người bất kỳ mua sản phẩm là:",
+    "answer": "0,32"
+  },
+  {
+    "id": 581,
+    "premium": true,
+    "question": "Có hai dự án độc lập nhau, xác suất để mỗi dự án thành công lần lượt là 0,3 và 0,4. Vậy xác suất để chỉ có đúng một dự án thành công là:",
+    "answer": "0,46"
+  },
+  {
+    "id": 582,
+    "premium": true,
+    "question": "Một người đi đấu thầu ở hai nơi độc lập nhau. Xác suất trúng thầu ở nơi 1 và 2 lần lượt là 0,3 và 0,4. Xác suất người đó chỉ trúng thầu ở lần thứ 2 là:",
+    "answer": "0,28"
+  },
+  {
+    "id": 583,
+    "premium": true,
+    "question": "Mỗi cái máy có 2 bộ phận hoạt động độc lập. Xác suất mỗi bộ phận hỏng đều là 0,1 và máy sẽ hỏng nếu có bộ phận hỏng. Xác suất trong 5 máy có đúng 1 máy hỏng là:",
+    "answer": "0,4089"
+  },
+  {
+    "id": 584,
+    "premium": true,
+    "question": "Cho số liệu về người lao động ở một cơ quan: ",
+    "answer": "0,714"
+  },
+  {
+    "id": 585,
+    "premium": true,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên một khóa. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau:",
+    "answer": "0,56"
+  },
+  {
+    "id": 586,
+    "premium": true,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau: ",
+    "answer": "0,25"
+  },
+  {
+    "id": 587,
+    "premium": true,
+    "question": "Ba biến ngẫu nhiên có hàm mật độ xác suất dưới đây là lợi nhuận của ba công ty: ",
+    "answer": "Công ty II."
+  },
+  {
+    "id": 588,
+    "premium": true,
+    "question": " Qua thống kê của một cửa hàng thực phẩm tươi sống thì số kg thưc phẩm bán được trong một ngày (hay nhu cầu = X) có bảng phân phối xác suất như sau:",
+    "answer": "925 (nghìn đồng)"
+  },
+  {
+    "id": 589,
+    "premium": true,
+    "question": "Xạ thủ dùng 4 viên đạn để tập bắn với quy định nếu bắn trúng hai viên liên tiếp hoặc hết đạn thì dừng bắn. Các viên đạn được bắn độc lập với xác suất trúng đều là 0,8. Khi đó số viên đạn xạ thủ sử dụng trung bình là:",
+    "answer": "2,592 (viên)"
+  },
+  {
+    "id": 590,
+    "premium": true,
+    "question": "Với X là trọng lượng sản phẩm, X∼N(μ;σ2). Sản phẩm đạt tiêu chuẩn nếu trọng lượng chênh lệch so với trung bình không quá hai lần độ lệch chuẩn. Trong 1000 sản phẩm thì số sản phẩm đạt tiêu chuẩn trung bình gần bằng:",
+    "answer": "954 sản phẩm."
+  },
+  {
+    "id": 591,
+    "premium": true,
+    "question": "Khối lượng sản phẩm phân phối Chuẩn với trung bình 15g, độ dao động là 3g2. Nếu đặt X là khối lượng sản phẩm thì có thể viết là:",
+    "answer": "X∼N(15;3)"
+  },
+  {
+    "id": 592,
+    "premium": true,
+    "question": "Nhiệt độ kí hiệu là X, và X∼N(25;42) có nghĩa là nhiệt độ có:",
+    "answer": "trung bình là 25, phương sai là 16."
+  },
+  {
+    "id": 593,
+    "premium": true,
+    "question": "Chiều dài sản phẩm là phân phối Chuẩn với trung bình 20 cm, phương sai 4 cm2. Xác suất để đo thử một sản phẩm ngẫu nhiên thì sản phẩm dài hơn 19 cm là:",
+    "answer": "0,6915"
+  },
+  {
+    "id": 594,
+    "premium": true,
+    "question": "Thời gian hoàn thành một sản phẩm là phân phối Chuẩn với trung bình 35 phút và phương sai là 16 phút2. Xác suất để một sản phẩm ngẫu nhiên có thời gian hoàn thành là nhiều hơn 30 phút là:",
+    "answer": "0,8944"
+  },
+  {
+    "id": 595,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "7,04"
+  },
+  {
+    "id": 596,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,405"
+  },
+  {
+    "id": 597,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,65"
+  },
+  {
+    "id": 598,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là tỷ suất lợi nhuận trong một năm của hai loại cổ phiếu A, B trên thị trường.",
+    "answer": "52,4 triệu"
+  },
+  {
+    "id": 599,
+    "premium": true,
+    "question": " Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,6"
+  },
+  {
+    "id": 600,
+    "premium": true,
+    "question": "Cho mẫu sau về một số người lao động:",
+    "answer": "2,7"
+  },
+  {
+    "id": 601,
+    "premium": true,
+    "question": "Muốn đánh giá về tỷ lệ người có thu nhập cao hơn mức trung bình, khi đó cần ước lượng tham số nào?",
+    "answer": "Tỷ lệ tổng thể."
+  },
+  {
+    "id": 602,
+    "premium": true,
+    "question": "Điều tra cân nặng 100 trẻ sơ sinh tại 1 bệnh viện thấy trung bình mẫu bằng 3 kg, đô phân tán 0,04 kg2. Với độ tin cậy 90%, cân nặng trung bình trẻ sơ sinh nằm trong khoảng:",
+    "answer": "(2,9671; 3,0329) (kg)"
+  },
+  {
+    "id": 603,
+    "premium": true,
+    "question": "Với mẫu kích thước bằng 3, trong các ước lượng sau, ước lượng nào là hiệu quả hơn?",
+    "answer": "27X1+27X2+37X3"
+  },
+  {
+    "id": 604,
+    "premium": true,
+    "question": "Điều tra cân nặng 100 trẻ sơ sinh tại một bệnh viện thấy trung bình mẫu bằng 3,2 kg, độ lệch chuẩn mẫu 0,2 kg. Với độ tin cậy 90%, độ lệch chuẩn của cân nặng trẻ sơ sinh nằm trong khoảng:",
+    "answer": "(0,1783; 0,2253) (kg)"
+  },
+  {
+    "id": 605,
+    "premium": true,
+    "question": "Điều tra 400 người thấy có 160 người có mua bảo hiểm. Với độ tin cậy 95% trong 2000 người số người không mua bảo hiểm thuộc khoảng:",
+    "answer": "1104 đến 1296"
+  },
+  {
+    "id": 606,
+    "premium": true,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 200, phương sai là 24. Kiểm định ý kiến “năm nay mức chi biến động hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=24;H1:σ2>24"
+  },
+  {
+    "id": 607,
+    "premium": true,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, phương sai là 24. Kiểm định ý kiến “năm nay mức chi trung bình đã tăng lên”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:μ=220;H1:μ>220"
+  },
+  {
+    "id": 608,
+    "premium": true,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, độ lệch chuẩn là 20. Kiểm định ý kiến “năm nay mức chi biến động hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=400;H1:σ2>400"
+  },
+  {
+    "id": 609,
+    "premium": true,
+    "question": "Khi kiểm định cặp giả thuyết:",
+    "answer": "Zqs<−zα/2⇒ bác bỏ H0"
+  },
+  {
+    "id": 610,
+    "premium": true,
+    "question": "Trước đây tiêu chuẩn cho trọng lượng bình quân sản phẩm là 14g. Trọng lượng phân phối Chuẩn. Có ý kiến cho rằng: “hiện nay không cần phải thay đổi tiêu chuẩn”. Với mức ý nghĩa 5%, dựa trên mẫu kích thước 20 tính được giá trị quan sát là 1,832. Vậy kết luận là: ",
+    "answer": "chưa có cơ sở bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 611,
+    "premium": true,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B. Khi kiểm định xem \"phải chăng tỷ lệ hộ nghèo của hai tỉnh là thực sự khác nhau hay không\", với mức ý nghĩa 5%, giả thuyết H0 bị bác bỏ. Vậy nếu tỷ lệ hộ nghèo trong mẫu của tỉnh A cao hơn tỉnh B, thì khi kiểm định tỷ lệ hộ nghèo của tỉnh A có cao hơn của tỉnh B hay không, kết luận sẽ là:",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 612,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu thu nhập trung bình của cả 2 tỉnh đều chưa biết nhưng muốn xem xét về nhận định cho rằng thu nhập trung bình của 2 tỉnh là như nhau, thì cặp giả thuyết sẽ là:",
+    "answer": "H0:μA=μB;H1:μA≠μB"
+  },
+  {
+    "id": 613,
+    "premium": true,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía về hai trung bình của hai tổng thể có phân phối chuẩn, các mẫu có kích thước lớn hơn 30; với mức ý nghĩa 5% thì chưa có cơ sở bác bỏ H0, khi đó phát biểu nào chắc chắn đúng?",
+    "answer": "với mức ý nghĩa nhỏ hơn 5% thì kết luận sẽ là chưa có cơ sở bác bỏ H0."
+  },
+  {
+    "id": 614,
+    "premium": true,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B, trong đó dấu hiệu A có 3 phạm trù, dấu hiệu B có 2 phạm trù. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không ở mức ý nghĩa 5%, mà tính được giá trị quan sát là 4,56 thì kết luận sẽ là: ",
+    "answer": "chưa có cơ sở bác bỏ H0; hai dấu hiệu độc lập."
+  },
+  {
+    "id": 615,
+    "premium": true,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của hai tỉnh là thực sự khác nhau hay không. Nếu ta tính được giá trị quan sát là 1,46 thì sẽ kết luận như thế nào với mức ý nghĩa 5%: ",
+    "answer": "chưa có cơ sở bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 616,
+    "premium": true,
+    "question": "Một nhóm gồm 4 nam và 2 nữ. Chọn ngẫu nhiên 3 người trong số đó, thì xác suất để được 2 người nam và 1 người nữ là:",
+    "answer": "0,6"
+  },
+  {
+    "id": 617,
+    "premium": true,
+    "question": "Một khoa có 100 sinh viên mới tốt nghiệp, trong đó có 20 sinh viên được bằng giỏi, 65 sinh viên được bằng khá và 15 sinh viên được bằng trung bình. Chọn ngẫu nhiên một sinh viên mới tốt nghiệp của khoa này. Xác suất chọn được sinh viên đạt bằng khá trở lên là:",
+    "answer": "0,85"
+  },
+  {
+    "id": 618,
+    "premium": true,
+    "question": "Có 3 người vào cửa hàng, xét các biến cố:",
+    "answer": "A1 và A2"
+  },
+  {
+    "id": 619,
+    "premium": true,
+    "question": "Một nhân viên gửi một bản đề án lên Giám đốc và Phó giám đốc. Đặt G là biến cố Giám đốc chấp nhận, P là biến cố Phó giám đốc chấp nhận. Khi đó biến cố G¯+P¯ nghĩa là:",
+    "answer": "có người không chấp nhận."
+  },
+  {
+    "id": 620,
+    "premium": true,
+    "question": "Một hộp có 6 chính phẩm và 4 phế phẩm. Nếu lấy ra một chính phẩm và bỏ ra ngoài. Tiếp đó lấy ra một sản phẩm thì xác suất để đó là chính phẩm là:",
+    "answer": "59"
+  },
+  {
+    "id": 621,
+    "premium": true,
+    "question": "Trong 20 người có 8 người đã từng sử dụng sản phẩm của công ty. Chọn ngẫu nhiên một người để hỏi, sau đó chọn thêm một người khác để hỏi. Xác suất để cả hai người đều đã từng sử dụng sản phẩm của công ty xấp xỉ là:",
+    "answer": "0,15"
+  },
+  {
+    "id": 622,
+    "premium": true,
+    "question": "Mỗi cái máy có 2 bộ phận hoạt động độc lập. Xác suất mỗi bộ phận hỏng đều là 0,1 và máy sẽ hỏng nếu có bộ phận hỏng. Xác suất trong 5 máy có đúng 1 máy hỏng là:",
+    "answer": "0,4089"
+  },
+  {
+    "id": 623,
+    "premium": true,
+    "question": "Một người thi tuyển dụng ở hai công ty, độc lập với nhau. Xác suất trúng tuyển ở hai công ty lần lượt là 0,4 và 0,6. Vậy xác suất người đó có trúng tuyển là:",
+    "answer": "0,76"
+  },
+  {
+    "id": 624,
+    "premium": true,
+    "question": "Một nhà đầu tư khảo sát ba dự án độc lập. Xác suất các dự án thành công lần lượt là 0,7; 0,8 và 0,9. Xác suất có đúng hai dự án thành công là:",
+    "answer": "0,398"
+  },
+  {
+    "id": 625,
+    "premium": true,
+    "question": "Một người đấu thầu ở hai vòng, nếu qua được vòng ngoài thì mới được vào vòng trong. Xác suất qua được vòng ngoài là 0,3; nếu vào vòng trong thì xác suất qua được là 0,4. Xác suất để người đó qua vòng đầu và trượt ở vòng thứ hai là:",
+    "answer": "0,18"
+  },
+  {
+    "id": 626,
+    "premium": true,
+    "question": "Một người đi bán hàng ở hai nơi độc lập nhau, xác suất bán được ở mỗi nơi đều bằng 0,7. Với mỗi nơi nếu bán được hàng thì người đó được lãi 5 triệu. Kỳ vọng và phương sai tiền lãi là:",
+    "answer": "7 và 10,5"
+  },
+  {
+    "id": 627,
+    "premium": true,
+    "question": "Cho biết X là điểm kiểm tra của sinh viên. X là biến ngẫu nhiên liên tục có hàm mật độ xác suất như sau:",
+    "answer": "0,2637"
+  },
+  {
+    "id": 628,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về lợi nhuận ròng (X: đơn vị là tỉ đồng) của doanh nghiệp như sau: ",
+    "answer": "0,9"
+  },
+  {
+    "id": 629,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về số tiền lãi thu được của một dự án (số âm ứng với trường hợp bị lỗ) như sau:",
+    "answer": "E(X) = 0,2 và V(X) = 3,56"
+  },
+  {
+    "id": 630,
+    "premium": true,
+    "question": "Cho bảng phân phối xác suất về lợi nhuận của một doanh nghiệp (X: đơn vị tỷ đồng, số âm tương ứng với bị lỗ) như sau: ",
+    "answer": "1,7 tỷ"
+  },
+  {
+    "id": 631,
+    "premium": true,
+    "question": "Nhiệt độ kí hiệu là X, và X∼N(25;9) có nghĩa là nhiệt độ có:",
+    "answer": "trung bình là 25, phương sai là 9."
+  },
+  {
+    "id": 632,
+    "premium": true,
+    "question": "Chi phí để sản xuất một sản phẩm là phân phối Chuẩn với trung bình 26 USD và phương sai là 9 USD2. Xác suất để một sản phẩm ngẫu nhiên có chi phí nhiều hơn 29 USD là:",
+    "answer": "0,1587"
+  },
+  {
+    "id": 633,
+    "premium": true,
+    "question": "Khối lượng sản phẩm là phân phối Chuẩn với trung bình là 12g và phương sai là 4 g2. Xác suất để khi cân ngẫu nhiên một sản phẩm thì khối lượng sản phẩm nhẹ hơn 15g là:",
+    "answer": "0,9332"
+  },
+  {
+    "id": 634,
+    "premium": true,
+    "question": "Nhiệt độ trong ngày là phân phối Chuẩn với trung bình 25 độ (C), độ lệch chuẩn là 2,5 độ. Xác suất để vào một thời điểm ngẫu nhiên nhiệt độ trong khoảng (27,5; 30) độ là:",
+    "answer": "0,1359"
+  },
+  {
+    "id": 635,
+    "premium": true,
+    "question": "Với X phân phối Chuẩn: X∼N(μ;σ2 thì:",
+    "answer": "P(X<μ−σ)=P(X>μ+σ)"
+  },
+  {
+    "id": 636,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là tỷ suất lợi nhuận trong một năm của hai loại cổ phiếu A, B trên thị trường.",
+    "answer": "52,4 triệu"
+  },
+  {
+    "id": 637,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là tỷ suất lợi nhuận trong một năm của hai loại cổ phiếu A, B trên thị trường.",
+    "answer": "4,6039(%)2"
+  },
+  {
+    "id": 638,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là giá bán của hai loại sản phẩm A, B trên thị trường.",
+    "answer": "XA,XB là hai biến ngẫu nhiên độc lập."
+  },
+  {
+    "id": 639,
+    "premium": true,
+    "question": "Cho X là thu nhập, Y là chi tiêu của hộ gia đình (đơn vị: triệu/tháng)",
+    "answer": "0,7"
+  },
+  {
+    "id": 640,
+    "premium": true,
+    "question": "Cho XA,XB lần lượt là giá bán của hai loại sản phẩm A, B trên thị trường.",
+    "answer": "0,6"
+  },
+  {
+    "id": 641,
+    "premium": true,
+    "question": "Tổng thể phân phối Chuẩn với trung bình là 200 và phương sai là 100. Rút một mẫu ngẫu nhiên kích thước 25 thì xác suất để trung bình mẫu X¯ nhỏ hơn 198 là:",
+    "answer": "0,1587"
+  },
+  {
+    "id": 642,
+    "premium": true,
+    "question": "Với mẫu kích thước bằng 3, trong các ước lượng sau, ước lượng nào là hiệu quả hơn?",
+    "answer": "27X1+27X2+37X3"
+  },
+  {
+    "id": 643,
+    "premium": true,
+    "question": "Điều tra cân nặng 100 trẻ sơ sinh tại một bệnh viện thấy trung bình mẫu bằng 3,2 kg, độ lệch chuẩn mẫu 0,2 kg. Với độ tin cậy 90%, độ lệch chuẩn của cân nặng trẻ sơ sinh nằm trong khoảng:",
+    "answer": "(0,1783; 0,2253) (kg)"
+  },
+  {
+    "id": 644,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho độ dao động của giá cả thị trường, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "(n−1)S2χ2(n−1)α/2<σ2<(n−1)S2χ2(n−1)1−α/2"
+  },
+  {
+    "id": 645,
+    "premium": true,
+    "question": "Khi muốn ước lượng khoảng cho tỷ lệ khách hàng sử dụng dịch vụ, dựa trên một mẫu kích thước n, độ tin cậy (1−α), thì công thức nào là công thức đúng?",
+    "answer": "f−uα/2f(1−f)√n√<p<f+uα/2f(1−f)√n√"
+  },
+  {
+    "id": 646,
+    "premium": true,
+    "question": "Điều tra ngẫu nhiên 400 thanh niên tại một vùng thấy có 150 thanh niên có sử dụng dịch vụ của doanh nghiệp. Độ dài khoảng tin cậy 90% tỷ lệ thanh niên sử dụng dịch vụ của doanh nghiệp là:",
+    "answer": "0,0796"
+  },
+  {
+    "id": 647,
+    "premium": true,
+    "question": "Năm ngoái giá cả trung bình là 120 USD, độ dao động là 6 USD. Giá cả phân phối Chuẩn. Năm nay điều tra mẫu kích thước 15, kiểm định giả thuyết giá biến động nhiều hơn trước với mức ý nghĩa 5%. Khi đó, để kiểm định thì cần giá trị tới hạn nào trong quá trình kiểm định?",
+    "answer": "23,68"
+  },
+  {
+    "id": 648,
+    "premium": true,
+    "question": "Khi kiểm định một cặp giả thuyết hai phía về tỷ lệ tổng thể với mức ý nghĩa 5% thì bác bỏ H0, khi đó phát biểu nào chắc chắn đúng:",
+    "answer": "với mức ý nghĩa lớn hơn 5% thì kết luận sẽ là bác bỏ H0."
+  },
+  {
+    "id": 649,
+    "premium": true,
+    "question": "Cần kiểm định giả thuyết “Độ phân tán của chi tiêu là chưa đến 8 (triệu2)”, với chi tiêu phân phối Chuẩn chưa biết các tham số. Điều tra mẫu kích thước 50 được trung bình mẫu 30 và phương sai mẫu là 5 (triệu2). Khi đó giá trị quan sát là:",
+    "answer": "30,63"
+  },
+  {
+    "id": 650,
+    "premium": true,
+    "question": "Năm ngoái chi cho điện của các hộ gia đình trung bình là 220, phương sai là 24. Kiểm định ý kiến “năm nay mức chi ổn định hơn so với trước”. Giả thiết mức chi phân phối Chuẩn. Khi đó cặp giả thuyết là:",
+    "answer": "H0:σ2=24;H1:σ2<24"
+  },
+  {
+    "id": 651,
+    "premium": true,
+    "question": "Cần kiểm định giả thuyết “Độ biến động của chi tiêu đã nhiều hơn mức 4 (triệu2)”, với chi tiêu phân phối Chuẩn chưa biết các tham số. Điều tra mẫu kích thước 100 được trung bình mẫu 30 và phương sai mẫu là 9 (triệu2). Khi đó giá trị quan sát là:",
+    "answer": "222,75"
+  },
+  {
+    "id": 652,
+    "premium": true,
+    "question": "Giả sử ta có 2 dấu hiệu định tính A và B. Khi đó nếu muốn kiểm định xem hai dấu hiệu này có độc lập với nhau hay không thì giá trị thống kê cần sử dụng sẽ là:",
+    "answer": "χ2qs"
+  },
+  {
+    "id": 653,
+    "premium": true,
+    "question": "Giả sử ta muốn kiểm định xem Tuổi thọ của một loại sản phẩm (X) có tuân theo quy luật phân phối chuẩn hay không. Với mẫu cụ thể ta tính được giá trị quan sát là 6,13. Khi đó kết luận ở mức ý nghĩa 5% sẽ là: ",
+    "answer": "Bác bỏ H0; X không phân phối Chuẩn."
+  },
+  {
+    "id": 654,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Nếu thu nhập trung bình của cả 2 tỉnh đều chưa biết nhưng muốn xem xét về nhận định cho rằng thu nhập trung bình của 2 tỉnh là như nhau. Với 2 mẫu kích thước là 50, nếu tính được giá trị quan sát là 2,16 thì với mức ý nghĩa 5% kết luận sẽ là: ",
+    "answer": "bác bỏ H0; ý kiến sai."
+  },
+  {
+    "id": 655,
+    "premium": true,
+    "question": "Giả sử thu nhập của hộ gia đình ở tỉnh A và tỉnh B đều có phân phối Chuẩn. Độ phân tán của thu nhập ở cả 2 tỉnh đều chưa biết nhưng ta muốn xem phải chăng thu nhập của hộ ở hai tỉnh này có độ phân tán khác nhau. Với 2 mẫu kích thước đều là 100, ta tính được giá trị quan sát của tiêu chuẩn kiểm định là 1,58. Khi đó kết luận với mức ý nghĩa 5% sẽ là:",
+    "answer": "bác bỏ H0; ý kiến đúng."
+  },
+  {
+    "id": 656,
+    "premium": true,
+    "question": "Giả sử ta chưa biết tỷ lệ hộ nghèo ở tỉnh A và tỉnh B, nhưng muốn xem phải chăng tỷ lệ hộ nghèo của tỉnh A (pA) là cao hơn so với tỉnh B (pB), khi đó cặp giả thuyết sẽ là:",
+    "answer": "H0:pA=pB;H1:pA>pB"
+  }
+]

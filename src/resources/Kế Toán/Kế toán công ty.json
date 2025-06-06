@@ -1,0 +1,2432 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Khi công ty mua lại cổ phần của cổ đông, kế toán ghi",
+    "answer": "Nợ TK 4111"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Khi tái phát hành cổ phiếu quỹ, chênh lệch giữa giá phát hành nhỏ hơn giá gốc đã ghi trên sổ kế toán được ghi nhận vào:",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Khi cổ đông góp vốn bằng ngoại tệ theo cam kết, kế toán ghi",
+    "answer": "Nợ TK 1112, 1122/ Có TK 138"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Khi công ty cổ phần tiến hành mua cổ phiếu quỹ, kế toán ghi nhận giá mua và chi phí thu mua như sau:",
+    "answer": "Nợ TK 419/ Có TK liên quan"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Khi chi phí thành lập công ty cổ phần phát sinh nhỏ, không đáng kể, kế toán ghi nhận như sau:",
+    "answer": "Nợ TK 642/ Có TK 111,112,138,331..."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Khi cổ đông thực hiện góp vốn bằng tài sản cố định theo bản đăng ký thì kế toán ghi:",
+    "answer": "Nợ TK 211/ Có TK 138"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Khi phát hành cổ phần mới, chênh lệch giữa giá phát hành nhỏ hơn mệnh giá được ghi nhận vào:",
+    "answer": "Nợ TK 4112"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Khi công ty cổ phàn tái phát hành cổ phiếu quỹ, kế toán ghi phần chênh lệch giá bán lớn hơn giá ghi sổ vào tài khoản nào:",
+    "answer": "Có TK 515"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Khi phân bổ chi phí thành lập công ty cổ phần, kế toán ghi:",
+    "answer": "Nợ TK 642/ Có TK 242"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Thành viên của công ty Cổ phần có thể là",
+    "answer": "Cá nhân, tổ chức, Nhà nước."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Khi hủy bỏ cổ phiếu quỹ, kế toán ghi",
+    "answer": "Nợ TK 4111"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Khi tái phát hành cổ phần quỹ có các chi phí phát sinh được ghi nhận vào:",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Khi chi phí thành lập công ty cổ phần phát sinh nhỏ, không đáng kể, kế toán ghi nhận như sau:",
+    "answer": "Nợ TK 642/ Có TK 111,112,138,331..."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Khi tái phát hành cổ phiếu quỹ, chênh lệch giữa giá phát hành nhỏ hơn giá gốc đã ghi trên sổ kế toán được ghi nhận vào:",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Khi công ty cổ phần tiến hành mua cổ phiếu quỹ, kế toán ghi nhận giá mua và chi phí thu mua như sau:",
+    "answer": "Nợ TK 419/ Có TK liên quan"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Khi cổ đông góp vốn bằng ngoại tệ theo cam kết, kế toán ghi",
+    "answer": "Nợ TK 1112, 1122/ Có TK 138"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Khi công ty mua lại cổ phần của cổ đông, kế toán ghi",
+    "answer": "Nợ TK 4111"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Khi mua cổ phiếu quỹ có các chi phí phát sinh được ghi nhận vào:",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Khi công ty cổ phần phát hành bổ sung cổ phiếu, số vốn đăng ký mua, kế toán ghi",
+    "answer": "Nợ TK 138 / Có TK 4118"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Tài khoản 4112 “Thặng dư vốn cổ phần” phản ánh chênh lệch giữa giá phát hành và mệnh giá cổ phiếu, có số dư bên",
+    "answer": "Không có số dư"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Khi phát hành cổ phần mới, chênh lệch giữa giá phát hành lớn hơn mệnh giá được ghi nhận vào:",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Khi cổ đông thực hiện góp vốn bằng tài sản cố định theo bản đăng ký thì kế toán ghi:",
+    "answer": "Nợ TK 211/ Có TK 138"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Khi xác định cổ đông bỏ góp, phần vón đã góp vào công ty cổ phần phải trả lại cổ đông kế toán ghi nhận vào",
+    "answer": "Có TK 338"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Khi phát hành cổ phần mới, chênh lệch giữa giá phát hành nhỏ hơn mệnh giá được ghi nhận vào:",
+    "answer": "Nợ TK 4112"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Khi xác định cổ đông bỏ góp, phần vón bỏ góp kế toán ghi nhận vào",
+    "answer": "Có TK 138"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Khi cổ đông bỏ góp vốn, theo Điều lệ công ty, cổ đông bị phạt trừ vào số vốn đã góp, kế toán ghi",
+    "answer": "Nợ TK 338/ Có TK 711"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Khi phân bổ chi phí thành lập công ty cổ phần, kế toán ghi:",
+    "answer": "Nợ TK 642/ Có TK 242"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Kế toán sử dụng tiểu khoản kế toán nào để phản ánh cấu phần vốn của trái phiếu chuyển đổi",
+    "answer": "TK 4113"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Khi chi phí thành lập công ty cổ phần phát sinh lớn, kế toán tập hợp chi phí như sau:",
+    "answer": "Nợ TK 242/ Có TK 111,112,138,331..."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Trong công ty cổ phần, cổ phần ưu đãi cổ tức có đặc điểm",
+    "answer": "Được hưởng cổ tức cố định"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Khi cổ đông nộp tiền, tài sản theo cam kết góp vốn, kế toán ghi",
+    "answer": "Nợ TK liên quan/ Có TK 138"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Khi tái phát hành cổ phần bỏ góp, số tiền còn thiếu so với mệnh giá trừ vào số tiền đã góp của cổ đông bỏ góp, kế toán ghi:",
+    "answer": "Nợ TK 338"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Hồ sơ đăng ký kinh doanh của Công ty Cổ phần bao gồm",
+    "answer": "Điều lệ công ty, Danh sách thành viên, Giấy đề nghị đăng ký DN"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Tài khoản 41112 được sử dụng để phản ánh tổng mệnh giá của cổ phiếu ưu đãi có số dư bên",
+    "answer": "Luôn có Số dư bên Có"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Phản ánh tăng vốn cổ phần từ các nguồn vốn chủ sở hữu khác, kế toán ghi:",
+    "answer": "Nợ TK 418,421/ Có TK 4111"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Thành viên của công ty Cổ phần có thể là",
+    "answer": "Cá nhân, tổ chức, Nhà nước."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Khi công ty cổ phàn tái phát hành cổ phiếu quỹ, kế toán ghi phần chênh lệch giá bán nhỏ hơn giá ghi sổ vào tài khoản nào:",
+    "answer": "Nợ TK 4112"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Công ty tiến hành giải thể có bán 1 lô thành phẩm với giá gốc là 5.000, giá bán là 4.400 đã bao gồm cả VAT đầu ra 10%. Kế toán ghi nhận thế nào:",
+    "answer": "Nợ TK 421: 1.000"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có Nguyên giá TSCĐVH là 1.200, Hao mòn lũy kế là 500. Công ty bán TSCĐ này thu được 900. Vậy kết quả của nghiệp vụ thanh lý này là",
+    "answer": "Lãi 200"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Tại công ty bị chia, nếu công ty đang bị lỗ thì bút toán điều chuyển VCSH khác về vốn góp sẽ ghi:",
+    "answer": "Có TK 421"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Khoản phải thu khách hàng trên BCĐKT của công ty bị chia có giá trị theo hóa đơn đã bao gồm cả thuế GTGT là 220 triệu. Dự phòng phải thu khó đòi bằng 30%. Vậy, giá trị thuần của khoản phải thu khách hàng này là:",
+    "answer": "154 triệu"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Trước khi tách công ty, công ty bị tách tiến hành đánh giá lại tài sản: Khoản cho vay ngắn hạn có gốc là 100.000, dự phòng về cho vay đã lập là 10.000, giá trị đánh giá lại là 99.000. Vậy công ty sẽ ghi:",
+    "answer": "Lãi 9.000"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Công ty CP Hoa Hồng tách ra thành lập 2 công ty mới là Công ty Hồng Gai và Hồng Không Gai. Hãy cho biết nhận định nào sau đây là đúng:",
+    "answer": "Công ty Hồng Gai là công ty mới được tách."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Công ty CP Hoa Hồng tách ra thành lập thêm 2 công ty mới là Công ty Hồng Gai và Hồng Không Gai với số vốn được tách là 50% vốn của Công ty Hoa Hồng. Hãy cho biết nhận định nào sau đây là đúng:",
+    "answer": "Tài sản của Công ty Hoa Hồng bị giảm 50% sau khi tách."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Công ty tiến hành giải thể có bán 1 lô thành phẩm với giá gốc là 5.000, giá bán là 4.400 đã bao gồm cả VAT đầu ra 10%. Kế toán ghi nhận thế nào:",
+    "answer": "Ghi Nợ TK 421: 1.000"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có lô hàng hóa với giá gốc là 4000, giá bán là 4.400 đã bao gồm cả VAT đầu ra 10%. Kết quả bán hàng ở nghiệp vụ này là",
+    "answer": "Công ty hòa vốn"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Chi phí giải thể công ty cổ phần được hạch toán",
+    "answer": "Giảm lợi nhuận"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Kế toán tại công ty bị tách sẽ:",
+    "answer": "Ghi giảm cả tài sản và nợ phải trả"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Công ty ĐẸP tách 30% tài sản của mình để thành lập một công ty mới tên là ĐẸP&ĐIỆU. Như vậy công ty ĐẸP& ĐIỆU sẽ",
+    "answer": "Ghi tăng nợ phải trả đúng bằng 30% tổng nợ phải trả của ĐẸP"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có bán TSCĐ: Nguyên giá TSCĐVH là 1.200, Hao mòn lũy kế là 500. Công ty bán TSCĐ này thu được 900. Kế toán ghi nhận thế nào:",
+    "answer": "Có TK 421: 200"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Trước khi tách công ty, công ty bị tách tiến hành đánh giá lại tài sản: Nguyên vật liệu giá gốc 2.200, giá đánh giá lại 2.000. Vậy kế toán ghi:",
+    "answer": "Nợ TK 421: 200"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Công ty TOT tách ra thành lập công ty mới đặt tên là XAU. Vậy vốn của công ty XAU",
+    "answer": "Tăng tương ứng với só vốn được tách ra từ TOT (Tùy theo tỷ lệ tách công ty)"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Công ty cổ phần A sáp nhập với công ty cổ phần B. Vậy kế toán tại công ty A sẽ ghi:",
+    "answer": "Giảm vốn góp"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có bán TSCĐ: Nguyên giá TSCĐVH là 1.200, Hao mòn lũy kế là 500. Công ty bán TSCĐ này thu được 900. Chi phí nhượng bán 100. Kế toán ghi nhận thế nào:",
+    "answer": "Có TK 421: 100"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có lô thành phẩm với giá gốc là 5.000, giá bán là 4.400 đã bao gồm cả VAT đầu ra 10%. Kết quả bán hàng ở nghiệp vụ này là:",
+    "answer": "Công ty lỗ 1.000"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Tài sản cố định hữu hình có Nguyên giá 50 triệu, hao mòn lũy kế 40 triệu, giá trị đánh giá trước khi chia công ty được xác định là 30 triệu. Hãy cho biết nhận định nào sau đây là đúng:",
+    "answer": "Ghi nhận lãi 20 triệu."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có Nguyên giá TSCĐHH là 900, Hao mòn lũy kế là 800. Công ty bán TSCĐ này thu được 900. Vậy kết quả của nghiệp vụ thanh lý này là",
+    "answer": "Lãi 800"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Công ty HHH tách thành 2 công ty mới là H1 và H2. Như vậy:",
+    "answer": "H2, HHH, Vốn của công ty HHH bị giảm tương ứng với số vốn đã chuyển sang 2 công ty mới là H1 và H2."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Trước khi tách công ty, công ty bị tách tiến hành đánh giá lại tài sản: Phải thu KH giá gốc 5000, giá đánh giá lại 4.500. Vậy kế toán ghi:",
+    "answer": "Nợ TK 421/Có TK 131: 500"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Công ty CP Hoa Hồng chia thành 2 Công ty mới là Công ty Hồng Nhung và Công ty Hồng Vàng. Hãy cho biết nhận định nào sau đây là đúng:",
+    "answer": "Công ty Hoa Hồng không còn tồn tại sau khi chia."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Công ty bị sáp nhập và công ty bị chia có điểm chung là:",
+    "answer": "Cùng chấm dứt HĐ sau khi sáp nhập/chia"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Tại công ty bị chia, nếu công ty đang lãi thì bút toán điều chuyển VCSH khác về vốn góp sẽ ghi:",
+    "answer": "Có TK 411"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có khoản nợ phải thu gốc là 900, dự phòng đã lập là 500. Công ty thực đòi tiền được 400. Vậy trên sổ KT kỳ này công ty sẽ ghi:",
+    "answer": "Không phải ghi lãi lỗ"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Cổ đông của công ty bị sáp nhập phải góp thêm tiền trước khi sáp nhập thì kế toán ghi:",
+    "answer": "Nợ TK 112"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Khoản phải thu khách hàng trên BCĐKT của công ty bị chia có giá trị theo hóa đơn đã bao gồm cả thuế GTGT là 200 triệu, đã lập dự phòng 50 triệu. Trước khi chia Công ty, người ta định gía cho rằng khoản phải thu này thu đủ 100%. Thông tin này sẽ ảnh hưởng tới lợi nhuận ra sao?",
+    "answer": "Tăng thêm 50 triệu."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Công ty cổ phần A sáp nhập với công ty cổ phần B. Vậy kế toán tại công ty B sẽ ghi:",
+    "answer": "Tăng tài sản"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Hàng hóa có giá gốc là 100 triệu, giá trị dự phòng giảm giá hàng tồn kho là 10 triệu. Giá thị trường của hàng hóa là 120 triệu. Vậy giá trị thực của hàng hóa là:",
+    "answer": "90 triệu"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Trước khi tách công ty, công ty bị tách tiến hành đánh giá lại tài sản: Nguyên vật liệu giá gốc 2.000, giá đánh giá lại 1.800. Vậy kế toán ghi:",
+    "answer": "Nợ TK 421/ Có TK 152:200"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Công ty bị chia tiến hành điều chuyển vốn chủ sở hữu khác ngoài vốn góp. Do vậy công ty sẽ ghi",
+    "answer": "Nợ TK 418"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Công ty Hoa Hồng tiến hành giải thể. Tổ thanh lý tài sản đã thanh lý tài sản và thu hồi công nợ đúng theo giá trị ghi trên sổ kế toán. Hãy cho biết nhận định nào sau đây là đúng:",
+    "answer": "Sau khi thanh toán hết các khoản nợ, các cổ đông sẽ được thanh toán số tiền còn lại."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Kế toán tại công ty mới được chia sẽ ghi:",
+    "answer": "Ghi tăng vốn góp"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Trước khi tách công ty, công ty bị tách tiến hành đánh giá lại tài sản: Nguyên vật liệu giá gốc 2.000, dự phòng 200, giá đánh giá lại (theo giá trị thực) 1.000. Vậy kế toán ghi:",
+    "answer": "Nợ TK 421: 800"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có lô hàng hóa với giá gốc là 4000, giá bán là 4.400 đã bao gồm cả VAT đầu ra 10%. Kế toán ghi nhận thế nào:",
+    "answer": "Có TK 156: 4.000"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Công ty bị tách và công ty bị chia có điểm chung là:",
+    "answer": "Cùng ghi giảm tài sản"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Công ty tiến hành giải thể có bán 1 lô thành phẩm với giá gốc là 5.000, giá bán là 4.400 đã bao gồm cả VAT đầu ra 10%. Kế toán ghi nhận thế nào:",
+    "answer": "Có TK 155: 5.000"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có khoản nợ phải thu gốc là 900, dự phòng đã lập là 500. Hỏi giá trị thực của khoản phải thu này là",
+    "answer": "400"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Cổ đông của công ty nhận sáp nhập phải góp thêm tiền trước khi sáp nhập thì kế toán ghi:",
+    "answer": "Có TK 411"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Kế toán tại công ty mới được tách sẽ ghi:",
+    "answer": "Ghi Có TK Vốn góp"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Công ty CP Hồng Nhung đã thông qua phương án sáp nhập với Công ty cổ phần Lưu Ly. Hãy cho biết nhận định nào sau đây là đúng:",
+    "answer": "Công ty Hồng Nhung bị giải thể, bị sáp nhập."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Trước khi tách công ty, công ty bị tách tiến hành đánh giá lại tài sản: Khoản cho vay ngắn hạn có gốc là 100.000, dự phòng về cho vay đã lập là 10.000, giá trị đánh giá lại là 99.000. Vậy công ty sẽ ghi:",
+    "answer": "Có TK 421: 9.000"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Công ty ĐẸP sáp nhập với công ty ĐIỆU. Vậy kho công ty ĐẸP chuyển giao tài sản sang cho công ty ĐIỆU, công ty ĐIỆU sẽ ghi",
+    "answer": "Nợ TK tài sản/Có TK 138"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Tại công ty bị chia, nếu công ty đang lãi thì bút toán điều chuyển VCSH khác về vốn góp sẽ ghi:",
+    "answer": "Có TK 411"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có bán TSCĐ: Nguyên giá TSCĐVH là 1.200, Hao mòn lũy kế là 500. Công ty bán TSCĐ này thu được 900. Chi phí nhượng bán 100. Kế toán ghi nhận thế nào:",
+    "answer": "Có TK 421: 100"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Công ty cổ phần A sáp nhập với công ty cổ phần B. Vậy kế toán tại công ty A sẽ ghi:",
+    "answer": "Giảm vốn góp"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có lô hàng hóa với giá gốc là 4000, giá bán là 4.400 đã bao gồm cả VAT đầu ra 10%. Kết quả bán hàng ở nghiệp vụ này là",
+    "answer": "Công ty hòa vốn"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Công ty CP Hoa Hồng tách ra thành lập 2 công ty mới là Công ty Hồng Gai và Hồng Không Gai. Hãy cho biết nhận định nào sau đây là đúng:",
+    "answer": "Công ty Hồng Gai là công ty mới được tách."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Công ty cổ phần A sáp nhập với công ty cổ phần B. Vậy kế toán tại công ty B sẽ ghi:",
+    "answer": "Tăng tài sản"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Chi phí giải thể công ty cổ phần được hạch toán",
+    "answer": "Giảm lợi nhuận"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Tại công ty bị chia, nếu công ty đang bị lỗ thì bút toán điều chuyển VCSH khác về vốn góp sẽ ghi:",
+    "answer": "Có TK 421"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Công ty CP Hồng Nhung đã thông qua phương án sáp nhập với Công ty cổ phần Lưu Ly. Hãy cho biết nhận định nào sau đây là đúng:",
+    "answer": "Công ty Hồng Nhung bị giải thể, bị sáp nhập."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Công ty TOT tách ra thành lập công ty mới đặt tên là XAU. Vậy vốn của công ty XAU",
+    "answer": "Tăng tương ứng với só vốn được tách ra từ TOT (Tùy theo tỷ lệ tách công ty)"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Trước khi tách công ty, công ty bị tách tiến hành đánh giá lại tài sản: Khoản cho vay ngắn hạn có gốc là 100.000, dự phòng về cho vay đã lập là 10.000, giá trị đánh giá lại là 99.000. Vậy công ty sẽ ghi:",
+    "answer": "Có TK 421: 9.000"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Công ty ĐẸP sáp nhập với công ty ĐIỆU. Vậy kho công ty ĐẸP chuyển giao tài sản sang cho công ty ĐIỆU, công ty ĐIỆU sẽ ghi",
+    "answer": "Nợ TK tài sản/Có TK 138"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Cổ đông của công ty nhận sáp nhập phải góp thêm tiền trước khi sáp nhập thì kế toán ghi:",
+    "answer": "Có TK 411"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có khoản nợ phải thu gốc là 900, dự phòng đã lập là 500. Công ty thực đòi tiền được 400. Vậy trên sổ KT kỳ này công ty sẽ ghi:",
+    "answer": "Không phải ghi lãi lỗ"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Công ty HHH tách thành 2 công ty mới là H1 và H2. Như vậy:",
+    "answer": "H2, HHH, Vốn của công ty HHH bị giảm tương ứng với số vốn đã chuyển sang 2 công ty mới là H1 và H2."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Trước khi tách công ty, công ty bị tách tiến hành đánh giá lại tài sản: Khoản cho vay ngắn hạn có gốc là 100.000, dự phòng về cho vay đã lập là 10.000, giá trị đánh giá lại là 99.000. Vậy công ty sẽ ghi:",
+    "answer": "Lãi 9.000"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Công ty Hợp danh Bình An sáp nhập vào Công ty Hợp danh Thái Bình. Kế toán tại công ty Hợp danh Thái Bình ghi nhận:",
+    "answer": "Tăng tài sản"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Khi chuyển giao khoản phải thu khách hàng từ công ty bị sáp nhập sang công ty nhận sáp nhập, kế toán tại công ty bị sáp nhập ghi",
+    "answer": "Nợ TK 138/ Có TK 131"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Trong quá trình giải thế, công ty thu hồi khoản phải thu khách hàng 800 triệu bằng chuyển khoản sau khi trừ chiết khấu thanh toán 1% kế toán ghi",
+    "answer": "Nợ TK 112: 792, Nợ TK 421: 8/ Có TK 131: 800"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Chi phí sáp nhập công ty hợp danh được ghi nhận vào:",
+    "answer": "Nợ TK 421"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Khi hợp nhất công ty, giá ghi sổ hàng hóa 500, giá trị đánh giá lại 480, phần chênh lệch 20 được ghi nhận vào:",
+    "answer": "Nợ TK 421"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Khi giải thể công ty hợp danh, kế toán hoàn nhập dự phòng ghi:",
+    "answer": "Nợ TK Dự phòng/ Có TK 421"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Trước khi hợp nhất công ty, giá trị TSCĐ HH được đánh giá tăng so với giá trị còn lại, kế toán ghi",
+    "answer": "Nợ TK 211 Có TK 421"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Khi chuyển giao khoản phải thu khách hàng từ công ty bị sáp nhập sang công ty nhận sáp nhập, kế toán tại công ty nhận sáp nhập ghi",
+    "answer": "Nợ TK 131/ Có TK 338"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Khi giải thể công ty hợp danh, bán hàng hóa có lãi, Kế toán ghi",
+    "answer": "Nợ TK 111, 112, 131"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Theo luật doanh nghiệp 2015, Nhận định nào về thành viên góp vốn của công ty Hợp danh là sai.",
+    "answer": "Được tham gia quản lý công ty, được tiến hành công việc kinh doanh nhân danh công ty"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Khi thanh toán các khoản chi phục vụ giải thể công ty hợp danh bằng chuyển khoản, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 112"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Đặc điểm riêng có của Công ty hợp danh là:",
+    "answer": "Công ty có thành viên viên hợp danh và thành viên góp vốn."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Khi tiến hành điều chuyển khoản lãi làm tăng vốn góp tương ứng của các thành viên góp vốn, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 4111"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Khoản phải thu khách hàng không thể thu hồi, khi giải thể công ty, công ty xóa bỏ khoản phải thu ghi:",
+    "answer": "Nợ TK 421/ Có TK 131"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Trong quá trình giải thể, công ty thanh toán khoản vay dài hạn ngân hàng 500 triệu đồng bằng chuyển khoản sau khi trừ chiết khấu thanh toán 3 triệu. Kế toán ghi",
+    "answer": "Nợ TK 341: 500/ Có TK 112: 497, Có TK 421: 3"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Công ty Hợp danh Bình An chuyển giao toàn bộ tài sản, công nợ, vốn chủ sở hữu cho công ty Hợp danh Thái Bình và chấm dứt không còn hoạt động. Đây là hình thức tổ chức lại nào?",
+    "answer": "Sáp nhập công ty"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Chi phí hợp nhất công ty được ghi nhận vào:",
+    "answer": "Nợ TK 421"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Công ty Hợp danh Bình An và Công ty Hợp danh Thái Bình dùng toàn bộ tài sản, công nợ, vốn chủ sở hữu của mình để tạo nên Công ty Hợp danh An Thái Bình. Công ty Hợp danh Thái Bình An là công ty mới phải xin Giấy phép đăng ký doanh nghiệp, Đây là hình thức tổ chức lại nào?",
+    "answer": "Hợp nhất công ty"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Khi giải thể công ty, giá trị hàng hóa bị đánh giá giảm so với giá gốc đã ghi trên sổ, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 156"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Khi hợp nhất công ty, giá ghi sổ hàng hóa 500, giá trị đánh giá lại 510, phần chênh lệch 10 được ghi nhận vào",
+    "answer": "Có TK 421"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Khi tiến hành điều chuyển khoản lãi làm tăng vốn góp tương ứng của các thành viên góp vốn, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 4111"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Theo luật doanh nghiệp 2015, Nhận định nào về thành viên góp vốn của công ty Hợp danh là sai.",
+    "answer": "Được tham gia quản lý công ty, được tiến hành công việc kinh doanh nhân danh công ty"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Khi chuyển giao khoản phải thu khách hàng từ công ty bị sáp nhập sang công ty nhận sáp nhập, kế toán tại công ty bị sáp nhập ghi",
+    "answer": "Nợ TK 138/ Có TK 131"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Trong quá trình giải thế, công ty thu hồi khoản phải thu khách hàng 800 triệu bằng chuyển khoản sau khi trừ chiết khấu thanh toán 1% kế toán ghi",
+    "answer": "Nợ TK 112: 792, Nợ TK 421: 8/ Có TK 131: 800"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Trong quá trình giải thể, công ty thanh toán khoản vay dài hạn ngân hàng 500 triệu đồng bằng chuyển khoản sau khi trừ chiết khấu thanh toán 3 triệu. Kế toán ghi",
+    "answer": "Nợ TK 341: 500/ Có TK 112: 497, Có TK 421: 3"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Khi giải thể công ty hợp danh, kế toán hoàn nhập dự phòng ghi:",
+    "answer": "Nợ TK Dự phòng/ Có TK 421"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Công ty Hợp danh Bình An sáp nhập vào Công ty Hợp danh Thái Bình. Kế toán tại công ty Hợp danh Thái Bình ghi nhận:",
+    "answer": "Tăng tài sản"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Khi thanh toán các khoản chi phục vụ giải thể công ty hợp danh bằng chuyển khoản, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 112"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Đặc điểm riêng có của Công ty hợp danh là:",
+    "answer": "Công ty có thành viên viên hợp danh và thành viên góp vốn."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Khi chuyển giao khoản phải thu khách hàng từ công ty bị sáp nhập sang công ty nhận sáp nhập, kế toán tại công ty nhận sáp nhập ghi",
+    "answer": "Nợ TK 131/ Có TK 338"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Chi phí hợp nhất công ty được ghi nhận vào:",
+    "answer": "Nợ TK 421"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Trước khi hợp nhất công ty, giá trị TSCĐ HH được đánh giá tăng so với giá trị còn lại, kế toán ghi",
+    "answer": "Nợ TK 211 Có TK 421"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Chi phí sáp nhập công ty hợp danh được ghi nhận vào:",
+    "answer": "Nợ TK 421"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Công ty Hợp danh Bình An chuyển giao toàn bộ tài sản, công nợ, vốn chủ sở hữu cho công ty Hợp danh Thái Bình và chấm dứt không còn hoạt động. Đây là hình thức tổ chức lại nào?",
+    "answer": "Sáp nhập công ty"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Khi hợp nhất công ty, giá ghi sổ hàng hóa 500, giá trị đánh giá lại 480, phần chênh lệch 20 được ghi nhận vào:",
+    "answer": "Nợ TK 421"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Khoản phải thu khách hàng không thể thu hồi, khi giải thể công ty, công ty xóa bỏ khoản phải thu ghi:",
+    "answer": "Nợ TK 421/ Có TK 131"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Khi hợp nhất công ty, giá ghi sổ hàng hóa 500, giá trị đánh giá lại 510, phần chênh lệch 10 được ghi nhận vào",
+    "answer": "Có TK 421"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Khi giải thể công ty, giá trị hàng hóa bị đánh giá giảm so với giá gốc đã ghi trên sổ, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 156"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Công ty Hợp danh Bình An và Công ty Hợp danh Thái Bình dùng toàn bộ tài sản, công nợ, vốn chủ sở hữu của mình để tạo nên Công ty Hợp danh An Thái Bình. Công ty Hợp danh Thái Bình An là công ty mới phải xin Giấy phép đăng ký doanh nghiệp, Đây là hình thức tổ chức lại nào?",
+    "answer": "Hợp nhất công ty"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Khi giải thể công ty hợp danh, bán hàng hóa có lãi, Kế toán ghi",
+    "answer": "Nợ TK 111, 112, 131"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Khi thanh toán các khoản chi phục vụ giải thể công ty hợp danh bằng chuyển khoản, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 112"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Trong quá trình giải thế, công ty thu hồi khoản phải thu khách hàng 800 triệu bằng chuyển khoản sau khi trừ chiết khấu thanh toán 1% kế toán ghi",
+    "answer": "Nợ TK 112: 792, Nợ TK 421: 8/ Có TK 131: 800"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Khi giải thể công ty hợp danh, kế toán hoàn nhập dự phòng ghi:",
+    "answer": "Nợ TK Dự phòng/ Có TK 421"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Khi chuyển giao khoản phải thu khách hàng từ công ty bị sáp nhập sang công ty nhận sáp nhập, kế toán tại công ty nhận sáp nhập ghi",
+    "answer": "Nợ TK 131/ Có TK 338"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Đặc điểm riêng có của Công ty hợp danh là:",
+    "answer": "Công ty có thành viên viên hợp danh và thành viên góp vốn."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Tài khoản 2112 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh:",
+    "answer": "Tài sản cố định thuê tài chính"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ(một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực 02: Hàng tồn kho"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Tài khoản 2113 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Tài sản cố định vô hình"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Báo cáo tài chính định kỳ sau bao lâu phải lập ở các doanh nghiệp nhà nước",
+    "answer": "Quý"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Tài khoản 1591 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Dự phòng giảm giá đầu tư chứng khoán ngắn hạn"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Tài khoản 1592 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Dự phòng phải thu khó đòi"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Doanh nghiệp bị phá sản khi",
+    "answer": "Mất khả năng thanh toán"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Báo cáo tài chính định kỳ sau bao lâu phải lập ở các doanh nghiệp niêm yết trên thị trường chứng khoán",
+    "answer": "Quý"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 hệ thống tài khoản không có tài khoản nào dưới đây",
+    "answer": "Đầu tư vào công ty con"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Số lượng thành viên tối thiểu của công ty cổ phần là",
+    "answer": "3"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Trong thời hạn bao nhiêu ngày kể từ ngày nhận hồ sơ đăng ký kinh doanh thì cơ quan có thẩm quyền phải cấp Giấy chứng nhận đăng ký kinh doanh cho doanh nghiệp (nếu hợp lệ)",
+    "answer": "3"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "TK 138 “Phải thu khác” có số dư bên",
+    "answer": "Số dư bên Nợ"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Trong Công ty TNHH 2 thành viên trở lên, số lượng thành viên tối thiểu là",
+    "answer": "1"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Khi thành viên góp vốn bằng tài sản, đồng thời chuyển giao một khoản nợ vay dài hạn cho công ty, kế toán ghi",
+    "answer": "Nợ TK 341/ Có TK 138"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Khi công ty bù lỗ từ hoạt động kinh doanh bằng vốn góp của các thành viên để bù đắp theo tỷ lệ vốn góp, kế toán ghi",
+    "answer": "Nợ TK 4111/ Có TK 421"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Khi công ty quyết định bổ sung phần lãi từ hoạt động kinh doanh vào vốn góp của các thành viên theo tỷ lệ vốn góp, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 4111"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Khi thành viên Chung tập hợp chứng từ do chi hộ công ty bằng tiền mặt trong quá trình thành lập để bàn giao cho kế toán, số chi phí này được thanh toán bằng cách bù trừ vào số vốn phải góp của thành viên Chung, kế toán ghi",
+    "answer": "Nợ TK 642/ Có TK 138"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Tiền phạt do thành viên chậm góp vốn được tính vào:",
+    "answer": "Doanh thu tài chính"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Khi phân bổ chi phí thành lập vào chi phí trong kỳ kinh doanh, kế toán ghi:",
+    "answer": "Nợ TK 642/ Có TK 242"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Khi thành viên góp vốn bằng một khoản phải thu khách hàng, kế toán ghi",
+    "answer": "Nợ TK 131/ Có TK 138"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Công ty Bắc Bình đánh giá lại tài sản, trong đó một khu nhà kiên cố bị giảm 250 triệu, một lô thành phẩm bị giảm 30 triệu. Đồng thời Công ty hoàn nhập dự phòng nợ phải thu khó đòi là 20 triệu. Hãy xác định lợi nhuận chưa phân phối sau khi đã đánh giá lại tài sản và hoàn nhập dự phòng biết lợi nhuận chưa phân phối đầu kỳ là 100 triệu.",
+    "answer": "Lỗ 160 triệu"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Công ty Mạnh Hà chuyển giao 1 thiết bị vận tải cho công ty Việt Dũng theo quyết định sáp nhập công ty. Biết nguyên giá của thiết bị này là 1.950 triệu, giá trị hao mòn là 1.130 triệu, giá đánh giá lại là 1.800 triệu. Kế toán tại công ty Việt Dũng ghi nhận giá trị tài sản nhận chuyển giao:",
+    "answer": "Nợ TK 211: 1.800 triệu/ Có TK 138: 1.800 triệu"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Công ty Quỳnh Trang tiến hành điều chuyển giao 1 tài sản cố định có nguyên giá 1.180, đã hao mòn 1.130 cho Công ty Lâm Sinh. Biết công ty thống nhất với giá trị ghi sổ của tài sản. Kế toán tại Công ty Quỳnh Trang ghi:",
+    "answer": "Nợ TK 338: 50 triệu, Nợ TK 214: 1.130 triệu/ Có TK 211: 1.180 triệu"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Công ty Nhật Nam đánh giá tăng một lô hàng hóa 220 triệu, đánh giá giảm một lô nguyên vật liệu là 208 triệu. Đồng thời công ty hoàn nhập dự phòng giảm giá hàng tồn kho là 206 triệu. Hãy định khoản nghiệp vụ điều chuyển các vốn chủ sở hữu khác về vốn góp tương ứng của các thành viên biết Lợi nhuận chưa phân phối đầu kỳ là 105 triệu.",
+    "answer": "Nợ TK 421: 123 triệu/ Có TK 4111: 123 triệu"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Công ty Lâm Sinh có tổng tài sản trên BCĐKT là 660 triệu. Công ty xác định giá trị nguyên vật liệu tăng 40 triệu và giá trị TSCĐ hữu hình giảm đi 20 triệu. Như vậy, tổng giá trị tài sản của công ty sau khi đánh giá lại tài sản là",
+    "answer": "680 triệu"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Khi chuyển giao khoản vay dài hạn từ công ty bị sáp nhập sang công ty nhận sáp nhập, kế toán tại công ty nhận sáp nhập ghi",
+    "answer": "Nợ TK 138/ Có TK 341"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Khi giá trị nguyên vật liệu trên sổ kế toán là 530 triệu, giá trị thị trường tại thời điểm giải thể là 525 triệu. Kế toán ghi nhận giá trị nguyên vật liệu:",
+    "answer": "525 triệu"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Công ty được xác định là giải thể trong trường hợp nào",
+    "answer": "Số lượng thành viên tối thiểu không đạt yêu cầu, Theo quyết định của Hội đồng thành viên, Giấy phép kinh doanh bị hết hạn hoặc bị thu hồi."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Khi chuyển giao phần nợ phải trả nhà cung cấp từ công ty bị hợp nhất sang công ty nhận hợp nhất, kế toán tại đơn vị nhận chuyển giao ghi",
+    "answer": "Nợ TK 138/ Có TK 331"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Điều chuyển khoản lỗ về vốn góp tương ứng của các thành viên, kế toán ghi",
+    "answer": "Nợ TK 4111/ Có TK 421"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Kế toán sử dụng tiểu khoản kế toán nào để phản ánh cấu phần vốn của trái phiếu chuyển đổi",
+    "answer": "TK 4113"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Khi phát hành cổ phần mới, chênh lệch giữa giá phát hành nhỏ hơn mệnh giá được ghi nhận vào:",
+    "answer": "Nợ TK 4112"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Khi cổ đông nộp tiền, tài sản theo cam kết góp vốn, kế toán ghi",
+    "answer": "Nợ TK liên quan/ Có TK 138"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Khi phát hành cổ phần mới, chênh lệch giữa giá phát hành lớn hơn mệnh giá được ghi nhận vào:",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Khi công ty mua lại cổ phần của cổ đông, kế toán ghi",
+    "answer": "Nợ TK 4111"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Trong Công ty Cổ phần, số lượng thành viên tối đa là",
+    "answer": "5000"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Trong Công ty Cổ phần, số lượng thành viên tối thiểu là",
+    "answer": "3"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Khi xác định cổ đông bỏ góp, phần vón bỏ góp kế toán ghi nhận vào",
+    "answer": "Có TK 138"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Khi công ty cổ phần phát hành bổ sung cổ phiếu, số vốn đăng ký mua, kế toán ghi",
+    "answer": "Nợ TK 138 / Có TK 4118"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Khi cổ đông thực hiện góp vốn bằng tài sản cố định theo bản đăng ký thì kế toán ghi:",
+    "answer": "Nợ TK 211/ Có TK 138"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Kế toán tại công ty bị tách sẽ:",
+    "answer": "Ghi giảm cả tài sản và nợ phải trả"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Công ty cổ phần A sáp nhập với công ty cổ phần B. Vậy kế toán tại công ty A sẽ ghi:",
+    "answer": "Giảm vốn góp"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Kế toán tại công ty mới được chia sẽ ghi:",
+    "answer": "Ghi tăng vốn góp"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Cổ đông của công ty bị sáp nhập phải góp thêm tiền trước khi sáp nhập thì kế toán ghi:",
+    "answer": "Nợ TK 112"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Công ty TOT tách ra thành lập công ty mới đặt tên là XAU. Vậy vốn của công ty XAU",
+    "answer": "Tăng tương ứng với só vốn được tách ra từ TOT (Tùy theo tỷ lệ tách công ty)"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có lô hàng hóa với giá gốc là 4000, giá bán là 4.400 đã bao gồm cả VAT đầu ra 10%. Kết quả bán hàng ở nghiệp vụ này là",
+    "answer": "Công ty hòa vốn"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Tại công ty bị chia, nếu công ty đang lãi thì bút toán điều chuyển VCSH khác về vốn góp sẽ ghi:",
+    "answer": "Có TK 411"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Trước khi tách công ty, công ty bị tách tiến hành đánh giá lại tài sản: Nguyên vật liệu giá gốc 2.000, giá đánh giá lại 1.800. Vậy kế toán ghi:",
+    "answer": "Nợ TK 421/ Có TK 152:200"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Tại công ty tiến hành giải thể có khoản nợ phải thu gốc là 900, dự phòng đã lập là 500. Công ty thực đòi tiền được 400. Vậy trên sổ KT kỳ này công ty sẽ ghi:",
+    "answer": "Không phải ghi lãi lỗ"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Trước khi tách công ty, công ty bị tách tiến hành đánh giá lại tài sản: Nguyên vật liệu giá gốc 2.000, dự phòng 200, giá đánh giá lại (theo giá trị thực) 1.000. Vậy kế toán ghi:",
+    "answer": "Nợ TK 421: 800"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Khi thanh toán các khoản chi phục vụ giải thể công ty hợp danh bằng chuyển khoản, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 112"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Khi hợp nhất công ty, giá ghi sổ hàng hóa 500, giá trị đánh giá lại 510, phần chênh lệch 10 được ghi nhận vào",
+    "answer": "Có TK 421"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Khi hợp nhất công ty, giá ghi sổ hàng hóa 500, giá trị đánh giá lại 480, phần chênh lệch 20 được ghi nhận vào:",
+    "answer": "Nợ TK 421"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Khoản phải thu khách hàng không thể thu hồi, khi giải thể công ty, công ty xóa bỏ khoản phải thu ghi:",
+    "answer": "Nợ TK 421/ Có TK 131"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Chi phí sáp nhập công ty hợp danh được ghi nhận vào:",
+    "answer": "Nợ TK 421"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Công ty Hợp danh Bình An chuyển giao toàn bộ tài sản, công nợ, vốn chủ sở hữu cho công ty Hợp danh Thái Bình và chấm dứt không còn hoạt động. Đây là hình thức tổ chức lại nào?",
+    "answer": "Sáp nhập công ty"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Công ty Hợp danh Bình An và Công ty Hợp danh Thái Bình dùng toàn bộ tài sản, công nợ, vốn chủ sở hữu của mình để tạo nên Công ty Hợp danh An Thái Bình. Công ty Hợp danh Thái Bình An là công ty mới phải xin Giấy phép đăng ký doanh nghiệp, Đây là hình thức tổ chức lại nào?",
+    "answer": "Hợp nhất công ty"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Đặc điểm riêng có của Công ty hợp danh là:",
+    "answer": "Công ty có thành viên viên hợp danh và thành viên góp vốn."
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Khi giải thể công ty hợp danh, kế toán hoàn nhập dự phòng ghi:",
+    "answer": "Nợ TK Dự phòng/ Có TK 421"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Khi tiến hành điều chuyển khoản lãi làm tăng vốn góp tương ứng của các thành viên góp vốn, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 4111"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Tài khoản 2111 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Tài sản cố định hữu hình"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ (một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 15 - Hợp đồng xây dựng"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Tài khoản 1591 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Dự phòng giảm giá đầu tư chứng khoán ngắn hạn"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Tài khoản 6421 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Chi phí bán hàng"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Các doanh nghiệp nhỏ và vừa không áp dụng hình thức ghi sổ nào dưới đây",
+    "answer": "Nhật ký- Chứng từ"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Tài khoản 1593 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Dự phòng giảm giá hàng tồn kho"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Số lượng thành viên tối thiểu của công ty cổ phần là",
+    "answer": "3"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng đầy đủ tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 16 - Chi phí đi vay"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Tài khoản 2112 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh:",
+    "answer": "Tài sản cố định thuê tài chính"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Báo cáo tài chính định kỳ sau bao lâu phải lập ở các doanh nghiệp nhà nước",
+    "answer": "Quý"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ (một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 24 - Báo cáo lưu chuyển tiền tệ"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Báo cáo tài chính định kỳ sau bao lâu phải lập ở doanh nghiệp nhỏ và vừa",
+    "answer": "Năm"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Tài khoản 1592 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Dự phòng phải thu khó đòi"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ (một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 17- Thuế thu nhập doanh nghiệp"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Tài khoản 2291 theo thông tư 200 “ Chế độ kế toán doanh nghiệp” của Bộ tài chính phản ánh",
+    "answer": "Dự phòng giảm giá chứng khoán kinh doanh"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ (một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 29 – Thay đổi chính sách kế toán, ước tính kế toán và các sai sót"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam không áp dụng tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực 11: Hợp nhất kinh doạnh"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Số lượng thành viên tối đa của công ty trách nhiệm hữu hạn là",
+    "answer": "50"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Tài khoản 2292 theo thông tư 200 “ Chế độ kế toán doanh nghiệp” của Bộ tài chính phản ánh",
+    "answer": "Dự phòng tổn thất đầu tư vào đơn vị khác"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Tài khoản 2112 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Tài sản cố định thuê tài chính"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Doanh nghiệp bị phá sản khi",
+    "answer": "Mất khả năng thanh toán"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Báo cáo tài chính nào dưới đây không được coi là bắt buộc trong các doanh nghiệp nhỏ và vừa",
+    "answer": "Báo cáo lưu chuyển tiền tệ"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ(một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực 02: Hàng tồn kho"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam không áp dụng tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 27 - Báo cáo tài chính giữa niên độ."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Doanh nghiệp bị phá sản khi",
+    "answer": "Mất khả năng thanh toán"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây doanh nghiệp không bị tuyên bố là giải thể mà phải tuyên bố là phá sản:",
+    "answer": "Mất khả năng thanh toán"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Báo cáo tài chính định kỳ sau bao lâu phải lập ở các doanh nghiệp niêm yết trên thị trường chứng khoán",
+    "answer": "Quý"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Tài khoản 2111 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Tài sản cố định hữu hình"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ(một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 06: Thuê tài sản"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 hệ thống tài khoản không có tài khoản nào dưới đây",
+    "answer": "Đầu tư vào công ty con"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "",
+    "answer": "Dự phòng giảm giá hàng tồn kho"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Tài khoản 6422 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Chi phí quản lý doanh nghiệp"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Tài khoản 229 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Dự phòng giảm giá đầu tư tài chính dài hạn"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Tài khoản 2113 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Tài sản cố định vô hình"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Tài khoản 2293 theo thông tư 200 “ Chế độ kế toán doanh nghiệp” của Bộ tài chính phản ánh",
+    "answer": "Dự phòng nợ phải thu khó đòi"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Tài khoản 2111 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Tài sản cố định hữu hình"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Số lượng thành viên tối thiểu của công ty cổ phần là",
+    "answer": "3"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Tài khoản 2291 theo thông tư 200 “ Chế độ kế toán doanh nghiệp” của Bộ tài chính phản ánh",
+    "answer": "Dự phòng giảm giá chứng khoán kinh doanh"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ (một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 29 – Thay đổi chính sách kế toán, ước tính kế toán và các sai sót"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ (một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 15 - Hợp đồng xây dựng"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Các doanh nghiệp nhỏ và vừa không áp dụng hình thức ghi sổ nào dưới đây",
+    "answer": "Nhật ký- Chứng từ"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam không áp dụng tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 27 - Báo cáo tài chính giữa niên độ."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng đầy đủ tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 16 - Chi phí đi vay"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Tài khoản 1593 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Dự phòng giảm giá hàng tồn kho"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ(một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 06: Thuê tài sản"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Tài khoản 2292 theo thông tư 200 “ Chế độ kế toán doanh nghiệp” của Bộ tài chính phản ánh",
+    "answer": "Dự phòng tổn thất đầu tư vào đơn vị khác"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Tài khoản 2112 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Tài sản cố định thuê tài chính"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam không áp dụng tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực 11: Hợp nhất kinh doạnh"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Tài khoản 1591 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Dự phòng giảm giá đầu tư chứng khoán ngắn hạn"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Tài khoản 2293 theo thông tư 200 “ Chế độ kế toán doanh nghiệp” của Bộ tài chính phản ánh",
+    "answer": "Dự phòng nợ phải thu khó đòi"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ (một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực số 17- Thuế thu nhập doanh nghiệp"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Trường hợp nào dưới đây doanh nghiệp không bị tuyên bố là giải thể mà phải tuyên bố là phá sản:",
+    "answer": "Mất khả năng thanh toán"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Doanh nghiệp bị phá sản khi",
+    "answer": "Mất khả năng thanh toán"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Chuẩn mực nào dưới đây theo hệ thống 26 chuẩn mực kế toán Việt Nam áp dụng không đầy đủ(một phần) tại doanh nghiệp nhỏ và vừa",
+    "answer": "Chuẩn mực 02: Hàng tồn kho"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Báo cáo tài chính định kỳ sau bao lâu phải lập ở các doanh nghiệp niêm yết trên thị trường chứng khoán",
+    "answer": "Quý"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Doanh nghiệp bị phá sản khi",
+    "answer": "Mất khả năng thanh toán"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Tài khoản 2111 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Tài sản cố định hữu hình"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Báo cáo tài chính định kỳ sau bao lâu phải lập ở doanh nghiệp nhỏ và vừa",
+    "answer": "Năm"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Tài khoản 6422 theo quyết định 48 “ Chế độ kế toán doanh nghiệp nhỏ và vừa” của Bộ tài chính ban hành ngày 14/9/2006 phản ánh",
+    "answer": "Chi phí quản lý doanh nghiệp"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Số lượng thành viên tối đa của công ty trách nhiệm hữu hạn là",
+    "answer": "50"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Chi phí thành lập công ty phát sinh được thanh toán bằng cách trừ vào số vốn phải góp của thành viên, kế toán ghi:",
+    "answer": "Nợ TK 138/ Có TK 242 hoặc 642"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Khi công ty thanh toán hộ các thành viên bằng chuyển khoản khi mua lại cổ phiếu của thành viên rút vốn, kế toán ghi",
+    "answer": "Nợ TK 138/ Có TK 112"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Khi thành viên Linh chuyển nhượng phần vốn góp của mình cho thành viên Hương, kế toán ghi",
+    "answer": "Nợ TK 4111 Linh/ Có TK 4111 Hương"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày thì cơ quan đăng ký kinh doanh phải thống báo công khai thông tin của doanh nghiệp cho các cơ quan có thẩm quyền theo quy định",
+    "answer": "5"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Khi thành viên Thanh chuyển nhượng toàn bộ phần vốn góp cho thành viên Thu, biết giá trị vốn góp ban đầu là 2.000, giá trị thỏa thuận cá nhân giữa hai bên là 2.500 (công ty không tham gia thanh toán). Kế toán ghi nhận",
+    "answer": "Nợ TK 4111 Thanh/ Có TK 4111 Thu: 2.000"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Khi thành viên góp vốn bằng tài sản, đồng thời chuyển giao một khoản nợ vay dài hạn cho công ty, kế toán ghi",
+    "answer": "Nợ TK 341/ Có TK 138"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Khi chi phí thành lập công ty phát sinh lớn, định khoản:",
+    "answer": "Nợ TK 242/ Có TK liên quan"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Khi thành viên góp vốn bằng một khoản phải thu khách hàng, kế toán ghi",
+    "answer": "Nợ TK 131/ Có TK 138"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Do chậm góp, thành viên Bình bị phạt 6 triệu và thành viên đã nộp bằng tiền mặt. Kế toán ghi",
+    "answer": "Nợ TK 111/ Có TK 711"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Tài khoản nào dùng để theo dõi số vốn các thành viên đã góp, chưa góp trong công ty TNHH:",
+    "answer": "TK 138"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Tài khoản 4111 “Vốn góp của chủ sở hữu” có số dư bên",
+    "answer": "Số dư bên Có"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Thành viên của công ty TNHH là",
+    "answer": "Cá nhân, tổ chức, Nhà nước."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Trong Công ty TNHH 2 thành viên trở lên, số lượng thành viên tối thiểu là",
+    "answer": "1"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Khi thành viên Thanh góp vốn bằng tài sản cố định, kế toán ghi",
+    "answer": "Nợ TK 211/ Có TK 4111"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Hồ sơ đăng ký kinh doanh của Công ty TNHH bao gồm",
+    "answer": "Điều lệ công ty, Danh sách thành viên, Biên bản thành lập công ty"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Khi phân bổ chi phí thành lập vào chi phí trong kỳ kinh doanh, kế toán ghi:",
+    "answer": "Nợ TK 642/ Có TK 242"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Khi thành viên Chung tập hợp chứng từ do chi hộ công ty bằng tiền mặt trong quá trình thành lập để bàn giao cho kế toán, số chi phí này được thanh toán bằng cách bù trừ vào số vốn phải góp của thành viên Chung, kế toán ghi",
+    "answer": "Nợ TK 642/ Có TK 138"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "TK 138 “Phải thu khác” có số dư bên",
+    "answer": "Số dư bên Nợ"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Trong năm, công ty trích lập Quỹ khen thưởng là 28 triệu. Đến cuối năm khi báo cáo tài chính được duyệt, lợi nhuận được quyết toán là 1.2 tỷ. Công ty quyết định trích 3% để lập Quỹ khen thưởng. Như vậy,",
+    "answer": "Công ty trích thiếu 36 triệu"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày kể từ ngày nhận hồ sơ đăng ký kinh doanh thì cơ quan có thẩm quyền phải cấp Giấy chứng nhận đăng ký kinh doanh cho doanh nghiệp (nếu hợp lệ)",
+    "answer": "3"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Khi thành lập công ty, thành viên Dudu đã chuyển cho công ty một khoản nợ do khách hàng ứng trước để lấy hàng vào năm sau. Khi nhận chuyển giao khoản nợ từ thành viên, kế toán ghi:",
+    "answer": "Nợ TK 131/ Có TK 138"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Công ty nào có quyền phát hành cổ phiếu",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Tiền phạt do thành viên chậm góp vốn được tính vào:",
+    "answer": "Doanh thu tài chính"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khi có thành viên rút vốn, kế toán ghi",
+    "answer": "Nợ TK 4111/ Có TK liên quan"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Khi thành viên thực hiện góp vốn bằng tiền mặt thì kế toán ghi:",
+    "answer": "Nợ TK 111/ Có TK 138"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Khi chi phí thành lập công ty phát sinh nhỏ, không đáng kể, định khoản:",
+    "answer": "Nợ TK 642/ Có TK liên quan"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Sau 1 thời gian kinh doanh, công ty lập Báo cáo tài chính và bị lỗ 50 triệu. Số lỗ này được thể hiện trên tài khoản nào",
+    "answer": "Dư Nợ TK 421"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Công ty sau khi bù lỗ, nộp thuế và trích nộp các quỹ theo quy định thì phần lãi còn lại là 3.000 triệu, số lãi này được chia theo tỷ lệ vốn góp cho từng thành viên. Hãy xác định số tiền thành viên Chung nhận được biết: Lan góp 20.000 triệu, Dũng góp 25.000 triệu, Chung góp 30.000 triệu và Thăng góp 25.000 triệu.",
+    "answer": "900 triệu"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Khi công ty bù lỗ từ hoạt động kinh doanh bằng vốn góp của các thành viên để bù đắp theo tỷ lệ vốn góp, kế toán ghi",
+    "answer": "Nợ TK 4111/ Có TK 421"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Khi thành viên chậm góp vốn, theo Điều lệ thành viên bị tính lãi. Số tiền lãi được ghi nhận vào:",
+    "answer": "Doanh thu nội bộ"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Khi công ty quyết định bổ sung phần lãi từ hoạt động kinh doanh vào vốn góp của các thành viên theo tỷ lệ vốn góp, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 4111"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "TK 4111 “Vốn góp của chủ sở hữu” được chi tiết theo",
+    "answer": "Từng đợt góp vốn"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Chi phí thành lập công ty là 30 triệu, được phân bổ trong vòng 6 tháng. Vậy, mức phân bổ từng quý của công ty là:",
+    "answer": "20 triệu"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Khi thành viên Chung tập hợp chứng từ do chi hộ công ty bằng tiền mặt trong quá trình thành lập để bàn giao cho kế toán, số chi phí này được thanh toán bằng cách bù trừ vào số vốn phải góp của thành viên Chung, kế toán ghi",
+    "answer": "Nợ TK 642/ Có TK 138"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Sau 1 thời gian kinh doanh, công ty lập Báo cáo tài chính và bị lỗ 50 triệu. Số lỗ này được thể hiện trên tài khoản nào",
+    "answer": "Dư Nợ TK 421"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Khi có thành viên rút vốn, kế toán ghi",
+    "answer": "Nợ TK 4111/ Có TK liên quan"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Khi thành lập công ty, thành viên Dudu đã chuyển cho công ty một khoản nợ do khách hàng ứng trước để lấy hàng vào năm sau. Khi nhận chuyển giao khoản nợ từ thành viên, kế toán ghi:",
+    "answer": "Nợ TK 131/ Có TK 138"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Chi phí thành lập công ty phát sinh được thanh toán bằng cách trừ vào số vốn phải góp của thành viên, kế toán ghi:",
+    "answer": "Nợ TK 138/ Có TK 242 hoặc 642"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày thì cơ quan đăng ký kinh doanh phải thống báo công khai thông tin của doanh nghiệp cho các cơ quan có thẩm quyền theo quy định",
+    "answer": "5"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Công ty nào có quyền phát hành cổ phiếu",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "TK 138 “Phải thu khác” có số dư bên",
+    "answer": "Số dư bên Nợ"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Khi công ty bù lỗ từ hoạt động kinh doanh bằng vốn góp của các thành viên để bù đắp theo tỷ lệ vốn góp, kế toán ghi",
+    "answer": "Nợ TK 4111/ Có TK 421"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Khi chi phí thành lập công ty phát sinh nhỏ, không đáng kể, định khoản:",
+    "answer": "Nợ TK 642/ Có TK liên quan"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Khi thành viên Thanh chuyển nhượng toàn bộ phần vốn góp cho thành viên Thu, biết giá trị vốn góp ban đầu là 2.000, giá trị thỏa thuận cá nhân giữa hai bên là 2.500 (công ty không tham gia thanh toán). Kế toán ghi nhận",
+    "answer": "Nợ TK 4111 Thanh/ Có TK 4111 Thu: 2.000"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Khi thành viên chậm góp vốn, theo Điều lệ thành viên bị tính lãi. Số tiền lãi được ghi nhận vào:",
+    "answer": "Doanh thu nội bộ"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "TK 4111 “Vốn góp của chủ sở hữu” được chi tiết theo",
+    "answer": "Từng đợt góp vốn"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Khi công ty thanh toán hộ các thành viên bằng chuyển khoản khi mua lại cổ phiếu của thành viên rút vốn, kế toán ghi",
+    "answer": "Nợ TK 138/ Có TK 112"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Khi thành viên thực hiện góp vốn bằng tiền mặt thì kế toán ghi:",
+    "answer": "Nợ TK 111/ Có TK 138"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Khi thành viên góp vốn bằng một khoản phải thu khách hàng, kế toán ghi",
+    "answer": "Nợ TK 131/ Có TK 138"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Tiền phạt do thành viên chậm góp vốn được tính vào:",
+    "answer": "Doanh thu tài chính"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày kể từ ngày nhận hồ sơ đăng ký kinh doanh thì cơ quan có thẩm quyền phải cấp Giấy chứng nhận đăng ký kinh doanh cho doanh nghiệp (nếu hợp lệ)",
+    "answer": "3"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Do chậm góp, thành viên Bình bị phạt 6 triệu và thành viên đã nộp bằng tiền mặt. Kế toán ghi",
+    "answer": "Nợ TK 111/ Có TK 711"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Khi thành viên Thanh góp vốn bằng tài sản cố định, kế toán ghi",
+    "answer": "Nợ TK 211/ Có TK 4111"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Tài khoản 4111 “Vốn góp của chủ sở hữu” có số dư bên",
+    "answer": "Số dư bên Có"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Công ty sau khi bù lỗ, nộp thuế và trích nộp các quỹ theo quy định thì phần lãi còn lại là 3.000 triệu, số lãi này được chia theo tỷ lệ vốn góp cho từng thành viên. Hãy xác định số tiền thành viên Chung nhận được biết: Lan góp 20.000 triệu, Dũng góp 25.000 triệu, Chung góp 30.000 triệu và Thăng góp 25.000 triệu.",
+    "answer": "900 triệu"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Khi phân bổ chi phí thành lập vào chi phí trong kỳ kinh doanh, kế toán ghi:",
+    "answer": "Nợ TK 642/ Có TK 242"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Trong năm, công ty trích lập Quỹ khen thưởng là 28 triệu. Đến cuối năm khi báo cáo tài chính được duyệt, lợi nhuận được quyết toán là 1.2 tỷ. Công ty quyết định trích 3% để lập Quỹ khen thưởng. Như vậy,",
+    "answer": "Công ty trích thiếu 36 triệu"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Khi thành viên Linh chuyển nhượng phần vốn góp của mình cho thành viên Hương, kế toán ghi",
+    "answer": "Nợ TK 4111 Linh/ Có TK 4111 Hương"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Hồ sơ đăng ký kinh doanh của Công ty TNHH bao gồm",
+    "answer": "Điều lệ công ty, Danh sách thành viên, Biên bản thành lập công ty"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Trong Công ty TNHH 2 thành viên trở lên, số lượng thành viên tối thiểu là",
+    "answer": "1"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Một lô thép có giá mua trước đây 240 triệu, Công ty Gia Nam đã trích lập dự phòng giảm giá hàng tồn kho 10 triệu. Công ty xác định giá thị trường của lô thép là 260 triệu (so với giá trị thực). Kế toán ghi nhận phần chênh lệch do đánh giá lại tài sản như sau",
+    "answer": "Nợ TK 152: 30 triệu/ Có TK 421: 30 triệu"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Công ty Mạnh Hà chuyển giao 1 thiết bị vận tải cho công ty Việt Dũng theo quyết định sáp nhập công ty. Biết nguyên giá của thiết bị này là 1.950 triệu, giá trị hao mòn là 1.130 triệu, giá đánh giá lại là 1.800 triệu. Kế toán tại công ty Việt Dũng ghi nhận giá trị tài sản nhận chuyển giao:",
+    "answer": "Nợ TK 211: 1.800 triệu/ Có TK 138: 1.800 triệu"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Điều chuyển khoản lãi về vốn góp tương ứng của các thành viên, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 4111"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Công ty Văn Điển chuyển giao 1 thiết bị vận tải cho công ty Việt Dũng theo quyết định sáp nhập công ty. Biết nguyên giá của thiết bị này là 950 triệu, giá trị hao mòn là 130 triệu, giá đánh giá lại là 800 triệu. Kế toán tại công ty Việt Hà ghi nhận nghiệp vụ chuyển giao thiết bị vận tài như thế nào?",
+    "answer": "Nợ TK 338: 800 triệu, Nợ TK 214: 130 triệu/ Có TK 211: 930 triệu"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Trong quá trình giải thế, Công ty Anh Thư thanh lý một khoản đầu tư chứng khoán kinh doanh ngắn hạn có giá mua 880 triệu, giá bán là 888 triệu và thu ngay bằng chuyển khoản, kế toán ghi",
+    "answer": "Nợ TK 112: 888 triệu/ có TK 121: 880 triệu, Có TK 421: 8 triệu"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Công ty Minh Uyên có số vốn góp là 500 triệu. Công ty chuyển giao cho Công ty Hà Vân số vốn góp 200 triệu. Các tài sản và công nợ được chuyển giao theo tỷ lệ tương ứng. Đây là hình thức tổ chức lại nào?",
+    "answer": "Tách công ty"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Công ty Vương Toàn có tổng tài sản là 70 tỷ. Công ty chuyển giao cho Công ty Vương Vòng 50 tỷ và Công ty Vương Vọng 20 tỷ. Đây là hình thức tổ chức lại nào?",
+    "answer": "Chia công ty"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Khi chuyển giao khoản nợ phải trả nhà cung cấp từ công ty bị sáp nhập sang công ty nhận sáp nhập, kế toán tại công ty bị sáp nhập ghi",
+    "answer": "Nợ TK 331/ Có TK 338"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Khi thanh toán chi phí giải thể bằng tiền mặt, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 111"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Khi giải thể, công ty sẽ thanh toán các khoản công nợ theo thứ tự ưu tiên nào:",
+    "answer": "Chi phí giải thể, Trả lương, Nộp thuế, Trả nợ nhà cung cấp"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Công ty Yên Thế tuyên bố giải thể. Sau khi thanh toán các khoản công nợ, công ty xác định TK 421 có số dư Nợ là 50 triệu, TK 4111 có số dư Có là 200 triệu. Biết vốn góp ban đầu của các thành viên Hoàn và Tâm lần lượt là 100 và 100 triệu. Số tiền thành viên Tâm nhận được là",
+    "answer": "125 triệu"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Khi chuyển giao khoản ứng trước cho người bán từ công ty bị hợp nhất sang công ty nhận hợp nhất, kế toán tại đơn vị chuyển giao ghi",
+    "answer": "Nợ TK 331/ Có TK 338"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Công ty Quỳnh Trang tiến hành điều chuyển giao 1 tài sản cố định có nguyên giá 1.180, đã hao mòn 1.130 cho Công ty Lâm Sinh. Biết công ty thống nhất với giá trị ghi sổ của tài sản. Kế toán tại Công ty Quỳnh Trang ghi:",
+    "answer": "Nợ TK 338: 50 triệu, Nợ TK 214: 1.130 triệu/ Có TK 211: 1.180 triệu"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Trong quá trình giải thể, khách hàng Hoàng Long nợ công ty 555 triệu đồng, khách hàng đã thanh toán cho công ty bằng chuyển khoản sau khi trừ chiết khấu thanh toán 33 triệu. Kế toán ghi:",
+    "answer": "Nợ TK 112: 522 triệu, Nợ TK 421: 33 triệu/ Có TK 131: 555 triệu"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Khoản dự phòng giảm giá đầu tư tài chính được ghi giảm trực tiếp trên giá trị chứng khoán mua vào. Kế toán ghi:",
+    "answer": "Nợ TK Dự phòng giảm giá đầu tư tài chính/ Có TK Chứng khoán kinh doanh"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Khi giải thể, công ty quyết định hoản nhập toàn bộ khoản dự phòng giảm giá hàng tồn kho về lợi nhuận, kế toán ghi",
+    "answer": "Nợ TK Dự phòng giảm giá hàng tồn kho/ Có TK Lợi nhuận chưa phân phối"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Công ty Nhật Nam đánh giá tăng một lô hàng hóa 220 triệu, đánh giá giảm một lô nguyên vật liệu là 208 triệu. Đồng thời công ty hoàn nhập dự phòng giảm giá hàng tồn kho là 206 triệu. Hãy định khoản nghiệp vụ điều chuyển các vốn chủ sở hữu khác về vốn góp tương ứng của các thành viên biết Lợi nhuận chưa phân phối đầu kỳ là 105 triệu.",
+    "answer": "Nợ TK 421: 123 triệu/ Có TK 4111: 123 triệu"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Công ty Vương Phúc đánh giá tăng một lô hàng hóa 120 triệu, đánh giá giảm một lô nguyên vật liệu là 80 triệu. Đồng thời công ty hoàn nhập dự phòng giảm giá hàng tồn kho là 60 triệu. Hãy xác định tổng vốn chủ sở hữu của công ty sau hoàn nhập và đánh giá lại tài sản biết tổng VCSH ban đầu là 500 triệu..",
+    "answer": "600 triệu"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Công ty Quỳnh Trang chuyển giao toàn bộ tài sản, công nợ và nghĩa vụ tài chính cho Công ty Nhật Nam (cả 2 công ty đều đang hoạt động độc lập). Đây là hình thức tổ chức lại nào?",
+    "answer": "Sáp nhập công ty"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Khi giá trị nguyên vật liệu trên sổ kế toán là 530 triệu, giá trị thị trường tại thời điểm giải thể là 525 triệu. Kế toán ghi nhận giá trị nguyên vật liệu:",
+    "answer": "525 triệu"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Điều chuyển khoản lỗ về vốn góp tương ứng của các thành viên, kế toán ghi",
+    "answer": "Nợ TK 4111/ Có TK 421"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Công ty Bích Thủy có tổng vốn chủ sở hữu là 1.500 triệu, tổng nợ phải trả là 1.200 triệu. Công ty quyết định chia công ty thành 2 Công ty Bích Sinh và Thủy Nam theo tỷ lệ vốn góp là 2/5 và 3/5. Hãy xác định tổng giá trị tài sản mà Công ty Bích Sinh nhận được?",
+    "answer": "2.800 triệu"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Khi giải thể công ty, một khoản dự phòng phải thu 120 triệu được ghi giảm trực tiếp khoản phải thu khách hàng do khách hàng đang làm thủ tục phá sản, kế toán ghi",
+    "answer": "Nợ TK 229/ Có TK 131"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Khi đánh giá lại tài sản, Công ty An Nhiên đánh giá 1 dây truyền sản xuất có giá trị thị trường là 800 triệu. Biết dây truyền này có nguyên giá 1.200 triệu, đã hao mòn 400 triệu. Kế toán ghi nhận",
+    "answer": "Nợ TK 214: 400 triệu/ Có TK 211: 400 triệu"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Khi chuyển giao phần nợ phải trả nhà cung cấp từ công ty bị hợp nhất sang công ty nhận hợp nhất, kế toán tại đơn vị nhận chuyển giao ghi",
+    "answer": "Nợ TK 138/ Có TK 331"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Công ty Lâm Sinh có tổng tài sản trên BCĐKT là 660 triệu. Công ty xác định giá trị nguyên vật liệu tăng 40 triệu và giá trị TSCĐ hữu hình giảm đi 20 triệu. Như vậy, tổng giá trị tài sản của công ty sau khi đánh giá lại tài sản là",
+    "answer": "680 triệu"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Công ty được xác định là giải thể trong trường hợp nào",
+    "answer": "Số lượng thành viên tối thiểu không đạt yêu cầu, Theo quyết định của Hội đồng thành viên, Giấy phép kinh doanh bị hết hạn hoặc bị thu hồi."
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Công ty Bắc Bình đánh giá lại tài sản, trong đó một khu nhà kiên cố bị giảm 250 triệu, một lô thành phẩm bị giảm 30 triệu. Đồng thời Công ty hoàn nhập dự phòng nợ phải thu khó đòi là 20 triệu. Hãy xác định lợi nhuận chưa phân phối sau khi đã đánh giá lại tài sản và hoàn nhập dự phòng biết lợi nhuận chưa phân phối đầu kỳ là 100 triệu.",
+    "answer": "Lỗ 160 triệu"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Trước khi chia công ty, giá trị tài sản cố định được đánh giá thành 435 triệu, biết giá trị còn lại trên sổ là 420, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 211"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Trong quá trình giải thể, nhà cung cấp Ngọc Tâm yêu cầu công ty thanh toán khoản nợ 90 triệu. Công ty đã thanh toán bằng chuyển khoản sau khi trừ chiết khấu thanh toán 5 triệu. Kế toán ghi:",
+    "answer": "Nợ TK 331: 90 triệu/ Có TK 421: 5 triệu, Có TK 112: 85 triệu"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Trước khi hợp nhất, Công ty Đức Trí tiến hành đánh giá lại tài sản, trong đó, khoản mục Chứng khoán kinh doanh có giá gốc là 330 triệu, giá đánh giá lại 355 triệu. Kế toán tại công ty sẽ định khoản thế nào?",
+    "answer": "Nợ TK 121: 25 triệu/ Có TK 421: 25 triệu"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Khi chuyển giao khoản vay dài hạn từ công ty bị sáp nhập sang công ty nhận sáp nhập, kế toán tại công ty nhận sáp nhập ghi",
+    "answer": "Nợ TK 138/ Có TK 341"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Khi chuyển giao khoản ứng trước cho người bán từ công ty bị hợp nhất sang công ty nhận hợp nhất, kế toán tại đơn vị chuyển giao ghi",
+    "answer": "Nợ TK 331/ Có TK 338"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Công ty Bích Thủy có tổng vốn chủ sở hữu là 1.500 triệu, tổng nợ phải trả là 1.200 triệu. Công ty quyết định chia công ty thành 2 Công ty Bích Sinh và Thủy Nam theo tỷ lệ vốn góp là 2/5 và 3/5. Hãy xác định tổng giá trị tài sản mà Công ty Bích Sinh nhận được?",
+    "answer": "2.800 triệu"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Công ty Lâm Sinh có tổng tài sản trên BCĐKT là 660 triệu. Công ty xác định giá trị nguyên vật liệu tăng 40 triệu và giá trị TSCĐ hữu hình giảm đi 20 triệu. Như vậy, tổng giá trị tài sản của công ty sau khi đánh giá lại tài sản là",
+    "answer": "680 triệu"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Trong quá trình giải thể, nhà cung cấp Ngọc Tâm yêu cầu công ty thanh toán khoản nợ 90 triệu. Công ty đã thanh toán bằng chuyển khoản sau khi trừ chiết khấu thanh toán 5 triệu. Kế toán ghi:",
+    "answer": "Nợ TK 331: 90 triệu/ Có TK 421: 5 triệu, Có TK 112: 85 triệu"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Công ty Quỳnh Trang tiến hành điều chuyển giao 1 tài sản cố định có nguyên giá 1.180, đã hao mòn 1.130 cho Công ty Lâm Sinh. Biết công ty thống nhất với giá trị ghi sổ của tài sản. Kế toán tại Công ty Quỳnh Trang ghi:",
+    "answer": "Nợ TK 338: 50 triệu, Nợ TK 214: 1.130 triệu/ Có TK 211: 1.180 triệu"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Khoản dự phòng giảm giá đầu tư tài chính được ghi giảm trực tiếp trên giá trị chứng khoán mua vào. Kế toán ghi:",
+    "answer": "Nợ TK Dự phòng giảm giá đầu tư tài chính/ Có TK Chứng khoán kinh doanh"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Công ty Vương Toàn có tổng tài sản là 70 tỷ. Công ty chuyển giao cho Công ty Vương Vòng 50 tỷ và Công ty Vương Vọng 20 tỷ. Đây là hình thức tổ chức lại nào?",
+    "answer": "Chia công ty"
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Khi chuyển giao phần nợ phải trả nhà cung cấp từ công ty bị hợp nhất sang công ty nhận hợp nhất, kế toán tại đơn vị nhận chuyển giao ghi",
+    "answer": "Nợ TK 138/ Có TK 331"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Công ty được xác định là giải thể trong trường hợp nào",
+    "answer": "Số lượng thành viên tối thiểu không đạt yêu cầu, Theo quyết định của Hội đồng thành viên, Giấy phép kinh doanh bị hết hạn hoặc bị thu hồi."
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Khi giải thể, công ty sẽ thanh toán các khoản công nợ theo thứ tự ưu tiên nào:",
+    "answer": "Chi phí giải thể, Trả lương, Nộp thuế, Trả nợ nhà cung cấp"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Trong quá trình giải thể, khách hàng Hoàng Long nợ công ty 555 triệu đồng, khách hàng đã thanh toán cho công ty bằng chuyển khoản sau khi trừ chiết khấu thanh toán 33 triệu. Kế toán ghi:",
+    "answer": "Nợ TK 112: 522 triệu, Nợ TK 421: 33 triệu/ Có TK 131: 555 triệu"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Công ty Văn Điển chuyển giao 1 thiết bị vận tải cho công ty Việt Dũng theo quyết định sáp nhập công ty. Biết nguyên giá của thiết bị này là 950 triệu, giá trị hao mòn là 130 triệu, giá đánh giá lại là 800 triệu. Kế toán tại công ty Việt Hà ghi nhận nghiệp vụ chuyển giao thiết bị vận tài như thế nào?",
+    "answer": "Nợ TK 338: 800 triệu, Nợ TK 214: 130 triệu/ Có TK 211: 930 triệu"
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Công ty Nhật Nam đánh giá tăng một lô hàng hóa 220 triệu, đánh giá giảm một lô nguyên vật liệu là 208 triệu. Đồng thời công ty hoàn nhập dự phòng giảm giá hàng tồn kho là 206 triệu. Hãy định khoản nghiệp vụ điều chuyển các vốn chủ sở hữu khác về vốn góp tương ứng của các thành viên biết Lợi nhuận chưa phân phối đầu kỳ là 105 triệu.",
+    "answer": "Nợ TK 421: 123 triệu/ Có TK 4111: 123 triệu"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Một lô thép có giá mua trước đây 240 triệu, Công ty Gia Nam đã trích lập dự phòng giảm giá hàng tồn kho 10 triệu. Công ty xác định giá thị trường của lô thép là 260 triệu (so với giá trị thực). Kế toán ghi nhận phần chênh lệch do đánh giá lại tài sản như sau",
+    "answer": "Nợ TK 152: 30 triệu/ Có TK 421: 30 triệu"
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Công ty Vương Phúc đánh giá tăng một lô hàng hóa 120 triệu, đánh giá giảm một lô nguyên vật liệu là 80 triệu. Đồng thời công ty hoàn nhập dự phòng giảm giá hàng tồn kho là 60 triệu. Hãy xác định tổng vốn chủ sở hữu của công ty sau hoàn nhập và đánh giá lại tài sản biết tổng VCSH ban đầu là 500 triệu..",
+    "answer": "600 triệu"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Khi chuyển giao khoản nợ phải trả nhà cung cấp từ công ty bị sáp nhập sang công ty nhận sáp nhập, kế toán tại công ty bị sáp nhập ghi",
+    "answer": "Nợ TK 331/ Có TK 338"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Công ty Yên Thế tuyên bố giải thể. Sau khi thanh toán các khoản công nợ, công ty xác định TK 421 có số dư Nợ là 50 triệu, TK 4111 có số dư Có là 200 triệu. Biết vốn góp ban đầu của các thành viên Hoàn và Tâm lần lượt là 100 và 100 triệu. Số tiền thành viên Tâm nhận được là",
+    "answer": "125 triệu"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Trước khi chia công ty, giá trị tài sản cố định được đánh giá thành 435 triệu, biết giá trị còn lại trên sổ là 420, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 211"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Công ty Bắc Bình đánh giá lại tài sản, trong đó một khu nhà kiên cố bị giảm 250 triệu, một lô thành phẩm bị giảm 30 triệu. Đồng thời Công ty hoàn nhập dự phòng nợ phải thu khó đòi là 20 triệu. Hãy xác định lợi nhuận chưa phân phối sau khi đã đánh giá lại tài sản và hoàn nhập dự phòng biết lợi nhuận chưa phân phối đầu kỳ là 100 triệu.",
+    "answer": "Lỗ 160 triệu"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Khi giải thể công ty, một khoản dự phòng phải thu 120 triệu được ghi giảm trực tiếp khoản phải thu khách hàng do khách hàng đang làm thủ tục phá sản, kế toán ghi",
+    "answer": "Nợ TK 229/ Có TK 131"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Công ty Minh Uyên có số vốn góp là 500 triệu. Công ty chuyển giao cho Công ty Hà Vân số vốn góp 200 triệu. Các tài sản và công nợ được chuyển giao theo tỷ lệ tương ứng. Đây là hình thức tổ chức lại nào?",
+    "answer": "Tách công ty"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Điều chuyển khoản lãi về vốn góp tương ứng của các thành viên, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 4111"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Trong quá trình giải thế, Công ty Anh Thư thanh lý một khoản đầu tư chứng khoán kinh doanh ngắn hạn có giá mua 880 triệu, giá bán là 888 triệu và thu ngay bằng chuyển khoản, kế toán ghi",
+    "answer": "Nợ TK 112: 888 triệu/ có TK 121: 880 triệu, Có TK 421: 8 triệu"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Công ty Mạnh Hà chuyển giao 1 thiết bị vận tải cho công ty Việt Dũng theo quyết định sáp nhập công ty. Biết nguyên giá của thiết bị này là 1.950 triệu, giá trị hao mòn là 1.130 triệu, giá đánh giá lại là 1.800 triệu. Kế toán tại công ty Việt Dũng ghi nhận giá trị tài sản nhận chuyển giao:",
+    "answer": "Nợ TK 211: 1.800 triệu/ Có TK 138: 1.800 triệu"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Khi chuyển giao khoản vay dài hạn từ công ty bị sáp nhập sang công ty nhận sáp nhập, kế toán tại công ty nhận sáp nhập ghi",
+    "answer": "Nợ TK 138/ Có TK 341"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Điều chuyển khoản lỗ về vốn góp tương ứng của các thành viên, kế toán ghi",
+    "answer": "Nợ TK 4111/ Có TK 421"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Khi giải thể, công ty quyết định hoản nhập toàn bộ khoản dự phòng giảm giá hàng tồn kho về lợi nhuận, kế toán ghi",
+    "answer": "Nợ TK Dự phòng giảm giá hàng tồn kho/ Có TK Lợi nhuận chưa phân phối"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Khi thanh toán chi phí giải thể bằng tiền mặt, kế toán ghi",
+    "answer": "Nợ TK 421/ Có TK 111"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Công ty Cổ phần có quyền phát hành",
+    "answer": "Chứng khoán"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Khi tái phát hành cổ phần quỹ có các chi phí phát sinh được ghi nhận vào:",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Phản ánh tăng vốn cổ phần từ các nguồn vốn chủ sở hữu khác, kế toán ghi:",
+    "answer": "Nợ TK 418,421/ Có TK 4111"
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Khi chi phí thành lập công ty cổ phần phát sinh lớn, kế toán tập hợp chi phí như sau:",
+    "answer": "Nợ TK 242/ Có TK 111,112,138,331..."
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Khi xác định cổ đông bỏ góp, phần vón đã góp vào công ty cổ phần phải trả lại cổ đông kế toán ghi nhận vào",
+    "answer": "Có TK 338"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Khi công ty cổ phần phát hành bổ sung cổ phiếu, số vốn đăng ký mua, kế toán ghi",
+    "answer": "Nợ TK 138 / Có TK 4118"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Kế toán sử dụng tiểu khoản kế toán nào để phản ánh cấu phần vốn của trái phiếu chuyển đổi",
+    "answer": "TK 4113"
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Khi cổ đông nộp tiền, tài sản theo cam kết góp vốn, kế toán ghi",
+    "answer": "Nợ TK liên quan/ Có TK 138"
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Trong công ty cổ phần, cổ phần ưu đãi cổ tức có đặc điểm",
+    "answer": "Được hưởng cổ tức cố định"
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Hồ sơ đăng ký kinh doanh của Công ty Cổ phần bao gồm",
+    "answer": "Điều lệ công ty, Danh sách thành viên, Giấy đề nghị đăng ký DN"
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Khi công ty cổ phàn tái phát hành cổ phiếu quỹ, kế toán ghi phần chênh lệch giá bán nhỏ hơn giá ghi sổ vào tài khoản nào:",
+    "answer": "Nợ TK 4112"
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Khi mua cổ phiếu quỹ có các chi phí phát sinh được ghi nhận vào:",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Khi tái phát hành cổ phần bỏ góp, số tiền còn thiếu so với mệnh giá trừ vào số tiền đã góp của cổ đông bỏ góp, kế toán ghi:",
+    "answer": "Nợ TK 338"
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Khi tái phát hành cổ phiếu quỹ, chênh lệch giữa giá phát hành lớn hơn giá gốc đã ghi trên sổ kế toán được ghi nhận vào:",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày kể từ ngày nhận hồ sơ đăng ký doanh nghiệp thì cơ quan có thẩm quyền phải cấp Giấy chứng nhận đăng ký doanh nghiệp (nếu hợp lệ) cho Công ty Cổ phần",
+    "answer": "3"
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Tài khoản 4112 “Thặng dư vốn cổ phần” phản ánh chênh lệch giữa giá phát hành và mệnh giá cổ phiếu, có số dư bên",
+    "answer": "Không có số dư"
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Trong Công ty Cổ phần, số lượng thành viên tối đa là",
+    "answer": "5000"
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Khi cổ đông bỏ góp vốn, theo Điều lệ công ty, cổ đông bị phạt trừ vào số vốn đã góp, kế toán ghi",
+    "answer": "Nợ TK 338/ Có TK 711"
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "Khi xác định cổ đông bỏ góp, phần vón bỏ góp kế toán ghi nhận vào",
+    "answer": "Có TK 138"
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Tài khoản 41112 được sử dụng để phản ánh tổng mệnh giá của cổ phiếu ưu đãi có số dư bên",
+    "answer": "Luôn có Số dư bên Có"
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "Khi phát hành cổ phần mới, chênh lệch giữa giá phát hành lớn hơn mệnh giá được ghi nhận vào:",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Tài khoản nào dùng để theo dõi mệnh giá cổ phần mà cổ đông phổ thông đã góp vào Công ty Cổ phần",
+    "answer": "TK 41111"
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "Trong Công ty Cổ phần, số lượng thành viên tối thiểu là",
+    "answer": "3"
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Đại diện pháp nhân ký kết hợp đồng bao gồm?",
+    "answer": "Người đại diện theo pháp luật hoặc Người đại diện theo ủy quyền hợp pháp của pháp nhân"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Đối tượng của hợp đồng thương mại có thể là?",
+    "answer": "Hàng hóa hoặc Dịch vụ"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Các hình thức của trọng tài thương mại bao gồm?",
+    "answer": ". Trọng tài vụ việc và trọng tài quy chế"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Hợp đồng mua bán hàng hóa quốc tế phải thực hiện theo hình thức nào?",
+    "answer": ". văn bản hoặc hình thức khác có giá trị pháp lý tương đương"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Thời điểm giao kết hợp đồng bằng lời nói là khi nào?",
+    "answer": "Là khi các bên đã thỏa thuận xong các nội dung của hợp đồng"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Công ước Viên 1980 của Liên hợp quốc điều chỉnh quan hệ hợp đồng nào?",
+    "answer": "Hợp đồng mua bán hang hóa quốc tế"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Muốn thay đổi Hợp đồng đang thực hiện thì phải làm gì?",
+    "answer": ". Các bên tiến hành sửa đổi, bổ sung nội dung hợp đồng"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Các biện pháp nào sau đây được coi là biện pháp bảo đảm thực hiện hợp đồng?",
+    "answer": ". Cầm cố tài sản; Ký cược; Đặt cọc"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Trong trường hợp không có thỏa thuận thì giá hàng hóa được xác định bằng cách nào?",
+    "answer": "Giá của hàng hóa cùng loại niêm yết trên thị trường"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Khi soạn thảo Hợp đồng thương mại cần tìm hiểu những thông tin gì từ đối tác ký kết?",
+    "answer": ". Năng lực pháp luật; Năng lực tài chính; Năng lực kỹ thuật"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Bên vi phạm hợp đồng được miễn trách nhiệm trong các trường hợp sau đây ?",
+    "answer": ". khi xảy ra một trong ba trường hợp nêu tại A, B, C"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Chủ thể của hợp đồng thương mại có thể là?",
+    "answer": "Thương nhân hoặc Cá nhân và Tổ chức khác có hoạt động liên quan đến thương mại"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Trường hợp xác lập hợp đồng thương mại giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì đồng thương mại vô hiệu?",
+    "answer": ". Đúng"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Khi đàm phán hợp đồng, các bên có thể sử dụng các loại câu hỏi nào?",
+    "answer": ". Kết hợp cả câu hỏi mở và câu hỏi đóng"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Các Bên ký kết hợp đồng có quyền chọn luật áp dụng điều chỉnh hợp đồng không?",
+    "answer": ". Có"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Hàng hóa bao gồm?",
+    "answer": "Tất cả các loại động sản, kể cả động sản hình thành trong tương lai; những vật gắn liền với đất đai."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Đâu là tập quán thương mại?",
+    "answer": "INCOTERM"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Trường hợp xác lập hợp đồng thương mại giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì đồng thương mại vẫn có hiệu lực pháp luật không?",
+    "answer": ". không"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Có thể giải quyết tranh chấp hợp đồng thương mại bằng những phương thức?",
+    "answer": ". Tòa án; Trọng tài thương mại; Hòa giải thương mại"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Khi nào chế tài Đình chỉ thực hiện hợp đồng được áp dụng?",
+    "answer": ". Một bên vi phạm cơ bản nghĩa vụ hợp đồng hoặc khi Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để đình chỉ hợp đồng"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Các bên có thể thanh toán hợp đồng bằng phương tiện thanh toán nào?",
+    "answer": ". Chuyển khoản qua ngân hàng hoặc Tiền mặt"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Đối với phán quyết của trọng tài thương mại, các bên có quyền?",
+    "answer": "Yêu cầu bên thua kiện thực hiện đúng yêu cầu phán quyết của trọng tài hoặc Yêu cầu tòa án hủy phán quyết nếu không đồng ý với phán quyết đó"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Các hình thức của trọng tài thương mại bao gồm?",
+    "answer": "Trọng tài vụ việc và trọng tài quy chế"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Nguyên tắc ký kết và thực hiện hợp đồng thương mại?",
+    "answer": "Tự do thỏa thuận và thống nhất ý chí"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Hoạt động nào sau đây được coi là mua bán hàng hóa quốc tế",
+    "answer": "Nhập khẩu; Xuất khẩu; Chuyển khẩu"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Các văn bản luật điều chỉnh hợp đồng thương mại ở Việt Nam hiện nay?",
+    "answer": "Luật thương mại 2005 và Bộ luật dân sự 2015"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Văn bản pháp luật nào do Chính phủ ban hành?",
+    "answer": "Nghị định"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Thời điểm chuyển rủi ro đối với hàng hóa nếu có địa điểm giao hàng xác định là?",
+    "answer": ". Khi hàng hóa được giao cho bên mua"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Đâu là biện pháp bảo đảm thực hiện hợp đồng?",
+    "answer": ". Bảo lãnh"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Mua bán hàng hoá quốc tế được thực hiện dưới các hình thức nào?",
+    "answer": "Xuất khẩu, nhập khẩu; tạm xuất, tái nhập, tạm nhập, tái xuất; chuyển khẩuhỏi 1"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Khi nào hợp đồng có thể chấm dứt?",
+    "answer": "Khi đối tượng của hợp đồng không còn (bị tiêu hủy, mất mát); Khi hợp đồng bị hủy bỏ; Khi hợp đồng bị đơn phương chấm dứt"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Bộ luật dân sự đang có hiệu lực được Quốc hội ban hành năm nào?",
+    "answer": "2015"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Hợp đồng chấm dứt khi nào?",
+    "answer": "Khi các bên đã thực hiện xong các quyền và nghĩa vụ theo quy định; Khi các bên thỏa thuận chấm dứt hợp đồng; Khi Chủ thể của hợp đồng chết hoặc chấm dứt sự tồn tại"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Thời điểm chuyển rủi ro đối với hàng hóa nếu có địa điểm giao hàng xác định là?",
+    "answer": "Khi hàng hóa được giao cho bên mua"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "INCOTERM là gì?",
+    "answer": "Tập quán thương mại quốc tế về mua bán hàng hóa"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Giá trị bồi thường thiệt hại bao gồm giá trị nào?",
+    "answer": "Giá trị tổn thất thực tế, trực tiếp"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Các hình thức khác tương đương văn bản là hình thức của hợp đồng thương mại?",
+    "answer": "Email; Telex; Fax; điện báo; thông điệp dữ liệu"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Thời điểm giao kết hợp đồng bằng văn bản là khi nào?",
+    "answer": ". bên sau cùng ký vào văn bản"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Nội dung cơ bản của hợp đồng gồm những điều khoản nào?",
+    "answer": "Chủ thể HĐ, Đối tượng HĐ, giá cả, thanh toán"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Đối tượng nào sau đây có thể trở thành đối tượng của hợp đồng dịch vụ là?",
+    "answer": "Công việc phải làm"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Khi ký kết và thực hiện hợp đồng, các bên có thể sử dụng biện pháp bảo đảm nào sau đây?",
+    "answer": "Đặt cọc; Ký quỹ; Bảo lưu quyền sở hữu"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Các hình thức khác tương đương văn bản là hình thức của hợp đồng thương mại?",
+    "answer": ". Email; Telex; Fax; điện báo; thông điệp dữ liệu"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Mục đích chủ yếu của các bên khi ký kết hợp đồng thương mại là?",
+    "answer": "Sinh lợi"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Chỉ ra đối tượng của hợp đồng dịch vụ?",
+    "answer": "Hoạt động Tư vấn pháp lý của luật sư"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Trong các đối tượng sau, đối tượng nào là đối tượng của hợp đồng dịch vụ?",
+    "answer": "Hoạt động tư vấn pháp luật của luật sư"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Luật thương mại 2005 là luật chuyên ngành áp dụng cho các quan hệ pháp luật phát sinh từ hợp đồng thương mại",
+    "answer": "Hoàn toàn Đúng"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Điều ước quốc tế bao gồm?",
+    "answer": "Điều ước quốc tế song phương hoặc đa phương"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Bộ luật dân sự 2015 có bao nhiêu điều luật?",
+    "answer": "689"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Điều ước quốc tế nào điều chỉnh hợp đồng mua bán hàng hóa quốc tế?",
+    "answer": "Công ước Viên 1980 của Liên hợp quốc"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Hợp đồng chính vô hiệu có dẫn đến vô hiệu của hợp đồng phụ không?",
+    "answer": "Có"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Nguồn Luật áp dụng điều chỉnh quan hệ hợp đồng thương mại?",
+    "answer": "Luật pháp của quốc gia; Điều ước quốc tế; Tập quán thương mại; Án lệ"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Khi đàm phán hợp đồng, các bên thuyết phục đối tác bằng cách nào?",
+    "answer": ". Cảm xúc và Logic"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Hiến pháp 2013 có bao nhiêu điều luật?",
+    "answer": "120"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Khi ký kết hợp đồng, các bên có thể sử dụng biện pháp bảo đảm nào?",
+    "answer": ". Cả Bảo lãnh; Ký quỹ; Cầm cố đều có thể được sử dụng"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Giá trị bồi thường thiệt hại bao gồm giá trị nào?",
+    "answer": ".Giá trị tổn thất thực tế, trực tiếp"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Thời điểm giao kết hợp đồng gián tiếp bằng văn bản là khi nào?",
+    "answer": ". Bên đề nghị nhận được chấp nhận giao kết của bên được đề nghị"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Khi các bên không thể thỏa thuận được về việc sửa đổi hợp đồng trong một thời hạn hợp lý, một trong các bên có thể làm gì?",
+    "answer": ". Chấm dứt hợp đồng tại một thời điểm xác định hoặc Sửa đổi hợp đồng để cân bằng quyền và lợi ích hợp pháp của các bên do hoàn cảnh thay đổi cơ bản."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Khi một bên tham gia đồng thương mại do bị lừa dối hoặc bị đe dọa, cưỡng ép thì có quyền gì?",
+    "answer": "Yêu cầu Tòa án tuyên bố đồng thương mại đó là vô hiệu"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Khi đàm phán hợp đồng, các bên thuyết phục đối tác bằng cách nào?",
+    "answer": "Cảm xúc và Logic"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Hợp đồng mua bán hàng hóa quốc tế phải thực hiện theo hình thức nào?",
+    "answer": "Văn bản hoặc hình thức khác có giá trị pháp lý tương đươngỏi 1"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Trách nhiệm bồi thường thiệt hại phát sinh khi có đủ các yếu tố sau đây?",
+    "answer": "Có hành vi vi phạm hợp đồng;.Có thiệt hại thực tế; Hành vi vi phạm hợp đồng là nguyên nhân trực tiếp gây ra thiệt hại"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Nguyên tắc ký kết và thực hiện hợp đồng thương mại?",
+    "answer": ". Tự do thỏa thuận và thống nhất ý chí"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Khi ký kết hợp đồng, các bên có thể sử dụng biện pháp bảo đảm nào?",
+    "answer": "Cả Bảo lãnh; Ký quỹ; Cầm cố đều có thể được sử dụng"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Khi nào hợp đồng có thể chấm dứt?",
+    "answer": ". Khi đối tượng của hợp đồng không còn (bị tiêu hủy, mất mát); Khi hợp đồng bị hủy bỏ; Khi hợp đồng bị đơn phương chấm dứt"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Các biện pháp bảo đảm có thể sử dụng để ký kết và thực hiện hợp đồng",
+    "answer": ". Ký quỹ, Thế chấp, Bảo lưu quyền sở hữu"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Hợp đồng có đối tượng là bất động sản thì pháp luật áp dụng đối với việc chuyển giao quyền sở hữu, quyền khác đối với tài sản là bất động sản, thuê bất động sản hoặc việc sử dụng bất động sản để bảo đảm thực hiện nghĩa vụ là pháp luật của nước nào?",
+    "answer": "Nơi có bất động sản"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Văn bản pháp luật nào sau đây có hiệu lực cao nhất?",
+    "answer": "Hiến pháp"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Bộ luật dân sự có điều chỉnh Hợp đồng thương mại không?",
+    "answer": "Có"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Các biện pháp nào được sử dụng để bảo đảm thực hiện hợp đồng?",
+    "answer": "Thế chấp; Tín chấp; Bảo lãnh đều có thể sử dụng để bảo đảm thực hiện hợp đồng"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Muốn thay đổi Hợp đồng đang thực hiện thì phải làm gì?",
+    "answer": "Các bên tiến hành sửa đổi, bổ sung nội dung hợp đồng"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Công ước NewYork 1958 quy định về vấn đề gì?",
+    "answer": "Việc công nhận và cho thi hành phán quyết của trọng tài nước ngoài"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Mục đích chính khi giao kết hợp đồng thương mại là?",
+    "answer": ". Lợi nhuận"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Chế tài Đình chỉ thực hiện hợp đồng được áp dụng khi nào?",
+    "answer": "Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để đình chỉ hợp đồng hoặc khi một bên vi phạm cơ bản nghĩa vụ hợp đồng"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Pháp luật của nước nào sau đây được coi là pháp luật của nước có mối liên hệ gắn bó nhất với hợp đồng mua bán hàng hóa quốc tế?",
+    "answer": "Pháp luật của nước nơi người bán cư trú nếu là cá nhân hoặc nơi thành lập nếu là pháp nhân"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Khi nào chế tài Đình chỉ thực hiện hợp đồng được áp dụng?",
+    "answer": "Một bên vi phạm cơ bản nghĩa vụ hợp đồng hoặc khi Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để đình chỉ hợp đồng"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Khi soạn thảo Hợp đồng thương mại cần tìm hiểu những thông tin gì từ đối tác ký kết?",
+    "answer": "Năng lực pháp luật; Năng lực tài chính; Năng lực kỹ thuật"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Khi đàm phán hợp đồng, các bên có thể sử dụng các loại câu hỏi nào?",
+    "answer": "Kết hợp cả câu hỏi mở và câu hỏi đóng"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Phụ lục hợp đồng vô hiệu có làm vô hiệu toàn bộ nội dung của hợp đồng chính không?",
+    "answer": "Không"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Chủ thể ký kết hợp đồng phải có những điều kiện gì?",
+    "answer": "Năng lực pháp luật và Năng lực hành vi"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Các biện pháp bảo đảm có thể sử dụng để ký kết và thực hiện hợp đồng?",
+    "answer": "Ký quỹ, Thế chấp, Bảo lưu quyền sở hữu"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Quyết định của trọng tài thương mại là?",
+    "answer": "Chung thẩm và ràng buộc các bên"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Nguồn pháp luật điều chỉnh quan hệ hợp đồng thương mại?",
+    "answer": "Luật quốc gia, Điều ước quốc tế, tập quán, án lệ"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Kể tên các loại điều khoản trong hợp đồng thương mại?",
+    "answer": ". Điều khoản thông thường và Điều khoản phòng ngừa"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Có ít nhất một bên chủ thể của hợp đồng thương mại là thương nhân?",
+    "answer": "Đúng"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Công ước quốc tế nào quy định về việc công nhận và thi hành quyết định của trọng tài nước ngoài?",
+    "answer": "Công ước NewYork 1958"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Đối với phán quyết của trọng tài thương mại, các bên có quyền?",
+    "answer": ". Yêu cầu bên thua kiện thực hiện đúng yêu cầu phán quyết của trọng tài hoặc Yêu cầu tòa án hủy phán quyết nếu không đồng ý với phán quyết đó"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Bên giữ quyền chọn bán có quyền bán nhưng không có nghĩa vụ phải bán hàng hoá đã giao kết trong hợp đồng không?",
+    "answer": "Có"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Các bên có quyền thỏa thuận Mức phạt vi phạm hợp đồng thương mại là bao nhiêu?",
+    "answer": ".Không quá 8% giá trị phần vi phạm"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Đâu là đối tượng của hợp đồng mua bán hàng hóa?",
+    "answer": "Gạo"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Đâu là đối tượng của hợp đồng mua bán hàng hóa?",
+    "answer": "Quần áo; Giầy dépu hỏi 1"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Thời điểm chuyển rủi ro đối với hàng hóa trong trường hợp không có địa điểm giao hàng xác định là khi nào?",
+    "answer": ". Khi hàng hóa được giao cho người vận chuyển đầu tiên"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Chế tài hủy bỏ hợp đồng được áp dụng trong các trường hợp sau đây?",
+    "answer": ". Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để hủy bỏ hợp đồng; hoặc"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Thời điểm giao kết hợp đồng gián tiếp bằng văn bản là khi nào?",
+    "answer": "Bên đề nghị nhận được chấp nhận giao kết của bên được đề nghị"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Hình thức của hợp đồng thương mại có thể là?",
+    "answer": "Lời nói, Văn bản hoặc hành vi"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Bên vi phạm hợp đồng được miễn trách nhiệm trong các trường hợp sau đây?",
+    "answer": "Khi xảy ra một trong ba trường hợp nêu tại A, B, C"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Khi một bên tham gia đồng thương mại do bị lừa dối hoặc bị đe dọa, cưỡng ép thì có quyền gì?",
+    "answer": ". yêu cầu Tòa án tuyên bố hợp đồng thương mại đó là vô hiệu"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Phạt vi phạm hợp đồng thương mại được áp dụng khi nào?",
+    "answer": ". Chỉ khi có điều khoản phạt vi phạm trong hợp đồng thương mại"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Chủ thể nào sau đây là thương nhân?",
+    "answer": "Công ty FLC"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Chế tài hủy bỏ hợp đồng được áp dụng trong các trường hợp sau đây?",
+    "answer": "Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để hủy bỏ hợp đồng; hoặc Một bên vi phạm cơ bản nghĩa vụ hợp đồng"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Bên giữ quyền chọn mua có quyền mua và có nghĩa vụ phải mua hàng hoá đã giao kết trong hợp đồng không?",
+    "answer": "Không"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Phạt vi phạm hợp đồng thương mại được áp dụng khi nào?",
+    "answer": "Chỉ khi có điều khoản phạt vi phạm trong hợp đồng thương mại"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Khi hủy bỏ hợp đồng thì hiệu lực hợp đồng chấm dứt từ thời điểm nào?",
+    "answer": ". Từ khi hợp đồng ký kết"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Các Bên ký kết hợp đồng có quyền chọn luật áp dụng điều chỉnh hợp đồng không?",
+    "answer": "Có"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Văn bản pháp luật nào do Quốc hội ban hành",
+    "answer": "Luật, Bộ luật"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Các biện pháp nào được sử dụng để bảo đảm thực hiện hợp đồng",
+    "answer": ". Thế chấp; Tín chấp; Bảo lãnh đều có thể sử dụng để bảo đảm thực hiện hợp đồng"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Hợp đồng thương mại nào sau đây phải được công chứng hoặc chứng thực?",
+    "answer": "Hợp đồng mua bán nhà ở"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Hợp đồng thương mại có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì không bị vô hiệu không?",
+    "answer": ". Không"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Luật thương mại đang có hiệu lực thi hành được Quốc hội ban hành năm nào",
+    "answer": "2005"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Có thể giải quyết tranh chấp hợp đồng thương mại bằng những phương thức?",
+    "answer": "Tòa án; Trọng tài thương mại; Hòa giải thương mại"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Hợp đồng phụ vô hiệu thì hợp đồng chính sẽ?",
+    "answer": "Vẫn có hiệu lực"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Hợp đồng thương mại có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì?",
+    "answer": "Vô hiệu"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Các trường hợp nào dẫn đến hợp đồng vô hiệu?",
+    "answer": "Thỏa thuận trái với trật tự công và đạo đức xã hội; Lừa dối; Ép buộc"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Trong trường hợp giao thừa hàng thì bên mua có quyền?",
+    "answer": "Từ chối hoặc chấp nhận số hàng thừa"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Bộ luật Dân sự 2015 là luật chung áp dụng cho các quan hệ pháp luật trong đó có pháp luật về hợp đồng thương mại",
+    "answer": "Hoàn toàn Đúng"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Hợp đồng thương mại có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì?",
+    "answer": ". vô hiệu"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Khi các bên không thể thỏa thuận được về việc sửa đổi hợp đồng trong một thời hạn hợp lý, một trong các bên có thể làm gì?",
+    "answer": "Chấm dứt hợp đồng tại một thời điểm xác định hoặc Sửa đổi hợp đồng để cân bằng quyền và lợi ích hợp pháp của các bên do hoàn cảnh thay đổi cơ bản."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Các bên có thể thanh toán hợp đồng bằng phương tiện thanh toán nào?",
+    "answer": "Chuyển khoản qua ngân hàng hoặc Tiền mặt"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Đâu là biện pháp bảo đảm thực hiện hợp đồng?",
+    "answer": "Bảo lãnh"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Trường hợp xác lập đồng thương mại giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì đồng thương mại vẫn có hiệu lực pháp luật không?",
+    "answer": "Không"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Hợp đồng thương mại nào sau đây phải được công chứng hoặc chứng thực?",
+    "answer": ". Hợp đồng mua bán nhà ở hỏi 1"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Chủ thể nào sau đây là thương nhân?",
+    "answer": "Cả Công ty cổ phần Y; Hợp tác xã X ; Luật sư Phạm Liêm Z đều là thương nhân"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Chỉ ra đối tượng của hợp đồng dịch vụ?",
+    "answer": "Việc khám chữa bệnh của bác sỹ"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Hợp đồng chấm dứt khi nào?",
+    "answer": ". Khi các bên đã thực hiện xong các quyền và nghĩa vụ theo quy định; Khi các bên thỏa thuận chấm dứt hợp đồng; Khi Chủ thể của hợp đồng chết hoặc chấm dứt sự tồn tại"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Mục đích chính khi giao kết hợp đồng thương mại là?",
+    "answer": "Lợi nhuận"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Đại diện pháp nhân ký kết hợp đồng bao gồm?",
+    "answer": ". Người đại diện theo pháp luật hoặc Người đại diện theo ủy quyền hợp pháp của pháp nhân"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Các chế tài có thể áp dụng khi có vi phạm nghĩa vụ hợp đồng thương mại?",
+    "answer": "Yêu cầu bồi thường thiệt hại; Phạt vi phạm; Hủy hợp đồng"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Khi bên bán giao thừa hàng thì bên mua có quyền gì?",
+    "answer": "Từ chối hoặc chấp nhận số hàng thừa"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Các biện pháp nào sau đây được coi là biện pháp bảo đảm thực hiện hợp đồng?",
+    "answer": "Cầm cố tài sản; Ký cược; Đặt cọc"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Hợp đồng thương mại có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì không bị vô hiệu không?",
+    "answer": "Không"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Bên mua hoặc đại diện của bên mua tiến hành làm gì trước khi nhận hàng?",
+    "answer": "Kiểm tra hàng hoá"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Khi hủy bỏ hợp đồng thì hiệu lực hợp đồng chấm dứt từ thời điểm nào?",
+    "answer": "Từ khi hợp đồng ký kết"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Chế tài Đình chỉ thực hiện hợp đồng được áp dụng khi nào?",
+    "answer": ". Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để đình chỉ hợp đồng hoặc khi một bên vi phạm cơ bản nghĩa vụ hợp đồng"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Các chế tài có thể áp dụng khi có vi phạm nghĩa vụ hợp đồng thương mại?",
+    "answer": ". Yêu cầu bồi thường thiệt hại; Phạt vi phạm; Hủy hợp đồng"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Năm 2015 Việt Nam đã gia nhập để trở thành thành viên của công ước quốc tế nào?",
+    "answer": "Công ước Viên 1980 của Liên hợp quốc về Mua bán hang hóa quốc tế"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Trách nhiệm bồi thường thiệt hại phát sinh khi có đủ các yếu tố sau đây?",
+    "answer": ". Có hành vi vi phạm hợp đồng;.Có thiệt hại thực tế; Hành vi vi phạm hợp đồng là nguyên nhân trực tiếp gây ra thiệt hại"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Các bên có quyền thỏa thuận Mức phạt vi phạm hợp đồng thương mại là bao nhiêu?",
+    "answer": "Không quá 8% giá trị phần vi phạm"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Chủ thể ký kết hợp đồng phải có những điều kiện gì?",
+    "answer": ". Năng lực pháp luật và Năng lực hành vi"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Thời điểm giao kết hợp đồng bằng văn bản là khi nào?",
+    "answer": "Bên sau cùng ký vào văn bản"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Thời điểm chuyển rủi ro đối với hàng hóa trong trường hợp không có địa điểm giao hàng xác định là khi nào?",
+    "answer": "Khi hàng hóa được giao cho người vận chuyển đầu tiên"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Trường hợp xác lập hợp đồng thương mại giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì đồng thương mại vô hiệu",
+    "answer": "Đúng"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Khi soạn thảo Hợp đồng thương mại cần tìm hiểu những thông tin gì từ đối tác ký kết?",
+    "answer": ". Năng lực pháp luật; Năng lực tài chính; Năng lực kỹ thuật"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Hợp đồng chấm dứt khi nào?",
+    "answer": "Khi các bên đã thực hiện xong các quyền và nghĩa vụ theo quy định; Khi các bên thỏa thuận chấm dứt hợp đồng; Khi Chủ thể của hợp đồng chết hoặc chấm dứt sự tồn tại"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Thời điểm giao kết hợp đồng gián tiếp bằng văn bản là khi nào?",
+    "answer": ". Bên đề nghị nhận được chấp nhận giao kết của bên được đề nghị"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Các bên có thể thanh toán hợp đồng bằng phương tiện thanh toán nào?",
+    "answer": ". Chuyển khoản qua ngân hàng hoặc Tiền mặt"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Các hình thức khác tương đương văn bản là hình thức của hợp đồng thương mại?",
+    "answer": ". Email; Telex; Fax; điện báo; thông điệp dữ liệu"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Đối tượng của hợp đồng thương mại có thể là?",
+    "answer": "Hàng hóa hoặc Dịch vụ"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Mua bán hàng hoá quốc tế được thực hiện dưới các hình thức nào?",
+    "answer": "Xuất khẩu, nhập khẩu; tạm xuất, tái nhập, tạm nhập, tái xuất; chuyển khẩu"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Văn bản pháp luật nào sau đây có hiệu lực cao nhất?",
+    "answer": "Hiến pháp"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Mục đích chính khi giao kết hợp đồng thương mại là?",
+    "answer": ". Lợi nhuận"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Khi các bên không thể thỏa thuận được về việc sửa đổi hợp đồng trong một thời hạn hợp lý, một trong các bên có thể làm gì?",
+    "answer": "Chấm dứt hợp đồng tại một thời điểm xác định hoặc Sửa đổi hợp đồng để cân bằng quyền và lợi ích hợp pháp của các bên do hoàn cảnh thay đổi cơ bản."
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Đâu là biện pháp bảo đảm thực hiện hợp đồng?",
+    "answer": ". Bảo lãnh"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Khi đàm phán hợp đồng, các bên thuyết phục đối tác bằng cách nào?",
+    "answer": "Cảm xúc và Logic"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Công ước Viên 1980 của Liên hợp quốc điều chỉnh quan hệ hợp đồng nào?",
+    "answer": "Hợp đồng mua bán hang hóa quốc tế"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Bộ luật Dân sự 2015 là luật chung áp dụng cho các quan hệ pháp luật trong đó có pháp luật về hợp đồng thương mại",
+    "answer": "Hoàn toàn Đúng"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Khi giao kết hợp đồng thương mại, chủ thể của hợp đồng phải tuân thủ nguyên tắc nào?",
+    "answer": "Tự nguyện và thống nhất ý chí"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Khi soạn thảo Hợp đồng thương mại cần tìm hiểu những thông tin gì từ đối tác ký kết?",
+    "answer": "Năng lực pháp luật; Năng lực tài chính; Năng lực kỹ thuật"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Hợp đồng mua bán hàng hóa quốc tế phải thực hiện theo hình thức nào?",
+    "answer": "Văn bản hoặc hình thức khác có giá trị pháp lý tương đương"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Khi nào chế tài Đình chỉ thực hiện hợp đồng được áp dụng?",
+    "answer": "Một bên vi phạm cơ bản nghĩa vụ hợp đồng hoặc khi Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để đình chỉ hợp đồng"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Khi một bên tham gia đồng thương mại do bị lừa dối hoặc bị đe dọa, cưỡng ép thì có quyền gì?",
+    "answer": "Yêu cầu Tòa án tuyên bố đồng thương mại đó là vô hiệu"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Chủ thể nào sau đây là thương nhân?",
+    "answer": "Cả Công ty cổ phần Y; Hợp tác xã X ; Luật sư Phạm Liêm Z đều là thương nhân"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Khi soạn thảo Hợp đồng thương mại cần tìm hiểu những thông tin gì từ đối tác ký kết?",
+    "answer": ". Năng lực pháp luật; Năng lực tài chính; Năng lực kỹ thuật"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Các văn bản luật điều chỉnh hợp đồng thương mại ở Việt Nam hiện nay?",
+    "answer": "Luật thương mại 2005 và Bộ luật dân sự 2015"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Nguyên tắc ký kết và thực hiện hợp đồng thương mại?",
+    "answer": "Tự do thỏa thuận và thống nhất ý chí"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Bên vi phạm hợp đồng được miễn trách nhiệm trong các trường hợp sau đây?",
+    "answer": "Khi xảy ra một trong ba trường hợp nêu tại A, B, C"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Khi bên bán giao thừa hàng thì bên mua có quyền gì?",
+    "answer": "Từ chối hoặc chấp nhận số hàng thừa"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Văn bản pháp luật nào do Chính phủ ban hành?",
+    "answer": "Nghị định"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Các hình thức của trọng tài thương mại bao gồm?",
+    "answer": ". Trọng tài vụ việc và trọng tài quy chế"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Kể tên các loại điều khoản trong hợp đồng thương mại?",
+    "answer": ". Điều khoản thông thường và Điều khoản phòng ngừa"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Nguồn pháp luật điều chỉnh quan hệ hợp đồng thương mại?",
+    "answer": "Luật quốc gia, Điều ước quốc tế, tập quán, án lệ"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Đâu là tập quán thương mại?",
+    "answer": "INCOTERM"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Phụ lục hợp đồng vô hiệu có làm vô hiệu toàn bộ nội dung của hợp đồng chính không?",
+    "answer": "Không"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Các biện pháp nào được sử dụng để bảo đảm thực hiện hợp đồng",
+    "answer": ". Thế chấp; Tín chấp; Bảo lãnh đều có thể sử dụng để bảo đảm thực hiện hợp đồng"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Thời điểm chuyển rủi ro đối với hàng hóa nếu có địa điểm giao hàng xác định là?",
+    "answer": "Khi hàng hóa được giao cho bên mua"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Các chế tài có thể áp dụng khi có vi phạm nghĩa vụ hợp đồng thương mại?",
+    "answer": ". Yêu cầu bồi thường thiệt hại; Phạt vi phạm; Hủy hợp đồng"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Các Bên ký kết hợp đồng có quyền chọn luật áp dụng điều chỉnh hợp đồng không?",
+    "answer": ". Có"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Quyết định của trọng tài thương mại là?",
+    "answer": "Chung thẩm và ràng buộc các bên"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Các bên có thể thanh toán hợp đồng bằng phương tiện thanh toán nào?",
+    "answer": ". Chuyển khoản qua ngân hàng hoặc Tiền mặt"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Chế tài Đình chỉ thực hiện hợp đồng được áp dụng khi nào?",
+    "answer": "Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để đình chỉ hợp đồng hoặc khi một bên vi phạm cơ bản nghĩa vụ hợp đồng"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Các biện pháp bảo đảm có thể sử dụng để ký kết và thực hiện hợp đồng?",
+    "answer": "Ký quỹ, Thế chấp, Bảo lưu quyền sở hữu"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Công ước quốc tế nào quy định về việc công nhận và thi hành quyết định của trọng tài nước ngoài?",
+    "answer": "Công ước NewYork 1958Câu hỏi 1"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Chủ thể nào sau đây là thương nhân?",
+    "answer": "Công ty FLC"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Có thể giải quyết tranh chấp hợp đồng thương mại bằng những phương thức?",
+    "answer": ". Tòa án; Trọng tài thương mại; Hòa giải thương mại"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Thời điểm giao kết hợp đồng gián tiếp bằng văn bản là khi nào?",
+    "answer": "Bên đề nghị nhận được chấp nhận giao kết của bên được đề nghị"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Công ước NewYork 1958 quy định về vấn đề gì?",
+    "answer": "Việc công nhận và cho thi hành phán quyết của trọng tài nước ngoài"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Tòa án có thẩm quyền xét xử sơ thẩm đối với tranh chấp về hợp đồng thương mại là?",
+    "answer": "Tòa án cấp quận/huyện"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Đối với phán quyết của trọng tài thương mại, các bên có quyền?",
+    "answer": "Yêu cầu bên thua kiện thực hiện đúng yêu cầu phán quyết của trọng tài hoặc Yêu cầu tòa án hủy phán quyết nếu không đồng ý với phán quyết đó"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Có thể giải quyết tranh chấp hợp đồng thương mại bằng những phương thức?",
+    "answer": "Tòa án; Trọng tài thương mại; Hòa giải thương mại"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Khi ký kết và thực hiện hợp đồng, các bên có thể sử dụng biện pháp bảo đảm nào sau đây?",
+    "answer": "Đặt cọc; Ký quỹ; Bảo lưu quyền sở hữu"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Các trường hợp nào dẫn đến hợp đồng vô hiệu?",
+    "answer": "Thỏa thuận trái với trật tự công và đạo đức xã hội; Lừa dối; Ép buộc"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Khi các bên không thể thỏa thuận được về việc sửa đổi hợp đồng trong một thời hạn hợp lý, một trong các bên có thể làm gì?",
+    "answer": "Chấm dứt hợp đồng tại một thời điểm xác định hoặc Sửa đổi hợp đồng để cân bằng quyền và lợi ích hợp pháp của các bên do hoàn cảnh thay đổi cơ bản."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Khi nào hợp đồng có thể chấm dứt?",
+    "answer": "Khi đối tượng của hợp đồng không còn (bị tiêu hủy, mất mát); Khi hợp đồng bị hủy bỏ; Khi hợp đồng bị đơn phương chấm dứt"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Chủ thể ký kết hợp đồng phải có những điều kiện gì?",
+    "answer": "Năng lực pháp luật và Năng lực hành vi"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Thời điểm giao kết hợp đồng bằng văn bản là khi nào?",
+    "answer": "Bên sau cùng ký vào văn bản"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Năm 2015 Việt Nam đã gia nhập để trở thành thành viên của công ước quốc tế nào?",
+    "answer": "Công ước Viên 1980 của Liên hợp quốc về Mua bán hang hóa quốc tế"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Hàng hóa bao gồm?",
+    "answer": "Tất cả các loại động sản, kể cả động sản hình thành trong tương lai; những vật gắn liền với đất đai."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Bên giữ quyền chọn mua có quyền mua và có nghĩa vụ phải mua hàng hoá đã giao kết trong hợp đồng không?",
+    "answer": "Không"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Các Bên ký kết hợp đồng có quyền chọn luật áp dụng điều chỉnh hợp đồng không?",
+    "answer": "Có"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Đối với phán quyết của trọng tài thương mại, các bên có quyền?",
+    "answer": ". Yêu cầu bên thua kiện thực hiện đúng yêu cầu phán quyết của trọng tài hoặc Yêu cầu tòa án hủy phán quyết nếu không đồng ý với phán quyết đó"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Pháp luật của nước nào sau đây được coi là pháp luật của nước có mối liên hệ gắn bó nhất với hợp đồng mua bán hàng hóa quốc tế?",
+    "answer": "Pháp luật của nước nơi người bán cư trú nếu là cá nhân hoặc nơi thành lập nếu là pháp nhân"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Khi ký kết hợp đồng, các bên có thể sử dụng biện pháp bảo đảm nào?",
+    "answer": ". Cả Bảo lãnh; Ký quỹ; Cầm cố đều có thể được sử dụng"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Các bên có quyền thỏa thuận Mức phạt vi phạm hợp đồng thương mại là bao nhiêu?",
+    "answer": ".Không quá 8% giá trị phần vi phạm"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Bên giữ quyền chọn bán có quyền bán nhưng không có nghĩa vụ phải bán hàng hoá đã giao kết trong hợp đồng không?",
+    "answer": "Có"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Trách nhiệm bồi thường thiệt hại phát sinh khi có đủ các yếu tố sau đây?",
+    "answer": ". Có hành vi vi phạm hợp đồng;.Có thiệt hại thực tế; Hành vi vi phạm hợp đồng là nguyên nhân trực tiếp gây ra thiệt hại"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Các bên có thể thanh toán hợp đồng bằng phương tiện thanh toán nào?",
+    "answer": "Chuyển khoản qua ngân hàng hoặc Tiền mặt"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Mục đích chính khi giao kết hợp đồng thương mại là?",
+    "answer": ". Lợi nhuận"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Hợp đồng thương mại có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì không bị vô hiệu không?",
+    "answer": "Không"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Các biện pháp nào sau đây được coi là biện pháp bảo đảm thực hiện hợp đồng?",
+    "answer": ". Cầm cố tài sản; Ký cược; Đặt cọc"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Nguyên tắc ký kết và thực hiện hợp đồng thương mại?",
+    "answer": ". Tự do thỏa thuận và thống nhất ý chí"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Phạt vi phạm hợp đồng thương mại được áp dụng khi nào?",
+    "answer": "Chỉ khi có điều khoản phạt vi phạm trong hợp đồng thương mại"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Các biện pháp nào được sử dụng để bảo đảm thực hiện hợp đồng?",
+    "answer": "Thế chấp; Tín chấp; Bảo lãnh đều có thể sử dụng để bảo đảm thực hiện hợp đồnghỏi 1"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Trường hợp xác lập hợp đồng thương mại giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì đồng thương mại vô hiệu?",
+    "answer": ". Đúng"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Các bên có quyền thỏa thuận Mức phạt vi phạm hợp đồng thương mại là bao nhiêu?",
+    "answer": "Không quá 8% giá trị phần vi phạm"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Hợp đồng thương mại nào sau đây phải được công chứng hoặc chứng thực?",
+    "answer": ". Hợp đồng mua bán nhà ở"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Hiến pháp 2013 có bao nhiêu điều luật?",
+    "answer": "120"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Trong trường hợp không có thỏa thuận thì giá hàng hóa được xác định bằng cách nào?",
+    "answer": "Giá của hàng hóa cùng loại niêm yết trên thị trường"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Đối tượng nào sau đây có thể trở thành đối tượng của hợp đồng dịch vụ là?",
+    "answer": "Công việc phải làm"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Hợp đồng có đối tượng là bất động sản thì pháp luật áp dụng đối với việc chuyển giao quyền sở hữu, quyền khác đối với tài sản là bất động sản, thuê bất động sản hoặc việc sử dụng bất động sản để bảo đảm thực hiện nghĩa vụ là pháp luật của nước nào?",
+    "answer": "Nơi có bất động sản"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Hợp đồng thương mại có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì?",
+    "answer": "Vô hiệu"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Chủ thể của hợp đồng thương mại có thể là?",
+    "answer": "Thương nhân hoặc Cá nhân và Tổ chức khác có hoạt động liên quan đến thương mại"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Mục đích chủ yếu của các bên khi ký kết hợp đồng thương mại là?",
+    "answer": "Sinh lợi"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Trường hợp xác lập hợp đồng thương mại giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì đồng thương mại vô hiệu",
+    "answer": "Đúng"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Đại diện pháp nhân ký kết hợp đồng bao gồm?",
+    "answer": "Người đại diện theo pháp luật hoặc Người đại diện theo ủy quyền hợp pháp của pháp nhân"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Khi các bên không thể thỏa thuận được về việc sửa đổi hợp đồng trong một thời hạn hợp lý, một trong các bên có thể làm gì?",
+    "answer": ". Chấm dứt hợp đồng tại một thời điểm xác định hoặc Sửa đổi hợp đồng để cân bằng quyền và lợi ích hợp pháp của các bên do hoàn cảnh thay đổi cơ bản."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Giá trị bồi thường thiệt hại bao gồm giá trị nào?",
+    "answer": "Giá trị tổn thất thực tế, trực tiếp"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Thời điểm giao kết hợp đồng bằng lời nói là khi nào?",
+    "answer": "Là khi các bên đã thỏa thuận xong các nội dung của hợp đồng"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Chỉ ra đối tượng của hợp đồng dịch vụ?",
+    "answer": "Việc khám chữa bệnh của bác sỹ"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Luật thương mại đang có hiệu lực thi hành được Quốc hội ban hành năm nào",
+    "answer": "2005"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Khi hủy bỏ hợp đồng thì hiệu lực hợp đồng chấm dứt từ thời điểm nào?",
+    "answer": ". Từ khi hợp đồng ký kết"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Trường hợp xác lập đồng thương mại giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì đồng thương mại vẫn có hiệu lực pháp luật không?",
+    "answer": "Không"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Thời điểm chuyển rủi ro đối với hàng hóa trong trường hợp không có địa điểm giao hàng xác định là khi nào?",
+    "answer": ". Khi hàng hóa được giao cho người vận chuyển đầu tiên"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Nội dung cơ bản của hợp đồng gồm những điều khoản nào?",
+    "answer": "Chủ thể HĐ, Đối tượng HĐ, giá cả, thanh toán"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Khi nào chế tài Đình chỉ thực hiện hợp đồng được áp dụng?",
+    "answer": ". Một bên vi phạm cơ bản nghĩa vụ hợp đồng hoặc khi Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để đình chỉ hợp đồng"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Chế tài Đình chỉ thực hiện hợp đồng được áp dụng khi nào?",
+    "answer": ". Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để đình chỉ hợp đồng hoặc khi một bên vi phạm cơ bản nghĩa vụ hợp đồng"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Khi ký kết hợp đồng, các bên có thể sử dụng biện pháp bảo đảm nào?",
+    "answer": "Cả Bảo lãnh; Ký quỹ; Cầm cố đều có thể được sử dụng"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Trong trường hợp giao thừa hàng thì bên mua có quyền?",
+    "answer": "Từ chối hoặc chấp nhận số hàng thừa"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Thời điểm giao kết hợp đồng bằng lời nói là khi nào?",
+    "answer": ". Là khi các bên đã thỏa thuận xong các nội dung của hợp đồng"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Chế tài hủy bỏ hợp đồng được áp dụng trong các trường hợp sau đây?",
+    "answer": ". Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để hủy bỏ hợp đồng; hoặc"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Đâu là đối tượng của hợp đồng mua bán hàng hóa?",
+    "answer": "Quần áo; Giầy dép"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Kể tên các loại điều khoản trong hợp đồng thương mại?",
+    "answer": "Điều khoản thông thường và Điều khoản phòng ngừa"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Khi nào Các bên được quyền giải quyết tranh chấp bằng Trọng tài thương mại?",
+    "answer": "Khi các bên có thỏa thuận bằng văn bản về việc giải quyết tranh chấp bằng trọng tàihỏi 1"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Điều ước quốc tế bao gồm?",
+    "answer": "Điều ước quốc tế song phương hoặc đa phương"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Khi đàm phán hợp đồng, các bên có thể sử dụng các loại câu hỏi nào?",
+    "answer": "Kết hợp cả câu hỏi mở và câu hỏi đóng"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Chế tài hủy bỏ hợp đồng được áp dụng trong các trường hợp sau đây?",
+    "answer": "Xảy ra hành vi vi phạm mà các bên đã thoả thuận là điều kiện để hủy bỏ hợp đồng; hoặc Một bên vi phạm cơ bản nghĩa vụ hợp đồng"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Khi một bên tham gia đồng thương mại do bị lừa dối hoặc bị đe dọa, cưỡng ép thì có quyền gì?",
+    "answer": ". yêu cầu Tòa án tuyên bố hợp đồng thương mại đó là vô hiệu"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Các biện pháp bảo đảm có thể sử dụng để ký kết và thực hiện hợp đồng",
+    "answer": ". Ký quỹ, Thế chấp, Bảo lưu quyền sở hữu"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Chủ thể ký kết hợp đồng phải có những điều kiện gì?",
+    "answer": ". Năng lực pháp luật và Năng lực hành vi"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Muốn thay đổi Hợp đồng đang thực hiện thì phải làm gì?",
+    "answer": ". Các bên tiến hành sửa đổi, bổ sung nội dung hợp đồng"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Bên mua hoặc đại diện của bên mua tiến hành làm gì trước khi nhận hàng?",
+    "answer": "Kiểm tra hàng hoá"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Muốn thay đổi Hợp đồng đang thực hiện thì phải làm gì?",
+    "answer": "Các bên tiến hành sửa đổi, bổ sung nội dung hợp đồng"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Hợp đồng thương mại nào sau đây phải được công chứng hoặc chứng thực?",
+    "answer": "Hợp đồng mua bán nhà ở"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Trách nhiệm bồi thường thiệt hại phát sinh khi có đủ các yếu tố sau đây?",
+    "answer": "Có hành vi vi phạm hợp đồng;.Có thiệt hại thực tế; Hành vi vi phạm hợp đồng là nguyên nhân trực tiếp gây ra thiệt hại"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Trong các đối tượng sau, đối tượng nào là đối tượng của hợp đồng dịch vụ?",
+    "answer": "Hoạt động tư vấn pháp luật của luật sư"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Hợp đồng chấm dứt khi nào?",
+    "answer": "Khi các bên đã thực hiện xong các quyền và nghĩa vụ theo quy định; Khi các bên thỏa thuận chấm dứt hợp đồng; Khi Chủ thể của hợp đồng chết hoặc chấm dứt sự tồn tại"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Mục đích chính khi giao kết hợp đồng thương mại là?",
+    "answer": "Lợi nhuận"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Thời điểm chuyển rủi ro đối với hàng hóa trong trường hợp không có địa điểm giao hàng xác định là khi nào?",
+    "answer": "Khi hàng hóa được giao cho người vận chuyển đầu tiên"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Đâu là đối tượng của hợp đồng mua bán hàng hóa?",
+    "answer": "Gạo"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Bộ luật dân sự 2015 có bao nhiêu điều luật?",
+    "answer": "689"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Hợp đồng thương mại có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì?",
+    "answer": ". vô hiệu"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Các chế tài có thể áp dụng khi có vi phạm nghĩa vụ hợp đồng thương mại?",
+    "answer": "Yêu cầu bồi thường thiệt hại; Phạt vi phạm; Hủy hợp đồng"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Thời điểm giao kết hợp đồng bằng văn bản là khi nào?",
+    "answer": ". bên sau cùng ký vào văn bản"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Các hình thức khác tương đương văn bản là hình thức của hợp đồng thương mại?",
+    "answer": ". Email; Telex; Fax; điện báo; thông điệp dữ liệu"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Trường hợp xác lập hợp đồng thương mại giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì đồng thương mại vẫn có hiệu lực pháp luật không?",
+    "answer": ". không"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Nguồn Luật áp dụng điều chỉnh quan hệ hợp đồng thương mại?",
+    "answer": "Luật pháp của quốc gia; Điều ước quốc tế; Tập quán thương mại; Án lệ"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Điều ước quốc tế nào điều chỉnh hợp đồng mua bán hàng hóa quốc tế?",
+    "answer": "Công ước Viên 1980 của Liên hợp quốc"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Hợp đồng chấm dứt khi nào?",
+    "answer": ". Khi các bên đã thực hiện xong các quyền và nghĩa vụ theo quy định; Khi các bên thỏa thuận chấm dứt hợp đồng; Khi Chủ thể của hợp đồng chết hoặc chấm dứt sự tồn tại"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Thời điểm chuyển rủi ro đối với hàng hóa nếu có địa điểm giao hàng xác định là?",
+    "answer": ". Khi hàng hóa được giao cho bên mua"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Thời điểm giao kết hợp đồng gián tiếp bằng văn bản là khi nào?",
+    "answer": ". Bên đề nghị nhận được chấp nhận giao kết của bên được đề nghị"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Các hình thức của trọng tài thương mại bao gồm?",
+    "answer": "Trọng tài vụ việc và trọng tài quy chế"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Hợp đồng phụ vô hiệu thì hợp đồng chính sẽ?",
+    "answer": "Vẫn có hiệu lực"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Khi hủy bỏ hợp đồng thì hiệu lực hợp đồng chấm dứt từ thời điểm nào?",
+    "answer": "Từ khi hợp đồng ký kếtHợp đồng mua bán hàng hóa quốc tế phải thực hiện theo hình thức nào?"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Khi hủy bỏ hợp đồng thì hiệu lực hợp đồng chấm dứt từ thời điểm nào?",
+    "answer": ". văn bản hoặc hình thức khác có giá trị pháp lý tương đương"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "INCOTERM là gì?",
+    "answer": "Tập quán thương mại quốc tế về mua bán hàng hóa"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Văn bản pháp luật nào do Quốc hội ban hành",
+    "answer": "Luật, Bộ luật"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Đối tượng của hợp đồng thương mại có thể là?",
+    "answer": "Hàng hóa hoặc Dịch vụ"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Luật thương mại 2005 là luật chuyên ngành áp dụng cho các quan hệ pháp luật phát sinh từ hợp đồng thương mại",
+    "answer": "Hoàn toàn Đúng"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Bộ luật dân sự có điều chỉnh Hợp đồng thương mại không?",
+    "answer": "Có"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Đâu là biện pháp bảo đảm thực hiện hợp đồng?",
+    "answer": "Bảo lãnh"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Hình thức của hợp đồng thương mại có thể là?",
+    "answer": "Lời nói, Văn bản hoặc hành vi"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Có ít nhất một bên chủ thể của hợp đồng thương mại là thương nhân?",
+    "answer": "Đúng"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Hợp đồng thương mại có mục đích, nội dung vi phạm điều cấm của luật, trái đạo đức xã hội thì không bị vô hiệu không?",
+    "answer": ". Không"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Đại diện pháp nhân ký kết hợp đồng bao gồm?",
+    "answer": ". Người đại diện theo pháp luật hoặc Người đại diện theo ủy quyền hợp pháp của pháp nhân"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Mua bán hàng hoá quốc tế được thực hiện dưới các hình thức nào?",
+    "answer": "Xuất khẩu, nhập khẩu; tạm xuất, tái nhập, tạm nhập, tái xuất; chuyển khẩu"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Các hình thức khác tương đương văn bản là hình thức của hợp đồng thương mại?",
+    "answer": "Email; Telex; Fax; điện báo; thông điệp dữ liệu"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Hợp đồng chính vô hiệu có dẫn đến vô hiệu của hợp đồng phụ không?",
+    "answer": "Có"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Bên vi phạm hợp đồng được miễn trách nhiệm trong các trường hợp sau đây ?",
+    "answer": ". khi xảy ra một trong ba trường hợp nêu tại A, B, C"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khi đàm phán hợp đồng, các bên thuyết phục đối tác bằng cách nào?",
+    "answer": ". Cảm xúc và Logic"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Giá trị bồi thường thiệt hại bao gồm giá trị nào?",
+    "answer": ".Giá trị tổn thất thực tế, trực tiếp"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Các biện pháp nào sau đây được coi là biện pháp bảo đảm thực hiện hợp đồng?",
+    "answer": "Cầm cố tài sản; Ký cược; Đặt cọc"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Chỉ ra đối tượng của hợp đồng dịch vụ?",
+    "answer": "Hoạt động Tư vấn pháp lý của luật sư"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Phạt vi phạm hợp đồng thương mại được áp dụng khi nào?",
+    "answer": ". Chỉ khi có điều khoản phạt vi phạm trong hợp đồng thương mại"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Văn bản pháp luật nào sau đây có hiệu lực cao nhất?",
+    "answer": "Hiến pháp"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Khi nào hợp đồng có thể chấm dứt?",
+    "answer": ". Khi đối tượng của hợp đồng không còn (bị tiêu hủy, mất mát); Khi hợp đồng bị hủy bỏ; Khi hợp đồng bị đơn phương chấm dứt"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Bộ luật dân sự đang có hiệu lực được Quốc hội ban hành năm nào?",
+    "answer": "2015"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Hoạt động nào sau đây được coi là mua bán hàng hóa quốc tế",
+    "answer": "Nhập khẩu; Xuất khẩu; Chuyển khẩu"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Khi đàm phán hợp đồng, các bên có thể sử dụng các loại câu hỏi nào?",
+    "answer": ". Kết hợp cả câu hỏi mở và câu hỏi đóng"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Tòa án có thẩm quyền xét xử sơ thẩm đối với tranh chấp về hợp đồng thương mại là?",
+    "answer": "Tòa án cấp quận/huyện"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Kể tên các loại điều khoản trong hợp đồng thương mại?",
+    "answer": "Điều khoản thông thường và Điều khoản phòng ngừa"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Thời điểm giao kết hợp đồng bằng lời nói là khi nào?",
+    "answer": ". Là khi các bên đã thỏa thuận xong các nội dung của hợp đồng"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Khi nào Các bên được quyền giải quyết tranh chấp bằng Trọng tài thương mại?",
+    "answer": "Khi các bên có thỏa thuận bằng văn bản về việc giải quyết tranh chấp bằng trọng tài"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Khi giao kết hợp đồng thương mại, chủ thể của hợp đồng phải tuân thủ nguyên tắc nào?",
+    "answer": "Tự nguyện và thống nhất ý chíu hỏi 1"
+  }
+]

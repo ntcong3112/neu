@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây KHÔNG chính xác?",
+    "answer": "Các sự vật chỉ có thể phát triển nhờ sự tác động của con người."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Thế nào là tái lập doanh nghiệp?",
+    "answer": "Là sự tư duy, thiết kế lại quá trình kinh doanh và hoạt động quản trị."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Ai là người quyết định phương án tái lập doanh nghiêp?",
+    "answer": "Chủ doanh nghiệp hoặc người được chủ doanh nghiệp trao quyền chỉ đạo."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Các việc cần làm để triển khai thực hiện việc tái lập là:",
+    "answer": "Thành lập uỷ ban điều hành quá trình tái lập."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Nhu cầu thay đổi có thể được nhận diện khá mờ nhạt qua dấu hiệu?",
+    "answer": "Doanh nghiệp thuộc nhóm các doanh nghiệp tiên tiến."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây KHÔNG chính xác về thay đổi hoạt động kinh doanh?",
+    "answer": "Thay đổi nền tảng cơ sở quản trị."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Nhận định nào sau đây KHÔNG chính xác về đặc điểm của cải tiến, hoàn thiện?",
+    "answer": "Nếu thành công sẽ đem lại cho doanh nghiệp sự thích ứng thực sự với môi trường."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Một kế hoạch thay đổi hiệu quả sẽ KHÔNG?",
+    "answer": "Chỉ được hình thành từ nhà quản trị cấp cao."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Thay đổi cơ cấu tổ chức ở doanh nghiệp tái lập tức là?",
+    "answer": "Tập trung công sức thiết kế cơ cấu tổ chức."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Chuyên môn hóa lao động đã chú ý đến?",
+    "answer": "Phân chia nhỏ công việc."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Để thay đổi thành công thì doanh nghiệp?",
+    "answer": "Nên sử dụng kết hợp thuyết E và thuyết O."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Để thay đổi hiệu quả, doanh nghiệp cần TRÁNH?\n\n:: TLDN.B2.045:: Nhu cầu thay đổi có thể được nhận diện rõ rệt qua dấu hiệu?\n{\n= Nhân viên không hài lòng với cách thức tổ chức quản trị, xuất hiện các phản ứng tiêu cực từ phía họ.\n~ Doanh nghiệp thuộc nhóm các doanh nghiệp tiên tiến.\n~ Tình trạng của doanh nghiệp đang rất tốt.\n~ Các nhà quản trị cấp cao luôn tự thỏa mãn với thực tại.\n####",
+    "answer": "Tuân thủ mọi quy tắc đã có."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Khi tiến hành phân tích hiện trạng, doanh nghiệp cần tránh?",
+    "answer": "Chủ quan."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Đặc trưng nào KHÔNG phải là của các đội công tác quá trình?",
+    "answer": "Không cần tuân thủ nghiêm ngặt các thể lệ, qui tắc để đảm bảo tính linh hoạt."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Tái cơ cấu tổ chức của doanh nghiệp là?",
+    "answer": "Thay đổi mô hình tổ chức và thiết lập mối quan hệ giữa các bộ phận trên cơ sở hình thành các quá trình."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Một kế hoạch thay đổi hiệu quả sẽ KHÔNG?",
+    "answer": "Cứng nhắc, đúng như lịch trình đã định."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Cụm từ “cơ bản - fundamental” trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) có nghĩa là?",
+    "answer": "Trước tiên cần phải biết doanh nghiệp cần làm gì."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Trong giai đoạn củng cố sự thay đổi, các doanh nghiệp sẽ KHÔNG phải?",
+    "answer": "Chi tiết hóa các kế hoạch hành động."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Cần phải học những kỹ năng mới."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Sau khi tái tạo quá trình 5 công việc được giao cho một nhân viên tổng hợp toàn bộ thời gian giải quyết một yêu cầu vay vốn của công ty IBM Credit chỉ mất?",
+    "answer": "4 giờ."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Để củng cố sự thay đổi, nhà quản trị KHÔNG cần đánh giá, phân tích về?",
+    "answer": "Chi tiết hóa các kế hoạch hành động."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Để loại bỏ các hạn chế của phương thức quản trị truyền thống cần?",
+    "answer": "Tái tạo quá trình kinh doanh và chuyển sang quản trị theo quá trình."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Ai có quyền lựa chọn người tái lập doanh nghiệp?",
+    "answer": "Chủ doanh nghiệp."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Nội dung cơ bản của quản trị theo quá trình là?",
+    "answer": "Thay đổi các công tác đào tạo, quan hệ lao động, thù lao lao động…"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây chính xác?",
+    "answer": "Tái lập đảo ngược cuộc cách mạng công nghiệp, bác bỏ giả thuyết cố hữu của Adam Smith và W.F. Taylor."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Cách thức quản trị trong các doanh nghiệp hiện nay?",
+    "answer": "Dựa trên cơ sở chuyên môn hóa công việc và người lao động."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Tại doanh nghiệp đã tái lập, nhân viên đặt lòng tin vào điều gì?",
+    "answer": "Mọi công việc đều thiết yếu và quan trọng."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Người lao động trong quản trị quá trình?",
+    "answer": "Muốn được an toàn, bảo vệ chính mình, muốn làm việc trên tinh thần hợp tác sáng tạo."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Tái tạo quá trình kinh doanh từ phức tạp đến đơn giản mang đặc trưng cơ bản nào?",
+    "answer": "Trao quyền chủ động giải quyết công việc cho người đảm nhận công việc."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Bản chất của tái lập doanh nghiệp là?",
+    "answer": "Sự bắt đầu lại, bác bỏ những nhận thức đương thời và những giả thiết đã được chấp nhận."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Từ khóa nào KHÔNG có trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993)?",
+    "answer": "Cải tiến (enhancing)."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Bản chất của tái lập doanh nghiệp là?",
+    "answer": "Không phải là sự đổi tên doanh nghiệp."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Người lao động trong quản trị theo quá trình?",
+    "answer": "Muốn làm việc trên tinh thần tự giác, hợp tác sáng tạo."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Nhu cầu thay đổi có thể được nhận diện rõ rệt qua dấu hiệu?",
+    "answer": "Doanh nghiệp lâm vào tình trạng khủng hoảng, tình hình kinh doanh bi đát, lỗ vốn."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Phương thức quản trị truyền thống?",
+    "answer": "Dựa trên cơ sở phân chia công việc và chuyên môn hóa người lao động."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là hình thức cải tiến, hoàn thiện?",
+    "answer": "Đa dạng hóa sản phẩm."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Ở giai đoạn tổ chức thực hiện sự thay đổi, doanh nghiệp cần?",
+    "answer": "Tạo ra trạng thái mới."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Đặc trưng của phương thức quản trị theo quá trình là?",
+    "answer": "Thành lập các đội/nhóm công tác quá trình."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Nhân tố thúc đẩy sự thay đổi là?",
+    "answer": "Công nghệ kỹ thuật, thiết bị mới."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Tại doanh nghiệp, nhân viên KHÔNG đặt lòng tin vào điều gì?\n\n:: TLDN.B3.085:: Đặc trưng nào KHÔNG phải là của phương thức quản trị theo quá trình?\n{\n~ Quyền tự chủ của các đội công tác quá trình và người lao động.\n= Chuyên môn hóa cao nhất có thể.\n~ Thay đổi các công việc đào tạo, quan hệ lao động, thù lao lao động.\n~ Thay đổi cơ cấu tổ chức.\n####",
+    "answer": "Cần có mặt tại nơi làm việc để hoàn thành công việc."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là hình thức thay đổi và phát triển bằng con đường tự lớn lên xét theo cách thức mở rộng quy mô?",
+    "answer": "Doanh nghiệp liên kết với các doanh nghiệp khác trong chuỗi giá trị."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Đặc trưng cơ bản của tái tạo quá trình kinh doanh là?",
+    "answer": "Bảo đảm tính tự nhiên của quá trình."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Việc phát triển đội ngũ nhân viên sẽ?",
+    "answer": "Ảnh hưởng lâu dài đối với tương lai và lợi ích của doanh nghiệp."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây KHÔNG chính xác?",
+    "answer": "Phát triển tổ chức đề cập đến ở góc độ tạo ra sự thay đổi về lượng."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Để tái lập thành công, phải tránh các sai lầm nào?",
+    "answer": "Để quan điểm cũ chi phối quá trình."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Để tái lập thành công, phải tránh các sai lầm nào?",
+    "answer": "Tìm cách triển khai tái lập từ dưới lên trên."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Tính ì."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Con đường tái lập là con đường riêng có đối với?",
+    "answer": "Các loại hình doanh nghiệp trong nước và trên thế giới."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Thay đổi hoạt động kinh doanh là:",
+    "answer": "Thay đổi khách hàng mục tiêu."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là KHÔNG chính xác?",
+    "answer": "Tái lập là sự thay đổi vụn vặt."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Chia tách để phát triển là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp lớn lên bằng cách chia bản thân nó thành các doanh nghiệp nhỏ hơn."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Để xoá bỏ hạn chế của quản trị truyền thống, cần phải?",
+    "answer": "Từ bỏ cách quản trị cũ và thay vào đó là quản trị theo cách thức hoàn toàn mới - quản trị theo quá trình."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Để nhận được sự thông cảm và ủng hộ, nhà quản trị KHÔNG cần quan tâm đến?",
+    "answer": "Các mục tiêu của doanh nghiệp trong những năm qua."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Hình thức thay đổi và phát triển bằng con đường tự lớn lên tức là?",
+    "answer": "Doanh nghiệp mở rộng thị trường cung cấp sản phẩm của mình sang các thị trường mới."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Để duy trì sự thay đổi trong tổ chức, nhà quản trị KHÔNG nên?",
+    "answer": "Tự mãn với các kết quả đạt được."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Nội dung cơ bản, cốt lõi của tái lập doanh nghiệp là?",
+    "answer": "Tái tạo quá trình."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Tái cấu trúc quá trình kinh doanh là?",
+    "answer": "Tạo lập quá trình kinh doanh cốt lõi và hỗ trợ trong doanh nghiệp."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Các đặc trưng cơ bản của tái tạo kinh doanh là?",
+    "answer": "Từ nhiều công việc gộp lại thành một việc."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Thay đổi bằng con đường liên kết là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp lớn lên nhờ liên kết với các doanh nghiệp khác trong chuỗi cung cấp sản phẩm cho khách hàng."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Quản trị sự thay đổi là tổng hợp các hoạt động quản trị và có ảnh hưởng như thế nào đến quá trình thay đổi của doanh nghiệp?",
+    "answer": "Phát hiện, thúc đẩy và điều khiển."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Đặc trưng của các đội công tác quá trình không phải là?",
+    "answer": "Thay đổi ranh giới giữa các loại công việc."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây chính xác?",
+    "answer": "Thay đổi là phạm trù phản ánh một hiện tượng không lặp lại trạng thái trước đó."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Mua bán, sáp nhập doanh nghiệp là một cách thức?",
+    "answer": "Tái cấu trúc doanh nghiệp."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Hạn chế của phương thức quản trị truyền thống là do?",
+    "answer": "Dựa trên cơ sở chuyên môn hóa."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Để xóa bổ hạn chế của phương thức quản trị truyền thống cần?",
+    "answer": "Nghiên cứu kỹ cách đang làm và xử lý tốt khâu phối hợp công việc."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Đâu KHÔNG phải phương thức thay đổi và phát triển về lượng?",
+    "answer": "Cải tiến, hoàn thiện."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?\nĐổi mới trên cơ sở quan điểm quản trị truyền thống dẫn đến:",
+    "answer": "Giúp doanh nghiệp thích ứng tốt hơn với môi trường kinh doanh."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Để thực hiện một yêu cầu vay vốn tại Công ty IBM Credit (như trong tình huống dẫn nhập bài 5) cần thực hiện qua?",
+    "answer": "Năm bước công việc."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Đặc trưng của phương thức quản trị theo quá trình là?",
+    "answer": "Thành lập các nhóm/đội công tác quá trình."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Bản chất của tái lập doanh nghiệp là?",
+    "answer": "Sự bắt đầu hoàn toàn mới."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Thay đổi và phát triển bằng cách mở rộng hoạt động là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp mở rộng hoạt động của mình để lớn lên."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Để tái lập doanh nghiệp thành công cần tránh sai lầm?",
+    "answer": "Thỏa mãn với các kết quả nhỏ nhặt/kết quả bộ phận."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Chọn mệnh đề chính xác. Đặc trưng của các đội công tác quá trình là?",
+    "answer": "Có quyền hạn cần thiết để hoàn thành nhiệm vụ."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây chính xác?",
+    "answer": "Sáp nhập vừa tăng được sức mạnh của chính doanh nghiệp vừa giảm được đối thủ cạnh tranh."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Một kế hoạch thay đổi hiệu quả sẽ KHÔNG?",
+    "answer": "Phức tạp."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Lựa chọn ai là người có trách nhiệm tái lập?",
+    "answer": "Nhà quản trị vừa biết chỉ đạo, vừa khởi xướng, vừa điều hành được."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Trong giai đoạn triển khai kế hoạch thay đổi, các doanh nghiệp KHÔNG cần thực hiện?",
+    "answer": "Xem xét lại các giả định."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Nhu cầu thay đổi có thể được nhận diện \"kém\" rõ ràng qua dấu hiệu?",
+    "answer": "Các nhà quản trị cấp cao luôn tự thỏa mãn với thực tại."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Cách quản trị truyền thống mang bản chất là?",
+    "answer": "Dựa trên cơ sở chuyên môn hóa."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Những thay đổi nào KHÔNG phù hợp với quan điểm phát triển bền vững?",
+    "answer": "Chỉ đem lại các lợi ích ngắn hạn song lại dẫn đến các thiệt hại lâu dài cho doanh nghiệp."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây KHÔNG chính xác?",
+    "answer": "Chỉ có những thay đổi do doanh nghiệp chủ động thực hiện."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Đổi mới quản lý doanh nghiệp trên cơ sở quan điểm quản trị truyền thống dẫn đến?",
+    "answer": "Không giải quyết tận gốc các hạn chế vốn có."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Có bao nhiêu loại đội/tổ công tác quá trình?",
+    "answer": "Hai loại."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Sự tự mãn."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Nhân tố thúc đẩy sự thay đổi là?",
+    "answer": "Sự cạnh tranh."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Điều kiện để rút ngắn thời gian giải quyết các nhiệm vụ/công việc của một quá trình kinh doanh là?",
+    "answer": "Người thực hiện nhiệm vụ/công việc được ủy quyền tự giải quyết công việc thuộc phạm vi mình phụ trách."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Thay đổi và phát triển bằng con đường tự lớn lên là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp tự tích tụ để “lớn lên”."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Thay đổi hoạt động quản trị kinh doanh là?",
+    "answer": "Thay đổi nền tảng cơ sở quản trị."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Chọn mệnh đề đúng nhất trong các mệnh đề sau.\nCác trường hợp tái lập doanh nghiệp?",
+    "answer": "Các doanh nghiệp đang gặp khó khăn nghiêm trọng, hay có thể chưa đến mức lâm vào khó khăn, hoặc đang trong thời kỳ hưng thịnh đều có thể tiến hành tái lập doanh nghiệp."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Cụm từ “tận gốc - radical” trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) có nghĩa là?",
+    "answer": "Bỏ đi những cái cũ và “làm lại” doanh nghiệp."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Một kế hoạch thay đổi hiệu quả sẽ KHÔNG?",
+    "answer": "Thiếu nội dung trình bày về vai trò và trách nhiệm của những người tham gia."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Trường hợp nào sau đây KHÔNG phải tái lập doanh nghiệp?",
+    "answer": "Không có trường hợp nào."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Quản trị truyền thống?",
+    "answer": "Dựa trên quan điểm chuyên môn hóa."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Vì phương thức quản trị truyền thống có nhiều hạn chế nên cần thay đổi toàn diện và triệt để. Theo đó cần?",
+    "answer": "Tái tạo quá trình kinh doanh và chuyển sang quản trị theo quá trình."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Trong giai đoạn củng cố sự thay đổi, các doanh nghiệp sẽ KHÔNG phải?",
+    "answer": "Truyền đạt thông tin về kế hoạch thay đổi."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Tái cấu trúc doanh nghiệp được thực hiện qua cách nào sau đây?",
+    "answer": "Thay đổi các hoạt động gặp khó khăn như vốn, tài chính, hoạt động, tổ chức,…"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Trong giai đoạn phát hiện và nghiên cứu sự thay đổi, doanh nghiệp CHƯA cần thiết phải?",
+    "answer": "Tạo ra được trạng thái mới."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Quản trị sự thay đổi giúp các doanh nghiệp tiến hành thay đổi một cách?",
+    "answer": "Chủ động, đúng hướng, đúng thời điểm."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Đăc trưng của tái tạo quá trình kinh doanh là?",
+    "answer": "Trao quyền chủ động giải quyết công việc cho người đảm nhận nó"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Để thay đổi hiệu quả doanh nghiệp cần TRÁNH:",
+    "answer": "Không học hỏi kinh nghiệm từ các doanh nghiệp khác."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Cụm từ “quy trình - process” trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) có nghĩa là?",
+    "answer": "Tập trung vào toàn bộ quy trình kinh doanh cơ bản."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Trong giai đoạn củng cố sự thay đổi, các doanh nghiệp sẽ KHÔNG phải?",
+    "answer": "Truyền đạt thông tin về kế hoạch thay đổi."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Tái lập doanh nghiệp là?",
+    "answer": "Sự thay đổi triệt để."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Trong giai đoạn triển khai kế hoạch thay đổi, các doanh nghiệp KHÔNG cần thực hiện?",
+    "answer": "Xem xét lại các giả định."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Căn cứ để lập kế hoạch thay đổi sẽ KHÔNG bao gồm?",
+    "answer": "Các giải pháp thay đổi thành công."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Vì quản trị truyền thống chưa tốt nên cần cải thiện nó nhờ?",
+    "answer": "Thay đổi triệt để cách làm cũ và tạo ra quy trình hoàn toàn mới."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Để tái lập thành công, phải tránh các sai lầm nào?",
+    "answer": "Giới hạn trước nội dung và phạm vi tái lập."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Muốn thực hiện phương thức quản trị theo quá trình cần phải?",
+    "answer": "Thay đổi cơ cấu tổ chức."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Ở giai đoạn tổ chức thực hiện sự thay đổi, doanh nghiệp cần?",
+    "answer": "Tạo ra trạng thái mới."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Con đường tái lập là con đường riêng có đối với?",
+    "answer": "Các loại hình doanh nghiệp trong nước và trên thế giới."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Cách thức quản trị trong các doanh nghiệp hiện nay?",
+    "answer": "Dựa trên cơ sở chuyên môn hóa công việc và người lao động."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Để thực hiện một yêu cầu vay vốn tại Công ty IBM Credit (như trong tình huống dẫn nhập bài 5) cần thực hiện qua?",
+    "answer": "Năm bước công việc."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là KHÔNG chính xác?",
+    "answer": "Tái lập là sự thay đổi vụn vặt."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Điều kiện để rút ngắn thời gian giải quyết các nhiệm vụ/công việc của một quá trình kinh doanh là?",
+    "answer": "Người thực hiện nhiệm vụ/công việc được ủy quyền tự giải quyết công việc thuộc phạm vi mình phụ trách."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Để tái lập doanh nghiệp thành công cần tránh sai lầm?",
+    "answer": "Thỏa mãn với các kết quả nhỏ nhặt/kết quả bộ phận."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là hình thức thay đổi và phát triển bằng con đường tự lớn lên?",
+    "answer": "Doanh nghiệp liên kết với các doanh nghiệp khác cùng ngành."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Tính ì."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Để vượt qua những cản trở đối với sự thay đổi, các nhà quản trị doanh nghiệp KHÔNG nên?",
+    "answer": "Lôi cuốn sự tham gia của một số ít thành viên."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Nhận định nào sau đây KHÔNG chính xác?",
+    "answer": "Bản chất của tái cấu trúc là cải tiến, hoàn thiện."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Chọn mệnh đề chính xác. Đặc trưng của các đội công tác quá trình là?",
+    "answer": "Có quyền hạn cần thiết để hoàn thành nhiệm vụ."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Bản chất của tái lập doanh nghiệp là gì?",
+    "answer": "Là thay đổi từ nhận thức, thay đổi tận gốc rễ về kinh doanh và quản trị doanh nghiệp."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Đổi mới quản lý doanh nghiệp trên cơ sở quan điểm quản trị truyền thống dẫn đến?",
+    "answer": "Không giải quyết tận gốc các hạn chế vốn có."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Để tái lập thành công, phải tránh các sai lầm nào?",
+    "answer": "Giới hạn trước nội dung và phạm vi tái lập."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Từ khóa nào KHÔNG có trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993)?",
+    "answer": "Cải tiến (enhancing)."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là hình thức cải tiến, hoàn thiện?",
+    "answer": "Đa dạng hóa sản phẩm."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Cụm từ “quy trình - process” trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) có nghĩa là?",
+    "answer": "Tập trung vào toàn bộ quy trình kinh doanh cơ bản."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Nội dung cơ bản, cốt lõi của tái lập doanh nghiệp là?",
+    "answer": "Tái tạo quá trình."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Đặc trưng của phương thức quản trị theo quá trình là?",
+    "answer": "Thành lập các đội/nhóm công tác quá trình."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Nhu cầu thay đổi có thể được nhận diện rõ rệt qua dấu hiệu?",
+    "answer": "Khách hàng không hài lòng với sản phẩm hoặc cung cách cung ứng sản phẩm của doanh nghiệp."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Việc phát triển đội ngũ nhân viên sẽ?",
+    "answer": "Ảnh hưởng lâu dài đối với tương lai và lợi ích của doanh nghiệp."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Chia tách để phát triển là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp lớn lên bằng cách chia bản thân nó thành các doanh nghiệp nhỏ hơn."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Nhân tố thúc đẩy sự thay đổi là?",
+    "answer": "Sự cạnh tranh."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Trường hợp nào sau đây KHÔNG phải tái lập doanh nghiệp?",
+    "answer": "Không có trường hợp nào."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây chính xác?",
+    "answer": "Thay đổi là phạm trù phản ánh một hiện tượng không lặp lại trạng thái trước đó."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Các việc cần làm để triển khai thực hiện việc tái lập là:",
+    "answer": "Thành lập uỷ ban điều hành quá trình tái lập."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Nhu cầu thay đổi có thể được nhận diện khá mờ nhạt qua dấu hiệu?",
+    "answer": "Doanh nghiệp thuộc nhóm các doanh nghiệp tiên tiến."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây chính xác?",
+    "answer": "Sáp nhập vừa tăng được sức mạnh của chính doanh nghiệp vừa giảm được đối thủ cạnh tranh."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Khi tiến hành phân tích hiện trạng, doanh nghiệp cần tránh?",
+    "answer": "Chủ quan."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Ai là người quyết định phương án tái lập doanh nghiêp?",
+    "answer": "Chủ doanh nghiệp hoặc người được chủ doanh nghiệp trao quyền chỉ đạo."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Nhu cầu thay đổi có thể được nhận diện \"kém\" rõ ràng qua dấu hiệu?",
+    "answer": "Các nhà quản trị cấp cao luôn tự thỏa mãn với thực tại."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Sự quen thuộc với môi trường hiện tại."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Hình thức thay đổi và phát triển bằng con đường tự lớn lên tức là?",
+    "answer": "Doanh nghiệp mở rộng thị trường cung cấp sản phẩm của mình sang các thị trường mới."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Chuyên môn hóa lao động đã chú ý đến?",
+    "answer": "Phân chia nhỏ công việc."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Thay đổi và phát triển bằng cách mở rộng hoạt động là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp mở rộng hoạt động của mình để lớn lên."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Đặc trưng của các đội công tác quá trình không phải là?",
+    "answer": "Thay đổi ranh giới giữa các loại công việc."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Sự tự mãn."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Sai lầm cần tránh nếu muốn tái lập thành công là?",
+    "answer": "Giới hạn trước nội dung và phạm vi tái lập."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Hạn chế của phương thức quản trị truyền thống là do?",
+    "answer": "Dựa trên cơ sở chuyên môn hóa."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Người lao động trong quản trị theo quá trình?",
+    "answer": "Muốn làm việc trên tinh thần tự giác, hợp tác sáng tạo."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Thế nào là tái lập doanh nghiệp?",
+    "answer": "Là sự tư duy, thiết kế lại quá trình kinh doanh và hoạt động quản trị."
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Hạn chế của phương thức quản trị truyền thống là do?",
+    "answer": "Dựa trên cơ sở chuyên môn hóa."
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Để thay đổi thành công thì doanh nghiệp?",
+    "answer": "Nên sử dụng kết hợp thuyết E và thuyết O."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Vì phương thức quản trị truyền thống có nhiều hạn chế nên cần thay đổi toàn diện và triệt để. Theo đó cần?",
+    "answer": "Tái tạo quá trình kinh doanh và chuyển sang quản trị theo quá trình."
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Khi tiến hành phân tích hiện trạng, doanh nghiệp KHÔNG cần rút ra kết luận về?",
+    "answer": "Các giải pháp đảm bảo thay đổi thành công."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Tái cấu trúc doanh nghiệp được thực hiện qua cách nào sau đây?",
+    "answer": "Thay đổi các hoạt động gặp khó khăn như vốn, tài chính, hoạt động, tổ chức,…"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Tái tạo quá trình kinh doanh từ phức tạp đến đơn giản mang đặc trưng cơ bản nào?",
+    "answer": "Trao quyền chủ động giải quyết công việc cho người đảm nhận công việc."
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Theo mô hình Lewin, sự thay đổi trong tổ chức diễn ra khi?",
+    "answer": "Áp lực thúc đẩy mạnh hơn áp lực cản trở."
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?",
+    "answer": "Tái lập là sự cải tiến từng bộ phận, từng đơn vị trong doanh nghiệp."
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Có bao nhiêu loại đội/tổ công tác quá trình?",
+    "answer": "Hai loại."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Nhu cầu thay đổi có thể được nhận diện \"kém\" rõ ràng qua dấu hiệu?",
+    "answer": "Các nhà quản trị cấp cao luôn tự thỏa mãn với thực tại."
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Chuyên môn hóa lao động đã chú ý đến?",
+    "answer": "Phân chia nhỏ công việc."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Nhân tố thúc đẩy sự thay đổi là?",
+    "answer": "Những mục tiêu thực hiện cao."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Người lao động trong quản trị theo quá trình?",
+    "answer": "Muốn làm việc trên tinh thần tự giác, hợp tác sáng tạo."
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Các đặc trưng cơ bản của tái tạo kinh doanh là?",
+    "answer": "Từ nhiều công việc gộp lại thành một việc."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Trong giai đoạn triển khai kế hoạch thay đổi, các doanh nghiệp KHÔNG cần thực hiện?",
+    "answer": "Xem xét lại các giả định."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Đâu KHÔNG phải là hình thức thay đổi và phát triển bằng con đường tự lớn lên xét theo cách thức mở rộng quy mô?",
+    "answer": "Doanh nghiệp liên kết với các doanh nghiệp khác trong chuỗi giá trị."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Chia tách để phát triển là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp lớn lên bằng cách chia bản thân nó thành các doanh nghiệp nhỏ hơn."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Quản trị sự thay đổi giúp các doanh nghiệp tiến hành thay đổi một cách?",
+    "answer": "Chủ động, đúng hướng, đúng thời điểm."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Thay đổi và phát triển bằng cách sáp nhập là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp lớn lên bằng cách sáp nhập với một/một số doanh nghiệp khác."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Để vượt qua những cản trở đối với sự thay đổi, các nhà quản trị doanh nghiệp KHÔNG nên?",
+    "answer": "Lôi cuốn sự tham gia của một số ít thành viên."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Phương thức quản trị truyền thống?",
+    "answer": "Dựa trên cơ sở phân chia công việc và chuyên môn hóa người lao động."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Thay đổi và phát triển bằng cách mở rộng hoạt động là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp mở rộng hoạt động của mình để lớn lên."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Đặc trưng của phương thức quản trị theo quá trình là?",
+    "answer": "Thành lập các nhóm/đội công tác quá trình."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Để thực hiện một yêu cầu vay vốn tại Công ty IBM Credit (như trong tình huống dẫn nhập bài 5) cần thực hiện qua?",
+    "answer": "Năm bước công việc."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Cần phải học những kỹ năng mới."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây KHÔNG chính xác?",
+    "answer": "Các sự vật chỉ có thể phát triển nhờ sự tác động của con người."
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Trong giai đoạn củng cố sự thay đổi, các doanh nghiệp sẽ KHÔNG phải?",
+    "answer": "Chi tiết hóa các kế hoạch hành động."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Nhân tố thúc đẩy sự thay đổi là?",
+    "answer": "Công nghệ kỹ thuật, thiết bị mới."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Những thay đổi nào KHÔNG phù hợp với quan điểm phát triển bền vững?",
+    "answer": "Chỉ đem lại các lợi ích ngắn hạn song lại dẫn đến các thiệt hại lâu dài cho doanh nghiệp."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Để tái lập doanh nghiệp thành công cần tránh sai lầm?",
+    "answer": "Thỏa mãn với các kết quả nhỏ nhặt/kết quả bộ phận."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Quản trị truyền thống?",
+    "answer": "Dựa trên quan điểm chuyên môn hóa."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Nhu cầu thay đổi có thể được nhận diện khá mờ nhạt qua dấu hiệu?",
+    "answer": "Doanh nghiệp thuộc nhóm các doanh nghiệp tiên tiến."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Tính ì."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Vì quản trị truyền thống chưa tốt nên cần cải thiện nó nhờ?",
+    "answer": "Thay đổi triệt để cách làm cũ và tạo ra quy trình hoàn toàn mới."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Bản chất của tái lập doanh nghiệp là?",
+    "answer": "Sự bắt đầu lại, bác bỏ những nhận thức đương thời và những giả thiết đã được chấp nhận."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Tái cơ cấu tổ chức của doanh nghiệp là?",
+    "answer": "Thay đổi mô hình tổ chức và thiết lập mối quan hệ giữa các bộ phận trên cơ sở hình thành các quá trình."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Thay đổi hoạt động kinh doanh là:",
+    "answer": "Thay đổi khách hàng mục tiêu."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Thay đổi cơ cấu tổ chức ở doanh nghiệp tái lập tức là?",
+    "answer": "Tập trung công sức thiết kế cơ cấu tổ chức."
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Thay đổi hoạt động quản trị kinh doanh là?",
+    "answer": "Thay đổi nền tảng cơ sở quản trị."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Trường hợp nào sau đây KHÔNG phải tái lập doanh nghiệp?",
+    "answer": "Không có trường hợp nào."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Để xoá bỏ hạn chế của quản trị truyền thống, cần phải?",
+    "answer": "Từ bỏ cách quản trị cũ và thay vào đó là quản trị theo cách thức hoàn toàn mới - quản trị theo quá trình."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Sau khi tái tạo quá trình 5 công việc được giao cho một nhân viên tổng hợp toàn bộ thời gian giải quyết một yêu cầu vay vốn của công ty IBM Credit chỉ mất?",
+    "answer": "4 giờ."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Sự quen thuộc với môi trường hiện tại."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Đặc trưng của các đội công tác quá trình là?",
+    "answer": "Được trao quyền hạn cần thiết để hoàn thành đơn hàng được giao."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Bản chất của tái lập doanh nghiệp là?",
+    "answer": "Không phải là sự đổi tên doanh nghiệp."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Nhu cầu thay đổi có thể được nhận diện rõ rệt qua dấu hiệu?",
+    "answer": "Khách hàng không hài lòng với sản phẩm hoặc cung cách cung ứng sản phẩm của doanh nghiệp."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Một kế hoạch thay đổi hiệu quả sẽ KHÔNG?",
+    "answer": "Phức tạp."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Để tái lập thành công, phải tránh các sai lầm nào?",
+    "answer": "Tìm cách triển khai tái lập từ dưới lên trên."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Đâu KHÔNG phải là hình thức cải tiến, hoàn thiện?",
+    "answer": "Đa dạng hóa sản phẩm."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Tại doanh nghiệp, nhân viên KHÔNG đặt lòng tin vào điều gì?\n\n:: TLDN.B3.085:: Đặc trưng nào KHÔNG phải là của phương thức quản trị theo quá trình?\n{\n~ Quyền tự chủ của các đội công tác quá trình và người lao động.\n= Chuyên môn hóa cao nhất có thể.\n~ Thay đổi các công việc đào tạo, quan hệ lao động, thù lao lao động.\n~ Thay đổi cơ cấu tổ chức.\n####",
+    "answer": "Cần có mặt tại nơi làm việc để hoàn thành công việc."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Trong giai đoạn phát hiện và nghiên cứu sự thay đổi, doanh nghiệp CHƯA cần thiết phải?",
+    "answer": "Tạo ra được trạng thái mới."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG chính xác về đặc điểm của cải tiến, hoàn thiện?",
+    "answer": "Nếu thành công sẽ đem lại cho doanh nghiệp sự thích ứng thực sự với môi trường."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Muốn thực hiện phương thức quản trị theo quá trình cần phải?",
+    "answer": "Thay đổi cơ cấu tổ chức."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Sai lầm cần tránh nếu muốn tái lập thành công là?",
+    "answer": "Giới hạn trước nội dung và phạm vi tái lập."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Hình thức thay đổi và phát triển bằng con đường tự lớn lên tức là?",
+    "answer": "Doanh nghiệp mở rộng thị trường cung cấp sản phẩm của mình sang các thị trường mới."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Lựa chọn ai là người có trách nhiệm tái lập?",
+    "answer": "Nhà quản trị vừa biết chỉ đạo, vừa khởi xướng, vừa điều hành được."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây KHÔNG chính xác?",
+    "answer": "Chỉ có những thay đổi do doanh nghiệp chủ động thực hiện."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Một kế hoạch thay đổi hiệu quả sẽ KHÔNG?",
+    "answer": "Cứng nhắc, đúng như lịch trình đã định."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Để thay đổi hiệu quả doanh nghiệp cần TRÁNH:",
+    "answer": "Không học hỏi kinh nghiệm từ các doanh nghiệp khác."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Đặc trưng của phương thức quản trị theo quá trình là?",
+    "answer": "Thành lập các nhóm (đội) công tác quá trình."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Trong giai đoạn củng cố sự thay đổi, các doanh nghiệp sẽ KHÔNG phải?",
+    "answer": "Truyền đạt thông tin về kế hoạch thay đổi."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Đặc trưng của các đội công tác quá trình không phải là?",
+    "answer": "Thay đổi ranh giới giữa các loại công việc."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây KHÔNG chính xác?",
+    "answer": "Phát triển tổ chức đề cập đến ở góc độ tạo ra sự thay đổi về lượng."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Ở giai đoạn tổ chức thực hiện sự thay đổi, doanh nghiệp cần?",
+    "answer": "Tạo ra trạng thái mới."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Bản chất của tái lập doanh nghiệp là?",
+    "answer": "Sự bắt đầu hoàn toàn mới."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Cụm từ “Vượt bậc - dramatic” trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) có nghĩa là?",
+    "answer": "Là bước nhảy vọt trong hoạt động, vứt bỏ cái cũ và thay thế bằng cái mới tốt hơn."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?\nĐổi mới trên cơ sở quan điểm quản trị truyền thống dẫn đến:",
+    "answer": "Giúp doanh nghiệp thích ứng tốt hơn với môi trường kinh doanh."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Điều kiện để rút ngắn thời gian giải quyết các nhiệm vụ/công việc của một quá trình kinh doanh là?",
+    "answer": "Người thực hiện nhiệm vụ/công việc được ủy quyền tự giải quyết công việc thuộc phạm vi mình phụ trách."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Cụm từ “quy trình - process” trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) có nghĩa là?",
+    "answer": "Tập trung vào toàn bộ quy trình kinh doanh cơ bản."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Đâu KHÔNG phải phương thức thay đổi và phát triển về lượng?",
+    "answer": "Cải tiến, hoàn thiện."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Tái cấu trúc quá trình kinh doanh là?",
+    "answer": "Tạo lập quá trình kinh doanh cốt lõi và hỗ trợ trong doanh nghiệp."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Người lao động trong quản trị quá trình?",
+    "answer": "Muốn được an toàn, bảo vệ chính mình, muốn làm việc trên tinh thần hợp tác sáng tạo."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Khi tiến hành phân tích hiện trạng, doanh nghiệp cần TRÁNH?",
+    "answer": "Không đủ chứng cứ."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Các việc cần làm để triển khai thực hiện việc tái lập là:",
+    "answer": "Thành lập uỷ ban điều hành quá trình tái lập."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Một trong 4 từ khóa then chốt trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) là?",
+    "answer": "Quy trình."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Để thay đổi hiệu quả, doanh nghiệp cần TRÁNH?\n\n:: TLDN.B2.045:: Nhu cầu thay đổi có thể được nhận diện rõ rệt qua dấu hiệu?\n{\n= Nhân viên không hài lòng với cách thức tổ chức quản trị, xuất hiện các phản ứng tiêu cực từ phía họ.\n~ Doanh nghiệp thuộc nhóm các doanh nghiệp tiên tiến.\n~ Tình trạng của doanh nghiệp đang rất tốt.\n~ Các nhà quản trị cấp cao luôn tự thỏa mãn với thực tại.\n####",
+    "answer": "Tuân thủ mọi quy tắc đã có."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây chính xác?",
+    "answer": "Tái lập đảo ngược cuộc cách mạng công nghiệp, bác bỏ giả thuyết cố hữu của Adam Smith và W.F. Taylor."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây chính xác?",
+    "answer": "Thay đổi là phạm trù phản ánh một hiện tượng không lặp lại trạng thái trước đó."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Cụm từ “tận gốc - radical” trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) có nghĩa là?",
+    "answer": "Bỏ đi những cái cũ và “làm lại” doanh nghiệp."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Đâu KHÔNG phải là hình thức thay đổi và phát triển bằng con đường tự lớn lên?",
+    "answer": "Doanh nghiệp liên kết với các doanh nghiệp khác cùng ngành."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Con đường tái lập là con đường riêng có đối với?",
+    "answer": "Các loại hình doanh nghiệp trong nước và trên thế giới."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Trong giai đoạn củng cố sự thay đổi, các doanh nghiệp sẽ KHÔNG phải?",
+    "answer": "Truyền đạt thông tin về kế hoạch thay đổi."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Đặc trưng của phương thức quản trị theo quá trình là?",
+    "answer": "Thành lập các đội/nhóm công tác quá trình."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Thế nào là tái lập doanh nghiệp?",
+    "answer": "Xoá bỏ quá trình cũ, thiết lập quá trình mới."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Để duy trì sự thay đổi trong tổ chức, nhà quản trị KHÔNG nên?",
+    "answer": "Tự mãn với các kết quả đạt được."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Thế nào là tái lập doanh nghiệp?",
+    "answer": "Là sự tư duy, thiết kế lại quá trình kinh doanh và hoạt động quản trị."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Tại doanh nghiệp đã tái lập, nhân viên đặt lòng tin vào điều gì?",
+    "answer": "Mọi công việc đều thiết yếu và quan trọng."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Thay đổi và phát triển bằng con đường tự lớn lên là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp tự tích tụ để “lớn lên”."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Để tái lập thành công, phải tránh các sai lầm nào?",
+    "answer": "Giới hạn trước nội dung và phạm vi tái lập."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Chọn mệnh đề chính xác. Đặc trưng của các đội công tác quá trình là?",
+    "answer": "Có quyền hạn cần thiết để hoàn thành nhiệm vụ."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Chọn mệnh đề chính xác. Đặc trưng của các đội công tác quá trình là?",
+    "answer": "Người lao động có những kỹ năng và kiến thức mới."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây là KHÔNG chính xác?",
+    "answer": "Tái lập là sự thay đổi vụn vặt."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Một kế hoạch thay đổi hiệu quả sẽ KHÔNG?",
+    "answer": "Thiếu nội dung trình bày về vai trò và trách nhiệm của những người tham gia."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Nội dung cơ bản, cốt lõi của tái lập doanh nghiệp là?",
+    "answer": "Tái tạo quá trình."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Ai là người quyết định phương án tái lập doanh nghiêp?",
+    "answer": "Chủ doanh nghiệp hoặc người được chủ doanh nghiệp trao quyền chỉ đạo."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Đặc trưng cơ bản của tái tạo quá trình kinh doanh là?",
+    "answer": "Bảo đảm tính tự nhiên của quá trình."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Để vượt qua những cản trở đối với sự thay đổi, nhà quản trị cần?",
+    "answer": "Cung cấp đầy đủ các thông tin phù hợp, cần thiết."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Để xóa bổ hạn chế của phương thức quản trị truyền thống cần?",
+    "answer": "Nghiên cứu kỹ cách đang làm và xử lý tốt khâu phối hợp công việc."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Cách quản trị truyền thống mang bản chất là?",
+    "answer": "Dựa trên cơ sở chuyên môn hóa."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Nhân tố thúc đẩy sự thay đổi là?",
+    "answer": "Sự cạnh tranh."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Đăc trưng của tái tạo quá trình kinh doanh là?",
+    "answer": "Trao quyền chủ động giải quyết công việc cho người đảm nhận nó"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Chuyên môn hóa trong lao động có nghĩa là?",
+    "answer": "Phân chia nhỏ các công việc thành các công việc cụ thể."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Chọn mệnh đề đúng nhất trong các mệnh đề sau.\nCác trường hợp tái lập doanh nghiệp?",
+    "answer": "Các doanh nghiệp đang gặp khó khăn nghiêm trọng, hay có thể chưa đến mức lâm vào khó khăn, hoặc đang trong thời kỳ hưng thịnh đều có thể tiến hành tái lập doanh nghiệp."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Quản trị sự thay đổi là tổng hợp các hoạt động quản trị và có ảnh hưởng như thế nào đến quá trình thay đổi của doanh nghiệp?",
+    "answer": "Phát hiện, thúc đẩy và điều khiển."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Đổi mới quản lý doanh nghiệp trên cơ sở quan điểm quản trị truyền thống dẫn đến?",
+    "answer": "Không giải quyết tận gốc các hạn chế vốn có."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Cụm từ “cơ bản - fundamental” trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) có nghĩa là?",
+    "answer": "Trước tiên cần phải biết doanh nghiệp cần làm gì."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Tái lập doanh nghiệp là?",
+    "answer": "Sự thay đổi triệt để."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Từ khóa nào KHÔNG có trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993)?",
+    "answer": "Cải tiến (enhancing)."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Đặc trưng nào KHÔNG phải là của các đội công tác quá trình?",
+    "answer": "Không cần tuân thủ nghiêm ngặt các thể lệ, qui tắc để đảm bảo tính linh hoạt."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Để nhận được sự thông cảm và ủng hộ, nhà quản trị KHÔNG cần quan tâm đến?",
+    "answer": "Các mục tiêu của doanh nghiệp trong những năm qua."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Việc phát triển đội ngũ nhân viên sẽ?",
+    "answer": "Ảnh hưởng lâu dài đối với tương lai và lợi ích của doanh nghiệp."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Nhu cầu thay đổi có thể được nhận diện rõ rệt qua dấu hiệu?",
+    "answer": "Doanh nghiệp lâm vào tình trạng khủng hoảng, tình hình kinh doanh bi đát, lỗ vốn."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Để loại bỏ các hạn chế của phương thức quản trị truyền thống cần?",
+    "answer": "Tái tạo quá trình kinh doanh và chuyển sang quản trị theo quá trình."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG chính xác?",
+    "answer": "Bản chất của tái cấu trúc là cải tiến, hoàn thiện."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Sự tự mãn."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Khi tiến hành phân tích hiện trạng, doanh nghiệp cần tránh?",
+    "answer": "Chủ quan."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Cách thức quản trị trong các doanh nghiệp hiện nay?",
+    "answer": "Dựa trên cơ sở chuyên môn hóa công việc và người lao động."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Một kế hoạch thay đổi hiệu quả sẽ KHÔNG?",
+    "answer": "Chỉ được hình thành từ nhà quản trị cấp cao."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Bản chất của tái lập doanh nghiệp là gì?",
+    "answer": "Là thay đổi từ nhận thức, thay đổi tận gốc rễ về kinh doanh và quản trị doanh nghiệp."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Nội dung cơ bản của quản trị theo quá trình là?",
+    "answer": "Thay đổi các công tác đào tạo, quan hệ lao động, thù lao lao động…"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Để tái lập thành công, phải tránh các sai lầm nào?",
+    "answer": "Để quan điểm cũ chi phối quá trình."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Căn cứ để lập kế hoạch thay đổi sẽ KHÔNG bao gồm?",
+    "answer": "Các giải pháp thay đổi thành công."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Để củng cố sự thay đổi, nhà quản trị KHÔNG cần đánh giá, phân tích về?",
+    "answer": "Chi tiết hóa các kế hoạch hành động."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây chính xác?",
+    "answer": "Sáp nhập vừa tăng được sức mạnh của chính doanh nghiệp vừa giảm được đối thủ cạnh tranh."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây KHÔNG chính xác về thay đổi hoạt động kinh doanh?",
+    "answer": "Thay đổi nền tảng cơ sở quản trị."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Thay đổi bằng con đường liên kết là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp lớn lên nhờ liên kết với các doanh nghiệp khác trong chuỗi cung cấp sản phẩm cho khách hàng."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Mua bán, sáp nhập doanh nghiệp là một cách thức?",
+    "answer": "Tái cấu trúc doanh nghiệp."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Ai có quyền lựa chọn người tái lập doanh nghiệp?",
+    "answer": "Chủ doanh nghiệp."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Trong giai đoạn triển khai kế hoạch thay đổi, các doanh nghiệp KHÔNG cần thực hiện?",
+    "answer": "Xem xét lại các giả định."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Khi tiến hành phân tích hiện trạng, doanh nghiệp cần TRÁNH?",
+    "answer": "Không đủ chứng cứ."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Để vượt qua những cản trở đối với sự thay đổi, các nhà quản trị doanh nghiệp KHÔNG nên?",
+    "answer": "Lôi cuốn sự tham gia của một số ít thành viên."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Sai lầm cần tránh nếu muốn tái lập thành công là?",
+    "answer": "Giới hạn trước nội dung và phạm vi tái lập."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Chuyên môn hóa trong lao động có nghĩa là?",
+    "answer": "Phân chia nhỏ các công việc thành các công việc cụ thể."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Cụm từ “Vượt bậc - dramatic” trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) có nghĩa là?",
+    "answer": "Là bước nhảy vọt trong hoạt động, vứt bỏ cái cũ và thay thế bằng cái mới tốt hơn."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Đặc trưng của các đội công tác quá trình là?",
+    "answer": "Được trao quyền hạn cần thiết để hoàn thành đơn hàng được giao."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khi tiến hành phân tích hiện trạng, doanh nghiệp KHÔNG cần rút ra kết luận về?",
+    "answer": "Các giải pháp đảm bảo thay đổi thành công."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?",
+    "answer": "Tái lập là sự cải tiến từng bộ phận, từng đơn vị trong doanh nghiệp."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Nhân tố thúc đẩy sự thay đổi là?",
+    "answer": "Người lao động có những kỹ năng và kiến thức mới."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Nhân tố cản trở sự thay đổi là?",
+    "answer": "Sự quen thuộc với môi trường hiện tại."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Một trong 4 từ khóa then chốt trong định nghĩa về tái lập doanh nghiệp của Michael Hammer và James Champy (1993) là?",
+    "answer": "Quy trình."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Theo mô hình Lewin, sự thay đổi trong tổ chức diễn ra khi?",
+    "answer": "Áp lực thúc đẩy mạnh hơn áp lực cản trở."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG chính xác?",
+    "answer": "Bản chất của tái cấu trúc là cải tiến, hoàn thiện."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Đâu KHÔNG phải là hình thức thay đổi và phát triển bằng con đường tự lớn lên?",
+    "answer": "Doanh nghiệp liên kết với các doanh nghiệp khác cùng ngành."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Thế nào là tái lập doanh nghiệp?",
+    "answer": "Xoá bỏ quá trình cũ, thiết lập quá trình mới."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Đặc trưng của phương thức quản trị theo quá trình là?",
+    "answer": "Thành lập các nhóm (đội) công tác quá trình."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Để vượt qua những cản trở đối với sự thay đổi, nhà quản trị cần?",
+    "answer": "Cung cấp đầy đủ các thông tin phù hợp, cần thiết."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Thay đổi và phát triển bằng cách sáp nhập là?",
+    "answer": "Hình thức phát triển mà doanh nghiệp lớn lên bằng cách sáp nhập với một/một số doanh nghiệp khác."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Nhân tố thúc đẩy sự thay đổi là?",
+    "answer": "Những mục tiêu thực hiện cao."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Nhu cầu thay đổi có thể được nhận diện rõ rệt qua dấu hiệu?",
+    "answer": "Khách hàng không hài lòng với sản phẩm hoặc cung cách cung ứng sản phẩm của doanh nghiệp."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Bản chất của tái lập doanh nghiệp là gì?",
+    "answer": "Là thay đổi từ nhận thức, thay đổi tận gốc rễ về kinh doanh và quản trị doanh nghiệp."
+  }
+]

@@ -1,0 +1,1532 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Một ngân hàng tính được giá trị rủi ro (VaR) của danh mục đầu tư của mình là 10 triệu đồng (xét về độ lớn) với chu kỳ 1 ngày và độ tin cậy 99%. Hãy cho biết giải thích nào dưới đây về VaR là đúng?",
+    "answer": "Với xác suất 99%, danh mục đầu tư của công ty đó có thể lỗ tối đa là 10 triệu đồng ở ngày tiếp theo."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Ngân hàng A định đầu tư vào 1 danh mục có lợi suất kỳ vọng là 0,06 và phương sai của lợi suất tài sản đó là 0,0025. Giả thiết lợi suất của tài sản là biến ngẫu nhiên phân phối chuẩn. Hãy tính VaR(10 ngày, 97,5%). Cho N–1(0,025) = –1,96.",
+    "answer": "–0,2499"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Lợi suất của cổ phiếu ACB có phương sai cao hơn lợi suất của cổ phiếu STB. Thông tin này cho biết điều gì?",
+    "answer": "Cổ phiếu ACB rủi ro hơn cổ phiếu STB."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Cho lợi suất (chu kỳ 1 ngày) kỳ vọng của một danh mục P là 0,0005 và độ lệch chuẩn của lợi suất danh mục đó là 0,0015. Giả thiết lợi suất của danh mục là biến ngẫu nhiên phân phối chuẩn. Hãy cho biết VaR(100 ngày, 99%) của danh mục P bằng bao nhiêu. Cho N–1(0,01) = – 2,33",
+    "answer": "–0,2995"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Rủi ro biến động giá chứng khoán được coi là rủi ro gì đối với ngân hàng khi ngân hàng kinh doanh một phần vốn trên thị trường chứng khoán?",
+    "answer": "Rủi ro thị trường."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Theo Basel II, những phương pháp nào được sử dụng để đo lường rủi ro thị trường?",
+    "answer": "Phương pháp tiêu chuẩn, phương pháp mô hình nội bộ và phương pháp phân bổ tổn thất."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Độ biến động của thị trường được đo lường bằng đại lượng nào trong toán học?",
+    "answer": "Phương sai."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Tổn thất từ hoạt động tín dụng của ngân hàng được xác định bằng:",
+    "answer": "tổng tổn thất dự kiến và tổn thất ngoài dự kiến."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Giả sử có hai yếu tố sau tác động đến hành vi không trả được nợ trong quá khứ của các khách hàng vay là tỉ số nợ trên vốn chủ sở hữu (D/E) và tỉ số doanh thu trên tổng tài sản (S/A). Dựa trên số liệu vỡ nợ trong quá khứ, người ta ước lượng được mô hình hồi quy tuyến tính như sau:\nPDi = 0,5 (D/Ei) + 0,1 (S/Ai) Giả thiết rằng 1 khách hàng tiềm năng có D/E = 0,3 và S/A = 2,0 thì xác suất vỡ nợ của khách hàng đó bằng bao nhiêu?",
+    "answer": "0,35"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Phương pháp nào đo lường rủi ro tín dụng mà hệ số rủi ro được xác định và được hỗ trợ bởi đánh giá của các tổ chức xếp hạng bên ngoài như Moody’s hay Standard & Poor… để tính vốn cần thiết cho rủi ro tín dụng",
+    "answer": "Phương pháp tiêu chuẩn."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Theo quy định của Basel II, khách hàng có số ngày trả nợ quá hạn trên bao nhiêu ngày thì khách hàng đó được coi là khách hàng xấu (Bad)?",
+    "answer": "90 ngày."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Giả sử rằng ước lượng được mô hình xác suất tuyến tính sau: PD = 0,3X1 + 0,2X2 – 0,5X3 Trong đó:\nX1 = 0,75 là tỉ số nợ trên vốn chủ sở hữu của khách hàng vay.\nX2 = 0,25 là độ biến động thu nhập của khách hàng vay.\nX3 = 0,1 là chỉ số lợi nhuận của khách hàng vay.\nTính xác suất vỡ nợ (PD) của khách hàng trên?",
+    "answer": "0,225"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Một doanh nghiệp sản xuất chưa cổ phần hóa tham gia vay vốn tại ngân hàng có các chỉ số tài chính như sau X1 (Vốn Lưu Động trên Tổng tài sản) = 0,4; X2 (Lợi nhuận giữ lại trên Tổng tài sản) = 0,1; X3 (Lợi nhuận trước lãi vay và thuế trên Tổng tài sản) = 0,4; X4 (Vốn chủ sở hữu trên Tổng nợ) = 0,15; X5 (Doanh số trên Tổng tài sản) = 2,4. Dựa trên mô hình chỉ số Z, hãy xác định trạng thái của doanh nghiệp này.",
+    "answer": "Doanh nghiệp nằm trong vùng an toàn, chưa có nguy cơ phá sản."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Một doanh nghiệp cổ phần tham gia vay vốn tại ngân hàng có các chỉ số tài chính như sau: X1 (Vốn lưu động trên Tổng tài sản) = 0,2; X2 (Lợi nhuận giữ lại trên Tổng tài sản) = 0; X3 (Lợi nhuận trước lãi vay và thuế trên Tổng tài sản) = –0,2; X4 (Vốn chủ sở hữu trên Tổng nợ) = 0,1; X5 (Doanh số trên Tổng tài sản) = 2,0. Dựa trên mô hình chỉ số Z, hãy xác định trạng thái của doanh nghiệp này.",
+    "answer": "Doanh nghiệp nằm trong vùng nguy hiểm, nguy cơ phá sản cao."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Giả sử rằng ước lượng được mô hình xác suất tuyến tính sau: PD = 0,1X1 + 0,4X2 – 0,2X3 Trong đó:\nX1 = 0,15 là tỉ số nợ trên vốn chủ sở hữu của khách hàng vay.\nX2 = 0,45 là độ biến động thu nhập của khách hàng vay.\nX3 = 0,4 là chỉ số lợi nhuận của khách hàng vay.\nTính xác suất vỡ nợ của khách hàng trên?",
+    "answer": "0,115"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Mô hình kinh tế lượng nào được sử dụng để xây dựng thẻ điểm tín dụng?",
+    "answer": "Mô hình Logistic."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Ngân hàng A cho khách hàng vay 1 khoản trị giá 200 triệu đồng, ngân hàng ước tính được xác suất vỡ nợ của khách hàng này là 0,36, tổng dư nợ của khách hàng tại thời điểm khách hàng không trả được nợ được ước tính khoảng 150 triệu đồng. Dựa trên các thông tin phân tích khách hàng, ngân hàng tính được tổn thất chung mà ngân hàng phải chịu khi cho vay khách hàng này vay là 35 triệu đồng, trong đó tổn thất ngoài dự kiến là 12 triệu đồng. Hãy xác định tỷ lệ thu hồi tổn thất của khoản vay này.",
+    "answer": "0,574"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Người ta ước lượng được mô hình điểm số Z như sau:\nZ = 1,2X1 + 1,4X2 + 3,3X3 + 0,6X4 + 1,0X5 Trong đó:\nX1 = tỷ số “Vốn lưu động ròng/Tổng tài sản”.\nX2 = tỷ số “Lợi nhuận giữ lại/Tổng tài sản”.\nX3 = tỷ số “Lợi nhuận trước thuế và tiền lãi/Tổng tài sản”.\nX4 = tỷ số “Thị giá cổ phiếu/Giá trị ghi sổ của nợ dài hạn”.\nX5 = tỷ số “Doanh thu/Tổng tài sản”. Giả sử các chỉ số tài chính của 1 doanh nghiệp vay vốn tại ngân hàng như sau:\nX1 = 0,2; X2 = 0; X3 = –0,2; X4 = 0,1; X5 = 2,0. Hãy xác định điểm số Z của khách hàng này?",
+    "answer": "1,64"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Theo quy định của Basel II, sự khác nhau cơ bản giữa phương pháp dựa trên đánh giá nội bộ cơ bản và phương pháp dựa trên đánh giá nội bộ cao cấp là gì?",
+    "answer": "Phương pháp dựa trên đánh giá nội bộ cao cấp các ngân hàng phải tự ước tính PD, EAD và LGD."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Một khách hàng có xác suất vỡ nợ được ước tính là 0,23, tỷ trọng tổn thất dự tính là 0,15 và dư nợ của khách hàng tại thời điểm vỡ nợ được ước tính là khoảng 150 triệu đồng. Hãy xác định tổn thất dự kiến (EL) của ngân hàng với khoản vay của khách hàng đó.",
+    "answer": "5,175 triệu đồng."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Ngân hàng A cho khách hàng vay một khoản với giá trị là 100 triệu đồng, ngân hàng ước tính xác suất vợ nợ của khách hàng là 0,35, tỷ lệ thu hồi vốn của khách hàng tại thời điểm vỡ nợ được ước tính dựa trên giá trị tài sản đảm bảo và bằng 0,4. Hãy xác định tổn thất dự kiến của ngân hàng với khoản vay này?",
+    "answer": "21 triệu đồng."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Một khách hàng vay vốn tại ngân hàng có xác suất vỡ nợ được ngân hàng tính toán là 0,24, tỷ trọng tổn thất ước tính của khoản vay này là 0,45. Dựa trên các thông tin phân tích khách hàng, ngân hàng ước tính được tổn thất dự kiến mà khoản vay này mang lại cho ngân hàng là 25,6 triệu. Hãy xác định tổng dư nợ của khách hàng tại thời điểm khách hàng không trả được nợ là bao nhiêu?",
+    "answer": "237 triệu đồng."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Ngân hàng A cho khách hàng vay một khoản vay trị giá 500 triệu đồng, ngân hàng ước tính được xác suất vỡ nợ của khách hàng này là 0,4 và sau 2 tháng khách hàng sẽ trả được cho ngân hàng 50 triệu đồng, ngân hàng cũng ước tính sau 2 tháng này thì tỷ lệ thu hồi vốn của khách hàng sẽ bằng 0,54. Hãy xác định tổn thất dự kiến (EL) của ngân hàng với khách hàng sau 2 tháng từ khi khoản vay được khởi tạo?",
+    "answer": "82,8 triệu đồng."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Biến phụ thuộc trong mô hình chấm điểm tín dụng là loại biến gì?",
+    "answer": "Biến định tính."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Ngân hàng A nắm giữ 1 danh mục gồm 10 trái phiếu xếp hạng AA với tổng giá trị là 200 triệu đồng. Xác suất vỡ nợ trong 1 năm của mỗi nhà phát hành trái phiếu là 5% và tỷ lệ thu hồi tiền mặt của mỗi nhà phát hành bằng 40%. Tổn thất dự kiến (EL) của ngân hàng bằng bao nhiêu khi nắm giữ danh mục đó?",
+    "answer": "6 triệu đồng."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Vai trò chủ chốt của thẻ điểm tín dụng trong hoạt động tín dụng của ngân hàng là gì?",
+    "answer": "Lựa chọn khách hàng để đưa ra quyết định cấp tín dụng phù hợp."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Theo quyết định 493 của Ngân hàng Nhà nước, rủi ro tín dụng là gì?",
+    "answer": "Là khả năng xảy ra tổn thất trong hoạt động ngân hàng của tổ chức tín dụng do khách hàng không thực hiện hoặc không có khả năng thực hiện các nghĩa vụ của mình theo cam kết."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Dữ liệu lịch sử để tính PD trong phương pháp dựa trên đánh giá nội bộ đòi hỏi phải có tối thiểu bao nhiêu năm?",
+    "answer": "5 năm."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Ngân hàng A cho khách hàng vay 1 khoản trị giá 200 triệu đồng, ngân hàng ước tính được xác suất vỡ nợ của khách hàng này là 0,16, tổng dư nợ của khách hàng tại thời điểm khách hàng không trả được nợ được ước tính khoảng 150 triệu đồng. Dựa trên các thông tin phân tích khách hàng, ngân hàng tính được tổn thất chung mà ngân hàng phải chịu khi cho vay khách hàng này vay là 35 triệu đồng, trong đó tổn thất ngoài dự kiến là 12 triệu đồng. Hãy xác định tỷ trọng tổn thất ước tính của khoản vay này.",
+    "answer": "0,95833"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Sử dụng các công cụ phái sinh là một biện pháp để làm gì?",
+    "answer": "Kiểm soát rủi ro."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Một doanh nghiệp ngành sản xuất, đã cổ phần hóa muốn vay vốn tại ngân hàng A. Ngân hàng này sau khi tính toán các chỉ số tài chính của doanh nghiệp, đã xác định được điểm số Z của khách hàng này là 3,4. Vậy khách hàng này được xếp vào nhóm khách hàng nào sau đây?",
+    "answer": "Nhóm khách hàng an toàn, chưa có nguy cơ phá sản."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Mục tiêu nào quan trọng nhất trong các mục tiêu của quản trị rủi ro tín dụng?",
+    "answer": "Đánh giá chính xác nguy cơ gây tổn thất của khách hàng trước khi cho vay, làm cơ sở để đưa ra quyết định phù hợp."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Một doanh nghiệp dịch vụ tham gia vay vốn tại ngân hàng A có các chỉ số tài chính trong mô hình điểm số Z được tính toán như sau: X1 (Vốn lưu động trên Tổng tài sản) = 0,37; X2 (Lợi nhuận giữ lại trên Tổng tài sản) = 0,23; X3 (Lợi nhuận trước lãi vay và thuế trên Tổng tài sản) = 0,32; X4\n(Vốn chủ sở hữu trên Tổng nợ) = – 2,8; Dựa trên mô hình chỉ số Z, hãy xác định trạng thái của doanh nghiệp này.",
+    "answer": "Doanh nghiệp nằm trong vùng cảnh báo, có thể có nguy cơ phá sản."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Các biến số như tuổi của khách hàng, thu nhập của khách hàng… đóng vai trò là biến gì trong thẻ điểm tín dụng cá nhân?",
+    "answer": "Biến độc lập."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Dữ liệu lịch sử để ước tính LGD và EAD trong phương pháp dựa trên đánh giá nội bộ cao cấp đòi hỏi tối thiểu bao nhiêu năm?",
+    "answer": "7 năm."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Rủi ro nào là rủi ro lớn nhất đối với các ngân hàng thương mại Việt Nam hiện nay?",
+    "answer": "Rủi ro tín dụng."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Theo quy định của Basel II, sự khác nhau cơ bản giữa phương pháp dựa trên đánh giá nội bộ cơ bản và phương pháp dựa trên đánh giá nội bộ cao cấp là gì?",
+    "answer": "Phương pháp dựa trên đánh giá nội bộ cao cấp các ngân hàng phải tự ước tính PD, EAD và LGD."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Theo quy định của Basel II, sự khác nhau cơ bản giữa phương pháp dựa trên đánh giá nội bộ cơ bản và phương pháp dựa trên đánh giá nội bộ cao cấp là gì?",
+    "answer": "Phương pháp tiêu chuẩn."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Giả sử rằng ước lượng được mô hình xác suất tuyến tính sau: PD = 0,1X1 + 0,4X2 – 0,2X3 Trong đó:\nX1 = 0,15 là tỉ số nợ trên vốn chủ sở hữu của khách hàng vay.\nX2 = 0,45 là độ biến động thu nhập của khách hàng vay.\nX3 = 0,4 là chỉ số lợi nhuận của khách hàng vay.\nTính xác suất vỡ nợ của khách hàng trên?",
+    "answer": "0,115"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Một doanh nghiệp cổ phần tham gia vay vốn tại ngân hàng có các chỉ số tài chính như sau: X1 (Vốn lưu động trên Tổng tài sản) = 0,2; X2 (Lợi nhuận giữ lại trên Tổng tài sản) = 0; X3 (Lợi nhuận trước lãi vay và thuế trên Tổng tài sản) = –0,2; X4 (Vốn chủ sở hữu trên Tổng nợ) = 0,1; X5 (Doanh số trên Tổng tài sản) = 2,0. Dựa trên mô hình chỉ số Z, hãy xác định trạng thái của doanh nghiệp này.",
+    "answer": "Doanh nghiệp nằm trong vùng nguy hiểm, nguy cơ phá sản cao."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Dữ liệu lịch sử để tính PD trong phương pháp dựa trên đánh giá nội bộ đòi hỏi phải có tối thiểu bao nhiêu năm?",
+    "answer": "5 năm."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Vai trò chủ chốt của thẻ điểm tín dụng trong hoạt động tín dụng của ngân hàng là gì?",
+    "answer": "Lựa chọn khách hàng để đưa ra quyết định cấp tín dụng phù hợp."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Tổn thất từ hoạt động tín dụng của ngân hàng được xác định bằng:",
+    "answer": "tổng tổn thất dự kiến và tổn thất ngoài dự kiến."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Rủi ro nào là rủi ro lớn nhất đối với các ngân hàng thương mại Việt Nam hiện nay?",
+    "answer": "Rủi ro tín dụng."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Theo quy định của Basel II, khách hàng có số ngày trả nợ quá hạn trên bao nhiêu ngày thì khách hàng đó được coi là khách hàng xấu (Bad)?",
+    "answer": "90 ngày."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Một khách hàng có xác suất vỡ nợ được ước tính là 0,23, tỷ trọng tổn thất dự tính là 0,15 và dư nợ của khách hàng tại thời điểm vỡ nợ được ước tính là khoảng 150 triệu đồng. Hãy xác định tổn thất dự kiến (EL) của ngân hàng với khoản vay của khách hàng đó.",
+    "answer": "5,175 triệu đồng."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Một doanh nghiệp sản xuất chưa cổ phần hóa tham gia vay vốn tại ngân hàng có các chỉ số tài chính như sau X1 (Vốn Lưu Động trên Tổng tài sản) = 0,4; X2 (Lợi nhuận giữ lại trên Tổng tài sản) = 0,1; X3 (Lợi nhuận trước lãi vay và thuế trên Tổng tài sản) = 0,4; X4 (Vốn chủ sở hữu trên Tổng nợ) = 0,15; X5 (Doanh số trên Tổng tài sản) = 2,4. Dựa trên mô hình chỉ số Z, hãy xác định trạng thái của doanh nghiệp này.",
+    "answer": "Doanh nghiệp nằm trong vùng an toàn, chưa có nguy cơ phá sản."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Ngân hàng A cho khách hàng vay 1 khoản trị giá 200 triệu đồng, ngân hàng ước tính được xác suất vỡ nợ của khách hàng này là 0,36, tổng dư nợ của khách hàng tại thời điểm khách hàng không trả được nợ được ước tính khoảng 150 triệu đồng. Dựa trên các thông tin phân tích khách hàng, ngân hàng tính được tổn thất chung mà ngân hàng phải chịu khi cho vay khách hàng này vay là 35 triệu đồng, trong đó tổn thất ngoài dự kiến là 12 triệu đồng. Hãy xác định tỷ lệ thu hồi tổn thất của khoản vay này.",
+    "answer": "0,574"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Ngân hàng A cho khách hàng vay 1 khoản trị giá 200 triệu đồng, ngân hàng ước tính được xác suất vỡ nợ của khách hàng này là 0,16, tổng dư nợ của khách hàng tại thời điểm khách hàng không trả được nợ được ước tính khoảng 150 triệu đồng. Dựa trên các thông tin phân tích khách hàng, ngân hàng tính được tổn thất chung mà ngân hàng phải chịu khi cho vay khách hàng này vay là 35 triệu đồng, trong đó tổn thất ngoài dự kiến là 12 triệu đồng. Hãy xác định tỷ trọng tổn thất ước tính của khoản vay này.",
+    "answer": "0,95833"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Các biến số như tuổi của khách hàng, thu nhập của khách hàng… đóng vai trò là biến gì trong thẻ điểm tín dụng cá nhân?",
+    "answer": "Biến độc lập."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Một doanh nghiệp ngành sản xuất, đã cổ phần hóa muốn vay vốn tại ngân hàng A. Ngân hàng này sau khi tính toán các chỉ số tài chính của doanh nghiệp, đã xác định được điểm số Z của khách hàng này là 3,4. Vậy khách hàng này được xếp vào nhóm khách hàng nào sau đây?",
+    "answer": "Nhóm khách hàng an toàn, chưa có nguy cơ phá sản."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Biến phụ thuộc trong mô hình chấm điểm tín dụng là loại biến gì?",
+    "answer": "Biến định tính."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Biến phụ thuộc trong mô hình chấm điểm tín dụng là loại biến gì?",
+    "answer": "0,225"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Mục tiêu nào quan trọng nhất trong các mục tiêu của quản trị rủi ro tín dụng?",
+    "answer": "Đánh giá chính xác nguy cơ gây tổn thất của khách hàng trước khi cho vay, làm cơ sở để đưa ra quyết định phù hợp."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Theo quyết định 493 của Ngân hàng Nhà nước, rủi ro tín dụng là gì?",
+    "answer": "Là khả năng xảy ra tổn thất trong hoạt động ngân hàng của tổ chức tín dụng do khách hàng không thực hiện hoặc không có khả năng thực hiện các nghĩa vụ của mình theo cam kết."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Ngân hàng A cho khách hàng vay một khoản với giá trị là 100 triệu đồng, ngân hàng ước tính xác suất vợ nợ của khách hàng là 0,35, tỷ lệ thu hồi vốn của khách hàng tại thời điểm vỡ nợ được ước tính dựa trên giá trị tài sản đảm bảo và bằng 0,4. Hãy xác định tổn thất dự kiến của ngân hàng với khoản vay này?",
+    "answer": "21 triệu đồng."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Mô hình kinh tế lượng nào được sử dụng để xây dựng thẻ điểm tín dụng?",
+    "answer": "Mô hình Logistic."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Một doanh nghiệp dịch vụ tham gia vay vốn tại ngân hàng A có các chỉ số tài chính trong mô hình điểm số Z được tính toán như sau: X1 (Vốn lưu động trên Tổng tài sản) = 0,37; X2 (Lợi nhuận giữ lại trên Tổng tài sản) = 0,23; X3 (Lợi nhuận trước lãi vay và thuế trên Tổng tài sản) = 0,32; X4\n(Vốn chủ sở hữu trên Tổng nợ) = – 2,8; Dựa trên mô hình chỉ số Z, hãy xác định trạng thái của doanh nghiệp này.",
+    "answer": "Doanh nghiệp nằm trong vùng cảnh báo, có thể có nguy cơ phá sản."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Giả sử có hai yếu tố sau tác động đến hành vi không trả được nợ trong quá khứ của các khách hàng vay là tỉ số nợ trên vốn chủ sở hữu (D/E) và tỉ số doanh thu trên tổng tài sản (S/A). Dựa trên số liệu vỡ nợ trong quá khứ, người ta ước lượng được mô hình hồi quy tuyến tính như sau:\nPDi = 0,5 (D/Ei) + 0,1 (S/Ai) Giả thiết rằng 1 khách hàng tiềm năng có D/E = 0,3 và S/A = 2,0 thì xác suất vỡ nợ của khách hàng đó bằng bao nhiêu?",
+    "answer": "0,35"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Một khách hàng vay vốn tại ngân hàng có xác suất vỡ nợ được ngân hàng tính toán là 0,24, tỷ trọng tổn thất ước tính của khoản vay này là 0,45. Dựa trên các thông tin phân tích khách hàng, ngân hàng ước tính được tổn thất dự kiến mà khoản vay này mang lại cho ngân hàng là 25,6 triệu. Hãy xác định tổng dư nợ của khách hàng tại thời điểm khách hàng không trả được nợ là bao nhiêu?",
+    "answer": "237 triệu đồng."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Ngân hàng A nắm giữ 1 danh mục gồm 10 trái phiếu xếp hạng AA với tổng giá trị là 200 triệu đồng. Xác suất vỡ nợ trong 1 năm của mỗi nhà phát hành trái phiếu là 5% và tỷ lệ thu hồi tiền mặt của mỗi nhà phát hành bằng 40%. Tổn thất dự kiến (EL) của ngân hàng bằng bao nhiêu khi nắm giữ danh mục đó?",
+    "answer": "6 triệu đồng."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Ngân hàng A cho khách hàng vay một khoản vay trị giá 500 triệu đồng, ngân hàng ước tính được xác suất vỡ nợ của khách hàng này là 0,4 và sau 2 tháng khách hàng sẽ trả được cho ngân hàng 50 triệu đồng, ngân hàng cũng ước tính sau 2 tháng này thì tỷ lệ thu hồi vốn của khách hàng sẽ bằng 0,54. Hãy xác định tổn thất dự kiến (EL) của ngân hàng với khách hàng sau 2 tháng từ khi khoản vay được khởi tạo?",
+    "answer": "82,8 triệu đồng."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Sử dụng các công cụ phái sinh là một biện pháp để làm gì?",
+    "answer": "Kiểm soát rủi ro."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Người ta ước lượng được mô hình điểm số Z như sau:\nZ = 1,2X1 + 1,4X2 + 3,3X3 + 0,6X4 + 1,0X5 Trong đó:\nX1 = tỷ số “Vốn lưu động ròng/Tổng tài sản”.\nX2 = tỷ số “Lợi nhuận giữ lại/Tổng tài sản”.\nX3 = tỷ số “Lợi nhuận trước thuế và tiền lãi/Tổng tài sản”.\nX4 = tỷ số “Thị giá cổ phiếu/Giá trị ghi sổ của nợ dài hạn”.\nX5 = tỷ số “Doanh thu/Tổng tài sản”. Giả sử các chỉ số tài chính của 1 doanh nghiệp vay vốn tại ngân hàng như sau:\nX1 = 0,2; X2 = 0; X3 = –0,2; X4 = 0,1; X5 = 2,0. Hãy xác định điểm số Z của khách hàng này?",
+    "answer": "1,64"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Dữ liệu lịch sử để ước tính LGD và EAD trong phương pháp dựa trên đánh giá nội bộ cao cấp đòi hỏi tối thiểu bao nhiêu năm?",
+    "answer": "7 năm."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Theo quy định của Basel II, sự khác nhau cơ bản giữa phương pháp dựa trên đánh giá nội bộ cơ bản và phương pháp dựa trên đánh giá nội bộ cao cấp là gì?",
+    "answer": "Phương pháp dựa trên đánh giá nội bộ cao cấp các ngân hàng phải tự ước tính PD, EAD và LGD."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Theo quy định của Basel II, khách hàng có số ngày trả nợ quá hạn trên bao nhiêu ngày thì khách hàng đó được coi là khách hàng xấu (Bad)?",
+    "answer": "90 ngày."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Theo quy định của Basel II, khách hàng có số ngày trả nợ quá hạn trên bao nhiêu ngày thì khách hàng đó được coi là khách hàng xấu (Bad)?",
+    "answer": "Dựa trên danh mục rủi ro có sẵn, tìm ra một số rủi ro là quan trọng nhất với ngân hàng."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Chương trình tự đánh giá rủi ro tuân thủ theo các bước với trình tự như thế nào?",
+    "answer": "Xác định rủi ro trọng yếu → cho điểm rủi ro trọng yếu → sắp xếp rủi ro với các chốt trọng yếu → đánh giá hiệu quả chốt kiểm soát → lập kế hoạch giảm thiểu rủi ro → kiểm tra và báo cáo."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Tại một cây ATM của ngân hàng A xảy ra nhiều lần lệch quỹ trong tháng 5/2015, tổng số tiền bị mất lên tới 514 triệu đồng. Dựa trên phương pháp thống kê và số liệu lịch sử, Ngân hàng A có thể tính được xác suất xảy ra vấn đề lệch quỹ này là 0,14. Mức độ tuyệt đối của rủi ro lệch quỹ ở ngân hàng A là bao nhiêu?",
+    "answer": "71,96 triệu đồng."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Theo quy định của Ủy ban Basel về giám sát Ngân hàng, thì rủi ro hoạt động được hiểu như thế nào?",
+    "answer": "Là rủi ro gây ra tổn thất do các nguyên nhân như con người, sự không đầy đủ hoặc vận hành không tốt các quy trình, hệ thống; các sự kiện khách quan bên ngoài."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Ngân hàng A vừa bị Ngân hàng Nhà nước phạt một số tiền là b triệu VNĐ, và phải hủy giao dịch với khách hàng vì bị phát hiện vi phạm quy trình nghiệp vụ bảo lãnh theo quy định hiện hành của Ngân hàng Nhà nước, do đó ngân hàng phải hoàn trả phí hoa hồng cho khách hàng là 45 triệu VNĐ. Theo thống kê trong dữ liệu tổn thất lịch sử, tần suất xảy ra sự kiện này tại Ngân hàng A là rất thấp, chiếm khoảng 1,2%. Theo báo cáo của chương trình thu thập dữ liệu tổn thất, tổn thất, mức độ tuyệt đối của rủi ro vi phạm quy trình nghiệp vụ hiện hành của Ngân hàng Nhà nước tại Ngân hàng A là 6,54 triệu VNĐ. Hãy xác định b bằng bao nhiêu?",
+    "answer": "500 triệu VNĐ."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Khách hàng của Ngân hàng A chuyển 4 triệu VNĐ để thanh toán hóa đơn dịch vụ, nhưng do sơ suất giao dịch viên của Ngân hàng lại hạch toán thành 4 triệu AUD (tương đương 48,5 tỷ VNĐ tại thời điểm xảy ra sự cố). Theo thống kê dữ liệu tổn thất trong lịch sử, ngân hàng tính được tần suất xảy ra sự cố hạch toán nhầm tại Ngân hàng là 0,06. Hãy xác định mức độ tuyệt đối của rủi ro hạch toán nhầm ở ngân hàng A?",
+    "answer": "2,91 tỷ VNĐ."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Tại một cây ATM của ngân hàng A xảy ra nhiều lần lệch quỹ trong tháng 5/2015, tổng số tiền bị mất lên tới 514 triệu đồng. Theo kết quả phần mềm quản trị rủi ro hoạt động, mức độ tuyệt đối của rủi ro lệch quỹ ở ngân hàng A là 71,96 triệu đồng. Hãy xác định tần suất xảy ra sự kiện lệch quỹ tại Ngân hàng A.",
+    "answer": "0,14"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Chương trình tự đánh giá rủi ro bao gồm mấy bước?",
+    "answer": "6"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Ba phương pháp đo lường rủi ro hoạt động là gì?",
+    "answer": "Phương pháp chỉ số cơ bản, phương pháp tiêu chuẩn và phương pháp đo lường cao cấp."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Sự khác nhau cơ bản giữa mức độ ảnh hưởng và mức độ bị rủi ro là gì?",
+    "answer": "Mức độ ảnh hưởng đo lường mức độ thiệt hại do rủi ro gây ra, còn mức độ bị rủi ro đo lường khả năng hệ thống có thể ngăn chặn rủi ro."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Trong bước sắp xếp rủi ro với các chốt trọng yếu, có mấy loại chốt kiểm soát được đưa ra?",
+    "answer": "2"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Trong bước cho điểm rủi ro trọng yếu thì những tiêu chí nào sau đây được chấm điểm?",
+    "answer": "Ảnh hưởng, khả năng xảy ra, mức độ bị rủi ro."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Phương pháp chỉ số cơ bản được thực hiện dựa trên tính toán dựa trên trung bình lợi nhuận gộp của ngân hàng hàng năm trong mấy năm liền kề?",
+    "answer": "3 năm."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Mức độ phân tách trách nhiệm là yếu tố cần được xem xét trong bước nào của quy trình tự đánh giá rủi ro?",
+    "answer": "Đánh giá hiệu quả chốt kiểm soát"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Sự cố mất điện làm mọi giao dịch tại ngân hàng phải tạm dừng, gây ra cho ngân hàng một khoản tổn thất đáng kể. Sự cố này được xếp vào loại rủi ro nào của ngân hàng?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Điểm khác nhau căn bản giữa rủi ro hoạt động với 2 loại rủi ro còn lại là rủi ro thị trường và rủi ro tín dụng là gì?",
+    "answer": "Rủi ro hoạt động liên quan đến toàn bộ các bộ phận trong ngân hàng còn 2 loại rủi ro kia chỉ liên quan đến một hoặc một số bộ phận của ngân hàng."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Theo quy định của Basel II, khi áp dụng phương pháp đo lường cao cấp để đo lường rủi ro hoạt động, các ngân hàng có thể linh hoạt sử dụng 1 trong 3 phương pháp nảo sau đây?",
+    "answer": "Phương pháp phân bổ tổn thất, phương pháp phân tích tình huống và phương pháp chấm điểm nội bộ."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Ngân hàng A vừa bị Ngân hàng Nhà nước phạt 500 triệu VNĐ, và phải hủy giao dịch với khách hàng vì bị phát hiện vi phạm quy trình nghiệp vụ bảo lãnh theo quy định hiện hành của Ngân hàng Nhà nước, do đó ngân hàng phải hoàn trả phí hoa hồng cho khách hàng là a (triệu VNĐ). Theo thống kê trong dữ liệu tổn thất lịch sử, tần suất xảy ra sự kiện này tại Ngân hàng A là rất thấp, chiếm khoảng 1,2%. Theo báo cáo của chương trình thu thập dữ liệu tổn thất, tổn thất, mức độ tuyệt đối của rủi ro vi phạm quy trình nghiệp vụ hiện hành của Ngân hàng Nhà nước tại Ngân hàng A là 6,54 triệu VNĐ. Hãy xác định a bằng bao nhiêu?",
+    "answer": "45 triệu VNĐ."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Ngân hàng A vừa bị Ngân hàng Nhà nước phạt 500 triệu VNĐ, và phải hủy giao dịch với khách hàng vì bị phát hiện vi phạm quy trình nghiệp vụ bảo lãnh theo quy định hiện hành của Ngân hàng Nhà nước, do đó ngân hàng phải hoàn trả phí hoa hồng cho khách hàng là 45 triệu VNĐ. Theo thống kê trong dữ liệu tổn thất lịch sử, tần suất xảy ra sự kiện này tại Ngân hàng A là rất thấp, chiếm khoảng 1,2%. Hãy xác định mức độ tuyệt đối của rủi ro này tại Ngân hàng A?",
+    "answer": "6,54 triệu VNĐ."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Khách hàng chuyển 500 triệu VND vào tài khoản, nhưng nhân viên giao dịch của ngân hàng lại hạch toán vào tài khoản là 500 triệu USD. Sự cố này gây tổn thất rất lớn cho ngân hàng. Vậy tổn thất này được xếp vào loại rủi ro nào trong những loại sau đây?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Khách hàng của Ngân hàng A chuyển 4 triệu VNĐ để thanh toán hóa đơn dịch vụ, nhưng do sơ suất giao dịch viên của ngân hàng lại hạch toán thành 4 triệu AUD (tương đương 48,5 tỷ VNĐ tại thời điểm xảy ra sự cố). Theo báo cáo của chương trình Thu thập dữ liệu tổn thất, mức độ tuyệt đối của rủi ro hạch toán nhầm là 2,91 tỷ VNĐ. Hãy xác định xác suất xảy ra sự kiện hạch toán nhầm ở Ngân hàng A?",
+    "answer": "0,06"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Một ngân hàng vừa xảy ra tổn thất 5 tỷ đồng do trưởng phòng giao dịch của họ dùng số tiền đó cho vay tín dụng đen và không đòi lại được. Tổn thất này được xếp vào loại rủi ro nào trong các rủi ro sau của ngân hàng?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Sự khác nhau căn bản giữa thu thập tổn thất và đánh giá rủi ro là gì?",
+    "answer": "Thu thập tổn thất là ghi nhận sự kiện xảy ra gây ra tổn thất cho ngân hàng, còn đánh giá rủi ro là đánh giá khả năng rủi ro xảy ra."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Ngân hàng A vừa bị Ngân hàng Nhà nước phạt 500 triệu đồng, và phải hủy giao dịch với khách hàng vì bị phát hiện vi phạm quy trình nghiệp vụ bảo lãnh theo quy định hiện hành của Ngân hàng Nhà nước. Tổn thất trên của ngân hàng được xếp vào rủi ro nào?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Hệ số beta của doanh nghiệp hoạt động trong lĩnh vực kinh doanh và bán hàng được quy định trong hiệp định Basel II bằng bao nhiêu?",
+    "answer": "18%"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Chương trình tự đánh giá rủi ro bao gồm mấy bước?",
+    "answer": "6"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Tại một cây ATM của ngân hàng A xảy ra nhiều lần lệch quỹ trong tháng 5/2015, tổng số tiền bị mất lên tới 514 triệu đồng. Dựa trên phương pháp thống kê và số liệu lịch sử, Ngân hàng A có thể tính được xác suất xảy ra vấn đề lệch quỹ này là 0,14. Mức độ tuyệt đối của rủi ro lệch quỹ ở ngân hàng A là bao nhiêu?",
+    "answer": "71,96 triệu đồng."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Phương pháp chỉ số cơ bản được thực hiện dựa trên tính toán dựa trên trung bình lợi nhuận gộp của ngân hàng hàng năm trong mấy năm liền kề?",
+    "answer": "3 năm."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Tại một cây ATM của ngân hàng A xảy ra nhiều lần lệch quỹ trong tháng 5/2015, tổng số tiền bị mất lên tới 514 triệu đồng. Theo kết quả phần mềm quản trị rủi ro hoạt động, mức độ tuyệt đối của rủi ro lệch quỹ ở ngân hàng A là 71,96 triệu đồng. Hãy xác định tần suất xảy ra sự kiện lệch quỹ tại Ngân hàng A.",
+    "answer": "0,14"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Mục đích của bước xác định rủi ro trọng yếu là gì?",
+    "answer": "Dựa trên danh mục rủi ro có sẵn, tìm ra một số rủi ro là quan trọng nhất với ngân hàng."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Mục đích của bước xác định rủi ro trọng yếu là gì?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Theo quy định của Ủy ban Basel về giám sát Ngân hàng, thì rủi ro hoạt động được hiểu như thế nào?",
+    "answer": "Là rủi ro gây ra tổn thất do các nguyên nhân như con người, sự không đầy đủ hoặc vận hành không tốt các quy trình, hệ thống; các sự kiện khách quan bên ngoài."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Sự cố mất điện làm mọi giao dịch tại ngân hàng phải tạm dừng, gây ra cho ngân hàng một khoản tổn thất đáng kể. Sự cố này được xếp vào loại rủi ro nào của ngân hàng?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Ngân hàng A vừa bị Ngân hàng Nhà nước phạt 500 triệu VNĐ, và phải hủy giao dịch với khách hàng vì bị phát hiện vi phạm quy trình nghiệp vụ bảo lãnh theo quy định hiện hành của Ngân hàng Nhà nước, do đó ngân hàng phải hoàn trả phí hoa hồng cho khách hàng là 45 triệu VNĐ. Theo thống kê trong dữ liệu tổn thất lịch sử, tần suất xảy ra sự kiện này tại Ngân hàng A là rất thấp, chiếm khoảng 1,2%. Hãy xác định mức độ tuyệt đối của rủi ro này tại Ngân hàng A?",
+    "answer": "6,54 triệu VNĐ."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Sự khác nhau căn bản giữa thu thập tổn thất và đánh giá rủi ro là gì?",
+    "answer": "Thu thập tổn thất là ghi nhận sự kiện xảy ra gây ra tổn thất cho ngân hàng, còn đánh giá rủi ro là đánh giá khả năng rủi ro xảy ra."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Một ngân hàng vừa xảy ra tổn thất 5 tỷ đồng do trưởng phòng giao dịch của họ dùng số tiền đó cho vay tín dụng đen và không đòi lại được. Tổn thất này được xếp vào loại rủi ro nào trong các rủi ro sau của ngân hàng?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Điểm khác nhau căn bản giữa rủi ro hoạt động với 2 loại rủi ro còn lại là rủi ro thị trường và rủi ro tín dụng là gì?",
+    "answer": "Rủi ro hoạt động liên quan đến toàn bộ các bộ phận trong ngân hàng còn 2 loại rủi ro kia chỉ liên quan đến một hoặc một số bộ phận của ngân hàng."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Mức độ phân tách trách nhiệm là yếu tố cần được xem xét trong bước nào của quy trình tự đánh giá rủi ro?",
+    "answer": "Đánh giá hiệu quả chốt kiểm soát"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Khách hàng của Ngân hàng A chuyển 4 triệu VNĐ để thanh toán hóa đơn dịch vụ, nhưng do sơ suất giao dịch viên của ngân hàng lại hạch toán thành 4 triệu AUD (tương đương 48,5 tỷ VNĐ tại thời điểm xảy ra sự cố). Theo báo cáo của chương trình Thu thập dữ liệu tổn thất, mức độ tuyệt đối của rủi ro hạch toán nhầm là 2,91 tỷ VNĐ. Hãy xác định xác suất xảy ra sự kiện hạch toán nhầm ở Ngân hàng A?",
+    "answer": "0,06"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Khách hàng của Ngân hàng A chuyển 4 triệu VNĐ để thanh toán hóa đơn dịch vụ, nhưng do sơ suất giao dịch viên của Ngân hàng lại hạch toán thành 4 triệu AUD (tương đương 48,5 tỷ VNĐ tại thời điểm xảy ra sự cố). Theo thống kê dữ liệu tổn thất trong lịch sử, ngân hàng tính được tần suất xảy ra sự cố hạch toán nhầm tại Ngân hàng là 0,06. Hãy xác định mức độ tuyệt đối của rủi ro hạch toán nhầm ở ngân hàng A?",
+    "answer": "2,91 tỷ VNĐ."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Hệ số beta của doanh nghiệp hoạt động trong lĩnh vực kinh doanh và bán hàng được quy định trong hiệp định Basel II bằng bao nhiêu?",
+    "answer": "18%"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Ngân hàng A vừa bị Ngân hàng Nhà nước phạt một số tiền là b triệu VNĐ, và phải hủy giao dịch với khách hàng vì bị phát hiện vi phạm quy trình nghiệp vụ bảo lãnh theo quy định hiện hành của Ngân hàng Nhà nước, do đó ngân hàng phải hoàn trả phí hoa hồng cho khách hàng là 45 triệu VNĐ. Theo thống kê trong dữ liệu tổn thất lịch sử, tần suất xảy ra sự kiện này tại Ngân hàng A là rất thấp, chiếm khoảng 1,2%. Theo báo cáo của chương trình thu thập dữ liệu tổn thất, tổn thất, mức độ tuyệt đối của rủi ro vi phạm quy trình nghiệp vụ hiện hành của Ngân hàng Nhà nước tại Ngân hàng A là 6,54 triệu VNĐ. Hãy xác định b bằng bao nhiêu?",
+    "answer": "500 triệu VNĐ."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Khách hàng chuyển 500 triệu VND vào tài khoản, nhưng nhân viên giao dịch của ngân hàng lại hạch toán vào tài khoản là 500 triệu USD. Sự cố này gây tổn thất rất lớn cho ngân hàng. Vậy tổn thất này được xếp vào loại rủi ro nào trong những loại sau đây?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Chương trình tự đánh giá rủi ro tuân thủ theo các bước với trình tự như thế nào?",
+    "answer": "Xác định rủi ro trọng yếu → cho điểm rủi ro trọng yếu → sắp xếp rủi ro với các chốt trọng yếu → đánh giá hiệu quả chốt kiểm soát → lập kế hoạch giảm thiểu rủi ro → kiểm tra và báo cáo."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Theo quy định của Basel II, khi áp dụng phương pháp đo lường cao cấp để đo lường rủi ro hoạt động, các ngân hàng có thể linh hoạt sử dụng 1 trong 3 phương pháp nảo sau đây?",
+    "answer": "Phương pháp phân bổ tổn thất, phương pháp phân tích tình huống và phương pháp chấm điểm nội bộ."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Theo quy định của Basel II, khi áp dụng phương pháp đo lường cao cấp để đo lường rủi ro hoạt động, các ngân hàng có thể linh hoạt sử dụng 1 trong 3 phương pháp nảo sau đây?",
+    "answer": "Mức độ ảnh hưởng đo lường mức độ thiệt hại do rủi ro gây ra, còn mức độ bị rủi ro đo lường khả năng hệ thống có thể ngăn chặn rủi ro."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Ba phương pháp đo lường rủi ro hoạt động là gì?",
+    "answer": "Phương pháp chỉ số cơ bản, phương pháp tiêu chuẩn và phương pháp đo lường cao cấp."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Trong bước cho điểm rủi ro trọng yếu thì những tiêu chí nào sau đây được chấm điểm?",
+    "answer": "Ảnh hưởng, khả năng xảy ra, mức độ bị rủi ro."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Trong bước sắp xếp rủi ro với các chốt trọng yếu, có mấy loại chốt kiểm soát được đưa ra?",
+    "answer": "2"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Ngân hàng A vừa bị Ngân hàng Nhà nước phạt 500 triệu VNĐ, và phải hủy giao dịch với khách hàng vì bị phát hiện vi phạm quy trình nghiệp vụ bảo lãnh theo quy định hiện hành của Ngân hàng Nhà nước, do đó ngân hàng phải hoàn trả phí hoa hồng cho khách hàng là a (triệu VNĐ). Theo thống kê trong dữ liệu tổn thất lịch sử, tần suất xảy ra sự kiện này tại Ngân hàng A là rất thấp, chiếm khoảng 1,2%. Theo báo cáo của chương trình thu thập dữ liệu tổn thất, tổn thất, mức độ tuyệt đối của rủi ro vi phạm quy trình nghiệp vụ hiện hành của Ngân hàng Nhà nước tại Ngân hàng A là 6,54 triệu VNĐ. Hãy xác định a bằng bao nhiêu?",
+    "answer": "45 triệu VNĐ."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Ngân hàng A vừa bị Ngân hàng Nhà nước phạt 500 triệu VNĐ, và phải hủy giao dịch với khách hàng vì bị phát hiện vi phạm quy trình nghiệp vụ bảo lãnh theo quy định hiện hành của Ngân hàng Nhà nước, do đó ngân hàng phải hoàn trả phí hoa hồng cho khách hàng là 45 triệu VNĐ. Theo thống kê trong dữ liệu tổn thất lịch sử, tần suất xảy ra sự kiện này tại Ngân hàng A là rất thấp, chiếm khoảng 1,2%. Hãy xác định mức độ tuyệt đối của rủi ro này tại Ngân hàng A?",
+    "answer": "6,54 triệu VNĐ."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Mức độ phân tách trách nhiệm là yếu tố cần được xem xét trong bước nào của quy trình tự đánh giá rủi ro?",
+    "answer": "Đánh giá hiệu quả chốt kiểm soát"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Phương pháp chỉ số cơ bản được thực hiện dựa trên tính toán dựa trên trung bình lợi nhuận gộp của ngân hàng hàng năm trong mấy năm liền kề?",
+    "answer": "3 năm."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Ngân hàng A vừa bị Ngân hàng Nhà nước phạt 500 triệu đồng, và phải hủy giao dịch với khách hàng vì bị phát hiện vi phạm quy trình nghiệp vụ bảo lãnh theo quy định hiện hành của Ngân hàng Nhà nước. Tổn thất trên của ngân hàng được xếp vào rủi ro nào?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Sự khác nhau căn bản giữa thu thập tổn thất và đánh giá rủi ro là gì?",
+    "answer": "Thu thập tổn thất là ghi nhận sự kiện xảy ra gây ra tổn thất cho ngân hàng, còn đánh giá rủi ro là đánh giá khả năng rủi ro xảy ra."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Khách hàng chuyển 500 triệu VND vào tài khoản, nhưng nhân viên giao dịch của ngân hàng lại hạch toán vào tài khoản là 500 triệu USD. Sự cố này gây tổn thất rất lớn cho ngân hàng. Vậy tổn thất này được xếp vào loại rủi ro nào trong những loại sau đây?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Chương trình tự đánh giá rủi ro bao gồm mấy bước?",
+    "answer": "6"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Sự cố mất điện làm mọi giao dịch tại ngân hàng phải tạm dừng, gây ra cho ngân hàng một khoản tổn thất đáng kể. Sự cố này được xếp vào loại rủi ro nào của ngân hàng?",
+    "answer": "Rủi ro hoạt động."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Chương trình tự đánh giá rủi ro tuân thủ theo các bước với trình tự như thế nào?",
+    "answer": "Xác định rủi ro trọng yếu → cho điểm rủi ro trọng yếu → sắp xếp rủi ro với các chốt trọng yếu → đánh giá hiệu quả chốt kiểm soát → lập kế hoạch giảm thiểu rủi ro → kiểm tra và báo cáo."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Theo quy định của Ủy ban Basel về giám sát Ngân hàng, thì rủi ro hoạt động được hiểu như thế nào?",
+    "answer": "Là rủi ro gây ra tổn thất do các nguyên nhân như con người, sự không đầy đủ hoặc vận hành không tốt các quy trình, hệ thống; các sự kiện khách quan bên ngoài."
+  },
+  {
+    "id": 128,
+    "premium": true,
+    "question": "Có mấy phương pháp nhận diện rủi ro?",
+    "answer": "4"
+  },
+  {
+    "id": 129,
+    "premium": true,
+    "question": "Phương pháp dựa trên đánh giá nội bộ cơ bản và phương pháp dựa trên đánh giá nội bộ cao cấp là phương pháp tính toán để xác định mức vốn tối thiểu mà ngân hàng phải nắm giữ đối với loại rủi ro nào?",
+    "answer": "Rủi ro tín dụng."
+  },
+  {
+    "id": 130,
+    "premium": true,
+    "question": "Trụ cột 2 của Basel II đề cập tới nội dung gì?",
+    "answer": "Đưa ra các yêu cầu về thanh tra giám sát đối với các cơ quan quản lý của mỗi quốc gia để đảm bảo rằng các ngân hàng đã tuân thủ các yêu cầu tối thiểu nêu trong trụ cột 1."
+  },
+  {
+    "id": 131,
+    "premium": true,
+    "question": "Theo tính chất và mục tiêu hoạt động, ngân hàng được chia thành bao nhiêu loại hình hoạt động?",
+    "answer": "3"
+  },
+  {
+    "id": 132,
+    "premium": true,
+    "question": "Thông tin mà trụ cột 3 của Basel II yêu cầu các ngân hàng công bố gồm những loại thông tin gì?",
+    "answer": "Thông tin định tính và thông tin định lượng."
+  },
+  {
+    "id": 133,
+    "premium": true,
+    "question": "Trụ cột 3 của Basel II đưa ra yêu cầu gì đối với các ngân hàng?",
+    "answer": "Yêu cầu về công bố thông tin liên quan đến rủi ro."
+  },
+  {
+    "id": 134,
+    "premium": true,
+    "question": "Xử lý rủi ro phải được tiến hành lúc nào?",
+    "answer": "Phải tiến hành theo quy trình gồm trước, trong và sau giao dịch."
+  },
+  {
+    "id": 135,
+    "premium": true,
+    "question": "So sánh phí bảo hiểm và thời gian đóng phí bảo hiểm giữa bảo hiểm phi nhân thọ và bảo hiểm nhân thọ. Nhận định nào sau đây là đúng?",
+    "answer": "Bảo hiểm phi nhân thọ có phí bảo hiểm thấp và thời gian đóng phí bảo hiểm thấp hơn so với bảo hiểm nhân thọ."
+  },
+  {
+    "id": 136,
+    "premium": true,
+    "question": "Trụ cột 2 của Basel II dựa trên cơ sở của mấy nguyên tắc?",
+    "answer": "4"
+  },
+  {
+    "id": 137,
+    "premium": true,
+    "question": "Xây dựng “văn hóa rủi ro” trong tổ chức là một hoạt động nằm trong bước nào của quy trình quản trị rủi ro?",
+    "answer": "Kiểm soát rủi ro."
+  },
+  {
+    "id": 138,
+    "premium": true,
+    "question": "Hệ thống tài chính được hình thành từ các bộ phận nào?",
+    "answer": "Cơ quan quản lý, định chế tài chính và khách hàng."
+  },
+  {
+    "id": 139,
+    "premium": true,
+    "question": "Trình tự các bước trong quy trình quản trị rủi ro là gì?",
+    "answer": "Nhận diện, đo lường, kiểm soát và xử lý rủi ro."
+  },
+  {
+    "id": 140,
+    "premium": true,
+    "question": "Ủy ban Basel chia rủi ro mà ngân hàng thương mại có thể gặp phải thành những loại nào?",
+    "answer": "Rủi ro tín dụng, rủi ro thị trường, rủi ro hoạt động."
+  },
+  {
+    "id": 141,
+    "premium": true,
+    "question": "Điểm khác nhau căn bản giữa ngân hàng thương mại và ngân hàng chính sách là gì?",
+    "answer": "Ngân hàng chính sách hoạt động không vì lợi nhuận còn ngân hàng thương mại hoạt động với mục tiêu tối đa hóa lợi nhuận."
+  },
+  {
+    "id": 142,
+    "premium": true,
+    "question": "Điểm khác biệt căn bản giữa ngân hàng và tổ chức tín dụng phi ngân hàng là gì?",
+    "answer": "Tổ chức tín dụng phi ngân hàng không được nhận tiền gửi của cá nhân và cung ứng các dịch vụ thanh toán qua tài khoản của khách hàng."
+  },
+  {
+    "id": 143,
+    "premium": true,
+    "question": "Điểm khác biệt căn bản giữa ngân hàng và tổ chức tín dụng phi ngân hàng là gì?",
+    "answer": "3"
+  },
+  {
+    "id": 144,
+    "premium": true,
+    "question": "Công ty cho thuê tài chính là loại hình hoạt động thuộc tổ chức nào sau đây?",
+    "answer": "Tổ chức tín dụng phi ngân hàng."
+  },
+  {
+    "id": 145,
+    "premium": true,
+    "question": "Thay đổi cơ bản của Basel II so với Basel I là gì?",
+    "answer": "Tách rủi ro hoạt động khỏi rủi ro tín dụng."
+  },
+  {
+    "id": 146,
+    "premium": true,
+    "question": "Quy trình quản trị rủi ro gồm mấy bước?",
+    "answer": "4"
+  },
+  {
+    "id": 147,
+    "premium": true,
+    "question": "Phương pháp phân tích định lượng trong đo lường rủi ro là phương pháp:",
+    "answer": "xây dựng các mô hình đo lường và dự báo rủi ro."
+  },
+  {
+    "id": 148,
+    "premium": true,
+    "question": "Sự khác nhau căn bản giữa một ngân hàng thương mại và một công ty bảo hiểm là gì?",
+    "answer": "Ngân hàng thương mại được phép nhận tiền gửi và cho vay bằng tiền, từ đó có thể tạo tiền gửi và tăng khả năng cho vay của cả hệ thống."
+  },
+  {
+    "id": 149,
+    "premium": true,
+    "question": "Đối tượng cung cấp dịch vụ của tổ chức tài chính vi mô chủ yếu là:",
+    "answer": "các cá nhân, hộ gia đình có thu nhập thấp và doanh nghiệp siêu nhỏ."
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "Mục đích của yêu cầu công bố thông tin ở trụ cột 3 của Basel II là gì?",
+    "answer": "Giúp các thành viên thị trường có thể tự đánh giá được liệu rằng các ngân hàng đã đo lường và quản lý rủi ro một cách hiệu quả hay chưa."
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Ngân hàng thương mại hiện được quan niệm là:",
+    "answer": "một loại hình trung gian tài chính."
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Trụ cột 1 của Basel II đề cập tới nội dung gì?",
+    "answer": "Các yêu cầu về vốn tối thiểu."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Thông tin mà trụ cột 3 của Basel II yêu cầu các ngân hàng công bố gồm những loại thông tin gì?",
+    "answer": "Thông tin định tính và thông tin định lượng."
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Xây dựng “văn hóa rủi ro” trong tổ chức là một hoạt động nằm trong bước nào của quy trình quản trị rủi ro?",
+    "answer": "Kiểm soát rủi ro."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Có mấy phương pháp nhận diện rủi ro?",
+    "answer": "4"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Điểm khác nhau căn bản giữa ngân hàng thương mại và ngân hàng chính sách là gì?",
+    "answer": "Ngân hàng chính sách hoạt động không vì lợi nhuận còn ngân hàng thương mại hoạt động với mục tiêu tối đa hóa lợi nhuận."
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Điểm khác biệt căn bản giữa ngân hàng và tổ chức tín dụng phi ngân hàng là gì?",
+    "answer": "Tổ chức tín dụng phi ngân hàng không được nhận tiền gửi của cá nhân và cung ứng các dịch vụ thanh toán qua tài khoản của khách hàng."
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Trình tự các bước trong quy trình quản trị rủi ro là gì?",
+    "answer": "Nhận diện, đo lường, kiểm soát và xử lý rủi ro."
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Trụ cột 1 của Basel II đề cập tới nội dung gì?",
+    "answer": "Các yêu cầu về vốn tối thiểu."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Đối tượng cung cấp dịch vụ của tổ chức tài chính vi mô chủ yếu là:",
+    "answer": "các cá nhân, hộ gia đình có thu nhập thấp và doanh nghiệp siêu nhỏ."
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "So sánh phí bảo hiểm và thời gian đóng phí bảo hiểm giữa bảo hiểm phi nhân thọ và bảo hiểm nhân thọ. Nhận định nào sau đây là đúng?",
+    "answer": "Bảo hiểm phi nhân thọ có phí bảo hiểm thấp và thời gian đóng phí bảo hiểm thấp hơn so với bảo hiểm nhân thọ."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Mục đích của yêu cầu công bố thông tin ở trụ cột 3 của Basel II là gì?",
+    "answer": "Giúp các thành viên thị trường có thể tự đánh giá được liệu rằng các ngân hàng đã đo lường và quản lý rủi ro một cách hiệu quả hay chưa."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Quy trình quản trị rủi ro gồm mấy bước?",
+    "answer": "4"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Trụ cột 2 của Basel II đề cập tới nội dung gì?",
+    "answer": "Đưa ra các yêu cầu về thanh tra giám sát đối với các cơ quan quản lý của mỗi quốc gia để đảm bảo rằng các ngân hàng đã tuân thủ các yêu cầu tối thiểu nêu trong trụ cột 1."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Ủy ban Basel chia rủi ro mà ngân hàng thương mại có thể gặp phải thành những loại nào?",
+    "answer": "Rủi ro tín dụng, rủi ro thị trường, rủi ro hoạt động."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Trụ cột 3 của Basel II đưa ra yêu cầu gì đối với các ngân hàng?",
+    "answer": "Yêu cầu về công bố thông tin liên quan đến rủi ro."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Hệ thống tài chính được hình thành từ các bộ phận nào?",
+    "answer": "Cơ quan quản lý, định chế tài chính và khách hàng."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Trụ cột 2 của Basel II dựa trên cơ sở của mấy nguyên tắc?",
+    "answer": "4"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Ngân hàng thương mại hiện được quan niệm là:",
+    "answer": "một loại hình trung gian tài chính."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Công ty cho thuê tài chính là loại hình hoạt động thuộc tổ chức nào sau đây?",
+    "answer": "Tổ chức tín dụng phi ngân hàng."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Sự khác nhau căn bản giữa một ngân hàng thương mại và một công ty bảo hiểm là gì?",
+    "answer": "Ngân hàng thương mại được phép nhận tiền gửi và cho vay bằng tiền, từ đó có thể tạo tiền gửi và tăng khả năng cho vay của cả hệ thống."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Theo tính chất và mục tiêu hoạt động, ngân hàng được chia thành bao nhiêu loại hình hoạt động?",
+    "answer": "3"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Phương pháp dựa trên đánh giá nội bộ cơ bản và phương pháp dựa trên đánh giá nội bộ cao cấp là phương pháp tính toán để xác định mức vốn tối thiểu mà ngân hàng phải nắm giữ đối với loại rủi ro nào?",
+    "answer": "Rủi ro tín dụng."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Thay đổi cơ bản của Basel II so với Basel I là gì?",
+    "answer": "Tách rủi ro hoạt động khỏi rủi ro tín dụng."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Hiệp định Basel II được triển khai theo mấy trụ cột?",
+    "answer": "3"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Xử lý rủi ro phải được tiến hành lúc nào?",
+    "answer": "Phải tiến hành theo quy trình gồm trước, trong và sau giao dịch."
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Phương pháp phân tích định lượng trong đo lường rủi ro là phương pháp:",
+    "answer": "xây dựng các mô hình đo lường và dự báo rủi ro."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Trình tự các bước trong quy trình quản trị rủi ro là gì?",
+    "answer": "Nhận diện, đo lường, kiểm soát và xử lý rủi ro."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Trụ cột 2 của Basel II đề cập tới nội dung gì?",
+    "answer": "Đưa ra các yêu cầu về thanh tra giám sát đối với các cơ quan quản lý của mỗi quốc gia để đảm bảo rằng các ngân hàng đã tuân thủ các yêu cầu tối thiểu nêu trong trụ cột 1."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Ủy ban Basel chia rủi ro mà ngân hàng thương mại có thể gặp phải thành những loại nào?",
+    "answer": "Rủi ro tín dụng, rủi ro thị trường, rủi ro hoạt động."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Ngân hàng thương mại hiện được quan niệm là:",
+    "answer": "một loại hình trung gian tài chính."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Quy trình quản trị rủi ro gồm mấy bước?",
+    "answer": "4"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Theo tính chất và mục tiêu hoạt động, ngân hàng được chia thành bao nhiêu loại hình hoạt động?",
+    "answer": "3"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Công ty cho thuê tài chính là loại hình hoạt động thuộc tổ chức nào sau đây?",
+    "answer": "Tổ chức tín dụng phi ngân hàng."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Thông tin mà trụ cột 3 của Basel II yêu cầu các ngân hàng công bố gồm những loại thông tin gì?",
+    "answer": "Thông tin định tính và thông tin định lượng."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Trụ cột 1 của Basel II đề cập tới nội dung gì?",
+    "answer": "Các yêu cầu về vốn tối thiểu."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Hệ thống tài chính được hình thành từ các bộ phận nào?",
+    "answer": "Cơ quan quản lý, định chế tài chính và khách hàng."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Sự khác nhau căn bản giữa một ngân hàng thương mại và một công ty bảo hiểm là gì?",
+    "answer": "Ngân hàng thương mại được phép nhận tiền gửi và cho vay bằng tiền, từ đó có thể tạo tiền gửi và tăng khả năng cho vay của cả hệ thống."
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Thay đổi cơ bản của Basel II so với Basel I là gì?",
+    "answer": "Tách rủi ro hoạt động khỏi rủi ro tín dụng."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Điểm khác biệt căn bản giữa ngân hàng và tổ chức tín dụng phi ngân hàng là gì?",
+    "answer": "Tổ chức tín dụng phi ngân hàng không được nhận tiền gửi của cá nhân và cung ứng các dịch vụ thanh toán qua tài khoản của khách hàng."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Phương pháp dựa trên đánh giá nội bộ cơ bản và phương pháp dựa trên đánh giá nội bộ cao cấp là phương pháp tính toán để xác định mức vốn tối thiểu mà ngân hàng phải nắm giữ đối với loại rủi ro nào?",
+    "answer": "Rủi ro tín dụng."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Hiệp định Basel II được triển khai theo mấy trụ cột?",
+    "answer": "3"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Mục đích của yêu cầu công bố thông tin ở trụ cột 3 của Basel II là gì?",
+    "answer": "Giúp các thành viên thị trường có thể tự đánh giá được liệu rằng các ngân hàng đã đo lường và quản lý rủi ro một cách hiệu quả hay chưa."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Phương pháp phân tích định lượng trong đo lường rủi ro là phương pháp:",
+    "answer": "xây dựng các mô hình đo lường và dự báo rủi ro."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Trụ cột 2 của Basel II dựa trên cơ sở của mấy nguyên tắc?",
+    "answer": "4"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Xử lý rủi ro phải được tiến hành lúc nào?",
+    "answer": "Phải tiến hành theo quy trình gồm trước, trong và sau giao dịch."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Có mấy phương pháp nhận diện rủi ro?",
+    "answer": "4"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "So sánh phí bảo hiểm và thời gian đóng phí bảo hiểm giữa bảo hiểm phi nhân thọ và bảo hiểm nhân thọ. Nhận định nào sau đây là đúng?",
+    "answer": "Bảo hiểm phi nhân thọ có phí bảo hiểm thấp và thời gian đóng phí bảo hiểm thấp hơn so với bảo hiểm nhân thọ."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Đối tượng cung cấp dịch vụ của tổ chức tài chính vi mô chủ yếu là:",
+    "answer": "các cá nhân, hộ gia đình có thu nhập thấp và doanh nghiệp siêu nhỏ."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Xây dựng “văn hóa rủi ro” trong tổ chức là một hoạt động nằm trong bước nào của quy trình quản trị rủi ro?",
+    "answer": "Kiểm soát rủi ro."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Trụ cột 3 của Basel II đưa ra yêu cầu gì đối với các ngân hàng?",
+    "answer": "Yêu cầu về công bố thông tin liên quan đến rủi ro."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Điểm khác nhau căn bản giữa ngân hàng thương mại và ngân hàng chính sách là gì?",
+    "answer": "Ngân hàng chính sách hoạt động không vì lợi nhuận còn ngân hàng thương mại hoạt động với mục tiêu tối đa hóa lợi nhuận."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Điểm khác nhau căn bản giữa ngân hàng thương mại và ngân hàng chính sách là gì?",
+    "answer": "Phương pháp tham số hoặc phương pháp mô phỏng Monte Carlo."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Cho lợi suất (chu kỳ 1 ngày) kỳ vọng của một danh mục P là 0,0005 và độ lệch chuẩn của lợi suất danh mục đó là 0,0015. Giả thiết lợi suất của danh mục là biến ngẫu nhiên phân phối chuẩn. Hãy cho biết VaR(100 ngày, 99%) của danh mục P bằng bao nhiêu. Cho N–1(0,01) = – 2,33",
+    "answer": "–0,2995"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Xét một danh mục có giá trị 100 triệu đồng, giả sử lợi suất (chu kỳ 1 ngày) kỳ vọng của danh mục này là 0,008 và độ lệch chuẩn của lợi suất danh mục này là 0,01. Giả thiết lợi suất của danh mục là biến ngẫu nhiên phân phối chuẩn. Với độ tin cậy 99%, hãy tính mức thua lỗ tối đa của danh mục trên ở ngày tiếp theo. Cho N–1(0,01) = –2,33",
+    "answer": "1,53 triệu đồng."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Ngân hàng A định đầu tư vào 1 danh mục có lợi suất kỳ vọng là 0,0016 và phương sai của lợi suất tài sản đó là 0,0025. Giả thiết lợi suất của tài sản là biến ngẫu nhiên phân phối chuẩn. Hãy tính VaR(1 năm, 95%). Cho N– 1(0,05) = –1,645. Quy ước 1 năm = 365 ngày.",
+    "answer": "-0,98739"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Ngân hàng A định đầu tư vào 1 danh mục có lợi suất kỳ vọng là 0,06 và phương sai của lợi suất tài sản đó là 0,0025. Giả thiết lợi suất của tài sản là biến ngẫu nhiên phân phối chuẩn. Hãy tính VaR(10 ngày, 97,5%). Cho N–1(0,025) = –1,96.",
+    "answer": "–0,2499"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Cho danh mục T gồm 100 trái phiếu chính phủ và 1000 cổ phiếu SHB. Người ta ước tính được lợi suất trung bình của danh mục T là 0,44 và phương sai của lợi suất danh mục là 0,419. Với độ tin cậy 95%, hãy ước tính giá trị rủi ro của danh mục T nếu nhà đầu tư muốn nắm giữ nó trong 1 năm (tương ứng 250 ngày giao dịch). Cho N–1(0,05) = –1,645",
+    "answer": "-5,8361"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Rủi ro biến động giá chứng khoán được coi là rủi ro gì đối với ngân hàng khi ngân hàng kinh doanh một phần vốn trên thị trường chứng khoán?",
+    "answer": "Rủi ro thị trường."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Cho danh mục Q gồm 2 cổ phiếu VMN và KDC với tỷ trọng tương ứng là 0,3 và 0,7. Người ta tính được lợi suất trung bình của danh mục Q là 0,25 và phương sai của lợi suất danh mục là 1,28. Với độ tin cậy 99% hãy ước tính giá trị rủi ro của danh mục này nếu nhà đầu tư muốn nắm giữ nó trong 10 ngày. Cho N–1(0,01) = –2,33",
+    "answer": "-5,8363"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Cho lợi suất (chu kỳ 1 ngày) kỳ vọng của một danh mục P là 0,0005 và độ lệch chuẩn của lợi suất danh mục đó là 0,0015. Giả thiết lợi suất của danh mục là biến ngẫu nhiên phân phối chuẩn. Hãy cho biết VaR(1 ngày, 99%) bằng bao nhiêu? Cho N–1(0,01) = – 2,33",
+    "answer": "–0,03445"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Theo Basel II, những phương pháp nào được sử dụng để đo lường rủi ro thị trường?",
+    "answer": "Phương pháp tiêu chuẩn, phương pháp mô hình nội bộ và phương pháp phân bổ tổn thất."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Xét một danh mục có giá trị 200 triệu đồng, giả sử lợi suất (chu kỳ 1 ngày) kỳ vọng của danh mục này là 0,008 và độ lệch chuẩn của lợi suất danh mục này là 0,01. Giả thiết lợi suất của danh mục là biến ngẫu nhiên phân phối chuẩn. Với độ tin cậy 95%, hãy tính mức thua lỗ tối đa của danh mục trên ở ngày tiếp theo. Cho N–1(0,01) = –1,645",
+    "answer": "1,7 triệu đồng,"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Rủi ro thị trường là gì?",
+    "answer": "Là những biến cố có thể ảnh hưởng đến thu nhập của tổ chức tài chính có nguyên nhân xuất phát từ những thay đổi của thị trường."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Hạn chế lớn nhất của phương pháp VaR là gì?",
+    "answer": "Không phù hợp với quy tắc đa dạng hóa rủi ro."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Trong trường hợp danh mục các tài sản là danh mục phi tuyến (ví dụ như quyền chọn) thì để tính VaR danh mục thì phương pháp nào sau đây là phù hợp?",
+    "answer": "Phương pháp mô phỏng Monte Carlo."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Theo Basel II, phương pháp phân tích tiêu chuẩn được sử dụng để đo lường các loại rủi ro nào của rủi ro thị trường?",
+    "answer": "Rủi ro lãi suất, rủi ro vốn chủ sở hữu, rủi ro tỷ giá và rủi ro hàng hóa."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Theo Basel II, phương pháp phân tích tiêu chuẩn được sử dụng để đo lường các loại rủi ro nào của rủi ro thị trường?",
+    "answer": "Phương sai."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Cho lợi suất (chu kỳ 1 ngày) kỳ vọng của một tài sản là 0,0034 và độ lệch chuẩn của lợi suất tài sản đó là 0,012. Giả thiết lợi suất của tài sản là biến ngẫu nhiên phân phối chuẩn. Hãy tính VaR(25 ngày, 95%). Cho N(–1)(0,05) = –1,645.",
+    "answer": "–0,0137"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Thực hiện hậu kiểm mô hình VaR(1 ngày, 99%) của một danh mục cho 250 ngày của 3 phương pháp ước lượng: phương pháp tham số, phương pháp lịch sử, phương pháp mô phỏng Monte Carlo. Ta xác định được số ngày thua lỗ thực tế vượt quá giá trị rủi ro cho mỗi phương pháp tương ứng là: 9, 7, 4. Trong 3 phương pháp ước lượng VaR(1 ngày, 99%) của danh mục trên thì phương pháp nào phù hợp?",
+    "answer": "Phương pháp mô phỏng Monte Carlo."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Sử dụng phương sai lợi suất làm độ đo rủi ro, dựa trên 100 giá trị lợi suất của cổ phiếu CTG và 100 giá trị lợi suất của cổ phiếu VCB tính được phương sai mẫu tương ứng là 0,00050 và 0,00046. Với mức ý nghĩa 5%, có thể cho rằng:",
+    "answer": "khi đầu tư vào cổ phiếu CTG thì rủi ro hơn khi đầu tư vào cổ phiếu VCB."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Dùng phương sai để đo lường rủi ro của thị trường sẽ KHÔNG chính xác trong trường hợp nào?",
+    "answer": "Thị trường có tồn tại những cú sốc lớn."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Lợi suất của cổ phiếu ACB có phương sai cao hơn lợi suất của cổ phiếu STB. Thông tin này cho biết điều gì?",
+    "answer": "Cổ phiếu ACB rủi ro hơn cổ phiếu STB."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Trong trường hợp thị trường biến động lớn thì phương pháp VaR nào sau đây là KHÔNG phù hợp?",
+    "answer": "Phương pháp lịch sử."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Một ngân hàng tính được giá trị rủi ro (VaR) của danh mục đầu tư của mình là 10 triệu đồng (xét về độ lớn) với chu kỳ 1 ngày và độ tin cậy 99%. Hãy cho biết giải thích nào dưới đây về VaR là đúng?",
+    "answer": "Với xác suất 99%, danh mục đầu tư của công ty đó có thể lỗ tối đa là 10 triệu đồng ở ngày tiếp theo."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Cho lợi suất (chu kỳ 1 ngày) kỳ vọng của một danh mục P là 0,0005 và độ lệch chuẩn của lợi suất danh mục đó là 0,0015. Giả thiết lợi suất của danh mục là biến ngẫu nhiên phân phối chuẩn. Hãy cho biết VaR(1 ngày, 99%) bằng bao nhiêu? Cho N–1(0,01) = – 2,33",
+    "answer": "–0,03445"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Cho lợi suất (chu kỳ 1 ngày) kỳ vọng của một danh mục P là 0,0005 và độ lệch chuẩn của lợi suất danh mục đó là 0,0015. Giả thiết lợi suất của danh mục là biến ngẫu nhiên phân phối chuẩn. Hãy cho biết VaR(100 ngày, 99%) của danh mục P bằng bao nhiêu. Cho N–1(0,01) = – 2,33",
+    "answer": "–0,2995"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Xét một danh mục có giá trị 200 triệu đồng, giả sử lợi suất (chu kỳ 1 ngày) kỳ vọng của danh mục này là 0,008 và độ lệch chuẩn của lợi suất danh mục này là 0,01. Giả thiết lợi suất của danh mục là biến ngẫu nhiên phân phối chuẩn. Với độ tin cậy 95%, hãy tính mức thua lỗ tối đa của danh mục trên ở ngày tiếp theo. Cho N–1(0,01) = –1,645",
+    "answer": "1,7 triệu đồng,"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Ngân hàng A định đầu tư vào 1 danh mục có lợi suất kỳ vọng là 0,06 và phương sai của lợi suất tài sản đó là 0,0025. Giả thiết lợi suất của tài sản là biến ngẫu nhiên phân phối chuẩn. Hãy tính VaR(10 ngày, 97,5%). Cho N–1(0,025) = –1,96.",
+    "answer": "–0,2499"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Ngân hàng A định đầu tư vào 1 danh mục có lợi suất kỳ vọng là 0,0016 và phương sai của lợi suất tài sản đó là 0,0025. Giả thiết lợi suất của tài sản là biến ngẫu nhiên phân phối chuẩn. Hãy tính VaR(1 năm, 95%). Cho N– 1(0,05) = –1,645. Quy ước 1 năm = 365 ngày.",
+    "answer": "-0,98739"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Rủi ro biến động giá chứng khoán được coi là rủi ro gì đối với ngân hàng khi ngân hàng kinh doanh một phần vốn trên thị trường chứng khoán?",
+    "answer": "Rủi ro thị trường."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Hạn chế lớn nhất của phương pháp VaR là gì?",
+    "answer": "Không phù hợp với quy tắc đa dạng hóa rủi ro."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Cho danh mục Q gồm 2 cổ phiếu VMN và KDC với tỷ trọng tương ứng là 0,3 và 0,7. Người ta tính được lợi suất trung bình của danh mục Q là 0,25 và phương sai của lợi suất danh mục là 1,28. Với độ tin cậy 99% hãy ước tính giá trị rủi ro của danh mục này nếu nhà đầu tư muốn nắm giữ nó trong 10 ngày. Cho N–1(0,01) = –2,33",
+    "answer": "-5,8363"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Trong trường hợp danh mục các tài sản là danh mục phi tuyến (ví dụ như quyền chọn) thì để tính VaR danh mục thì phương pháp nào sau đây là phù hợp?",
+    "answer": "Phương pháp mô phỏng Monte Carlo."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Theo Basel II, phương pháp phân tích tiêu chuẩn được sử dụng để đo lường các loại rủi ro nào của rủi ro thị trường?",
+    "answer": "Rủi ro lãi suất, rủi ro vốn chủ sở hữu, rủi ro tỷ giá và rủi ro hàng hóa."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Lợi suất của cổ phiếu ACB có phương sai cao hơn lợi suất của cổ phiếu STB. Thông tin này cho biết điều gì?",
+    "answer": "Cổ phiếu ACB rủi ro hơn cổ phiếu STB."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Sử dụng phương sai lợi suất làm độ đo rủi ro, dựa trên 100 giá trị lợi suất của cổ phiếu CTG và 100 giá trị lợi suất của cổ phiếu VCB tính được phương sai mẫu tương ứng là 0,00050 và 0,00046. Với mức ý nghĩa 5%, có thể cho rằng:",
+    "answer": "khi đầu tư vào cổ phiếu CTG thì rủi ro hơn khi đầu tư vào cổ phiếu VCB."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Dùng phương sai để đo lường rủi ro của thị trường sẽ KHÔNG chính xác trong trường hợp nào?",
+    "answer": "Thị trường có tồn tại những cú sốc lớn."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Thực hiện hậu kiểm mô hình VaR(1 ngày, 99%) của một danh mục cho 250 ngày của 3 phương pháp ước lượng: phương pháp tham số, phương pháp lịch sử, phương pháp mô phỏng Monte Carlo. Ta xác định được số ngày thua lỗ thực tế vượt quá giá trị rủi ro cho mỗi phương pháp tương ứng là: 9, 7, 4. Trong 3 phương pháp ước lượng VaR(1 ngày, 99%) của danh mục trên thì phương pháp nào phù hợp?",
+    "answer": "Phương pháp mô phỏng Monte Carlo."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Theo Basel II, những phương pháp nào được sử dụng để đo lường rủi ro thị trường?",
+    "answer": "Phương pháp tiêu chuẩn, phương pháp mô hình nội bộ và phương pháp phân bổ tổn thất."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Thực hiện hậu kiểm mô hình VaR(1 ngày, 99%) của một danh mục cho 250 ngày của 3 phương pháp ước lượng: phương pháp tham số, phương pháp lịch sử, phương pháp mô phỏng Monte Carlo. Ta xác định được số ngày thua lỗ thực tế vượt quá giá trị rủi ro cho mỗi phương pháp tương ứng là: 8, 4, 4. Trong 3 phương pháp ước lượng VaR (1 ngày, 99%) của danh mục trên thì phương pháp nào phù hợp?",
+    "answer": "Phương pháp tham số hoặc phương pháp mô phỏng Monte Carlo."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Rủi ro thị trường là gì?",
+    "answer": "Là những biến cố có thể ảnh hưởng đến thu nhập của tổ chức tài chính có nguyên nhân xuất phát từ những thay đổi của thị trường."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Độ biến động của thị trường được đo lường bằng đại lượng nào trong toán học?",
+    "answer": "Phương sai."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Một ngân hàng tính được giá trị rủi ro (VaR) của danh mục đầu tư của mình là 10 triệu đồng (xét về độ lớn) với chu kỳ 1 ngày và độ tin cậy 99%. Hãy cho biết giải thích nào dưới đây về VaR là đúng?",
+    "answer": "Với xác suất 99%, danh mục đầu tư của công ty đó có thể lỗ tối đa là 10 triệu đồng ở ngày tiếp theo."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Cho danh mục T gồm 100 trái phiếu chính phủ và 1000 cổ phiếu SHB. Người ta ước tính được lợi suất trung bình của danh mục T là 0,44 và phương sai của lợi suất danh mục là 0,419. Với độ tin cậy 95%, hãy ước tính giá trị rủi ro của danh mục T nếu nhà đầu tư muốn nắm giữ nó trong 1 năm (tương ứng 250 ngày giao dịch). Cho N–1(0,05) = –1,645",
+    "answer": "-5,8361"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Cho lợi suất (chu kỳ 1 ngày) kỳ vọng của một tài sản là 0,0034 và độ lệch chuẩn của lợi suất tài sản đó là 0,012. Giả thiết lợi suất của tài sản là biến ngẫu nhiên phân phối chuẩn. Hãy tính VaR(25 ngày, 95%). Cho N(–1)(0,05) = –1,645.",
+    "answer": "–0,0137"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Xét một danh mục có giá trị 100 triệu đồng, giả sử lợi suất (chu kỳ 1 ngày) kỳ vọng của danh mục này là 0,008 và độ lệch chuẩn của lợi suất danh mục này là 0,01. Giả thiết lợi suất của danh mục là biến ngẫu nhiên phân phối chuẩn. Với độ tin cậy 99%, hãy tính mức thua lỗ tối đa của danh mục trên ở ngày tiếp theo. Cho N–1(0,01) = –2,33",
+    "answer": "1,53 triệu đồng."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Trong trường hợp thị trường biến động lớn thì phương pháp VaR nào sau đây là KHÔNG phù hợp?",
+    "answer": "Phương pháp lịch sử."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Trong trường hợp danh mục các tài sản là danh mục phi tuyến (ví dụ như quyền chọn) thì để tính VaR danh mục thì phương pháp nào sau đây là phù hợp?",
+    "answer": "Phương pháp mô phỏng Monte Carlo."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Cho danh mục Q gồm 2 cổ phiếu VMN và KDC với tỷ trọng tương ứng là 0,3 và 0,7. Người ta tính được lợi suất trung bình của danh mục Q là 0,25 và phương sai của lợi suất danh mục là 1,28. Với độ tin cậy 99% hãy ước tính giá trị rủi ro của danh mục này nếu nhà đầu tư muốn nắm giữ nó trong 10 ngày. Cho N–1(0,01) = –2,33",
+    "answer": "-5,8363"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Xét một danh mục có giá trị 200 triệu đồng, giả sử lợi suất (chu kỳ 1 ngày) kỳ vọng của danh mục này là 0,008 và độ lệch chuẩn của lợi suất danh mục này là 0,01. Giả thiết lợi suất của danh mục là biến ngẫu nhiên phân phối chuẩn. Với độ tin cậy 95%, hãy tính mức thua lỗ tối đa của danh mục trên ở ngày tiếp theo. Cho N–1(0,01) = –1,645",
+    "answer": "1,7 triệu đồng,"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Cho lợi suất (chu kỳ 1 ngày) kỳ vọng của một tài sản là 0,0034 và độ lệch chuẩn của lợi suất tài sản đó là 0,012. Giả thiết lợi suất của tài sản là biến ngẫu nhiên phân phối chuẩn. Hãy tính VaR(25 ngày, 95%). Cho N(–1)(0,05) = –1,645.",
+    "answer": "–0,0137"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Theo Basel II, phương pháp phân tích tiêu chuẩn được sử dụng để đo lường các loại rủi ro nào của rủi ro thị trường?",
+    "answer": "Rủi ro lãi suất, rủi ro vốn chủ sở hữu, rủi ro tỷ giá và rủi ro hàng hóa."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Hạn chế lớn nhất của phương pháp VaR là gì?",
+    "answer": "Không phù hợp với quy tắc đa dạng hóa rủi ro."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Rủi ro thị trường là gì?",
+    "answer": "Là những biến cố có thể ảnh hưởng đến thu nhập của tổ chức tài chính có nguyên nhân xuất phát từ những thay đổi của thị trường."
+  }
+]

@@ -1,0 +1,2342 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Các hình thức thực hiện pháp luật bao gồm:",
+    "answer": "Tuân thủ pháp luật, thực thi pháp luật, sử dụng pháp luật và áp dụng pháp luật"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Sự thay đổi hệ thống QPPL có thể được thực hiện bằng cách:",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Hành vi nào sau đây là vi phạm pháp luật dân sự:",
+    "answer": "Sử dụng tác phẩm âm nhạc không xin phép tác giả"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Pháp luật Việt Nam quy định độ tuổi tối thiểu để bầu cử đại biểu Quốc hội là:",
+    "answer": "18."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Tính quy phạm phổ biến là đặc tính của:",
+    "answer": "Pháp luật."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Hình thức trách nhiệm nghiêm khắc nhất theo quy định của pháp luật Việt Nam:",
+    "answer": "Trách nhiệm hình sự."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Hình thức bên trong của pháp luật là gì?",
+    "answer": "Là phương thức hay dạng tồn tại cũng như quy mô, cách tổ chức các yếu tố cấu tạo nên hệ thống pháp luật."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Quan hệ pháp luật bao gồm mấy bộ phận ?",
+    "answer": "3"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Vi phạm pháp luật được chia thành mấy loại ?",
+    "answer": "4"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Một người thợ sửa xe gian manh đã cố tình sửa phanh xe cho một ông khách một cách gian dối, cẩu thả; với mục đích là để người khách này còn tiếp tục quay lại tiệm anh ta để sửa xe. Do phanh xe không an toàn nên sau đó chiếc xe đã lao xuống dốc gây chết vị khách xấu số. Trường hợp trách nhiệm pháp lý ở đây là:",
+    "answer": "Trách nhiệm hình sự."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Cơ sở truy cứu trách nhiệm pháp lý là:",
+    "answer": "Vi phạm pháp luật"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Phát biểu nào sau đây về năng lực pháp luật là đúng?",
+    "answer": "Năng lực pháp luật của chủ thể trong quan hệ pháp luật phụ thuộc vào pháp luật của từng quốc gia."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Văn bản quy phạm pháp luật nào không phải do tập thể ban hành ?",
+    "answer": "Thông tư"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Đâu là bộ phận chế tài trong VBQPPL sau",
+    "answer": "“thì bị phạt cảnh cáo, phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng hoặc"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Có mấy loại hình thức giải thích pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "“Pháp luật là hệ thống quy tắc xử sự mang tính ____, do ____ đặt ra hoặc thừa nhận và bảo đảm thực hiện, thể hiện ____ của giai cấp thống trị và phụ thuộc vào các điều kiện ____, là nhân tố chủ yếu để điều chỉnh các quan hệ xã hội.” :",
+    "answer": "Bắt buộc chung – nhà nước – ý chí – kinh tế xã hội."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Đâu không phải là ngành luật trong hệ thống pháp luật Việt Nam?",
+    "answer": "Ngành luật đầu tư."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Đâu là một trong những khách thể của quan hệ pháp luật dân sự?",
+    "answer": "Quyền sở hữu tài sản."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Tính giai cấp của pháp luật thể hiện ở chỗ:",
+    "answer": "Cả a, b, c."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Chế tài của QPPL là:",
+    "answer": "Những hậu quả pháp lý bất lợi có thể áp dụng đối với chủ thể không thực hiện hoặc thực hiện không đúng quy định của QPPL."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Hành vi nào sau đây là vi phạm pháp luật hành chính:",
+    "answer": "Đi vào đường cấm, đường ngược chiều"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Ý kiến nào là sai trong con đường hình thành pháp luật?",
+    "answer": "tổng thể những đặc điểm và những điều kiện tồn tại và phát triển của pháp luật"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Luật bảo vệ môi trường do cơ quan nào sau đây ban hành?",
+    "answer": "Quốc hội."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây có quyền ban hành văn bản quy phạm pháp luật Pháp lệnh?",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Khái niệm giải thích pháp luật?",
+    "answer": "GTPL là làm sáng tỏ về mặt tư tưởng, nội dung và ý nghĩa của các QPPL, đảm bảo cho sự nhận thức và thực hiện nghiêm chỉnh, thống nhất PL."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Nhận định nào đúng:",
+    "answer": "Công dân, người nước ngoài, người không quốc tịch, các tổ chức có năng lực pháp lý đều là chủ thể của quan hệ pháp luật."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Hình thức của pháp luật Việt Nam là:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Để phân biệt ngành luật với các đạo luật, nhận định nào sau đây là đúng:",
+    "answer": "Đạo luật là văn bản chứa các QPPL, là nguồn của ngành luật"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Tập quán pháp là:",
+    "answer": "Biến đổi những tục lệ, tập quán có sẵn thành pháp luật."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Điều 475 Bộ Luật Dân sự 2015 quy định: “Bên thuê có quyền cho thuê",
+    "answer": "Quy phạm pháp luật cho phép."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nguyên tắc “không áp dụng hiệu lực hồi tố” của VBPL được hiểu là:",
+    "answer": "VBPL không áp dụng đối với những hành vi xảy ra trước thời điểm văn bản đó có hiệu lực pháp luật."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Văn bản quy phạm pháp luật là văn bản do:",
+    "answer": "Cơ quan nhà nước có thẩm quyền ban hành"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Văn bản nào có hiệu lực cao nhất trong số các loại văn bản sau:",
+    "answer": "Nghị định."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Quan hệ pháp luật gồm các bộ phận nào dưới đây ?",
+    "answer": "Chủ thể, khách thể, nội dung."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Điểm nào sau đây không phải là đặc điểm của quan hệ pháp luật là:",
+    "answer": "Không mang tính ý chí"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Chế định: “Văn hóa, giáo dục, khoa học, công nghệ” thuộc ngành luật nào?",
+    "answer": "Ngành luật hiến pháp."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Bộ Giáo dục và Đào tạo có quyền ban hành:",
+    "answer": "Quyết định, thông tư"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Trong quan hệ mua bán, khách thể là:",
+    "answer": "a và b đúng"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Văn bản quy phạm pháp luật:",
+    "answer": "Luôn luôn chứa đựng các QPPL"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Đâu là ưu điểm của tập quán pháp?",
+    "answer": "Có nguồn gốc trực tiếp từ chính cuộc sống, gần gũi với các đối tượng điều chỉnh hàng ngày, dễ tạo ra thói quen tuân thủ pháp luật."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Năng lực trách nhiệm pháp lý của chủ thể vi phạm pháp luật bao gồm:",
+    "answer": "Đạt độ tuổi nhất định theo quy định pháp luật và có khả năng nhận thức được hành động của mình."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Trong hệ thống pháp luật Việt Nam, để được coi là một ngành luật độc lập khi:",
+    "answer": "Cả a và b."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Chọn phát biểu sai về đặc điểm của văn bản quy phạm pháp luật:",
+    "answer": "Tất cả những văn bản do nhà nước ban hành đều là VBQPPL."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Đâu là nguồn gốc hình thành pháp luật?",
+    "answer": "Cả 3 đáp án trên."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Trường hợp “Truy cứu trách nhiệm pháp lý đối với những chủ thể vi",
+    "answer": "Áp dụng pháp luật."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "PL2C5.008: Phương pháp nào sau đây không phải một trong các phương pháp giải thích pháp luật?",
+    "answer": "PP khoa học"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "A là người lái đò đã già yếu, công việc thường ngày của ông là đưa học sinh qua sông đi học. Hôm đó là ngày mưa lũ nên ông không làm việc, nhưng nhìn thấy lũ trẻ không được đến trường nên ông đánh liều đưa chúng qua sông. Sóng to làm đò bị lật làm chết nhiều học sinh. Hành vi khách quan trong cấu thành vi phạm pháp luật của ông A ở đây là:",
+    "answer": "Đưa người sang sông trong điều kiện mưa lũ."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "A có mâu thuẫn gay gắt với B nên dùng súng bắn nhiều phát vào ngực B. Đây là lỗi gì?",
+    "answer": "Lỗi cố ý trực tiếp"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Thủ tướng chính phủ có quyền ký ban hành những loại VBPL nào?",
+    "answer": "Nghị định, quyết định"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Chế tài có các loại sau:",
+    "answer": "Chế tài hình sự, chế tài hành chính, chế tài kỷ luật và chế tài dân sự"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Khi cá nhân bị hạn chế về năng lực pháp luật thì:",
+    "answer": "Năng lực hành vi của cá nhân đó bị hạn chế."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Khẳng định nào đúng:",
+    "answer": "QPPL mang tính bắt buộc chung."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Lịch sử xã hội loài người đã tồn tại ...... kiểu pháp luật, bao gồm các kiểu pháp luật là .............",
+    "answer": "4 – chủ nô – phong kiến – tư sản – XHCN"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Quan hệ pháp luật xuất hiện do:",
+    "answer": "Do ý chí cá nhân nhưng nằm trong khuôn khổ ý chí nhà nước."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Ý nào không phải biểu hiện bên ngoài của vi phạm pháp luật?",
+    "answer": "Lỗi"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Trách nhiệm pháp lý được chia thành mấy loại ?",
+    "answer": "4"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "QPPL là cách xử sự do nhà nước quy định để:",
+    "answer": "Áp dụng cho nhiều lần và vẫn còn hiệu lực sau những lần áp dụng đó."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Trong các hình thức trách nhiệm pháp lý sau, hình thức nào là trách nhiệm hành chính:",
+    "answer": "Phạt tiền"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Khái niệm áp dụng pháp luật tương tự: “Là giải quyết một vụ việc______________nào đó mà chưa có quy phạm pháp luật trực tiếp để điều chỉnh trên cơ sở những nguyên tắc chung và ý thức pháp luật (Dựa vào sự công bằng và lẽ phải mà giải quyết)”",
+    "answer": "thực tế, cụ thể"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Điều ước quốc tế là hình thức pháp luật của Việt Nam khi:",
+    "answer": "Việt Nam tham gia ký kết."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Tính xác định chặt chẽ về mặt hình thức là thuộc tính (đặc trưng) của:",
+    "answer": "Quy phạm pháp luật"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Có bao nhiêu hình thức thực hiện pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Có mấy loại áp dụng pháp luật tương tự?",
+    "answer": "2"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Các quốc gia sau đây đã trải qua 4 kiểu pháp luật trong quá trình phát triển của mình:",
+    "answer": "Tất cả đều sai."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Cái nào không phải là các yêu cầu có tính nguyên tắc của áp",
+    "answer": "Bảo đảm tính sáng tạo."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "“______ của vi phạm pháp luật là những quan hệ xã hội được pháp luật bảo vệ nhưng bị hành vi vi phạm pháp luật xâm hại”",
+    "answer": "Khách thể"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Hình thức của pháp luật được áp dụng chủ yếu tại Việt Nam là:",
+    "answer": "Văn bản quy phạm Pháp luật."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Trường hợp nào sau đây là hành vi vi phạm pháp luật",
+    "answer": "Một người 14 tuổi điều khiển xe máy không bằng lái."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Một người dùng súng bắn đạn hơi vào rừng săn thú. Anh ta tin rằng không có ai trong rừng ngoài anh ta. Trong lúc sơ suất đã bắn nhằm một nhân viên kiểm lâm. Mặt chủ quan trong vi phạm pháp luật này là:",
+    "answer": "Vô ý vì quá tự tin."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Trường hợp “Khi xảy ra tranh chấp về quyền và nghĩa vụ pháp lý giữa",
+    "answer": "Áp dụng pháp luật"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Những biểu hiện tâm lý bên trong của chủ thể vi phạm pháp luật bao gồm:",
+    "answer": "Lỗi của chủ thể vi phạm, động cơ, mục đích"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Hình thức bên ngoài của pháp luật chính là sự thể hiện công khai ý chí của nhà nước, đồng thời để xã hội nhận biết được và tuân theo ý chí của nhà nước. Đó chủ yếu là ___ hình thức sau: ___",
+    "answer": "3 – tập quán pháp, tiền lệ pháp, văn bản quy phạm pháp luật"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Hành vi vi phạm pháp luật không thể là:",
+    "answer": "Một tư tưởng xấu xa"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "“Vi phạm pháp luật là hành vi trái pháp luật, có lỗi do _______ thực hiện, xâm hại các _______ được pháp luật bảo vệ”",
+    "answer": "Chủ thể có năng lực trách nhiệm pháp lý – Quan hệ xã hội"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Mỗi một điều luật:",
+    "answer": "Cả A, B và C đều đúng"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Trách nhiệm pháp lý là?",
+    "answer": "Hậu quả bất lợi được pháp luật quy định áp dụng đối với các chủ thể có hành vi vi phạm pháp luật."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Cả a, b và c đều sai."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Về mặt cấu trúc, mỗi một QPPL:",
+    "answer": "Cả a, b và c đều sai."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Quốc gia nào sau đây không trải qua pháp luật tư sản?",
+    "answer": "Việt Nam"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Nội luật hóa là:",
+    "answer": "Chuyển hóa pháp luật nước ngoài thành pháp luật trong nước."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Giả định của quy phạm pháp luật là",
+    "answer": "Cả a và c"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Cấu thành vi phạm pháp luật bao gồm:",
+    "answer": "Mặt khách quan, mặt chủ quan, chủ thể, khách thể"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Chủ thể của QHPL là:",
+    "answer": "Cá nhân, tổ chức cụ thể có được những quyền và mang những nghĩa vụ pháp lý nhất định được chỉ ra trong các QHPL cụ thể."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Ủy ban thường vụ Quốc hội có quyền ban hành:",
+    "answer": "Pháp lệnh, nghị quyết"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Mọi hành vi trái pháp luật hình sự được coi là tội phạm"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Đâu không phải vi phạm pháp luật?",
+    "answer": "Vi phạm kỷ cương"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Nhận định nào sai:",
+    "answer": "Năng lực hành vi của chủ thể là cá nhân phụ thuộc và độ tuổi, tình trạng sức khỏe, trình độ của chủ thể."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "UBND và chủ tịch UBND các cấp có quyền ban hành:",
+    "answer": "Quyết định, chỉ thị."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "“Thực hiện pháp luật là nghĩa vụ của ___________ chủ thể.”",
+    "answer": "Tất cả các chủ thể"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Lịch sử xã hội loài người đã tồn tại mấy kiểu pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "“Lỗi của chủ thể vi phạm pháp luật là _____ của con người đối với hành vi nguy hiểm cho xã hội của mình và đối với _____ do hành vi đó gây ra thể hiện dưới dang cố ý hoặc vô ý”",
+    "answer": "Thái độ tâm lý – hậu quả"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Điều kiện để làm phát sinh, thay đổi hay chấm dứt một QHPL:",
+    "answer": "Cả a, b và c"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Tập quán pháp là:",
+    "answer": "Biến đổi những tục lệ, tập quán có sẵn thành pháp luật."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Hình thức của pháp luật Việt Nam là:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "PL2C5.008: Phương pháp nào sau đây không phải một trong các phương pháp giải thích pháp luật?",
+    "answer": "PP khoa học"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "QPPL là cách xử sự do nhà nước quy định để:",
+    "answer": "Áp dụng cho nhiều lần và vẫn còn hiệu lực sau những lần áp dụng đó."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Những biểu hiện tâm lý bên trong của chủ thể vi phạm pháp luật bao gồm:",
+    "answer": "Lỗi của chủ thể vi phạm, động cơ, mục đích"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Chế tài có các loại sau:",
+    "answer": "Chế tài hình sự, chế tài hành chính, chế tài kỷ luật và chế tài dân sự"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Để phân biệt ngành luật với các đạo luật, nhận định nào sau đây là đúng:",
+    "answer": "Đạo luật là văn bản chứa các QPPL, là nguồn của ngành luật"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Vi phạm pháp luật được chia thành mấy loại ?",
+    "answer": "4"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Thủ tướng chính phủ có quyền ký ban hành những loại VBPL nào?",
+    "answer": "Nghị định, quyết định"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Nguyên tắc “không áp dụng hiệu lực hồi tố” của VBPL được hiểu là:",
+    "answer": "VBPL không áp dụng đối với những hành vi xảy ra trước thời điểm văn bản đó có hiệu lực pháp luật."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Quan hệ pháp luật bao gồm mấy bộ phận ?",
+    "answer": "3"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Cơ sở truy cứu trách nhiệm pháp lý là:",
+    "answer": "Vi phạm pháp luật"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "“Pháp luật là hệ thống quy tắc xử sự mang tính ____, do ____ đặt ra hoặc thừa nhận và bảo đảm thực hiện, thể hiện ____ của giai cấp thống trị và phụ thuộc vào các điều kiện ____, là nhân tố chủ yếu để điều chỉnh các quan hệ xã hội.” :",
+    "answer": "Bắt buộc chung – nhà nước – ý chí – kinh tế xã hội."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Quốc gia nào sau đây không trải qua pháp luật tư sản?",
+    "answer": "Việt Nam"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Điều ước quốc tế là hình thức pháp luật của Việt Nam khi:",
+    "answer": "Việt Nam tham gia ký kết."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "A là người lái đò đã già yếu, công việc thường ngày của ông là đưa học sinh qua sông đi học. Hôm đó là ngày mưa lũ nên ông không làm việc, nhưng nhìn thấy lũ trẻ không được đến trường nên ông đánh liều đưa chúng qua sông. Sóng to làm đò bị lật làm chết nhiều học sinh. Hành vi khách quan trong cấu thành vi phạm pháp luật của ông A ở đây là:",
+    "answer": "Đưa người sang sông trong điều kiện mưa lũ."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Pháp luật Việt Nam quy định độ tuổi tối thiểu để bầu cử đại biểu Quốc hội là:",
+    "answer": "18."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Lịch sử xã hội loài người đã tồn tại mấy kiểu pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Sự kiện pháp lý là:",
+    "answer": "Sự kiện thực tế mà sự xuất hiện hay mất đi của chúng được pháp luật gắn với việc phát sinh, thay đổi hoặc chấm dứt QHPL cụ thể."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Văn bản quy phạm pháp luật:",
+    "answer": "Luôn luôn chứa đựng các QPPL"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Đâu là ưu điểm của tập quán pháp?",
+    "answer": "Có nguồn gốc trực tiếp từ chính cuộc sống, gần gũi với các đối tượng điều chỉnh hàng ngày, dễ tạo ra thói quen tuân thủ pháp luật."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Ai là người có năng lực hành vi bị hạn chế?",
+    "answer": "Người được tòa án tuyên bố bị hạn chế năng lực hành vi."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Văn bản quy phạm pháp luật nào không phải do tập thể ban hành ?",
+    "answer": "Thông tư"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Chế tài của QPPL là:",
+    "answer": "Những hậu quả pháp lý bất lợi có thể áp dụng đối với chủ thể không thực hiện hoặc thực hiện không đúng quy định của QPPL."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Đâu là nguồn gốc hình thành pháp luật?",
+    "answer": "Cả 3 đáp án trên."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Ý kiến nào là sai trong con đường hình thành pháp luật?",
+    "answer": "tổng thể những đặc điểm và những điều kiện tồn tại và phát triển của pháp luật"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Trường hợp nào sau đây là hành vi vi phạm pháp luật",
+    "answer": "Một người 14 tuổi điều khiển xe máy không bằng lái."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Hành vi nào sau đây là vi phạm pháp luật dân sự:",
+    "answer": "Sử dụng tác phẩm âm nhạc không xin phép tác giả"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Đâu là một trong những hình thức của văn bản quy phạm pháp luật:",
+    "answer": "Cả a và b."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Một người dùng súng bắn đạn hơi vào rừng săn thú. Anh ta tin rằng không có ai trong rừng ngoài anh ta. Trong lúc sơ suất đã bắn nhằm một nhân viên kiểm lâm. Mặt chủ quan trong vi phạm pháp luật này là:",
+    "answer": "Vô ý vì quá tự tin."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Khái niệm giải thích pháp luật?",
+    "answer": "GTPL là làm sáng tỏ về mặt tư tưởng, nội dung và ý nghĩa của các QPPL, đảm bảo cho sự nhận thức và thực hiện nghiêm chỉnh, thống nhất PL."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Quan hệ pháp luật gồm các bộ phận nào dưới đây ?",
+    "answer": "Chủ thể, khách thể, nội dung."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Trường hợp “Truy cứu trách nhiệm pháp lý đối với những chủ thể vi",
+    "answer": "Áp dụng pháp luật."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Văn bản quy phạm pháp luật là văn bản do:",
+    "answer": "Cơ quan nhà nước có thẩm quyền ban hành"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Mỗi một điều luật:",
+    "answer": "Cả A, B và C đều đúng"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Khi cá nhân bị hạn chế về năng lực pháp luật thì:",
+    "answer": "Năng lực hành vi của cá nhân đó bị hạn chế."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Hình thức bên ngoài của pháp luật chính là sự thể hiện công khai ý chí của nhà nước, đồng thời để xã hội nhận biết được và tuân theo ý chí của nhà nước. Đó chủ yếu là ___ hình thức sau: ___",
+    "answer": "3 – tập quán pháp, tiền lệ pháp, văn bản quy phạm pháp luật"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "UBND và chủ tịch UBND các cấp có quyền ban hành:",
+    "answer": "Quyết định, chỉ thị."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Trường hợp “Khi xảy ra tranh chấp về quyền và nghĩa vụ pháp lý giữa",
+    "answer": "Áp dụng pháp luật"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Điều 475 Bộ Luật Dân sự 2015 quy định: “Bên thuê có quyền cho thuê",
+    "answer": "Quy phạm pháp luật cho phép."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "“______ của vi phạm pháp luật là những quan hệ xã hội được pháp luật bảo vệ nhưng bị hành vi vi phạm pháp luật xâm hại”",
+    "answer": "Khách thể"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Đâu không phải là ngành luật trong hệ thống pháp luật Việt Nam?",
+    "answer": "Ngành luật đầu tư."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Đâu không phải vi phạm pháp luật?",
+    "answer": "Vi phạm kỷ cương"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Khẳng định nào đúng:",
+    "answer": "QPPL mang tính bắt buộc chung."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Nội luật hóa là:",
+    "answer": "Chuyển hóa pháp luật nước ngoài thành pháp luật trong nước."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Có bao nhiêu hình thức thực hiện pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Các hình thức thực hiện pháp luật bao gồm:",
+    "answer": "Tuân thủ pháp luật, thực thi pháp luật, sử dụng pháp luật và áp dụng pháp luật"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Về mặt cấu trúc, mỗi một QPPL:",
+    "answer": "Cả a, b và c đều sai."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Hành vi nào sau đây là vi phạm pháp luật hành chính:",
+    "answer": "Đi vào đường cấm, đường ngược chiều"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nhận định nào sai:",
+    "answer": "Năng lực hành vi của chủ thể là cá nhân phụ thuộc và độ tuổi, tình trạng sức khỏe, trình độ của chủ thể."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Ủy ban thường vụ Quốc hội có quyền ban hành:",
+    "answer": "Pháp lệnh, nghị quyết"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Có mấy loại hình thức giải thích pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Hình thức bên trong của pháp luật là gì?",
+    "answer": "Là phương thức hay dạng tồn tại cũng như quy mô, cách tổ chức các yếu tố cấu tạo nên hệ thống pháp luật."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Phát biểu nào sau đây về năng lực pháp luật là đúng?",
+    "answer": "Năng lực pháp luật của chủ thể trong quan hệ pháp luật phụ thuộc vào pháp luật của từng quốc gia."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Chọn phát biểu sai về đặc điểm của văn bản quy phạm pháp luật:",
+    "answer": "Tất cả những văn bản do nhà nước ban hành đều là VBQPPL."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Trách nhiệm pháp lý được chia thành mấy loại ?",
+    "answer": "4"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "A có mâu thuẫn gay gắt với B nên dùng súng bắn nhiều phát vào ngực B. Đây là lỗi gì?",
+    "answer": "Lỗi cố ý trực tiếp"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "“Lỗi của chủ thể vi phạm pháp luật là _____ của con người đối với hành vi nguy hiểm cho xã hội của mình và đối với _____ do hành vi đó gây ra thể hiện dưới dang cố ý hoặc vô ý”",
+    "answer": "Thái độ tâm lý – hậu quả"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Giả định của quy phạm pháp luật là",
+    "answer": "Cả a và c"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Khái niệm áp dụng pháp luật tương tự: “Là giải quyết một vụ việc______________nào đó mà chưa có quy phạm pháp luật trực tiếp để điều chỉnh trên cơ sở những nguyên tắc chung và ý thức pháp luật (Dựa vào sự công bằng và lẽ phải mà giải quyết)”",
+    "answer": "thực tế, cụ thể"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Điều kiện để làm phát sinh, thay đổi hay chấm dứt một QHPL:",
+    "answer": "Cả a, b và c"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Cấu thành vi phạm pháp luật bao gồm:",
+    "answer": "Mặt khách quan, mặt chủ quan, chủ thể, khách thể"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Mọi hành vi trái pháp luật hình sự được coi là tội phạm"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Tính quy phạm phổ biến là đặc tính của:",
+    "answer": "Pháp luật."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "“Thực hiện pháp luật là nghĩa vụ của ___________ chủ thể.”",
+    "answer": "Tất cả các chủ thể"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Quan hệ pháp luật xuất hiện do:",
+    "answer": "Do ý chí cá nhân nhưng nằm trong khuôn khổ ý chí nhà nước."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Tính giai cấp của pháp luật thể hiện ở chỗ:",
+    "answer": "Cả a, b, c."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Trong quan hệ mua bán, khách thể là:",
+    "answer": "a và b đúng"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "“Vi phạm pháp luật là hành vi trái pháp luật, có lỗi do _______ thực hiện, xâm hại các _______ được pháp luật bảo vệ”",
+    "answer": "Chủ thể có năng lực trách nhiệm pháp lý – Quan hệ xã hội"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Ý nào không phải biểu hiện bên ngoài của vi phạm pháp luật?",
+    "answer": "Lỗi"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Luật bảo vệ môi trường do cơ quan nào sau đây ban hành?",
+    "answer": "Quốc hội."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Các quốc gia sau đây đã trải qua 4 kiểu pháp luật trong quá trình phát triển của mình:",
+    "answer": "Tất cả đều sai."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Chế định: “Văn hóa, giáo dục, khoa học, công nghệ” thuộc ngành luật nào?",
+    "answer": "Ngành luật hiến pháp."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Cả a, b và c đều sai."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Trong các hình thức trách nhiệm pháp lý sau, hình thức nào là trách nhiệm hành chính:",
+    "answer": "Phạt tiền"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Văn bản nào có hiệu lực cao nhất trong số các loại văn bản sau:",
+    "answer": "Nghị định."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Một người thợ sửa xe gian manh đã cố tình sửa phanh xe cho một ông khách một cách gian dối, cẩu thả; với mục đích là để người khách này còn tiếp tục quay lại tiệm anh ta để sửa xe. Do phanh xe không an toàn nên sau đó chiếc xe đã lao xuống dốc gây chết vị khách xấu số. Trường hợp trách nhiệm pháp lý ở đây là:",
+    "answer": "Trách nhiệm hình sự."
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Năng lực trách nhiệm pháp lý của chủ thể vi phạm pháp luật bao gồm:",
+    "answer": "Đạt độ tuổi nhất định theo quy định pháp luật và có khả năng nhận thức được hành động của mình."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Tính xác định chặt chẽ về mặt hình thức là thuộc tính (đặc trưng) của:",
+    "answer": "Quy phạm pháp luật"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Chủ thể của QHPL là:",
+    "answer": "Cá nhân, tổ chức cụ thể có được những quyền và mang những nghĩa vụ pháp lý nhất định được chỉ ra trong các QHPL cụ thể."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Đâu là bộ phận chế tài trong VBQPPL sau",
+    "answer": "“thì bị phạt cảnh cáo, phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng hoặc"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Điểm nào sau đây không phải là đặc điểm của quan hệ pháp luật là:",
+    "answer": "Không mang tính ý chí"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Hình thức của pháp luật được áp dụng chủ yếu tại Việt Nam là:",
+    "answer": "Văn bản quy phạm Pháp luật."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Cơ quan nào dưới đây có quyền ban hành văn bản quy phạm pháp luật Pháp lệnh?",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Cái nào không phải là các yêu cầu có tính nguyên tắc của áp",
+    "answer": "Bảo đảm tính sáng tạo."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Nhận định nào đúng:",
+    "answer": "Công dân, người nước ngoài, người không quốc tịch, các tổ chức có năng lực pháp lý đều là chủ thể của quan hệ pháp luật."
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Có mấy loại áp dụng pháp luật tương tự?",
+    "answer": "2"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Lịch sử xã hội loài người đã tồn tại ...... kiểu pháp luật, bao gồm các kiểu pháp luật là .............",
+    "answer": "4 – chủ nô – phong kiến – tư sản – XHCN"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Hành vi vi phạm pháp luật không thể là:",
+    "answer": "Một tư tưởng xấu xa"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Trách nhiệm pháp lý là?",
+    "answer": "Hậu quả bất lợi được pháp luật quy định áp dụng đối với các chủ thể có hành vi vi phạm pháp luật."
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Trong hệ thống pháp luật Việt Nam, để được coi là một ngành luật độc lập khi:",
+    "answer": "Cả a và b."
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Hình thức trách nhiệm nghiêm khắc nhất theo quy định của pháp luật Việt Nam:",
+    "answer": "Trách nhiệm hình sự."
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Sự thay đổi hệ thống QPPL có thể được thực hiện bằng cách:",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Đâu là một trong những khách thể của quan hệ pháp luật dân sự?",
+    "answer": "Quyền sở hữu tài sản."
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Bộ Giáo dục và Đào tạo có quyền ban hành:",
+    "answer": "Quyết định, thông tư"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Hành vi nào sau đây là vi phạm pháp luật dân sự:",
+    "answer": "Sử dụng tác phẩm âm nhạc không xin phép tác giả"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "“Lỗi của chủ thể vi phạm pháp luật là _____ của con người đối với hành vi nguy hiểm cho xã hội của mình và đối với _____ do hành vi đó gây ra thể hiện dưới dang cố ý hoặc vô ý”",
+    "answer": "Thái độ tâm lý – hậu quả"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Trường hợp “Truy cứu trách nhiệm pháp lý đối với những chủ thể vi",
+    "answer": "Áp dụng pháp luật."
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Ý nào không phải biểu hiện bên ngoài của vi phạm pháp luật?",
+    "answer": "Lỗi"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Đâu là nguồn gốc hình thành pháp luật?",
+    "answer": "Cả 3 đáp án trên."
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Mọi hành vi trái pháp luật hình sự được coi là tội phạm"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Cơ sở truy cứu trách nhiệm pháp lý là:",
+    "answer": "Vi phạm pháp luật"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Một người dùng súng bắn đạn hơi vào rừng săn thú. Anh ta tin rằng không có ai trong rừng ngoài anh ta. Trong lúc sơ suất đã bắn nhằm một nhân viên kiểm lâm. Mặt chủ quan trong vi phạm pháp luật này là:",
+    "answer": "Vô ý vì quá tự tin."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Đâu là một trong những khách thể của quan hệ pháp luật dân sự?",
+    "answer": "Quyền sở hữu tài sản."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Sự kiện pháp lý là:",
+    "answer": "Sự kiện thực tế mà sự xuất hiện hay mất đi của chúng được pháp luật gắn với việc phát sinh, thay đổi hoặc chấm dứt QHPL cụ thể."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Quốc gia nào sau đây không trải qua pháp luật tư sản?",
+    "answer": "Việt Nam"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Bộ Giáo dục và Đào tạo có quyền ban hành:",
+    "answer": "Quyết định, thông tư"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Đâu là bộ phận chế tài trong VBQPPL sau",
+    "answer": "“thì bị phạt cảnh cáo, phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng hoặc"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "“Vi phạm pháp luật là hành vi trái pháp luật, có lỗi do _______ thực hiện, xâm hại các _______ được pháp luật bảo vệ”",
+    "answer": "Chủ thể có năng lực trách nhiệm pháp lý – Quan hệ xã hội"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Tập quán pháp là:",
+    "answer": "Biến đổi những tục lệ, tập quán có sẵn thành pháp luật."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Nguyên tắc “không áp dụng hiệu lực hồi tố” của VBPL được hiểu là:",
+    "answer": "VBPL không áp dụng đối với những hành vi xảy ra trước thời điểm văn bản đó có hiệu lực pháp luật."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Quan hệ pháp luật bao gồm mấy bộ phận ?",
+    "answer": "3"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Hình thức bên ngoài của pháp luật chính là sự thể hiện công khai ý chí của nhà nước, đồng thời để xã hội nhận biết được và tuân theo ý chí của nhà nước. Đó chủ yếu là ___ hình thức sau: ___",
+    "answer": "3 – tập quán pháp, tiền lệ pháp, văn bản quy phạm pháp luật"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "“Lỗi của chủ thể vi phạm pháp luật là _____ của con người đối với hành vi nguy hiểm cho xã hội của mình và đối với _____ do hành vi đó gây ra thể hiện dưới dang cố ý hoặc vô ý”",
+    "answer": "Thái độ tâm lý – hậu quả"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Tính giai cấp của pháp luật thể hiện ở chỗ:",
+    "answer": "Cả a, b, c."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Điều 475 Bộ Luật Dân sự 2015 quy định: “Bên thuê có quyền cho thuê",
+    "answer": "Quy phạm pháp luật cho phép."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Trách nhiệm pháp lý được chia thành mấy loại ?",
+    "answer": "4"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Trong các hình thức trách nhiệm pháp lý sau, hình thức nào là trách nhiệm hành chính:",
+    "answer": "Phạt tiền"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Một người thợ sửa xe gian manh đã cố tình sửa phanh xe cho một ông khách một cách gian dối, cẩu thả; với mục đích là để người khách này còn tiếp tục quay lại tiệm anh ta để sửa xe. Do phanh xe không an toàn nên sau đó chiếc xe đã lao xuống dốc gây chết vị khách xấu số. Trường hợp trách nhiệm pháp lý ở đây là:",
+    "answer": "Trách nhiệm hình sự."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Cả a, b và c đều sai."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Ai là người có năng lực hành vi bị hạn chế?",
+    "answer": "Người được tòa án tuyên bố bị hạn chế năng lực hành vi."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Phát biểu nào sau đây về năng lực pháp luật là đúng?",
+    "answer": "Năng lực pháp luật của chủ thể trong quan hệ pháp luật phụ thuộc vào pháp luật của từng quốc gia."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Chế định: “Văn hóa, giáo dục, khoa học, công nghệ” thuộc ngành luật nào?",
+    "answer": "Ngành luật hiến pháp."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "UBND và chủ tịch UBND các cấp có quyền ban hành:",
+    "answer": "Quyết định, chỉ thị."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Năng lực trách nhiệm pháp lý của chủ thể vi phạm pháp luật bao gồm:",
+    "answer": "Đạt độ tuổi nhất định theo quy định pháp luật và có khả năng nhận thức được hành động của mình."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Chọn phát biểu sai về đặc điểm của văn bản quy phạm pháp luật:",
+    "answer": "Tất cả những văn bản do nhà nước ban hành đều là VBQPPL."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Ủy ban thường vụ Quốc hội có quyền ban hành:",
+    "answer": "Pháp lệnh, nghị quyết"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Đâu không phải là ngành luật trong hệ thống pháp luật Việt Nam?",
+    "answer": "Ngành luật đầu tư."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Để phân biệt ngành luật với các đạo luật, nhận định nào sau đây là đúng:",
+    "answer": "Đạo luật là văn bản chứa các QPPL, là nguồn của ngành luật"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Luật bảo vệ môi trường do cơ quan nào sau đây ban hành?",
+    "answer": "Quốc hội."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Khái niệm giải thích pháp luật?",
+    "answer": "GTPL là làm sáng tỏ về mặt tư tưởng, nội dung và ý nghĩa của các QPPL, đảm bảo cho sự nhận thức và thực hiện nghiêm chỉnh, thống nhất PL."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Trường hợp “Khi xảy ra tranh chấp về quyền và nghĩa vụ pháp lý giữa",
+    "answer": "Áp dụng pháp luật"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Đâu là nguồn gốc hình thành pháp luật?",
+    "answer": "Cả 3 đáp án trên."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Các hình thức thực hiện pháp luật bao gồm:",
+    "answer": "Tuân thủ pháp luật, thực thi pháp luật, sử dụng pháp luật và áp dụng pháp luật"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Giả định của quy phạm pháp luật là",
+    "answer": "Cả a và c"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Văn bản quy phạm pháp luật:",
+    "answer": "Luôn luôn chứa đựng các QPPL"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Trường hợp nào sau đây là hành vi vi phạm pháp luật",
+    "answer": "Một người 14 tuổi điều khiển xe máy không bằng lái."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "“Thực hiện pháp luật là nghĩa vụ của ___________ chủ thể.”",
+    "answer": "Tất cả các chủ thể"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Có mấy loại áp dụng pháp luật tương tự?",
+    "answer": "2"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Chủ thể của QHPL là:",
+    "answer": "Cá nhân, tổ chức cụ thể có được những quyền và mang những nghĩa vụ pháp lý nhất định được chỉ ra trong các QHPL cụ thể."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Chế tài của QPPL là:",
+    "answer": "Những hậu quả pháp lý bất lợi có thể áp dụng đối với chủ thể không thực hiện hoặc thực hiện không đúng quy định của QPPL."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Đâu không phải vi phạm pháp luật?",
+    "answer": "Vi phạm kỷ cương"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Vi phạm pháp luật được chia thành mấy loại ?",
+    "answer": "4"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Điều kiện để làm phát sinh, thay đổi hay chấm dứt một QHPL:",
+    "answer": "Cả a, b và c"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Ý nào không phải biểu hiện bên ngoài của vi phạm pháp luật?",
+    "answer": "Lỗi"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Mỗi một điều luật:",
+    "answer": "Cả A, B và C đều đúng"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Hình thức của pháp luật Việt Nam là:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Có mấy loại hình thức giải thích pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Trách nhiệm pháp lý là?",
+    "answer": "Hậu quả bất lợi được pháp luật quy định áp dụng đối với các chủ thể có hành vi vi phạm pháp luật."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Nội luật hóa là:",
+    "answer": "Chuyển hóa pháp luật nước ngoài thành pháp luật trong nước."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Trong hệ thống pháp luật Việt Nam, để được coi là một ngành luật độc lập khi:",
+    "answer": "Cả a và b."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Mọi hành vi trái pháp luật hình sự được coi là tội phạm"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Hình thức trách nhiệm nghiêm khắc nhất theo quy định của pháp luật Việt Nam:",
+    "answer": "Trách nhiệm hình sự."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Hành vi nào sau đây là vi phạm pháp luật hành chính:",
+    "answer": "Đi vào đường cấm, đường ngược chiều"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Có bao nhiêu hình thức thực hiện pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "A là người lái đò đã già yếu, công việc thường ngày của ông là đưa học sinh qua sông đi học. Hôm đó là ngày mưa lũ nên ông không làm việc, nhưng nhìn thấy lũ trẻ không được đến trường nên ông đánh liều đưa chúng qua sông. Sóng to làm đò bị lật làm chết nhiều học sinh. Hành vi khách quan trong cấu thành vi phạm pháp luật của ông A ở đây là:",
+    "answer": "Đưa người sang sông trong điều kiện mưa lũ."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Về mặt cấu trúc, mỗi một QPPL:",
+    "answer": "Cả a, b và c đều sai."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Văn bản nào có hiệu lực cao nhất trong số các loại văn bản sau:",
+    "answer": "Nghị định."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Thủ tướng chính phủ có quyền ký ban hành những loại VBPL nào?",
+    "answer": "Nghị định, quyết định"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Điều ước quốc tế là hình thức pháp luật của Việt Nam khi:",
+    "answer": "Việt Nam tham gia ký kết."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Khi cá nhân bị hạn chế về năng lực pháp luật thì:",
+    "answer": "Năng lực hành vi của cá nhân đó bị hạn chế."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Chế tài có các loại sau:",
+    "answer": "Chế tài hình sự, chế tài hành chính, chế tài kỷ luật và chế tài dân sự"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Nhận định nào sai:",
+    "answer": "Năng lực hành vi của chủ thể là cá nhân phụ thuộc và độ tuổi, tình trạng sức khỏe, trình độ của chủ thể."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Văn bản quy phạm pháp luật nào không phải do tập thể ban hành ?",
+    "answer": "Thông tư"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Ý kiến nào là sai trong con đường hình thành pháp luật?",
+    "answer": "tổng thể những đặc điểm và những điều kiện tồn tại và phát triển của pháp luật"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Hành vi nào sau đây là vi phạm pháp luật dân sự:",
+    "answer": "Sử dụng tác phẩm âm nhạc không xin phép tác giả"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Cơ quan nào dưới đây có quyền ban hành văn bản quy phạm pháp luật Pháp lệnh?",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Khẳng định nào đúng:",
+    "answer": "QPPL mang tính bắt buộc chung."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Hành vi vi phạm pháp luật không thể là:",
+    "answer": "Một tư tưởng xấu xa"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Nhận định nào đúng:",
+    "answer": "Công dân, người nước ngoài, người không quốc tịch, các tổ chức có năng lực pháp lý đều là chủ thể của quan hệ pháp luật."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Sự thay đổi hệ thống QPPL có thể được thực hiện bằng cách:",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Hình thức của pháp luật được áp dụng chủ yếu tại Việt Nam là:",
+    "answer": "Văn bản quy phạm Pháp luật."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Các quốc gia sau đây đã trải qua 4 kiểu pháp luật trong quá trình phát triển của mình:",
+    "answer": "Tất cả đều sai."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "A có mâu thuẫn gay gắt với B nên dùng súng bắn nhiều phát vào ngực B. Đây là lỗi gì?",
+    "answer": "Lỗi cố ý trực tiếp"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Hình thức bên trong của pháp luật là gì?",
+    "answer": "Là phương thức hay dạng tồn tại cũng như quy mô, cách tổ chức các yếu tố cấu tạo nên hệ thống pháp luật."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Trường hợp “Truy cứu trách nhiệm pháp lý đối với những chủ thể vi",
+    "answer": "Áp dụng pháp luật."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Trong quan hệ mua bán, khách thể là:",
+    "answer": "a và b đúng"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Đâu là ưu điểm của tập quán pháp?",
+    "answer": "Có nguồn gốc trực tiếp từ chính cuộc sống, gần gũi với các đối tượng điều chỉnh hàng ngày, dễ tạo ra thói quen tuân thủ pháp luật."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Tính quy phạm phổ biến là đặc tính của:",
+    "answer": "Pháp luật."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "“______ của vi phạm pháp luật là những quan hệ xã hội được pháp luật bảo vệ nhưng bị hành vi vi phạm pháp luật xâm hại”",
+    "answer": "Khách thể"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Quan hệ pháp luật gồm các bộ phận nào dưới đây ?",
+    "answer": "Chủ thể, khách thể, nội dung."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Văn bản quy phạm pháp luật là văn bản do:",
+    "answer": "Cơ quan nhà nước có thẩm quyền ban hành"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Khái niệm áp dụng pháp luật tương tự: “Là giải quyết một vụ việc______________nào đó mà chưa có quy phạm pháp luật trực tiếp để điều chỉnh trên cơ sở những nguyên tắc chung và ý thức pháp luật (Dựa vào sự công bằng và lẽ phải mà giải quyết)”",
+    "answer": "thực tế, cụ thể"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Đâu là một trong những hình thức của văn bản quy phạm pháp luật:",
+    "answer": "Cả a và b."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "“Pháp luật là hệ thống quy tắc xử sự mang tính ____, do ____ đặt ra hoặc thừa nhận và bảo đảm thực hiện, thể hiện ____ của giai cấp thống trị và phụ thuộc vào các điều kiện ____, là nhân tố chủ yếu để điều chỉnh các quan hệ xã hội.” :",
+    "answer": "Bắt buộc chung – nhà nước – ý chí – kinh tế xã hội."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Quan hệ pháp luật xuất hiện do:",
+    "answer": "Do ý chí cá nhân nhưng nằm trong khuôn khổ ý chí nhà nước."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "QPPL là cách xử sự do nhà nước quy định để:",
+    "answer": "Áp dụng cho nhiều lần và vẫn còn hiệu lực sau những lần áp dụng đó."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Điểm nào sau đây không phải là đặc điểm của quan hệ pháp luật là:",
+    "answer": "Không mang tính ý chí"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Tính xác định chặt chẽ về mặt hình thức là thuộc tính (đặc trưng) của:",
+    "answer": "Quy phạm pháp luật"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Những biểu hiện tâm lý bên trong của chủ thể vi phạm pháp luật bao gồm:",
+    "answer": "Lỗi của chủ thể vi phạm, động cơ, mục đích"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Cái nào không phải là các yêu cầu có tính nguyên tắc của áp",
+    "answer": "Bảo đảm tính sáng tạo."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Pháp luật Việt Nam quy định độ tuổi tối thiểu để bầu cử đại biểu Quốc hội là:",
+    "answer": "18."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Lịch sử xã hội loài người đã tồn tại mấy kiểu pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Cấu thành vi phạm pháp luật bao gồm:",
+    "answer": "Mặt khách quan, mặt chủ quan, chủ thể, khách thể"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "PL2C5.008: Phương pháp nào sau đây không phải một trong các phương pháp giải thích pháp luật?",
+    "answer": "PP khoa học"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Lịch sử xã hội loài người đã tồn tại ...... kiểu pháp luật, bao gồm các kiểu pháp luật là .............",
+    "answer": "4 – chủ nô – phong kiến – tư sản – XHCN"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Tính giai cấp của pháp luật thể hiện ở chỗ:",
+    "answer": "Cả a, b, c."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Đâu không phải là ngành luật trong hệ thống pháp luật Việt Nam?",
+    "answer": "Ngành luật đầu tư."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "QPPL là cách xử sự do nhà nước quy định để:",
+    "answer": "Áp dụng cho nhiều lần và vẫn còn hiệu lực sau những lần áp dụng đó."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Trách nhiệm pháp lý được chia thành mấy loại ?",
+    "answer": "4"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Văn bản nào có hiệu lực cao nhất trong số các loại văn bản sau:",
+    "answer": "Nghị định."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Điều ước quốc tế là hình thức pháp luật của Việt Nam khi:",
+    "answer": "Việt Nam tham gia ký kết."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Giả định của quy phạm pháp luật là",
+    "answer": "Cả a và c"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Các quốc gia sau đây đã trải qua 4 kiểu pháp luật trong quá trình phát triển của mình:",
+    "answer": "Tất cả đều sai."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Đâu không phải vi phạm pháp luật?",
+    "answer": "Vi phạm kỷ cương"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Điểm nào sau đây không phải là đặc điểm của quan hệ pháp luật là:",
+    "answer": "Không mang tính ý chí"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Về mặt cấu trúc, mỗi một QPPL:",
+    "answer": "Cả a, b và c đều sai."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Đâu là một trong những khách thể của quan hệ pháp luật dân sự?",
+    "answer": "Quyền sở hữu tài sản."
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Nhận định nào sai:",
+    "answer": "Năng lực hành vi của chủ thể là cá nhân phụ thuộc và độ tuổi, tình trạng sức khỏe, trình độ của chủ thể."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Điều 475 Bộ Luật Dân sự 2015 quy định: “Bên thuê có quyền cho thuê",
+    "answer": "Quy phạm pháp luật cho phép."
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Trường hợp “Khi xảy ra tranh chấp về quyền và nghĩa vụ pháp lý giữa",
+    "answer": "Áp dụng pháp luật"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Đâu là nguồn gốc hình thành pháp luật?",
+    "answer": "Cả 3 đáp án trên."
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Chế tài của QPPL là:",
+    "answer": "Những hậu quả pháp lý bất lợi có thể áp dụng đối với chủ thể không thực hiện hoặc thực hiện không đúng quy định của QPPL."
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "“Vi phạm pháp luật là hành vi trái pháp luật, có lỗi do _______ thực hiện, xâm hại các _______ được pháp luật bảo vệ”",
+    "answer": "Chủ thể có năng lực trách nhiệm pháp lý – Quan hệ xã hội"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Điều kiện để làm phát sinh, thay đổi hay chấm dứt một QHPL:",
+    "answer": "Cả a, b và c"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Năng lực trách nhiệm pháp lý của chủ thể vi phạm pháp luật bao gồm:",
+    "answer": "Đạt độ tuổi nhất định theo quy định pháp luật và có khả năng nhận thức được hành động của mình."
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Ý kiến nào là sai trong con đường hình thành pháp luật?",
+    "answer": "tổng thể những đặc điểm và những điều kiện tồn tại và phát triển của pháp luật"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Bộ Giáo dục và Đào tạo có quyền ban hành:",
+    "answer": "Quyết định, thông tư"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Trong quan hệ mua bán, khách thể là:",
+    "answer": "a và b đúng"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Để phân biệt ngành luật với các đạo luật, nhận định nào sau đây là đúng:",
+    "answer": "Đạo luật là văn bản chứa các QPPL, là nguồn của ngành luật"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Có mấy loại hình thức giải thích pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Chế tài có các loại sau:",
+    "answer": "Chế tài hình sự, chế tài hành chính, chế tài kỷ luật và chế tài dân sự"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Hình thức bên ngoài của pháp luật chính là sự thể hiện công khai ý chí của nhà nước, đồng thời để xã hội nhận biết được và tuân theo ý chí của nhà nước. Đó chủ yếu là ___ hình thức sau: ___",
+    "answer": "3 – tập quán pháp, tiền lệ pháp, văn bản quy phạm pháp luật"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Một người thợ sửa xe gian manh đã cố tình sửa phanh xe cho một ông khách một cách gian dối, cẩu thả; với mục đích là để người khách này còn tiếp tục quay lại tiệm anh ta để sửa xe. Do phanh xe không an toàn nên sau đó chiếc xe đã lao xuống dốc gây chết vị khách xấu số. Trường hợp trách nhiệm pháp lý ở đây là:",
+    "answer": "Trách nhiệm hình sự."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Vi phạm pháp luật được chia thành mấy loại ?",
+    "answer": "4"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Văn bản quy phạm pháp luật là văn bản do:",
+    "answer": "Cơ quan nhà nước có thẩm quyền ban hành"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Hình thức bên trong của pháp luật là gì?",
+    "answer": "Là phương thức hay dạng tồn tại cũng như quy mô, cách tổ chức các yếu tố cấu tạo nên hệ thống pháp luật."
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Hành vi nào sau đây là vi phạm pháp luật hành chính:",
+    "answer": "Đi vào đường cấm, đường ngược chiều"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Pháp luật Việt Nam quy định độ tuổi tối thiểu để bầu cử đại biểu Quốc hội là:",
+    "answer": "18."
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Khi cá nhân bị hạn chế về năng lực pháp luật thì:",
+    "answer": "Năng lực hành vi của cá nhân đó bị hạn chế."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Nguyên tắc “không áp dụng hiệu lực hồi tố” của VBPL được hiểu là:",
+    "answer": "VBPL không áp dụng đối với những hành vi xảy ra trước thời điểm văn bản đó có hiệu lực pháp luật."
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Khẳng định nào đúng:",
+    "answer": "QPPL mang tính bắt buộc chung."
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Ai là người có năng lực hành vi bị hạn chế?",
+    "answer": "Người được tòa án tuyên bố bị hạn chế năng lực hành vi."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Quốc gia nào sau đây không trải qua pháp luật tư sản?",
+    "answer": "Việt Nam"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Đâu là một trong những hình thức của văn bản quy phạm pháp luật:",
+    "answer": "Cả a và b."
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Chủ thể của QHPL là:",
+    "answer": "Cá nhân, tổ chức cụ thể có được những quyền và mang những nghĩa vụ pháp lý nhất định được chỉ ra trong các QHPL cụ thể."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Luật bảo vệ môi trường do cơ quan nào sau đây ban hành?",
+    "answer": "Quốc hội."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Ý nào không phải biểu hiện bên ngoài của vi phạm pháp luật?",
+    "answer": "Lỗi"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Cơ quan nào dưới đây có quyền ban hành văn bản quy phạm pháp luật Pháp lệnh?",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Cấu thành vi phạm pháp luật bao gồm:",
+    "answer": "Mặt khách quan, mặt chủ quan, chủ thể, khách thể"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Hành vi nào sau đây là vi phạm pháp luật dân sự:",
+    "answer": "Sử dụng tác phẩm âm nhạc không xin phép tác giả"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Hình thức của pháp luật Việt Nam là:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Quan hệ pháp luật gồm các bộ phận nào dưới đây ?",
+    "answer": "Chủ thể, khách thể, nội dung."
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Hình thức trách nhiệm nghiêm khắc nhất theo quy định của pháp luật Việt Nam:",
+    "answer": "Trách nhiệm hình sự."
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Mọi hành vi trái pháp luật hình sự được coi là tội phạm"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Nội luật hóa là:",
+    "answer": "Chuyển hóa pháp luật nước ngoài thành pháp luật trong nước."
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Trách nhiệm pháp lý là?",
+    "answer": "Hậu quả bất lợi được pháp luật quy định áp dụng đối với các chủ thể có hành vi vi phạm pháp luật."
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Văn bản quy phạm pháp luật nào không phải do tập thể ban hành ?",
+    "answer": "Thông tư"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Nhận định nào đúng:",
+    "answer": "Công dân, người nước ngoài, người không quốc tịch, các tổ chức có năng lực pháp lý đều là chủ thể của quan hệ pháp luật."
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Sự kiện pháp lý là:",
+    "answer": "Sự kiện thực tế mà sự xuất hiện hay mất đi của chúng được pháp luật gắn với việc phát sinh, thay đổi hoặc chấm dứt QHPL cụ thể."
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Đâu là bộ phận chế tài trong VBQPPL sau",
+    "answer": "“thì bị phạt cảnh cáo, phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng hoặc"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Hành vi vi phạm pháp luật không thể là:",
+    "answer": "Một tư tưởng xấu xa"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Một người dùng súng bắn đạn hơi vào rừng săn thú. Anh ta tin rằng không có ai trong rừng ngoài anh ta. Trong lúc sơ suất đã bắn nhằm một nhân viên kiểm lâm. Mặt chủ quan trong vi phạm pháp luật này là:",
+    "answer": "Vô ý vì quá tự tin."
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Quan hệ pháp luật bao gồm mấy bộ phận ?",
+    "answer": "3"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "“Lỗi của chủ thể vi phạm pháp luật là _____ của con người đối với hành vi nguy hiểm cho xã hội của mình và đối với _____ do hành vi đó gây ra thể hiện dưới dang cố ý hoặc vô ý”",
+    "answer": "Thái độ tâm lý – hậu quả"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Cái nào không phải là các yêu cầu có tính nguyên tắc của áp",
+    "answer": "Bảo đảm tính sáng tạo."
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Mỗi một điều luật:",
+    "answer": "Cả A, B và C đều đúng"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "“Thực hiện pháp luật là nghĩa vụ của ___________ chủ thể.”",
+    "answer": "Tất cả các chủ thể"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Khái niệm áp dụng pháp luật tương tự: “Là giải quyết một vụ việc______________nào đó mà chưa có quy phạm pháp luật trực tiếp để điều chỉnh trên cơ sở những nguyên tắc chung và ý thức pháp luật (Dựa vào sự công bằng và lẽ phải mà giải quyết)”",
+    "answer": "thực tế, cụ thể"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "“______ của vi phạm pháp luật là những quan hệ xã hội được pháp luật bảo vệ nhưng bị hành vi vi phạm pháp luật xâm hại”",
+    "answer": "Khách thể"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Tập quán pháp là:",
+    "answer": "Biến đổi những tục lệ, tập quán có sẵn thành pháp luật."
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Trường hợp nào sau đây là hành vi vi phạm pháp luật",
+    "answer": "Một người 14 tuổi điều khiển xe máy không bằng lái."
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Chọn phát biểu sai về đặc điểm của văn bản quy phạm pháp luật:",
+    "answer": "Tất cả những văn bản do nhà nước ban hành đều là VBQPPL."
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Lịch sử xã hội loài người đã tồn tại ...... kiểu pháp luật, bao gồm các kiểu pháp luật là .............",
+    "answer": "4 – chủ nô – phong kiến – tư sản – XHCN"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "“Pháp luật là hệ thống quy tắc xử sự mang tính ____, do ____ đặt ra hoặc thừa nhận và bảo đảm thực hiện, thể hiện ____ của giai cấp thống trị và phụ thuộc vào các điều kiện ____, là nhân tố chủ yếu để điều chỉnh các quan hệ xã hội.” :",
+    "answer": "Bắt buộc chung – nhà nước – ý chí – kinh tế xã hội."
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Phát biểu nào sau đây về năng lực pháp luật là đúng?",
+    "answer": "Năng lực pháp luật của chủ thể trong quan hệ pháp luật phụ thuộc vào pháp luật của từng quốc gia."
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Sự thay đổi hệ thống QPPL có thể được thực hiện bằng cách:",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Có bao nhiêu hình thức thực hiện pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "UBND và chủ tịch UBND các cấp có quyền ban hành:",
+    "answer": "Quyết định, chỉ thị."
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Chế định: “Văn hóa, giáo dục, khoa học, công nghệ” thuộc ngành luật nào?",
+    "answer": "Ngành luật hiến pháp."
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Tính quy phạm phổ biến là đặc tính của:",
+    "answer": "Pháp luật."
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Văn bản quy phạm pháp luật:",
+    "answer": "Luôn luôn chứa đựng các QPPL"
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Quan hệ pháp luật xuất hiện do:",
+    "answer": "Do ý chí cá nhân nhưng nằm trong khuôn khổ ý chí nhà nước."
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Trong các hình thức trách nhiệm pháp lý sau, hình thức nào là trách nhiệm hành chính:",
+    "answer": "Phạt tiền"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Những biểu hiện tâm lý bên trong của chủ thể vi phạm pháp luật bao gồm:",
+    "answer": "Lỗi của chủ thể vi phạm, động cơ, mục đích"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Khái niệm giải thích pháp luật?",
+    "answer": "GTPL là làm sáng tỏ về mặt tư tưởng, nội dung và ý nghĩa của các QPPL, đảm bảo cho sự nhận thức và thực hiện nghiêm chỉnh, thống nhất PL."
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Cơ sở truy cứu trách nhiệm pháp lý là:",
+    "answer": "Vi phạm pháp luật"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Các hình thức thực hiện pháp luật bao gồm:",
+    "answer": "Tuân thủ pháp luật, thực thi pháp luật, sử dụng pháp luật và áp dụng pháp luật"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Trong hệ thống pháp luật Việt Nam, để được coi là một ngành luật độc lập khi:",
+    "answer": "Cả a và b."
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Lịch sử xã hội loài người đã tồn tại mấy kiểu pháp luật?",
+    "answer": "4"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Thủ tướng chính phủ có quyền ký ban hành những loại VBPL nào?",
+    "answer": "Nghị định, quyết định"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Khẳng định nào là đúng:",
+    "answer": "Cả a, b và c đều sai."
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Ủy ban thường vụ Quốc hội có quyền ban hành:",
+    "answer": "Pháp lệnh, nghị quyết"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Có mấy loại áp dụng pháp luật tương tự?",
+    "answer": "2"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Tính xác định chặt chẽ về mặt hình thức là thuộc tính (đặc trưng) của:",
+    "answer": "Quy phạm pháp luật"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Trường hợp “Truy cứu trách nhiệm pháp lý đối với những chủ thể vi",
+    "answer": "Áp dụng pháp luật."
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "A là người lái đò đã già yếu, công việc thường ngày của ông là đưa học sinh qua sông đi học. Hôm đó là ngày mưa lũ nên ông không làm việc, nhưng nhìn thấy lũ trẻ không được đến trường nên ông đánh liều đưa chúng qua sông. Sóng to làm đò bị lật làm chết nhiều học sinh. Hành vi khách quan trong cấu thành vi phạm pháp luật của ông A ở đây là:",
+    "answer": "Đưa người sang sông trong điều kiện mưa lũ."
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "A có mâu thuẫn gay gắt với B nên dùng súng bắn nhiều phát vào ngực B. Đây là lỗi gì?",
+    "answer": "Lỗi cố ý trực tiếp"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Hình thức của pháp luật được áp dụng chủ yếu tại Việt Nam là:",
+    "answer": "Văn bản quy phạm Pháp luật."
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Đâu là ưu điểm của tập quán pháp?",
+    "answer": "Có nguồn gốc trực tiếp từ chính cuộc sống, gần gũi với các đối tượng điều chỉnh hàng ngày, dễ tạo ra thói quen tuân thủ pháp luật."
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "PL2C5.008: Phương pháp nào sau đây không phải một trong các phương pháp giải thích pháp luật?",
+    "answer": "PP khoa học"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Đâu là một trong những hình thức của văn bản quy phạm pháp luật:",
+    "answer": "Cả a và b."
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Ai là người có năng lực hành vi bị hạn chế?",
+    "answer": "Người được tòa án tuyên bố bị hạn chế năng lực hành vi."
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Sự kiện pháp lý là:",
+    "answer": "Sự kiện thực tế mà sự xuất hiện hay mất đi của chúng được pháp luật gắn với việc phát sinh, thay đổi hoặc chấm dứt QHPL cụ thể."
+  }
+]

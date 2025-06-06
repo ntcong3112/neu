@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Nếu dân số 15-20 tuổi năm 2015 là 2200 người, với hệ số sống của nhóm 15-20 tuổi sau 10 năm là 0,90, dân số 25-30 tuổi còn sống ở năm 2025 là?",
+    "answer": "1980"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Gia tăng dân số có tiềm năng giúp quá trình phát triển theo những cách sau?",
+    "answer": "Gia tăng lực lượng lao động và tiêu dùng, cũng như lợi ích từ kinh tế theo quy mô"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương B năm 2017 như sau: Dân số 01/01/2017 là 36500 người, tính đến 31/12 có 550 người di chuyển đến, 350 người di chuyển đi, 250 trẻ em sinh ra và 150 người chết đi. Tính tỷ suất xuất cư?",
+    "answer": "9.55‰"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Một số nhà nghiên cứu muốn bổ sung giai đoạn 5 cho lý thuyết quá độ dân số biểu diễn giai đoạn này vào hình 2 để chỉ rõ những gì sẽ xảy ra đối với mức sinh và mức chết?",
+    "answer": "Mức sinh và mức chết thấp ổn định, mức sinh giảm thấp hơn mức chết"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "So sánh mức sinh của 2 vùng A và B có tỷ suất sinh thô (CBR) tương ứng là 30‰ và 25‰?",
+    "answer": "Chưa biết"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Thông thường, khi dự báo dân số người ta thường dựa vào giả thiết biến động tự nhiên trong cộng đồng người di dân là?",
+    "answer": "Bằng một nửa so với dân số bản địa"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Bền vững về xã hội có nghĩa là?",
+    "answer": "Hướng tới tiến bộ, công bằng và bình đẳng xã hội"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Nghiên cứu thực nghiệm kiểm chứng ảnh hưởng của dân số tới phát triển kinh tế đã chỉ ra:",
+    "answer": "Khi tốc độ tăng dân số vượt quá tốc độ sản xuất, phát triển kinh tế sẽ bị cản trở."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng về đặc điểm của cơ cấu dân số vàng?",
+    "answer": "Cơ cấu dân số vàng là cơ hội cho sự phát triển kinh tế"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Tại sao tỷ suất sinh chung, mặc dù có ưu điểm hơn tỷ suất sinh thô nhưng vẫn không phản ánh chính xác mức sinh?",
+    "answer": "Bởi vì nó đã xem xét số phụ nữ trong độ tuổi sinh đẻ nhưng không xem xét sự khác biệt về khả năng sinh sản của phụ nữ"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Theo nghiên cứu, với mối quan hệ hình chữ J giữa mức sinh và sựu phát triển, nhận định nào sau đây là hợp lý?",
+    "answer": "Khi trình độ phát triển với chỉ số phát triển con người HDI từ 0,86, các nước phát triển có thể hồi phục về khả năng sinh sản."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Tỷ suất chết thô phản ánh?",
+    "answer": "Số người chết tính trên dân số trung bình của một năm nhất định."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây được sử dụng làm đầu vào để tính tổng tỷ suất sinh?",
+    "answer": "Tỷ suất sinh đặc trưng theo tuổi"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Nếu tỷ suất sinh thô là 27 phần nghìn, có nghĩa là?",
+    "answer": "Có 27 trẻ em sinh ra sống trên 1000 dân số trung bình trong năm nhất định"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Dân số khu vực A năm 2009 theo 3 nhóm tuổi 0-14; 15-59; 60+ lần lượt là 21,45 triệu người; 56,62 triệu người và 7,72 triệu người. Tỷ số phụ thuộc của khu vực A năm 2009 là?",
+    "answer": "51,5%"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Tỷ số phụ thuộc càng cao chứng tỏ nhóm dân số nào chiếm tỷ trọng ngày càng lớn?",
+    "answer": "Nhóm dân số ngoài độ tuổi lao động"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Già hoá dân số không phải là kết quả của quá trình nào sau đây?",
+    "answer": "Tăng mức sinh"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Tuổi trung vị tăng theo thời gian phản ánh hiện tượng?",
+    "answer": "Già hoá dân số"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Trường phái tân Malthus đã chỉ ra?",
+    "answer": "Áp lực gia tăng nhanh dân số tác động tới hệ sinh thái, biến đổi khí hậu và môi trường là mối đe dọa lớn đối với nhân loại."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Cơ sở của chính sách “duy trì mỗi gia đình có đủ 2 con” là?",
+    "answer": "Ổn định dân số dựa trên duy trì mức sinh thay thế"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Dân số sẽ tăng nếu?",
+    "answer": "Ổn định dân số dựa trên duy trì mức sinh thay thế"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Ở giai đoạn nào của lý thuyết quá độ dân số, tỷ lệ tử vong giảm trong khi tỷ lệ sinh vẫn cao dẫn đến tăng dân số nhanh?",
+    "answer": "Giai đoạn 2"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Già hóa dân số sẽ khiến các thách thức nào sau đây xuất hiện?",
+    "answer": "Thiếu lực lượng lao động và dịch vụ chăm sóc người cao tuổi"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Tháp dân số dạng thu hẹp có đặc điểm?",
+    "answer": "Mức sinh giảm"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Hình thức di dân mang lại những tác động tích cực cho sự phát triển kinh tế - xã hội là:",
+    "answer": "Di dân có kế hoạch."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số năm 2017 của địa phương Y như sau: Dân số 01/01 là 6000 người, số sinh ra trong năm là 120 người, số người chết trong năm là 30, số di chuyển đến là 10 người và số di cư đi là 8 người. Để sau 70 năm dân số địa phương A tăng lên gấp đôi, nếu CDR giữ nguyên như năm 2017, và không có di dân thì cần tăng giảm số ca sinh ra như thế nào?",
+    "answer": "Tăng 32 ca"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Trong phương pháp dự báo bằng hàm số toán học, giả thiết cần được đảm bảo là?",
+    "answer": "Biến động kinh tế xã hội không ảnh hưởng đến biến động dân số hoặc nếu có thì mang tính chất đều đặn"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Năm 2009, cứ 1000 em bé được sinh ra ở tỉnh A thì ước tính 120 em bé sẽ chết trước khi tròn 1 tuổi. Tỷ lệ 120 trẻ chết trên 1000 em được sinh ra trong năm được gọi là?",
+    "answer": "Tỷ suất chết trẻ sơ sinh"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Dân số Việt Nam hiện tại được phân chia theo mấy vùng kinh tế xã hội?",
+    "answer": "6"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Tỷ số phụ thuộc đo lường mối tương quan giữa?",
+    "answer": "Nhóm dân số ngoài độ tuổi lao động và trong độ tuổi lao động"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Có số liệu dân số trung bình địa phương A năm 2014 và 2019 lần lượt như sau: 300000 và 300420 người. Giả thiết rằng dân số địa phương trên tăng theo hàm cấp số cộng. Hãy dự báo dân số cho năm 2020?",
+    "answer": "300504 người"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Phát triển là quá trình mà một xã hội thỏa mãn (đáp ứng) những nhu cầu mà xã hội ấy cho là thiết yếu, điều ấy có nghĩa?",
+    "answer": "Sự phát triển đã bình đẳng hơn khi quan tâm đến nhóm dân cư nghèo trong xã hội (nhu cầu thiết yếu)"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Sự phát triển nhanh chóng các siêu đô thị ở nhóm nước đang phát triển gắn liền với?",
+    "answer": "Gia tăng dân số nhanh và tình trạng di cư ồ ạt từ nông thôn đến đô thị."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số năm 2018 của địa phương X như sau: Dân số 01/01 là 5000 người, số sinh ra trong năm là 120 người, số người chết trong năm là 30, số di chuyển đến là 10 người và số di cư đi là 8 người. Để sau 70 năm dân số địa phương A mới tăng lên gấp đôi, nếu CDR và NMR giữ nguyên như năm 2018, thì cần tăng giảm số ca sinh ra như thế nào?",
+    "answer": "Giảm 42 ca"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Chuyển dịch mức sinh thường được định nghĩa là?",
+    "answer": "Sự thay đổi không thể đảo ngược của mức sinh của một quốc gia từ mức sinh cao xuống mức sinh thấp"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Đâu không phải là mục đích của các cuộc di dân có tổ chức, có kế hoạch của một số nước ở đang phát triển?",
+    "answer": "Di dân để tìm việc làm"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Tổng tỷ suất sinh (TFR) là thước đo?",
+    "answer": "Theo thời kỳ"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Dự báo bằng phương pháp thành phần có ý nghĩa?",
+    "answer": "Dự báo dựa trên từng thành phần gồm: dân số gốc, biến động tự nhiên, biến động cơ học"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Nếu dân số 20-25 tuổi năm 2019 là 2000 người, với hệ số sống của nhóm 20-25 tuổi sau 5 năm là 0,95, dân số 25-30 tuổi năm 2024 là?",
+    "answer": "1900"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Biểu hiện của quá trình đô thị hóa ở các nước đang phát triển không phải là?",
+    "answer": "Đô thị hóa theo chiều sâu."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Chi phí chăm sóc y tế sẽ thay đổi như thế nào theo xu hướng già hóa dân số?",
+    "answer": "Tập trung chăm sóc tại nhà và điều trị các bệnh mãn tính"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Một số nhà nghiên cứu muốn bổ sung giai đoạn 5 cho lý thuyết quá độ dân số, biểu diễn giai đoạn này vào hình 2 để chỉ rõ những gì sẽ xảy ra đối với mức sinh và mức chết?",
+    "answer": "Mức sinh và mức chết thấp ổn định, mức sinh giảm thấp hơn mức chết"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Quốc gia nào sau đây có tốc độ già hoá dân số nhanh nhất?",
+    "answer": "Nhật Bản"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Để đánh giá cơ cấu tuổi sử dụng thước đo?",
+    "answer": "Tuổi trung vị"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Mức sinh tăng sẽ dẫn tới?",
+    "answer": "Phát triển đầu tư vào giáo dục"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Nếu dân số 10-20 tuổi năm 2015 là 2100 người, với hệ số sống của nhóm 10-20 tuổi sau 10 năm là 0,95, dân số 20-30 tuổi năm 2020 là?",
+    "answer": "1995"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Dự báo dân số ngắn hạn sẽ chính xác hơn dài hạn (từ 20 năm trở lên) vì?",
+    "answer": "Những tác động kép của các giả định không chính xác tăng theo khoảng thời gian dự báo."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Biến động chung dân số được thể hiện bằng phương trình?",
+    "answer": "(Sinh + Nhập cư) – (Chết + Xuất cư)"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Quốc gia A(Dân số:1000, Sinh sống:15, Tử vong:3, Nhập cư:3, NIR(‰):5, r:0,5). Quốc gia B(Tử vong:80, Nhập cư:20, Xuất cư: 20, NIR(‰):4). Tỷ suất sinh thô (CBR) và tỷ suất chết thô (CDR) ở nước A là bao nhiêu?",
+    "answer": "15 và 10"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Yếu tố khiến mức sinh giảm nhanh trong thuyết quá độ dân số là?",
+    "answer": "Công nghiệp hóa và đô thị hóa"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương B năm 2017 như sau: Dân số 01/01/2017 là 36000 người, tính đến 31/12 có 450 người di chuyển đến, 150 người di chuyển đi, 300 trẻ em sinh ra và 100 người chết đi. Tính tỷ suất xuất cư?",
+    "answer": "4.14‰"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Tại sao tỷ suất sinh thô không phản ánh chính xác mức sinh?",
+    "answer": "Bởi vì nó không tập trung vào số phụ nữ trong độ tuổi sinh đẻ hoặc/và xem xét sự khác biệt về khả năng sinh sản của phụ nữ"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Con người sống lâu hơn và sinh ít con hơn là kết quả của quá trình nào sau đây?",
+    "answer": "Già hóa dân số"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương A năm 2018 như sau: Dân số 01/01 là 300000 người, dân số 31/12 là 301000 người. Hãy dự báo khoảng thời gian dân số tăng lên gấp đôi của địa phương?",
+    "answer": "231 năm"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Nếu bạn thấy một tháp tuổi lõm vào ở những nhóm tuổi trẻ hơn, thì lời giải thích rất có thể là?",
+    "answer": "Mức sinh giảm"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Biến động dân số cơ học phản ánh?",
+    "answer": "Chênh lệch dân số do số di dân đến và đi ở một vùng"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Theo lý thuyết Malthus, những yếu tố nào sẽ không chi phối sự tăng trưởng dân số nói chung?",
+    "answer": "Dân số loài người sẽ ổn định"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Vai Trò của gia tăng dân số tới phát triển kinh tế là?",
+    "answer": "Khác nhau giữa nhóm nước phát triển và đang phát triển."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương A năm 2009 và 2014 như sau: Dân số 01/07/2009 là 30000 người, dân số 01/07/2014 là 30600 người. Số sinh và chết từ năm 2009 đến 2014 tương ứng là 400 và 150 người. Tính lượng di dân thuần túy trung bình một năm trong thời kỳ 2009 – 2014?",
+    "answer": "70 người"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Số con trung bình của phụ nữ trong tuổi sinh đẻ ở các vùng kinh tế xã hội khác nhau cho thấy sự khác biệt đáng kể. Khẳng định nào sau đây là đúng?",
+    "answer": "Số con bình quân của một người mẹ thường cao hơn ở những vùng có mức thu nhập thấp.Câu hỏi 1"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Tỷ số giới tính là 1:1 phản ánh?",
+    "answer": "Trung bình cứ 1 nam có 1 nữ trong dân số"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Một quốc gia đã đạt đến một giai đoạn mà dân số ổn định hoặc thậm chí giảm nhẹ có thể không có vấn đề tăng dân số nhưng họ có một vấn đề nghiêm trọng khác. Vấn đề này là?",
+    "answer": "Thiếu lao động trẻ"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Tỷ suất chết thô của Thuỵ Điển cao hơn Nigieria do?",
+    "answer": "Cơ cấu tuổi dân số"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Nếu dân số 15-25 tuổi năm 2015 là 2200 người, với hệ số sống của nhóm 15-25 tuổi sau 5 năm là 0,90, dân số sẽ được dự báo cho nhóm tuổi nào năm 2020?",
+    "answer": "20-30"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Những thách thức mà Mỹ gặp phải nếu có cơ cấu tuổi như trên?",
+    "answer": "Mỹ có mức sinh giảm nên quan tâm tới việc làm thế nào để duy trì mức sinh thay thế, đồng thời cần có chính sách phù hợp để sử dụng hiệu quả lao động trung tuổi"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương B năm 2018 như sau: Dân số 01/01/2018 là 35000 người, tính đến 31/12 có 400 người di chuyển đến, 100 người di chuyển đi, 350 trẻ em sinh ra và 90 người chết đi. Tính tỷ suất nhập cư?",
+    "answer": "11.34‰"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Quốc gia với đặc điểm tháp dân số mở rộng có thể đối mặt với các vấn đề nào sau đây?",
+    "answer": "Cần xây dựng thêm các trường học"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Theo Malthus, tiền lương thực tế cao hơn sẽ dẫn đến?",
+    "answer": "Tỷ lệ sinh cao hơn và tỷ lệ tử vong thấp hơn"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Bền vững về kinh tế có nghĩa là?",
+    "answer": "Cơ cấu GDP hợp lý và đảm bảo tăng trưởng GDP ổn định"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Kết quả dự báo dân số thành phần là cơ sở để?",
+    "answer": "Lập kế hoạch và xây dựng các chính sách dân số-phát triển."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Ý nào dưới đây thể hiện đúng đặc điểm của quá trình đô thị hóa trên thế giới?",
+    "answer": "Dân cư tập trung vào các thành phố lớn và cực lớn."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Số con trung bình của phụ nữ tỷ lệ nghịch với trình độ học vấn của họ"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương A năm 2019 như sau: Dân số 01/01/2019 là 30000 người, tính đến 31/12 có 500 người di chuyển đến, 200 người di chuyển đi, 300 trẻ em sinh ra và 100 người chết đi. Tính số lượng di dân thuần túy?",
+    "answer": "300 người"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Tỷ số giữa dân số nam và nữ trong tổng thể dân số tại một thời điểm nhất định được gọi là?",
+    "answer": "Tỷ số giới tính"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Nếu tốc độ gia tăng dân số trung bình hàng năm tăng từ 1% lên 2% thì khoảng thời gian dân số tăng gấp đôi sẽ?",
+    "answer": "Giảm 34 năm"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Điều nào sau đây KHÔNG phải là một phần trong dự đoán của Thomas Malthus về sự gia tăng dân số của con người?",
+    "answer": "Khu đô thị lớn"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương B năm 2018 như sau: Dân số 01/01/2018 là 45000 người, tính đến 31/12 có 500 người di chuyển đến, 150 người di chuyển đi, 250 trẻ em sinh ra và 100 người chết đi. Tính tỷ suất nhập cư?",
+    "answer": "11.05‰"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Quá trình chuyển dịch mức sinh bắt đầu ở hầu hết các nước công nghiệp vào cuối thế kỷ 19 và kết thúc vào giữa thế kỷ 20"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương A năm 2019 như sau: số sinh ra trong năm là 90 cháu, số chết trong năm là 96 người, số đến nhập cư là 110 người, số xuất cư là 94 người, dân số tính đến 31/12/2018 là 5700 người. Hãy dự báo dân số địa phương A năm 2020?",
+    "answer": "5715 người"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Theo những phát hiện giải thích mức sinh thấp ở các nước tiên tiến, điều nào sau đây là đúng?",
+    "answer": "Phụ nữ có nhiều con khó cạnh tranh trên thị trường lao động."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Mất bao nhiêu năm để một quốc gia tăng trưởng 2% mỗi năm có thể tăng gấp đôi dân số?",
+    "answer": "35"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Bình đẳng xã hội có nghĩa là?",
+    "answer": "Bảo đảm cho các nhóm dân cư dễ bị tổn thương có được đầy đủ cơ hội và năng lực vươn lên thoả mãn nhu cầu thiết yếu của họ"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương A năm 2019 như sau: Dân số 01/01/2019 là 37000 người, tính đến 31/12 có 600 người di chuyển đến, 100 người di chuyển đi, 500 trẻ em sinh ra và 120 người chết đi. Tính số lượng di dân thuần túy?",
+    "answer": "500 người"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Công bằng xã hội là?",
+    "answer": "Sự ngang bằng nhau giữa người và người trong xã hội không phải về mọi phương diện mà chủ yếu về phương diện phân phối sản phẩm xã hội theo nguyên tắc: cống hiến lao động ngang nhau thì hưởng thụ ngang nhau"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Điều nào sau đây là không đúng?",
+    "answer": "Ở Nigeria, năm 2006, một phụ nữ trung bình sinh 7,9 trẻ em, gấp năm lần so với phụ nữ ở Macao trong cùng thời kỳ"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Dân số Việt Nam năm 2009 theo 3 nhóm tuổi 0-14; 15-59; 60+ lần lượt là 21,45 triệu người; 56,62 triệu người và 7,72 triệu người. Chỉ số già hoá của Việt Nam năm 2009 là?",
+    "answer": "36"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Phát triển nếu được coi là tăng trưởng kinh tế?",
+    "answer": "Sẽ không phản ánh được các giá trị khác mà không nhận biết được bởi giá trị tiền tệ như hòa bình, môi trường trong sạch và bền vững"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Tại Hội nghị Dân số Thế giới tại Bucharest năm 1965, các quốc gia đang phát triển đã đưa ra khẩu hiệu “Phát triển là một biện pháp tránh thai tốt nhất”, ý nghĩa phù hợp nhất của thông điệp này là gì?",
+    "answer": "Phát triển KTXH là yếu tố giảm mức sinh nhưng đòi hỏi có thời gian và tiềm lực kinh tế"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương A năm 2009 và 2014 như sau: Dân số 01/07/2009 là 36000 người, dân số 01/07/2014 là 36800 người. Số sinh và chết từ năm 2009 đến 2014 tương ứng là 450 và 150 người. Tính lượng di dân thuần túy trung bình một năm trong thời kỳ 2009 – 2014?",
+    "answer": "100 người"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Tháp dân số dạng mở rộng có đặc điểm?",
+    "answer": "Đáy tháp mở rộngCâu hỏi 1"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Biến động dân số tự nhiên phản ánh?",
+    "answer": "Chênh lệch sinh chết"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Để tăng tính chính xác của kết quả dự báo bằng hàm số toán học, trong dự báo ngắn hạn cần lưu ý nhất?",
+    "answer": "Tính sát với xu thế biến động dân số của hàm số được chọn để dự báo."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Dựa trên bảng số liệu dưới đây, nhận định nào là đúng?",
+    "answer": "Nếu cứ tiếp tục các mức sinh của các năm 2005-2010 thì một phụ nữ Angola sẽ sinh được 2,9 con gái trong suốt đời mình"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Mức độ chính xác của các giả định về mức sinh có ảnh hưởng lớn đến dự báo dân số ở?",
+    "answer": "Nhóm trẻ em dưới 5 tuổi"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Già hoá dân số không đem lại lợi tức nào sau đây?",
+    "answer": "Tăng tỷ lệ lực lượng lao động"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Tháp dân số dưới đây có thể là đặc trưng dân số quốc gia nào?",
+    "answer": "Nigieria"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": " Phát biểu nào sau đây là đúng về mối quan hệ giữa Quốc gia A và Quốc gia B?",
+    "answer": "Quốc gia A có tốc độ tăng dân số cao hơn Quốc gia B"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Chỉ số PAR đo lường mức độ công bằng trong xã hội bằng cách?",
+    "answer": "Xác định độ lớn của sự thay đổi cần có để tất cả các nhóm dân cư có được mức tiến bộ tương đương như mức độ của nhóm dân cư hiện có ưu thế nhất."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Các kết quả của quá trình dân số bao gồm?",
+    "answer": "Quy mô, cơ cấu, phân bố và chất lượng dân số"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Nhìn vào sơ đồ trên, đó là một bản phác thảo của một tháp dân số của?",
+    "answer": "Việt nam"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Dự báo dân số thành phần được tính toán không dựa vào yếu tố nào dưới đây?",
+    "answer": "Biến động của đường xu thế biểu diễn quy mô dân số theo thời gian"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Giải thích biến động mức sinh lần lượt qua 4 giai đoạn quá độ dân số?",
+    "answer": "Cao và ổn định; Duy trì ở mức cao; Giảm nhanh chóng; Thấp và giao động;"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Tháp dân số tuổi – giới là biểu đồ thể hiện?",
+    "answer": "Dân số nam và nữ ở các nhóm tuổi khác nhau"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Dự báo bằng phương pháp thành phần hay còn gọi là phương pháp chuyển tuổi vì?",
+    "answer": "Dự báo sử dụng công thức chuyển tuổi Px + n,t + n = Px,t Sxxx+n"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Chủ nghĩa Neo-Malthusian (tân Malthus) là?",
+    "answer": "Một phiên bản hiện đại của chủ nghĩa Malthusian liên quan đến kiểm soát sinh đẻ, nạn đói và các vấn đề môi trường"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Phát triển bền vững bao gồm những mục tiêu nào?",
+    "answer": "Mục tiêu kinh tế, mục tiêu xã hội, mục tiêu môi trường"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Nếu dân số 20-25 tuổi năm 2015 là 2500 người, với hệ số sống của nhóm 20-25 tuổi sau 5 năm là 0,90, dân số 25-30 tuổi năm 2020 là?",
+    "answer": "2250"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Theo thuyết quá độ dân số, giai đoạn nào có mức chết tự nhiên cao nhất?",
+    "answer": "Giai đoạn 1"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Ở một số quốc gia, việc phụ nữ phải ở nhà chăm sóc gia đình sau kết hôn có thể sẽ dẫn tới?",
+    "answer": "Giảm kết hôn và giảm mức sinh"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Về mặt cấu trúc dân số, điều nào sau đây là đúng theo thông tin được cung cấp trong Hình trên?",
+    "answer": "Tỷ lệ phụ nữ trong tuổi sinh đẻ ở Mỹ cao hơn so với Mexico"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Già hoá năng lực sản xuất có thể được đánh giá bằng chỉ tiêu nào sau đây?",
+    "answer": "Tỷ số hỗ trợ tiềm năng"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Có số liệu dân số trung bình địa phương A năm 2014 và 2015 lần lượt như sau: 300000 và 300420 người. Giả thiết rằng dân số địa phương trên tăng theo hàm cấp số cộng. Hãy dự báo dân số cho năm 2019?",
+    "answer": "302102 người"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Tăng tuổi kết hôn của phụ nữ là nguyên nhân quan trọng khiến mức sinh suy giảm là do? (nguyên nhân nào sau đây là không hợp lý)",
+    "answer": "Phụ nữ khó lấy chồng và sinh con"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Thước đo để đánh giá về mức độ phân bố dân cư?",
+    "answer": "Mật độ dân số"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Nội dung lý thuyết quá độ dân số đề cập đến?",
+    "answer": "Khi kinh tế xã hội phát triển làm giảm mức tử vong trẻ em, từ đó tăng mức sinh"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Nhận định nào sau đây là Đúng?",
+    "answer": "Hầu hết các nước phát triển đã đạt hoặc thấp hơn mức sinh thay thế"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Các trạng thái nghiên cứu dân số gồm?",
+    "answer": "Trạng thái tĩnh và trạng thái động"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Cơ cấu dân số vàng xảy ra khi?",
+    "answer": "Tỷ số phụ thuộc dưới hoặc bằng 50%"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Cấu trúc tuổi của Mexico và Mỹ khác nhau đến mức nào và tại sao?",
+    "answer": "Trong khi Mexico là một xã hội trẻ, đang phát triển; mức sinh cao, mức tử vong thấp, là điển hình tháp tuổi mở rộng thì Mỹ là một xã hội trưởng thành và đang già hóa, mức sinh giảm, tỷ lệ tử vong thấp, nhiều người trung niên, điển hình tháp dân số trường thành có đáy tháp thu hẹp và phần giữa tháp mở rộng"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây không dẫn tới nguy cơ mức sinh thấp?",
+    "answer": "Đoàn hệ dân số nữ mở rộngCâu hỏi 1"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Bền vững về môi trường là sự phát triển nhưng vẫn đảm bảo các chức năng của môi trường, điều này có nghĩa đảm bảo môi trường?",
+    "answer": "Là không gian sinh tồn, nơi cung cấp tài nguyên cần thiết cho cuộc sống và hoạt động sản xuất, nơi chứa đựng, xử lý, tái chế các chất thải của con người."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Tỷ số giới tính khi sinh quá cao có thể phản ánh?",
+    "answer": "Vai trò vị thế nữ giới thấp trong xã hội"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Dinh dưỡng và dịch vụ y tế tốt hơn sẽ ảnh hưởng đến các quá trình nào sau?",
+    "answer": "Giảm mức chết và giảm mức sinh"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Đô thị hóa tự phát ở các nước đang phát triển không có tác động nào sau đây?",
+    "answer": "Phân bố dân cư hợp lí hơn."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương C năm 2016 như sau: Dân số 01/01/2016 là 45500 người, tính đến 31/12 có 550 người di chuyển đến, 350 người di chuyển đi, 250 trẻ em sinh ra và 150 người chết đi. Tính tỷ suất di dân thuần túy?",
+    "answer": "4.38‰"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Đâu không phải là đặc điểm của dân cư sống trong khu vực thành thị?",
+    "answer": "Hoạt động kinh tế chủ yếu là nông lâm ngư nghiệp."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Theo thuyết quá độ dân số, biến động mức sinh – mức chết ở giai đoạn nào được gọi là “cân bằng tiết kiệm”?",
+    "answer": "Thời kỳ sau quá độ"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Giai đoạn nào của quá trình chuyển đổi nhân khẩu học được đặc trưng bởi tỷ lệ tử vong bắt đầu giảm?",
+    "answer": "Giai đoạn 2"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Giải pháp mà Nhật Bản sử dụng để kiểm soát tình trạng thiếu nhân công do già hóa dân số?",
+    "answer": "Sử dụng lao động nhập cư và tạo việc làm cho người cao tuổi"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Tỷ suất sinh chung phản ánh?",
+    "answer": "Số trẻ em sinh ra sống tính trên 1000 dân số nữ trong tuổi sinh đẻ của một năm nhất định"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Tỷ số giới tính lúc sinh là 105. Tỷ lệ nữ sinh ra là bao nhiêu?",
+    "answer": "41,78%"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Theo học thuyết Malthus đã chỉ ra?",
+    "answer": "Tăng trưởng dân số có ảnh hưởng tiêu cực tới phát triển kinh tế"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Mức sinh thay thế đạt được khi tổng tỷ suất sinh bằng",
+    "answer": "2,12"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Cơ sở của mục tiêu chính sách dân số ở Việt Nam hiện nay “sinh đủ 2 con” có ý nghĩa gì?",
+    "answer": "Để duy trì mức sinh thay thế và ổn định dân số"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Câu nào sau đây là đúng?",
+    "answer": "Các nước phát triển có dân số già hơn các nước đang phát triển"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Một lý do chính của sự già hóa dân số ở một quốc gia là do?",
+    "answer": "Mức sinh giảm"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Nếu tỷ suất sinh chung là 127 phần nghìn, có nghĩa là?",
+    "answer": "Có 127 trẻ em sinh ra sống trên 1000 dân số nữ trung bình trong độ tuổi 15-49 trong năm nhất định"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Cấu trúc dân số cho một quốc gia nhất định được thể hiện trực quan bằng một tháp dân số và dân số có hình dạng tháp có đáy tháp mở rộng rất có thể là một dân số có cả hai:",
+    "answer": "Mức sinh cao và tỷ lệ tử vong cao"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Nếu dân số 15-20 tuổi năm 2015 là 2200 người, với hệ số sống của nhóm 15-20 tuổi sau 10 năm là 0,90, dân số sẽ được dự báo cho nhóm tuổi nào năm 2025?",
+    "answer": "25-35"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Nếu dân số tăng vượt quá mức chịu đựng của môi trường sống thì?",
+    "answer": "Tỷ lệ chết tăng"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Theo nghiên cứu?",
+    "answer": "HDI tăng thì tổng tỷ suất sinh giảm"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương D năm 2005 và 2010 như sau: Dân số 01/07/2005 là 37000 người, dân số 01/07/2010 là 37800 người. Số sinh và chết từ năm 2005 đến 2010 tương ứng là 450 và 150 người. Tính lượng tỷ suất di dân thuần túy trung bình thời kỳ 2005 – 2010?",
+    "answer": "2.67‰"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nếu cần lập kế hoạch cung ứng dịch vụ chăm sóc sức khỏe cho năm 2025, có hệ số sống được tính cho giai đoạn 5 năm, nhóm tuổi cách đều 10 năm ta nên chọn năm gốc dự báo là?",
+    "answer": "2020"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Lợi tức dân số lần thứ hai gắn liền với giai đoạn?",
+    "answer": "Già hoá dân số"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Tái sản xuất dân số đầy đủ là quá trình thay thế thế hệ dân số này bằng thế hệ dân số khác thông qua?",
+    "answer": "Biến động tự nhiên, biến động cơ học và biến động xã hội của dân số"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Quy mô dân số thời điểm là?",
+    "answer": "Tổng số dân sinh sống trong một vùng lãnh thổ nhất định vào những thời điểm xác định"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Số lượng các siêu đô thị tăng nhanh nhất ở nhóm các nước nào sau đây?",
+    "answer": "Các nước đang phát triển."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Dân số đô thị ở các nước đang phát triển tăng nhanh chủ yếu do nguyên nhân nào sau đây?",
+    "answer": "Nông dân di cư tự do vào đô thị kiếm việc làm."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Dân cư sống trong khu vực thành thị phổ biến hoạt động kinh tế nào sau đây?",
+    "answer": "Công nghiệp và dịch vụ."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Phát triển con người nghĩa là?",
+    "answer": "Bao hàm hai khía cạnh chính là mở rộng các cơ hội lựa chọn và nâng cao năng lực lựa chọn của con ngườiĐặc điểm dân số nào sau đây không được thể hiện trên tháp dân số?"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Phát triển con người nghĩa là?",
+    "answer": "Tôn giáo"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Triển vọng sống trung bình tăng có liên quan tới vấn đề nào sau đây?",
+    "answer": "Tăng chi tiêu y tế bình quân đầu người"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương A năm 2014 như sau: Dân số 01/01 là 300000 người, dân số 31/12 là 300400 người. Hãy dự báo dân số cho năm 2015?",
+    "answer": "300600 người"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương D năm 2005 và 2010 như sau: Dân số 01/07/2005 là 34000 người, dân số 01/07/2010 là 34700 người. Số sinh và chết từ năm 2005 đến 2010 tương ứng là 550 và 250 người. Tính lượng tỷ suất di dân thuần túy trung bình thời kỳ 2005 – 2010?",
+    "answer": "2.33‰"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Dựa vào biểu đồ trên, mối tương quan giữa thu nhập (của cải) và tuổi thọ (sức khỏe) là gì?",
+    "answer": "Khi thu nhập tăng, tuổi thọ sẽ cao hơn"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Khi triển vọng sống trung bình tăng lên, tỷ lệ chết có xu hướng?",
+    "answer": "Giảm xuống"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Chỉ tiêu tỷ suất tái sinh thuần túy lớn hơn 1 phản ánh?",
+    "answer": "Dân số sẽ tăng trong tương lai nếu mức sinh mức chết không thay đổi và không có di dân"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Cơ cấu dân số tự nhiên là sự phân chia dân số theo?",
+    "answer": "Tuổi và giới"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Nhóm dân số nào dưới đây đại diện cho nhóm “phụ thuộc” trong tỷ số phụ thuộc?",
+    "answer": "Những người trẻ hơn 15 tuổi hoặc lớn hơn 64 tuổi"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Tỷ suất tái sinh thô phản ánh?",
+    "answer": "Số con gái trung bình mà một người phụ nữ (nhóm phụ nữ) sẽ sinh ra sống trong suốt cuộc đời sinh sản của mình"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về tỷ số giới tính?",
+    "answer": "Độ tuổi càng tăng, tỷ số giới tính càng giảm"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Cơ sở đề xuất các chính sách kiểm soát mức sinh ở các nước đang phát triển năm 1965 (chính sách kế hoạch hóa gia đình) là để giải quyết?",
+    "answer": "Vòng luẩn quẩn của đói nghèo –kém phát triển-mức sinh cao"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Theo Kohler, H.P (2002), một mức sinh được gọi là thấp khi?",
+    "answer": "TFR <1,3"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Dân số tỉnh A năm 1980 là 250.000 dân. Năm 1990 dân số tỉnh này tăng lên 280.000 dân. Tính tốc độ gia tăng dân số trung bình năm của tỉnh A?",
+    "answer": "1,2 %"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Tỷ suất tử vong bắt đầu giảm ở các nước phát triển từ thế kỷ thứ 18 do nguyên nhân nào sau đây?",
+    "answer": "Cải tiến nông nghiệp"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Vấn đề nào sau đây không phải là kết quả của mức sinh tăng và tốc độ gia tăng dân số nhanh chóng?",
+    "answer": "Dân số trong độ tuổi lao động phải hỗ trợ tỷ lệ thấp hơn người phụ thuộc"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Tổng tỷ suất sinh là?",
+    "answer": "Số trẻ em sinh ra sống trung bình trong suốt cuộc đời sinh sản của một phụ nữ hay nhóm phụ nữ có tỷ suất sinh đặc trưng theo tuổi của một năm nhất định"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Lối sống hiện đại đề cao giá trị cá nhân, tập trung phát triển sự nghiệp sẽ ảnh hưởng đến quá trình nào sau?",
+    "answer": "Giảm mức sinh"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương A năm 2015 như sau: Dân số 01/01 là 300000 người, dân số 31/12 là 300400 người. Hãy dự báo dân số cho năm 2020?",
+    "answer": "302201 người"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Tỷ suất chết thô của Thụy Điển là 11‰, của Việt Nam là 6‰ trong cùng thời kỳ, điều này chứng tỏ?",
+    "answer": "Mức chết của Thụy Điển cao hơn của Việt Nam do dân số Thụy Điển già hơn"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Những quốc gia nào sau đây đang phải đối phó với bẫy mức sinh thấp?",
+    "answer": "Nhật Bản"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Tỷ suất sinh thô phản ánh?",
+    "answer": "Số trẻ em sinh ra sống tính trên 1000 dân số trung bình trong một năm nhất đinh"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Triển vọng sống từ khi sinh ở các nước phát triển thường cao hơn các nước đang phát triển"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Những thành tựu của cách mạng nông nghiệp cho thấy?",
+    "answer": "Không chỉ sự gia tăng dân số mà còn là sự phân phối không công bằng gây nên tình trạng nghèo đói"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Theo lý thuyết quá độ dân số lần thứ nhất, tỷ lệ tử vong cao nhất ở giai đoạn nào?",
+    "answer": "Giai đoạn 1"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương C năm 2016 như sau: Dân số 01/01/2016 là 46500 người, tính đến 31/12 có 550 người di chuyển đến, 350 người di chuyển đi, 250 trẻ em sinh ra và 150 người chết đi. Tính tỷ suất di dân thuần túy?",
+    "answer": "4.29‰"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Nếu cần lập kế hoạch cung ứng dịch vụ chăm sóc sức khỏe cho năm 2025, có hệ số sống được tính cho giai đoạn 5 năm, nhóm tuổi cách đều 5 năm ta nên chọn năm gốc dự báo là?",
+    "answer": "2020"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Giải thích biến động mức chết lần lượt qua 4 giai đoạn quá độ dân số?",
+    "answer": "Cao và biến động; Giảm nhanh chóng; Giảm chậm; Duy trì ở mức thấp;"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Điều nào sau đây ít có khả năng là kết quả của mức sinh thấp dài hạn trong dân số?",
+    "answer": "Tuổi thọ giảm"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Để giảm bớt tình trạng di dân tự do vào các đô thị, giải pháp chủ yếu và lâu dài là?",
+    "answer": "Xây dựng nông thôn mới, đa dạng hóa hoạt động kinh tế ở nông thônGiải thích biến động mức chết lần lượt qua 4 giai đoạn quá độ dân số?"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Để giảm bớt tình trạng di dân tự do vào các đô thị, giải pháp chủ yếu và lâu dài là?",
+    "answer": "Cao và biến động; Giảm nhanh chóng; Giảm chậm; Duy trì ở mức thấp;"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Già hoá dân số không phải là kết quả của quá trình nào sau đây?",
+    "answer": "Tăng mức sinh"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Chủ nghĩa Neo-Malthusian (tân Malthus) là?",
+    "answer": "Một phiên bản hiện đại của chủ nghĩa Malthusian liên quan đến kiểm soát sinh đẻ, nạn đói và các vấn đề môi trường"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Theo lý thuyết Malthus, những yếu tố nào sẽ không chi phối sự tăng trưởng dân số nói chung?",
+    "answer": "Dân số loài người sẽ ổn định"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Số con trung bình của phụ nữ trong tuổi sinh đẻ ở các vùng kinh tế xã hội khác nhau cho thấy sự khác biệt đáng kể. Khẳng định nào sau đây là đúng?",
+    "answer": "Số con bình quân của một người mẹ thường cao hơn ở những vùng có mức thu nhập thấp."
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Cấu trúc dân số cho một quốc gia nhất định được thể hiện trực quan bằng một tháp dân số và dân số có hình dạng tháp có đáy tháp mở rộng rất có thể là một dân số có cả hai:",
+    "answer": "Mức sinh cao và tỷ lệ tử vong cao"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Đâu không phải là mục đích của các cuộc di dân có tổ chức, có kế hoạch của một số nước ở đang phát triển?",
+    "answer": "Di dân để tìm việc làm"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Dân số đô thị ở các nước đang phát triển tăng nhanh chủ yếu do nguyên nhân nào sau đây?",
+    "answer": "Nông dân di cư tự do vào đô thị kiếm việc làm."
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Già hóa dân số sẽ khiến các thách thức nào sau đây xuất hiện?",
+    "answer": "Thiếu lực lượng lao động và dịch vụ chăm sóc người cao tuổi"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Dân số tỉnh A năm 1980 là 250.000 dân. Năm 1990 dân số tỉnh này tăng lên 280.000 dân. Tính tốc độ gia tăng dân số trung bình năm của tỉnh A?",
+    "answer": "1,2 %"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Quốc gia nào sau đây có tốc độ già hoá dân số nhanh nhất?",
+    "answer": "Nhật Bản"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Cấu trúc tuổi của Mexico và Mỹ khác nhau đến mức nào và tại sao?",
+    "answer": "Trong khi Mexico là một xã hội trẻ, đang phát triển; mức sinh cao, mức tử vong thấp, là điển hình tháp tuổi mở rộng thì Mỹ là một xã hội trưởng thành và đang già hóa, mức sinh giảm, tỷ lệ tử vong thấp, nhiều người trung niên, điển hình tháp dân số trường thành có đáy tháp thu hẹp và phần giữa tháp mở rộng"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Dân cư sống trong khu vực thành thị phổ biến hoạt động kinh tế nào sau đây?",
+    "answer": "Công nghiệp và dịch vụ."
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Nếu tỷ suất sinh chung là 127 phần nghìn, có nghĩa là?",
+    "answer": "Có 127 trẻ em sinh ra sống trên 1000 dân số nữ trung bình trong độ tuổi 15-49 trong năm nhất định"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Các kết quả của quá trình dân số bao gồm?",
+    "answer": "Quy mô, cơ cấu, phân bố và chất lượng dân số"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Cơ cấu dân số tự nhiên là sự phân chia dân số theo?",
+    "answer": "Tuổi và giới"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Ý nào dưới đây thể hiện đúng đặc điểm của quá trình đô thị hóa trên thế giới?",
+    "answer": "Dân cư tập trung vào các thành phố lớn và cực lớn."
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Trong phương pháp dự báo bằng hàm số toán học, giả thiết cần được đảm bảo là?",
+    "answer": "Biến động kinh tế xã hội không ảnh hưởng đến biến động dân số hoặc nếu có thì mang tính chất đều đặn"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Nếu cần lập kế hoạch cung ứng dịch vụ chăm sóc sức khỏe cho năm 2025, có hệ số sống được tính cho giai đoạn 5 năm, nhóm tuổi cách đều 5 năm ta nên chọn năm gốc dự báo là?",
+    "answer": "2020"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương B năm 2018 như sau: Dân số 01/01/2018 là 35000 người, tính đến 31/12 có 400 người di chuyển đến, 100 người di chuyển đi, 350 trẻ em sinh ra và 90 người chết đi. Tính tỷ suất nhập cư?",
+    "answer": "11.34‰"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Dân số Việt Nam hiện tại được phân chia theo mấy vùng kinh tế xã hội?",
+    "answer": "6"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Kết quả dự báo dân số thành phần là cơ sở để?",
+    "answer": "Lập kế hoạch và xây dựng các chính sách dân số-phát triển."
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Tổng tỷ suất sinh là?",
+    "answer": "Số trẻ em sinh ra sống trung bình trong suốt cuộc đời sinh sản của một phụ nữ hay nhóm phụ nữ có tỷ suất sinh đặc trưng theo tuổi của một năm nhất định"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Có số liệu dân số trung bình địa phương A năm 2014 và 2019 lần lượt như sau: 300000 và 300420 người. Giả thiết rằng dân số địa phương trên tăng theo hàm cấp số cộng. Hãy dự báo dân số cho năm 2020?",
+    "answer": "300504 người"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Sự phát triển nhanh chóng các siêu đô thị ở nhóm nước đang phát triển gắn liền với?",
+    "answer": "Gia tăng dân số nhanh và tình trạng di cư ồ ạt từ nông thôn đến đô thị."
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Cơ sở đề xuất các chính sách kiểm soát mức sinh ở các nước đang phát triển năm 1965 (chính sách kế hoạch hóa gia đình) là để giải quyết?",
+    "answer": "Vòng luẩn quẩn của đói nghèo –kém phát triển-mức sinh cao"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Bình đẳng xã hội có nghĩa là?",
+    "answer": "Bảo đảm cho các nhóm dân cư dễ bị tổn thương có được đầy đủ cơ hội và năng lực vươn lên thoả mãn nhu cầu thiết yếu của họ"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Phát triển con người nghĩa là?",
+    "answer": "Bao hàm hai khía cạnh chính là mở rộng các cơ hội lựa chọn và nâng cao năng lực lựa chọn của con người"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Phát triển là quá trình mà một xã hội thỏa mãn (đáp ứng) những nhu cầu mà xã hội ấy cho là thiết yếu, điều ấy có nghĩa?",
+    "answer": "Sự phát triển đã bình đẳng hơn khi quan tâm đến nhóm dân cư nghèo trong xã hội (nhu cầu thiết yếu)"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương D năm 2005 và 2010 như sau: Dân số 01/07/2005 là 34000 người, dân số 01/07/2010 là 34700 người. Số sinh và chết từ năm 2005 đến 2010 tương ứng là 550 và 250 người. Tính lượng tỷ suất di dân thuần túy trung bình thời kỳ 2005 – 2010?",
+    "answer": "2.33‰Câu hỏi 1"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Giải pháp mà Nhật Bản sử dụng để kiểm soát tình trạng thiếu nhân công do già hóa dân số?",
+    "answer": "Sử dụng lao động nhập cư và tạo việc làm cho người cao tuổi"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Theo thuyết quá độ dân số, giai đoạn nào có mức chết tự nhiên cao nhất?",
+    "answer": "Giai đoạn 1"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Một số nhà nghiên cứu muốn bổ sung giai đoạn 5 cho lý thuyết quá độ dân số biểu diễn giai đoạn này vào hình 2 để chỉ rõ những gì sẽ xảy ra đối với mức sinh và mức chết?",
+    "answer": "Mức sinh và mức chết thấp ổn định, mức sinh giảm thấp hơn mức chết"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Cơ sở của mục tiêu chính sách dân số ở Việt Nam hiện nay “sinh đủ 2 con” có ý nghĩa gì?",
+    "answer": "Để duy trì mức sinh thay thế và ổn định dân số"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Để tăng tính chính xác của kết quả dự báo bằng hàm số toán học, trong dự báo ngắn hạn cần lưu ý nhất?",
+    "answer": "Tính sát với xu thế biến động dân số của hàm số được chọn để dự báo."
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Thước đo để đánh giá về mức độ phân bố dân cư?",
+    "answer": "Mật độ dân số"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Tháp dân số tuổi – giới là biểu đồ thể hiện?",
+    "answer": "Dân số nam và nữ ở các nhóm tuổi khác nhau"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Biểu hiện của quá trình đô thị hóa ở các nước đang phát triển không phải là?",
+    "answer": "Đô thị hóa theo chiều sâu."
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Tăng tuổi kết hôn của phụ nữ là nguyên nhân quan trọng khiến mức sinh suy giảm là do? (nguyên nhân nào sau đây là không hợp lý)",
+    "answer": "Phụ nữ khó lấy chồng và sinh con"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Tỷ suất tử vong bắt đầu giảm ở các nước phát triển từ thế kỷ thứ 18 do nguyên nhân nào sau đây?",
+    "answer": "Cải tiến nông nghiệp"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Để đánh giá cơ cấu tuổi sử dụng thước đo?",
+    "answer": "Tuổi trung vị"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Triển vọng sống từ khi sinh ở các nước phát triển thường cao hơn các nước đang phát triển"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Dân số khu vực A năm 2009 theo 3 nhóm tuổi 0-14; 15-59; 60+ lần lượt là 21,45 triệu người; 56,62 triệu người và 7,72 triệu người. Tỷ số phụ thuộc của khu vực A năm 2009 là?",
+    "answer": "51,5%"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Quy mô dân số thời điểm là?",
+    "answer": "Tổng số dân sinh sống trong một vùng lãnh thổ nhất định vào những thời điểm xác định"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Bền vững về xã hội có nghĩa là?",
+    "answer": "Hướng tới tiến bộ, công bằng và bình đẳng xã hội"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Những quốc gia nào sau đây đang phải đối phó với bẫy mức sinh thấp?",
+    "answer": "Nhật Bản"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Biến động dân số cơ học phản ánh?",
+    "answer": "Chênh lệch dân số do số di dân đến và đi ở một vùng"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Nếu tỷ suất sinh thô là 27 phần nghìn, có nghĩa là?",
+    "answer": "Có 27 trẻ em sinh ra sống trên 1000 dân số trung bình trong năm nhất định"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Biến động chung dân số được thể hiện bằng phương trình?",
+    "answer": "(Sinh + Nhập cư) – (Chết + Xuất cư)"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Nếu dân số 15-25 tuổi năm 2015 là 2200 người, với hệ số sống của nhóm 15-25 tuổi sau 5 năm là 0,90, dân số sẽ được dự báo cho nhóm tuổi nào năm 2020?",
+    "answer": "20-30"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Tỷ suất chết thô của Thuỵ Điển cao hơn Nigieria do?",
+    "answer": "Cơ cấu tuổi dân số"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Dân số sẽ tăng nếu?",
+    "answer": "Cơ cấu tuổi dân số"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Nếu dân số 15-20 tuổi năm 2015 là 2200 người, với hệ số sống của nhóm 15-20 tuổi sau 10 năm là 0,90, dân số sẽ được dự báo cho nhóm tuổi nào năm 2025?",
+    "answer": "25-35"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Công bằng xã hội là?",
+    "answer": "Sự ngang bằng nhau giữa người và người trong xã hội không phải về mọi phương diện mà chủ yếu về phương diện phân phối sản phẩm xã hội theo nguyên tắc: cống hiến lao động ngang nhau thì hưởng thụ ngang nhau"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Tỷ số giới tính khi sinh quá cao có thể phản ánh?",
+    "answer": "Vai trò vị thế nữ giới thấp trong xã hội"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Tổng tỷ suất sinh (TFR) là thước đo?",
+    "answer": "Theo thời kỳ"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Tỷ suất chết thô của Thụy Điển là 11‰, của Việt Nam là 6‰ trong cùng thời kỳ, điều này chứng tỏ?",
+    "answer": "Mức chết của Thụy Điển cao hơn của Việt Nam do dân số Thụy Điển già hơn"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Phát triển nếu được coi là tăng trưởng kinh tế?",
+    "answer": "Sẽ không phản ánh được các giá trị khác mà không nhận biết được bởi giá trị tiền tệ như hòa bình, môi trường trong sạch và bền vững"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương A năm 2009 và 2014 như sau: Dân số 01/07/2009 là 30000 người, dân số 01/07/2014 là 30600 người. Số sinh và chết từ năm 2009 đến 2014 tương ứng là 400 và 150 người. Tính lượng di dân thuần túy trung bình một năm trong thời kỳ 2009 – 2014?",
+    "answer": "70 người"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Năm 2009, cứ 1000 em bé được sinh ra ở tỉnh A thì ước tính 120 em bé sẽ chết trước khi tròn 1 tuổi. Tỷ lệ 120 trẻ chết trên 1000 em được sinh ra trong năm được gọi là?",
+    "answer": "Tỷ suất chết trẻ sơ sinhâu hỏi 1"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương A năm 2019 như sau: số sinh ra trong năm là 90 cháu, số chết trong năm là 96 người, số đến nhập cư là 110 người, số xuất cư là 94 người, dân số tính đến 31/12/2018 là 5700 người. Hãy dự báo dân số địa phương A năm 2020?",
+    "answer": "5715 người"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Ở một số quốc gia, việc phụ nữ phải ở nhà chăm sóc gia đình sau kết hôn có thể sẽ dẫn tới?",
+    "answer": "Giảm kết hôn và giảm mức sinh"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Mức độ chính xác của các giả định về mức sinh có ảnh hưởng lớn đến dự báo dân số ở?",
+    "answer": "Nhóm trẻ em dưới 5 tuổi"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Dinh dưỡng và dịch vụ y tế tốt hơn sẽ ảnh hưởng đến các quá trình nào sau?",
+    "answer": "Giảm mức chết và giảm mức sinh"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Theo nghiên cứu?",
+    "answer": "HDI tăng thì tổng tỷ suất sinh giảm"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Dựa vào biểu đồ trên, mối tương quan giữa thu nhập (của cải) và tuổi thọ (sức khỏe) là gì?",
+    "answer": "Khi thu nhập tăng, tuổi thọ sẽ cao hơn"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Mức sinh thay thế đạt được khi tổng tỷ suất sinh bằng",
+    "answer": "2,12"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Tỷ số phụ thuộc đo lường mối tương quan giữa?",
+    "answer": "Nhóm dân số ngoài độ tuổi lao động và trong độ tuổi lao động"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số năm 2018 của địa phương X như sau: Dân số 01/01 là 5000 người, số sinh ra trong năm là 120 người, số người chết trong năm là 30, số di chuyển đến là 10 người và số di cư đi là 8 người. Để sau 70 năm dân số địa phương A mới tăng lên gấp đôi, nếu CDR và NMR giữ nguyên như năm 2018, thì cần tăng giảm số ca sinh ra như thế nào?",
+    "answer": "Giảm 42 ca"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây được sử dụng làm đầu vào để tính tổng tỷ suất sinh?",
+    "answer": "Tỷ suất sinh đặc trưng theo tuổi"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Nếu dân số tăng vượt quá mức chịu đựng của môi trường sống thì?",
+    "answer": "Tỷ lệ chết tăng"
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương A năm 2015 như sau: Dân số 01/01 là 300000 người, dân số 31/12 là 300400 người. Hãy dự báo dân số cho năm 2020?",
+    "answer": "302201 người"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Đặc điểm dân số nào sau đây không được thể hiện trên tháp dân số?",
+    "answer": "Tôn giáo"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Quá trình chuyển dịch mức sinh bắt đầu ở hầu hết các nước công nghiệp vào cuối thế kỷ 19 và kết thúc vào giữa thế kỷ 20"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Điều nào sau đây KHÔNG phải là một phần trong dự đoán của Thomas Malthus về sự gia tăng dân số của con người?",
+    "answer": "Khu đô thị lớn"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương A năm 2009 và 2014 như sau: Dân số 01/07/2009 là 36000 người, dân số 01/07/2014 là 36800 người. Số sinh và chết từ năm 2009 đến 2014 tương ứng là 450 và 150 người. Tính lượng di dân thuần túy trung bình một năm trong thời kỳ 2009 – 2014?",
+    "answer": "100 người"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Tỷ suất sinh thô phản ánh?",
+    "answer": "Số trẻ em sinh ra sống tính trên 1000 dân số trung bình trong một năm nhất đinh"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây không dẫn tới nguy cơ mức sinh thấp?",
+    "answer": "Đoàn hệ dân số nữ mở rộng"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Một quốc gia đã đạt đến một giai đoạn mà dân số ổn định hoặc thậm chí giảm nhẹ có thể không có vấn đề tăng dân số nhưng họ có một vấn đề nghiêm trọng khác. Vấn đề này là?",
+    "answer": "Thiếu lao động trẻ"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Nếu dân số 20-25 tuổi năm 2015 là 2500 người, với hệ số sống của nhóm 20-25 tuổi sau 5 năm là 0,90, dân số 25-30 tuổi năm 2020 là?",
+    "answer": "2250"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Theo những phát hiện giải thích mức sinh thấp ở các nước tiên tiến, điều nào sau đây là đúng?",
+    "answer": "Phụ nữ có nhiều con khó cạnh tranh trên thị trường lao động."
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Mất bao nhiêu năm để một quốc gia tăng trưởng 2% mỗi năm có thể tăng gấp đôi dân số?",
+    "answer": "35"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Chuyển dịch mức sinh thường được định nghĩa là?",
+    "answer": "Sự thay đổi không thể đảo ngược của mức sinh của một quốc gia từ mức sinh cao xuống mức sinh thấp"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Già hoá năng lực sản xuất có thể được đánh giá bằng chỉ tiêu nào sau đây?",
+    "answer": "Tỷ số hỗ trợ tiềm năng"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Có số liệu dân số địa phương A năm 2014 như sau: Dân số 01/01 là 300000 người, dân số 31/12 là 300400 người. Hãy dự báo dân số cho năm 2015?",
+    "answer": "300600 người"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Nhận định nào sau đây là Đúng?",
+    "answer": "Hầu hết các nước phát triển đã đạt hoặc thấp hơn mức sinh thay thế"
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Cơ sở của chính sách “duy trì mỗi gia đình có đủ 2 con” là?",
+    "answer": "Ổn định dân số dựa trên duy trì mức sinh thay thế"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Tuổi trung vị tăng theo thời gian phản ánh hiện tượng?",
+    "answer": "Già hoá dân số"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Giải thích biến động mức sinh lần lượt qua 4 giai đoạn quá độ dân số?",
+    "answer": "Cao và ổn định; Duy trì ở mức cao; Giảm nhanh chóng; Thấp và giao động;"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Lợi tức dân số lần thứ hai gắn liền với giai đoạn?",
+    "answer": "Già hoá dân sốCâu hỏi 1"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Tại sao tỷ suất sinh chung, mặc dù có ưu điểm hơn tỷ suất sinh thô nhưng vẫn không phản ánh chính xác mức sinh?",
+    "answer": "Bởi vì nó đã xem xét số phụ nữ trong độ tuổi sinh đẻ nhưng không xem xét sự khác biệt về khả năng sinh sản của phụ nữ"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Triển vọng sống trung bình tăng có liên quan tới vấn đề nào sau đây?",
+    "answer": "Tăng chi tiêu y tế bình quân đầu người"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Tại sao tỷ suất sinh thô không phản ánh chính xác mức sinh?",
+    "answer": "Bởi vì nó không tập trung vào số phụ nữ trong độ tuổi sinh đẻ hoặc/và xem xét sự khác biệt về khả năng sinh sản của phụ nữ"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương C năm 2016 như sau: Dân số 01/01/2016 là 45500 người, tính đến 31/12 có 550 người di chuyển đến, 350 người di chuyển đi, 250 trẻ em sinh ra và 150 người chết đi. Tính tỷ suất di dân thuần túy?",
+    "answer": "4.38‰"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": " Phát biểu nào sau đây là đúng về mối quan hệ giữa Quốc gia A và Quốc gia B?",
+    "answer": "Quốc gia A có tốc độ tăng dân số cao hơn Quốc gia B"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Tỷ suất sinh chung phản ánh?",
+    "answer": "Số trẻ em sinh ra sống tính trên 1000 dân số nữ trong tuổi sinh đẻ của một năm nhất định"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Chỉ số PAR đo lường mức độ công bằng trong xã hội bằng cách?",
+    "answer": "Xác định độ lớn của sự thay đổi cần có để tất cả các nhóm dân cư có được mức tiến bộ tương đương như mức độ của nhóm dân cư hiện có ưu thế nhất."
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Tháp dân số dạng thu hẹp có đặc điểm?",
+    "answer": "Mức sinh giảm"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Nghiên cứu thực nghiệm kiểm chứng ảnh hưởng của dân số tới phát triển kinh tế đã chỉ ra:",
+    "answer": "Khi tốc độ tăng dân số vượt quá tốc độ sản xuất, phát triển kinh tế sẽ bị cản trở."
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Nếu dân số 10-20 tuổi năm 2015 là 2100 người, với hệ số sống của nhóm 10-20 tuổi sau 10 năm là 0,95, dân số 20-30 tuổi năm 2020 là?",
+    "answer": "1995"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương C năm 2016 như sau: Dân số 01/01/2016 là 46500 người, tính đến 31/12 có 550 người di chuyển đến, 350 người di chuyển đi, 250 trẻ em sinh ra và 150 người chết đi. Tính tỷ suất di dân thuần túy?",
+    "answer": "4.29‰"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Khi triển vọng sống trung bình tăng lên, tỷ lệ chết có xu hướng?",
+    "answer": "Giảm xuống"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Đô thị hóa tự phát ở các nước đang phát triển không có tác động nào sau đây?",
+    "answer": "Phân bố dân cư hợp lí hơn."
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Có số liệu thống kê dân số địa phương B năm 2018 như sau: Dân số 01/01/2018 là 45000 người, tính đến 31/12 có 500 người di chuyển đến, 150 người di chuyển đi, 250 trẻ em sinh ra và 100 người chết đi. Tính tỷ suất nhập cư?",
+    "answer": "11.05‰"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Nếu tốc độ gia tăng dân số trung bình hàng năm tăng từ 1% lên 2% thì khoảng thời gian dân số tăng gấp đôi sẽ?",
+    "answer": "Giảm 34 năm"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Vai Trò của gia tăng dân số tới phát triển kinh tế là?",
+    "answer": "Khác nhau giữa nhóm nước phát triển và đang phát triển."
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Số con trung bình của phụ nữ tỷ lệ nghịch với trình độ học vấn của họ"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Theo Kohler, H.P (2002), một mức sinh được gọi là thấp khi?",
+    "answer": "TFR <1,3"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Tháp dân số dạng mở rộng có đặc điểm?",
+    "answer": "Đáy tháp mở rộng"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Số lượng các siêu đô thị tăng nhanh nhất ở nhóm các nước nào sau đây?",
+    "answer": "Các nước đang phát triển."
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Nếu dân số 20-25 tuổi năm 2019 là 2000 người, với hệ số sống của nhóm 20-25 tuổi sau 5 năm là 0,95, dân số 25-30 tuổi năm 2024 là?",
+    "answer": "1900"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Một lý do chính của sự già hóa dân số ở một quốc gia là do?",
+    "answer": "Mức sinh giảm"
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Chỉ tiêu tỷ suất tái sinh thuần túy lớn hơn 1 phản ánh?",
+    "answer": "Dân số sẽ tăng trong tương lai nếu mức sinh mức chết không thay đổi và không có di dân"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Cơ cấu dân số vàng xảy ra khi?",
+    "answer": "Tỷ số phụ thuộc dưới hoặc bằng 50%"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Gia tăng dân số có tiềm năng giúp quá trình phát triển theo những cách sau?",
+    "answer": "Gia tăng lực lượng lao động và tiêu dùng, cũng như lợi ích từ kinh tế theo quy mô"
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Tỷ số giới tính lúc sinh là 105. Tỷ lệ nữ sinh ra là bao nhiêu?",
+    "answer": "41,78%"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Những thành tựu của cách mạng nông nghiệp cho thấy?",
+    "answer": "Không chỉ sự gia tăng dân số mà còn là sự phân phối không công bằng gây nên tình trạng nghèo đói"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Quốc gia với đặc điểm tháp dân số mở rộng có thể đối mặt với các vấn đề nào sau đây?",
+    "answer": "Cần xây dựng thêm các trường học"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Dự báo bằng phương pháp thành phần có ý nghĩa?",
+    "answer": "Dự báo dựa trên từng thành phần gồm: dân số gốc, biến động tự nhiên, biến động cơ học"
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Quốc gia A(Dân số:1000, Sinh sống:15, Tử vong:3, Nhập cư:3, NIR(‰):5, r:0,5). Quốc gia B(Tử vong:80, Nhập cư:20, Xuất cư: 20, NIR(‰):4). Tỷ suất sinh thô (CBR) và tỷ suất chết thô (CDR) ở nước A là bao nhiêu?",
+    "answer": "15 và 10"
+  }
+]

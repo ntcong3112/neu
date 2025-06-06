@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Một công ty X có giá trị hàng tồn kho đầu kỳ là 10.000 USD, hàng mua về trong kỳ là 30.000 USD, giá giá vốn hàng bán là 35.000 USD. Giá trị HTK cuối kỳ là",
+    "answer": "5.000"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Theo kế toán Mỹ, nếu công ty mua 1 thiết bị vào ngày 12/3/2013, nguyên giá của tài sản này là 49.000 USD, giả sử giá trị thu hồi ước tính bằng 1.000 USD. Thời gian sử dụng ước tính là 10 năm. Công ty sử dụng phương pháp khấu hao đều, thì mức khấu hao của tài sản này trong tháng 3/2013 là:",
+    "answer": "400 USD."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Tập đoàn Taylor phát hành 20.000 cổ phiếu ưu đãi mệnh giá $ 50 bằng tiền mặt với giá $ 90 một cổ phiếu.. Trong phần vốn chủ sở hữu cổ phiếu, các tác động của giao dịch trên sẽ được báo cáo",
+    "answer": "Trong cả phần vốn cổ phần và phần vốn góp bổ sung"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Công ty LALA mua một lô hàng với giá 100.000 USD, đã thanh toán ngay bằng TGNH. Công ty được hưởng chiết khấu thanh toán 2%, vậy giá trị hàng nhập kho là:",
+    "answer": "100.000 USD"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Forex Inc nhượng bán một thiết bị sản xuất, có nguyên giá là 30.000 USD, đã hao mòn là 20.000 USD. Số tiền thu được từ nhượng bán là 5.000 USD. Biết công ty phải trích bổ sung khấu hao trước khi nhượng bán là 100 USD. Vậy hoạt động nhượng bán này, công ty:",
+    "answer": "lỗ 4.900 USD."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Công ty Botanic mua hàng nhập kho trị giá $150.000. Công ty thanh toán luôn bằng tiền mặt $50.000. Số tiền còn lại chưa trả chậm theo điều kiện thanh toán 2/10, n/30. Kế toán ghi nhận",
+    "answer": "Nợ TK Hàng tồn kho: $150.000, Có TK Tiền mặt: $50.000, Có TK Phải trả NB: $100.000"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Mua nguyên vật liệu chuyển thẳng cho sản xuất, đã thanh toán bằng tiền:",
+    "answer": "Nợ TK Chi phí Nguyên vật liệu/Có TK Tiền"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Vai trò của hệ thống báo cáo tài chính không bao gồm:",
+    "answer": "Đảm bào rằng các nhà đầu tư sẽ có lãi"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Sắp xếp trình tự chi tiêu quỹ tiền mặt lặt vặt\n1. Phát hành séc để rút tiền với quy mô dự kiến.\n2. Xác định số tiền mặt cần chi tiêu trong khoảng thời gian nhất định (không quá 1 tháng).\n3. Sau một thời gian nhất định, kế toán tổng hợp các chứng từ chi quỹ lặt vặt và ghi sổ kế toán 1 lần.",
+    "answer": "2 – 3 - 1;"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Một công ty mua một lô hàng giá mua trên hóa đơn là 50.000 USD , chi phí vận chuyển người mua chịu 3.000 USD, chi phí lưu kho",
+    "answer": "55.000"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Công ty LALA mua một lô hàng với giá 100.000, đã thanh toán bằng tiền. Công ty được hưởng chiết khấu thanh toán 2%. Định khoản thực hiện:",
+    "answer": "Nợ TK Hàng hóa 98.000/Có TK Tiền 98.000."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Andy Eggers đã đầu tư $150,000 vào một công ty cổ phần không niêm yết. Công ty đã làm ăn không tốt và phải công bố phá sản. Trong trường hợp đó Eggers sẽ chịu lỗ bao nhiêu?",
+    "answer": "Tới tổng mức đầu tư của Eggers là $150.000."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Vốn chủ sở hữu của một công ty được xác định là các khoản sau đây ngoại trừ:",
+    "answer": "Vốn chủ sở hữu"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Đặc điểm của doanh nghiệp thương mại là",
+    "answer": "Thực hiện chức năng mua, bán hàng hoá trong nền kinh tế, kết nối mối quan hệ giữa người bán với người tiêu dùng."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Dạng đơn giản của tài khoản kế toán sử dụng trong kế toán mỹ, có hình chữ:",
+    "answer": "T"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Chỉ có thể áp dụng phương pháp khấu hao theo sản lượng đối với:",
+    "answer": "tài sản liên quan đến sản xuất sản phẩm và có thể xác định được mức sử dụng thực tế."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Chỉ tiêu hàng tồn kho được thể hiện trong: (không kèm điều kiện tiêu thụ)",
+    "answer": "Bảng cân đối kế toán."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Ý nào sau đây KHÔNG phải là sự thuận lợi của việc hòa hợp kế toán?",
+    "answer": "Công ty đa quốc gia sẽ sẽ lập hai bộ BCTC theo hai chuẩn mực khác nhau"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Ngày 01/12/N công ty nhận trước 24.000 USD của một hợp đồng thực hiện trong 12 tháng tới, bắt đầu từ 1/12/N. Vào 31/12/N, kế toán ghi:",
+    "answer": "Nợ TK Doanh thu nhận trước 2.000 USD/Có TK Doanh thu cung cấp dịch vụ 2.000 USD"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Việc kế toán ghi nhận một thiết bị sản xuất theo giá thị trường tại thời điểm lập báo cáo tài chính, vi phạm nguyên tắc nào sau đây?",
+    "answer": "Nguyên tắc giá phí lịch sử."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Ngày 15/1/N, số tiền thực thu được từ bán hàng tại quầy nhỏ hơn số thực bán trên máy tính tiền 4 USD. Kế toán ghi sổ:",
+    "answer": "Nợ TK Tiền mặt thừa, thiếu 4 USD/Có TK Tiền gửi ngân hàng 4 USD."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Một công ty mua một lô hàng giá mua trên hóa đơn là 50.000 USD, chi phí vận chuyển người bán chịu 3.000 USD, chi phí lưu kho công ty chịu 2000 USD. Giá trị lô hàng được ghi nhận là",
+    "answer": "52.000"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Nếu áp dụng công thức tính khấu hao nhanh theo số dư giảm dần cho các năm thì giá trị còn lại vào năm cuối sẽ:",
+    "answer": "không bao giờ bằng 0."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Ngày 10/12/N công ty nhận trước\n24.000 USD của một hợp đồng thực hiện trong 12 tháng, có hiệu lực từ 1/1/N+1. Giả sử kỳ hạch toán và báo cáo theo quý. Bút toán điều chỉnh vào 31/3/N+1:",
+    "answer": "Nợ TK Doanh thu nhận trước 6.000 USD/Có TK Doanh thu cung cấp dịch vụ 6.000 USD"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Thông tin về số đầu kỳ, cuối kỳ và tình hình biến động tăng giảm trong kỳ của vốn chủ sở hữu được thể hiện trên Báo cáo tài chính:",
+    "answer": "Báo cáo vốn chủ sở hữu."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "IFRS 15 là chuẩn mực báo cáo tài chính về",
+    "answer": "Thu nhập từ hợp đồng với khách hàng"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Ngày 3/1/2014, công ty MTJ chuyển hàng cho đại lý. Ngày 5/1/2014, đại lý nhận được hàng và bán được số hàng trên vào ngày 10/1/2014. Ngày 20/1/2014, MTJ nhận được báo cáo bán hàng của đại lý. Kế toán MTJ sẽ tiến hành ghi nhận doanh thu tại ngày:",
+    "answer": "20/1/2014"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Công ty ABB tiến hành thanh lý một nhà xưởng có nguyên giá 10.000&, đã hao mòn 8.000 USD. Chi phí phá dỡ nhà xưởng để phục vụ thanh lý đơn vị đã chi ra là 300 USD. Khoản lỗ về thanh lý được kế toán ghi nhận như sau:",
+    "answer": "Nợ TK Lỗ do thanh lý tài sản: 2.300 USD."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Công ty A mua một thiết bị sản xuất với trị giá 500.000.000 VNĐ, vào tháng 1/N. Thời gian sử dụng dự kiến của thiết bị là 8 năm. Theo nguyên tắc phù hợp, giá trị thiết bị sản xuất sẽ được:",
+    "answer": "Phân bổ dần vào chi phí kinh doanh của công ty trong 8 năm."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Ngày 01/3/N, khách hàng của DTD thông báo chưa trả được khoản nợ 10.000 USD và cam kết thanh toán bằng thương phiếu có thời hạn 5 tháng, lãi suất 12% 1 năm. Thương phiếu được ghi nhận theo phương pháp lãi gộp. Kế toán tại DTD ghi:",
+    "answer": "Nợ TK Thương phiếu phải thu 10.500 USD/Có TK phải thu khách hàng 10.000 USD/Có TK Chiết khấu TP Phải thu: 500"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nếu Công ty Baylor phát hành 8.000 cổ phiếu phổ thông mệnh giá 5 đô la với giá 280.000 đô la",
+    "answer": "Thặng dư vốn cổ phần được ghi có $240,000."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Khoản Phải thu khách hàng A đã quá hạn nhiều tháng, tuy nhiên kế toán không tiến hành trích lập dự phòng cho khoản phải thu khó đòi này. Điều này vi phạm nguyên tắc nào?",
+    "answer": "Nguyên tắc thận trọng"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Để TTN thực hiện hợp đồng viết phần mềm quản lý, Công ty Kitty đã chuyển trước 10.000. Sau khi hoàn thành, bàn giao phần mềm cho Kitty kèm theo hóa đơn với số tiền 25.000, TTN đã nhận từ Kitty 8.000. Số dư TK Phải thu khách hàng tại TTN là:",
+    "answer": "7.000"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Khoản lãi từ thanh lý, nhượng bán tài sản cố định sẽ được kế toán trình bày như:",
+    "answer": "khoản mục doanh thu trên báo cáo thu nhập."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Ngày 10/12/N công ty nhận trước 24.000 USD của một hợp đồng thực hiện trong 12 tháng tới. Kế toán ghi:",
+    "answer": "Nợ TK Tiền mặt 24.000 USD/Có TK doanh thu nhận trước 24.000 USD"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Công ty LALA mua một lô hàng kỳ trước với giá 100.000 USD, 2/10, n/30. Trả lại 20% lượng hàng kém chất lượng:",
+    "answer": "Nợ TK Phải trả người bán 20.000 USD/Có TK Hàng hóa 20.000 USD"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Theo phương pháp kê khai thường xuyên, vào thời điểm cuối kỳ kế toán TK Giá vốn hàng bán sẽ có kết cấu như sau:",
+    "answer": "Không có số dư."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Nguyên vật liệu 20.000 được ghi nhận sai vào mục tài sản cố định trên sổ kế toán. Nhận định nào KHÔNG đúng?",
+    "answer": "Làm tổng tài sản và nguồn vốn đều giảm 20.000."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Khi doanh nghiệp áp dụng phương pháp khấu hao theo sản lượng cho một thiết bị sản xuất. Thì số lượng sản phẩm sản xuất theo thiết kế có thể được đo lường bằng:",
+    "answer": "số lượng sản phẩm sản xuất và số giờ máy hoạt động."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Các trường hợp nào sau đây không làm tăng nguyên giá của Tài sản cố định?",
+    "answer": "Chi phí sửa chữa thường xuyên Tài sản cố định."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Ngày 1/4/N, Công ty ABC vay ngân hàng X.000 USD trong 5 năm để mua ô tô. Lãi suất ngân hàng 12%/năm. Trong đó, khoản tiền lãi ngân hàng được trả định kỳ theo tháng là 1000 USD còn tiền gốc được trả 1 lần vào ngày đáo hạn. Xác định X?",
+    "answer": "100 USD"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Các chi phí phát sinh trong quá trình sửa chữa lớn Tài sản cố định sẽ được ghi nhận:",
+    "answer": "Nợ TK Khấu hao lũy kế."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Công ty X có doanh thu là 55.000 USD, doanh thu hàng bán bị trả lại 5000 USD, giá vốn hàng bán là 30.000 USD. Lợi nhuận gộp của công ty là",
+    "answer": "20.000"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Lãi hoặc lỗ phát sinh khi đem tài sản cố định đi quyên góp biếu tặng sẽ được xác định bằng chênh lệch giữa:",
+    "answer": "giá trị còn lại và giá trị trường."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Công ty LL, giá trị hàng tồn cuối kỳ bị đánh giá cao hơn so thực tế làm cho:",
+    "answer": "Giá vốn bị thấp đi, lợi nhuận bị cao lên."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Việc ghi nhận một thiết bị sản xuất theo giá thị trường tại thời điểm lập BCTC, vi phạm nguyên tắc náo sau đây:",
+    "answer": "Nguyên tắc giá phí lịch sử"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Công ty LALA mua một lô hàng với giá 100.000 USD, chưa thanh toán. Công ty được hưởng chiết khấu thanh toán 2%. Giá trị lô hàng khi hạch toán theo phương pháp giá trị thuần là:",
+    "answer": "98.000 USD"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Việc quản lý tiền tại doanh nghiệp không phải tuân thủ các nguyên tắc nào?",
+    "answer": "Nguyên tắc bất kiêm nhiệm"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Công ty MTJ quản lý hàng tồn kho theo phương pháp kê khai thường xuyên. Ngày 31/1/2014, theo kết quả kiểm kê, giá trị hàng hóa tồn kho: 123.700 USD, trong khi đó số dư cuối tháng của TK Hàng hóa 122.900 USD. Kế toán thực hiện điều chỉnh:",
+    "answer": "Nợ TK Giá vốn hàng bán 800 USD/Có TK hàng hóa 800 USD"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Ngày 1/6/N, Công ty HTD vay của ngân hàng số tiền 30.000 USD, cam kết trả nợ trong 60 ngày, lãi suất 12%/năm. Ngân hàng chiết khấu ngay tại thời điểm vay tiền. Số tiền thương bị chiết khấu là bao nhiêu?",
+    "answer": "600 USD"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Ngày 27 tháng 9, công ty MTJ chuyển 1.000 sản phẩm cho công ty ABB để vay ngắn hạn 105.000 USD thời hạn 2 tháng, với lãi suất 2%/tháng, chi phí kho bãi 300 USD/tháng. Ngày 27/9, Kế toán MTJ phản ánh",
+    "answer": "Nợ TK Tiền: 105.000/Có TK Vay ngắn hạn 105.000"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Ngày 01/5/N, khách hàng của DTD thông báo chưa trả được khoản nợ 7.000 USD và cam kết thanh toán bằng thương phiếu có thời hạn 2 tháng, lãi suất 10% 1 năm. Thương phiếu được ghi nhận theo phương pháp lãi riêng. Tại ngày đáo hạn, kế toán tại DTD ghi:",
+    "answer": "Nợ TK Tiền 7.117 USD/Có TK Thương phiếu phải thu 7.000 USD/Có TK Lãi TP Phải thu: 117 USD"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Khấu hao là một quá trình:",
+    "answer": "phân bổ giá trị."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Công ty A ký hợp đồng thuê văn phòng với công ty B trong 4 năm kể từ ngày 1/1/2018. Tiền thuê văn phòng được thanh toán thành 2 đợt vào các ngày: 1/1/2018 và 1/1/2020. Tiền thuê văn phòng thanh toán đợt 1 vào ngày 1/1/2018 sẽ được công ty A xử lý như sau:",
+    "answer": "Phân bổ vào chi phí kinh doanh trong năm 2018 và 2019."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Nguyên vật liệu mua chịu 10.000 USD được ghi nhận đã thanh toán trên sổ kế toán làm:",
+    "answer": "tổng tài sản và nguồn vốn đều giảm 10.000 USD."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Giả sử, ngày 2/1/N, kế toán T&T lập quĩ tiền mặt chi tiêu lặt vặt: 150 USD. Kế toán ghi sổ:",
+    "answer": "Nợ TK Tiền mặt chi tiêu lặt vặt 150 USD/Có TK Tiền gửi ngân hàng 150 USD"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Công ty LITI mua một lô hàng với giá 150.000 USD, Chưa thanh toán. Điều kiện tín dụng 4/15, n/30. Giá trị lô hàng nhập kho theo phương pháp giá trị gộp là:",
+    "answer": "150.000 USD"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Tài sản cố định là đất đai không phải trích khấu hao."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Khi doanh nghiệp áp dụng phương pháp khấu hao theo sản lượng cho một thiết bị sản xuất. Thì số lượng sản phẩm sản xuất theo thiết kế có thể được đo lường bằng:",
+    "answer": "số lượng sản phẩm sản xuất và số giờ máy hoạt động."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Khi quan tâm tới lợi nhuận trong năm tài chính của công ty, bạn sẽ nhìn vào báo cáo tài chính nào sau đây?",
+    "answer": "Báo cáo kết quả kinh doanh."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Chỉ có thể áp dụng phương pháp khấu hao theo sản lượng đối với:",
+    "answer": "tài sản liên quan đến sản xuất sản phẩm và có thể xác định được mức sử dụng thực tế."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Vào ngày 1/5/2013, Tony\nLoBianco Company mua 1 thiết bị sản xuất giá mua là 30.000 USD, tiền vận chuyển là 300 USD. Giả sử công ty sử dụng phương pháp khấu hao theo tổng cộng số thứ tự năm sử dụng của tài sản. Thời gian sử dụng dự kiến là 10 năm. Vậy mức khấu hao của thiết bị trong năm 2013 là:",
+    "answer": "3.672 USD"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Phương pháp khấu hao nào sẽ được ưu tiên sử dụng cho mục đích lập báo cáo tài chính?",
+    "answer": "Phương pháp khấu hao đều"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Có tình hình vật liệu A tại công ty LULU như sau:",
+    "answer": "113.000 triệu đồng."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Các trường hợp nào sau đây không làm tăng nguyên giá của Tài sản cố định?",
+    "answer": "Chi phí sửa chữa thường xuyên Tài sản cố định."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Doanh nghiệp được tặng một ô tô trị giá 7.000 USD sử dụng cho hoạt động kinh doanh, kế toán sẽ ghi:",
+    "answer": "Nợ TK Tài sản cố định/Có TK Doanh thu được biếu tặng."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Ngày 01/06/N Công ty A đưa vào sử dụng một thiết bị sản xuất với nguyên giá 800 triệu VNĐ. Đến ngày 31/12/N, giá thị trường của thiết bị sản xuất tương đương là 830 triệu VNĐ. Theo nguyên tắc giá gốc, nguyên giá của thiết bị sản xuất được ghi nhận trên báo cáo tài chính ngày 31/12/N là:",
+    "answer": "Nợ TK Tài sản cố định/Có TK Doanh thu được biếu tặng."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Thông tin về giá trị tài sản được thể hiện trên Báo cáo tài chính:",
+    "answer": "Bảng cân đối kế toán."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Nếu áp dụng công thức tính khấu hao nhanh theo số dư giảm dần cho các năm thì giá trị còn lại vào năm cuối sẽ:",
+    "answer": "không bao giờ bằng 0."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Công ty X có doanh thu là 55.000 USD, doanh thu hàng bán bị trả lại 5000 USD, LN gộp là 20.000 USD. Giá vốn hàng bán của công ty là",
+    "answer": "30.000"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Ngày 24/1/N, công ty MIT cung cấp một đơn hàng cho khách hàng với tổng giá trị 2.700 USD, khách hàng thanh toán ngay. Bút toán ghi nhận nghiệp vụ thu tiền bán hàng của MIT",
+    "answer": "Nợ TK Tiền 2.700 USD/Có TK Doanh thu 2.700 USD"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Ngày 01/3/N, khách hàng của DTD thông báo chưa trả được khoản nợ 10.000 USD và cam kết thanh toán bằng thương phiếu có thời hạn 5 tháng, lãi suất 12% 1 năm. Thương phiếu được ghi nhận theo phương pháp lãi gộp. Hàng tháng, Kế toán tại DTD điều chỉnh thu nhập lãi thương phiếu ghi:",
+    "answer": "Nợ TK CK TP Phải thu 100 USD/Có TK Thu nhập lãi thương phiếu 100 USD"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Công ty MTJ mua một dây chuyền sản xuất trị giá 10.000 USD. Tiền vận chuyển 1.000 USD phát sinh sẽ được kế toán ghi nhận:",
+    "answer": "Nợ TK Tài sản cố định."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Có nghiệp vụ kinh tế phát sinh tại công ty HTC “Doanh nghiệp trả nợ người bán bằng chuyển khoản 1500 USD” kế toán đã phản ánh như sau: Nợ TK Tiền gửi ngân hàng: 1500 USD/Có TK Phải trả người bán: 1500 USD. Bút toán sửa sai sẽ là:",
+    "answer": "Nợ TK Phải trả người bán 1500 USD/Có TK Tiền gửi ngân hàng 1500 USD"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Ngày 15/1/N, số tiền thực thu được từ bán hàng tại quầy nhỏ hơn số thực bán trên máy tính tiền 14 USD. Kế toán ghi sổ:",
+    "answer": "Nợ TK Tiền mặt thừa, thiếu 14 USD/Có TK Tiền gửi ngân hàng 14 USD."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "IFRS 12 là chuẩn mực báo cáo tài chính về",
+    "answer": "Trình bày về các lợi ích ở những đơn vị khác"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Do bị thiên tai, một thiết bị bị hư hỏng hoàn toàn, thiết bị này có nguyên giá 25.000 USD, đã hao mòn 20.000 USD. Công ty được cơ quan bảo hiểm bồi thường 2.000 USD. Kế toán sẽ ghi nhận:",
+    "answer": "Nợ TK Hao mòn luỹ kế: 20.000 USD\nNợ TK Tiền: 2.000 USD\nNợ TK Lỗ thải hồi tài sản cố định:\n3.000 USD\nCó TK tài sản cố định: 25.000 USD"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Tuyên bố nào dưới đây về các đối tượng sử dụng thông tin kế toán là không đúng?",
+    "answer": "Các cơ quan ban hành luật là những người sử dụng thông tin bên trong"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Lãi hoặc lỗ phát sinh khi đem tài sản cố định đi quyên góp biếu tặng sẽ được xác định bằng chênh lệch giữa:",
+    "answer": "giá trị còn lại và giá trị trường."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Ngày 31/1/N, khách hàng của KIT thông báo chưa trả được khoản nợ 18.000 USD và cam kết thanh toán bằng thương phiếu. Kế toán tại KIT ghi:",
+    "answer": "Nợ TK Thương phiếu phải thu 18.000 USD/Có TK phải thu khách hàng 18.000 USD."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Một công ty mua một lô hàng giá mua trên hóa đơn là 50.000 USD, điều khoản thanh toán 2/10, n/45. Công ty đã thanh toán sau 5 ngày mua hàng. Vậy giá trị lô hàng thuần được ghi nhận là:",
+    "answer": "49.000"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Ngày 1/3/N, Asus phát hành thương phiếu phải trả cam kết thanh toán khoản nợ $12.000 cho MN, lãi 8%/năm, thời hạn 5 tháng, ngày kí thương phiếu 1/3. Ngày 1/8/N, thương phiếu đáo hạn, Asus thanh toán toàn bộ lãi và gốc, kế toán ghi nhận",
+    "answer": "Nợ TK Thương phiếu phải trả: $12.000, Nợ TK Lãi thương phiếu phải trả: $400, Có TK Tiền: $12.400"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Để TTN thực hiện hợp đồng viết phần mềm quản lý, Công ty Kitty đã chuyển trước 10.000. Sau khi hoàn thành, bàn giao phần mềm cho Kitty kèm theo hóa đơn với số tiền 25.000, TTN đã nhận từ Kitty 8.000. Số dư TK Phải thu khách hàng tại TTN là:",
+    "answer": "7.000"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Một công ty X có giá trị hàng tồn kho đầu kỳ là 10.000 USD, hàng mua về trong kỳ là 30.000 USD, giá trị hàng tồn kho cuối kỳ là 5.000 USD. Giá vốn hàng bán là:",
+    "answer": "35.000"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Theo phương thức tiêu thụ với hợp đồng mua trả lại, tại thời điểm nhận lại hàng, ngoài nợ gốc phải trả doanh nghiệp sẽ phải thanh toán cho khách hàng",
+    "answer": "chi phí lưu kho và chi phí lãi vay."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Ngày 3/1/2014, công ty MTJ chuyển hàng cho đại lý. Ngày 5/1/2014, đại lý nhận được hàng và bán được số hàng trên vào ngày 10/1/2014. Ngày 20/1/2014, MTJ nhận được báo cáo bán hàng của đại lý. Kế toán MTJ sẽ tiến hành ghi nhận doanh thu tại ngày:",
+    "answer": "20/1/2014"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Trên hóa đơn nhận được của công ty NICs có ghi 2/10, n/30. Điều này có nghĩa là:",
+    "answer": "NICs phải thanh toán cho người bán trong 30 ngày và sẽ được chiết khấu 2% nếu thanh toán sớm trong 10 ngày đầu tiên."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Công ty LITI mua một lô hàng với giá 150.000 USD, Chưa thanh toán. Điều kiện tín dụng 4/15, n/30. Giá trị lô hàng nhập kho theo phương pháp giá trị gộp là:",
+    "answer": "150.000 USD"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Ngày 01/5/N, khách hàng của DTD thông báo chưa trả được khoản nợ 7.000 USD và cam kết thanh toán bằng thương phiếu có thời hạn 2 tháng, lãi suất 10% 1 năm. Thương phiếu được ghi nhận theo phương pháp lãi riêng. Tại ngày đáo hạn, kế toán tại DTD ghi:",
+    "answer": "Nợ TK Tiền 7.117 USD/Có TK Thương phiếu phải thu 7.000 USD/Có TK Lãi TP Phải thu: 117 USD"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Công ty LALA mua một lô hàng kỳ trước với giá 100.000 USD, 2/10, n/30. Trả lại 20% lượng hàng kém chất lượng:",
+    "answer": "Nợ TK Phải trả người bán 20.000 USD/Có TK Hàng hóa 20.000 USD"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Kế toán được phát triển từ các nguyên tắc của kinh tế vi mô, các doanh nghiệp là trọng tâm cảu các hoạt động kinh tế là đặc điểm của mô hình kế toán nào",
+    "answer": "Mô hình kế toán vi mô"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Mua nguyên vật liệu nhập kho, thanh toán một nửa bằng tiền mặt:",
+    "answer": "Nợ TK Nguyên vật liệu/Có TK Tiền, Có TK Phải trả người bán."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Giả sử, ngày 2/1/N, kế toán T&T lập quĩ tiền mặt chi tiêu lặt vặt: 150 USD. Kế toán ghi sổ:",
+    "answer": "Nợ TK Tiền mặt chi tiêu lặt vặt 150 USD/Có TK Tiền gửi ngân hàng 150 USD"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Khi doanh nghiệp phát sinh nghiệp vụ bán hàng cho khách hàng sử dụng phương thức tiêu thụ với hợp đồng mua trả lại, kế toán sẽ ghi:",
+    "answer": "tăng khoản nợ phải trả."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Khi doanh nghiệp áp dụng phương pháp khấu hao theo sản lượng cho một thiết bị sản xuất. Thì số lượng sản phẩm sản xuất theo thiết kế có thể được đo lường bằng:",
+    "answer": "số lượng sản phẩm sản xuất và số giờ máy hoạt động."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Khấu hao là một quá trình:",
+    "answer": "phân bổ giá trị."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Khi cổ phiếu ưu đãi có tính tích lũy, cổ tức ưu đãi không được công bố trong một kỳ được coi là",
+    "answer": "Cổ tức còn thiếu"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Ngày 1/4/N, Công ty ABC vay ngân hàng X.000 USD trong 5 năm để mua ô tô. Lãi suất ngân hàng 12%/năm. Trong đó, khoản tiền lãi ngân hàng được trả định kỳ theo tháng là 1000 USD còn tiền gốc được trả 1 lần vào ngày đáo hạn. Xác định X?",
+    "answer": "100 USD"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Ngày 1/2/N, Công ty HTD vay ngân hàng 100.000 USD trong 5 năm để mua ô tô. Lãi suất ngân hàng 12%/năm. Tiền gốc được trả 1 lần vào ngày đáo hạn. Xác định khoản tiền lãi ngân hàng được trả định kỳ theo tháng?",
+    "answer": "1000 USD"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Công ty MTJ quản lý hàng tồn kho theo phương pháp kê khai thường xuyên. Ngày 31/1/2014, theo kết quả kiểm kê, giá trị hàng hóa tồn kho: 123.700 USD, trong khi đó số dư cuối tháng của TK Hàng hóa 122.900 USD. Kế toán thực hiện điều chỉnh:",
+    "answer": "Nợ TK Giá vốn hàng bán 800 USD/Có TK hàng hóa 800 USD"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Một công ty mua một lô hàng giá mua trên hóa đơn là 50.000 USD, chi phí vận chuyển người bán chịu 3.000 USD, chi phí lưu kho công ty chịu 2000 USD. Giá trị lô hàng được ghi nhận là",
+    "answer": "52.000"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Một công ty mua 40.000 cổ phiếu của cổ phiếu phổ thông mệnh giá 15 USD của riêng mình với giá 30 USD cho mỗi cổ phiếu, kế toán ghi nhận theo giá gốc. Điều gì sẽ ảnh hưởng đến tổng vốn chủ sở hữu?",
+    "answer": "Giảm $1,200,000"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Các chi phí phát sinh trong quá trình sửa chữa lớn Tài sản cố định sẽ được ghi nhận",
+    "answer": "Nợ TK Khấu hao lũy kế."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Một công ty X có giá trị hàng tồn kho cuối kỳ là 5.000 USD, hàng mua về trong kỳ là 30.000 USD, giá giá vốn hàng bán là 35.000 USD. Giá trị HTK đầu kỳ",
+    "answer": "10.000"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Ngày 2/1/2014, công ty MTJ bán một lô hàng trị giá 1.000 USD cho ABB theo phương thức mua với quyền trả lại hàng. Ngày 15/1/2014, ABB trả lại 300 USD trong tổng giá trị hàng đã mua. MTJ sẽ ghi nhận doanh thu hàng bán là bao nhiêu nếu công ty ghi nhận doanh thu khi kết thúc thời hạn trả hàng:",
+    "answer": "700 USD"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Đầu năm tài chính, công ty chi trả tiền thuê văn phòng cho cả năm 24.000 USD. Công ty hạch toán và báo cáo theo từng quý, chi phí hàng quý sẽ ghi nhận chi phí là:",
+    "answer": "6.000 USD."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Quy định nào dưới đây không đúng với cổ phiếu quỹ",
+    "answer": "được nhận cổ tức"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Các chi phí phát sinh trong quá trình sửa chữa lớn Tài sản cố định sẽ được ghi nhận:",
+    "answer": "Nợ TK Khấu hao lũy kế."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Định khoản sau làm cho tài sản và nguốn vốn của Doanh nghiệp biến đổi như thế nào:\nNợ TK Nguyên vật liệu: 100\nCó TK Tiền gửi ngân hàng: 100",
+    "answer": "Tổng tài sản không thay đổi"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Chi phí lắp đặt, chạy thử dây chuyền sản xuất được tính vào:",
+    "answer": "giá trị dây chuyền sản xuất."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Nếu áp dụng tính khấu hao theo phương pháp làm tròn nửa năm thì một thiết bị công ty mua và đưa vào sử dụng ngày 3/5/2014, thì tài sản này trong năm 2014 sẽ được trích khấu hao:",
+    "answer": "6 tháng."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Nguyên tắc giá phí phát biểu rằng:",
+    "answer": "Tài sản phải được ghi theo giá gốc của chúng"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Ngày 15/1/2014, công ty MTJ chuyển hàng cho đại lý gửi bán. Ngày 15/1/2014, đại lý nhận được hàng và bán được số hàng trên vào ngày 7/2/2014. Ngày 15/2/2014, MTJ nhận được báo cáo bán hàng của đại lý. Theo phương pháp kiểm kê định kỳ, kế toán MTJ sẽ tiến hành ghi nhận giá vốn tại ngày:",
+    "answer": "Cuối kì"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Lãi hoặc lỗ phát sinh khi đem tài sản cố định đi quyên góp biếu tặng sẽ được xác định bằng chênh lệch giữa:",
+    "answer": "giá trị còn lại và giá trị trường."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Ngày 01/3/N, khách hàng của DTD thông báo chưa trả được khoản nợ 10.000 USD và cam kết thanh toán bằng thương phiếu có thời hạn 5 tháng, lãi suất 12% 1 năm. Thương phiếu được ghi nhận theo phương pháp lãi gộp. Hàng tháng, Kế toán tại DTD điều chỉnh thu nhập lãi thương phiếu ghi:",
+    "answer": "Nợ TK CK TP Phải thu 100 USD/Có TK Thu nhập lãi thương phiếu 100 USD"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Hàng tồn kho trong doanh nghiệp thương mại KHÔNG bao gồm:",
+    "answer": "sản phẩm chế biến dở dang."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Công ty tiến hành nhượng bán một máy photocopy có nguyên giá\n8.000 USD, đã hao mòn 3.000 USD. Chi phí sửa chữa trước khi nhượng bán là 200 USD. Khách hàng đồng ý mua với giá 5.500 USD. Biết khấu hao bổ sung trước khi nhượng bán là 100. Vậy hoạt động nhượng bán này phát sinh:",
+    "answer": "Lãi 400 USD."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Mua 1 lô Nguyên vật liệu, giá mua 300.000 USD, chi phí vận chuyển 20.000 USD. Giá gốc nhập kho của lô hàng là:",
+    "answer": "320.000 USD"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Ngày 10/04/N Công ty A&B xuất một lô hàng hoá bán cho Công ty TXT. Hàng đã chuyển giao, công ty TXT đã ký nhận nợ và sẽ trả 60% tiền hàng vào 30/06/N, 40% còn lại vào ngày 30/07. Theo nguyên tắc cơ sở dồn tích, doanh thu của lô hàng trên được Công ty A&B ghi nhận vào:",
+    "answer": "Toàn bộ vào ngày 10/04/N"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Dạng đơn giản của tài khoản kế toán sử dụng trong kế toán mỹ, có hình chữ:",
+    "answer": "T"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Đầu năm tài chính, công ty chi trả tiền thuê văn phòng cho cả năm\n24.000 USD. Công ty hạch toán và báo cáo theo từng tháng, chi phí hàng tháng sẽ ghi nhận chi phí là:",
+    "answer": "2.000 USD."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Khoản lãi từ thanh lý, nhượng bán tài sản cố định sẽ được kế toán trình bày như:",
+    "answer": "khoản mục doanh thu trên báo cáo thu nhập."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Công ty LALA mua một lô hàng với giá 100.000 USD, chưa thanh toán. Công ty được hưởng chiết khấu thanh toán 2%. Giá trị lô hàng khi hạch toán theo phương pháp giá trị thuần là:",
+    "answer": "98.000 USD"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Ngày 8/5/N, Công ty Botanic mua hàng nhập kho trị giá $150.000. Công ty thanh toán luôn bằng tiền mặt $50.000. Số tiền còn lại chưa trả chậm theo điều kiện thanh toán 2/10, n/30. Ngày 15/5/N, công ty thanh toán nốt tiền hàng, kế toán ghi nhận?",
+    "answer": "Nợ TK Phải trả NB: $100.000, Có TK Tiền: $98.000, Có TK Doanh thu CK thanh toán: $2.000"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Đầu năm tài chính, công ty chi trả tiền thuê văn phòng cho cả năm\n24.000 USD. Công ty hạch toán và báo cáo theo từng quý, chi phí hàng quý sẽ ghi nhận chi phí là:",
+    "answer": "6.000 USD."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Công ty X có doanh thu là 55.000 USD, doanh thu hàng bán bị trả lại 5000 USD, giá vốn hàng bán là 30.000 USD, chi phí hoạt động là 5.000. Lợi nhuận gộp của công ty là:",
+    "answer": "20.000"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Khoản mục nào sau đây KHÔNG phải là chi phí?",
+    "answer": "Chi phí sản xuất kinh doanh dở dang."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Ngày 28/12/N công ty nhận trước 24.000 USD của một hợp đồng thực hiện trong 12 tháng, có hiệu lực từ 1/1/N+1. Giả sử kỳ hạch toán và báo cáo theo quý. Ngày 31/5/N+1, kế toán ghi:",
+    "answer": "Không ghi bút toán điều chỉnh"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Khi quan tâm tới lợi nhuận trong năm tài chính của công ty, bạn sẽ nhìn vào báo cáo tài chính nào sau đây?",
+    "answer": "Báo cáo kết quả kinh doanh."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Nội dung nào sau đây không phải là quyền hoặc ưu đãi gắn liền với cổ phiếu ưu đãi?",
+    "answer": "Quyền biểu quyết"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Có tình hình vật liệu A tại công ty LULU như sau:",
+    "answer": "113.000 triệu đồng."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là SAI?",
+    "answer": "Công ty phải áp dụng chung 1 phương pháp khấu hao cho tất cả các Tài sản cố định."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Có nghiệp vụ kinh tế phát sinh “Doanh nghiệp trả nợ người bán bằng tiền mặt 1000 USD” kế toán đã phản ánh như sau: Nợ TK Tiền mặt: 1000 USD/Có TK Phải trả người bán: 1000 USD. Bút toán sửa sai sẽ là:",
+    "answer": "Nợ TK Phải trả người bán 1000 USD/Có TK Tiền mặt 1000 USD"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Công ty A áp dụng PP kê khai thường xuyên, bán một lô hàng cho khách hàng chưa thu tiền doanh thu là 10.000, giá vốn là 5.000, chi phí vận chuyển người mua chịu công ty đã thanh toán bằng tiền gửi ngân hàng. Kế toán cần ghi nhận những bút toán nào",
+    "answer": "3 bút toán: doanh thu, giá vốn hàng bán, khoản tiền chi hộ đã thanh toán bằng TGNH"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Có bao nhiêu phương pháp ước tính nợ phải thu khó đòi?",
+    "answer": "Có 2 phương pháp"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Theo phương pháp kê khai thường xuyên, vào thời điểm cuối kỳ kế toán TK Giá vốn hàng bán sẽ có kết cấu như sau:",
+    "answer": "Không có số dư."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Ngày 4/10/N, công ty KAT cung cấp một đơn hàng cho khách hàng với tổng giá trị 3.000 USD, khách hàng thanh toán ngay. Bút toán ghi nhận nghiệp vụ thu tiền bán hàng của KAT:",
+    "answer": "Nợ TK Tiền 3000 USD/Có TK Doanh thu 3000 USD"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Các trường hợp nào sau đây không làm tăng nguyên giá của Tài sản cố định?",
+    "answer": "Chi phí sửa chữa thường xuyên Tài sản cố định."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Ngày 8/1/N công ty mua bảo hiểm oto cho cả năm 6.000 USD, các bút toán điều chỉnh thực hiện cuối mỗi quý, vào 30/6/N Kế toán ghi:",
+    "answer": "Nợ TK Chi phí bảo hiểm 1.500 USD/Có TK Bảo hiểm trả trước 1.500 USD"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Tổng số chuẩn mực báo cáo tài chính IFRS đã ban hành tính đến T1/ 2021 là",
+    "answer": "16"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Tài sản cố định là đất đai không phải trích khấu hao."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Công ty LALA mua một lô hàng với giá 100.000, đã thanh toán bằng tiền. Công ty được hưởng chiết khấu thanh toán 2%. Định khoản thực hiện:",
+    "answer": "Nợ TK Hàng hóa 98.000/Có TK Tiền 98.000."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Ngày 10/12/N công ty nhận trước\n24.000 USD của một hợp đồng thực hiện trong 12 tháng, có hiệu lực từ 1/1/N+1. Giả sử kỳ hạch toán và báo cáo theo quý. Bút toán điều chỉnh vào 31/3/N+1:",
+    "answer": "Nợ TK Doanh thu nhận trước 6.000 USD/Có TK Doanh thu cung cấp dịch vụ 6.000 USD"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Ngày 31/1/N, khách hàng của KIT thông báo chưa trả được khoản nợ 18.000 USD và cam kết thanh toán bằng thương phiếu. Kế toán tại KIT ghi:",
+    "answer": "Nợ TK Thương phiếu phải thu 18.000 USD/Có TK phải thu khách hàng 18.000 USD."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Một công ty X có giá trị hàng tồn kho đầu kỳ là 10.000 USD, hàng mua về trong kỳ là 30.000 USD, giá giá vốn hàng bán là 35.000 USD. Giá trị HTK cuối kỳ là",
+    "answer": "5.000"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Nhân tố nào sau đây không ảnh hưởng đến sự phát triển của kế toán quốc tế",
+    "answer": "Mục tiêu của doanh nghiệp"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Công ty HILI mua một lô hàng với giá 250.000 USD, thanh toán ngay bằng tiền. Điều kiện tín dụng 4/15, n/60. Giá trị lô hàng nhập kho theo phương pháp giá trị gộp là:",
+    "answer": "240.000 USD"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Mua nguyên vật liệu nhập kho, thanh toán bằng tiền tạm ứng:",
+    "answer": "Nợ TK Nguyên vật liệu/Có TK Tạm ứng."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Công ty MTJ mua một dây chuyền sản xuất trị giá 10.000 USD. Tiền vận chuyển 1.000 USD phát sinh sẽ được kế toán ghi nhận:",
+    "answer": "Nợ TK Tài sản cố định."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Công ty MTJ mua một dây chuyền sản xuất trị giá 10.000 USD. Tiền vận chuyển 1.000 USD phát sinh sẽ được kế toán ghi nhận:",
+    "answer": "Nợ TK Tài sản cố định."
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Vào ngày 1/5/2013, Tony LoBianco Company mua 1 thiết bị sản xuất giá mua là 30.000 USD, tiền vận chuyển là 300 USD. Giả sử công ty sử dụng phương pháp khấu hao theo tổng cộng số thứ tự năm sử dụng của tài sản. Thời gian sử dụng dự kiến là 10 năm. Vậy mức khấu hao của thiết bị trong năm 2013 là:",
+    "answer": "3.672 USD"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Hàng tồn kho trong doanh nghiệp sản xuất KHÔNG bao gồm:",
+    "answer": "nguyên liệu nhận ký gửi."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Kế toán được xây dựng tuân thủ theo nguyên tắc trial and error, các doanh nghiệp đặt ra các nguyên tắc và phương pháp riêng từ quá trình trải nghiệm thực tế. là đặc điểm của mô hình kế toán nào",
+    "answer": "Mô hình kế toán theo các nguyên tắc độc lập"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Đầu năm tài chính, công ty chi trả tiền thuê văn phòng cho cả năm\n36.0 D. Theo nguyên tắc phù hợp, khoản tiền thuê này sẽ:",
+    "answer": "Tính vào chi phí từng kỳ báo cáo."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Tổng số chuẩn mực báo cáo tài chính IFRS đã ban hành tính đến T1/ 2021 là",
+    "answer": "16"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Tháng 12/N, công ty hoàn thành dịch vụ cho khách hàng, được khách hàng thanh toán 1/3 tiền hàng. Còn lại thanh toán vào tháng 2/N+1. Doanh thu:",
+    "answer": "Được ghi nhận toàn bộ vào doanh thu tháng 12/N."
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Công ty LULU, giá trị hàng tồn cuối kỳ bị đánh giá thấp hơn so thực tế làm cho:",
+    "answer": "giá vốn cao lên, lợi nhuận giảm đi."
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Ngày 28/12/N công ty nhận trước 24.000 USD của một hợp đồng thực hiện trong 12 tháng, có hiệu lực từ 1/1/N+1. Giả sử kỳ hạch toán và báo cáo theo quý. Bút toán điều chỉnh vào 30/06/N+1:",
+    "answer": "Nợ TK Doanh thu nhận trước 6.000 USD/Có TK Doanh thu cung cấp dịch vụ 6.000 USD"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Công ty Brother mua thiết bị vào ngày 10 tháng 1 năm 2011, với chi phí tổng hoá đơn 30.000 USD. Thời gian sử dụng hữu ích ước tính 5 năm. Gía trị thu hồi ước tính là 1.000 USD. Số tiền khấu hao lũy kế 31 tháng 12 năm 2012, nếu được sử dụng, phương pháp khấu hao đều là:",
+    "answer": "11.600 USD."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Công ty Era có 6.000 cổ phiếu ưu đãi không tích lũy tỷ lệ 5%, mệnh giá 100 đô la đang lưu hành tại ngày 31 tháng 12 năm 2017. Không có cổ tức nào được trả cho cổ phiếu này cho năm 2016 hoặc 2017. Tổng cộng cổ tức còn lại tại ngày 31 tháng 12 năm 2017 là",
+    "answer": "$0."
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Khoản mục nào sau đây KHÔNG phải là chi phí?",
+    "answer": "Chi phí sản xuất kinh doanh dở dang."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Mỗi tài khoản kế toán cần có ít nhất mấy yếu tố cơ bản?",
+    "answer": "Có 3 yếu tố."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Mountain View, Inc. có 50.000 cổ phiếu 8%, mệnh giá 100 đô la, cổ phiếu ưu đãi không tích lũy và 100.000 cổ phiếu phổ thông mệnh giá 1 đô la đang lưu hành tại ngày 31 tháng 12 năm 2017. Không có cổ tức nào được kê khai trong năm 2016. Hội đồng quản trị kê khai và thanh toán 500.000 USD cổ tức năm 2017. Số cổ tức mà cổ đông phổ thông nhận được trong năm 2017 là bao nhiêu?",
+    "answer": "$100,000"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Công ty HTD mua hàng nhập kho trị giá 100.000 USD. Số tiền phải nợ người bán HTD được trả chậm theo điều kiện thanh toán 2/10, n/30. Theo phương pháp giá trị gộp, kế toán ghi nhận nghiệp vụ này:",
+    "answer": "Nợ TK Hàng hóa 100.000 USD/Có TK Phải trả người bán 100.000 USD"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Forex Inc nhượng bán một thiết bị sản xuất, có nguyên giá là 30.000 USD, đã hao mòn là 20.000 USD. Số tiền thu được từ nhượng bán là\n5.000 USD. Biết công ty phải trích bổ sung khấu hao trước khi nhượng bán là 100 USD. Vậy hoạt động nhượng bán này, công ty:",
+    "answer": "lỗ 4.900 USD."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Công ty A áp dụng PP kiểm kê định kỳ, bán một lô hàng cho khách hàng chưa thu tiền doanh thu là 10.000, giá vốn là 5.000, chi phí vận chuyển người mua chịu công ty đã thanh toán bằng tiền gửi ngân hàng. Kế toán cần ghi nhận những bút toán nào vào thời điểm bán hàng",
+    "answer": "2 bút toán: doanh thu, khoản tiền chi hộ đã thanh toán bằng TGNH"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Ngày 2/1/N công ty thanh toán tiền thuê nhà cho cả năm 12.000 USD. Kế toán sẽ ghi:",
+    "answer": "Nợ TK Tiền thuê nhà trả trước 12.000 USD/Có TK Tiền mặt 12.000 USD"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Hệ thống báo cáo tài chính của công ty KHÔNG bao gồm:",
+    "answer": "Bảng cân đối thử."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Ngày 02/1/N, Công ty KENT nhận 30.000 USD tiền đặt trước của khách hàng cho hợp đồng cung cấp hàng hóa trong tháng 1 đến tháng 5. Kế toán ghi:",
+    "answer": "Nợ TK Tiền mặt 30.000 USD/Có TK Doanh thu nhận trước 30.000 USD"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Mục đích ban hành và sử dụng các nguyên tắc kế toán nhằm:",
+    "answer": "Tạo sự thống nhất trong việc sử dụng và trình bày thông tin kế toán."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Ngày 8/1/N công ty mua bảo hiểm oto cho cả năm 6.000 USD. Giả sử kỳ hạch toán và báo cáo theo quý. Cuối mỗi quý, kế toán sẽ thực hiện bút toán điều chỉnh:",
+    "answer": "Nợ TK Chi phí bảo hiểm 1.500 USD/Có TK Bảo hiểm trả trước 1.500 USD"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Công ty X có doanh thu là 55.000 USD, doanh thu hàng bán bị trả lại 5000 USD, giá vốn hàng bán là 30.000 USD, chi phí hoạt động là 5.000. Lợi nhuận thuần của công ty là:",
+    "answer": "15.000"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Công ty tiến hành nhượng bán một máy photocopy có nguyên giá 8.000 USD, đã hao mòn 3.000 USD. Chi phí sửa chữa trước khi nhượng bán là 200 USD. Khách hàng đồng ý mua với giá 5.500 USD. Biết khấu hao bổ sung trước khi nhượng bán là 100. Vậy hoạt động nhượng bán này phát sinh:",
+    "answer": "Lãi 400 USD."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Trong điều kiện giá cả thị trường có xu hướng giảm, chỉ tiêu lợi nhuận thuần khi tính theo phương pháp FIFO sẽ:",
+    "answer": "nhỏ hơn LIFO."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Mua 1 lô Nguyên vật liệu, giá mua 300.000 USD, chi phí vận chuyển 20.000 USD. Giá gốc nhập kho của lô hàng là:",
+    "answer": "320.000 USD"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Tại Công ty Enrol, số dư TK Phải thu khách hàng là 10.000 sau khi khách hàng thanh toán 5.000 và ghi nhận một hóa đơn bảo trì máy tính 9.000. Số dư TK này trước khi ghi nhận các nghiệp vụ trên là",
+    "answer": "6.000"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Việc quản lý tiền tại doanh nghiệp thường phải tuân thủ các nguyên tắc nào?",
+    "answer": "Cả 3 đáp án trên đều đúng."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Ngày 1/1/N, Công ty HTD nhận\n42.000 USD tiền đặt trước của khách hàng cho hợp đồng cung cấp hàng hóa trong tháng 1 đến tháng\n6. Kế toán ghi:",
+    "answer": "Nợ TK Tiền mặt 42.000 USD/Có TK Doanh thu nhận trước 42.000 USD"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Các chi phí phát sinh trong quá trình xây dựng cơ bản để hình thành một tài sản cố định ở đơn vị sẽ được kế toán ghi:",
+    "answer": "Nợ TK Xây dựng cơ bản."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Giá trị hao mòn của tài sản cố định sử dụng tại doanh nghiệp sẽ giảm nếu:",
+    "answer": "thanh lý tài sản cố định."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Giá trị hao mòn của tài sản cố định sử dụng tại doanh nghiệp sẽ giảm nếu:",
+    "answer": "Nợ TK Tiền mặt chi tiêu lặt vặt 250 USD/Có TK Tiền gửi ngân hàng 250 USD"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Hệ thống tài khoản kế toán Mỹ có đặc trưng nào sau đây?",
+    "answer": "Không bắt buộc sử dụng tên gọi và số hiệu chung cho tất cả các doanh nghiệp."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Trên hóa đơn nhận được của công ty NICs có ghi 2/10, n/30. Điều này có nghĩa là:",
+    "answer": "NICs phải thanh toán cho người bán trong 30 ngày và sẽ được chiết khấu 2% nếu thanh toán sớm trong 10 ngày đầu tiên."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Định khoản sau làm cho tài sản và nguốn vốn của Doanh nghiệp biến đổi như thế nào:\nNợ TK Nguyên vật liệu: 100\nCó TK Tiền gửi ngân hàng: 100",
+    "answer": "Tổng tài sản không thay đổi"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Có tình hình sản phẩm P tại công ty KID như sau:",
+    "answer": "26.000 triệu đồng."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Một công ty X có giá trị hàng tồn kho cuối kỳ là 5.000 USD, hàng mua về trong kỳ là 30.000 USD, giá giá vốn hàng bán là 35.000 USD. Giá trị HTK đầu kỳ",
+    "answer": "10.000"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Bán 1 lô hàng hóa, giá gốc 500.000 USD, chi phí vận chuyển đi bán 20.000 USD. Giá vốn hàng bán là:",
+    "answer": "500.000 USD"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Ngày 6/2/2014, doanh nghiệp bán một lô hàng trị giá 2.000 USD cho khách hàng the phương thức tiêu thụ với quyền trả lại hàng. Ngày 20/6/2014, khách hàng trả lại một phần lô hàng trên trị giá 500 USD. Thời hạn quy định hết quyền trả lại hàng là 30/6/2015. Nếu doanh nghiệp ghi nhận doanh thu tại thời điểm giao hàng thì khoản doanh thu hàng trả lại sẽ được ghi nhận vào ngày:",
+    "answer": "20/6/2014"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Ngày 01/7/N, khách hàng của DTD thông báo chưa trả được khoản nợ 5.000 USD và cam kết thanh toán bằng thương phiếu có thời hạn 3 tháng, lãi suất 10% 1 năm. Thương phiếu được ghi nhận theo phương pháp lãi riêng Kế toán tại DTD ghi:",
+    "answer": "Nợ TK Thương phiếu phải thu 5.000 USD/Có TK phải thu khách hàng 5.000 USD"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Công ty ABC mua hàng nhập kho trị giá 250.000 USD. Công ty thanh toán luôn bằng tiền mặt 150.000 USD. Số tiền còn lại chưa trả chậm theo điều kiện thanh toán 2/10, n/30. Biết nghiệp vụ trên phát sinh ngày 05/09/200N. Theo phương pháp giá thuần, giá trị hàng tồn kho được ghi nhận trên sổ sách kế toán là:",
+    "answer": "248.000 USD"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Kế toán cần ước tính được số tiền mặt sẽ chi tiêu lặt vặt trong một khoảng thời gian bao lâu",
+    "answer": "1 – 2 tuần, không quá 1 tháng;"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Ngày 31/12/N, Mit xác định tổng số nợ phải thu từ các khách hàng đã quá hạn 3 tháng là 50.000 USD, tỷ lệ trích lập dự phòng 10%. Kế toán ghi:",
+    "answer": "Nợ TK Chi phí dự phòng 5.000 USD/Có TK Dự phòng nợ khó đòi 5.000 USD"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Khi cần biết thông tin về số dư chi tiết của khoản mục “Tiền tại ngân hàng”, chúng ta cần sử dụng báo cáo tài chính nào sau đây?",
+    "answer": "Báo cáo kết quả kinh doanh."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Theo phương thức tiêu thụ với hợp đồng mua trả lại, tại thời điểm nhận lại hàng, ngoài nợ gốc phải trả doanh nghiệp sẽ phải thanh toán cho khách hàng",
+    "answer": "chi phí lưu kho và chi phí lãi vay."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Kê khai thường xuyên và kiểm kê định kỳ là 2 phương pháp:",
+    "answer": "quản lý hàng tồn kho."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Nếu Công ty Merril phát hành 9.000 cổ phiếu của loại cổ phiếu phổ thông mệnh giá 5 đô la với giá 160.000 đô la, tài khoản Cổ phiếu phổ thông sẽ được ghi có với giá bao nhiêu?",
+    "answer": "45.000 USD"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Doanh nghiệp mua và đưa vào sử dụng một dây chuyền sản xuất vào 1/6/2014. Nếu doanh nghiệp áp dụng phương pháp khấu hao theo tổng só năm sử dụng thì trong năm 2014, tài sản này sẽ trích khấu hao:",
+    "answer": "7 tháng."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Ngày 1/6, Công ty Blue Inc. vay của ngân hàng số tiền 20.000 USD, cam kết trả nợ trong 60 ngày, lãi suất 15%/năm. Ngân hàng chiết khấu ngay tại thời điểm vay tiền. Số tiền thương phiếu bị chiết khấu là bao nhiêu?",
+    "answer": "500 USD"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Ngày 8/1/N công ty mua bảo hiểm oto cho cả năm 6.000 USD Kế toán ghi:",
+    "answer": "Nợ TK Bảo hiểm trả trước 6.000 USD/Có TK Tiền mặt 6.000 USD"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Công ty MJB đem một chiếc ô tô đi biếu tặng. Biết ô tô có nguyên giá 20.000 USD, đã hao mòn là 3.000 USD. Biết giá thị trường của ô tô lúc này là 15.000 USD. Khoản lỗ khi đem tài sản đi biếu tặng được kế toán ghi:",
+    "answer": "Nợ TK Chi phí về biếu tặng: 2.000 USD."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Kế toán được phát triển từ các nguyên tắc của kinh tế vi mô, các doanh nghiệp là trọng tâm cảu các hoạt động kinh tế là đặc điểm của mô hình kế toán nào",
+    "answer": "Mô hình kế toán vi mô"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Ngày 8/1/N công ty mua bảo hiểm oto cho cả năm 6.000 USD, các bút toán điều chỉnh thực hiện cuối mỗi quý, vào 30/4/N Kế toán ghi:",
+    "answer": "Nợ TK Chi phí bảo hiểm 1.500 USD/Có TK Bảo hiểm trả trước 1.500 USD"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Có bao nhiêu phương pháp ước tính nợ phải thu khó đòi?",
+    "answer": "Có 2 phương pháp"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Ngày 1/3/N, Asus phát hành thương phiếu phải trả cam kết thanh toán khoản nợ $12.000 cho MN, lãi 8%/năm, thời hạn 5 tháng, ngày kí thương phiếu 1/3. Ngày 31/3/N, kế toán ghi nhận",
+    "answer": "Nợ TK Chi phí lãi thương phiếu: $80, Có TK lãi thương phiếu phải trả: $80"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Công ty X có doanh thu là 55.000 USD, doanh thu hàng bán bị trả lại 5000 USD, giá vốn hàng bán là 30.000 USD, chi phí hoạt động là 5.000. Lợi nhuận gộp của công ty là:",
+    "answer": "20.000"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Trích khấu hao tài sản cố định sẽ làm ảnh hưởng:",
+    "answer": "tăng giá trị hao mòn và giảm giá trị còn lại."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Công ty LITI mua một lô hàng với giá 100.000 USD, đã thanh toán bằng tiền. Điều kiện tín dụng 3/15, n/30. Phần chiết khấu được hưởng:",
+    "answer": "3.000 USD"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Chi phí lắp đặt, chạy thử dây chuyền sản xuất được tính vào:",
+    "answer": "giá trị dây chuyền sản xuất."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Công ty MTJ quản lý hàng tồn kho theo phương pháp kiểm kê định kỳ. Ngày 1/1/2014, giá trị hàng tồn đầu kỳ: 34.000 USD. Tổng giá trị hàng mua trong kỳ: 165.000 USD. Ngày 31/1/2014, theo kết quả kiểm kê, giá trị hàng hóa tồn kho: 45.000 USD. Kế toán thực hiện kết chuyển giá vốn hàng bán:",
+    "answer": "Nợ TK Xác định kết quả 156.000 USD\nNợ TK Hàng hóa 9.000 USD\nCó TK Mua hàng 165.000 USD"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Nội dung nào sau đây không phải là quyền hoặc ưu đãi gắn liền với cổ phiếu ưu đãi?",
+    "answer": "Quyền biểu quyết"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Ngày 2/1/2014, công ty MTJ bán một lô hàng trị giá 1.000 USD cho ABB theo phương thức mua với quyền trả lại hàng. Ngày 15/1/2014, ABB trả lại 300 USD trong tổng giá trị hàng đã mua. MTJ sẽ ghi nhận doanh thu hàng bán là bao nhiêu nếu công ty ghi nhận doanh thu khi kết thúc thời hạn trả hàng:",
+    "answer": "700 USD"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Ngày 4/10/N, công ty KAT cung cấp một đơn hàng cho khách hàng với tổng giá trị 3.000 USD, khách hàng thanh toán ngay. Bút toán ghi nhận nghiệp vụ thu tiền bán hàng của KAT:",
+    "answer": "Nợ TK Tiền 3000 USD/Có TK Doanh thu 3000 USD"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Ngày 8/5/N, Công ty Botanic mua hàng nhập kho trị giá $150.000. Công ty thanh toán luôn bằng tiền mặt $50.000. Số tiền còn lại chưa trả chậm theo điều kiện thanh toán 2/10, n/30. Ngày 15/5/N, công ty thanh toán nốt tiền hàng, kế toán ghi nhận?",
+    "answer": "Nợ TK Phải trả NB: $100.000, Có TK Tiền: $98.000, Có TK Doanh thu CK thanh toán: $2.000"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Ngày 24/1/N, công ty MTJ cung cấp một đơn hàng cho khách hàng với tổng giá trị 2.900 USD theo phương thức tiêu thụ trực tiếp, khách hàng thanh toán ngay. Bút toán ghi nhận doanh thu của MTJ:",
+    "answer": "Nợ TK Tiền 2.900 USD/Có TK Doanh thu 2.900 USD"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Doanh nghiệp mua và đưa vào sử dụng một dây chuyền sản xuất vào 1/6/2014. Nếu doanh nghiệp áp dụng phương pháp khấu hao theo tổng só năm sử dụng thì trong năm 2014, tài sản này sẽ trích khấu hao",
+    "answer": "7 tháng."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Một công ty có các số dư tài khoản sau: Cổ phiếu phổ thông, mệnh giá $ 1, $30.000; Thặng dư vốn cổ phần, $650.000. Dựa trên thông tin này:",
+    "answer": "số cổ phần phát hành là 30.000."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Khi doanh nghiệp phát sinh nghiệp vụ bán hàng cho khách hàng sử dụng phương thức tiêu thụ với hợp đồng mua trả lại, kế toán sẽ ghi:",
+    "answer": "tăng khoản nợ phải trả."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Mua nguyên vật liệu nhập kho, thanh toán một nửa bằng tiền mặt:",
+    "answer": "Nợ TK Nguyên vật liệu/Có TK Tiền, Có TK Phải trả người bán."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Một công ty mua 40.000 cổ phiếu của cổ phiếu phổ thông mệnh giá 15 USD của riêng mình với giá 30 USD cho mỗi cổ phiếu, kế toán ghi nhận theo giá gốc. Điều gì sẽ ảnh hưởng đến tổng vốn chủ sở hữu?",
+    "answer": "Giảm $1,200,000"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Một công ty X mua một lô máy tính về để bán, vậy lô máy tính này được ghi nhận là khoản mục nào:",
+    "answer": "Hàng hóa"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Chỉ tiêu hàng tồn kho có liên quan tới báo cáo kết quả kinh doanh trong trường hợp:",
+    "answer": "Hàng được xác định là tiêu thụ."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Có nghiệp vụ kinh tế phát sinh “Doanh nghiệp trả nợ người bán bằng tiền mặt 1000 USD” kế toán đã phản ánh như sau: Nợ TK Tiền mặt: 1000 USD/Có TK Phải trả người bán: 1000 USD. Bút toán sửa sai sẽ là:",
+    "answer": "Nợ TK Phải trả người bán 1000 USD/Có TK Tiền mặt 1000 USD"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Ngày 01/6/N, khách hàng của DTD thông báo chưa trả được khoản nợ 15.000 USD và cam kết thanh toán bằng thương phiếu có thời hạn 5 tháng, lãi suất 12% 1 năm. Thương phiếu được ghi nhận theo phương pháp lãi riêng. Tại ngày 31/8/N, DTD mang chiết khấu tại ngân hàng với lãi suất 15%, kế toán tại DTD ghi:",
+    "answer": "Nợ TK Tiền 15.356,75 USD/Có TK Thương phiếu phải thu: 15.000/Có TK Doanh thu tiền lãi 356,75 USD"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Ngày 10/04/N Công ty A&B xuất một lô hàng hoá bán cho Công ty TXT. Hàng đã chuyển giao, công ty TXT đã ký nhận nợ và sẽ trả 60% tiền hàng vào 30/06/N, 40% còn lại vào ngày 30/07. Theo nguyên tắc cơ sở dồn tích, doanh thu của lô hàng trên được Công ty A&B ghi nhận vào:",
+    "answer": "Toàn bộ vào ngày 10/04/N"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Có bao nhiêu phương pháp ghi nhận kế toán thương phiếu phải thu?",
+    "answer": "Có 2 phương pháp;"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Khi xuất hàng bán trực tiếp cho khách hàng, nếu sử dụng phương pháp kiểm kê định kỳ trong quản lý hàng tồn kho, thì chỉ tiêu giá vốn hàng bán sẽ được ghi nhận khi:",
+    "answer": "kết thúc kỳ kế toán."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Công ty A áp dụng PP kê khai thường xuyên, bán một lô hàng cho khách hàng chưa thu tiền doanh thu là 10.000, giá vốn là 5.000, chi phí vận chuyển người mua chịu công ty đã thanh toán bằng tiền gửi ngân hàng. Kế toán cần ghi nhận những bút toán nào",
+    "answer": "3 bút toán: doanh thu, giá vốn hàng bán, khoản tiền chi hộ đã thanh toán bằng TGNH"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Ngày 2/1/N công ty thanh toán tiền thuê nhà cho cả năm 12.000 USD. Giả sử kỳ hạch toán và báo cáo theo quý. Cuối mỗi quý, kế toán sẽ thực hiện bút toán điều chỉnh:",
+    "answer": "Nợ TK Chi phí thuê nhà 3.000 USD/Có TK Tiền thuê nhà trả trước 3.000 USD"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Có nghiệp vụ kinh tế phát sinh tại công ty HTC “Doanh nghiệp trả nợ người bán bằng chuyển khoản 1500 USD” kế toán đã phản ánh như sau: Nợ TK Tiền gửi ngân hàng: 1500 USD/Có TK Phải trả người bán: 1500 USD. Bút toán sửa sai sẽ là:",
+    "answer": "Nợ TK Phải trả người bán 1500 USD/Có TK Tiền gửi ngân hàng 1500 USD"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Giá trị hao mòn của tài sản cố định sử dụng tại doanh nghiệp sẽ giảm nếu:",
+    "answer": "thanh lý tài sản cố định."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Ngày 1/3/N, Asus phát hành thương phiếu phải trả cam kết thanh toán khoản nợ $12.000 cho MN, lãi 8%/năm, thời hạn 5 tháng, ngày kí thương phiếu 1/3. Kế toán ghi nhận",
+    "answer": "Nợ TK Phải trả NB: $12.000, Có TK Thương phiếu phải trả: $12.000"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Đối tượng sử dụng thông tin kế toán không bao gồm:",
+    "answer": "Cơ quan hải quan"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Trường hợp nào sau đây làm tăng khoản “Nợ phải trả người bán” trên bảng cân đối kế toán?",
+    "answer": "Mua hàng chưa thanh toán 300 USD"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Hệ thống báo cáo tài chính của công ty KHÔNG bao gồm:",
+    "answer": "Báo cáo tình hình bán hàng"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Nguyên tắc giá phí phát biểu rằng:",
+    "answer": "Tài sản phải được ghi theo giá gốc của chúng"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Ngày 27 tháng 9, công ty MTJ chuyển 1.000 sản phẩm cho công ty ABB để vay ngắn hạn 105.000 USD thời hạn 2 tháng, với lãi suất 1%/tháng, chi phí kho bãi 300 USD/tháng. Ngày 27/11, MTJ trả nợ ABB và nhận hàng về, kế toán MTJ ghi:",
+    "answer": "Nợ TK Vay ngắn hạn: 105.000 USD Nợ TK Chi phí lãi vay: 2.100 USD\nNợ TK Chi phí lưu kho: 600 USD\nCó TK Tiền: 107.700 USD"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Đâu là mục tiêu của chuẩn mực kế toán quốc tế",
+    "answer": "Tạo “ngôn ngữ chung” cho việc thực hành kế toán ở các quốc gia khác nhau"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Ngày 8/1/N công ty mua bảo hiểm oto cho cả năm 6.000 USD, các bút toán điều chỉnh thực hiện cuối mỗi quý, vào 30/6/N Kế toán ghi:",
+    "answer": "Nợ TK Chi phí bảo hiểm 1.500 USD/Có TK Bảo hiểm trả trước 1.500 USD"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Tuyên bố nào dưới đây về các giả định kế toán là đúng?",
+    "answer": "Những giả định cơ bản giống như các nguyên tắc kế toán"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Đầu năm tài chính, công ty chi trả tiền thuê văn phòng cho cả năm\n24.000 USD. Công ty hạch toán và báo cáo theo từng tháng, chi phí hàng tháng sẽ ghi nhận chi phí là:",
+    "answer": "2.000 USD."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Khi cổ phiếu ưu đãi có tính tích lũy, cổ tức ưu đãi không được công bố trong một kỳ được coi là",
+    "answer": "Cổ tức còn thiếu"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Nhận định nào sau đây là đúng về kế toán quốc tế",
+    "answer": "Là bộ phận kế toán liên quan đến các doanh nghiệp đa quốc gia"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Chính phủ thiết lập các hệ thống,mục tiêu các quy trình quản lý. Mọi hoạt động của doanh nghiệp hướng tới thực hiện các mục tiêu của đất nước là đặc điểm của mô hình kế toán nào",
+    "answer": "Mô hình kế toán vĩ mô"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Số dư của tài khoản khấu hao lũy kế phản ánh:",
+    "answer": "giá trị hao mòn lũy kế của tài sản cố định."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Khi lập báo cáo, kế toán ghi nhầm một khoản mục “Phải thu khách hàng” 200 sang phần Nguồn vốn, sai sót này sẽ làm Tài sản và Nguồn vốn chênh lệch nhau:",
+    "answer": "Tài sản nhỏ hơn Nguồn vốn 400"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Các yếu tố ảnh hưởng đến khấu hao tài sản cố định:",
+    "answer": "nguyên giá và giá trị thu hồi ước tính."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Nhận định nào dưới đây là SAI?",
+    "answer": "Công ty phải áp dụng chung 1 phương pháp khấu hao cho tất cả các Tài sản cố định."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Công ty Brother mua thiết bị vào ngày 10 tháng 1 năm 2011, với chi phí tổng hoá đơn 30.000 USD. Thời gian sử dụng hữu ích ước tính 5 năm. Gía trị thu hồi ước tính là 1.000 USD. Số tiền khấu hao lũy kế 31 tháng 12 năm 2012, nếu được sử dụng, phương pháp khấu hao đều là:",
+    "answer": "11.600 USD."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Công ty HTD mua hàng nhập kho trị giá 340.000 USD. Công ty thanh toán luôn bằng tiền mặt 140.000 USD. Số tiền còn lại chưa trả chậm theo điều kiện thanh toán 2/15, n/60. Biết nghiệp vụ trên phát sinh ngày 05/09/200N. Theo phương pháp giá thuân, giá trị hàng tồn kho được ghi nhận trên sổ sách kế toán là:",
+    "answer": "336.000 USD"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Phương pháp nào không sử dụng để ghi nhận kế toán thương phiếu phải thu?",
+    "answer": "Không phương án nào đúng"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Nếu áp dụng tính khấu hao theo phương pháp làm tròn nửa năm thì một thiết bị công ty mua và đưa vào sử dụng ngày 3/5/2014, thì tài sản này trong năm 2014 sẽ được trích khấu hao:",
+    "answer": "6 tháng."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Nhân tố nào sau đây không ảnh hưởng đến sự phát triển của kế toán quốc tế",
+    "answer": "Mục tiêu của doanh nghiệp"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Mục đích ban hành và sử dụng các nguyên tắc kế toán nhằm:",
+    "answer": "Tạo sự thống nhất trong việc sử dụng và trình bày thông tin kế toán"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Trường hợp nào sau đây làm tăng khoản “Phải thu khách hàng” trên bảng cân đối kế toán:",
+    "answer": "Bán hàng chưa thu tiền 300 USD."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Khoản mục nào tính lưu động thấp hơn hàng hóa, thành phẩm?",
+    "answer": "Nguyên vật liệu."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Đầu năm tài chính, công ty chi trả tiền thuê văn phòng cho cả năm 24.000 USD. Công ty hạch toán và báo cáo theo từng quý, chi phí hàng quý sẽ ghi nhận chi phí là:",
+    "answer": "6.000 USD."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Doanh nghiệp được tặng một ô tô trị giá 7.000 USD sử dụng cho hoạt động kinh doanh, kế toán sẽ ghi:",
+    "answer": "Nợ TK Tài sản cố định/Có TK\nDoanh thu được biếu tặng."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Đặc điểm tổ chức kinh doanh (các loại hình) của doanh nghiệp thương mại là:",
+    "answer": "Công ty bán buôn; Công ty bán lẻ; Công ty kinh doanh tổng hợp."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Nếu áp dụng tính khấu hao theo phương pháp làm tròn nửa năm thì một thiết bị công ty mua và đưa vào sử dụng ngày 3/5/2014, thì tài sản này trong năm 2014 sẽ được trích khấu hao:",
+    "answer": "6 tháng."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Công ty MJB đem một chiếc ô tô đi biếu tặng. Biết ô tô có nguyên giá 20.000 USD, đã hao mòn là 3.000 USD. Biết giá thị trường của ô tô lúc này là 15.000 USD. Khoản lỗ khi đem tài sản đi biếu tặng được kế toán ghi:",
+    "answer": "Nợ TK Chi phí về biếu tặng: 2.000 USD."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Ngày 15/1/2014, công ty MTJ chuyển hàng cho đại lý gửi bán. Ngày 15/1/2014, đại lý nhận được hàng và bán được số hàng trên vào ngày 7/2/2014. Ngày 15/2/2014, MTJ nhận được báo cáo bán hàng của đại lý. Theo phương pháp kiểm kê định kỳ, kế toán MTJ sẽ tiến hành ghi nhận giá vốn tại ngày:",
+    "answer": "Cuối kì"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Ngày 31/1/N, Mit tính lãi thương phiếu phải thu khách hàng ABB trong tháng 1 tháng 400 USD. Kế toán Mit ghi:",
+    "answer": "Nợ TK Lãi thương phiếu phải thu 400 USD/Có TK Thu nhập lãi thương phiếu 400 USD"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Phương pháp khấu hao nào sẽ được ưu tiên sử dụng cho mục đích lập báo cáo tài chính?",
+    "answer": "Phương pháp khấu hao đều."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Công ty ABB tiến hành thanh lý một nhà xưởng có nguyên giá 10.000&, đã hao mòn 8.000 USD. Chi phí phá dỡ nhà xưởng để phục vụ thanh lý đơn vị đã chi ra là 300 USD. Khoản lỗ về thanh lý được kế toán ghi nhận như sau:",
+    "answer": "Nợ TK Lỗ do thanh lý tài sản: 2.300 USD."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Khấu hao là một quá trình:",
+    "answer": "phân bổ giá trị."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Quy định nào dưới đây không đúng với cổ phiếu quỹ",
+    "answer": "được nhận cổ tức"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Khoản mục nào tính lưu động cao hơn hàng tồn kho?",
+    "answer": "Tài sản cố định."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Công ty HILI mua một lô hàng với giá 250.000 USD, thanh toán ngay bằng tiền. Điều kiện tín dụng 4/15, n/60. Giá trị lô hàng nhập kho theo phương pháp giá trị gộp là:",
+    "answer": "240.000 USD"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Do bị thiên tai, một thiết bị bị hư hỏng hoàn toàn, thiết bị này có nguyên giá 25.000 USD, đã hao mòn 20.000 USD. Công ty được cơ quan bảo hiểm bồi thường 2.000 USD. Kế toán sẽ ghi nhận:",
+    "answer": "Nợ TK Hao mòn luỹ kế: 20.000 USD\nNợ TK Tiền: 2.000 USD\nNợ TK Lỗ thải hồi tài sản cố định: 3.000 USD\nCó TK tài sản cố định: 25.000 USD"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Số tiền chi trả cho việc sửa chữa nâng cấp tài sản cố định sẽ được ghi nhận:",
+    "answer": "ghi Nợ TK Tài sản cố định."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Khi lập báo cáo, kế toán ghi nhầm một khoản mục “Phải thu khách hàng” 400 sang thành phải trả người bán, sai sót này sẽ làm Tài sản và Nguồn vốn chênh lệch nhau:",
+    "answer": "Tài sản nhỏ hơn Nguồn vốn 800"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Tài sản cố định là đất đai không phải trích khấu hao."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Ngày 15/1/2014, công ty MTJ chuyển hàng cho đại lý gửi bán. Ngày 15/1/2014, đại lý nhận được hàng và bán được số hàng trên vào ngày 7/2/2014. Ngày 15/2/2014, MTJ nhận được báo cáo bán hàng của đại lý. Theo phương pháp kê khai thường xuyên, kế toán MTJ sẽ tiến hành ghi nhận giá vốn tại ngày",
+    "answer": "15/2/2014"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Ngày 5/1/2014, Doanh nghiệp bán lô hàng trị giá 3.000 USD cho khách hàng theo phương thức tiêu thụ với quyền trả lại hàng. Doanh nghiệp ghi nhận doanh thu ước tính tại ngày 5/1 là 2.500 USD. Ngày 31/3/2014, hết thời hạn trả lại hàng, doanh nghiệp tổng hợp số hàng khách hàng thực trả của lô hàng trên là 700 USD. Do vậy, kế toán sẽ phải điều chỉnh doanh thu hàng trả lại:",
+    "answer": "Tăng 200 USD"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Chi phí lắp đặt, chạy thử dây chuyền sản xuất được tính vào:",
+    "answer": "giá trị dây chuyền sản xuất."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Trích khấu hao tài sản cố định sẽ làm ảnh hưởng:",
+    "answer": "tăng giá trị hao mòn và giảm giá trị còn lại."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Hàng tồn kho trong doanh nghiệp thương mại KHÔNG bao gồm:",
+    "answer": "sản phẩm chế biến dở dang."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Một công ty X có giá trị hàng tồn kho đầu kỳ là 10.000 USD, hàng mua về trong kỳ là 30.000 USD, giá trị hàng tồn kho cuối kỳ là 5.000 USD. Giá vốn hàng bán là:",
+    "answer": "35.000"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Khoản lãi từ thanh lý, nhượng bán tài sản cố định sẽ được kế toán trình bày như:",
+    "answer": "khoản mục doanh thu trên báo cáo thu nhập."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Trong điều kiện giá cả thị trường có xu hướng tăng, chỉ tiêu lợi nhuận thuần khi tính theo phương pháp LIFO sẽ:",
+    "answer": "nhỏ hơn FIFO."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Mua nguyên vật liệu nhập kho, thanh toán bằng tiền tạm ứng:",
+    "answer": "Nợ TK Nguyên vật liệu/Có TK Tạm ứng."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Đầu năm tài chính, công ty chi trả tiền thuê văn phòng cho cả năm\n24.000 USD. Công ty hạch toán và báo cáo theo từng quý, chi phí hàng quý sẽ ghi nhận chi phí là:",
+    "answer": "6.000 USD."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Có tình hình vật liệu K tại công ty MEK như sau:",
+    "answer": "91.000 triệu đồng."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Công ty MTJ mua một dây chuyền sản xuất trị giá 10.000 USD. Tiền vận chuyển 1.000 USD phát sinh sẽ được kế toán ghi nhận:",
+    "answer": "Nợ TK Tài sản cố định."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "IASB (International Accounting Standards Board) là:",
+    "answer": "Hội đồng chuẩn mực tế toán quốc tế"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Theo kế toán Mỹ, nếu công ty mua 1 thiết bị vào ngày 12/3/2013, nguyên giá của tài sản này là 49.000 USD, giả sử giá trị thu hồi ước tính bằng 1.000 USD. Thời gian sử dụng ước tính là 10 năm. Công ty sử dụng phương pháp khấu hao đều, thì mức khấu hao của tài sản này trong tháng 3/2013 là:",
+    "answer": "400 USD."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Các chi phí phát sinh trong quá trình sửa chữa lớn Tài sản cố định sẽ được ghi nhận",
+    "answer": "Nợ TK Khấu hao lũy kế."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Trường hợp nào sau đây làm tăng khoản “Phải thu khách hàng” trên bảng cân đối kế toán:",
+    "answer": "Bán hàng chưa thu tiền 300 USD."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Giá trị cổ phiếu quỹ được trình bày trên bảng cân đối kết toán theo cách nào dưới đây?",
+    "answer": "Ghi vào phần vốn chủ sở hữu thành một chỉ tiêu riêng nhưng ghi âm"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Ngày 28/12/N công ty nhận trước 24.000 USD của một hợp đồng thực hiện trong 12 tháng, có hiệu lực từ 1/1/N+1. Giả sử kỳ hạch toán và báo cáo theo quý. Ngày 31/5/N+1, kế toán ghi:",
+    "answer": "Không ghi bút toán điều chỉnh"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Ngày 1/2/N, Công ty HTD vay ngân hàng 100.000 USD trong 5 năm để mua ô tô. Lãi suất ngân hàng 12%/năm. Tiền gốc được trả 1 lần vào ngày đáo hạn. Xác định khoản tiền lãi ngân hàng được trả định kỳ theo tháng?",
+    "answer": "1000 USD"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Số dư của tài khoản khấu hao lũy kế phản ánh:",
+    "answer": "giá trị hao mòn lũy kế của tài sản cố định."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Các chi phí phát sinh trong quá trình xây dựng cơ bản để hình thành một tài sản cố định ở đơn vị sẽ được kế toán ghi:",
+    "answer": "Nợ TK Xây dựng cơ bản."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Nhận định nào dưới đây là SAI?",
+    "answer": "Công ty phải áp dụng chung 1 phương pháp khấu hao cho tất cả các Tài sản cố định."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Các yếu tố ảnh hưởng đến khấu hao tài sản cố định:",
+    "answer": "nguyên giá và giá trị thu hồi ước tính."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Ngày 1/2/N, Công ty HTD vay của ngân hàng số tiền 30.000 USD, cam kết trả nợ trong 60 ngày, lãi suất 12%/năm. Ngân hàng chiết khấu ngay tại thời điểm vay tiền. Số tiền công ty được nhận là bao nhiêu?",
+    "answer": "29.400 USD"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Công ty tiến hành nhượng bán một máy photocopy có nguyên giá\n8.000 USD, đã hao mòn 3.000 USD. Chi phí sửa chữa trước khi nhượng bán là 200 USD. Khách hàng đồng ý mua với giá 5.500 USD. Biết khấu hao bổ sung trước khi nhượng bán là 100. Vậy hoạt động nhượng bán này phát sinh:",
+    "answer": "Lãi 400 USD."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Thông tin về tiền tồn đầu kỳ, luồng tiền vào, ra và tiền tồn cuối kỳ được thể hiện trên Báo cáo tài chính:",
+    "answer": "Báo cáo lưu chuyển tiền tệ."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Số tiền chi trả cho việc sửa chữa nâng cấp tài sản cố định sẽ được ghi nhận:",
+    "answer": "ghi Nợ TK Tài sản cố định."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Có bao nhiêu phương pháp sử dụng để xác định dự phòng nợ xấu",
+    "answer": "Không phương án nào đúng"
+  }
+]

@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Qui mô nợ công so với GPD của Việt Nam năm 2017",
+    "answer": "61,3%"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Các khoản vay nợ địa phương",
+    "answer": "Sự chuyển giao tài chính giữa các cấp ngân sách"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Đơn vị nào sau đây thuộc bộ máy quản lý nợ công ở Việt Nam",
+    "answer": "HDND và UDND cấp tỉnh"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Quỹ bảo hiểm xã hội thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ dự trữ"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Hệ thống NSNN ở Pháp có:",
+    "answer": "Hai cấp ngân sách"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Kho bạc Nhà nước không có chức năng nào sau đây",
+    "answer": "Phát hành tiền"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Cân đối ngân sách không có đặc điểm nào sau đây",
+    "answer": "Cân bằng thu chi ngân sách nhà nước là tuyệt đối"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây dễ dẫn tới nợ công:",
+    "answer": "Thâm hụt NSNN"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Khi phân cấp ngân sách nhà nước dựa trên nguyên tắc:",
+    "answer": "Đảm bảo vai trò chủ đạo của NSTW"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSTW hưởng 100%",
+    "answer": "Thuế bảo vệ môi trường hàng nhập khẩu"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Điều kiện nào sau đây không phải là điều kiện để thực hiện cam kết chi",
+    "answer": "Đề nghị cam kết chi năm ngân sách hiện hành của đơn vị sử dụng ngân sách phải gửi đến Bộ Tài chính chậm nhất đến hết ngày 25 tháng 01 năm sau"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không chính xác",
+    "answer": "Cân đối ngân sách nhà nước mang tính định tính và tiên liệu"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Cơ cấu nợ nước ngoài trong nợ công của Việt Nam năm 2020",
+    "answer": "65,1%"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây không phải là đặc điểm của quỹ TCNN ngoài NS",
+    "answer": "Hoạt động vì mục tiêu tối đa hóa lợi nhuận"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Nợ công ở Việt Nam được qui định là",
+    "answer": "Nợ chính phủ, nợ chính phủ bảo lãnh và nợ của chính quyền địa phương"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Khoản nợ nào sau đây không bao gồm trong nợ công, theo quan niệm của Việt Nam",
+    "answer": "Nợ của doanh nghiệp tư nhân"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Lý thuyết nào cho rằng sự cân bằng ngân sách nhà nước sẽ duy trì trong khuôn khổ một chu kỳ kinh tế",
+    "answer": "Lý thuyết về ngân sách chu kỳ"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Nguyên tắc, tiêu chí và định mức phân bổ ngân sách thuộc thẩm quyền của",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSTW hưởng 100%",
+    "answer": "Thuế giá trị gia tăng hàng nhập khẩu"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu phân chia giữa NSTW và NSĐP",
+    "answer": "Thuế thu nhập doanh nghiệp trừ thuế thu nhập doanh nghiệp từ hoạt động thăm dò khai thác dầu khí"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Trong kiểm soát thanh toán chi đầu tư, thanh toán trước kiểm soát sau được được áp dụng cho khoản chi nào?",
+    "answer": "Thanh toán tạm ứng"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Quỹ bảo vệ và phát triển rừng thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ hỗ trợ"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Kho bạc NN cấp nào sau đây không được tổ chức trong bộ máy KBNN",
+    "answer": "KB cấp Tỉnh"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu phân chia giữa NSTW và NSĐP",
+    "answer": "Thuế thu nhập cá nhân"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Kho bạc Nhà nước có chức năng nào sau đây",
+    "answer": "Tổng kế toán NN"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Quỹ hỗ trợ DNNVV thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ hỗ trợ"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Đơn vị nào sau đây thuộc bộ máy quản lý nợ công ở Việt Nam",
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Điều kiện nào để được thanh toán chi thường xuyên tại KBNN",
+    "answer": "Có trong dự toán NSNN, được thủ trưởng quyết định chi, đúng chế độ tiêu chuẩn, định mức, đủ hồ sơ chứng từ thanh toán"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Tăng thâm hụt ngân sách nhà nước sẽ",
+    "answer": "Tăng lãi suất và giảm cung vốn trên thị trường"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Lý thuyết hạn chế tiêu dùng trong thời chiến cho rằng",
+    "answer": "Việc hạn chế tiêu dùng sẽ khiến người dân không chi tiêu hết thu nhập khả dụng của mình"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Khi phân cấp ngân sách nhà nước dựa trên nguyên tắc:",
+    "answer": "Phân định rõ nhiệm vụ thu chi của từng cấp ngân sách"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Phân cấp ngân sách nhà nước không dựa trên nguyên tắc nào sau đây",
+    "answer": "Phân định rõ nhu cầu chi tiêu của từng cấp ngân sách"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Công cụ nào sau đây là công cụ quản lý nợ công",
+    "answer": "Chỉ tiêu an toàn nợ công"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Tỷ lệ bội chi ngân sách so với GDP của Việt Nam năm 2015 là bao nhiêu",
+    "answer": "6,28%"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Ý nào sau đây không phải là ý nghĩa của kiểm soát chi qua KBNN",
+    "answer": "Góp phần hạn chế nợ xấu trong hoạt động tín dụng"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Thâm hụt chu kỳ",
+    "answer": "Là các khoản thâm hụt gây ra bởi chính sách thuế suất hay trợ cấp của chính phủ"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Tính đến 2021, quốc gia nào là cho Việt Nam vay nợ chính thức nhiều thứ 3",
+    "answer": "Pháp"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Quyết toán NSNN có số liệu sau: - Tổng chi NSTW (không bao gồm chi trả nợ gốc): 867 nghìn tỷ đồng - Tổng thu NSTW: 735 nghìn tỷ đồng - Tổng thu NSĐP: 972 nghìn tỷ đồng - Tổng chi NSĐP (bao gồm cả chi trả nợ gốc 165 nghìn tỷ đồng): 1.215 nghìn tỷ đồng Hãy xác định bội chi NSNN",
+    "answer": "210 nghìn tỷ đồng"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây là đặc điểm của quỹ TCNN ngoài NS",
+    "answer": "Nguồn vốn hình thành quỹ từ sự đóng góp của các tổ chức và cá nhân, hỗ trợ từ NSNN"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Tỷ lệ bội chi ngân sách so với GDP của Việt Nam năm 2017 là bao nhiêu",
+    "answer": "2,74%"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Tiền thu từ xử phạt vi phạm hành chính, phạt, tịch thu khác theo quy định của pháp luật do các cơ quan nhà nước địa phương quyết định thực hiện xử phạt, tịch thu thuộc",
+    "answer": "NSĐP hưởng 100%"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Rủi ro nào sau đây không xuất phát từ nợ công",
+    "answer": "Rủi ro chiến tranh thương mại"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Phân bổ nguồn thu là",
+    "answer": "Phân phối các nguồn tài chính trong các cấp chính quyền khác nhau"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Theo thông lệ quốc tế, bội chi NSNN được đo lường bằng",
+    "answer": "Tổng chi (bao gồm chi thường xuyên, chi đầu tư phát triền và cho vay thuần) – Tổng thu (bao gồm thu thường xuyên, thu về vốn)"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Quỹ dự trữ quốc gia được hình thành chủ yếu từ nguồn nào?",
+    "answer": "Ngân sách nhà nước"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Nguyên tắc kiểm soát, thanh toán chi thường xuyên NSNN qua KBNN không bao gồm nguyên tắc nào sau đây",
+    "answer": "Một số khoản chi đặc biệt không cần phải được kiểm tra, kiểm soát"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Theo luật ngân sách nhà nước hiện hành, mức dư nợ vay của thành phố Hồ Chí Minh không vượt quá bao nhiêu % số thu ngân sách địa phương được hưởng theo phân cấp",
+    "answer": "60%"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Tính đến 2021, quốc gia nào là cho Việt Nam vay nợ chính thức nhiều thứ 2",
+    "answer": "Hàn Quốc"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Theo quan niệm nợ công của Việt Nam, khoản nợ nào sau đây không nằm trong nợ công:",
+    "answer": "Nợ của khu vực tư nhân"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Luật Ngân sách nhà nước năm 2015 có hiệu lực từ",
+    "answer": "Năm 2017"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Hệ thống cơ quan nhà nước ở Pháp hiện đang được tổ chức theo hình thức",
+    "answer": "Nhà nước đơn nhất"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSĐP hưởng 100%",
+    "answer": "Thuế giá trị gia tăng"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Các khoản chuyển giao liên chính quyền là",
+    "answer": "Sự chuyển giao tài chính giữa các cấp ngân sách"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây không được áp dụng đối với kiểm soát cam kết chi",
+    "answer": "các khoản cam kết chi được phép chuyển nguồn sang năm sau"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Kho bạc Nhà nước có chức năng nào sau đây",
+    "answer": "Huy động vốn cho NSNN"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Hệ thống NSNN ở Việt Nam có:",
+    "answer": "Hai cấp ngân sách"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Phần chênh lệch dương giữa thu ngân sách và chi ngân sách được gọi là",
+    "answer": "Thặng dư ngân sách"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Những hệ quả nào sau đây không phải là lợi ích của nợ công",
+    "answer": "Lạm phát"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Vay nợ trong nước để bù đắp thâm hụt ngân sách sẽ khiến",
+    "answer": "Gây ra gánh nặng nợ công"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Nguyên nhân nào sau đây không dẫn tới nợ công",
+    "answer": "Lạm phát"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Nguyên tắc kiểm soát, thanh toán chi thường xuyên NSNN qua KBNN không bao gồm nguyên tắc nào sau đây",
+    "answer": "Tất cả các khoản chi phải thanh toán qua hệ thống NHTM"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSTW hưởng 100%",
+    "answer": "Thuế xuất nhập khẩu"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Đơn vị nào sau đây thuộc bộ máy quản lý nợ công ở Việt Nam",
+    "answer": "Kiểm toán NN"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Kho bạc NN được tổ chức làm mấy cấp",
+    "answer": "3"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Cam kết chi NSNN được hiểu là",
+    "answer": "đơn vị sử dụng ngân sách tạo ra nghĩa vụ nợ và nghĩa vụ nợ đó được trang trải bởi khoản kinh phí dành sẵn từ dự toán NSNN được giao hàng năm"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Có mấy yếu tố chính được sử dụng để phân loại nợ công",
+    "answer": "1"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Tiêu chí nào sau đây được sử dụng để phân loại quỹ TCNN ngoài NS",
+    "answer": "Mục đích sử dụng quỹ"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Cơ cấu nợ trong nước trong nợ công của Việt Nam năm 2020",
+    "answer": "64,5%"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Khái niệm nào sau đây phù hợp với quỹ bảo vệ môi trường",
+    "answer": "là tổ chức tài chính trực thuộc Bộ tài nguyên và môi trường để hỗ trợ hoạt động bảo vệ môi trường"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Khái niệm nào sau đây phù hợp nhất với quỹ BHXH",
+    "answer": "tập hợp những đóng góp bằng tiền của những bên tham gia để chi trả cho những người tham gia khi họ bị giảm hoặc mất khả năng lao động"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSTW hưởng 100%",
+    "answer": "Thuế giá trị gia tăng hàng nhập khẩu"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSTW hưởng 100%",
+    "answer": "Thuế Tiêu thụ đặc biệt hàng nhập khẩu"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây không phải là nguyên tắc quản lý quỹ BHXH",
+    "answer": "Hoạt động vì mục tiêu tối đa hóa lợi nhuận"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Khi phân cấp ngân sách nhà nước dựa trên nguyên tắc:",
+    "answer": "Phù hợp với phân cấp quản lý kinh tế, xã hội, tổ chức bộ máy hành chính"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSĐP hưởng 100%",
+    "answer": "Lệ phí trước bạ"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Tính đến 2020, quốc gia nào là cho Việt Nam vay nợ chính thức nhiều nhất",
+    "answer": "Nhật Bản"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Hệ thống cơ quan nhà nước ở Đức hiện đang được tổ chức theo hình thức",
+    "answer": "Nhà nước liên bang"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Điều kiện nào sau đây không phải là điều kiện thực hiện thanh toán chi thường xuyên tại KBNN",
+    "answer": "Được Thủ tướng duyệt chi"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Kho bạc Nhà nước không có chức năng nào sau đây",
+    "answer": "Trả nợ vay"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Nội dung nào thuộc nội dung phân cấp ngân sách nhà nước",
+    "answer": "Phân cấp nguồn thu giữa các cấp ngân sách"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSTW hưởng 100%",
+    "answer": "Thuế Tiêu thụ đặc biệt hàng nhập khẩu"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Điểm thay đổi trong luật ngân sách nhà nước năm 2015 so với luật NSNN năm 2002 là gì",
+    "answer": "Bội chi ngân sách bao gồm cả bội chi ngân sách trung ương và bội chi ngân sách địa phương"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Hiện nay có bao nhiêu hình thức bảo hiểm XH được quỹ BHXH cung cấp",
+    "answer": "3"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Cơ quan có thẩm quyền quyết định ngân sách địa phương",
+    "answer": "Hội đồng nhân dân"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Hệ thống cơ quan nhà nước ở Trung Quốc hiện đang được tổ chức theo hình thức",
+    "answer": "Nhà nước đơn nhất"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Tổ chức phân cấp ngân sách nhà nước bắt nguồn từ:",
+    "answer": "Tổ chức hệ thống chính quyền nhà nước"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Thâm hụt NSNN tác động tới cán cân thương mại như thế nào",
+    "answer": "Thâm hụt NSNN khiến lãi suất thị trường tăng lên, giá trị đồng nội tăng lên dẫn đến tình trạng nhập siêu"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Tính đến 2021, quốc gia nào là cho Việt Nam vay nợ chính thức nhiều thứ 4",
+    "answer": "Đức"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Hệ thống cơ quan nhà nước ở Việt Nam hiện đang được tổ chức theo hình thức",
+    "answer": "Nhà nước đơn nhất"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Nguyên nhân dẫn tới nợ công",
+    "answer": "Chi NS nhiều hơn thu NS"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Vay nợ trong nước để bù đắp thâm hụt ngân sách sẽ khiến",
+    "answer": "Gây ra gánh nặng nợ công"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Những vấn đề nào sau đây không phải là bất cập trong quản lý quỹ TCNN ngoài NS",
+    "answer": "Nhiều quỹ có nhiệm vụ chi trùng lắp với nhau"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Hình thức kiểm soát thanh toán nào được sử dụng trong kiểm soát thanh toán chi đầu tư tại KBNN",
+    "answer": "Kiểm soát trước thanh toán sau và thanh toán trước kiểm soát sau"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây không phải là nguyên tắc quản lý quỹ bảo vệ môi trường",
+    "answer": "Hoạt động vì mục tiêu tối đa hóa lợi nhuận"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Phát hành tiền để bù đắp thâm hụt ngân sách khiến",
+    "answer": "Đồng nội tệ mất giá và gia tăng lạm phát"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Kho bạc Nhà nước không có chức năng nào sau đây",
+    "answer": "Phát hành tiền"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Kho bạc NN cấp nào sau đây không được tổ chức trong bộ máy KBNN",
+    "answer": "KB cấp Tỉnh"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Có bao nhiêu hình thức kiểm soát thanh toán chi đầu tư",
+    "answer": "2"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Cơ cấu nợ nước ngoài trong nợ công của Việt Nam năm 2020",
+    "answer": "65,1%"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Quỹ tài chính nào sau đây không phải là quỹ TCNN ngoài NS",
+    "answer": "Quỹ đầu tư tài chính vinacapital"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Vì sao tỷ lệ bội chi ngân sách năm 2020 tăng mạnh so với năm 2019",
+    "answer": "Do nhiều doanh nghiệp phải đóng cửa tạm dừng hoạt động để thực hiện cách ly xã hội"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Khái niệm nào sau đây phù hợp nhất với quỹ BHXH",
+    "answer": "tập hợp những đóng góp bằng tiền của những bên tham gia để chi trả cho những người tham gia khi họ bị giảm hoặc mất khả năng lao động"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Thâm hụt NSNN tác động tới lãi suất như thế nào",
+    "answer": "Khi xảy ra thâm hụt, nhà nước phải đi vay để bù đắp khiến lãi suất tăng lên"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Hình thức nào sau đây không được sử dụng để vay trong nước",
+    "answer": "Vay ODA"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Nợ công ở Việt Nam được qui định là",
+    "answer": "Nợ chính phủ, nợ chính phủ bảo lãnh và nợ của chính quyền địa phương"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Điều kiện nào sau đây không phải là điều kiện để thực hiện cam kết chi",
+    "answer": "Đề nghị cam kết chi năm ngân sách hiện hành của đơn vị sử dụng ngân sách phải gửi đến Bộ Tài chính chậm nhất đến hết ngày 25 tháng 01 năm sau"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Tính đến 2021, quốc gia nào là cho Việt Nam vay nợ chính thức nhiều thứ 4",
+    "answer": "Đức"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Nguyên tắc, tiêu chí và định mức phân bổ ngân sách thuộc thẩm quyền của",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Hệ thống cơ quan nhà nước ở Hoa Kỳ hiện đang được tổ chức theo hình thức",
+    "answer": "Nhà nước liên bang"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Hệ thống cơ quan nhà nước ở Việt Nam hiện đang được tổ chức theo hình thức",
+    "answer": "Nhà nước đơn nhất"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây không phải là nguyên tắc quản lý quỹ BHXH",
+    "answer": "Hoạt động vì mục tiêu tối đa hóa lợi nhuận"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Có bao nhiêu hình thức kiểm soát thanh toán chi thường xuyên",
+    "answer": "2"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Quỹ bảo hiểm xã hội thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ dự trữ"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Thuế thu nhập cá nhân là khoản thu thuộc",
+    "answer": "NS phân chia giữa TW và ĐP"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Quỹ dự trữ quốc gia thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ dự trữ"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Phương thức nào sau đây không được Chính phủ sử dụng để vay nợ",
+    "answer": "Phát hành tiền"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Kho bạc Nhà nước không có chức năng nào sau đây",
+    "answer": "Trả nợ vay"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Phương thức nào sau đây không được sử dụng để vay nợ nước ngoài",
+    "answer": "Phát hành tín phiếu"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Những hệ quả nào sau đây được coi là lợi ích của nợ công",
+    "answer": "Tận dụng nguồn vốn vay rẻ từ nước ngoài"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Điểm thay đổi trong luật ngân sách nhà nước năm 2015 so với luật NSNN năm 2002 là gì",
+    "answer": "Bội chi ngân sách bao gồm cả bội chi ngân sách trung ương và bội chi ngân sách địa phương"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Nội dung nào thuộc nội dung phân cấp ngân sách nhà nước",
+    "answer": "Phân cấp nguồn thu giữa các cấp ngân sách"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Tính đến 2021, quốc gia nào là cho Việt Nam vay nợ chính thức nhiều thứ 2",
+    "answer": "Hàn Quốc"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSĐP hưởng 100%",
+    "answer": "Lệ phí trước bạ"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Tác động nào sau đây được coi là tác động tiêu cực của nợ công",
+    "answer": "Tạo gánh nặng nợ cho thế hệ tương lai"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Hệ thống cơ quan nhà nước ở Trung Quốc hiện đang được tổ chức theo hình thức",
+    "answer": "Nhà nước đơn nhất"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Quỹ bảo vệ và phát triển rừng thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ hỗ trợ"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây là đặc điểm của quỹ TCNN ngoài NS",
+    "answer": "Nguồn vốn hình thành quỹ từ sự đóng góp của các tổ chức và cá nhân, hỗ trợ từ NSNN"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Trong kiểm soát thanh toán chi đầu tư, thanh toán trước kiểm soát sau được được áp dụng cho khoản chi nào?",
+    "answer": "Thanh toán tạm ứng"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Cơ cấu nợ nước ngoài trong nợ công của Việt Nam năm 2010",
+    "answer": "59,7%"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Hệ thống NSNN ở Nga có:",
+    "answer": "Ba cấp ngân sách"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Nợ công có thể được phân loại như thế nào?",
+    "answer": "Nợ trong nước và nợ nước ngoài"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Khi phân cấp ngân sách nhà nước dựa trên nguyên tắc:",
+    "answer": "Phân định rõ nhiệm vụ thu chi của từng cấp ngân sách"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Quỹ hỗ trợ DNNVV thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ hỗ trợ"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Hình thức kiểm soát thanh toán nào được sử dụng trong kiểm soát thanh toán chi thường xuyên tại KBNN",
+    "answer": "Kiểm soát trước thanh toán sau và thanh toán trước kiểm soát sau"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Khi phân cấp ngân sách nhà nước dựa trên nguyên tắc:",
+    "answer": "Đảm bảo vai trò chủ đạo của NSTW"
+  },
+  {
+    "id": 136,
+    "premium": true,
+    "question": "Quỹ tài chính nào sau đây không phải là quỹ TCNN ngoài NS",
+    "answer": "Quỹ đầu tư mạo hiểm"
+  },
+  {
+    "id": 137,
+    "premium": true,
+    "question": "Nguyên nhân dẫn tới nợ công",
+    "answer": "Chi NS nhiều hơn thu NS"
+  },
+  {
+    "id": 138,
+    "premium": true,
+    "question": "Điểm thay đổi trong luật ngân sách nhà nước năm 2015 so với luật NSNN năm 2002 là gì",
+    "answer": "Chi ngân sách nhà nước không bao gồm chi trả gốc"
+  },
+  {
+    "id": 139,
+    "premium": true,
+    "question": "Qui mô nợ công so với GPD của Việt Nam năm 2019",
+    "answer": "56,1%"
+  },
+  {
+    "id": 140,
+    "premium": true,
+    "question": "Vì sao tỷ lệ bội chi ngân sách năm 2020 tăng mạnh so với năm 2019",
+    "answer": "Do gia tăng chi tiêu đặc biệt cho y tế, trợ cấp xã hội và hỗ trợ doanh nghiệp, người dân"
+  },
+  {
+    "id": 141,
+    "premium": true,
+    "question": "Theo thông lệ quốc tế, bội chi NSNN được đo lường bằng",
+    "answer": "Tổng chi (bao gồm chi thường xuyên, chi đầu tư phát triền và cho vay thuần) – Tổng thu (bao gồm thu thường xuyên, thu về vốn)"
+  },
+  {
+    "id": 142,
+    "premium": true,
+    "question": "Tỷ lệ bội chi ngân sách so với GDP của Việt Nam năm 2015 là bao nhiêu",
+    "answer": "6,28%"
+  },
+  {
+    "id": 143,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây không phải là nguyên tắc quản lý nợ công",
+    "answer": "Không thực hiện minh bạch trong quản lý nợ công"
+  },
+  {
+    "id": 144,
+    "premium": true,
+    "question": "Các khoản chuyển giao liên chính quyền là",
+    "answer": "Sự chuyển giao tài chính giữa các cấp ngân sách"
+  },
+  {
+    "id": 145,
+    "premium": true,
+    "question": "Hệ thống NSNN ở Pháp có:",
+    "answer": "Hai cấp ngân sách"
+  },
+  {
+    "id": 146,
+    "premium": true,
+    "question": "Phạm vi của kiểm soát chi thường xuyên không bao gồm khoản chi sau",
+    "answer": "Chi đầu tư"
+  },
+  {
+    "id": 147,
+    "premium": true,
+    "question": "Tiêu chí nào sau đây được sử dụng để phân loại quỹ TCNN ngoài NS",
+    "answer": "Khả năng sinh lời của quỹ"
+  },
+  {
+    "id": 148,
+    "premium": true,
+    "question": "Chính phủ không thể khắc phục thâm hụt ngân sách bằng cách",
+    "answer": "Đi vay ngân hàng thương mại dưới hình thức cấp tín dụng"
+  },
+  {
+    "id": 149,
+    "premium": true,
+    "question": "Hình thức vay chủ yếu được các nước đang phát triển sử dụng khi vay nước ngoài là",
+    "answer": "Vay ODA và vay ưu đãi"
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSTW hưởng 100%",
+    "answer": "Thuế bảo vệ môi trường hàng nhập khẩu"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Phân cấp ngân sách nhà nước không dựa trên nguyên tắc nào sau đây",
+    "answer": "Phân định rõ nhu cầu chi tiêu của từng cấp ngân sách"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSĐP hưởng 100%",
+    "answer": "Thuế giá trị gia tăng"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Hệ thống NSNN ở Việt Nam có:",
+    "answer": "Hai cấp ngân sách"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Phân bổ nguồn thu là",
+    "answer": "Phân phối các nguồn tài chính trong các cấp chính quyền khác nhau"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu phân chia giữa NSTW và NSĐP",
+    "answer": "Thuế thu nhập doanh nghiệp trừ thuế thu nhập doanh nghiệp từ hoạt động thăm dò khai thác dầu khí"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "BHXH sẽ không chi trả cho người tham gia bảo hiểm trong trường hợp nào?",
+    "answer": "Tai nạn giao thông"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Khi áp dụng hình thức thanh toán trước kiểm soát sau khi kiểm soát chi tại KBNN, bao nhiêu ngày sau khi thanh toán phải hoàn thành việc kiểm soát",
+    "answer": "02 ngày làm viêc"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSTW hưởng 100%",
+    "answer": "Thuế giá trị gia tăng hàng nhập khẩu"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Quỹ dự đầu tư phát triển thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ chuyên dụng"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Nguyên tắc kiểm soát, thanh toán chi thường xuyên NSNN qua KBNN không bao gồm nguyên tắc nào sau đây",
+    "answer": "Tất cả các khoản chi phải thanh toán qua hệ thống NHTM"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Tỷ lệ bội chi ngân sách so với GDP của Việt Nam năm 2017 là bao nhiêu",
+    "answer": "2,74%"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Điền vào chỗ trống: “Để thực hiện vay nợ trong nước hiệu quả, cần nghiên cứu một cách đầy đủ … và mức sống của dân cư, vấn đề …, thời hạn hoàn trả",
+    "answer": "Khả năng thu nhập, lãi suất huy động"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Lệ phí môn bài là khoản thu thuộc",
+    "answer": "NSĐP hưởng 100%"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Hệ thống NSNN ở Hoa Kỳ có:",
+    "answer": "Ba cấp ngân sách"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Kiểm soát chi NSNN qua KBNN không bao gồm hoạt động sau",
+    "answer": "Kiểm soát chi trả nợ"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Cam kết chi NSNS được áp dụng cho các khoản chi nào sau đây",
+    "answer": "Chi thường xuyên nằm trong dự toán NSNN được giao"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Tác động nào sau đây được coi là tác động tiêu cực của nợ công",
+    "answer": "Tạo gánh nặng nợ cho thế hệ tương lai"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Phạm vi của kiểm soát chi thường xuyên không bao gồm khoản chi sau",
+    "answer": "Chi cho hoạt động của Đảng CSVN"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Quỹ dự trữ quốc gia thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ dự trữ"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Điền vào chỗ trống trong nhận định sau: “Sự phục hồi kinh tế sẽ đem lại nguồn để ngân sách nhà nước trở về tình trạng cân bằng và đẩy lùi …”",
+    "answer": "Lạm phát"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Tiêu chí nào sau đây được sử dụng để phân loại quỹ TCNN ngoài NS",
+    "answer": "Khả năng sinh lời của quỹ"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Khi áp dụng hình thức thanh toán trước kiểm soát sau khi kiểm soát chi tại KBNN, bao nhiêu ngày sau khi thanh toán phải hoàn thành việc kiểm soát",
+    "answer": "02 ngày làm viêc"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Quản lý nợ công là quá trình …",
+    "answer": "Quản lý nợ công là một hệ thống các hoạt động quản lý bao gồm hoạt động vay, sử dụng vốn vay, trả nợ và nghiệp vụ quản lý nợ công"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Khái niệm nào sau đây là phù hợp nhất với quỹ dự trữ quốc gia",
+    "answer": "là quỹ được tích lũy từ NSNN, là nguồn dự trữ chiến lược của quốc gia nhằm đáp ứng yêu cầu cấp bách về phòng, chống, khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh, an ninh quốc phòng, bình ổn thị trường"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Thâm hụt ngân sách",
+    "answer": "Bao gồm thâm hụt cơ cấu và thâm hụt chu kỳ"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Định nghĩa về quỹ tài chính nhà nước ngoài ngân sách nào sau đây đúng",
+    "answer": "quỹ do cơ quan có thẩm quyền quyết định thành lập, hoạt động độc lập với ngân sách nhà nước; nguồn thu, nhiệm vụ chi của quỹ để thực hiện các nhiệm vụ theo quy định của pháp luật"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Điền vào chỗ trống: “Để thực hiện vay nợ trong nước hiệu quả, cần nghiên cứu một cách đầy đủ … và mức sống của dân cư, vấn đề …, thời hạn hoàn trả",
+    "answer": "Khả năng thu nhập, lãi suất huy động"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Qui mô nợ công so với GPD của Việt Nam năm 2019",
+    "answer": "56,1%"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Quyết toán NSNN có số liệu sau: - Tổng thu: 2.037 nghìn tỷ đồng, trong đó: • Thu thường xuyên: 1.382 nghìn tỷ • Thu từ bán tài sản: 320 nghìn tỷ • Thu nợ cho vay: 23 nghìn tỷ • Thu từ vay nước ngoài: 129 nghìn tỷ • Còn lại là các khoản thu khác trong cân đối - Tổng chi: 2.147 nghìn tỷ đồng, trong đó: • Chi thường xuyên: 1.418 nghìn tỷ • Chi đầu tư phát triển: 425 nghìn tỷ • Chi trả nợ gốc: 220 nghìn tỷ • Chi trả lãi: 36 nghìn tỷ • Còn lại là các khoản chi khác trong cân đối Hãy xác định bội chi NSNN",
+    "answer": "42 nghìn tỷ đồng"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSĐP hưởng 100%",
+    "answer": "Thuế sử dụng đất phi nông nghiệp"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Hình thức kiểm soát thanh toán nào được sử dụng trong kiểm soát thanh toán chi thường xuyên tại KBNN",
+    "answer": "Kiểm soát trước thanh toán sau và thanh toán trước kiểm soát sau"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Có bao nhiêu công cụ quản lý nợ công",
+    "answer": "4"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Trong kiểm soát thanh toán chi thường xuyên, kiểm soát trước thanh toán sau không được được áp dụng cho khoản chi nào?",
+    "answer": "Từng lần thanh toán trong hợp đồng thanh toán nhiều lần"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây không phải là nguyên tắc quản lý nợ công",
+    "answer": "Không thực hiện minh bạch trong quản lý nợ công"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Qui mô nợ công so với GPD của Việt Nam năm 2018",
+    "answer": "58,4%"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Có bao nhiêu hình thức kiểm soát thanh toán chi thường xuyên",
+    "answer": "2"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Trường hợp bội thu ngân sách thì được sử dụng để",
+    "answer": "Chi trả nợ gốc và lãi"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Theo luật ngân sách nhà nước hiện hành, mức dư nợ vay của thành phố Hà Nội không vượt quá bao nhiêu % số thu ngân sách địa phương được hưởng theo phân cấp",
+    "answer": "60%"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây không phải của cân đối ngân sách",
+    "answer": "Bội chi ngân sách địa phương chỉ được sử dụng để đầu tư các dự án thuộc kế hoạch đầu tư công trung hạn đã được quyết định và được bù đắp từ nguồn vay nước ngoài"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Chính phủ có nhiệm vụ và quyền hạn",
+    "answer": "Lập và trình Quốc hội dự toán ngân sách nhà nước"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây không phải là nguyên tắc quản lý quỹ dự trữ quốc gia",
+    "answer": "Hàng dự trữ quốc gia sau khi xuất phải được bù lại đủ, kịp thời"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Khi phân cấp ngân sách nhà nước dựa trên nguyên tắc:",
+    "answer": "Đảm bảo tính công bằng trong phân cấp ngân sách"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu phân chia giữa NSTW và NSĐP",
+    "answer": "Thuế giá trị gia tăng trừ thuế giá trị gia tăng hàng nhập khẩu"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Quỹ dự trữ bắt buộc đối với NHTM thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ chuyên dụng"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Quỹ dự đầu tư phát triển thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ chuyên dụng"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Đơn vị nào sau đây không thuộc bộ máy quản lý nợ công ở Việt Nam",
+    "answer": "Hệ thống Ngân hàng thương mại"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Phương thức nào sau đây không được sử dụng để vay nợ nước ngoài",
+    "answer": "Phát hành tín phiếu"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Điểm thay đổi trong luật ngân sách nhà nước năm 2015 so với luật NSNN năm 2002 là gì",
+    "answer": "Chi ngân sách nhà nước không bao gồm chi trả gốc"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Quỹ tài chính nào sau đây không phải là quỹ TCNN ngoài NS",
+    "answer": "Qũy tiền tệ quốc tế IMF"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Kiểm soát chi NSNN qua KBNN không bao gồm hoạt động sau",
+    "answer": "Kiểm soát chi trả nợ"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Chính phủ không thể khắc phục thâm hụt ngân sách bằng cách",
+    "answer": "Đi vay ngân hàng thương mại dưới hình thức cấp tín dụng"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSĐP hưởng 100%",
+    "answer": "Tiền cho thuê đất, thuê mặt nước"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Đâu không phải là nguyên nhân gây ra thâm hụt NSNN",
+    "answer": "Do chính sách thắt chặt chi tiêu"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Có bao nhiêu hình thức kiểm soát thanh toán chi đầu tư",
+    "answer": "2"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Phát hành tiền để bù đắp thâm hụt ngân sách khiến",
+    "answer": "Đồng nội tệ mất giá và gia tăng lạm phát"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây không phải là nguyên tắc quản lý quỹ bảo vệ môi trường",
+    "answer": "Hoạt động vì mục tiêu tối đa hóa lợi nhuận"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Quyết định kế hoạch tài chính 05 năm của ngân sách nhà nước thuộc thẩm quyền của",
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Tỷ lệ bội chi ngân sách so với GDP của Việt Nam năm 2019 là bao nhiêu",
+    "answer": "2,67%"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Có mấy tiêu chí thường được sử dụng để phân loại các quỹ TCNN ngoài NS",
+    "answer": "2"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Quyết toán NSNN có số liệu sau: - Tổng chi NSTW (không bao gồm chi trả nợ gốc): 840 nghìn tỷ đồng - Tổng thu NSTW: 715 nghìn tỷ đồng - Tổng thu NSĐP: 950 nghìn tỷ đồng - Tổng chi NSĐP (bao gồm cả chi trả nợ gốc 165 nghìn tỷ đồng): 1.200nghìn tỷ đồng Hãy xác định bội chi NSNN",
+    "answer": "210 nghìn tỷ đồng"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Chính phủ Việt Nam bù đắp bội chi ngân sách nhà nước chủ yếu bằng cách",
+    "answer": "Vay nợ trong và ngoài nước"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Khoản nợ nào sau đây không bao gồm trong nợ công, theo quan niệm của IMF",
+    "answer": "Nợ của doanh nghiệp tư nhân"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Lệ phí môn bài là khoản thu thuộc",
+    "answer": "NSĐP hưởng 100%"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Qui mô nợ công so với GPD của Việt Nam năm 2021",
+    "answer": "41,3%"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây không thuộc nguồn hình thành quỹ bảo vệ môi trường",
+    "answer": "Thuế bảo vệ môi trường"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Theo Luật Ngân sách nhà nước Việt Nam hiện hành",
+    "answer": "Bội chi ngân sách trung ương được xác định bằng chênh lệch lớn hơn giữa tổng chi ngân sách trung ương không bao gồm chi trả nợ gốc và tổng thu ngân sách trung ương"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "“Cân đối ngân sách nhà nước vừa là công cụ thực hiện các chính sách xã hội của nhà nước, vừa bị ảnh hưởng bởi những chỉ tiêu kinh tế-xã hội” Đây là một trong những",
+    "answer": "Đặc điểm của cân đối ngân sách"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Điều kiện nào sau đây không phải là điều kiện thực hiện thanh toán chi thường xuyên tại KBNN",
+    "answer": "Được Bộ trưởng Tài chính duyệt chi"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Điều kiện nào sau đây không phải là điều kiện thực hiện thanh toán chi thường xuyên tại KBNN",
+    "answer": "Được cơ quan cấp trên duyệt chi"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Hệ thống NSNN ở Hoa Kỳ có:",
+    "answer": "Ba cấp ngân sách"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Vì sao tỷ lệ bội chi ngân sách năm 2020 tăng mạnh so với năm 2019",
+    "answer": "Do gia tăng chi tiêu đặc biệt cho y tế, trợ cấp xã hội và hỗ trợ doanh nghiệp, người dân"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Hệ thống NSNN ở Nga có:",
+    "answer": "Ba cấp ngân sách"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Điều kiện nào để được thanh toán chi thường xuyên tại KBNN",
+    "answer": "Có trong dự toán NSNN, được thủ trưởng quyết định chi, đúng chế độ tiêu chuẩn, định mức, đủ hồ sơ chứng từ thanh toán"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Hệ thống NSNN ở Canada có:",
+    "answer": "Ba cấp ngân sách"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Qui mô nợ công so với GPD của Việt Nam năm 2020",
+    "answer": "54,3%"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Giải pháp tối ưu để khắc phục thâm hụt ngân sách là",
+    "answer": "Tăng cường vai trò quản lý của nhà nước đối với ngân sách"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Hình thức vay chủ yếu được các nước đang phát triển sử dụng khi vay nước ngoài là",
+    "answer": "Vay ODA và vay ưu đãi"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu phân chia giữa NSTW và NSĐP",
+    "answer": "Thuế tiêu thụ đặc biệt, trừ thuế tiêu thụ đặc biệt hàng nhập khẩu"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Thâm hụt cơ cấu",
+    "answer": "Là các khoản thâm hụt được quyết định bởi những chính sách tùy biến của chính phủ"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Những hệ quả nào sau đây được coi là lợi ích của nợ công",
+    "answer": "Tận dụng nguồn vốn vay rẻ từ nước ngoài"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Quỹ BHXH không được sử dụng vào hoạt động nào?",
+    "answer": "Chi trả cho người thất nghiệp"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Phân cấp ngân sách nhà nước không dựa trên nguyên tắc nào sau đây",
+    "answer": "Phân định rõ nhiệm vụ thu chi của từng cấp ngân sách"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Cơ cấu nợ nước ngoài trong nợ công của Việt Nam năm 2010",
+    "answer": "59,7%"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSĐP hưởng 100%",
+    "answer": "Thu từ hoạt động xổ số kiến thiết"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Phê chuẩn dự toán và quyết toán ngân sách nhà nước các cấp thuộc thẩm quyền của",
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Đơn vị nào sau đây thuộc bộ máy quản lý nợ công ở Việt Nam",
+    "answer": "Chính Phủ"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Hình thức kiểm soát thanh toán nào được sử dụng trong kiểm soát thanh toán chi đầu tư tại KBNN",
+    "answer": "Kiểm soát trước thanh toán sau và thanh toán trước kiểm soát sau"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Hoạt động nào sau đây không phải là hoạt động chủ yếu của quỹ bảo vệ môi trường",
+    "answer": "Cho vay ưu đãi đối với dự án bất động sản"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Phân bổ nhiệm vụ chi là",
+    "answer": "Việc phân bổ các nhiệm vụ chi thông qua chức năng trong các cấp chính quyền khác nhau"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Hình thức nào sau đây không được sử dụng để vay trong nước",
+    "answer": "Vay ODA"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Theo ÌMF, Nợ công được hiểu là",
+    "answer": "Nợ của khu vực công"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "thu nào sau đây thuộc nguồn thu phân chia giữa NSTW và NSĐP",
+    "answer": "Thuế tiêu thụ đặc biệt, trừ thuế tiêu thụ đặc biệt hàng nhập khẩu"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Những vấn đề nào sau đây không phải là bất cập trong quản lý quỹ TCNN ngoài NS",
+    "answer": "Nhiều quỹ có nhiệm vụ chi trùng lắp với nhau"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Nợ công có thể được phân loại như thế nào?",
+    "answer": "Nợ trong nước và nợ nước ngoài"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Thuế thu nhập cá nhân là khoản thu thuộc",
+    "answer": "NS phân chia giữa TW và ĐP"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Nội dung nào thuộc nội dung phân cấp ngân sách nhà nước",
+    "answer": "Phân cấp nhiệm vụ chi tiêu giữa các cấp ngân sách"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "BHXH sẽ không chi trả cho người tham gia bảo hiểm trong trường hợp nào?",
+    "answer": "Tai nạn giao thông"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Rủi ro nào sau đây được coi là xuất phát từ nợ công",
+    "answer": "Rủi ro thanh khoản"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Cơ quan quyết định phân bổ ngân sách trung ương là",
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Trong công thức tính bội chi ngân sách nhà nước",
+    "answer": "Tổng thu không bao gồm thu nợ cũ"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Nguồn thu nào sau đây thuộc nguồn thu NSĐP hưởng 100%",
+    "answer": "Thuế môn bài"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Vai trò nào sau đây không phải của cân đối ngân sách",
+    "answer": "Cân đối ngân sách nhà nước góp phần hạn chế chi tiêu, giảm thâm hụt ngân sách"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Tác động nào sau đây không được coi là tác động tiêu cực của nợ công",
+    "answer": "Vay trong nước làm thoái lui đầu tư ở khu vực tư nhân"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Theo quan điểm của WB, thì nợ công là",
+    "answer": "Nợ Chính phủ và nợ mà Chính phủ bảo lãnh"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Nội dung nào thuộc nội dung phân cấp ngân sách nhà nước",
+    "answer": "Phân cấp quản lý ngân sách nhà nước"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Quỹ tài chính nào sau đây không phải là quỹ TCNN ngoài NS",
+    "answer": "Quỹ đầu tư tài chính vinacapital"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Hoạt động nào sau đây là nhiệm vụ kiểm soát của KBNN",
+    "answer": "Kiểm soát chi thường xuyên"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Hệ thống cơ quan nhà nước ở Hoa Kỳ hiện đang được tổ chức theo hình thức",
+    "answer": "Nhà nước liên bang"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Quỹ BHXH không nhận được nguồn đóng góp nào sau đây",
+    "answer": "Ngân sách nhà nước"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Thâm hụt NSNN tác động tới lãi suất như thế nào",
+    "answer": "Khi xảy ra thâm hụt, nhà nước phải đi vay để bù đắp khiến lãi suất tăng lên"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Kho bạc Nhà nước có chức năng nào sau đây",
+    "answer": "Quản lý ngân quĩ nhà nước"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Quỹ dự bình ổn giá xăng dầu thuộc nhóm quỹ nào?",
+    "answer": "Nhóm quỹ chuyên dụng"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Phạm vi của kiểm soát chi thường xuyên không bao gồm khoản chi sau",
+    "answer": "Chi đầu tư"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Khoản nợ nào sau đây không bao gồm trong nợ công, theo quan niệm của WB",
+    "answer": "Nợ của chính quyền địa phương (không được bảo lãnh)"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Vì sao tỷ lệ bội chi ngân sách năm 2020 tăng mạnh so với năm 2019",
+    "answer": "Do nhiều doanh nghiệp phải đóng cửa tạm dừng hoạt động để thực hiện cách ly xã hội"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Lý thuyết cổ điển về ngân sách cân bằng cho rằng",
+    "answer": "Ngân sách nhà nước phải đạt được sự cân bằng tuyệt đối, không được bội chi hay bội thu trong một năm ngân sách"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Công cụ nào sau đây không phải là công cụ quản lý nợ công",
+    "answer": "quản lý nợ công 10 năm"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Phương thức nào sau đây không được Chính phủ sử dụng để vay nợ",
+    "answer": "Phát hành tiền"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Cơ cấu nợ nước ngoài trong nợ công của Việt Nam năm 2010",
+    "answer": "59,7%"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Quỹ tài chính nào sau đây không phải là quỹ TCNN ngoài NS",
+    "answer": "Quỹ đầu tư mạo hiểm"
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Ra quyết định trong điều kiện không chắc chắn sử dụng các chỉ tiêu nào dưới đây?",
+    "answer": "Cả 3 chỉ tiêu trên"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây không ảnh hưởng hoạch định công suất?",
+    "answer": "Điều kiện giao thông thị trường tiêu thụ sản phẩm"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Phương pháp nào dưới đây không được đề cập đến trong hoạch định năng lực sản xuất?",
+    "answer": "Phân tích chi phí theo vùng."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Công cụ hỗ trợ thiết kế sản phẩm là:",
+    "answer": "Ngôi nhà chất lượng"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Công thức để xác định xu hướng theo phương pháp dự báo san bằng số có điều chỉnh xu hướng nào dưới đây là đúng?",
+    "answer": "   a"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Các nhân tố ảnh hưởng tới hoạch định công suất:",
+    "answer": "Tất cả các nhân tố trên"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Các yếu tố đầu vào của quá trình sản xuất sẽ không bao gồm yếu tố nào dưới đây?",
+    "answer": "Thành phẩm."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Những tình huống nào dưới đây được coi là định vị doanh nghiệp?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Bố trí theo dây chuyền hoàn thiện còn được gọi bằng thuật ngữ nào khác dưới đây?",
+    "answer": "Bố trí theo sản phẩm"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Căn cứ vào kết cấu và đặc điểm chế tạo sản phẩm, người ta phân loại thành:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Mức độ sử dụng được đo lường như sau:",
+    "answer": "Công suất thực tế chia cho công suất thiết kế"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Một phương pháp dự báo tốt khi tín hiệu theo dõi có dấu hiệu nào dưới đây?",
+    "answer": "Sấp sỉ bằng 0."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Nhược điểm của phương pháp bình quân sẽ không có yếu tố nào dưới đây?",
+    "answer": "Khó tính toán và phức tạp."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Định vị doanh nghiệp áp dụng trong các trường hợp:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Các chiến lược áp dụng với phát triển sản phẩm:",
+    "answer": "Cả 3 chiến lược trên"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Câu nói nào trong các câu nói sau đây là đúng khi nói về thước đo độ lệch tuyệt đối trung bình MAD \"Mean Absolute Deviation\"?",
+    "answer": "Phương án dự báo nào có giá trị MAD càng cao thì càng không phản ánh đúng thực tế."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Bố trí theo công nghệ còn được gọi bằng thuật ngữ nào khác dưới đây?",
+    "answer": "Bố trí theo quá trình"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Ưu điểm của hình thức sản xuất theo lô là:",
+    "answer": "Cả B&C"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Phương pháp dự báo định lượng không có phương pháp nào dưới đây?",
+    "answer": "Delphi."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Nhân tố nào trong các nhân tố sau đây ảnh hưởng lớn đến công suất của doanh nghiệp?",
+    "answer": "Nhu cầu của người tiêu dùng về sản phẩm mà doanh nghiệp sản xuất."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Quá trình lắp ráp còn được gọi với thuật ngữ nào dưới đây?",
+    "answer": "Quá trình hội tụ."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Phương pháp định vị doanh nghiệp là:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Giai đoạn phát sinh nhiều chi phí liên quan đến nghiên cứu, phát triển sản phẩm là:",
+    "answer": "Giai đoạn giới thiệu"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Nhược điểm của hình thức sản xuất theo kiểu dự án là:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Phương pháp nào dưới đây được coi là phương pháp dự báo định tính?",
+    "answer": "Lấy ý kiến của lực lượng bán hàng."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Xu hướng định vị doanh nghiệp hiện nay?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Phương pháp tọa độ trung tâm sử dụng các yếu tố nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Việc bố trí mặt bằng do các yếu tố sau quyết định:",
+    "answer": "Cả A &B"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Việc sản xuất, lắp ráp và chế tạo ra một chiếc tàu được hiểu là sản xuất:",
+    "answer": "theo dự án."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không ảnh hưởng đến quản trị và lựa chọn công suất?",
+    "answer": "Lượng hàng hóa nhập khẩu"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nút hình vuông trong sơ đồ cây quyết định đựợc gọi là gì?",
+    "answer": "Nút quyết định"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Các nhân tố ảnh hưởng tới việc hình thành sản phẩm mới:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Quản trị tác nghiệp bao gồm những mục tiêu nào sau đây?",
+    "answer": "Chất lượng, chi phí, thời gian, linh hoạt."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Những điểm khác biệt giữa quá trình sản xuất và quá trình cung cấp dịch vụ thường không bao gồm:",
+    "answer": "thời gian sản xuất hoặc cung cấp dịch vụ."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Nhược điểm của hình thức bố trí theo sản phẩm không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Tăng thời gian gia công và tổng thời gian sản xuất"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không được coi là xu hướng của quản trị sản xuất và tác nghiệp?",
+    "answer": "Giảm thiểu chi phí bằng mọi giá."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Phương pháp chuyên gia (Delphi) trong dự báo có những nhược điểm gì?",
+    "answer": "Chi phí lớn."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây không được coi là nhân tố ảnh hưởng đến lựa chọn địa điểm định vị doanh nghiệp?",
+    "answer": "Điều kiện tự nhiên"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Nếu phân loại dự báo theo nội dung công việc cần dự báo sẽ không có loại dự báo nào dưới đây?",
+    "answer": "Dự báo ngắn hạn."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Quá trình sản xuất phân kỳ còn được hiểu là thuật ngữ nào dưới đây?",
+    "answer": "Quá trình chế biến."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Khi định vị ra nước ngoài, các doanh nghiệp lựa chọn quốc gia thường chịu chi phối bởi các nhân tố:",
+    "answer": "Cả A&C"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Chỉ tiêu giá trị kỳ vọng bằng tiền (EMV) được sử dụng khi ra quyết định trong trường hợp nào dưới đây?",
+    "answer": "Ra quyết định trong điều kiện rủi ro."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Phạm vi của nhóm thiết kế và kĩ sư bao gồm công việc sau:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Số nơi làm việc tối thiếu:",
+    "answer": "Nhỏ hơn hoặc bằng số nơi làm việc thực tế"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Ưu điểm của hình thức bố trí theo sản phẩm không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Tính linh hoạt cao"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Muốn sử dụng phương pháp phân tích điểm hoà vốn cần phải đánh giá được những yếu tố nào dưới đây?",
+    "answer": "Chi phí cố định, chi phí biến đổi và doanh thu"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Một phương pháp dự báo tốt khi tín hiệu theo dõi có dấu hiệu nào dưới đây?",
+    "answer": "Sấp sỉ bằng 0."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Phương pháp nào dưới đây không được đề cập đến trong hoạch định năng lực sản xuất?",
+    "answer": "Phân tích chi phí theo vùng."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Giai đoạn phát sinh nhiều chi phí liên quan đến nghiên cứu, phát triển sản phẩm là:",
+    "answer": "Giai đoạn giới thiệu"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Câu nói nào trong các câu nói sau đây là đúng khi nói về thước đo độ lệch tuyệt đối trung bình MAD \"Mean Absolute Deviation\"?",
+    "answer": "Phương án dự báo nào có giá trị MAD càng cao thì càng không phản ánh đúng thực tế."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Phát minh máy se sợi là của tác giả nào dưới đây?",
+    "answer": "James Hargreaves."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Đặc điểm của sản xuất đơn chiếc không bao gồm yếu tố nào dưới đây?",
+    "answer": "Máy móc thiết bị chủ yếu là các thiết bị chuyên dụng."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Đặc điểm của sản xuất hàng loạt không bao gồm yếu tố nào dưới đây?",
+    "answer": "Chủng loại sản phẩm đa dạng và quy trình sản xuất không giống nhau."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Xu hướng định vị doanh nghiệp hiện nay?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Trong các phương pháp dự báo bình quân sẽ không có những phương pháp nào dưới đây?",
+    "answer": "Bình quân xu hướng."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Chỉ tiêu tín hiệu theo dõi âm thể hiện điều nào dưới đây?",
+    "answer": "Nhu cầu thực tế nhỏ hơn nhu cầu dự báo."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Bố trí theo dây chuyền hoàn thiện còn được gọi bằng thuật ngữ nào khác dưới đây?",
+    "answer": "Bố trí theo sản phẩm"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Ra quyết định trong điều kiện chắc chắn sử dụng các chỉ tiêu nào dưới đây?",
+    "answer": "Lợi nhuận tối đa."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Để bố trí mặt bằng sản xuất theo nguyên tắc bố trí theo quá trình không thể áp dụng phương pháp nào dưới đây?",
+    "answer": "Phương pháp vận tải"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Quá trình lắp ráp còn được gọi với thuật ngữ nào dưới đây?",
+    "answer": "Quá trình hội tụ."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Theo phương pháp bố trí theo quá trình, nếu có 5 bộ phận thì về lý thuyết sẽ có bao nhiêu phương án bố trí?",
+    "answer": "120 phương án"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không ảnh hưởng đến quản trị và lựa chọn công suất?",
+    "answer": "Lượng hàng hóa nhập khẩu"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Điểm khác nhau chủ yếu giữa quyết định định vị trong lĩnh vực sản xuất và lĩnh vực dịch vụ?",
+    "answer": "Trong lĩnh vực dịch vụ người ta tập trung tối đa hóa doanh thu và trong lĩnh vực sản xuất người ta tập trung tối thiểu hóa chi phí"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Khái niệm nào dưới đây được định nghĩa về năng lực sản xuất của doanh nghiệp?",
+    "answer": "Năng lực sản xuất là khả năng sản xuất sản phẩm và cung cấp dịch vụ cao nhất của doanh nghiệp trong một khoảng thời gian nhất định."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Đặc điểm của quá trình sản xuất liên tục là:",
+    "answer": "Chủng loại ít mang tính chuyên môn cao"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Hàm xu hướng trong phương pháp dự báo hoạch định xu hướng có dạng y= a+ b (t) thì trong đó t được hiểu là:",
+    "answer": "thời gian."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Căn cứ vào kết cấu và đặc điểm chế tạo sản phẩm, người ta phân loại thành:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Khi phân loại công suất, sẽ không có những loại công suất nào dưới đây?",
+    "answer": "Công suất thực dụng"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Phương pháp định vị doanh nghiệp là:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Sản xuất để dự trữ xảy ra trong trường hợp:",
+    "answer": "Chu kì sản xuất lớn hơn chu kì thương mại"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Các yếu tố đầu vào của quá trình sản xuất sẽ không bao gồm yếu tố nào dưới đây?",
+    "answer": "Thành phẩm."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Nhược điểm của hình thức bố trí theo vị trí cố định không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Công việc không đa dạng"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Các chiến lược áp dụng với phát triển sản phẩm:",
+    "answer": "Cả 3 chiến lược trên"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Để đánh giá trình độ quản trị công suất trong doanh nghiệp cần tính toán:",
+    "answer": "Mức hiệu quả và mức độ sử dụng"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây không phù hợp với quá trình sản xuất liên tục?",
+    "answer": "Sản phẩm đơn chiếc."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không được coi là xu hướng của quản trị sản xuất và tác nghiệp?",
+    "answer": "Giảm thiểu chi phí bằng mọi giá."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Nút hình vuông trong sơ đồ cây quyết định đựợc gọi là gì?",
+    "answer": "Nút quyết định"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Kế hoạch nghiên cứu và ứng dụng công nghệ mới là loại dự báo nào dưới đây?",
+    "answer": "Dự báo dài hạn."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Phương pháp tọa độ trung tâm sử dụng các yếu tố nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Các nhân tố ảnh hưởng tới hoạch định công suất:",
+    "answer": "Tất cả các nhân tố trên"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Những tình huống nào dưới đây được coi là định vị doanh nghiệp?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Chỉ tiêu mức hiệu quả của công suất sẽ được tính như thế nào?",
+    "answer": "Công suất thực tế chia cho công suất hiệu quả"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Số xăng thực tế bán của công ty trong tháng 10 là 15 triệu lít. Số dự báo của tháng đó là 14,7 triệu lít. Số xăng dự báo bán được của công ty trong tháng 11 sẽ là bao nhiêu nếu bạn dùng phương pháp san bằng mũ để dự báo? Biết rằng, hệ số san bằng mũ là 0,9.",
+    "answer": "14.970.000 lít."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Doanh nghiệp An Phú sản xuất ô tô tải có khối lượng sản xuất hàng năm là 1800 xe. Tổng chi phí cố định hàng năm của công ty là 80 tỷ đồng. Giá bán một xe là 350 triệu. Chi phí biến đổi tính trên một xe tải là 310 triệu đồng. Theo bạn, Công ty trên đây có điểm hoà vốn là:",
+    "answer": "2000 xe/năm"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Định vị doanh nghiệp được thực hiện khi:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Quan điểm của người có quyền lực thường ảnh hưởng tới các cán bộ dự báo là nhược điểm của phương pháp dự báo nào dưới đây?",
+    "answer": "Lấy ý kiến của Ban điều hành doanh nghiệp."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Nút hình tròn trong sơ đồ cây quyết định đựợc gọi là gì?",
+    "answer": "Nút tình huống"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Phương pháp nào dưới đây không sử dụng để lựa chọn địa điểm đinh vị doanh nghiệp?",
+    "answer": "Dự báo định lượng"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Nhược điểm của hình thức bố trí theo sản phẩm không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Tăng thời gian gia công và tổng thời gian sản xuất"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Công thức để xác định xu hướng theo phương pháp dự báo san bằng số có điều chỉnh xu hướng nào dưới đây là đúng?",
+    "answer": "   a"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Quản trị tác nghiệp bao gồm những mục tiêu nào sau đây?",
+    "answer": "Chất lượng, chi phí, thời gian, linh hoạt."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Lý thuyết “Quản trị lao động khoa học” của tác giả nào dưới đây?",
+    "answer": "Frederick Taylor."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Phương pháp chuyên gia (Delphi) trong dự báo có những nhược điểm gì?",
+    "answer": "Chi phí lớn."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Ưu điểm của hình thức sản xuất theo lô là:",
+    "answer": "Cả B&C"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Căn cứ vào khả năng sản xuất sản phẩm liên tục của quá trình bao gồm:",
+    "answer": "2 quá trình"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Nhân tố nào trong các nhân tố sau đây ảnh hưởng lớn đến công suất của doanh nghiệp?",
+    "answer": "Nhu cầu của người tiêu dùng về sản phẩm mà doanh nghiệp sản xuất."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Nhược điểm của hình thức bố trí theo quá trình không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Có tính linh hoạt thấp về thiết bị và con người"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Nội dung nào trong các nội dung sau đây không thuộc nội dung của quản trị tác nghiệp?",
+    "answer": "Tạo nguồn vốn tài chính xây dựng doanh nghiệp."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Phương pháp đánh giá theo các nhân tố để ra quyết định định vị doanh nghiệp thực chất?",
+    "answer": "Sử dụng các ý kiến của các chuyên gia để xác định các nhân tố"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây không được coi là nhân tố ảnh hưởng đến lựa chọn địa điểm định vị doanh nghiệp?",
+    "answer": "Điều kiện tự nhiên"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Quá trình phát triển sản phẩm gồm:",
+    "answer": "9 bước"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Định vị doanh nghiệp áp dụng trong các trường hợp:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Quyết định định vị doanh nghiệp có ý nghĩa",
+    "answer": "Chiến lược"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Bố trí theo công nghệ còn được gọi bằng thuật ngữ nào khác dưới đây?",
+    "answer": "Bố trí theo quá trình"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Nhược điểm của sản xuất hàng loạt là:",
+    "answer": "Giá đầu tư thiết bị cao"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Phương pháp nào dưới đây không đề cập đến khi định vị doanh nghiệp?",
+    "answer": "Phương pháp bình quân giản đơn"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Ưu điểm bố trí theo quá trình đề cập đến yếu tố nào dưới đây?",
+    "answer": "Giảm đầu tư máy móc thiết bị ban đầu"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Phương pháp dự báo định lượng không có phương pháp nào dưới đây?",
+    "answer": "Delphi."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Ra quyết định trong điều kiện không chắc chắn sử dụng các chỉ tiêu nào dưới đây?",
+    "answer": "Cả 3 chỉ tiêu trên"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Quá trình chế biến còn được gọi với thuật ngữ nào dưới đây?",
+    "answer": "Quá trình sản xuất phân kỳ."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Những quyết định về công suất mang tính:",
+    "answer": "Vừa mang tính chiến lược vừa mang tính tác nghiệp"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Căn cứ theo quá trình sản xuất tổng hợp chung có:",
+    "answer": "4 loại quá trình sản xuất"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Việc sản xuất, lắp ráp và chế tạo ra một chiếc tàu được hiểu là sản xuất:",
+    "answer": "theo dự án."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Những điểm khác biệt giữa quá trình sản xuất và quá trình cung cấp dịch vụ thường không bao gồm:",
+    "answer": "thời gian sản xuất hoặc cung cấp dịch vụ."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Các nhân tố kinh tế ảnh hưởng đến quyết định chọn vùng là:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Mức độ sử dụng được đo lường như sau:",
+    "answer": "Công suất thực tế chia cho công suất thiết kế"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Cửa hàng bán xăng A95 có chi phí cố định là 10.000 USD/năm; chi phí biến đổi trên một lít xăng bán được là 1,2 USD; giá bán một lít xăng là 2 USD. Vậy lượng xăng bán được trong năm để đạt điểm hòa vốn sẽ là:",
+    "answer": "12500 lít"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Nếu phân loại dự báo theo nội dung công việc cần dự báo sẽ không có loại dự báo nào dưới đây?",
+    "answer": "Dự báo ngắn hạn."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Quá trình sản xuất phân kỳ còn được hiểu là thuật ngữ nào dưới đây?",
+    "answer": "Quá trình chế biến."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Nhược điểm của phương pháp bình quân sẽ không có yếu tố nào dưới đây?",
+    "answer": "Khó tính toán và phức tạp."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Việc bố trí mặt bằng do các yếu tố sau quyết định:",
+    "answer": "Cả A &B"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Nhân tố nào dưới đây không ảnh hưởng hoạch định công suất?",
+    "answer": "Điều kiện giao thông thị trường tiêu thụ sản phẩm"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Trọng tâm của hoạt động định vị đối với các doanh nghiệp dịch vụ là:",
+    "answer": "Tối đa hóa doanh thu"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Vòng đời sản phẩm bao gồm:",
+    "answer": "4 giai đoạn"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Các nhân tố ảnh hưởng tới việc hình thành sản phẩm mới:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Phương pháp nào dưới đây được coi là phương pháp dự báo định tính?",
+    "answer": "Lấy ý kiến của lực lượng bán hàng."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Ưu điểm của hình thức bố trí theo quá trình không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Chi phí sản xuất đơn vị thấp"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Nhược điểm của hình thức sản xuất theo kiểu dự án là:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Quản trị tác nghiệp có mâu thuẫn với các chức năng nào dưới đây?",
+    "answer": "Quản trị tài chính và quản trị marketing."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Thời gian chu kỳ là đại lượng được tính trong:",
+    "answer": "Thiết kế bố trí theo sản phẩm"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Công cụ hỗ trợ thiết kế sản phẩm là:",
+    "answer": "Ngôi nhà chất lượng"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Hình thức bố trí mặt bằng tối ưu nhất trong doanh nghiệp:",
+    "answer": "Không có phương án đúng"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Chỉ tiêu nào dưới đây không được dùng để so sánh các phương pháp dự báo và chọn ra phương pháp dự báo chính xác nhất?",
+    "answer": "MAD và RSFE."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Chỉ tiêu tối đa hóa tối đa (Maximax) là:",
+    "answer": "Lựa chọn phương án công suất có giá trị tiền tệ mong đợi lớn nhất."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Việc bố trí mặt bằng sản xuất cần bố trí theo nguyên tắc:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Quá trình phát triển sản phẩm gồm:",
+    "answer": "9 bước"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Muốn sử dụng phương pháp phân tích điểm hoà vốn cần phải đánh giá được những yếu tố nào dưới đây?",
+    "answer": "Chi phí cố định, chi phí biến đổi và doanh thu"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Các nhân tố ảnh hưởng tới hoạch định công suất:",
+    "answer": "Tất cả các nhân tố trên"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Phạm vi của nhóm thiết kế và kĩ sư bao gồm công việc sau:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Nhược điểm của sản xuất hàng loạt là:",
+    "answer": "Giá đầu tư thiết bị cao"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Quản trị tác nghiệp bao gồm những mục tiêu nào sau đây?",
+    "answer": "Chất lượng, chi phí, thời gian, linh hoạt."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Nhược điểm của hình thức bố trí theo vị trí cố định không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Công việc không đa dạng"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nhân tố nào trong các nhân tố sau đây ảnh hưởng lớn đến công suất của doanh nghiệp?",
+    "answer": "Nhu cầu của người tiêu dùng về sản phẩm mà doanh nghiệp sản xuất."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Chỉ tiêu mức hiệu quả của công suất sẽ được tính như thế nào?",
+    "answer": "Công suất thực tế chia cho công suất hiệu quả"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Những quyết định về công suất mang tính:",
+    "answer": "Vừa mang tính chiến lược vừa mang tính tác nghiệp"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Quá trình chế biến còn được gọi với thuật ngữ nào dưới đây?",
+    "answer": "Quá trình sản xuất phân kỳ."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Phương pháp nào dưới đây không đề cập đến khi định vị doanh nghiệp?",
+    "answer": "Phương pháp bình quân giản đơn"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Các chiến lược áp dụng với phát triển sản phẩm:",
+    "answer": "Cả 3 chiến lược trên"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Ưu điểm bố trí theo quá trình đề cập đến yếu tố nào dưới đây?",
+    "answer": "Giảm đầu tư máy móc thiết bị ban đầu"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Sản xuất để dự trữ xảy ra trong trường hợp:",
+    "answer": "Chu kì sản xuất lớn hơn chu kì thương mại"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Xu hướng định vị doanh nghiệp hiện nay?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Nhân tố nào trong các nhân tố sau đây ảnh hưởng lớn đến công suất của doanh nghiệp?",
+    "answer": "Nhu cầu của người tiêu dùng về sản phẩm mà doanh nghiệp sản xuất."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Bố trí theo dây chuyền hoàn thiện còn được gọi bằng thuật ngữ nào khác dưới đây?",
+    "answer": "Bố trí theo sản phẩm"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Việc sản xuất, lắp ráp và chế tạo ra một chiếc tàu được hiểu là sản xuất:",
+    "answer": "theo dự án."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Nhân tố nào dưới đây không ảnh hưởng hoạch định công suất?",
+    "answer": "Điều kiện giao thông thị trường tiêu thụ sản phẩm"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Cửa hàng bán xăng A95 có chi phí cố định là 10.000 USD/năm; chi phí biến đổi trên một lít xăng bán được là 1,2 USD; giá bán một lít xăng là 2 USD. Vậy lượng xăng bán được trong năm để đạt điểm hòa vốn sẽ là:",
+    "answer": "12500 lít"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Đặc điểm của sản xuất hàng loạt không bao gồm yếu tố nào dưới đây?",
+    "answer": "Chủng loại sản phẩm đa dạng và quy trình sản xuất không giống nhau."
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Hàm xu hướng trong phương pháp dự báo hoạch định xu hướng có dạng y= a+ b (t) thì trong đó t được hiểu là:",
+    "answer": "thời gian."
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Giai đoạn phát sinh nhiều chi phí liên quan đến nghiên cứu, phát triển sản phẩm là:",
+    "answer": "Giai đoạn giới thiệu"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Muốn sử dụng phương pháp phân tích điểm hoà vốn cần phải đánh giá được những yếu tố nào dưới đây?",
+    "answer": "Chi phí cố định, chi phí biến đổi và doanh thu"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Ưu điểm bố trí theo quá trình đề cập đến yếu tố nào dưới đây?",
+    "answer": "Giảm đầu tư máy móc thiết bị ban đầu"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Các chiến lược áp dụng với phát triển sản phẩm:",
+    "answer": "Cả 3 chiến lược trên"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Bố trí theo công nghệ còn được gọi bằng thuật ngữ nào khác dưới đây?",
+    "answer": "Bố trí theo quá trình"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Phát minh máy se sợi là của tác giả nào dưới đây?",
+    "answer": "James Hargreaves."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Định vị doanh nghiệp được thực hiện khi:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Đặc điểm nào dưới đây không phù hợp với quá trình sản xuất liên tục?",
+    "answer": "Sản phẩm đơn chiếc."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Trọng tâm của hoạt động định vị đối với các doanh nghiệp dịch vụ là:",
+    "answer": "Tối đa hóa doanh thu"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Hình thức bố trí mặt bằng tối ưu nhất trong doanh nghiệp:",
+    "answer": "Không có phương án đúng"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Các yếu tố đầu vào của quá trình sản xuất sẽ không bao gồm yếu tố nào dưới đây?",
+    "answer": "Thành phẩm."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Đặc điểm của sản xuất đơn chiếc không bao gồm yếu tố nào dưới đây?",
+    "answer": "Máy móc thiết bị chủ yếu là các thiết bị chuyên dụng."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Nút hình vuông trong sơ đồ cây quyết định đựợc gọi là gì?",
+    "answer": "Nút quyết định"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Quá trình chế biến còn được gọi với thuật ngữ nào dưới đây?",
+    "answer": "Quá trình sản xuất phân kỳ."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Ra quyết định trong điều kiện không chắc chắn sử dụng các chỉ tiêu nào dưới đây?",
+    "answer": "Cả 3 chỉ tiêu trên"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Doanh nghiệp An Phú sản xuất ô tô tải có khối lượng sản xuất hàng năm là 1800 xe. Tổng chi phí cố định hàng năm của công ty là 80 tỷ đồng. Giá bán một xe là 350 triệu. Chi phí biến đổi tính trên một xe tải là 310 triệu đồng. Theo bạn, Công ty trên đây có điểm hoà vốn là:",
+    "answer": "2000 xe/năm"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Ưu điểm của hình thức bố trí theo quá trình không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Chi phí sản xuất đơn vị thấp"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Nhược điểm của hình thức sản xuất theo kiểu dự án là:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Căn cứ theo quá trình sản xuất tổng hợp chung có:",
+    "answer": "4 loại quá trình sản xuất"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Quá trình sản xuất phân kỳ còn được hiểu là thuật ngữ nào dưới đây?",
+    "answer": "Quá trình chế biến."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Yếu tố nào dưới đây không được coi là xu hướng của quản trị sản xuất và tác nghiệp?",
+    "answer": "Giảm thiểu chi phí bằng mọi giá."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Khái niệm nào dưới đây được định nghĩa về năng lực sản xuất của doanh nghiệp?",
+    "answer": "Năng lực sản xuất là khả năng sản xuất sản phẩm và cung cấp dịch vụ cao nhất của doanh nghiệp trong một khoảng thời gian nhất định."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Các nhân tố ảnh hưởng tới việc hình thành sản phẩm mới:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Quản trị tác nghiệp bao gồm những mục tiêu nào sau đây?",
+    "answer": "Chất lượng, chi phí, thời gian, linh hoạt."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Phương pháp đánh giá theo các nhân tố để ra quyết định định vị doanh nghiệp thực chất?",
+    "answer": "Sử dụng các ý kiến của các chuyên gia để xác định các nhân tố"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Ra quyết định trong điều kiện chắc chắn sử dụng các chỉ tiêu nào dưới đây?",
+    "answer": "Lợi nhuận tối đa."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Việc bố trí mặt bằng do các yếu tố sau quyết định:",
+    "answer": "Cả A &B"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Yếu tố nào dưới đây không ảnh hưởng đến quản trị và lựa chọn công suất?",
+    "answer": "Lượng hàng hóa nhập khẩu"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Số nơi làm việc tối thiếu:",
+    "answer": "Nhỏ hơn hoặc bằng số nơi làm việc thực tế"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Việc bố trí mặt bằng sản xuất cần bố trí theo nguyên tắc:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Nhược điểm của hình thức bố trí theo quá trình không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Có tính linh hoạt thấp về thiết bị và con người"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Chỉ tiêu tín hiệu theo dõi âm thể hiện điều nào dưới đây?",
+    "answer": "Nhu cầu thực tế nhỏ hơn nhu cầu dự báo."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Vòng đời sản phẩm bao gồm:",
+    "answer": "4 giai đoạn"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Nhược điểm của sản xuất hàng loạt là:",
+    "answer": "Giá đầu tư thiết bị cao"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Phương pháp chuyên gia (Delphi) trong dự báo có những nhược điểm gì?",
+    "answer": "Chi phí lớn."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Chỉ tiêu tối đa hóa tối đa (Maximax) là:",
+    "answer": "Lựa chọn phương án công suất có giá trị tiền tệ mong đợi lớn nhất."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Phương pháp định vị doanh nghiệp là:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Những điểm khác biệt giữa quá trình sản xuất và quá trình cung cấp dịch vụ thường không bao gồm:",
+    "answer": "thời gian sản xuất hoặc cung cấp dịch vụ."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Chỉ tiêu nào dưới đây không được dùng để so sánh các phương pháp dự báo và chọn ra phương pháp dự báo chính xác nhất?",
+    "answer": "MAD và RSFE."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Quá trình phát triển sản phẩm gồm:",
+    "answer": "9 bước"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Trong các phương pháp dự báo bình quân sẽ không có những phương pháp nào dưới đây?",
+    "answer": "Bình quân xu hướng."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Chỉ tiêu mức hiệu quả của công suất sẽ được tính như thế nào?",
+    "answer": "Công suất thực tế chia cho công suất hiệu quả"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Để đánh giá trình độ quản trị công suất trong doanh nghiệp cần tính toán:",
+    "answer": "Mức hiệu quả và mức độ sử dụng"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Phương pháp nào dưới đây không được đề cập đến trong hoạch định năng lực sản xuất?",
+    "answer": "Phân tích chi phí theo vùng."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Chỉ tiêu giá trị kỳ vọng bằng tiền (EMV) được sử dụng khi ra quyết định trong trường hợp nào dưới đây?",
+    "answer": "Ra quyết định trong điều kiện rủi ro."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Phương pháp tọa độ trung tâm sử dụng các yếu tố nào sau đây?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Các nhân tố ảnh hưởng tới hoạch định công suất:",
+    "answer": "Tất cả các nhân tố trên"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Đặc điểm của quá trình sản xuất liên tục là:",
+    "answer": "Chủng loại ít mang tính chuyên môn cao"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Phương pháp nào dưới đây không sử dụng để lựa chọn địa điểm đinh vị doanh nghiệp?",
+    "answer": "Dự báo định lượng"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Nội dung nào trong các nội dung sau đây không thuộc nội dung của quản trị tác nghiệp?",
+    "answer": "Tạo nguồn vốn tài chính xây dựng doanh nghiệp."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Những tình huống nào dưới đây được coi là định vị doanh nghiệp?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Một phương pháp dự báo tốt khi tín hiệu theo dõi có dấu hiệu nào dưới đây?",
+    "answer": "Sấp sỉ bằng 0."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Nhược điểm của hình thức bố trí theo vị trí cố định không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Công việc không đa dạng"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Câu nói nào trong các câu nói sau đây là đúng khi nói về thước đo độ lệch tuyệt đối trung bình MAD \"Mean Absolute Deviation\"?",
+    "answer": "Phương án dự báo nào có giá trị MAD càng cao thì càng không phản ánh đúng thực tế."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Căn cứ vào kết cấu và đặc điểm chế tạo sản phẩm, người ta phân loại thành:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Những quyết định về công suất mang tính:",
+    "answer": "Vừa mang tính chiến lược vừa mang tính tác nghiệp"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Ưu điểm của hình thức bố trí theo sản phẩm không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Tính linh hoạt cao"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Định vị doanh nghiệp áp dụng trong các trường hợp:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Khi định vị ra nước ngoài, các doanh nghiệp lựa chọn quốc gia thường chịu chi phối bởi các nhân tố:",
+    "answer": "Cả A&C"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Để bố trí mặt bằng sản xuất theo nguyên tắc bố trí theo quá trình không thể áp dụng phương pháp nào dưới đây?",
+    "answer": "Phương pháp vận tải"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Lý thuyết “Quản trị lao động khoa học” của tác giả nào dưới đây?",
+    "answer": "Frederick Taylor."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Ưu điểm của hình thức sản xuất theo lô là:",
+    "answer": "Cả B&C"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Số xăng thực tế bán của công ty trong tháng 10 là 15 triệu lít. Số dự báo của tháng đó là 14,7 triệu lít. Số xăng dự báo bán được của công ty trong tháng 11 sẽ là bao nhiêu nếu bạn dùng phương pháp san bằng mũ để dự báo? Biết rằng, hệ số san bằng mũ là 0,9.",
+    "answer": "14.970.000 lít."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Nhân tố nào dưới đây không được coi là nhân tố ảnh hưởng đến lựa chọn địa điểm định vị doanh nghiệp?",
+    "answer": "Điều kiện tự nhiên"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Nếu phân loại dự báo theo nội dung công việc cần dự báo sẽ không có loại dự báo nào dưới đây?",
+    "answer": "Dự báo ngắn hạn."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Quá trình lắp ráp còn được gọi với thuật ngữ nào dưới đây?",
+    "answer": "Quá trình hội tụ."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Phạm vi của nhóm thiết kế và kĩ sư bao gồm công việc sau:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Nút hình tròn trong sơ đồ cây quyết định đựợc gọi là gì?",
+    "answer": "Nút tình huống"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Công thức để xác định xu hướng theo phương pháp dự báo san bằng số có điều chỉnh xu hướng nào dưới đây là đúng?",
+    "answer": "   a"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Điểm khác nhau chủ yếu giữa quyết định định vị trong lĩnh vực sản xuất và lĩnh vực dịch vụ?",
+    "answer": "Trong lĩnh vực dịch vụ người ta tập trung tối đa hóa doanh thu và trong lĩnh vực sản xuất người ta tập trung tối thiểu hóa chi phí"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Thời gian chu kỳ là đại lượng được tính trong:",
+    "answer": "Thiết kế bố trí theo sản phẩm"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Các nhân tố kinh tế ảnh hưởng đến quyết định chọn vùng là:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Theo phương pháp bố trí theo quá trình, nếu có 5 bộ phận thì về lý thuyết sẽ có bao nhiêu phương án bố trí?",
+    "answer": "120 phương án"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Khi phân loại công suất, sẽ không có những loại công suất nào dưới đây?",
+    "answer": "Công suất thực dụng"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Căn cứ vào khả năng sản xuất sản phẩm liên tục của quá trình bao gồm:",
+    "answer": "2 quá trình"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Kế hoạch nghiên cứu và ứng dụng công nghệ mới là loại dự báo nào dưới đây?",
+    "answer": "Dự báo dài hạn."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Quyết định định vị doanh nghiệp có ý nghĩa",
+    "answer": "Chiến lược"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Phương pháp nào dưới đây không đề cập đến khi định vị doanh nghiệp?",
+    "answer": "Phương pháp bình quân giản đơn"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Nhược điểm của phương pháp bình quân sẽ không có yếu tố nào dưới đây?",
+    "answer": "Khó tính toán và phức tạp."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Sản xuất để dự trữ xảy ra trong trường hợp:",
+    "answer": "Chu kì sản xuất lớn hơn chu kì thương mại"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Quan điểm của người có quyền lực thường ảnh hưởng tới các cán bộ dự báo là nhược điểm của phương pháp dự báo nào dưới đây?",
+    "answer": "Lấy ý kiến của Ban điều hành doanh nghiệp."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Quản trị tác nghiệp có mâu thuẫn với các chức năng nào dưới đây?",
+    "answer": "Quản trị tài chính và quản trị marketing."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Công cụ hỗ trợ thiết kế sản phẩm là:",
+    "answer": "Ngôi nhà chất lượng"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Nhược điểm của hình thức bố trí theo sản phẩm không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Tăng thời gian gia công và tổng thời gian sản xuất"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Mức độ sử dụng được đo lường như sau:",
+    "answer": "Công suất thực tế chia cho công suất thiết kế"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Phương pháp dự báo định lượng không có phương pháp nào dưới đây?",
+    "answer": "Delphi."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Phương pháp nào dưới đây được coi là phương pháp dự báo định tính?",
+    "answer": "Lấy ý kiến của lực lượng bán hàng."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Hàm xu hướng trong phương pháp dự báo hoạch định xu hướng có dạng y= a+ b (t) thì trong đó t được hiểu là:",
+    "answer": "thời gian."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Số xăng thực tế bán của công ty trong tháng 10 là 15 triệu lít. Số dự báo của tháng đó là 14,7 triệu lít. Số xăng dự báo bán được của công ty trong tháng 11 sẽ là bao nhiêu nếu bạn dùng phương pháp san bằng mũ để dự báo? Biết rằng, hệ số san bằng mũ là 0,9.",
+    "answer": "14.970.000 lít."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Kế hoạch nghiên cứu và ứng dụng công nghệ mới là loại dự báo nào dưới đây?",
+    "answer": "Dự báo dài hạn."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Chỉ tiêu tín hiệu theo dõi âm thể hiện điều nào dưới đây?",
+    "answer": "Nhu cầu thực tế nhỏ hơn nhu cầu dự báo."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Trong các phương pháp dự báo bình quân sẽ không có những phương pháp nào dưới đây?",
+    "answer": "Bình quân xu hướng."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Phương pháp nào dưới đây không đề cập đến khi định vị doanh nghiệp?",
+    "answer": "Phương pháp bình quân giản đơn"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Quản trị tác nghiệp có mâu thuẫn với các chức năng nào dưới đây?",
+    "answer": "Quản trị tài chính và quản trị marketing."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Nhược điểm của sản xuất hàng loạt là:",
+    "answer": "Giá đầu tư thiết bị cao"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Nhược điểm của hình thức bố trí theo quá trình không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Có tính linh hoạt thấp về thiết bị và con người"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Số nơi làm việc tối thiếu:",
+    "answer": "Nhỏ hơn hoặc bằng số nơi làm việc thực tế"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Ưu điểm của hình thức bố trí theo quá trình không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Chi phí sản xuất đơn vị thấp"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Phương pháp đánh giá theo các nhân tố để ra quyết định định vị doanh nghiệp thực chất?",
+    "answer": "Sử dụng các ý kiến của các chuyên gia để xác định các nhân tố"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Phương pháp nào dưới đây không sử dụng để lựa chọn địa điểm đinh vị doanh nghiệp?",
+    "answer": "Dự báo định lượng"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Căn cứ vào khả năng sản xuất sản phẩm liên tục của quá trình bao gồm:",
+    "answer": "2 quá trình"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Chỉ tiêu giá trị kỳ vọng bằng tiền (EMV) được sử dụng khi ra quyết định trong trường hợp nào dưới đây?",
+    "answer": "Ra quyết định trong điều kiện rủi ro."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Việc bố trí mặt bằng sản xuất cần bố trí theo nguyên tắc:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Định vị doanh nghiệp được thực hiện khi:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Điểm khác nhau chủ yếu giữa quyết định định vị trong lĩnh vực sản xuất và lĩnh vực dịch vụ?",
+    "answer": "Trong lĩnh vực dịch vụ người ta tập trung tối đa hóa doanh thu và trong lĩnh vực sản xuất người ta tập trung tối thiểu hóa chi phí"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Phát minh máy se sợi là của tác giả nào dưới đây?",
+    "answer": "James Hargreaves."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Để đánh giá trình độ quản trị công suất trong doanh nghiệp cần tính toán:",
+    "answer": "Mức hiệu quả và mức độ sử dụng"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Đặc điểm của sản xuất hàng loạt không bao gồm yếu tố nào dưới đây?",
+    "answer": "Chủng loại sản phẩm đa dạng và quy trình sản xuất không giống nhau."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Ưu điểm bố trí theo quá trình đề cập đến yếu tố nào dưới đây?",
+    "answer": "Giảm đầu tư máy móc thiết bị ban đầu"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Sản xuất để dự trữ xảy ra trong trường hợp:",
+    "answer": "Chu kì sản xuất lớn hơn chu kì thương mại"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Chỉ tiêu mức hiệu quả của công suất sẽ được tính như thế nào?",
+    "answer": "Công suất thực tế chia cho công suất hiệu quả"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Đặc điểm nào dưới đây không phù hợp với quá trình sản xuất liên tục?",
+    "answer": "Sản phẩm đơn chiếc."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Nhược điểm của hình thức bố trí theo vị trí cố định không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Công việc không đa dạng"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Đặc điểm của quá trình sản xuất liên tục là:",
+    "answer": "Chủng loại ít mang tính chuyên môn cao"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Chỉ tiêu nào dưới đây không được dùng để so sánh các phương pháp dự báo và chọn ra phương pháp dự báo chính xác nhất?",
+    "answer": "MAD và RSFE."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Hình thức bố trí mặt bằng tối ưu nhất trong doanh nghiệp:",
+    "answer": "Không có phương án đúng"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Nội dung nào trong các nội dung sau đây không thuộc nội dung của quản trị tác nghiệp?",
+    "answer": "Tạo nguồn vốn tài chính xây dựng doanh nghiệp."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Để bố trí mặt bằng sản xuất theo nguyên tắc bố trí theo quá trình không thể áp dụng phương pháp nào dưới đây?",
+    "answer": "Phương pháp vận tải"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Thời gian chu kỳ là đại lượng được tính trong:",
+    "answer": "Thiết kế bố trí theo sản phẩm"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Căn cứ theo quá trình sản xuất tổng hợp chung có:",
+    "answer": "4 loại quá trình sản xuất"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Đặc điểm của sản xuất đơn chiếc không bao gồm yếu tố nào dưới đây?",
+    "answer": "Máy móc thiết bị chủ yếu là các thiết bị chuyên dụng."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Chỉ tiêu tối đa hóa tối đa (Maximax) là:",
+    "answer": "Lựa chọn phương án công suất có giá trị tiền tệ mong đợi lớn nhất."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Khi định vị ra nước ngoài, các doanh nghiệp lựa chọn quốc gia thường chịu chi phối bởi các nhân tố:",
+    "answer": "Cả A&C"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Quá trình phát triển sản phẩm gồm:",
+    "answer": "9 bước"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Quan điểm của người có quyền lực thường ảnh hưởng tới các cán bộ dự báo là nhược điểm của phương pháp dự báo nào dưới đây?",
+    "answer": "Lấy ý kiến của Ban điều hành doanh nghiệp."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Quyết định định vị doanh nghiệp có ý nghĩa",
+    "answer": "Chiến lược"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Quá trình chế biến còn được gọi với thuật ngữ nào dưới đây?",
+    "answer": "Quá trình sản xuất phân kỳ."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khi phân loại công suất, sẽ không có những loại công suất nào dưới đây?",
+    "answer": "Công suất thực dụng"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Theo phương pháp bố trí theo quá trình, nếu có 5 bộ phận thì về lý thuyết sẽ có bao nhiêu phương án bố trí?",
+    "answer": "120 phương án"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Những quyết định về công suất mang tính:",
+    "answer": "Vừa mang tính chiến lược vừa mang tính tác nghiệp"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Các nhân tố kinh tế ảnh hưởng đến quyết định chọn vùng là:",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Phạm vi của nhóm thiết kế và kĩ sư bao gồm công việc sau:",
+    "answer": "Cả A&B"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Vòng đời sản phẩm bao gồm:",
+    "answer": "4 giai đoạn"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Cửa hàng bán xăng A95 có chi phí cố định là 10.000 USD/năm; chi phí biến đổi trên một lít xăng bán được là 1,2 USD; giá bán một lít xăng là 2 USD. Vậy lượng xăng bán được trong năm để đạt điểm hòa vốn sẽ là:",
+    "answer": "12500 lít"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Lý thuyết “Quản trị lao động khoa học” của tác giả nào dưới đây?",
+    "answer": "Frederick Taylor."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Trọng tâm của hoạt động định vị đối với các doanh nghiệp dịch vụ là:",
+    "answer": "Tối đa hóa doanh thu"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Khái niệm nào dưới đây được định nghĩa về năng lực sản xuất của doanh nghiệp?",
+    "answer": "Năng lực sản xuất là khả năng sản xuất sản phẩm và cung cấp dịch vụ cao nhất của doanh nghiệp trong một khoảng thời gian nhất định."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Doanh nghiệp An Phú sản xuất ô tô tải có khối lượng sản xuất hàng năm là 1800 xe. Tổng chi phí cố định hàng năm của công ty là 80 tỷ đồng. Giá bán một xe là 350 triệu. Chi phí biến đổi tính trên một xe tải là 310 triệu đồng. Theo bạn, Công ty trên đây có điểm hoà vốn là:",
+    "answer": "2000 xe/năm"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Ưu điểm của hình thức bố trí theo sản phẩm không đề cập đến yếu tố nào dưới đây?",
+    "answer": "Tính linh hoạt cao"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Nút hình tròn trong sơ đồ cây quyết định đựợc gọi là gì?",
+    "answer": "Nút tình huống"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Ra quyết định trong điều kiện chắc chắn sử dụng các chỉ tiêu nào dưới đây?",
+    "answer": "Lợi nhuận tối đa."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Muốn sử dụng phương pháp phân tích điểm hoà vốn cần phải đánh giá được những yếu tố nào dưới đây?",
+    "answer": "Chi phí cố định, chi phí biến đổi và doanh thu"
+  }
+]

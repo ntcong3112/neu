@@ -1,0 +1,1382 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Đâu là phân loại dự án theo giai đoạn",
+    "answer": "Chi phí giai đoạn phát triển"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Phân loại hợp đồng theo giá hợp đồng không bao gồm",
+    "answer": "Hợp đồng xây dựng có yếu tố nước ngoài"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Nhiệm vụ của văn phòng dự án là:",
+    "answer": "Tất cả các ý trên"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "WBS là công cụ quản lý tiến độ dự án bằng cách",
+    "answer": "Kỹ thuật chia nhỏ công việc"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Trong sơ đồ AON, hoạt động song song là",
+    "answer": "Những hoạt động có thể diễn ra cùng một lúc"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Kỹ thuật chia nhỏ dự án thành những hoạt động độc lập theo các cấp độ khác nhau được gọi là",
+    "answer": "Kỹ thuật WBS"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Đâu không phải là đặc trưng của dự án",
+    "answer": "Có thời gian không xác định"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Chủ đầu tư có thể lựa chọn hình thức nào để lựa chọn đối tác",
+    "answer": "Cả a, b và c"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Đâu không phải là công cụ quản lý tiến độ dự án",
+    "answer": "Độ lệch tuyệt đối bình quân MAD"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Đâu không phải là phân loại dự án theo giai đoạn",
+    "answer": "Chi phí tư vấn"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Trong các hoạt động sau, đâu không phải là một dự án",
+    "answer": "Bán xăng dầu trong một trạm xăng"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Các chức năng của quản trị dự án là",
+    "answer": "Lập kế hoạch, tổ chức thực hiện, điều hành, kiểm tra kiểm soát."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Các chức năng của quản trị dự án không bao gồm",
+    "answer": "Thiết kế"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Trong xác định chi phí dự phòng, Kdp là hệ số/tỷ lệ dự phòng, giao động trong khoảng",
+    "answer": "10-20%"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Hoạt động cải tiến dự án thông qua kỹ thuật so sánh tình hình hoạt động giữa các tổ chức khác nhau nhưng hoạt động trong lĩnh vực tương tự nhau hoặc giữa các bộ phận trong cùng một tổ chức được gọi là kỹ thuật:",
+    "answer": "Benchmarking"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Để đảm bảo chất lượng trong quá trình thực hiện dự án, công việc cần làm là:",
+    "answer": "đảm bảo an toàn trong vận hành khi thi công xây dựng công trình"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Căn cứ chủ yếu của đảm bảo chất lượng dự án không bao gồm",
+    "answer": "Sổ tay chất lượng"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Trong sơ đồ mạng lưới AON, ký hiệu ES là",
+    "answer": "Thời gian bắt đầu sớm nhất"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Hệ thống thông tin dùng để lưu trữ lại một dự án thất bại hoàn toàn hoặc chỉ đơn giản là thất bại trong một thử nghiệm nào đó của dự án được gọi là:",
+    "answer": "Hệ thống thông tin báo cáo thất bại"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Kỹ thuật chia nhỏ công việc trong quản lý tiến độ dự án được gọi là",
+    "answer": "WBS"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Phân loại hợp đồng theo tính chất, nội dung công việc không bao gồm",
+    "answer": "Hợp đồng thầu chính"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Ưu điểm của đấu thầu rộng rãi không bao gồm:",
+    "answer": "Tiết kiệm thời gian"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Hệ thống thông tin dùng để cải thiện các tiêu chuẩn của dự án, khắc phục các nhược điểm của cá dự án trước được gọi là:",
+    "answer": "Hệ thống thông tin các bài học kinh nghiệm"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Công việc cần làm để đảm bảo chất lượng trong quá trình thiết kế dự án là",
+    "answer": "Thu thập đầy đủ, chính xác các yêu cầu của khách hàng"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Trong sơ đồ AON, hoạt động bùng nổ là",
+    "answer": "Những hoạt động có nhiều hơn một hoạt động liền sau nó"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Trong sơ đồ AON, hoạt động hợp nhất là",
+    "answer": "Những hoạt động có nhiều hơn một hoạt động ngay trước nó"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Phân loại hợp đồng theo giá hợp đồng không bao gồm",
+    "answer": "Hợp đồng giao khoán nội bộ"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Yêu cầu đối với công tác lập kế hoạch không bao gồm:",
+    "answer": "Kế hoạch phải thật chi tiết"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Trong các tác dụng sau, đâu không phải là tác dụng của giám sát chất lượng dự án",
+    "answer": "Là cơ sở để xây dựng mạng lưới dự án"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Kế hoạch tổng thể thực hiện dự án thường bao gồm mấy nội dung",
+    "answer": "9"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Kế hoạch điều hành, thực hiện dự án không bao gồm",
+    "answer": "Dự báo nhu cầu"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Trong sơ đồ AON, những hoạt động có nhiều hơn một hoạt động liền sau nó là",
+    "answer": "Hoạt động bùng nổ"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Đâu không phải bước trong quy trình đấu thầu",
+    "answer": "Quản trị chi phí"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Đâu không phải là hình thức phổ biến của văn phòng dự án",
+    "answer": "Văn phòng dự án theo định vị của doanh nghiệp"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Công thức tính thời gian ước lượng của một hoạt động trong dự án là:",
+    "answer": "(a \\+ 4m \\+ b)/6"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Để đảm bảo chất lượng trong quá trình thiết kế dự án cần làm công việc nào sau đây:",
+    "answer": "Thu thập đầy đủ, chính xác các yêu cầu của khách hàng"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "“Ấn định thời gian bảo hành:” là nội dung trong quá trình",
+    "answer": "Vận hành khai thác dự án"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Chi phí dự án là",
+    "answer": "Toàn bộ các tiêu hao về nguồn lực đầu vào cần thiết được tính bằng tiền để thực hiện dự án"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Phân loại hợp đồng theo giá hợp đồng không bao gồm",
+    "answer": "Hợp đồng xây dựng có yếu tố nước ngoài"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Các công cụ quản lý tiến độ dự án là",
+    "answer": "Gantt, AON, WBS"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Kỹ thuật WBS (Work Breakdown Structure) là",
+    "answer": "Là kỹ thuật chia nhỏ dự án thành những hoạt động độc lập"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Đâu là phân loại dự án theo tính chất của chi phí",
+    "answer": "Chi phí trực tiếp"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Chi phí giải phóng mặt bằng không bao gồm",
+    "answer": "Chi phí lắp đặt thiết bị và thí nghiệm, hiệu chỉnh"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Nhược điểm của phương pháp chí phí theo mốc công việc là:",
+    "answer": "Cả 3 ý kiến trên"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Đâu là phân loại dự án theo tính chất của chi phí",
+    "answer": "Chi phí gián tiếp"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Đặc điểm nào không phải là đặc trưng của dự án",
+    "answer": "Các nguồn lực không bị giới hạn"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Nhiệm vụ của lịch trình thực hiện dự án là",
+    "answer": "Xác định rõ trình tự và thời gian thực hiện các hoạt động dự án"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Hoạt động nào sau đây không phải là một dự án",
+    "answer": "Hoạt động sản xuất gạch ngói cảu một công ty"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Đặc trưng của dự án là",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Trong sơ đồ mạng lưới AON, thời gian bắt đầu sớm nhất ký hiệu là",
+    "answer": "ES"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Trong các phương pháp sau, phương pháp nào không phải là công cụ quản lý tiến độ dự án",
+    "answer": "Phương pháp Hungary"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Đâu không phải là ưu điểm của biểu đồ Gantt:",
+    "answer": "Phù hợp với những dự án phức tạp"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Đâu không phải là phương pháp lựa chọn nhà thầu",
+    "answer": "Phương pháp giá cao nhất"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Nội dung giám sát chất lượng dự án",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Đâu không phải là tác dụng của giám sát chất lượng dự án",
+    "answer": "Xác định quy mô dự án"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Chi phí thiết bị không bao gồm",
+    "answer": "Chi phí xây dựng"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Hệ thống thông tin để tính toán chi phí ước tính hoàn thành công việc, thời gian ước tính hoàn thành công việc, phần trăm hoàn thành hay các xu hướng được gọi là:",
+    "answer": "Hệ thống thông tin đo lường giá trị đạt được"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Đâu không phải bước trong quy trình đấu thầu",
+    "answer": "Nghiên cứu khả thi"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Trong các phương pháp sau, đâu không phải là phương pháp lựa chọn nhà thầu",
+    "answer": "Phương pháp giá trung bình cao nhất"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Đâu là phân loại dự án theo giai đoạn",
+    "answer": "Chi phí giai đoạn phát triển"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "“Thỏa mãn các khiếu nại của khách hàng khi cung cấp sản phẩm có chất lượng không đảm bảo” là nội dung trong quá trình",
+    "answer": "Vận hành khai thác dự án"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Nhược điểm của phương pháp chí phí theo mốc công việc",
+    "answer": "Cả 3 ý kiến trên"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Phân loại dự án theo mối quan hệ giữa các chủ thể trong dự án không bao gồm",
+    "answer": "Dự án chuyển giao"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Trong các hình thức sau, đâu không phải là hình thức phổ biến của văn phòng dự án",
+    "answer": "Văn phòng dự án theo tiêu chuẩn chất lượng"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Đâu là loại hợp đồng phân loại theo mối quan hệ của các bên tham gia hợp đồng",
+    "answer": "Hợp đồng thầu phụ"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Các buổi họp kết thúc dự án cần trả lời được câu hỏi",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Đâu không phải là nhiệm vụ của văn phòng dự án",
+    "answer": "Hoạch định công suất của doanh nghiệp"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Danh mục các nhân tố cần quan tâm khi quản lý chi phí",
+    "answer": "Cả 3 ý kiến trên"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Quá trình quản trị dự án gồm",
+    "answer": "Chuẩn bị dự án, thực hiện dự án, vận hành kết quả dự án, kết thúc dự án"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trong sơ đồ AON, hoạt động song song là",
+    "answer": "Những hoạt động có thể diễn ra cùng một lúc"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Thực hiện đảm bảo chất lượng dự án cần chú ý",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Danh mục các nhân tố cần quan tâm khi quản lý chi phí",
+    "answer": "Cả 3 ý kiến trên"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Nội dung giám sát chất lượng dự án là:",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "âu là loại hợp đồng phân loại theo mối quan hệ của các bên tham gia hợp đồng",
+    "answer": "Hợp đồng thầu chính"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Chi phí giải phóng mặt bằng không bao gồm",
+    "answer": "Chi phí đào tạo và chuyển giao công nghệ"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Phân loại hợp đồng theo tính chất, nội dung công việc không bao gồm",
+    "answer": "Hợp đồng trọn gói"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Kế hoạch điều hành, thực hiện dự án bao gồm",
+    "answer": "Kế hoạch tổng thể dự án, lịch trình thực hiện dự án, kế hoạch hành động,"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Biểu đồ Gantt là công cụ quản lý tiến độ dự án bằng cách",
+    "answer": "Vẽ biểu đồ thời gian"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Chi phí trực tiếp thuộc phân loại chi phí theo:",
+    "answer": "Theo tính chất của chi phí"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Chi phí thiết bị không bao gồm",
+    "answer": "Chi phí tư vấn"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Đâu là phân loại dự án theo giai đoạn",
+    "answer": "Chi phí giai đoạn phát triển"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Trong hoạt động đấu thầu, đối tượng nào không phải là bên mua hàng hóa, dịch vụ:",
+    "answer": "Nhà thầu"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Công việc cần làm để đảm bảo chất lượng trong quá trình thực hiện dự án là",
+    "answer": "Đảm bảo an toàn phòng chống cháy nổ khi thi công xây dựng công trình"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Đâu không phải là ưu điểm của biểu đồ Gantt:",
+    "answer": "Phù hợp với những dự án phức tạp"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Quá trình quản trị dự án bao gồm",
+    "answer": "Chuẩn bị dự án, thực hiện dự án, vận hành kết quả dự án, kết thúc dự án"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Ưu điểm của đấu thầu hạn chế là:",
+    "answer": "Tiết kiệm chi phí"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Trong sơ đồ AON, những hoạt động có thể diễn ra cùng một lúc là",
+    "answer": "Hoạt động song song"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Các buổi họp kết thúc dự án cần trả lời được câu hỏi",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Đâu không phải là phân loại dự án theo cơ cấu phân tách công việc (WBS)",
+    "answer": "Chi phí năm"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Nội dung nào không thuộc nội dung của quản lý chất lượng dự án",
+    "answer": "Thiết kế sổ chất lượng dự án"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Chi phí tư vấn thuộc phân loại chi phí theo:",
+    "answer": "Theo cơ cấu phân tách công việc (Work Breakdown Structure – WBS)"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Đâu không phải là phân loại dự án theo cơ cấu phân tách công việc (WBS)",
+    "answer": "Chi phí trực tiếp"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Hệ thống thông tin dung để cải thiện các tiêu chuẩn của dự án, khắc phục các nhược điểm của cá dự án trước được gọi là:",
+    "answer": "Hệ thống thông tin các bài học kinh nghiệm"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Trong hoạt động đấu thầu, bên bán hàng hóa, dịch vụ là",
+    "answer": "Nhà thầu"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Công việc cần làm để đảm bảo chất lượng trong quá trình vận hành khai thác dự án là",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Đặc điểm nào không phải là đặc trưng của dự án",
+    "answer": "Các nguồn lực không bị giới hạn"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Kỹ thuật WBS (Work Breakdown Structure) là",
+    "answer": "Là kỹ thuật chia nhỏ dự án thành những hoạt động độc lập"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Quá trình quản trị dự án bao gồm",
+    "answer": "Chuẩn bị dự án, thực hiện dự án, vận hành kết quả dự án, kết thúc dự án"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Yêu cầu đối với công tác lập kế hoạch không bao gồm:",
+    "answer": "Kế hoạch phải thật chi tiết"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Đặc trưng của dự án là",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Đâu không phải là đặc trưng của dự án",
+    "answer": "Có thời gian không xác định"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Kế hoạch điều hành, thực hiện dự án bao gồm",
+    "answer": "Kế hoạch tổng thể dự án, lịch trình thực hiện dự án, kế hoạch hành động,"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Trong các phương pháp sau, đâu không phải là phương pháp lựa chọn nhà thầu",
+    "answer": "Phương pháp giá trung bình cao nhất"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Chủ đầu tư có thể lựa chọn hình thức nào để lựa chọn đối tác",
+    "answer": "Cả a, b và c"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Phân loại hợp đồng theo tính chất, nội dung công việc không bao gồm",
+    "answer": "Hợp đồng thầu chính"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Trong hoạt động đấu thầu, bên bán hàng hóa, dịch vụ là",
+    "answer": "Nhà thầu"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Đâu là loại hợp đồng phân loại theo mối quan hệ của các bên tham gia hợp đồng",
+    "answer": "Hợp đồng thầu phụ"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Trong hoạt động đấu thầu, đối tượng nào không phải là bên mua hàng hóa, dịch vụ:",
+    "answer": "Nhà thầu"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Trong sơ đồ AON, hoạt động song song là",
+    "answer": "Những hoạt động có thể diễn ra cùng một lúc"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Trong các phương pháp sau, phương pháp nào không phải là công cụ quản lý tiến độ dự án",
+    "answer": "Phương pháp Hungary"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Trong sơ đồ AON, hoạt động hợp nhất là",
+    "answer": "Những hoạt động có nhiều hơn một hoạt động ngay trước nó"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Trong sơ đồ AON, những hoạt động có thể diễn ra cùng một lúc là",
+    "answer": "Hoạt động song song"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Kỹ thuật chia nhỏ công việc trong quản lý tiến độ dự án được gọi là",
+    "answer": "WBS"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Biểu đồ Gantt là công cụ quản lý tiến độ dự án bằng cách",
+    "answer": "Vẽ biểu đồ thời gian"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Trong sơ đồ AON, Những hoạt động có nhiều hơn một hoạt động ngay trước nó là",
+    "answer": "Hoạt động hợp nhất"
+  },
+  {
+    "id": 116,
+    "premium": true,
+    "question": "Lợi ích mà doanh nghiệp có được từ việc sử dụng văn phòng dự án",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 117,
+    "premium": true,
+    "question": "Chi phí giải phóng mặt bằng không bao gồm",
+    "answer": "Chi phí đào tạo và chuyển giao công nghệ"
+  },
+  {
+    "id": 118,
+    "premium": true,
+    "question": "Phân loại hợp đồng theo tính chất, nội dung công việc không bao gồm",
+    "answer": "Hợp đồng thầu chính"
+  },
+  {
+    "id": 119,
+    "premium": true,
+    "question": "Nội dung giám sát chất lượng dự án",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 120,
+    "premium": true,
+    "question": "Thực hiện đảm bảo chất lượng dự án cần chú ý",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 121,
+    "premium": true,
+    "question": "Kế hoạch tổng thể thực hiện dự án thường bao gồm mấy nội dung",
+    "answer": "9"
+  },
+  {
+    "id": 122,
+    "premium": true,
+    "question": "Đâu là phân loại dự án theo tính chất của chi phí",
+    "answer": "Chi phí gián tiếp"
+  },
+  {
+    "id": 123,
+    "premium": true,
+    "question": "Trong các phương pháp sau, phương pháp nào không phải là công cụ quản lý tiến độ dự án",
+    "answer": "Phương pháp Hungary"
+  },
+  {
+    "id": 124,
+    "premium": true,
+    "question": "Kế hoạch điều hành, thực hiện dự án bao gồm",
+    "answer": "Kế hoạch tổng thể dự án, lịch trình thực hiện dự án, kế hoạch hành động,"
+  },
+  {
+    "id": 125,
+    "premium": true,
+    "question": "Hệ thống thông tin dùng để lưu trữ lại việc thất bại trong thử nghiệm nào đó của dự án được gọi là:",
+    "answer": "Hệ thống thông tin báo cáo thất bại"
+  },
+  {
+    "id": 126,
+    "premium": true,
+    "question": "Quá trình quản trị dự án gồm",
+    "answer": "Chuẩn bị dự án, thực hiện dự án, vận hành kết quả dự án, kết thúc dự án"
+  },
+  {
+    "id": 127,
+    "premium": true,
+    "question": "Chi phí trực tiếp thuộc phân loại chi phí theo:",
+    "answer": "Theo tính chất của chi phí"
+  },
+  {
+    "id": 128,
+    "premium": true,
+    "question": "Nội dung giám sát chất lượng dự án là:",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 129,
+    "premium": true,
+    "question": "Các buổi họp kết thúc dự án cần trả lời được câu hỏi",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 130,
+    "premium": true,
+    "question": "Đâu không phải là nhiệm vụ của văn phòng dự án",
+    "answer": "Quản trị hàng dự trữ"
+  },
+  {
+    "id": 131,
+    "premium": true,
+    "question": "Đặc trưng của dự án là",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 132,
+    "premium": true,
+    "question": "Trong hoạt động đấu thầu, đối tượng nào không phải là bên mua hàng hóa, dịch vụ:",
+    "answer": "Nhà thầu"
+  },
+  {
+    "id": 133,
+    "premium": true,
+    "question": "Văn phòng dự án giám sát những công việc nào",
+    "answer": "Tất cả các ý trên"
+  },
+  {
+    "id": 134,
+    "premium": true,
+    "question": "Đâu không phải bước trong quy trình đấu thầu",
+    "answer": "Quản trị chi phí"
+  },
+  {
+    "id": 135,
+    "premium": true,
+    "question": "Căn cứ chủ yếu của đảm bảo chất lượng dự án không bao gồm",
+    "answer": "Sổ tay chất lượng"
+  },
+  {
+    "id": 136,
+    "premium": true,
+    "question": "Biểu đồ Gantt là công cụ quản lý tiến độ dự án bằng cách",
+    "answer": "Vẽ biểu đồ thời gian"
+  },
+  {
+    "id": 137,
+    "premium": true,
+    "question": "Nội dung của quản lý chất lượng dự án không bao gồm",
+    "answer": "Chuyển giao chất lượng dự án"
+  },
+  {
+    "id": 138,
+    "premium": true,
+    "question": "Sử dụng văn phòng dự án mang lại lợi ích là:",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 139,
+    "premium": true,
+    "question": "Danh mục các nhân tố cần quan tâm khi quản lý chi phí",
+    "answer": "Cả 3 ý kiến trên"
+  },
+  {
+    "id": 140,
+    "premium": true,
+    "question": "Trong các hoạt động sau, đâu không phải là một dự án",
+    "answer": "Bán xăng dầu trong một trạm xăng"
+  },
+  {
+    "id": 141,
+    "premium": true,
+    "question": "Kế hoạch điều hành, thực hiện dự án không bao gồm",
+    "answer": "Dự báo nhu cầu"
+  },
+  {
+    "id": 142,
+    "premium": true,
+    "question": "Các nguyên tắc đảm bảo chất lượng dự án",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 143,
+    "premium": true,
+    "question": "Các chức năng của quản trị dự án không bao gồm",
+    "answer": "Thiết kế"
+  },
+  {
+    "id": 144,
+    "premium": true,
+    "question": "âu là loại hợp đồng phân loại theo mối quan hệ của các bên tham gia hợp đồng",
+    "answer": "Hợp đồng thầu chính"
+  },
+  {
+    "id": 145,
+    "premium": true,
+    "question": "Đâu không phải là nguyên tắc đảm bảo chất lượng dự án",
+    "answer": "Ưu tiên nhu cầu của chủ đầu tư là trên hết"
+  },
+  {
+    "id": 146,
+    "premium": true,
+    "question": "Đâu không phải là công cụ quản lý tiến độ dự án",
+    "answer": "Độ lệch tuyệt đối bình quân MAD"
+  },
+  {
+    "id": 147,
+    "premium": true,
+    "question": "Thực hiện đảm bảo chất lượng dự án cần lưu ý:",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 148,
+    "premium": true,
+    "question": "AON là công cụ quản lý tiến độ dự án bằng cách",
+    "answer": "Lập sơ đồ mạng lưới"
+  },
+  {
+    "id": 149,
+    "premium": true,
+    "question": "Ưu điểm của đấu thầu hạn chế là:",
+    "answer": "Tiết kiệm thời gian"
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "Chi phí thiết bị không bao gồm",
+    "answer": "Chi phí xây dựng"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Kỹ thuật chia nhỏ dự án thành những hoạt động độc lập theo các cấp độ khác nhau được gọi là",
+    "answer": "Kỹ thuật WBS"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Ưu điểm của đấu thầu rộng rãi không bao gồm:",
+    "answer": "Tiết kiệm thời gian"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Kỹ thuật WBS (Work Breakdown Structure) là",
+    "answer": "Là kỹ thuật chia nhỏ dự án thành những hoạt động độc lập"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Công thức tính thời gian ước lượng của một hoạt động trong dự án là:",
+    "answer": "(a \\+ 4m \\+ b)/6"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Nhiệm vụ của văn phòng dự án là:",
+    "answer": "Tất cả các ý trên"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Phân loại dự án theo mối quan hệ giữa các chủ thể trong dự án không bao gồm",
+    "answer": "Dự án chuyển giao"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "“Ấn định thời gian bảo hành:” là nội dung trong quá trình",
+    "answer": "Vận hành khai thác dự án"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Trong các tác dụng sau, đâu không phải là tác dụng của giám sát chất lượng dự án",
+    "answer": "Là cơ sở để xây dựng mạng lưới dự án"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Hệ thống thông tin dùng để cải thiện các tiêu chuẩn của dự án, khắc phục các nhược điểm của cá dự án trước được gọi là:",
+    "answer": "Hệ thống thông tin các bài học kinh nghiệm"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Ưu điểm của đấu thầu rộng rãi không bao gồm:",
+    "answer": "Chi phí thấp"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Ưu điểm của đấu thầu hạn chế là:",
+    "answer": "Tiết kiệm chi phí"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Hệ thống thông tin để tính toán chi phí ước tính hoàn thành công việc, thời gian ước tính hoàn thành công việc, phần trăm hoàn thành hay các xu hướng được gọi là:",
+    "answer": "Hệ thống thông tin đo lường giá trị đạt được"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Đâu không phải là tác dụng của giám sát chất lượng dự án",
+    "answer": "Xác định quy mô dự án"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Đâu không phải là phân loại dự án theo giai đoạn",
+    "answer": "Chi phí tư vấn"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Văn phòng dự án thực hiện giám sát những công việc nào",
+    "answer": "Tất cả các ý trên"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Trong sơ đồ AON, hoạt động bùng nổ là",
+    "answer": "Những hoạt động có nhiều hơn một hoạt động liền sau nó"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Chủ đầu tư có thể lựa chọn hình thức nào để lựa chọn đối tác",
+    "answer": "Cả a, b và c"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Trong hoạt động đấu thầu, bên bán hàng hóa, dịch vụ là",
+    "answer": "Nhà thầu"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Công thức tính thời gian ước lượng của một hoạt động trong dự án là:",
+    "answer": "(a \\+ 4m \\+ b)/6"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Để đảm bảo chất lượng trong quá trình thực hiện dự án, công việc cần làm là:",
+    "answer": "đảm bảo an toàn trong vận hành khi thi công xây dựng công trình"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Nội dung nào không thuộc nội dung của quản lý chất lượng dự án",
+    "answer": "Thiết kế sổ chất lượng dự án"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Hệ thống thông tin dung để cải thiện các tiêu chuẩn của dự án, khắc phục các nhược điểm của cá dự án trước được gọi là:",
+    "answer": "Hệ thống thông tin các bài học kinh nghiệm"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Trong sơ đồ AON, những hoạt động có nhiều hơn một hoạt động liền sau nó là",
+    "answer": "Hoạt động bùng nổ"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Phân loại hợp đồng theo tính chất, nội dung công việc không bao gồm",
+    "answer": "Hợp đồng trọn gói"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Hệ thống thông tin để tính toán chi phí ước tính hoàn thành công việc, thời gian ước tính hoàn thành công việc, phần trăm hoàn thành hay các xu hướng được gọi là:",
+    "answer": "Hệ thống thông tin đo lường giá trị đạt được"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Công việc cần làm để đảm bảo chất lượng trong quá trình thiết kế dự án là",
+    "answer": "Thu thập đầy đủ, chính xác các yêu cầu của khách hàng"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Đặc điểm nào không phải là đặc trưng của dự án",
+    "answer": "Các nguồn lực không bị giới hạn"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Đâu không phải bước trong quy trình đấu thầu",
+    "answer": "Nghiên cứu khả thi"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Hoạt động cải tiến dự án thông qua kỹ thuật so sánh tình hình hoạt động giữa các tổ chức khác nhau nhưng hoạt động trong lĩnh vực tương tự nhau hoặc giữa các bộ phận trong cùng một tổ chức được gọi là kỹ thuật:",
+    "answer": "Benchmarking"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Trong sơ đồ AON, những hoạt động có thể diễn ra cùng một lúc là",
+    "answer": "Hoạt động song song"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Đâu là phân loại dự án theo tính chất của chi phí",
+    "answer": "Chi phí trực tiếp"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Các chức năng của quản trị dự án là",
+    "answer": "Lập kế hoạch, tổ chức thực hiện, điều hành, kiểm tra kiểm soát."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Chi phí dự án là",
+    "answer": "Toàn bộ các tiêu hao về nguồn lực đầu vào cần thiết được tính bằng tiền để thực hiện dự án"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Đâu không phải là phương pháp lựa chọn nhà thầu",
+    "answer": "Phương pháp giá cao nhất"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Hoạt động nào sau đây không phải là một dự án",
+    "answer": "Hoạt động sản xuất gạch ngói cảu một công ty"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Đâu là loại hợp đồng phân loại theo mối quan hệ của các bên tham gia hợp đồng",
+    "answer": "Hợp đồng thầu phụ"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Nhược điểm của phương pháp chí phí theo mốc công việc",
+    "answer": "Cả 3 ý kiến trên"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Đâu không phải là một dự án",
+    "answer": "Hoạt động sản xuất bánh mì tại 1 xưởng bánh mì"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Danh mục các nhân tố cần quan tâm khi quản lý chi phí",
+    "answer": "Cả 3 ý kiến trên"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Nhiệm vụ của lịch trình thực hiện dự án là",
+    "answer": "Xác định rõ trình tự và thời gian thực hiện các hoạt động dự án"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Trong các hình thức sau, đâu không phải là hình thức phổ biến của văn phòng dự án",
+    "answer": "Văn phòng dự án theo tiêu chuẩn chất lượng"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Nhược điểm của phương pháp chí phí theo mốc công việc là:",
+    "answer": "Cả 3 ý kiến trên"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Đâu không phải là căn cứ chủ yếu của đảm bảo chất lượng dự án",
+    "answer": "Giám sát chất lượng"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Đâu không phải là hình thức chủ đầu tư có thể thực hiện để lựa chọn đối tác",
+    "answer": "Tổ chức họp báo"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Để đảm bảo chất lượng trong quá trình thiết kế dự án cần làm công việc nào sau đây:",
+    "answer": "Thu thập đầy đủ, chính xác các yêu cầu của khách hàng"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "“Thỏa mãn các khiếu nại của khách hàng khi cung cấp sản phẩm có chất lượng không đảm bảo” là nội dung trong quá trình",
+    "answer": "Vận hành khai thác dự án"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Trong sơ đồ AON, Những hoạt động có nhiều hơn một hoạt động ngay trước nó là",
+    "answer": "Hoạt động hợp nhất"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Hoạt động cải tiến dự án thông qua kỹ thuật so sánh tình hình hoạt động giữa các tổ chức khác nhau nhưng hoạt động trong lĩnh vực tương tự nhau hoặc giữa các bộ phận trong cùng một tổ chức được gọi là kỹ thuật:",
+    "answer": "Benchmarking"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Để tạo lập được một hợp đồng có hiệu lực, điều kiện nào sau đây là sai",
+    "answer": "Người có năng lực thực hiện hành vi dân sự bị hạn chế"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Chi phí thiết bị không bao gồm",
+    "answer": "Chi phí tư vấn"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Đâu không phải là nhiệm vụ của văn phòng dự án",
+    "answer": "Hoạch định công suất của doanh nghiệp"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Đâu không phải là đặc trưng của dự án",
+    "answer": "Có thời gian không xác định"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Trong các phương pháp sau, đâu không phải là phương pháp lựa chọn nhà thầu",
+    "answer": "Phương pháp giá trung bình cao nhất"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Trong xác định chi phí dự phòng, Kdp là hệ số/tỷ lệ dự phòng, giao động trong khoảng",
+    "answer": "10-20%"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Chi phí giải phóng mặt bằng không bao gồm",
+    "answer": "Chi phí lắp đặt thiết bị và thí nghiệm, hiệu chỉnh"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Hệ thống thông tin dùng để lưu trữ lại một dự án thất bại hoàn toàn hoặc chỉ đơn giản là thất bại trong một thử nghiệm nào đó của dự án được gọi là:",
+    "answer": "Hệ thống thông tin báo cáo thất bại"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Để đảm bảo chất lượng trong quá trình vận hành khai thác dự án, cần:",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Trong sơ đồ AON, hoạt động hợp nhất là",
+    "answer": "Những hoạt động có nhiều hơn một hoạt động ngay trước nó"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Kỹ thuật chia nhỏ công việc trong quản lý tiến độ dự án được gọi là",
+    "answer": "WBS"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Các công cụ quản lý tiến độ dự án là",
+    "answer": "Gantt, AON, WBS"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Đâu không phải là ưu điểm của biểu đồ Gantt:",
+    "answer": "Phù hợp với những dự án phức tạp"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Chi phí tư vấn thuộc phân loại chi phí theo:",
+    "answer": "Theo cơ cấu phân tách công việc (Work Breakdown Structure – WBS)"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Đâu không phải là phân loại dự án theo cơ cấu phân tách công việc (WBS)",
+    "answer": "Chi phí năm"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Trong sơ đồ mạng lưới AON, ký hiệu ES là",
+    "answer": "Thời gian bắt đầu sớm nhất"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Đâu không phải là ưu điểm của biểu đồ Gantt:",
+    "answer": "Phù hợp với những dự án phức tạp"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Phân loại hợp đồng theo giá hợp đồng không bao gồm",
+    "answer": "Hợp đồng giao khoán nội bộ"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Để tạo lập được một hợp đồng có hiệu lực, điều kiện nào sau đây là không chính xác",
+    "answer": "Người trên 16 tuổi"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Công việc cần làm để đảm bảo chất lượng trong quá trình thực hiện dự án là",
+    "answer": "Đảm bảo an toàn phòng chống cháy nổ khi thi công xây dựng công trình"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Yêu cầu đối với công tác lập kế hoạch không bao gồm:",
+    "answer": "Kế hoạch phải thật chi tiết"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Đâu không phải là phân loại dự án theo cơ cấu phân tách công việc (WBS)",
+    "answer": "Chi phí trực tiếp"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Trong sơ đồ mạng lưới AON, thời gian bắt đầu sớm nhất ký hiệu là",
+    "answer": "ES"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Công việc cần làm để đảm bảo chất lượng trong quá trình vận hành khai thác dự án là",
+    "answer": "Cả 3 ý trên"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Yêu cầu đối với công tác lập kế hoạch không bao gồm:",
+    "answer": "Kế hoạch phải thật chi tiết"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Các buổi họp kết thúc dự án cần trả lời được câu hỏi",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Trong xác định chi phí dự phòng, Kdp là hệ số/tỷ lệ dự phòng, giao động trong khoảng",
+    "answer": "10-20%"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Đâu là phân loại dự án theo giai đoạn",
+    "answer": "Chi phí giai đoạn phát triển"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Các công cụ quản lý tiến độ dự án là",
+    "answer": "Gantt, AON, WBS"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Quá trình quản trị dự án bao gồm",
+    "answer": "Chuẩn bị dự án, thực hiện dự án, vận hành kết quả dự án, kết thúc dự án"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Đâu không phải là mục tiêu của quản trị dự án",
+    "answer": "Đưa ra quyết định định vị doanh nghiệp"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Đâu không phải là hình thức phổ biến của văn phòng dự án",
+    "answer": "Văn phòng dự án theo định vị của doanh nghiệp"
+  }
+]

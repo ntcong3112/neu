@@ -9,7 +9,7 @@ import {
   Typography,
   Button,
   Chip,
-  Stack
+  Stack,
 } from '@mui/material';
 import * as dropdownData from './data';
 import Scrollbar from 'src/components/custom-scroll/Scrollbar';
@@ -63,53 +63,55 @@ const Notifications = () => {
         }}
       >
         <Stack direction="row" py={2} px={4} justifyContent="space-between" alignItems="center">
-          <Typography variant="h6">Notifications</Typography>
-          <Chip label="5 new" color="primary" size="small" />
+          <Typography variant="h6">Thông bảo</Typography>
+          <Chip label="1 thông báo mới" color="primary" size="small" />
         </Stack>
         <Scrollbar sx={{ height: '385px' }}>
           {dropdownData.notifications.map((notification, index) => (
-            <Box key={index}>
-              <MenuItem sx={{ py: 2, px: 4 }}>
-                <Stack direction="row" spacing={2}>
-                  <Avatar
-                    src={notification.avatar}
-                    alt={notification.avatar}
-                    sx={{
-                      width: 48,
-                      height: 48,
-                    }}
-                  />
-                  <Box>
-                    <Typography
-                      variant="subtitle2"
-                      color="textPrimary"
-                      fontWeight={600}
-                      noWrap
+            <Link to="/donate" key={index}>
+              <Box>
+                <MenuItem sx={{ py: 2, px: 4 }}>
+                  <Stack direction="row" spacing={2}>
+                    <Avatar
+                      src={notification.avatar}
+                      alt={notification.avatar}
                       sx={{
-                        width: '240px',
+                        width: 48,
+                        height: 48,
                       }}
-                    >
-                      {notification.title}
-                    </Typography>
-                    <Typography
-                      color="textSecondary"
-                      variant="subtitle2"
-                      sx={{
-                        width: '240px',
-                      }}
-                      noWrap
-                    >
-                      {notification.subtitle}
-                    </Typography>
-                  </Box>
-                </Stack>
-              </MenuItem>
-            </Box>
+                    />
+                    <Box>
+                      <Typography
+                        variant="subtitle2"
+                        color="textPrimary"
+                        fontWeight={600}
+                        noWrap
+                        sx={{
+                          width: '240px',
+                        }}
+                      >
+                        {notification.title}
+                      </Typography>
+                      <Typography
+                        color="textSecondary"
+                        variant="subtitle2"
+                        sx={{
+                          width: '240px',
+                        }}
+                        noWrap
+                      >
+                        {notification.subtitle}
+                      </Typography>
+                    </Box>
+                  </Stack>
+                </MenuItem>
+              </Box>
+            </Link>
           ))}
         </Scrollbar>
         <Box p={3} pb={1}>
-          <Button to="/apps/email" variant="outlined" component={Link} color="primary" fullWidth>
-            See all Notifications
+          <Button to="/donate" variant="outlined" component={Link} color="primary" fullWidth>
+            Ủng Hộ Tác Giả
           </Button>
         </Box>
       </Menu>

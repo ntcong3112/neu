@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Kiểm tra viên là người được bổ nhiệm theo quy định của pháp luật để giúp Kiểm sát viên thực hành quyền công tố, kiểm sát hoạt động tư pháp; thực hiện các nhiệm vụ, quyền hạn khác theo sự phân công của ai ?",
+    "answer": "Viện trưởng Viện kiểm sát nhân dân."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Ủy ban Thẩm phán Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương có nhiệm vụ, quyền hạn?",
+    "answer": "Cả B, C, D"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương được bổ nhiệm, miễn nhiệm, cách chức bởi ai?",
+    "answer": "Chánh án Tòa án nhân dân tối cao"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Hội đồng Thẩm phán Tòa án nhân dân tối cao xét xử giám đốc thẩm, tái thẩm bằng Hội đồng xét xử gồm ?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Quyết định giải quyết khiếu nại, kiến nghị của Chánh án Tòa án là quyết định cuối cùng và phải được cấp hoặc gửi ngay cho ai?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Đâu là biện pháp khẩn cấp tạm thời?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Người có một trong các hành vi nào sau đây thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật?",
+    "answer": "Tất cả đáp án trên"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Khiếu kiện nào thuộc thẩm quyền của Tòa án cấp huyện?",
+    "answer": "Khiếu kiện danh sách cử tri của cơ quan lập danh sách cử tri trên cùng phạm vi địa giới hành chính với Tòa án."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Đơn đề nghị xem xét bản án, quyết định của Tòa án đã có hiệu lực pháp luật theo thủ tục giám đốc thẩm phải có các nội dung chính nào?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Hoàn thành câu: “Kiểm tra viên chịu trách nhiệm trước pháp luật, trước …… và trước Viện trưởng Viện kiểm sát nhân dân về việc thực hiện nhiệm vụ, quyền hạn của mình; nếu có hành vi vi phạm pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự”?",
+    "answer": "Kiểm sát viên"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Cho biết cơ quan nào là cơ quan tiến hành tố tụng hành chính?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "“Việc xét xử sơ thẩm vụ án hành chính có …. tham gia, trừ trường hợp xét xử theo thủ tục rút gọn theo quy định của Luật này. Khi biểu quyết về quyết định giải quyết vụ án, …. ngang quyền với Thẩm phán.” Điền cụm từ thích hợp vào dấu ba chấm?",
+    "answer": "Hội thẩm nhân dân"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "“Tòa án nhân dân …. giám đốc việc xét xử của các Tòa án; Tòa án nhân dân cấp cao giám đốc việc xét xử của Tòa án nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Tòa án cấp tỉnh), Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương (sau đây gọi chung là Tòa án cấp huyện) trong phạm vi thẩm quyền theo lãnh thổ để bảo đảm việc áp dụng thống nhất pháp luật trong xét xử.” Điền từ vào chỗ trống?",
+    "answer": "Tối cao"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Tòa án ra quyết định định giá tài sản và thành lập Hội đồng định giá khi thuộc một trong các trường hợp nào sau đây?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Tổ chức bộ máy của Viện kiểm sát nhân dân tối cao gồm ?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Ai có quyền phê chuẩn đề nghị bổ nhiệm Thẩm phán Tòa án nhân dân tối cao?",
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Tòa án nhân dân cấp tỉnh có các ngạch Thẩm tra viên nào?",
+    "answer": "Thẩm tra viên chính"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Thời hiệu khởi kiện đối với quyết định hành chính, hành vi hành chính, quyết định kỷ luật buộc thôi việc là bao lâu kể từ ngày nhận được hoặc biết được quyết định hành chính, hành vi hành chính, quyết định kỷ luật buộc thôi việc?",
+    "answer": "Một năm"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nhiệm vụ, quyền hạn của Chánh án Tòa án là gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Số lượng thành viên Ủy ban Thẩm phán Tòa án nhân dân cấp cao ?",
+    "answer": "không dưới mười một người và không quá mười ba người."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Hoàn thành câu sau: “Việc thành lập, giải thể Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực do Viện trưởng Viện kiểm sát nhân dân tối cao thống nhất với …… trình Ủy ban thường vụ Quốc hội quyết định”.",
+    "answer": "Bộ trưởng Bộ Quốc phòng"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Quyền, nghĩa vụ của đương sự là gì?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương có nhiệm vụ, quyền hạn gì?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "“Kiểm sát bản án, quyết định của Tòa án” là nhiệm vụ của ai?",
+    "answer": "Kiểm sát viên"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Người bảo vệ quyền và lợi ích hợp pháp của đương sự có các quyền, nghĩa vụ nào sau đây?",
+    "answer": "Cả B, C, D"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Hoàn thành câu “Thư ký Tòa án là người có trình độ …. trở lên được Tòa án tuyển dụng, được đào tạo nghiệp vụ Thư ký Tòa án và bổ nhiệm vào ngạch Thư ký Tòa án”?",
+    "answer": "Cử nhân luật"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Kiểm tra viên có những nhiệm vụ, quyền hạn gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Tiêu chuẩn nào sau đây Không phải là tiêu chuẩn Thẩm phán tòa án nhân dân?",
+    "answer": "Thành thạo 2 ngoại ngữ"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Việc áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời tại phiên tòa do ai xem xét, quyết định?",
+    "answer": "Hội đồng xét xử"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Hội đồng xét xử sơ thẩm có thể gồm 02 Thẩm phán và 03 Hội thẩm nhân dân trong trường hợp nào sau đây?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Cơ cấu tổ chức của Tòa án nhân dân thành phố trực thuộc trung ương gồm?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Kiểm tra viên có các ngạch nào?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Cơ quan nào có nghĩa vụ cấp, tống đạt hoặc thông báo văn bản tố tụng cho đương sự?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Tiêu chuẩn bổ nhiệm Kiểm sát viên Viện kiểm sát nhân dân tối cao là gì?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "“Tòa án xét xử …. trong thời hạn do Luật này quy định, bảo đảm công bằng”. Điền từ vào chỗ trống?",
+    "answer": "Kịp thời"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân vi phạm pháp luật, vi phạm kỷ luật thì tùy theo tính chất, mức độ vi phạm sẽ xử lý như thế nào theo quy định của pháp luật và quy định của Viện kiểm sát nhân dân?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Bản án, quyết định của Tòa án đã có hiệu lực pháp luật bị kháng nghị theo thủ tục tái thẩm khi có một trong những căn cứ gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Nhiệm kỳ của Hội thẩm quân nhân?",
+    "answer": "Năm năm"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Hoàn thiện câu sau: “Việc thành lập, giải thể Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện do …… quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao”?",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Điều kiện bổ nhiệm Thẩm phán Tòa án nhân dân tối cao?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Chế độ tiền lương đối với Kiểm sát viên, Điều tra viên, Kiểm tra viên của Viện kiểm sát nhân dân do ai quyết định ?",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Thẩm tra viên có nhiệm vụ, quyền hạn gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Thành phần phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và đối thoại bao gồm ai?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Khiếu kiện nào KHÔNG thuộc thẩm quyền của Tòa án cấp tỉnh?",
+    "answer": "Khiếu kiện danh sách cử tri của cơ quan lập danh sách cử tri trên cùng phạm vi địa giới hành chính với Tòa án."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Ai có quyền kháng cáo bản án, quyết định tạm đình chỉ, đình chỉ việc giải quyết vụ án của Tòa án cấp sơ thẩm để yêu cầu Tòa án cấp phúc thẩm giải quyết lại theo thủ tục phúc thẩm?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Luật tố tụng hành chính được áp dụng đối với mọi hoạt động tố tụng hành chính trên lãnh thổ bao gồm những vùng gì của nước Cộng hòa xã hội chủ nghĩa Việt Nam?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Tòa án nào có thẩm quyền đào tạo; bồi dưỡng Thẩm phán, Hội thẩm, các chức danh khác của Tòa án nhân dân?",
+    "answer": "TAND tối cao"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Tòa án nhân dân cấp cao phúc thẩm vụ việc mà bản án, quyết định sơ thẩm của Tòa án nhân dân nào thuộc phạm vi thẩm quyền theo lãnh thổ chưa có hiệu lực pháp luật bị kháng cáo, kháng nghị theo quy định của luật tố tụng?",
+    "answer": "Tòa án nhân dân cấp tỉnh"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Chủ thể nào có trách nhiệm tiến hành đối thoại và tạo điều kiện thuận lợi để các đương sự đối thoại với nhau về việc giải quyết vụ án theo quy định của Luật này?",
+    "answer": "Tòa án"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Các trường hợp nào phải hoãn phiên tòa?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Đâu không phải là nhiệm vụ, quyền hạn của Viện trưởng Viện kiểm sát?",
+    "answer": "Kiểm sát việc thụ lý, giải quyết vụ án."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Người khởi kiện có các quyền, nghĩa vụ là gì?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Cơ cấu tổ chức của Tòa án nhân dân cấp cao gồm?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Việc áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời trước khi mở phiên tòa do ai xem xét, quyết định?",
+    "answer": "Thẩm phán"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Nhiệm vụ, quyền hạn nào Không phải của Thư ký Tòa án?",
+    "answer": "Thu thập tài liệu chứng cứ"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Điền cụm từ thích hợp vào dấu ba chấm? “Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm bản án, quyết định đã có hiệu lực pháp luật của Tòa án nhân dân cấp cao; những bản án, quyết định đã có hiệu lực pháp luật của Tòa án khác khi xét thấy cần thiết, trừ quyết định của…..”.",
+    "answer": "Hội đồng Thẩm phán Tòa án nhân dân tối cao"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp tỉnh là gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Điền vào chỗ trống? “Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương đề xuất nhu cầu về số lượng, cơ cấu thành phần Hội thẩm đề nghị …. lựa chọn và giới thiệu người đủ tiêu chuẩn.”",
+    "answer": "Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Thẩm phán trả lại đơn khởi kiện trong những trường hợp nào sau đây?",
+    "answer": "Cả A, C"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Nhiệm vụ, quyền hạn của Viện trưởng Viện kiểm sát nhân dân tối cao là gì?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Thành phần tham gia nghị án gồm?",
+    "answer": "Thành viên của Hội đồng xét xử"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Trước khi có quyết định đưa vụ án ra xét xử theo thủ tục sơ thẩm mà có căn cứ xác định việc giải quyết vụ án thuộc thẩm quyền của Tòa án khác thì Thẩm phán được phân công giải quyết vụ án hành chính ra quyết định gì cho Tòa án có thẩm quyền và xóa sổ thụ lý, đồng thời thông báo cho đương sự và Viện kiểm sát cùng cấp?",
+    "answer": "chuyển hồ sơ vụ án"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Kiểm sát viên, Kiểm tra viên phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu thuộc một trong những trường hợp nào?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Tòa án nhân dân Tối cao xét xử các vụ án thuộc thẩm quyền theo thủ tục xét xử nào?",
+    "answer": "Giám đốc thẩm"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Ngạch Kiểm sát viên Viện kiểm sát nhân dân gồm ?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Đương sự thực hiện quyền, nghĩa vụ của đương sự trong tố tụng hành chính thông qua người đại diện theo pháp luật là đối tượng nào?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Tòa án có trách nhiệm bảo đảm cho đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự thực hiện quyền gì trong xét xử sơ thẩm, phúc thẩm, giám đốc thẩm, tái thẩm theo quy định của pháp luật tố tụng hành chính?",
+    "answer": "tranh tụng"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Trong thời hạn bao nhiêu ngày làm việc kể từ ngày thụ lý vụ án, Thẩm phán đã thụ lý vụ án phải thông báo bằng văn bản cho người bị kiện, người có quyền lợi, nghĩa vụ liên quan đến việc giải quyết vụ án và Viện kiểm sát cùng cấp về việc Tòa án đã thụ lý vụ án?",
+    "answer": "Ba ngày làm việc"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao gồm?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Nhiệm kỳ của Chánh án Tòa án nhân dân cấp cao?",
+    "answer": "năm năm"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "“Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam chủ trì phối hợp với …… và Tòa án nhân dân tối cao trình Ủy ban thường vụ Quốc hội ban hành Quy chế tổ chức và hoạt động của Đoàn Hội thẩm”. Điền cụm từ thích hợp vào dấu ba chấm?",
+    "answer": "Bộ Nội vụ"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Hoàn thiện câu sau: “Việc thành lập, giải thể Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện do …… quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao”?",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Luật Tổ chức Tòa án nhân dân 2014 quy định có những ngạch Thẩm phán nào?",
+    "answer": "Tất cả A,B và C"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Ai có quyền kháng cáo bản án, quyết định tạm đình chỉ, đình chỉ việc giải quyết vụ án của Tòa án cấp sơ thẩm để yêu cầu Tòa án cấp phúc thẩm giải quyết lại theo thủ tục phúc thẩm?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Tiêu chuẩn nào sau đây Không phải là tiêu chuẩn Thẩm phán tòa án nhân dân?",
+    "answer": "Thành thạo 2 ngoại ngữ"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao họp do ai chủ trì để thảo luận và quyết định những vấn đề quan trọng về chương trình, kế hoạch công tác của ngành Kiểm sát nhân dân?",
+    "answer": "Viện trưởng viện kiểm sát nhân dân tối cao"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Tòa án cấp phúc thẩm xem xét lại phần bản án, quyết định nào của Tòa án cấp sơ thẩm có kháng cáo, kháng nghị?",
+    "answer": "cả B và C"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "‘Cơ quan, tổ chức, cá nhân có quyền khiếu nại; cá nhân có quyền … hành vi, quyết định trái pháp luật của cơ quan tiến hành tố tụng, người tiến hành tố tụng hoặc của bất cứ cơ quan, tổ chức, cá nhân nào trong hoạt động tố tụng hành chính”. Điền từ vào chỗ trống?",
+    "answer": "Tố cáo"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Viện trưởng Viện kiểm sát nhân dân cấp cao có những nhiệm vụ, quyền hạn ?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Kiểm sát viên được bổ nhiệm lại thì nhiệm kỳ là bao lâu?",
+    "answer": "Mười năm"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Ai có quyền kháng nghị bản án, quyết định tạm đình chỉ, quyết định đình chỉ giải quyết vụ án của Tòa án cấp sơ thẩm để yêu cầu Tòa án cấp phúc thẩm giải quyết lại theo thủ tục phúc thẩm?",
+    "answer": "Cả A, D"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Đơn đề nghị xem xét bản án, quyết định của Tòa án đã có hiệu lực pháp luật theo thủ tục giám đốc thẩm phải có các nội dung chính nào?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Việc đối thoại phải được tiến hành theo các nguyên tắc nào sau đây?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Khi biểu quyết về quyết định giải quyết vụ án, Hội thẩm nhân dân ngang quyền với ai?",
+    "answer": "Thẩm phán"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Tiêu chuẩn bổ nhiệm Kiểm sát viên trung cấp là gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Người khởi kiện có các quyền, nghĩa vụ là gì?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Hoàn thành câu: “Kiểm tra viên chịu trách nhiệm trước pháp luật, trước …… và trước Viện trưởng Viện kiểm sát nhân dân về việc thực hiện nhiệm vụ, quyền hạn của mình; nếu có hành vi vi phạm pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự”?",
+    "answer": "Kiểm sát viên"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Đâu không phải là tiêu chuẩn bổ nhiệm Kiểm sát viên cao cấp ?",
+    "answer": "Thành thạo ít nhất 2 ngoại ngữ"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Chánh án Tòa án nhân dân tối cao do Quốc hội bầu, miễn nhiệm, bãi nhiệm theo đề nghị của ai?",
+    "answer": "Chủ tịch nước"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Đối tượng điều chỉnh của luật tố tụng hành chính là gì?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề quan trọng gì?",
+    "answer": "Cả C và B"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Quyết định kỷ luật buộc thôi việc là gì?",
+    "answer": "quyết định bằng văn bản của người đứng đầu cơ quan, tổ chức để áp dụng hình thức kỷ luật buộc thôi việc đối với công chức thuộc quyền quản lý của mình."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Ngay sau khi nhận được hồ sơ vụ án, đơn kháng cáo, quyết định kháng nghị và tài liệu, chứng cứ kèm theo, Tòa án cấp phúc thẩm phải vào sổ thụ lý. Trong thời hạn bao nhiêu ngày làm việc kể từ ngày thụ lý vụ án, Tòa án phải thông báo bằng văn bản cho các đương sự và Viện kiểm sát cùng cấp về việc Tòa án đã thụ lý vụ án và thông báo trên Cổng thông tin điện tử của Tòa án (nếu có)?",
+    "answer": "03 ngày làm việc"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Đương sự thực hiện quyền, nghĩa vụ của đương sự trong tố tụng hành chính thông qua người đại diện theo pháp luật là đối tượng nào?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Vụ án được giải quyết theo thủ tục rút gọn khi có đủ các điều kiện gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Những người thực hiện việc cấp, tống đạt là ai?",
+    "answer": "Cả A, B"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Tòa án nhân dân nào quản lý các Tòa án nhân dân về tổ chức?",
+    "answer": "TAND Tối cao"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Viện kiểm sát nhân dân gồm các cấp nào?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Thẩm tra viên có nhiệm vụ, quyền hạn gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương có nhiệm vụ, quyền hạn gì?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Ngạch Kiểm sát viên Viện kiểm sát nhân dân gồm ?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Bản án, quyết định của Tòa án đã có hiệu lực pháp luật bị kháng nghị theo thủ tục giám đốc thẩm khi có một trong những căn cứ gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Bổ nhiệm, miễn nhiệm, cách chức các chức vụ trong Tòa án nhân dân cấp cao, trừ Thẩm phán, Phó Chánh án là thẩm quyền của ai?",
+    "answer": "Chánh án Tòa án nhân dân cấp cao"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Những tình tiết, sự kiện nào sau đây không phải chứng minh?",
+    "answer": "Tất cả A, B, D"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Luật tố tụng hành chính được áp dụng đối với mọi hoạt động tố tụng hành chính trên lãnh thổ bao gồm những vùng gì của nước Cộng hòa xã hội chủ nghĩa Việt Nam?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Người bị tố cáo có các quyền gì?",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Khiếu nại quyết định, hành vi của người tiến hành tố tụng là Thẩm phán, Phó Chánh án, Thẩm tra viên, Thư ký Tòa án, Hội thẩm nhân dân do ai có thẩm quyền giải quyết?",
+    "answer": "Chánh án Tòa án"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Đương sự có đầy đủ năng lực hành vi tố tụng hành chính, trừ người mất năng lực hành vi dân sự hoặc pháp luật có quy định khác là người như thế nào?",
+    "answer": "người từ đủ mười tám tuổi trở lên"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Thẩm tra viên có các ngạch gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Cơ cấu tổ chức của Tòa án nhân dân tối cao?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Những người nào sau đây được làm người bảo vệ quyền và lợi ích hợp pháp của đương sự khi có yêu cầu của đương sự và được Tòa án làm thủ tục đăng ký người bảo vệ quyền và lợi ích hợp pháp của đương sự?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương được bổ nhiệm, miễn nhiệm, cách chức bởi ai?",
+    "answer": "Chánh án Tòa án nhân dân tối cao"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Đương sự vắng mặt thì….? Điền từ vào chỗ chấm?",
+    "answer": "Cả A và D"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Tòa án nhân dân Cấp cao xét xử các vụ án thuộc thẩm quyền theo thủ tục xét xử nào?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "“Người nào bằng ảnh hưởng của mình có hành vi tác động dưới bất kỳ hình thức nào đối với ….. nhằm làm cho việc giải quyết vụ án không khách quan, không đúng pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật”. Điền vào chỗ trống?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Trường hợp người khởi kiện có đơn khởi kiện vụ án hành chính tại Tòa án có thẩm quyền, đồng thời có đơn khiếu nại đến người có thẩm quyền giải quyết khiếu nại thì giải quyết như thế nào?",
+    "answer": "Tòa án phải yêu cầu người khởi kiện lựa chọn cơ quan giải quyết và có văn bản thông báo cho Tòa án."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Nhiệm vụ, quyền hạn của Thẩm phán là gì?",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Hội thẩm nhân dân thực hiện nhiệm vụ xét xử những vụ án thuộc thẩm quyền của Tòa án nhân dân theo phân công của ai?",
+    "answer": "Chánh án tòa án"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Đâu là biện pháp khẩn cấp tạm thời?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Người tham gia tố tụng hành chính bao gồm những ai?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Hội thẩm quân nhân thực hiện nhiệm vụ xét xử những vụ án thuộc thẩm quyền của …. theo phân công của Chánh án Tòa án nơi mình được cử làm Hội thẩm quân nhân. Điền từ vào chỗ trống?",
+    "answer": "Tòa án quân sự"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "“Kiểm sát bản án, quyết định của Tòa án” là nhiệm vụ của ai?",
+    "answer": "Kiểm sát viên"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Trước khi mở phiên tòa, việc thay đổi Hội thẩm nhân dân do ai quyết định?",
+    "answer": "Chánh án tòa án"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Viện kiểm sát cùng cấp có quyền kháng nghị đối với Bản án của Tòa án cấp sơ thẩm trong thời hạn bao nhiêu ngày?",
+    "answer": "Mười lăm ngày"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Điều kiện bổ nhiệm Thẩm phán sơ cấp là gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Thư ký Tòa án có nhiệm vụ, quyền hạn ?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Tòa án nhân dân cấp tỉnh có các ngạch Thẩm tra viên nào?",
+    "answer": "Thẩm tra viên chính"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Luật Tổ chức Tòa án nhân dân 2014 quy định có những cấp tòa án nào?",
+    "answer": "Cấp Tối cao/ Cấp cao/ cấp tỉnh / cấp huyện"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Nhiệm vụ, quyền hạn nào Không phải của Thư ký Tòa án?",
+    "answer": "Thu thập tài liệu chứng cứ"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Kiểm tra viên là người được bổ nhiệm theo quy định của pháp luật để giúp Kiểm sát viên thực hành quyền công tố, kiểm sát hoạt động tư pháp; thực hiện các nhiệm vụ, quyền hạn khác theo sự phân công của ai ?",
+    "answer": "Viện trưởng Viện kiểm sát nhân dân."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Tổ chức bộ máy của Viện kiểm sát nhân dân cấp huyện gồm ?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Thư ký Tòa án, Thẩm tra viên phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu thuộc một trong những trường hợp nào sau đây?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Chế độ tiền lương đối với Kiểm sát viên, Điều tra viên, Kiểm tra viên của Viện kiểm sát nhân dân do ai quyết định ?",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Viện trưởng Viện kiểm sát nhân dân tối cao do ai bầu, miễn nhiệm, bãi nhiệm theo đề nghị của Chủ tịch nước?",
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Điều kiện bổ nhiệm Thẩm phán Tòa án nhân dân tối cao?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm là ai?",
+    "answer": "Chánh án Tòa án nhân dân tối cao"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Trách nhiệm của Hội thẩm là gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Những việc Thẩm phán không được làm là gì?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Điền từ thích hợp vào dấu ba chấm? “Trong thời gian …. làm nhiệm vụ theo sự phân công của Chánh án Tòa án thì cơ quan, tổ chức, đơn vị vũ trang nhân dân có …. đó không được điều động, phân công …. làm việc khác, trừ trường hợp đặc biệt và phải thông báo cho Chánh án Tòa án biết”.",
+    "answer": "Hội thẩm"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Đâu không phải là đối tượng điều chỉnh của luật tố tụng hành chính ?",
+    "answer": "Những quan hệ xã hội phát sinh từ quan hệ tài sản và quan hệ nhân thân"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Tổ chức bộ máy của Viện kiểm sát nhân dân tối cao gồm ?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Tố cáo hành vi vi phạm pháp luật của Chánh án tòa án thì do ai có trách nhiệm giải quyết?",
+    "answer": "Chánh án Tòa án trên một cấp trực tiếp"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "“Việc xét xử sơ thẩm vụ án hành chính có …. tham gia, trừ trường hợp xét xử theo thủ tục rút gọn theo quy định của Luật này. Khi biểu quyết về quyết định giải quyết vụ án, …. ngang quyền với Thẩm phán.” Điền cụm từ thích hợp vào dấu ba chấm?",
+    "answer": "Hội thẩm nhân dân"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Tòa án nhân dân cấp huyện có các ngạch Thư ký Tòa án nào?",
+    "answer": "Thư ký viên chính"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Nhiệm kỳ của Hội thẩm quân nhân?",
+    "answer": "Năm năm"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Thời hiệu khiếu nại là bao lâu kể từ ngày người khiếu nại nhận được hoặc biết được quyết định, hành vi tố tụng mà người đó cho rằng có vi phạm pháp luật?",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Việc áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời tại phiên tòa do ai xem xét, quyết định?",
+    "answer": "Hội đồng xét xử"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Danh sách Ủy viên Hội đồng tuyển chọn, giám sát Thẩm phán quốc gia do cơ quan nào quyết định ?",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Đâu không phải điều kiện bổ nhiệm thẩm phán trung cấp?",
+    "answer": "Thông thạo ít nhất 2 ngoại ngữ"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Khiếu kiện nào KHÔNG thuộc thẩm quyền của Tòa án cấp tỉnh?",
+    "answer": "Khiếu kiện danh sách cử tri của cơ quan lập danh sách cử tri trên cùng phạm vi địa giới hành chính với Tòa án."
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Trước khi mở phiên tòa, việc thay đổi Kiểm sát viên do ai quyết định?",
+    "answer": "Viện trưởng Viện kiểm sát cùng cấp"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Luật Tổ chức Tòa án nhân dân 2014 quy định có những ngạch Thẩm phán nào?",
+    "answer": "Tất cả A,B và C"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Tòa án nhân dân nào quản lý các Tòa án nhân dân về tổ chức?",
+    "answer": "TAND Tối cao"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Người tham gia tố tụng hành chính bao gồm những ai?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Khiếu kiện quyết định nào thuộc thẩm quyền giải quyết của tòa án nhân dân?",
+    "answer": "Quyết định hành chính kỷ luật buộc thôi việc công chức giữ chức vụ từ Tổng Cục trưởng và tương đương trở xuống."
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm được quyền kháng nghị trong thời hạn bao lâu kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật?",
+    "answer": "03 năm"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày làm việc kể từ ngày thụ lý vụ án, Chánh án Tòa án quyết định phân công Thẩm phán giải quyết vụ án?",
+    "answer": "Ba ngày làm việc"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Hội thẩm nhân dân thực hiện nhiệm vụ xét xử những vụ án thuộc thẩm quyền của Tòa án nhân dân theo phân công của ai?",
+    "answer": "Chánh án tòa án"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Căn cứ chủ yếu để phân biệt ngành luật tố tụng hành chính với ngành luật hành chính là gì?",
+    "answer": "Đối tượng điều chỉnh"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Hội thẩm Tòa án nhân dân gồm?",
+    "answer": "Cả A, B"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Đâu không phải là tiêu chuẩn bổ nhiệm Kiểm sát viên cao cấp ?",
+    "answer": "Thành thạo ít nhất 2 ngoại ngữ"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Chánh án Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương có nhiệm vụ, quyền hạn nào sau đây?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Viện trưởng Viện kiểm sát nhân dân cấp tỉnh có những nhiệm vụ, quyền hạn gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Điều kiện bổ nhiệm Thẩm phán sơ cấp là gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Thư ký Tòa án, Thẩm tra viên phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu thuộc một trong những trường hợp nào sau đây?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Những việc Kiểm sát viên không được làm là gì?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "“Tòa án có trách nhiệm tiến hành … và tạo điều kiện thuận lợi để các đương sự …. với nhau về việc giải quyết vụ án theo quy định của Luật tố tụng hành chính”. Điền từ vào chỗ trống?",
+    "answer": "đối thoại"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Đâu là hành vi cản trở việc giao, nhận, cấp, tống đạt hoặc thông báo văn bản tố tụng của Tòa án?",
+    "answer": "Cả B, C, D"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Trường hợp người khởi kiện có đơn khởi kiện vụ án hành chính tại Tòa án có thẩm quyền, đồng thời có đơn khiếu nại đến người có thẩm quyền giải quyết khiếu nại thì giải quyết như thế nào?",
+    "answer": "Tòa án phải yêu cầu người khởi kiện lựa chọn cơ quan giải quyết và có văn bản thông báo cho Tòa án."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Viện trưởng Viện kiểm sát nhân dân cấp huyện có những nhiệm vụ, quyền hạn gì?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Thời hiệu khiếu nại là bao lâu kể từ ngày người khiếu nại nhận được hoặc biết được quyết định, hành vi tố tụng mà người đó cho rằng có vi phạm pháp luật?",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Tòa chuyên trách Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương xét xử các vụ án thuộc thẩm quyền theo thủ tục xét xử nào?",
+    "answer": "Cả A, B"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Bổ nhiệm, miễn nhiệm, cách chức các chức vụ trong Tòa án nhân dân cấp cao, trừ Thẩm phán, Phó Chánh án là thẩm quyền của ai?",
+    "answer": "Chánh án Tòa án nhân dân cấp cao"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Quyết định hành chính là gì?",
+    "answer": "Cả B, C"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Quyết định kỷ luật buộc thôi việc là gì?",
+    "answer": "quyết định bằng văn bản của người đứng đầu cơ quan, tổ chức để áp dụng hình thức kỷ luật buộc thôi việc đối với công chức thuộc quyền quản lý của mình."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Người bị tố cáo có các quyền gì?",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Tòa án nhân dân Cấp cao xét xử các vụ án thuộc thẩm quyền theo thủ tục xét xử nào?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Đâu không phải là nhiệm vụ, quyền hạn của Hội thẩm nhân dân?",
+    "answer": "Thẩm tra hồ sơ vụ án hành chính mà bản án, quyết định của Tòa án đã có hiệu lực pháp luật cần xem xét lại theo thủ tục giám đốc thẩm, tái thẩm."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "‘Cơ quan, tổ chức, cá nhân có quyền khiếu nại; cá nhân có quyền … hành vi, quyết định trái pháp luật của cơ quan tiến hành tố tụng, người tiến hành tố tụng hoặc của bất cứ cơ quan, tổ chức, cá nhân nào trong hoạt động tố tụng hành chính”. Điền từ vào chỗ trống?",
+    "answer": "Tố cáo"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Viện trưởng Viện kiểm sát nhân dân tối cao do ai bầu, miễn nhiệm, bãi nhiệm theo đề nghị của Chủ tịch nước?",
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Người làm chứng có các quyền, nghĩa vụ nào sau đây?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Khiếu kiện nào sau đây Không thuộc thẩm quyền giải quyết của Tòa án?",
+    "answer": "Khiếu kiện quyết định hành chính, hành vi hành chính mang tính nội bộ của cơ quan, tổ chức."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Ngay sau khi nhận được hồ sơ vụ án, đơn kháng cáo, quyết định kháng nghị và tài liệu, chứng cứ kèm theo, Tòa án cấp phúc thẩm phải vào sổ thụ lý. Trong thời hạn bao nhiêu ngày làm việc kể từ ngày thụ lý vụ án, Tòa án phải thông báo bằng văn bản cho các đương sự và Viện kiểm sát cùng cấp về việc Tòa án đã thụ lý vụ án và thông báo trên Cổng thông tin điện tử của Tòa án (nếu có)?",
+    "answer": "03 ngày làm việc"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Nhà nước khuyến khích, tạo điều kiện phát triển nguồn nhân lực để phục vụ Viện kiểm sát nhân dân; có chính sách ưu tiên đào tạo, bồi dưỡng công chức, viên chức của Viện kiểm sát nhân dân là đối tượng nào?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Những tình tiết, sự kiện nào sau đây không phải chứng minh?",
+    "answer": "Tất cả A, B, D"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Thẩm tra viên có các ngạch gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Theo quy định của pháp luật tố tụng, Tòa án nhân dân thực hiện chế độ mấy cấp xét xử?",
+    "answer": "Hai cấp xét xử"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Thư ký Tòa án có các ngạch gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Phương pháp điều chỉnh của luật tố tụng hành chính là gì?",
+    "answer": "Kết hợp cả phương pháp thỏa thuận và mệnh lệnh"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Người khởi kiện là cơ quan, tổ chức, cá nhân khởi kiện vụ án hành chính đối với ?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Nhiệm vụ, quyền hạn của Thẩm phán là gì?",
+    "answer": "Cả A, B và C"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Kinh phí hoạt động của Tòa án nhân dân tối cao do chủ thể nào trình Quốc hội quyết định sau khi thống nhất với Tòa án nhân dân tối cao ?",
+    "answer": "Chính phủ"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Danh sách Ủy viên Hội đồng tuyển chọn, giám sát Thẩm phán quốc gia do cơ quan nào quyết định ?",
+    "answer": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Tòa án nhân dân cấp tỉnh xét xử các vụ án thuộc thẩm quyền theo thủ tục xét xử nào?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Thư ký Tòa án có nhiệm vụ, quyền hạn ?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Phiên họp của Ủy ban Thẩm phán Tòa án nhân dân cấp cao phải có ít nhất?",
+    "answer": "hai phần ba tổng số thành viên tham gia"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Tòa án nhân dân cấp huyện có các ngạch Thư ký Tòa án nào?",
+    "answer": "Thư ký viên chính"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "“Người nào bằng ảnh hưởng của mình có hành vi tác động dưới bất kỳ hình thức nào đối với ….. nhằm làm cho việc giải quyết vụ án không khách quan, không đúng pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật”. Điền vào chỗ trống?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề quan trọng gì?",
+    "answer": "Cả C và B"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Tố cáo hành vi vi phạm pháp luật của Chánh án tòa án thì do ai có trách nhiệm giải quyết?",
+    "answer": "Chánh án Tòa án trên một cấp trực tiếp"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Thẩm quyền của Hội đồng xét xử phúc thẩm bao gồm?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Tiêu chuẩn Hội thẩm là gì?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Thời hạn kháng nghị theo thủ tục tái thẩm là bao lâu kể từ ngày người có thẩm quyền kháng nghị biết được căn cứ để kháng nghị theo thủ tục tái thẩm?",
+    "answer": "01 năm"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Những người tiến hành tố tụng gồm những ai?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày kể từ ngày nhận được thông báo, người bị kiện, người có quyền lợi, nghĩa vụ liên quan phải nộp cho Tòa án văn bản ghi ý kiến của mình về yêu cầu của người khởi kiện và tài liệu, chứng cứ kèm theo hoặc yêu cầu độc lập (nếu có)?",
+    "answer": "Mười ngày"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Thời hiệu khởi kiện đối với quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh là bao lâu kể từ ngày nhận được quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh?",
+    "answer": "Ba mươi ngày"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Khi gửi hồ sơ vụ án và đơn kháng cáo cho Tòa án cấp phúc thẩm, Tòa án cấp sơ thẩm phải thông báo ngay bằng văn bản cho cá nhân tổ chức có liên quan nào đến kháng cáo biết về việc kháng cáo?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Hoàn thành câu: “…… thống nhất quản lý nhà nước về công tác thi hành án hành chính trong phạm vi cả nước; phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong công tác quản lý nhà nước về thi hành án hành chính; định kỳ hàng năm báo cáo Quốc hội về công tác thi hành án hành chính”?",
+    "answer": "Chính phủ"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Kiểm sát viên được bổ nhiệm lại thì nhiệm kỳ là bao lâu?",
+    "answer": "Mười năm"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Nhiệm vụ, quyền hạn của Kiểm tra viên là gì?",
+    "answer": "Cả B, C, D"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "“…., Hội thẩm nhân dân xét xử độc lập và chỉ tuân theo pháp luật. Nghiêm cấm cơ quan, tổ chức, cá nhân can thiệp vào việc xét xử của …., Hội thẩm nhân dân dưới bất kỳ hình thức nào.” Điền từ vào dấu chấm ?",
+    "answer": "Thẩm phán"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Nhiệm vụ, quyền hạn của Thẩm tra viên là gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Tòa án không công khai nội dung chứng cứ có liên quan đến ?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Những người nào sau đây được làm người bảo vệ quyền và lợi ích hợp pháp của đương sự khi có yêu cầu của đương sự và được Tòa án làm thủ tục đăng ký người bảo vệ quyền và lợi ích hợp pháp của đương sự?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Khi biểu quyết về quyết định giải quyết vụ án, Hội thẩm nhân dân ngang quyền với ai?",
+    "answer": "Thẩm phán"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Điền từ thích hợp vào dấu ba chấm? “Trong thời gian …. làm nhiệm vụ theo sự phân công của Chánh án Tòa án thì cơ quan, tổ chức, đơn vị vũ trang nhân dân có …. đó không được điều động, phân công …. làm việc khác, trừ trường hợp đặc biệt và phải thông báo cho Chánh án Tòa án biết”.",
+    "answer": "Hội thẩm"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao họp do ai chủ trì để thảo luận và quyết định những vấn đề quan trọng về chương trình, kế hoạch công tác của ngành Kiểm sát nhân dân?",
+    "answer": "Viện trưởng viện kiểm sát nhân dân tối cao"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Nguyên tắc đặc trưng trong tố tụng hành chính là?",
+    "answer": "Nguyên tắc đối thoại"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Cơ cấu tổ chức của Tòa án nhân dân tối cao?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "“Kinh phí hoạt động của Viện kiểm sát nhân dân do Viện kiểm sát nhân dân tối cao lập dự toán và đề nghị ….. trình Quốc hội quyết định. Trong trường hợp ….. và Viện kiểm sát nhân dân tối cao không thống nhất về dự toán kinh phí hoạt động của Viện kiểm sát nhân dân thì Viện trưởng Viện kiểm sát nhân dân tối cao kiến nghị Quốc hội xem xét, quyết định. Việc quản lý, phân bổ và sử dụng kinh phí được thực hiện theo quy định của pháp luật về ngân sách”. Điền vào chỗ trống?",
+    "answer": "Chính phủ"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Cơ quan nào có trách nhiệm thẩm tra tờ trình Quốc hội phê chuẩn đề nghị bổ nhiệm Thẩm phán Tòa án nhân dân tối cao?",
+    "answer": "Ủy ban tư pháp của Quốc hội"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Điền cụm từ thích hợp vào dấu ba chấm? “Tòa chuyên trách ….. phúc thẩm vụ việc mà bản án, quyết định của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương thuộc phạm vi thẩm quyền theo lãnh thổ chưa có hiệu lực pháp luật bị kháng cáo, kháng nghị theo quy định của luật tố tụng.",
+    "answer": "Tòa án nhân dân cấp cao"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Việc đối thoại phải được tiến hành theo các nguyên tắc nào sau đây?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Trước khi mở phiên tòa, việc thay đổi Hội thẩm nhân dân do ai quyết định?",
+    "answer": "Chánh án tòa án"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "“Tòa án xét xử …. vụ án hành chính và quyết định theo đa số, trừ trường hợp xét xử theo thủ tục rút gọn.” Điền từ vào chỗ trống?",
+    "answer": "Tập thể"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Ai là Chủ tịch Hội đồng tuyển chọn, giám sát Thẩm phán quốc gia?",
+    "answer": "Chánh án Tòa án nhân dân tối cao"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Đâu không phải điều kiện bổ nhiệm thẩm phán trung cấp?",
+    "answer": "Thông thạo ít nhất 2 ngoại ngữ"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Tòa án nhân dân cấp huyện xét xử theo thủ tục nào đối với các vụ án thuộc thẩm quyền?",
+    "answer": "Sơ thẩm"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Vụ án được giải quyết theo thủ tục rút gọn khi có đủ các điều kiện gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Đương sự có đầy đủ năng lực hành vi tố tụng hành chính, trừ người mất năng lực hành vi dân sự hoặc pháp luật có quy định khác là người như thế nào?",
+    "answer": "người từ đủ mười tám tuổi trở lên"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Trong thời gian bao lâu công tác mà Hội thẩm không được Chánh án Tòa án phân công làm nhiệm vụ xét xử thì có quyền yêu cầu Chánh án Tòa án cho biết lý do?",
+    "answer": "Một năm"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Viện kiểm sát nhân dân gồm các cấp nào?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "“Trường hợp nhất trí kiến nghị của….., kiến nghị của Viện trưởng Viện kiểm sát nhân dân tối cao hoặc đề nghị của Chánh án Tòa án nhân dân tối cao thì Hội đồng Thẩm phán Tòa án nhân dân tối cao quyết định việc mở phiên họp để xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao, đồng thời giao cho Chánh án Tòa án nhân dân tối cao tổ chức nghiên cứu hồ sơ báo cáo Hội đồng Thẩm phán Tòa án nhân dân tối cao xem xét, quyết định tại phiên họp xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao”. Điền từ vào chỗ trống?",
+    "answer": "Ủy ban tư pháp của Quốc hội"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Tiêu chuẩn bổ nhiệm Kiểm sát viên sơ cấp là gì?",
+    "answer": "Cả B, C, D"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Đối tượng điều chỉnh của luật tố tụng hành chính là gì?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Nguyên tắc cơ bản của luật tố tụng hành chính là gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Hội đồng tuyển chọn, giám sát Thẩm phán quốc gia gồm ?",
+    "answer": "Ban chấp hành Trung ương Hội luật gia Việt Nam."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Viện trưởng Viện kiểm sát nhân dân cấp huyện do ai bổ nhiệm, miễn nhiệm, cách chức.",
+    "answer": "Viện trưởng Viện kiểm sát nhân dân tối cao"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Chứng cứ được thu thập từ các nguồn nào sau đây?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Bản án, quyết định của Tòa án đã có hiệu lực pháp luật bị kháng nghị theo thủ tục giám đốc thẩm khi có một trong những căn cứ gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Ai có quyền và nghĩa vụ chủ động thu thập, giao nộp tài liệu, chứng cứ cho Tòa án và chứng minh yêu cầu của mình là có căn cứ và hợp pháp?",
+    "answer": "Đương sự"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Tòa án cấp sơ thẩm phải gửi hồ sơ vụ án, kháng cáo, kháng nghị và tài liệu, chứng cứ kèm theo cho Tòa án cấp phúc thẩm trong thời hạn bao nhiêu ngày làm việc kể từ ngày hết thời hạn kháng nghị và hết thời hạn kháng cáo, người kháng cáo nộp cho Tòa án cấp sơ thẩm biên lai thu tiền tạm ứng án phí phúc thẩm?",
+    "answer": "05 ngày làm việc"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Tiêu chuẩn bổ nhiệm Kiểm sát viên trung cấp là gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Hội thẩm quân nhân thực hiện nhiệm vụ xét xử những vụ án thuộc thẩm quyền của …. theo phân công của Chánh án Tòa án nơi mình được cử làm Hội thẩm quân nhân. Điền từ vào chỗ trống?",
+    "answer": "Tòa án quân sự"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Chánh án Tòa án nhân dân cấp cao có nhiệm vụ, quyền hạn?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Thẩm tra viên là người như thế nào ?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Phó Viện trưởng Viện kiểm sát nhân dân tối cao do ai bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao?",
+    "answer": "Chủ tịch nước"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "“Kiểm sát viên là người được bổ nhiệm theo quy định của pháp luật để thực hiện chức năng thực hành quyền ….. hoạt động tư pháp”. Điền vào chỗ trống?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Nhiệm vụ, quyền hạn của Chánh án Tòa án nhân dân tối cao là gì?",
+    "answer": "Cả A,B,C"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Chế độ, chính sách đối với Thẩm phán là gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Người tiến hành tố tụng phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu thuộc một trong những trường hợp nào sau đây?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Chánh án Tòa án nhân dân cấp nào quyết định thành lập và quy định nhiệm vụ, quyền hạn của bộ máy giúp việc Tòa án nhân dân thành phố thuộc tỉnh ?",
+    "answer": "Tối cao"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Số lượng thành viên Hội đồng Thẩm phán Tòa án nhân dân tối cao gồm bao nhiêu người?",
+    "answer": "không dưới mười ba người và không quá mười bảy người"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Chánh án Tòa án nhân dân tối cao do Quốc hội bầu, miễn nhiệm, bãi nhiệm theo đề nghị của ai?",
+    "answer": "Chủ tịch nước"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Nhiệm vụ, quyền hạn của Kiểm sát viên là gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Ai có quyền kháng nghị bản án, quyết định tạm đình chỉ, quyết định đình chỉ giải quyết vụ án của Tòa án cấp sơ thẩm để yêu cầu Tòa án cấp phúc thẩm giải quyết lại theo thủ tục phúc thẩm?",
+    "answer": "Cả A, D"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Thẩm phán, Hội thẩm nhân dân phải từ chối tiến hành tố tụng hoặc bị thay đổi nếu thuộc một trong những trường hợp nào sau đây?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Tòa án cấp phúc thẩm xem xét lại phần bản án, quyết định nào của Tòa án cấp sơ thẩm có kháng cáo, kháng nghị?",
+    "answer": "cả B và C"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Cơ sở đào tạo, bồi dưỡng của Tòa án nhân dân tối cao có nhiệm vụ đào tạo; bồi dưỡng chức danh tư pháp nào?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao gồm có Chủ tịch là Viện trưởng Viện kiểm sát nhân dân tối cao và các ủy viên là đại diện lãnh đạo của cơ quan nào?",
+    "answer": "Trung ương Hội luật gia Việt Nam."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Thẩm quyền của Hội đồng giám đốc thẩm gồm gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm là ai?",
+    "answer": "Chánh án Tòa án nhân dân tối cao"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Những việc Thẩm phán không được làm là gì?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "“Cơ quan, tổ chức, cá nhân có quyền quyết định việc … vụ án hành chính. Tòa án chỉ thụ lý giải quyết vụ án hành chính khi có đơn khởi kiện của người khởi kiện”. Điền từ vào chỗ trống?",
+    "answer": "Khởi kiện"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Cơ quan nào giám sát hoạt động của Tòa án nhân dân?",
+    "answer": "Mặt trận tổ quốc Việt Nam"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Khiếu nại quyết định, hành vi của người tiến hành tố tụng là Thẩm phán, Phó Chánh án, Thẩm tra viên, Thư ký Tòa án, Hội thẩm nhân dân do ai có thẩm quyền giải quyết?",
+    "answer": "Chánh án Tòa án"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Thẩm quyền của Hội đồng tái thẩm gồm gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Tòa án nhân dân cấp huyện xét xử các vụ án thuộc thẩm quyền theo thủ tục xét xử nào?",
+    "answer": "Sơ thẩm"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Những người thực hiện việc cấp, tống đạt là ai?",
+    "answer": "Cả A, B"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Trong quá trình xét xử, Hội đồng xét xử có quyền tạm ngừng phiên tòa khi có một trong các căn cứ nào sau đây?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày làm việc kể từ ngày thụ lý vụ án, Thẩm phán đã thụ lý vụ án phải thông báo bằng văn bản cho người bị kiện?",
+    "answer": "Ba ngày làm việc"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Số lượng Kiểm sát viên Viện kiểm sát nhân dân tối cao là bao nhiêu?",
+    "answer": "không quá 19 người"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Viện trưởng Viện kiểm sát nhân dân cấp cao do ai bổ nhiệm, miễn nhiệm, cách chức.",
+    "answer": "Viện trưởng Viện kiểm sát nhân dân tối cao"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Điều kiện bổ nhiệm thẩm phán cao cấp là gì?",
+    "answer": "Cả B, C, D"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Tòa án cấp phúc thẩm ra quyết định đình chỉ xét xử phúc thẩm vụ án trong các trường hợp nào sau đây?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Trường hợp người có quyền lợi, nghĩa vụ liên quan không tham gia tố tụng với người khởi kiện hoặc với người bị kiện thì họ có quyền yêu cầu độc lập khi có các điều kiện nào sau đây?",
+    "answer": "Tất cả A, B, C"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Trừ trường hợp xét xử theo thủ tục rút gọn, hội thẩm nhân dân được tham gia vào?",
+    "answer": "Xét xử sơ thẩm"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Vụ án được giải quyết theo thủ tục rút gọn khi có đủ các điều kiện gì?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Luật Tổ chức Tòa án nhân dân 2014 quy định có những cấp tòa án nào?",
+    "answer": "Cấp Tối cao/ Cấp cao/ cấp tỉnh / cấp huyện"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Trách nhiệm của Hội thẩm là gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Đương sự vắng mặt thì….? Điền từ vào chỗ chấm?",
+    "answer": "Cả A và D"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "“Tòa án nhân dân là cơ quan …. của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thực hiện quyền tư pháp”. Hãy điền cụm từ thích hợp vào dấu ba chấm?",
+    "answer": "Xét xử"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Những bản án, quyết định của Tòa án về vụ án hành chính được thi hành là gì?",
+    "answer": "Cả A, C, D"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Quyết định hành chính, hành vi hành chính mang tính nội bộ của cơ quan, tổ chức là gì?",
+    "answer": "Cả A, C,D"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Viện kiểm sát cùng cấp có quyền kháng nghị đối với Bản án của Tòa án cấp sơ thẩm trong thời hạn bao nhiêu ngày?",
+    "answer": "Mười lăm ngày"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Người khởi kiện gửi đơn khởi kiện và tài liệu, chứng cứ kèm theo đến Tòa án có thẩm quyền giải quyết vụ án bằng phương thức nào sau đây?",
+    "answer": "Cả A, B, C"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Tổ chức bộ máy của Viện kiểm sát nhân dân cấp huyện gồm ?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Đâu không phải là đối tượng điều chỉnh của luật tố tụng hành chính ?",
+    "answer": "Những quan hệ xã hội phát sinh từ quan hệ tài sản và quan hệ nhân thân"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Quyết định hành chính bị kiện là quyết định như thế nào?",
+    "answer": "Cả A, C"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Đương sự bao gồm ?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Người bị khiếu nại có các nghĩa vụ gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Viện trưởng Viện kiểm sát nhân dân cấp cao có những nhiệm vụ, quyền hạn ?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Hành vi hành chính là gì?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Căn cứ vào tổng biên chế, số lượng, cơ cấu tỷ lệ các ngạch Thẩm phán đã được Ủy ban thường vụ Quốc hội quyết định, Chánh án Tòa án nhân dân tối cao có nhiệm vụ gì?",
+    "answer": "Cả A, B"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Hệ thống Viện kiểm sát quân sự gồm?",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Đâu là hành vi cản trở hoạt động xác minh, thu thập chứng cứ của Tòa án?",
+    "answer": "Ca A, B, D"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Bộ máy giúp việc của Tòa án nhân dân tối cao gồm ?",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Người bị kiện có các quyền, nghĩa vụ gì?",
+    "answer": "Cả A,B,D"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Những vụ án hành chính nào không tiến hành đối thoại được?",
+    "answer": "Cả A, B, D"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Tiêu chuẩn chung của Kiểm sát viên là gì?",
+    "answer": "Cả A, B, C"
+  }
+]

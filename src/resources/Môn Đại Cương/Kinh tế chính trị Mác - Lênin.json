@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Hội nhập kinh tế quốc tế tác động như thế nào đối với phát triển của Việt Nam?",
+    "answer": "Vừa tác động tích cực vừa tác động tiêu cực."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Anh (chị) hãy cho biết tỷ suất lợi nhuận phản ánh:",
+    "answer": "Hiệu quả đầu tư tư bản"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Chủ nghĩa trọng nông hướng vào việc nghiên cứu lĩnh vực nào?",
+    "answer": "Lĩnh vực sản xuất nông nghiệp"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "“Bọn tư sản chia nhau thế giới, không phải do tính độc ác đặc biệt của chúng, mà do sự tập trung đã tới mức độ buộc chúng phải đi vào con đường ấy để kiếm lời”. Nhận xét trên của ai?",
+    "answer": "V.I.Lênin"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Khi nào tiền tệ biến thành tư bản:",
+    "answer": "Sức lao động trở thành hàng hóa"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Chọn phương án chính xác nhất trong các phương án sau: Nguồn gốc của tiền là:",
+    "answer": "Do nhu cầu của sản xuất và trao đổi"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Khái niệm đúng nhất về công nghiệp hóa, hiện đại hóa là là:",
+    "answer": "Quá trình chuyển đổi căn bản, toàn diện các hoạt động sản xuất kinh doanh, dịch vụ và quản lý kinh tế - xã hội từ sử dụng lao động thủ công là chính sang sử dụng một cách phổ biến sức lao động với công nghệ, phương tiện, phương pháp tiên tiến, hiện đại; dựa trên sự phát triển của công nghiệp và tiến bộ khoa học công nghệ nhằm tạo ra năng suất lao động xã hội cao."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Biện pháp để xây dựng thành công nền kinh tế độc lập tự chủ với tích cực, chủ động hội nhập kinh tế quốc tế của Việt Nam không phải là:",
+    "answer": "Không mở rộng quan hệ kinh tế với các quốc gia có chế độ chính trị khác Việt Nam."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Tư bản thương nghiệp là một bộ phận của :",
+    "answer": "Tư bản công nghiệp"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Chuyển dịch cơ cấu ngành kinh tế theo hướng hiện đại, hiệu quả là:",
+    "answer": "Quá trình tăng tỷ trọng công nghiệp và dịch vụ, giảm tỷ trọng nông nghiệp trong GDP."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Chức năng nhiệm vụ của công nghiệp hóa, hiện đại hóa được xác định như thế nào ở Việt Nam?",
+    "answer": "Là nhiệm vụ trung tâm trong suốt thời kỳ quá độ lên CNXH ở Việt Nam."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Các nhà kinh tế chính trị cổ điển Anh cho rằng:",
+    "answer": "Cả a,b,c"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Ai là người đầu tiên phát hiện ra tính hai mặt của lao động sản xuất hàng hóa?",
+    "answer": "C.Mác"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Vì sao hàng hoá có hai thuộc tính là giá trị sử dụng và giá trị?",
+    "answer": "Vì lao động sản xuất hàng hoá có tính hai mặt: lao động cụ thể và lao động trừu tượng"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Trong công thức tuần hoàn của tư bản công nghiệp có 3 giai đoạn. Bạn hãy chỉ ra phương án đúng trong các câu sau đây:",
+    "answer": "Giai đoạn 1 và 3 tư bản nằm trong lĩnh vực lưu thông, giai đoạn 2 tư bản nằm trong lĩnh vực sản xuất."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Bộ phận nào sau đây được coi là nguồn gốc của tích lũy tư bản:",
+    "answer": "Giá trị thặng dư"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Theo bạn những mệnh đề sau, mệnh đề nào SAI:",
+    "answer": "Tích lũy tư bản là tập trung tư bản"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Tiền làm phương tiện thanh toán, tức là tiền dùng để:",
+    "answer": "Trả nợ, nộp thuế"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nội dung hoàn thiện thể chế kinh tế thị trường định hướng XHCN ở Việt Nam không phải là:",
+    "answer": "Hoàn thiện thể chế để phát triển nền văn hóa mới, con người mới xã hội chủ nghĩa."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Sở hữu bao gồm những nội dung nào?",
+    "answer": "Nội dung kinh tế và nội dung pháp lý."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Sở hữu nhà nước thực hiện các chức năng:",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Nền kinh tế thị trường hiện đại là nền kinh tế:",
+    "answer": "Cạnh tranh và độc quyền luôn tồn tại song hành với nhau"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Trong các loại tiền dưới đây, tiền nào làm đủ 5 chức năng:",
+    "answer": "Tiền vàng"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Khi các yếu tố khác không đổi, sự tác động của cung và cầu hàng hoá sẽ làm cho giá cả :",
+    "answer": "Vận động xoay quanh giá trị"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Chọn phương án chính xác: Điều kiện cho sự ra đời và phát triển của kinh tế hàng hóa là",
+    "answer": "Phân công lao động xã hội và sự tách biệt tương đối về kinh tế giữa những người sản xuất."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Trong nền kinh tế thị trường định hướng XHCN ở Việt Nam, kinh tế nhà nước đầu tư vào những ngành nào?",
+    "answer": "Chỉ đầu tư vào những ngành kinh tế then chốt vừa chi phối được nền kinh tế vừa đảm bảo được an ninh, quốc phòng và phục vụ lợi ích công cộng…"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Quan hệ lợi ích nào không phải là quan hệ lợi ích trong nền kinh tế thị trường?",
+    "answer": "Quan hệ lợi ích giữa giai cấp thống trị và giai cấp bị trị."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Trong những luận điểm sau, luận điểm nào đúng",
+    "answer": "Sức lao động nói lên khả năng lao động, năng lực lao động của con người; nó là hàng hóa. Lao động không phải là hàng hóa; nó là sự vận dụng sức lao động trong hiện thực, là cái đang diễn ra."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Sắp xếp đúng thứ tự về mục đích của nền kinh tế thị trường định hướng XHCN ở Việt Nam là:",
+    "answer": "“Dân giàu, nước mạnh, dân chủ, công bằng, văn minh”."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Phương án nào không thuộc vai trò lãnh đạo của Đảng trong nền kinh tế thị trường ở Việt Nam?",
+    "answer": "Đảng thực hiện quản lý toàn bộ nền kinh tế quốc dân."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Lựa chọn phương án đúng:",
+    "answer": "Xây dựng cơ sở vật chất - kỹ thuật của CNXH là tất yếu khách quan đối với mọi nước trong thời kỳ quá độ lên CNXH."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Biểu hiện phát triển của chủ nghĩa tư bản độc quyền nhà nước là:",
+    "answer": "Cả ba phương án trên."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Hội nhập kinh tế quốc tế tác động như thế nào đối với phát triển của Việt Nam?",
+    "answer": "Vừa tác động tích cực vừa tác động tiêu cực."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "C.Mác và Ăng ghen quan niệm đối tượng nghiên cứu của kinh tế chính trị là:",
+    "answer": "Các quan hệ sản xuất và trao đổi trong một phương thức sản xuất nhất định."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Lý luận kinh tế chính trị của C.Mác và Ăng ghen được thể hiện tập trung và cô đọng nhất trong tác phẩm nào dưới đây?",
+    "answer": "Bộ Tư bản"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Độc quyền ngân hàng xuất hiện do:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Xác định phương án sai về đặc điểm của công nghiệp hóa, hiên đại hóa ở Việt Nam:",
+    "answer": "CNH, HĐH gắn với phát triển kinh tế công nghiệp."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Hình thức biểu hiện của lợi ích kinh tế là:",
+    "answer": "Đối với chủ doanh nghiệp là lợi nhuận, với người lao động là tiền công."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Hãy chỉ ra điểm không giống nhau giữa giá trị thặng dư siêu ngạch và giá trị thặng dư tương đối:",
+    "answer": "Động lực trực tiếp của các nhà tư bản"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Nguyên nhân hình thành các công ty xuyên quốc gia là:",
+    "answer": "Do lực lượng sản xuất phát triển ở trình độ cao làm xuất hiện quá trình quốc tế hóa về kinh tế và thương mại."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Tỷ suất giá trị thặng dư phản ánh:",
+    "answer": "Trình độ bóc lột của nhà tư bản đối với công nhân làm thuê"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Khi năng suất lao động tăng thì:",
+    "answer": "Giá trị một đơn vị sản phẩm không đổi"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Chọn phương án chính xác: Nhân tố nào làm giá cả tách rời giá trị hàng hoá:",
+    "answer": "Cung và cầu hàng hoá trên thị trường, sức mua của tiền và cạnh tranh"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Xác định phương án sai về vai trò nhà nước trong đảm bảo hài hòa các quan hệ lợi ích",
+    "answer": "Tự do hoạt động sản xuất kinh doanh để thu lợi nhuận."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Trong giai đoạn độc quyền tồn tại những hình thức cạnh tranh nào?",
+    "answer": "Tất cả phương án trên."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Sự hình thành các tổ chức độc quyền dựa trên cơ sở:",
+    "answer": "Tích tụ tập trung sản xuất và sự xuất hiện các xí nghiệp quy mô lớn."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Xác định phương án sai về đặc điểm của công nghiệp hóa, hiên đại hóa ở Việt Nam:",
+    "answer": "CNH, HĐH gắn với phát triển kinh tế công nghiệp."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Khi tăng cường độ lao động thì:",
+    "answer": "Số lượng lao động hao phí trong một đơn vị thời gian tăng lên"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Những tác động tiêu cực của độc quyền đối với nền kinh tế",
+    "answer": "Tất cả phương án trên."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Cơ chế tham dự của tư bản tài chính có sự biến đổi như thế nào?",
+    "answer": "“Chế độ tham dự” được bổ sung bằng “chế độ ủy nhiệm”"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Giá trị của hàng hóa sức lao động do các bộ phận sau đây hợp thành:",
+    "answer": "Giá trị tư liệu sinh hoạt cần thiết để tái sản xuất ra sức lao động, nuôi con của người lao động và phí tổn đào tạo người lao động"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Hội nhập kinh tế quốc tế là:",
+    "answer": "Là quá trình thực hiện sự gắn kết kinh tế của một quốc gia với nền kinh tế thế giới dựa trên sự chia sẻ lợi ích và tuân thủ các chuẩn mực quốc tế."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Trong cơ cấu kinh tế thì quan trọng nhất là:",
+    "answer": "Cơ cấu ngành kinh tế (công nghiệp - nông nghiệp - dịch vụ)."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Nguồn gốc của lợi nhuận độc quyền:",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Lao động phức tạp là:",
+    "answer": "Lao động huấn luyện, đào tạo, lao động thành thạo"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Xác định phương án sai: Việt Nam lựa chọn mô hình phát triển kinh tế thị trường định hướng XHCN là vì:",
+    "answer": "Kinh tế thị trường định hướng XHCN là mục đích của CNXH."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Những học thuyết kinh tế chính trị có ảnh hưởng lớn nhất đến quá trình ra đời của chủ nghĩa Mác là:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Kinh tế chính trị cổ điển Anh được hình thành và phát triển trong khoảng thời gian nào?",
+    "answer": "Từ cuối thế kỷ XVIII đến đầu thế kỷ XIX"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Quan niệm đúng về xây dựng nền kinh tế độc lập tự chủ và hội nhập kinh tế quốc tế của Việt Nam là:",
+    "answer": "Xây dựng nền kinh tế độc lập tự chủ đi đôi với tích cực, chủ động hội nhập kinh tế quốc tế."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Sở hữu là:",
+    "answer": "Quan hệ giữa người với người trong việc chiếm hữu các nguồn lực và kết quả lao động trong quá trình sản xuất và tái sản xuất xã hội."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Lựa chọn khái niệm đúng nhất về cơ sở vật chất- kỹ thuật của chủ nghĩa xã hội:",
+    "answer": "Là nền công nghiệp lớn hiện đại, có cơ cấu kinh tế hợp lý, có trình độ xã hội hóa cao, dựa trên trình độ khoa học và công nghệ hiện đại được hình thành một cách có kế hoạch và thống trị trong toàn bộ nền kinh tế quốc dân."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Cơ sở sâu xa của sự hình thành sở hữu là",
+    "answer": "Quá trình sản xuất và tái sản xuất xã hội."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Ngày nay bọn đầu sỏ tài chính thống trị nền kinh tế thông qua:",
+    "answer": "“Chế độ tham dự” kết hợp với “Chế độ ủy nhiệm”."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Nội dung pháp lý của sở hữu là:",
+    "answer": "Những quyền hạn và nghĩa vụ của chủ thể sở hữu được quy định mang tính pháp luật."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Mối quan hệ giữa cạnh tranh và độc quyền được thể hiện:",
+    "answer": "Độc quyền sinh ra từ cạnh tranh, nó đối lập với cạnh tranh những không thủ tiêu cạnh tranh và làm cạnh tranh đa dạng và gay gắt hơn."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Trao đổi giữa hai hàng hóa với nhau thực chất là:",
+    "answer": "Trao đổi lao động"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Ngày nay chủ thể xuất khẩu tư bản chủ yếu là:",
+    "answer": "Các tổ chức độc quyền xuyên quốc gia."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Sự ra đời của tư bản tài chính là kết quả phát triển của:",
+    "answer": "Quá trình độc quyền hóa trong công nghiệp và trong ngân hàng xoắn xuýt với nhau."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Nội dung ( yêu cầu) của quy luật giá trị là:",
+    "answer": "Sản xuất, trao đổi tiến hành trên cơ sở hao phí lao động xã hội cần thiết"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Địa tô TBCN là phần giá trị thặng dư còn lại sau khi khấu trừ phần:",
+    "answer": "Lợi nhuận bình quân"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Phương án nào không phải là một trong các công cụ quản lý của Nhà nước trong nền kinh tế thị trường ở Việt Nam?",
+    "answer": "Cương lĩnh, đường lối, chủ trương phát triển kinh tế."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Lượng tiền cần thiết trong lưu thông phụ thuộc vào:",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Lợi nhuận có nguồn gốc từ:",
+    "answer": "Lao động không được trả công của công nhân"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Các tổ chức độc quyền xuất hiện vào khoảng thời gian nào:",
+    "answer": "Cuối thế kỷ 19, đầu thế kỷ 20."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Trong những luận điểm sau, luận điểm nào đúng",
+    "answer": "Mục đích lưu thông của hàng hóa giản đơn là giá trị sử dụng"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Chức năng thước đo giá trị của tiền dùng để",
+    "answer": "Đo lường giá trị của các hàng hóa"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Trong nền kinh tế thị trường định hướng XHCN ở Việt Nam thực hiện quan hệ phân phối nào ?",
+    "answer": "Thực hiện đa dạng hóa các hình thức phân phối."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Sự cần thiết hoàn thiện thể chế kinh tế thị trường định hướng XHCN ở Việt Nam không phải do:",
+    "answer": "Hệ thống kết cấu hạ tầng chưa phát triển đồng bộ."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Chủ nghĩa trọng thương cho rằng lợi nhuận được tạo ra trong:",
+    "answer": "Trao đổi"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Mục đích nghiên cứu của kinh tế chính trị Mác -Lênin là:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Kinh tế thị trường định hướng XHCN ở Việt Nam có những hình thức sở hữu và thành phần kinh tế nào?",
+    "answer": "Có nhiều hình thức sở hữu, nhiều thành phần kinh tế."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Công thức lưu thông hàng hóa giản đơn là:",
+    "answer": "Hàng –Tiền – Hàng ( H – T – H )"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Qui luật lợi nhuận bình quân là biểu hiện hoạt động của:",
+    "answer": "Qui luật giá trị thặng dư"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Nội dung kinh tế của sở hữu là:",
+    "answer": "Lợi ích kinh tế mà chủ sở hữu được hưởng."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Các tổ chức độc quyền có thể định ra giá cả độc quyền:",
+    "answer": "Giá cả độc quyền thấp khi mua, giá cả độc quyền cao khi bán"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Độc quyền được hình thành do những nguyên nhân nào?",
+    "answer": "Tất cả các đáp án trên đều đúng."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Trong các loại phân công lao động sau thì phân công lao động nào là phân công lao động xã hội?",
+    "answer": "Phân công chung hình thành những ngành kinh tế lớn công nghiệp , nông nghiệp"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Thuật ngữ kinh tế chính trị xuất hiện trong tác phẩm “Chuyên luận về kinh tế chính trị” năm 1615 của nhà kinh tế học nào?",
+    "answer": "Montchretien"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Xác định câu đúng nhất về nhà nước Việt Nam trong nền kinh tế thị trường là:",
+    "answer": "Nhà nước pháp quyền XHCN, của dân, do dân, vì dân dưới sự lãnh đạo của Đảng cộng sản."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Chức năng nhiệm vụ của công nghiệp hóa, hiện đại hóa được xác định như thế nào ở Việt Nam?",
+    "answer": "Là nhiệm vụ trung tâm trong suốt thời kỳ quá độ lên CNXH ở Việt Nam."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Trong cơ cấu kinh tế thì quan trọng nhất là:",
+    "answer": "Cơ cấu ngành kinh tế (công nghiệp - nông nghiệp - dịch vụ)."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là hình thức biểu hiện của giá trị thặng dư:",
+    "answer": "Giá cả độc quyền"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Nguyên nhân nào dẫn đến sự ra đời của độc quyền",
+    "answer": "Sự tập trung sản xuất dưới tác động của cách mạng khoa học công nghệ, cạnh tranh, khủng hoảng kinh tế và tín dụng."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Đối với các nước có nền kinh tế kém phát triển quá độ lên CNXH như Việt Nam muốn xây dựng cơ sở vật chất - kỹ thuật của CNXH phải làm gì?",
+    "answer": "Phải thực hiện công nghiệp hóa, hiện đại hóa nền kinh tế quốc dân."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Chủ nghĩa tư bản có vai trò tích cực gì?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Độc quyền là liên minh giữa các……………có khả năng thâu tóm việc sản xuất và tiêu thụ một số loại hàng hóa, có khả năng định ra giá cả độc quyền, thu lợi nhuận độc quyền cao.",
+    "answer": "Doanh nghiệp lớn"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Tư bản cho vay là hàng hóa đặc biệt vì",
+    "answer": "Người bán không mất quyền sở hữu, giá trị thu về tăng lên, giá cả luôn thấp hơn giá trị"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Trong lịch sử tiến hóa của loài người, khi nào hàng hóa sức lao động trở thành phổ biến:",
+    "answer": "Nền sản xuất hàng hóa tư bản chủ nghĩa"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Hãy chỉ ra phương án SAI trong các phương án sau: Phương pháp sản xuất ra giá trị thặng dư tương đối thì :",
+    "answer": "Thời gian lao động cần thiết không đổi"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Lợi nhuận thương nghiệp có được là do:",
+    "answer": "Nhà TB thương nghiệp mua với giá thấp hơn giá trị và bán với giá bằng giá trị"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Ngày nay, xuất khẩu tư bản có những biểu hiện mới nào?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Trong quá trình phát triển, chủ nghĩa tư bản có những giới hạn lịch sử gì?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Công nghiệp hóa là:",
+    "answer": "Quá trình chuyển đổi nền sản xuất từ việc sử dụng lao động thủ công là chính sang việc sử dụng chủ yếu lao động bằng máy móc nhằm tao ra năng suất lao động xã hội cao."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Chế độ tham dự của tư bản tài chính được thiết lập thông qua:",
+    "answer": "Số cổ phiếu khống chế để nắm công ty mẹ, con, cháu."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Những nhân tố ảnh hưởng tới quy mô tích luỹ",
+    "answer": "Trình độ khai thác sức lao động, năng suất lao động xã hội, sử dụng hiệu quả máy móc, đại lượng tư bản ứng trước"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Vai trò của công nghiệp hóa, hiện đại hóa được xác định như thế nào ở Việt Nam?",
+    "answer": "Là nhân tố có tính quyết định sự thắng lợi của con đường đi lên CNXH ở Việt Nam."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Từ định nghĩa phương pháp sản xuất giá trị thặng dư tuyệt đối, hãy xác định phương án đúng:",
+    "answer": "Độ dài của ngày lao động lớn hơn thời gian lao động cần thiết"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Chủ nghĩa Mác được hình thành dựa trên cơ sở kế thừa trực tiếp ?",
+    "answer": "Cả a,b,c"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Kinh tế thị trường là:",
+    "answer": "Sản phẩm văn minh của nhân loại."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Mối quan hệ giữa nội dung kinh tế và nội dung pháp lý của sở hữu không phải là:",
+    "answer": "Nội dung kinh tế và nội dung pháp lý vừa thống nhất vừa mâu thuẫn với nhau."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Đến thế kỷ XVIII, Kinh tế chính trị chính thức trở thành môn học, điều này bắt nguồn từ hệ thống lý luận của nhà kinh tế học nào?",
+    "answer": "A.Smith"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Tìm phương án chính xác về về vai trò của tư bản khả biến",
+    "answer": "Tư bản khả biến khi được trao đổi với hàng hóa sức lao động chính là nguồn gốc của giá trị thặng dư"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Trong những luận điểm sau, luận điểm nào đúng:",
+    "answer": "Mục đích lưu thông của tư bản là giá trị, hơn nữa là giá trị tăng thêm"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Hội nhập kinh tế quốc tế là:",
+    "answer": "Là quá trình thực hiện sự gắn kết kinh tế của một quốc gia với nền kinh tế thế giới dựa trên sự chia sẻ lợi ích và tuân thủ các chuẩn mực quốc tế."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Ngày nay hình thức xuất khẩu tư bản chủ yếu là:",
+    "answer": "Xuất khẩu tư bản kết hợp với xuất khẩu hàng hóa."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Nền kinh tế độc lập tự chủ là:",
+    "answer": "Nền kinh tế không bị lệ thuộc vào bất cứ ai, không bị tổn hại đến chủ quyền và lợi ích quốc gia."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Mâu thuẫn cơ bản của nền sản xuất hàng hóa giản đơn :",
+    "answer": "Mâu thuẫn giữa lao động tư nhân và lao động xã hội"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "“Chủ nghĩa tư bản phát triển càng cao, nguyên liệu càng thiếu thốn, sự cạnh tranh ngày càng gay gắt và việc tìm kiếm các nguồn nguyên liệu trên toàn thế giới càng ráo riết, thì cuộc đấu tranh để chiêm thuộc địa càng quyết liệt hơn”. Nhận định trên là của ai?",
+    "answer": "V.I.Lênin"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Lượng giá trị hàng hoá được xác định như thế nào ?",
+    "answer": "Xác định bằng thời gian lao động xã hội cần thiết, giản đơn trung bình"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Biện pháp để xây dựng thành công nền kinh tế độc lập tự chủ với tích cực, chủ động hội nhập kinh tế quốc tế của Việt Nam không phải là:",
+    "answer": "Không mở rộng quan hệ kinh tế với các quốc gia có chế độ chính trị khác Việt Nam."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Lợi ích kinh tế là gì?",
+    "answer": "Là lợi ích vật chất thu được khi thực hiện các hoạt động kinh tế của con người."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Tính ưu việt của kinh tế thị trường không phải là:",
+    "answer": "Tăng giá trị hàng hóa."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Cơ cấu kinh tế hiện đại, hợp lý và hiệu quả không đáp ứng yêu cầu sau:",
+    "answer": "Xây dựng, phát triển và hoàn thiện hệ thống kiến trúc thượng tầng mới."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Lựa chọn phương án chính xác: Tác động quy luật giá trị là:",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Trong những luận điểm sau đây, luận điểm nào đúng?",
+    "answer": "Giá trị thặng dư được tạo ra trong quá trình sản xuất"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Chọn câu trả lời đúng nhất về kinh tế thị trường định hướng XHCN ở Việt Nam:",
+    "answer": "Là nền kinh tế vận hành theo các quy luật của thị trường; có sự điều tiết của Nhà nước, do Đảng Cộng sản Việt Nam lãnh đạo, nhằm thực hiện mục tiêu “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Giá trị hàng hóa sức lao động và giá trị hàng hóa thông thường được xác định bằng:",
+    "answer": "Thời gian lao động xã hội cần thiết"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Hội nhập kinh tế quốc tế là tất yếu khách quan trong điều kiện hiện nay không phải do:",
+    "answer": "Xu thế thế giới chuyển từ đối đầu, chiến tranh sang đối thoại, hòa bình."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Công thức tuần hoàn của tư bản tiền tệ:",
+    "answer": "T-H-SX--H’-T’"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Ngày lao động của công nhân trong CNTB được chia thành :",
+    "answer": "Thời gian lao động cần thiết và thời gian lao động thặng dư"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Đặc điểm kinh tế của độc quyền nhà nước trong chủ nghĩa tư bản?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Lựa chọn phương án đúng:",
+    "answer": "Xây dựng cơ sở vật chất - kỹ thuật của CNXH là tất yếu khách quan đối với mọi nước trong thời kỳ quá độ lên CNXH."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Nội dung nào không thuộc vai trò của kinh tế nhà nước trong nền kinh tế thị trường ở Việt Nam:",
+    "answer": "Là động lực quan trọng của nền kinh tế để kìm hãm phát triển kinh tế tư nhân."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Chọn phương án chính xác: Quy luật lưu thông tiền tệ nhằm:",
+    "answer": "Xác định lượng tiền cần thiết trong lưu thông"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Qui luật giá cả sản xuất là biểu hiện hoạt động của",
+    "answer": "Qui luật giá trị"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Học thuyết nào của C.Mác được coi là cơ sở khoa học luận chứng về vai trò lịch sử của phương thức sản xuất TBCN?",
+    "answer": "Học thuyết giá trị thặng dư"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Mối quan hệ giữa độc lập, tự chủ và hội nhập quốc tế ở Việt Nam không phải là:",
+    "answer": "Giữ vững độc lập tự chủ thì hội nhập quốc tế sẽ kém hiệu quả"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Cơ cấu kinh tế là:",
+    "answer": "Quan hệ tỷ lệ giữa các ngành, các vùng và các thành phần kinh tế trong nền kinh tế quốc dân."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Quan hệ lợi ích kinh tế không phải là:",
+    "answer": "Quan hệ giữa lợi nhuận, lợi tức và địa tô."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Tỷ suất lợi nhuận bình quân hình thành do:",
+    "answer": "Sự tự do di chuyển tư bản giữa các ngành"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Nền kinh tế độc lập tự chủ là:",
+    "answer": "Nền kinh tế không bị lệ thuộc vào bất cứ ai, không bị tổn hại đến chủ quyền và lợi ích quốc gia."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Vai trò của công nghiệp hóa, hiện đại hóa được xác định như thế nào ở Việt Nam?",
+    "answer": "Là nhân tố có tính quyết định sự thắng lợi của con đường đi lên CNXH ở Việt Nam."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nội dung công nghiệp hóa, hiện đại hóa ở Việt Nam không phải là:",
+    "answer": "Hoàn thiện quan hệ xã hội chủ nghĩa."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Trong công thức lưu thông của tư bản: T-H-T’ thì:",
+    "answer": "T’ bằng T ban đầu cộng với giá trị thặng dư"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Mối quan hệ giữa các quan hệ lợi ích kinh tế trong nền kinh tế thị trường là:",
+    "answer": "Các quan hệ lợi ích vừa thống nhất vừa mâu thuẫn với nhau."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Hãy chỉ ra luận điểm sai trong phương pháp sản xuất ra giá trị thặng dư tuyệt đối:",
+    "answer": "Năng suất lao động thay đổi"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Lượng giá trị hàng hoá được đo bằng:",
+    "answer": "Thời gian lao động xã hội cần thiết."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Cơ chế điều tiết kinh tế của độc quyền nhà nước là:",
+    "answer": "Cơ chế thị trường, độc quyền tư nhân và sự can thiệp của nhà nước."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Vai trò của kinh tế nhà nước trong nền kinh tế thị trường ở Việt Nam là:",
+    "answer": "Giữ vai trò chủ đạo, cùng với kinh tế tập thể ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Hệ thống lý luận kinh tế đầu tiên nghiên cứu về phương thức sản xuất TBCN là?",
+    "answer": "Chủ nghĩa trọng thương"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Nội dung nào sau đây không thuộc đặc trưng về mục tiêu của kinh tế thị trường định hướng XHCN ở Việt Nam:",
+    "answer": "Thực hiện cuộc cách mạng về quan hệ sản xuất."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "C.Mác đã tạo ra bước phát triển nhảy vọt về mặt lý luận khoa học so với D.Ricardo nhờ có phát hiện nào dưới đây?",
+    "answer": "Tính hai mặt của lao động sản xuất hàng hóa là lao động cụ thể và lao động trừu tượng"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Xác định mốc sai trong tiến trình hội nhập kinh tế quốc tế của Việt Nam:",
+    "answer": "Năm 2005: là thành viên chính thức của Tổ chức thương mại thế giới (WTO)."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Căn cứ để phân chia tư bản thành tư bản cố định và tư bản lưu động là:",
+    "answer": "Phương thức chu chuyển về mặt giá trị của các bộ phận tư bản"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Chi phí sản xuất tư bản chủ nghĩa là chi phí để:",
+    "answer": "Mua tư liệu sản xuất và sức lao động"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Việt Nam phải làm sao để hội nhập quốc tế có hiệu quả?",
+    "answer": "Không thể tuyệt đối hóa độc lập tự chủ."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Đối với các nước có nền kinh tế kém phát triển quá độ lên CNXH như Việt Nam muốn xây dựng cơ sở vật chất - kỹ thuật của CNXH phải làm gì?",
+    "answer": "Phải thực hiện công nghiệp hóa, hiện đại hóa nền kinh tế quốc dân."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Giá trị sử dụng của hàng hóa sức lao động và giá trị sử dụng của hàng hóa thông thường được thể hiện:",
+    "answer": "Trong quá trình tiêu dùng"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Chọn phương án chính xác: Khi nào có phạm trù giá trị hàng hóa",
+    "answer": "Trong nền sản xuất hàng hóa."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Xác định khái niệm đúng nhất về thể chế:",
+    "answer": "Là hệ thống những quy tắc, luật pháp, bộ máy quản lý và cơ chế vận hành nhằm điều chỉnh các hoạt động của con người trong một chế độ xã hội nhất định."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Công nghiệp hóa là:",
+    "answer": "Quá trình chuyển đổi nền sản xuất từ việc sử dụng lao động thủ công là chính sang việc sử dụng chủ yếu lao động bằng máy móc nhằm tao ra năng suất lao động xã hội cao."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Việt Nam phải làm sao để hội nhập quốc tế có hiệu quả?",
+    "answer": "Không thể tuyệt đối hóa độc lập tự chủ."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Điểm giống nhau giữa hình thái giá trị giản đơn hay ngẫu nhiên và hình thái giá trị toàn bộ hay mở rộng?",
+    "answer": "Là quan hệ trao đổi trực tiếp giữa hàng và hàng."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Trong các diễn đạt sau về tư bản sau đây, hãy tìm ra phương án SAI:",
+    "answer": "Tư bản sinh ra trong lưu thông xét trên phạm vi toàn xã hội"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Xác định mốc sai trong tiến trình hội nhập kinh tế quốc tế của Việt Nam:",
+    "answer": "Năm 2005: là thành viên chính thức của Tổ chức thương mại thế giới (WTO)."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Trong các hình thức tổ chức độc quyền sau, hình thức nào tồn tại chủ yếu ngày nay:",
+    "answer": "Consơn và Conglomerat."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Những tác động tích cực của độc quyền đối với nền kinh tế:",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Phương hướng nâng cao hiệu quả hội nhập kinh tế quốc tế của Việt Nam không phải là:",
+    "answer": "Tích cực chuẩn bị các điều kiện để sớm hội nhập kinh tế quốc tế."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Theo anh (chị), lợi tức là một phần của:",
+    "answer": "Lợi nhuận bình quân"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Quan niệm đúng về xây dựng nền kinh tế độc lập tự chủ và hội nhập kinh tế quốc tế của Việt Nam là:",
+    "answer": "Xây dựng nền kinh tế độc lập tự chủ đi đôi với tích cực, chủ động hội nhập kinh tế quốc tế."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Xuất khẩu tư bản là đặc điểm của:",
+    "answer": "Độc quyền"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "C Nội dung ( yêu cầu) của quy luật giá trị",
+    "answer": "Sản xuất, trao đổi tiến hành trên cơ sở hao phí lao động xã hội cần thiết"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Lượng tiền cần thiết trong lưu thông tỷ lệ nghịch với:",
+    "answer": "Tốc độ lưu thông của tiền"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Thời gian lao động xã hội cần thiết trong công nghiệp được xác định dựa vào:",
+    "answer": "Thời gian sản xuất ra một sản phẩm trong điều kiện sản xuất trung bình"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Thế nào là sản xuất hàng hoá?",
+    "answer": "Là một kiểu tổ chức kinh tế –xã hội, trong đó những sản phẩm được sản xuất ra để trao đổi, mua bán."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Trong quá trình lao động người công nhân tạo ra một lượng giá trị mới:",
+    "answer": "Phần giá trị mới này bằng giá trị giá trị sức lao động cộng với giá trị thặng dư"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Xác định phương án sai về kinh tế thị trường: Kinh tế thị trường là:",
+    "answer": "Nền kinh tế đối lập hoàn toàn với nền kinh tế hàng hóa."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Tăng năng suất lao động do:",
+    "answer": "Thay đổi cách thức lao động hợp lý hơn"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Lợi nhuận bình quân phụ thuộc vào:",
+    "answer": "Tỷ suất lợi nhuận bình quân"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Kinh tế chính trị Mác -Lênin nghiên cứu quan hệ xã hội của sản xuất và trao đổi trong mối liên hệ với:",
+    "answer": "Cả a và b"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Tư bản luôn luôn vận động và vận động trải qua:",
+    "answer": "3 giai đoạn"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Trong các trường hợp dưới đây, trường hợp nào nhà tư bản thu được giá tri thặng dư?",
+    "answer": "Độ dài ngày lao động vượt quá thời gian lao động cần thiết"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Theo bạn, để đánh giá chính xác tiền công tính theo thời gian cao hay thấp thì phải dựa vào",
+    "answer": "Tiền công tính theo giờ"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Chuyển dịch cơ cấu ngành kinh tế theo hướng hiện đại, hiệu quả là:",
+    "answer": "Quá trình tăng tỷ trọng công nghiệp và dịch vụ, giảm tỷ trọng nông nghiệp trong GDP."
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "“Hôm nay là bộ trưởng, ngày mai là chủ ngân hàng, hôm nay là ngân hàng, ngày mai là bộ trưởng”. Nhận định này của Lênin nói về:",
+    "answer": "Sự kết hợp về nhân sự giữa các tổ chức độc quyền và nhà nước."
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Thể chế kinh tế thị trường định hướng xã hội chủ nghĩa là:",
+    "answer": "Hệ thống đường lối, chủ trương, luật pháp, chính sách, cơ chế vận hành điều chỉnh hoạt động của các chủ thể kinh tế nhằm thúc đẩy dân giàu, nước mạnh, dân chủ, công bằng, văn minh"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Biểu hiện mới của tích tụ và tập trung tư bản:",
+    "answer": "Sự xuất hiện các công ty xuyên quốc gia bên cạnh sự phát triển của các xí nghiệp vừa và nhỏ"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Cơ cấu kinh tế là:",
+    "answer": "Quan hệ tỷ lệ giữa các ngành, các vùng và các thành phần kinh tế trong nền kinh tế quốc dân."
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Trong nền kinh tế thị trường ở Việt Nam tăng trưởng kinh tế và công bằng xã hội được thực hiện như thế nào ?",
+    "answer": "Thực hiện gắn tăng trưởng kinh tế với công bằng xã hội ngay trong từng chính sách, từng giai đoạn phát triển nền kinh tế."
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Chọn phương án sai trong câu dưới đây:\nĐặc điểm của hình thái giá trị chung:\n",
+    "answer": "Là tiền đề cho sự ra đời của chủ nghĩa tư bản"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Yếu tố quyết định trình độ phát triển của sở hữu là gì?",
+    "answer": "Là trình độ phát triển của lực lượng sản xuất."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Xác định phương án sai về vai trò của các thành phần kinh tế trong nền kinh tế thị trường ở Việt Nam:",
+    "answer": "Mỗi thành phần kinh tế đều cùng hợp tác và cạnh tranh không lành mạnh."
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Lợi nhuận là số tiền dôi ra ngoài:",
+    "answer": "Chi phí sản xuất TBCN"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Giá cả ruộng đất được C.Mác tính trên cơ sở:",
+    "answer": "Địa tô và tỷ suất lợi tức nhận gửi của ngân hàng"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Trong các công thức dưới đây, công thức nào là công thức lưu thông của tư bản:",
+    "answer": "T-H-T’"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Nội dung công nghiệp hóa, hiện đại hóa ở Việt Nam không phải là:",
+    "answer": "Hoàn thiện quan hệ xã hội chủ nghĩa."
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Ngày nay các tập đoàn tư bản tài chính thường tồn tại dưới dạng nào?",
+    "answer": "Công-nông-thương-tín- dịch vụ hay công nghiệp-quân sự-dịch vụ quốc phóng."
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Hội nhập kinh tế quốc tế là tất yếu khách quan trong điều kiện hiện nay không phải do:",
+    "answer": "Xu thế thế giới chuyển từ đối đầu, chiến tranh sang đối thoại, hòa bình."
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Hãy lựa chọn phương án sai trong câu sau đây: Đặc điểm của hình thái vật ngang giá là:",
+    "answer": "Lao động phức tạp là hình thức biểu hiện của lao động giản đơn"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Nguyên nhân hình thành độc quyền nhà nước trong nền kinh tế thị trường tư bản chủ nghĩa",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Sở hữu nhà nước được hình thành dưới những hình thức nào?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Mối quan hệ giữa độc lập, tự chủ và hội nhập quốc tế ở Việt Nam không phải là:",
+    "answer": "Giữ vững độc lập tự chủ thì hội nhập quốc tế sẽ kém hiệu quả"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "“…………..là kết quả của sự hợp nhất giữa tư bản ngân hàng của một số ít ngân hàng độc quyền lớn nhất, với tư bản của những liên minh độc quyền các nhà công nghiệp”.",
+    "answer": "Tư bản tài chính"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Trong các nhà kinh điển của chủ nghĩa Mác-Lênin, ai là người nghiên cứu chủ nghĩa tư bản độc quyền:",
+    "answer": "V.I. Lênin."
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Trong các phạm trù kinh tế dưới đây, phạm trù nào không cùng nghĩa?",
+    "answer": "Giá trị mới"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Kết quả nghiên cứu nổi bật của V.I. Lênin sau khi C.Mác và Ăng ghen qua đời là gì?",
+    "answer": "Cả a,b,c"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Lý luận kinh tế chính trị của Mác là sự kế thừa trực tiếp những thành quả lý luận khoa học của nhà kinh tế học nào?",
+    "answer": "D.Ricardo"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Điều kiện để sức lao động biến thành hàng hóa là:",
+    "answer": "Người lao động được tự do về thân thể và không có tư liệu sản xuất"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Chủ nghĩa trọng thương dành trọng tâm nghiên cứu vào lĩnh vực nào?",
+    "answer": "Lĩnh vực lưu thông"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Hãy cho biết biện pháp cơ bản để có giá trị thặng dư siêu ngạch?",
+    "answer": "Tăng năng suất lao động cá biệt cao hơn năng suất lao động xã hội"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Vai trò của kinh tế tư nhân trong nền kinh tế thị trường ở Việt Nam được xác định là:",
+    "answer": "Động lực quan trọng của nền kinh tế."
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Phát triển kinh tế thị trường định hướng XHCN là:",
+    "answer": "Mô hình kinh tế tổng quát trong suốt thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam."
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Chức năng của kinh tế chính trị Mác -Lênin:",
+    "answer": "Bốn chức năng"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Bản chất của tiền",
+    "answer": "Là hàng hóa đặc biệt đóng vai trò vật ngang giá chung."
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Cơ cấu kinh tế hiện đại, hợp lý và hiệu quả không đáp ứng yêu cầu sau:",
+    "answer": "Xây dựng, phát triển và hoàn thiện hệ thống kiến trúc thượng tầng mới."
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Phương hướng nâng cao hiệu quả hội nhập kinh tế quốc tế của Việt Nam không phải là:",
+    "answer": "Tích cực chuẩn bị các điều kiện để sớm hội nhập kinh tế quốc tế."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Khái niệm đúng nhất về công nghiệp hóa, hiện đại hóa là:",
+    "answer": "Quá trình chuyển đổi căn bản, toàn diện các hoạt động sản xuất kinh doanh, dịch vụ và quản lý kinh tế - xã hội từ sử dụng lao động thủ công là chính sang sử dụng một cách phổ biến sức lao động với công nghệ, phương tiện, phương pháp tiên tiến, hiện đại; dựa trên sự phát triển của công nghiệp và tiến bộ khoa học công nghệ nhằm tạo ra năng suất lao động xã hội cao."
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Trong các đặc điểm dưới đây, đặc điểm nào không thuộc đặc điểm của việc mua bán hàng hóa sức lao động là:",
+    "answer": "Giá cả lớn hơn giá trị"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Trong CNTB, giá cả sản xuất trong nông nghiệp được quyết định do điều kiện sản xuât trên ruộng đất:",
+    "answer": "Đất xấu nhất"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Độc quyền nhà nước là:",
+    "answer": "Hình thức vận động mới của quan hệ sản xuất tư bản chủ nghĩa"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Lựa chọn khái niệm đúng nhất về cơ sở vật chất- kỹ thuật của chủ nghĩa xã hội:",
+    "answer": "Là nền công nghiệp lớn hiện đại, có cơ cấu kinh tế hợp lý, có trình độ xã hội hóa cao, dựa trên trình độ khoa học và công nghệ hiện đại được hình thành một cách có kế hoạch và thống trị trong toàn bộ nền kinh tế quốc dân."
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Độc quyền nhà nước là kiểu độc quyền trong đó nhà nước thực hiện nắm giữ vị thế độc quyền trên cơ sở duy trì sức mạnh của …………..ở những vị trí then chốt của nền kinh tế.",
+    "answer": "Các tổ chức độc quyền"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Lựa chọn khái niệm đúng nhất về thể chế kinh tế:",
+    "answer": "Là hệ thống quy tắc, luật pháp, bộ máy quản lý và cơ chế vận hành nhằm điều chỉnh hành vi các chủ thể kinh tế và các quan hệ kinh tế."
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Phương pháp nghiên cứu đặc thù của kinh tế chính trị Mác -Lênin là:",
+    "answer": "Phương pháp trừu tượng hóa khoa học"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Khi năng suất lao động tăng thì:",
+    "answer": "Giá trị một đơn vị sản phẩm không đổi"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Việt Nam phải làm sao để hội nhập quốc tế có hiệu quả?",
+    "answer": "Không thể tuyệt đối hóa độc lập tự chủ."
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Điểm giống nhau giữa hình thái giá trị giản đơn hay ngẫu nhiên và hình thái giá trị toàn bộ hay mở rộng?",
+    "answer": "Là quan hệ trao đổi trực tiếp giữa hàng và hàng."
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Đối với các nước có nền kinh tế kém phát triển quá độ lên CNXH như Việt Nam muốn xây dựng cơ sở vật chất - kỹ thuật của CNXH phải làm gì?",
+    "answer": "Phải thực hiện công nghiệp hóa, hiện đại hóa nền kinh tế quốc dân."
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Trong các trường hợp dưới đây, trường hợp nào nhà tư bản thu được giá tri thặng dư?",
+    "answer": "Độ dài ngày lao động vượt quá thời gian lao động cần thiết"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Trong các nhà kinh điển của chủ nghĩa Mác-Lênin, ai là người nghiên cứu chủ nghĩa tư bản độc quyền:",
+    "answer": "V.I. Lênin."
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Công nghiệp hóa là:",
+    "answer": "Quá trình chuyển đổi nền sản xuất từ việc sử dụng lao động thủ công là chính sang việc sử dụng chủ yếu lao động bằng máy móc nhằm tao ra năng suất lao động xã hội cao."
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Xác định khái niệm đúng nhất về thể chế:",
+    "answer": "Là hệ thống những quy tắc, luật pháp, bộ máy quản lý và cơ chế vận hành nhằm điều chỉnh các hoạt động của con người trong một chế độ xã hội nhất định."
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Tính ưu việt của kinh tế thị trường không phải là:",
+    "answer": "Tăng giá trị hàng hóa."
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Nội dung nào không thuộc vai trò của kinh tế nhà nước trong nền kinh tế thị trường ở Việt Nam:",
+    "answer": "Là động lực quan trọng của nền kinh tế để kìm hãm phát triển kinh tế tư nhân."
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Lợi nhuận thương nghiệp có được là do:",
+    "answer": "Nhà TB thương nghiệp mua với giá thấp hơn giá trị và bán với giá bằng giá trị"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Từ định nghĩa phương pháp sản xuất giá trị thặng dư tuyệt đối, hãy xác định phương án đúng:",
+    "answer": "Độ dài của ngày lao động lớn hơn thời gian lao động cần thiết"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Anh (chị) hãy cho biết tỷ suất lợi nhuận phản ánh:",
+    "answer": "Hiệu quả đầu tư tư bản"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Sự ra đời của tư bản tài chính là kết quả phát triển của:",
+    "answer": "Quá trình độc quyền hóa trong công nghiệp và trong ngân hàng xoắn xuýt với nhau."
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Sở hữu nhà nước được hình thành dưới những hình thức nào?",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Điều kiện để sức lao động biến thành hàng hóa là:",
+    "answer": "Người lao động được tự do về thân thể và không có tư liệu sản xuất"
+  }
+]

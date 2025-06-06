@@ -1,0 +1,2882 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Chứng từ xuất trình được quy định như thế nào trong UCP 600:",
+    "answer": "Chứng từ có thể ghi ngày trước ngày phát hành Tín dụng nhưng không được ghi sau ngày xuất trình"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Khi xảy ra tranh chấp trong hoạt động TTQT, các bên thường ưu tiên sử dụng văn bản pháp lý nào ?",
+    "answer": "tập quán thanh toán quốc tế"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Sự khác nhau giữa Incoterms 2000 và 2010:",
+    "answer": "Bỏ 4 điều khoản DAF, DES, DEQ, và DDU, thay bằng 2 điều khoản DAT và DAP"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Chấp nhận hối phiếu là",
+    "answer": "vô điều kiện"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Hợp đồng ngoại thương gián tiếp được ký kết thế nào ?",
+    "answer": "hai bên gửi thư ký kết hợp đồng không cần gặp nhau trực tiếp"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Vai trò của hoạt động thanh toán quốc tế với nghiệp vụ tín dụng của ngân hàng",
+    "answer": "đảm bảo nguồn tiền cho hoạt động tín dụng"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Chứng từ nào sau đây thuộc chứng từ thương mại:",
+    "answer": "Commercial Invoice và Bill of Lading"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Hoạt động mua bán hàng hóa trong khu chế xuất được gọi là gì ?",
+    "answer": "hoạt động thương mại nội địa"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Nếu là người xuất khẩu, anh (chị) sẽ chọn phương tiện thanh toán nào",
+    "answer": "Hối phiếu"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về L/C xác nhận:",
+    "answer": "Là L/C không hủy ngang"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Theo UCP 600, xuất trình phù hợp có nghĩa là:",
+    "answer": "Chứng từ xuất trình phải phù hợp với các điều khoản của L/C"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Việc thanh toán tiền hàng trong hoạt động thanh toán quốc tế được sử dụng dưới hình thức nào ?",
+    "answer": "sử dụng các phương tiện thanh toán"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Ngày 01/03/2015, công ty Vinacafe Việt Nam ký phát Séc thanh toán tiền nhập khẩu máy móc cho công ty Black Rahon Singapore 100,000 USD. Ngày hết hạn hiệu lực thanh toán của tờ Séc.",
+    "answer": "20/03/2015"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Ngày 03/03/2015, công ty Vinacafe Việt Nam ký phát Séc thanh toán tiền nhập khẩu máy móc cho công ty Black Rahon Singapore 100,000 USD. Đến ngày 23/03/2015 là ngày hết hạn thanh toán tờ Séc, nhưng hôm đó là ngày thứ 7. Ngày hết hạn xuất trình thanh toán tờ Séc sẽ là",
+    "answer": "thứ hai, ngày 25/03/2015"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Trong hợp đồng quy định, đơn giá của hàng hoá: 135 USD/MT giá CIF cảng Hải Phòng Incoterms 2010, giá này được hiểu:",
+    "answer": "Giá đã bao gồm cả giá của hàng hoá, cước phí vận tải và phí bảo hiểm"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Chứng từ nào sau đây có chức năng sở hữu hàng hóa:",
+    "answer": "Vận đơn đường biển"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Hối phiếu đích danh là :",
+    "answer": "hối phiếu ghi rõ tên người thụ hưởng hối phiếu"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Khách thể của hợp đồng ngoại thương là :",
+    "answer": "quyền sở hữu hàng hóa"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Vận đơn đường biển gốc theo lệnh đã xếp hàng lên tàu:",
+    "answer": "Được ký phát khi hàng đã được bốc lên tàu"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về L/C dự phòng :",
+    "answer": "Được sử dụng nhằm bảo vệ quyền lợi của nhà nhập khẩu trong trường hợp nhà xuất khẩu đã nhận tiền đặt cọc nhưng không hoàn thành nghĩa vụ giao hàng"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Incoterms:",
+    "answer": "Không thể thay thế cho hợp đồng mua bán và không đề cập mức giá"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Chứng từ tài chính thường sử dụng trong thanh toán quốc tế gồm",
+    "answer": "hối phiếu, Kỳ phiếu , Séc"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Rủi ro thương mại KHÔNG liên quan tới :",
+    "answer": "hoạt động của thị trường ngoại hối"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Vai trò của hoạt động thanh toán quốc tế đối với sự phát triển kinh tế của mỗi quốc gia",
+    "answer": "thúc đẩy hoạt động xuất nhập khẩu"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Ngân hàng mở L/C thanh toán cho người thụ hưởng với điều kiện",
+    "answer": "bộ chứng từ xuất trình phù hợp với các điều kiện của thư tín dụng"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "L/C hết hạn vào ngày nghỉ lễ thì",
+    "answer": "ngày hết hạn là ngày làm việc đầu tiên sau ngày nghỉ lễ"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Thanh toán quốc tế chịu sự điều chỉnh của hệ thống luật nào ?",
+    "answer": "các công ước và tập quán quốc tế"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Điều khoản nào sau đây của Incoterms chỉ áp dụng vận tải biển:",
+    "answer": "CFR và FAS"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về vận đơn đường biển gốc theo lệnh đã xếp hàng lên tàu:",
+    "answer": "Được ký phát khi hàng đã được bốc lên tàu và ô “người nhận hàng” ghi theo lệnh của một người nào đó, có thể chuyển nhượng bằng cách ký hậu"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Hoạt động thanh toán quốc tế thuộc hoạt động nào của nền kinh tế",
+    "answer": "hoạt động kinh tế đối ngoại"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Trong phương thức nhờ thu, ngân hàng nào theo yêu cầu của người ủy thác, chấp nhận chuyển nhờ thu đến ngân hàng đại lý của mình để nhờ thu tiền cho khách hàng.",
+    "answer": "Remitting bank"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Vai trò của ngân hàng trong hoạt động thanh toán quốc tế",
+    "answer": "hạn chế rủi ro cho khách hàng khi giao dịch với nước ngoài"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Chủ thể của hợp đồng ngoại thương",
+    "answer": "người có trụ sở kinh doanh ở các nước khác nhau"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về vận đơn đường biển",
+    "answer": "Tất cả bản sao vận đơn đều không thể chuyển nhượng"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Cơ sở đầu tiên hình thành hối phiếu",
+    "answer": "hoạt động tín dụng thương mại"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về tiêu chuẩn kiểm tra chứng từ trong phương thức L/C:",
+    "answer": "NH quyết định sự phù hợp của chứng từ chỉ căn cứ vào bề mặt của chúng, ngân hàng không chịu trách nhiệm về hình thức, tính chính xác, tính chân thực hay sự giả mạo hoặc hiệu lực pháp lý của bất kỳ chứng từ nào."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Trưởng hợp có sự mâu thuẫn giữa số tiền ghi bằng số và bằng chữ trên tờ Séc, số tiền được thanh toán sẽ là :",
+    "answer": "số tiền ghi bằng chữ"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "L/C được thanh toán dựa trên cơ sở nào ?",
+    "answer": "bộ chứng từ thanh toán"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Chuyển tiền bằng điện là hình thức chuyển tiền được thực hiện bằng:",
+    "answer": "ký phát Séc ngân hàng – Bank Draft"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Theo ULB 1930, thanh toán ngay (at sight) được hiểu là :",
+    "answer": "thời hạn xuất trình để thanh toán hối phiếu là trong vòng 12 tháng"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Chấp nhận hối phiếu là hành vi của người bị ký phát:",
+    "answer": "cam kết trả tiền vô điều kiện khi hối phiếu được xuất trình"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Vận đơn đường biển gốc vô danh:",
+    "answer": "Có thể chuyển nhượng bằng cách trao tay"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về nội dung của vận đơn đường biển :",
+    "answer": "Phần kê khai hàng hóa trong vận đơn thuộc trách nhiệm của người gửi hàng"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về L/C chuyển nhượng:",
+    "answer": "Chỉ được phép chuyển nhượng 1 lần"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Đồng tiền thanh toán sử dụng trong thanh toán quốc tế",
+    "answer": "tùy thỏa thuận giữa hai bên"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Thanh toán tiền hàng tại khu chế xuất là hình thức thanh toán :",
+    "answer": "quốc tế"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Vận đơn hàng không:",
+    "answer": "Là bằng chứng về hợp đồng chuyên chở giữa hãng hàng không và người gửi hàng"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Vai trò của thanh toán quốc tế đối với ngân hàng",
+    "answer": "bổ sung, hỗ trợ cho nhiều hoạt động kinh doanh của ngân hàng"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "L/C nào sử dụng trong hoạt động mua bán trung gian",
+    "answer": "Back to back L/C"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Người bán ký hợp đồng XK cho người mua theo giá CPT, Incoterms 2010. Khi hàng đang trên cẩu tại cảng bốc hàng thì rơi vỡ. Theo bạn, ai chịu rủi ro:",
+    "answer": "Người mua"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Hiệu lực của bảo hiểm trong bảo hiểm đơn hay giấy chứng nhận bảo hiểm:",
+    "answer": "bắt đầu không muộn hơn ngày giao hàng"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trong trường hợp có sự mâu thuẫn giữa các điều khoản quy định thanh toán quốc tế trong các bộ luật, thì luật nào sẽ được áp dụng để điều chỉnh hoạt động TTQT",
+    "answer": "luật quốc tế"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Ký hậu hối phiếu là hình thức",
+    "answer": "ký vào mặt sau của hối phiếu"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Địa điểm thanh toán",
+    "answer": "ngân hàng nơi người bị ký phát mở tài khoản"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Chứng từ vận tải đường sắt có đặc điểm:",
+    "answer": "Trên chứng từ phải ghi rõ hàng đã được nhận để chở “received for shipment”"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Cơ sở nào dẫn tới sự hình thành hoạt động thanh toán quốc tế ?",
+    "answer": "hoạt động thương mại quốc tế"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về vận đơn nhận hàng để chở (Received for Shipment B/L):",
+    "answer": "Trong phương thức thanh toán L/C, vận đơn nhận hàng để chở thường bị người mua và ngân hàng phát hành từ chối thanh toán"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Ký hậu hối phiếu theo lệnh là :",
+    "answer": "chỉ định suy đoán người hưởng lợi hối phiếu"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Vận đơn đường biển gốc theo lệnh:",
+    "answer": "Có thể chuyển nhượng bằng cách ký hậu"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Nội dung nào sau đây không thuộc phạm vi điều chỉnh của Incoterms:",
+    "answer": "Phương thức thanh toán"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Hóa đơn chiếu lệ :",
+    "answer": "Không được dùng để thanh toán"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Nội dung nào sau đây có thể không xuất hiện trên hóa đơn:",
+    "answer": "Thông tin về xuất xứ của hàng hóa"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Tiêu đề hối phiếu",
+    "answer": "bắt buộc phải ghi trên chứng từ"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Từ “about”, “approximatly” trong L/C có nghĩa là gì",
+    "answer": "dung sai 10% số lượng hàng hóa được giao"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về các điều kiện bảo hiểm:",
+    "answer": "Điều kiện A bao gồm mọi rủi ro, trừ những rủi ro đặc biệt như chiến tranh, đình công…."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Nhân tố KHÔNG ảnh hưởng đến hoạt động thanh toán quốc tế",
+    "answer": "thị trường chứng khoán quốc gia"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Hối phiếu thương mại là hối phiếu",
+    "answer": "do người xuất khẩu ký phát"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Ngân hàng phải kiểm tra tất cả các chứng từ yêu cầu trong L/C :",
+    "answer": "để chắc chắn chúng phù hợp với các điều kiện của L/C"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Khi nhận được bộ chứng từ nhờ thu, ngân hàng phải",
+    "answer": "kiểm tra để đảm bảo rằng chứng từ phù hợp với lệnh nhờ thu về loại và số lượng mỗi loại"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Nominated bank là gì?",
+    "answer": "ngân hàng được ngân hàng phát hành chỉ định, ủy quyền thanh toán L/C hoặc chiết khấu bộ chứng từ"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về hóa đơn thương mại:",
+    "answer": "Hóa đơn là chứng từ quan trọng, được sử dụng khi có hoặc không có hối phiếu"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Điều nào sau đây không đúng về UCP 600:",
+    "answer": "Khi dẫn chiếu UCP không cần ghi rõ phiên bản nào"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về vận đơn hoàn hảo (Clean B/L):",
+    "answer": "Vận đơn không có phê chú xấu rõ ràng về hàng hóa/bao bì là vận đơn hoàn hảo"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Điều kiện D/P at sight là điều kiện thanh toán:",
+    "answer": "ngân hàng trả tiền ngay khi người xuất khẩu xuất trình chứng từ tại ngân hàng"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Yếu tố gây nên rủi ro trong hoạt động ngoại thương",
+    "answer": "không có phương án nào phù hợp"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Kỳ phiếu do ai lập nên:",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Tính trìu tượng của hối phiếu thể hiện :",
+    "answer": "tính độc lập của khoản nợ ghi trên hối phiếu"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Theo Incoterms 2010, điểm chuyển giao rủi ro từ người bán sang",
+    "answer": "Khi hàng hóa đã được đặt lên tàu ở cảng đi"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Hối phiếu có thể được lập thành",
+    "answer": "văn bản"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Người bị ký phát hối phiếu",
+    "answer": "người có nghĩa vụ thanh toán"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Trong phương thức thanh toán tín dụng chứng từ ai là người ký chấp nhận hối phiếu",
+    "answer": "ngân hàng nhập khẩu"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Khi có sự tranh chấp xảy ra liên quan tới hợp đồng ngoại thương, các bên có thể quy định hình thức khiếu nại nào ?",
+    "answer": "bằng văn bản"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Nếu anh (chị) là người nhập khẩu, anh chị sẽ lựa chọn phương thức thanh toán nào ?",
+    "answer": "chuyển tiền trả sau"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "L/C không hủy ngang có nghĩa là:",
+    "answer": "có thể sửa đổi hay hủy bỏ một hoặc một số điều khoản của L/C, trên cơ sở được sự đồng ý của người thụ hưởng, Ngân hàng phát hành và Ngân hàng xác nhận (nếu có)"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Trong phương thức L/C, vận đơn được ký theo lệnh của",
+    "answer": "ngân hàng phát hành L/C"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Nhờ thu phiếu trơn là hình thức",
+    "answer": "người xuất khẩu ủy thác việc thu tiền cho ngân hàng trên cơ sở bộ chứng từ tài chính"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về vận đơn tàu chuyến:",
+    "answer": "Phụ thuộc vào hợp đồng thuê tàu"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Thư tín dụng là :",
+    "answer": "cam kết của ngân hàng phát hành với nhà xuất khẩu về việc thanh toán khi xuất trình phù hợp"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Presenting bank có nghĩa là gì ?",
+    "answer": "ngân hàng xuất trình"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Theo quy định của UCP 600, trách nhiệm của Ngân hàng thông báo:",
+    "answer": "NHTB không có trách nhiệm về các sai sót trong việc dịch hoặc giải thích các thuật ngữ chuyên môn, không chịu trách nhiệm về khả năng giao hàng của người hưởng, khả năng thanh toán của người yêu cầu."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Chủ thể nào có thể không xuất hiện trong giao dịch L/C:",
+    "answer": "Ngân hàng xác nhận"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Tên gọi nào sau đây là của vận đơn vận tải đa phương thức:",
+    "answer": "Multimodal Transport Bill of Lading"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về trách nhiệm của NHFH:",
+    "answer": "NHFH chịu ràng buộc không hủy ngang thực hiện thanh toán tính từ thời điểm tín dụng được phát hành"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Hối phiếu là một tờ mệnh lệnh yêu cầu trả tiền",
+    "answer": "vô điều kiện"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Theo Incoterms 2010, nếu hợp đồng được ký với điều khoản giao nhận hàng là FCA (Free Carrier):",
+    "answer": "Người bán không có nghĩa vụ với người mua về ký kết hợp đồng vận tải và bảo hiểm"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Theo UCP 600, ngân hàng có một khoảng thời gian để kiểm tra và thanh toán chứng từ nếu phù hợp không quá :",
+    "answer": "5 ngày làm việc của ngân hàng"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Cần quy định địa điểm giao hàng trong hợp đồng ngoại thương để làm gì ?",
+    "answer": "phân định nơi chuyển giao rủi ro, tổn thất liên quan đến hàng hóa"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Điều nào sau đây thể hiện phía Nhật Bản là bên xuất khẩu:",
+    "answer": "EXW Tokyo, Japan"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Nếu một L/C yêu cầu bộ chứng từ « in 3 copies« có nghĩa là",
+    "answer": "1 bản chính và 2 bản phụ"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Nhà xuất khẩu và Nhập khẩu đồng ý điều kiện thanh toán theo phương thức nhờ thu kèm chứng từ. Nhà xuất khẩu sẽ chuyển bộ chứng từ nhờ thu cho ai:",
+    "answer": "cho ngân hàng của nhà xuất khẩu"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Hối phiếu ký phát trong phương thức tín dụng chứng từ đòi tiền ai:",
+    "answer": "ngân hàng nhập khẩu"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Chứng từ nào là chứng từ tài chính",
+    "answer": "Promissory note"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Điều nào sau đây thể hiện phía Nhật Bản là bên nhập khẩu, Việt Nam là bên xuất khẩu:",
+    "answer": "CIF Kobe Port, Japan"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Trong phương thức nhờ thu phiếu trơn, ngân hàng nhờ thu:",
+    "answer": "không khống chế bộ chứng từ gửi hàng"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Thanh toán quốc tế chịu sự điều chỉnh của những nguồn luật nào ?",
+    "answer": "luật pháp và các tập quán quốc tế"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về Giấy chứng nhận xuất xứ (C/O) :",
+    "answer": "C/O là căn cứ để xác định mức thuế xuất nhập khẩu"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Vai trò của hoạt động thanh toán quốc tế đối với nhà kinh doanh xuất nhập khẩu",
+    "answer": "Kiểm soát hàng hóa và tiền thông qua các chứng từ vận tải"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Hợp đồng ngoại thương cần có chữ ký của những ai",
+    "answer": "không cần thiết đầy đủ chữ ký của các bên liên quan"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Người ký hậu hối phiếu phải có trách nhiệm với ai khi hối phiếu bị từ chối thanh toán",
+    "answer": "người ký hậu sau đó, hoặc người nắm giữ hối phiếu"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Hợp đồng quy định « partial shipment allowed» có nghĩa là gì",
+    "answer": "hàng hóa được giao nhiều lần"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Khi nước biển nông và tàu chở hàng thuộc loại to, người xuất khẩu nên lựa chọn điều khoản nào:",
+    "answer": "FCA"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Trách nhiệm kiểm tra tính chân thật L/C của ngân hàng thông báo :",
+    "answer": "kiểm tra tính chân thật bề ngoài của chứng hàng hóa giao"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Nguyên tắc tự nguyện trong ngoại thương có nghĩa là :",
+    "answer": "hai bên tự quyết định mọi hình thức, nội dung của hợp đồng"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Nghĩa vụ của người mua theo điều kiện DAT:",
+    "answer": "Người mua chịu chi phí và rủi ro lấy giấy phép NK và làm thủ tục hải quan NK."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Vận đơn đường biển có chức năng nào sau đây:",
+    "answer": "là biên lai nhận hàng của người chuyên chở phát hành cho người gửi hàng"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Ai là người thường giải quyết các sự vụ thương mại quốc tế",
+    "answer": "trọng tài quốc tế"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Có thể hạn chế được các rủi ro trong hoạt động thương mại quốc tế nếu :",
+    "answer": "các bên đã quy định chặt chẽ trong tất cả các hợp đồng trước"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Ngân hàng nhờ thu khi chuyển bộ chứng từ cho phía người nhập khẩu, người nhập khẩu không thanh toán",
+    "answer": "người xuất khẩu vẫn phải trả phí nhờ thu"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Trong phương thức nhờ thu, ai là người ký chấp nhận hối phiếu",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về Giấy chứng nhận xuất xứ (C/O):",
+    "answer": "C/O phải được lập theo mẫu chuẩn và phải được ký"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Ngân hàng thực hiện thu phí hoạt động thanh toán quốc tế từ khách hàng bằng loại tiền tệ nào ?",
+    "answer": "loại tiền tệ do hợp đồng ngoại thương quy định"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "L/C là hợp đồng của :",
+    "answer": "người hưởng lợi và ngân hàng mở L/C"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về L/C giáp lưng:",
+    "answer": "L/C giáp lưng độc lập với L/C gốc"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Điều kiện thanh toán nào trong phương thức nhờ thu, trong đó hàm ý người xuất khẩu cấp tín dụng cho người nhập khẩu ?",
+    "answer": "D/P"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Người trả tiền trong phương thức thanh toán chuyển tiền là ai",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Điều khoản nào sau đây có điểm chuyển giao rủi ro trùng nhau:",
+    "answer": "FOB, CFR và CIF"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về L/C :",
+    "answer": "L/C độc lập với hợp đồng cơ sở và hàng hóa."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về UCP 600:",
+    "answer": "UCP 600 gồm 39 điều khoản"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Hình thức mua bán trao đổi hàng hóa và dịch vụ qua biên giới hải quan là hình thức :",
+    "answer": "thương mại quốc tế"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Người thụ hưởng ghi trên mặt trước của kỳ phiếu là :",
+    "answer": "người xuất khẩu"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Ai là người ký hậu hối phiếu đầu tiên",
+    "answer": "người ký phát"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Hoạt động mua bán hàng hóa giữa các chủ thể trong và ngoài khu chế xuất gọi là gì:",
+    "answer": "hoạt động thương mại quốc tế"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Người ký phát hối phiếu trong ngoại thương là :",
+    "answer": "người xuất khẩu"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Phạm vi điều chỉnh của Incoterms 2010:",
+    "answer": "Không thể thay thế cho hợp đồng mua bán"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Sự giống nhau giữa hai điều khoản DAT và DAP của Incoterms 2010 là:",
+    "answer": "Đều áp dụng được cho vận tải đa phương thức"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về L/C điều khoản đỏ:",
+    "answer": "Phù hợp với mặt hàng có yếu tố mùa vụ"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Một hợp đồng mua bán thỏa thuận điều kiện như sau: “Unit price: EUR 5,00/MT CFR Osaka Port, Incoterm 2010”. Trách nhiệm thuê tàu và trả tiền cước vận chuyển đến tận cảng Osaka thuộc về bên nào?",
+    "answer": "Người bán hàng thuê tàu và trả tiền cước"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "L/C là hợp đồng kinh tế giữa",
+    "answer": "người xuất khẩu và ngân hàng phát hành L/C"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Hợp đồng ngoại thương là hợp đồng giữa ai ?",
+    "answer": "người xuất khẩu và người nhập khẩu"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Hình mẫu hối phiếu phải",
+    "answer": "tùy thuộc vào người phát hành"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Loại L/C nào được sử dụng cho mua bán hàng qua trung gian:",
+    "answer": "Transferable L/C"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Tập quán thanh toán quốc tế được sử dụng thế nào ?",
+    "answer": "tùy ý sử dụng và bổ sung điều khoản trên cơ sở thỏa thuận giữa các bên"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Chứng từ vận tải đường sắt có đặc điểm:",
+    "answer": "Trên bề mặt chứng từ phải thể hiện tên người chuyên chở hoặc đại lý của người chuyên chở"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Người trả tiền hối phiếu trong phương thức phiếu trơn nhờ thu là ai:",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Người bán ký hợp đồng XK cho người mua theo giá CFR, Incoterms 2010. Khi hàng đang trên cẩu tại cảng bốc hàng thì rơi vỡ. Theo bạn, ai chịu rủi ro:",
+    "answer": "Người bán"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Điều khoản nào sau đây có điểm chuyển giao rủi ro trùng nhau:",
+    "answer": "FCA, CPT và CIP"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Séc do ai ký phát",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Thời hạn hiệu lực của L/C được tính từ",
+    "answer": "ngày mở L/C"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Hối phiếu thường được lập thành mấy bản",
+    "answer": "2 bản"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về L/C tuần hoàn:",
+    "answer": "L/C có thể tuần hoàn tự động, bán tự động hoặc tuần hoàn hạn chế"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Vận đơn đường biển gốc đích danh là:",
+    "answer": "Chứng từ chứng nhận quyền sở hữu hàng hóa"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Lệnh nhờ thu là",
+    "answer": "là hệ thống các chỉ thị cho ngân hàng thực hiện"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "UCP 600 quy định việc xuất trình bản gốc chứng từ vận tải:",
+    "answer": "không được muộn hơn 21 ngày theo lịch kể từ ngày giao hàng, nhưng trong bất cứ trường hợp nào cũng phải trong thời hạn có hiệu lực của Tín dụng"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Mua bán hàng hóa quốc tế được thực hiện dưới hình thức",
+    "answer": "không có đáp án nào phù hợp"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "UCP 600 quy định về thời hạn xác định chứng từ phù hợp trong thanh toán L/C:",
+    "answer": "NHĐCĐ, NHFH, NHXN (nếu có) có tối đa cho mỗi ngân hàng 5 ngày làm việc tiếp theo ngày xuất trình để quyết định việc xuất trình có phù hợp hay không."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Việc xác nhận L/C của NHXN:",
+    "answer": "việc xác nhận của NHXN tạo nên một cam kết chắc chắn, không hủy ngang, bổ sung vào cam kết của ngân hàng phát hành."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về vận đơn hàng không:",
+    "answer": "Trên vận đơn hàng không không yêu cầu phải có cụm từ “On board”"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Người thụ hưởng hối phiếu",
+    "answer": "người nhận chuyển nhượng hối phiếu"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Tín dụng chứng từ là:",
+    "answer": "một cam kết không hủy ngang của ngân hàng phát hành về việc thanh toán khi xuất trình chứng từ phù hợp"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Kỳ phiếu là một loại chứng từ",
+    "answer": "cam kết trả tiền vô điều kiện"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Ngân hàng nhờ thu KHÔNG có trách nhiêm",
+    "answer": "chịu trách nhiệm nếu không thu hộ được tiền từ người nhập khẩu"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Đối với vận đơn đường biển, để xác định loại vận đơn, cần căn cứ vào:",
+    "answer": "Nội dung cụ thể ghi trên vận đơn"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Điều nào sau đây thể hiện phía Việt Nam là bên xuất khẩu:",
+    "answer": "FOB Haiphong Port, Vietnam"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Nếu số tiền trên séc chỉ được ghi bằng số với các số không khớp nhau, số tiền thanh toán sẽ là :",
+    "answer": "số tiền nhỏ hơn"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Người xuất khẩu ký phát hối phiếu đòi tiền người nhập khẩu trong phương thức thanh toán nào:",
+    "answer": "nhờ thu"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Vai trò của ngân hàng trong hoạt động thanh toán quốc tế là gì ?",
+    "answer": "trung gian thanh toán"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Đồng tiền thanh toán sử dụng trong thanh toán quốc tế",
+    "answer": "tùy thỏa thuận giữa hai bên"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Điều khoản nào sau đây có điểm chuyển giao rủi ro trùng nhau:",
+    "answer": "FCA, CPT và CIP"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Hối phiếu thương mại là hối phiếu",
+    "answer": "do người xuất khẩu ký phát"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Ngân hàng thực hiện thu phí hoạt động thanh toán quốc tế từ khách hàng bằng loại tiền tệ nào ?",
+    "answer": "loại tiền tệ do hợp đồng ngoại thương quy định"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Chấp nhận hối phiếu là hành vi của người bị ký phát:",
+    "answer": "cam kết trả tiền vô điều kiện khi hối phiếu được xuất trình"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về L/C tuần hoàn:",
+    "answer": "L/C có thể tuần hoàn tự động, bán tự động hoặc tuần hoàn hạn chế"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Hối phiếu ký phát trong phương thức tín dụng chứng từ đòi tiền ai:",
+    "answer": "ngân hàng nhập khẩu"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Nếu anh (chị) là người xuất khẩu, anh chị sẽ lựa chọn hình thức chuyển tiền nào ?",
+    "answer": "bằng điện"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Nhà xuất khẩu và Nhập khẩu đồng ý điều kiện thanh toán theo phương thức nhờ thu kèm chứng từ. Nhà xuất khẩu sẽ chuyển bộ chứng từ nhờ thu cho ai:",
+    "answer": "cho ngân hàng của nhà xuất khẩu"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Công ty ABC (VN) nhập khẩu 60 máy chiếu của công ty XYZ ở Anh theo điều kiện cơ sở giao hàng CFR cảng Cát Lái (Việt Nam) theo Incoterm 2010. Trong cùng HĐ có quy định: “người bán phải giao hàng cho người mua tại cảng Cát Lái”. Khi nhận hàng tại cảng đến thiếu 10 chiếc. Ai sẽ phải chịu tổn thất này?",
+    "answer": "Người bán"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Khi có sự tranh chấp xảy ra liên quan tới hợp đồng ngoại thương, các bên có thể quy định hình thức khiếu nại nào ?",
+    "answer": "bằng văn bản"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Sửa đổi L/C phải được sự đồng ý của",
+    "answer": "người xuất khẩu, người nhập khẩu, ngân hàng mở L/C, ngân hàng xác nhận"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Hóa đơn chiếu lệ :",
+    "answer": "Không được dùng để thanh toán"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Người bán ký hợp đồng XK cho người mua theo giá FAS, Incoterms 2010. Khi hàng đang trên cẩu tại cảng bốc hàng thì rơi vỡ. Theo bạn, ai chịu rủi ro:",
+    "answer": "Người mua"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Vai trò của hoạt động thanh toán quốc tế đối với nhà kinh doanh xuất nhập khẩu",
+    "answer": "Kiểm soát hàng hóa và tiền thông qua các chứng từ vận tải"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Ngân hàng phải kiểm tra tất cả các chứng từ yêu cầu trong L/C :",
+    "answer": "để chắc chắn chúng phù hợp với các điều kiện của L/C"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Vận đơn đường biển có chức năng nào sau đây:",
+    "answer": "là biên lai nhận hàng của người chuyên chở phát hành cho người gửi hàng"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Séc do ai ký phát",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về trách nhiệm của NHFH:",
+    "answer": "NHFH chịu ràng buộc không hủy ngang thực hiện thanh toán tính từ thời điểm tín dụng được phát hành"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Nếu số tiền trên séc chỉ được ghi bằng số với các số không khớp nhau, số tiền thanh toán sẽ là :",
+    "answer": "số tiền nhỏ hơn"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về các điều kiện bảo hiểm:",
+    "answer": "Điều kiện A bao gồm mọi rủi ro, trừ những rủi ro đặc biệt như chiến tranh, đình công…."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Trong phương thức nhờ thu phiếu trơn, ngân hàng nhờ thu:",
+    "answer": "không khống chế bộ chứng từ gửi hàng"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Chứng từ xuất trình được quy định như thế nào trong UCP 600:",
+    "answer": "Chứng từ có thể ghi ngày trước ngày phát hành Tín dụng nhưng không được ghi sau ngày xuất trình"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Theo ULB 1930, thanh toán ngay (at sight) được hiểu là :",
+    "answer": "thời hạn xuất trình để thanh toán hối phiếu là trong vòng 12 tháng"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Kỳ phiếu do ai lập nên:",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Nhà XK gửi bộ chứng từ nhờ thu cho ngân hàng phục vụ mình, theo URC522, ngân hàng phải thông báo cho khách hàng trong trường hợp nào:",
+    "answer": "ngân hàng không có trách nhiệm thông báo lỗi sai của chứng từ"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Trong phương thức thanh toán tín dụng chứng từ ai là người ký chấp nhận hối phiếu",
+    "answer": "ngân hàng nhập khẩu"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Ngân hàng nhờ thu KHÔNG có trách nhiệm",
+    "answer": "kiểm tra, đối chiếu chứng từ để tìm lỗi sai"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Từ “about”, “approximatly” trong L/C có nghĩa là gì",
+    "answer": "dung sai 10% số lượng hàng hóa được giao"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Chuyển tiền bằng điện là hình thức chuyển tiền được thực hiện bằng:",
+    "answer": "ký phát Séc ngân hàng – Bank Draft"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Điều nào sau đây không đúng về UCP 600:",
+    "answer": "Khi dẫn chiếu UCP không cần ghi rõ phiên bản nào"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Người ký hậu hối phiếu phải có trách nhiệm với ai khi hối phiếu bị từ chối thanh toán",
+    "answer": "người ký hậu sau đó, hoặc người nắm giữ hối phiếu"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Ký hậu hối phiếu theo lệnh là :",
+    "answer": "chỉ định suy đoán người hưởng lợi hối phiếu"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Trách nhiệm kiểm tra tính chân thật L/C của ngân hàng thông báo :",
+    "answer": "kiểm tra tính chân thật bề ngoài của chứng hàng hóa giao"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Điều nào sau đây thể hiện phía Nhật Bản là bên xuất khẩu:",
+    "answer": "EXW Tokyo, Japan"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Chứng từ nào sau đây có chức năng sở hữu hàng hóa:",
+    "answer": "Vận đơn đường biển"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Hối phiếu có thể được lập thành",
+    "answer": "văn bản"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về L/C giáp lưng:",
+    "answer": "L/C giáp lưng độc lập với L/C gốc"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Hối phiếu là một tờ mệnh lệnh yêu cầu trả tiền",
+    "answer": "vô điều kiện"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Vận đơn hàng không:",
+    "answer": "Là bằng chứng về hợp đồng chuyên chở giữa hãng hàng không và người gửi hàng"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Trong phương thức nhờ thu, ai là người ký chấp nhận hối phiếu",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Thanh toán quốc tế chịu sự điều chỉnh của hệ thống luật nào ?",
+    "answer": "các công ước và tập quán quốc tế"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Trong chứng từ bảo hiểm, số tiền bảo hiểm là:",
+    "answer": "Là số tiền người bảo hiểm chi trả cho người được bảo hiểm khi có tổn thất xảy ra thuộc phạm vi bảo hiểm"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Nghĩa vụ của người mua theo điều kiện DAT:",
+    "answer": "Người mua chịu chi phí và rủi ro lấy giấy phép NK và làm thủ tục hải quan NK."
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Incoterms:",
+    "answer": "Không thể thay thế cho hợp đồng mua bán và không đề cập mức giá"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Vai trò của hoạt động thanh toán quốc tế đối với sự phát triển kinh tế của mỗi quốc gia",
+    "answer": "thúc đẩy hoạt động xuất nhập khẩu"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Theo UCP 600, xuất trình phù hợp có nghĩa là:",
+    "answer": "Chứng từ xuất trình phải phù hợp với các điều khoản của L/C"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Người thụ hưởng hối phiếu",
+    "answer": "người nhận chuyển nhượng hối phiếu"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Người trả tiền hối phiếu trong phương thức L/C",
+    "answer": "ngân hàng phát hành L/C"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Cơ sở nào dẫn tới sự hình thành hoạt động thanh toán quốc tế ?",
+    "answer": "hoạt động thương mại quốc tế"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Ký hậu hối phiếu là hình thức",
+    "answer": "ký vào mặt sau của hối phiếu"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Việc xác nhận L/C của NHXN:",
+    "answer": "việc xác nhận của NHXN tạo nên một cam kết chắc chắn, không hủy ngang, bổ sung vào cam kết của ngân hàng phát hành."
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Remitting bank trong phương thức chuyển tiền là:",
+    "answer": "ngân hàng nhập khẩu"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Tiêu đề hối phiếu",
+    "answer": "bắt buộc phải ghi trên chứng từ"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Phạm vi điều chỉnh của Incoterms 2010:",
+    "answer": "Không thể thay thế cho hợp đồng mua bán"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Vận đơn đường biển gốc đích danh là:",
+    "answer": "Chứng từ chứng nhận quyền sở hữu hàng hóa"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Ai là người thường giải quyết các sự vụ thương mại quốc tế",
+    "answer": "trọng tài quốc tế"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Người bán (Thái Lan) giao hàng cho người mua (Việt Nam), trên cầu cảng tại cảng Sài Gòn, người bán làm thủ tục xuất khẩu, thuê phương tiện vận tải, chịu chi phí dỡ hàng xuống cầu cảng tại cảng Sài Gòn, người mua làm thủ tục nhập khẩu. Điều kiện cơ sở giao hàng thích hợp theo Incoterm 2010?",
+    "answer": "DAT"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Hối phiếu trơn là",
+    "answer": "hối phiếu không kèm chứng từ thương mại"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Sự khác nhau giữa Incoterms 2000 và 2010:",
+    "answer": "Bỏ 4 điều khoản DAF, DES, DEQ, và DDU, thay bằng 2 điều khoản DAT và DAP"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về hóa đơn thương mại:",
+    "answer": "Hóa đơn là chứng từ quan trọng, được sử dụng khi có hoặc không có hối phiếu"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Theo quy định của UCP 600, trách nhiệm của Ngân hàng thông báo:",
+    "answer": "NHTB không có trách nhiệm về các sai sót trong việc dịch hoặc giải thích các thuật ngữ chuyên môn, không chịu trách nhiệm về khả năng giao hàng của người hưởng, khả năng thanh toán của người yêu cầu."
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Người bán ký hợp đồng XK cho người mua theo giá CFR, Incoterms 2010. Khi hàng đang trên cẩu tại cảng bốc hàng thì rơi vỡ. Theo bạn, ai chịu rủi ro:",
+    "answer": "Người bán"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Presenting bank có nghĩa là gì ?",
+    "answer": "ngân hàng xuất trình"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Vai trò của ngân hàng trong hoạt động thanh toán quốc tế là gì ?",
+    "answer": "trung gian thanh toán"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Khách thể của hợp đồng ngoại thương là :",
+    "answer": "quyền sở hữu hàng hóa"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Điều nào sau đây đúng về vận đơn nhận hàng để chở (Received for Shipment B/L):",
+    "answer": "Trong phương thức thanh toán L/C, vận đơn nhận hàng để chở thường bị người mua và ngân hàng phát hành từ chối thanh toán"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Một hợp đồng mua bán thỏa thuận điều kiện như sau: “Unit price: EUR 5,00/MT CFR Osaka Port, Incoterm 2010”. Trách nhiệm thuê tàu và trả tiền cước vận chuyển đến tận cảng Osaka thuộc về bên nào?",
+    "answer": "Người bán hàng thuê tàu và trả tiền cước"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Nếu là người xuất khẩu, anh (chị) sẽ chọn phương tiện thanh toán nào",
+    "answer": "Hối phiếu"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Tập quán thanh toán quốc tế được sử dụng thế nào ?",
+    "answer": "tùy ý sử dụng và bổ sung điều khoản trên cơ sở thỏa thuận giữa các bên"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "L/C hết hạn vào ngày nghỉ lễ thì",
+    "answer": "ngày hết hạn là ngày làm việc đầu tiên sau ngày nghỉ lễ"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Nhân tố KHÔNG ảnh hưởng đến hoạt động thanh toán quốc tế",
+    "answer": "thị trường chứng khoán quốc gia"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Việc sửa đổi L/C phải đảm bảo",
+    "answer": "sửa đổi trong thời hạn hiệu lực của L/C"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Hiệu lực của bảo hiểm trong bảo hiểm đơn hay giấy chứng nhận bảo hiểm:",
+    "answer": "bắt đầu không muộn hơn ngày giao hàng"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Theo quy định của UCP 600, trách nhiệm của Ngân hàng thông báo:",
+    "answer": "NHTB không có trách nhiệm về các sai sót trong việc dịch hoặc giải thích các thuật ngữ chuyên môn, không chịu trách nhiệm về khả năng giao hàng của người hưởng, khả năng thanh toán của người yêu cầu."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Thanh toán tiền hàng tại khu chế xuất là hình thức thanh toán :",
+    "answer": "quốc tế"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Vai trò của hoạt động thanh toán quốc tế với nghiệp vụ tín dụng của ngân hàng",
+    "answer": "đảm bảo nguồn tiền cho hoạt động tín dụng"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Nội dung nào của DAP thể hiện sự khác biệt so với DAT trong Incoterms 2010:",
+    "answer": "Người mua phải dỡ hàng khỏi phương tiện vận tải chở tới điểm giao hàng"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Ngày 01/03/2015, công ty Vinacafe Việt Nam ký phát Séc thanh toán tiền nhập khẩu máy móc cho công ty Black Rahon Singapore 100,000 USD. Ngày hết hạn hiệu lực thanh toán của tờ Séc.",
+    "answer": "20/03/2015"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về Giấy chứng nhận xuất xứ (C/O) :",
+    "answer": "C/O là căn cứ để xác định mức thuế xuất nhập khẩu"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Ngân hàng phải kiểm tra tất cả các chứng từ yêu cầu trong L/C :",
+    "answer": "để chắc chắn chúng phù hợp với các điều kiện của L/C"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Ký hậu hối phiếu là hình thức",
+    "answer": "ký vào mặt sau của hối phiếu"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Vận đơn đường biển gốc theo lệnh đã xếp hàng lên tàu:",
+    "answer": "Được ký phát khi hàng đã được bốc lên tàu"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Hoạt động mua bán hàng hóa giữa các chủ thể trong và ngoài khu chế xuất gọi là gì:",
+    "answer": "hoạt động thương mại quốc tế"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Ngân hàng nhờ thu khi chuyển bộ chứng từ cho phía người nhập khẩu, người nhập khẩu không thanh toán",
+    "answer": "người xuất khẩu vẫn phải trả phí nhờ thu"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về L/C điều khoản đỏ:",
+    "answer": "Phù hợp với mặt hàng có yếu tố mùa vụ"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Điều khoản nào sau đây của Incoterms chỉ áp dụng vận tải biển:",
+    "answer": "CFR và FAS"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Người thụ hưởng ghi trên mặt trước của kỳ phiếu là :",
+    "answer": "người xuất khẩu"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Người trả tiền hối phiếu trong phương thức L/C",
+    "answer": "ngân hàng phát hành L/C"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Người bị ký phát hối phiếu",
+    "answer": "người có nghĩa vụ thanh toán"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Khi nhận được bộ chứng từ nhờ thu, ngân hàng phải",
+    "answer": "kiểm tra để đảm bảo rằng chứng từ phù hợp với lệnh nhờ thu về loại và số lượng mỗi loại"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Vận đơn đường biển có chức năng nào sau đây:",
+    "answer": "là biên lai nhận hàng của người chuyên chở phát hành cho người gửi hàng"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Hoạt động thanh toán quốc tế thuộc hoạt động nào của nền kinh tế",
+    "answer": "hoạt động kinh tế đối ngoại"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Chứng từ nào sau đây có chức năng sở hữu hàng hóa:",
+    "answer": "Vận đơn đường biển"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "L/C hết hạn vào ngày nghỉ lễ thì",
+    "answer": "ngày hết hạn là ngày làm việc đầu tiên sau ngày nghỉ lễ"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về L/C :",
+    "answer": "L/C độc lập với hợp đồng cơ sở và hàng hóa."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Sửa đổi L/C phải được sự đồng ý của",
+    "answer": "người xuất khẩu, người nhập khẩu, ngân hàng mở L/C, ngân hàng xác nhận"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Công ty ABC (VN) nhập khẩu 60 máy chiếu của công ty XYZ ở Anh theo điều kiện cơ sở giao hàng CFR cảng Cát Lái (Việt Nam) theo Incoterm 2010. Trong cùng HĐ có quy định: “người bán phải giao hàng cho người mua tại cảng Cát Lái”. Khi nhận hàng tại cảng đến thiếu 10 chiếc. Ai sẽ phải chịu tổn thất này?",
+    "answer": "Người bán"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Người bán ký hợp đồng XK cho người mua theo giá FOB, Incoterms 2010. Khi hàng đang trên cẩu tại cảng bốc hàng thì rơi vỡ. Theo bạn, ai chịu rủi ro:",
+    "answer": "Người bán"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "L/C được mở trên cơ sở nào ",
+    "answer": "đơn yêu cầu mở L/C"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Nguyên tắc tự nguyện trong ngoại thương có nghĩa là :",
+    "answer": "hai bên tự quyết định mọi hình thức, nội dung của hợp đồng"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Tên gọi nào sau đây là của vận đơn vận tải đa phương thức:",
+    "answer": "Multimodal Transport Bill of Lading"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Nếu là người xuất khẩu, anh (chị) sẽ chọn phương tiện thanh toán nào",
+    "answer": "Hối phiếu"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Vai trò của ngân hàng trong hoạt động thanh toán quốc tế",
+    "answer": "hạn chế rủi ro cho khách hàng khi giao dịch với nước ngoài"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Hối phiếu có thể được lập thành",
+    "answer": "văn bản"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Nếu anh (chị) là người xuất khẩu, anh chị sẽ lựa chọn hình thức chuyển tiền nào ?",
+    "answer": "bằng điện"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về điều kiện FOB của Incoterms 2010:",
+    "answer": "Sau chữ FOB phải là tên cảng đi"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Trong chứng từ bảo hiểm, số tiền bảo hiểm là:",
+    "answer": "Là số tiền người bảo hiểm chi trả cho người được bảo hiểm khi có tổn thất xảy ra thuộc phạm vi bảo hiểm"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Điều nào sau đây được ghi chưa đúng khi hàng xuất từ cảng Kobe đi cảng Hải Phòng, tới cơ sở của người mua ở số 45 Lê Chân, Hải Phòng:",
+    "answer": "DDP Haiphong Port, Vietnam"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Nếu số tiền trên séc chỉ được ghi bằng số với các số không khớp nhau, số tiền thanh toán sẽ là :",
+    "answer": "số tiền nhỏ hơn"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Chấp nhận hối phiếu là",
+    "answer": "vô điều kiện"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Từ “about”, “approximatly” trong L/C có nghĩa là gì",
+    "answer": "dung sai 10% số lượng hàng hóa được giao"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Hối phiếu ký phát trong phương thức tín dụng chứng từ đòi tiền ai:",
+    "answer": "ngân hàng nhập khẩu"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Trong phương thức thanh toán tín dụng chứng từ ai là người ký chấp nhận hối phiếu",
+    "answer": "ngân hàng nhập khẩu"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Trách nhiệm kiểm tra tính chân thật L/C của ngân hàng thông báo :",
+    "answer": "kiểm tra tính chân thật bề ngoài của chứng hàng hóa giao"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về Incoterms:",
+    "answer": "Phán quyết của tòa án quốc gia có thể phủ nhận các điều khoản Incoterms nếu xung đột với luật quốc gia"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về hóa đơn thương mại:",
+    "answer": "Hóa đơn là chứng từ quan trọng, được sử dụng khi có hoặc không có hối phiếu"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Theo UCP 600, thuật ngữ « thanh toán » bao gồm:",
+    "answer": "Trả tiền ngay, cam kết trả chậm, và chấp nhận hối phiếu"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Chứng từ vận tải đường sắt có đặc điểm:",
+    "answer": "Trên chứng từ phải ghi rõ hàng đã được nhận để chở “received for shipment”"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Chứng từ nào là chứng từ tài chính",
+    "answer": "Promissory note"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Thư tín dụng là :",
+    "answer": "cam kết của ngân hàng phát hành với nhà xuất khẩu về việc thanh toán khi xuất trình phù hợp"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về các điều kiện bảo hiểm:",
+    "answer": "Điều kiện A bao gồm mọi rủi ro, trừ những rủi ro đặc biệt như chiến tranh, đình công…."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Khi nước biển nông và tàu chở hàng thuộc loại to, người xuất khẩu nên lựa chọn điều khoản nào:",
+    "answer": "FCA"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Đối với vận đơn đường biển, để xác định loại vận đơn, cần căn cứ vào:",
+    "answer": "Nội dung cụ thể ghi trên vận đơn"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Ngân hàng thực hiện thu phí hoạt động thanh toán quốc tế từ khách hàng bằng loại tiền tệ nào ?",
+    "answer": "loại tiền tệ do hợp đồng ngoại thương quy định"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Nhờ thu phiếu trơn là hình thức",
+    "answer": "người xuất khẩu ủy thác việc thu tiền cho ngân hàng trên cơ sở bộ chứng từ tài chính"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Điều khoản nào sau đây có điểm chuyển giao rủi ro trùng với điểm chuyển giao chi phí:",
+    "answer": "FCA và DDP"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Vai trò của thanh toán quốc tế đối với ngân hàng",
+    "answer": "bổ sung, hỗ trợ cho nhiều hoạt động kinh doanh của ngân hàng"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Người trả tiền theo lệnh của tờ Séc",
+    "answer": "ngân hàng mà tại đó người nhập khẩu có tài khoản"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Điểm mới của Incoterms 2010 so với Incoterms 2000:",
+    "answer": "Cho phép áp dụng dữ liệu điện tử thay thế cho chứng từ giấy"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về L/C chuyển nhượng:",
+    "answer": "Chỉ được phép chuyển nhượng 1 lần"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Theo UCP 600, xuất trình phù hợp có nghĩa là:",
+    "answer": "Chứng từ xuất trình phải phù hợp với các điều khoản của L/C"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về vận đơn đường biển gốc hoàn hảo theo lệnh:",
+    "answer": "Có thể chuyển nhượng và không có phê chú xấu rõ ràng của thuyền trưởng về hàng hóa/bao bì"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Hình mẫu hối phiếu phải",
+    "answer": "tùy thuộc vào người phát hành"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Cơ sở đầu tiên hình thành hối phiếu",
+    "answer": "hoạt động tín dụng thương mại"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Hợp đồng ngoại thương là hợp đồng giữa ai ?",
+    "answer": "người xuất khẩu và người nhập khẩu"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Điều khoản nào sau đây có điểm chuyển giao rủi ro trùng nhau:",
+    "answer": "FOB, CFR và CIF"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Địa điểm thanh toán",
+    "answer": "ngân hàng nơi người bị ký phát mở tài khoản"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Điều nào sau đây thể hiện phía Nhật Bản là bên nhập khẩu, Việt Nam là bên xuất khẩu:",
+    "answer": "CIF Kobe Port, Japan"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Điều khoản nào sau đây có điểm chuyển giao rủi ro trùng nhau:",
+    "answer": "FCA, CPT và CIP"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Nhân tố KHÔNG ảnh hưởng đến hoạt động thanh toán quốc tế",
+    "answer": "thị trường chứng khoán quốc gia"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Séc là một tờ mệnh lệnh yêu cầu ngân hàng trả tiền cho người cầm séc",
+    "answer": "vô điều kiện"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Ai là người thường giải quyết các sự vụ thương mại quốc tế",
+    "answer": "trọng tài quốc tế"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Trong phương thức nhờ thu, ngân hàng nào theo yêu cầu của người ủy thác, chấp nhận chuyển nhờ thu đến ngân hàng đại lý của mình để nhờ thu tiền cho khách hàng.",
+    "answer": "Remitting bank"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Hợp đồng quy định « partial shipment allowed» có nghĩa là gì",
+    "answer": "hàng hóa được giao nhiều lần"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Hối phiếu thường được lập thành mấy bản",
+    "answer": "2 bản"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Một hợp đồng mua bán thỏa thuận điều kiện như sau: “Unit price: EUR 5,00/MT CFR Osaka Port, Incoterm 2010”. Trách nhiệm thuê tàu và trả tiền cước vận chuyển đến tận cảng Osaka thuộc về bên nào?",
+    "answer": "Người bán hàng thuê tàu và trả tiền cước"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Ngân hàng mở L/C thanh toán cho người thụ hưởng với điều kiện",
+    "answer": "bộ chứng từ xuất trình phù hợp với các điều kiện của thư tín dụng"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Tính trìu tượng của hối phiếu thể hiện :",
+    "answer": "tính độc lập của khoản nợ ghi trên hối phiếu"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Nghĩa vụ của người mua theo điều kiện DAT:",
+    "answer": "Người mua chịu chi phí và rủi ro lấy giấy phép NK và làm thủ tục hải quan NK."
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Cần quy định địa điểm giao hàng trong hợp đồng ngoại thương để làm gì ?",
+    "answer": "phân định nơi chuyển giao rủi ro, tổn thất liên quan đến hàng hóa"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về Giấy chứng nhận xuất xứ (C/O):",
+    "answer": "C/O phải được lập theo mẫu chuẩn và phải được ký"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Rủi ro thương mại KHÔNG liên quan tới :",
+    "answer": "hoạt động của thị trường ngoại hối"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "L/C được thanh toán dựa trên cơ sở nào ?",
+    "answer": "bộ chứng từ thanh toán"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Hối phiếu thương mại là hối phiếu",
+    "answer": "do người xuất khẩu ký phát"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Người bán ký hợp đồng XK cho người mua theo giá CPT, Incoterms 2010. Khi hàng đang trên cẩu tại cảng bốc hàng thì rơi vỡ. Theo bạn, ai chịu rủi ro:",
+    "answer": "Người mua"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Vai trò của ngân hàng trong hoạt động thanh toán quốc tế là gì ?",
+    "answer": "trung gian thanh toán"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về L/C xác nhận:",
+    "answer": "Là L/C không hủy ngang"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Trong phương thức nhờ thu, ai là người ký chấp nhận hối phiếu",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về L/C giáp lưng:",
+    "answer": "L/C giáp lưng độc lập với L/C gốc"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Kỳ phiếu là một loại chứng từ",
+    "answer": "cam kết trả tiền vô điều kiện"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Trong trường hợp L/C xác nhận, nếu không đề cập rõ ai là người trả phí xác nhận cho ngân hàng xác nhận, thì người trả phí xác nhận là",
+    "answer": "ngân hàng phát hành L/C"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Tính chất pháp lý của Incoterms:",
+    "answer": "Là tập quán thương mại, nên mang tính chất pháp lý tùy ý, không bắt buộc áp dụng"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Chứng từ nào sau đây thuộc chứng từ thương mại:",
+    "answer": "Commercial Invoice và Bill of Lading"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Trong phương thức L/C, vận đơn được ký theo lệnh của",
+    "answer": "ngân hàng phát hành L/C"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Việc thanh toán tiền hàng trong hoạt động thanh toán quốc tế được sử dụng dưới hình thức nào ?",
+    "answer": "sử dụng các phương tiện thanh toán"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Chấp nhận hối phiếu là hành vi của người bị ký phát:",
+    "answer": "cam kết trả tiền vô điều kiện khi hối phiếu được xuất trình"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Vai trò của thanh toán quốc tế đối với nền kinh tế",
+    "answer": "thúc đẩy hoạt động xuất nhập khẩu hàng hóa"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Hình thức của Séc",
+    "answer": "văn bản"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Trưởng hợp có sự mâu thuẫn giữa số tiền ghi bằng số và bằng chữ trên tờ Séc, số tiền được thanh toán sẽ là :",
+    "answer": "số tiền ghi bằng chữ"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Trong hợp đồng quy định, đơn giá của hàng hoá: 135 USD/MT giá CIF cảng Hải Phòng Incoterms 2010, giá này được hiểu:",
+    "answer": "Giá đã bao gồm cả giá của hàng hoá, cước phí vận tải và phí bảo hiểm"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Vận đơn đường biển gốc vô danh:",
+    "answer": "Có thể chuyển nhượng bằng cách trao tay"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Phạm vi điều chỉnh của Incoterms 2010:",
+    "answer": "Không thể thay thế cho hợp đồng mua bán"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Nếu anh (chị) là người nhập khẩu, anh chị sẽ lựa chọn phương thức thanh toán nào ?",
+    "answer": "chuyển tiền trả sau"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Tiêu đề hối phiếu",
+    "answer": "bắt buộc phải ghi trên chứng từ"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Vai trò của hoạt động thanh toán quốc tế đối với sự phát triển kinh tế của mỗi quốc gia",
+    "answer": "thúc đẩy hoạt động xuất nhập khẩu"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Ngày 03/03/2015, công ty Vinacafe Việt Nam ký phát Séc thanh toán tiền nhập khẩu máy móc cho công ty Black Rahon Singapore 100,000 USD. Đến ngày 23/03/2015 là ngày hết hạn thanh toán tờ Séc, nhưng hôm đó là ngày thứ 7. Ngày hết hạn xuất trình thanh toán tờ Séc sẽ là",
+    "answer": "thứ hai, ngày 25/03/2015"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Nhà XK gửi bộ chứng từ nhờ thu cho ngân hàng phục vụ mình, theo URC522, ngân hàng phải thông báo cho khách hàng trong trường hợp nào:",
+    "answer": "ngân hàng không có trách nhiệm thông báo lỗi sai của chứng từ"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về vận đơn tàu chuyến:",
+    "answer": "Phụ thuộc vào hợp đồng thuê tàu"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Vận đơn hàng không:",
+    "answer": "Là bằng chứng về hợp đồng chuyên chở giữa hãng hàng không và người gửi hàng"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Hợp đồng ngoại thương gián tiếp được ký kết thế nào ?",
+    "answer": "hai bên gửi thư ký kết hợp đồng không cần gặp nhau trực tiếp"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Có thể hạn chế được các rủi ro trong hoạt động thương mại quốc tế nếu :",
+    "answer": "các bên đã quy định chặt chẽ trong tất cả các hợp đồng trước"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Chủ thể của hợp đồng ngoại thương",
+    "answer": "người có trụ sở kinh doanh ở các nước khác nhau"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Ngân hàng nhờ thu KHÔNG có trách nhiêm",
+    "answer": "chịu trách nhiệm nếu không thu hộ được tiền từ người nhập khẩu"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về chứng từ bảo hiểm:",
+    "answer": "Bảo hiểm đơn hay Giấy chứng nhận bảo hiểm là chứng từ cần thiết để khiếu nại đòi bồi thường khi có rủi ro tổn thất xảy ra đối với hàng hóa"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Người ký phát hối phiếu trong ngoại thương là :",
+    "answer": "người xuất khẩu"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Hối phiếu trơn là",
+    "answer": "hối phiếu không kèm chứng từ thương mại"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Điều nào sau đây thể hiện phía Nhật Bản là bên xuất khẩu:",
+    "answer": "EXW Tokyo, Japan"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Hối phiếu là một tờ mệnh lệnh yêu cầu trả tiền",
+    "answer": "vô điều kiện"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "L/C đối ứng thường được sử dụng trong trường hợp:",
+    "answer": "Phương thức mua bán hàng đổi hàng"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về vận đơn nhận hàng để chở (Received for Shipment B/L):",
+    "answer": "Trong phương thức thanh toán L/C, vận đơn nhận hàng để chở thường bị người mua và ngân hàng phát hành từ chối thanh toán"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Kỳ phiếu do ai lập nên:",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Khi có sự tranh chấp xảy ra liên quan tới hợp đồng ngoại thương, các bên có thể quy định hình thức khiếu nại nào ?",
+    "answer": "bằng văn bản"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Nominated bank là gì?",
+    "answer": "ngân hàng được ngân hàng phát hành chỉ định, ủy quyền thanh toán L/C hoặc chiết khấu bộ chứng từ"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Chủ thể nào có thể không xuất hiện trong giao dịch L/C:",
+    "answer": "Ngân hàng xác nhận"
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Tập quán thanh toán quốc tế được sử dụng thế nào ?",
+    "answer": "tùy ý sử dụng và bổ sung điều khoản trên cơ sở thỏa thuận giữa các bên"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Hình thức mua bán trao đổi hàng hóa và dịch vụ qua biên giới hải quan là hình thức :",
+    "answer": "thương mại quốc tế"
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Chứng từ tài chính thường sử dụng trong thanh toán quốc tế gồm",
+    "answer": "hối phiếu, Kỳ phiếu , Séc"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Sự giống nhau giữa hai điều khoản DAT và DAP của Incoterms 2010 là:",
+    "answer": "Đều áp dụng được cho vận tải đa phương thức"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Incoterms:",
+    "answer": "Không thể thay thế cho hợp đồng mua bán và không đề cập mức giá"
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Mua bán hàng hóa quốc tế được thực hiện dưới hình thức",
+    "answer": "không có đáp án nào phù hợp"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "L/C là hợp đồng của :",
+    "answer": "người hưởng lợi và ngân hàng mở L/C"
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Người trả tiền hối phiếu trong phương thức phiếu trơn nhờ thu là ai:",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Hối phiếu đích danh là :",
+    "answer": "hối phiếu ghi rõ tên người thụ hưởng hối phiếu"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Séc do ai ký phát",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Theo Incoterms 2010, nếu hợp đồng được ký với điều khoản giao nhận hàng là FCA (Free Carrier):",
+    "answer": "Người bán không có nghĩa vụ với người mua về ký kết hợp đồng vận tải và bảo hiểm"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Vận đơn đường biển gốc đích danh là:",
+    "answer": "Chứng từ chứng nhận quyền sở hữu hàng hóa"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Người bán ký hợp đồng XK cho người mua theo giá CFR, Incoterms 2010. Khi hàng đang trên cẩu tại cảng bốc hàng thì rơi vỡ. Theo bạn, ai chịu rủi ro:",
+    "answer": "Người bán"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Nếu một L/C yêu cầu bộ chứng từ « in 3 copies« có nghĩa là",
+    "answer": "1 bản chính và 2 bản phụ"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Điều nào sau đây thể hiện phía Việt Nam là bên xuất khẩu:",
+    "answer": "FOB Haiphong Port, Vietnam"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Điều kiện thanh toán nào trong phương thức nhờ thu, trong đó hàm ý người xuất khẩu cấp tín dụng cho người nhập khẩu ?",
+    "answer": "D/P"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "L/C nào sử dụng trong hoạt động mua bán trung gian",
+    "answer": "Back to back L/C"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Theo UCP 600, ngân hàng có một khoảng thời gian để kiểm tra và thanh toán chứng từ nếu phù hợp không quá :",
+    "answer": "5 ngày làm việc của ngân hàng"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Người bán (Thái Lan) giao hàng cho người mua (Việt Nam), trên cầu cảng tại cảng Sài Gòn, người bán làm thủ tục xuất khẩu, thuê phương tiện vận tải, chịu chi phí dỡ hàng xuống cầu cảng tại cảng Sài Gòn, người mua làm thủ tục nhập khẩu. Điều kiện cơ sở giao hàng thích hợp theo Incoterm 2010?",
+    "answer": "DAT"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Cơ sở nào dẫn tới sự hình thành hoạt động thanh toán quốc tế ?",
+    "answer": "hoạt động thương mại quốc tế"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về L/C tuần hoàn:",
+    "answer": "L/C có thể tuần hoàn tự động, bán tự động hoặc tuần hoàn hạn chế"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Lệnh nhờ thu là",
+    "answer": "là hệ thống các chỉ thị cho ngân hàng thực hiện"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Nhà xuất khẩu và Nhập khẩu đồng ý điều kiện thanh toán theo phương thức nhờ thu kèm chứng từ. Nhà xuất khẩu sẽ chuyển bộ chứng từ nhờ thu cho ai:",
+    "answer": "cho ngân hàng của nhà xuất khẩu"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Thời hạn hiệu lực của L/C được tính từ",
+    "answer": "ngày mở L/C"
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Tín dụng chứng từ là:",
+    "answer": "một cam kết không hủy ngang của ngân hàng phát hành về việc thanh toán khi xuất trình chứng từ phù hợp"
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Hiệu lực của bảo hiểm trong bảo hiểm đơn hay giấy chứng nhận bảo hiểm:",
+    "answer": "bắt đầu không muộn hơn ngày giao hàng"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Theo ULB 1930, thanh toán ngay (at sight) được hiểu là :",
+    "answer": "thời hạn xuất trình để thanh toán hối phiếu là trong vòng 12 tháng"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Thời gian giao hàng trong hợp đồng thường phải quy định :",
+    "answer": "thời gian cụ thể"
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về tiêu chuẩn kiểm tra chứng từ trong phương thức L/C:",
+    "answer": "NH quyết định sự phù hợp của chứng từ chỉ căn cứ vào bề mặt của chúng, ngân hàng không chịu trách nhiệm về hình thức, tính chính xác, tính chân thực hay sự giả mạo hoặc hiệu lực pháp lý của bất kỳ chứng từ nào."
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Hợp đồng ngoại thương cần có chữ ký của những ai",
+    "answer": "không cần thiết đầy đủ chữ ký của các bên liên quan"
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Ngân hàng nhờ thu KHÔNG có trách nhiệm",
+    "answer": "kiểm tra, đối chiếu chứng từ để tìm lỗi sai"
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Nội dung nào sau đây không thuộc phạm vi điều chỉnh của Incoterms:",
+    "answer": "Phương thức thanh toán"
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Thanh toán quốc tế chịu sự điều chỉnh của hệ thống luật nào ?",
+    "answer": "các công ước và tập quán quốc tế"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Kỳ phiếu là từ tiếng việt của",
+    "answer": "Promissory note"
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Trong trường hợp có sự mâu thuẫn giữa các điều khoản quy định thanh toán quốc tế trong các bộ luật, thì luật nào sẽ được áp dụng để điều chỉnh hoạt động TTQT",
+    "answer": "luật quốc tế"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Chứng từ vận tải đường sắt có đặc điểm:",
+    "answer": "Trên bề mặt chứng từ phải thể hiện tên người chuyên chở hoặc đại lý của người chuyên chở"
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Ai là người ký hậu hối phiếu đầu tiên",
+    "answer": "người ký phát"
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Sự khác nhau giữa Incoterms 2000 và 2010:",
+    "answer": "Bỏ 4 điều khoản DAF, DES, DEQ, và DDU, thay bằng 2 điều khoản DAT và DAP"
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Nội dung nào sau đây có thể không xuất hiện trên hóa đơn:",
+    "answer": "Thông tin về xuất xứ của hàng hóa"
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về vận đơn hoàn hảo (Clean B/L):",
+    "answer": "Vận đơn không có phê chú xấu rõ ràng về hàng hóa/bao bì là vận đơn hoàn hảo"
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Hối phiếu đích danh phải có câu",
+    "answer": "Pay to Mr X only"
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "Khi xảy ra tranh chấp trong hoạt động TTQT, các bên thường ưu tiên sử dụng văn bản pháp lý nào ?",
+    "answer": "tập quán thanh toán quốc tế"
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Người ký hậu hối phiếu phải có trách nhiệm với ai khi hối phiếu bị từ chối thanh toán",
+    "answer": "người ký hậu sau đó, hoặc người nắm giữ hối phiếu"
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "L/C là hợp đồng kinh tế giữa",
+    "answer": "người xuất khẩu và ngân hàng phát hành L/C"
+  },
+  {
+    "id": 406,
+    "premium": true,
+    "question": "L/C không hủy ngang có nghĩa là:",
+    "answer": "có thể sửa đổi hay hủy bỏ một hoặc một số điều khoản của L/C, trên cơ sở được sự đồng ý của người thụ hưởng, Ngân hàng phát hành và Ngân hàng xác nhận (nếu có)"
+  },
+  {
+    "id": 407,
+    "premium": true,
+    "question": "Đối với hàng khối lượng hàng ít, chuyến hàng nhỏ, giao hàng một lần, hai bên nên thỏa thuận ký kết hợp đồng về cảng thế nào ?",
+    "answer": "hàng được giao tại 1 cảng duy nhất"
+  },
+  {
+    "id": 408,
+    "premium": true,
+    "question": "Loại L/C nào được sử dụng cho mua bán hàng qua trung gian:",
+    "answer": "Transferable L/C"
+  },
+  {
+    "id": 409,
+    "premium": true,
+    "question": "Người xuất khẩu ký phát hối phiếu đòi tiền người nhập khẩu trong phương thức thanh toán nào:",
+    "answer": "nhờ thu"
+  },
+  {
+    "id": 410,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về trách nhiệm của NHFH:",
+    "answer": "NHFH chịu ràng buộc không hủy ngang thực hiện thanh toán tính từ thời điểm tín dụng được phát hành"
+  },
+  {
+    "id": 411,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về vận đơn hàng không:",
+    "answer": "Trên vận đơn hàng không không yêu cầu phải có cụm từ “On board”"
+  },
+  {
+    "id": 412,
+    "premium": true,
+    "question": "Điều nào sau đây không đúng về UCP 600:",
+    "answer": "Khi dẫn chiếu UCP không cần ghi rõ phiên bản nào"
+  },
+  {
+    "id": 413,
+    "premium": true,
+    "question": "Người bán ký hợp đồng XK cho người mua theo giá FAS, Incoterms 2010. Khi hàng đang trên cẩu tại cảng bốc hàng thì rơi vỡ. Theo bạn, ai chịu rủi ro:",
+    "answer": "Người mua"
+  },
+  {
+    "id": 414,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về nội dung của vận đơn đường biển :",
+    "answer": "Phần kê khai hàng hóa trong vận đơn thuộc trách nhiệm của người gửi hàng"
+  },
+  {
+    "id": 415,
+    "premium": true,
+    "question": "Presenting bank có nghĩa là gì ?",
+    "answer": "ngân hàng xuất trình"
+  },
+  {
+    "id": 416,
+    "premium": true,
+    "question": "Hóa đơn lãnh sự :",
+    "answer": "Nhằm mục đích đánh thuế hàng nhập khẩu"
+  },
+  {
+    "id": 417,
+    "premium": true,
+    "question": "Trong phương thức nhờ thu phiếu trơn, ngân hàng nhờ thu:",
+    "answer": "không khống chế bộ chứng từ gửi hàng"
+  },
+  {
+    "id": 418,
+    "premium": true,
+    "question": "Vai trò của hoạt động thanh toán quốc tế đối với nhà kinh doanh xuất nhập khẩu",
+    "answer": "Kiểm soát hàng hóa và tiền thông qua các chứng từ vận tải"
+  },
+  {
+    "id": 419,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về vận đơn đường biển gốc theo lệnh đã xếp hàng lên tàu:",
+    "answer": "Được ký phát khi hàng đã được bốc lên tàu và ô “người nhận hàng” ghi theo lệnh của một người nào đó, có thể chuyển nhượng bằng cách ký hậu"
+  },
+  {
+    "id": 420,
+    "premium": true,
+    "question": "Nhà xuất khẩu chuyển bộ chứng từ cùng đơn nhờ thu cho ngân hàng phục vụ mình, do bất cẩn nên hối phiếu đã lập nhưng chưa được ký. Theo URC522 thì ngân hàng:",
+    "answer": "im lặng và chuyển chứng từ"
+  },
+  {
+    "id": 421,
+    "premium": true,
+    "question": "UCP 600 quy định về thời hạn xác định chứng từ phù hợp trong thanh toán L/C:",
+    "answer": "NHĐCĐ, NHFH, NHXN (nếu có) có tối đa cho mỗi ngân hàng 5 ngày làm việc tiếp theo ngày xuất trình để quyết định việc xuất trình có phù hợp hay không."
+  },
+  {
+    "id": 422,
+    "premium": true,
+    "question": "UCP 600 quy định việc xuất trình bản gốc chứng từ vận tải:",
+    "answer": "không được muộn hơn 21 ngày theo lịch kể từ ngày giao hàng, nhưng trong bất cứ trường hợp nào cũng phải trong thời hạn có hiệu lực của Tín dụng"
+  },
+  {
+    "id": 423,
+    "premium": true,
+    "question": "Điều kiện D/P at sight là điều kiện thanh toán:",
+    "answer": "ngân hàng trả tiền ngay khi người xuất khẩu xuất trình chứng từ tại ngân hàng"
+  },
+  {
+    "id": 424,
+    "premium": true,
+    "question": "Việc sửa đổi L/C phải đảm bảo",
+    "answer": "sửa đổi trong thời hạn hiệu lực của L/C"
+  },
+  {
+    "id": 425,
+    "premium": true,
+    "question": "Hoạt động TTQT thường được thực hiện bởi ai ?",
+    "answer": "ngân hàng thương mại"
+  },
+  {
+    "id": 426,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về UCP 600:",
+    "answer": "UCP 600 gồm 39 điều khoản"
+  },
+  {
+    "id": 427,
+    "premium": true,
+    "question": "Hoạt động mua bán hàng hóa trong khu chế xuất được gọi là gì ?",
+    "answer": "hoạt động thương mại nội địa"
+  },
+  {
+    "id": 428,
+    "premium": true,
+    "question": "Việc xác nhận L/C của NHXN:",
+    "answer": "việc xác nhận của NHXN tạo nên một cam kết chắc chắn, không hủy ngang, bổ sung vào cam kết của ngân hàng phát hành."
+  },
+  {
+    "id": 429,
+    "premium": true,
+    "question": "Người trả tiền trong phương thức thanh toán chuyển tiền là ai",
+    "answer": "người nhập khẩu"
+  },
+  {
+    "id": 430,
+    "premium": true,
+    "question": "Thanh toán quốc tế chịu sự điều chỉnh của những nguồn luật nào ?",
+    "answer": "luật pháp và các tập quán quốc tế"
+  },
+  {
+    "id": 431,
+    "premium": true,
+    "question": "Hóa đơn chiếu lệ :",
+    "answer": "Không được dùng để thanh toán"
+  },
+  {
+    "id": 432,
+    "premium": true,
+    "question": "Chứng từ xuất trình được quy định như thế nào trong UCP 600:",
+    "answer": "Chứng từ có thể ghi ngày trước ngày phát hành Tín dụng nhưng không được ghi sau ngày xuất trình"
+  },
+  {
+    "id": 433,
+    "premium": true,
+    "question": "Khách thể của hợp đồng ngoại thương là :",
+    "answer": "quyền sở hữu hàng hóa"
+  },
+  {
+    "id": 434,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về vận đơn đường biển",
+    "answer": "Tất cả bản sao vận đơn đều không thể chuyển nhượng"
+  },
+  {
+    "id": 435,
+    "premium": true,
+    "question": "Người thụ hưởng hối phiếu",
+    "answer": "người nhận chuyển nhượng hối phiếu"
+  },
+  {
+    "id": 436,
+    "premium": true,
+    "question": "Đồng tiền thanh toán sử dụng trong thanh toán quốc tế",
+    "answer": "tùy thỏa thuận giữa hai bên"
+  },
+  {
+    "id": 437,
+    "premium": true,
+    "question": "Remitting bank trong phương thức chuyển tiền là:",
+    "answer": "ngân hàng nhập khẩu"
+  },
+  {
+    "id": 438,
+    "premium": true,
+    "question": "Ký hậu hối phiếu theo lệnh là :",
+    "answer": "chỉ định suy đoán người hưởng lợi hối phiếu"
+  },
+  {
+    "id": 439,
+    "premium": true,
+    "question": "Vận đơn đường biển gốc theo lệnh:",
+    "answer": "Có thể chuyển nhượng bằng cách ký hậu"
+  },
+  {
+    "id": 440,
+    "premium": true,
+    "question": "Theo Incoterms 2010, điểm chuyển giao rủi ro từ người bán sang",
+    "answer": "Khi hàng hóa đã được đặt lên tàu ở cảng đi"
+  },
+  {
+    "id": 441,
+    "premium": true,
+    "question": "Yếu tố gây nên rủi ro trong hoạt động ngoại thương",
+    "answer": "không có phương án nào phù hợp"
+  },
+  {
+    "id": 442,
+    "premium": true,
+    "question": "Chuyển tiền bằng điện là hình thức chuyển tiền được thực hiện bằng:",
+    "answer": "ký phát Séc ngân hàng – Bank Draft"
+  },
+  {
+    "id": 443,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về L/C dự phòng :",
+    "answer": "Được sử dụng nhằm bảo vệ quyền lợi của nhà nhập khẩu trong trường hợp nhà xuất khẩu đã nhận tiền đặt cọc nhưng không hoàn thành nghĩa vụ giao hàng"
+  },
+  {
+    "id": 444,
+    "premium": true,
+    "question": "Tính chất pháp lý của Incoterms:",
+    "answer": "Là tập quán thương mại, nên mang tính chất pháp lý tùy ý, không bắt buộc áp dụng"
+  },
+  {
+    "id": 445,
+    "premium": true,
+    "question": "Séc là một tờ mệnh lệnh yêu cầu ngân hàng trả tiền cho người cầm séc",
+    "answer": "vô điều kiện"
+  },
+  {
+    "id": 446,
+    "premium": true,
+    "question": "Theo UCP 600, thuật ngữ « thanh toán » bao gồm:",
+    "answer": "Trả tiền ngay, cam kết trả chậm, và chấp nhận hối phiếu"
+  },
+  {
+    "id": 447,
+    "premium": true,
+    "question": "Điều khoản nào sau đây có điểm chuyển giao rủi ro trùng với điểm chuyển giao chi phí:",
+    "answer": "FCA và DDP"
+  },
+  {
+    "id": 448,
+    "premium": true,
+    "question": "Kỳ phiếu là từ tiếng việt của",
+    "answer": "Promissory note"
+  },
+  {
+    "id": 449,
+    "premium": true,
+    "question": "Hối phiếu trơn là",
+    "answer": "hối phiếu không kèm chứng từ thương mại"
+  },
+  {
+    "id": 450,
+    "premium": true,
+    "question": "Vai trò của thanh toán quốc tế đối với nền kinh tế",
+    "answer": "thúc đẩy hoạt động xuất nhập khẩu hàng hóa"
+  },
+  {
+    "id": 451,
+    "premium": true,
+    "question": "Điều nào sau đây được ghi chưa đúng khi hàng xuất từ cảng Kobe đi cảng Hải Phòng, tới cơ sở của người mua ở số 45 Lê Chân, Hải Phòng:",
+    "answer": "DDP Haiphong Port, Vietnam"
+  },
+  {
+    "id": 452,
+    "premium": true,
+    "question": "Điểm mới của Incoterms 2010 so với Incoterms 2000:",
+    "answer": "Cho phép áp dụng dữ liệu điện tử thay thế cho chứng từ giấy"
+  },
+  {
+    "id": 453,
+    "premium": true,
+    "question": "Nhà xuất khẩu chuyển bộ chứng từ cùng đơn nhờ thu cho ngân hàng phục vụ mình, do bất cẩn nên hối phiếu đã lập nhưng chưa được ký. Theo URC522 thì ngân hàng:",
+    "answer": "im lặng và chuyển chứng từ"
+  },
+  {
+    "id": 454,
+    "premium": true,
+    "question": "Thời gian giao hàng trong hợp đồng thường phải quy định :",
+    "answer": "thời gian cụ thể"
+  },
+  {
+    "id": 455,
+    "premium": true,
+    "question": "Người bán (Thái Lan) giao hàng cho người mua (Việt Nam), trên cầu cảng tại cảng Sài Gòn, người bán làm thủ tục xuất khẩu, thuê phương tiện vận tải, chịu chi phí dỡ hàng xuống cầu cảng tại cảng Sài Gòn, người mua làm thủ tục nhập khẩu. Điều kiện cơ sở giao hàng thích hợp theo Incoterm 2010?",
+    "answer": "DAT"
+  },
+  {
+    "id": 456,
+    "premium": true,
+    "question": "Đối với hàng khối lượng hàng ít, chuyến hàng nhỏ, giao hàng một lần, hai bên nên thỏa thuận ký kết hợp đồng về cảng thế nào ?",
+    "answer": "hàng được giao tại 1 cảng duy nhất"
+  },
+  {
+    "id": 457,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về Incoterms:",
+    "answer": "Phán quyết của tòa án quốc gia có thể phủ nhận các điều khoản Incoterms nếu xung đột với luật quốc gia"
+  },
+  {
+    "id": 458,
+    "premium": true,
+    "question": "Công ty ABC (VN) nhập khẩu 60 máy chiếu của công ty XYZ ở Anh theo điều kiện cơ sở giao hàng CFR cảng Cát Lái (Việt Nam) theo Incoterm 2010. Trong cùng HĐ có quy định: “người bán phải giao hàng cho người mua tại cảng Cát Lái”. Khi nhận hàng tại cảng đến thiếu 10 chiếc. Ai sẽ phải chịu tổn thất này?",
+    "answer": "Người bán"
+  },
+  {
+    "id": 459,
+    "premium": true,
+    "question": "Nội dung nào của DAP thể hiện sự khác biệt so với DAT trong Incoterms 2010:",
+    "answer": "Người mua phải dỡ hàng khỏi phương tiện vận tải chở tới điểm giao hàng"
+  },
+  {
+    "id": 460,
+    "premium": true,
+    "question": "Sửa đổi L/C phải được sự đồng ý của",
+    "answer": "người xuất khẩu, người nhập khẩu, ngân hàng mở L/C, ngân hàng xác nhận"
+  },
+  {
+    "id": 461,
+    "premium": true,
+    "question": "Người bán ký hợp đồng XK cho người mua theo giá FOB, Incoterms 2010. Khi hàng đang trên cẩu tại cảng bốc hàng thì rơi vỡ. Theo bạn, ai chịu rủi ro:",
+    "answer": "Người bán"
+  },
+  {
+    "id": 462,
+    "premium": true,
+    "question": "Việc sửa đổi L/C phải đảm bảo",
+    "answer": "sửa đổi trong thời hạn hiệu lực của L/C"
+  },
+  {
+    "id": 463,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về vận đơn đường biển gốc hoàn hảo theo lệnh:",
+    "answer": "Có thể chuyển nhượng và không có phê chú xấu rõ ràng của thuyền trưởng về hàng hóa/bao bì"
+  },
+  {
+    "id": 464,
+    "premium": true,
+    "question": "Hối phiếu đích danh phải có câu",
+    "answer": "Pay to Mr X only"
+  },
+  {
+    "id": 465,
+    "premium": true,
+    "question": "Remitting bank trong phương thức chuyển tiền là:",
+    "answer": "ngân hàng nhập khẩu"
+  },
+  {
+    "id": 466,
+    "premium": true,
+    "question": "Nhà XK gửi bộ chứng từ nhờ thu cho ngân hàng phục vụ mình, theo URC522, ngân hàng phải thông báo cho khách hàng trong trường hợp nào:",
+    "answer": "ngân hàng không có trách nhiệm thông báo lỗi sai của chứng từ"
+  },
+  {
+    "id": 467,
+    "premium": true,
+    "question": "Người trả tiền hối phiếu trong phương thức L/C",
+    "answer": "ngân hàng phát hành L/C"
+  },
+  {
+    "id": 468,
+    "premium": true,
+    "question": "L/C được mở trên cơ sở nào ",
+    "answer": "đơn yêu cầu mở L/C"
+  },
+  {
+    "id": 469,
+    "premium": true,
+    "question": "Ngân hàng nhờ thu KHÔNG có trách nhiệm",
+    "answer": "kiểm tra, đối chiếu chứng từ để tìm lỗi sai"
+  },
+  {
+    "id": 470,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về điều kiện FOB của Incoterms 2010:",
+    "answer": "Sau chữ FOB phải là tên cảng đi"
+  },
+  {
+    "id": 471,
+    "premium": true,
+    "question": "Trong chứng từ bảo hiểm, số tiền bảo hiểm là:",
+    "answer": "Là số tiền người bảo hiểm chi trả cho người được bảo hiểm khi có tổn thất xảy ra thuộc phạm vi bảo hiểm"
+  },
+  {
+    "id": 472,
+    "premium": true,
+    "question": "L/C đối ứng thường được sử dụng trong trường hợp:",
+    "answer": "Phương thức mua bán hàng đổi hàng"
+  },
+  {
+    "id": 473,
+    "premium": true,
+    "question": "Điều nào sau đây đúng về chứng từ bảo hiểm:",
+    "answer": "Bảo hiểm đơn hay Giấy chứng nhận bảo hiểm là chứng từ cần thiết để khiếu nại đòi bồi thường khi có rủi ro tổn thất xảy ra đối với hàng hóa"
+  },
+  {
+    "id": 474,
+    "premium": true,
+    "question": "Nếu anh (chị) là người xuất khẩu, anh chị sẽ lựa chọn hình thức chuyển tiền nào ?",
+    "answer": "bằng điện"
+  },
+  {
+    "id": 475,
+    "premium": true,
+    "question": "Trong trường hợp L/C xác nhận, nếu không đề cập rõ ai là người trả phí xác nhận cho ngân hàng xác nhận, thì người trả phí xác nhận là",
+    "answer": "ngân hàng phát hành L/C"
+  },
+  {
+    "id": 476,
+    "premium": true,
+    "question": "Hoạt động TTQT thường được thực hiện bởi ai ?",
+    "answer": "ngân hàng thương mại"
+  },
+  {
+    "id": 477,
+    "premium": true,
+    "question": "Người bán ký hợp đồng XK cho người mua theo giá FAS, Incoterms 2010. Khi hàng đang trên cẩu tại cảng bốc hàng thì rơi vỡ. Theo bạn, ai chịu rủi ro:",
+    "answer": "Người mua"
+  },
+  {
+    "id": 478,
+    "premium": true,
+    "question": "Người trả tiền theo lệnh của tờ Séc",
+    "answer": "ngân hàng mà tại đó người nhập khẩu có tài khoản"
+  },
+  {
+    "id": 479,
+    "premium": true,
+    "question": "Hóa đơn lãnh sự :",
+    "answer": "Nhằm mục đích đánh thuế hàng nhập khẩu"
+  },
+  {
+    "id": 480,
+    "premium": true,
+    "question": "Hình thức của Séc",
+    "answer": "văn bản"
+  }
+]

@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Các biện pháp giám sát, giáo dục áp dụng đối với người dưới 18 tuổi phạm tội là:",
+    "answer": "Khiển trách, hòa giải tại cộng đồng và giáo dục tại xã, phường, thị trấn"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Khẳng định nào đúng?",
+    "answer": "Án treo là biện pháp miễn chấp hành hình phạt tù có điều kiện."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Một tội phạm cụ thể trong một điều luật có thể quy định loại tội phạm?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hình phạt tử hình:",
+    "answer": "Chỉ áp dụng đối với người phạm tội đặc biệt nghiêm trọng thuộc một trong nhóm các tội xâm phạm an ninh quốc gia, xâm phạm tính mạng con người, các tội phạm về ma túy, tham nhũng và một số tội phạm đặc biệt nghiêm trọng khác do BLHS quy định"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Một tội phạm cụ thể trong một điều luật có thể có mấy loại tội phạm?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về các biện pháp tư pháp:",
+    "answer": "Các biện pháp tư pháp có mục đích trừng trị và mục đích phòng ngừa."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Trường hợp nào sau đây được coi là tự ý nửa chừng chấm dứt việc phạm tội?",
+    "answer": "Không thực hiện tội phạm đến cùng tuy không có gì ngăn cản;"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Căn cứ vào mức độ nguy hiểm của hành vi phạm tội thì cấu thành tội phạm không bao gồm loại nào?",
+    "answer": "Cấu thành tội phạm hình thức."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Chủ thể của tội phạm là cá nhân phải có đặc điểm nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Căn cứ vào thái độ tâm lý của người phạm tội đối với hành vi mà họ đã thực hiện thì phạm tội chưa đạt được chia thành những loại nào sau đây?",
+    "answer": "Chỉ có a, b đúng"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Đối tượng tác động của tội phạm là gì?",
+    "answer": "Là bộ phận của khách thể của tội phạm, bị hành vi phạm tội tác động đến để gây thiệt hại cho khách thể,"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Khái niệm khách thể của tội phạm là:",
+    "answer": "Quan hệ xã hội được luật hình sự bảo vệ và bị tội phạm xâm hại."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Các hình phạt được áp dụng đối với người dưới 18 tuổi phạm tội là:",
+    "answer": "Cảnh cáo, phạt tiền, Cải tạo không giam giữ, tù có thời hạn"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Luật hình sự Việt Nam chia quá trình cố ý thực hiện tội phạm thành các giai đoạn nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Người từ đủ 16 tuổi đến dưới 18 tuổi khi phạm tội, nếu điều luật được áp dụng quy định hình phạt tù có thời hạn thì mức hình phạt cao nhất được áp dụng là:",
+    "answer": "Không quá ba phần tư mức phạt tù mà điều luật quy định"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Xét về mặt cấu trúc, hành vi khách quan của tội phạm xảy ra trên thực tế có thể là:",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Lỗi cố ý gián tiếp có dấu hiệu nào sau đây?",
+    "answer": "d. Cả a, b, c đúng."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Hành vi phạm tội nào không phải xảy ra trên lãnh thổ Việt Nam sau đây?",
+    "answer": "d. Hành vi phạm tội không thuộc một trong các trường hợp a, b, c nêu trên."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Hình phạt nào không phải là hình phạt bổ sung áp dụng đối với người phạm tội:",
+    "answer": "Tù có thời hạn"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây người dưới 18 tuổi bị kết án được coi là không có án tích:",
+    "answer": "Người từ đủ 14 tuổi đến dưới 16 tuổi, Người từ đủ 16 tuổi đến dưới 18 tuổi bị kết án về tội phạm ít nghiêm trọng, tội phạm nghiêm trọng hoặc tội phạm rất nghiêm trọng do vô ý; Người bị áp dụng biện pháp tư pháp Giáo dục tại trường giáo dưỡng."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng:",
+    "answer": "Người được hưởng án treo nếu thoả mãn các quy định của pháp luật thì được miễn thời gian thử thách"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Tổng hợp hình phạt của nhiều bản án là:",
+    "answer": "Trường hợp một người đang phải chấp hành một bản án mà lại bị xét xử về tội đã phạm trước khi có bản án đang phải chấp hành và Trường hợp một người đang phải chấp hành một bản án mà lại bị đưa ra xét xử về một hành vi phạm tội mới thực hiện trong thời gian đang chấp hành hình phạt"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Hành vi nào không bị coi là Tội phạm sau đây ?",
+    "answer": "b. Người 19 tuổi bị mất khả năng nhận thức và điều khiển hành vi khi phạm tội ;"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không thể bị tịch thu sung vào ngân sách nhà nước",
+    "answer": "Vật, tiền bị người phạm tội chiếm đoạt hoặc sử dụng trái phép"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Tội phạm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Trách nhiệm hình sự đối với người tự ý nửa chừng chấm dứt việc phạm tội sẽ được giải quyết như thế nào?",
+    "answer": "Được miễn trách nhiệm hình sự về tội định phạm trong mọi trường hợp;"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Tội phạm có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là đúng:",
+    "answer": "Phạt tiền được áp dụng là hình phạt chính đối với người từ đủ 16 tuổi đến dưới 18 tuổi, nếu người đó có thu nhập hoặc có tài sản riêng"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Cấu thành tội phạm vật chất phải có dấu hiệu nào trong mặt khách quan?",
+    "answer": "d. Cả a, b, c đúng."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Luật hình sự có những nguyên tắc nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Không xử phạt tử hình đối với người dưới 18 tuổi phạm tội"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Người phạm tội không phải chịu trách nhiệm hình sự ở giai đoạn chuẩn bị phạm tội trong trường hợp nào sau đây?",
+    "answer": "b, Trong một số trường hợp được quy định trong BLHS;"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Thời hạn cải tạo không giam giữ được áp dụng đối với người dưới 18 tuổi phạm tội không quá:",
+    "answer": "Một phần hai thời hạn mà điều luật quy định."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Mức phạt tù cao nhất có thể áp dụng đối với người từ đủ 14 tuổi đến dưới 16 tuổi phạm tội là:",
+    "answer": "12 năm"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Xét về mặt cấu trúc, hành vi khách quan của tội phạm xảy ra trên thực tế có thể là:",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Xét về mặt cấu trúc, hành vi khách quan của tội phạm xảy ra trên thực tế có thể là:",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Điều kiện để áp dụng hình phạt cải tạo không giam giữ đối với người dưới 18 tuổi phạm tội là:",
+    "answer": "Tội đã thực hiện là tội rất nghiêm trọng do vô ý hoặc tội ít nghiêm trọng, tội nghiêm trọng đối với người từ đủ 16 tuổi đến dưới 18 tuổi hoặc là tội rất nghiêm trọng đối với người từ đủ 14 tuổi đến dưới 16 tuổi, Người dưới 18 tuổi phạm tội đang có nơi làm việc ổn định hoặc có nơi cư trú rõ ràng và xét thấy không cần thiết phải cách ly người phạm tội khỏi xã hội."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Luật hình sự không có nguyên tắc nào dưới đây?",
+    "answer": "Nguyên tắc tự định đoạt."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Những dấu hiệu về mặt khách quan của đồng phạm bao gồm những dấu hiệu nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Lỗi vô ý vì qua tự tin có dấu hiệu nào sau đây?",
+    "answer": "d. Cả a, b, c đúng."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Người phạm tội phải chịu trách nhiệm hình sự ở đoạn phạm tội chưa đạt trong trường hợp nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về các biện pháp tư pháp:",
+    "answer": "Các biện pháp tư pháp là biện pháp cưỡng chế hình sự do Viện Kiểm Sát, Tòa Án quyết định"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hình phạt trục xuất",
+    "answer": "Hình phạt trục xuất chỉ áp dụng đối với người nước ngoài"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Hãy xác định thời điểm tội phạm hoàn thành đối với tội có cấu thành tội phạm hình thức?",
+    "answer": "Khi người phạm tội thực hiện hành vi phạm tội;"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Người phạm tội không phải chịu trách nhiệm hình sự ở đoạn phạm tội chưa đạt trong trường hợp nào sau đây?",
+    "answer": "d, Cả a, b, c sai"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Tù chung thân là hình phạt áp dụng đối với:",
+    "answer": "Người phạm tội đặc biệt nghiêm trọng nhưng chưa đến mức bị xử phạt tử hình"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây sẽ loại trừ trách nhiệm hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Bộ luật hình sự 2015 không có có hiệu lực trong trường hợp nào?",
+    "answer": "Pháp nhân là tổ chức xã hội – nghề nghiệp phạm tội."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Hình phạt nào là hình phạt bổ sung khi không áp dụng là hình phạt chính:",
+    "answer": "Phạt tiền và trục xuất"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Hình phạt tiền được áp dụng là hình phạt chính trong các trường hợp sau:",
+    "answer": "Người phạm tội ít nghiêm trọng, phạm tội nghiêm trọng do BLHS quy định và người phạm tội rất nghiêm trọng xâm phạm trật tự quản lý kinh tế, môi trường, trật tự công cộng, an toàn công cộng và một số tội phạm khác do BLHS quy định."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Biện pháp tư pháp đối với pháp nhân thương mại phạm tội bao gồm:",
+    "answer": "Tịch thu vật, tiền trực tiếp liên quan đến tội phạm; Trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại; buộc công khai xin lỗi; khôi phục lại tình trạng ban đầu; Thực hiện một số biện pháp nhằm khắc phục, ngăn chặn hậu quả tiếp tục xảy ra."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Select one:",
+    "answer": "Đến khi con đủ 36 tháng tuổi."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Thời hiệu thi hành bản án được tính từ ngày:",
+    "answer": "Bản án có hiệu lực pháp luật"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Khẳng định nào là không đúng?",
+    "answer": "Án treo là hình phạt không buộc cách ly người phạm tội khỏi xã hội."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây sẽ loại trừ trách nhiệm hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Quyết định hình phạt trong trường hợp phạm tội chưa đạt, nếu điều luật được áp dụng có quy định hình phạt tùâ có thời hạn thì hình phạt được áp dụng không quá:",
+    "answer": "Ba phần tư mức phạt tù mà điều luật quy định."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hình phạt tiền",
+    "answer": "Hình phạt tiền có thể là hình phạt chính hoặc hình phạt bổ sung tuỳ từng trường hợp cụ thể theo quy định tại Điều 35 BLHS. Hình phạt tiền áp dụng đối với người phạm tội và pháp nhân thương mại phạm tội."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Tù chung thân là hình phạt:",
+    "answer": "Nghiêm khắc hơn hình phạt tù có thời hạn và ít nghiêm khắc hơn hình phạt tử hình"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "A bị toà xử phạt tù 2 năm và cho hưởng án treo. Thời gian thử thách mà A phải chịu là bao nhiêu năm?",
+    "answer": "4 năm"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Hình phạt nào không phải là hình phạt chính áp dụng đối với pháp nhân thương mại phạm tội:",
+    "answer": "Cấm huy động vốn"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Thời điểm nào sau đây được coi là tội phạm hoàn thành đối với tội có cấu thành tội phạm hình thức?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Tội phạm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Người từ đủ 16 tuổi đến dưới 18 tuổi có thể bị áp dụng hình phạt tiền với tư cách là hình phạt chính nếu người đó có thu nhập hoặc có tài sản riêng."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Cấu thành tội phạm hình thức cần có dấu hiệu nào trong mặt khách quan?",
+    "answer": "a. Hành vi khách quan;"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Nguyên tắc xác định trách nhiệm hình sự của những người đồng phạm bao gồm những nguyên tắc nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Trong đồng phạm có thể có những người nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Sự nguy hiểm của đồng phạm so với trường hợp phạm tội đơn lẻ thể hiện ở những điểm sau đây:",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Khẳng định nào sau đây không phải là đặc điểm của hình phạt:",
+    "answer": "Có thể áp dụng hình phạt đối với mọi hành vi vi phạm pháp luật."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Nhận định nào sau đây đúng nhất về hình phạt Tù có thời hạn",
+    "answer": "Nghiêm khắc hơn hình phạt cải tạo không giam giữ và ít nghiêm khắc hơn hình phạt tù chung thân."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt trục xuất",
+    "answer": "Hình phạt trục xuất áp dụng đối với công dân, người nước ngoài, người không quốc tịch thường trú tại Việt Nam"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Đông phạm có những hình thức nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về các tình tiết giảm nhẹ làm căn cứ cho hưởng án treo:",
+    "answer": "Có từ 2 tình tiết giảm nhẹ trở lên trong đó có ít nhất 1 tình tiết quy định tại khoản 1 Điều 51 BLHS."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Hành vi chuẩn bị phạm tội là những hành vi nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Những dấu hiệu nào sau đây không phải là dấu hiệu của giai đoạn phạm tội chưa đạt?",
+    "answer": "Người phạm tội không thực hiện được đến cùng là do nguyên nhân chủ quan."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Tội phạm không có đặc điểm nào dưới đây?",
+    "answer": "Là hành vi được thực hiện bởi pháp nhân phi thương mại"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Để khẳng định sự tồn tại của mối quan hệ nhân quả giữa hành vi và hậu quả phải dựa vào những căn cứ nào sau đây?",
+    "answer": "Cả a, b, c, đúng."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Nguyễn Văn A khi 15 tuổi 11 tháng đã thực hiện hành vi cướp tài sản theo quy định tại khoản 3 Điều 168 BLHS với khung hình phạt là: Phạt tù từ 12 năm đến 20 năm. Hỏi mức hình phạt cao nhất mà A có thể phải chịu là:",
+    "answer": "10 năm tù"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hình phạt chính áp dụng đối với người phạm tội:",
+    "answer": "Đối với mỗi tội phạm, người phạm tội chỉ bị áp dụng một hình phạt chính và có thể bị áp dụng một hoặc một số hình phạt bổ sung."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Án đã tuyên đối với người chưa đủ 16 tuổi phạm tội thì không được tính để xác định tái phạm hoặc tái phạm nguy hiểm"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt quản chế",
+    "answer": "Thời hạn quản chế là từ 06 tháng đến 03 năm, kể từ ngày chấp hành xong hình phạt tù."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Dấu hiệu nào sau đây là dấu hiệu để xác định giai đoạn phạm tội chưa đạt?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Trường hợp hỗn hợp lỗi là trong cấu thành tội phạm nào sau đây?",
+    "answer": "c. Cấu thành tội phạm tăng nặng;"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Bộ luật hình sự 2015 có hiệu lực hồi tố trong trường hợp nào?",
+    "answer": "b. Nếu áp dụng thì người phạm tội sẽ được giảm mức hình phạt;"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Căn cứ vào mức độ nguy hiểm của hành vi phạm tội thì cấu thành tội phạm được chia thành những loại nào?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Nhận định nào sau đây không có trong khái niệm về thời hiệu thi hành bản án:",
+    "answer": "Không áp dụng hình phạt."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Bộ luật hình sự 2015 có hiệu lực trong trường hợp nào?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Giả sử A thực hiện hành vi phạm tội và có 2 tình tiết giảm nhẹ trách nhiệm hình sự (TNHS), thì trong trường hợp nào Toà án có thể quyết định hình phạt dưới mức thấp nhất của khung hình phạt được áp dụng đối với A theo quy định tại khoản 1 Điều 54 BLHS?",
+    "answer": "Cả 2 tình tiết đều thuộc khoản 1 Điều 51 BLHS"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt cấm cư trú",
+    "answer": "Cấm cư trú là hình phạt bổ sung đối với người phạm tội, khi không áp dụng là hình phạt chính"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Luật hình sự là gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng nhất về việc: Không thi hành án tử hình đối với",
+    "answer": "Phụ nữ có thai hoặc phụ nữ đang nuôi con dưới 36 tháng tuổi; Người đủ 75 tuổi trở lên; người bị kết án tử hình về tội tham ô tài sản, tội nhận hối lộ mà sau khi bị kết án đã chủ động nộp lại ít nhất ba phần tư tài sản tham ô, nhận hối lộ và hợp tác tích cực với cơ quan chức năng trong việc phát hiện, điều tra, xử lý tội phạm hoặc lập công lớn."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Điều kiện miễn chấp hành hình phạt sau khi đã được tạm đình chỉ chấp hành hình phạt tù là:",
+    "answer": "Bị kết án phạt tù đến 03 năm, đã được tạm đình chỉ chấp hành hình phạt tù theo quy định tại Điều 68 BLHS và trong thời gian tạm đình chỉ đã lập công hoặc chấp hành tốt pháp luật, hoàn cảnh gia đình đặc biệt khó khăn, xét thấy người đó không còn nguy hiểm cho xã hội nữa và có đề nghị của Viện trưởng VKS."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Cải tạo không giam giữ là hình phạt:",
+    "answer": "áp dụng đối với người phạm tội ít nghiêm trọng, phạm tội nghiêm trọng, đang có nơi làm việc ổn định hoặc có nơi cư trú rõ ràng mà xét thấy không cần thiết phải cách ly người phạm tội khỏi xã hội"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Nhận định nào không đúng về miễn trách nhiệm hình sự?",
+    "answer": "Miễn trách nhiệm hình sự là trường hợp người phạm tội không bị áp dụng hình phạt"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây không loại trừ trách nhiệm hình sự?",
+    "answer": "Người bị hại có lỗi."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Người phạm tội có thể được miễn hình phạt nếu thoả mãn điều kiện nào sau đây:",
+    "answer": "Người phạm tội có ít nhất 02 tình tiết giảm nhẹ quy định tại Khoản 1 Điều 54 BLHS và Người phạm tội lần đầu là người giúp sức trong vụ án đồng phạm nhưng có vai trò không đáng kể, đáng được khoan hồng đặc biệt nhưng chưa đến mức được miễn trách nhiệm hình sự."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Hành vi phạm tội tác động vào đối tượng tác động nào sau đây để gây thiệt hại cho khách thể của tội phạm?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Trong tất cả các vụ đồng phạm thì những người nào sau đây bắt buộc phải có?",
+    "answer": "Người thực hành;"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Hình phạt nào không phải là hình phạt bổ sung áp dụng đối với pháp nhân thương mại phạm tội:",
+    "answer": "Đình chỉ hoạt động vĩnh viễn"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Trách nhiệm hình sự đối với người tự ý nửa chừng chấm dứt việc phạm tội sẽ được giải quyết như thế nào?",
+    "answer": "Được miễn trách nhiệm hình sự về tội định phạm trong mọi trường hợp;"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Biện pháp tư pháp áp dụng đối với người dưới 18 tuổi phạm tội:",
+    "answer": "Giáo dục tại trường giáo dưỡng"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Người từ đủ 16 tuổi đến dưới 18 tuổi phạm nhiều tội thì hình phạt chung cao nhất là bao nhiêu?",
+    "answer": "18 năm tù;"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Cấu thành tội phạm có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Hành vi chuẩn bị phạm tội là không phải là hành vi nào sau đây?",
+    "answer": "Hành vi thực hiện tội phạm."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về luật hình sự không đúng",
+    "answer": "Xác định các hành vi vi phạm pháp luật và xử lý vi phạm pháp luật"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định",
+    "answer": "Cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định là hình phạt bổ sung đối với người phạm tội, khi không áp dụng là hình phạt chính"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Luật hình sự không có nguyên tắc nào dưới đây?",
+    "answer": "Nguyên tắc tự do thỏa thuận"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Phân biệt tội phạm và các vi phạm pháp luật khác dựa trên những cơ sở nào?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Những biểu hiện khách quan bao gồm những biểu hiện nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Căn cứ vào mức độ nguy hiểm của hành vi phạm tội thì cấu thành tội phạm không bao gồm loại nào?",
+    "answer": "Cấu thành tội phạm vật chất."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt tịch thu tài sản",
+    "answer": "Tịch thu tài sản là hình phạt bổ sung đối với người phạm tội, khi không áp dụng là hình phạt chính"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Không áp dụng hình phạt tử hình đối với:",
+    "answer": "Người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Hình phạt tử hình được áp dụng đối với:",
+    "answer": "Người từ đủ 18 tuổi trở lên phạm tội đặc biệt nghiêm trọng và không thuộc trường hợp là phụ nữ có thai khi phạm tội hoặc khi bị xét xử, phụ nữ nuôi con dưới 36 tháng tuổi, người dưới 18 tuổi phạm tội và người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Cấu thành tội phạm là gì?",
+    "answer": "Là tổng hợp các dấu hiệu chung có tính đặc trưng cho một loại tội phạm cụ thể được quy định trong luật hình sự;"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Hãy xác định thời điểm tội phạm hoàn thành nào là đúng trong các loại cấu thành tội phạm sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Người từ đủ 14 tuổi đến dưới 16 tuổi phạm nhiều tội thì hình phạt chung cao nhất là bao nhiêu?",
+    "answer": "d, Cả a, b, c sai"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Mức tiền phạt được áp dụng đối với người từ đủ 16 tuổi đến dưới 18 tuổi phạm tội không quá:",
+    "answer": "Một phần hai mức tiền phạt mà điều luật quy định."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về luật hình sự không đúng",
+    "answer": "Là một chế định pháp luật trong hệ thống pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Mức phạt tù cao nhất có thể áp dụng đối với người từ đủ 16 tuổi đến dưới 18 tuổi phạm tội là:",
+    "answer": "18 năm"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng:",
+    "answer": "Người được miễn hình phạt thì không bị coi là có án tích"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Đối tượng điều chỉnh của ngành luật hình sự là gì?",
+    "answer": "Là Quan hệ xã hội giữa Nhà nước và chủ thể đã thực hiện tội phạm."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Khẳng định nào là sai?",
+    "answer": "Không cho người phạm tội được hưởng án treo, nếu mức cao nhất của khung hình phạt đối với tội đã phạm là trên 3 năm tù."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Tử hình là hình phạt:",
+    "answer": "Đặc biệt chỉ áp dụng đối với người phạm tội đặc biệt nghiêm trọng thuộc một trong nhóm các tội xâm phạm an ninh quốc gia, xâm phạm tính mạng con người, các tội phạm về ma túy, tham nhũng và một số tội phạm đặc biệt nghiêm trọng khác do BLHS quy định. Không áp dụng đối với người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Người có nhân thân tương đối tốt để được hưởng án treo là người:",
+    "answer": "Ngoài lần phạm tội này, luôn chấp hành đúng chính sách, pháp luật và thực hiện đầy đủ nghĩa vụ của công dân ở nơi cư trú, nơi làm việc."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt chính áp dụng đối với người phạm tội:",
+    "answer": "Toà án có thể áp dụng một hoặc nhiều hình phạt bổ sung thay thế cho hình phạt chính nếu người phạm tội có nhiều tình tiết giảm nhẹ trách nhiệm hình sự."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Miễn chấp hành hình phạt là:",
+    "answer": "Không buộc người bị kết án phải chấp hành toàn bộ hoặc phần hình phạt còn lại."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng:",
+    "answer": "Những tình tiết giảm nhẹ trách nhiệm hình sự, tình tiết tăng nặng trách nhiệm hình sự là những tình tiết có trong cấu thành tội phạm giảm nhẹ, cấu thành tội phạm tăng nặng"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Luật hình sự Việt Nam phân biệt loại khách thể nào để chỉ mức độ khái quát khác nhau?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Nhận định nào sau đây đúng nhất về: Người có thể bị áp dụng biện pháp tư pháp bắt buộc chữa bệnh",
+    "answer": "Người thực hiện hành vi nguy hiểm cho xã hội trong khi đang mắc bệnh tâm thần, một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi; người phạm tội trong khi có năng lực trách nhiệm hình sự nhưng trước khi bị kết án đã mắc bệnh tới mức mất khả năng nhận thức hoặc khả năng điều khiển hành vi; người đang chấp hành hình phạt tù mà bị bệnh tới mức mất khả năng nhận thức hoặc khả năng điều khiển hành vi."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Những biểu hiện khách quan nào bắt buộc phải có trong mọi cấu thành tội phạm?",
+    "answer": "a. Hành vi nguy hiểm cho XH"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Đông phạm có những hình thức nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt tù có thời hạn",
+    "answer": "Tù có thời hạn được áp dụng đối với người lần đầu phạm tội ít nghiêm trọng do vô ý, có nơi cư trú rõ ràng"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Người bị kết án cải tạo không giam giữ bị khấu trừ một phần thu nhập để sung quỹ Nhà nước. Hỏi phần thu nhập bị khấu trừ là bao nhiêu?",
+    "answer": "từ 05% đến 20%"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Hành vi chuẩn bị phạm tội là những hành vi nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Cơ sở của trách nhiệm hình sự là:",
+    "answer": "Cấu thành tội phạm."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Hình phạt nào là hình phạt chính áp dụng đối với pháp nhân thương mại phạm tội:",
+    "answer": "Đình chỉ hoạt động vĩnh viễn"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Mặt khách quan của tội phạm được hiểu là gì?",
+    "answer": "Là mặt bên ngoài của tội phạm,"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Đông phạm có những hình thức nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Căn cứ vào cấu trúc của cấu thành tội phạm thì cấu thành tội phạm có loại nào dưới đây?",
+    "answer": "Cấu thành tội phạm hình thức."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt tiền:",
+    "answer": "Hình phạt tiền luôn luôn là hình phạt chính"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Bộ luật hình sự không có hiệu lực 2015 chỉ có hiệu lực đối với đối tượng nào?",
+    "answer": "b. Người nước ngoài được hưởng quyền miễm trừ tư pháp phạm tội trên lãnh thổ Việt Nam;"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Bộ luật hình sự 2015 không có có hiệu lực trong trường hợp nào?",
+    "answer": "Tổ chức xã hội – nghề nghiệp tại Việt Nam phạm tội trên lãnh thổ Việt Nam."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "cảnh cáo là hình phạt:",
+    "answer": "áp dụng đối với người phạm tội ít nghiêm trọng và có nhiều tình tiết giảm nhẹ nhưng chưa đến mức miễn hình phạt"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Khi xác định tội danh phải căn cứ xác các dấu hiệu nào sau đây?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Những dấu hiệu về mặt chủ quan nào sau đây bắt buộc phải có trong tất cả các vụ đồng phạm?",
+    "answer": "Lỗi cố ý;"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Mặt chủ quan của tội phạm bao gồm những yếu tố nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Khẳng định nào đúng?",
+    "answer": "Hình phạt là biện pháp cưỡng chế hình sự nghiêm khắc nhất."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Người từ đủ 14 tuổi đến dưới 16 tuổi phạm nhiều tội thì hình phạt chung cao nhất là bao nhiêu?",
+    "answer": "12 năm tù;"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng:",
+    "answer": "Người phạm tội mà đã trốn tránh thì thời gian trốn tránh sẽ không được tính vào thời hiệu truy cứu trách nhiệm hình sự"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Hình phạt nào là hình phạt chính áp dụng đối với người phạm tội:",
+    "answer": "Cảnh cáo"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây sẽ loại trừ trách nhiệm hình sự?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Trường hợp người bị phạt cải tạo không giam giữ phải thực hiện một số công việc lao động phục vụ cộng đồng trong thời gian cải tạo không giam giữ thì thời gian đó là:",
+    "answer": "Không quá 02 giờ trong một ngày và không quá 02 ngày trong 01 tuần"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Biện pháp tư pháp có đặc điểm nào sau đây:",
+    "answer": "Biện pháp tư pháp có thể được sử dụng để hỗ trợ và thay thế cho hình phạt"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về các tình tiết giảm nhẹ trách nhiệm hình sự:",
+    "answer": "Ngoài những tình tiết nêu tại khoản 1 Điều 51 BLHS, tòa án có thể coi đầu thú hoặc tình tiết khác là tình tiết giảm nhẹ trách nhiệm hình sự, nhưng phải ghi rõ lý do giảm nhẹ trong bản án."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Trong đồng phạm có thể có những người nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hình phạt tù chung thân",
+    "answer": "Tù chung thân là hình phạt tù không thời hạn được áp dụng đối với người phạm tội đặc biệt nghiêm trọng, nhưng chưa đến mức bị xử phạt tử hình. Không áp dụng hình phạt tù chung thân đối với người dưới 18 tuổi phạm tội."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Một tội phạm cụ thể trong một điều luật có thể quy định loại tội phạm?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt tù chung thân",
+    "answer": "Tù chung thân là hình phạt tù có thời hạn nhưng có mức tối đa cao hơn 20 năm"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Sự nguy hiểm của đồng phạm so với trường hợp phạm tội đơn lẻ thể hiện ở những điểm sau đây:",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Tội phạm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Sự nguy hiểm của đồng phạm so với trường hợp phạm tội đơn lẻ thể hiện ở những điểm sau đây:",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Đồng phạm là trường hợp nào sau đây?",
+    "answer": "Là trường hợp có hai người trở lên cố ý cùng thực hiện một tội phạm;"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Nhận định nào đúng về án treo:",
+    "answer": "Không cho người phạm tội được hưởng án treo, nếu hình phạt đã tuyên đối với người ấy là trên 3 năm tù."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hình phạt tù có thời hạn",
+    "answer": "Tù có thời hạn là buộc người bị kết án phải chấp hành hình phạt tại cơ sở giam giữ trong một thời hạn nhất định."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Biện pháp tư pháp đối với người phạm tội bao gồm:",
+    "answer": "Tịch thu vật, tiền trực tiếp liên quan đến tội phạm; Trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại; buộc công khai xin lỗi; Bắt buộc chữa bệnh."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Tội phạm có những loại nào dưới đây?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Bộ luật hình sự có hiệu lực 2015 chỉ có hiệu lực đối với đối tượng nào?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Hãy xác định thời điểm tội phạm hoàn thành đối với tội có cấu thành tội phạm vật chất?",
+    "answer": "Khi có hậu quả xảy ra;"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Người từ đủ 14 tuổi đến dưới 16 tuổi khi phạm tội, nếu điều luật được áp dụng quy định hình phạt tù có thời hạn thì mức hình phạt cao nhất được áp dụng là:",
+    "answer": "Không quá một phần hai mức phạt tù mà điều luật quy định"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về trách nhiệm hình sự của pháp nhân thương mại phạm tội:",
+    "answer": "Pháp nhân thương mại phải chịu trách nhiệm hình sự về mọi tội phạm trong BLHS hiện hành"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Hành vi nào bị coi là Tội phạm được quy định tại đâu ?",
+    "answer": "c. Trong Bộ luật hình sự;"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Thời hạn quản chế là:",
+    "answer": "từ 01 năm đến 05 năm, kể từ ngày chấp hành xong hình phạt tù"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Trong đồng phạm bắt buộc phải có người nào sau đây?",
+    "answer": "Người thực hành;"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng?",
+    "answer": "Người dưới 18 tuổi phạm tội có thể bị áp dụng hình phạt tiền"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Biện pháp tư pháp không có đặc điểm nào sau đây:",
+    "answer": "Biện pháp tư pháp chỉ có thể áp dụng đối với người đã thực hiện hành vi cấu thành tội phạm."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Phương pháp điều chỉnh của ngành luật hình sự là gì?",
+    "answer": "Phương pháp quyền uy"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Mục đích của hình phạt là:",
+    "answer": "Trừng trị người, pháp nhân thương mại phạm tội; Giáo dục người, pháp nhân thương mại ý thức tuân theo pháp luật và các quy tắc của cuộc sống; Ngăn ngừa người, pháp nhân thương mại phạm tội phạm tội mới và giáo dục người, pháp nhân thương mại khác tôn trọng pháp luật, phòng ngừa và đấu tranh chống tội phạm."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng?",
+    "answer": "Trong mọi trường hợp, không áp dụng hình phạt tù đối với người dưới 18 tuổi phạm tội"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Điều kiện nào sau đây là điều kiện của trường hợp tự ý nửa chừng chấm dứt việc phạm tội?",
+    "answer": "Việc chấm dứt không thực hiện tội phạm phải xảy ra ở giai đoạn chuẩn bị phạm tội hoặc phạm tội chưa đạt chưa hoàn thành"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Nhận định nào là đúng về miễn trách nhiệm hình sự?",
+    "answer": "Miễn trách nhiệm hình sự là không buộc người phạm tội phải gánh chịu hậu quả pháp lý hình sự về tội phạm mà người này đã thực hiện"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Hành vi chuẩn bị phạm tội là những hành vi nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Tội phạm hoàn thành là trường hợp nào sau đây?",
+    "answer": "Hành vi phạm tội đã thoả mãn hết các dấu hiệu được mô tả trong cấu thành tội phạm;"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Khi xác định tội danh phải căn cứ xác các dấu hiệu nào sau đây?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Lỗi vô ý vì do cẩu thả là có dấu hiệu nào sau đây?",
+    "answer": "d. Cả a, b, c đúng."
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Hình phạt tù có thời hạn đối với người phạm tội:",
+    "answer": "có mức tối thiểu là 03 tháng và mức tối đa là 20 năm"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Luật hình sự có các chức năng gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Thời hiệu truy cứu trách nhiệm hình sự được tính từ ngày tội phạm:",
+    "answer": "Được thực hiện."
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Hình phạt nào không phải là hình phạt chính áp dụng đối với người phạm tội:",
+    "answer": "Quản chế"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Hình phạt tử hình không được áp dụng đối với:",
+    "answer": "Người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Bộ luật hình sự 2015 không có có hiệu lực trong trường hợp nào?",
+    "answer": "Pháp nhân là tổ chức xã hội – nghề nghiệp phạm tội."
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Đối tượng điều chỉnh của ngành luật hình sự là gi?",
+    "answer": "a.là Quan hệ xã hội giữa Nhà nước và chủ thể đã thực hiện tội phạm."
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Tội phạm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Những biểu hiện khách quan bao gồm những biểu hiện nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt tước một số quyền công dân",
+    "answer": "Hình phạt tước một số quyền công dân có thể được áp dụng độc lập so với các hình phạt chính khác"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây sẽ loại trừ trách nhiệm hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Phương pháp điều chỉnh của ngành luật hình sự là gì?",
+    "answer": "Phương pháp quyền uy"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về các tình tiết giảm nhẹ trách nhiệm hình sự:",
+    "answer": "Tình tiết giảm nhẹ trách nhiệm hình sự là những tình tiết có trong cấu thành tội phạm giảm nhẹ."
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Hậu quả của tội phạm có ý nghĩa nào sau đây trong việc xác định tội phạm và hình phạt?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Phân loại tôi phạm dựa vào căn cứ nào dưới đây?",
+    "answer": "a. Mức cao nhất của khung hình phạt;"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Người phạm tội với lỗi cố ý trực tiếp là trường hợp nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Những dấu hiệu nào sau đây là dấu hiệu của Lỗi vô ý do cẩu thả?",
+    "answer": "Không mong muốn cho hậu quả xảy ra."
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Hình phạt nào là hình phạt bổ sung áp dụng đối với người phạm tội",
+    "answer": "Quản chế"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Không áp dụng hình phạt tù có thời hạn đối với :",
+    "answer": "Người lần đầu phạm tội ít nghiêm trọng do vô ý và có nơi cư trú rõ ràng"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Tội phạm không có đặc điểm nào dưới đây?",
+    "answer": "Là hành vi được thực hiện bởi cá nhân ở mọi lứa tuổi khác nhau."
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về luật hình sự không đúng",
+    "answer": "Là một văn bản trong hệ thống pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Từ khi thành lập, nước Cộng hòa XHCN Việt Nam đã ban hành được mấy Bộ luật hình sự (không kể sửa đổi, bổ sung)?",
+    "answer": "3"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng:",
+    "answer": "Người được hưởng án treo có thể được rút ngắn thời gian thử thách"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây sẽ loại trừ trách nhiệm hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Luật hình sự có những nguyên tắc nào dưới đây?",
+    "answer": "Cả a, b, c đúng;"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Tội phạm có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Căn cứ vào cấu trúc của cấu thành tội phạm thì cấu thành tội phạm có loại nào dưới đây?",
+    "answer": "Cấu thành tội phạm vật chất"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Bộ luật hình sự không có hiệu lực 2015 chỉ có hiệu lực đối với đối tượng nào?",
+    "answer": "a. Người nước ngoài không cư trú ở Việt Nam phạm tội ngoài lãnh thổ lãnh thổ Việt Nam;"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Hình phạt nào không phải là hình phạt bổ sung áp dụng đối với người phạm tội:",
+    "answer": "Tù có thời hạn"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây sẽ loại trừ trách nhiệm hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Căn cứ vào cấu trúc của cấu thành tội phạm thì cấu thành tội phạm có loại nào dưới đây?",
+    "answer": "Cấu thành tội phạm hình thức."
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Tội phạm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Dấu hiệu nào sau đây là dấu hiệu để xác định giai đoạn phạm tội chưa đạt?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Không xử phạt tử hình đối với người dưới 18 tuổi phạm tội"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng?",
+    "answer": "Người dưới 18 tuổi phạm tội có thể bị áp dụng hình phạt tiền"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng:",
+    "answer": "Người phạm tội mà đã trốn tránh thì thời gian trốn tránh sẽ không được tính vào thời hiệu truy cứu trách nhiệm hình sự"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Tù chung thân là hình phạt:",
+    "answer": "Nghiêm khắc hơn hình phạt tù có thời hạn và ít nghiêm khắc hơn hình phạt tử hình"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Xét về mặt cấu trúc, hành vi khách quan của tội phạm xảy ra trên thực tế có thể là:",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng?",
+    "answer": "Trong mọi trường hợp, không áp dụng hình phạt tù đối với người dưới 18 tuổi phạm tội"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng nhất về việc: Không thi hành án tử hình đối với",
+    "answer": "Phụ nữ có thai hoặc phụ nữ đang nuôi con dưới 36 tháng tuổi; Người đủ 75 tuổi trở lên; người bị kết án tử hình về tội tham ô tài sản, tội nhận hối lộ mà sau khi bị kết án đã chủ động nộp lại ít nhất ba phần tư tài sản tham ô, nhận hối lộ và hợp tác tích cực với cơ quan chức năng trong việc phát hiện, điều tra, xử lý tội phạm hoặc lập công lớn."
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Khẳng định nào đúng?",
+    "answer": "Hình phạt là biện pháp cưỡng chế hình sự nghiêm khắc nhất."
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt trục xuất",
+    "answer": "Hình phạt trục xuất áp dụng đối với công dân, người nước ngoài, người không quốc tịch thường trú tại Việt Nam"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Hãy xác định thời điểm tội phạm hoàn thành nào là đúng trong các loại cấu thành tội phạm sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Trong tất cả các vụ đồng phạm thì những người nào sau đây bắt buộc phải có?",
+    "answer": "Người thực hành;"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Quyết định hình phạt trong trường hợp phạm tội chưa đạt, nếu điều luật được áp dụng có quy định hình phạt tùâ có thời hạn thì hình phạt được áp dụng không quá:",
+    "answer": "Ba phần tư mức phạt tù mà điều luật quy định."
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Sự nguy hiểm của đồng phạm so với trường hợp phạm tội đơn lẻ thể hiện ở những điểm sau đây:",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Luật hình sự có các chức năng gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Đối tượng điều chỉnh của ngành luật hình sự là gi?",
+    "answer": "a.là Quan hệ xã hội giữa Nhà nước và chủ thể đã thực hiện tội phạm."
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Trách nhiệm hình sự đối với người tự ý nửa chừng chấm dứt việc phạm tội sẽ được giải quyết như thế nào?",
+    "answer": "Được miễn trách nhiệm hình sự về tội định phạm trong mọi trường hợp;"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hình phạt tiền",
+    "answer": "Hình phạt tiền có thể là hình phạt chính hoặc hình phạt bổ sung tuỳ từng trường hợp cụ thể theo quy định tại Điều 35 BLHS. Hình phạt tiền áp dụng đối với người phạm tội và pháp nhân thương mại phạm tội."
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Biện pháp tư pháp có đặc điểm nào sau đây:",
+    "answer": "Biện pháp tư pháp có thể được sử dụng để hỗ trợ và thay thế cho hình phạt"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về trách nhiệm hình sự của pháp nhân thương mại phạm tội:",
+    "answer": "Pháp nhân thương mại phải chịu trách nhiệm hình sự về mọi tội phạm trong BLHS hiện hành"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Nguyên tắc xác định trách nhiệm hình sự của những người đồng phạm bao gồm những nguyên tắc nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Căn cứ vào thái độ tâm lý của người phạm tội đối với hành vi mà họ đã thực hiện thì phạm tội chưa đạt được chia thành những loại nào sau đây?",
+    "answer": "Chỉ có a, b đúng"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về luật hình sự không đúng",
+    "answer": "Là một văn bản trong hệ thống pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Bộ luật hình sự 2015 có hiệu lực trong trường hợp nào?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Chủ thể của tội phạm là cá nhân phải có đặc điểm nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Người từ đủ 16 tuổi đến dưới 18 tuổi khi phạm tội, nếu điều luật được áp dụng quy định hình phạt tù có thời hạn thì mức hình phạt cao nhất được áp dụng là:",
+    "answer": "Không quá ba phần tư mức phạt tù mà điều luật quy định"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Luật hình sự Việt Nam phân biệt loại khách thể nào để chỉ mức độ khái quát khác nhau?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Biện pháp tư pháp đối với người phạm tội bao gồm:",
+    "answer": "Tịch thu vật, tiền trực tiếp liên quan đến tội phạm; Trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại; buộc công khai xin lỗi; Bắt buộc chữa bệnh."
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Luật hình sự có những nguyên tắc nào dưới đây?",
+    "answer": "Cả a, b, c đúng;"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt cấm cư trú",
+    "answer": "Cấm cư trú là hình phạt bổ sung đối với người phạm tội, khi không áp dụng là hình phạt chính"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Hành vi chuẩn bị phạm tội là những hành vi nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Hình phạt tiền được áp dụng là hình phạt chính trong các trường hợp sau:",
+    "answer": "Người phạm tội ít nghiêm trọng, phạm tội nghiêm trọng do BLHS quy định và người phạm tội rất nghiêm trọng xâm phạm trật tự quản lý kinh tế, môi trường, trật tự công cộng, an toàn công cộng và một số tội phạm khác do BLHS quy định."
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Thời hiệu truy cứu trách nhiệm hình sự được tính từ ngày tội phạm:",
+    "answer": "Được thực hiện."
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Cấu thành tội phạm hình thức cần có dấu hiệu nào trong mặt khách quan?",
+    "answer": "a. Hành vi khách quan;"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Thời hạn cải tạo không giam giữ được áp dụng đối với người dưới 18 tuổi phạm tội không quá:",
+    "answer": "Một phần hai thời hạn mà điều luật quy định."
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Cấu thành tội phạm có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây sẽ loại trừ trách nhiệm hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Người từ đủ 14 tuổi đến dưới 16 tuổi phạm nhiều tội thì hình phạt chung cao nhất là bao nhiêu?",
+    "answer": "12 năm tù;"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Một tội phạm cụ thể trong một điều luật có thể quy định loại tội phạm?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Những dấu hiệu nào sau đây không phải là dấu hiệu của giai đoạn phạm tội chưa đạt?",
+    "answer": "Người phạm tội không thực hiện được đến cùng là do nguyên nhân chủ quan."
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt tù chung thân",
+    "answer": "Tù chung thân là hình phạt tù có thời hạn nhưng có mức tối đa cao hơn 20 năm"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt tù có thời hạn",
+    "answer": "Tù có thời hạn được áp dụng đối với người lần đầu phạm tội ít nghiêm trọng do vô ý, có nơi cư trú rõ ràng"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt tước một số quyền công dân",
+    "answer": "Hình phạt tước một số quyền công dân có thể được áp dụng độc lập so với các hình phạt chính khác"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Phương pháp điều chỉnh của ngành luật hình sự là gì?",
+    "answer": "Phương pháp quyền uy"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Nhận định nào không đúng về miễn trách nhiệm hình sự?",
+    "answer": "Miễn trách nhiệm hình sự là trường hợp người phạm tội không bị áp dụng hình phạt"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Người phạm tội phải chịu trách nhiệm hình sự ở đoạn phạm tội chưa đạt trong trường hợp nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Cấu thành tội phạm là gì?",
+    "answer": "Là tổng hợp các dấu hiệu chung có tính đặc trưng cho một loại tội phạm cụ thể được quy định trong luật hình sự;"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Tổng hợp hình phạt của nhiều bản án là:",
+    "answer": "Trường hợp một người đang phải chấp hành một bản án mà lại bị xét xử về tội đã phạm trước khi có bản án đang phải chấp hành và Trường hợp một người đang phải chấp hành một bản án mà lại bị đưa ra xét xử về một hành vi phạm tội mới thực hiện trong thời gian đang chấp hành hình phạt"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Luật hình sự là gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Đông phạm có những hình thức nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Trong đồng phạm có thể có những người nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Khi xác định tội danh phải căn cứ xác các dấu hiệu nào sau đây?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về các tình tiết giảm nhẹ làm căn cứ cho hưởng án treo:",
+    "answer": "Có từ 2 tình tiết giảm nhẹ trở lên trong đó có ít nhất 1 tình tiết quy định tại khoản 1 Điều 51 BLHS."
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Tội phạm không có đặc điểm nào dưới đây?",
+    "answer": "Là hành vi được thực hiện bởi pháp nhân phi thương mại"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Nhận định nào sau đây đúng nhất về: Người có thể bị áp dụng biện pháp tư pháp bắt buộc chữa bệnh",
+    "answer": "Người thực hiện hành vi nguy hiểm cho xã hội trong khi đang mắc bệnh tâm thần, một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi; người phạm tội trong khi có năng lực trách nhiệm hình sự nhưng trước khi bị kết án đã mắc bệnh tới mức mất khả năng nhận thức hoặc khả năng điều khiển hành vi; người đang chấp hành hình phạt tù mà bị bệnh tới mức mất khả năng nhận thức hoặc khả năng điều khiển hành vi."
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Biện pháp tư pháp đối với pháp nhân thương mại phạm tội bao gồm:",
+    "answer": "Tịch thu vật, tiền trực tiếp liên quan đến tội phạm; Trả lại tài sản, sửa chữa hoặc bồi thường thiệt hại; buộc công khai xin lỗi; khôi phục lại tình trạng ban đầu; Thực hiện một số biện pháp nhằm khắc phục, ngăn chặn hậu quả tiếp tục xảy ra."
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về luật hình sự không đúng",
+    "answer": "Là một chế định pháp luật trong hệ thống pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Điều kiện miễn chấp hành hình phạt sau khi đã được tạm đình chỉ chấp hành hình phạt tù là:",
+    "answer": "Bị kết án phạt tù đến 03 năm, đã được tạm đình chỉ chấp hành hình phạt tù theo quy định tại Điều 68 BLHS và trong thời gian tạm đình chỉ đã lập công hoặc chấp hành tốt pháp luật, hoàn cảnh gia đình đặc biệt khó khăn, xét thấy người đó không còn nguy hiểm cho xã hội nữa và có đề nghị của Viện trưởng VKS."
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "cảnh cáo là hình phạt:",
+    "answer": "áp dụng đối với người phạm tội ít nghiêm trọng và có nhiều tình tiết giảm nhẹ nhưng chưa đến mức miễn hình phạt"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Hành vi nào bị coi là Tội phạm được quy định tại đâu ?",
+    "answer": "c. Trong Bộ luật hình sự;"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hình phạt trục xuất",
+    "answer": "Hình phạt trục xuất chỉ áp dụng đối với người nước ngoài"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Sự nguy hiểm của đồng phạm so với trường hợp phạm tội đơn lẻ thể hiện ở những điểm sau đây:",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Người từ đủ 14 tuổi đến dưới 16 tuổi phạm nhiều tội thì hình phạt chung cao nhất là bao nhiêu?",
+    "answer": "d, Cả a, b, c sai"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định",
+    "answer": "Cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định là hình phạt bổ sung đối với người phạm tội, khi không áp dụng là hình phạt chính"
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Tội phạm không có đặc điểm nào dưới đây?",
+    "answer": "Là hành vi được thực hiện bởi cá nhân ở mọi lứa tuổi khác nhau."
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Khẳng định nào đúng?",
+    "answer": "Án treo là biện pháp miễn chấp hành hình phạt tù có điều kiện."
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Luật hình sự không có nguyên tắc nào dưới đây?",
+    "answer": "Nguyên tắc tự do thỏa thuận"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Những dấu hiệu về mặt chủ quan nào sau đây bắt buộc phải có trong tất cả các vụ đồng phạm?",
+    "answer": "Lỗi cố ý;"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng:",
+    "answer": "Người được hưởng án treo nếu thoả mãn các quy định của pháp luật thì được miễn thời gian thử thách"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Mức phạt tù cao nhất có thể áp dụng đối với người từ đủ 16 tuổi đến dưới 18 tuổi phạm tội là:",
+    "answer": "18 năm"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Khi xác định tội danh phải căn cứ xác các dấu hiệu nào sau đây?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Tội phạm có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Các hình phạt được áp dụng đối với người dưới 18 tuổi phạm tội là:",
+    "answer": "Cảnh cáo, phạt tiền, Cải tạo không giam giữ, tù có thời hạn"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Người bị kết án cải tạo không giam giữ bị khấu trừ một phần thu nhập để sung quỹ Nhà nước. Hỏi phần thu nhập bị khấu trừ là bao nhiêu?",
+    "answer": "từ 05% đến 20%"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Không áp dụng hình phạt tử hình đối với:",
+    "answer": "Người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Luật hình sự không có nguyên tắc nào dưới đây?",
+    "answer": "Nguyên tắc tự định đoạt."
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Hình phạt tù có thời hạn đối với người phạm tội:",
+    "answer": "có mức tối thiểu là 03 tháng và mức tối đa là 20 năm"
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Trong đồng phạm có thể có những người nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Trường hợp hỗn hợp lỗi là trong cấu thành tội phạm nào sau đây?",
+    "answer": "c. Cấu thành tội phạm tăng nặng;"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Mặt chủ quan của tội phạm bao gồm những yếu tố nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Biện pháp tư pháp áp dụng đối với người dưới 18 tuổi phạm tội:",
+    "answer": "Giáo dục tại trường giáo dưỡng"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Một tội phạm cụ thể trong một điều luật có thể quy định loại tội phạm?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Hình phạt nào là hình phạt chính áp dụng đối với pháp nhân thương mại phạm tội:",
+    "answer": "Đình chỉ hoạt động vĩnh viễn"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Cải tạo không giam giữ là hình phạt:",
+    "answer": "áp dụng đối với người phạm tội ít nghiêm trọng, phạm tội nghiêm trọng, đang có nơi làm việc ổn định hoặc có nơi cư trú rõ ràng mà xét thấy không cần thiết phải cách ly người phạm tội khỏi xã hội"
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Sự nguy hiểm của đồng phạm so với trường hợp phạm tội đơn lẻ thể hiện ở những điểm sau đây:",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": "Tội phạm có những loại nào dưới đây?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "Luật hình sự có những nguyên tắc nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Hậu quả của tội phạm có ý nghĩa nào sau đây trong việc xác định tội phạm và hình phạt?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "Nhận định nào sau đây đúng nhất về hình phạt Tù có thời hạn",
+    "answer": "Nghiêm khắc hơn hình phạt cải tạo không giam giữ và ít nghiêm khắc hơn hình phạt tù chung thân."
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Thời điểm nào sau đây được coi là tội phạm hoàn thành đối với tội có cấu thành tội phạm hình thức?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Luật hình sự Việt Nam chia quá trình cố ý thực hiện tội phạm thành các giai đoạn nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "Tội phạm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": "Hành vi chuẩn bị phạm tội là không phải là hành vi nào sau đây?",
+    "answer": "Hành vi thực hiện tội phạm."
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Hành vi phạm tội nào không phải xảy ra trên lãnh thổ Việt Nam sau đây?",
+    "answer": "d. Hành vi phạm tội không thuộc một trong các trường hợp a, b, c nêu trên."
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "Trường hợp nào dưới đây người dưới 18 tuổi bị kết án được coi là không có án tích:",
+    "answer": "Người từ đủ 14 tuổi đến dưới 16 tuổi, Người từ đủ 16 tuổi đến dưới 18 tuổi bị kết án về tội phạm ít nghiêm trọng, tội phạm nghiêm trọng hoặc tội phạm rất nghiêm trọng do vô ý; Người bị áp dụng biện pháp tư pháp Giáo dục tại trường giáo dưỡng."
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt quản chế",
+    "answer": "Thời hạn quản chế là từ 06 tháng đến 03 năm, kể từ ngày chấp hành xong hình phạt tù."
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": "Căn cứ vào mức độ nguy hiểm của hành vi phạm tội thì cấu thành tội phạm không bao gồm loại nào?",
+    "answer": "Cấu thành tội phạm vật chất."
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Trong đồng phạm bắt buộc phải có người nào sau đây?",
+    "answer": "Người thực hành;"
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "Từ khi thành lập, nước Cộng hòa XHCN Việt Nam đã ban hành được mấy Bộ luật hình sự (không kể sửa đổi, bổ sung)?",
+    "answer": "3"
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Xét về mặt cấu trúc, hành vi khách quan của tội phạm xảy ra trên thực tế có thể là:",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Người phạm tội không phải chịu trách nhiệm hình sự ở giai đoạn chuẩn bị phạm tội trong trường hợp nào sau đây?",
+    "answer": "b, Trong một số trường hợp được quy định trong BLHS;"
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "Người phạm tội có thể được miễn hình phạt nếu thoả mãn điều kiện nào sau đây:",
+    "answer": "Người phạm tội có ít nhất 02 tình tiết giảm nhẹ quy định tại Khoản 1 Điều 54 BLHS và Người phạm tội lần đầu là người giúp sức trong vụ án đồng phạm nhưng có vai trò không đáng kể, đáng được khoan hồng đặc biệt nhưng chưa đến mức được miễn trách nhiệm hình sự."
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Hành vi chuẩn bị phạm tội là những hành vi nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Lỗi cố ý gián tiếp có dấu hiệu nào sau đây?",
+    "answer": "d. Cả a, b, c đúng."
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Khẳng định nào là không đúng?",
+    "answer": "Án treo là hình phạt không buộc cách ly người phạm tội khỏi xã hội."
+  },
+  {
+    "id": 321,
+    "premium": false,
+    "question": "Giả sử A thực hiện hành vi phạm tội và có 2 tình tiết giảm nhẹ trách nhiệm hình sự (TNHS), thì trong trường hợp nào Toà án có thể quyết định hình phạt dưới mức thấp nhất của khung hình phạt được áp dụng đối với A theo quy định tại khoản 1 Điều 54 BLHS?",
+    "answer": "Cả 2 tình tiết đều thuộc khoản 1 Điều 51 BLHS"
+  },
+  {
+    "id": 322,
+    "premium": false,
+    "question": "Người từ đủ 14 tuổi đến dưới 16 tuổi khi phạm tội, nếu điều luật được áp dụng quy định hình phạt tù có thời hạn thì mức hình phạt cao nhất được áp dụng là:",
+    "answer": "Không quá một phần hai mức phạt tù mà điều luật quy định"
+  },
+  {
+    "id": 323,
+    "premium": false,
+    "question": "Nhận định nào sau đây là không đúng về hình phạt tịch thu tài sản",
+    "answer": "Tịch thu tài sản là hình phạt bổ sung đối với người phạm tội, khi không áp dụng là hình phạt chính"
+  },
+  {
+    "id": 324,
+    "premium": false,
+    "question": "Hành vi phạm tội tác động vào đối tượng tác động nào sau đây để gây thiệt hại cho khách thể của tội phạm?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 325,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây sẽ loại trừ trách nhiệm hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 326,
+    "premium": false,
+    "question": "Nhận định nào sau đây không có trong khái niệm về thời hiệu thi hành bản án:",
+    "answer": "Không áp dụng hình phạt."
+  },
+  {
+    "id": 327,
+    "premium": false,
+    "question": "Hình phạt tử hình không được áp dụng đối với:",
+    "answer": "Người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử"
+  },
+  {
+    "id": 328,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây sẽ loại trừ trách nhiệm hình sự?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 329,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hình phạt tử hình:",
+    "answer": "Chỉ áp dụng đối với người phạm tội đặc biệt nghiêm trọng thuộc một trong nhóm các tội xâm phạm an ninh quốc gia, xâm phạm tính mạng con người, các tội phạm về ma túy, tham nhũng và một số tội phạm đặc biệt nghiêm trọng khác do BLHS quy định"
+  },
+  {
+    "id": 330,
+    "premium": false,
+    "question": "Lỗi vô ý vì qua tự tin có dấu hiệu nào sau đây?",
+    "answer": "d. Cả a, b, c đúng."
+  },
+  {
+    "id": 331,
+    "premium": false,
+    "question": "Bộ luật hình sự 2015 không có có hiệu lực trong trường hợp nào?",
+    "answer": "Tổ chức xã hội – nghề nghiệp tại Việt Nam phạm tội trên lãnh thổ Việt Nam."
+  },
+  {
+    "id": 332,
+    "premium": false,
+    "question": "Thời hạn quản chế là:",
+    "answer": "từ 01 năm đến 05 năm, kể từ ngày chấp hành xong hình phạt tù"
+  },
+  {
+    "id": 333,
+    "premium": false,
+    "question": "Căn cứ vào cấu trúc của cấu thành tội phạm thì cấu thành tội phạm có loại nào dưới đây?",
+    "answer": "Cấu thành tội phạm vật chất"
+  },
+  {
+    "id": 334,
+    "premium": false,
+    "question": "Trường hợp người bị phạt cải tạo không giam giữ phải thực hiện một số công việc lao động phục vụ cộng đồng trong thời gian cải tạo không giam giữ thì thời gian đó là:",
+    "answer": "Không quá 02 giờ trong một ngày và không quá 02 ngày trong 01 tuần"
+  },
+  {
+    "id": 335,
+    "premium": false,
+    "question": "Hình phạt tử hình được áp dụng đối với:",
+    "answer": "Người từ đủ 18 tuổi trở lên phạm tội đặc biệt nghiêm trọng và không thuộc trường hợp là phụ nữ có thai khi phạm tội hoặc khi bị xét xử, phụ nữ nuôi con dưới 36 tháng tuổi, người dưới 18 tuổi phạm tội và người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử"
+  },
+  {
+    "id": 336,
+    "premium": false,
+    "question": "Người phạm tội với lỗi cố ý trực tiếp là trường hợp nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 337,
+    "premium": false,
+    "question": "Theo BLHS 2015 thì những trường hợp nào sau đây không loại trừ trách nhiệm hình sự?",
+    "answer": "Người bị hại có lỗi."
+  },
+  {
+    "id": 338,
+    "premium": false,
+    "question": "Đối tượng điều chỉnh của ngành luật hình sự là gì?",
+    "answer": "Là Quan hệ xã hội giữa Nhà nước và chủ thể đã thực hiện tội phạm."
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Nhận định nào là đúng về miễn trách nhiệm hình sự?",
+    "answer": "Miễn trách nhiệm hình sự là không buộc người phạm tội phải gánh chịu hậu quả pháp lý hình sự về tội phạm mà người này đã thực hiện"
+  },
+  {
+    "id": 340,
+    "premium": false,
+    "question": "Tội phạm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 341,
+    "premium": false,
+    "question": "Bộ luật hình sự 2015 không có có hiệu lực trong trường hợp nào?",
+    "answer": "Pháp nhân là tổ chức xã hội – nghề nghiệp phạm tội."
+  },
+  {
+    "id": 342,
+    "premium": false,
+    "question": "Mức phạt tù cao nhất có thể áp dụng đối với người từ đủ 14 tuổi đến dưới 16 tuổi phạm tội là:",
+    "answer": "12 năm"
+  },
+  {
+    "id": 343,
+    "premium": false,
+    "question": "Tử hình là hình phạt:",
+    "answer": "Đặc biệt chỉ áp dụng đối với người phạm tội đặc biệt nghiêm trọng thuộc một trong nhóm các tội xâm phạm an ninh quốc gia, xâm phạm tính mạng con người, các tội phạm về ma túy, tham nhũng và một số tội phạm đặc biệt nghiêm trọng khác do BLHS quy định. Không áp dụng đối với người dưới 18 tuổi khi phạm tội, phụ nữ có thai, phụ nữ đang nuôi con dưới 36 tháng tuổi hoặc người đủ 75 tuổi trở lên khi phạm tội hoặc khi xét xử"
+  },
+  {
+    "id": 344,
+    "premium": false,
+    "question": "Những biểu hiện khách quan nào bắt buộc phải có trong mọi cấu thành tội phạm?",
+    "answer": "a. Hành vi nguy hiểm cho XH"
+  },
+  {
+    "id": 345,
+    "premium": false,
+    "question": "Người từ đủ 16 tuổi đến dưới 18 tuổi phạm nhiều tội thì hình phạt chung cao nhất là bao nhiêu?",
+    "answer": "18 năm tù;"
+  },
+  {
+    "id": 346,
+    "premium": false,
+    "question": "Mặt khách quan của tội phạm được hiểu là gì?",
+    "answer": "Là mặt bên ngoài của tội phạm,"
+  },
+  {
+    "id": 347,
+    "premium": false,
+    "question": "Điều kiện nào sau đây là điều kiện của trường hợp tự ý nửa chừng chấm dứt việc phạm tội?",
+    "answer": "Việc chấm dứt không thực hiện tội phạm phải xảy ra ở giai đoạn chuẩn bị phạm tội hoặc phạm tội chưa đạt chưa hoàn thành"
+  },
+  {
+    "id": 348,
+    "premium": false,
+    "question": "Một tội phạm cụ thể trong một điều luật có thể có mấy loại tội phạm?",
+    "answer": "d. Cả a, b, c đúng"
+  },
+  {
+    "id": 349,
+    "premium": false,
+    "question": "Bộ luật hình sự không có hiệu lực 2015 chỉ có hiệu lực đối với đối tượng nào?",
+    "answer": "a. Người nước ngoài không cư trú ở Việt Nam phạm tội ngoài lãnh thổ lãnh thổ Việt Nam;"
+  },
+  {
+    "id": 350,
+    "premium": false,
+    "question": "Không áp dụng hình phạt tù có thời hạn đối với :",
+    "answer": "Người lần đầu phạm tội ít nghiêm trọng do vô ý và có nơi cư trú rõ ràng"
+  },
+  {
+    "id": 351,
+    "premium": false,
+    "question": "Miễn chấp hành hình phạt là:",
+    "answer": "Không buộc người bị kết án phải chấp hành toàn bộ hoặc phần hình phạt còn lại."
+  },
+  {
+    "id": 352,
+    "premium": false,
+    "question": "Hình phạt nào không phải là hình phạt bổ sung áp dụng đối với pháp nhân thương mại phạm tội:",
+    "answer": "Đình chỉ hoạt động vĩnh viễn"
+  },
+  {
+    "id": 353,
+    "premium": false,
+    "question": "Người có nhân thân tương đối tốt để được hưởng án treo là người:",
+    "answer": "Ngoài lần phạm tội này, luôn chấp hành đúng chính sách, pháp luật và thực hiện đầy đủ nghĩa vụ của công dân ở nơi cư trú, nơi làm việc."
+  },
+  {
+    "id": 354,
+    "premium": false,
+    "question": "Bộ luật hình sự không có hiệu lực 2015 chỉ có hiệu lực đối với đối tượng nào?",
+    "answer": "b. Người nước ngoài được hưởng quyền miễm trừ tư pháp phạm tội trên lãnh thổ Việt Nam;"
+  },
+  {
+    "id": 355,
+    "premium": false,
+    "question": "Những dấu hiệu nào sau đây là dấu hiệu của Lỗi vô ý do cẩu thả?",
+    "answer": "Không mong muốn cho hậu quả xảy ra."
+  },
+  {
+    "id": 356,
+    "premium": false,
+    "question": "Hình phạt nào là hình phạt chính áp dụng đối với người phạm tội:",
+    "answer": "Cảnh cáo"
+  },
+  {
+    "id": 357,
+    "premium": false,
+    "question": "Xét về mặt cấu trúc, hành vi khách quan của tội phạm xảy ra trên thực tế có thể là:",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 358,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng về hình phạt chính áp dụng đối với người phạm tội:",
+    "answer": "Đối với mỗi tội phạm, người phạm tội chỉ bị áp dụng một hình phạt chính và có thể bị áp dụng một hoặc một số hình phạt bổ sung."
+  },
+  {
+    "id": 359,
+    "premium": false,
+    "question": "Tội phạm có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 360,
+    "premium": false,
+    "question": "Trường hợp nào sau đây được coi là tự ý nửa chừng chấm dứt việc phạm tội?",
+    "answer": "Không thực hiện tội phạm đến cùng tuy không có gì ngăn cản;"
+  }
+]

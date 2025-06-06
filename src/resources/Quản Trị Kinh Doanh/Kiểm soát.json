@@ -1,0 +1,2342 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Kiểm soát nhà nước và kiểm soát hoạt động kinh doanh",
+    "answer": "Khác nhau về cả mục đích và nội dung"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do lưu kho vượt mức hoặc không đáp ứng yêu cầu",
+    "answer": "Xác định mức lưu kho tối ưu"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "tránh trường hợp giao hàng sai qui cách, phẩm chất và số lượng. Thủ tục kiểm soát cần thiết",
+    "answer": "khi nhận hàng để giao, nhân viên giao hàng cần so sánh mặt hàng thực nhận với đơn đặt hàng của khách"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Tính phù hợp của hoạt động kiểm soát chiến lược thể hiện ở",
+    "answer": "công cụ kiểm soát thích hợp với đối tượng kiểm tra"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "thủ tục nào sau đây thuộc thủ tục kiểm soát bán chịu",
+    "answer": "Có chính sách bán chịu rõ ràng"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Cơ sở để hình hình trung tâm kiểm soát, không bao gồm",
+    "answer": "Thái độ của nhân viên"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Đối tượng kiểm soát",
+    "answer": "là các đối tượng trong doanh nghiệp cần được giám sát"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Kiểm soát chiến lược đặc biệt được thực hiện",
+    "answer": "ở giai đoạn thực hiện chiến lược"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Để xây dựng các tiêu chuẩn kiểm soát, người ta cần",
+    "answer": "Kết hợp giữa các tiêu chuẩn định tính và tiêu chuẩn định lượng"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Kiểm soát nhằm đánh giá và chỉnh sửa lệch lạc từ",
+    "answer": "Tiêu chuẩn"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Công cụ thường được sử dụng trong kiểm soát nguồn nhân lực, trừ",
+    "answer": "Báo cáo của kiểm toán nội bộ"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Kiểm soát nghiên cứu thị trường nhằm mục tiêu",
+    "answer": "Định vị thị trường – khách hàng phù hợp"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Mục tiêu dài hạn của quá trình kiểm soát nguồn nhân lực",
+    "answer": "hướng tới việc xây dựng và thực hiện một hệ thống hoạt động hợp lý và hiệu quả kế hoạch hóa nguồn nhân lực"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Khi thử nghiệm kiểm soát cơ bản không có các bước",
+    "answer": "Phân tích so sánh về lượng dựa trên các chỉ tiêu"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Thiết kế trung tâm kiểm soát có vai trì quan trong do",
+    "answer": "cho phép nhà quản trị cấp cao đánh giá năng lực của nhà quản trị cấp trung"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Kiểm soát trong sử dụng tài sản thiết bị cần tập trung giảm thiểu rủi ro chủ yếu",
+    "answer": "không tuân thủ quy trình vận hành máy móc thiết bị"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây về bộ phận kiểm soát công ty sai",
+    "answer": "Chỉ được tiếp nhận những dữ liệu nhất định có trong công ty"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Rủi ro có thể xảy ra trước khi quá trình sản xuất diễn ra",
+    "answer": "Kế hoạch sản xuất không phù hợp"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Kiểm soát sản xuất nhằm phát hiện rủi ro",
+    "answer": "Sản phẩm sai hỏng, chất lượng kém"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Kiểm soát tính tối ưu về kỹ thuật chính là đánh giá dựa trên, trừ",
+    "answer": "Có đảm bảo tính phù hợp với ngân sách doanh nghiệp"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Kiểm soát chiến lược",
+    "answer": "ngày càng có ý nghĩa quan trọng"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Công cụ nào dưới đây không thuộc kiểm soát nguồn nhân lực",
+    "answer": "Hệ thống đánh giá thông tin"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "để hình thành trung tâm kiểm soát theo không gian hoạt động cần",
+    "answer": "có dấu hiệu chia cắt về không gian và khả năng bao quát của nhà quản lý trung tâm"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "thủ tục bất kiêm nhiệm trong thiết chế của hệ thống kiểm soát",
+    "answer": "nhằm tránh sự chồng chéo trong phê duyệt"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Chức năng phối hợp của kiểm soát",
+    "answer": "nhằm phối hợp giữa các hệ thống quản trị bộ phận"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Chức năng hỗ trợ của kiểm soát",
+    "answer": "trợ giúp cho việc ra quyết định"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Kiểm soát chủ động là",
+    "answer": "Điều chỉnh hoạt động dựa trên từng trường hợp cụ thể"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Kiểm soát chiến lược phải đáp ứng các yêu cầu sau đây, trừ:",
+    "answer": "phải có tính tiết kiệm"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Mục tiêu kiểm soát hệ thống kênh phân phối nhằm, trừ",
+    "answer": "Đảm bảo bán cho khách hàng có khả năng trả nợ"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Công ty trách nhiệm hữu hạn có từ 11 thành viên trở lên là loại hình công ty tổ chức hệ thống kiểm soát giống với",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Kiểm soát nhà nước và kiểm soát hoạt động kinh doanh",
+    "answer": "Khác nhau về cả mục đích và nội dung"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do lưu kho vượt mức hoặc không đáp ứng yêu cầu",
+    "answer": "Xác định mức lưu kho tối ưu"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "tránh trường hợp giao hàng sai qui cách, phẩm chất và số lượng. Thủ tục kiểm soát cần thiết",
+    "answer": "khi nhận hàng để giao, nhân viên giao hàng cần so sánh mặt hàng thực nhận với đơn đặt hàng của khách"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Tính phù hợp của hoạt động kiểm soát chiến lược thể hiện ở",
+    "answer": "công cụ kiểm soát thích hợp với đối tượng kiểm tra"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "thủ tục nào sau đây thuộc thủ tục kiểm soát bán chịu",
+    "answer": "Có chính sách bán chịu rõ ràng"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Cơ sở để hình hình trung tâm kiểm soát, không bao gồm",
+    "answer": "Thái độ của nhân viên"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Đối tượng kiểm soát",
+    "answer": "là các đối tượng trong doanh nghiệp cần được giám sát"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Kiểm soát chiến lược đặc biệt được thực hiện",
+    "answer": "ở giai đoạn thực hiện chiến lược"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Để xây dựng các tiêu chuẩn kiểm soát, người ta cần",
+    "answer": "Kết hợp giữa các tiêu chuẩn định tính và tiêu chuẩn định lượng"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Kiểm soát nhằm đánh giá và chỉnh sửa lệch lạc từ",
+    "answer": "Tiêu chuẩn"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Công cụ thường được sử dụng trong kiểm soát nguồn nhân lực, trừ",
+    "answer": "Báo cáo của kiểm toán nội bộ"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Kiểm soát nghiên cứu thị trường nhằm mục tiêu",
+    "answer": "Định vị thị trường – khách hàng phù hợp"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Mục tiêu dài hạn của quá trình kiểm soát nguồn nhân lực",
+    "answer": "hướng tới việc xây dựng và thực hiện một hệ thống hoạt động hợp lý và hiệu quả kế hoạch hóa nguồn nhân lực"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Khi thử nghiệm kiểm soát cơ bản không có các bước",
+    "answer": "Phân tích so sánh về lượng dựa trên các chỉ tiêu"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Thiết kế trung tâm kiểm soát có vai trì quan trong do",
+    "answer": "cho phép nhà quản trị cấp cao đánh giá năng lực của nhà quản trị cấp trung"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Kiểm soát trong sử dụng tài sản thiết bị cần tập trung giảm thiểu rủi ro chủ yếu",
+    "answer": "không tuân thủ quy trình vận hành máy móc thiết bị"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây về bộ phận kiểm soát công ty sai",
+    "answer": "Chỉ được tiếp nhận những dữ liệu nhất định có trong công ty"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Rủi ro có thể xảy ra trước khi quá trình sản xuất diễn ra",
+    "answer": "Kế hoạch sản xuất không phù hợp"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Kiểm soát sản xuất nhằm phát hiện rủi ro",
+    "answer": "Sản phẩm sai hỏng, chất lượng kém"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Kiểm soát tính tối ưu về kỹ thuật chính là đánh giá dựa trên, trừ",
+    "answer": "Có đảm bảo tính phù hợp với ngân sách doanh nghiệp"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Kiểm soát chiến lược",
+    "answer": "ngày càng có ý nghĩa quan trọng"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Công cụ nào dưới đây không thuộc kiểm soát nguồn nhân lực",
+    "answer": "Hệ thống đánh giá thông tin"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "để hình thành trung tâm kiểm soát theo không gian hoạt động cần",
+    "answer": "có dấu hiệu chia cắt về không gian và khả năng bao quát của nhà quản lý trung tâm"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "thủ tục bất kiêm nhiệm trong thiết chế của hệ thống kiểm soát",
+    "answer": "nhằm tránh sự chồng chéo trong phê duyệt"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Chức năng phối hợp của kiểm soát",
+    "answer": "nhằm phối hợp giữa các hệ thống quản trị bộ phận"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Chức năng hỗ trợ của kiểm soát",
+    "answer": "trợ giúp cho việc ra quyết định"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Kiểm soát chủ động là",
+    "answer": "Điều chỉnh hoạt động dựa trên từng trường hợp cụ thể"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Kiểm soát chiến lược phải đáp ứng các yêu cầu sau đây, trừ:",
+    "answer": "phải có tính tiết kiệm"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Mục tiêu kiểm soát hệ thống kênh phân phối nhằm, trừ",
+    "answer": "Đảm bảo bán cho khách hàng có khả năng trả nợ"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Công ty trách nhiệm hữu hạn có từ 11 thành viên trở lên là loại hình công ty tổ chức hệ thống kiểm soát giống với",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "rủi ro ở khâu lưu kho nguyên vật liệu, trừ",
+    "answer": "Trả tiền nhầm nhà cung cấp"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "tính hiệu quả trong hình thành trung tâm kiểm soát thể hiện",
+    "answer": "hoạt động kiểm soát diễn ra với chi phí kinh doanh phát sinh thấp nhất"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Đối tượng kiểm soát trong quá trình sản xuất, trừ",
+    "answer": "khách hàng và thị trường"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "hạn chế lớn nhất của trung tâm thu nhập",
+    "answer": "không được quyền xác định giá bán và giá mua mà tuân theo giá của doanh nghiệp"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Hạn chế khi hình thành trung tâm lợi nhuận",
+    "answer": "Các nhà quản trị cấp cao không nắm được các điều kiện cơ sở"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Kiểm soát hoạt động tiêu thụ không bao gồm các vấn đề",
+    "answer": "Các chính sách tiêu thụ của doanh nghiệp"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "rủi ro ở khâu lưu kho nguyên vật liệu",
+    "answer": "Hao hụt, mất mát nguyên vật liệu khi kiểm kê kho"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Các qui trình kiểm soát quản trị nguồn nhân lực chủ yếu không bao gồm",
+    "answer": "Điều chỉnh các hoạt động liên quan đến người lao động"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Kiểm soát là đánh giá và chỉnh sửa từ",
+    "answer": "tiêu chuẩn"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Kiểm soát chính sách tuyển dụng không bao gồm kiểm soát",
+    "answer": "Khối lượng công việc cần thực hiện"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Với mỗi loại cơ cấu tổ chức khác nhau thì",
+    "answer": "Trách nhiệm và hình thức kiểm soát khác nhau"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Trong các bằng chứng sau đây, bằng chứng nào có độ tin cậy thấp nhất:",
+    "answer": "những cuộc trao đổi với nhân viên trong doanh nghiệp"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Công ty là loại hình doanh nghiệp mà ở đó",
+    "answer": "Quyền và trách nhiệm pháp lý về tài sản và nợ do lượng vốn góp qui định"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Đặc điểm của trung tâm chi phí",
+    "answer": "đầu vào có thể được lượng hóa và đo lường bằng đơn vị tiền tệ nhưng đầu ra thông thường được đo lường bằng đơn vị hiện vật hoặc theo mục tiêu hoạt động."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Về mặt kết quả, trung tâm thu nhập được đánh giá dựa trên",
+    "answer": "So sánh doanh thu đạt được thực tế so với doanh thu dự toán của bộ phận"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Mối quan hệ giữa đầu vào và đầu ra của trung tâm không chặt chẽ",
+    "answer": "Trung tâm chi phí tự do"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Kiểm soát giả thuyết được thực hiện",
+    "answer": "Xuyên suốt trong quy trình quản trị chiến lược"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Giữa các tiêu chí của BSC có mối quan hệ",
+    "answer": "Nhân quả"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "trung tâm có đặc điểm, người quản lý chịu trách nhiệm về việc tạo ra doanh thu, không chịu trách nhiệm về lợi nhuận",
+    "answer": "Trung tâm thu nhập"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Trung tâm lợi nhuận không có quyền",
+    "answer": "Quyết định hoạt động đầu tư"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "nhà quản lý trung tâm thu nhập chịu trách nhiệm",
+    "answer": "tạo doanh thu"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "thủ tục nào sau đây không thuộc thủ tục kiểm soát hóa đơn",
+    "answer": "Thủ tục xét duyệt xoá sổ nợ khó đòi"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Kiểm soát tác nghiệp",
+    "answer": "chủ yếu hướng vào sự phản hồi"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Muốn có bảng tự đánh giá rủi ro thì bộ phận kiểm soát phải gửi bảng hỏi xuống cho từng lãnh đạo đơn vị để xác định:",
+    "answer": "Danh mục đối tượng kiểm soát, mục tiêu của đối tượng kiểm soát, các rủi ro có thể và đo lường rủi ro"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Kiểm soát hoạt động kinh doanh và kiểm soát hoạt động quản trị",
+    "answer": "Khác nhau về đối tượng và nội dung"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "trung tâm kiếm soát soát nguyên vật liệu gắn với chức năng",
+    "answer": "mua sắm, vận chuyển, dự trữ nguyên vật liệu"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do trả tiền hàng không đúng hạn, trừ",
+    "answer": "Chỉ trả tiền khi có đủ các chứng từ nhận hàng đã được phê duyệt"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Mục đích của kiểm soát đơn hàng",
+    "answer": "Đảm bảo tính pháp lý của giao dịch"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "sai phạm nào có thể xảy ra trong quá trình xử lý đơn đặt hàng của khách",
+    "answer": "đồng ý bán hàng nhưng không có khả năng cung ứng"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Kiểm soát đang thực hiện nhằm mục tiêu",
+    "answer": "thu thập thông tin phản hồi nhằm có biện pháp can thiệp kịp thời"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Kiểm soát mua sắm tài sản thiết bị cần tập trung giảm thiểu rủi ro chủ yếu",
+    "answer": "thiếu nhân viên có đủ khả năng về kỹ thuật để vận hành thiết bị tốt"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "loại gian lận nhằm chiếm đoạt số nợ phải thu do khách hàng đã trả thường xảy ra khi",
+    "answer": "cá nhân/bộ phận kiêm nhiệm nhiều chức năng"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Công ty trách nhiệm hữu hạn một thành viên là loại hình công ty cần thành lập",
+    "answer": "Thành viên kiểm soát hoạt động độc lập"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Lựa chọn công nghệ, máy móc, thiết bị không cần đạt được mục tiêu",
+    "answer": "Tính linh hoạt"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Công ty cổ phần là loại hình công ty tổ chức hoạt động kiểm soát giống với",
+    "answer": "Công ty cổ phần nhà nước"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Để kiểm soát vốn đầu tư ở tầm chiến lược bắt buộc phải sử dụng công cụ",
+    "answer": "Ma trận GE và BCG"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Kiểm soát là một chức năng hoạt động của",
+    "answer": "Quản trị doanh nghiệp"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Bộ phận kiểm soát công ty có thể, ngoại trừ",
+    "answer": "Áp dụng các chuẩn mực quốc tế về mức độ an toàn khả năng thanh toán để kiểm soát sản xuất"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Kiểm soát chiến lược gồm các nội dung, trừ",
+    "answer": "Xây dựng mục tiêu"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Kiểm soát kế hoạch sản xuất năm ở doanh nghiệp đa sản xuất trên cơ sở",
+    "answer": "hàm tối đa hóa lợi nhuận thô"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "nhân viên bán hàng bán cho khách hàng không có khả năng thanh toán, loại gian lận thường xảy ra khi",
+    "answer": "doanh nghiệp không có chính sách bán hàng"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "rủi ro ở khâu xuất kho nguyên vật liệu, trừ",
+    "answer": "Các hoá đơn đến cuối tháng nhà cung cấp mới lập trong đó thống kê tất cả các loại nguyên vật liệu mà doanh nghiệp đã mua trong tháng"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "rủi ro ở kiểm kê nguyên vật liệu, trừ",
+    "answer": "Không lập biên bản chênh lệch kiểm kê thực tế và sổ kế toán nguyên vật liệu"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "rủi ro ở khâu hoạch định cung ứng nguyên vật liệu, trừ",
+    "answer": "Cung ứng không phù hợp cầu về chủng loại nguyên vật liệu"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Mệnh đề nào không đúng cho đặc trưng của kiểm soát hệ thống",
+    "answer": "Công việc kiểm soát cần dựa vào các quy chế kiểm soát"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Kiểm soát chiến lược giúp các nhà quản trị, trừ",
+    "answer": "Tạo lợi thế cạnh tranh nhờ nâng cao chất lượng"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "thủ tục nào sau đây không thuộc thủ tục kiểm soát doanh thu và thanh toán",
+    "answer": "Kiểm tra việc độc lập tính toán trên hoá đơn trước khi gửi đi"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Rủi ro nào không thuộc lĩnh vực quản trị nguồn nhân lực",
+    "answer": "Rủi ro trong bảo dưỡng máy móc, thiết bị"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "trung tâm kiểm soát nghiên cứu và phát triển được hình thành khi",
+    "answer": "doanh nghiệp có qui mô lớn và hoạt động nghiên cứu phát triển tại đây là cần thiết"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Khi kiểm soát thù lao lao động không dựa vào nguyên tắc nào dưới đây",
+    "answer": "Đảm bảo cân đối thu nhập giữa các tầng lớp dân cư"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Mục tiêu của giám đốc trung tâm thu nhập",
+    "answer": "Tối đa doanh thu của trung tâm"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do mua hàng không đúng qui cách, phẩm chất",
+    "answer": "Chọn nhà cung ứng có uy tín, độ tin cậy cao,…"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Kiểm soát tác nghiệp",
+    "answer": "nội dung khác kiểm soát chiến lược"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "nhân tố ảnh hưởng đến thiết kế và vận hành hệ thống kiểm soát",
+    "answer": "qui mô và cơ cấu sản xuất của doanh nghiệp"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Hoạt động kiểm soát được thiết kế",
+    "answer": "đạt được mục tiêu ở các hạng mục riêng rẽ nhau nhưng bổ trợ nhau"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "thủ tục kiểm soát quá trình nhận đơn đặt hàng của khách, nhằm mục tiêu",
+    "answer": "đảm bảo khả năng thu nợ từ khách"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Mệnh đề sai đối với nhiệm vụ của Ban kiểm soát ở doanh nghiệp nhà nước",
+    "answer": "Giám sát tổ chức thực hiện quyền và nghĩa vụ của thành viên Hội đồng quản trị"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "trung tâm chi phí tự do có đặc điểm",
+    "answer": "đầu ra đo lường theo mục tiêu hoạt động"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Khi thử nghiệm kiểm soát cơ bản không có các bước",
+    "answer": "Phương pháp kiểm tra chi tiết các nghiệp vụ và các số dư tài khoản"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Quy định thủ tục kiểm tra và theo dõi không bao gồm",
+    "answer": "Chỉ cần kiểm tra định kỳ"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Kiểm soát nguồn nhân lực không bao gồm",
+    "answer": "Điều chỉnh các hoạt động liên quan người lao động"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Nhân viên bán hàng biển thủ tiền khách hàng nợ bằng cách ghi sổ đây là khoản thu khó đòi. Hành vi đó là",
+    "answer": "Gian lận"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Kiểm soát chiến lược có thể giúp doanh nghiệp",
+    "answer": "Tạo lợi thế cạnh tranh nhờ nâng cao tính hiệu quả"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Việc kiểm soát chiến lược liên quan tới kiểm tra điều kiện môi trường kinh doanh và các dự báo là nội dung của",
+    "answer": "Kiểm soát giả thuyết"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Kiểm soát chiến lược",
+    "answer": "bản chất khác kiểm soát tác nghiệp"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "thư trả lời của khách hàng xác nhận đồng ý về số nợ đó là bằng chứng về",
+    "answer": "không thể khẳng định được họ có trả nợ hay không"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Việc kiểm soát chiến lược để đánh giá xem các chính sách, giải pháp chiến lược có đang được thực hiện như đã hoạch định không là nội dung của",
+    "answer": "Kiểm soát thực hiện"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Để kiểm soát chiến lược, cần thực hiện các công việc sau trừ:",
+    "answer": "Tạo ra các chính sách và giải pháp thực hiện phù hợp với chiến lược đã đề xuất"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Rủi ro ở khâu phát triển nguồn nhân lực có thể xảy ra ở",
+    "answer": "không sử dụng và phát triển được người có năng lực"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Tính tất yếu khách quan của kiểm soát với tư cách chức năng quản trị",
+    "answer": "Sự phát triển của khoa học kiểm soát"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Hoạt động kiểm soát",
+    "answer": "là một qui trình"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "thủ tục kiểm soát do nhà quản trị xây dựng dựa trên các nguyên tắc",
+    "answer": "bất kiêm nhiệm, phân công nhiệm vụ rõ ràng, ủy quyền và phê chuẩn"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Kiểm soát việc thực hiện chính sách, chế độ đãi ngộ người lao động không bao gồm",
+    "answer": "Kiểm soát việc giao nhiệm vụ cho công nhân viên"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "rủi ro ở khâu hoạch định cung ứng nguyên vật liệu",
+    "answer": "Hoạch định không chính xác người cung ứng"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Kiểm soát đo lường và điều chỉnh",
+    "answer": "cả hoạt động kinh doanh và quản trị"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Thủ tục bất kiêm nhiệm không bao gồm hoạt động",
+    "answer": "Đối chiếu"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Kiểm soát tác nghiệp",
+    "answer": "chủ yếu hướng vào sự phản hồi"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do yêu cầu hàng không đúng nhu cầu thực tế",
+    "answer": "Duyệt kế hoạch mua hàng chi tiết"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Các tiêu chí đo lường của phiếu điểm cân bằng BSC là",
+    "answer": "Tài chính, khách hàng, chu trình nội bộ, học tập và phát triển"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "rủi ro nào sau đây không nằm ở khâu bán hàng",
+    "answer": "chính sách sản phẩm không phù hợp"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Thủ tục đối chiếu không bao gồm",
+    "answer": "Không cần người khác theo dõi"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Nhiệm vụ quạn trọng nhất của Bộ phận kiểm soát công ty, ngoại trừ",
+    "answer": "Đánh giá thao tác của nhân viên khi thực hiện nhiệm vụ của mình"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Kiểm soát chủ động",
+    "answer": "Chủ thể thực hiện là nhà quản trị"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do đánh giá không chính xác giá trị lưu kho",
+    "answer": "Qui định cụ thể cách thức định giá hàng lưu kho"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Công ty trách nhiệm hữu hạn có từ 11 thành viên là loại hình công ty cần thành lập:",
+    "answer": "Ban kiểm soát hoạt động độc lập với Hội đồng quản trị"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "kiểm soát chiến lược được thực hiện ở cả ba cấp chiến lược, không bao cấp",
+    "answer": "Cấp độ cá nhân"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Kiểm soát giả thiết là:",
+    "answer": "việc kiểm tra một cách có hệ thống và liên tục liệu các dự báo làm cơ sở cho xây dựng chiến lựơc còn đúng hay không"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Kiểm soát gồm có chức năng",
+    "answer": "Phối hợp và dịch vụ"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Kiểm soát chi phí sản xuất dựa trên cơ sở",
+    "answer": "hệ thống kế toán quản trị độc lập tương đối với kế toán tài chính"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "trung tâm lợi nhuận có quyền quyết định về",
+    "answer": "giá bán và chất lượng sản phẩm"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Kiểm soát lường trước",
+    "answer": "diễn ra trước quá trình ra quyết định"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Về mặt hiệu quả, trung tâm thu nhập được đánh giá dựa trên",
+    "answer": "so sánh giữa chi phí thực tế và chi phí dự toán của trung tâm."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Vai trò của BSC trong kiểm soát chiến lược là",
+    "answer": "Công cụ kiểm soát các điều kiện của môi trường kinh doanh"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Bảng kiểm soát môi trường bên trong không bao gồm các chỉ tiêu",
+    "answer": "Điều kiện khí hậu"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Kiểm soát liên quan đến trách nhiệm",
+    "answer": "của mọi thành viên trong doanh nghiệp"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Việc kiểm soát chiến lược để đánh giá xem các chính sách, giải pháp chiến lược có đang được thực hiện như đã hoạch định không là nội dung của",
+    "answer": "Kiểm soát quá trình thực hiện"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Kiểm soát kế hoạch tuyển dụng không bao gồm kiểm soát",
+    "answer": "Triết lý tuyển dụng cho nhu cầu trước mắt và lâu dài"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Thẻ điểm cân bằng gồm",
+    "answer": "khách hàng, học tập, qui trình nội bộ và tài chính"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Rủi ro trong quá trình sử dụng lao động có thể xảy ra ở, trừ",
+    "answer": "thực hiện không đúng các chính sách, chế độ chấm dứt lao động"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "nhà quản lý trung tâm lợi nhuận và trung tâm đầu tư đều có đặc điểm",
+    "answer": "có quyền quyết định trong phạm vi trung tâm mình"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Kiểm soát chiến lược",
+    "answer": "chủ yếu hướng vào tương lai"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Thủ tục định dạng trước",
+    "answer": "Phải quy định người được phép thay đổi đã định dạng"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Bộ phận kiểm soát công ty không áp dụng",
+    "answer": "Các chuẩn mực quốc tế để đánh giá hiệu quả kinh doanh"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "theo chức năng hoạt động, trung tâm kiểm soát có thể thiết kế thành",
+    "answer": "trung tâm tiêu thụ"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Kiểm soát thực hiện chiến lược bao gồm các hoạt động",
+    "answer": "đánh giá xem việc triển khai thực hiện có diễn ra đúng như nó cần phải diễn ra không"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Mục tiêu ngắn hạn của quá trình kiểm soát nguồn nhân lực",
+    "answer": "Tuyển đúng người theo các tiêu chuẩn phù hợp với công việc"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "căn cứ để xác định một bộ phận trong một tổ chức thuộc loại trung tâm nào, phụ thuộc vào",
+    "answer": "trách nhiệm, quyền hạn của nhà quản lý trung tâm"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Bảng kiểm soát môi trường bên ngoài không bao gồm các chỉ tiêu",
+    "answer": "Hậu cần đầu vào"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Kiểm soát kế hoạch sản xuất năm ở doanh nghiệp đơn sản xuất trên cơ sở",
+    "answer": "đánh giá lại cầu thị trường của doanh nghiệp"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "để kiểm soát tốt khâu xét duyệt bán chịu trong chu trình tiêu thụ, vấn đề cơ bản",
+    "answer": "bộ phận xét duyệt bán chịu phải độc lập với nhân viên/bộ phận bán hàng"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "rủi ro ở mua sắm nguyên vật liệu, trừ",
+    "answer": "Mua không đúng chủng loại, kích cỡ, quy cách, thông số kỹ thuật nguyên vật liệu"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Công ty cổ phần là loại hình công ty cần thành lập",
+    "answer": "Ban kiểm soát hoạt động độc lập với Hội đồng quản trị"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "công việc nào không thuộc chu trình tiêu thụ",
+    "answer": "xét duyệt mua hàng"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Thủ tục bảo vệ tài sản cho phép",
+    "answer": "Quy định giới hạn người vào"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Mục tiêu của kiểm soát quá trình sản xuất",
+    "answer": "Bản kế hoạch phải chính xác, đầy đủ, rõ ràng, ngắn gọn, dễ hiểu"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "ngân sách chiến lược tập trung chủ yếu vào phân phối và sử dụng các nguồn lực quan trọng của doanh nghiệp, không bao gồm nguồn lực",
+    "answer": "Các chi tiêu liên quan tới khách hàng và nhà cung cấp"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Kiểm soát chiến lược được tiến hành soát xét điều chỉnh nhanh chóng chiến lược khi có những sự kiện đột ngột không mong muốn xảy ra là nội dung của",
+    "answer": "Kiểm soát đặc biệt"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "hệ thống kiểm soát được thiết lập nhằm",
+    "answer": "thực hiện các mục tiêu của doanh nghiệp"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Kiểm soát chiến lược được thực hiện",
+    "answer": "Tập trung ở những bộ phận quan trọng của doanh nghiệp"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Kiểm soát đang thực hiện là loại kiểm soát được tiến hành khi",
+    "answer": "Hoạt động đang diễn ra"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Theo chức năng hoạt động, trung tâm kiểm soát có thể thiết kế thành các trung tâm không bao gồm",
+    "answer": "Trung tâm thu nhập"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Kiểm soát thụ động",
+    "answer": "điều chỉnh hoạt động dựa trên các biện pháp đã được xác lập từ trước"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do mua hàng với giá cao",
+    "answer": "Chỉ trả tiền khi có đủ các chứng từ nhận hàng đã được phê duyệt"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Theo lĩnh vực hoạt động, kiểm soát có thể phân thành",
+    "answer": "Kiểm soát kinh doanh và kiểm soát quản trị"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Yêu cầu để cơ chế kiểm soát đạt kết quả và hiệu quả như mong muốn",
+    "answer": "đáp ứng yêu cầu ngăn ngừa và phát hiện rủi ro"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Kiểm soát khâu bán hàng nhằm xác định",
+    "answer": "Sự gian lận trong bán hàng"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Rủi ro nào sau đây nằm ở khâu bán hàng",
+    "answer": "không đủ sản phẩm theo yêu cầu của khách mua hàng"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Hoạt động kiểm soát",
+    "answer": "nhằm kiểm soát hoạt động kinh doanh và quản trị kinh doanh của doanh nghiệp"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Kiểm soát luôn là kiểm soát hoạt động",
+    "answer": "Quản trị và kinh doanh"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Kiểm soát tác nghiệp",
+    "answer": "là kiểm soát từng nghiệp vụ cụ thể trong doanh nghiệp"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Báo cáo kiểm soát cần đề cập đến nội dung",
+    "answer": "thông tin khái quát và tóm tắt, mục tiêu cuộc kiểm soát, phạm vi kiểm soát, tổng hợp các bằng chứng kiểm soát và nêu ý kiến kiểm soát"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "để hình thành trung tâm kiểm soát, doanh nghiệp cần tuân thủ theo qui trình",
+    "answer": "nghiên cứu xác định được nhiệm vụ và quyền hạn của mỗi trung tâm"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Tính linh hoạt của hoạt động kiểm soát thể hiện ở",
+    "answer": "Kiểm tra có thể diễn ra bất cứ khi nào"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Công ty trách nhiệm hữu hạn có từ 11 thành viên trở lên là loại hình công ty tổ chức hoạt động kiểm soát giống với",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Các tiêu chí trong phiếu điểm cân bằng BSC phải đáp ứng yêu cầu sau",
+    "answer": "Cân bằng giữa các chỉ tiêu tài chính và phi tài chính"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "rủi ro ở khâu lưu kho nguyên vật liệu",
+    "answer": "Hỏa hoạn, mất cắp nguyên vật liệu, hàng hóa lưu kho,…"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "theo chức năng hoạt động, trung tâm kiểm soát có thể thiết kế thành",
+    "answer": "Trung tâm kiểm soát nguyên vật liệu"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "thủ tục nào sau đây không thuộc thủ tục kiểm soát giao hàng",
+    "answer": "Lệnh bán chịu phải được xét duyệt bởi bộ phận bán chịu độc lập"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Mục tiêu kiểm soát các chính sách tiêu thụ",
+    "answer": "Thoả mãn và đáp ứng nhu cầu từng nhóm khách hàng"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "hệ thống kiểm soát trong doanh nghiệp",
+    "answer": "chỉ cung cấp một sự đảm bảo hợp lý chứ không phải đảm bảo tuyệt đối các mục tiêu được thực hiện"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "đánh giá trung tâm chi phí tự do thông qua",
+    "answer": "so sánh giữa đầu ra và mục tiêu đạt được của trung tâm"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Chức năng phối hợp của kiểm soát",
+    "answer": "nhằm phối hợp giữa các hệ thống quản trị bộ phận"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Kiểm soát chính sách tuyển dụng không bao gồm kiểm soát",
+    "answer": "Khối lượng công việc cần thực hiện"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Kiểm soát quá trình mua sắm và nhập kho nguyên vật liệu không bao gồm nội dung",
+    "answer": "Theo dõi nợ phải thu"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do yêu cầu hàng không đúng nhu cầu thực tế",
+    "answer": "Duyệt kế hoạch mua hàng chi tiết"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Kiểm soát chiến lược được thực hiện",
+    "answer": "Xuyên suốt trong quy trình quản trị chiến lược"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Đối tượng kiểm soát trong quá trình sản xuất, trừ",
+    "answer": "khách hàng và thị trường"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Bảng kiểm soát môi trường bên trong không bao gồm các chỉ tiêu",
+    "answer": "Điều kiện khí hậu"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Đặc điểm của trung tâm chi phí",
+    "answer": "đầu vào có thể được lượng hóa và đo lường bằng đơn vị tiền tệ nhưng đầu ra thông thường được đo lường bằng đơn vị hiện vật hoặc theo mục tiêu hoạt động."
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Kiểm soát gồm có chức năng",
+    "answer": "Phối hợp và dịch vụ"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Kiểm soát chiến lược đặc biệt được thực hiện",
+    "answer": "ở giai đoạn thực hiện chiến lược"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "trung tâm kiểm soát nghiên cứu và phát triển được hình thành khi",
+    "answer": "doanh nghiệp có qui mô lớn và hoạt động nghiên cứu phát triển tại đây là cần thiết"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Ở doanh nghiệp có quy mô hoạt động và khối lượng giao dịch kinh doanh lớn, khi thử nghiệm kiểm soát cơ bản không có các bước",
+    "answer": "Phương pháp kiểm tra chi tiết các nghiệp vụ và các số dư tài khoản"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Kiểm soát hoạt động tiêu thụ không bao gồm các vấn đề",
+    "answer": "Các chính sách tiêu thụ của doanh nghiệp"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Trong các bằng chứng sau đây, bằng chứng nào có độ tin cậy thấp nhất:",
+    "answer": "những cuộc trao đổi với nhân viên trong doanh nghiệp"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "rủi ro ở khâu xuất kho nguyên vật liệu, trừ",
+    "answer": "Các hoá đơn đến cuối tháng nhà cung cấp mới lập trong đó thống kê tất cả các loại nguyên vật liệu mà doanh nghiệp đã mua trong tháng"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Hoạt động kiểm soát",
+    "answer": "là một qui trình"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Công ty trách nhiệm hữu hạn có từ 11 thành viên trở lên là loại hình công ty tổ chức hoạt động kiểm soát giống với",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Kiểm soát chiến lược",
+    "answer": "ngày càng có ý nghĩa quan trọng"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Lựa chọn công nghệ, máy móc, thiết bị không cần đạt được mục tiêu",
+    "answer": "Tính linh hoạt"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Thiết kế trung tâm kiểm soát có vai trì quan trong do",
+    "answer": "cho phép nhà quản trị cấp cao đánh giá năng lực của nhà quản trị cấp trung"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Kiểm soát hoạt động kinh doanh và kiểm soát hoạt động quản trị",
+    "answer": "Khác nhau về đối tượng và nội dung"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do lưu kho vượt mức hoặc không đáp ứng yêu cầu",
+    "answer": "Xác định mức lưu kho tối ưu"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Kiểm soát tác nghiệp",
+    "answer": "là kiểm soát từng nghiệp vụ cụ thể trong doanh nghiệp"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Kiểm soát thụ động",
+    "answer": "điều chỉnh hoạt động dựa trên các biện pháp đã được xác lập từ trước"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "thủ tục nào sau đây không thuộc thủ tục kiểm soát hóa đơn",
+    "answer": "Thủ tục xét duyệt xoá sổ nợ khó đòi"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "hạn chế lớn nhất của trung tâm thu nhập",
+    "answer": "không được quyền xác định giá bán và giá mua mà tuân theo giá của doanh nghiệp"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Kiểm soát chủ động",
+    "answer": "Chủ thể thực hiện là nhà quản trị"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Các tiêu chí trong phiếu điểm cân bằng BSC phải đáp ứng yêu cầu sau",
+    "answer": "Cân bằng giữa các chỉ tiêu tài chính và phi tài chính"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Phát biểu nào sau đây về mối quan hệ nhân quả giữa các tiêu chí BSC là đúng",
+    "answer": "Chu trình nội bộ được cải thiện là cơ sở để gia tăng thỏa mãn khách hàng"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Giữa các tiêu chí của BSC có mối quan hệ",
+    "answer": "Nhân quả"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "loại gian lận nhằm chiếm đoạt số nợ phải thu do khách hàng đã trả thường xảy ra khi",
+    "answer": "cá nhân/bộ phận kiêm nhiệm nhiều chức năng"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Để kiểm soát chiến lược, cần thực hiện các công việc sau trừ:",
+    "answer": "Tạo ra các chính sách và giải pháp thực hiện phù hợp với chiến lược đã đề xuất"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Kiểm soát tác nghiệp",
+    "answer": "chủ yếu hướng vào sự phản hồi"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Kiểm soát kế hoạch tuyển dụng không bao gồm kiểm soát",
+    "answer": "Triết lý tuyển dụng cho nhu cầu trước mắt và lâu dài"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "trung tâm có đặc điểm, nhà quản lý có quyền mua đầu vào với mức giá hợp lý và bán sản phẩm tại mức giá tối đa hóa doanh thu.",
+    "answer": "Trung tâm lợi nhuận"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "tính hiệu quả trong hình thành trung tâm kiểm soát thể hiện",
+    "answer": "hoạt động kiểm soát diễn ra với chi phí kinh doanh phát sinh thấp nhất"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Các tiêu chí đo lường của phiếu điểm cân bằng BSC là",
+    "answer": "Tài chính, khách hàng, chu trình nội bộ, học tập và phát triển"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Muốn có bảng tự đánh giá rủi ro thì bộ phận kiểm soát phải gửi bảng hỏi xuống cho từng lãnh đạo đơn vị để xác định:",
+    "answer": "Danh mục đối tượng kiểm soát, mục tiêu của đối tượng kiểm soát, các rủi ro có thể và đo lường rủi ro"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Rủi ro trong quá trình sử dụng lao động có thể xảy ra ở, trừ",
+    "answer": "thực hiện không đúng các chính sách, chế độ chấm dứt lao động"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do trả tiền hàng không đúng hạn, trừ",
+    "answer": "Chỉ trả tiền khi có đủ các chứng từ nhận hàng đã được phê duyệt"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Các qui trình kiểm soát quản trị nguồn nhân lực chủ yếu không bao gồm",
+    "answer": "Điều chỉnh các hoạt động liên quan đến người lao động"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "rủi ro ở khâu lưu kho nguyên vật liệu, trừ",
+    "answer": "Trả tiền nhầm nhà cung cấp"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "tránh trường hợp giao hàng sai qui cách, phẩm chất và số lượng. Thủ tục kiểm soát cần thiết",
+    "answer": "khi nhận hàng để giao, nhân viên giao hàng cần so sánh mặt hàng thực nhận với đơn đặt hàng của khách"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Kiểm soát chủ động là",
+    "answer": "Điều chỉnh hoạt động dựa trên từng trường hợp cụ thể"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "thủ tục nào sau đây thuộc thủ tục kiểm soát bán chịu",
+    "answer": "Có chính sách bán chịu rõ ràng"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Kiểm soát chiến lược đặc biệt tập trung vào",
+    "answer": "tiến hành soát xét điều chỉnh chiến lược khi có những sự kiện đột ngột không mong muốn xảy ra"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Kiểm soát đang thực hiện nhằm mục tiêu",
+    "answer": "thu thập thông tin phản hồi nhằm có biện pháp can thiệp kịp thời"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Việc kiểm soát chiến lược để đánh giá xem các chính sách, giải pháp chiến lược có đang được thực hiện như đã hoạch định không là nội dung của",
+    "answer": "Kiểm soát quá trình thực hiện"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Mệnh đề đúng cho công ty hợp danh",
+    "answer": "Có thành viên hợp danh và thành viên góp vốn"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Kiểm soát kế hoạch sản xuất năm ở doanh nghiệp đơn sản xuất trên cơ sở",
+    "answer": "đánh giá lại cầu thị trường của doanh nghiệp"
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Rủi ro ở khâu phát triển nguồn nhân lực có thể xảy ra ở",
+    "answer": "không sử dụng và phát triển được người có năng lực"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "ngân sách chiến lược tập trung chủ yếu vào phân phối và sử dụng các nguồn lực quan trọng của doanh nghiệp, không bao gồm nguồn lực",
+    "answer": "Các chi tiêu liên quan tới khách hàng và nhà cung cấp"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "trung tâm kiếm soát soát nguyên vật liệu gắn với chức năng",
+    "answer": "mua sắm, vận chuyển, dự trữ nguyên vật liệu"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Kiểm soát sản xuất nhằm phát hiện rủi ro",
+    "answer": "Sản phẩm sai hỏng, chất lượng kém"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Công ty cổ phần là loại hình công ty tổ chức hoạt động kiểm soát giống với",
+    "answer": "Công ty cổ phần nhà nước"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Hoạt động kiểm soát được thiết kế",
+    "answer": "đạt được mục tiêu ở các hạng mục riêng rẽ nhau nhưng bổ trợ nhau"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Đối tượng kiểm soát",
+    "answer": "là các đối tượng trong doanh nghiệp cần được giám sát"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Kiểm soát nhằm đánh giá và chỉnh sửa lệch lạc từ",
+    "answer": "Tiêu chuẩn"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "những người có thể nằm trong ban kiểm soát",
+    "answer": "các chuyên gia am hiểu về lĩnh vực kiểm soát"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "nhà quản lý trung tâm lợi nhuận và trung tâm đầu tư đều có đặc điểm",
+    "answer": "có quyền quyết định trong phạm vi trung tâm mình"
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "theo chức năng hoạt động, trung tâm nào không thuộc trung tâm kiểm soát",
+    "answer": "trung tâm chi phí"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Kiểm soát chiến lược",
+    "answer": "bản chất khác kiểm soát tác nghiệp"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "để hình thành trung tâm kiểm soát theo không gian hoạt động cần",
+    "answer": "có dấu hiệu chia cắt về không gian và khả năng bao quát của nhà quản lý trung tâm"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Tính tất yếu khách quan của kiểm soát với tư cách chức năng quản trị",
+    "answer": "Sự phát triển của khoa học kiểm soát"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Công ty trách nhiệm hữu hạn có từ 11 thành viên trở lên là loại hình công ty tổ chức hệ thống kiểm soát giống với",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Trung tâm lợi nhuận không có quyền",
+    "answer": "Quyết định hoạt động đầu tư"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Tiêu chuẩn tối ưu của công nghệ - thiết bị trên cơ sở đảm bảo",
+    "answer": "Tính tối ưu về thời gian"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "để kiểm soát tốt khâu xét duyệt bán chịu trong chu trình tiêu thụ, vấn đề cơ bản",
+    "answer": "bộ phận xét duyệt bán chịu phải độc lập với nhân viên/bộ phận bán hàng"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Kiểm soát giả thiết là:",
+    "answer": "việc kiểm tra một cách có hệ thống và liên tục liệu các dự báo làm cơ sở cho xây dựng chiến lựơc còn đúng hay không"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Kiểm soát tác nghiệp",
+    "answer": "nội dung khác kiểm soát chiến lược"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "rủi ro nào sau đây không nằm ở khâu bán hàng",
+    "answer": "chính sách sản phẩm không phù hợp"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Vai trò của BSC trong kiểm soát chiến lược là",
+    "answer": "Công cụ kiểm soát các điều kiện của môi trường kinh doanh"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Kiểm soát nguồn nhân lực không bao gồm",
+    "answer": "Điều chỉnh các hoạt động liên quan người lao động"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do mua hàng không đúng qui cách, phẩm chất",
+    "answer": "Chọn nhà cung ứng có uy tín, độ tin cậy cao,…"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "nhân tố ảnh hưởng đến thiết kế và vận hành hệ thống kiểm soát",
+    "answer": "qui mô và cơ cấu sản xuất của doanh nghiệp"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Thẻ điểm cân bằng gồm",
+    "answer": "khách hàng, học tập, qui trình nội bộ và tài chính"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Khi kiểm soát thù lao lao động không dựa vào nguyên tắc nào dưới đây",
+    "answer": "Đảm bảo cân đối thu nhập giữa các tầng lớp dân cư"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "trung tâm chi phí tự do có đặc điểm",
+    "answer": "đầu ra đo lường theo mục tiêu hoạt động"
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Trình tự nào sau đây là thích hợp cho quá trình đánh giá rủi ro",
+    "answer": "Nhận dạng nguy cơ, đánh giá rủi ro và tổn thất, xác định thủ tục kiểm soát, ước tính lợi ích chi phí"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Kiểm soát chiến lược được tiến hành soát xét điều chỉnh nhanh chóng chiến lược khi có những sự kiện đột ngột không mong muốn xảy ra là nội dung của",
+    "answer": "Kiểm soát đặc biệt"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "nhân viên bán hàng bán cho khách hàng không có khả năng thanh toán, loại gian lận thường xảy ra khi",
+    "answer": "doanh nghiệp không có chính sách bán hàng"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Việc kiểm soát chiến lược liên quan tới kiểm tra điều kiện môi trường kinh doanh và các dự báo là nội dung của",
+    "answer": "Kiểm soát giả thuyết"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Kiểm soát khâu bán hàng nhằm xác định",
+    "answer": "Sự gian lận trong bán hàng"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Kiểm soát chiến lược",
+    "answer": "chủ yếu hướng vào tương lai"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "thủ tục kiểm soát quá trình nhận đơn đặt hàng của khách, nhằm mục tiêu",
+    "answer": "đảm bảo khả năng thu nợ từ khách"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Kiểm soát việc thực hiện chính sách, chế độ đãi ngộ người lao động không bao gồm",
+    "answer": "Kiểm soát việc giao nhiệm vụ cho công nhân viên"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Kiểm soát là một chức năng hoạt động của",
+    "answer": "Quản trị doanh nghiệp"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "trung tâm có đặc điểm, người quản lý chịu trách nhiệm về việc tạo ra doanh thu, không chịu trách nhiệm về lợi nhuận",
+    "answer": "Trung tâm thu nhập"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Khi thử nghiệm kiểm soát cơ bản không có các bước",
+    "answer": "Phân tích so sánh về lượng dựa trên các chỉ tiêu"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Kiểm soát mua sắm tài sản thiết bị cần tập trung giảm thiểu rủi ro chủ yếu",
+    "answer": "thiếu nhân viên có đủ khả năng về kỹ thuật để vận hành thiết bị tốt"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "hệ thống kiểm soát trong doanh nghiệp",
+    "answer": "chỉ cung cấp một sự đảm bảo hợp lý chứ không phải đảm bảo tuyệt đối các mục tiêu được thực hiện"
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Kiểm soát đo lường và điều chỉnh",
+    "answer": "cả hoạt động kinh doanh và quản trị"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Quy trình kiểm soát công ty có thể chia ra thành 4 bước",
+    "answer": "Lập kế hoạch kiểm soát, thực hiện kiểm soát, lập báo cáo kiểm soát và giám sát sau kiểm soát"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Kiểm soát giả thuyết được thực hiện",
+    "answer": "Xuyên suốt trong quy trình quản trị chiến lược"
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Mục đích của kiểm soát đơn hàng",
+    "answer": "Đảm bảo tính pháp lý của giao dịch"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Hạn chế khi hình thành trung tâm lợi nhuận",
+    "answer": "Các nhà quản trị cấp cao không nắm được các điều kiện cơ sở"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Cơ sở để hình hình trung tâm kiểm soát, không bao gồm",
+    "answer": "Thái độ của nhân viên"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Bảng kiểm soát môi trường bên ngoài không bao gồm các chỉ tiêu",
+    "answer": "Hậu cần đầu vào"
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "rủi ro ở kiểm kê nguyên vật liệu, trừ",
+    "answer": "Không lập biên bản chênh lệch kiểm kê thực tế và sổ kế toán nguyên vật liệu"
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": "Thủ tục bảo vệ tài sản cho phép",
+    "answer": "Quy định giới hạn người vào"
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "Để kiểm soát tốt hoạt động thu quỹ trong trường hợp bán hàng thu tiền ngay của khách hàng, vấn đề cơ bản:",
+    "answer": "Tách rời 2 chức năng bán hàng và thu tiền"
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Thủ tục định dạng trước",
+    "answer": "Phải quy định người được phép thay đổi đã định dạng"
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "theo chức năng hoạt động, trung tâm kiểm soát có thể thiết kế thành",
+    "answer": "trung tâm tiêu thụ"
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Về mặt hiệu quả, trung tâm thu nhập được đánh giá dựa trên",
+    "answer": "so sánh giữa chi phí thực tế và chi phí dự toán của trung tâm."
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Nhiệm vụ quạn trọng nhất của Bộ phận kiểm soát công ty, ngoại trừ",
+    "answer": "Đánh giá thao tác của nhân viên khi thực hiện nhiệm vụ của mình"
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do mua hàng với giá cao",
+    "answer": "Chỉ trả tiền khi có đủ các chứng từ nhận hàng đã được phê duyệt"
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": "Để xây dựng các tiêu chuẩn kiểm soát, người ta cần",
+    "answer": "Kết hợp giữa các tiêu chuẩn định tính và tiêu chuẩn định lượng"
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Kiểm soát thực hiện chiến lược bao gồm các hoạt động",
+    "answer": "đánh giá xem việc triển khai thực hiện có diễn ra đúng như nó cần phải diễn ra không"
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "thư trả lời của khách hàng xác nhận đồng ý về số nợ đó là bằng chứng về",
+    "answer": "không thể khẳng định được họ có trả nợ hay không"
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": "Cơ chế kiểm soát nhằm giảm thiểu rủi ro do đánh giá không chính xác giá trị lưu kho",
+    "answer": "Qui định cụ thể cách thức định giá hàng lưu kho"
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": "về mặt kết quả, trung tâm đầu tư được đánh giá tương tự như",
+    "answer": "trung tâm lợi nhuận"
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Kiểm soát liên quan đến trách nhiệm",
+    "answer": "của mọi thành viên trong doanh nghiệp"
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "Khi thử nghiệm kiểm soát cơ bản không có các bước",
+    "answer": "Phương pháp kiểm tra chi tiết các nghiệp vụ và các số dư tài khoản"
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Thủ tục đối chiếu không bao gồm",
+    "answer": "Không cần người khác theo dõi"
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Rủi ro nào sau đây nằm ở khâu bán hàng",
+    "answer": "không đủ sản phẩm theo yêu cầu của khách mua hàng"
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "thủ tục kiểm soát do nhà quản trị xây dựng dựa trên các nguyên tắc",
+    "answer": "bất kiêm nhiệm, phân công nhiệm vụ rõ ràng, ủy quyền và phê chuẩn"
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Kiểm soát chiến lược được thực hiện",
+    "answer": "Tập trung ở những bộ phận quan trọng của doanh nghiệp"
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Việc kiểm soát chiến lược để đánh giá xem các chính sách, giải pháp chiến lược có đang được thực hiện như đã hoạch định không là nội dung của",
+    "answer": "Kiểm soát thực hiện"
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Kiểm soát tác nghiệp",
+    "answer": "chủ yếu hướng vào sự phản hồi"
+  },
+  {
+    "id": 321,
+    "premium": false,
+    "question": "sai phạm nào có thể xảy ra trong quá trình xử lý đơn đặt hàng của khách",
+    "answer": "đồng ý bán hàng nhưng không có khả năng cung ứng"
+  },
+  {
+    "id": 322,
+    "premium": false,
+    "question": "Kiểm soát đang thực hiện là loại kiểm soát được tiến hành khi",
+    "answer": "Hoạt động đang diễn ra"
+  },
+  {
+    "id": 323,
+    "premium": false,
+    "question": "rủi ro ở mua sắm nguyên vật liệu, trừ",
+    "answer": "Mua không đúng chủng loại, kích cỡ, quy cách, thông số kỹ thuật nguyên vật liệu"
+  },
+  {
+    "id": 324,
+    "premium": false,
+    "question": "Công ty là loại hình doanh nghiệp mà ở đó",
+    "answer": "Quyền và trách nhiệm pháp lý về tài sản và nợ do lượng vốn góp qui định"
+  },
+  {
+    "id": 325,
+    "premium": false,
+    "question": "Kiểm soát lường trước",
+    "answer": "diễn ra trước quá trình ra quyết định"
+  },
+  {
+    "id": 326,
+    "premium": false,
+    "question": "Doanh nghiệp tổ chức theo mô hình truyền thống thường dẫn đến qui mô của trung tâm kiểm soát",
+    "answer": "lớn hơn mô hình hiện đại"
+  },
+  {
+    "id": 327,
+    "premium": false,
+    "question": "Công cụ thường được sử dụng trong kiểm soát nguồn nhân lực, trừ",
+    "answer": "Báo cáo của kiểm toán nội bộ"
+  },
+  {
+    "id": 328,
+    "premium": false,
+    "question": "để tránh tình trạng quên lập hóa đơn cho hàng hóa đã giao, khi lập hóa đơn cần căn cứ, trừ",
+    "answer": "những cuộc trao đổi với nhân viên trong doanh nghiệp"
+  },
+  {
+    "id": 329,
+    "premium": false,
+    "question": "Mục tiêu của kiểm soát quá trình sản xuất",
+    "answer": "Bản kế hoạch phải chính xác, đầy đủ, rõ ràng, ngắn gọn, dễ hiểu"
+  },
+  {
+    "id": 330,
+    "premium": false,
+    "question": "Mệnh đề nào không đúng cho đặc trưng của kiểm soát hệ thống",
+    "answer": "Công việc kiểm soát cần dựa vào các quy chế kiểm soát"
+  },
+  {
+    "id": 331,
+    "premium": false,
+    "question": "Tính phù hợp của hoạt động kiểm soát chiến lược thể hiện ở",
+    "answer": "công cụ kiểm soát thích hợp với đối tượng kiểm tra"
+  },
+  {
+    "id": 332,
+    "premium": false,
+    "question": "Chức năng hỗ trợ của kiểm soát",
+    "answer": "trợ giúp cho việc ra quyết định"
+  },
+  {
+    "id": 333,
+    "premium": false,
+    "question": "thủ tục nào sau đây không thuộc thủ tục kiểm soát giao hàng",
+    "answer": "Lệnh bán chịu phải được xét duyệt bởi bộ phận bán chịu độc lập"
+  },
+  {
+    "id": 334,
+    "premium": false,
+    "question": "căn cứ để xác định một bộ phận trong một tổ chức thuộc loại trung tâm nào, phụ thuộc vào",
+    "answer": "trách nhiệm, quyền hạn của nhà quản lý trung tâm"
+  },
+  {
+    "id": 335,
+    "premium": false,
+    "question": "Công cụ nào dưới đây không thuộc kiểm soát nguồn nhân lực",
+    "answer": "Hệ thống đánh giá thông tin"
+  },
+  {
+    "id": 336,
+    "premium": false,
+    "question": "trung tâm chi phí có thể trở thành trung tâm lợi nhuận nếu",
+    "answer": "tự quyết định mặt hàng sản xuất và xác định được giá sản phẩm đầu ra"
+  },
+  {
+    "id": 337,
+    "premium": false,
+    "question": "để hình thành trung tâm kiểm soát, doanh nghiệp cần tuân thủ theo qui trình",
+    "answer": "nghiên cứu xác định được nhiệm vụ và quyền hạn của mỗi trung tâm"
+  },
+  {
+    "id": 338,
+    "premium": false,
+    "question": "thiết kế trung tâm kiểm soát có vai trò quan trọng do",
+    "answer": "tăng tính cạnh tranh"
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Để kiểm soát vốn đầu tư ở tầm chiến lược bắt buộc phải sử dụng công cụ",
+    "answer": "Ma trận GE và BCG"
+  },
+  {
+    "id": 340,
+    "premium": false,
+    "question": "Với mỗi loại cơ cấu tổ chức khác nhau thì",
+    "answer": "Trách nhiệm và hình thức kiểm soát khác nhau"
+  },
+  {
+    "id": 341,
+    "premium": false,
+    "question": "Kiểm soát luôn là kiểm soát hoạt động",
+    "answer": "Quản trị và kinh doanh"
+  },
+  {
+    "id": 342,
+    "premium": false,
+    "question": "Tính linh hoạt của hoạt động kiểm soát thể hiện ở",
+    "answer": "Kiểm tra có thể diễn ra bất cứ khi nào"
+  },
+  {
+    "id": 343,
+    "premium": false,
+    "question": "hệ thống kiểm soát được thiết lập nhằm",
+    "answer": "thực hiện các mục tiêu của doanh nghiệp"
+  },
+  {
+    "id": 344,
+    "premium": false,
+    "question": "theo chức năng hoạt động, trung tâm kiểm soát có thể thiết kế thành",
+    "answer": "Trung tâm kiểm soát nguyên vật liệu"
+  },
+  {
+    "id": 345,
+    "premium": false,
+    "question": "Mục tiêu dài hạn của quá trình kiểm soát nguồn nhân lực",
+    "answer": "hướng tới việc xây dựng và thực hiện một hệ thống hoạt động hợp lý và hiệu quả kế hoạch hóa nguồn nhân lực"
+  },
+  {
+    "id": 346,
+    "premium": false,
+    "question": "theo kỹ thuật kiểm soát, trung tâm kiểm soát có thể thiết kế thành",
+    "answer": "trung tâm thu nhập, lợi nhuận, chi phí và đầu tư"
+  },
+  {
+    "id": 347,
+    "premium": false,
+    "question": "rủi ro ở khâu hoạch định cung ứng nguyên vật liệu",
+    "answer": "Hoạch định không chính xác người cung ứng"
+  },
+  {
+    "id": 348,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây về bộ phận kiểm soát công ty sai",
+    "answer": "Chỉ được tiếp nhận những dữ liệu nhất định có trong công ty"
+  },
+  {
+    "id": 349,
+    "premium": false,
+    "question": "Mục tiêu kiểm soát các chính sách tiêu thụ",
+    "answer": "Thoả mãn và đáp ứng nhu cầu từng nhóm khách hàng"
+  },
+  {
+    "id": 350,
+    "premium": false,
+    "question": "Kiểm soát kế hoạch sản xuất năm ở doanh nghiệp đa sản xuất trên cơ sở",
+    "answer": "hàm tối đa hóa lợi nhuận thô"
+  },
+  {
+    "id": 351,
+    "premium": false,
+    "question": "Công ty trách nhiệm hữu hạn một thành viên là loại hình công ty cần thành lập",
+    "answer": "Thành viên kiểm soát hoạt động độc lập"
+  },
+  {
+    "id": 352,
+    "premium": false,
+    "question": "Xem xét mối quan hệ nhân quả giữa các tiêu chí của BSC để",
+    "answer": "Xác định nguyên nhân không đạt được mục tiêu chiến lược"
+  },
+  {
+    "id": 353,
+    "premium": false,
+    "question": "nhà quản lý trung tâm thu nhập chịu trách nhiệm",
+    "answer": "tạo doanh thu"
+  },
+  {
+    "id": 354,
+    "premium": false,
+    "question": "Mục tiêu kiểm soát hệ thống kênh phân phối nhằm, trừ",
+    "answer": "Đảm bảo bán cho khách hàng có khả năng trả nợ"
+  },
+  {
+    "id": 355,
+    "premium": false,
+    "question": "Mục tiêu ngắn hạn của quá trình kiểm soát nguồn nhân lực",
+    "answer": "Tuyển đúng người theo các tiêu chuẩn phù hợp với công việc"
+  },
+  {
+    "id": 356,
+    "premium": false,
+    "question": "Yêu cầu để cơ chế kiểm soát đạt kết quả và hiệu quả như mong muốn",
+    "answer": "đáp ứng yêu cầu ngăn ngừa và phát hiện rủi ro"
+  },
+  {
+    "id": 357,
+    "premium": false,
+    "question": "Bộ phận kiểm soát công ty có thể, ngoại trừ",
+    "answer": "Áp dụng các chuẩn mực quốc tế về mức độ an toàn khả năng thanh toán để kiểm soát sản xuất"
+  },
+  {
+    "id": 358,
+    "premium": false,
+    "question": "rủi ro ở khâu lưu kho nguyên vật liệu",
+    "answer": "Hao hụt, mất mát nguyên vật liệu khi kiểm kê kho"
+  },
+  {
+    "id": 359,
+    "premium": false,
+    "question": "Kiểm soát trong sử dụng tài sản thiết bị cần tập trung giảm thiểu rủi ro chủ yếu",
+    "answer": "không tuân thủ quy trình vận hành máy móc thiết bị"
+  },
+  {
+    "id": 360,
+    "premium": false,
+    "question": "Kiểm soát tính tối ưu về kỹ thuật chính là đánh giá dựa trên, trừ",
+    "answer": "Có đảm bảo tính phù hợp với ngân sách doanh nghiệp"
+  },
+  {
+    "id": 361,
+    "premium": false,
+    "question": "Kiểm soát lường trước nhằm mục tiêu",
+    "answer": "ngăn ngừa sai phạm xảy ra"
+  },
+  {
+    "id": 362,
+    "premium": false,
+    "question": "Mối quan hệ giữa đầu vào và đầu ra của trung tâm không chặt chẽ",
+    "answer": "Trung tâm chi phí tự do"
+  },
+  {
+    "id": 363,
+    "premium": false,
+    "question": "Công ty cổ phần là loại hình công ty cần thành lập",
+    "answer": "Ban kiểm soát hoạt động độc lập với Hội đồng quản trị"
+  },
+  {
+    "id": 364,
+    "premium": false,
+    "question": "Báo cáo kiểm soát cần đề cập đến nội dung",
+    "answer": "thông tin khái quát và tóm tắt, mục tiêu cuộc kiểm soát, phạm vi kiểm soát, tổng hợp các bằng chứng kiểm soát và nêu ý kiến kiểm soát"
+  },
+  {
+    "id": 365,
+    "premium": false,
+    "question": "Kiểm soát nghiên cứu thị trường nhằm mục tiêu",
+    "answer": "Định vị thị trường – khách hàng phù hợp"
+  },
+  {
+    "id": 366,
+    "premium": false,
+    "question": "Nhân viên bán hàng biển thủ tiền khách hàng nợ bằng cách ghi sổ đây là khoản thu khó đòi. Hành vi đó là",
+    "answer": "Gian lận"
+  },
+  {
+    "id": 367,
+    "premium": false,
+    "question": "Kiểm soát nhà nước và kiểm soát hoạt động kinh doanh",
+    "answer": "Khác nhau về cả mục đích và nội dung"
+  },
+  {
+    "id": 368,
+    "premium": false,
+    "question": "Kiểm soát gồm các chức năng cơ bản",
+    "answer": "chức năng phối hợp và hỗ trọ"
+  },
+  {
+    "id": 369,
+    "premium": false,
+    "question": "Kiểm soát là đánh giá và chỉnh sửa từ",
+    "answer": "tiêu chuẩn"
+  },
+  {
+    "id": 370,
+    "premium": false,
+    "question": "kiểm soát chiến lược được thực hiện ở cả ba cấp chiến lược, không bao cấp",
+    "answer": "Cấp độ cá nhân"
+  },
+  {
+    "id": 371,
+    "premium": false,
+    "question": "Mệnh đề đúng cho doanh nghiệp nhà nước",
+    "answer": "Kiểm soát viên được đào tạo ở chuyên ngành tài chính, kế toán, luật hoặc kiểm toán"
+  },
+  {
+    "id": 372,
+    "premium": false,
+    "question": "Rủi ro có thể xảy ra trước khi quá trình sản xuất diễn ra",
+    "answer": "Kế hoạch sản xuất không phù hợp"
+  },
+  {
+    "id": 373,
+    "premium": false,
+    "question": "Trong kiểm soát chiến lược người ta thường dùng các tiêu chuẩn định tính nào sau đây:",
+    "answer": "Sẵn sàng đón nhận cái mới, tư duy sáng tạo."
+  },
+  {
+    "id": 374,
+    "premium": false,
+    "question": "Thủ tục bất kiêm nhiệm không bao gồm hoạt động",
+    "answer": "Đối chiếu"
+  },
+  {
+    "id": 375,
+    "premium": false,
+    "question": "Loại bằng chứng về thanh toán với người bán có ít tính thuyết phục nhất",
+    "answer": "bằng miệng"
+  },
+  {
+    "id": 376,
+    "premium": false,
+    "question": "rủi ro ở khâu lưu kho nguyên vật liệu",
+    "answer": "Hỏa hoạn, mất cắp nguyên vật liệu, hàng hóa lưu kho,…"
+  },
+  {
+    "id": 377,
+    "premium": false,
+    "question": "Kiểm soát chiến lược phải đáp ứng các yêu cầu sau đây, trừ:",
+    "answer": "phải có tính tiết kiệm"
+  },
+  {
+    "id": 378,
+    "premium": false,
+    "question": "Theo lĩnh vực hoạt động, kiểm soát có thể phân thành",
+    "answer": "Kiểm soát kinh doanh và kiểm soát quản trị"
+  },
+  {
+    "id": 379,
+    "premium": false,
+    "question": "Hoạt động kiểm soát",
+    "answer": "nhằm kiểm soát hoạt động kinh doanh và quản trị kinh doanh của doanh nghiệp"
+  },
+  {
+    "id": 380,
+    "premium": false,
+    "question": "công việc nào không thuộc chu trình tiêu thụ",
+    "answer": "xét duyệt mua hàng"
+  },
+  {
+    "id": 381,
+    "premium": false,
+    "question": "Bộ phận kiểm soát công ty không áp dụng",
+    "answer": "Các chuẩn mực quốc tế để đánh giá hiệu quả kinh doanh"
+  },
+  {
+    "id": 382,
+    "premium": false,
+    "question": "thủ tục bất kiêm nhiệm trong thiết chế của hệ thống kiểm soát",
+    "answer": "nhằm tránh sự chồng chéo trong phê duyệt"
+  },
+  {
+    "id": 383,
+    "premium": false,
+    "question": "Kiểm soát chi phí sản xuất dựa trên cơ sở",
+    "answer": "hệ thống kế toán quản trị độc lập tương đối với kế toán tài chính"
+  },
+  {
+    "id": 384,
+    "premium": false,
+    "question": "Mệnh đề sai đối với nhiệm vụ của Ban kiểm soát ở doanh nghiệp nhà nước",
+    "answer": "Giám sát tổ chức thực hiện quyền và nghĩa vụ của thành viên Hội đồng quản trị"
+  },
+  {
+    "id": 385,
+    "premium": false,
+    "question": "trung tâm lợi nhuận có quyền quyết định về",
+    "answer": "giá bán và chất lượng sản phẩm"
+  },
+  {
+    "id": 386,
+    "premium": false,
+    "question": "rủi ro ở khâu hoạch định cung ứng nguyên vật liệu, trừ",
+    "answer": "Cung ứng không phù hợp cầu về chủng loại nguyên vật liệu"
+  },
+  {
+    "id": 387,
+    "premium": false,
+    "question": "Kiểm soát kế hoạch sản xuất quí, tháng, tuần lễ,… ở",
+    "answer": "doanh nghiệp đơn sản xuất trên cơ sở sơ đồ mạng"
+  },
+  {
+    "id": 388,
+    "premium": false,
+    "question": "Rủi ro nào không thuộc lĩnh vực quản trị nguồn nhân lực",
+    "answer": "Rủi ro trong bảo dưỡng máy móc, thiết bị"
+  },
+  {
+    "id": 389,
+    "premium": false,
+    "question": "thủ tục nào sau đây không thuộc thủ tục kiểm soát doanh thu và thanh toán",
+    "answer": "Kiểm tra việc độc lập tính toán trên hoá đơn trước khi gửi đi"
+  },
+  {
+    "id": 390,
+    "premium": false,
+    "question": "Về mặt kết quả, trung tâm thu nhập được đánh giá dựa trên",
+    "answer": "So sánh doanh thu đạt được thực tế so với doanh thu dự toán của bộ phận"
+  }
+]

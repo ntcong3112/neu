@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Những yếu tố trước giao dịch của dịch vụ khách hàng là:",
+    "answer": "Cung cấp các hướng dẫn kỹ thuật, cung cấp một bản tuyên bố về chính sách dịch vụ khách hang"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí thu mua",
+    "answer": "Chi phí xử lý đơn đặt hàng thông qua các bộ phận cung ứng và kế toán"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số T là:",
+    "answer": "Không có đáp án nào"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Phần hữu hình của sản phầm không bao gồm đặc điểm sau",
+    "answer": "Danh tiếng của doanh nghiệp"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Công thức tính chi phí Dự trữ tại nhà máy trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*C*Q/2"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số R là:",
+    "answer": "Chi phí vận chuyển một đơn vị sản phẩm"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Hoạt động “liên hệ thông tin đơn hàng qua điện thoại với khách hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Chi phí vốn thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí lưu kho"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số Q là:",
+    "answer": "Không có đáp án nào"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Quá trình xử lý đơn hàng bao gồm những hoạt động",
+    "answer": "Chuẩn bị đơn hàng, truyền tin, tiếp nhận đơn hàng, đáp ứng đơn hàng, và thông báo tình trạng đơn hàng"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Chi phí đặt hàng chậm do hết dự trữ thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí hết hàng dự trữ"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Phần vô hình của sản phầm không bao gồm đặc điểm sau",
+    "answer": "Hình dáng của sản phẩm"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "“Việc chuyển yêu cầu về đơn hàng từ nguồn tới nơi tiếp nhận đơn hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Truyền tin"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Quá trình xử lý đơn hàng bao gồm những hoạt động",
+    "answer": "Chuẩn bị đơn hàng, truyền tin, tiếp nhận đơn hàng, đáp ứng đơn hàng, và thông báo tình trạng đơn hang"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Mức dịch vụ khách hàng lý tưởng trong hoạch định hậu cần là điểm:",
+    "answer": "Lợi nhuận tối đa"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Quá trình xử lý đơn hàng bao gồm những hoạt động",
+    "answer": "Chuẩn bị đơn hàng, truyền tin, tiếp nhận đơn hàng, đáp ứng đơn hàng, và thông báo tình trạng đơn hàng"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Quyết định vận tải rất đa dạng nhưng tập trung chủ yếu vào các yếu tố",
+    "answer": "lựa chọn phương thức vận tải, lộ trình vận tải, lịch trình vận tải"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Mối quan hệ giữa chi phí vận chuyển và chi phí dự trữ với đặc điểm “tỷ lệ giữa giá trị và khối lượng” của sản phẩm là:",
+    "answer": "Tỷ lệ thuận với chi phí dự trữ và tỷ lệ nghịch chi phí vận chuyển"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nhiệm vụ của quản trị hậu cần là",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Để giải quyết bài toán về lộ trình vận tải khi có nhiều điểm xuất phát và nhiều điểm đích khác nhau, người ta sử dụng phương pháp:",
+    "answer": "Phương pháp vận tải"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Trong các hoạt động sau, đâu là hoạt động hậu cần chủ yếu",
+    "answer": "Vận chuyển"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Thời gian chu kỳ đặt hàng là:",
+    "answer": "Khoảng thời gian kể từ thời điểm đơn hàng (hàng hoá hoặc dịch vụ) được thiết lập cho đến khi khách hàng nhận được lô hàng như yêu cầu"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "“Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Yếu tố nào là yếu tố trong giao dịch của dịch vụ",
+    "answer": "Mức dự trữ"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Với sản phẩm thiết yếu, các quyết định về quản trị hậu cần là:",
+    "answer": "Mạng lưới phân phối dày đặc, dự trữ ở mức cao, vận chuyển nhanh chóng"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Phần vô hình của sản phầm không bao gồm đặc điểm sau",
+    "answer": "Tính năng và độ bền"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Các nhân tố tạo nên hệ thống thông tin hậu cần là:",
+    "answer": "Đầu vào, quản trị cơ sở dữ liệu và các kỹ thuật xử lý có liên quan, đầu ra"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số D là:",
+    "answer": "Tổng nhu cầu hàng năm"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Hoạt động nào thuộc hoạt động “thông báo tình trạng đơn hàng” trong quy trình xử lý đơn hàng",
+    "answer": "Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Quản trị hậu cần có các hoạt động giao thoa với chức năng quản trị nào sau đây:",
+    "answer": "Quản trị sản xuất, quản trị marketing"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí lưu kho",
+    "answer": "Chi phí dịch vụ dự trữ"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Chi phí giảm doanh thu do hết dự trữ thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí hết hàng dự trữ"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Với sản phẩm đặc thù, các quyết định về quản trị hậu cần là:",
+    "answer": "Mạng lưới phân phối thưa thớt, mức độ sẵn có của sản phẩm không cần quá cao"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Trong phân tích ABC, mặt hàng được xếp loại C là:",
+    "answer": "Có tỷ lệ giá trị thấp, tỷ lệ mặt hàng cao"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Sản phẩm tiêu dùng được phân loại thành",
+    "answer": "Sản phẩm thiết yếu, sản phẩm thông thường, sản phẩm đặc thù."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Công thức tính chi phí Dự trữ tại kho trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*(C+R)*Q/2"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Trong các quyết định sau, đâu không phải là quyết định của hoạt động vận chuyển:",
+    "answer": "Thu thập, lưu trữ và truyền tải thông tin."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Sản phẩm tiêu dùng được phân loại thành",
+    "answer": "Sản phẩm thiết yếu, sản phẩm thông thường, sản phẩm đặc thù."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Hoạt động nào thuộc hoạt động “thông báo tình trạng đơn hàng” trong quy trình xử lý đơn hàng",
+    "answer": "Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Lý do tồn tại của dự trữ là:",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Các nhân tố tạo nên hệ thống thông tin hậu cần là:",
+    "answer": "Đầu vào, quản trị cơ sở dữ liệu và các kỹ thuật xử lý có liên quan, đầu ra"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Đâu không phải là hoạt động hậu cần chủ yếu",
+    "answer": "Mua hàng"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Trong phân loại sản phẩm theo ABC, mặt hàng loại A là",
+    "answer": "Tỷ lệ giá trị cao, tỷ lệ mặt hàng thấp"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "“Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Yếu tố nào là yếu tố sau giao dịch của dịch vụ",
+    "answer": "Giải quyết phàn nàn của khách hàng"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Hoạt động tập hợp hàng trong kho theo hóa đơn nằm trong giai đoạn nào của thời gian chu kỳ đặt hàng",
+    "answer": "Xử lý đơn hàng và xuất hàng"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Mối quan hệ giữa chi phí vận chuyển và chi phí dự trữ với đặc điểm “tỷ lệ giữa khối lượng và thể tích” của sản phẩm là:",
+    "answer": "Tỷ lệ nghịch với cả chi phí dự trữ và chi phí vận chuyển"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Yếu tố sau giao dịch của dịch vụ khách hàng là:",
+    "answer": "Hoạt động thanh toán"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "“Kiểm tra tính chính xác của thông tin về đơn hàng như là đặc điểm và ký hiệu sản phẩm” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Tiếp nhận đơn hàng"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Đây là các quyết định của hoạt động dự trữ, ngoại trừ",
+    "answer": "Lựa chọn phương thức và dịch vụ vận chuyển"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "“Việc chuyển yêu cầu về đơn hàng từ nguồn tới nơi tiếp nhận đơn hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số C là:",
+    "answer": "Giá sản phẩm tại nhà máy"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số I là:",
+    "answer": "Tỷ lệ chi phí dự trữ trong giá"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Hoạt động “đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Yếu tố nào là yếu tố trước giao dịch của dịch vụ",
+    "answer": "Bản tuyên bố chính sách dịch vụ khách hàng"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Công thức tính chi phí dự trữ trên đường đi trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*C*D*T/365"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Hoạt động nào là hoạt động trong quá trình chuẩn bị đơn hàng",
+    "answer": "Điền vào một mẫu đơn đặt hàng"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Hoạt động nào thuộc hoạt động “thông báo tình trạng đơn hàng” trong quy trình xử lý đơn hàng",
+    "answer": "Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Chi phí xử lý đơn đặt hàng thông qua các bộ phận cung ứng và kế toán thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí thu mua"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Yếu tố trong giao dịch của dịch vụ khách hàng là:",
+    "answer": "Lựa chọn phương thức vận chuyển"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Trong quản trị hậu cần, đâu không phải là quyết định nằm trong “tam giác kế hoạch hậu cần”",
+    "answer": "Quyết định công suất"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Hoạt động “liên hệ thông tin đơn hàng qua điện thoại với khách hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Trong phân loại sản phẩm theo ABC, mặt hàng loại A là",
+    "answer": "Tỷ lệ giá trị cao, tỷ lệ mặt hàng thấp"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "“Việc chuyển yêu cầu về đơn hàng từ nguồn tới nơi tiếp nhận đơn hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Truyền tin"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Hoạt động nào là hoạt động trong quá trình chuẩn bị đơn hàng",
+    "answer": "Liên hệ về thông tin đơn hàng với khách hàng"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Hoạt động “đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "“Việc chuyển yêu cầu về đơn hàng từ nguồn tới nơi tiếp nhận đơn hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Yếu tố nào là yếu tố trong giao dịch của dịch vụ",
+    "answer": "Phương thức vận chuyển"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "“Kiểm tra tính chính xác của thông tin về đơn hàng như là đặc điểm và ký hiệu sản phẩm” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Tiếp nhận đơn hàng"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trong các quyết định sau, đâu không phải là quyết định của hoạt động vận chuyển:",
+    "answer": "Bố trí sản phẩm tại các điểm dự trữ."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Quản trị hậu cần có các hoạt động giao thoa với chức năng quản trị nào sau đây:",
+    "answer": "Quản trị sản xuất, quản trị marketing"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Trong các hoạt động sau, đâu là hoạt động hậu cần chủ yếu",
+    "answer": "Dịch vụ khách hàng hậu cần"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Hoạt động “liên hệ thông tin đơn hàng qua điện thoại với khách hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Chuẩn bị đơn hàng"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Chi phí thuê nhà kho thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí lưu kho"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Công thức tính chi phí Dự trữ tại kho trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*(C+R)*Q/2"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Lý do tồn tại của dự trữ là:",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Hoạt động tập hợp đơn hàng nằm trong giai đoạn nào của thời gian chu kỳ đặt hàng",
+    "answer": "Đặt hàng"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí hết hàng dự trữ",
+    "answer": "Chi phí giảm doanh thu do hết hàng dự trữ"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "“Đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "“Đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Trong phân tích ABC, mặt hàng được xếp loại C là:",
+    "answer": "Có tỷ lệ giá trị thấp, tỷ lệ mặt hàng cao"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Hoạt động “đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "“Kiểm tra tính chính xác của thông tin về đơn hàng như là đặc điểm và ký hiệu sản phẩm” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Công thức tính chi phí dự trữ trên đường đi trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*C*D*T/365"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Chu kỳ sống của sản phẩm bao gồm các giai đoạn",
+    "answer": "Giới thiệu, phát triển, bão hòa và suy thoái"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Hoạt động chuẩn bị vận đơn nằm trong giai đoạn nào của thời gian chu kỳ đặt hàng",
+    "answer": "Xử lý đơn hàng và xuất hàng"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Trong mô hình EOQ, đại lượng TC là",
+    "answer": "Tổng chi phí có liên quan dự trữ hàng năm"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Trong các hoạt động sau, đâu là hoạt động hậu cần chủ yếu",
+    "answer": "Xử lý đơn hàng"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Chi phí cho các vật liệu bao gói hay xử lý hàng hóa tại điểm giao nhận thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí thu mua"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Yếu tố nào là yếu tố trước giao dịch của dịch vụ",
+    "answer": "Xây dựng cơ cấu tổ chức để thực hiện chính sách dịch vụ khách hàng"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Hoạt động nào là hoạt động trong quá trình chuẩn bị đơn hàng",
+    "answer": "Điền vào một mẫu đơn đặt hàng"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Phần hữu hình của sản phầm không bao gồm đặc điểm sau",
+    "answer": "Thu hồi sửa chữa sản phẩm lỗi"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Khi nâng cao mức dịch vụ khách hàng, chi phí hậu cần có xu hướng:",
+    "answer": "Tăng theo tỷ lệ nhanh dần"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Trong mô hình EOQ, đại lượng TC là",
+    "answer": "Tổng chi phí có liên quan dự trữ hàng năm"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Chu kỳ sống của sản phẩm được chia làm mấy giai đoạn",
+    "answer": "4"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Trong quản trị hậu cần, đâu không phải là quyết định nằm trong “tam giác kế hoạch hậu cần”",
+    "answer": "Quyết định công suất"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Trong phân tích ABC, mặt hàng được xếp loại A là:",
+    "answer": "Có tỷ lệ giá trị cao, tỷ lệ mặt hàng thấp"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Hoạt động sản xuất thêm nếu thiếu hàng nằm trong giai đoạn nào của thời gian chu kỳ đặt hàng",
+    "answer": "Đặt hàng"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Yếu tố trước giao dịch của dịch vụ khách hàng là:",
+    "answer": "Cung cấp một bản tuyên bố về chính sách dịch vụ khách hàng"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "“Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Thông báo tình trạng đơn hàng"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Công thức tính chi phí vận chuyển trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "R*D"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Đâu không phải là hoạt động hậu cần",
+    "answer": "Hoạch định công suất"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Hoạt động nào thuộc hoạt động “thông báo tình trạng đơn hàng” trong quy trình xử lý đơn hàng",
+    "answer": "Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Với sản phẩm thiết yếu, các quyết định về quản trị hậu cần là:",
+    "answer": "Dịch vụ khách hàng ở mức cao, mạng lưới phân phối dày đặc, dự trữ ở mức cao, vận chuyển nhanh chóng"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Quyết định vận tải rất đa dạng nhưng tập trung chủ yếu vào các yếu tố",
+    "answer": "lựa chọn phương thức vận tải, lộ trình vận tải, lịch trình vận tải"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Thời gian chu kỳ đặt hàng là:",
+    "answer": "Khoảng thời gian kể từ thời điểm đơn hàng (hàng hoá hoặc dịch vụ) được thiết lập cho đến khi khách hàng nhận được lô hàng như yêu cầu"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Đây là các quyết định của hoạt động dự trữ, ngoại trừ",
+    "answer": "Lựa chọn phương thức và dịch vụ vận chuyển"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Trong các hoạt động sau, đâu là hoạt động hậu cần chủ yếu",
+    "answer": "Quản trị dự trữ"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Hoạt động nào là hoạt động trong quá trình chuẩn bị đơn hàng",
+    "answer": "Liên hệ về thông tin đơn hàng với khách hàng"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Để giải quyết bài toán về lộ trình vận tải khi có nhiều điểm xuất phát và nhiều điểm đích khác nhau, người ta sử dụng phương pháp:",
+    "answer": "Phương pháp vận tải"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Mối quan hệ giữa chi phí vận chuyển và chi phí dự trữ với đặc điểm “tỷ lệ giữa giá trị và khối lượng” của sản phẩm là:",
+    "answer": "Tỷ lệ thuận với chi phí dự trữ và tỷ lệ nghịch chi phí vận chuyển"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Yếu tố nào là yếu tố sau giao dịch của dịch vụ",
+    "answer": "Giải quyết phàn nàn của khách hàng"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí thu mua",
+    "answer": "Chi phí xử lý đơn đặt hàng thông qua các bộ phận cung ứng và kế toán"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Mối quan hệ giữa chi phí vận chuyển và chi phí dự trữ với đặc điểm “tỷ lệ giữa khối lượng và thể tích” của sản phẩm là:",
+    "answer": "Tỷ lệ nghịch với cả chi phí dự trữ và chi phí vận chuyển"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Công thức tính chi phí vận chuyển trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "R*D"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Các hoạt động hậu cần hỗ trợ bao gồm",
+    "answer": "Xác định không gian kho, thiết kế bao gói"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Qua thực tế cho thấy chi phí vận tải chiếm tỷ lệ khoảng bao nhiêu trong tổng chi phí hậu cần",
+    "answer": "Chiếm tỷ lệ khoảng 1/3 đến 2/3"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Các nhân tố tạo nên hệ thống thông tin hậu cần là:",
+    "answer": "Đầu vào, quản trị cơ sở dữ liệu và các kỹ thuật xử lý có liên quan, đầu ra"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Trong phân tích ABC, mặt hàng được xếp loại A là:",
+    "answer": "Có tỷ lệ giá trị cao, tỷ lệ mặt hàng thấp"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Với sản phẩm đặc thù, các quyết định về quản trị hậu cần là:",
+    "answer": "Mạng lưới phân phối thưa thớt, mức dự trữ không cần quá cao\t"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "“Đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "“Kiểm tra tính chính xác của thông tin về đơn hàng như là đặc điểm và ký hiệu sản phẩm” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "“Đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Đâu không phải là hoạt động hậu cần",
+    "answer": "Điều độ sản xuất"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Đâu không phải là nhược điểm của dự trữ",
+    "answer": "Có thể gặp rủi ro thiếu nguyên vật liệu"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Nhiệm vụ của quản trị hậu cần là",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Đâu không phải là nhược điểm của dự trữ",
+    "answer": "Làm giảm chất lượng dịch vụ khách hàng khi không cung ứng hàng hóa đúng thời điểm"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Hoạt động “đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Những yếu tố trong giao dịch của dịch vụ khách hàng là:",
+    "answer": "Định mức dự trữ, việc lựa chọn phương thức vận chuyển"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Các nhân tố tạo nên hệ thống thông tin hậu cần là:",
+    "answer": "Đầu vào, quản trị cơ sở dữ liệu và các kỹ thuật xử lý có liên quan, đầu ra"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số D là:",
+    "answer": "Tổng nhu cầu hàng năm"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Trong phân tích ABC, mặt hàng được xếp loại C là:",
+    "answer": "Có tỷ lệ giá trị thấp, tỷ lệ mặt hàng cao"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Trong phân loại sản phẩm theo ABC, mặt hàng loại A là",
+    "answer": "Tỷ lệ giá trị cao, tỷ lệ mặt hàng thấp"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Trong mô hình EOQ, đại lượng TC là",
+    "answer": "Tổng chi phí có liên quan dự trữ hàng năm"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Để giải quyết bài toán về lộ trình vận tải khi có nhiều điểm xuất phát và nhiều điểm đích khác nhau, người ta sử dụng phương pháp:",
+    "answer": "Phương pháp vận tải"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Hoạt động tập hợp hàng trong kho theo hóa đơn nằm trong giai đoạn nào của thời gian chu kỳ đặt hàng",
+    "answer": "Xử lý đơn hàng và xuất hàng"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Công thức tính chi phí Dự trữ tại nhà máy trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*C*Q/2"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Mối quan hệ giữa chi phí vận chuyển và chi phí dự trữ với đặc điểm “tỷ lệ giữa khối lượng và thể tích” của sản phẩm là:",
+    "answer": "Tỷ lệ nghịch với cả chi phí dự trữ và chi phí vận chuyển"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Qua thực tế cho thấy chi phí vận tải chiếm tỷ lệ khoảng bao nhiêu trong tổng chi phí hậu cần",
+    "answer": "Chiếm tỷ lệ khoảng 1/3 đến 2/3"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Hoạt động nào thuộc hoạt động “thông báo tình trạng đơn hàng” trong quy trình xử lý đơn hàng",
+    "answer": "Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Công thức tính chi phí Dự trữ tại kho trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*(C+R)*Q/2"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Các hoạt động hậu cần hỗ trợ bao gồm",
+    "answer": "Chọn nhà cung ứng, thiết kế bao gói"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Hoạt động tập hợp đơn hàng nằm trong giai đoạn nào của thời gian chu kỳ đặt hàng",
+    "answer": "Đặt hàng"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Yếu tố trong giao dịch của dịch vụ khách hàng là:",
+    "answer": "Lựa chọn phương thức vận chuyển"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Trong quản trị hậu cần, đâu không phải là quyết định nằm trong “tam giác kế hoạch hậu cần”",
+    "answer": "Quyết định công suất"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "“Kiểm tra tính chính xác của thông tin về đơn hàng như là đặc điểm và ký hiệu sản phẩm” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Tiếp nhận đơn hàng"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Lý do tồn tại của dự trữ là:",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "“Đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí thu mua",
+    "answer": "Chi phí xử lý đơn đặt hàng thông qua các bộ phận cung ứng và kế toán"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Quyết định vận tải rất đa dạng nhưng tập trung chủ yếu vào các yếu tố",
+    "answer": "lựa chọn phương thức vận tải, lộ trình vận tải, lịch trình vận tải"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "“Việc chuyển yêu cầu về đơn hàng từ nguồn tới nơi tiếp nhận đơn hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Truyền tin"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "“Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí hết hàng dự trữ",
+    "answer": "Chi phí giảm doanh thu do hết hàng dự trữ"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Phần vô hình của sản phầm không bao gồm đặc điểm sau",
+    "answer": "Tính năng và độ bền"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Yếu tố nào là yếu tố trước giao dịch của dịch vụ",
+    "answer": "Bản tuyên bố chính sách dịch vụ khách hàng"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Nhiệm vụ của quản trị hậu cần là",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Mức dịch vụ khách hàng lý tưởng trong hoạch định hậu cần là điểm:",
+    "answer": "Lợi nhuận tối đa"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Với sản phẩm đặc thù, các quyết định về quản trị hậu cần là:",
+    "answer": "Mạng lưới phân phối thưa thớt, mức độ sẵn có của sản phẩm không cần quá cao"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Chu kỳ sống của sản phẩm được chia làm mấy giai đoạn",
+    "answer": "4"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Trong phân tích ABC, mặt hàng được xếp loại C là:",
+    "answer": "Có tỷ lệ giá trị thấp, tỷ lệ mặt hàng cao"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Sản phẩm tiêu dùng được phân loại thành",
+    "answer": "Sản phẩm thiết yếu, sản phẩm thông thường, sản phẩm đặc thù."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số Q là:",
+    "answer": "Không có đáp án nào"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Thời gian chu kỳ đặt hàng là:",
+    "answer": "Khoảng thời gian kể từ thời điểm đơn hàng (hàng hoá hoặc dịch vụ) được thiết lập cho đến khi khách hàng nhận được lô hàng như yêu cầu"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Yếu tố trước giao dịch của dịch vụ khách hàng là:",
+    "answer": "Cung cấp một bản tuyên bố về chính sách dịch vụ khách hàng"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Mối quan hệ giữa chi phí vận chuyển và chi phí dự trữ với đặc điểm “tỷ lệ giữa khối lượng và thể tích” của sản phẩm là:",
+    "answer": "Tỷ lệ nghịch với cả chi phí dự trữ và chi phí vận chuyển"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "“Kiểm tra tính chính xác của thông tin về đơn hàng như là đặc điểm và ký hiệu sản phẩm” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Tiếp nhận đơn hàng"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Đâu không phải là hoạt động hậu cần chủ yếu",
+    "answer": "Bao gói"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Quyết định vận tải rất đa dạng nhưng tập trung chủ yếu vào các yếu tố",
+    "answer": "lựa chọn phương thức vận tải, lộ trình vận tải, lịch trình vận tải"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "“Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Thông báo tình trạng đơn hàng"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Yếu tố nào là yếu tố trong giao dịch của dịch vụ",
+    "answer": "Phương thức vận chuyển"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "“Việc chuyển yêu cầu về đơn hàng từ nguồn tới nơi tiếp nhận đơn hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Để giải quyết bài toán về lộ trình vận tải khi có nhiều điểm xuất phát và nhiều điểm đích khác nhau, người ta sử dụng phương pháp:",
+    "answer": "Phương pháp vận tải"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Chu kỳ sống của sản phẩm bao gồm các giai đoạn",
+    "answer": "Giới thiệu, phát triển, bão hòa và suy thoái"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Hoạt động nào thuộc hoạt động “thông báo tình trạng đơn hàng” trong quy trình xử lý đơn hàng",
+    "answer": "Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "“Kiểm tra tính chính xác của thông tin về đơn hàng như là đặc điểm và ký hiệu sản phẩm” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Trong phân loại sản phẩm theo ABC, mặt hàng loại A là",
+    "answer": "Tỷ lệ giá trị cao, tỷ lệ mặt hàng thấp"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Sản phẩm tiêu dùng được phân loại thành",
+    "answer": "Sản phẩm thiết yếu, sản phẩm thông thường, sản phẩm đặc thù."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Trong quản trị hậu cần, đâu không phải là quyết định nằm trong “tam giác kế hoạch hậu cần”",
+    "answer": "Quyết định công suất"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Công thức tính chi phí vận chuyển trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "R*D"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Yếu tố sau giao dịch của dịch vụ khách hàng là:",
+    "answer": "Hoạt động thanh toán"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Với sản phẩm đặc thù, các quyết định về quản trị hậu cần là:",
+    "answer": "Mạng lưới phân phối thưa thớt, mức dự trữ không cần quá cao"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Quá trình xử lý đơn hàng bao gồm những hoạt động",
+    "answer": "Chuẩn bị đơn hàng, truyền tin, tiếp nhận đơn hàng, đáp ứng đơn hàng, và thông báo tình trạng đơn hang"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Quyết định vận tải rất đa dạng nhưng tập trung chủ yếu vào các yếu tố",
+    "answer": "lựa chọn phương thức vận tải, lộ trình vận tải, lịch trình vận tải"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Hoạt động nào thuộc hoạt động “thông báo tình trạng đơn hàng” trong quy trình xử lý đơn hàng",
+    "answer": "Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Yếu tố trong giao dịch của dịch vụ khách hàng là:",
+    "answer": "Lựa chọn phương thức vận chuyển"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Yếu tố nào là yếu tố trước giao dịch của dịch vụ",
+    "answer": "Xây dựng cơ cấu tổ chức để thực hiện chính sách dịch vụ khách hàng"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Hoạt động “đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Để giải quyết bài toán về lộ trình vận tải khi có nhiều điểm xuất phát và nhiều điểm đích khác nhau, người ta sử dụng phương pháp:",
+    "answer": "Phương pháp vận tải"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Hoạt động chuẩn bị vận đơn nằm trong giai đoạn nào của thời gian chu kỳ đặt hàng",
+    "answer": "Xử lý đơn hàng và xuất hàng"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Hoạt động “đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Công thức tính chi phí Dự trữ tại kho trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*(C+R)*Q/2"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "“Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số C là:",
+    "answer": "Giá sản phẩm tại nhà máy"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "“Việc chuyển yêu cầu về đơn hàng từ nguồn tới nơi tiếp nhận đơn hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Truyền tin"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Đây là các quyết định của hoạt động dự trữ, ngoại trừ",
+    "answer": "Lựa chọn phương thức và dịch vụ vận chuyển"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Hoạt động “liên hệ thông tin đơn hàng qua điện thoại với khách hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Thời gian chu kỳ đặt hàng là:",
+    "answer": "Khoảng thời gian kể từ thời điểm đơn hàng (hàng hoá hoặc dịch vụ) được thiết lập cho đến khi khách hàng nhận được lô hàng như yêu cầu"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Đây là các quyết định của hoạt động dự trữ, ngoại trừ",
+    "answer": "Lựa chọn phương thức và dịch vụ vận chuyển"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Lý do tồn tại của dự trữ là:",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Quản trị hậu cần có các hoạt động giao thoa với chức năng quản trị nào sau đây:",
+    "answer": "Quản trị sản xuất, quản trị marketing"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Đâu không phải là nhược điểm của dự trữ",
+    "answer": "Có thể gặp rủi ro thiếu nguyên vật liệu"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số R là:",
+    "answer": "Chi phí vận chuyển một đơn vị sản phẩm"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Công thức tính chi phí dự trữ trên đường đi trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*C*D*T/365"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Chi phí vốn thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí lưu kho"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số I là:",
+    "answer": "Tỷ lệ chi phí dự trữ trong giá"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Quá trình xử lý đơn hàng bao gồm những hoạt động",
+    "answer": "Chuẩn bị đơn hàng, truyền tin, tiếp nhận đơn hàng, đáp ứng đơn hàng, và thông báo tình trạng đơn hàng"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Qua thực tế cho thấy chi phí vận tải chiếm tỷ lệ khoảng bao nhiêu trong tổng chi phí hậu cần",
+    "answer": "Chiếm tỷ lệ khoảng 1/3 đến 2/3"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Yếu tố nào là yếu tố trong giao dịch của dịch vụ",
+    "answer": "Mức dự trữ"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Phần vô hình của sản phầm không bao gồm đặc điểm sau",
+    "answer": "Hình dáng của sản phẩm"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Mối quan hệ giữa chi phí vận chuyển và chi phí dự trữ với đặc điểm “tỷ lệ giữa giá trị và khối lượng” của sản phẩm là:",
+    "answer": "Tỷ lệ thuận với chi phí dự trữ và tỷ lệ nghịch chi phí vận chuyển"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Đâu không phải là hoạt động hậu cần",
+    "answer": "Điều độ sản xuất"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí lưu kho",
+    "answer": "Chi phí dịch vụ dự trữ"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Những yếu tố trong giao dịch của dịch vụ khách hàng là:",
+    "answer": "Định mức dự trữ, việc lựa chọn phương thức vận chuyển"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Quá trình xử lý đơn hàng bao gồm những hoạt động",
+    "answer": "Chuẩn bị đơn hàng, truyền tin, tiếp nhận đơn hàng, đáp ứng đơn hàng, và thông báo tình trạng đơn hàng"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Trong mô hình EOQ, đại lượng TC là",
+    "answer": "Tổng chi phí có liên quan dự trữ hàng năm"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số D là:",
+    "answer": "Tổng nhu cầu hàng năm"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Hoạt động “liên hệ thông tin đơn hàng qua điện thoại với khách hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Chuẩn bị đơn hàng"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Đâu không phải là hoạt động hậu cần chủ yếu",
+    "answer": "Mua hàng"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Phần hữu hình của sản phầm không bao gồm đặc điểm sau",
+    "answer": "Thu hồi sửa chữa sản phẩm lỗi"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Các hoạt động hậu cần hỗ trợ bao gồm",
+    "answer": "Xác định không gian kho, thiết kế bao gói"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Yếu tố sau giao dịch của dịch vụ khách hàng là:",
+    "answer": "Hoạt động thanh toán"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "“Đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Lý do tồn tại của dự trữ là:",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Các nhân tố tạo nên hệ thống thông tin hậu cần là:",
+    "answer": "Đầu vào, quản trị cơ sở dữ liệu và các kỹ thuật xử lý có liên quan, đầu ra"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Công thức tính chi phí Dự trữ tại nhà máy trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*C*Q/2"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "“Đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trong mô hình EOQ, đại lượng TC là",
+    "answer": "Tổng chi phí có liên quan dự trữ hàng năm"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Các nhân tố tạo nên hệ thống thông tin hậu cần là:",
+    "answer": "Đầu vào, quản trị cơ sở dữ liệu và các kỹ thuật xử lý có liên quan, đầu ra"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "“Việc chuyển yêu cầu về đơn hàng từ nguồn tới nơi tiếp nhận đơn hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Hoạt động sản xuất thêm nếu thiếu hàng nằm trong giai đoạn nào của thời gian chu kỳ đặt hàng",
+    "answer": "Đặt hàng"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Chi phí cho các vật liệu bao gói hay xử lý hàng hóa tại điểm giao nhận thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí thu mua"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí thu mua",
+    "answer": "Chi phí xử lý đơn đặt hàng thông qua các bộ phận cung ứng và kế toán"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Chi phí giảm doanh thu do hết dự trữ thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí hết hàng dự trữ"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Hoạt động nào thuộc hoạt động “thông báo tình trạng đơn hàng” trong quy trình xử lý đơn hàng",
+    "answer": "Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Hoạt động tập hợp đơn hàng nằm trong giai đoạn nào của thời gian chu kỳ đặt hàng",
+    "answer": "Đặt hàng"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Trong các hoạt động sau, đâu là hoạt động hậu cần chủ yếu",
+    "answer": "Dịch vụ khách hàng hậu cần"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Công thức tính chi phí dự trữ trên đường đi trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*C*D*T/365"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Hoạt động “liên hệ thông tin đơn hàng qua điện thoại với khách hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí lưu kho",
+    "answer": "Chi phí địa điểm dự trữ"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Công thức tính chi phí Dự trữ tại nhà máy trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*C*Q/2"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Trong quản trị hậu cần, đâu không phải là quyết định nằm trong “tam giác kế hoạch hậu cần”",
+    "answer": "Quyết định công suất"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Trong phân tích ABC, mặt hàng được xếp loại A là:",
+    "answer": "Có tỷ lệ giá trị cao, tỷ lệ mặt hàng thấp"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Đâu không phải là nhược điểm của dự trữ",
+    "answer": "Làm giảm chất lượng dịch vụ khách hàng khi không cung ứng hàng hóa đúng thời điểm"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "“Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Thông báo tình trạng đơn hàng"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Với sản phẩm thiết yếu, các quyết định về quản trị hậu cần là:",
+    "answer": "Dịch vụ khách hàng ở mức cao, mạng lưới phân phối dày đặc, dự trữ ở mức cao, vận chuyển nhanh chóng"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Với sản phẩm thiết yếu, các quyết định về quản trị hậu cần là:",
+    "answer": "Mạng lưới phân phối dày đặc, dự trữ ở mức cao, vận chuyển nhanh chóng"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Trong các quyết định sau, đâu không phải là quyết định của hoạt động vận chuyển:",
+    "answer": "Thu thập, lưu trữ và truyền tải thông tin."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Trong phân loại sản phẩm theo ABC, mặt hàng loại A là",
+    "answer": "Tỷ lệ giá trị cao, tỷ lệ mặt hàng thấp"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Yếu tố nào là yếu tố sau giao dịch của dịch vụ",
+    "answer": "Giải quyết phàn nàn của khách hàng"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Yếu tố nào là yếu tố sau giao dịch của dịch vụ",
+    "answer": "Giải quyết phàn nàn của khách hàng"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Các hoạt động hậu cần hỗ trợ bao gồm",
+    "answer": "Chọn nhà cung ứng, thiết kế bao gói"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Hoạt động nào là hoạt động trong quá trình chuẩn bị đơn hàng",
+    "answer": "Liên hệ về thông tin đơn hàng với khách hàng"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí hết hàng dự trữ",
+    "answer": "Chi phí giảm doanh thu do hết hàng dự trữ"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Trong các hoạt động sau, đâu là hoạt động hậu cần chủ yếu",
+    "answer": "Quản trị dự trữ"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Trong các hoạt động sau, đâu là hoạt động hậu cần chủ yếu",
+    "answer": "Vận chuyển"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Hoạt động “đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Nhiệm vụ của quản trị hậu cần là",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Trong phân tích ABC, mặt hàng được xếp loại C là:",
+    "answer": "Có tỷ lệ giá trị thấp, tỷ lệ mặt hàng cao"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Đâu không phải là hoạt động hậu cần",
+    "answer": "Hoạch định công suất"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Chi phí xử lý đơn đặt hàng thông qua các bộ phận cung ứng và kế toán thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí thu mua"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "“Kiểm tra tính chính xác của thông tin về đơn hàng như là đặc điểm và ký hiệu sản phẩm” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Tiếp nhận đơn hàng"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Mối quan hệ giữa chi phí vận chuyển và chi phí dự trữ với đặc điểm “tỷ lệ giữa giá trị và khối lượng” của sản phẩm là:",
+    "answer": "Tỷ lệ thuận với chi phí dự trữ và tỷ lệ nghịch chi phí vận chuyển"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Công thức tính chi phí Dự trữ tại kho trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*(C+R)*Q/2"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Trong phân tích ABC, mặt hàng được xếp loại A là:",
+    "answer": "Có tỷ lệ giá trị cao, tỷ lệ mặt hàng thấp"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Qua thực tế cho thấy chi phí vận tải chiếm tỷ lệ khoảng bao nhiêu trong tổng chi phí hậu cần",
+    "answer": "Chiếm tỷ lệ khoảng 1/3 đến 2/3"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Mối quan hệ giữa chi phí vận chuyển và chi phí dự trữ với đặc điểm “tỷ lệ giữa khối lượng và thể tích” của sản phẩm là:",
+    "answer": "Tỷ lệ nghịch với cả chi phí dự trữ và chi phí vận chuyển"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Hoạt động nào là hoạt động trong quá trình chuẩn bị đơn hàng",
+    "answer": "Điền vào một mẫu đơn đặt hàng"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí thu mua",
+    "answer": "Chi phí xử lý đơn đặt hàng thông qua các bộ phận cung ứng và kế toán"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Trong các hoạt động sau, đâu là hoạt động hậu cần chủ yếu",
+    "answer": "Xử lý đơn hàng"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Quá trình xử lý đơn hàng bao gồm những hoạt động",
+    "answer": "Chuẩn bị đơn hàng, truyền tin, tiếp nhận đơn hàng, đáp ứng đơn hàng, và thông báo tình trạng đơn hang"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Quản trị hậu cần có các hoạt động giao thoa với chức năng quản trị nào sau đây:",
+    "answer": "Quản trị sản xuất, quản trị marketing"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "“Đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Chi phí đặt hàng chậm do hết dự trữ thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí hết hàng dự trữ"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Công thức tính chi phí vận chuyển trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "R*D"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Chi phí thuê nhà kho thuộc loại chi phí dự trữ nào",
+    "answer": "Chi phí lưu kho"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Các nhân tố tạo nên hệ thống thông tin hậu cần là:",
+    "answer": "Đầu vào, quản trị cơ sở dữ liệu và các kỹ thuật xử lý có liên quan, đầu ra"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Hoạt động nào là hoạt động trong quá trình chuẩn bị đơn hàng",
+    "answer": "Điền vào một mẫu đơn đặt hàng"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Những yếu tố trước giao dịch của dịch vụ khách hàng là:",
+    "answer": "Cung cấp các hướng dẫn kỹ thuật, cung cấp một bản tuyên bố về chính sách dịch vụ khách hang"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Các nhân tố tạo nên hệ thống thông tin hậu cần là:",
+    "answer": "Đầu vào, quản trị cơ sở dữ liệu và các kỹ thuật xử lý có liên quan, đầu ra"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Hoạt động nào là hoạt động trong quá trình chuẩn bị đơn hàng",
+    "answer": "Liên hệ về thông tin đơn hàng với khách hàng"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Hoạt động tập hợp hàng trong kho theo hóa đơn nằm trong giai đoạn nào của thời gian chu kỳ đặt hàng",
+    "answer": "Xử lý đơn hàng và xuất hàng"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Hoạt động nào thuộc hoạt động “thông báo tình trạng đơn hàng” trong quy trình xử lý đơn hàng",
+    "answer": "Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "“Đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Hoạt động “liên hệ thông tin đơn hàng qua điện thoại với khách hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Chuẩn bị đơn hàng"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "“Kiểm tra tính chính xác của thông tin về đơn hàng như là đặc điểm và ký hiệu sản phẩm” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Trong quyết định lựa chọn phương thức vận tải, hệ số T là:",
+    "answer": "Không có đáp án nào"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Trong các quyết định sau, đâu không phải là quyết định của hoạt động vận chuyển:",
+    "answer": "Bố trí sản phẩm tại các điểm dự trữ."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Hoạt động “đóng gói sản phẩm để vận chuyển” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Đáp ứng đơn hàng"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Phần hữu hình của sản phầm không bao gồm đặc điểm sau",
+    "answer": "Danh tiếng của doanh nghiệp"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Khi nâng cao mức dịch vụ khách hàng, chi phí hậu cần có xu hướng:",
+    "answer": "Tăng theo tỷ lệ nhanh dần"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Đâu không phải là hoạt động hậu cần chủ yếu",
+    "answer": "Bao gói"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Yếu tố sau giao dịch của dịch vụ khách hàng là:",
+    "answer": "Hoạt động thanh toán"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Quá trình xử lý đơn hàng bao gồm những hoạt động",
+    "answer": "Chuẩn bị đơn hàng, truyền tin, tiếp nhận đơn hàng, đáp ứng đơn hàng, và thông báo tình trạng đơn hang"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí lưu kho",
+    "answer": "Chi phí địa điểm dự trữ"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Công thức tính chi phí Dự trữ tại nhà máy trong bài toán lựa chọn phương thức vận tải là",
+    "answer": "I*C*Q/2"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Trong các chi phí liên quan đến dự trữ sau, đâu là chi phí hết hàng dự trữ",
+    "answer": "Chi phí giảm doanh thu do hết hàng dự trữ"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Qua thực tế cho thấy chi phí vận tải chiếm tỷ lệ khoảng bao nhiêu trong tổng chi phí hậu cần",
+    "answer": "Chiếm tỷ lệ khoảng 1/3 đến 2/3"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "“Liên hệ với khách hàng về tiến độ thực hiện và thời điểm giao hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Thông báo tình trạng đơn hàng"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Các hoạt động hậu cần hỗ trợ bao gồm",
+    "answer": "Chọn nhà cung ứng, thiết kế bao gói"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Hoạt động “liên hệ thông tin đơn hàng qua điện thoại với khách hàng” là hoạt động trong quá trình nào của quá trình xử lý đơn hàng",
+    "answer": "Chuẩn bị đơn hàng"
+  }
+]

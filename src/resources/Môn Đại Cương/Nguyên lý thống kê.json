@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Chỉ số tổng hợp về lượng của Paasche là chỉ số bình quân cộng điều hoà gia quyền của các chỉ số đơn về lượng với quyền số là:",
+    "answer": "doanh thu bán hàng kỳ nghiên cứu."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Chỉ số tổng hợp về lượng của Fisher là:",
+    "answer": "bình quân nhân giản đơn của chỉ số tổng hợp về lượng của Laspeyres và chỉ số tổng hợp về lượng của Paasche."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Chỉ số đơn về giá của từng mặt hàng:",
+    "answer": "Phản ánh sự biến động về giá của từng hàng hoá nghiên cứu."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Khi phân tích biến động tổng chi phí sản xuất toàn xí nghiệp do ảnh hưởng của giá thành và sản lượng sản xuất của từng phân xưởng, hệ thống chỉ số cần xây dựng là",
+    "answer": "hệ thống chỉ số tổng hợp."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Quyền số của chỉ số tổng hợp về giá của Laspeyres không phải là:",
+    "answer": "giá bán hàng hoá kỳ gốc."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Quyền số khi tính chỉ số tổng hợp về lượng hàng hoá tiêu thụ giữa hai thị trường A và B có thể là:",
+    "answer": "giá bình quân của từng mặt hàng tính chung cho hai thị trường."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Khi tính chỉ số phản ánh biến động về giá bán các mặt hàng giữa hai thị trường A và B, quyền số được sử dụng là:",
+    "answer": "tổng lượng hàng hoá tiêu thụ ở cả hai thị trường của từng mặt hàng."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Khi phân tích biến động giá thành bình quân chung toàn xí nghiệp do ảnh hưởng bởi các nhân tố cấu thành, hệ thống chỉ số cần xây dựng là:",
+    "answer": "hệ thống chỉ số của chỉ tiêu bình quân."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Số tương đối nào dưới đây không phải là chỉ số?",
+    "answer": "Số tương đối cường độ."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Khi phân tích biến động tổng chi phí sản xuất toàn xí nghiệp do ảnh hưởng của giá thành bình quân chung và tổng sản lượng sản xuất của các phân xưởng, hệ thống chỉ số cần xây dựng là:",
+    "answer": "hệ thống chỉ số của tổng lượng biến tiêu thức."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Nhận định nào sau đây đúng?",
+    "answer": "Chỉ số là số tương đối."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Nhận định: do sự biến động của giá thành từng phân xưởng làm cho giá thành bình quân chung toàn doanh nghiệp kỳ nghiên cứu so với kỳ gốc tăng 2 triệu đồng, điều đó có nghĩa là: ",
+    "answer": "Pa: B"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Chỉ số cấu thành cố định phản ánh biến động của:",
+    "answer": "bản thân lượng biến tiêu thức đang nghiên cứu."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Nhận định: do sự biến động của kết cấu số lượng sản phẩm sản xuất của từng phân xưởng làm cho giá thành bình quân chung toàn doanh nghiệp kỳ nghiên cứu so với kỳ gốc tăng 2 triệu đồng, điều đó có nghĩa là: ",
+    "answer": "Pa: C"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Nhận định: do sự biến động của tổng sản lượng sản xuất các phân xưởng làm cho tổng chi phí sản xuất của doanh nghiệp kỳ nghiên cứu so với kỳ gốc giảm 500 triệu đồng, điều đó có nghĩa là:",
+    "answer": "Pa: B"
+  },
+  {
+    "id": 16,
+    "premium": true,
+    "question": "Quyền số của chỉ số tổng hợp về lượng của Laspeyres không phải là:",
+    "answer": "lượng hàng hoá tiêu thụ kỳ gốc."
+  },
+  {
+    "id": 17,
+    "premium": true,
+    "question": "Ý nào không đúng khi xây dựng hệ thống chỉ số tổng hợp?",
+    "answer": "Chỉ số toàn bộ bằng tổng của các chỉ số nhân tố."
+  },
+  {
+    "id": 18,
+    "premium": true,
+    "question": "Quyền số của chỉ số tổng hợp về giá của Laspeyres có thể là:",
+    "answer": "lượng hàng tiêu thụ kỳ gốc."
+  },
+  {
+    "id": 19,
+    "premium": true,
+    "question": "Chỉ số tổng hợp về giá của Fisher thực chất là:",
+    "answer": "bình quân nhân giản đơn của của chỉ số tổng hợp về giá của Laspeyres và chỉ số tổng hợp về giá của Paasche."
+  },
+  {
+    "id": 20,
+    "premium": true,
+    "question": "Chỉ số tổng hợp nêu lên sự biến động về lượng qua thời gian thực chất là",
+    "answer": "bình quân cộng gia quyền của các chỉ số đơn về lượng."
+  },
+  {
+    "id": 21,
+    "premium": true,
+    "question": "Quyền số của chỉ số tổng hợp về giá của Paasche có thể là:",
+    "answer": "lượng hàng tiêu thụ kỳ nghiên cứu."
+  },
+  {
+    "id": 22,
+    "premium": true,
+    "question": "Chỉ số tổng hợp về lượng của Laspeyres là chỉ số bình quân cộng gia quyền của các chỉ số đơn về lượng với quyền số là:",
+    "answer": "doanh thu bán hàng kỳ gốc."
+  },
+  {
+    "id": 23,
+    "premium": true,
+    "question": "Chỉ số cấu thành khả biến phản ánh biến động của:",
+    "answer": "chỉ tiêu bình quân."
+  },
+  {
+    "id": 24,
+    "premium": true,
+    "question": "Nhận định: tổng sản lượng sản xuất của toàn doanh nghiệp kỳ nghiên cứu tăng 25% so với kỳ gốc, điều đó có nghĩa là:",
+    "answer": "Pa: C"
+  },
+  {
+    "id": 25,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng?",
+    "answer": "Phương pháp chỉ số chỉ có tính tổng hợp, không mang tính phân tích."
+  },
+  {
+    "id": 26,
+    "premium": true,
+    "question": "Khi tính chỉ số tổng hợp bao gồm nhiều nhân tố cùng tham gia tính toán thì:",
+    "answer": "chỉ có một nhân tố nghiên cứu thay đổi, các nhân tố còn lại cố định."
+  },
+  {
+    "id": 27,
+    "premium": true,
+    "question": "Nhận định: do sự biến động của sản lượng sản xuất từng phân xưởng làm cho tổng chi phí sản xuất của doanh nghiệp kỳ nghiên cứu so với kỳ gốc giảm 800 triệu đồng, điều đó có nghĩa là: ",
+    "answer": "Pa: D"
+  },
+  {
+    "id": 28,
+    "premium": true,
+    "question": "Chỉ số tổng hợp về giá của Laspeyres là chỉ số bình quân cộng gia quyền của các chỉ số đơn về giá với quyền số là:",
+    "answer": "doanh thu bán hàng kỳ gốc."
+  },
+  {
+    "id": 29,
+    "premium": true,
+    "question": "Chỉ số ảnh hưởng kết cấu phản ánh biến động của:",
+    "answer": "kết cấu tổng thể theo tiêu thức đang nghiên cứu."
+  },
+  {
+    "id": 30,
+    "premium": true,
+    "question": "Để phân tích biến động của tổng chi phí sản xuất của một doanh nghiệp không thể sử dụng hệ thống chỉ số:",
+    "answer": "của chỉ tiêu bình quân."
+  }
+]

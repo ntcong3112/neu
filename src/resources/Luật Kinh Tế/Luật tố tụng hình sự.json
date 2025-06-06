@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Người nào sau đây không có quyền quyết định tạm hoãn xuất cảnh?",
+    "answer": "Chánh tòa hình sự Tòa án cấp tỉnh;"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Thẩm phán;"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Hỏi cung được áp dụng đối với đối tượng nào sau đây?",
+    "answer": "Bị can;"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Kể từ ngày nhận được hồ sơ vụ án Tòa án tỉnh phải mở phiên tòa phúc thẩm trong thời hạn là?",
+    "answer": "60 ngày;"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng về Biện pháp ngăn chặn?",
+    "answer": "Là biện pháp điều tra;"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Thời hạn tạm giam tối đa để điều tra vụ án (tính cả ra hạn) đối với tội ít nghiêm là?",
+    "answer": "3 tháng;"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Thời hạn điều tra vụ án đối với tội đặc biệt nghiêm trọng là?",
+    "answer": "4 tháng;"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Quyền hạn của Hội đồng xét xử phúc thẩm không bao gồm những quyền nào sau đây?",
+    "answer": "Hủy bản án sơ thẩm và trực tiếp điều tra lại vụ án."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": ". Người nào sau đây có quyền ra quyết định thi hành án hình sự?",
+    "answer": "Chánh án tòa án đẫ xét xử sơ thẩm."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Trừ những vụ án liên quan đến bí mật quân sự, không xảy ra trong đơn vị quân đội thì vụ án nào sau đây thuộc thẩm quyền xét xử của Tòa án quân sự?",
+    "answer": "Người dân cố ý gây thương tích cho quân nhân."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Quá trình chúng minh không gồm những giai đoạn nào sau đây?",
+    "answer": "Đấu giá chứng cứ;"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về khám người?",
+    "answer": "Việc khám người không nhất thiết phải có người cùng giới chứng kiến."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Thời hạn tạm giam để điều tra vụ án đối với tội ít nghiêm trọng là?",
+    "answer": "2 tháng;"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Người được bảo linh không phải cam đoan những gì sau đây?",
+    "answer": "Không được bầu Cơ quan quyền lực."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Thư ký Tòa án;"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Hội thẩm nhân dân."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây là người tham gia tố tụng hình sự?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Người có độ tuổi tối thiểu nào sau đây được bảo lĩnh?",
+    "answer": "18."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Thời hạn điều tra vụ án được tính từ ngày nào sau đây?",
+    "answer": "Ngày có quyết định khởi tố vụ án;"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để Viện kiểm sát trả hồ sơ để điều tra bổ sung?",
+    "answer": "Bị hại rút đơn yêu cầu khởi tố vụ án, đối với vụ án chỉ được khởi tố khi có yêu cầu của người bị hại;"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Người nào sau đây không có quyền quyết định tạm hoãn xuất cảnh?",
+    "answer": "Chánh tòa hình sự Tòa án cấp tỉnh;"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Luật tố tụng hình sự có các nhiệm vụ gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Kiểm sát viên;"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng về biện pháp tạm giam?",
+    "answer": "Tất cả bị can đều bị áp dụng tạm giam."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Biện pháp bắt người không được áp dụng đối với đối tương nào sau đây?",
+    "answer": "Người làm chứng."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây là người tiến hành tố tụng hình sự?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Thời hạn tối đa để điều tra vụ án (tính cả ra hạn) đối với tội rất nghiêm trọng là?",
+    "answer": "12 tháng;"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Việc đặt tiền không phải để bảo đảm thực hiện những nghĩa vụ nào sau đây?",
+    "answer": "Không được bầu Cơ quan quyền lực."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015, cơ quan nào dưới đây không phải là cơ quan tiến hành tố tụng hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Người nào sau đây có quyền ra quyết định bảo lĩnh?",
+    "answer": "Thẩm phán chủ tọa phiên tòa."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không thuộc đối tượng chứng minh trong vụ án hình sự?",
+    "answer": "Bị can đẹp hay xấu;"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Biện pháp bắt người không được áp dụng đối với đối tương nào sau đây?",
+    "answer": "Bố của người 13 tuổi phạm tội quả tang;"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng về Luật tố tụng hình sự?",
+    "answer": "là một chế định pháp luật trong hệ thống pháp luật của Việt Nam"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Việc đặt tiền để bảo đảm thực hiện những nghĩa vụ nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Hội thẩm nhân dân;"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không bị áp dụng biện pháp áp giải?",
+    "answer": "Người làm chứng."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về hỏi cung?",
+    "answer": "Do cán bộ của Cơ quan điều tra tiến hành;"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về khám chỗ ở?",
+    "answer": "Không được khám vào ban ngày,"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Nghĩa vụ chứng minh tội phạm trong tố tụng hình sự thuộc đối tượng nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Chứng cứ phải có các thuộc tính nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Bản án hình sự nào sau đây không được đưa ra thi hành?",
+    "answer": "Bản án sơ thẩm bị kháng cáo."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Khi thực hiện quyền công tố trong giai đoạn khởi tố vụ án hình sự, Viện kiểm sát có quyền gì sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015, cơ quan nào dưới đây không phải là cơ quan tiến hành tố tụng hình sự?",
+    "answer": "Cơ quan thi hành án hình sự Công an tỉnh NB."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Trình khởi tố vụ án hình sự không bao gồm những bước nào sau đây?",
+    "answer": "Họp 3 ngành Công an, Viện kiểm sát và Tòa án để thống nhất;"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Thời hạn tạm giam để điều tra vụ án đối với tội rất nghiêm trọng là?",
+    "answer": "4 tháng;"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về hỏi cung?",
+    "answer": "Bị can chỉ phải ký vào trang cuối cùng của biên bản hỏi cung."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Nhận định nào sau đây đúng với Luật tố tụng hình sự ?",
+    "answer": "là một ngành luật trong hệ thống pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Người nào sau đây có quyền ra quyết định thi hành án hình sự?",
+    "answer": "Chánh án tòa án đẫ xét xử sơ thẩm."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Phương pháp điều chỉnh của ngành luật tố tụng hình sự là gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Tòa án cấp tỉnh đã xét xử sơ thẩm thì Tòa án cấp nào có quyền quyền xét xử theo thủ tục phúc thẩm?",
+    "answer": "Tòa án cấp cao;"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Việc khám nghiệm tử thi do người nào sau đây tiến hành?",
+    "answer": "Điều tra viên;"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để áp dụng biện pháp ngăn chặn?",
+    "answer": "Để kịp thời giáo dục người phạm tội;"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về nhận dạng?",
+    "answer": "Số lượng đối tượng ít nhất phải là 2 (Trừ nhận dạng tử thi);"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Nhiệm vụ của giai đoạn điều tra vụ án hình sự bao gồm nhiệm vụ nào sau đây?",
+    "answer": "Cả a, b đúng;"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": ". Luật tố tụng hình sự có những nguyên tắc nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Người nào sau đây có quyền quyết định áp giải?",
+    "answer": "Thẩm phán chủ tọa phiên tòa;"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Người nào sau đây có quyền yêu cầu khởi tố vụ án hình sự và cơ quan có thẩm quyền khởi tố chỉ được khởi tố nếu có yêu cầu của người đó?",
+    "answer": "Bị hại;"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Cơ quan nào sau đây có thẩm quyền khởi tố vụ án hình sự?",
+    "answer": "Cả a, b đúng."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Đối tượng điều chỉnh của ngành luật tố tụng hình sự gồm quan hệ nào sau đây?",
+    "answer": "Quan hệ giữa người bào chữa với Tòa án."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 cơ quan nào dưới đây không phải là cơ quan tiến hành tố tụng hình sự?",
+    "answer": "Trại giam."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Biện pháp bắt người không được áp dụng đối với đối tương nào sau đây?",
+    "answer": "Bố của người 13 tuổi phạm tội quả tang."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Quyền hạn của Hội đồng xét xử phúc thẩm không bao gồm những quyền nào sau đây?",
+    "answer": "Hủy bản án sơ thẩm và khởi tố bị cáo về tội khác."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Hoạt động thực nghiệm điều tra do người nào sau đây tiến hành?",
+    "answer": "Điều tra viên;"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Cơ quan điều tra trong quân đội có thẩm quyền điều tra những vụ án hình sự nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Nhiệm vụ của giai đoạn điều tra vụ án hình sự bao gồm nhiệm vụ nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Hoạt động thực nghiệm điều tra do người nào sau đây tiến hành?",
+    "answer": "Điều tra viên;"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Đối tượng nào sau đây cần chứng minh trong vụ án hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Trình tự xét xử sơ thẩm không bao gồm thủ tục nào sau đây?",
+    "answer": "Nhận đơn kháng cáo."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": ". Luật tố tụng hình sự có những nguyên tắc nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Kể từ ngày nhận được hồ sơ vụ án Tòa án tỉnh phải mở phiên tòa phúc thẩm trong thời hạn là?",
+    "answer": "60 ngày;"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 cơ quan nào dưới đây không phải là cơ quan tiến hành tố tụng hình sự?",
+    "answer": "Cơ quan thi hành án hình sự."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Chứng cứ phải được thu thập từ những phương tiện chứng minh nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không bị áp dụng biện pháp dẫn giải?",
+    "answer": "Bị can, bị cáo;"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Người nào sau đây không có quyền kháng cáo bản án sơ thẩm?",
+    "answer": "Kiểm sát viên."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Thời hạn điều tra vụ án đối với tội rất nghiêm trọng là?",
+    "answer": "4 tháng."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Người nào sau đây có quyền kháng nghị theo thủ tục phúc thẩm?",
+    "answer": "Viện trưởng Viện kiểm sát cùng cấp với Tòa án đã xét xử sơ thẩm;"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Việc khám nghiệm tử thi do người nào sau đây tiến hành?",
+    "answer": "Điều tra viên;"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Thời hạn điều tra vụ án được tính từ ngày nào sau đây?",
+    "answer": "Ngày có quyết định khởi tố vụ án;"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để áp dụng biện pháp ngăn chặn?",
+    "answer": "Để đáp ứng yêu cầu của người bị hại;"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Người nào sau đây có quyền quyết định áp giải?",
+    "answer": "Cả a, b đúng;"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Quyền hạn của Hội đồng xét xử phúc thẩm không bao gồm những quyền nào sau đây?",
+    "answer": "Xét xử sơ thẩm lại."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Nhận định nào sau đây đúng với Luật tố tụng hình sự ?",
+    "answer": "là một ngành luật trong hệ thống pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Trình khởi tố vụ án hình sự không bao gồm những bước nào sau đây?",
+    "answer": "Xin ý kiến của Viện kiểm sát có quyền phê chuẩn;"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Hội thẩm nhân dân."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Thời hạn tối đa để điều tra vụ án (tính cả ra hạn) đối với tội ít nghiêm trọng là?",
+    "answer": "4 tháng;"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Người có độ tuổi tối thiểu nào sau đây được bảo lĩnh?",
+    "answer": "18."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Bản án hình sự nào sau đây không được đưa ra thi hành?",
+    "answer": "Bản án sơ thẩm bị kháng cáo."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Thẩm phán;"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015, cơ quan nào dưới đây không phải là cơ quan tiến hành tố tụng hình sự?",
+    "answer": "Cơ quan thi hành án hình sự Công an tỉnh NB."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Cơ quan nào sau đây không có thẩm quyền khởi tố vụ án hình sự?",
+    "answer": "Thanh tra xây dựng."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": ". Người nào sau đây có quyền ra quyết định thi hành án hình sự?",
+    "answer": "Chánh án tòa án đẫ xét xử sơ thẩm."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về hỏi cung?",
+    "answer": "Do cán bộ của Cơ quan điều tra tiến hành;"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Nguồn của Luật tố tụng hình sự là những văn bản nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về khám người?",
+    "answer": "Việc khám người không nhất thiết phải có người cùng giới chứng kiến."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Đối tượng nào sau đây bị áp dụng biện pháp bảo lĩnh?",
+    "answer": "Bị can;"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Đối tượng nào sau đây được bảo lĩnh?",
+    "answer": "Vợ của bị can đang là Thẩm phán."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Người nào sau đây có quyền quyết định tạm hoãn xuất cảnh?",
+    "answer": "Thủ trưởng Cơ quan điều tra;"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Chứng cứ phải được thu thập từ những phương tiện chứng minh nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Đối tượng điều chỉnh của ngành luật tố tụng hình sự là gi?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Trình khởi tố vụ án hình sự không bao gồm những bước nào sau đây?",
+    "answer": "Triệu tập và hỏi cung bị can;"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Luật hình sự có những nguyên tắc nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Quyền hạn của Hội đồng xét xử phúc thẩm không bao gồm những quyền nào sau đây?",
+    "answer": "Hủy bản án sơ thẩm và khởi tố bị cáo về tội khác."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không bị áp dụng biện pháp dẫn giải?",
+    "answer": "Bị can, bị cáo;"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Nghĩa vụ chứng minh tội phạm trong tố tụng hình sự thuộc đối tượng nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về khám người?",
+    "answer": "Nếu không có người cùng giới thì khác giới khám cũng được;"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Việc đặt tiền để bảo đảm thực hiện những nghĩa vụ nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Người nào sau đây có quyền quyết định tạm hoãn xuất cảnh?",
+    "answer": "Phó thủ trưởng Cơ quan điều tra;"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Đối tượng nào sau đây không thuộc đối tượng chứng minh trong vụ án hình sự?",
+    "answer": "Bị can đẹp hay xấu;"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Thời hạn tối đa để điều tra vụ án (tính cả ra hạn) đối với tội nghiêm trọng là?",
+    "answer": "8 tháng."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây là người tiến hành tố tụng hình sự?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Hội thẩm nhân dân;"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Cơ quan nào sau đây có thẩm quyền khởi tố vụ án hình sự?",
+    "answer": "Cả a, b đúng."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tiến hành tố tụng hình sự?",
+    "answer": "Thủ trưởng Cơ quan thi hành án hình sự."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Biện pháp bắt người không được áp dụng đối với đối tương nào sau đây?",
+    "answer": "Bố của người 13 tuổi phạm tội quả tang."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng về Luật tố tụng hình sự?",
+    "answer": "xác định những hành vi nguy hiểm nào cho xã hội là tội phạm, đồng thời quy định hình phạt đối với những tội phạm ấy;"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Người nào sau đây không được bảo lĩnh?",
+    "answer": "Bạn gái của bị can đang là Điều tra viên"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Người nào sau đây có quyền ra quyết định thi hành án hình sự?",
+    "answer": "Chánh án tòa án đẫ xét xử sơ thẩm."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng về biện pháp tạm giam?",
+    "answer": "Người bị áp dụng phải cách ly xã hội tại trại giam;"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Nghĩa vụ chứng minh tội phạm trong tố tụng hình sự không thuộc đối tượng nào sau đây?",
+    "answer": "Cơ quan thi hành án hình sự."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng về Biện pháp ngăn chặn?",
+    "answer": "Là biện pháp điều tra;"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015, cơ quan nào dưới đây không phải là cơ quan tiến hành tố tụng hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Biện pháp bắt người không được áp dụng đối với đối tương nào sau đây?",
+    "answer": "Người làm chứng."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Thư ký phiên tòa;"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Từ khi thành lập nước Cộng hòa XHCN Việt Nam đến nay Nhà nước đã ban hành được mấy Bộ luật tố tụng hình sự (không kể sửa đổi, bổ sung)?",
+    "answer": "3"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Thời hạn tạm giam tối đa để điều tra vụ án (tính cả ra hạn) đối với tội đặc biệt nghiêm là?",
+    "answer": "12 tháng;"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Luật hình sự có những nguyên tắc nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Cơ quan nào sau đây có quyền truy tố bị can?",
+    "answer": "Viện kiểm sát;"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Tội phạm nào sau đây không thuộc thẩm quyền của Tòa án cấp huyện?",
+    "answer": "Tội giết người."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Người nào sau đây có quyền ra quyết định bảo lĩnh?",
+    "answer": "Thẩm phán chủ tọa phiên tòa."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về xem xét dấu vết trên thân thể?",
+    "answer": "Người bi xem xét là người đã chết hoặc còn sống;"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Cơ quan điều tra của Viện kiểm sát nhân dân tối cao không có thẩm quyền điều tra những vụ án hình sự nào sau đây?",
+    "answer": "Cả a, b đúng"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về hỏi cung?",
+    "answer": "Hỏi cung được tiến hành từ trước khi khởi tố bị can."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Thời hạn tạm giam tối đa để điều tra vụ án (tính cả ra hạn) đối với tội rất nghiêm là?",
+    "answer": "7 tháng;"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây là người tham gia tố tụng hình sự?",
+    "answer": "Người bào chữa;"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Chứng cứ không có các thuộc tính nào sau đây?",
+    "answer": "Tính khẳng định"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Thời hạn điều tra vụ án đối với tội ít nghiêm trọng là?",
+    "answer": "2 tháng;"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để áp dụng biện pháp ngăn chặn?",
+    "answer": "Để kịp thời bảo vệ người bị hại;"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về nhận dạng?",
+    "answer": "Số lượng đối tượng ít nhất phải là 2 (Trừ nhận dạng tử thi);"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Biện pháp kê biên không nhằm bảo đảm thi hành những gì sau đây?",
+    "answer": "Hình phạt cấm hành nghề."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Thời hạn tạm giam để điều tra vụ án đối với tội rất nghiêm trọng là?",
+    "answer": "4 tháng;"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Kiểm sát viên;"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Người nào sau đây không có quyền quyết định áp giải?",
+    "answer": "Trưởng công an phường."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về khám chỗ ở?",
+    "answer": "Để đảm bảo hiệu quả có thể tiến hành khám trước khi có lệnh khám;"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Việc khám nghiệm tử thi do người nào sau đây tiến hành?",
+    "answer": "Điều tra viên;"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng quy định về xem xét dấu vết trên thân thể?",
+    "answer": "Do người cùng giới hoặc khác giới tiến hành;"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để Viện kiểm sát trả hồ sơ để điều tra bổ sung?",
+    "answer": "Bị can đã chết;"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Những trương hợp nào sau đây không được hoãn chấp hành hình phạt tù?",
+    "answer": "Người bị kết án đang bị nghiện ma túy."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng về Biện pháp ngăn chặn?",
+    "answer": "Biện pháp cưỡng chế hình sự;"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Biện pháp kê biên nhằm bảo đảm thi hành những gì sau đây?",
+    "answer": "Cả a, b đúng;"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Người nào sau đây có quyền ra lệnh cấm đi khỏi nơi cư trú?",
+    "answer": "Thẩm phán chủ tọa phiên tòa."
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Thời hạn điều tra vụ án được tính từ ngày nào sau đây?",
+    "answer": "Ngày có quyết định khởi tố vụ án;"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Người nào sau đây có quyền ra quyết định bảo lĩnh?",
+    "answer": "Thẩm phán chủ tọa phiên tòa."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Nguồn của Luật tố tụng hình sự là những văn bản nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Luật hình sự có những nguyên tắc nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 cơ quan nào dưới đây không phải là cơ quan tiến hành tố tụng hình sự?",
+    "answer": "Cơ quan thi hành án hình sự."
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không bị áp dụng biện pháp dẫn giải?",
+    "answer": "Bị can, bị cáo;"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để áp dụng biện pháp ngăn chặn?",
+    "answer": "Để đáp ứng yêu cầu của người bị hại;"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Đối tượng nào sau đây được bảo lĩnh?",
+    "answer": "Vợ của bị can đang là Thẩm phán."
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng về Biện pháp ngăn chặn?",
+    "answer": "Biện pháp cưỡng chế hình sự;"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Biện pháp kê biên nhằm bảo đảm thi hành những gì sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Bản án hình sự nào sau đây được đưa ra thi hành?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Cá nhân nhận bảo lĩnh cho bị can, bị cáo phải có ít nhất mấy người?",
+    "answer": "2;"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng quy định về khám chỗ ở?",
+    "answer": "Để đảm bảo hiệu quả có thể tiến hành khám trước khi có lệnh khám;"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Người nào sau đây có quyền ra lệnh cấm đi khỏi nơi cư trú?",
+    "answer": "Thẩm phán chủ tọa phiên tòa."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Hoạt động thực nghiệm điều tra do người nào sau đây tiến hành?",
+    "answer": "Điều tra viên;"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Quá trình chúng minh không gồm những giai đoạn nào sau đây?",
+    "answer": "Cả b, c đúng."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Đối tượng nào sau đây bị áp dụng biện pháp bảo lĩnh?",
+    "answer": "Bị can;"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Đối tượng nào sau đây bị áp dụng biện pháp áp giải?",
+    "answer": "Bị can;"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Việc khám nghiệm tử thi do người nào sau đây tiến hành?",
+    "answer": "Điều tra viên;"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tiến hành tố tụng hình sự?",
+    "answer": "Thủ trưởng Cơ quan thi hành án hình sự."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Những trương hợp nào sau đây không được hoãn chấp hành hình phạt tù?",
+    "answer": "Người bị kết án đang bị nghiện ma túy."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Quyền hạn của Hội đồng xét xử phúc thẩm không bao gồm những quyền nào sau đây?",
+    "answer": "Xét xử sơ thẩm lại."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Người nào sau đây có quyền quyết định tạm hoãn xuất cảnh?",
+    "answer": "Thủ trưởng Cơ quan điều tra;"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Biện pháp kê biên nhằm bảo đảm thi hành những gì sau đây?",
+    "answer": "Cả a, b đúng;"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Quá trình chúng minh gồm những giai đoạn nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tiến hành tố tụng hình sự?",
+    "answer": "Người bào chữa"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Người nào sau đây không có quyền quyết định kê biên tài sản?",
+    "answer": "Chánh tòa hình sự Tòa án cấp tỉnh;"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Cơ quan điều tra của Viện kiểm sát nhân dân tối cao không có thẩm quyền điều tra những vụ án hình sự nào sau đây?",
+    "answer": "Cả a, b đúng"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Nhiệm vụ của giai đoạn điều tra vụ án hình sự không bao gồm nhiệm vụ nào sau đây?",
+    "answer": "Xác định trai giam để người phạm tội chấp hành."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng quy định về nhận dạng?",
+    "answer": "Nếu có nhiều người nhận dạng phải cho họ bàn bạc với nhau trước;"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Người nào sau đây có quyền kháng nghị theo thủ tục phúc thẩm?",
+    "answer": "Viện trưởng Viện kiểm sát cùng cấp với Tòa án đã xét xử sơ thẩm;"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây là người tham gia tố tụng hình sự?",
+    "answer": "Bị can;"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Biện pháp ngăn chặn là?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng với thủ tục phúc thẩm?",
+    "answer": "Mọi vụ án đều phải được xét xử lại theo thủ tục phúc thẩm;"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Chứng cứ không có các thuộc tính nào sau đây?",
+    "answer": "Tính khẳng định"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Thời hạn tạm giam tối đa để điều tra vụ án (tính cả ra hạn) đối với tội nghiêm là?",
+    "answer": "5 tháng;"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không bị áp dụng biện pháp dẫn giải?",
+    "answer": "Bị can, bị cáo;"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng về biện pháp tạm giam?",
+    "answer": "Có thể áp dụng đối với cả người phạm tội quả tang;"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Quá trình chúng minh không gồm những giai đoạn nào sau đây?",
+    "answer": "Phân loại chứng cứ;"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Cơ quan điều tra trong quân đội có thẩm quyền điều tra những vụ án hình sự nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Cơ quan nào sau đây không có thẩm quyền khởi tố vụ án hình sự?",
+    "answer": "Thanh tra xây dựng."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng quy định về khám chỗ ở?",
+    "answer": "Trong khi khám những người là khách có thể tự rời đi nơi khác;"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Biện pháp tạm giam được áp dụng đối với người phạm tội thuộc loại tội nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Thời hạn tạm giam để điều tra vụ án đối với tội nghiêm trọng là?",
+    "answer": "3 tháng;"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để áp dụng biện pháp ngăn chặn?",
+    "answer": "Để kịp thời khởi tố vụ án;"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Người nào sau đây có quyền kháng nghị theo thủ tục phúc thẩm?",
+    "answer": "Viện trưởng Viện kiểm sát cùng cấp với Tòa án đã xét xử sơ thẩm;"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Đối tượng nào sau đây cần chứng minh trong vụ án hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng quy định về hỏi cung?",
+    "answer": "Điều tra viên có thể tự mình thêm, bớt hoặc sửa lời khai của bị can."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây là người tham gia tố tụng hình sự?",
+    "answer": "Người bào chữa;"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Nguồn của Luật tố tụng hình sự là những văn bản nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Kiểm sát viên;"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Người nào sau đây có quyền ra quyết định thi hành án hình sự?",
+    "answer": "Chánh án tòa án đẫ xét xử sơ thẩm."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Đối tượng điều chỉnh của ngành luật tố tụng hình sự là gi?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không bị áp dụng biện pháp dẫn giải?",
+    "answer": "Bị can, bị cáo;"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Hội thẩm nhân dân;"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Cơ quan nào sau đây không có thẩm quyền khởi tố vụ án hình sự?",
+    "answer": "Công an phường."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Người nào sau đây có quyền quyết định tạm hoãn xuất cảnh?",
+    "answer": "Thẩm phán chủ tọa phiên tòa;"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng với thủ tục phúc thẩm?",
+    "answer": "Chỉ những bản án sơ thẩm xét xử sai mới xét xử lại theo thủ tục phúc thẩm;"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Từ khi thành lập nước Cộng hòa XHCN Việt Nam đến nay Nhà nước đã ban hành được mấy Bộ luật tố tụng hình sự (không kể sửa đổi, bổ sung)?",
+    "answer": "3"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Nhận định nào sau đây đúng quy định về giới hạn xét xử của Hội đồng xét xử sơ thẩm?",
+    "answer": "Chỉ xét xử những bị cáo và những hành vi đã bị Viện kiểm sát truy tố;"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Hội thẩm nhân dân;"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Nếu vụ án được khởi tố theo yêu cầu của người bị hại mà người bị hại lại tự nguyện rút đơn yêu cầu trong giai đoạn điều tra thì vụ án sẽ được giải quyết như thế nào?",
+    "answer": "Đình chỉ điều tra;"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng quy định về khám người?",
+    "answer": "Nếu không có người cùng giới thì khác giới khám cũng được;"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Thời hạn tối đa để điều tra vụ án (tính cả ra hạn) đối với tội ít nghiêm trọng là?",
+    "answer": "4 tháng;"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Nghĩa vụ chứng minh tội phạm trong tố tụng hình sự không thuộc đối tượng nào sau đây?",
+    "answer": "Bị cáo"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Thư ký phiên tòa;"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Phương pháp điều chỉnh nào sau đây không phải của ngành luật tố tụng hình sự ?",
+    "answer": "Phương pháp thỏa thuận"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng quy định về xem xét dấu vết trên thân thể?",
+    "answer": "Người bi xem xét là người đã chết hoặc còn sống;"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": ". Những trương hợp nào sau đây được hoãn chấp hành hình phạt tù?",
+    "answer": "Cả a, b, c đều đúng"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Biện pháp bắt người được áp dụng đối với đối tương nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Chứng cứ phải được thu thập từ những phương tiện chứng minh nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015, chứng cứ là?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Người nào sau đây có quyền quyết định áp giải?",
+    "answer": "Cả a, b đúng;"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": ". Những trương hợp nào sau đây không được hoãn chấp hành hình phạt tù?",
+    "answer": "Vợ của người bị kết án vừa mới sinh con."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Người nào sau đây có quyền ra quyết định thi hành án hình sự?",
+    "answer": "Chánh án tòa án đẫ xét xử sơ thẩm."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Nhận định nào sau đây đúng về biện pháp tạm giam?",
+    "answer": "Không phải tất cả bị can đều bị áp dụng tạm giam."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Thời hạn điều tra vụ án đối với tội nghiêm trọng là?",
+    "answer": "3 tháng;"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây là người tham gia tố tụng hình sự?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Biện pháp bắt người được áp dụng đối với đối tương nào sau đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Thời hạn tạm giam tối đa để điều tra vụ án (tính cả ra hạn) đối với tội đặc biệt nghiêm là?",
+    "answer": "12 tháng;"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Trình tự xét xử sơ thẩm không bao gồm thủ tục nào sau đây?",
+    "answer": "Nhận đơn kháng cáo."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Hoạt động thực nghiệm điều tra do người nào sau đây tiến hành?",
+    "answer": "Điều tra viên;"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 có những cơ quan tố tụng hình sự nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Tòa án cấp huyện đã xét xử sơ thẩm thì Tòa án cấp nào có quyền quyền xét xử theo thủ tục phúc thẩm?",
+    "answer": "Tòa án cấp tỉnh;"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng quy định về xem xét dấu vết trên thân thể?",
+    "answer": "Không nhất thiết phải có người cùng giới chứng kiến."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Quá trình chúng minh gồm giai đoạn nào sau đây?",
+    "answer": "Kiểm tra chứng cứ;"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Nhận định nào sau đây đúng quy định về thành viên Hội đồng xét xử sơ thẩm?",
+    "answer": "Một Thẩm phán chủ tọa và hai Hội thẩm nhân dân;"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Luật hình sự có những nguyên tắc nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Thời hạn tối đa để điều tra vụ án (tính cả ra hạn) đối với tội nghiêm trọng là?",
+    "answer": "8 tháng."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Trừ những vụ án liên quan đến bí mật quân sự thì vụ án nào sau đây không thuộc thẩm quyền xét xử của Tòa án quân sự?",
+    "answer": "Người dân giết người dân bên ngoài đơn vị quân đội nhưng nạn nhân chạy vào trong đơn vị quân đội thì chết;"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Tội phạm nào sau đây không thuộc thẩm quyền của Tòa án cấp huyện?",
+    "answer": "Tội giết người."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Nhiệm vụ của giai đoạn điều tra vụ án hình sự không bao gồm nhiệm vụ nào sau đây?",
+    "answer": "Xác định hình phạt áp dụng đối với người phạm tội."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Đối tượng nào sau đây cần chứng minh trong vụ án hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Nhận định nào dưới đây không đúng về Luật tố tụng hình sự?",
+    "answer": "xác định những hành vi nguy hiểm nào cho xã hội là tội phạm, đồng thời quy định hình phạt đối với những tội phạm ấy;"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Điều tra viên;"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Người nào sau đây không có quyền kháng cáo bản án sơ thẩm?",
+    "answer": "Kiểm sát viên."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Trình khởi tố vụ án hình sự không bao gồm những bước nào sau đây?",
+    "answer": "Triệu tập và hỏi cung bị can;"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Người nào sau đây có quyền ra quyết định tạm hoãn xuất cảnh?",
+    "answer": "Thẩm phán chủ tọa phiên tòa."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Người nào sau đây không có quyền quyết định áp giải?",
+    "answer": "Trưởng công an phường."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Thẩm phán;"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Biện pháp kê biên không nhằm bảo đảm thi hành những gì sau đây?",
+    "answer": "Hình phạt cấm hành nghề."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng quy định về hỏi cung?",
+    "answer": "Hỏi cung được tiến hành từ trước khi khởi tố bị can."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Biện pháp bắt người được áp dụng đối với đối tương nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Đối tượng nào sau đây bị áp dụng biện pháp cấm đi khỏi nơi cư trú?",
+    "answer": "Bị cáo;"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Người nào sau đây có quyền quyết định tạm hoãn xuất cảnh?",
+    "answer": "Phó thủ trưởng Cơ quan điều tra;"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Đối tượng nào sau đây bị áp dụng biện pháp cấm đi khỏi nơi cư trú?",
+    "answer": "Bị can;"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Trong giai đoạn truy tố Viện kiểm sát có những quyền nào sau đây/",
+    "answer": "Yêu cầu Tòa án cho ý kiến về vụ án để truy tố;"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để áp dụng biện pháp ngăn chặn?",
+    "answer": "Để kịp thời trừng trị người phạm tội;"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tiến hành tố tụng hình sự?",
+    "answer": "Người giám định"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Người nào sau đây không được bảo lĩnh?",
+    "answer": "Bạn gái của bị can đang là Điều tra viên"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Thời hạn điều tra vụ án đối với tội rất nghiêm trọng là?",
+    "answer": "4 tháng."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Cơ quan nào sau đây có thẩm quyền điều tra vụ án hình sự?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Nghĩa vụ chứng minh tội phạm trong tố tụng hình sự không thuộc đối tượng nào sau đây?",
+    "answer": "Cơ quan thi hành án hình sự."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Nhiệm vụ của giai đoạn điều tra vụ án hình sự bao gồm nhiệm vụ nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Tội phạm nào sau đây không thuộc thẩm quyền của Tòa án cấp huyện?",
+    "answer": "Tội đặc biệt nghiêm trọng."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Nhận định nào sau đây đúng quy định về thành viên Hội đồng xét xử sơ thẩm?",
+    "answer": "Một thẩm phán chủ tọa, một Thẩm phán và ba Hội thẩm nhân dân;"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để áp dụng biện pháp ngăn chặn?",
+    "answer": "Để kịp thời bảo vệ người bị hại;"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không bị áp dụng biện pháp tạm hoãn xuất cảnh?",
+    "answer": "Người phạm tội tự thú."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Cơ quan điều tra nơi nào sau đây có thẩm quyền điều tra vụ án hình sự?",
+    "answer": "Nơi xảy ra tội phạm;"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Những trương hợp nào sau đây không được hoãn chấp hành hình phạt tù?",
+    "answer": "Người bị kết án đang chuẩn bị làm đám cưới."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Trình khởi tố vụ án hình sự không bao gồm những bước nào sau đây?",
+    "answer": "Xin ý kiến của Viện kiểm sát có quyền phê chuẩn;"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Kể từ ngày nhận được hồ sơ vụ án Tòa án cấp cao phải mở phiên tòa phúc thẩm trong thời hạn là?",
+    "answer": "90 ngày."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Nhận định nào sau đây đúng quy định về thành viên Hội đồng xét xử sơ thẩm?",
+    "answer": "Thành viên Hội đồng xét xử phải có mặt đầy đủ trong suốt thời gian xét xử;"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Quyết định thi hành án phạt tù phải được gửi cho đối tượng nào sau đây?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tham gia tố tụng hình sự?",
+    "answer": "Hội thẩm nhân dân;"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Chứng cứ phải được thu thập từ những phương tiện chứng minh nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Trình khởi tố vụ án hình sự không gồm những bước nào sau đây?",
+    "answer": "Quyết định truy tố bị can."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng về biện pháp tạm giam?",
+    "answer": "Người bị áp dụng phải cách ly xã hội tại trại giam;"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Thời hạn tối đa để điều tra vụ án (tính cả ra hạn) đối với tội đặc biệt nghiêm trọng xâm phạm an ninh quốc gia là?",
+    "answer": "24 tháng."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Người nào sau đây không có quyền ra lệnh cấm đi khỏi nơi cư trú?",
+    "answer": "Điều tra viên được phân công điều tra vụ án;"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Người nào sau đây được bảo lĩnh?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng với thủ tục phúc thẩm?",
+    "answer": "Chỉ những bản án sơ thẩm xử bị cáo quá nặng mới được xét xử lại theo thủ tục phúc thẩm;"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Đối tượng nào sau đây không bị áp dụng biện pháp áp giải?",
+    "answer": "Người có quyền lợi, nghĩa vụ liên quan đến vụ án."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Chứng cứ phải được thu thập từ những phương tiện chứng minh nào sau đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Cơ quan nào sau đây có quyền truy tố bị can?",
+    "answer": "Viện kiểm sát;"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Nhận định nào sau đây không đúng quy định về xem xét dấu vết trên thân thể?",
+    "answer": "Do người cùng giới hoặc khác giới tiến hành;"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Người nào sau đây có quyền yêu cầu khởi tố vụ án hình sự và cơ quan có thẩm quyền khởi tố chỉ được khởi tố nếu có yêu cầu của người đó?",
+    "answer": "Bị hại;"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Thời hạn điều tra vụ án đối với tội ít nghiêm trọng là?",
+    "answer": "2 tháng;"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Thời hạn tạm giam để điều tra vụ án đối với tội đặc biệt nghiêm trọng là?",
+    "answer": "4 tháng;"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Quá trình chúng minh không gồm giai đoạn nào sau đây?",
+    "answer": "Tiêu hủy chứng cứ;"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Căn cứ nào sau đây không phải là căn cứ để Viện kiểm sát trả hồ sơ để điều tra bổ sung?",
+    "answer": "Bị can đã chết;"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Quyền hạn của Hội đồng xét xử phúc thẩm không bao gồm những quyền nào sau đây?",
+    "answer": "Hủy bản án sơ thẩm và kháng nghi theo thủ tục giám đốc thẩm."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Khi thực hiện quyền công tố trong giai đoạn khởi tố vụ án hình sự, Viện kiểm sát không có quyền gì sau đây?",
+    "answer": "Hủy quyết định khởi tố vụ án của Hội đồng xét xử;"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Quyết định thi hành án phạt tù phải được gửi cho đối tượng nào sau đây?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây không phải là người tiến hành tố tụng hình sự?",
+    "answer": "Thủ trưởng Cơ quan thi hành án hình sự."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Theo Bộ luật tố tụng hình sự 2015 người nào dưới đây là người tiến hành tố tụng hình sự?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Đối tượng nào sau đây bị áp dụng biện pháp đặt tiền để bảo đảm?",
+    "answer": "Bị can, bị cáo;"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Thời hạn tạm giam tối đa để điều tra vụ án (tính cả ra hạn) đối với tội rất nghiêm là?",
+    "answer": "7 tháng;"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Cơ quan nào sau đây được bảo lĩnh?",
+    "answer": "UBND xã nơi bị can làm việc;"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Đối tượng điều chỉnh của ngành luật tố tụng hình sự là gi?",
+    "answer": "Cả a, b, c đều đúng."
+  }
+]

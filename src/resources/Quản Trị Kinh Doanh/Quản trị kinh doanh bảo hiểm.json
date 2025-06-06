@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Khi tham gia bảo hiểm, người tham gia sẽ thế nào?",
+    "answer": "Vẫn có thể gặp rủi ro."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Căn cứ vào việc đo lường hậu quả của rủi ro, có những loại rủi ro nào?",
+    "answer": "Rủi ro tài chính và rủi ro phi tài chính"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Không đi máy bay là biện pháp quản trị rủi ro nào?",
+    "answer": "Tránh né rủi ro."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Theo nguyên tắc “Rủi ro có thể được bảo hiểm”, doanh nghiệp bảo hiểm sẽ nhận bảo hiểm cho các rủi ro nào?",
+    "answer": "Khách quan và bất ngờ không lường trước được."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Loại bảo hiểm nào có đối tượng là trách nhiệm dân sự?",
+    "answer": "Bảo hiểm trách nhiệm chủ sử dụng lao động đối với người lao động"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Mức hưởng trợ cấp của chế độ thai sản khi lao động nữ sinh con là",
+    "answer": "100% mức bình quân tiền lương, tiền công tháng đóng BHXH"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Các bên trong mối quan hệ bảo hiểm của BHXH bao gồm",
+    "answer": "Bên tham gia BHXH, bên được BHXH và bên BHXH"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Người tham gia BHXH là",
+    "answer": "Người lao động và người sử dụng lao động"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Chủ thể của quỹ BHXH là",
+    "answer": "Người lao động, người sử dụng lao động và Nhà nước"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Lộ trình thực hiện Bảo hiểm y tế toàn dân ở Việt nam",
+    "answer": "Chưa hoàn thành"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Rủi ro nào sau đây thuộc phạm vi của điều kiện ICC.C trong nghiệp vụ bảo hiểm hàng hoá xuất nhập khẩu vận chuyển bằng đường biển?",
+    "answer": "Hàng bị ướt do mưa bão"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Bảo hiểm TNDS chủ xe cơ giới đối với người thứ ba có đối tượng bảo hiểm là?",
+    "answer": "TNDS chủ xe cơ giới đối với người thứ ba"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Điều kiện để giải quyết đâm va tàu theo trách nhiệm chéo là gì?",
+    "answer": "Cả hai điều kiện A và B"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Ở Việt Nam, Bảo hiểm TNDS chủ xe cơ giới được thực hiện dưới hình thức nào?",
+    "answer": "Bắt buộc"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Ở Việt Nam, Bảo hiểm vật chất xe cơ giới được thực hiện dưới hình thức nào?",
+    "answer": "Tự nguyện"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Hợp đồng bảo hiểm gồm ít nhất 2 bên là:",
+    "answer": "doanh nghiệp bảo hiểm và bên mua bảo hiểm"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Bên mua bảo hiểm có thể liên quan đến 3 người:",
+    "answer": "người tham gia bảo hiểm, người được bảo hiểm, và người được thụ hưởng quyền lợi bảo hiểm"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Bên mua bảo hiểm không có quyền",
+    "answer": "từ chối cung cấp thông tin về đối tượng bảo hiểm theo yêu cầu của doanh nghiệp bảo hiểm"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Hợp đồng bảo hiểm bao gồm:",
+    "answer": "Giấy yêu cầu bảo hiểm, đơn bảo hiểm/giấy chứng nhận bảo hiểm, giấy sửa đổi bổ sung"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Trong hợp đồng bảo hiểm, người tham gia bảo hiểm là",
+    "answer": "người đứng ra giao kết HĐBH với DNBH và đóng phí BH"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Bảo hiểm gián đoạn kinh doanh là đơn bảo hiểm thường được cấp kèm theo đơn bảo hiểm tài sản (ví dụ như bảo hiểm cháy, bảo hiểm mọi rủi ro tài sản, bảo hiểm đổ vỡ máy móc…). Bảo hiểm đổ vỡ máy móc bảo hiểm cho:",
+    "answer": ". các chi phí, tổn thất phát sinh do gián đoạn kinh doanh sau khi có tổn thất trực tiếp xảy ra do rủi ro."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Người lao động có thể lựa chọn mua bảo hiểm chi phí y tế cá nhân hoặc bảo hiểm chi phí y tế theo hợp đồng bảo hiểm chi phí y tế nhóm theo doanh nghiệp. Với cùng phạm vi bảo hiểm, tham gia hợp đồng bảo hiểm chi phí y tế nhóm có ưu điểm sau:",
+    "answer": ". phí bảo hiểm thấp."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Bảo hiểm nhân thọ nhóm, là loại hình bảo hiểm thiết thực và phù hợp với doanh nghiệp do tận dụng được ưu thế về số đông, phí thấp. Các hợp đồng bảo hiểm nhân thọ nhóm thường có thời hạn bảo hiểm tối thiểu:",
+    "answer": ". 5 năm."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Xếp hạng của một công ty bảo hiểm được đánh giá và dựa vào nhiều yếu tố, bao gồm:",
+    "answer": ". năng lực tài chính và hiệu quả kinh doanh; năng lực đánh giá và quản lý rủi ro; và chất lượng dịch vụ."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Thành công của việc đàm phán bảo hiểm là:",
+    "answer": ". doanh nghiệp được bảo hiểm với phạm vi bảo hiểm hợp lý trong khả năng ngân sách dành cho bảo hiểm bởi công ty bảo hiểm có chỉ số xếp hạng an toàn."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Căn cứ vào vào khả năng kiếm lời trong kết cục của rủi ro, có những loại rủi ro nào?",
+    "answer": "Rủi ro thuần và rủi ro đầu cơ"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Nguyên tắc nào không phải là nguyên tắc hoạt động của bảo hiểm thương mại?",
+    "answer": "Bảo hiểm toàn dân."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Theo nguyên tắc “rủi ro có thể được bảo hiểm”, trường hợp nào được bảo hiểm?",
+    "answer": "Thiệt hại tài sản do sét đánh gây cháy."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường không khấu trừ với mức miễn thường là 2.000 USD, nếu tổn thất 1.000 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "2.000 USD"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Căn cứ vào việc đo lường hậu quả của rủi ro, có những loại rủi ro nào?",
+    "answer": "Rủi ro tài chính và rủi ro phi tài chính"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Quỹ BHXH được hình thành từ:",
+    "answer": "Đóng góp của người tham gia BHXH, Nhà nước đóng và hỗ trợ thêm và các nguồn khác"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Mục đích sử dụng quỹ BHXH cơ bản nhất, quan trọng nhất là",
+    "answer": "Chi trợ cấp cho các chế độ BHXH"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "BHTN được triển khai ở Việt Nam năm 2009 theo sự điều chỉnh của",
+    "answer": "Luật BHXH"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Các bên trong mối quan hệ bảo hiểm của BHXH bao gồm",
+    "answer": "Bên tham gia BHXH, bên được BHXH và bên BHXH"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "BHXH ra đời ở nước Phổ năm",
+    "answer": "1850"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Bảo hiểm TNDS chủ xe cơ giới đối với người thứ ba có đối tượng bảo hiểm là?",
+    "answer": "TNDS chủ xe cơ giới đối với người thứ ba"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Điều kiện bảo hiểm ICC.B không bảo hiểm cho rủi ro nào sau đây?",
+    "answer": "Bão"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Phân loại theo kỹ thuật bảo hiểm, rủi ro hàng hải bao gồm",
+    "answer": "Cả 3 loại trên"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Mức giới hạn TNDS chủ xe mô tô đối với người thứ ba hiện nay là bao nhiêu? (tương ứng con người-tài sản)",
+    "answer": "100-50"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Phí bảo hiểm TNDS của chủ xe cơ giới đối với người thứ ba phụ thuộc vào những yếu tố nào sau đây:",
+    "answer": "Xác suất tai nạn rủi ro"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Căn cứ vào đối tượng bảo hiểm, hợp đồng bảo hiểm được chia thành 3 loại:",
+    "answer": "Hợp đồng bảo hiểm tài sản, hợp đồng bảo hiểm trách nhiệm dân sự và hợp đồng bảo hiểm con người"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Doanh nghiệp bảo hiểm không có nghĩa vụ",
+    "answer": "Ứng trước tiền cho bên mua bảo hiểm đóng phí bảo hiểm hoặc giảm phí khi bên mua bảo hiểm gặp khó khăn về tài chính"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Trong hợp đồng bảo hiểm không có nội dung về:",
+    "answer": "Thời gian và địa điểm xảy ra thiệt hại cho đối tượng bảo hiểm, nguyên nhân gây ra thiệt hại"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Trong hợp đồng bảo hiểm con người, nếu bên mua không đóng hoặc đóng thiếu phí bảo hiểm thì doanh nghiệp bảo hiểm:",
+    "answer": "không được khởi kiện truy đòi bên mua đóng phí bảo hiểm"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Giấy yêu cầu bảo hiểm nhằm",
+    "answer": "kê khai thông tin liên quan đến đối tượng bảo hiểm và bên mua bảo hiểm để doanh nghiệp bảo hiểm xem xét có thể chấp nhận bảo hiểm hay không"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Danh sách sơ lược các phạm vi bảo hiểm cần thiết đối với một doanh nghiệp bao gồm:",
+    "answer": ". Các phạm vi bảo hiểm bắt buộc bởi nhà nước; theo yêu cầu của khách hàng, đối tác và các nhà cung cấp; và các trường hợp cần thiết để bảo vệ doanh nghiệp."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Thành công của việc đàm phán bảo hiểm là:",
+    "answer": ". doanh nghiệp được bảo hiểm với phạm vi bảo hiểm hợp lý trong khả năng ngân sách dành cho bảo hiểm bởi công ty bảo hiểm có chỉ số xếp hạng an toàn."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Đối với các sản phẩm bảo hiểm yêu cầu cao về kĩ thuật, đánh giá rủi ro, giá trị hợp đồng lớn, doanh nghiệp thường lựa chọn tham gia bảo hiểm:",
+    "answer": ". trực tiếp tại công ty bảo hiểm hoặc qua môi giới."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Bảo hiểm nhân thọ nhóm, là loại hình bảo hiểm thiết thực và phù hợp với doanh nghiệp do tận dụng được ưu thế về số đông, phí thấp. Các hợp đồng bảo hiểm nhân thọ nhóm thường có thời hạn bảo hiểm tối thiểu:",
+    "answer": ". 5 năm."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Việc phân tích rủi ro và nguy cơ tổn thất được thực hiện dựa vào các nguồn thông tin sau:",
+    "answer": "D. danh sách rủi ro được nhận dạng; báo cáo tổn thất trong quá khứ; vị trí, đặc điểm hoạt động, ngành nghề của của doanh nghiệp."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Đối tượng của bảo hiểm tài sản là gì?",
+    "answer": "Tài sản"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Yêu cầu của nguyên tắc “trung thực tuyệt đối” là gì?",
+    "answer": "Người tham gia bảo hiểm phải trung thực khi khai báo rủi ro và doanh nghiệp bảo hiểm phải có trách nhiệm cân nhắc các điều kiện, điều khoản để soạn thảo hợp đồng."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Ý nghĩa của việc áp dụng chế độ miễn thường trong bảo hiểm?",
+    "answer": "Nâng cao ý thức và trách nhiệm đề phòng hạn chế rủi ro của người được bảo hiểm"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc bồi thường thiệt hại?",
+    "answer": "Bảo hiểm hàng hóa"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Một tài sản có giá thị trường 40 tr.đ. Chủ tài sản mua bảo hiểm với số tiền bảo hiểm 20 tr.đ. Thiệt hại tài sản thuộc phạm vi bảo hiểm là 20 tr.đ. Bảo hiểm bồi thường bao nhiêu?",
+    "answer": "10 tr.đ"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Hầu hết các nước khi mới có chính sách BHXH, đều thực hiện BHXH đối với",
+    "answer": "Các viên chức Nhà nước, những người làm công hưởng lương từ ngân sách Nhà nước"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Hệ thống đầy đủ các chế độ BHXH bao gồm",
+    "answer": "9 chế độ"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Mức hưởng trợ cấp của chế độ thai sản khi lao động nữ sinh con là",
+    "answer": "100% mức bình quân tiền lương, tiền công tháng đóng BHXH"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Đối tượng bảo hiểm của BHXH là",
+    "answer": "Thu nhập bị biến động giảm hoặc mất đi do người lao động tham gia BHXH bị giảm hoặc mất khả năng lao động, mất việc làm."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Phần lớn các chế độ BHXH được chi trả",
+    "answer": "Định kỳ hàng tháng"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Điều kiện để giải quyết đâm va tàu theo trách nhiệm đơn là gì?",
+    "answer": "Cả hai điều kiện A và B"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Rủi ro nào sau đây thuộc phạm vi cơ bản của bảo hiểm vật chất xe cơ giới?",
+    "answer": "Đâm va"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Rủi ro nào sau đây thuộc pham vi của điều kiện I.CCC.B trong nghiệp vụ bảo hiểm hàng hoá xuất nhập khẩu vận chuyển bằng đường biển?",
+    "answer": "Đình công"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Hàng hóa nhập khẩu theo điều kiện CIF mua bảo hiểm xẩy ra hiện tượng gì?",
+    "answer": "Bảo hiểm trùng"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Chủ xe cơ giới có thể mua thêm điều khoản bổ sung nào?",
+    "answer": "Cả 3 đáp án trên"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Theo quy định về hợp đồng bảo hiểm, doanh nghiệp bảo hiểm không có quyền",
+    "answer": "cung cấp thông tin về đối tượng bảo hiểm mà không cần sự đồng ý của bên mua bảo hiểm"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Hợp đồng bảo hiểm tài sản là",
+    "answer": "hợp đồng được áp dụng cho đối tượng là tài sản thuộc quản sử hữu và quản lý hợp pháp của các cá nhân, tổ chức trong xã hội"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Bên mua bảo hiểm có thể liên quan đến 3 người:",
+    "answer": "người tham gia bảo hiểm, người được bảo hiểm, và người được thụ hưởng quyền lợi bảo hiểm"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Trong hợp đồng bảo hiểm tài sản, khi xảy ra sự kiện bảo hiểm, doanh nghiệp bảo hiểm hoặc người được doanhnghiệp bảo hiểm uỷ quyền thực hiện việc giám định tổn thất để xác định nguyên nhân và mức độ tổn thất, trách nhiệm chi trả chi phí giám định thuộc vê:",
+    "answer": "Doanh nghiệp bảo hiểm"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Theo quy định của Luật kinh doanh bảo hiểm,trong trường hợp không có thỏa thuận về thời hạn thì, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, doanh nghiệp bảo hiểm phải bồi thường trong thời hạn",
+    "answer": "15 ngày"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Lựa chọn công ty bảo hiểm phù hợp là một trong những yếu tố quyết định sự thành công của chương trình bảo hiểm. Để lựa chọn công ty bảo hiểm cần căn cứ vào các yếu tố sau:",
+    "answer": ". xếp hạng của công ty; địa bàn hoạt động của công ty; và các dịch vụ và giá cả dịch vụ mà công ty cung cấp."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Việc khiếu nại yêu cầu bồi thường chính thức được thực hiện trên cơ sở thu thập các giấy tờ liên quan đảm bảo hồ sơ yêu cầu bồi thường đầy đủ, chính xác. Bên cạnh yếu tố rủi ro và tổn thất thuộc phạm vi bảo hiểm, trách nhiệm của bảo hiểm chỉ phát sinh khi:",
+    "answer": ". rủi ro và tổn thất xảy ra trong thời gian hiệu lực của hợp đồng bảo hiểm."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Tại Việt Nam, bảo hiểm cháy nổ bắt buộc được áp dụng với:",
+    "answer": ". các doanh nghiệp và tổ chức thuộc nhóm ngành nghề kinh doanh, sản xuất, hoạt động có nguy cơ cháy cao."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Đơn bảo hiểm chính là bằng chứng cho việc chấp nhận bảo hiểm của doanh nghiệp bảo hiểm. Đơn bảo hiểm:",
+    "answer": ". là cơ sở pháp lý xác định quyền lợi và trách nhiệm của bên bảo hiểm và bên được bảo hiểm."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Người lao động có thể lựa chọn mua bảo hiểm chi phí y tế cá nhân hoặc bảo hiểm chi phí y tế theo hợp đồng bảo hiểm chi phí y tế nhóm theo doanh nghiệp. Với cùng phạm vi bảo hiểm, tham gia hợp đồng bảo hiểm chi phí y tế nhóm có ưu điểm sau:",
+    "answer": ". phí bảo hiểm thấp."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Tham gia bảo hiểm là biện pháp quản trị rủi ro nào?",
+    "answer": "Tài trợ rủi ro."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Yêu cầu của nguyên tắc bồi thường trong bảo hiểm tài sản là gì?",
+    "answer": "Số tiền bồi thường tối đa bằng giá trị thiệt hại."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc bồi thường thiệt hại?",
+    "answer": "Bảo hiểm vật chất xe cơ giới"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Một tài sản có giá thị trường là 100 tr.đ, được mua bảo hiểm với tỷ lệ phí bảo hiểm 0,8%. Chủ tài sản đã nộp phí bảo hiểm là 400.000 đ. Trong thời gian còn hiệu lực của hợp đồng bảo hiểm, tài sản gặp rủi ro thuộc phạm vi bảo hiểm, thiệt hại 40 tr.đ. Số tiền bảo hiểm bồi thường là bao nhiêu?",
+    "answer": "20 tr.đ"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Trường hợp nào KHÔNG được áp dụng trong bảo hiểm con người?",
+    "answer": "Áp dụng bảo hiểm trùng"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Theo công ước 102, các quốc gia triển khai BHXH, ít nhất phải thực hiện",
+    "answer": "3 chế độ"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Vào thời kỳ khủng hoảng kinh tế, số người thất nghiệp gia tăng thì thời hạn hưởng trợ cấp BHTN",
+    "answer": "Kéo dài ra"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Mức lương hưu tối đa hàng tháng người lao động tham gia BHXH có thể được hưởng là",
+    "answer": "75%"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Chủ thể của quỹ BHXH là",
+    "answer": "Người lao động, người sử dụng lao động và Nhà nước"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Quỹ BH thất nghiệp tự nguyện đầu tiên ra đời tại Bécnơ (Thuỵ sỹ) vào năm",
+    "answer": "1893"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Điều kiện ITC không bồi thường cho tổn thất nào?",
+    "answer": "TNDS về người"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Điều kiện bảo hiểm ICC.A bảo hiểm cho rủi ro nào sau đây?",
+    "answer": "Cả ba đáp án trên"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Các dạng tổn thất bộ phận trong bảo hiểm hàng hóa XNK vận chuyển bằng đường biển không bao gồm",
+    "answer": "Tổn thất toàn bộ thực tế"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Trong phạm vi tiêu chuẩn của bảo hiểm vật chất xe cơ giới, rủi ro nào bị loại trừ?",
+    "answer": "Thủy kích"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Điều kiện để giải quyết đâm va tàu theo trách nhiệm chéo là gì?",
+    "answer": "Cả hai điều kiện A và B"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Theo Luật kinh doanh bảo hiểm, trong trường hợp người thứ 3 yêu cầu người được bảo hiểm bồi thường về những thiệt hại thuộc trách nhiệm bảo hiểm thì thời hạn yêu cầu trả tiền bồi thường là",
+    "answer": "1 năm kể từ ngày người thứ 3 yêu cầu"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Hợp đồng bảo hiểm trách nhiệm dân sự là",
+    "answer": "là hợp đồng được áp dụng cho đối tượng là trách nhiệm dân sự của người được bảo hiểm đối với người thứ 3 theo quy định của pháp luật"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Bên mua bảo hiểm không có quyền",
+    "answer": "từ chối cung cấp thông tin về đối tượng bảo hiểm theo yêu cầu của doanh nghiệp bảo hiểm"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Doanh nghiệp bảo hiểm không có quyền đơn phương chấm dứt hợp đồng bảo hiểm trong trường hợp:",
+    "answer": "Bên mua bảo hiểm đã đóng 1 lần hoặc 1 số lần phí bảo hiểm nhưng không thể đóng được các khoản phí tiêp theo sau thời hạn 30 ngày kể từ ngày gia hạn đóng phí của doanh nghiệp bảo hiểm"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Trong hợp đồng bảo hiểm, người được thụ hưởng quyền lợi bảo hiểm là",
+    "answer": "người được người tham gia BH chỉ định hưởng quyền lợi BH theo HĐBH"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Sản phẩm bảo hiểm có thời hạn xác định. Việc theo dõi quản lý hợp đồng bảo hiểm theo thời hạn cho phép doanh nghiệp có thể đóng phí, tái tục hợp đồng đúng hạn, đảm bảo sự bảo vệ một cách liên tục. Thời hạn bảo hiểm của các sản phẩm bảo hiểm tài sản thường tối đa:",
+    "answer": ". 12 tháng."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Chiến lược và mục tiêu của doanh nghiệp là một trong những nhân tố ảnh hưởng đến việc lập kế hoạch bảo hiểm. Trường hợp nào dưới đây là đúng nhất:",
+    "answer": ". Một doanh nghiệp đặt mục tiêu ổn định trong dài hạn thường quan tâm đến chương trình bảo hiểm."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Khi mua bảo hiểm, doanh nghiệp có nhiều lựa chọn. Việc mua bảo hiểm trực tiếp là hình thức:",
+    "answer": ". mua bảo hiểm trực tiếp tại công ty bảo hiểm qua các nhân viên bảo hiểm."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Hợp đồng bảo hiểm là bằng chứng pháp lý cho việc cam kết bảo hiểm của công ty bảo hiểm đối với doanh nghiệp bảo vệ cho đối tượng được bảo hiểm. Hợp đồng bảo hiểm:",
+    "answer": ". là đơn bảo hiểm do công ty bảo hiểm cấp cho khách hàng tham gia bảo hiểm theo thỏa thuận."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Việc lập kế hoạch bảo hiểm cần xác định rõ:",
+    "answer": ". cơ sở lập kế hoạch; các rủi ro và tổn thất mà doanh nghiệp có thể phải đương đầu; phương thức thu xếp/tham gia bảo hiểm, lựa chọn doanh nghiệp bảo hiểm (đối với bảo hiểm thương mại), thu xếp bảo hiểm."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Một tài sản có giá thị trường là 100 tr.đ, được mua bảo hiểm với tỷ lệ phí bảo hiểm 0,5%. Chủ tài sản đã nộp phí bảo hiểm là 300.000 đ. Trong thời gian còn hiệu lực của hợp đồng bảo hiểm, tài sản gặp rủi ro thuộc phạm vi bảo hiểm, thiệt hại 20 tr.đ. Số tiền bảo hiểm bồi thường là bao nhiêu?",
+    "answer": "12 tr.đ"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Loại hình bảo hiểm nào có mục đích kinh doanh?",
+    "answer": "Bảo hiểm thương mại."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Trường hợp nào KHÔNG được áp dụng trong bảo hiểm tài sản?",
+    "answer": "Áp dụng nguyên tắc khoán"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường không khấu trừ với mức miễn thường là 1.000 USD, nếu tổn thất 2.000 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "2.000 USD"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Bảo hiểm tài sản KHÔNG áp dụng nguyên tắc nào?",
+    "answer": "Nguyên tắc khoán."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Chức năng quản lý nhà nước về BHXH ở Việt Nam thuộc về",
+    "answer": "Bộ Lao động – thương binh – xã hội"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Người thất nghiệp được hưởng bảo hiểm thất nghiệp khi đã đóng bảo hiểm thất nghiệp đủ",
+    "answer": "Từ 12 tháng trở lên trong thời gian 24 tháng trước khi thất nghiệp"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Các quốc gia triển khai BHXH, ít nhất phải thực hiện được 3 chế độ; Trong đó, ít nhất phải có một trong năm chế độ",
+    "answer": "(3), (4), (5), (8), (9)"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Quỹ BHXH bắt buộc ở Việt Nam bao gồm",
+    "answer": "3 quỹ thành phần"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "BHXH triển khai theo hình thức bắt buộc ở Việt nam hiện nay gồm",
+    "answer": "5 chế độ"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Rủi ro nào sau đây thuộc phạm vi của điều kiện ICC.C trong nghiệp vụ bảo hiểm hàng hoá xuất nhập khẩu vận chuyển bằng đường biển?",
+    "answer": "Hàng bị ướt do mưa bão"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Mức giới hạn TNDS chủ xe ô tô đối với người thứ ba hiện nay là bao nhiêu? (tương ứng con người-tài sản)",
+    "answer": "100 -100"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Bảo hiểm TNDS chủ xe cơ giới đối với người thứ ba có thời hạn bảo hiểm trong bao lâu?",
+    "answer": "Từ 1 năm trở xuống"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Điều kiện ITC không bồi thường cho tổn thất nào?",
+    "answer": "Tổn thất về người trên tàu được bảo hiểm"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Mức bồi thường ¾ TNDS về tài sản không vượt quá ¾ STBH áp dụng cho điều kiện bảo hiểm thân tàu nào?",
+    "answer": "cả ba đáp án trên"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Bên mua bảo hiểm không có quyền:",
+    "answer": "yêu cầu doanh nghiệp cho vay tiền để đóng phí khi gặp khó khăn về tài chính"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Hợp đồng bảo hiểm con người là",
+    "answer": "là hợp đồng được áp dụng cho đối tượng bảo hiểm là tính mạng, tình trạng sức khỏe hay tuổi thọ của con người"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Trong hợp đồng bảo hiểm, người được bảo hiểm là",
+    "answer": "người có tài sản, trách nhiệm dân sự hay tính mạng, sức khỏe được BH theo HĐBH"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Hợp đồng bảo hiểm không chấm dứt trong trường hợp:",
+    "answer": "Bên mua bảo hiểm có quyền lợi bảo hiểm và đã đóng phí đầy đủ"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Theo Luật kinh doanh bảo hiểm, trong trường hợp bên mua bảo hiểm chứng minh được rằng bên mua bảo hiểm không biết thời điểm xảy ra sự kiện bảo hiểm, thì thời hạn yêu cầu trả tiền bảo hiểm là",
+    "answer": "1 năm kể từ ngày người được bảo hiểm biết sự kiện bảo hiểm xảy ra"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Trong quản lý hợp đồng bảo hiểm, theo dõi việc đóng phí bảo hiểm (thực hiện nghĩa vụ về phí theo thỏa thuân của hợp đồng bảo hiểm) vô cùng quan trọng. Công việc này nhằm mục đích:",
+    "answer": ". đảm bảo hợp đồng bảo hiểm luôn duy trì hiệu lực trong thời hạn bảo hiểm."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Một kế hoạch bảo hiểm đươc lập trên cơ sở:",
+    "answer": ". các qui định của pháp luật, chiến lược kinh doanh, nhu cầu và khả năng tài chính của doanh nghiệp, tính chất hoạt động sản xuất kinh doanh của doanh nghiệp."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Rủi ro được bảo hiểm là cơ sở xác định trách nhiệm bồi thường hoặc chi trả tiền của bảo hiểm. Rủi ro được bảo hiểm là:",
+    "answer": ". Rủi ro được bảo hiểm là các rủi ro thuàn túy, xảy ra ngẫu nhiên, nằm ngoài sự kiểm soát của người được bảo hiểm; Rủi ro được bảo hiểm là các rủi ro được bảo vệ thông qua hợp đồng bảo hiểm; Rủi ro được bảo hiểm phải đảm bảo là các trường hợp không vi phạm đạo đức xã hội."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Bảo hiểm trách nhiệm pháp lý là loại hình bảo hiểm có đối tượng bảo hiểm là:",
+    "answer": ". trách nhiệm dân sự của cá nhân, tổ chức, doanh nghiệp phát sinh do hoạt động, công việc của họ gây thiệt hại cho người khác."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Bảo hiểm gián đoạn kinh doanh là đơn bảo hiểm thường được cấp kèm theo đơn bảo hiểm tài sản (ví dụ như bảo hiểm cháy, bảo hiểm mọi rủi ro tài sản, bảo hiểm đổ vỡ máy móc…). Bảo hiểm đổ vỡ máy móc bảo hiểm cho:",
+    "answer": ". các chi phí, tổn thất phát sinh do gián đoạn kinh doanh sau khi có tổn thất trực tiếp xảy ra do rủi ro."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Khi tham gia bảo hiểm, người tham gia sẽ thế nào?",
+    "answer": "Vẫn có thể gặp rủi ro."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Đối tượng của bảo hiểm thương mại?",
+    "answer": "Bảo hiểm tài sản, bảo hiểm con người và bảo hiểm trách nhiệm dân sự."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Bảo hiểm thương mại có mấy nguyên tắc hoạt động?",
+    "answer": "5."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Mục đích của việc áp dụng chế độ miễn thường trong bảo hiểm?",
+    "answer": "Áp dụng nguyên tắc bồi thường"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc khoán?",
+    "answer": "Bảo hiểm nhân thọ"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Biến cố làm giảm hoặc mất khả năng lao động, mất việc làm trong BHXH có thể không hoàn toàn ngẫu nhiên là",
+    "answer": "Tuổi già, thai sản"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Tổ chức quốc tế đóng vai trò quan trọng trong sự phát triển của BHXH trên thế giới là",
+    "answer": "ILO"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Người được bảo hiểm của BHXH là",
+    "answer": "Người lao động"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Khi BHXH phát triển và thực hiện có hiệu quả sẽ",
+    "answer": "Giảm số đối tượng được hưởng các chính sách ưu đãi xã hội, cứu trợ xã hội"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Người tham gia BHXH là",
+    "answer": "Người lao động và người sử dụng lao động"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Rủi ro nào sau đây là rủi ro chính trong hàng hải?",
+    "answer": "Chìm đắm"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Phí bảo hiểm hàng hoá xuất nhập khẩu phụ thuộc vào nhân tố nào sau đây:",
+    "answer": "Điều kiện bảo hiểm"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Ở Việt Nam, Bảo hiểm TNDS chủ xe cơ giới được thực hiện dưới hình thức nào?",
+    "answer": "Bắt buộc"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Rủi ro nào thuộc phạm vi bảo hiểm hàng hoá xuất nhập khẩu vận chuyển bằng đường biển trong điều kiện ICC.C?",
+    "answer": "Hàng bị cháy nổ"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Rủi ro nào sau đây thuộc phạm vi cơ bản của bảo hiểm vật chất xe cơ giới:",
+    "answer": "Mất cắp toàn bộ xe"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Đặc điểm của hợp đồng bảo hiểm là",
+    "answer": "hợp đồng phải trả tiền"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Bên mua bảo hiểm không có nghĩa vụ:",
+    "answer": "thanh toán các khoản chi phí giám định tổn thất thuộc trách nhiệm của doanh nghiệp bảo hiểm"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Hợp đồng bảo hiểm không vô hiệu trong trường hợp",
+    "answer": "bên mua bảo hiểm có quyền lợi bảo hiểm và đã đóng phí đầy đủ"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Trong trường hợp hợp đồng bảo hiểm có điều khoản không rõ ràng thì điều khoản đó được giải thích theo hướng có lợi cho",
+    "answer": "Bên mua bảo hiểm"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Theo quy định về hợp đồng bảo hiểm, doanh nghiệp bảo hiểm không có quyền",
+    "answer": "Không cung cấp thông tin liên quan đến hợp đồng bảo hiểm, điều kiện điều khoản bảo hiểm cho bên mua bảo hiểm"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Câu hỏi nào KHÔNG đúng khi đề cập đến hoạt động phân tích rủi ro của doanh nghiệp?",
+    "answer": ". Liệu doanh nghiệp có đạt mục tiêu lợi nhuận?"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Phân tích rủi ro giúp doanh nghiệp trả lời câu hỏi:",
+    "answer": ". Liên quan đến mức độ nguy hiểm, tần suất và cách thức nhận dạng nguyên nhân của rủi ro."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Trong chương trình bảo hiểm, việc quản lý các hợp đồng bảo hiểm thương mại bao gồm các công việc sau:",
+    "answer": ". theo dõi thời gian bảo hiểm; theo dõi thời gian bảo hiểm và chú ý thu xếp tái tục khi hết hạn hợp đồng; và theo dõi việc đóng phí bảo hiểm, theo dõi việc đảm bảo các qui định của hợp đồng về khai báo rủi ro, báo cáo khi thay đổi yếu tố rủi ro."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Rủi ro thuần túy mà một doanh nghiệp có thể gặp phải là gì?",
+    "answer": "Hỏa hoạn."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Biện pháp tài trợ rủi ro mà doanh nghiệp có thể lựa chọn cho 1 chương trình quản trị rủi ro là:",
+    "answer": ". lập quĩ dự phòng tổn thất."
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Nhóm các biện pháp kiểm soát rủi ro bao gồm những biện pháp nào?",
+    "answer": "Tránh né rủi ro; Ngăn ngừa tổn thất; Giảm thiểu tổn thất"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Trong bảo hiểm tài sản, miễn thường là chế độ bồi thường bảo hiểm như thế nào?",
+    "answer": "Doanh nghiệp bảo hiểm chỉ bồi thường những thiệt hại thực tế vượt quá mức miễn thường."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc bồi thường thiệt hại?",
+    "answer": "Bảo hiểm hàng hóa"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Bảo hiểm tài sản KHÔNG áp dụng nguyên tắc nào?",
+    "answer": "Nguyên tắc khoán."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Loại bảo hiểm nào có đối tượng là trách nhiệm dân sự?",
+    "answer": "Bảo hiểm trách nhiệm chủ sử dụng lao động đối với người lao động"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Một người lao động được coi là thất nghiệp là người lao động",
+    "answer": "Có khả năng lao động và đang không có việc làm và đang đi tìm việc làm"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Vào thời kỳ khủng hoảng kinh tế, số người thất nghiệp gia tăng thì thời hạn hưởng trợ cấp BHTN",
+    "answer": "Kéo dài ra"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Quỹ BH thất nghiệp tự nguyện đầu tiên ra đời tại Bécnơ (Thuỵ sỹ) vào năm",
+    "answer": "1893"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "BHTN được triển khai ở Việt Nam năm 2009 theo sự điều chỉnh của",
+    "answer": "Luật BHXH"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "BHYT Việt Nam ra đời theo Nghị định 299 - HĐBT ngày 15 - 8 - 1992, có hiệu lực thi hành kể từ ngày 01 - 10 - 1992",
+    "answer": "01 - 10 – 1992"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Phí bảo hiểm hàng hoá xuất nhập khẩu phụ thuộc vào nhân tố nào sau đây:",
+    "answer": "Điều kiện bảo hiểm"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Điều kiện bảo hiểm thân tàu biển TLO không bảo hiểm cho rủi ro nào sau đây?",
+    "answer": "TNDS"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Bảo hiểm TNDS chủ xe cơ giới đối với người thứ ba có thời hạn bảo hiểm trong bao lâu?",
+    "answer": "Từ 1 năm trở xuống"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Mức bồi thường ¾ TNDS về tài sản không vượt quá ¾ STBH áp dụng cho điều kiện bảo hiểm thân tàu nào?",
+    "answer": "cả ba đáp án trên"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Bảo hiểm vật chất xe cơ giới có thời hạn bảo hiểm trong bao lâu?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Theo Luật kinh doanh bảo hiểm, trong trường hợp bên mua bảo hiểm chứng minh được rằng bên mua bảo hiểm không biết thời điểm xảy ra sự kiện bảo hiểm, thì thời hạn yêu cầu trả tiền bảo hiểm là",
+    "answer": "1 năm kể từ ngày người được bảo hiểm biết sự kiện bảo hiểm xảy ra"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Theo quy định về hợp đồng bảo hiểm, doanh nghiệp bảo hiểm không có quyền",
+    "answer": "Không cung cấp thông tin liên quan đến hợp đồng bảo hiểm, điều kiện điều khoản bảo hiểm cho bên mua bảo hiểm"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Theo quy định của Luật kinh doanh bảo hiểm, kể từ ngày xảy ra sự kiện bảo hiểm, thời hạn yêu cầu trả tiền bảo hiểm theo hợp đồng bảo hiểm là",
+    "answer": "1 năm"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Đặc điểm của hợp đồng bảo hiểm là",
+    "answer": "hợp đồng phải trả tiền"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm tài sản là",
+    "answer": "hợp đồng được áp dụng cho đối tượng là tài sản thuộc quản sử hữu và quản lý hợp pháp của các cá nhân, tổ chức trong xã hội"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Bảo hiểm trách nhiệm pháp lý là loại hình bảo hiểm có đối tượng bảo hiểm là:",
+    "answer": ". trách nhiệm dân sự của cá nhân, tổ chức, doanh nghiệp phát sinh do hoạt động, công việc của họ gây thiệt hại cho người khác."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Doanh nghiệp mua bảo hiểm phải khai báo rủi ro theo yêu cầu của nhà bảo hiểm. Việc khai báo này được thực hiện khi:",
+    "answer": ". doanh nghiệp yêu cầu bảo hiểm và trong thời gian bảo hiểm khi có yếu tố làm thay đổi rủi ro."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Danh sách sơ lược các phạm vi bảo hiểm cần thiết đối với một doanh nghiệp bao gồm:",
+    "answer": ". Các phạm vi bảo hiểm bắt buộc bởi nhà nước; theo yêu cầu của khách hàng, đối tác và các nhà cung cấp; và các trường hợp cần thiết để bảo vệ doanh nghiệp."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Việc khiếu nại yêu cầu bồi thường chính thức được thực hiện trên cơ sở thu thập các giấy tờ liên quan đảm bảo hồ sơ yêu cầu bồi thường đầy đủ, chính xác. Bên cạnh yếu tố rủi ro và tổn thất thuộc phạm vi bảo hiểm, trách nhiệm của bảo hiểm chỉ phát sinh khi:",
+    "answer": ". rủi ro và tổn thất xảy ra trong thời gian hiệu lực của hợp đồng bảo hiểm."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Tại Việt Nam, hầu hết các công ty bảo hiểm chưa được xếp hạng, vì vậy để lựa chọn lựa chọn nhà bảo hiểm bảo hiểm, doanh nghiệp có thể dựa vào:",
+    "answer": ". phạm vi hoạt động, dịch vụ và chat lượng dịch vụ; năng lực tài chính và thương hiệu."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường không khấu trừ với mức miễn thường là 2.000 USD, nếu tổn thất 1.000 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "2.000 USD"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Trường hợp nào KHÔNG được áp dụng trong bảo hiểm tài sản?",
+    "answer": "Áp dụng nguyên tắc khoán"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường không khấu trừ với mức miễn thường là 1.000 USD, nếu tổn thất 2.000 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "2.000 USD"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường có khấu trừ với mức miễn thường là 1.000 USD, nếu tổn thất 500 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "Không bồi thường"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Theo nguyên tắc “Rủi ro có thể được bảo hiểm”, doanh nghiệp bảo hiểm sẽ nhận bảo hiểm cho các rủi ro nào?",
+    "answer": "Khách quan và bất ngờ không lường trước được."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Tổ chức quốc tế đóng vai trò quan trọng trong sự phát triển của BHXH trên thế giới là",
+    "answer": "ILO"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Các quốc gia triển khai BHXH, ít nhất phải thực hiện được 3 chế độ; Trong đó, ít nhất phải có một trong năm chế độ",
+    "answer": "(3), (4), (5), (8), (9)"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Hệ thống đầy đủ các chế độ BHXH bao gồm",
+    "answer": "9 chế độ"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Mức lương hưu tối đa hàng tháng người lao động tham gia BHXH có thể được hưởng là",
+    "answer": "75%"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Biến cố làm giảm hoặc mất khả năng lao động, mất việc làm trong BHXH có thể không hoàn toàn ngẫu nhiên là",
+    "answer": "Tuổi già, thai sản"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Điều kiện bảo hiểm thân tàu biển TLO không bảo hiểm cho rủi ro nào sau đây?",
+    "answer": "TNDS"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Điều kiện ITC không bồi thường cho tổn thất nào?",
+    "answer": "Tổn thất về người trên tàu được bảo hiểm"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Rủi ro nào sau đây không thuộc phạm vi bảo hiểm vật chất xe cơ giới?",
+    "answer": "Chiến tranh"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Rủi ro nào sau đây thuộc pham vi của điều kiện I.CCC.B trong nghiệp vụ bảo hiểm hàng hoá xuất nhập khẩu vận chuyển bằng đường biển?",
+    "answer": "Đình công"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Các dạng tổn thất bộ phận trong bảo hiểm hàng hóa XNK vận chuyển bằng đường biển không bao gồm",
+    "answer": "Tổn thất toàn bộ thực tế"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Theo quy định của Luật kinh doanh bảo hiểm, hợp đồng bảo hiểm không phát sinh trách nhiệm khi:",
+    "answer": "bên mua bảo hiểm chưa đóng phí dù hợp đồng đã được giao kết"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm không chấm dứt trong trường hợp:",
+    "answer": "Bên mua bảo hiểm có quyền lợi bảo hiểm và đã đóng phí đầy đủ"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Trong hợp đồng bảo hiểm không có nội dung về:",
+    "answer": "Thời gian và địa điểm xảy ra thiệt hại cho đối tượng bảo hiểm, nguyên nhân gây ra thiệt hại"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Bên mua bảo hiểm không có nghĩa vụ",
+    "answer": "thanh toán các khoản chi phí liên quan đến đánh giá rủi ro được bảo hiểm"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Doanh nghiệp bảo hiểm không có nghĩa vụ",
+    "answer": "Ứng trước tiền cho bên mua bảo hiểm đóng phí bảo hiểm hoặc giảm phí khi bên mua bảo hiểm gặp khó khăn về tài chính"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Khi mua bảo hiểm, doanh nghiệp có nhiều lựa chọn. Việc mua bảo hiểm trực tiếp là hình thức:",
+    "answer": ". mua bảo hiểm trực tiếp tại công ty bảo hiểm qua các nhân viên bảo hiểm."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Sản phẩm bảo hiểm có thời hạn xác định. Việc theo dõi quản lý hợp đồng bảo hiểm theo thời hạn cho phép doanh nghiệp có thể đóng phí, tái tục hợp đồng đúng hạn, đảm bảo sự bảo vệ một cách liên tục. Thời hạn bảo hiểm của các sản phẩm bảo hiểm tài sản thường tối đa:",
+    "answer": ". 12 tháng."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm là bằng chứng pháp lý cho việc cam kết bảo hiểm của công ty bảo hiểm đối với doanh nghiệp bảo vệ cho đối tượng được bảo hiểm. Hợp đồng bảo hiểm:",
+    "answer": ". là đơn bảo hiểm do công ty bảo hiểm cấp cho khách hàng tham gia bảo hiểm theo thỏa thuận."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Phân tích rủi ro giúp doanh nghiệp trả lời câu hỏi:",
+    "answer": ". Liên quan đến mức độ nguy hiểm, tần suất và cách thức nhận dạng nguyên nhân của rủi ro."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Lựa chọn công ty bảo hiểm phù hợp là một trong những yếu tố quyết định sự thành công của chương trình bảo hiểm. Để lựa chọn công ty bảo hiểm cần căn cứ vào các yếu tố sau:",
+    "answer": ". xếp hạng của công ty; địa bàn hoạt động của công ty; và các dịch vụ và giá cả dịch vụ mà công ty cung cấp."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Tham gia bảo hiểm là biện pháp quản trị rủi ro nào?",
+    "answer": "Tài trợ rủi ro."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc bồi thường thiệt hại?",
+    "answer": "Bảo hiểm vật chất xe cơ giới"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Áp dụng chế độ bảo hiểm miễn thường có khấu trừ với mức miễn thường là 1.000 USD, nếu tổn thất 2.000 USD, doanh nghiệp bảo hiểm bồi thường bao nhiêu?",
+    "answer": "1.000 USD"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Căn cứ vào vào khả năng kiếm lời trong kết cục của rủi ro, có những loại rủi ro nào?",
+    "answer": "Rủi ro thuần và rủi ro đầu cơ"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào có mục đích kinh doanh?",
+    "answer": "Bảo hiểm thương mại."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Khi BHXH phát triển và thực hiện có hiệu quả sẽ",
+    "answer": "Giảm số đối tượng được hưởng các chính sách ưu đãi xã hội, cứu trợ xã hội"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "BHXH trở thành một trong những quyền con người và được Đại hội đồng Liên hợp quốc thừa nhận và ghi vào Tuyên ngôn Nhân quyền ngày",
+    "answer": "10-12-1948"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Người lao động hưởng tiền lương, tiền công theo chu kỳ sản xuất, kinh doanh trong các doanh nghiệp nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp thì phương thức đóng được thực hiện là:",
+    "answer": "Hằng tháng, hằng quý hoặc sáu tháng một lần."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "BHXH triển khai theo hình thức bắt buộc ở Việt nam hiện nay gồm",
+    "answer": "5 chế độ"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Về nguyên tắc mức trợ cấp BHXH phải thấp hơn mức lương lúc đang đi làm, nhưng thấp nhất cũng phải",
+    "answer": "Lớn hơn mức lương tối thiểu"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Rủi ro nào thuộc phạm vi bảo hiểm hàng hoá xuất nhập khẩu vận chuyển bằng đường biển trong điều kiện ICC.C?",
+    "answer": "Hàng bị cháy nổ"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Trong phạm vi tiêu chuẩn của bảo hiểm vật chất xe cơ giới, rủi ro nào bị loại trừ?",
+    "answer": "Thủy kích"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Điều kiện bảo hiểm ICC.A bảo hiểm cho rủi ro nào sau đây?",
+    "answer": "Cả ba đáp án trên"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Rủi ro nào sau đây thuộc phạm vi cơ bản của bảo hiểm vật chất xe cơ giới?",
+    "answer": "Đâm va"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Mức giới hạn TNDS chủ xe ô tô đối với người thứ ba hiện nay là bao nhiêu? (tương ứng con người-tài sản)",
+    "answer": "100 -100"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Trong hợp đồng bảo hiểm, người được bảo hiểm là",
+    "answer": "người có tài sản, trách nhiệm dân sự hay tính mạng, sức khỏe được BH theo HĐBH"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Theo Luật kinh doanh bảo hiểm, trong trường hợp người thứ 3 yêu cầu người được bảo hiểm bồi thường về những thiệt hại thuộc trách nhiệm bảo hiểm thì thời hạn yêu cầu trả tiền bồi thường là",
+    "answer": "1 năm kể từ ngày người thứ 3 yêu cầu"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Trong trường hợp hợp đồng bảo hiểm có điều khoản không rõ ràng thì điều khoản đó được giải thích theo hướng có lợi cho",
+    "answer": "Bên mua bảo hiểm"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Doanh nghiệp bảo hiểm không có quyền đơn phương chấm dứt hợp đồng bảo hiểm trong trường hợp:",
+    "answer": "Bên mua bảo hiểm đã đóng 1 lần hoặc 1 số lần phí bảo hiểm nhưng không thể đóng được các khoản phí tiêp theo sau thời hạn 30 ngày kể từ ngày gia hạn đóng phí của doanh nghiệp bảo hiểm"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Trong hợp đồng bảo hiểm con người, nếu bên mua không đóng hoặc đóng thiếu phí bảo hiểm thì doanh nghiệp bảo hiểm:",
+    "answer": "không được khởi kiện truy đòi bên mua đóng phí bảo hiểm"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Ở Việt Nam, những hình thức bảo hiểm nào là bắt buộc đối với doanh nghiệp?",
+    "answer": ". Bảo hiểm xã hội."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Biện pháp kiểm soát rủi ro mà doanh nghiệp có thể lựa chọn cho 1 chương trình quản trị rủi ro là:",
+    "answer": ". né tránh rủi ro."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Trong chương trình bảo hiểm, việc quản lý các hợp đồng bảo hiểm thương mại bao gồm các công việc sau:",
+    "answer": ". theo dõi thời gian bảo hiểm; theo dõi thời gian bảo hiểm và chú ý thu xếp tái tục khi hết hạn hợp đồng; và theo dõi việc đóng phí bảo hiểm, theo dõi việc đảm bảo các qui định của hợp đồng về khai báo rủi ro, báo cáo khi thay đổi yếu tố rủi ro."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Lưu giữ tổn thất: trên thực tế là việc lập các quĩ dự phòng tổn thất và sử dụng khi rủi ro xảy ra. Lưu giữ tổn thất có vai trò:",
+    "answer": ". giúp doanh nghiệp đối phó với các tổn thất nhỏ, không đáng kể."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Rủi ro thuần túy mà một doanh nghiệp có thể gặp phải là gì?",
+    "answer": "Hỏa hoạn."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường là 100 tr.đ, được mua bảo hiểm với tỷ lệ phí bảo hiểm 0,5%. Chủ tài sản đã nộp phí bảo hiểm là 300.000 đ. Trong thời gian còn hiệu lực của hợp đồng bảo hiểm, tài sản gặp rủi ro thuộc phạm vi bảo hiểm, thiệt hại 20 tr.đ. Số tiền bảo hiểm bồi thường là bao nhiêu?",
+    "answer": "12 tr.đ"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường là 100 tr.đ, được mua bảo hiểm với tỷ lệ phí bảo hiểm 0,8%. Chủ tài sản đã nộp phí bảo hiểm là 400.000 đ. Trong thời gian còn hiệu lực của hợp đồng bảo hiểm, tài sản gặp rủi ro thuộc phạm vi bảo hiểm, thiệt hại 40 tr.đ. Số tiền bảo hiểm bồi thường là bao nhiêu?",
+    "answer": "20 tr.đ"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Theo nguyên tắc “rủi ro có thể được bảo hiểm”, trường hợp nào được bảo hiểm?",
+    "answer": "Thiệt hại tài sản do sét đánh gây cháy."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Yêu cầu của nguyên tắc “trung thực tuyệt đối” là gì?",
+    "answer": "Người tham gia bảo hiểm phải trung thực khi khai báo rủi ro và doanh nghiệp bảo hiểm phải có trách nhiệm cân nhắc các điều kiện, điều khoản để soạn thảo hợp đồng."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc khoán?",
+    "answer": "Bảo hiểm tử vong"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Hầu hết các nước khi mới có chính sách BHXH, đều thực hiện BHXH đối với",
+    "answer": "Các viên chức Nhà nước, những người làm công hưởng lương từ ngân sách Nhà nước"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Người được bảo hiểm của BHXH là",
+    "answer": "Người lao động"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Theo công ước 102, các quốc gia triển khai BHXH, ít nhất phải thực hiện",
+    "answer": "3 chế độ"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Phần lớn các chế độ BHXH được chi trả",
+    "answer": "Định kỳ hàng tháng"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Ngân sách Nhà nước hỗ trợ cho quỹ BHTN",
+    "answer": "Hằng tháng, Nhà nước hỗ trợ từ ngân sách bằng 1% quỹ tiền lương, tiền công tháng đóng bảo hiểm thất nghiệp của những người lao động tham gia bảo hiểm thất nghiệp và mỗi năm chuyển một lần."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Điều kiện để giải quyết đâm va tàu theo trách nhiệm đơn là gì?",
+    "answer": "Cả hai điều kiện A và B"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Các dạng tổn thất bộ phận trong bảo hiểm hàng hóa XNK vận chuyển bằng đường biển không bao gồm",
+    "answer": "Tổn thất toàn bộ thực tế"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Điều kiện bảo hiểm ICC.B không bảo hiểm cho rủi ro nào sau đây?",
+    "answer": "Bão"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Mức bồi thường ¾ TNDS về tài sản không vượt quá ¾ STBH không áp dụng cho điều kiện bảo hiểm thân tàu nào?",
+    "answer": "TLO"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Rủi ro nào sau đây là rủi ro chính trong hàng hải?",
+    "answer": "Chìm đắm"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Theo quy định của Luật kinh doanh bảo hiểm,trong trường hợp không có thỏa thuận về thời hạn thì, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, doanh nghiệp bảo hiểm phải bồi thường trong thời hạn",
+    "answer": "15 ngày"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm bao gồm:",
+    "answer": "Giấy yêu cầu bảo hiểm, đơn bảo hiểm/giấy chứng nhận bảo hiểm, giấy sửa đổi bổ sung"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Bên mua bảo hiểm không có quyền:",
+    "answer": "yêu cầu doanh nghiệp cho vay tiền để đóng phí khi gặp khó khăn về tài chính"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Theo quy định về hợp đồng bảo hiểm, doanh nghiệp bảo hiểm không có quyền",
+    "answer": "cung cấp thông tin về đối tượng bảo hiểm mà không cần sự đồng ý của bên mua bảo hiểm"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Thời hiệu khởi kiện về hợp đồng bảo hiểm theo Luật kinh doanh bảo hiểm là",
+    "answer": "3 năm kể từ thời điểm phát sinh tranh chấp"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Đối với các sản phẩm bảo hiểm yêu cầu cao về kĩ thuật, đánh giá rủi ro, giá trị hợp đồng lớn, doanh nghiệp thường lựa chọn tham gia bảo hiểm:",
+    "answer": ". trực tiếp tại công ty bảo hiểm hoặc qua môi giới."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Trong quản lý hợp đồng bảo hiểm, theo dõi việc đóng phí bảo hiểm (thực hiện nghĩa vụ về phí theo thỏa thuân của hợp đồng bảo hiểm) vô cùng quan trọng. Công việc này nhằm mục đích:",
+    "answer": ". đảm bảo hợp đồng bảo hiểm luôn duy trì hiệu lực trong thời hạn bảo hiểm."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Rủi ro được bảo hiểm là cơ sở xác định trách nhiệm bồi thường hoặc chi trả tiền của bảo hiểm. Rủi ro được bảo hiểm là:",
+    "answer": ". Rủi ro được bảo hiểm là các rủi ro thuàn túy, xảy ra ngẫu nhiên, nằm ngoài sự kiểm soát của người được bảo hiểm; Rủi ro được bảo hiểm là các rủi ro được bảo vệ thông qua hợp đồng bảo hiểm; Rủi ro được bảo hiểm phải đảm bảo là các trường hợp không vi phạm đạo đức xã hội."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Việc lập kế hoạch bảo hiểm cần xác định rõ:",
+    "answer": ". cơ sở lập kế hoạch; các rủi ro và tổn thất mà doanh nghiệp có thể phải đương đầu; phương thức thu xếp/tham gia bảo hiểm, lựa chọn doanh nghiệp bảo hiểm (đối với bảo hiểm thương mại), thu xếp bảo hiểm."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Kế hoạch bảo hiểm là:",
+    "answer": ". một chương trình bảo hiểm toàn diện cho doanh nghiệp. liên quan đến việc xác định các loại hình bảo hiểm cần tham gia, tiến hành thu xếp hợp đồng bảo hiểm, quản lý các hợp đồng bảo hiểm và các loại hình bảo hiểm thuộc bảo hiểm xã hội."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Một tài sản có giá thị trường 40 tr.đ. Chủ tài sản mua bảo hiểm với số tiền bảo hiểm 20 tr.đ. Thiệt hại tài sản thuộc phạm vi bảo hiểm là 20 tr.đ. Bảo hiểm bồi thường bao nhiêu?",
+    "answer": "10 tr.đ"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Ý nghĩa của việc áp dụng chế độ miễn thường trong bảo hiểm?",
+    "answer": "Nâng cao ý thức và trách nhiệm đề phòng hạn chế rủi ro của người được bảo hiểm"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Mục đích của việc áp dụng chế độ miễn thường trong bảo hiểm?",
+    "answer": "Áp dụng nguyên tắc bồi thường"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Loại hình bảo hiểm nào sau đây áp dụng nguyên tắc khoán?",
+    "answer": "Bảo hiểm nhân thọ"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Yêu cầu của nguyên tắc bồi thường trong bảo hiểm tài sản là gì?",
+    "answer": "Số tiền bồi thường tối đa bằng giá trị thiệt hại."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Thời gian hưởng trợ cấp thất nghiệp được quy định là 3 tháng nếu người lao động",
+    "answer": "Có từ đủ 12 tháng đến dưới 36 tháng đóng bảo hiểm thất nghiệp"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Người thất nghiệp được hưởng bảo hiểm thất nghiệp khi đã đóng bảo hiểm thất nghiệp đủ",
+    "answer": "Từ 12 tháng trở lên trong thời gian 24 tháng trước khi thất nghiệp"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Mức đóng góp BHXH bắt buộc của người lao động năm 2014 là",
+    "answer": "8% mức tiền lương, tiền công"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Đối tượng bảo hiểm của BHXH là",
+    "answer": "Thu nhập bị biến động giảm hoặc mất đi do người lao động tham gia BHXH bị giảm hoặc mất khả năng lao động, mất việc làm."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Chính sách thường được lựa chọn là trụ cột trong hệ thống ASXH quốc gia là",
+    "answer": "BHXH"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Điều kiện ITC không bồi thường cho tổn thất nào?",
+    "answer": "TNDS về người"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Rủi ro nào sau đây thuộc phạm vi của điều kiện I.CCC.B trong nghiệp vụ bảo hiểm hàng hoá xuất nhập khẩu vận chuyển bằng đường biển?",
+    "answer": "Hàng bị hỏng do tàu bị đâm va"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Chủ xe cơ giới có thể mua thêm điều khoản bổ sung nào?",
+    "answer": "Cả 3 đáp án trên"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Ở Việt Nam, Bảo hiểm vật chất xe cơ giới được thực hiện dưới hình thức nào?",
+    "answer": "Tự nguyện"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Trong phạm vị tiêu chuẩn của bảo hiểm vật chất xe cơ giới, rủi ro nào bị loại trừ?",
+    "answer": "Thủy kích"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm trách nhiệm dân sự là",
+    "answer": "là hợp đồng được áp dụng cho đối tượng là trách nhiệm dân sự của người được bảo hiểm đối với người thứ 3 theo quy định của pháp luật"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Trong hợp đồng bảo hiểm, người được thụ hưởng quyền lợi bảo hiểm là",
+    "answer": "người được người tham gia BH chỉ định hưởng quyền lợi BH theo HĐBH"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Trong hợp đồng bảo hiểm tài sản, khi xảy ra sự kiện bảo hiểm, doanh nghiệp bảo hiểm hoặc người được doanhnghiệp bảo hiểm uỷ quyền thực hiện việc giám định tổn thất để xác định nguyên nhân và mức độ tổn thất, trách nhiệm chi trả chi phí giám định thuộc vê:",
+    "answer": "Doanh nghiệp bảo hiểm"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm là",
+    "answer": "hợp đồng thành văn"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm con người là",
+    "answer": "là hợp đồng được áp dụng cho đối tượng bảo hiểm là tính mạng, tình trạng sức khỏe hay tuổi thọ của con người"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Bảo hiểm xã hội là loại hình bảo hiểm theo qui định của pháp luật. Tại Việt Nam:",
+    "answer": ". bảo hiểm xã hội bắt buộc được áp dụng đối với lao động làm công ăn lương có hợp đồng lao động 3 tháng trở lên."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Tại Việt Nam, bảo hiểm cháy nổ bắt buộc được áp dụng với:",
+    "answer": ". các doanh nghiệp và tổ chức thuộc nhóm ngành nghề kinh doanh, sản xuất, hoạt động có nguy cơ cháy cao."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Đơn bảo hiểm chính là bằng chứng cho việc chấp nhận bảo hiểm của doanh nghiệp bảo hiểm. Đơn bảo hiểm:",
+    "answer": ". là cơ sở pháp lý xác định quyền lợi và trách nhiệm của bên bảo hiểm và bên được bảo hiểm."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Chiến lược và mục tiêu của doanh nghiệp là một trong những nhân tố ảnh hưởng đến việc lập kế hoạch bảo hiểm. Trường hợp nào dưới đây là đúng nhất:",
+    "answer": ". Một doanh nghiệp đặt mục tiêu ổn định trong dài hạn thường quan tâm đến chương trình bảo hiểm."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Một việc công việc quan trọng của khâu quản lý hợp đồng là thông báo rủi ro và yêu cầu bồi thường. Việc thông báo rủi ro được thực hiện vào thời điểm:",
+    "answer": ". ngay khi rủi ro xảy ra và thông báo lại bằng văn bản trong thời gian qui định."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Đối tượng của bảo hiểm tài sản là gì?",
+    "answer": "Tài sản"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Nguyên tắc nào không phải là nguyên tắc hoạt động của bảo hiểm thương mại?",
+    "answer": "Bảo hiểm toàn dân."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Bảo hiểm thương mại có mấy nguyên tắc hoạt động?",
+    "answer": "5."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Trường hợp nào KHÔNG được áp dụng trong bảo hiểm con người?",
+    "answer": "Áp dụng bảo hiểm trùng"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Đối tượng của bảo hiểm thương mại?",
+    "answer": "Bảo hiểm tài sản, bảo hiểm con người và bảo hiểm trách nhiệm dân sự."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Phương thức đóng góp BHXH của người lao động và người sử dụng lao động được các quốc gia lựa chọn phổ biến là",
+    "answer": "Căn cứ vào mức lương cá nhân và quỹ lương của cơ quan, doanh nghiệp"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Đối tượng bảo hiểm của BHYT là",
+    "answer": "Sức khoẻ của người được bảo hiểm, được biểu hiện cụ thể dưới dạng chi phí y tế"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Quỹ BHXH bắt buộc ở Việt Nam bao gồm",
+    "answer": "3 quỹ thành phần"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "BHXH ra đời ở nước Phổ năm",
+    "answer": "1850"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Chức năng quản lý nhà nước về BHXH ở Việt Nam thuộc về",
+    "answer": "Bộ Lao động – thương binh – xã hội"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Phân loại theo kỹ thuật bảo hiểm, rủi ro hàng hải bao gồm",
+    "answer": "Cả 3 loại trên"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Phí bảo hiểm TNDS của chủ xe cơ giới đối với người thứ ba phụ thuộc vào những yếu tố nào sau đây:",
+    "answer": "Xác suất tai nạn rủi ro"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Hàng hóa nhập khẩu theo điều kiện CIF mua bảo hiểm xẩy ra hiện tượng gì?",
+    "answer": "Bảo hiểm trùng"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Rủi ro nào sau đây thuộc phạm vi cơ bản của bảo hiểm vật chất xe cơ giới:",
+    "answer": "Mất cắp toàn bộ xe"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Mức giới hạn TNDS chủ xe mô tô đối với người thứ ba hiện nay là bao nhiêu? (tương ứng con người-tài sản)",
+    "answer": "100-50"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Hợp đồng bảo hiểm không vô hiệu trong trường hợp",
+    "answer": "bên mua bảo hiểm có quyền lợi bảo hiểm và đã đóng phí đầy đủ"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Căn cứ vào đối tượng bảo hiểm, hợp đồng bảo hiểm được chia thành 3 loại:",
+    "answer": "Hợp đồng bảo hiểm tài sản, hợp đồng bảo hiểm trách nhiệm dân sự và hợp đồng bảo hiểm con người"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Giấy yêu cầu bảo hiểm nhằm",
+    "answer": "kê khai thông tin liên quan đến đối tượng bảo hiểm và bên mua bảo hiểm để doanh nghiệp bảo hiểm xem xét có thể chấp nhận bảo hiểm hay không"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Bên mua bảo hiểm không có nghĩa vụ:",
+    "answer": "thanh toán các khoản chi phí giám định tổn thất thuộc trách nhiệm của doanh nghiệp bảo hiểm"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Trong hợp đồng bảo hiểm, người tham gia bảo hiểm là",
+    "answer": "người đứng ra giao kết HĐBH với DNBH và đóng phí BH"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Mua bảo hiểm qua trung gian bảo hiểm là việc:",
+    "answer": ". mua bảo hiểm thông qua đại lý hoặc môi giới bảo hiểm."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Một kế hoạch bảo hiểm đươc lập trên cơ sở:",
+    "answer": ". các qui định của pháp luật, chiến lược kinh doanh, nhu cầu và khả năng tài chính của doanh nghiệp, tính chất hoạt động sản xuất kinh doanh của doanh nghiệp."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Câu hỏi nào KHÔNG đúng khi đề cập đến hoạt động phân tích rủi ro của doanh nghiệp?",
+    "answer": ". Liệu doanh nghiệp có đạt mục tiêu lợi nhuận?"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Biện pháp tài trợ rủi ro mà doanh nghiệp có thể lựa chọn cho 1 chương trình quản trị rủi ro là:",
+    "answer": ". lập quĩ dự phòng tổn thất."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Việc phân tích rủi ro và nguy cơ tổn thất được thực hiện dựa vào các nguồn thông tin sau:",
+    "answer": "D. danh sách rủi ro được nhận dạng; báo cáo tổn thất trong quá khứ; vị trí, đặc điểm hoạt động, ngành nghề của của doanh nghiệp."
+  }
+]

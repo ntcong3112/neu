@@ -1,0 +1,2168 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Ngân hàng của các quỹ tín dụng nhân dân là…",
+    "answer": "Ngân hàng hợp tác xã"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ chiết khấu giấy nợ.",
+    "answer": "Ngân hàng mua lại giấy nợ cho khách hàng trước khi giấy nợ đáo hạn"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Hệ thống ngân hàng Việt Nam đặt dưới sự quản lý trực tiếp của…",
+    "answer": "Ngân hàng Nhà nước"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Đặc điểm của ngân hàng thương mại là…",
+    "answer": "Thực hiện thường xuyên các hoạt động ngân hàng nhằm mục tiêu lợi nhuận"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Một cách phổ biến, ngân hàng có thể được hiểu là…",
+    "answer": "Trung gian tài chính"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "…là đặc điểm của phương pháp tính lãi theo lãi gộp",
+    "answer": "Để bảo vệ địa vị của kẻ yếu trong xã hội."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Một khách hàng vào ngày 1/6 hàng năm lại đến ngân hàng gửi tiền tiết kiệm hưởng lãi gộp. Người này gửi tất cả 6 lần: 3 lần đầu mỗi lần gửi 20 triệu đồng, 3 lần sau mỗi lần gửi 40 triệu đồng. Lãi suất tiền gửi là 6%/năm. Số tiền khách hàng có được ngay sau lần gửi cuối cùng là…đồng.",
+    "answer": "139.506.371"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Một khách hàng vào ngày 1/6 hàng năm lại đến ngân hàng gửi tiền tiết kiệm với số tiền gửi mỗi lần là 20 triệu đồng. Lãi nhập gốc hàng năm theo lãi suất 6%/năm. Người này gửi tất cả 5 lần và sau đó không gửi thêm tiền. 6 năm sau kể từ lần gửi cuối cùng, người này đến rút toàn bộ số tiền có được. Tổng số tiền rút ra là…đồng.",
+    "answer": "159.926.482"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Việc xác định giá trị hiện tại và giá trị tương lai của các khoản vốn là dựa trên nguyên tắc…",
+    "answer": "Giá trị theo thời gian của tiền"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Việc khách hàng trả nợ theo quy luật: số tiền trả nợ lần sau bằng số tiền trả nợ lần trước đó cộng với một số cố định và các lần trả nợ cách đều nhau là ví dụ về…",
+    "answer": "Chuỗi niên kim biến động theo cấp số cộng"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Giấy tờ có giá do ngân hàng phát hành để huy động vốn có kỳ hạn ngắn là:",
+    "answer": "Kỳ phiếu."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Thể thức thanh toán bằng uỷ nhiệm chi có thể sử dụng trong tình huống nào?",
+    "answer": "Thể thức thanh toán bằng uỷ nhiệm chi có thể sử dụng trong thanh toán hàng hoá, dịch vụ cung ứng hoặc sử dụng để chuyển tiền từ tài khoản này sang tài khoản khác"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Biện pháp nào dưới đây thường được các NHTM dùng để tạo thêm nguồn vốn huy động?",
+    "answer": "Biện pháp kinh tế, tâm lý và kỹ thuật."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Lựa chọn câu SAI:",
+    "answer": "Vốn huy động thuộc sở hữu của Ngân hàng."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Tài khoản thanh toán bị phong toả một phần hay toàn bộ số tiền trong các trường hợp nào?",
+    "answer": "C và có thoả thuận giữa chủ tài khoản và ngân hàng."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể của nợ nhóm 2 là",
+    "answer": "5%"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Kết cấu tài sản của NHTM gồm những khoản mục chính nào",
+    "answer": "Ngân quỹ, tín dụng, đầu tư, tài sản cố định"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Mức trích lập dự phòng chung phụ thuộc vào",
+    "answer": "dư nợ từ nhóm 1 đến nhóm 4 và tỷ lệ trích lập dự phòng chung"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không thuộc bên tài sản của ngân hàng:",
+    "answer": "Phát hành chứng chỉ tiền gửi"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên được xếp vào",
+    "answer": "Nợ nhóm 5"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Ngân hàng thu phí từ cung ứng các dịch vụ…",
+    "answer": "Dịch vụ ủy thác, tư vấn, bảo lãnh"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Một cách phổ biến, ngân hàng có thể được hiểu là…",
+    "answer": "Trung gian tài chính"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Chức năng “trung gian tài chính” của ngân hàng nghĩa là…",
+    "answer": "Ngân hàng chuyển vốn từ bên có sẵn vốn sang bên cần vốn"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Chức năng “trung gian thanh toán” của ngân hàng nghĩa là…",
+    "answer": "Ngân hàng thanh toán hộ cho khách hàng"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ cho vay",
+    "answer": "Ngân hàng giải ngân cho khách hàng sử dụng một số tiền nhất định dựa trên nguyên tắc hoàn trả đủ và đúng hạn gốc và lãi"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "…là đặc điểm của phương pháp tính lãi theo lãi gộp",
+    "answer": "Để bảo vệ địa vị của kẻ yếu trong xã hội."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Ngày 20/8/2018, khách hàng gửi 100 triệu đồng vào ngân hàng với lãi suất 6%/năm. Lãi nhập gốc hàng năm. Số tiền khách hàng rút ra sau 5 năm là…đồng.",
+    "answer": "133.822.558"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Một khách hàng vào ngày 1/6 hàng năm lại đến ngân hàng gửi tiền tiết kiệm với số tiền gửi mỗi lần là 20 triệu đồng. Lãi nhập gốc hàng năm theo lãi suất 6%/năm. Người này gửi tất cả 5 lần và sau đó không gửi thêm tiền. 6 năm sau kể từ lần gửi đầu tiên, người này đến rút toàn bộ số tiền có được. Tổng số tiền rút ra là…đồng.",
+    "answer": "126.676.753"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Ngày 20/8/2018, khách hàng gửi 100 triệu đồng vào ngân hàng theo lãi suất 5%/năm. Đến ngày 20/10/2018, khách hàng đến rút tiền. Tổng số tiền khách hàng rút ra là...đồng",
+    "answer": "100.835.616"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Ngân hàng giải ngân cho khách hàng vay 120 triệu đồng theo lãi suất 10%/năm. Khách hàng cam kết trả nợ tất cả 5 lần theo chuỗi niên kim cố định, các lần trả nợ cách nhau 1 năm và lần trả nợ đầu tiên cách lúc vay 3 năm. Số tiền khách hàng trả nợ mỗi lần là…",
+    "answer": "38.303.394"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Tiền gửi của khách hàng gửi tại các NHTM KHÔNG bao gồm hình thức nào?",
+    "answer": "Tiền vay."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Vốn huy động từ tiền gửi bao gồm những bộ phận nào?",
+    "answer": "Tiền gửi thanh toán, tiền gửi có kỳ hạn, tiền gửi tiết kiệm, tiền gửi khác."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Nhân tố nào tác động vào tâm lý khách hàng cá nhân gửi tiền vào tài khoản tiền gửi thanh toán:",
+    "answer": "Địa điểm thuận tiện, sự đa dạng về dịch vụ thanh toán của Ngân hàng, phí dịch vụ và yêu cầu số dư tối thiểu"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Để thực hiện tốt nghiệp vụ huy động vốn, các ngân hàng:",
+    "answer": "Phải có quy mô hoạt động ngày càng lớn, có chính sách lãi suất huy động một cách thích hợp và linh hoạt, cơ sở vật chất hiện đại và đội ngũ nhân viên giỏi nghiệp vụ"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Giấy nợ NHTM phát hành để huy động vốn từ dân cư gồm:",
+    "answer": "Kỳ phiếu ngân hàng, chứng chỉ tiền gửi ngân hàng và trái phiếu dài hạn."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không thuộc ngân quỹ:",
+    "answer": "Trái phiếu chính phủ"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Khoản tín dụng quá hạn 100 ngày được xếp vào nợ nhóm",
+    "answer": "3"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Khoản mục nào sau đây KHÔNG là tài sản nội bảng của ngân hàng",
+    "answer": "Hợp đồng tương lai"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Khoản mục nào sau đây KHÔNG là ngân quỹ của ngân hàng",
+    "answer": "Tiền vay ngân hàng nhà nước"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Nghiệp vụ mà ngân hàng cho phép khách hàng được chi vượt quá số dư có trên tài khoản tiền gửi thanh toán trong một hạn mức nhất định gọi là",
+    "answer": "cho vay thấu chi"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Nghiệp vụ mà ngân hàng cho phép khách hàng được chi vượt quá số dư có trên tài khoản tiền gửi thanh toán trong một hạn mức nhất định gọi là",
+    "answer": "Nhận tiền gửi, cấp tín dụng và cung ứng dịch vụ thanh toán qua tài khoản cho khách hàng"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ chiết khấu giấy nợ.",
+    "answer": "Ngân hàng mua lại giấy nợ cho khách hàng trước khi giấy nợ đáo hạn"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Sự giống nhau giữa dịch vụ nhận tiền gửi và bảo quản tài sản hộ là…",
+    "answer": "Ngân hàng giữ các tài sản cho khách hàng"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Điều kiện cho sự tồn tại bền vững của một ngân hàng thương mại là…",
+    "answer": "Khách hàng không đến rút tiền cùng một lúc"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Ngân hàng trả lãi cho dịch vụ…",
+    "answer": "Nhận tiền gửi"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Một khách hàng vào ngày 20/8 hàng năm lại đến ngân hàng gửi tiền tiết kiệm. Khoản tiền đầu tiên gửi vào ngày 20/8/2010 và khoản cuối cùng gửi vào ngày 20/8/2019. Các khoản tiền gửi lập thành chuỗi niên kim có … niên kim.",
+    "answer": "20"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Ngày 1/6/2015, khách hàng gửi vào ngân hàng 300 triệu đồng với lãi suất 8%/năm. Một năm sau ngày gửi, khách hàng bắt đầu rút tiền: các lần rút tiền cách đều nhau 1 năm và số tiền rút ra mỗi lần bằng nhau bằng 100 triệu đồng. Số tiền khách hàng còn lại trong ngân hàng ngay sau lần rút tiền cuối cùng là…đồng.",
+    "answer": "53.273.600"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Một khách hàng vào ngày ½ và 1/6 hàng năm lại đến ngân hàng gửi tiết kiệm hưởng lãi gộp theo lãi suất 8,16/năm số tiền bằng nhau là 30 triệu đồng, lãi nhập gốc 6 tháng một lần.Người này gửi tất cả 8 lần. Sau lần gửi cuối cùng, tiền vẫn để trong ngân hàng. 4 năm sau, kể từ lần gửi tiền đầu tiên, người này đến rút toàn bộ số tiền có được. Số tiền rút ra là…đồng.",
+    "answer": "287.483.860"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Việc khách hàng trả nợ các khoản tiền bằng nhau vào các thời điểm cách đều nhau là ví dụ về…",
+    "answer": "Chuỗi niên kim cố định"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Cho trước lãi suất năm, lãi suất tỷ lệ của các thời kỳ dưới 1 năm…lãi suất tương đương của các thời kỳ này.",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Quản lý vốn chủ sở hữu gồm những nội dung gì?",
+    "answer": "Xác định vốn chủ sở hữu trong quan hệ với tổng tài sản có; Xác định vốn chủ sở hữu trong quan hệ với tài sản có có rủi ro; Xác định vốn CSH trong mối liên hệ với các nhân tố khác."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Chi phí nào trong tổng chi phí huy động vốn của NHTM chiếm tỷ trọng lớn nhất?",
+    "answer": "Chi phí trả lãi tiền gửi"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Giấy nợ NHTM phát hành để huy động vốn từ dân cư gồm:",
+    "answer": "Kỳ phiếu ngân hàng, chứng chỉ tiền gửi ngân hàng và trái phiếu dài hạn."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Lựa chọn đáp án SAI: Nhân tố chủ quan tác động tới khả năng huy động vốn của Ngân hàng là:",
+    "answer": "Chính sách tiền tệ."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Vốn tự có cấp 1 so với vốn tự có cấp 2",
+    "answer": "Lớn hơn hoặc bằng"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Những khoản ngân hàng trả thay theo cam kết ngoại bảng nếu quá hạn từ 30 ngày tới dưới 90 ngày thì xếp vào:",
+    "answer": "Nợ nhóm 4"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Khoản mục nào sau đây được hạch toán ngoại bảng",
+    "answer": "Cam kết trong nghiệp vụ L/C"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Nợ đủ tiêu chuẩn tức là",
+    "answer": "nợ nhóm 1"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Tài sản nào sau đây có tính sinh lời thấp nhất",
+    "answer": "Tài sản cố định"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Tài sản nào sau đây có tính sinh lời cao nhất",
+    "answer": "Tín dụng"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Tài sản nào sau đây có tính sinh lời cao nhất",
+    "answer": "Khách hàng gửi tiền gửi thanh toán nhằm mục tiêu sử dụng các dịch vụ thanh toán của ngân hàng, gửi tiền gửi tiết kiệm nhằm mục tiêu lấy lãi"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Các ngân hàng sơ khai cung ứng cho khách hàng các dịch vụ bao gồm",
+    "answer": "Đúc tiền, đổi tiền, thanh toán hộ, kinh doanh chứng khoán"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Sự giống nhau giữa dịch vụ bảo lãnh và dịch vụ bảo quản tài sản hộ",
+    "answer": "Đều là dịch vụ ngân hàng thu phí"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Một cách phổ biến, ngân hàng có thể được hiểu là…",
+    "answer": "Doanh nghiệp kinh doanh tiền tệ"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Hệ thống ngân hàng Việt Nam đặt dưới sự quản lý trực tiếp của…",
+    "answer": "Ngân hàng Nhà nước"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Ngân hàng giải ngân cho khách hàng vay một khoản tiền với cam kết trả nợ theo chuỗi niên kim cố định. Các lần trả nợ cách đều nhau 1 năm, lần trả nợ đầu tiên cách lúc vay 1 năm. Mỗi lần khách hàng trả 30 triệu đồng thì trả tất cả 20 lần sẽ hết nợ. Lãi suất vay là 9%/năm. Số tiền ngân hàng đã cho vay là… đồng.",
+    "answer": "1.534. 803.589"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Việc khách hàng trả nợ theo quy luật: số tiền trả nợ lần sau bằng số tiền trả nợ lần trước đó cộng với một số cố định và các lần trả nợ cách đều nhau là ví dụ về…",
+    "answer": "Chuỗi niên kim biến động theo cấp số cộng"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Trong thanh toán nợ theo chuỗi niên kim cố định, số tiền trả nợ mỗi lần…",
+    "answer": "Bằng nhau"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Trong thanh toán nợ theo chuỗi niên kim cố định, số tiền trả gốc mỗi lần…",
+    "answer": "Tăng dần"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Ngân hàng giải ngân cho khách hàng vay 120 triệu đồng theo lãi suất 10%/năm. Khách hàng cam kết trả nợ tất cả 5 lần theo chuỗi niên kim cố định, các lần trả nợ cách nhau 1 năm và lần trả nợ đầu tiên cách lúc vay 1 năm. Số tiền khách hàng trả nợ mỗi lần là…",
+    "answer": "31.655.698"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Thẻ thanh toán có thể sử dụng trong tình huống nào?",
+    "answer": "Bất cứ khoản thanh toán nào mà bên thụ hưởng chấp nhận"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Vốn chủ sở hữu của NHTM là gì?",
+    "answer": "Là nguồn vốn thuộc sở hữu của NHTM"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Tiền gửi thanh toán là:",
+    "answer": "Loại tiền mà chủ sở hữu của khoản tiền này có thể rút tiền hoặc trả cho đối tác kinh doanh của họ bằng các phương tiện thanh toán."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Thanh toán giữa các khách hàng qua ngân hàng có ý nghĩa như thế nào trong đời sống kinh tế – xã hội cũng như trong hoạt động của khách hàng và ngân hàng?",
+    "answer": "Tất cả đều đúng"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây giữa tiền gửi có kỳ hạn và tiền gửi thanh toán là chính xác",
+    "answer": "Tiền gửi thanh toán được mở ra nhằm mục đích thực hiện thanh toán qua ngân hàng chứ không nhằm mục đích hưởng lãi còn tiền gửi có kỳ hạn nhằm mục đích hưởng lãi trong một thời hạn nhất định."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Quản lý tài sản nhằm các mục tiêu chính",
+    "answer": "Tất cả các nội dung trên"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể của nợ nhóm 4 là",
+    "answer": "50%"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định là hình thức ",
+    "answer": "Cho vay theo hạn mức"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Hình thức cấp tín dụng cho bên bán hàng thông qua việc mua lại các khoản phải thu phát sinh từ việc mua bán hàng hóa và cung ứng dịch vụ là hình thức cấp tín dụng nào?",
+    "answer": "bao thanh toán"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Điều kiện nào không bắt buộc khi cấp tín dụng",
+    "answer": "Tài sản đảm bảo có giá trị lớn hơn hoặc bằng giá trị khoản vay"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Điều kiện để ngân hàng chấp nhận chiết khấu giấy tờ có giá cho khách hàng",
+    "answer": "Khách hàng nhận được số tiền nhỏ hơn số tiền sẽ nhận được khi giấy tờ có giá đáo hạn"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ ủy thác",
+    "answer": "Khách hàng ủy thác cho ngân hàng quản lý tài sản"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Theo quy định hiện hành của Việt Nam, hoạt động ngân hàng bao gồm…",
+    "answer": "Nhận tiền gửi, cấp tín dụng và cung ứng dịch vụ thanh toán qua tài khoản cho khách hàng"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Dịch vụ “đổi tiền” của các ngân hàng sơ khai chính là dịch vụ …của các ngân hàng ngày nay.",
+    "answer": "Kinh doanh ngoại tệ"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ bảo quản tài sản hộ",
+    "answer": "Ngân hàng giữ hộ khách hàng vàng, các giấy tờ quan trọng trong két"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Cho trước lãi suất năm, lãi suất tỷ lệ của các thời kỳ trên 1 năm…lãi suất tương đương của các thời kỳ này.",
+    "answer": "Nhỏ hơn"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Trong thanh toán nợ theo chuỗi niên kim cố định, số tiền trả lãi mỗi lần…",
+    "answer": "Giảm dần"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Ngày 20/2/2018, khách hàng gửi vào ngân hàng 100 triệu đồng với lãi suất 10,25%/năm. Lãi nhập gốc 6 tháng một lần. Tổng số tiền khách hàng rút ra vào ngày 20/8/2019 là…đồng.",
+    "answer": "115.762.500"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Lợi nhuận hàng năm của một doanh nghiệp là ví dụ về…",
+    "answer": "Chuỗi niên kim biến động không có quy luật"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Ngày 20/8/2018, khách hàng gửi tiền vào ngân hàng. Đến ngày 5/10/2018, khách hàng đến rút tiền. Thời gian tiền để trong ngân hàng là…ngày.",
+    "answer": "46"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Tại sao phải quản lý nguồn vốn?",
+    "answer": "Khai thác tối đa nguồn vốn nhàn rỗi trong nền kinh tế; Đảm bảo nguồn vốn NHTM tăng trưởng bền vững, đáp ứng kịp thời, đầy đủ về thời gian, lãi suất thích hợp; Đảm bảo khả năng thanh toán, chi trả của NHTM và nâng cao hiệu quả kinh doanh."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Nguồn vốn kinh doanh quan trọng nhất của NHTM là:",
+    "answer": "Vốn huy động tiền gửi"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động kỳ phiếu 12 tháng, lãi suất trả trước 8,5%/năm, lãi suất tương đương trả sau (NEC) là",
+    "answer": "9,29%"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Giả sử nguồn vốn huy động của NH\nA là 500 tỷ đ, trong đó:\n- Tiền gửi không kỳ hạn: 100 tỷ đ, chi phí trả lãi và các chi phí khác là 6%.\n- Tiền gửi có kỳ hạn và TGTK: 300 tỷ đ, chi phí trả lãi và các chi phí khác là 8%.\n- Vốn đi vay là: 100 tỷ đồng với\nmức chi phí là 10%.\nChi phí huy động vốn bình quân của NH A là bao nhiêu?",
+    "answer": "8%"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Nguồn vốn huy động nào của NHTM có lãi suất thấp nhất?",
+    "answer": "Tiền gửi thanh toán."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể của nợ nhóm 3 là",
+    "answer": "20%"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Theo quy định hiện hành, dự phòng chung được trích lập cho",
+    "answer": "Dư nợ từ nhóm 1 tới nhóm 4"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Các khoản bảo lãnh mà ngân hàng phải trả thay cho khách hàng được xếp vào",
+    "answer": "Nợ xấu"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàng để thực hiện một phương án, dự án vay vốn là:",
+    "answer": "cho vay hợp vốn"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Nghiệp vụ nào sau đây không phải là nghiệp vụ tín dụng:",
+    "answer": "mua trái phiếu chính phủ"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ bảo lãnh.",
+    "answer": "Ngân hàng bảo lãnh cho khoản thanh toán của khách hàng với bên thứ ba khác"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "…là đặc điểm của tổ chức tài chính vi mô",
+    "answer": "Thực hiện một số hoạt động ngân hàng nhằm đáp ứng nhu cầu của các cá nhân, hộ gia đình có thu nhập thấp và doanh nghiệp siêu nhỏ"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Theo quy định hiện hành của Việt Nam, hoạt động ngân hàng bao gồm…",
+    "answer": "Nhận tiền gửi, cấp tín dụng và cung ứng dịch vụ thanh toán qua tài khoản cho khách hàng"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "…là đặc điểm của quỹ tín dụng nhân dân",
+    "answer": "Thành lập dưới hình thức hợp tác xã nhằm tương trợ lẫn nhau giữa các thành viên"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Các hình thức nhận tiền gửi của ngân hàng gồm",
+    "answer": "Tiền gửi tiết kiệm, tiền gửi thanh toán, phát hành chứng chỉ tiền gửi"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Việc xác định giá trị hiện tại và giá trị tương lai của các khoản vốn là dựa trên nguyên tắc…",
+    "answer": "Giá trị theo thời gian của tiền"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Ngân hàng giải ngân cho khách hàng vay 20 triệu đồng với lãi suất 1%/tháng. Sau một thời gian, ngân hàng thu nợ là 21.230.403 đồng. Thời gian ngân hàng cho vay là…",
+    "answer": "6 tháng"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Cho trước lãi suất năm, lãi suất tỷ lệ của các thời kỳ dưới 1 năm…lãi suất tương đương của các thời kỳ này.",
+    "answer": "Lớn hơn"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Ngân hàng giải ngân cho khách hàng vay 120 triệu đồng theo lãi suất 10%/năm. Khách hàng cam kết trả nợ tất cả 5 lần theo chuỗi niên kim cố định, các lần trả nợ cách nhau 1 năm và lần trả nợ đầu tiên cách lúc vay 1 năm. Số tiền khách hàng trả nợ mỗi lần là…",
+    "answer": "31.655.698"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "…là đặc điểm của phương pháp tính lãi theo lãi đơn",
+    "answer": "Tiền lãi luôn tính trên vốn đầu tư ban đầu"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Nguồn vốn là những giá trị tiền tệ do ngân hàng tạo lập và huy động được dùng để:",
+    "answer": "Cho vay, đầu tư, làm phương tiện thanh toán và thực hiện các nghiệp vụ tài chính khác."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Thể thức thanh toán uỷ nhiệm thu có thể sử dụng trong những tình huống nào?",
+    "answer": "Trong trường hợp hai bên mua bán hàng hoá hoặc cung ứng dịch vụ có sự tín nhiệm lẫn nhau hoặc trong trường hợp thanh toán dịch vụ cung cấp có phương tiện đo đếm chính xác bằng đồng hồ như điện, nước, điện thoại"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động kỳ phiếu 12 tháng, lãi suất trả trước 8,5%/năm, dự trữ bắt buộc là 5%, dự trữ vượt mức là 3%, lãi suất tương đương trả sau (NEC) là",
+    "answer": "10,10%"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây là đúng về của nghiệp vụ huy động vốn của NHTM?",
+    "answer": "Nghiệp vụ huy động vốn của NHTM giúp cho khách hàng gửi tiền vừa tiết kiệm tiền vừa có thu nhập."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Đâu KHÔNG PHẢI là nhân tố chủ quan tác động tới khả năng khai thác vốn của Ngân hàng?",
+    "answer": "Chính sách tiền tệ."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Tìm câu trả lời SAI: nghiệp vụ thuộc tài sản của các NHTM gồm",
+    "answer": "Nghiệp vụ phát hành trái phiếu"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Nợ xấu là nợ thuộc nhóm",
+    "answer": "3,4,5"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Mục tiêu nào không phải là mục tiêu chính của quản lý ngân quỹ",
+    "answer": "tăng thu nhập từ lãi cho ngân hàng"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Tài sản nào có tính lỏng kém nhất?",
+    "answer": "TSCĐ"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Nợ cơ cấu lại thời hạn trả nợ lần thứ hai được xếp vào",
+    "answer": "Nợ nhóm 4"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Ngân hàng thu lãi từ cung ứng dịch vụ…",
+    "answer": "Cho vay"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Sự giống nhau giữa công ty tài chính và công ty cho thuê tài chính là…",
+    "answer": "Đều không được phép huy động tiền gửi từ dân cư"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Các loại hình ngân hàng bao gồm…",
+    "answer": "Ngân hàng thương mại, ngân hàng chính sách, ngân hàng hợp tác xã"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ môi giới chứng khoán",
+    "answer": "Ngân hàng cung cấp cho khách hàng cơ hội mua cổ phiếu, trái phiếu với chi phí hợp lý"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ quản lý ngân quỹ.",
+    "answer": "Ngân hàng quản lý các khoản thu, chi và tiền mặt của khách hàng"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Ngân hàng giải ngân cho khách hàng vay một khoản tiền với cam kết trả nợ theo chuỗi niên kim cố định. Các lần trả nợ cách đều nhau 1 năm, lần trả nợ đầu tiên cách lúc vay 1 năm. Mỗi lần khách hàng trả 30 triệu đồng thì trả tất cả 20 lần sẽ hết nợ. Lãi suất vay là 9%/năm. Số tiền ngân hàng đã cho vay là… đồng.",
+    "answer": "1.534. 803.589"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Việc khách hàng trả nợ các khoản tiền bằng nhau vào các thời điểm cách đều nhau là ví dụ về…",
+    "answer": "Chuỗi niên kim cố định"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Khách hàng gửi vào ngân hàng 100 triệu đồng. Ngân hàng yết lãi suất 8%/năm. Thời gian tiền để trong ngân hàng là như nhau. Số tiền khách hàng rút ra nếu ngân hàng tính lãi hàng tháng …số tiền này nếu ngân hàng tính lãi hàng quý.",
+    "answer": "Bằng"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Một khách hàng vào ngày 20/8 hàng năm lại đến ngân hàng gửi tiền tiết kiệm. Khoản tiền đầu tiên gửi vào ngày 20/8/2010 và khoản cuối cùng gửi vào ngày 20/8/2019. Các khoản tiền gửi lập thành chuỗi niên kim có … niên kim.",
+    "answer": "20"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Các khoản thanh toán lãi cho trái phiếu coupon là ví dụ về…",
+    "answer": "Chuỗi niên kim cố định"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Các tài sản nợ khác được coi là vốn chủ sở hữu gồm những nguồn nào?",
+    "answer": "Vốn đầu tư mua sắm do nhà nước cấp nếu có. Các khoản chênh lệnh do đánh giá lại tài sản, chênh lệch tỷ giá, lợi nhuận được để lại chưa phân bổ cho các quỹ."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Tại sao cần có những hình thức huy động vốn bằng cách phát hành giấy tờ có giá bên cạnh hình thức huy động vốn qua tài khoản tiền gửi?",
+    "answer": "Vì nhu cầu gửi tiền của khách hàng đa dạng do đó cần có nhiều hình thức để khách hàng lựa chọn phù hợp với nhu cầu của họ và nhu cầu cần nguồn vốn của NH để đáp ứng cho khách hàng vay vốn."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động kỳ phiếu 12 tháng, lãi suất trả trước 8,5%/năm, dự trữ bắt buộc là 5%, lãi suất tương đương trả sau (NEC) là",
+    "answer": "9,78%"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Ngoài hình thức huy động vốn qua tài khoản tiền gửi ngân hàng thương mại còn có thể huy động vốn bằng cách nào?",
+    "answer": "Phát hành các giấy tờ có giá"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động tiết kiệm 12 tháng, lãi suất 8,5%/năm, trả lãi 6 tháng/lần, dự trữ bắt buộc là 5%, lãi suất tương đương trả sau (NEC) là:",
+    "answer": "9,14%"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Khoản mục nào thường chiếm tỷ trọng lớn nhất trong tài sản của ngân hàng",
+    "answer": "Tín dụng"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Một khoản nợ 200 triệu quá hạn 100 ngày. Giá trị khấu trừ tài sản đảm bảo là 100 triệu. Mức trích lập dự phòng cụ thể của khoản vay này là:",
+    "answer": "20 triệu"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Tài sản của ngân hàng không bao gồm khoản mục nào:",
+    "answer": "Vốn điều lệ"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Theo luật các tổ chức tín dụng 2010, tổ hợp nào chứa đựng hoạt động KHÔNG phải là hoạt động tín dụng",
+    "answer": "Cho vay, chiết khấu, bao thanh toán, phát hành thẻ ghi nợ"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Nợ điều chỉnh kỳ hạn nợ lần đầu được xếp vào:",
+    "answer": "Nợ nhóm 2"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Một cách phổ biến, ngân hàng có thể được hiểu là…",
+    "answer": "Doanh nghiệp kinh doanh tiền tệ"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ ủy thác",
+    "answer": "Khách hàng ủy thác cho ngân hàng quản lý tài sản"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Điều kiện để ngân hàng chấp nhận chiết khấu giấy tờ có giá cho khách hàng",
+    "answer": "Khách hàng nhận được số tiền nhỏ hơn số tiền sẽ nhận được khi giấy tờ có giá đáo hạn"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ cho vay",
+    "answer": "Ngân hàng giải ngân cho khách hàng sử dụng một số tiền nhất định dựa trên nguyên tắc hoàn trả đủ và đúng hạn gốc và lãi"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Sự giống nhau giữa công ty tài chính và công ty cho thuê tài chính là…",
+    "answer": "Đều không được phép huy động tiền gửi từ dân cư"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Cho trước lãi suất năm, lãi suất tỷ lệ của các thời kỳ trên 1 năm…lãi suất tương đương của các thời kỳ này.",
+    "answer": "Nhỏ hơn"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Ngân hàng giải ngân cho khách hàng vay 120 triệu đồng theo lãi suất 12,36%/năm. Khách hàng cam kết trả nợ tất cả 5 lần theo chuỗi niên kim cố định, các lần trả nợ cách nhau 6 tháng và lần trả nợ đầu tiên cách lúc vay 6 tháng. Số tiền khách hàng trả nợ mỗi lần là…",
+    "answer": "28.487.568"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Ngày 20/8/2018, khách hàng gửi 100 triệu đồng vào ngân hàng với lãi suất 6%/năm. Lãi nhập gốc hàng năm. Số tiền khách hàng rút ra sau 5 năm là…đồng.",
+    "answer": "133.822.558"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Ngày 20/8/2018, khách hàng gửi 100 triệu đồng vào ngân hàng theo lãi suất 5%/năm. Đến ngày 20/10/2018, khách hàng đến rút tiền. Tổng số tiền khách hàng rút ra là...đồng",
+    "answer": "100.835.616"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Một khách hàng cam kết trả nợ ngân hàng vào ngày 1/6 hàng năm cho khoản vay có lãi suất 10%/năm. Khách hàng trả tất cả 6 lần thì hết nợ: 3 lần đầu mỗi lần trả 20 triệu đồng, 3 lần cuối mỗi lần trả 40 triệu đồng. Lần trả nợ đầu tiên cách lúc vay 1 năm. Số tiền ngân hàng đã cho vay là…đồng.",
+    "answer": "124.473. 388"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Để thực hiện tốt nghiệp vụ huy động vốn các ngân hàng:",
+    "answer": "Phải có quy mô hoạt động ngày càng lớn, có chính sách lãi suất huy động một cách thích hợp và linh hoạt, cơ sở vật chất hiện đại và đội ngũ nhân viên giỏi nghiệp vụ"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây là chính xác?",
+    "answer": "Tiền gửi không kỳ hạn có thể rút được bất cứ lúc nào trong khi tiền gửi định kỳ chỉ rút được khi đến hạn."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Thẻ tín dụng (credit card) và thẻ ghi nợ (debit card) khác nhau cơ bản ở nội dung nào?",
+    "answer": "Thẻ tín dụng không đòi hỏi khách hàng phải có tiền trên tài khoản mới được sử dụng, thẻ ghi nợ đời hỏi khách hàng phải có tiền trên tài khoản mới được sử dụng"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây là chính xác?",
+    "answer": "Lãi suất huy động tiền gửi thanh toán nhỏ hơn lãi suất huy động tiền gửi tiết kiệm không kỳ hạn."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động tiết kiệm 12 tháng, lãi suất 8,5%/năm, trả lãi 6 tháng/lần, dự trữ bắt buộc là 5%, dự trữ vượt mức là 3%, lãi suất tương đương trả sau (NEC) là:",
+    "answer": "9,44%"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả nợ đầy đủ theo hợp đồng tín dụng được xếp vào:",
+    "answer": "Nợ nhóm 3"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Khoản mục nào sau đây là tài sản ngoại bảng của ngân hàng:",
+    "answer": "Bảo lãnh"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Hình thức cấp tín dụng, theo đó tổ chức tín dụng giao hoặc cam kết giao cho khách hàng một khoản tiền để sử dụng vào mục đích xác định trong một thời gian nhất định theo thỏa thuận với nguyên tắc có hoàn trả cả gốc và lãi là:",
+    "answer": "cho vay"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Nợ cần chú ý là nợ nhóm",
+    "answer": "2."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Khoản vay quá hạn 9 ngày và được đánh giá có khả năng thu hồi đầy đủ gốc và lãi được xếp vào",
+    "answer": "Nợ nhóm 1"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Ngân hàng của các quỹ tín dụng nhân dân là…",
+    "answer": "Ngân hàng hợp tác xã"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "…là đặc điểm của dịch vụ chiết khấu giấy nợ.",
+    "answer": "Ngân hàng mua lại giấy nợ cho khách hàng trước khi giấy nợ đáo hạn"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Hệ thống ngân hàng Việt Nam đặt dưới sự quản lý trực tiếp của…",
+    "answer": "Ngân hàng Nhà nước"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Đặc điểm của ngân hàng thương mại là…",
+    "answer": "Thực hiện thường xuyên các hoạt động ngân hàng nhằm mục tiêu lợi nhuận"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Một cách phổ biến, ngân hàng có thể được hiểu là…",
+    "answer": "Trung gian tài chính"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "…là đặc điểm của phương pháp tính lãi theo lãi gộp",
+    "answer": "Để bảo vệ địa vị của kẻ yếu trong xã hội."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Một khách hàng vào ngày 1/6 hàng năm lại đến ngân hàng gửi tiền tiết kiệm hưởng lãi gộp. Người này gửi tất cả 6 lần: 3 lần đầu mỗi lần gửi 20 triệu đồng, 3 lần sau mỗi lần gửi 40 triệu đồng. Lãi suất tiền gửi là 6%/năm. Số tiền khách hàng có được ngay sau lần gửi cuối cùng là…đồng.",
+    "answer": "139.506.371"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Một khách hàng vào ngày 1/6 hàng năm lại đến ngân hàng gửi tiền tiết kiệm với số tiền gửi mỗi lần là 20 triệu đồng. Lãi nhập gốc hàng năm theo lãi suất 6%/năm. Người này gửi tất cả 5 lần và sau đó không gửi thêm tiền. 6 năm sau kể từ lần gửi cuối cùng, người này đến rút toàn bộ số tiền có được. Tổng số tiền rút ra là…đồng.",
+    "answer": "159.926.482"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Việc xác định giá trị hiện tại và giá trị tương lai của các khoản vốn là dựa trên nguyên tắc…",
+    "answer": "Giá trị theo thời gian của tiền"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Việc khách hàng trả nợ theo quy luật: số tiền trả nợ lần sau bằng số tiền trả nợ lần trước đó cộng với một số cố định và các lần trả nợ cách đều nhau là ví dụ về…",
+    "answer": "Chuỗi niên kim biến động theo cấp số cộng"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Giấy tờ có giá do ngân hàng phát hành để huy động vốn có kỳ hạn ngắn là:",
+    "answer": "Kỳ phiếu."
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Thể thức thanh toán bằng uỷ nhiệm chi có thể sử dụng trong tình huống nào?",
+    "answer": "Thể thức thanh toán bằng uỷ nhiệm chi có thể sử dụng trong thanh toán hàng hoá, dịch vụ cung ứng hoặc sử dụng để chuyển tiền từ tài khoản này sang tài khoản khác"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Biện pháp nào dưới đây thường được các NHTM dùng để tạo thêm nguồn vốn huy động?",
+    "answer": "Biện pháp kinh tế, tâm lý và kỹ thuật."
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Lựa chọn câu SAI:",
+    "answer": "Vốn huy động thuộc sở hữu của Ngân hàng."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Tài khoản thanh toán bị phong toả một phần hay toàn bộ số tiền trong các trường hợp nào?",
+    "answer": "C và có thoả thuận giữa chủ tài khoản và ngân hàng."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể của nợ nhóm 2 là",
+    "answer": "5%"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Kết cấu tài sản của NHTM gồm những khoản mục chính nào",
+    "answer": "Ngân quỹ, tín dụng, đầu tư, tài sản cố định"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Mức trích lập dự phòng chung phụ thuộc vào",
+    "answer": "dư nợ từ nhóm 1 đến nhóm 4 và tỷ lệ trích lập dự phòng chung"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không thuộc bên tài sản của ngân hàng:",
+    "answer": "Phát hành chứng chỉ tiền gửi"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên được xếp vào",
+    "answer": "Nợ nhóm 5"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Nợ điều chỉnh kỳ hạn nợ lần đầu được xếp vào:",
+    "answer": "Nợ nhóm 2"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Nghiệp vụ nào sau đây không phải là nghiệp vụ tín dụng:",
+    "answer": "mua trái phiếu chính phủ"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể của nợ nhóm 3 là",
+    "answer": "20%"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Mua có bảo lưu quyền truy đòi các công cụ chuyển nhương, giấy tờ có giá trước khi đến hạn thanh toán là hình thức tín dụng nào",
+    "answer": "Chiết khấu"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàng để thực hiện một phương án, dự án vay vốn là:",
+    "answer": "cho vay hợp vốn"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả nợ đầy đủ theo hợp đồng tín dụng được xếp vào:",
+    "answer": "Nợ nhóm 3"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Tài sản nào sau đây có tính sinh lời thấp nhất",
+    "answer": "Tài sản cố định"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Những khoản ngân hàng trả thay theo cam kết ngoại bảng nếu quá hạn trên 90 ngày thì xếp vào:",
+    "answer": "Nợ nhóm 5"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Nợ cơ cấu lại thời hạn trả nợ lần thứ hai được xếp vào",
+    "answer": "Nợ nhóm 4"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Tín dụng ngắn hạn đối với doanh nghiệp thường nhằm mục đích:",
+    "answer": "Bổ sung vốn lưu động"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Nợ quá hạn từ 10 ngày tới 90 ngày được xếp vào",
+    "answer": "Nợ nhóm 2"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Tìm câu trả lời SAI: nghiệp vụ thuộc tài sản của các NHTM gồm",
+    "answer": "Nghiệp vụ phát hành trái phiếu"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Tài sản nào không được chấp nhận làm tài sản bảo đảm để vay vốn ngân hàng X?",
+    "answer": "cổ phiếu do ngân hàng X phát hành"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Nghiệp vụ mà ngân hàng cho phép khách hàng được chi vượt quá số dư có trên tài khoản tiền gửi thanh toán trong một hạn mức nhất định gọi là",
+    "answer": "cho vay thấu chi"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Bảo lãnh ngân hàng là việc ngân hàng cam kết sẽ:",
+    "answer": "Thực hiện các nghĩa vụ tài chính thay bên được bảo lãnh khi họ không thực hiện được các nghĩa vụ tài chính của mình"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Mức cho vay đối với một khách hàng phụ thuộc vào",
+    "answer": "Tất cả các ý trên"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể của nợ nhóm 2 là",
+    "answer": "5%"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Nợ quá hạn 450 ngày được xếp vào",
+    "answer": "Nợ nhóm 5"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Khi giá trị khấu trừ tài sản đảm bảo là 100, dư nợ là 150 (nợ quá hạn 2 tháng) thì mức trích lập dự phòng cụ thể cho món vay này là:",
+    "answer": "2,5"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Điều kiện nào không bắt buộc khi cấp tín dụng",
+    "answer": "Tài sản đảm bảo có giá trị lớn hơn hoặc bằng giá trị khoản vay"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Mức trích lập dự phòng cụ thể của một khoản vay phụ thuộc vào",
+    "answer": "tất cả các ý trên"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Tài sản nào sau đây có tính sinh lời cao nhất",
+    "answer": "Tín dụng"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Nợ cần chú ý là nợ nhóm",
+    "answer": "2."
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Tài sản của ngân hàng không bao gồm khoản mục nào:",
+    "answer": "Vốn điều lệ"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Tài sản nào sau đây là tài sản KHÔNG sinh lời",
+    "answer": "Tiền mặt"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Hình thức cấp tín dụng, theo đó tổ chức tín dụng giao hoặc cam kết giao cho khách hàng một khoản tiền để sử dụng vào mục đích xác định trong một thời gian nhất định theo thỏa thuận với nguyên tắc có hoàn trả cả gốc và lãi là:",
+    "answer": "cho vay"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Mức trích lập dự phòng chung phụ thuộc vào",
+    "answer": "dư nợ từ nhóm 1 đến nhóm 4 và tỷ lệ trích lập dự phòng chung"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Tài sản nào có tính lỏng kém nhất?",
+    "answer": "TSCĐ"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Ít rủi ra và mang lại thu nhập đáng kể cho ngân hàng là đặc điểm của:",
+    "answer": "tài sản ủy thác"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Phương án nào sau đây các tài sản được sắp theo thứ tự thanh khoản giảm dần",
+    "answer": "ngân quỹ, chứng khoán kinh doanh, tín dụng, tài sản cố định"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên được xếp vào",
+    "answer": "Nợ nhóm 5"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Quản lý tài sản nhằm các mục tiêu chính",
+    "answer": "Tất cả các nội dung trên"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Tài sản sinh lãi của ngân hàng không bao gồm",
+    "answer": "cổ phiếu"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Tài sản đảm bảo KHÔNG được ngân hàng cầm cố là",
+    "answer": "Xe ô tô"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Khoản mục nào sau đây là tài sản ngoại bảng của ngân hàng:",
+    "answer": "Bảo lãnh"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Khoản vay quá hạn 9 ngày và được đánh giá có khả năng thu hồi đầy đủ gốc và lãi được xếp vào",
+    "answer": "Nợ nhóm 1"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Nợ quá hạn trên 360 ngày thường được xếp vào nợ nhóm",
+    "answer": "5"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Nợ đủ tiêu chuẩn tức là",
+    "answer": "nợ nhóm 1"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng về tài sản bảo đảm?",
+    "answer": "Điều kiện bắt buộc để được cấp tín dụng"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Theo luật các tổ chức tín dụng 2010, tổ hợp nào chứa đựng hoạt động KHÔNG phải là hoạt động tín dụng",
+    "answer": "Cho vay, chiết khấu, bao thanh toán, phát hành thẻ ghi nợ"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Nợ gia hạn nợ lần đầu được xếp vào:",
+    "answer": "Nợ nhóm 3"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Theo quy định hiện hành, dự phòng chung được trích lập cho",
+    "answer": "Dư nợ từ nhóm 1 tới nhóm 4"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Dự phòng chung được trích lập cho",
+    "answer": "Dư nợ từ nhóm 1 đến nhóm 4"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không thuộc ngân quỹ:",
+    "answer": "Trái phiếu chính phủ"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Mục tiêu nào không phải là mục tiêu chính của quản lý ngân quỹ",
+    "answer": "tăng thu nhập từ lãi cho ngân hàng"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Lựa chọn câu SAI:",
+    "answer": "Vốn huy động thuộc sở hữu của Ngân hàng."
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Thể thức thanh toán bằng uỷ nhiệm chi có thể sử dụng trong tình huống nào?",
+    "answer": "Thể thức thanh toán bằng uỷ nhiệm chi có thể sử dụng trong thanh toán hàng hoá, dịch vụ cung ứng hoặc sử dụng để chuyển tiền từ tài khoản này sang tài khoản khác"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Đâu KHÔNG PHẢI là nhân tố chủ quan tác động tới khả năng khai thác vốn của Ngân hàng?",
+    "answer": "Chính sách tiền tệ."
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây là chính xác?",
+    "answer": "Tiền gửi không kỳ hạn có thể rút được bất cứ lúc nào trong khi tiền gửi định kỳ chỉ rút được khi đến hạn."
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Tiền gửi thanh toán là:",
+    "answer": "Loại tiền mà chủ sở hữu của khoản tiền này có thể rút tiền hoặc trả cho đối tác kinh doanh của họ bằng các phương tiện thanh toán."
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Biện pháp nào dưới đây thường được các NHTM dùng để tạo thêm nguồn vốn huy động?",
+    "answer": "Biện pháp kinh tế, tâm lý và kỹ thuật."
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Ngân hàng thương mại có thể huy động vốn qua những loại tài khoản tiền gưỉ nào?",
+    "answer": "Tất cả đều đúng"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây là đúng về của nghiệp vụ huy động vốn của NHTM?",
+    "answer": "Nghiệp vụ huy động vốn của NHTM giúp cho khách hàng gửi tiền vừa tiết kiệm tiền vừa có thu nhập."
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Nguồn vốn huy động nào của NHTM có lãi suất thấp nhất?",
+    "answer": "Tiền gửi thanh toán."
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Thẻ thanh toán có thể sử dụng trong tình huống nào?",
+    "answer": "Bất cứ khoản thanh toán nào mà bên thụ hưởng chấp nhận"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Lựa chọn câu SAI: Vốn huy động của NHTM:",
+    "answer": "Thuộc sở hữu của Ngân hàng."
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Vốn tự có là cơ sở để xác định:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Để thực hiện tốt nghiệp vụ huy động vốn, các ngân hàng:",
+    "answer": "Phải có quy mô hoạt động ngày càng lớn, có chính sách lãi suất huy động một cách thích hợp và linh hoạt, cơ sở vật chất hiện đại và đội ngũ nhân viên giỏi nghiệp vụ"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây giữa tiền gửi có kỳ hạn và tiền gửi thanh toán là chính xác",
+    "answer": "Tiền gửi thanh toán được mở ra nhằm mục đích thực hiện thanh toán qua ngân hàng chứ không nhằm mục đích hưởng lãi còn tiền gửi có kỳ hạn nhằm mục đích hưởng lãi trong một thời hạn nhất định."
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Tại sao phải quản lý nguồn vốn?",
+    "answer": "Khai thác tối đa nguồn vốn nhàn rỗi trong nền kinh tế; Đảm bảo nguồn vốn NHTM tăng trưởng bền vững, đáp ứng kịp thời, đầy đủ về thời gian, lãi suất thích hợp; Đảm bảo khả năng thanh toán, chi trả của NHTM và nâng cao hiệu quả kinh doanh."
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Thẻ tín dụng (credit card) và thẻ ghi nợ (debit card) khác nhau cơ bản ở nội dung nào?",
+    "answer": "Thẻ tín dụng không đòi hỏi khách hàng phải có tiền trên tài khoản mới được sử dụng, thẻ ghi nợ đời hỏi khách hàng phải có tiền trên tài khoản mới được sử dụng"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Chi phí nào trong tổng chi phí huy động vốn của NHTM chiếm tỷ trọng lớn nhất?",
+    "answer": "Chi phí trả lãi tiền gửi"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động tiết kiệm 12 tháng, lãi suất 8,5%/năm, trả lãi 6 tháng/lần, dự trữ bắt buộc là 5%, dự trữ vượt mức là 3%, lãi suất tương đương trả sau (NEC) là:",
+    "answer": "9,44%"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Tiền gửi của khách hàng gửi tại các NHTM KHÔNG bao gồm hình thức nào?",
+    "answer": "Tiền vay."
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây là chính xác?",
+    "answer": "Lãi suất huy động tiền gửi thanh toán nhỏ hơn lãi suất huy động tiền gửi tiết kiệm không kỳ hạn."
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Vốn huy động từ tiền gửi bao gồm những bộ phận nào?",
+    "answer": "Tiền gửi thanh toán, tiền gửi có kỳ hạn, tiền gửi tiết kiệm, tiền gửi khác."
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Tiền gửi của khách hàng gửi tại các NHTM bao gồm các hình thức:",
+    "answer": "Tiền gửi thanh toán, tiền gửi tiết kiệm, tiền gửi có kỳ hạn."
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Lãi suất huy động vốn của các NHTM do ai quyết định?",
+    "answer": "Do từng NHTM quy định"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Chọn đáp án SAI: NHTM có thể vay Ngân hàng nhà nước bằng các hình thức:",
+    "answer": "Bảo lãnh ngân hàng."
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Tiền gửi của khách hàng gửi tại các NHTM KHÔNG bao gồm hình thức nào?",
+    "answer": "Tiền vay."
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Quản lý vốn chủ sở hữu gồm những nội dung gì?",
+    "answer": "Xác định vốn chủ sở hữu trong quan hệ với tổng tài sản có; Xác định vốn chủ sở hữu trong quan hệ với tài sản có có rủi ro; Xác định vốn CSH trong mối liên hệ với các nhân tố khác."
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Thế nào là thẻ ngân hàng?",
+    "answer": "Thẻ ngân hàng là công cụ thanh toán do ngân hàng phát hành và bán cho khách hàng sử dụng để trả tiền hàng hoá, dịch vụ, các khoản thanh toán khác hoặc rút tiền mặt tại các máy rút tiền tự động."
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Nguồn từ các quỹ được coi là vốn chủ sở hữu bao gồm những khoản nào?",
+    "answer": "Quỹ dự trữ bổ sung vốn điều lệ, quỹ dự phòng tài chính, các quỹ khác"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Để thực hiện tốt nghiệp vụ huy động vốn các ngân hàng:",
+    "answer": "Phải có quy mô hoạt động ngày càng lớn, có chính sách lãi suất huy động một cách thích hợp và linh hoạt, cơ sở vật chất hiện đại và đội ngũ nhân viên giỏi nghiệp vụ"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Tiền gửi của khách hàng gửi tại các NHTM bao gồm các hình thức:",
+    "answer": "Tiền gửi thanh toán, tiền gửi tiết kiệm, tiền gửi có kỳ hạn."
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động kỳ phiếu 12 tháng, lãi suất trả trước 8,5%/năm, dự trữ bắt buộc là 5%, lãi suất tương đương trả sau (NEC) là",
+    "answer": "9,78%"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Tài khoản thanh toán bị phong toả một phần hay toàn bộ số tiền trong các trường hợp nào?",
+    "answer": "C và có thoả thuận giữa chủ tài khoản và ngân hàng."
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Lựa chọn đáp án SAI: Nhân tố chủ quan tác động tới khả năng huy động vốn của Ngân hàng là:",
+    "answer": "Chính sách tiền tệ."
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động kỳ phiếu 12 tháng, lãi suất trả trước 8,5%/năm, dự trữ bắt buộc là 5%, dự trữ vượt mức là 3%, lãi suất tương đương trả sau (NEC) là",
+    "answer": "10,10%"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Nguồn vốn là những giá trị tiền tệ do ngân hàng tạo lập và huy động được dùng để:",
+    "answer": "Cho vay, đầu tư, làm phương tiện thanh toán và thực hiện các nghiệp vụ tài chính khác."
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Giấy nợ NHTM phát hành để huy động vốn từ dân cư gồm:",
+    "answer": "Kỳ phiếu ngân hàng, chứng chỉ tiền gửi ngân hàng và trái phiếu dài hạn."
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây về vốn điều lệ của từng loại ngân hàng thương mại là đúng?",
+    "answer": "Vốn điều lệ của từng loại ngân hàng thương mại luôn phải lớn hơn hoặc tối thiểu bằng vốn pháp định, là số vốn do Chính phủ quy định trong từng thời kỳ cho từng loại ngân hàng thương mại."
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây là đúng?",
+    "answer": "Chi phí huy động vốn của NHTM không phải chỉ có chi phí trả lãi cho người gửi tiền mà còn có cả các chi phí khác."
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Thế nào là nguồn vốn của NHTM?",
+    "answer": "Là toàn bộ nguồn tiền tệ được NHTM tạo lập để cho vay, đầu tư và thực hiện các dịch vụ ngân hàng."
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Ngoài hình thức huy động vốn qua tài khoản tiền gửi ngân hàng thương mại còn có thể huy động vốn bằng cách nào?",
+    "answer": "Phát hành các giấy tờ có giá"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Vốn huy động của NHTM gồm những loại nào?",
+    "answer": "Tiền gửi, vốn vay các tổ chức tín dụng khác và NHTW; vốn vay trên thị trường vốn, nguồn vốn khác."
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Giả sử nguồn vốn huy động của NH\nA là 500 tỷ đ, trong đó:\n- Tiền gửi không kỳ hạn: 100 tỷ đ, chi phí trả lãi và các chi phí khác là 6%.\n- Tiền gửi có kỳ hạn và TGTK: 300 tỷ đ, chi phí trả lãi và các chi phí khác là 8%.\n- Vốn đi vay là: 100 tỷ đồng với\nmức chi phí là 10%.\nChi phí huy động vốn bình quân của NH A là bao nhiêu?",
+    "answer": "8%"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Số tiền NHTM để lại nhằm thực hiện việc thanh toán, chi trả do ai quy định?",
+    "answer": "Do từng NHTM quy định"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Giấy nợ NHTM phát hành để huy động vốn từ dân cư gồm:",
+    "answer": "Kỳ phiếu ngân hàng, chứng chỉ tiền gửi ngân hàng và trái phiếu dài hạn."
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Các yếu tố hộ gia đình xem xét khi lựa chọn mở tài khoản tiết kiệm thường là:",
+    "answer": "Quen thuộc và lãi suất, địa điểm thuận lợi, các dịch vụ khác hỗ trợ."
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Vốn tự có cấp 1 so với vốn tự có cấp 2",
+    "answer": "Lớn hơn hoặc bằng"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Tại sao cần có những hình thức huy động vốn bằng cách phát hành giấy tờ có giá bên cạnh hình thức huy động vốn qua tài khoản tiền gửi?",
+    "answer": "Vì nhu cầu gửi tiền của khách hàng đa dạng do đó cần có nhiều hình thức để khách hàng lựa chọn phù hợp với nhu cầu của họ và nhu cầu cần nguồn vốn của NH để đáp ứng cho khách hàng vay vốn."
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động kỳ phiếu 12 tháng, lãi suất trả trước 8,5%/năm, lãi suất tương đương trả sau (NEC) là",
+    "answer": "9,29%"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Nhân tố nào tác động vào tâm lý khách hàng cá nhân gửi tiền vào tài khoản tiền gửi thanh toán:",
+    "answer": "Địa điểm thuận tiện, sự đa dạng về dịch vụ thanh toán của Ngân hàng, phí dịch vụ và yêu cầu số dư tối thiểu"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động tiết kiệm 12 tháng, lãi suất 8,5%/năm, trả lãi 6 tháng/lần, lãi suất tương đương trả sau (NEC) là:",
+    "answer": "8,68%"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Khi quyết định mở tài khoản tiền gửi thanh toán tại ngân hàng, khách hàng thường quan tâm đến các yếu tố nào?",
+    "answer": "A và C"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Các tài sản nợ khác được coi là vốn chủ sở hữu gồm những nguồn nào?",
+    "answer": "Vốn đầu tư mua sắm do nhà nước cấp nếu có. Các khoản chênh lệnh do đánh giá lại tài sản, chênh lệch tỷ giá, lợi nhuận được để lại chưa phân bổ cho các quỹ."
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây là một phát biểu không chính xác về vai trò của nghiệp vụ huy động vốn đối với hoạt động của NHTM?",
+    "answer": "Thông qua hoạt động huy động vốn, ngân hàng thương mại biết được nhu cầu vay vốn của khách hàng."
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Thể thức thanh toán uỷ nhiệm thu có thể sử dụng trong những tình huống nào?",
+    "answer": "Trong trường hợp hai bên mua bán hàng hoá hoặc cung ứng dịch vụ có sự tín nhiệm lẫn nhau hoặc trong trường hợp thanh toán dịch vụ cung cấp có phương tiện đo đếm chính xác bằng đồng hồ như điện, nước, điện thoại"
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Giấy tờ có giá do ngân hàng phát hành để huy động vốn có kỳ hạn ngắn là:",
+    "answer": "Kỳ phiếu."
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Vốn điều lệ của ngân hàng thương mại do ai quy định?",
+    "answer": "Do ngân hàng thương mại quy định"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Một NHTM có chi tiết các loại vốn như sau: Tiền gửi không kỳ hạn 8 tỷ, tiền gửi có kỳ hạn 12 tỷ, các loại tiền gửi hưởng lãi khác 1,5 tỷ, các nguồn vốn đi vay 3,5 tỷ. Vốn huy động của NHTM này là bao nhiêu?",
+    "answer": "25 tỷ"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Đâu KHÔNG PHẢI là tính chất của vốn huy động?",
+    "answer": "Ít biến động."
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Thặng dư vốn cổ phần là",
+    "answer": "Chênh lệch giữa giá phát hành và mệnh giá cổ phiếu"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Tài khoản thanh toán bị đóng trong các trường hợp nào?",
+    "answer": "A và B; khi cá nhân có tài khoản bị chết, mất tích hoặc mất năng lực hành vi dân sự."
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Nguồn vốn kinh doanh quan trọng nhất của NHTM là:",
+    "answer": "Vốn huy động tiền gửi"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Thanh toán giữa các khách hàng qua ngân hàng có ý nghĩa như thế nào trong đời sống kinh tế – xã hội cũng như trong hoạt động của khách hàng và ngân hàng?",
+    "answer": "Tất cả đều đúng"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Vốn chủ sở hữu của NHTM là gì?",
+    "answer": "Là nguồn vốn thuộc sở hữu của NHTM"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Một ngân hàng đang huy động tiết kiệm 12 tháng, lãi suất 8,5%/năm, trả lãi 6 tháng/lần, dự trữ bắt buộc là 5%, lãi suất tương đương trả sau (NEC) là:",
+    "answer": "9,14%"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Lãi suất tiền gửi tiết kiệm do ngân hàng nào quy định?",
+    "answer": "Do từng NHTM quy định"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây về quản lý vốn huy động là đúng nhất?",
+    "answer": "Quản lý quy mô, cơ cấu, quản lý lãi suất chi trả, quản lý kỳ hạn, phân tích tính thanh khoản của nguồn vốn; xác định nguồn vốn dành cho dự trữ."
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Thế nào là nguồn vốn của NHTM?",
+    "answer": "Là toàn bộ nguồn tiền tệ được NHTM tạo lập để cho vay, đầu tư và thực hiện các dịch vụ ngân hàng."
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Ngoài hình thức huy động vốn qua tài khoản tiền gửi ngân hàng thương mại còn có thể huy động vốn bằng cách nào?",
+    "answer": "Phát hành các giấy tờ có giá"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Chi phí nào trong tổng chi phí huy động vốn của NHTM chiếm tỷ trọng lớn nhất?",
+    "answer": "Chi phí trả lãi tiền gửi"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Thế nào là thẻ ngân hàng?",
+    "answer": "Thẻ ngân hàng là công cụ thanh toán do ngân hàng phát hành và bán cho khách hàng sử dụng để trả tiền hàng hoá, dịch vụ, các khoản thanh toán khác hoặc rút tiền mặt tại các máy rút tiền tự động."
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Tài khoản thanh toán bị đóng trong các trường hợp nào?",
+    "answer": "A và B; khi cá nhân có tài khoản bị chết, mất tích hoặc mất năng lực hành vi dân sự."
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Giả sử nguồn vốn huy động của NH\nA là 500 tỷ đ, trong đó:\n- Tiền gửi không kỳ hạn: 100 tỷ đ, chi phí trả lãi và các chi phí khác là 6%.\n- Tiền gửi có kỳ hạn và TGTK: 300 tỷ đ, chi phí trả lãi và các chi phí khác là 8%.\n- Vốn đi vay là: 100 tỷ đồng với\nmức chi phí là 10%.\nChi phí huy động vốn bình quân của NH A là bao nhiêu?",
+    "answer": "8%"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Lựa chọn câu SAI: Vốn huy động của NHTM:",
+    "answer": "Thuộc sở hữu của Ngân hàng."
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Lựa chọn câu SAI:",
+    "answer": "Vốn huy động thuộc sở hữu của Ngân hàng."
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Tiền gửi của khách hàng gửi tại các NHTM bao gồm các hình thức:",
+    "answer": "Tiền gửi thanh toán, tiền gửi tiết kiệm, tiền gửi có kỳ hạn."
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": "Tài khoản thanh toán bị phong toả một phần hay toàn bộ số tiền trong các trường hợp nào?",
+    "answer": "C và có thoả thuận giữa chủ tài khoản và ngân hàng."
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây là chính xác?",
+    "answer": "Lãi suất huy động tiền gửi thanh toán nhỏ hơn lãi suất huy động tiền gửi tiết kiệm không kỳ hạn."
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Giấy nợ NHTM phát hành để huy động vốn từ dân cư gồm:",
+    "answer": "Kỳ phiếu ngân hàng, chứng chỉ tiền gửi ngân hàng và trái phiếu dài hạn."
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "Các tài sản nợ khác được coi là vốn chủ sở hữu gồm những nguồn nào?",
+    "answer": "Vốn đầu tư mua sắm do nhà nước cấp nếu có. Các khoản chênh lệnh do đánh giá lại tài sản, chênh lệch tỷ giá, lợi nhuận được để lại chưa phân bổ cho các quỹ."
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Thể thức thanh toán uỷ nhiệm thu có thể sử dụng trong những tình huống nào?",
+    "answer": "Trong trường hợp hai bên mua bán hàng hoá hoặc cung ứng dịch vụ có sự tín nhiệm lẫn nhau hoặc trong trường hợp thanh toán dịch vụ cung cấp có phương tiện đo đếm chính xác bằng đồng hồ như điện, nước, điện thoại"
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Một NHTM có chi tiết các loại vốn như sau: Tiền gửi không kỳ hạn 8 tỷ, tiền gửi có kỳ hạn 12 tỷ, các loại tiền gửi hưởng lãi khác 1,5 tỷ, các nguồn vốn đi vay 3,5 tỷ. Vốn huy động của NHTM này là bao nhiêu?",
+    "answer": "25 tỷ"
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "Tiền gửi của khách hàng gửi tại các NHTM KHÔNG bao gồm hình thức nào?",
+    "answer": "Tiền vay."
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây là chính xác?",
+    "answer": "Tiền gửi không kỳ hạn có thể rút được bất cứ lúc nào trong khi tiền gửi định kỳ chỉ rút được khi đến hạn."
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Quản lý vốn chủ sở hữu gồm những nội dung gì?",
+    "answer": "Xác định vốn chủ sở hữu trong quan hệ với tổng tài sản có; Xác định vốn chủ sở hữu trong quan hệ với tài sản có có rủi ro; Xác định vốn CSH trong mối liên hệ với các nhân tố khác."
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "Phát biểu nào dưới đây về quản lý vốn huy động là đúng nhất?",
+    "answer": "Quản lý quy mô, cơ cấu, quản lý lãi suất chi trả, quản lý kỳ hạn, phân tích tính thanh khoản của nguồn vốn; xác định nguồn vốn dành cho dự trữ."
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": "Ngân hàng thương mại có thể huy động vốn qua những loại tài khoản tiền gưỉ nào?",
+    "answer": "Tất cả đều đúng"
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": "Tiền gửi thanh toán là:",
+    "answer": "Loại tiền mà chủ sở hữu của khoản tiền này có thể rút tiền hoặc trả cho đối tác kinh doanh của họ bằng các phương tiện thanh toán."
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Thẻ tín dụng (credit card) và thẻ ghi nợ (debit card) khác nhau cơ bản ở nội dung nào?",
+    "answer": "Thẻ tín dụng không đòi hỏi khách hàng phải có tiền trên tài khoản mới được sử dụng, thẻ ghi nợ đời hỏi khách hàng phải có tiền trên tài khoản mới được sử dụng"
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "Đâu KHÔNG PHẢI là tính chất của vốn huy động?",
+    "answer": "Ít biến động."
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Nhân tố nào tác động vào tâm lý khách hàng cá nhân gửi tiền vào tài khoản tiền gửi thanh toán:",
+    "answer": "Địa điểm thuận tiện, sự đa dạng về dịch vụ thanh toán của Ngân hàng, phí dịch vụ và yêu cầu số dư tối thiểu"
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Hình thức cấp tín dụng cho bên bán hàng thông qua việc mua lại các khoản phải thu phát sinh từ việc mua bán hàng hóa và cung ứng dịch vụ là hình thức cấp tín dụng nào?",
+    "answer": "bao thanh toán"
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể của nợ nhóm 5 là:",
+    "answer": "100%"
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Khi giá trị khấu trừ tài sản đảm bảo là 100, dư nợ là 150 (nợ nhóm 4) thì mức trích lập dự phòng cụ thể cho món vay này là:",
+    "answer": "25"
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Nợ xấu là nợ thuộc nhóm",
+    "answer": "3,4,5"
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Một khoản nợ 200 triệu quá hạn 100 ngày. Giá trị khấu trừ tài sản đảm bảo là 100 triệu. Mức trích lập dự phòng cụ thể của khoản vay này là:",
+    "answer": "20 triệu"
+  },
+  {
+    "id": 321,
+    "premium": false,
+    "question": "Khoản mục nào sau đây KHÔNG là ngân quỹ của ngân hàng",
+    "answer": "Tiền vay ngân hàng nhà nước"
+  },
+  {
+    "id": 322,
+    "premium": false,
+    "question": "Khoản tín dụng quá hạn 100 ngày được xếp vào nợ nhóm",
+    "answer": "3"
+  },
+  {
+    "id": 323,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không thuộc bên tài sản của ngân hàng:",
+    "answer": "Phát hành chứng chỉ tiền gửi"
+  },
+  {
+    "id": 324,
+    "premium": false,
+    "question": "Nợ có khả năng mất vốn là nợ nhóm",
+    "answer": "5"
+  },
+  {
+    "id": 325,
+    "premium": false,
+    "question": "Những khoản ngân hàng trả thay theo cam kết ngoại bảng nếu quá hạn từ 30 ngày tới dưới 90 ngày thì xếp vào:",
+    "answer": "Nợ nhóm 4"
+  },
+  {
+    "id": 326,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng chung là:",
+    "answer": "0.75% cho dư nợ từ nhóm 1 tới nhóm 4"
+  },
+  {
+    "id": 327,
+    "premium": false,
+    "question": "Cho vay tín chấp thường được áp dụng đối với",
+    "answer": "Khách hàng có uy tín tốt"
+  },
+  {
+    "id": 328,
+    "premium": false,
+    "question": "Khoản mục nào thường chiếm tỷ trọng lớn nhất trong tài sản của ngân hàng",
+    "answer": "Tín dụng"
+  },
+  {
+    "id": 329,
+    "premium": false,
+    "question": "Vì: Ngân quỹ là khoản mục có tính sinh lời thấp, quản lý ngân quỹ nhìn chung không nhằm mục tiêu tăng thu từ lãi cho ngân hàng\ntham khảo Chương 4, mục 4.2. quản lý tài sản",
+    "answer": "chứng khoán đầu tư"
+  },
+  {
+    "id": 330,
+    "premium": false,
+    "question": "Kết cấu tài sản của NHTM gồm những khoản mục chính nào",
+    "answer": "Ngân quỹ, tín dụng, đầu tư, tài sản cố định"
+  },
+  {
+    "id": 331,
+    "premium": false,
+    "question": "Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định là hình thức ",
+    "answer": "Cho vay theo hạn mức"
+  },
+  {
+    "id": 332,
+    "premium": false,
+    "question": "Tính sinh lời thấp, thậm chí còn tốn chi phí bảo quản là đặc điểm của khoản mục tài sản nào:",
+    "answer": "tiền mặt"
+  },
+  {
+    "id": 333,
+    "premium": false,
+    "question": "Khoản mục nào sau đây KHÔNG là tài sản nội bảng của ngân hàng",
+    "answer": "Hợp đồng tương lai"
+  },
+  {
+    "id": 334,
+    "premium": false,
+    "question": "Khoản mục nào sau đây được hạch toán ngoại bảng",
+    "answer": "Cam kết trong nghiệp vụ L/C"
+  },
+  {
+    "id": 335,
+    "premium": false,
+    "question": "Các khoản bảo lãnh mà ngân hàng phải trả thay cho khách hàng được xếp vào",
+    "answer": "Nợ xấu"
+  },
+  {
+    "id": 336,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể của nợ nhóm 4 là",
+    "answer": "50%"
+  },
+  {
+    "id": 337,
+    "premium": false,
+    "question": "Nợ điều chỉnh kỳ hạn nợ lần đầu được xếp vào:",
+    "answer": "Nợ nhóm 2"
+  },
+  {
+    "id": 338,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể của nợ nhóm 3 là",
+    "answer": "20%"
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Khi giá trị khấu trừ tài sản đảm bảo là 100, dư nợ là 150 (nợ nhóm 4) thì mức trích lập dự phòng cụ thể cho món vay này là:",
+    "answer": "25"
+  },
+  {
+    "id": 340,
+    "premium": false,
+    "question": "Tỷ lệ trích lập dự phòng cụ thể của nợ nhóm 5 là:",
+    "answer": "100%"
+  },
+  {
+    "id": 341,
+    "premium": false,
+    "question": "Nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên được xếp vào",
+    "answer": "Nợ nhóm 5"
+  },
+  {
+    "id": 342,
+    "premium": false,
+    "question": "Mức trích lập dự phòng cụ thể của một khoản vay phụ thuộc vào",
+    "answer": "tất cả các ý trên"
+  },
+  {
+    "id": 343,
+    "premium": false,
+    "question": "Khoản mục nào sau đây KHÔNG là ngân quỹ của ngân hàng",
+    "answer": "Tiền vay ngân hàng nhà nước"
+  },
+  {
+    "id": 344,
+    "premium": false,
+    "question": "Nghiệp vụ mà ngân hàng cho phép khách hàng được chi vượt quá số dư có trên tài khoản tiền gửi thanh toán trong một hạn mức nhất định gọi là",
+    "answer": "cho vay thấu chi"
+  },
+  {
+    "id": 345,
+    "premium": false,
+    "question": "Kết cấu tài sản của NHTM gồm những khoản mục chính nào",
+    "answer": "Ngân quỹ, tín dụng, đầu tư, tài sản cố định"
+  },
+  {
+    "id": 346,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng về tài sản bảo đảm?",
+    "answer": "Điều kiện bắt buộc để được cấp tín dụng"
+  },
+  {
+    "id": 347,
+    "premium": false,
+    "question": "Khoản mục nào sau đây không thuộc ngân quỹ:",
+    "answer": "Trái phiếu chính phủ"
+  },
+  {
+    "id": 348,
+    "premium": false,
+    "question": "Tài sản nào sau đây có tính sinh lời thấp nhất",
+    "answer": "Tài sản cố định"
+  },
+  {
+    "id": 349,
+    "premium": false,
+    "question": "Các khoản bảo lãnh mà ngân hàng phải trả thay cho khách hàng được xếp vào",
+    "answer": "Nợ xấu"
+  },
+  {
+    "id": 350,
+    "premium": false,
+    "question": "Dự phòng chung được trích lập cho",
+    "answer": "Dư nợ từ nhóm 1 đến nhóm 4"
+  },
+  {
+    "id": 351,
+    "premium": false,
+    "question": "Điều kiện nào không bắt buộc khi cấp tín dụng",
+    "answer": "Tài sản đảm bảo có giá trị lớn hơn hoặc bằng giá trị khoản vay"
+  },
+  {
+    "id": 352,
+    "premium": false,
+    "question": "Tài sản nào sau đây là tài sản KHÔNG sinh lời",
+    "answer": "Tiền mặt"
+  },
+  {
+    "id": 353,
+    "premium": false,
+    "question": "Tài sản nào có tính lỏng kém nhất?",
+    "answer": "TSCĐ"
+  },
+  {
+    "id": 354,
+    "premium": false,
+    "question": "Cho vay tín chấp thường được áp dụng đối với",
+    "answer": "Khách hàng có uy tín tốt"
+  },
+  {
+    "id": 355,
+    "premium": false,
+    "question": "Khoản vay quá hạn 9 ngày và được đánh giá có khả năng thu hồi đầy đủ gốc và lãi được xếp vào",
+    "answer": "Nợ nhóm 1"
+  },
+  {
+    "id": 356,
+    "premium": false,
+    "question": "Nợ quá hạn 450 ngày được xếp vào",
+    "answer": "Nợ nhóm 5"
+  },
+  {
+    "id": 357,
+    "premium": false,
+    "question": "Tài sản nào không được chấp nhận làm tài sản bảo đảm để vay vốn ngân hàng X?",
+    "answer": "cổ phiếu do ngân hàng X phát hành"
+  },
+  {
+    "id": 358,
+    "premium": false,
+    "question": "Theo luật các tổ chức tín dụng 2010, tổ hợp nào chứa đựng hoạt động KHÔNG phải là hoạt động tín dụng",
+    "answer": "Cho vay, chiết khấu, bao thanh toán, phát hành thẻ ghi nợ"
+  },
+  {
+    "id": 359,
+    "premium": false,
+    "question": "Khoản mục nào sau đây KHÔNG là tài sản nội bảng của ngân hàng",
+    "answer": "Hợp đồng tương lai"
+  },
+  {
+    "id": 360,
+    "premium": false,
+    "question": "Nợ có khả năng mất vốn là nợ nhóm",
+    "answer": "5"
+  },
+  {
+    "id": 361,
+    "premium": false,
+    "question": "Một khách hàng vào ngày ½ và 1/6 hàng năm lại đến ngân hàng gửi tiết kiệm hưởng lãi gộp theo lãi suất 8,16/năm số tiền bằng nhau là 30 triệu đồng, lãi nhập gốc 6 tháng một lần.Người này gửi tất cả 8 lần. Số tiền người này có được ngay sau lần gửi cuối cùng là… đồng.",
+    "answer": "276.426.790"
+  }
+]

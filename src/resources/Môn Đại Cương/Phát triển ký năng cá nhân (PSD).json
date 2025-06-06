@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Một người tự ty về bản thân thường có biểu hiện như thế nào?",
+    "answer": "Rụt rè, ngại giao tiếp với người khác"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Một người được coi là biết kiểm soát cảm xúc của bản thân khi người đó:",
+    "answer": "Kiềm chế sự bốc đồng, giữ bình tĩnh khi sự việc bất ngờ xảy ra"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Vì sao con người cần phải kiểm soát cảm xúc của bản thân?",
+    "answer": "Vì nếu phản ứng một cách không kiểm soát với những điều xảy ra trái ý mình thì sẽ dễ dẫn đến những hậu quả khó lường"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Để điều khiển và ngăn chặn cảm xúc tiêu cực thì con người cần tránh điều gì?",
+    "answer": "Trầm trọng hóa vấn đề"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Một người tự tin về bản thân thì sẽ phản ứng như thế nào khi được yêu cầu trình bày quan điểm của mình?",
+    "answer": "Nói ra những quan điểm của mình và sẵn sàng bảo vệ niềm tin về những gì là đúng"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Xác định một câu hỏi dạng mở trong số các câu sau:",
+    "answer": "“Như bạn biết thì câu chuyện diễn ra thế nào?”"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Xác định một luận điểm thể hiện cách hiểu đúng nhất về khái niệm giao tiếp trong các phương án dưới đây:",
+    "answer": "Giao tiếp là cách thức con người tạo lập các mối liên hệ với những người khác trong xã hội"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Xác định một nhân tố gây cản trở quá trình giao tiếp trong các nhân tố sau:",
+    "answer": "Người nhận không giải mã đúng thông điệp"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Trong quá trình giao tiếp, khi cảm nhận được điều hay, điều tốt của đối tác bạn không nên làm gì?",
+    "answer": "Biểu lộ sự ghen ghét đố kị"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Những người là đối tác thân thiết của nhau cần cư xử thế nào để duy trì mối quan hệ lâu dài với nhau?",
+    "answer": "Dù là thân cận đến mấy thì các đối tác cũng nên giữ lễ nghĩa, khoảng cách nhất định, không được suồng sã với nhau"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Môi trường làm việc thân thiện, mối quan hệ lành mạnh trong doanh nghiệp có ảnh hưởng tích cực đến khả năng sáng tạo, năng lực làm việc... của người lao động vì:",
+    "answer": "Về bản chất, con người chỉ có thể phát huy được tốt nhất năng lực sáng tạo của mình khi được ở trong một môi trường thoải mái, thích hợp"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Khi nhân viên cấp dưới được cấp trên giao một nhiệm vụ nằm ngoài phạm vi những công việc thường làm (không trong danh mục các công việc được mô tả khi phân công trách nhiệm) thì cấp dưới nên phản ứng như thế nào?",
+    "answer": "Nhiệt tình thực hiện"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Người quản lý nên làm gì để có thể nghe được những ý kiến phản hồi từ các nhân viên của mình?",
+    "answer": "Điềm đạm, bình tĩnh sẵn sàng tiếp nhận thông tin nhiều chiều"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Một doanh nghiệp có môi trường giao tiếp ứng xử nội bộ tốt đẹp sẽ thu hút được sự quan tâm của đối tác và khách hàng vì:",
+    "answer": "Đối tác và khách hàng cũng kỳ vọng những mối quan hệ tốt đẹp như vậy từ doanh nghiệp"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Chú trọng đến vấn đề giao tiếp ứng xử trong môi trường làm việc là một cách để mỗi thành viên trong doanh nghiệp xây dựng “nhân hiệu” của mình vì:",
+    "answer": "Giao tiếp ứng xử tốt giúp mỗi cá nhân xây dựng hình ảnh tốt đẹp của mình trong con mắt của người khác"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Kỹ thuật “đặt 5 lần câu hỏi tại sao” là nhằm mục đích gì?",
+    "answer": "Xác định nguyên nhân gốc của vấn đề"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Bước thứ ba trong quy trình giải quyết vấn đề là",
+    "answer": "Lựa chọn giải pháp"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Bước thứ năm trong quy trình giải quyết vấn đề là:",
+    "answer": "Theo dõi thực hiện giải pháp"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Việc đánh giá thực hiện giải pháp cần được tiến hành khi nào",
+    "answer": "Việc đánh giá thực hiện giải pháp cần được tiến hành liên tục cả trong và sau khi hoàn thành quá trình triển khai giải pháp"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Tư duy vượt ra ngoài rào cản (think outside of the box) khi giải quyết vấn đề có nghĩa là",
+    "answer": "Có cách nhìn mới, nhìn vấn đề từ các góc độ khác nhau, đa dạng và phong phú"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Hãy chỉ ra một nguyên nhân gây lãng phí thời gian trong số các phương án sau:",
+    "answer": "Sử dụng điện thoại quá nhiều"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Bạn sẽ sắp xếp vào ô số 3 trong ma trận quản lý thời gian loại công việc nào trong số các công việc dưới đây?",
+    "answer": "Các công việc ngắn hạn, vụn vặt"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Một người được gọi là biết cách quản lý thời gian nếu người đó:",
+    "answer": "Biết phân loại công việc, lập kế hoạch và từng bước thực hiện theo kế hoạch"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Trong số các phương án dưới đây, phương án nào giải thích đúng nhất về khái niệm quản lý thời gian?",
+    "answer": "Quản lý thời gian là biết cách sử dụng thời gian một cách hợp lý và hiệu quả để đạt được mục tiêu xác định"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Phương án nào sau đây là không chính xác khi nói về đặc điểm của thời gian:",
+    "answer": "Quỹ thời gian của mỗi người là vô hạn"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Để xây dựng mối quan hệ tốt đẹp giữa các thành viên trong nhóm, người trưởng nhóm không nên làm gì?",
+    "answer": "Đối xử thiếu công bằng với các thành viên trong nhóm"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Chọn trong các phương án dưới đây một phương án mà người điều hành cuộc họp nhóm không nên làm khi không khí cuộc họp nhóm buồn tẻ, các thành viên không tham gia phát biểu:",
+    "answer": "Nhanh chóng kết thúc cuộc họp"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Trong trường hợp nào thì doanh nghiệp chưa cần thành lập nhóm để giải quyết công việc?",
+    "answer": "Khi các cá nhân có thể dễ dàng làm việc độc lập"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Trong quá trình hoạt động nhóm, đến giai đoạn nào thì các thành viên trong nhóm sẽ bắt đầu nhận thấy những lợi ích của việc cộng tác cùng với nhau và giảm bớt xung đột nội bộ?",
+    "answer": "Giai đoạn chuẩn hóa"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Tìm phương án trả lời đúng nhất. Vì sao để công việc nhóm được triển khai hiệu quả, các thành viên nhóm cần phải thể hiện tốt trách nhiệm cá nhân?",
+    "answer": "Chỉ khi các thành viên đều đồng thuận, chia sẻ trách nhiệm và có ý thức trách nhiệm với công việc chung thì nhóm mới có thể làm việc hiệu quả"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Theo mô hình cửa sổ Johari, nếu một người sống quá khép kín, ngại giao tiếp thì người đó có thể gặp những điểm bất lợi gì?",
+    "answer": "Thiếu thông tin, bỏ lỡ cơ hội hợp tác, phát triển"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Vì sao con người cần hiểu biết năng lực của bản thân mình?",
+    "answer": "Vì đó là tiền đề quan trọng để con người xây dựng nhân hiệu, tạo dựng hình ảnh và uy tín cá nhân hướng đến sự thành công trong công việc và cuôc sống"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Vì sao con người cần nhận thức được điểm mạnh và điểm yếu của bản thân mình?",
+    "answer": "Vì con người chỉ có thể tự tin khi biết được điểm mạnh của bản thân để phát triển nó và biết điểm yếu của bản thân để khắc phục nó"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Theo mô hình cửa sổ Johari, để phát triển bản thân thì con người cần chú trọng mở rộng phần nào?",
+    "answer": "Phần công khai/ Open"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Vì sao con người cần phải tự tin vào bản thân mình?",
+    "answer": "Vì đó là điều kiện cần thiết để con người làm chủ bản thân, chủ động thực hiện những mục tiêu mà mình đã đề ra."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Trong giao tiếp xã giao, nên sử dụng ngôn từ như thế nào để mọi người xung quanh đều hiểu đúng thông điệp của mình?",
+    "answer": "Sử dụng ngôn từ đơn giản phù hợp với người nghe và bối cảnh giao tiếp"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Không gian giao tiếp giữa hai người được duy trì trong khoảng từ 0.5- 1m được xếp vào vùng nào?",
+    "answer": "Vùng riêng tư"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Con người không nên làm gì nếu muốn thành công trong giao tiếp với người khác?",
+    "answer": "Tự do bộc lộ cảm xúc của mình"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Lời khen có tác dụng rất tích cực trong quan hệ giao tiếp. Tuy nhiên nên bày tỏ lời khen như thế nào để tăng hiệu quả bền vững của các mối quan hệ ?",
+    "answer": "Dành những lời khen tặng chân thành cho đối tác đúng lúc, đúng chỗ"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Trong các nhân tố sau, nhân tố nào khiến cho quá trình giao tiếp không được triển khai thuận lợi?",
+    "answer": "Người gửi không thể mã hóa đúng thông điệp"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Để xây dựng mối quan hệ tốt đẹp với đồng nghiệp thì cần làm gì?",
+    "answer": "Tránh đặt lợi ích cá nhân lấn át lợi ích của đồng nghiệp"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Cách hiểu nào dưới đây của cấp dưới về cấp trên là đúng?",
+    "answer": "Cấp trên cũng là con người, ai cũng có điểm mạnh điểm yếu"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Quan niệm nào sau đây là không đúng về mối quan hệ cấp trên cấp dưới trong doanh nghiệp",
+    "answer": "Quan niệm về mối quan hệ cấp trên – cấp dưới là giống nhau ở mọi doanh nghiệp"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Trong trường hợp cụ thể, khi cấp trên đưa ra những quyết định không như mong đợi của bạn nhưng lại có vẻ phù hợp với các đồng nghiệp khác, bạn nên làm gì?",
+    "answer": "Tuân thủ, cấp quản lý bao giờ cũng có lý do để ra quyết định"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Khi công việc được giao có những thay đổi đáng kể về phạm vi và cấp độ, xuất hiện nguy cơ quá tải khiến không thể đảm đương được công việc thì cấp dưới cần làm gì?",
+    "answer": "Chủ động đề xuất với cấp trên về phương án thực hiện và nói rõ giới hạn khả năng của mình"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Để giải quyết vấn đề một cách hiệu quả, người giải quyết vấn đề cần có thái độ như thế nào?",
+    "answer": "Cần tạo dựng thái độ tích cực và lạc quan khi giải quyết vấn đề"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Bước thứ hai trong quy trình giải quyết vấn đề là",
+    "answer": "Đưa ra các giải pháp"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Bước thứ tư trong quy trình giải quyết vấn đề là",
+    "answer": "Thực hiện giải pháp"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Khi đứng trước nhiều giải pháp cho một vấn đề thì cần làm gì để lựa chọn được giải pháp phù hợp nhất?",
+    "answer": "Ứng dụng kỹ thuật biểu đồ để nhóm các giải pháp; đánh giá các giải pháp bằng quá trình so sánh; tư duy vượt ra ngoài rào cản và cân nhắc hậu quả khi lựa chọn giải pháp"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "“Kỹ thuật Janusian” là phương pháp dùng để làm gì?",
+    "answer": "Xem xét khía cạnh đối diện của vấn đề"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Một việc như thế nào thì được coi là quan trọng?",
+    "answer": "Một việc được coi là quan trọng khi nó có một ý nghĩa lớn hoặc gây ra một kết quả đáng kế"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Ma trận quản lý thời gian được xây dựng dựa trên những đặc tính nào?",
+    "answer": "Tính quan trọng và tính khẩn cấp"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Quản lý thời gian là gì? Tìm phương án không chính xác trong số các phương án sau đây",
+    "answer": "Là sự vội vã hoàn thành công việc vào phút cuối"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây là nguyên nhân gây lãng phí thời gian?",
+    "answer": "Làm việc không có kế hoạch"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Khi một người có nhiều công việc ở ô số 3 trong ma trận quản lý thời gian thì người đó nên làm gì?",
+    "answer": "Ủy quyền cho người khác làm thay nếu có thể"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Chọn trong các phương án dưới đây một phương án mà người điều hành cuộc họp nhóm không nên làm khi cuộc họp diễn ra quá lâu mà không đạt được sự đồng thuận:",
+    "answer": "Phê bình những cá nhân không đồng quan điểm"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Trong số các nhân tố dưới đây, nhân tố nào có nguy cơ lớn nhất làm cho cuộc họp nhóm thất bại?",
+    "answer": "Các thành viên công kích, dèm pha lẫn nhau"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Sau khi đã xác định được mục tiêu, bước tiếp theo nhóm cần phải làm là:",
+    "answer": "xác định những công việc mà nhóm cần thực hiện"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Trong quá trình hoạt động nhóm, ở giai đoạn nào thường nảy sinh nhiều mâu thuẫn nhất về quan điểm, kinh nghiệm, năng lực, tính cách… giữa các thành viên nhóm?",
+    "answer": "Giai đoạn xung đột"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Một thành viên nhóm nên ứng xử thế nào khi không hoàn thành công việc được giao?",
+    "answer": "Thành khẩn nhận lỗi và tìm mọi cách khắc phục sai sót"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Mô hình cửa sổ Johari đã chỉ ra lợi ích của việc mở rộng các mối quan hệ giao tiếp, chủ động chia sẻ quan điểm và trao đổi thông tin với người khác. Tuy nhiên, vấn đề chia sẻ thông tin cần được thực hiện như thế nào?",
+    "answer": "Sự chia sẻ thông tin cần phụ thuộc vào độ thông minh cảm xúc của từng người"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Người có độ thông minh cảm xúc cao là người:",
+    "answer": "Hiểu về năng lực bản thân, biết tự kiểm soát cảm xúc, cân bằng các mối quan hệ, nhạy cảm đoán biết được cảm xúc và suy nghĩ của người khác"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Một người tự tin về khả năng và giá trị về bản thân thì sẽ có những biểu hiện như thế nào?",
+    "answer": "Tư thế ngay ngắn, ung dung, mắt nhìn thẳng"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Theo mô hình cửa sổ Johari, một người muốn khám phá những năng lực của chính bản thân mình thì người đó cần làm gì?",
+    "answer": "Tích cực chủ động tìm kiếm cơ hội để phát triển bản thân"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "SMART là công thức được khuyến khích áp dụng để làm gì?",
+    "answer": "Thiết lập mục tiêu hành động"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Xác định một luận điểm đúng nhất trong số các luận điểm dưới đây bàn về tính cách và trang phục của con người.",
+    "answer": "Những người có phong cách ăn mặc giống nhau nhưng tính cách vẫn có thể khác nhau"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Vì sao để giữ gìn mối quan hệ tốt đẹp lâu dài thì cần phải giữ lễ nghĩa và khoảng cách nhất định, không được suồng sã với các đối tác của mình?",
+    "answer": "Vì ai cũng có lòng tự tôn, việc giữ lễ nghĩa khoảng cách là để thể hiện sự tôn trọng đối tác"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Trong quá trình giao tiếp, khi cần đối tác cung cấp thông tin, bạn nên đặt câu hỏi dạng nào để khiến cho đối tác dễ chịu và cởi mở nói chuyện với bạn?",
+    "answer": "Câu hỏi dạng mở"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Con người cần tìm kiếm thông tin, tăng cường đề tài nói chuyện để:",
+    "answer": "Tạo sự linh hoạt, sáng tạo, hấp dẫn trong giao tiếp"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trong quá trình giao tiếp với những người khác, nếu một người chỉ chú tâm đến lợi ích của bản thân mình thì người đó sẽ:",
+    "answer": "Tạo sự bất tín nhiệm của các đối tác"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Nhìn vào các mối quan hệ ứng xử trong nội bộ doanh nghiệp có thể đánh giá:",
+    "answer": "Văn hóa của một doanh nghiệp"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Khi một người có thành tích trong công việc, được cấp trên ưu ái, thường xuyên khen ngợi thì người đó cần làm gì để đạt được cả sự tôn trọng và yêu mến của đồng nghiệp?",
+    "answer": "Luôn khiêm tốn, cư xử nhã nhặn, tế nhị với các đồng nghiệp"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Người lãnh đạo doanh nghiệp giữ vai trò quan trọng trong việc xây dựng môi trường giao tiếp ứng xử tốt đẹp trong doanh nghiệp của mình vì:",
+    "answer": "Người lãnh đạo là người có thể đưa ra những qui định về giao tiếp ứng xử và yêu cầu mọi thành viên trong doanh nghiệp phải tuân thủ những quy định đó"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Những người là đồng nghiệp của nhau sẽ không thể xây dựng môi trường làm việc thân thiện, hiệu quả nếu:",
+    "answer": "Co mình khép kín, không chia sẻ ý kiến của mình"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Khi mới được tuyển dụng vào làm việc, nhân viên cấp dưới không nên:",
+    "answer": "Tò mò tìm hiểu các mối quan hệ cá nhân"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "“Kỹ thuật ẩn dụ Metaphor” là phương pháp dùng để làm gì?",
+    "answer": "So sánh và đặt vấn đề vào bối cảnh mới"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng về cách giải quyết vấn đề theo hệ thống:",
+    "answer": "Giải quyết vấn đề theo hệ thống là một quá trình phân tích logic bao gồm các bước khác nhau nhằm đạt được giải pháp"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Kỹ thuật xương cá” là phương pháp dùng để làm gì?",
+    "answer": "Phân tích các nguyên nhân của vấn đề"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng nhất về việc lựa chọn phương pháp giải quyết vấn đề đơn giản, dễ thống nhất và các thông tin có khả năng dự báo trước?",
+    "answer": "Khi gặp vấn đề đơn giản, dễ thống nhất và các thông tin có khả năng dự báo trước thì nên sử dụng cách giải quyết vấn đề theo hệ thống để tìm giải pháp"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Bước cuối cùng trong quy trình giải quyết vấn đề là:",
+    "answer": "Đánh giá giải pháp"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Quản lý thời gian bằng cách ghi chép danh sách các công việc cần làm (check list) sẽ mang lại lợi ích gì?",
+    "answer": "Giúp nhớ các đầu mục công việc cần làm"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Khi làm công việc ở ô số 2 trong ma trận quản lý thời gian thì sẽ có lợi thế gì?",
+    "answer": "Có thời gian để chủ động, bình tĩnh, tập trung vào công việc quan trọng"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Khi phân loại, sắp xếp công việc vào ma trận quản lý thời gian, bạn sẽ xếp vào ô số 2 công việc nào trong số các công việc sau:",
+    "answer": "Xây dựng mối quan hệ với đối tác"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Quản lý thời gian bằng cách sử dụng lịch công tác sẽ mang lại lợi ích gì?",
+    "answer": "Giúp sắp xếp công việc theo trình tự thời gian và hoạch định công việc trong tương lai gần"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Khi có công việc quan trọng và khẩn cấp thì con người cần hành động như thế nào?",
+    "answer": "Tập trung mọi nguồn lực để giải quyết ngay lập tức"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Chọn trong các phương án dưới đây một phương án mà người điều hành cuộc họp nhóm không nên làm khi các thành viên thiếu tận tâm, không tuân theo nhiệm vụ hoặc công việc đã thỏa thuận:",
+    "answer": "Loại bỏ những thành viên thiếu tận tâm ra khỏi nhóm"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Phương án nào sau đây không phải là ý nghĩa tích cực của việc phân công trách nhiệm cá nhân trong khi làm việc nhóm?",
+    "answer": "Giúp từng thành viên nhận thức rõ hơn về lợi ích cá nhân trong khi làm việc nhóm"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Tác hại của sự chia rẽ, mất đoàn kết trong khi làm việc nhóm là gì?",
+    "answer": "Làm suy giảm tinh thần và hiệu quả làm việc của các thành viên"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Hành động nào dưới đây sẽ làm giảm tác dụng của hoạt động nhóm trong môi trường học tập?",
+    "answer": "Dựa dẫm, ỷ lại vào thành quả học tập của người khác trong nhóm"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Thành viên nhóm nên hành xử như thế nào khi nhóm đưa ra một quyết định không trùng hợp với quan điểm của mình?",
+    "answer": "Chấp nhận vì đó là quyết định đã dựa trên những nguyên tắc và giá trị chung đã được thỏa hiệp của nhóm"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Con người cần làm gì để biến mục tiêu thành hiện thực?",
+    "answer": "Xác định mục tiêu, lên kế hoạch hành động, thực hiện nghiêm túc theo kế hoạch"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Muốn phát triển được bản thân thì con người cần phải làm gì?",
+    "answer": "Nhận biết năng lực bản thân, đặt ra mục tiêu phù hợp, lập kế hoạch để thực hiện mục tiêu"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Luận điểm nào sau đây diễn đạt đúng về khái niệm quản lý bản thân:",
+    "answer": "Quản lý bản thân là việc một cá nhân hiểu biết về chính bản thân mình, kiểm soát được cảm xúc, hành vi của mình và biết cách phát triển những năng lực mà mình có nhằm đạt được những mục tiêu mà bản thân họ đề ra"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Theo mô hình cửa sổ Johari, cách thức mà con người tương tác với người khác để hiểu về bản thân mình là gì?",
+    "answer": "Tự bộc lộ và đón nhận thông tin phản hồi"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Một người được coi là thực sự có khả năng kiểm soát cảm xúc của bản thân khi người đó:",
+    "answer": "Giữ bình tĩnh trước mọi bất ngờ xảy ra"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Để giao tiếp thành công thì con người cần xác định cự li và phương pháp giao tiếp với người khác như thế nào?",
+    "answer": "Nên xác định cự li và phương pháp giao tiếp với từng đối tượng cụ thể để có cách ứng xử phù hợp"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Lời khen loại nào sau đây sẽ gây phản cảm cho đối tác?",
+    "answer": "Lời khen tâng bốc, giả dối"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Trong quá trình giao tiếp, một người sẽ không được người khác tin tưởng khi họ:",
+    "answer": "Không trung thực trong công việc"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Những yếu tố nào sau đây không thuộc hình thức giao tiếp bằng ngôn từ?",
+    "answer": "Diễn tả bằng ánh mắt"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Để thông điệp được truyền đi một cách rõ ràng, chính xác tạo hiệu quả tốt trong giao tiếp, người gửi thông điệp không nên làm gì?",
+    "answer": "Nói câu dài, hàm chứa nhiều thông tin"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Các đồng nghiệp của nhau muốn xây dựng môi trường làm việc thân thiện, hiệu quả thì không nên làm gì?",
+    "answer": "Phát huy tối đa tính cách và sở thích cá nhân"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Mối quan hệ ứng xử trong nội bộ doanh nghiệp phụ thuộc nhiều nhất vào yếu tố nào?",
+    "answer": "Phong cách của ban lãnh đạo doanh nghiệp"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Khi chưa thực sự hiểu rõ yêu cầu của công việc; thực trạng công việc; phương pháp làm việc; v.v. nhân viên cấp dưới nên giải quyết như thế nào?",
+    "answer": "Chủ động hỏi ý kiến cấp trên"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Nhân viên cấp dưới làm việc trong một tổ chức nên làm gì?",
+    "answer": "Tránh nói xấu cấp trên sau lưng"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Khi có ý tưởng muốn đề xuất với cấp trên để hoàn thiện công việc, hoàn thiện tổ chức, v.v. bạn nên làm gì?",
+    "answer": "Cân nhắc, chọn lọc ý tưởng đề xuất phù hợp"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng nhất về cách giải quyết vấn đề sáng tạo?",
+    "answer": "Giải quyết vấn đề theo cách sáng tạo là một quá trình không đi theo một trình tự các bước cụ thể mà dưa vào sự cảm nhận, so sánh, mường tượng, xử lý kết hợp các bước để đạt được giải pháp"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Khi đối mặt với một vấn đề cần giải quyết, việc đầu tiên bạn phải làm là:",
+    "answer": "Xác định vấn đề"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Tìm phương án trả lời đúng nhất. Để giải quyết vấn đề một cách hiệu quả thì cần xem xét vấn đề đó như thế nào?",
+    "answer": "Xem xét vấn đề từ nhiều góc độ khác nhau"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng nhất về việc lựa chọn phương pháp giải quyết vấn đề khi gặp vấn đề phức tạp, nhiều biến động, khó dự báo?",
+    "answer": "Khi vấn đề phức tạp, nhiều biến động, khó dự báo thì nên kết hợp sử dụng cách giải quyết vấn đề cảm nhận sáng tạo và phân tích logic hệ thống"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Sau khi đã lựa chọn được giải pháp phù hợp nhất để giải quyết vấn đề thì cần phải làm gì",
+    "answer": "Xây dựng kế hoạch hành động cụ thể để triển khai giải pháp một cách hiệu quả trên thực tế"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Một người quản lý thời gian tốt là người có nhiều công việc ở ô nào trong ma trận quản lý thời gian?",
+    "answer": "Ô số 2: công việc quan trọng nhưng không khẩn cấp"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Khi phân loại, sắp xếp công việc vào ma trận quản lý thời gian, bạn sẽ xếp vào ô số 4 công việc nào trong số các công việc sau:",
+    "answer": "Gọi điện thoại tán gẫu"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Tìm một luận điểm đúng khi nói về đặc điểm của thời gian trong số các phương án sau:",
+    "answer": "Thời gian trôi qua không bao giờ ngừng lại"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Tìm phương án trả lời đúng nhất. Một việc như thế nào thì được coi là khẩn cấp?",
+    "answer": "Một việc được coi là khẩn cấp khi nó đòi hỏi sự chú ý ngay lập tức"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Khi một người phải liên tục làm các công việc quan trọng và khẩn cấp trong một thời gian dài thì sẽ có kết quả công việc như thế nào?",
+    "answer": "Kết quả công việc sẽ không thể tốt do sức chịu đựng sự căng thẳng của con người có giới hạn"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Khi các nhóm trong doanh nghiệp đều làm việc có hiệu quả thì sẽ mang lại điều gì cho doanh nghiệp?",
+    "answer": "Uy tín và giá trị thương hiệu của doanh nghiệp được nâng cao"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Trong môi trường học tập, khi nào thì nên thành lập nhóm?",
+    "answer": "Khi thực hiện một bài tập lớn cần có kiến thức tổng hợp"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Xác định một luận điểm đúng trong số các luận điểm dưới đây bàn về vấn đề mâu thuẫn nhóm:",
+    "answer": "Khi hoạt động nhóm, tất yếu sẽ nảy sinh nhiều mâu thuẫn vì nhóm là sự tập hợp của những con người với quan niệm, tính cách, năng lực, kinh nghiệm... khác nhau"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Điều gì cần phải được thực hiện trước khi thành lập nhóm?",
+    "answer": "Xác định mục tiêu thành lập nhóm"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Trong cuộc họp nhóm, người điều hành cần xử trí như thế nào khi có thành viên phản đối gay gắt quan điểm của mình?",
+    "answer": "Bình tĩnh, lắng nghe để điều chỉnh"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Muốn phát triển được bản thân thì con người cần phải làm gì?",
+    "answer": "Nhận biết năng lực bản thân, đặt ra mục tiêu phù hợp, lập kế hoạch để thực hiện mục tiêu"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Vì sao con người cần phải tự tin vào bản thân mình?",
+    "answer": "Vì đó là điều kiện cần thiết để con người làm chủ bản thân, chủ động thực hiện những mục tiêu mà mình đã đề ra."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Một người tự ty về bản thân thường có biểu hiện như thế nào?",
+    "answer": "Rụt rè, ngại giao tiếp với người khác"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Vì sao con người cần nhận thức được điểm mạnh và điểm yếu của bản thân mình?",
+    "answer": "Vì con người chỉ có thể tự tin khi biết được điểm mạnh của bản thân để phát triển nó và biết điểm yếu của bản thân để khắc phục nó"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Theo mô hình cửa sổ Johari, để phát triển bản thân thì con người cần chú trọng mở rộng phần nào?",
+    "answer": "Phần công khai/ Open"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Trong giao tiếp xã giao, nên sử dụng ngôn từ như thế nào để mọi người xung quanh đều hiểu đúng thông điệp của mình?",
+    "answer": "Sử dụng ngôn từ đơn giản phù hợp với người nghe và bối cảnh giao tiếp"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Xác định một nhân tố gây cản trở quá trình giao tiếp trong các nhân tố sau:",
+    "answer": "Người nhận không giải mã đúng thông điệp"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Lời khen loại nào sau đây sẽ gây phản cảm cho đối tác?",
+    "answer": "Lời khen tâng bốc, giả dối"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Xác định một câu hỏi dạng mở trong số các câu sau:",
+    "answer": "“Như bạn biết thì câu chuyện diễn ra thế nào?”"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Xác định một luận điểm thể hiện cách hiểu đúng nhất về khái niệm giao tiếp trong các phương án dưới đây:",
+    "answer": "Giao tiếp là cách thức con người tạo lập các mối liên hệ với những người khác trong xã hội"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Để xây dựng mối quan hệ tốt đẹp với đồng nghiệp thì cần làm gì?",
+    "answer": "Tránh đặt lợi ích cá nhân lấn át lợi ích của đồng nghiệp"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Trong trường hợp cụ thể, khi cấp trên đưa ra những quyết định không như mong đợi của bạn nhưng lại có vẻ phù hợp với các đồng nghiệp khác, bạn nên làm gì?",
+    "answer": "Tuân thủ, cấp quản lý bao giờ cũng có lý do để ra quyết định"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Khi một người có thành tích trong công việc, được cấp trên ưu ái, thường xuyên khen ngợi thì người đó cần làm gì để đạt được cả sự tôn trọng và yêu mến của đồng nghiệp?",
+    "answer": "Luôn khiêm tốn, cư xử nhã nhặn, tế nhị với các đồng nghiệp"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Cách hiểu nào dưới đây của cấp dưới về cấp trên là đúng?",
+    "answer": "Cấp trên cũng là con người, ai cũng có điểm mạnh điểm yếu"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Quan niệm nào sau đây là không đúng về mối quan hệ cấp trên cấp dưới trong doanh nghiệp",
+    "answer": "Quan niệm về mối quan hệ cấp trên – cấp dưới là giống nhau ở mọi doanh nghiệp"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng nhất về cách giải quyết vấn đề sáng tạo?",
+    "answer": "Giải quyết vấn đề theo cách sáng tạo là một quá trình không đi theo một trình tự các bước cụ thể mà dưa vào sự cảm nhận, so sánh, mường tượng, xử lý kết hợp các bước để đạt được giải pháp"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Bước thứ hai trong quy trình giải quyết vấn đề là",
+    "answer": "Đưa ra các giải pháp"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Bước thứ ba trong quy trình giải quyết vấn đề là",
+    "answer": "Lựa chọn giải pháp"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "“Kỹ thuật ẩn dụ Metaphor” là phương pháp dùng để làm gì?",
+    "answer": "So sánh và đặt vấn đề vào bối cảnh mới"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Tư duy vượt ra ngoài rào cản (think outside of the box) khi giải quyết vấn đề có nghĩa là",
+    "answer": "Có cách nhìn mới, nhìn vấn đề từ các góc độ khác nhau, đa dạng và phong phú"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Ma trận quản lý thời gian được xây dựng dựa trên những đặc tính nào?",
+    "answer": "Tính quan trọng và tính khẩn cấp"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Phương án nào sau đây là không chính xác khi nói về đặc điểm của thời gian:",
+    "answer": "Quỹ thời gian của mỗi người là vô hạn"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Hãy chỉ ra một nguyên nhân gây lãng phí thời gian trong số các phương án sau:",
+    "answer": "Sử dụng điện thoại quá nhiều"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Khi phân loại, sắp xếp công việc vào ma trận quản lý thời gian, bạn sẽ xếp vào ô số 2 công việc nào trong số các công việc sau:",
+    "answer": "Xây dựng mối quan hệ với đối tác"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Quản lý thời gian bằng cách ghi chép danh sách các công việc cần làm (check list) sẽ mang lại lợi ích gì?",
+    "answer": "Giúp nhớ các đầu mục công việc cần làm"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Trong số các nhân tố dưới đây, nhân tố nào có nguy cơ lớn nhất làm cho cuộc họp nhóm thất bại?",
+    "answer": "Các thành viên công kích, dèm pha lẫn nhau"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Trong môi trường học tập, khi nào thì nên thành lập nhóm?",
+    "answer": "Khi thực hiện một bài tập lớn cần có kiến thức tổng hợp"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Thành viên nhóm nên hành xử như thế nào khi nhóm đưa ra một quyết định không trùng hợp với quan điểm của mình?",
+    "answer": "Chấp nhận vì đó là quyết định đã dựa trên những nguyên tắc và giá trị chung đã được thỏa hiệp của nhóm"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Hành động nào dưới đây sẽ làm giảm tác dụng của hoạt động nhóm trong môi trường học tập?",
+    "answer": "Dựa dẫm, ỷ lại vào thành quả học tập của người khác trong nhóm"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Trong quá trình hoạt động nhóm, đến giai đoạn nào thì các thành viên trong nhóm sẽ bắt đầu nhận thấy những lợi ích của việc cộng tác cùng với nhau và giảm bớt xung đột nội bộ?",
+    "answer": "Giai đoạn chuẩn hóa"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Một người tự tin về bản thân thì sẽ phản ứng như thế nào khi được yêu cầu trình bày quan điểm của mình?",
+    "answer": "Nói ra những quan điểm của mình và sẵn sàng bảo vệ niềm tin về những gì là đúng"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Vì sao con người cần phải kiểm soát cảm xúc của bản thân?",
+    "answer": "Vì nếu phản ứng một cách không kiểm soát với những điều xảy ra trái ý mình thì sẽ dễ dẫn đến những hậu quả khó lường"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Để điều khiển và ngăn chặn cảm xúc tiêu cực thì con người cần tránh điều gì?",
+    "answer": "Trầm trọng hóa vấn đề"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Theo mô hình cửa sổ Johari, nếu một người sống quá khép kín, ngại giao tiếp thì người đó có thể gặp những điểm bất lợi gì?",
+    "answer": "Thiếu thông tin, bỏ lỡ cơ hội hợp tác, phát triển"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Một người được coi là biết kiểm soát cảm xúc của bản thân khi người đó:",
+    "answer": "Kiềm chế sự bốc đồng, giữ bình tĩnh khi sự việc bất ngờ xảy ra"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Trong quá trình giao tiếp với những người khác, nếu một người chỉ chú tâm đến lợi ích của bản thân mình thì người đó sẽ:",
+    "answer": "Tạo sự bất tín nhiệm của các đối tác"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Những yếu tố nào sau đây không thuộc hình thức giao tiếp bằng ngôn từ?",
+    "answer": "Diễn tả bằng ánh mắt"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Để thông điệp được truyền đi một cách rõ ràng, chính xác tạo hiệu quả tốt trong giao tiếp, người gửi thông điệp không nên làm gì?",
+    "answer": "Nói câu dài, hàm chứa nhiều thông tin"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Xác định một luận điểm đúng nhất trong số các luận điểm dưới đây bàn về tính cách và trang phục của con người.",
+    "answer": "Những người có phong cách ăn mặc giống nhau nhưng tính cách vẫn có thể khác nhau"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Trong quá trình giao tiếp, khi cần đối tác cung cấp thông tin, bạn nên đặt câu hỏi dạng nào để khiến cho đối tác dễ chịu và cởi mở nói chuyện với bạn?",
+    "answer": "Câu hỏi dạng mở"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Các đồng nghiệp của nhau muốn xây dựng môi trường làm việc thân thiện, hiệu quả thì không nên làm gì?",
+    "answer": "Phát huy tối đa tính cách và sở thích cá nhân"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Khi mới được tuyển dụng vào làm việc, nhân viên cấp dưới không nên:",
+    "answer": "Tò mò tìm hiểu các mối quan hệ cá nhân"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Khi có ý tưởng muốn đề xuất với cấp trên để hoàn thiện công việc, hoàn thiện tổ chức, v.v. bạn nên làm gì?",
+    "answer": "Cân nhắc, chọn lọc ý tưởng đề xuất phù hợp"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Khi chưa thực sự hiểu rõ yêu cầu của công việc; thực trạng công việc; phương pháp làm việc; v.v. nhân viên cấp dưới nên giải quyết như thế nào?",
+    "answer": "Chủ động hỏi ý kiến cấp trên"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Chú trọng đến vấn đề giao tiếp ứng xử trong môi trường làm việc là một cách để mỗi thành viên trong doanh nghiệp xây dựng “nhân hiệu” của mình vì:",
+    "answer": "Giao tiếp ứng xử tốt giúp mỗi cá nhân xây dựng hình ảnh tốt đẹp của mình trong con mắt của người khác"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Việc đánh giá thực hiện giải pháp cần được tiến hành khi nào",
+    "answer": "Việc đánh giá thực hiện giải pháp cần được tiến hành liên tục cả trong và sau khi hoàn thành quá trình triển khai giải pháp"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Kỹ thuật “đặt 5 lần câu hỏi tại sao” là nhằm mục đích gì?",
+    "answer": "Xác định nguyên nhân gốc của vấn đề"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Kỹ thuật xương cá” là phương pháp dùng để làm gì?",
+    "answer": "Phân tích các nguyên nhân của vấn đề"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Khi đứng trước nhiều giải pháp cho một vấn đề thì cần làm gì để lựa chọn được giải pháp phù hợp nhất?",
+    "answer": "Ứng dụng kỹ thuật biểu đồ để nhóm các giải pháp; đánh giá các giải pháp bằng quá trình so sánh; tư duy vượt ra ngoài rào cản và cân nhắc hậu quả khi lựa chọn giải pháp"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Để giải quyết vấn đề một cách hiệu quả, người giải quyết vấn đề cần có thái độ như thế nào?",
+    "answer": "Cần tạo dựng thái độ tích cực và lạc quan khi giải quyết vấn đề"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Trong số các phương án dưới đây, phương án nào giải thích đúng nhất về khái niệm quản lý thời gian?",
+    "answer": "Quản lý thời gian là biết cách sử dụng thời gian một cách hợp lý và hiệu quả để đạt được mục tiêu xác định"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Một người quản lý thời gian tốt là người có nhiều công việc ở ô nào trong ma trận quản lý thời gian?",
+    "answer": "Ô số 2: công việc quan trọng nhưng không khẩn cấp"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Quản lý thời gian bằng cách sử dụng lịch công tác sẽ mang lại lợi ích gì?",
+    "answer": "Giúp sắp xếp công việc theo trình tự thời gian và hoạch định công việc trong tương lai gần"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Một người được gọi là biết cách quản lý thời gian nếu người đó:",
+    "answer": "Biết phân loại công việc, lập kế hoạch và từng bước thực hiện theo kế hoạch"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Quản lý thời gian là gì? Tìm phương án không chính xác trong số các phương án sau đây",
+    "answer": "Là sự vội vã hoàn thành công việc vào phút cuối"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Chọn trong các phương án dưới đây một phương án mà người điều hành cuộc họp nhóm không nên làm khi không khí cuộc họp nhóm buồn tẻ, các thành viên không tham gia phát biểu:",
+    "answer": "Nhanh chóng kết thúc cuộc họp"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Chọn trong các phương án dưới đây một phương án mà người điều hành cuộc họp nhóm không nên làm khi cuộc họp diễn ra quá lâu mà không đạt được sự đồng thuận:",
+    "answer": "Phê bình những cá nhân không đồng quan điểm"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Điều gì cần phải được thực hiện trước khi thành lập nhóm?",
+    "answer": "Xác định mục tiêu thành lập nhóm"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Trong trường hợp nào thì doanh nghiệp chưa cần thành lập nhóm để giải quyết công việc?",
+    "answer": "Khi các cá nhân có thể dễ dàng làm việc độc lập"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Tác hại của sự chia rẽ, mất đoàn kết trong khi làm việc nhóm là gì?",
+    "answer": "Làm suy giảm tinh thần và hiệu quả làm việc của các thành viên"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Một người tự tin về khả năng và giá trị về bản thân thì sẽ có những biểu hiện như thế nào?",
+    "answer": "Tư thế ngay ngắn, ung dung, mắt nhìn thẳng"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "SMART là công thức được khuyến khích áp dụng để làm gì?",
+    "answer": "Thiết lập mục tiêu hành động"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Mô hình cửa sổ Johari đã chỉ ra lợi ích của việc mở rộng các mối quan hệ giao tiếp, chủ động chia sẻ quan điểm và trao đổi thông tin với người khác. Tuy nhiên, vấn đề chia sẻ thông tin cần được thực hiện như thế nào?",
+    "answer": "Sự chia sẻ thông tin cần phụ thuộc vào độ thông minh cảm xúc của từng người"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Theo mô hình cửa sổ Johari, cách thức mà con người tương tác với người khác để hiểu về bản thân mình là gì?",
+    "answer": "Tự bộc lộ và đón nhận thông tin phản hồi"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Một người được coi là thực sự có khả năng kiểm soát cảm xúc của bản thân khi người đó:",
+    "answer": "Giữ bình tĩnh trước mọi bất ngờ xảy ra"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Trong quá trình giao tiếp, một người sẽ không được người khác tin tưởng khi họ:",
+    "answer": "Không trung thực trong công việc"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Con người không nên làm gì nếu muốn thành công trong giao tiếp với người khác?",
+    "answer": "Tự do bộc lộ cảm xúc của mình"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Trong quá trình giao tiếp, khi cảm nhận được điều hay, điều tốt của đối tác bạn không nên làm gì?",
+    "answer": "Biểu lộ sự ghen ghét đố kị"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Lời khen có tác dụng rất tích cực trong quan hệ giao tiếp. Tuy nhiên nên bày tỏ lời khen như thế nào để tăng hiệu quả bền vững của các mối quan hệ ?",
+    "answer": "Dành những lời khen tặng chân thành cho đối tác đúng lúc, đúng chỗ"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Vì sao để giữ gìn mối quan hệ tốt đẹp lâu dài thì cần phải giữ lễ nghĩa và khoảng cách nhất định, không được suồng sã với các đối tác của mình?",
+    "answer": "Vì ai cũng có lòng tự tôn, việc giữ lễ nghĩa khoảng cách là để thể hiện sự tôn trọng đối tác"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Nhân viên cấp dưới làm việc trong một tổ chức nên làm gì?",
+    "answer": "Tránh nói xấu cấp trên sau lưng"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Môi trường làm việc thân thiện, mối quan hệ lành mạnh trong doanh nghiệp có ảnh hưởng tích cực đến khả năng sáng tạo, năng lực làm việc... của người lao động vì:",
+    "answer": "Về bản chất, con người chỉ có thể phát huy được tốt nhất năng lực sáng tạo của mình khi được ở trong một môi trường thoải mái, thích hợp"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Mối quan hệ ứng xử trong nội bộ doanh nghiệp phụ thuộc nhiều nhất vào yếu tố nào?",
+    "answer": "Phong cách của ban lãnh đạo doanh nghiệp"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Người lãnh đạo doanh nghiệp giữ vai trò quan trọng trong việc xây dựng môi trường giao tiếp ứng xử tốt đẹp trong doanh nghiệp của mình vì:",
+    "answer": "Người lãnh đạo là người có thể đưa ra những qui định về giao tiếp ứng xử và yêu cầu mọi thành viên trong doanh nghiệp phải tuân thủ những quy định đó"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Một doanh nghiệp có môi trường giao tiếp ứng xử nội bộ tốt đẹp sẽ thu hút được sự quan tâm của đối tác và khách hàng vì:",
+    "answer": "Đối tác và khách hàng cũng kỳ vọng những mối quan hệ tốt đẹp như vậy từ doanh nghiệp"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Sau khi đã lựa chọn được giải pháp phù hợp nhất để giải quyết vấn đề thì cần phải làm gì",
+    "answer": "Xây dựng kế hoạch hành động cụ thể để triển khai giải pháp một cách hiệu quả trên thực tế"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Khi đối mặt với một vấn đề cần giải quyết, việc đầu tiên bạn phải làm là:",
+    "answer": "Xác định vấn đề"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Bước thứ năm trong quy trình giải quyết vấn đề là:",
+    "answer": "Theo dõi thực hiện giải pháp"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng về cách giải quyết vấn đề theo hệ thống:",
+    "answer": "Giải quyết vấn đề theo hệ thống là một quá trình phân tích logic bao gồm các bước khác nhau nhằm đạt được giải pháp"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Bước cuối cùng trong quy trình giải quyết vấn đề là:",
+    "answer": "Đánh giá giải pháp"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Khi có công việc quan trọng và khẩn cấp thì con người cần hành động như thế nào?",
+    "answer": "Tập trung mọi nguồn lực để giải quyết ngay lập tức"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Bạn sẽ sắp xếp vào ô số 3 trong ma trận quản lý thời gian loại công việc nào trong số các công việc dưới đây?",
+    "answer": "Các công việc ngắn hạn, vụn vặt"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Một việc như thế nào thì được coi là quan trọng?",
+    "answer": "Một việc được coi là quan trọng khi nó có một ý nghĩa lớn hoặc gây ra một kết quả đáng kế"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Khi một người có nhiều công việc ở ô số 3 trong ma trận quản lý thời gian thì người đó nên làm gì?",
+    "answer": "Ủy quyền cho người khác làm thay nếu có thể"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Khi một người phải liên tục làm các công việc quan trọng và khẩn cấp trong một thời gian dài thì sẽ có kết quả công việc như thế nào?",
+    "answer": "Kết quả công việc sẽ không thể tốt do sức chịu đựng sự căng thẳng của con người có giới hạn"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Sau khi đã xác định được mục tiêu, bước tiếp theo nhóm cần phải làm là:",
+    "answer": "xác định những công việc mà nhóm cần thực hiện"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Trong cuộc họp nhóm, người điều hành cần xử trí như thế nào khi có thành viên phản đối gay gắt quan điểm của mình?",
+    "answer": "Bình tĩnh, lắng nghe để điều chỉnh"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Khi các nhóm trong doanh nghiệp đều làm việc có hiệu quả thì sẽ mang lại điều gì cho doanh nghiệp?",
+    "answer": "Uy tín và giá trị thương hiệu của doanh nghiệp được nâng cao"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Xác định một luận điểm đúng trong số các luận điểm dưới đây bàn về vấn đề mâu thuẫn nhóm:",
+    "answer": "Khi hoạt động nhóm, tất yếu sẽ nảy sinh nhiều mâu thuẫn vì nhóm là sự tập hợp của những con người với quan niệm, tính cách, năng lực, kinh nghiệm... khác nhau"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Phương án nào sau đây không phải là ý nghĩa tích cực của việc phân công trách nhiệm cá nhân trong khi làm việc nhóm?",
+    "answer": "Giúp từng thành viên nhận thức rõ hơn về lợi ích cá nhân trong khi làm việc nhóm"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Con người cần làm gì để biến mục tiêu thành hiện thực?",
+    "answer": "Xác định mục tiêu, lên kế hoạch hành động, thực hiện nghiêm túc theo kế hoạch"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Theo mô hình cửa sổ Johari, một người muốn khám phá những năng lực của chính bản thân mình thì người đó cần làm gì?",
+    "answer": "Tích cực chủ động tìm kiếm cơ hội để phát triển bản thân"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Vì sao con người cần hiểu biết năng lực của bản thân mình?",
+    "answer": "Vì đó là tiền đề quan trọng để con người xây dựng nhân hiệu, tạo dựng hình ảnh và uy tín cá nhân hướng đến sự thành công trong công việc và cuôc sống"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Người có độ thông minh cảm xúc cao là người:",
+    "answer": "Hiểu về năng lực bản thân, biết tự kiểm soát cảm xúc, cân bằng các mối quan hệ, nhạy cảm đoán biết được cảm xúc và suy nghĩ của người khác"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Luận điểm nào sau đây diễn đạt đúng về khái niệm quản lý bản thân:",
+    "answer": "Quản lý bản thân là việc một cá nhân hiểu biết về chính bản thân mình, kiểm soát được cảm xúc, hành vi của mình và biết cách phát triển những năng lực mà mình có nhằm đạt được những mục tiêu mà bản thân họ đề ra"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Để giao tiếp thành công thì con người cần xác định cự li và phương pháp giao tiếp với người khác như thế nào?",
+    "answer": "Nên xác định cự li và phương pháp giao tiếp với từng đối tượng cụ thể để có cách ứng xử phù hợp"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Con người cần tìm kiếm thông tin, tăng cường đề tài nói chuyện để:",
+    "answer": "Tạo sự linh hoạt, sáng tạo, hấp dẫn trong giao tiếp"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Không gian giao tiếp giữa hai người được duy trì trong khoảng từ 0.5- 1m được xếp vào vùng nào?",
+    "answer": "Vùng riêng tư"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Những người là đối tác thân thiết của nhau cần cư xử thế nào để duy trì mối quan hệ lâu dài với nhau?",
+    "answer": "Dù là thân cận đến mấy thì các đối tác cũng nên giữ lễ nghĩa, khoảng cách nhất định, không được suồng sã với nhau"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Trong các nhân tố sau, nhân tố nào khiến cho quá trình giao tiếp không được triển khai thuận lợi?",
+    "answer": "Người gửi không thể mã hóa đúng thông điệp"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Nhìn vào các mối quan hệ ứng xử trong nội bộ doanh nghiệp có thể đánh giá:",
+    "answer": "Văn hóa của một doanh nghiệp"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Khi công việc được giao có những thay đổi đáng kể về phạm vi và cấp độ, xuất hiện nguy cơ quá tải khiến không thể đảm đương được công việc thì cấp dưới cần làm gì?",
+    "answer": "Chủ động đề xuất với cấp trên về phương án thực hiện và nói rõ giới hạn khả năng của mình"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Những người là đồng nghiệp của nhau sẽ không thể xây dựng môi trường làm việc thân thiện, hiệu quả nếu:",
+    "answer": "Co mình khép kín, không chia sẻ ý kiến của mình"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Khi nhân viên cấp dưới được cấp trên giao một nhiệm vụ nằm ngoài phạm vi những công việc thường làm (không trong danh mục các công việc được mô tả khi phân công trách nhiệm) thì cấp dưới nên phản ứng như thế nào?",
+    "answer": "Nhiệt tình thực hiện"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Người quản lý nên làm gì để có thể nghe được những ý kiến phản hồi từ các nhân viên của mình?",
+    "answer": "Điềm đạm, bình tĩnh sẵn sàng tiếp nhận thông tin nhiều chiều"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Tìm phương án trả lời đúng nhất. Để giải quyết vấn đề một cách hiệu quả thì cần xem xét vấn đề đó như thế nào?",
+    "answer": "Xem xét vấn đề từ nhiều góc độ khác nhau"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "“Kỹ thuật Janusian” là phương pháp dùng để làm gì?",
+    "answer": "Xem xét khía cạnh đối diện của vấn đề"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Bước thứ tư trong quy trình giải quyết vấn đề là",
+    "answer": "Thực hiện giải pháp"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng nhất về việc lựa chọn phương pháp giải quyết vấn đề khi gặp vấn đề phức tạp, nhiều biến động, khó dự báo?",
+    "answer": "Khi vấn đề phức tạp, nhiều biến động, khó dự báo thì nên kết hợp sử dụng cách giải quyết vấn đề cảm nhận sáng tạo và phân tích logic hệ thống"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng nhất về việc lựa chọn phương pháp giải quyết vấn đề đơn giản, dễ thống nhất và các thông tin có khả năng dự báo trước?",
+    "answer": "Khi gặp vấn đề đơn giản, dễ thống nhất và các thông tin có khả năng dự báo trước thì nên sử dụng cách giải quyết vấn đề theo hệ thống để tìm giải pháp"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Tìm phương án trả lời đúng nhất. Một việc như thế nào thì được coi là khẩn cấp?",
+    "answer": "Một việc được coi là khẩn cấp khi nó đòi hỏi sự chú ý ngay lập tức"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây là nguyên nhân gây lãng phí thời gian?",
+    "answer": "Làm việc không có kế hoạch"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Tìm một luận điểm đúng khi nói về đặc điểm của thời gian trong số các phương án sau:",
+    "answer": "Thời gian trôi qua không bao giờ ngừng lại"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Khi phân loại, sắp xếp công việc vào ma trận quản lý thời gian, bạn sẽ xếp vào ô số 4 công việc nào trong số các công việc sau:",
+    "answer": "Gọi điện thoại tán gẫu"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Khi làm công việc ở ô số 2 trong ma trận quản lý thời gian thì sẽ có lợi thế gì?",
+    "answer": "Có thời gian để chủ động, bình tĩnh, tập trung vào công việc quan trọng"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Tìm phương án trả lời đúng nhất. Vì sao để công việc nhóm được triển khai hiệu quả, các thành viên nhóm cần phải thể hiện tốt trách nhiệm cá nhân?",
+    "answer": "Chỉ khi các thành viên đều đồng thuận, chia sẻ trách nhiệm và có ý thức trách nhiệm với công việc chung thì nhóm mới có thể làm việc hiệu quả"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Chọn trong các phương án dưới đây một phương án mà người điều hành cuộc họp nhóm không nên làm khi các thành viên thiếu tận tâm, không tuân theo nhiệm vụ hoặc công việc đã thỏa thuận:",
+    "answer": "Loại bỏ những thành viên thiếu tận tâm ra khỏi nhóm"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Trong quá trình hoạt động nhóm, ở giai đoạn nào thường nảy sinh nhiều mâu thuẫn nhất về quan điểm, kinh nghiệm, năng lực, tính cách… giữa các thành viên nhóm?",
+    "answer": "Giai đoạn xung đột"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Để xây dựng mối quan hệ tốt đẹp giữa các thành viên trong nhóm, người trưởng nhóm không nên làm gì?",
+    "answer": "Đối xử thiếu công bằng với các thành viên trong nhóm"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Một thành viên nhóm nên ứng xử thế nào khi không hoàn thành công việc được giao?",
+    "answer": "Thành khẩn nhận lỗi và tìm mọi cách khắc phục sai sót"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Mô hình cửa sổ Johari đã chỉ ra lợi ích của việc mở rộng các mối quan hệ giao tiếp, chủ động chia sẻ quan điểm và trao đổi thông tin với người khác. Tuy nhiên, vấn đề chia sẻ thông tin cần được thực hiện như thế nào?",
+    "answer": "Sự chia sẻ thông tin cần phụ thuộc vào độ thông minh cảm xúc của từng người"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Để điều khiển và ngăn chặn cảm xúc tiêu cực thì con người cần tránh điều gì?",
+    "answer": "Trầm trọng hóa vấn đề"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Theo mô hình cửa sổ Johari, cách thức mà con người tương tác với người khác để hiểu về bản thân mình là gì?",
+    "answer": "Tự bộc lộ và đón nhận thông tin phản hồi"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Luận điểm nào sau đây diễn đạt đúng về khái niệm quản lý bản thân:",
+    "answer": "Quản lý bản thân là việc một cá nhân hiểu biết về chính bản thân mình, kiểm soát được cảm xúc, hành vi của mình và biết cách phát triển những năng lực mà mình có nhằm đạt được những mục tiêu mà bản thân họ đề ra"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Một người được coi là biết kiểm soát cảm xúc của bản thân khi người đó:",
+    "answer": "Kiềm chế sự bốc đồng, giữ bình tĩnh khi sự việc bất ngờ xảy ra"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Xác định một nhân tố gây cản trở quá trình giao tiếp trong các nhân tố sau:",
+    "answer": "Người nhận không giải mã đúng thông điệp"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Những người là đối tác thân thiết của nhau cần cư xử thế nào để duy trì mối quan hệ lâu dài với nhau?",
+    "answer": "Dù là thân cận đến mấy thì các đối tác cũng nên giữ lễ nghĩa, khoảng cách nhất định, không được suồng sã với nhau"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Không gian giao tiếp giữa hai người được duy trì trong khoảng từ 0.5- 1m được xếp vào vùng nào?",
+    "answer": "Vùng riêng tư"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Vì sao để giữ gìn mối quan hệ tốt đẹp lâu dài thì cần phải giữ lễ nghĩa và khoảng cách nhất định, không được suồng sã với các đối tác của mình?",
+    "answer": "Vì ai cũng có lòng tự tôn, việc giữ lễ nghĩa khoảng cách là để thể hiện sự tôn trọng đối tác"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Trong các nhân tố sau, nhân tố nào khiến cho quá trình giao tiếp không được triển khai thuận lợi?",
+    "answer": "Người gửi không thể mã hóa đúng thông điệp"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Một doanh nghiệp có môi trường giao tiếp ứng xử nội bộ tốt đẹp sẽ thu hút được sự quan tâm của đối tác và khách hàng vì:",
+    "answer": "Đối tác và khách hàng cũng kỳ vọng những mối quan hệ tốt đẹp như vậy từ doanh nghiệp"
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Những người là đồng nghiệp của nhau sẽ không thể xây dựng môi trường làm việc thân thiện, hiệu quả nếu:",
+    "answer": "Co mình khép kín, không chia sẻ ý kiến của mình"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Môi trường làm việc thân thiện, mối quan hệ lành mạnh trong doanh nghiệp có ảnh hưởng tích cực đến khả năng sáng tạo, năng lực làm việc... của người lao động vì:",
+    "answer": "Về bản chất, con người chỉ có thể phát huy được tốt nhất năng lực sáng tạo của mình khi được ở trong một môi trường thoải mái, thích hợp"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Người lãnh đạo doanh nghiệp giữ vai trò quan trọng trong việc xây dựng môi trường giao tiếp ứng xử tốt đẹp trong doanh nghiệp của mình vì:",
+    "answer": "Người lãnh đạo là người có thể đưa ra những qui định về giao tiếp ứng xử và yêu cầu mọi thành viên trong doanh nghiệp phải tuân thủ những quy định đó"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Nhân viên cấp dưới làm việc trong một tổ chức nên làm gì?",
+    "answer": "Tránh nói xấu cấp trên sau lưng"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Để giải quyết vấn đề một cách hiệu quả, người giải quyết vấn đề cần có thái độ như thế nào?",
+    "answer": "Cần tạo dựng thái độ tích cực và lạc quan khi giải quyết vấn đề"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Bước thứ hai trong quy trình giải quyết vấn đề là",
+    "answer": "Đưa ra các giải pháp"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Khi đứng trước nhiều giải pháp cho một vấn đề thì cần làm gì để lựa chọn được giải pháp phù hợp nhất?",
+    "answer": "Ứng dụng kỹ thuật biểu đồ để nhóm các giải pháp; đánh giá các giải pháp bằng quá trình so sánh; tư duy vượt ra ngoài rào cản và cân nhắc hậu quả khi lựa chọn giải pháp"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng về cách giải quyết vấn đề theo hệ thống:",
+    "answer": "Giải quyết vấn đề theo hệ thống là một quá trình phân tích logic bao gồm các bước khác nhau nhằm đạt được giải pháp"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng nhất về việc lựa chọn phương pháp giải quyết vấn đề khi gặp vấn đề phức tạp, nhiều biến động, khó dự báo?",
+    "answer": "Khi vấn đề phức tạp, nhiều biến động, khó dự báo thì nên kết hợp sử dụng cách giải quyết vấn đề cảm nhận sáng tạo và phân tích logic hệ thống"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Khi một người có nhiều công việc ở ô số 3 trong ma trận quản lý thời gian thì người đó nên làm gì?",
+    "answer": "Ủy quyền cho người khác làm thay nếu có thể"
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Khi phân loại, sắp xếp công việc vào ma trận quản lý thời gian, bạn sẽ xếp vào ô số 2 công việc nào trong số các công việc sau:",
+    "answer": "Xây dựng mối quan hệ với đối tác"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Ma trận quản lý thời gian được xây dựng dựa trên những đặc tính nào?",
+    "answer": "Tính quan trọng và tính khẩn cấp"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Khi làm công việc ở ô số 2 trong ma trận quản lý thời gian thì sẽ có lợi thế gì?",
+    "answer": "Có thời gian để chủ động, bình tĩnh, tập trung vào công việc quan trọng"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Phương án nào sau đây là không chính xác khi nói về đặc điểm của thời gian:",
+    "answer": "Quỹ thời gian của mỗi người là vô hạn"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Một thành viên nhóm nên ứng xử thế nào khi không hoàn thành công việc được giao?",
+    "answer": "Thành khẩn nhận lỗi và tìm mọi cách khắc phục sai sót"
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Trong trường hợp nào thì doanh nghiệp chưa cần thành lập nhóm để giải quyết công việc?",
+    "answer": "Khi các cá nhân có thể dễ dàng làm việc độc lập"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Tác hại của sự chia rẽ, mất đoàn kết trong khi làm việc nhóm là gì?",
+    "answer": "Làm suy giảm tinh thần và hiệu quả làm việc của các thành viên"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Xác định một luận điểm đúng trong số các luận điểm dưới đây bàn về vấn đề mâu thuẫn nhóm:",
+    "answer": "Khi hoạt động nhóm, tất yếu sẽ nảy sinh nhiều mâu thuẫn vì nhóm là sự tập hợp của những con người với quan niệm, tính cách, năng lực, kinh nghiệm... khác nhau"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Phương án nào sau đây không phải là ý nghĩa tích cực của việc phân công trách nhiệm cá nhân trong khi làm việc nhóm?",
+    "answer": "Giúp từng thành viên nhận thức rõ hơn về lợi ích cá nhân trong khi làm việc nhóm"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Một người tự tin về bản thân thì sẽ phản ứng như thế nào khi được yêu cầu trình bày quan điểm của mình?",
+    "answer": "Nói ra những quan điểm của mình và sẵn sàng bảo vệ niềm tin về những gì là đúng"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Tìm câu trả lời đúng nhất. Vì sao con người cần nhận thức được điểm mạnh và điểm yếu của bản thân mình?",
+    "answer": "Vì con người chỉ có thể tự tin khi biết được điểm mạnh của bản thân để phát triển nó và biết điểm yếu của bản thân để khắc phục nó"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "SMART là công thức được khuyến khích áp dụng để làm gì?",
+    "answer": "Thiết lập mục tiêu hành động"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Người có độ thông minh cảm xúc cao là người:",
+    "answer": "Hiểu về năng lực bản thân, biết tự kiểm soát cảm xúc, cân bằng các mối quan hệ, nhạy cảm đoán biết được cảm xúc và suy nghĩ của người khác"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Theo mô hình cửa sổ Johari, để phát triển bản thân thì con người cần chú trọng mở rộng phần nào?",
+    "answer": "Phần công khai/ Open"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Tìm phương án đúng nhất. Con người cần tìm kiếm thông tin, tăng cường đề tài nói chuyện để:",
+    "answer": "Tạo sự linh hoạt, sáng tạo, hấp dẫn trong giao tiếp"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Trong giao tiếp xã giao, nên sử dụng ngôn từ như thế nào để mọi người xung quanh đều hiểu đúng thông điệp của mình?",
+    "answer": "Sử dụng ngôn từ đơn giản phù hợp với người nghe và bối cảnh giao tiếp"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Xác định một luận điểm đúng nhất trong số các luận điểm dưới đây bàn về tính cách và trang phục của con người.",
+    "answer": "Những người có phong cách ăn mặc giống nhau nhưng tính cách vẫn có thể khác nhau"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Con người không nên làm gì nếu muốn thành công trong giao tiếp với người khác?",
+    "answer": "Tự do bộc lộ cảm xúc của mình"
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Những yếu tố nào sau đây không thuộc hình thức giao tiếp bằng ngôn từ?",
+    "answer": "Diễn tả bằng ánh mắt"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Trong trường hợp cụ thể, khi cấp trên đưa ra những quyết định không như mong đợi của bạn nhưng lại có vẻ phù hợp với các đồng nghiệp khác, bạn nên làm gì?",
+    "answer": "Tuân thủ, cấp quản lý bao giờ cũng có lý do để ra quyết định"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Để xây dựng mối quan hệ tốt đẹp với đồng nghiệp thì cần làm gì?",
+    "answer": "Tránh đặt lợi ích cá nhân lấn át lợi ích của đồng nghiệp"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Khi công việc được giao có những thay đổi đáng kể về phạm vi và cấp độ, xuất hiện nguy cơ quá tải khiến không thể đảm đương được công việc thì cấp dưới cần làm gì?",
+    "answer": "Chủ động đề xuất với cấp trên về phương án thực hiện và nói rõ giới hạn khả năng của mình"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Khi nhân viên cấp dưới được cấp trên giao một nhiệm vụ nằm ngoài phạm vi những công việc thường làm (không trong danh mục các công việc được mô tả khi phân công trách nhiệm) thì cấp dưới nên phản ứng như thế nào?",
+    "answer": "Nhiệt tình thực hiện"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Khi mới được tuyển dụng vào làm việc, nhân viên cấp dưới không nên:",
+    "answer": "Tò mò tìm hiểu các mối quan hệ cá nhân"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Phương án nào dưới đây giải thích đúng nhất về việc lựa chọn phương pháp giải quyết vấn đề đơn giản, dễ thống nhất và các thông tin có khả năng dự báo trước?",
+    "answer": "Khi gặp vấn đề đơn giản, dễ thống nhất và các thông tin có khả năng dự báo trước thì nên sử dụng cách giải quyết vấn đề theo hệ thống để tìm giải pháp"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Tìm phương án trả lời đúng nhất. Để giải quyết vấn đề một cách hiệu quả thì cần xem xét vấn đề đó như thế nào?",
+    "answer": "Xem xét vấn đề từ nhiều góc độ khác nhau"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Tư duy vượt ra ngoài rào cản (think outside of the box) khi giải quyết vấn đề có nghĩa là",
+    "answer": "Có cách nhìn mới, nhìn vấn đề từ các góc độ khác nhau, đa dạng và phong phú"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Bước thứ năm trong quy trình giải quyết vấn đề là:",
+    "answer": "Theo dõi thực hiện giải pháp"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Bước thứ ba trong quy trình giải quyết vấn đề là",
+    "answer": "Lựa chọn giải pháp"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Khi một người phải liên tục làm các công việc quan trọng và khẩn cấp trong một thời gian dài thì sẽ có kết quả công việc như thế nào?",
+    "answer": "Kết quả công việc sẽ không thể tốt do sức chịu đựng sự căng thẳng của con người có giới hạn"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Khi phân loại, sắp xếp công việc vào ma trận quản lý thời gian, bạn sẽ xếp vào ô số 4 công việc nào trong số các công việc sau:",
+    "answer": "Gọi điện thoại tán gẫu"
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Khi có công việc quan trọng và khẩn cấp thì con người cần hành động như thế nào?",
+    "answer": "Tập trung mọi nguồn lực để giải quyết ngay lập tức"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Hãy chỉ ra một nguyên nhân gây lãng phí thời gian trong số các phương án sau:",
+    "answer": "Sử dụng điện thoại quá nhiều"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Tìm một luận điểm đúng khi nói về đặc điểm của thời gian trong số các phương án sau:",
+    "answer": "Thời gian trôi qua không bao giờ ngừng lại"
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Trong cuộc họp nhóm, người điều hành cần xử trí như thế nào khi có thành viên phản đối gay gắt quan điểm của mình?",
+    "answer": "Bình tĩnh, lắng nghe để điều chỉnh"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Chọn trong các phương án dưới đây một phương án mà người điều hành cuộc họp nhóm không nên làm khi các thành viên thiếu tận tâm, không tuân theo nhiệm vụ hoặc công việc đã thỏa thuận:",
+    "answer": "Loại bỏ những thành viên thiếu tận tâm ra khỏi nhóm"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Trong quá trình hoạt động nhóm, đến giai đoạn nào thì các thành viên trong nhóm sẽ bắt đầu nhận thấy những lợi ích của việc cộng tác cùng với nhau và giảm bớt xung đột nội bộ?",
+    "answer": "Giai đoạn chuẩn hóa"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Điều gì cần phải được thực hiện trước khi thành lập nhóm?",
+    "answer": "Xác định mục tiêu thành lập nhóm"
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Chọn trong các phương án dưới đây một phương án mà người điều hành cuộc họp nhóm không nên làm khi cuộc họp diễn ra quá lâu mà không đạt được sự đồng thuận:",
+    "answer": "Phê bình những cá nhân không đồng quan điểm"
+  }
+]

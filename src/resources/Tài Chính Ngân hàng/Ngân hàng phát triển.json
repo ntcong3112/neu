@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Ngân hàng thiết kế chương trình giám sát chặt chẽ và đào tạo đội ngũ giám sát có chất lượng để hạn chế tình trạng tiêu cực giữa:",
+    "answer": "nhân viên ngân hàng với nhau."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Khi đánh giá dự án cần chọn tỷ lệ chiết khấu của dự án là:",
+    "answer": "lãi suất cho vay trước thuế cộng với chi phí vốn chủ sở hữu."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Vai trò của chính phủ đối với các ngân hàng phát triển là:",
+    "answer": "liên quan chặt chẽ."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Lợi thế của công nghệ rẻ đối với các dự án phát triển là:",
+    "answer": "phù hợp với trình độ công nghệ hiện hành."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Nếu huy động nguồn vốn có thời gian đáo hạn ngắn hơn khoản mục cấp tín dụng, ngân hàng cần phải:",
+    "answer": "chuyển hoán kỳ hạn."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Dự án X có IRR là 14% và Dự án Y có IRR là 17%. Cả 2 dự án đều có dòng tiền thông thường (dòng tiền các năm đều dương trừ năm đầu tiên). Câu phát biểu nào sau đây là đúng?",
+    "answer": "Nếu tỷ lệ sinh lời yêu cầu là 14%, NPV của dự án Y lớn hơn NPV của dự án X."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Nguyên nhân dẫn đến rủi ro về ngân sách sai lệch của dự án phát triển là gì?",
+    "answer": "Chủ đầu tư đưa ra dự toán thấp về tổng vốn đầu tư khi gửi dự án đi thẩm định để dễ được phê duyệt."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Lý do nào sau đây KHÔNG đánh giá tính hiệu quả trong việc tài trợ của ngân hàng phát triển đối với các dự án?",
+    "answer": "Lãi suất cao."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Đối với những dự án phát triển thì tài sản đảm bảo thường:",
+    "answer": "hình thành từ nguồn vốn vay."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Lãi suất chiết khấu của dự án là lãi suất làm cho:",
+    "answer": "chủ đầu tư xác định được lợi nhuận khi đầu tư vào dự án."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Ngân quỹ của ngân hàng thương mại thường:",
+    "answer": "có tỷ trọng nhỏ."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Hoạt động nào sau đây KHÔNG nằm trong hoạt động của ngân hàng phát triển?",
+    "answer": "Tư vấn."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Chi phí cơ hội của một tài sản là:",
+    "answer": "giá trị lớn nhất của các cơ hội sẵn có đối với tài sản."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Mục tiêu của dự án phát triển KHÔNG phải là:",
+    "answer": "tối đa hóa lợi nhuận cho chủ đầu tư."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Yêu cầu của công tác thẩm định hiệu quả tài chính xã hội là:",
+    "answer": "nhanh, chính xác và chi phí thấp."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Đặc điểm nào là ưu điểm của vốn góp bởi những đối tượng hưởng lợi từ các sản phẩm của dự án phát triển?",
+    "answer": "Giám sát tiến độ dự án."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Tại Việt nam, vốn huy động từ phát hành trái phiếu Chính phủ là nguồn vốn:",
+    "answer": "có thời gian sử dụng dài."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Phát hành giấy nợ trên thị trường KHÔNG có đặc điểm nào sau đây?",
+    "answer": "Lãi suất không cạnh tranh."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Một công ty sở hữu một mảnh đất bỏ hoang, nay đưa vào dự án mới với chi phí cơ hội bằng:",
+    "answer": "không (0)."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Nguồn nào sau đây thường được dùng để trả gốc?",
+    "answer": "Khấu hao và lợi nhuận sau thuế."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Khi thu nợ thì ngân hàng thường:",
+    "answer": "thu cả gốc và lãi."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Ưu điểm của nguồn vay từ ngân hàng thương mại để tài trợ cho dự án phát triển là:",
+    "answer": "hạn chế bao cấp của nhà nước và gánh nặng nợ nần của quốc gia."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Rủi ro của dự án là:",
+    "answer": "khả năng xảy ra biến cố bất lợi ngoài dự kiến."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Nhà nước cần can thiệp vào quá trình thực hiện các dự án phát triển kinh tế để:",
+    "answer": "đạt được mục tiêu phát triển với chi phí thấp nhất."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Khi thẩm định dự án, ngân hàng nên xác định hiệu quả tài chính trên cơ sở:",
+    "answer": "dòng tiền của dự án không phân biệt nguồn tài trợ."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Công ty Phương nam đang sở hữu một khu đất được dự kiến sẽ dùng làm địa điểm cho một chi nhánh mới. Dòng tiền phát sinh nào sau đây KHÔNG được đưa vào dự án?",
+    "answer": "Chi phí kiểm tra địa tầng đất để xem xét khả năng sử dụng mảnh đất vào các mục đích nhất định."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Đối với dự án không có khả năng trả nợ trực tiếp thì nguồn trả nợ của dự án thường xuất phát từ:",
+    "answer": "nguồn khác của chủ đầu tư."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Trong những vấn đề sau, vấn đề nào KHÔNG phải nhược điểm của phương pháp IRR?",
+    "answer": "Cho biết tỷ lệ sinh lời của vốn đều tư nên có thể dùng để so sánh dự án với khả năng sinh lời chung của ngành."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Chọn câu SAI.\nLý do làm cho ngân quỹ của ngân hàng phát triển thường nhỏ là:",
+    "answer": "ngân hàng được nhà nước thanh toán."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Vốn ODA được tài trợ cho dự án phát triển ở Việt Nam dưới hình thức phổ biến là:",
+    "answer": "cho vay lại."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nội dung nào sau đây KHÔNG phải là nội dung của thẩm định dự án?",
+    "answer": "Chi phí nghiên cứu sản phẩm mới của chủ đầu tư."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Ngân hàng phát triển Việt Nam KHÔNG thể gặp rủi ro tỷ giá trong trường hợp nào sau đây?",
+    "answer": "Huy động bằng đồng VNĐ và cấp tín dụng bằng đồng VNĐ."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Vấn đề nào sau đây là KHÔNG là ưu điểm của phương pháp Giá trị hiện tại ròng NPV?",
+    "answer": "Có thể dùng để so sánh các dự án có quy mô vốn đầu tư khác nhau mà không cần điều chỉnh."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Nội dung nào sau đây KHÔNG phải là nội dung của thẩm định dự án?",
+    "answer": "Giá trị của tài sản thế chấp đảm bảo cho món vay của dự án."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Bước nào sau đây ít khi được thực hiện nhất khi đánh giá dự án?",
+    "answer": "Chiết khấu dòng tiền với mức lãi suất phi rủi ro."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Đâu là lý do cần có sự hoạt động của ngân hàng phát triển?",
+    "answer": "Dự án phát triển ít có khả năng huy động vốn trên thị trường."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Ngân hàng Phát triển KHÔNG tài trợ cho hoạt động:",
+    "answer": "khấu hao."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Nguồn nào sau đây có thể dùng để trả gốc?",
+    "answer": "Lợi nhuận sau thuế."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Vốn có nguồn gốc từ Ngân sách Nhà nước bao gồm:",
+    "answer": "chi Ngân sách Nhà nước cho đầu tư phát triển, phát hành trái phiếu công trình."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Nhược điểm của công nghệ rẻ đối với các dự án phát triển là:",
+    "answer": "làm tăng giá thành."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Phương thức trả nợ phù hợp đối với dự án phát triển là:",
+    "answer": "nợ trả nhiều lần."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Phân tích sự cần thiết phải đầu tư là nội dung quan trọng của dự án phát triển vì:",
+    "answer": "cho thấy khả năng đứng vững trên thị trường của sản phẩm."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Khi lập kế hoạch ngân sách cho dự án, dòng tiền ròng hàng năm là:",
+    "answer": "lợi nhuận ròng sau thuế cộng với khấu hao."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Đâu là yêu cầu về nguồn vốn mà ngân hàng phát triển huy động?",
+    "answer": "Thời gian đáo hạn dài."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Lợi nhuận từ thanh lý tài sản cố định năm cuối của dự án được tính như thế nào?",
+    "answer": "Được tính vào dòng tiền trước thuế của dự án."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Để khuyến khích ngân hàng thương mại kết hợp với ngân hàng phát triển khi tài trợ dự án, Nhà nước có thể làm gì?",
+    "answer": "Cung cấp một số ưu đãi."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Một công ty đang xem xét hai dự án loại trừ nhau có dòng tiền như sau (đơn vị tỷ đồng): Chi phí vốn của cả 2 dự án là 15%/năm. Để tối đa hóa lợi ích của chủ, công ty này nên:",
+    "answer": "chọn A và Loại bỏ B."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Khoản mục nào sau đây KHÔNG được ngân hàng phát triển tài trợ?",
+    "answer": "Tài sản lưu động."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Một trong những hạn chế của cấp phát vốn là:",
+    "answer": "không quay vòng vốn."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Công ty Thành công đang xem xét 2 dự án độc lập có dòng tiền ròng như sau (đơn vị: tỷ đồng): Theo phương pháp Giá trị hiện tài ròng, Công ty nên:",
+    "answer": "loại bỏ cả 2 dự án."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Những rủi ro trong quá trình trả nợ có thể dẫn đến:",
+    "answer": "trì hoãn trả nợ."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là ưu điểm của cho vay so với cấp phát vốn?",
+    "answer": "Không tạo áp lực trả nợ."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Nếu lãi suất ngân hàng cần cấp cho 1 dự án là 8%, nhà nước hỗ trợ cho 2% lãi suất thì lãi suất mà dự án nhận được là:",
+    "answer": "6%"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Áp dụng lãi suất thả nổi rất khó cho các dự án dài hạn vì:",
+    "answer": "lãi suất tăng sẽ trở thành gánh nặng trả nợ."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Việc tìm kiếm nguồn vốn để tài trợ cho dự án của ngân hàng phát triển được tiến hành khi nào?",
+    "answer": "Sau khi thẩm định dự án."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Một dự án có dòng tiền như sau (đơn vị tỷ đồng): Theo phương pháp Thời gian hoàn vốn chiết khấu, thời gian hoàn vốn của dự án là:",
+    "answer": "2,95 năm."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Ngân hàng phát triển tài trợ cho khoản mục nào sau đây?",
+    "answer": "Trả lãi."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Phát biểu nào sau đây KHÔNG chính xác về phương pháp Thời gian hoàn vốn?",
+    "answer": "Dự án có thời gian hoàn vốn ngắn hơn luôn đem lại lợi nhuận cao hơn cho chủ đầu tư."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Dự án phát triển kinh tế nhằm mục tiêu thay thế hàng nhập khẩu là các dự án nào?",
+    "answer": "Tận dụng tối đa lợi thế của đất nước, giảm chi ngoại tệ và tạo công ăn việc làm cho người dân."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Lý do nào sau đây đánh giá tính hiệu quả trong tài trợ của ngân hàng phát triển?",
+    "answer": "Thu hồi gốc và lãi đúng và đủ theo thời hạn tín dụng."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Để thực hiện yêu cầu thu hồi đầy đủ cả gốc và lãi, ngân hàng sẽ KHÔNG:",
+    "answer": "cho vay theo chỉ định."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Nguồn nào sau đây là một trong những nguồn cơ bản hình thành nên nguồn vốn của ngân hàng phát triển?",
+    "answer": "Huy động vốn dài hạn."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Khi kết thúc dự án, ngân hàng KHÔNG đánh giá:",
+    "answer": "tạo ra dự án khác hoàn toàn mới."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Nội dung nào sau đây KHÔNG nằm trong hợp đồng tín dụng?",
+    "answer": "Thời gian của dự án."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Nội dung nào KHÔNG phải nằm trong tài trợ dự án tại Ngân hàng phát triển?",
+    "answer": "Ký kết hợp đồng lao động."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Vấn đề nào sau đây là KHÔNG là ưu điểm của phương pháp Giá trị hiện tại ròng NPV?",
+    "answer": "Có thể dùng để so sánh các dự án có quy mô vốn đầu tư khác nhau mà không cần điều chỉnh."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Điều kiện nào KHÔNG phù hợp để ngân hàng tiến hành giải ngân?",
+    "answer": "Chủ đầu tư có nhu cầu."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Lý do nào sau đây KHÔNG đánh giá tính hiệu quả trong việc tài trợ của ngân hàng phát triển đối với các dự án?",
+    "answer": "Lãi suất cao."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Vai trò của chính phủ đối với các ngân hàng phát triển là:",
+    "answer": "liên quan chặt chẽ."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Giai đoạn vận hành, quản lý, khai thác là giai đoạn:",
+    "answer": "dự án có doanh thu."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Trong những vấn đề sau, vấn đề nào KHÔNG phải là nhược điểm của phương pháp IRR?",
+    "answer": "Dùng phương pháp IRR không xếp hạng được dự án theo giá trị lợi nhuận được tạo ra."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Biện pháp nào sau đây thường KHÔNG mang lại hiệu quả tốt khi dự án phát triển chậm trả nợ?",
+    "answer": "Phạt lãi."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Đâu là lý do cần thiết có sự tồn tại của ngân hàng phát triển?",
+    "answer": "Tài trợ theo nguyên tắc tín dụng."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Yếu tố nào sau đây KHÔNG ảnh hưởng đến khả năng sinh lời của ngân hàng phát triển?",
+    "answer": "Thuế phải nộp."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Khi thẩm định dự án, ngân hàng nên xác định hiệu quả tài chính trên cơ sở:",
+    "answer": "dòng tiền của dự án không phân biệt nguồn tài trợ."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Tỷ lệ trả nợ KHÔNG bị phục thuộc vào:",
+    "answer": "số lượng chủ đầu tư."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Mặc dù có nhiều nhược điểm song cấp phát vốn vẫn phải thực hiện vì:",
+    "answer": "một số dự án không có khả năng sinh lời."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Nguyên nhân dẫn đến rủi ro về ngân sách sai lệch của dự án phát triển là gì?",
+    "answer": "Chủ đầu tư đưa ra dự toán thấp về tổng vốn đầu tư khi gửi dự án đi thẩm định để dễ được phê duyệt."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Bước nào sau đây ít khi được thực hiện nhất khi đánh giá dự án?",
+    "answer": "Chiết khấu dòng tiền với mức lãi suất phi rủi ro."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Đâu KHÔNG phải là ưu điểm của cấp phát vốn so với cho vay?",
+    "answer": "Không quay vòng vốn."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Công ty Du lịch Hải Âu dự kiến mua một thiết bị lọc khí trong xe chở khách trị giá 50 triệu đồng và có chi phí lắp đặt là 25 triệu đồng. Thiết bị này sẽ được thanh lý với giá 10 triệu sau 5 năm hoạt động. Thiết bị được khấu hao đều trong 5 năm. Để sử dụng tốt thiết bị, cần có thêm 1 lượng vốn lưu động ròng là 10 triệu đồng. Trong 5 năm sử dụng, thiết bị này sẽ giúp tiết kiệm chi phí vận hành xe 30 triệu đồng/năm. Thuế suất thuế thu nhập doanh nghiệp là 40%. Giả sử lãi suất chiết khấu là 10%/năm, giá trị hiện tại ròng của dự án là:",
+    "answer": "15,91 triệu đồng."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Yêu cầu của công tác thẩm định hiệu quả tài chính xã hội là:",
+    "answer": "nhanh, chính xác và chi phí thấp."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Ngân hàng phát triển cho vay ưu đãi lĩnh vực nông nghiệp nông thôn, lãi suất huy động vốn giả sử là 3% khi không có lạm phát, tỷ lệ lạm phát là 5% . Vậy lãi suất cho vay của Ngân hàng phát triển trên hợp đồng có thể là:",
+    "answer": "3%"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Việc dự án phát triển nhận được các ưu đãi từ các cơ quan quản lý Nhà nước là nguyên nhân dẫn đến rủi ro nào?",
+    "answer": "Thiếu cạnh tranh."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Khuyến khích xuất khẩu là mục tiêu được thực hiện bởi các dự án nào?",
+    "answer": "Xây dựng các cơ sở chế biến xuất khẩu và các cơ sở nghiên cứu phục vụ xuất khẩu."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Nguồn nào sau đây có thể dùng để trả gốc?",
+    "answer": "Khấu hao."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Lãi suất chiết khấu của dự án là lãi suất làm cho:",
+    "answer": "chủ đầu tư xác định được lợi nhuận khi đầu tư vào dự án."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Đối với những nguồn có nguồn gốc nước ngoài, ngân hàng có thể gặp phải rủi ro:",
+    "answer": "tỷ giá."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Ngân hàng phát triển Việt Nam KHÔNG thể gặp rủi ro tỷ giá trong trường hợp nào sau đây?",
+    "answer": "Huy động bằng đồng VNĐ và cấp tín dụng bằng đồng VNĐ."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Nếu công ty đang lập kế hoạch thực hiện dự án trong đó có lợi nhuận trước thuế âm thì:",
+    "answer": "công ty được khấu trừ luôn hoặc chuyển lỗ sang các năm sau để được khấu trừ thuế tùy thuộc lợi nhuận của dự án là một phần hay là toàn bộ lợi nhuận của công ty."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Ngân hàng có thể cho thuê đối với những dự án:",
+    "answer": "vốn tự có tham gia ít."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Đối với những dự án có thời gian dài và vay vốn bằng đồng bản tệ, ngân hàng có thể gặp rủi ro:",
+    "answer": "lãi suất"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Một công ty sở hữu một mảnh đất bỏ hoang, nay đưa vào dự án mới với chi phí cơ hội bằng:",
+    "answer": "không (0)."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Khấu hao tài sản cố định của dự án KHÔNG được tính theo phương pháp:",
+    "answer": "khấu hao theo thời gian trả nợ của món vay có giá trị lớn nhất"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Ngân hàng thường tiến hành thu nợ trong giai đoạn:",
+    "answer": "diễn ra quá trình sản xuất kinh doanh."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Áp dụng lãi suất thả nổi rất khó cho các dự án dài hạn vì:",
+    "answer": "lãi suất tăng sẽ trở thành gánh nặng trả nợ."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Ngân hàng phát triển phải thuê tư vấn để:",
+    "answer": "tiết kiệm chi phí và đảm bảo chất lượng."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Rủi ro của dự án là:",
+    "answer": "khả năng xảy ra biến cố bất lợi ngoài dự kiến."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Mục tiêu của dự án phát triển KHÔNG phải là:",
+    "answer": "tối đa hóa lợi nhuận cho chủ đầu tư."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Ngân hàng áp dụng phương pháp thẩm định thích hợp để:",
+    "answer": "hạn chế rủi ro và tiết kiệm chi phí."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Tại Việt nam, vốn huy động từ phát hành trái phiếu Chính phủ là nguồn vốn:",
+    "answer": "có thời gian sử dụng dài."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Nguồn nào sau đây là một trong những nguồn cơ bản hình thành nên nguồn vốn của ngân hàng phát triển?",
+    "answer": "Huy động vốn dài hạn."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Phát biểu nào sau đây KHÔNG chính xác về Tỷ lệ hoàn vốn nội bộ (IRR) của một dự án là 20%?",
+    "answer": "Từ khi bắt đầu đến khi kết thúc dự án, mỗi đồng vốn đầu tư sẽ sinh lời 20%."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Vốn ODA được tài trợ cho dự án phát triển ở Việt Nam dưới hình thức phổ biến là:",
+    "answer": "cho vay lại."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Nhân tố nào sau đây KHÔNG quyết định việc mở rộng quy mô nguồn tiền dài hạn?",
+    "answer": "uy tín của ngân hàng."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Lợi nhuận từ thanh lý tài sản cố định năm cuối của dự án được tính như thế nào?",
+    "answer": "Được tính vào dòng tiền trước thuế của dự án."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Chi phí xã hội bao gồm:",
+    "answer": "thuế tài nguyên phải nộp vào Ngân sách Nhà nước."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Đâu là một trong những lý do làm cho dự án phát triển thiếu vốn dài hạn?",
+    "answer": "Thị trường chứng khoán kém phát triển."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Trong hoạt động thẩm định dự án, chi phí cơ hội được áp dụng cho:",
+    "answer": "các tài sản có sẵn của chủ đầu tư."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Đầu tư công là hoạt động đầu tư:",
+    "answer": "của nhà nước."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Tổ chức bộ máy thẩm định khoa học nhằm:",
+    "answer": "đảm bảo tính độc lập, trung thực của kết quả thẩm định."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Đối với những dự án phát triển thì tài sản đảm bảo thường:",
+    "answer": "hình thành từ nguồn vốn vay."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Đối với dự án không có khả năng trả nợ trực tiếp thì nguồn trả nợ của dự án thường xuất phát từ:",
+    "answer": "nguồn khác của chủ đầu tư."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Ngân hàng phát triển KHÔNG tài trợ cho dự án:",
+    "answer": "không có khả năng sinh lời."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Đặc điểm nào là ưu điểm của vốn góp bởi những đối tượng hưởng lợi từ các sản phẩm của dự án phát triển?",
+    "answer": "Giám sát tiến độ dự án."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Những ưu đãi của Chính phủ chỉ áp dụng đối với dự án phát triển bao gồm:",
+    "answer": "bảo lãnh phát hành trái phiếu."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Một công ty đang xem xét hai dự án loại trừ nhau có dòng tiền như sau (đơn vị tỷ đồng): Chi phí vốn của cả 2 dự án là 15%/năm. Để tối đa hóa lợi ích của chủ, công ty này nên:",
+    "answer": "chọn A và Loại bỏ B."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Đối với 2 dự án loại trừ nhau thi nên:",
+    "answer": "dùng phương pháp Giá trị hiện tại ròng (NPV) để đánh giá dự án vì phương pháp này dựa trên giả thiết là dòng tiền của dự án được tái đầu tư với mức lãi suất bằng chi phí vốn của dự án"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Ngân quỹ của ngân hàng thương mại thường:",
+    "answer": "có tỷ trọng nhỏ."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Ngân hàng phát triển phải kiểm trả nghiêm ngặt trang thiết bị vì:",
+    "answer": "hỗ trợ phát triển công nghệ."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Ngân hàng phát triển có thể áp dụng biện pháo nào để hạn chế rủi ro lãi suất?",
+    "answer": "Thả nổi lãi suất."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Theo phương pháp NPV, trong 2 dự án loại trừ nhau, dự án được chọn là dự án có:",
+    "answer": "giá trị NPV lớn hơn và không âm."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Công ty Thành công đang xem xét 2 dự án độc lập có dòng tiền ròng như sau (đơn vị: tỷ đồng): Theo phương pháp Giá trị hiện tài ròng, Công ty nên:",
+    "answer": "loại bỏ cả 2 dự án."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Nguồn vốn ưu tiên tài trợ cho các dự án phát triển không có khả năng hoàn trả là:",
+    "answer": "nguồn chi Ngân sách Nhà nước cho đầu tư phát triển."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Phương pháp IRR cần được điều chỉnh là do lý do gì?",
+    "answer": "lãi suất tăng sẽ trở thành gánh nặng trả nợ."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Lãi suất cấp tín dụng của ngân hàng phát triển thường:",
+    "answer": "thấp hơn lãi suất thị trường nhưng phải bù đắp được các chi phí hợp lý hợp lệ của ngân hàng."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Chi phí cơ hội của một tài sản là:",
+    "answer": "giá trị lớn nhất của các cơ hội sẵn có đối với tài sản."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Nội dung nào sau đây KHÔNG phải là nội dung của thẩm định dự án?",
+    "answer": "Chi phí nghiên cứu sản phẩm mới của chủ đầu tư."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Thời gian ân hạn là:",
+    "answer": "thời gian mà dự án không phải trả nợ gốc hoặc/và lãi."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Ngân hàng phát triển tìm kiếm nguồn tài trợ thích hợp khi nào?",
+    "answer": "Thẩm định xong dự án."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Phát biểu nào sau đây về Tỷ lệ hoàn vốn nội bộ (IRR) là KHÔNG chính xác?",
+    "answer": "Thẩm định xong dự án."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Khi xác định nhu cầu vay vốn của khách hàng, Ngân hàng phát triển sẽ KHÔNG căn cứ vào:",
+    "answer": "khả năng vay các tổ chức tín dụng khác của chủ đầu tư."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Giai đoạn chuẩn bị đầu tư là giai đoạn:",
+    "answer": "lập và duyệt dự án."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Không giống như các dự án thương mại, các dự án phát triển kinh tế:",
+    "answer": "được vay ngân hàng với thời gian dài."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Vấn đề tài sản đảm bảo thường được nhấn mạnh vì:",
+    "answer": "trang trải tổn thất nếu rủi ro xảy ra."
+  },
+  {
+    "id": 136,
+    "premium": true,
+    "question": "Yếu tố nào sau đây KHÔNG ảnh hưởng đến khả năng sinh lời của ngân hàng phát triển?",
+    "answer": "Thuế phải nộp."
+  },
+  {
+    "id": 137,
+    "premium": true,
+    "question": "Nguồn nào sau đây có thể dùng để trả gốc?",
+    "answer": "Khấu hao."
+  },
+  {
+    "id": 138,
+    "premium": true,
+    "question": "Câu phát biểu nào sau đây KHÔNG chính xác?",
+    "answer": "Lạm phát làm tất cả các dòng tiền của dự án đều thay đổi."
+  },
+  {
+    "id": 139,
+    "premium": true,
+    "question": "Ngân hàng phát triển thường đặt ra nhiều kỳ hạn trả nợ để:",
+    "answer": "giảm rủi ro lãi suất."
+  },
+  {
+    "id": 140,
+    "premium": true,
+    "question": "Kiểm soát quá trình đầu tư KHÔNG bao gồm:",
+    "answer": "kiểm soát số lượng chủ đầu tư."
+  },
+  {
+    "id": 141,
+    "premium": true,
+    "question": "Một dự án phát triển đang ở giai đoạn vận hành kết quả đầu tư, tuy nhiên bên cung ứng nguyên vật liệu không thực hiện bán nguyên vật liệu cho dự án như theo thỏa thuận đã ký tức là dự án đã gặp phải rủi ro:",
+    "answer": "thiếu cam kết của người hưởng lợi hoặc sự ủng hộ của chính quyền, địa phương."
+  },
+  {
+    "id": 142,
+    "premium": true,
+    "question": "Trong giai đoạn đầu tư, dự án KHÔNG có hoạt động nào?",
+    "answer": "Thẩm định dự án."
+  },
+  {
+    "id": 143,
+    "premium": true,
+    "question": "Ngân hàng phát triển KHÔNG thực hiện hoạt động nào sau đây?",
+    "answer": "Phát hành cổ phiếu."
+  },
+  {
+    "id": 144,
+    "premium": true,
+    "question": "Thời gian ân hạn của dự án là thời gian:",
+    "answer": "chưa phải trả gốc vay và có thể chưa phải trả lãi."
+  },
+  {
+    "id": 145,
+    "premium": true,
+    "question": "Dự án cần điều kiện chỉ định trước là:",
+    "answer": "phải có mục tiêu sử dụng vốn phù hợp với mục tiêu hoạt động của tổ chức tài trợ."
+  },
+  {
+    "id": 146,
+    "premium": true,
+    "question": "Hoạt động nào sau đây liên quan đến việc ngân hàng đánh giá dự án?",
+    "answer": "Thực hiện mục tiêu của dự án."
+  },
+  {
+    "id": 147,
+    "premium": true,
+    "question": "Vì Đâu là yêu cầu về nguồn vốn mà ngân hàng phát triển huy động?",
+    "answer": "Lãi suất thấp."
+  },
+  {
+    "id": 148,
+    "premium": true,
+    "question": "Hoạt động phân tích cho biết nội dung tổ chức đầu tư, tổ chức sản xuất và tiêu thụ sản phẩm là:",
+    "answer": "phân tích phương diện tổ chức."
+  },
+  {
+    "id": 149,
+    "premium": true,
+    "question": "Ngân hàng phát triển Việt Nam có thể gặp rủi ro tỷ giá trong trường hợp:",
+    "answer": "huy động bằng đồng USD và cấp tín dụng bằng đồng USD."
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "Ngân hàng phát triển cho vay ưu đãi lĩnh vực nông nghiệp nông thôn, lãi suất huy động vốn giả sử là 3% khi không có lạm phát, tỷ lệ lạm phát là 5% . Vậy lãi suất cho vay của Ngân hàng phát triển trên hợp đồng có thể là:",
+    "answer": "3%"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Dự án sử dụng tài sản cố định (quyền sử dụng đất, nhà xưởng) có sẵn của chủ đầu tư thì:",
+    "answer": "đưa giá trị của các tài sản cố định này vào tổng vốn đầu tư của dự án theo giá của tài sản trên thị trường ở thời điểm hiện tại."
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Để khuyến khích khách hàng gửi tiền vào ngân hàng phát triển thì ngân hàng nên:",
+    "answer": "tăng tính thanh khoản."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Ngân hàng áp dụng phương pháp thẩm định thích hợp để:",
+    "answer": "hạn chế rủi ro và tiết kiệm chi phí."
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Câu phát biểu nào sau đây là đúng?",
+    "answer": "Đối với các dự án loại trừ nhau, phương pháp NPV và IRR có thể có kết quả xếp hạng dự án khác nhau."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Lý do cần có sự tồn tại của các dự án phát triển kinh tế xã hội là:",
+    "answer": "hạn chế các khuyết tật của thị trường."
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Trong hoạt động thẩm định dự án, chi phí cơ hội được áp dụng cho:",
+    "answer": "các tài sản có sẵn của chủ đầu tư."
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Ngân hàng thương mại sẽ chấp nhận tài trợ cho dự án phát triển như thế nào?",
+    "answer": "Dự án phát triển có khả năng hoàn trả gốc và lãi cho ngân hàng."
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Điều kiện nào KHÔNG phải là điều kiện ràng buộc khi nhận vốn tài trợ từ các tổ chức tài chính quốc tế?",
+    "answer": "Điều kiện đảm bảo nguyên tắc tín dụng."
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Hoạt động nào sau đây KHÔNG nằm trong tài trợ dự án tại ngân hàng phát triển?",
+    "answer": "Lập dự án."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Đâu là một trong những lý do làm cho dự án phát triển thiếu vốn dài hạn?",
+    "answer": "Thị trường chứng khoán kém phát triển."
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Dự án A cần vay 100 tỷ, trong đó vay ngân hàng thương mại 70 tỷ với lãi suất 12%/năm và vay ngân hàng phát triển số còn lại với lãi suất 8%/năm. Vậy lãi suất bình quân là:",
+    "answer": "10,8%/năm."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Phát biểu nào sau đây về Tỷ lệ hoàn vốn nội bộ (IRR) là KHÔNG chính xác?",
+    "answer": "10,8%/năm."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Lý do các dự án khác nhau thì ngân hàng phát triển có mức lãi suất khác nhau là:",
+    "answer": "khả năng sinh lời khác nhau."
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Chọn câu SAI.\nCác quỹ của nhà nước đóng vai trò quan trọng trong việc hình thành nguồn vốn của ngân hàng phát triển vì:",
+    "answer": "quy mô lớn."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Khi tổ chức tín dụng thẩm định dự án để cho vay, dòng tiền ròng năm đầu tiên bằng:",
+    "answer": "vốn đầu tư vào tài sản cố định + vốn đầu tư vào tài sản lưu động dự trữ."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Vì dự án phát triển là các dự án lớn nên:",
+    "answer": "đòi hỏi vốn đầu tư lớn, công nghệ phức tạp."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Một công ty đang xem xét dự án có dòng tiền như sau (đơn vị tỷ đồng): ",
+    "answer": "chấp nhận dự án vì có chỉ số doanh lợi lớn hơn 1."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Hiệu quả của dự án là:",
+    "answer": "mối tương quan giữa kết quả đạt được từ dự án và chi phí để thực hiện dự án."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Một công ty đang xem xét hai dự án loại trừ nhau có dòng tiền như sau (đơn vị tỷ đồng): Chi phí vốn của cả 2 dự án là 15%/năm. Thời gian hoàn vốn chiết khấu của A và B lần lượt là:",
+    "answer": "2,72 năm; 4,21 năm."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Căn cứ để dự án phát triển được phê duyệt đầu tư là:",
+    "answer": "tùy thuộc vào mục tiêu của chủ đầu tư."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Giải ngân phải đảm bảo:",
+    "answer": "đúng mục đích."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Mục tiêu đạt được hiệu quả tài chính và hiệu quả xã hội của dự án phát triển:",
+    "answer": "đôi khi mâu thuẫn nhau."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Đối với những dự án dài thì:",
+    "answer": "ngân hàng phát triển cho vay căn cứ vào khả năng hoán chuyển nguồn vốn."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Thẩm định dự án là:",
+    "answer": "kiểm tra các nội dung của dự án."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Doanh nghiệp dự định đầu tư vào dự án. Theo dự án này, một nhà máy mới sẽ được xây dựng và lắp đặt thiết bị trong vòng 2 năm kể từ khi quyết định lựa chọn dự án. Chi phí xây dựng trả đều vào cuối năm trong 2 năm xây dựng, chi phí thiết bị trả vào cuối năm thứ 2 của quá trình xây dựng. Tổng số năm của giai đoạn đầu tư là:",
+    "answer": "2 năm."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Nguồn vốn ưu tiên tài trợ cho các dự án phát triển không có khả năng hoàn trả là:",
+    "answer": "nguồn chi Ngân sách Nhà nước cho đầu tư phát triển."
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Nhược điểm lớn nhất của Phương pháp Thời gian hoàn vốn khi đánh giá dự án là:",
+    "answer": "không xét đến dòng thu nhập trong toàn bộ thời gian thực hiện dự án."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Khi xác định nhu cầu vay vốn của khách hàng, Ngân hàng phát triển sẽ KHÔNG căn cứ vào:",
+    "answer": "khả năng vay các tổ chức tín dụng khác của chủ đầu tư."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Phát biểu nào sau đây KHÔNG chính xác về Tỷ lệ hoàn vốn nội bộ (IRR) của một dự án là 20%?",
+    "answer": "Từ khi bắt đầu đến khi kết thúc dự án, mỗi đồng vốn đầu tư sẽ sinh lời 20%."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Đặc điểm của sản phẩm chiến lược là:",
+    "answer": "đầu vào của nhiều ngành sản xuất."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Ngân hàng phát triển sẽ tài trợ với tư cách là ngân hàng đầu mối khi nào?",
+    "answer": "Dự án cần vốn vượt quá khả năng tài trợ của ngân hàng hoặc quá giới hạn cho phép."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Việc dự án phát triển nhận được các ưu đãi từ các cơ quan quản lý Nhà nước là nguyên nhân dẫn đến rủi ro nào?",
+    "answer": "Thiếu cạnh tranh."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Đâu là lý do cần thiết có sự tồn tại của ngân hàng phát triển?",
+    "answer": "Tài trợ theo nguyên tắc tín dụng."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Nguyên nhân dẫn đến rủi ro của các dự án phát triển là:",
+    "answer": "dự án lớn."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Ngân hàng phát triển tìm kiếm nguồn tài trợ thích hợp khi nào?",
+    "answer": "Thẩm định xong dự án."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Công ty Hừng Sáng có 2 dự án loại trừ nhau có thời gian hoạt động không bằng nhau: Dự án A có vòng đời 6 năm và Giá trị hiện tại ròng (NPV) là 2.000 triệu đồng. Dự án B có vòng đời 3 năm và Giá trị hiện tại ròng (NPV) là 1.200 triệu đồng. Nếu chi phí vốn của công ty là 10%, và dự án B có thể lặp lại, Công ty nên:",
+    "answer": "chọn dự án B."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Yếu tố nào sau đây KHÔNG thuộc phương pháp so sánh?",
+    "answer": "Dựa trên báo cáo của chủ đầu tư."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Đối với những dự án có khả năng sinh lời thấp, ngân hàng thường",
+    "answer": "tài trợ hỗn hợp."
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Doanh nghiệp dự định đầu tư vào dự án. Theo dự án này, một nhà máy mới sẽ được xây dựng và lắp đặt thiết bị trong vòng 2 năm kể từ khi quyết định lựa chọn dự án. Chi phí xây dựng trả đều vào cuối năm trong 2 năm xây dựng, chi phí thiết bị trả vào cuối năm thứ 2 của quá trình xây dựng. Vòng đời kinh tế của dự án là 6 năm. Tổng thời gian của dự án là:",
+    "answer": "8 năm."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Ngân hàng phát triển sẽ tài trợ thông qua ngân hàng thương mại khi:",
+    "answer": "dự án có khả năng sinh lời cao và khá an toàn."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Nguyên nhân nào sau đây KHÔNG làm giảm hiệu quả của ngân hàng?",
+    "answer": "Không vì mục tiêu lợi nhuận."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Tỷ lệ lợi nhuận dùng trả nợ KHÔNG phụ thuộc vào:",
+    "answer": "chủ đầu tư của dự án."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Doanh nghiệp dự định đầu tư vào dự án. Theo dự án này, một nhà máy mới sẽ được xây dựng và lắp đặt thiết bị trong vòng 2 năm kể từ khi quyết định lựa chọn dự án. Chi phí xây dựng trả đều vào cuối năm trong 2 năm xây dựng, chi phí thiết bị trả vào cuối năm thứ 2 của quá trình xây dựng. Nhà xưởng khấu hao đều trong 30 năm, thiết bị khấu hao đều trong 6 năm. Thời gian trích khấu hao của quyền sử dụng đất là bao nhiêu năm?",
+    "answer": "Quyền sử dụng đất không trích khấu hao."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Trong trường hợp thanh lý tài sản cố định chưa khấu hao hết, dòng tiền ròng năm thanh lý bằng:",
+    "answer": "lợi nhuận sau thuế + khấu hao + giá trị còn lại của tài sản."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Trong giai đoạn chuẩn bị đầu tư, các dự án đều thực hiện công đoạn:",
+    "answer": "nghiên cứu tiền khả thi."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Ngân hàng phát triển Việt Nam KHÔNG cấp tín dụng xuất khẩu cho đối tượng nào sau đây?",
+    "answer": "Doanh nghiệp Việt Nam xuất khẩu giày dép."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Dòng tiền nào sau đây KHÔNG nên đưa vào phân tích dòng tiền của dự án?",
+    "answer": "Chi phí chìm."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Vấn đề tài sản đảm bảo thường được nhấn mạnh vì:",
+    "answer": "trang trải tổn thất nếu rủi ro xảy ra."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Sự giống nhau giữa nâng cao hiệu quả tài chính và hiệu quả xã hội là:",
+    "answer": "gia tăng kết quả đạt được so với chi phí bỏ ra đối với dự án."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Hỗ trợ lãi suất sau đầu tư được thực hiện khi nào?",
+    "answer": "Dự án đi vào giai đoạn vận hành và bắt đầu phải trả nợ vay."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Hiệu quả hoạt động của ngân hàng phát triển thể hiện qua:",
+    "answer": "thành công của các dự án mà nó tài trợ."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Doanh nghiệp dự định đầu tư vào dự án. Theo dự án này, một nhà máy mới sẽ được xây dựng và lắp đặt thiết bị trong vòng 2 năm kể từ khi quyết định lựa chọn dự án. Tài sản cố định của dự án này bao gồm:",
+    "answer": "quyền sử dụng đất, nhà máy, thiết bị."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Chính quyền địa phương nơi triển khai dự án thực hiện thẩm định dự án nhằm đánh giá:",
+    "answer": "tác động của dự án đối với môi trường, kinh tế và xã hội của địa phương."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Biện pháp nào sau đây thường KHÔNG mang lại hiệu quả tốt khi dự án phát triển chậm trả nợ?",
+    "answer": "Phạt lãi."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Chi phí xã hội bao gồm:",
+    "answer": "thuế tài nguyên phải nộp vào Ngân sách Nhà nước."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Phương pháp IRR cần được điều chỉnh là do lý do gì?",
+    "answer": "lãi suất tăng sẽ trở thành gánh nặng trả nợ."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Tỷ lệ trả nợ KHÔNG bị phục thuộc vào:",
+    "answer": "số lượng chủ đầu tư."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Cần có các dự án phát triển nông thôn để:",
+    "answer": "cải thiện đời sống của người dân ở nông thôn."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Giai đoạn chuẩn bị đầu tư là giai đoạn:",
+    "answer": "lập và duyệt dự án."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Mặc dù có nhiều nhược điểm song cấp phát vốn vẫn phải thực hiện vì:",
+    "answer": "một số dự án không có khả năng sinh lời."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Câu phát biểu nào sau đây KHÔNG chính xác?",
+    "answer": "Để chọn dự án nên dùng phương pháp NPV vì chỉ cần so sánh kết quả NPV với 0 mà không cần xác định chi phí vốn như phương pháp IRR."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Nếu công ty đang lập kế hoạch thực hiện dự án trong đó có lợi nhuận trước thuế âm thì:",
+    "answer": "công ty được khấu trừ luôn hoặc chuyển lỗ sang các năm sau để được khấu trừ thuế tùy thuộc lợi nhuận của dự án là một phần hay là toàn bộ lợi nhuận của công ty."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Lãi suất cấp tín dụng của ngân hàng phát triển thường:",
+    "answer": "thấp hơn lãi suất thị trường nhưng phải bù đắp được các chi phí hợp lý hợp lệ của ngân hàng."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Ngân hàng phát triển phải kiểm trả nghiêm ngặt trang thiết bị vì:",
+    "answer": "hỗ trợ phát triển công nghệ."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Khấu hao tài sản cố định của dự án KHÔNG được tính theo phương pháp:",
+    "answer": "khấu hao theo thời gian trả nợ của món vay có giá trị lớn nhất"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Ngân hàng có thể cho thuê đối với những dự án:",
+    "answer": "vốn tự có tham gia ít."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Đối với dự án có khả năng sinh lời cao, ngân hàng phát triển:",
+    "answer": "cấp tín dụng với mức lãi suất bằng thị trường."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Dự án phát triển kinh tế là:",
+    "answer": "kế hoạch chi tiết, cụ thể để đạt được mục tiêu thúc đẩy phát triển kinh tế xã hội."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Vấn đề nào sau đây là KHÔNG là ưu điểm của phương pháp Giá trị hiện tại ròng NPV?",
+    "answer": "Có thể dùng để so sánh các dự án có thời gian hoạt động khác nhau mà không cần điều chỉnh."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Những ưu đãi của Chính phủ chỉ áp dụng đối với dự án phát triển bao gồm:",
+    "answer": "bảo lãnh phát hành trái phiếu."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Ngân hàng phát triển KHÔNG tài trợ cho dự án:",
+    "answer": "Tài trợ dự án sinh lợi thấp, rủi ro cao."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Yếu tố nào sau đây KHÔNG ảnh hưởng đến ROE của ngân hàng phát triển?",
+    "answer": "Số lượng chủ sở hữu."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Nhân tố nào sau đây KHÔNG quyết định việc mở rộng quy mô nguồn tiền dài hạn?",
+    "answer": "uy tín của ngân hàng."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Kế hoạch giải ngân cho dự án cần được xây dựng dựa trên:",
+    "answer": "tiến độ các hoạt động thực hiện dự án."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Để phản ánh sự hỗ trợ của chính phủ cho dự án phát triển thì lãi suất cho vay của ngân hàng phát triển thường:",
+    "answer": "thấp hơn lãi suất cho vay trên thị trường."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Phát biểu nào sau đây đúng?",
+    "answer": "Tính chất của dự án quyết định tính chất của nguồn vốn."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trong những vấn đề sau, vấn đề nào KHÔNG phải là nhược điểm của phương pháp IRR?",
+    "answer": "Dùng phương pháp IRR không xếp hạng được dự án theo giá trị lợi nhuận được tạo ra."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Ngân hàng phát triển KHÔNG tài trợ cho dự án:",
+    "answer": "không có khả năng sinh lời."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Theo phương pháp IRR, trong 2 dự án loại trừ nhau, dự án được chọn là dự án có:",
+    "answer": "tỷ lệ sinh lời lớn hơn và lớn hơn chi phí vốn."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Nguồn vốn nào KHÔNG phải là nguồn vốn ngân hàng phát triển Việt Nam huy động để tài trợ cho dự án?",
+    "answer": "Phát hành cổ phiếu."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Một công ty đang xem xét dự án có dòng tiền như sau (đơn vị tỷ đồng):",
+    "answer": "1.261,59 tỷ đồng."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Đa giá trị IRR có thể xảy ra đối với dự án khi nào?",
+    "answer": "Dự án có khoản chi đầu tư thêm trong quá trình hoạt động."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Những rủi ro trong quá trình trả nợ có thể KHÔNG dẫn đến:",
+    "answer": "trả nợ trước hạn."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Đối với những dự án có thời gian dài và vay vốn bằng đồng bản tệ, ngân hàng có thể gặp rủi ro:",
+    "answer": "lãi suất"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Việc phân biệt lãi suất đối với các đối tượng cho vay hay đối với các giai đoạn khác nhau của dự án nhằm:",
+    "answer": "hạn chế bao cấp của nhà nước."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Đâu KHÔNG phải là ưu điểm của cấp phát vốn so với cho vay?",
+    "answer": "Không quay vòng vốn."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Lý do dự án phát triển nhận được một số ưu đãi mà các dự án thương mại không có được là:",
+    "answer": "gia tăng phúc lợi xã hội"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Nguồn từ phát hành trái phiếu thường phải kết hợp với các nguồn khác khi ngân hàng phát triển tài trợ vì:",
+    "answer": "lãi suất tương đối cao."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Đối với 2 dự án loại trừ nhau thi nên:",
+    "answer": "dùng phương pháp Giá trị hiện tại ròng (NPV) để đánh giá dự án vì phương pháp này dựa trên giả thiết là dòng tiền của dự án được tái đầu tư với mức lãi suất bằng chi phí vốn của dự án"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Điều nào sau đây KHÔNG phải ưu đãi về vốn đối với dự án phát triển?",
+    "answer": "Kỳ hạn trả nợ dài."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Ngân hàng phát triển có thể áp dụng biện pháo nào để hạn chế rủi ro lãi suất?",
+    "answer": "Thả nổi lãi suất."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Chủ đầu tư của các dự án phát triển kinh tế:",
+    "answer": "có thể là các tập đoàn kinh tế của Nhà nước hoặc tư nhân."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Theo phương pháp NPV, trong 2 dự án loại trừ nhau, dự án được chọn là dự án có:",
+    "answer": "giá trị NPV lớn hơn và không âm."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Nguyên nhân KHÔNG cản trở việc sử dụng ngân sách nhà nước cho đầu tư phát triển là:",
+    "answer": "thu ngân sách lớn."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Chọn câu SAI.\nĐể thực hiện song song mục tiêu sinh lời và xã hội của dự án phát triển, nhà nước thường hỗ trợ cho ngân hàng phát triển khi tài trợ thông qua:",
+    "answer": "miễn thuế cho ngân hàng phát triển"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Ngân hàng thực hiện thẩm định dự án nhằm đánh giá:",
+    "answer": "khả năng trả nợ của dự án."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Dự án đầu tư được lựa chọn trong trường hợp nào sau đây nếu Tỷ lệ hoàn vốn nội bộ (IRR)?",
+    "answer": "Lớn hơn chi phí sử dụng vốn bình quân."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Công ty Du lịch Hải Âu dự kiến mua một thiết bị lọc khí trong xe chở khách trị giá 50 triệu đồng và có chi phí lắp đặt là 25 triệu đồng. Thiết bị này sẽ được thanh lý với giá 10 triệu sau 5 năm hoạt động. Thiết bị được khấu hao đều trong 5 năm. Để sử dụng tốt thiết bị, cần có thêm 1 lượng vốn lưu động ròng là 10 triệu đồng. Trong 5 năm sử dụng, thiết bị này sẽ giúp tiết kiệm chi phí vận hành xe 30 triệu đồng/năm. Thuế suất thuế thu nhập doanh nghiệp là 40%. Giả sử lãi suất chiết khấu là 10%/năm, giá trị hiện tại ròng của dự án là:",
+    "answer": "15,91 triệu đồng."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Một công ty đang áp dụng phương pháp khấu hao đường thẳng cho một tài sản có nguyên giá 100 triệu đồng, giá trị còn lại 50 triệu đồng và khấu hao hàng năm là 10 triệu đồng. Tuổi thọ bình quân và thời gian khấu hao của tài sản này lần lượt là:",
+    "answer": "10 năm, 5 năm."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Vấn đề nào sau đây thuộc phương pháp so sánh?",
+    "answer": "Dựa trên chỉ tiêu của các dự án tương tự đã hoàn thành."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Quản lý hoạt động của ngân hàng phát triển thường:",
+    "answer": "từ phía nguồn vốn."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Tổ chức bộ máy thẩm định khoa học nhằm:",
+    "answer": "đảm bảo tính độc lập, trung thực của kết quả thẩm định."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Giai đoạn vận hành, quản lý, khai thác là giai đoạn:",
+    "answer": "dự án có doanh thu."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Đối với những nguồn có nguồn gốc nước ngoài, ngân hàng có thể gặp phải rủi ro:",
+    "answer": "tỷ giá."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Đầu tư công là hoạt động đầu tư:",
+    "answer": "của nhà nước."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Phương thức nào KHÔNG phải là tín dụng của ngân hàng phát triển?",
+    "answer": "Cấp vốn."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Ngân hàng xác định rủi ro dự án và hệ thống phát hiện sớm các dấu hiệu làm cho dự án trở lên tồi tệ để",
+    "answer": "tìm biện pháp khắc phục."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Chi phí vốn của dự án cần được xác định dựa trên:",
+    "answer": "cơ cấu vốn của dự án chuẩn bị được đưa vào thực hiện."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Dòng tiền ròng năm cuối của dự án bao gồm:",
+    "answer": "lợi nhuận sau thuế, khấu hao và thu hồi vốn lưu động ròng."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Chủ đầu tư nào sau đây rất khó phân tích?",
+    "answer": "Bộ, chính quyền tỉnh."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Ngân hàng phát triển phải thuê tư vấn để:",
+    "answer": "tiết kiệm chi phí và đảm bảo chất lượng."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Có tài liệu dự tính về một dự án đầu tư như sau:\nChi phí để thuê tư vấn lập dự án là 2,5 tỷ đồng;\nChi phí để mua máy mới là 120 tỷ đồng;\nChi phí vận chuyển lắp đặt, chạy thử máy mới là 4,5 tỷ đồng;\nGiá trị còn lại theo sổ kế toán của phương tiện chuyên chở được đưa vào dự án là 7,5 tỷ đồng;\nGiá trị thanh lý của phương tiện chuyên chở tại thời điểm bắt đầu thực hiện dự án là 4,0 tỷ đồng;\nGiá trị hàng hóa dự trữ tăng thêm là 6,0 tỷ đồng;\nLãi vay vốn trong thời gian thực hiện dự án là 5,5tỷ đồng.\nTổng vốn đầu tư của dự án là:",
+    "answer": "140 tỷ đồng."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Không giống như các dự án thương mại, các dự án phát triển kinh tế:",
+    "answer": "được vay ngân hàng với thời gian dài."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Ngân hàng thường tiến hành thu nợ trong giai đoạn:",
+    "answer": "diễn ra quá trình sản xuất kinh doanh."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Điều kiện nào KHÔNG phù hợp để ngân hàng tiến hành giải ngân?",
+    "answer": "Chủ đầu tư có nhu cầu."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Thời gian ân hạn là:",
+    "answer": "thời gian mà dự án không phải trả nợ gốc hoặc/và lãi."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Khuyến khích xuất khẩu là mục tiêu được thực hiện bởi các dự án nào?",
+    "answer": "Xây dựng các cơ sở chế biến xuất khẩu và các cơ sở nghiên cứu phục vụ xuất khẩu."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Với lãi suất chiết khấu hợp lý (bằng chi phí sử dụng vốn bình quân), giá trị hiện tại ròng (NPV) của dự án đầu tư là 5 tỷ đồng phản ánh điều gì?",
+    "answer": "Ngoài lợi ích kỳ vọng tối thiểu, chủ đầu tư sẽ thu lợi thêm 5 tỷ đồng nếu đầu tư dự án."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Chọn câu SAI. Lý do các dự án phát triển thiếu vốn dài hạn là",
+    "answer": "dự án phát triển không cần nguồn dài hạn."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Đặc trưng của nguồn chi Ngân sách Nhà nước cho đầu tư phát triển tại Việt Nam là đặc trưng nào?",
+    "answer": "Phù hợp với các dự án không có khả năng hoàn trả."
+  }
+]

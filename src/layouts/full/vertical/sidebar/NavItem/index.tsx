@@ -106,7 +106,13 @@ const NavItem = ({ item, level, pathDirect, hideMenu, onClick }: ItemType) => {
         >
           {itemIcon}
         </ListItemIcon>
-        <ListItemText>
+        <ListItemText
+          sx={{
+            whiteSpace: 'normal',
+            wordBreak: 'break-word',
+            overflowWrap: 'break-word',
+          }}
+        >
           {hideMenu ? '' : <>{t(`${item?.title}`)}</>}
           <br />
           {item?.subtitle ? (

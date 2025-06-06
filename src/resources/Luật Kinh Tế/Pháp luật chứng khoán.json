@@ -1,0 +1,1796 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán cổ phiếu riêng lẻ, trái phiếu chuyển đổi riêng lẻ, trái phiếu kèm chứng quyền riêng lẻ của công ty đại chúng là sai?",
+    "answer": ": Cơ quan, tổ chức, cá nhân có quyền từ chối cung cấp tất cả các thông tin, tài liệu, dữ liệu, giải trình, đến làm việc theo yêu cầu của Ủy ban Chứng khoán Nhà nước.."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về trách nhiệm phối hợp của các cơ quan, tổ chức, cá nhân trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Ban đại diện quỹ đại chúng có từ 03 đến 11 thành viên, trong đó có ít nhất một phần ba số thành viên Ban đại diện quỹ là thành viên độc lập, không phải là người có liên quan của công ty quản lý quỹ đầu tư chứng khoán và ngân hàng giám sát."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Ban đại diện quỹ đại chúng là sai?",
+    "answer": ": Các công ty chứng khoán được Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đăng ký hoạt động lưu ký chứng khoán và được Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chấp thuận trở thành thành viên lưu ký."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, chủ thể nào sau đây là thành viên lưu ký của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam?",
+    "answer": ": Mức vốn điều lệ đã góp tại thời điểm đăng ký chào bán từ 20 tỷ đồng trở lên tính theo giá trị ghi trên sổ kế toán."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán trái phiếu chuyển đổi ra công chúng là sai?",
+    "answer": ": Vốn điều lệ"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, tài sản nào sau đây không phải là chứng khoán?",
+    "answer": ": Quỹ đầu tư chứng khoán chỉ được nhận vốn góp của nhà đầu tư Việt Nam.."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Tất cả các công ty phải thực hiện đăng ký thông tin về người sở hữu chứng khoán với Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về đăng ký chứng khoán là sai?",
+    "answer": ": Khi biến động lớn của nền kinh tế và xã hội."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Ủy ban Chứng khoán Nhà nước không được thực hiện tạm ngừng, đình chỉ một phần hoặc toàn bộ hoạt động giao dịch của Sở giao dịch chứng khoán Việt Nam và công ty con trong trường hợp nào sau đây?",
+    "answer": ": Chỉ bao gồm nghiệp vụ môi giới chứng khoán, tự doanh chứng khoán và tư vấn đầu tư chứng khoán."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Báo cáo tài chính quý, báo cáo tài chính tháng."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Công ty đại chúng không phải công bố thông tin định kỳ về nội dung nào sau đây?",
+    "answer": ": Khi vốn chủ sở hữu của công ty chứng khoán thấp hơn vốn điều lệ tối thiểu thì công ty chứng khoán phải dừng hoạt động ngay."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về duy trì các điều kiện cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán tại Việt Nam là sai?",
+    "answer": ": Quỹ đầu tư bất động sản chỉ được đầu tư vào bất động sản."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đầu tư bất động sản là sai?",
+    "answer": ": Mệnh giá cổ phiếu và giá cổ phiếu luôn luôn bằng nhau là 10 nghìn đồng."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về mệnh giá chứng khoán chào bán ra công chúng là sai?",
+    "answer": ": Cổ phiếu của công ty đại chúng chỉ được niêm yết trên hệ thống giao dịch chứng khoán."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nêm yết, đăng ký giao dịch chứng khoán là sai?",
+    "answer": ": Mức vốn điều lệ đã góp từ 10 tỷ đồng trở lên tính theo giá trị ghi trên sổ kế toán."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán cổ phiếu lần đầu ra công chúng của công ty cổ phần sai?",
+    "answer": ": Ưu tiên thực hiện lệnh của công ty quản lý quỹ đầu tư chứng khoán trước lệnh của khách hàng."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nghĩa vụ của công ty quản lý quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Tổ chức không phải là công ty đại chúng phát hành trái phiếu doanh nghiệp riêng lẻ."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, đối tượng nào sau đây không phải công bố thông tin theo quy định của Luật Chứng khoán?",
+    "answer": ": Hoạt động quản trị của tất cả các loại hình công ty."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, hoạt động về chứng khoán và thị trường chứng khoán nào sau đây là sai?",
+    "answer": ": Tổ chức tư vấn phát hành, tổ chức kiểm toán được chấp thuận, người ký báo cáo kiểm toán không phải chịu trách nhiệm trước pháp luật trong phạm vi liên quan đến hồ sơ đăng ký chào bán chứng khoán ra công chúng."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về đăng ký chào bán chứng khoán ra công chúng là sai?",
+    "answer": ": Mỗi nhà đầu tư chỉ được mở một tài khoản giao dịch chứn khoán."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Nhận định nào sau đây về tài khoản giao dịch chứng khoán của nhà dầu tư Việt Nam là sai?",
+    "answer": ": Môi giới chứng khoán là việc làm trung gian thực hiện mua, bán chứng khoán cho chính mình."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Đầu tư chứng khoán là việc mua, bán, nắm giữ chứng khoán của nhà đầu tư trên thị trường chứng khoán"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nhà đầu tư là đúng?",
+    "answer": ": Người hành nghề chứng khoán được đồng thời làm việc cho từ 02 công ty chứng khoán trở lên."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hành nghề chứng khoán là sai?",
+    "answer": ": Nhà đầu tư là tổ chức, cá nhân tham gia đầu tư trên thị trường chứng khoán."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nhà đầu tư là đúng?",
+    "answer": ": Mức phạt tiền tối đa áp dụng đối với cá nhân và tổ chức thực hiện cùng hành vi vi phạm là như nhau."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây trong xử phạt vi phạm hành chính đối với tổ chức, cá nhân có hành vi vi phạm quy định của pháp luật có liên quan đến hoạt động chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Cổ phiếu là cổ phần"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về cổ phiếu là sai?",
+    "answer": ": Việc yêu cầu cơ quan, tổ chức, cá nhân cung cấp thông tin, tài liệu, dữ liệu, giải trình, đến làm việc không cần được Chủ tịch Ủy ban Chứng khoán Nhà nước phê duyệt;"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về chứng khoán và thị trường chứng khoán của Ủy ban Chứng khoán Nhà nước, nhận định nào sau đây là sai?",
+    "answer": ": Cổ đông, nhóm người có liên quan sở hữu dưới 5% số cổ phiếu có quyền biểu quyết của công ty đại chúng."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, đối tượng nào sau đây không phải công bố thông tin theo quy định của Luật Chứng khoán?",
+    "answer": ": Môi giới chứng khoán."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Công ty quản lý quỹ đầu tư chứng khoán không có quyền thực hiện nghiệp vụ kinh doanh chứng khoán nào sau đây?",
+    "answer": ": Công ty cổ phần có vốn điều lệ đã góp từ 30 tỷ đồng trở lên và có tối thiểu là 10% số cổ phiếu có quyền biểu quyết do ít nhất 100 nhà đầu tư không phải là tổ chức đầu tư chứng khoán nắm giữ."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Công ty quản lý quỹ đầu tư chứng khoán không có quyền thực hiện nghiệp vụ kinh doanh chứng khoán nào sau đây?",
+    "answer": ": Quản trị công ty đại chúng."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, phương án nào sau đây không phải là nghiệp vụ kinh doanh chứng khoán?",
+    "answer": ": Quỹ đầu tư bất động sản không phải là quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đầu tư bất động sản là sai?",
+    "answer": ": Công ty có vốn điều lệ đã góp đạt trên 50 tỷ đồng."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Nhà đầu tư chứng khoán chuyên nghiệp không bao gồm chủ thể nào sau đây?",
+    "answer": ": Phải có tối thiểu 03 cổ đông sáng lập, thành viên góp vốn là tổ chức."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán của công ty chứng khoán tại Việt Nam là sai?",
+    "answer": ": Sự thay đổi giá trị tài sản ròng của quỹ đầu tư chứng khoán phải được công bố công khai thông tin hai lần một ngày."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về xác định giá trị tài sản ròng của quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Đã hoạt động kinh doanh ít nhất 02 năm trước năm đăng ký chào bán, đồng thời không có lỗ tính đến năm đăng ký chào bán."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán cổ phiếu lần đầu ra công chúng của công ty cổ phần sai?",
+    "answer": ": Được tổ chức giao dịch theo phương thức giao dịch do nhà đầu tư tự thỏa thuận."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về tổ chức giao dịch chứng khoán niêm yết, đăng ký giao dịch tại Sở giao dịch chứng khoán Việt Nam và công ty con là sai?",
+    "answer": ": Quỹ hoán đổi danh mục là quỹ đóng hình thành từ việc tiếp nhận, hoán đổi danh mục chứng khoán cơ cấu lấy chứng chỉ quỹ."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về các loại hình quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Giá trị cổ phiếu phát hành thêm theo mệnh giá trong mọi trường hợp không được lớn hơn tổng giá trị cổ phiếu đang lưu hành tính theo mệnh giá."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán thêm cổ phiếu ra công chúng của công ty đại chúng là sai?",
+    "answer": ": Cổ phiếu chỉ được tồn tại dưới hình thức chứng chỉ do công ty cổ phần phát hành."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Nhận định nào sau đây về cổ phiếu là sai?",
+    "answer": ": Chào bán công cụ nợ của Chính phủ, trái phiếu chính quyền địa phương."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, trường hợp nào sau đây trước khi chào bán chứng khoán ra công chúng không phải đăng ký với Ủy ban Chứng khoán Nhà nước?",
+    "answer": ": Tổ chức phát hành chào bán chứng khoán ra công chúng."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, trường hợp nào sau đây trước khi chào bán chứng khoán ra công chúng phải đăng ký với Ủy ban Chứng khoán Nhà nước, trừ trường hợp Luật Chứng khoán quy điịnh khác?",
+    "answer": ": Tự doanh chứng khoán là việc công ty chứng khoán tự động mua, bán chứng khoán cho khách hàng."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Phải có công ty quản lý quỹ tư vấn hồ sơ đăng ký chào bán trái phiếu ra công chúng."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán trái phiếu chuyển đổi ra công chúng là sai?",
+    "answer": ": Quỹ đầu tư chứng khoán chỉ được đầu tư vào chứng khoán."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Quản lý danh mục đầu tư chứng khoán là việc nhà đầu tư mua, bán, nắm giữ chứng khoán trong danh mục chứng khoán của nhà đầu tư."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Trong mọi trường hợp, không được đưa ra nhận định hoặc bảo đảm với khách hàng về mức thu nhập hoặc lợi nhuận đạt được trên khoản đầu tư của mình."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hạn chế đối với công ty chứng khoán là sai?",
+    "answer": ": Việc huy động vốn của quỹ đại chúng được Ban đại diện quỹ đại chúng thực hiện."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về huy động vốn để thành lập quỹ đại chúng là sai?",
+    "answer": ": Không được cung ứng dịch vụ quản lý danh sách người sở hữu chứng khoán cho các doanh nghiệp khác đều không được cung ứng."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, trường hợp công ty chứng khoán chỉ được cấp phép thực hiện nghiệp vụ môi giới chứng khoán, nhận định nào sau đây là sai?",
+    "answer": ": Sở giao dịch chứng khoán Việt Nam không phải giám sát hoạt động giao dịch chứng khoán;"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về giám sát hoạt động về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Tài sản của khách hàng do công ty chứng khoán tiếp nhận và quản lý đồng thời là tài sản của công ty chứng khoán"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về tài sản của khách hàng tại công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Việc bán chứng khoán theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, trường hợp nào sau đây trước khi chào bán chứng khoán ra công chúng không phải đăng ký với Ủy ban Chứng khoán Nhà nước?",
+    "answer": ": Nhà đầu tư có không được chuyển nhượng chứng chỉ quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quyền và nghĩa vụ của nhà đầu tư tham gia vào quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Mệnh giá của trái phiếu phải là 100 nghìn đồng."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về mệnh giá chứng khoán chào bán ra công chúng là sai?",
+    "answer": ": Cá nhân có thu nhập chịu thuế năm gần nhất tối thiểu là 0.5 tỷ đồng tính đến thời điểm cá nhân đó được xác định tư cách là nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Nhà đầu tư chứng khoán chuyên nghiệp không bao gồm chủ thể nào sau đây?",
+    "answer": ": Đứng tên sở hữu chứng khoán hộ người khác;"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hành vi bị nghiêm cấm trong hoạt động về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Chứng quyền cho phép người sở hữu chứng quyền được quyền mua một số trái phiếu và cổ phiếu phổ thông nhất định."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chứng quyền là sai?",
+    "answer": ": Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam do Nhà nước nắm giữ dưới 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết.."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam là sai?",
+    "answer": ": Quỹ thành viên khi thành lập phải đáp ứng điều kiện có từ 02 đến 30 thành viên góp vốn và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ thành viên là sai?",
+    "answer": ": Đối tượng phải công bố thông tin khi công bố thông tin không phải báo cáo Ủy ban Chứng khoán Nhà nước."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nguyên tắc công bố thông tin theo quy định của Luật Chứng khoán là sai?",
+    "answer": ": Luôn luôn được cung cấp dịch vụ tư vấn hồ sơ chào bán chứng khoán, thực hiện các thủ tục trước khi chào bán chứng khoán;"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, khi công ty chứng khoán được cấp phép thực hiện nghiệp vụ tự doanh chứng khoán, nhận định nào sau đây là sai?",
+    "answer": ": Cá nhân có thu nhập chịu thuế năm gần nhất tối thiểu là 0.5 tỷ đồng tính đến thời điểm cá nhân đó được xác định tư cách là nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Nhà đầu tư chứng khoán chuyên nghiệp không bao gồm chủ thể nào sau đây?",
+    "answer": ": Chào bán cho từ 100 nhà đầu tư trở lên, không kể nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chào bán chứng khoán ra công chúng là đúng?",
+    "answer": ": Đầu tư chứng khoán là việc mua, bán, nắm giữ chứng khoán của nhà đầu tư trên thị trường chứng khoán"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về đầu tư chứng khoán là đúng?",
+    "answer": ": Thị trường giao dịch chứng khoán là địa điểm hoặc hình thức trao đổi thông tin để tập hợp lệnh mua, bán và giao dịch chứng khoán."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về thị trường giao dịch chứng khoán là đúng?",
+    "answer": ": Ban đại diện quỹ đại chúng có từ 03 đến 11 thành viên, trong đó có ít nhất một phần ba số thành viên Ban đại diện quỹ là thành viên độc lập, không phải là người có liên quan của công ty quản lý quỹ đầu tư chứng khoán và ngân hàng giám sát."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Ban đại diện quỹ đại chúng là sai?",
+    "answer": ": Công ty trách nhiệm hữu hạn hoặc công ty cổ phần theo quy định của Luật Doanh nghiệp."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán được tổ chức dưới hình thức doanh nghiệp nào?",
+    "answer": ": Tổ chức, cá nhân đồng thời bị xử phạt hành chính và bị truy cứu trách nhiệm hình sự;"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, khi tổ chức, cá nhân thực hiện 01 hành vi vi phạm quy định của pháp luật có liên quan đến hoạt động chứng khoán và thị trường chứng khoán, nhận định nào sau đây là sai?",
+    "answer": ": Nhà đầu tư nước ngoài không phải tuân thủ quy định về tỷ lệ sở hữu nước ngoài theo quy định của pháp luật về chứng khoán và thị trường chứng khoán."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nhà đầu tư nước ngoài khi tham gia đầu tư, hoạt động trên thị trường chứng khoán Việt Nam là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước không có quyền quyết định việc đưa vào giao dịch các loại chứng khoán mới, thay đổi và áp dụng phương thức giao dịch mới;"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Ủy ban Chứng khoán Nhà nước là sai?",
+    "answer": ": Tổ chức phát hành phải chuyển giao chứng khoán cho người mua trong thời hạn 40 ngày kể từ ngày kết thúc đợt chào bán."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về phân phối chứng khoán là sai?",
+    "answer": ": Thành viên giao dịch là công ty quản lý quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về thành viên của Sở giao dịch chứng khoán Việt Nam là sai?",
+    "answer": ": Các công ty chứng khoán được Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đăng ký hoạt động lưu ký chứng khoán và được Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chấp thuận trở thành thành viên lưu ký."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, chủ thể nào sau đây là thành viên lưu ký của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam?",
+    "answer": ": Thực hiện quản lý tách biệt tài sản của từng khách hàng nhưng không tách biệt tài sản của khách hàng với tài sản của công ty chứng khoán."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nghĩa vụ của công ty chứng khoán là sai?",
+    "answer": ": Môi giới chứng khoán là việc làm thực hiện mua, bán chứng khoán cho chính mình."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Công ty đại chúng phải lập và lưu giữ Sổ đăng ký người sở hữu chứng khoán đối với các chứng khoán đã đăng ký tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về đăng ký chứng khoán là sai?",
+    "answer": ": Phải có công ty quản lý quỹ tư vấn hồ sơ đăng ký chào bán trái phiếu ra công chúng."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán trái phiếu chuyển đổi ra công chúng là sai?",
+    "answer": ": Môi giới chứng khoán."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Công ty quản lý quỹ đầu tư chứng khoán không có quyền thực hiện nghiệp vụ kinh doanh chứng khoán nào sau đây?",
+    "answer": ": Thành viên giao dịch là mọi công ty chứng khoán được thành lập hợp pháp."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về thành viên của Sở giao dịch chứng khoán Việt Nam là sai?",
+    "answer": ": Đầu tư vào chứng chỉ quỹ của quỹ đại chúng khác."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Công ty quản lý quỹ đầu tư chứng khoán được sử dụng vốn và tài sản của quỹ đại chúng để thực hiện các hoạt động nào sau đây?",
+    "answer": ": Quản trị công ty đại chúng."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, phương án nào sau đây không phải là nghiệp vụ kinh doanh chứng khoán?",
+    "answer": ": Tổ chức thị trường giao dịch chứng khoán."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hành vi bị nghiêm cấm trong hoạt động về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Hoạt động kinh doanh của 02 năm liền trước năm đăng ký chào bán phải có lãi, đồng thời không có lỗ lũy kế tính đến năm đăng ký chào bán."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán thêm cổ phiếu ra công chúng của công ty đại chúng là sai?",
+    "answer": ": Khi vốn chủ sở hữu của công ty chứng khoán thấp hơn vốn điều lệ tối thiểu thì công ty chứng khoán phải dừng hoạt động ngay."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về duy trì các điều kiện cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán tại Việt Nam là sai?",
+    "answer": ": Quỹ đầu tư bất động sản được đầu tư vào chứng khoán của tất cả các tổ chức phát hành là tổ chức kinh doanh bất động sản."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đầu tư bất động sản là sai?",
+    "answer": ": Sở giao dịch chứng khoán Việt Nam do Nhà nước nắm giữ dưới 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Sở giao dịch chứng khoán Việt Nam và công ty con là sai?",
+    "answer": ": Trong mọi trường hợp, công ty quản lý quỹ đầu tư chứng khoán đều phải thay mặt quỹ mở thực hiện việc mua lại chứng chỉ quỹ mở."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ mở là sai?",
+    "answer": ": Chỉ bao gồm nghiệp vụ môi giới chứng khoán, tự doanh chứng khoán và tư vấn đầu tư chứng khoá"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Mệnh giá cổ phiếu là 10 nghìn đồng và bội số của 10 nghìn đồng."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Cổ phiếu là cổ phần"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về cổ phiếu là sai?",
+    "answer": ": Nhà đầu tư chứng khoán chuyên nghiệp là nhà đầu tư có năng lực tài chính đồng thời có trình độ chuyên môn về chứng khoán."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nhà đầu tư chứng khoán chuyên nghiệp là sai?",
+    "answer": ": Trong mọi trường hợp, chứng chỉ quỹ đóng chỉ được phát hành cho nhà đầu tư hiện hữu của quỹ thông qua phát hành quyền mua chứng chỉ quỹ đóng được chuyển nhượng."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đóng là sai?",
+    "answer": ": Quỹ đầu tư chứng khoán chỉ được đầu tư vào chứng khoán."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Nhà đầu tư chiến lược có cam kết hợp tác với công ty trong thời gian ít nhất 05 năm."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nhà đầu tư chiến lược là sai?",
+    "answer": ": Tổ chức tư vấn phát hành, tổ chức kiểm toán được chấp thuận, người ký báo cáo kiểm toán không phải chịu trách nhiệm trước pháp luật trong phạm vi liên quan đến hồ sơ đăng ký chào bán chứng khoán ra công chúng."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về đăng ký chào bán chứng khoán ra công chúng là sai?",
+    "answer": ": Bộ trưởng Bộ Tài chính áp dụng các biện pháp xử lý đối với trường hợp không đáp ứng chỉ tiêu an toàn tài chính."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về an toàn tài chính đối với công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Mọi tổ chức, cá nhân đều được quyền tổ chức và vận hành thị trường giao dịch chứng khoán."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về tổ chức thị trường giao dịch chứng khoán tại Việt Nam là sai?",
+    "answer": ": Công ty chứng khoán không phải đăng ký doanh nghiệp theo quy định của Luật Doanh nghiệp."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, sau khi được cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán, tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": ": Nhà đầu tư nước ngoài là tổ chức và người có liên quan chỉ được sở hữu đến 49% vốn điều lệ."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về sở hữu của nhà đầu tư nước ngoài trong công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán tại Việt Nam là sai?",
+    "answer": ": Hợp đồng quyền chọn là loại chứng khoán phái sinh, xác nhận quyền của người bán và nghĩa vụ của người mua."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hợp đồng quyền chọn là sai?",
+    "answer": ": Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam là đơn vị sự nghiệp có thu."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam là sai?",
+    "answer": ": Người có liên quan của người nội bộ của công ty đại chúng, người nội bộ của quỹ đại chúng, công ty đầu tư chứng khoán đại chúng không phải công bố thông tin."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, đối tượng nào sau đây không phải công bố thông tin theo quy định của Luật Chứng khoán?",
+    "answer": ": Các ngân hàng thương mại được Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán và được Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chấp thuận trở thành thành viên bù trừ."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, chủ thể nào sau đây là thành viên bù trừ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam?",
+    "answer": ": Đăng ký giao dịch là việc đưa chứng khoán vào giao dịch trên hệ thống giao dịch cho chứng khoán niêm yết."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nêm yết, đăng ký giao dịch chứng khoán là sai?",
+    "answer": ": Công ty đại chúng không phải thực hiện đăng ký cổ phiếu tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quyền và nghĩa vụ của công ty đại chúng là sai?",
+    "answer": ": Tự doanh chứng khoán là việc công ty chứng khoán tự động mua, bán chứng khoán cho khách hàng."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Công ty chứng khoán chỉ phải công bố thông tin hoạt động trên phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về công bố thông tin hoạt động của công ty chứng khoán là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước không được áp dụng các biện pháp bảo đảm an ninh, an toàn thị trường chứng khoán."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Ủy ban Chứng khoán Nhà nước là sai?",
+    "answer": ": Việc thành lập và chào bán chứng chỉ quỹ ra công chúng của quỹ đại chúng không phải đăng ký với Ủy ban Chứng khoán Nhà nước."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về thành lập và tổ chức hoạt động của quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Trái phiếu chính quyền địa phương là công cụ nợ do Ủy ban nhân dân các cấp phát hành để huy động vốn cho ngân sách địa phương."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Nhận định nào sau đây về trái phiếu là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước chỉ có quyền thanh tra, kiểm tra nhưng không có quyền xử lý vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Ủy ban Chứng khoán Nhà nước là sai?",
+    "answer": ": Công ty quản lý quỹ đầu tư chứng khoán bị đình chỉ hoạt động kinh doanh chứng khoán."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về các trường hợp giải thể quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Công ty chứng khoán bị thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán khi không chính thức hoạt động trong thời hạn 2 tháng kể từ ngày được cấp giấy phép."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về tổ chức lại, đình chỉ và thu hồi giấy phép thành lập và hoạt động kinh doanh chứng khoán là sai?",
+    "answer": ": Sử dụng một hoặc nhiều tài khoản giao dịch của mình để thực hiện việc mua, bán chứng khoán ."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hành vi bị nghiêm cấm trong hoạt động về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Giá trị cổ phiếu phát hành thêm theo mệnh giá trong mọi trường hợp không được lớn hơn tổng giá trị cổ phiếu đang lưu hành tính theo mệnh giá."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán thêm cổ phiếu ra công chúng của công ty đại chúng là sai?",
+    "answer": ": Sự thay đổi giá trị tài sản ròng của quỹ đầu tư chứng khoán phải được công bố công khai thông tin hai lần một ngày."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về xác định giá trị tài sản ròng của quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Chứng khoán niêm yết, đăng ký giao dịch đồng thời được giao dịch bên ngoài hệ thống giao dịch chứng khoán do Sở giao dịch chứng khoán Việt Nam và công ty con tổ chức."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về tổ chức giao dịch chứng khoán tại Sở giao dịch chứng khoán Việt Nam và công ty con là sai?",
+    "answer": ": Cổ tức"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, tài sản nào sau đây không phải là chứng khoán?",
+    "answer": ": Chứng chỉ quỹ là loại chứng khoán xác nhận quyền sở hữu của nhà đầu tư đối với một phần vốn góp của quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, tài sản nào sau đây không phải là chứng khoán?",
+    "answer": ": Quỹ hoán đổi danh mục là quỹ đóng hình thành từ việc tiếp nhận, hoán đổi danh mục chứng khoán cơ cấu lấy chứng chỉ quỹ."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về các loại hình quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Nhà đầu tư có quyền yêu cầu công ty quản lý quỹ đầu tư chứng khoán mua lại chứng chỉ quỹ đóng."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quyền và nghĩa vụ của nhà đầu tư tham gia vào quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Chứng quyền có bảo đảm do công ty cổ phần phát hành."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chứng quyền có bảo đảm là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước không có nhiệm vụ, quyền hạn theo quy định của pháp luật về thanh tra, pháp luật về xử lý vi phạm hành chính."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về chứng khoán và thị trường chứng khoán của Ủy ban Chứng khoán Nhà nước, nhận định nào sau đây là sai?",
+    "answer": ": Tổng tỷ lệ vốn góp của các tổ chức tối thiểu là 45% vốn điều lệ."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán của công ty quản lý quỹ đầu tư chứng khoán tại Việt Nam là sai?",
+    "answer": ": Quỹ đầu tư bất động sản không phải là quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đầu tư bất động sản là sai?",
+    "answer": ": Sở giao dịch chứng khoán Việt Nam không phải giám sát hoạt động giao dịch chứng khoán;"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về giám sát hoạt động về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Tổ chức phát hành chào bán chứng khoán ra công chúng."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, trường hợp nào sau đây trước khi chào bán chứng khoán ra công chúng phải đăng ký với Ủy ban Chứng khoán Nhà nước, trừ trường hợp Luật Chứng khoán quy điịnh khác?",
+    "answer": ": Trong trường hợp để bảo vệ quyền, lợi ích của nhà đầu tư lớn."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Ủy ban Chứng khoán Nhà nước không được thực hiện tạm ngừng, đình chỉ một phần hoặc toàn bộ hoạt động giao dịch của Sở giao dịch chứng khoán Việt Nam và công ty con trong trường hợp nào sau đây?",
+    "answer": ": Việc công bố thông tin của tổ chức phải do người đại diện theo pháp luật thực hiện."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nguyên tắc công bố thông tin theo quy định của Luật Chứng khoán là sai?",
+    "answer": ": Tổng giá trị chứng chỉ quỹ đăng ký chào bán tối thiểu là 30 tỷ đồng."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chào bán chứng chỉ quỹ lần đầu ra công chúng là sai?",
+    "answer": ": Đứng tên sở hữu chứng khoán hộ người khác;"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hành vi bị nghiêm cấm trong hoạt động về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Tổ chức tư vấn niêm yết, đăng ký giao dịch, tổ chức kiểm toán, người ký báo cáo kiểm toán không phải chịu trách nhiệm trước pháp luật trong phạm vi liên quan đến hồ sơ niêm yết, đăng ký giao dịch"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nêm yết, đăng ký giao dịch chứng khoán là sai?",
+    "answer": ": Tất cả các loại chứng chỉ quỹ chào bán ra công chúng đều phải được niêm yết trên hệ thống giao dịch chứng khoán sau khi kết thúc đợt chào bán."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chào bán chứng chỉ quỹ lần đầu ra công chúng là sai?",
+    "answer": ": Mức phạt tiền tối đa đối với mọi chủ thể thực hiện hành vi vi phạm hành chính là 03 tỷ đồng."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây trong xử phạt vi phạm hành chính đối với tổ chức, cá nhân có hành vi vi phạm quy định của pháp luật có liên quan đến hoạt động chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Cổ đông công ty đại chúng chào bán cổ phiếu ra công chúng."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, trường hợp nào sau đây trước khi chào bán chứng khoán ra công chúng phải đăng ký với Ủy ban Chứng khoán Nhà nước, trừ trường hợp Luật Chứng khoán quy điịnh khác?",
+    "answer": ": Đầu tư chứng khoán là việc mua, bán, nắm giữ chứng khoán của nhà đầu tư trên thị trường chứng khoán"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nhà đầu tư là đúng?",
+    "answer": ": Tự doanh chứng khoán là việc công ty chứng khoán mua hoặc bán chứng khoán cho khách hàng."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Công ty cổ phần có vốn điều lệ đã góp từ 30 tỷ đồng trở lên và có tối thiểu là 10% số cổ phiếu có quyền biểu quyết do ít nhất 100 nhà đầu tư không phải là tổ chức đầu tư chứng khoán nắm giữ."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về công ty đại chúng là sai?",
+    "answer": ": Báo cáo tài chính quý, báo cáo tài chính tháng."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, Công ty đại chúng không phải công bố thông tin định kỳ về nội dung nào sau đây?",
+    "answer": ": Nhà đầu tư, nhóm người có liên quan sở hữu dưới 5% chứng chỉ quỹ của quỹ đóng."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, đối tượng nào sau đây không phải công bố thông tin theo quy định của Luật Chứng khoán?",
+    "answer": ": Đã hoạt động kinh doanh ít nhất 02 năm trước năm đăng ký chào bán, đồng thời không có lỗ tính đến năm đăng ký chào bán."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán cổ phiếu lần đầu ra công chúng của công ty cổ phần sai?",
+    "answer": ": Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán được tiến hành hoạt động kinh doanh chứng khoán trước ngày chính thức hoạt động."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về ngày chính thức hoạt động của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Mệnh giá chứng chỉ quỹ là 100 nghìn đồng."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về mệnh giá chứng khoán chào bán ra công chúng là sai?",
+    "answer": ": Tiền Việt Nam"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, tài sản nào sau đây không phải là chứng khoán?",
+    "answer": ": Hợp đồng tương lai là loại chứng khoán phái sinh không phải niêm yết, xác nhận cam kết giữa các bên để thực hiện các giao dịch."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hợp đồng tương lai là sai?",
+    "answer": ": Chủ tịch Ủy ban chứng khoán nhà nước quyết định cơ cấu tổ chức quản lý của Sở giao dịch chứng khoán Việt Nam."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Sở giao dịch chứng khoán Việt Nam là sai?",
+    "answer": ": Cổ đông, nhóm người có liên quan sở hữu dưới 5% số cổ phiếu có quyền biểu quyết của công ty đại chúng."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, đối tượng nào sau đây không phải công bố thông tin theo quy định của Luật Chứng khoán?",
+    "answer": ": Cổ phần"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Theo Luật Chứng khoán 2019, tài sản nào sau đây không phải là chứng khoán?",
+    "answer": ""
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, tài sản nào sau đây không phải là chứng khoán?",
+    "answer": ": Cổ phần"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán được tổ chức dưới hình thức doanh nghiệp nào?",
+    "answer": ": Công ty trách nhiệm hữu hạn hoặc công ty cổ phần theo quy định của Luật Doanh nghiệp."
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đầu tư bất động sản là sai?",
+    "answer": ": Quỹ đầu tư bất động sản được đầu tư vào chứng khoán của tất cả các tổ chức phát hành là tổ chức kinh doanh bất động sản."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chào bán chứng khoán riêng lẻ là sai?",
+    "answer": ": Chào bán chứng khoán cho từ 100 nhà đầu tư trở lên, không kể nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về chứng khoán và thị trường chứng khoán của Ủy ban Chứng khoán Nhà nước, nhận định nào sau đây là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước có thể yêu cầu doanh nghiệp viễn thông cung cấp toàn bộ thông tin của khách hàng."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chào bán chứng khoán ra công chúng là đúng?",
+    "answer": ": Chào bán cho từ 100 nhà đầu tư trở lên, không kể nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về ngân hàng thanh toán là sai?",
+    "answer": ": Ngân hàng thương mại có vốn điều lệ dưới 10.000 tỷ đồng có thể được Ủy ban Chứng khoán Nhà nước lựa chọn làm ngân hàng thanh toán."
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Tư vấn đầu tư chứng khoán là việc cam kết với khách hàng sẽ kiếm được lợi nhuận trong việc mua, bán chứng khoán."
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Nhận định nào sau đây về cổ phần là đúng?",
+    "answer": ": Người sở hữu cổ phần phổ thông là cổ đông phổ thông"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, tài sản nào sau đây không phải là chứng khoán?",
+    "answer": ": Trụ sở công ty"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Nhà đầu tư có quyền kiểm soát hằng ngày đối với việc ra quyết định đầu tư của quỹ."
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Quản lý quỹ đầu tư chứng khoán là hoạt động quản lý trong việc mua, bán, nắm giữ chứng khoán và các tài sản khác của công ty quản lý quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, biện pháp nào sau đây về biện pháp bảo đảm an ninh, an toàn thị trường chứng khoán là sai?",
+    "answer": ": Giám sát an ninh, an toàn thị trường chứng khoán cũng như mọi hoạt động của nhà đầu tư."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hình thức chào bán chứng khoán ra công chúng là sai?",
+    "answer": ": Chỉ bao gồm hình thức chào bán chứng khoán lần đầu ra công chúng chào bán thêm cổ phiếu hoặc quyền mua cổ phần ra công chúng."
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về sử dụng thông tin nội bộ để mua, bán chứng khoán là sai?",
+    "answer": ": Sử dụng thông tin nội bộ để mua, bán chứng khoán không bị xử phạt vi phạm hành chính."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về các trường hợp giải thể quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Công ty quản lý quỹ đầu tư chứng khoán bị đình chỉ hoạt động kinh doanh chứng khoán."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về mệnh giá chứng khoán chào bán ra công chúng là đúng?",
+    "answer": ": Mệnh giá chứng khoán chào bán trên lãnh thổ Việt Nam phải được ghi bằng Đồng Việt Nam."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chào bán chứng chỉ quỹ lần đầu ra công chúng là sai?",
+    "answer": ": Tổng giá trị chứng chỉ quỹ đăng ký chào bán tối thiểu là 30 tỷ đồng."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về công bố thông tin hoạt động của công ty chứng khoán là sai?",
+    "answer": ": Công ty chứng khoán chỉ phải công bố thông tin hoạt động trên phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hình thức chào bán chứng khoán ra công chúng là sai?",
+    "answer": ": Chỉ bao gồm hình thức chào bán chứng khoán lần đầu ra công chúng."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về cổ phiếu là sai?",
+    "answer": ": Cổ phiếu xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với một hoặc một số cổ phần."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quản trị công ty áp dụng đối với công ty đại chúng là sai?",
+    "answer": ": Cơ cấu Hội đồng quản trị của công ty đại chúng phải bảo đảm sự thành viên Hội đồng quản trị phải là cổ đông lớn của công ty."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về ngày chính thức hoạt động của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán được tiến hành hoạt động kinh doanh chứng khoán trước ngày chính thức hoạt động."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về thành viên của Sở giao dịch chứng khoán Việt Nam là sai?",
+    "answer": ": Thành viên giao dịch là công ty quản lý quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quản lý nhà nước về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước thống nhất quản lý nhà nước về chứng khoán và thị trường chứng khoán."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, đối tượng nào sau đây không phải công bố thông tin theo quy định của Luật Chứng khoán?",
+    "answer": ": Người có liên quan của người nội bộ của công ty đại chúng, người nội bộ của quỹ đại chúng, công ty đầu tư chứng khoán đại chúng không phải công bố thông tin."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Tổ chức xã hội - nghề nghiệp về chứng khoán là sai?",
+    "answer": ": Tổ chức xã hội - nghề nghiệp về chứng khoán do Ủy ban Chứng khoán Nhà nước quyết định thành lập."
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Nhận định nào sau đây về cổ phần là đúng?",
+    "answer": ": Người sở hữu cổ phần phổ thông là cổ đông phổ thông"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Thanh tra chứng khoán là sai?",
+    "answer": ": Thanh tra chứng khoán không được xử phạt vi phạm hành chính, chỉ được kiến nghị Chủ tịch Ủy ban Chứng khoán Nhà nước quyết định việc xử phạt vi phạm hành chính;"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về huy động vốn để thành lập quỹ đại chúng là sai?",
+    "answer": ": Nhà đầu tư chiến lược có cam kết hợp tác với công ty trong thời gian ít nhất 05 năm."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về huy động vốn để thành lập quỹ đại chúng là sai?",
+    "answer": ": Trong trường hợp để bảo vệ quyền, lợi ích của nhà đầu tư lớn."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, Ủy ban Chứng khoán Nhà nước không được thực hiện tạm ngừng, đình chỉ một phần hoặc toàn bộ hoạt động giao dịch của Sở giao dịch chứng khoán Việt Nam và công ty con trong trường hợp nào sau đây?",
+    "answer": ": Chứng khoán của tất cả các tổ chức không phải là công ty đại chúng."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, Chứng khoán nào sau đây không phải lưu ký tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam trước khi thực hiện giao dịch, trừ trường hợp Bộ trưởng Bộ Tài chính quy định khác?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước không được áp dụng các biện pháp bảo đảm an ninh, an toàn thị trường chứng khoán."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Ủy ban Chứng khoán Nhà nước là sai?",
+    "answer": ": Nhà đầu tư có quyền yêu cầu công ty quản lý quỹ đầu tư chứng khoán mua lại chứng chỉ quỹ đóng."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quyền và nghĩa vụ của nhà đầu tư tham gia vào quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Thành viên giao dịch là mọi công ty chứng khoán được thành lập hợp pháp."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về thành viên của Sở giao dịch chứng khoán Việt Nam là sai?",
+    "answer": ": Trái phiếu chính quyền địa phương là công cụ nợ do Ủy ban nhân dân các cấp phát hành để huy động vốn cho ngân sách địa phương."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Nhận định nào sau đây về trái phiếu là sai?",
+    "answer": ": Bộ trưởng Bộ Tài chính áp dụng các biện pháp xử lý đối với trường hợp không đáp ứng chỉ tiêu an toàn tài chính."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về an toàn tài chính đối với công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Đối tượng công bố thông tin không phải bảo quản, lưu giữ thông tin đã công bố."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nguyên tắc công bố thông tin theo quy định của Luật Chứng khoán là sai?",
+    "answer": ": Hoạt động kinh doanh của 02 năm liền trước năm đăng ký chào bán phải có lãi, đồng thời không có các khoản nợ phải trả quá hạn trên 01 năm."
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán trái phiếu ra công chúng là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước trình Bộ trưởng Bộ Tài chính cấp lại, thu hồi giấy phép, chứng chỉ hành nghề chứng khoán."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Ủy ban Chứng khoán Nhà nước là sai?",
+    "answer": ": Ngân hàng giám sát có thể là đối tác mua, bán trong giao dịch mua, bán tài sản của quỹ đại chúng, công ty đầu tư chứng khoán."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về ngân hàng giám sát là sai?",
+    "answer": ": Tất cả các loại chứng chỉ quỹ chào bán ra công chúng đều phải được niêm yết trên hệ thống giao dịch chứng khoán sau khi kết thúc đợt chào bán."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chào bán chứng chỉ quỹ lần đầu ra công chúng là sai?",
+    "answer": ": Để được cấp Giấy phép thành lập và hoạt động, công ty đầu tư chứng khoán phải đáp ứng điều kiện về vốn tối thiểu là 30 tỷ đồng."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về công ty đầu tư chứng khoán là sai?",
+    "answer": ": Mọi tổ chức, cá nhân đều được quyền tổ chức và vận hành thị trường giao dịch chứng khoán."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về tổ chức thị trường giao dịch chứng khoán tại Việt Nam là sai?",
+    "answer": ": Thanh toán tiền giao dịch chứng khoán được thực hiện bởi công ty chứng khoán."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về bừ trừ và thanh toán giao dịch chứng khoán là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, Cơ quan nào sau đây có thẩm quyền cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán tại Việt Nam?",
+    "answer": ": Công ty chứng khoán không phải đăng ký doanh nghiệp theo quy định của Luật Doanh nghiệp."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, sau khi được cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán, tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": ": Trong mọi trường hợp, chứng chỉ quỹ đóng chỉ được phát hành cho nhà đầu tư hiện hữu của quỹ thông qua phát hành quyền mua chứng chỉ quỹ đóng được chuyển nhượng."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đóng là sai?",
+    "answer": ": Thao túng giá chứng khoán không bị xử phạt vi phạm hành chính."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về thao túng giá chứng khoán là sai?",
+    "answer": ": Việc công bố thông tin của tổ chức phải do người đại diện theo pháp luật thực hiện."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nguyên tắc công bố thông tin theo quy định của Luật Chứng khoán là sai?",
+    "answer": ": Chủ tịch Ủy ban chứng khoán nhà nước quyết định cơ cấu tổ chức quản lý của Sở giao dịch chứng khoán Việt Nam."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Sở giao dịch chứng khoán Việt Nam là sai?",
+    "answer": ": Phân biệt đối xử giữa các nhà đầu tư, che dấu thông tin, không minh bạch."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây không phải là nguyên tắc hoạt động về chứng khoán và thị trường chứng khoán?",
+    "answer": ": Chứng khoán phái sinh chỉ bao gồm hợp đồng tương lai."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chứng khoán phái sinh là sai?",
+    "answer": ": Công ty chứng khoán phải chịu trách nhiệm về rủi ro cho nhà đầu tư."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây không phải là nguyên tắc hoạt động về chứng khoán và thị trường chứng khoán?",
+    "answer": ": Môi giới chứng khoán là việc làm thực hiện mua, bán chứng khoán cho chính mình."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Nhà đầu tư chỉ được đặt lệnh mua khi đã ký quỹ đủ tiền trên tài khoản giao dịch chứng khoán."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Nhận định nào sau đây về giao dịch và thanh toán giao dịch chứng khoán cơ sở là sai?",
+    "answer": ": Cổ đông lớn trước thời điểm chào bán cổ phiếu lần đầu ra công chúng của tổ chức phát hành phải cam kết cùng nhau nắm giữ ít nhất 30% vốn điều lệ của tổ chức phát hành tối thiểu là 02 năm kể từ ngày kết thúc đợt chào bán."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán cổ phiếu lần đầu ra công chúng của công ty cổ phần sai?",
+    "answer": ": Tất cả các công ty chứng khoán đều thực hiện hoạt động lưu ký chứng khoán."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về lưu ký chứng khoán là sai?",
+    "answer": ": Mệnh giá chứng chỉ quỹ là 100 nghìn đồng."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về mệnh giá chứng khoán chào bán ra công chúng là sai?",
+    "answer": ": Thanh tra chứng khoán chịu sự chỉ đạo trực tiếp của Bộ trưởng Bộ Tài chính."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về mệnh giá chứng khoán chào bán ra công chúng là sai?",
+    "answer": ": Chứng quyền có bảo đảm do công ty cổ phần phát hành."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chứng quyền có bảo đảm là sai?",
+    "answer": ": Cổ tức"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, tài sản nào sau đây không phải là chứng khoán?",
+    "answer": ": Sử dụng một hoặc nhiều tài khoản giao dịch của mình để thực hiện việc mua, bán chứng khoán ."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hành vi bị nghiêm cấm trong hoạt động về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Công ty đại chúng phải lập và lưu giữ Sổ đăng ký người sở hữu chứng khoán đối với các chứng khoán đã đăng ký tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về đăng ký chứng khoán là sai?",
+    "answer": ": Quản lý quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, công ty chứng khoán không có quyền thực hiện nghiệp vụ kinh doanh chứng khoán nào sau đây?",
+    "answer": ": Công ty đại chúng không phải thực hiện đăng ký cổ phiếu tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quyền và nghĩa vụ của công ty đại chúng là sai?",
+    "answer": ": Trái phiếu là loại chứng khoán xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với một phần vốn cổ phần của tổ chức phát hành."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về trái phiếu là sai?",
+    "answer": ": Tạm ngừng hoạt động do nguyên nhân bất khả kháng."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán không cần được Ủy ban Chứng khoán Nhà nước chấp thuận bằng văn bản trước khi thực hiện hoạt động nào sau đây?",
+    "answer": ": Tổ chức thị trường giao dịch chứng khoán."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hành vi bị nghiêm cấm trong hoạt động về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước có thể cung cấp thông tin, tài liệu, dữ liệu do tổ chức tín dụng, doanh nghiệp viễn thông cho mọi chủ thể có nhu cầu sử dụng."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về chứng khoán và thị trường chứng khoán của Ủy ban Chứng khoán Nhà nước, nhận định nào sau đây là sai?",
+    "answer": ": Hoạt động kinh doanh của 02 năm liền trước năm đăng ký chào bán phải có lãi, đồng thời không có lỗ lũy kế tính đến năm đăng ký chào bán."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán thêm cổ phiếu ra công chúng của công ty đại chúng là sai?",
+    "answer": ": Sở giao dịch chứng khoán Việt Nam do Nhà nước nắm giữ dưới 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Sở giao dịch chứng khoán Việt Nam và công ty con là sai?",
+    "answer": ": Quỹ đầu tư chứng khoán là quỹ hình thành từ vốn góp của nhà đầu tư không nhằm mục đích thu lợi nhuận."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Nhà đầu tư chứng khoán chuyên nghiệp là nhà đầu tư có năng lực tài chính đồng thời có trình độ chuyên môn về chứng khoán."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nhà đầu tư chứng khoán chuyên nghiệp là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước chỉ có quyền thanh tra, kiểm tra nhưng không có quyền xử lý vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Ủy ban Chứng khoán Nhà nước là sai?",
+    "answer": ": Thực hiện quản lý tách biệt tài sản của từng khách hàng nhưng không tách biệt tài sản của khách hàng với tài sản của công ty chứng khoán."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nghĩa vụ của công ty chứng khoán là sai?",
+    "answer": ": Doanh nghiệp có mức vốn điều lệ đã góp tại thời điểm đăng ký chào bán từ 10 tỷ đồng trở lên tính theo giá trị ghi trên sổ kế toán."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán trái phiếu ra công chúng là sai?",
+    "answer": ": Hợp đồng quyền chọn là loại chứng khoán phái sinh, xác nhận quyền của người bán và nghĩa vụ của người mua."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hợp đồng quyền chọn là sai?",
+    "answer": ": Công ty quản lý quỹ đầu tư chứng khoán có quyền quyết định sửa đổi, bổ sung Điều lệ quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Đại hội nhà đầu tư quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Nhóm nhà đầu tư nước ngoài có liên quan sở hữu dưới 5% số cổ phiếu có quyền biểu quyết của 01 tổ chức phát hành hoặc dưới 5% chứng chỉ quỹ của quỹ đóng."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, đối tượng nào sau đây không phải công bố thông tin theo quy định của Luật Chứng khoán?",
+    "answer": ": Chào bán thêm cổ phiếu ra công chúng của công ty đại chúng."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, trường hợp nào sau đây trước khi chào bán chứng khoán ra công chúng phải đăng ký với Ủy ban Chứng khoán Nhà nước, trừ trường hợp Luật Chứng khoán quy điịnh khác?",
+    "answer": ": Cổ phiếu phải tồn tại dưới hình thức bút toán ghi sổ."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Nhận định nào sau đây về cổ phiếu là đúng?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước không có nhiệm vụ, quyền hạn theo quy định của pháp luật về thanh tra, pháp luật về xử lý vi phạm hành chính."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, trong thanh tra, kiểm tra, xử lý vi phạm pháp luật về chứng khoán và thị trường chứng khoán của Ủy ban Chứng khoán Nhà nước, nhận định nào sau đây là sai?",
+    "answer": ": Tạm ngừng, đình chỉ một phần hoặc toàn bộ hoặc khôi phục hoạt động giao dịch của Sở giao dịch chứng khoán Việt Nam và công ty con nhằm bảo vệ lợi ích của nhà đầu tư lớn."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về biện pháp bảo đảm an ninh, an toàn thị trường chứng khoán là sai?",
+    "answer": ": Chào bán cho các nhà đầu tư không xác định."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chào bán chứng khoán ra công chúng là đúng?",
+    "answer": ": Chào bán thông qua phương tiện thông tin đại chúng."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chào bán chứng khoán ra công chúng là đúng?",
+    "answer": ": Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam do Nhà nước nắm giữ dưới 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết.."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam là sai?",
+    "answer": ": Trường hợp giá chứng khoán của tổ chức phát hành trên hệ thống giao dịch chứng khoán thấp hơn mệnh giá, tổ chức phát hành phải chào bán chứng khoán với giá thấp hơn mệnh giá."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về mệnh giá chứng khoán chào bán ra công chúng là sai?",
+    "answer": ": Các ngân hàng thương mại được Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán và được Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chấp thuận trở thành thành viên bù trừ."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, chủ thể nào sau đây là thành viên bù trừ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam?",
+    "answer": ": Cổ phiếu có thể tồn tại dưới hình thức dữ liệu điện tử."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, chủ thể nào sau đây là thành viên bù trừ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam?",
+    "answer": ": Mệnh giá cổ phiếu là 10 nghìn đồng và bội số của 10 nghìn đồng."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về mệnh giá chứng khoán chào bán ra công chúng là sai?",
+    "answer": ": Mức phạt tiền tối đa đối với mọi chủ thể thực hiện hành vi vi phạm hành chính là 03 tỷ đồng."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây trong xử phạt vi phạm hành chính đối với tổ chức, cá nhân có hành vi vi phạm quy định của pháp luật có liên quan đến hoạt động chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Tổ chức tư vấn niêm yết, đăng ký giao dịch, tổ chức kiểm toán, người ký báo cáo kiểm toán không phải chịu trách nhiệm trước pháp luật trong phạm vi liên quan đến hồ sơ niêm yết, đăng ký giao dịch"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nêm yết, đăng ký giao dịch chứng khoán là sai?",
+    "answer": ": Bộ Tài chính có trách nhiệm xác nhận hoàn tất việc đăng ký công ty đại chúng."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về đăng ký công ty đại chúng là sai?",
+    "answer": ": Công ty chứng khoán bị thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán khi không chính thức hoạt động trong thời hạn 2 tháng kể từ ngày được cấp giấy phép."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về tổ chức lại, đình chỉ và thu hồi giấy phép thành lập và hoạt động kinh doanh chứng khoán là sai?",
+    "answer": ": Đối với đợt chào bán ra công chúng nhằm mục đích huy động phần vốn để thực hiện dự án của tổ chức phát hành, cổ phiếu được bán cho các nhà đầu tư phải đạt tối thiểu là 60% số cổ phiếu dự kiến chào bán."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán thêm cổ phiếu ra công chúng của công ty đại chúng là sai?",
+    "answer": ": Cổ đông sáng lập trong thời gian bị hạn chế chuyển nhượng của mọi công ty cổ phần."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, đối tượng nào sau đây không phải công bố thông tin theo quy định của Luật Chứng khoán?",
+    "answer": ": Nhà đầu tư, nhóm người có liên quan sở hữu dưới 5% chứng chỉ quỹ của quỹ đóng."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, đối tượng nào sau đây không phải công bố thông tin theo quy định của Luật Chứng khoán?",
+    "answer": ": Vốn điều lệ tối thiểu cho từng nghiệp vụ kinh doanh của công ty chứng khoán tại Việt Nam do Bộ Tài chính quy định."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán của công ty chứng khoán tại Việt Nam là sai?",
+    "answer": ": Quỹ thành viên khi thành lập phải đáp ứng điều kiện có từ 02 đến 30 thành viên góp vốn và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ thành viên là sai?",
+    "answer": ": Việc thành lập quỹ thành viên do Đại hội nhà đầu tư của quỹ đầu tư chứng khoán thực hiện."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về thành lập và tổ chức hoạt động của quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Chứng khoán của các tổ chức không phải là công ty đại chúng không niêm yết, đăng ký giao dịch trên hệ thống giao dịch chứng khoán và không ủy quyền cho Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam làm đại lý chuyển nhượng."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chứng khoán phải được đăng ký tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước là cơ quan thuộc Chính phủ thực hiện chức năng quản lý nhà nước về chứng khoán và thị trường chứng khoán;"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Ủy ban Chứng khoán Nhà nước là sai?",
+    "answer": ": Thị trường giao dịch chứng khoán là địa điểm hoặc hình thức trao đổi thông tin để tập hợp lệnh mua, bán và giao dịch chứng khoán."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về thị trường giao dịch chứng khoán là đúng?",
+    "answer": ": Cổ phiếu chào bán riêng lẻ của công ty đại chúng được tự do chuyển nhượng."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chào bán chứng khoán riêng lẻ của công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Chứng khoán niêm yết, đăng ký giao dịch đồng thời được giao dịch bên ngoài hệ thống giao dịch chứng khoán do Sở giao dịch chứng khoán Việt Nam và công ty con tổ chức."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về tổ chức giao dịch chứng khoán tại Sở giao dịch chứng khoán Việt Nam và công ty con là sai?",
+    "answer": ": Trong mọi trường hợp, đầu tư quá 20% tổng giá trị tài sản của quỹ đại chúng vào chứng khoán đang lưu hành của 01 tổ chức phát hành, trừ trái phiếu Chính phủ."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, Công ty quản lý quỹ đầu tư chứng khoán không được sử dụng vốn và tài sản của quỹ đại chúng để thực hiện các hoạt động sau đây?",
+    "answer": ": Công ty chứng khoán được cấp phép thực hiện nghiệp vụ tự doanh chứng khoán mà không cần được cấp phép thực hiện nghiệp vụ môi giới chứng khoán."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nghiệp vụ kinh doanh chứng khoán của công ty chứng khoán là sai?",
+    "answer": ": Đối tượng phải công bố thông tin khi công bố thông tin không phải báo cáo Ủy ban Chứng khoán Nhà nước."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nguyên tắc công bố thông tin theo quy định của Luật Chứng khoán là sai?",
+    "answer": ": Quỹ thành viên là quỹ đầu tư chứng khoán có số thành viên tham gia góp vốn dưới 30 thành viên."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về các loại hình quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Ủy ban Chứng khoán Nhà nước không có quyền quyết định việc đưa vào giao dịch các loại chứng khoán mới, thay đổi và áp dụng phương thức giao dịch mới;"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Ủy ban Chứng khoán Nhà nước là sai?",
+    "answer": ": Trong mọi trường hợp, công ty quản lý quỹ đầu tư chứng khoán đều phải thay mặt quỹ mở thực hiện việc mua lại chứng chỉ quỹ mở."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quỹ mở là sai?",
+    "answer": ": Tổ chức, cá nhân có thể bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, khi tổ chức, cá nhân có hành vi vi phạm quy định của pháp luật có liên quan đến hoạt động chứng khoán và thị trường chứng khoán, nhận định nào sau đây là đúng?",
+    "answer": ": Quỹ mở là quỹ đại chúng mà chứng chỉ quỹ đã chào bán ra công chúng không phải mua lại theo yêu cầu của nhà đầu tư."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về các loại hình quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Bảo lãnh phát hành chứng khoán là việc cam kết với người mua chứng khoán sẽ mua được chứng khoán của tổ chức phát hành."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Công ty đại chúng phải bảo đảm quyền lợi của cổ đông lớn và thành viên hội đồng quản trị, đối xử bất bình đẳng giữa các cổ đông."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quản trị công ty áp dụng đối với công ty đại chúng là sai?",
+    "answer": ": Đầu tư chứng khoán là việc mua, bán, nắm giữ chứng khoán của nhà đầu tư trên thị trường chứng khoán"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về đầu tư chứng khoán là đúng?",
+    "answer": ": Không được quyền tổ chức thị trường giao dịch chứng khoán cho chứng khoán chưa đủ điều kiện niêm yết."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Sở giao dịch chứng khoán Việt Nam và công ty con là sai?",
+    "answer": ": Nhà đầu tư nước ngoài không phải tuân thủ quy định về tỷ lệ sở hữu nước ngoài theo quy định của pháp luật về chứng khoán và thị trường chứng khoán."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nhà đầu tư nước ngoài khi tham gia đầu tư, hoạt động trên thị trường chứng khoán Việt Nam là sai?",
+    "answer": ": Việc thành lập quỹ thành viên không phải báo cáo Ủy ban Chứng khoán Nhà nước.."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nhà đầu tư nước ngoài khi tham gia đầu tư, hoạt động trên thị trường chứng khoán Việt Nam là sai?",
+    "answer": ": Ghi nhận thông tin về tài khoản đăng ký giao dịch chứng khoán của nhà dầu tư."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, đăng ký chứng khoán không bao gồm hoạt động nào?",
+    "answer": ": Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam không phải giám sát tỷ lệ sở hữu của nhà đầu tư nước ngoài theo quy định của pháp luật về chứng khoán và thị trường chứng khoán."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về giám sát hoạt động về chứng khoán và thị trường chứng khoán là sai?",
+    "answer": ": Chứng chỉ quỹ là loại chứng khoán xác nhận quyền sở hữu của nhà đầu tư đối với một phần vốn góp của quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chứng chỉ quỹ là đúng?",
+    "answer": ": Tổ chức phát hành phải chuyển giao chứng khoán cho người mua trong thời hạn 40 ngày kể từ ngày kết thúc đợt chào bán."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về phân phối chứng khoán là sai?",
+    "answer": ": Công ty cổ phần có quyền phát hành cổ phiếu."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Nhận định nào sau đây về cổ phiếu là đúng?",
+    "answer": ": Chứng quyền cho phép người sở hữu chứng quyền được quyền mua một số trái phiếu và cổ phiếu phổ thông nhất định."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về chứng quyền là sai?",
+    "answer": ": Tổ chức, cá nhân, nhóm người có liên quan, nhóm nhà đầu tư nước ngoài có liên quan không phải công bố thông tin khi không còn là cổ đông lớn của công ty đại chúng"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về công bố thông tin theo quy định của Luật Chứng khoán là sai?",
+    "answer": ": Đăng ký giao dịch là việc đưa chứng khoán vào giao dịch trên hệ thống giao dịch cho chứng khoán niêm yết."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nêm yết, đăng ký giao dịch chứng khoán là sai?",
+    "answer": ": Tối thiểu là 10% số cổ phiếu có quyền biểu quyết của tổ chức phát hành phải được bán cho ít nhất 100 nhà đầu tư là nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán cổ phiếu lần đầu ra công chúng của công ty cổ phần sai?",
+    "answer": ": Tổ chức phát hành có cam kết và phải thực hiện niêm yết trái phiếu trên hệ thống giao dịch chứng khoán sau 01 năm kể từ khi kết thúc đợt chào bán."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán trái phiếu ra công chúng là sai?",
+    "answer": ": Việc thành lập và chào bán chứng chỉ quỹ ra công chúng của quỹ đại chúng không phải đăng ký với Ủy ban Chứng khoán Nhà nước."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về thành lập và tổ chức hoạt động của quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Tự doanh chứng khoán là việc công ty chứng khoán mua hoặc bán chứng khoán cho khách hàng."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về kinh doanh chứng khoán là sai?",
+    "answer": ": Đối tượng công bố thông tin không phải chịu trách nhiệm trước pháp luật về nội dung thông tin công bố."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về nguyên tắc công bố thông tin theo quy định của Luật Chứng khoán là sai?",
+    "answer": ": Cổ đông công ty đại chúng chào bán cổ phiếu ra công chúng."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, trường hợp nào sau đây trước khi chào bán chứng khoán ra công chúng phải đăng ký với Ủy ban Chứng khoán Nhà nước, trừ trường hợp Luật Chứng khoán quy điịnh khác?",
+    "answer": ": Đầu tư vào chứng chỉ quỹ của quỹ đại chúng khác."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, Công ty quản lý quỹ đầu tư chứng khoán được sử dụng vốn và tài sản của quỹ đại chúng để thực hiện các hoạt động nào sau đây?",
+    "answer": ": Luôn luôn được cung cấp dịch vụ tư vấn hồ sơ chào bán chứng khoán, thực hiện các thủ tục trước khi chào bán chứng khoán;"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, khi công ty chứng khoán được cấp phép thực hiện nghiệp vụ tự doanh chứng khoán, nhận định nào sau đây là sai?",
+    "answer": ": Quyền mua cổ phần do công ty trách nhiệm hữu hạn phát hành."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về quyền mua cổ phần là sai?",
+    "answer": ": Tổ chức, cá nhân đồng thời bị xử phạt hành chính và bị truy cứu trách nhiệm hình sự;"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, khi tổ chức, cá nhân thực hiện 01 hành vi vi phạm quy định của pháp luật có liên quan đến hoạt động chứng khoán và thị trường chứng khoán, nhận định nào sau đây là sai?",
+    "answer": ": Quỹ đóng là quỹ đại chúng mà chứng chỉ quỹ đã chào bán ra công chúng phải được mua lại theo yêu cầu của nhà đầu tư."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về các loại hình quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Nhà đầu tư nước ngoài là tổ chức và người có liên quan chỉ được sở hữu đến 49% vốn điều lệ."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về sở hữu của nhà đầu tư nước ngoài trong công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán tại Việt Nam là sai?",
+    "answer": ": Tổng tỷ lệ vốn góp của các tổ chức tối thiểu là 45% vốn điều lệ."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán của công ty quản lý quỹ đầu tư chứng khoán tại Việt Nam là sai?",
+    "answer": ": Tiền Việt Nam"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, tài sản nào sau đây không phải là chứng khoán?",
+    "answer": ": Hợp đồng tương lai là loại chứng khoán phái sinh không phải niêm yết, xác nhận cam kết giữa các bên để thực hiện các giao dịch."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về hợp đồng tương lai là sai?",
+    "answer": ": Đại hội nhà đầu tư quỹ đầu tư chứng khoán bao gồm tất cả các nhà đầu tư và công ty quản lý quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Đại hội nhà đầu tư quỹ đầu tư chứng khoán là sai?",
+    "answer": ": Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam là đơn vị sự nghiệp có thu."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam là sai?",
+    "answer": ": Thanh toán tiền giao dịch chứng khoán cho khách hàng."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, lưu ký chứng khoán không bao gồm hoạt động nào sau đây?",
+    "answer": ": Nhà đầu tư không phải mở tài khoản giao dịch chứng khoán tại công ty chứng khoán để thực hiện giao dịch chứng khoán trên Sở Giao dịch Chứng khoán."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Nhận định nào sau đây về tài khoản giao dịch chứng khoán của nhà dầu tư Việt Nam là sai?",
+    "answer": ": Tất cả các công ty đều có quyền phát hành cổ phiếu"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Nhận định nào sau đây về cổ phiếu là sai?",
+    "answer": ": Đối tượng tham gia đợt chào bán cổ phiếu riêng lẻ của công ty đại chúng chỉ bao gồm nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Theo Luật Chứng khoán 2019, nhận định nào sau đây về điều kiện chào bán cổ phiếu riêng lẻ, trái phiếu chuyển đổi riêng lẻ, trái phiếu kèm chứng quyền riêng lẻ của công ty đại chúng là sai?",
+    "answer": ": Cá nhân nắm giữ danh mục chứng khoán niêm yết, đăng ký giao dịch có giá trị tối thiểu là 01 tỷ đồng theo xác nhận của công ty chứng khoán."
+  }
+]

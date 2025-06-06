@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Phương pháp bình quân cả kỳ dự trữ được áp dụng:",
+    "answer": "Cho tất cả các nghiệp vụ xuất kho kỳ này."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Lợi nhuận sau thuế sẽ được kết chuyến từ TK 911 về TK nào sau đây:",
+    "answer": "Có TK 421"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Khi bán hàng theo phương thức đại lý, hoa hồng trả cho đại lý sẽ được tính vào:",
+    "answer": "Chi phí bán hàng."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 154: “Chi phí sản xuất kinh doanh dở dang” trong ngành xây dựng là:",
+    "answer": ". 4"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 627: Chi phí sản xuất chung là:",
+    "answer": ". 6"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Phí ủy thác xuất khẩu nhận được từ đơn vị giao ủy thác được ghi:",
+    "answer": "tăng doanh thu bán hàng và cung cấp dịch vụ"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Công ty A chuyển tiền cho Công ty B 530.000 bằng chuyển khoản VND để nhờ nộp các khoản thuế liên quan đến hàng nhập khẩu ủy thác. Kế toán tại Công ty A ghi:",
+    "answer": "Nợ TK 1388B/Có TK 1121: 530.000"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Khi tỷ giá ngoại tệ giảm thì kết quả kinh doanh của hoạt động lưu chuyển hàng hóa nhập khẩu:",
+    "answer": "tăng."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Chi phí giám định của hải quan về hàng xuất khẩu đã chi bằng tiền mặt 8.000. Kế toán ghi:",
+    "answer": "Nợ TK 641/Có TK 111: 8.000"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Chi phí nhân công trực tiếp cho hoạt động kinh doanh vận chuyển bao gồm:",
+    "answer": "A và C"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Nếu lấy doanh thu bán hàng trừ đi các khoản giảm trừ doanh thu sẽ được:",
+    "answer": "Doanh thu thuần"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Tiền lương phải trả cho lái máy và phụ máy thi công (trường hợp không có đội máy thi công riêng) được hạch toán vào:",
+    "answer": ". Chi phí sử dụng máy thi công"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Ưu điểm của phương pháp thực tế đích danh",
+    "answer": "Phản ánh số liệu xuất kho hàng hóa chính xác."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Hàng hóa nhập khẩu đã tiếp nhận chưa thanh toán cho người xuất khẩu, chuyển thẳng gửi đi bán, kế toán sẽ ghi:",
+    "answer": "Nợ TK 157/Có TK 331"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Chi phí nhân công trực tiếp cho hoạt động kinh doanh hàng uống bao gồm",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Số dư bên Có TK 337: Thanh toán theo tiến độ kế hoạch hợp đồng xây dựng, phản ánh:",
+    "answer": ". Chênh lệch doanh thu ghi nhận của hợp đồng < Số tiền đã thu theo kế hoạch của khách hàng"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Đối với những mặt hàng có thời hạn sử dụng không dài, phương pháp thích hợp nhất để tính giá xuất kho hàng hóa là:",
+    "answer": "Phương pháp nhập trước – xuất trước."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Các khoản trích theo lương của quản lý đội xây lắp được hạch toán vào",
+    "answer": ". Chi phí quản lý doanh nghiệp"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Khi nhận hàng theo phương thức đại lý, hoa hồng nhận được sẽ được bên đại lý ghi nhận là:",
+    "answer": "Doanh thu bán hàng và cung cấp dịch vụ."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Các khoản giảm trừ doanh thu bao gồm",
+    "answer": "Tất cả các đáp án trên."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Chênh lệch tỷ giá ngoại tệ phát sinh khi thu nợ người mua nước ngoài được hạch toán vào:",
+    "answer": "chi phí tài chính hoặc doanh thu hoạt động tài chính."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Các chi phí phát sinh liên quan đến hàng xuất khẩu được tính vào:",
+    "answer": "chi phí bán hàng."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Thuế xuất khẩu phải nộp khi xuất khẩu hàng hóa được quy đổi ra tiền Việt Nam theo:",
+    "answer": "tỷ giá quy định của Hải quan."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Phát sinh Chi phí nhân công trực tiếp phục vụ cho hoạt động kinh doanh buồng ngủ được ghi:",
+    "answer": "Nợ TK 622/ Có TK 334"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Phương pháp nhập trước- xuất trước",
+    "answer": "Giả định lô hàng hóa nào nhập vào trước sẽ được xuất ra trước và lấy giá của lần nhập đó để tính giá xuất kho hàng hóa."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Doanh thu của hàng xuât khẩu (POB) được quy đổi ra tiền Việt Nam để ghi sổ kế toán theo:",
+    "answer": "tỷ giá thực tế của Ngân hàng thương mại tại thời điểm phát sinh giao dịch."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Giá thực tế hàng hóa đã gia công, sơ chế bao gồm",
+    "answer": "Giá mua, chi phí gia công sơ chế và chi phí khác (nếu có)"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Công ty B phát hành hóa đơn GTGT về hoa hồng ủy thác cho Công ty A. Theo hợp đông ủy thác đã ký, phí hoa hồng ủy thác xuất khẩu 6% tính trên giá xuất khẩu 50.000 USD (đã bao gồm cả thuế GTGT 10%). Tỷ giá giao dịch thực tế 23,3/USD. Kế toán tại Công ty A định khoản:",
+    "answer": "Nợ TK 641: 63.545,5\nNợ TK 133: 6.354,5\nCó TK 331B: 69.900"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Nếu hợp đồng quy định các chi phí liên quan đến hàng nhập khẩu do bên nhận ủy thác chịu thì các chi phí này bên nhận ủy thác sẽ ghi:",
+    "answer": "tăng chi phí bán hàng."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Chi phí sản xuất chung của hoạt động kinh doanh hướng dẫn du lịch bao gồm:",
+    "answer": "A và B và C"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Tiền lương phải trả cho lái máy và phụ máy thi công (trường hợp có đội máy thi công riêng) được hạch toán vào:",
+    "answer": ". Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Chứng từ nào không phải là chứng từ dùng để kế toán nghiệp vụ mua hàng hóa nhập kho.",
+    "answer": "Phiếu xuất kho bên mua lập."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Nếu hợp đồng ủy thác quy định các chi phí liên quan đến hàng xuất khẩu do bên nhận ủy thác chịu thì các chi phí này bên nhận ủy thác sẽ hạch toán:",
+    "answer": "Nợ TK 641/Có TK liên quan."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Các phương pháp tính giá hàng hóa xuất kho bao gồm:",
+    "answer": "Phương pháp nhập trước – xuất trước, thực tế đích danh, bình quân cả kỳ dự trữ, bình quân sau mỗi lần nhập."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Tập hợp Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh hàng ăn ghi:",
+    "answer": "A+ B+ C"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Số dư bên Nợ TK 337: Thanh toán theo tiến độ kế hoạch hợp đồng xây dựng, phản ánh:",
+    "answer": ". Chênh lệch doanh thu ghi nhận của hợp đồng > Số tiền đã thu theo kế hoạch của khách hàng"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Nếu doanh nghiệp tính thuế giá trị gia tăng theo phương pháp khấu trừ và hàng hóa nhập khẩu thuộc đối tượng chịu thuế giá trị gia tăng thì thuế giá trị gia tăng của hàng nhập khẩu được ghi:",
+    "answer": "Nợ TK 133/Có TK 33312"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Chi phí sản xuất chung cho hoạt động kinh doanh giặt là bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Khi nhận bàn giao khối lượng xây lắp của nhà thầu phụ và được chủ đầu tư nghiệm thu, kế toán hạch toán giá trị khối lượng xây lắp vào:",
+    "answer": ". Giá vốn hàng bán của công trình đã bàn giao"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Lãi tiền vay dùng để ký quỹ mở L/C được doanh nghiệp hạch toán vào:",
+    "answer": "chi phí tài chính."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Theo hợp đông ủy thác đã ký, Công ty A chuyển 50.000 USD chuyển khoản cho Đơn vị nhận ủy thác B để nhập khẩu hàng. Tỷ giá giao dịch thực tế 22,3/1USD, tỷ giá ghi sổ ngoại tệ xuất quỹ tiền gửi 22,1/1USD. Kế toán tại Đơn vị B định khoản:",
+    "answer": "Nợ TK 1122: 1.115.000\nCó TK 3388A: 1.115.000"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Ưu điểm của phương pháp nhập trước – xuất trước là",
+    "answer": "Đơn giản trong tính toán."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Hoa hồng nhập khẩu ủy thác được hưởng phải thu Công ty M theo tổng giá thanh toán (bao gồm cả thuế giá trị gia tăng 10%) là 55.000, kế toán ghi:",
+    "answer": "Nợ TK 131M: 55.000\nCó TK 511: 50.000\nCó TK 33311: 5.000"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Xuất kho một lô hàng hóa giao cho Công ty B để xuất khẩu ủy thác theo trị giá vốn 300.000, xuất khẩu theo giá POB là 30.000 USD. Tỷ giá thực tế trong ngày 22/USD. Kế toán ghi:",
+    "answer": "Nợ TK 157/Có TK 156: 300.000"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Sản phẩm ngành du lịch, dịch vụ có đặc điểm:",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Các khoản chi phí liên quan đến hàng xuất khẩu ủy thác chi hộ bên giao ủy thác đã được thanh toán bằng chuyển khoản, kế toán ghi:",
+    "answer": "Nợ TK 112 và Có TK 1388"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Xí nghiệp xây lắp (tổ chức kế toán riêng nhưng chỉ hạch toán đến giá thành xây lắp) bàn giao công trình cho công ty, giá thành công trình được hạch toán vào bên:",
+    "answer": ". Nợ TK 336"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Bất động sản mà doanh nghiệp mua về có được coi là hàng hóa không?",
+    "answer": "Có, nếu bất động sản mua về để bán trong kỳ hoạt động kinh doanh."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Hoa hồng xuất khẩu ủy thác được hưởng phải thu Công ty M theo tổng giá thanh toán (bao gồm cả thuế GTGT 10%) là 55.000, kế toán ghi:",
+    "answer": "Nợ TK 131M: 55.000\nCó TK 511: 50.000\nCó TK 33311: 5.000"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Các phương thức phân phối và lưu chuyển hàng hóa trong doanh nghiệp kinh doanh thương mại nội địa bao gồm:",
+    "answer": "Cả hai phương thức"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh vận chuyển bao gồm:",
+    "answer": "Các loại nhiên liệu"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Lợi nhuận thuần từ hoạt động kinh doanh bằng:",
+    "answer": "A+B-C-D-E"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 627: Chi phí sản xuất chung là:",
+    "answer": ". 6"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Lãi tiền vay dùng để ký quỹ mở L/C đã thanh toán bằng chuyển khoản được doanh nghiệp định khoản:",
+    "answer": "Nợ TK 635/Có TK 112"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Các khoản chi phí liên quan đến hàng nhập khẩu ủy thác chi hộ bên giao ủy thác đã được thanh toán bằng chuyển khoản, kế toán ghi:",
+    "answer": "Nợ TK 112 và Có TK 1388"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Thuế xuất khẩu phải nộp được doanh nghiệp ghi:",
+    "answer": "giảm doanh thu xuất khẩu."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Chi phí giám định của hải quan về hàng xuất khẩu đã chi bằng tiền mặt 8.000. Kế toán ghi:",
+    "answer": "Nợ TK 641/Có TK 111: 8.000"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Tiền mua bảo hiểm công trình tại các doanh nghiệp xây lắp được hạch toán vào:",
+    "answer": ". TK 627"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Khi nhận được hóa đơn bán hàng của bên bán nhưng chưa nhận được hàng hóa, kế toán sẽ:",
+    "answer": "Lưu hóa đơn vào tập hồ sơ “Hàng mua đang đi đường”"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Tập hợp Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh giặt là ghi:",
+    "answer": "B+C"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Tập hợp Chi phí sản xuất chung cho hoạt động kinh doanh buồng ngủ kế toán ghi:",
+    "answer": "A + B + C+ D"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Công ty A chuyển tiền cho Công ty B 530.000 đồng bằng chuyển khoản VND để nhờ nộp các khoản thuế liên quan đến hàng nhập khẩu ủy thác. Kế toán tại Công ty B ghi:",
+    "answer": "Nợ TK 1121/Có TK 3388A: 530.000"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Lợi nhuận gộp được tính:",
+    "answer": "B - C"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh matxa bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Theo hợp đồng ủy thác đã ký, phí hoa hồng ủy thác xuất khẩu 6% tính trên giá xuất khẩu 50.000 USD (đã bao gồm cả thuế GTGT 10%). Tỷ giá giao dịch thực tế trong ngày là 23,3/USD. Công ty A đã thanh toán cho Công ty B bằng chuyển khoản VNĐ. Kế toán tại Công ty A định khoản:",
+    "answer": "Nợ TK 641: 63.545,5\nNợ TK 133: 6.354,5\nCó TK 1121: 69.900"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Khi xuất kho hàng hóa để chuyển đi xuất khẩu. Kế toán ghi:",
+    "answer": "Nợ TK 157/Có TK 156"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Ưu điểm của phương pháp bình quân cả kỳ dự trữ là:",
+    "answer": "Đơn giản trong tính toán."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Các khoản trích theo lương của quản lý doanh nghiệp được hạch toán vào",
+    "answer": ". Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Phương pháp nhập trước- xuất trước",
+    "answer": "Giả định lô hàng hóa nào nhập vào trước sẽ được xuất ra trước và lấy giá của lần nhập đó để tính giá xuất kho hàng hóa."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trường hợp máy thi công thuê ngoài thì chi phí thuê máy thi công được hạch toán vào:",
+    "answer": ". Chi phí sử dụng máy thi công"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Chi phí nhân công trực tiếp cho hoạt động kinh doanh giặt là bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Chi phí sản xuất chung cho hoạt động kinh doanh hàng ăn bao gồm:",
+    "answer": "A+B+C+D"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Trường hợp sản phẩm xây lắp hoàn thành chờ bán hoặc chưa bàn giao, giá thành sản phẩm được ghi vào bên:",
+    "answer": ". Nợ TK 155"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Công ty A tính thuế giá trị gia tăng theo phương pháp khấu trừ, nhập khẩu một tài sản cố định HH đưa ngay vào sử dụng, giá mua 20.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế giá trị gia tăng của tài sản cố định là 10%. Biết tỷ giá giao dịch thực tế trong ngày là 22.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 22.200 đồng/1USD. Xác định và phản ánh số thuế giá trị gia tăng phải nộp, kế toán ghi:",
+    "answer": "Nợ TK 133/Có TK 33312: 53.280.000"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Công ty A chuyển tiền cho Công ty B 650.000 bằng chuyển khoản VND để nhờ nộp các khoản thuế liên quan đến hàng xuất khẩu ủy thác. Kế toán tại Công ty A ghi:",
+    "answer": "Nợ TK 1388B/Có TK 1121: 650.000"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Công ty Q thanh toán tiền hàng xuất khẩu ủy thác cho Công ty P bằng chuyển khoản 20.000 USD. Tỷ giá giao dịch thực tế trong ngày 22,2/USD, tỷ giá ghi sổ ngoại tệ tiền gửi là 22/USD, tỷ giá ghi sổ công nợ là 22,4. Kế toán tại Công ty P ghi:",
+    "answer": "Nợ TK 1122: 444.000\nNợ TK 635: 4.000\nCó TK 131Q: 448.000"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Nếu lấy doanh thu bán hàng trừ đi các khoản giảm trừ doanh thu sẽ được:",
+    "answer": "Doanh thu thuần"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Khi nào phản ánh hàng mua đang đi đường của doanh nghiệp tăng?",
+    "answer": "Nhận được hóa đơn trước, cuối tháng hàng của hóa đơn đó chưa về."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Tập hợp chi phí sản xuất để giúp cho việc:",
+    "answer": "Tính giá thành sản phẩm"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Khi kết thúc hợp đồng xây dựng, phế liệu thu hồi được bán ngay thì giá bán phế liệu được hạch toán vào bên:",
+    "answer": ". Có TK 154"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Khi hoàn thành bảo hành công trình xây lắp, phần chi phí thực tế bảo hành lớn hơn số dự phòng trích trước thì phần chênh lệch được hạch toán vào bên:",
+    "answer": ".Nợ TK 632"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Theo hợp đông ủy thác đã ký, phí hoa hồng ủy thác xuất khẩu 6% tính trên giá xuất khẩu 50.000 USD (đã bao gồm cả thuế GTGT 10%). Tỷ giá giao dịch thực tế trong ngày là 23,3/1USD. Công ty A đã thanh toán cho Công ty B bằng chuyển khoản VNĐ. Kế toán tại Công ty B định khoản:",
+    "answer": "Nợ TK 1121: 69.900\nCó TK 511: 63.545,5\nCó TK 33311: 6.354,5"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 154: “Chi phí sản xuất kinh doanh dở dang” trong ngành xây dựng là:",
+    "answer": ". 4"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Tiền lương phải trả cho đội trưởng đội thi công được hạch toán vào:",
+    "answer": ". Chi phí sản xuất chung"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Công ty B phát hành hóa đơn GTGT về hoa hồng ủy thác cho Công ty A. Theo hợp đông ủy thác đã ký, phí hoa hồng ủy thác xuất khẩu 6% tính trên giá xuất khẩu 50.000USD (đã bao gồm cả thuế GTGT 10%). Tỷ giá giao dịch thực tế 23,3/USD. Kế toán tại Công ty B định khoản:",
+    "answer": "Nợ TK 131A: 69.900\nCó TK 511: 63.545,5\nCó TK 33311: 6.354,5"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Doanh nghiệp thương mại nội thương được tổ chức theo mô hình",
+    "answer": "Cả ba mô hình trên"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Phản ánh phí hoa hồng ủy thác nhập khẩu hàng hóa phải trả bên nhận ủy thác, kế toán ghi:",
+    "answer": "Nợ TK 156, 133/Có TK 331"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Chứng từ nào không phải là chứng từ dùng để kế toán nghiệp vụ mua hàng hóa nhập kho.",
+    "answer": "Phiếu xuất kho bên mua lập."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Phương pháp bình quân sau mỗi lần nhập được áp dụng",
+    "answer": "Cho các nghiệp vụ xuất kho trước lần nhập kho hàng hóa tiếp theo."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Tiền lương phải trả cho lái máy và phụ máy thi công (trường hợp có đội máy thi công riêng) được hạch toán vào:",
+    "answer": ". Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Để khuyến khích người mua thanh toán tiền hàng nhanh, doanh nghiệp sẽ:",
+    "answer": "Cho khách hàng hưởng chiết khấu thanh toán."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Nếu đơn vị xây lắp thuê các doanh nghiệp khác tiến hành bảo hành công trình, toàn bộ tiền bảo hành phải trả được ghi:",
+    "answer": ". Nợ TK 6415"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Tài khoản 157-Hàng gửi bán dùng để phản ánh nội dung nào?",
+    "answer": "Tất cả các đáp án trên."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Theo hợp đông ủy thác đã ký, Công ty A chuyển 50.000 USD chuyển khoản cho Đơn vị nhận ủy thác B để nhập khẩu hàng. Tỷ giá giao dịch thực tế 22,3/1USD, tỷ giá ghi sổ ngoại tệ xuất quỹ tiền gửi 22,1/1USD. Kế toán tại Công ty A định khoản:",
+    "answer": "Nợ TK 331B: 1.115.000\nCó TK 1122: 1.105.000\nCó TK 515: 10.000"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Giá vốn của lượng hàng gửi bán được chấp nhận được kế toán ghi sổ:",
+    "answer": "Nợ TK 632/Có TK 157"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Thuế xuất khẩu phải nộp khi xuất khẩu hàng hóa được quy đổi ra tiền Việt Nam theo:",
+    "answer": "tỷ giá quy định của Hải quan."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Công ty A tính thuế GTGT theo phương pháp khấu trừ, nhập khẩu một tài sản cố định đưa vào sử dụng, giá mua 30.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế giá trị gia tăng của tài sản cố định là 10%. Chi phí vận chuyển 6.000.000 đồng. Biết tỷ giá giao dịch thực tế trong ngày là 23.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 23.200 đồng/1USD. Giá trị tài sản cố định này được xác định là:",
+    "answer": "844.200.000 đồng"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Nếu hợp đồng quy định các chi phí liên quan đến hàng nhập khẩu do bên nhận ủy thác chịu thì các chi phí này bên nhận ủy thác sẽ hạch toán:",
+    "answer": "Nợ TK 641/Có TK liên quan"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Chi tiền mặt thanh toán cho đơn vị nhận ủy thác về các khoản chi phí liên quan đến hàng xuất khẩu ủy thác mà bên nhận ủy thác đã chi hộ, kế toán ghi:",
+    "answer": "Nợ TK 3388 và Có TK 111"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Công ty A nhập khẩu một lô hàng hóa đã nhập kho, giá mua 30.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế tiêu thụ đặc biệt 25%, thuế suất thuế giá trị gia tăng của lô hàng là 10%. Biết tỷ giá giao dịch thực tế trong ngày là 22.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 22.200 đồng/1USD. Số thuế tiêu thụ đặc biệt phải nộp của lô hàng là:",
+    "answer": "199.800.000"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Khi xuất kho một lô thành phẩm để chuyển đi xuất khẩu. Kế toán ghi:",
+    "answer": "Nợ TK 157/Có TK 155"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Hoa hồng ủy thác nhập khẩu nguyên vật liệu phải trả cho công ty M theo tổng giá thanh toán (bao gồm cả thuế giá trị gia tăng 10%) là 55.000, kế toán ghi",
+    "answer": "Nợ TK 152: 50.000\nNợ TK 133: 5.000\nCó TK 331M: 55.000"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Hoa hồng ủy thác xuất khẩu phải trả cho Công ty M theo tổng giá thanh toán (bao gồm cả thuế GTGT 10%) là 165.000, kế toán ghi:",
+    "answer": "Nợ TK 641: 150.000\nNợ TK 133: 15.000\nCó TK 331M: 165.000"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Khi mua hàng theo phương thức trả chậm, trả góp. Tổng số tiền phải thanh toán theo phương thức này sẽ:",
+    "answer": "Nhiều hơn số tiền thanh toán theo phương thức mua trả ngay."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Ngành du lịch có các hoạt động kinh doanh cơ bản sau:",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Khi bán hàng theo phương thức trả chậm, trả góp, doanh thu bán hàng sẽ ghi nhận theo:",
+    "answer": "Theo giá trả ngay."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Khi nhận bàn giao khối lượng xây lắp của nhà thầu phụ và được chủ đầu tư nghiệm thu, kế toán hạch toán giá trị khối lượng xây lắp vào:",
+    "answer": ". Giá vốn hàng bán của công trình đã bàn giao"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Thuế giá trị gia tăng của hàng nhập khẩu được tính trên:",
+    "answer": "giá nhập khẩu + thuế nhập khẩu + thuế tiêu thụ đặc biệt. của hàng nhập khẩu phải nộp."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Khi tỷ giá ngoại tệ giảm thì kết quả kinh doanh của hoạt động xuất khẩu:",
+    "answer": "giảm."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Chi phí nhân công trực tiếp cho hoạt động kinh doanh hàng ăn bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh hàng uống bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Khi doanh nghiệp nhận hàng khuyến mại hộ nhà sản xuất. Kế toán sẽ:",
+    "answer": "Theo dõi chi tiết trên hệ thống quản trị nội bộ và thuyết minh trên BCTC."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 623: Chi phí sử dụng máy thi công là:",
+    "answer": ". 6"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Trong doanh nghiệp kinh doanh du lịch, dịch vụ giá vốn của dịch vụ là:",
+    "answer": "Giá thành sản xuất"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Phí giám định của hải quan về hàng xuất khẩu ủy thác bên nhận ủy thác đã chi hộ bằng tiền mặt, kế toán bên giao ủy thác ghi:",
+    "answer": "Nợ TK 641/Có TK 3388"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Chi phí sản xuất chung cho hoạt động kinh doanh giặt là bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Công ty A nhập khẩu sàn gỗ về nhập kho, với trị giá mua là 35.000 USD, Công ty đã thanh toán toàn bộ cho người bán bằng chuyển khoản. Tỷ giá giao dịch thực tế là 22,4/1USD, tỷ giá ghi sổ tài khoản tiền gửi ngân hàng là 22/1USD. Kế toán ghi:",
+    "answer": "Nợ TK 156: 784.000\nCó TK 1122: 770.000\nCó TK 515: 14.000"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Các khoản trích theo lương của công nhân lái máy và phụ máy thi công được hạch toán vào",
+    "answer": ". Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Nếu doanh nghiệp tính thuế giá trị gia tăng theo phương pháp khấu trừ và hàng hóa nhập khẩu thuộc đối tượng chịu thuế giá trị gia tăng thì thuế giá trị gia tăng của hàng nhập khẩu được ghi:",
+    "answer": "Nợ TK 133/Có TK 33312"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Khi công trình hoàn thành bàn giao cho chủ đầu tư, giá thành công trình được hạch toán vào bên:",
+    "answer": ". Nợ TK 632"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Ưu điểm của phương pháp bình quân sau mỗi lần nhập",
+    "answer": "Phản ánh số liệu xuất kho hàng hóa kịp thời và chính xác."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Số dư bên Có TK 337: Thanh toán theo tiến độ kế hoạch hợp đồng xây dựng, phản ánh:",
+    "answer": ". Chênh lệch doanh thu ghi nhận của hợp đồng < Số tiền đã thu theo kế hoạch của khách hàng"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Phí giám định của hải quan về hàng xuất khẩu ủy thác chi hộ bên giao ủy thác bằng tiền mặt, kế toán ghi:",
+    "answer": "Nợ TK 1388 và Có TK 111"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Tiền thưởng cho đội xây dựng do vượt mức quy định về thời gian và chất lượng được hạch toán vào:",
+    "answer": ". Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Các khoản giảm trừ doanh thu bao gồm",
+    "answer": "Tất cả các đáp án trên."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh vận chuyển bao gồm:",
+    "answer": "Các loại nhiên liệu"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Khi tỷ giá ngoại tệ giảm thì kết quả kinh doanh của hoạt động lưu chuyển hàng hóa nhập khẩu:",
+    "answer": "tăng."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Theo TT200/2014/TT/BTC, tài khoản nào sau đây không được sử dụng trong doanh nghiệp xây lắp:",
+    "answer": ". TK 631"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Chi phí ngoài sản xuất bao gồm",
+    "answer": "CP quản lý doanh nghiệp"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh hướng dẫn du lịch bao gồm:",
+    "answer": "B và C"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Công ty A nhập khẩu một lô hàng hóa đã nhập kho, giá mua 30.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế tiêu thụ đặc biệt 25%, thuế suất thuế giá trị gia tăng của lô hàng là 10%. Biết tỷ giá giao dịch thực tế trong ngày là 22.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 22.200 đồng/1USD. Số thuế giá trị gia tăng phải nộp của lô hàng là:",
+    "answer": "99.900.000 đồng"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Chi phí nhân công trực tiếp cho hoạt động kinh doanh matxa bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Tập hợp chi phí sản xuất để giúp cho việc:",
+    "answer": "Xác định kết quả kinh doanh"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Các khoản chi phí liên quan đến hàng xuất khẩu ủy thác chi hộ bên giao ủy thác đã được thanh toán bằng chuyển khoản, kế toán ghi:",
+    "answer": "Nợ TK 112 và Có TK 1388"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Hàng chuyển đi xuất khẩu theo giá POB đã hoàn thành thủ tục hải quan và rời cảng, kế toán phản ánh trị giá vốn của lô hàng này ghi:",
+    "answer": "Nợ TK 632/Có TK 157"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Tập hợp Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh hàng ăn ghi:",
+    "answer": "A+ B+ C"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Công ty Q thanh toán tiền hàng xuất khẩu ủy thác cho Công ty P bằng chuyển khoản 20.000 USD. Tỷ giá giao dịch thực tế trong ngày 22,2/USD, tỷ giá ghi sổ ngoại tệ tiền gửi là 22/USD, tỷ giá ghi sổ công nợ là 22,4. Kế toán tại Công ty Q ghi:",
+    "answer": "Nợ TK 3388P: 448.000\nCó TK 1122: 440.000\nCó TK 515: 8.000"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Chi phí sản xuất chung cho hoạt động kinh doanh vận chuyển bao gồm:",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Thuế nhập khẩu phải nộp được doanh nghiệp tính vào:",
+    "answer": "giá thực tế của hàng nhập khẩu."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Chi phí thu mua phát sinh liên quan đến hàng nhập khẩu được tính vào:",
+    "answer": "giá trị hàng nhập khẩu."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Doanh thuần được tính theo công thức nào?",
+    "answer": "A - B"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Chi phí bảo hành công trình phát sinh do doanh nghiệp tự làm được ghi nhận:",
+    "answer": ". TK 621,622,627"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Chi phí sản xuất chung cho hoạt động kinh doanh matxa bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Khi doanh nghiệp nộp thuế xuất khẩu bằng chuyển khoản VNĐ. kế toán sẽ ghi:",
+    "answer": "Nợ TK 3333/Có TK 112"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Sản phẩm ngành du lịch, dịch vụ có đặc điểm:",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Nội dung kinh tế của định khoản “ Nợ TK 3387/Có TK 511” có thể là:",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Phí ủy thác xuất khẩu nhận được từ đơn vị giao ủy thác bằng tiền mặt, kế toán ghi:",
+    "answer": "Nợ TK 111/Có TK 511, 3331"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Chi phí bốc xếp, kiểm định hàng hóa xuất khẩu ủy thác đã chi hộ bên giao ủy thác bằng tiền mặt 20.000. Kế toán ghi:",
+    "answer": "Nợ TK 1388/Có TK 1111: 20.000"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Khi mua hàng hóa, khoản chiết khấu thương mại, giảm giá hàng mua được hưởng hay giá trị hàng mua bị trả lại sẽ:",
+    "answer": "Làm giảm giá thực tế nhập kho hàng hóa"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Phí ủy thác nhập khẩu phải trả bên nhận ủy thác được tính vào:",
+    "answer": "trị giá hàng nhập khẩu."
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Giá mua của hàng nhập khẩu (CIF) được quy đổi ra tiền Việt Nam để ghi sổ kế toán theo:",
+    "answer": "tỷ giá thực tế của Ngân hàng thương mại tại thời điểm phát sinh giao dịch."
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Doanh nghiệp thương mại nội thương được tổ chức theo mô hình",
+    "answer": "Cả ba mô hình trên"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh giặt là bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Hàng hóa nhập khẩu đã tiếp nhận nhập kho, chưa thanh toán cho người xuất khẩu, kế toán sẽ ghi:",
+    "answer": "Nợ TK 156/Có TK 331"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Tiền ăn ca của quản lý doanh nghiệp được hạch toán vào",
+    "answer": ". Chi phí quản lý doanh nghiệp"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Khi nhận được hóa đơn bán hàng của bên bán nhưng chưa nhận được hàng hóa, kế toán sẽ:",
+    "answer": "Lưu hóa đơn vào tập hồ sơ “Hàng mua đang đi đường”"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Chi phí thuế thu nhập doanh nghiệp bằng:",
+    "answer": "Thu nhập chịu thuế* thuế suất"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Khi doanh nghiệp nhận hàng khuyến mại hộ nhà sản xuất. Kế toán sẽ:",
+    "answer": "Theo dõi chi tiết trên hệ thống quản trị nội bộ và thuyết minh trên BCTC."
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Hàng hóa nhập khẩu đã tiếp nhận chưa thanh toán cho người xuất khẩu, giao trực tiếp cho người mua, kế toán sẽ ghi:",
+    "answer": "Nợ TK 632/Có TK 331"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Công ty A nhập khẩu một tài sản cố định HH đưa ngay vào sử dụng, giá mua 20.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế giá trị gia tăng của tài sản cố định là 10%. Biết tỷ giá giao dịch thực tế trong ngày là 22.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 22.200 đồng/1USD. Xác định và phản ánh số thuế nhập khẩu phải nộp, kế toán ghi:",
+    "answer": "Nợ TK 211/Có TK 3333: 88.800.000"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Tiền lương của phụ hồ trong doanh nghiệp xây lắp được hạch toán vào:",
+    "answer": ". Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Công ty Q thanh toán tiền hàng xuất khẩu ủy thác cho Công ty P bằng chuyển khoản 20.000 USD. Tỷ giá giao dịch thực tế trong ngày 22,2/USD, tỷ giá ghi sổ ngoại tệ tiền gửi là 22/USD, tỷ giá ghi sổ công nợ là 22,4. Kế toán tại Công ty P ghi:",
+    "answer": "Nợ TK 1122: 444.000\nNợ TK 635: 4.000\nCó TK 131Q: 448.000"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Tiền ăn ca của công nhân lái máy và phụ máy được hạch toán vào",
+    "answer": ". Chi phí sản xuất chung"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Chi phí nhân công trực tiếp cho hoạt động kinh doanh matxa bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Chi phí sản xuất chung cho hoạt động kinh doanh hàng ăn bao gồm:",
+    "answer": "A+B+C+D"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Phản ánh phí hoa hồng ủy thác nhập khẩu hàng hóa phải trả bên nhận ủy thác, kế toán ghi:",
+    "answer": "Nợ TK 156, 133/Có TK 331"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Để khuyến khích người mua thanh toán tiền hàng nhanh, doanh nghiệp sẽ:",
+    "answer": "Cho khách hàng hưởng chiết khấu thanh toán."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Nếu hợp đồng ủy thác quy định các chi phí liên quan đến hàng xuất khẩu do bên nhận ủy thác chịu thì các chi phí này bên nhận ủy thác sẽ ghi:",
+    "answer": "tăng chi phí bán hàng."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Tập hợp Chi phí sản xuất chung cho hoạt động kinh doanh buồng ngủ kế toán ghi:",
+    "answer": "A + B + C+ D"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Theo hợp đồng ủy thác đã ký, phí hoa hồng ủy thác xuất khẩu 6% tính trên giá xuất khẩu 50.000 USD (đã bao gồm cả thuế GTGT 10%). Tỷ giá giao dịch thực tế trong ngày là 23,3/USD. Công ty A đã thanh toán cho Công ty B bằng chuyển khoản VNĐ. Kế toán tại Công ty A định khoản:",
+    "answer": "Nợ TK 641: 63.545,5\nNợ TK 133: 6.354,5\nCó TK 1121: 69.900"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Phí giám định của hải quan về hàng xuất khẩu ủy thác chi hộ bên giao ủy thác bằng tiền mặt, kế toán ghi:",
+    "answer": "Nợ TK 1388 và Có TK 111"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Khi nhận bàn giao khối lượng xây lắp của nhà thầu phụ nhưng chưa được coi là tiêu thụ, kế toán hạch toán giá trị khối lượng xây lắp vào:",
+    "answer": ". Chi phí sản xuất kinh doanh dở dang"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Phí giám định của hải quan về hàng xuất khẩu ủy thác bên nhận ủy thác đã chi hộ bằng tiền mặt, kế toán bên giao ủy thác ghi:",
+    "answer": "Nợ TK 641/Có TK 3388"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Tiền mua bảo hiểm công trình tại các doanh nghiệp xây lắp được hạch toán vào:",
+    "answer": ". TK 627"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Khi xuất khẩu hàng hóa theo hợp đồng FOB, rủi ro về hàng hóa xuất khẩu chỉ được chuyển giao cho người mua khi:",
+    "answer": "hàng hóa được xếp qua lan can tàu tại cảng đi."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Tập hợp Chi phí sản xuất chung cho hoạt động kinh doanh giặt là kế toán ghi:",
+    "answer": "Nợ TK 627"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh hướng dẫn du lịch bao gồm:",
+    "answer": "B và C"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Phí giám định của hải quan về hàng nhập khẩu ủy thác chi hộ bên giao ủy thác bằng tiền mặt, kế toán ghi:",
+    "answer": "Nợ TK 1388 và Có TK 111"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Phản ánh phí hoa hồng ủy thác xuất khẩu phải trả bên nhận ủy thác, kế toán ghi:",
+    "answer": "Nợ TK 641, 133/Có TK 331"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Công ty A tính thuế giá trị gia tăng theo phương pháp khấu trừ, nhập khẩu một tài sản cố định HH đưa ngay vào sử dụng, giá mua 20.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế giá trị gia tăng của tài sản cố định là 10%. Biết tỷ giá giao dịch thực tế trong ngày là 22.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 22.200 đồng/1USD. Xác định và phản ánh số thuế giá trị gia tăng phải nộp, kế toán ghi:",
+    "answer": "Nợ TK 133/Có TK 33312: 53.280.000"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Trường hợp thanh toán theo tiến độ kế hoạch hợp đồng xây dựng, khi đến hạn thu tiền, kế toán xuất hóa đơn cho khách hàng theo giá là:",
+    "answer": ". Số tiền thanh toán theo tiến độ đã ghi trên hợp đồng"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Công ty A nhập khẩu một lô hàng hóa đã nhập kho, giá mua 30.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế tiêu thụ đặc biệt 25%, thuế suất thuế giá trị gia tăng của lô hàng là 10%. Biết tỷ giá giao dịch thực tế trong ngày là 22.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 22.200 đồng/1USD. Số thuế giá trị gia tăng phải nộp của lô hàng là:",
+    "answer": "99.900.000 đồng"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Chức năng của hoạt động kinh doanh thương mại nội địa là:",
+    "answer": "Phân phối và lưu thông hàng hóa trong phạm vi một quốc gia"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Tài khoản 157-Hàng gửi bán dùng để phản ánh nội dung nào?",
+    "answer": "Tất cả các đáp án trên."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Khi công trình hoàn thành bàn giao cho chủ đầu tư, giá thành công trình được hạch toán vào bên:",
+    "answer": ". Nợ TK 632"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Khi tỷ giá ngoại tệ tăng thì kết quả kinh doanh của hoạt động xuất khẩu:",
+    "answer": "tăng."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Trường hợp đơn vị xây lắp tự tiến hành bảo hành công trình, toàn bộ giá trị vật liệu trực tiếp cho việc bảo hành được hạch toán vào:",
+    "answer": ". Nợ TK 621"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Trường hợp máy thi công thuê ngoài thì chi phí thuê máy thi công được hạch toán vào:",
+    "answer": ". Chi phí sử dụng máy thi công"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Phí ủy thác xuất khẩu phải trả bên nhận ủy thác được tính vào:",
+    "answer": "chi phí bán hàng."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Khi kết thúc hợp đồng xây dựng, phế liệu thu hồi được bán ngay thì giá bán phế liệu được hạch toán vào bên:",
+    "answer": ". Có TK 154"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Khi xuất khẩu hàng hóa theo hợp đồng FOB, doanh nghiệp xuất khẩu phải chịu các rủi ro liên quan đến hàng hóa cho đến thời điểm:",
+    "answer": "hàng hóa được xếp qua lan can tàu tại cảng đi."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Công ty A chuyển tiền cho Công ty B 530.000 đồng bằng chuyển khoản VND để nhờ nộp các khoản thuế liên quan đến hàng nhập khẩu ủy thác. Kế toán tại Công ty B ghi:",
+    "answer": "Nợ TK 1121/Có TK 3388A: 530.000"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Công ty B phát hành hóa đơn GTGT về hoa hồng ủy thác cho Công ty A. Theo hợp đông ủy thác đã ký, phí hoa hồng ủy thác xuất khẩu 6% tính trên giá xuất khẩu 50.000USD (đã bao gồm cả thuế GTGT 10%). Tỷ giá giao dịch thực tế 23,3/USD. Kế toán tại Công ty B định khoản:",
+    "answer": "Nợ TK 131A: 69.900\nCó TK 511: 63.545,5\nCó TK 33311: 6.354,5"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Thuế giá trị gia tăng của hàng nhập khẩu được tính trên:",
+    "answer": "giá nhập khẩu + thuế nhập khẩu + thuế tiêu thụ đặc biệt. của hàng nhập khẩu phải nộp."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Khi tỷ giá ngoại tệ tăng thì kết quả kinh doanh của hoạt động lưu chuyển hàng hóa nhập khẩu:",
+    "answer": "giảm."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Nghiệp vụ hàng mua trả lại cho người bán. Kế toán sẽ:",
+    "answer": "Ghi giảm giá trị và số lượng hàng hóa của DN."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 623: Chi phí sử dụng máy thi công là:",
+    "answer": ". 6"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Tổng lợi nhuận kế toán trước thuế TNDN",
+    "answer": "B+C"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Khi xuất kho một lô thành phẩm để chuyển đi xuất khẩu. Kế toán ghi:",
+    "answer": "Nợ TK 157/Có TK 155"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh matxa bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Khi nào phản ánh hàng mua đang đi đường của doanh nghiệp tăng?",
+    "answer": "Nhận được hóa đơn trước, cuối tháng hàng của hóa đơn đó chưa về."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Phương pháp bình quân sau mỗi lần nhập được áp dụng",
+    "answer": "Cho các nghiệp vụ xuất kho trước lần nhập kho hàng hóa tiếp theo."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Lợi nhuận khác bằng:",
+    "answer": "A-B"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Hoa hồng ủy thác nhập khẩu nguyên vật liệu phải trả cho công ty M theo tổng giá thanh toán (bao gồm cả thuế giá trị gia tăng 10%) là 55.000, kế toán ghi",
+    "answer": "Nợ TK 152: 50.000\nNợ TK 133: 5.000\nCó TK 331M: 55.000"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Nếu hợp đồng quy định các chi phí liên quan đến hàng nhập khẩu do bên nhận ủy thác chịu thì các chi phí này bên nhận ủy thác sẽ hạch toán:",
+    "answer": "Nợ TK 641/Có TK liên quan"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Khi tỷ giá ngoại tệ giảm thì kết quả kinh doanh của hoạt động xuất khẩu:",
+    "answer": "giảm."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Khi mua hàng hóa, chi phí thu mua phát sinh",
+    "answer": "Làm tăng giá thực tế nhập kho hàng hóa"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Chi tiền mặt thanh toán cho đơn vị nhận ủy thác về các khoản chi phí liên quan đến hàng xuất khẩu ủy thác mà bên nhận ủy thác đã chi hộ, kế toán ghi:",
+    "answer": "Nợ TK 3388 và Có TK 111"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Công ty A nhập khẩu một lô hàng hóa đã nhập kho, giá mua 30.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế tiêu thụ đặc biệt 25%, thuế suất thuế giá trị gia tăng của lô hàng là 10%. Biết tỷ giá giao dịch thực tế trong ngày là 22.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 22.200 đồng/1USD. Số thuế tiêu thụ đặc biệt phải nộp của lô hàng là:",
+    "answer": "199.800.000"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Chi phí sản xuất chung cho hoạt động kinh doanh vận chuyển bao gồm:",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh hàng uống bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Phí ủy thác nhập khẩu phải trả bên nhận ủy thác được tính vào:",
+    "answer": "trị giá hàng nhập khẩu."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Hàng chuyển đi xuất khẩu theo giá POB đã hoàn thành thủ tục hải quan và rời cảng, kế toán phản ánh trị giá vốn của lô hàng này ghi:",
+    "answer": "Nợ TK 632/Có TK 157"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Tiền lương phải trả cho đội trưởng đội thi công được hạch toán vào:",
+    "answer": ". Chi phí sản xuất chung"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Các khoản giảm doanh thu bao gồm",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Theo TT200/2014/TT/BTC, tài khoản nào sau đây không được sử dụng trong doanh nghiệp xây lắp:",
+    "answer": ". TK 631"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Chi phí nhân công trực tiếp cho hoạt động kinh doanh giặt là bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Công ty A nhập khẩu sàn gỗ về nhập kho, với trị giá mua là 35.000 USD, Công ty đã thanh toán toàn bộ cho người bán bằng chuyển khoản. Tỷ giá giao dịch thực tế là 22,4/1USD, tỷ giá ghi sổ tài khoản tiền gửi ngân hàng là 22/1USD. Kế toán ghi:",
+    "answer": "Nợ TK 156: 784.000\nCó TK 1122: 770.000\nCó TK 515: 14.000"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Tập hợp chi phí sản xuất để giúp cho việc:",
+    "answer": "Xác định kết quả kinh doanh"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Khi tạm ứng cho các đối tượng nhận khoán nội bộ, phần tạm ứng được kế toán ghi:",
+    "answer": ". Có TK Tam ứng chi phí xây lắp nội bộ (1413)"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Thuế nhập khẩu và thuế tiêu thụ đặc biệt phải nộp khi nhập khẩu hàng hóa được quy đổi ra tiền Việt Nam theo:",
+    "answer": "tỷ giá quy định của Hải quan."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Trường hợp hàng hóa mua về bao gồm cả thiết bị, phụ tùng thay thế. Giá trị của thiết bị, phụ tùng thay thế sẽ được ghi nhận như thế nào?",
+    "answer": "Ghi riêng vào mục thiết bị, phụ tùng thay thế theo trị hợp lý của thiết bị, phụ tùng."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Khi bán hàng theo phương thức trả chậm, trả góp, doanh thu bán hàng sẽ ghi nhận theo:",
+    "answer": "Theo giá trả ngay."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Nếu doanh nghiệp được hưởng chiết khấu thanh toán thì kế toán sẽ ghi nhận khoản chiết khấu này như thế nào?",
+    "answer": "Ghi tăng doanh thu tài chính."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Trong doanh nghiệp kinh doanh du lịch, dịch vụ giá vốn của dịch vụ là:",
+    "answer": "Giá thành sản xuất"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Chi tiền mặt thanh toán cho đơn vị nhận ủy thác về các khoản chi phí liên quan đến hàng nhập khẩu bên nhận ủy thác đã chi hộ, kế toán ghi:",
+    "answer": "Nợ TK 3388 và Có TK 111"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Tiền mua bảo hiểm máy thi công tại các doanh nghiệp xây lắp được hạch toán vào:",
+    "answer": ". TK 623"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Trường hợp từng đội xây lắp có máy thi công riêng, chi phí liên quan đến máy thi công hạch toán vào",
+    "answer": ". Chi phí sử dụng máy thi công"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Hoa hồng ủy thác xuất khẩu phải trả cho Công ty M theo tổng giá thanh toán (bao gồm cả thuế GTGT 10%) là 165.000, kế toán ghi:",
+    "answer": "Nợ TK 641: 150.000\nNợ TK 133: 15.000\nCó TK 331M: 165.000"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Theo hợp đông ủy thác đã ký, phí hoa hồng ủy thác xuất khẩu 6% tính trên giá xuất khẩu 50.000 USD (đã bao gồm cả thuế GTGT 10%). Tỷ giá giao dịch thực tế trong ngày là 23,3/1USD. Công ty A đã thanh toán cho Công ty B bằng chuyển khoản VNĐ. Kế toán tại Công ty B định khoản:",
+    "answer": "Nợ TK 1121: 69.900\nCó TK 511: 63.545,5\nCó TK 33311: 6.354,5"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Công ty A tính thuế GTGT theo phương pháp khấu trừ, nhập khẩu một tài sản cố định đưa vào sử dụng, giá mua 30.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế giá trị gia tăng của tài sản cố định là 10%. Chi phí vận chuyển 6.000.000 đồng. Biết tỷ giá giao dịch thực tế trong ngày là 23.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 23.200 đồng/1USD. Giá trị tài sản cố định này được xác định là:",
+    "answer": "844.200.000 đồng"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Chi phí ngoài sản xuất bao gồm",
+    "answer": "CP quản lý doanh nghiệp"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Giá vốn của lượng hàng gửi bán được chấp nhận được kế toán ghi sổ:",
+    "answer": "Nợ TK 632/Có TK 157"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Khi mua hàng theo phương thức trả chậm, trả góp. Tổng số tiền phải thanh toán theo phương thức này sẽ:",
+    "answer": "Nhiều hơn số tiền thanh toán theo phương thức mua trả ngay."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Lợi nhuận gộp được tính:",
+    "answer": "B - C"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Trường hợp đơn vị xây lắp tự tiến hành bảo hành công trình, tiền lương của công nhân trực tiếp cho việc bảo hành được hạch toán vào:",
+    "answer": ". Nợ TK 622"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Các khoản chi phí liên quan đến hàng nhập khẩu ủy thác chi hộ bên giao ủy thác đã được thanh toán bằng chuyển khoản, kế toán ghi:",
+    "answer": "Nợ TK 112 và Có TK 1388"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Thuế xuất khẩu phải nộp được doanh nghiệp ghi:",
+    "answer": "giảm doanh thu xuất khẩu."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Trường hợp doanh nghiệp có tổ chức đội máy thi công riêng và hạch toán riêng, chi phí liên quan đến máy thi công hạch toán vào:",
+    "answer": ". TK 621,622,627"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Tập hợp Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh giặt là ghi:",
+    "answer": "B+C"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Tập hợp Chi phí nguyên vật liệu trực tiếp cho hoạt động kinh doanh giặt là ghi:",
+    "answer": "Nợ TK 1388/Có TK 1111: 20.000"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Chi phí sản xuất chung cho hoạt động kinh doanh matxa bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Khi mua hàng theo phương thức trả chậm, trả góp. Số tiền phải thanh toán tại thời điểm mua theo phương thức này sẽ:",
+    "answer": "Ít hơn số tiền thanh toán theo phương thức mua trả ngay."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Lợi nhuận thuần từ hoạt động kinh doanh bằng:",
+    "answer": "A+B-C-D-E"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Nội dung kinh tế của định khoản “ Nợ TK 156/Có TK 157” có thể là:",
+    "answer": "Cả A và B."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Tập hợp chi phí sản xuất để giúp cho việc:",
+    "answer": "Tính giá thành sản phẩm"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Nguyên vật liệu nhập khẩu đã tiếp nhận nhập kho chưa thanh toán cho người xuất khẩu, kế toán sẽ ghi:",
+    "answer": "Nợ TK 152/Có TK 331"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Lợi nhuận sau thuế TNDN bằng:",
+    "answer": "B-C"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Giá trị phế liệu thu hồi nhập kho khi kết thúc hợp đồng xây dựng được hạch toán vào bên:",
+    "answer": ". Có TK 154"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Đối với những hoạt động luân chuyển hàng hóa nội bộ. Việc ghi nhận doanh thu sẽ:",
+    "answer": "Tùy theo đặc điểm hoạt động, phân cấp quản lý của từng đơn vị, DN tự quyết định."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Chi phí nhân công trực tiếp cho hoạt động kinh doanh hàng ăn bao gồm:",
+    "answer": "A+B+C"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Phí ủy thác xuất khẩu nhận được từ đơn vị giao ủy thác bằng tiền mặt, kế toán ghi:",
+    "answer": "Nợ TK 111/Có TK 511, 3331"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Công ty A chuyển tiền cho Công ty B 650.000 bằng chuyển khoản VND để nhờ nộp các khoản thuế liên quan đến hàng xuất khẩu ủy thác. Kế toán tại Công ty A ghi:",
+    "answer": "Nợ TK 1388B/Có TK 1121: 650.000"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Công ty A nhập khẩu một tài sản cố định đưa ngay vào sử dụng, giá mua 20.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế giá trị gia tăng của tài sản cố định là 10%. Biết tỷ giá giao dịch thực tế trong ngày là 23.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 23.200 đồng/1USD. Số thuế giá trị gia tăng phải nộp của tài sản cố định này là:",
+    "answer": "55.680.000 đồng"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Khi thanh toán bổ sung cho các đối tượng nhận khoán nội bộ (trường hợp đơn vị nhận khoán không tổ chức bộ máy kế toán riêng), kế toán ghi:",
+    "answer": ". Nợ TK Tam ứng chi phí xây lắp nội bộ (1413)"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Các khoản trích theo lương của công nhân lái máy và phụ máy thi công được hạch toán vào",
+    "answer": ". Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Trường hợp sản phẩm xây lắp hoàn thành chờ bán hoặc chưa bàn giao, giá thành sản phẩm được ghi vào bên:",
+    "answer": ". Nợ TK 155"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Nếu doanh nghiệp được hưởng chiết khấu thương mại thì kế toán sẽ ghi nhận khoản chiết khấu này như thế nào?",
+    "answer": "Ghi giảm giá trị hàng hóa mua về nếu hàng còn trong kho hoặc giảm giá vốn hàng bán nếu hàng đã tiêu thụ."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Chi phí sản xuất chung cho hoạt động kinh doanh hàng uống bao gồm:",
+    "answer": "A+B+C+D"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Nếu đơn vị xây lắp thuê các doanh nghiệp khác tiến hành bảo hành công trình, toàn bộ tiền bảo hành phải trả được ghi:",
+    "answer": ". Nợ TK 6415"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Giá trị vật liệu chính xuất thi công không sử dụng hết nhập kho khi kết thúc hợp đồng xây dựng được hạch toán vào bên:",
+    "answer": ". Có TK 154"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Khi hoàn thành bảo hành công trình xây lắp, phần chi phí thực tế bảo hành nhó hơn số dự phòng trích trước thì phần chên lệch được hạch toán vào bên :",
+    "answer": ". Có TK 711"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Chi phí sản xuất bao gồm:",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Tiền ăn ca của công nhân trực tiếp sản xuất được hạch toán vào",
+    "answer": ". Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Công ty A nhập khẩu một thiết bị sản xuất đưa ngay vào sử dụng, giá mua 25.000 USD đã thanh toán bằng chuyển khoản. Biết tỷ giá giao dịch thực tế trong ngày là 22/USD, tỷ giá ghi sổ kế toán tài khoản tiền gửi là 22,4/USD. Kế toán ghi:",
+    "answer": "Nợ TK 211: 550.000\nNợ TK 635: 10.000\nCó TK 1122: 560.000"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Ưu điểm của phương pháp bình quân sau mỗi lần nhập",
+    "answer": "Phản ánh số liệu xuất kho hàng hóa kịp thời và chính xác."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Khi xuất kho hàng hóa để chuyển đi xuất khẩu. Kế toán ghi:",
+    "answer": "Nợ TK 157/Có TK 156"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Công ty Q thanh toán tiền hàng xuất khẩu ủy thác cho Công ty P bằng chuyển khoản 20.000 USD. Tỷ giá giao dịch thực tế trong ngày 22,2/USD, tỷ giá ghi sổ ngoại tệ tiền gửi là 22/USD, tỷ giá ghi sổ công nợ là 22,4. Kế toán tại Công ty Q ghi:",
+    "answer": "Nợ TK 3388P: 448.000\nCó TK 1122: 440.000\nCó TK 515: 8.000"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Ưu điểm của phương pháp bình quân cả kỳ dự trữ là:",
+    "answer": "Đơn giản trong tính toán."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Khi bán hàng hóa cho khách hàng, chứng từ nào không liên quan đến nghiệp vụ bán hàng hóa?",
+    "answer": "Phiếu nhập kho."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Khi bán hàng hóa cho khách hàng, chứng từ nào không liên quan đến nghiệp vụ bán hàng hóa?",
+    "answer": "Lương, khoản trích theo lương, hoa hồng theo tour của hướng dẫn viên"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Tập hợp Chi phí nhân công trực tiếp cho hoạt động kinh doanh giặt là ghi",
+    "answer": "Nợ TK 622/Có TK 334,338"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Khi kết thúc hợp đồng xây dựng, thanh lý máy móc thiết bị thi công chuyên dùng cho hợp đồng xây dựng (TSCĐ đã khấu hao hết) thì giá bán của thiết bị được hạch toán vào bên:",
+    "answer": ". Có TK 154"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Khi chuyển bất động sản đầu tư đang cho thuê thành hàng hóa bất động sản, DN sẽ ghi tăng giá trị hàng hóa bất động sản theo:",
+    "answer": "Giá trị còn lại của BĐS đầu tư."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Chi phí bốc xếp, kiểm định hàng hóa ủy thác xuất khẩu đã được bên nhận ủy thác chi hộ bằng tiền mặt 15.000. Kế toán ghi:",
+    "answer": "Nợ TK 641/Có TK 3388: 15.000"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Công ty A chuyển tiền cho Công ty B 650.000 bằng chuyển khoản VND để nhờ nộp các khoản thuế liên quan đến hàng xuất khẩu ủy thác. Kế toán tại Công ty B ghi:",
+    "answer": "Nợ TK 1121/Có TK 3388A: 650.000"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Chênh lệch tỷ giá ngoại tệ phát sinh khi thanh toán tiền hàng nhập khẩu được hạch toán vào:",
+    "answer": "chi phí tài chính hoặc doanh thu hoạt động tài chính."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Theo hợp đông ủy thác đã ký, Công ty A chuyển 50.000 USD chuyển khoản cho Đơn vị nhận ủy thác B để nhập khẩu hàng. Tỷ giá giao dịch thực tế 22,3/1USD, tỷ giá ghi sổ ngoại tệ xuất quỹ tiền gửi 22,1/1USD. Kế toán tại Công ty A định khoản:",
+    "answer": "Nợ TK 331B: 1.115.000\nCó TK 1122: 1.105.000\nCó TK 515: 10.000"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Người mua nước ngoài (người nhập khẩu) thanh toán tiền hàng cho Công ty bằng chuyển khoản qua ngân hàng 30.000 USD. Tỷ giá thực tế trong ngày là 23,2/USD. Tỷ giá ghi sổ nợ 23/USD. Kế toán ghi:",
+    "answer": "Nợ TK 1122: 696.000\nCó TK 131: 690.000\nCó TK 515: 6.000"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Thuế nhập khẩu phải nộp được doanh nghiệp tính vào:",
+    "answer": "giá thực tế của hàng nhập khẩu."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "TK 621 Chi phí nguyên vật liệu trực tiếp có số dư:",
+    "answer": "Không có số dư"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Khi kết thúc hợp đồng xây dựng, chi phí thanh lý máy móc thiết bị thi công chuyên dùng cho hợp đồng xây dựng được hạch toán vào bên:",
+    "answer": ". Nợ TK 154"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Ngành du lịch có các hoạt động kinh doanh cơ bản sau:",
+    "answer": "Tất cả phương án trên"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Công ty A tính thuế giá trị gia tăng theo phương pháp khấu trừ, nhập khẩu một lô hàng hóa đã nhập kho, giá mua 30.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế tiêu thụ đặc biệt 25%, thuế suất thuế giá trị gia tăng của lô hàng là 10%. Biết tỷ giá giao dịch thực tế trong ngày là 22.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 22.200 đồng/1USD. Phản ánh số thuế giá trị gia tăng phải nộp của lô hàng, kế toán ghi:",
+    "answer": "Nợ TK 133/Có TK 33312: 99.900.000"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Nội dung kinh tế của định khoản “ Nợ TK 3387/Có TK 511” có thể là:",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khi doanh nghiệp nộp thuế xuất khẩu bằng chuyển khoản VNĐ. kế toán sẽ ghi:",
+    "answer": "Nợ TK 3333/Có TK 112"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Công ty A nhập khẩu một lô hàng hóa đã nhập kho, giá mua 30.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế tiêu thụ đặc biệt 25%, thuế suất thuế giá trị gia tăng của lô hàng là 10%. Biết tỷ giá giao dịch thực tế trong ngày là 22.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 22.200 đồng/1USD. Phản ánh số thuế tiêu thụ đặc biệt phải nộp của lô hàng, kế toán ghi:",
+    "answer": "Nợ TK 156/Có TK 3332: 199.800.000"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Thuế tiêu thụ đặc biệt phải nộp của hàng hóa nhập khẩu được tính vào:",
+    "answer": "giá trị hàng hóa nhập khẩu."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Lãi tiền vay dùng để ký quỹ mở L/C đã thanh toán bằng chuyển khoản được doanh nghiệp định khoản:",
+    "answer": "Nợ TK 635/Có TK 112"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Khi mua hàng hóa, khoản chiết khấu thương mại, giảm giá hàng mua được hưởng hay giá trị hàng mua bị trả lại sẽ:",
+    "answer": "Làm giảm giá thực tế nhập kho hàng hóa"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Xuất kho một lô thành phẩm giao cho Công ty B để xuất khẩu ủy thác theo trị giá vốn 400.000, xuất khẩu theo giá POB là 30.000 USD. Tỷ giá thực tế trong ngày 23/USD. Kế toán ghi:",
+    "answer": "Nợ TK 157/Có TK 155: 400.000"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Doanh thuần được tính theo công thức nào?",
+    "answer": "A - B"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Khi hoàn thành bảo hành công trình xây lắp, phần chi phí thực tế bảo hành lớn hơn số dự phòng trích trước thì phần chênh lệch được hạch toán vào bên:",
+    "answer": ".Nợ TK 632"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Chi phí thu mua phát sinh liên quan đến hàng nhập khẩu được tính vào:",
+    "answer": "giá trị hàng nhập khẩu."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Chi phí vận chuyển thuê ngoài phải trả cho số hàng hóa đã bán bị trả lại về kho doanh nghiệp được:",
+    "answer": "Ghi tăng chi phí bán hàng"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Công ty A tính thuế giá trị gia tăng theo phương pháp khấu trừ, nhập khẩu một lô hàng hóa đã nhập kho, giá mua 30.000 USD, thuế suất thuế nhập khẩu 20%, thuế suất thuế tiêu thụ đặc biệt 25%, thuế suất thuế giá trị gia tăng của lô hàng là 10%. Chi phí vận chuyển 6.000.000 đồng. Biết tỷ giá giao dịch thực tế trong ngày là 22.300 đồng/1USD, tỷ giá tính thuế của Hải quan là 22.200 đồng/1USD. Giá trị lô hàng nhập kho là:",
+    "answer": "1.008.000.000 đồng"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Chi phí bảo hành công trình phát sinh do doanh nghiệp tự làm được ghi nhận:",
+    "answer": ". TK 621,622,627"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Các khoản trích theo lương của quản lý doanh nghiệp được hạch toán vào",
+    "answer": ". Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Chênh lệch tỷ giá ngoại tệ phát sinh khi thanh toán tiền hàng xuất khẩu được hạch toán vào:",
+    "answer": "chi phí tài chính hoặc doanh thu hoạt động tài chính"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Tiền thưởng cho đội xây dựng do vượt mức quy định về thời gian và chất lượng được hạch toán vào:",
+    "answer": ". Chi phí nhân công trực tiếp"
+  }
+]

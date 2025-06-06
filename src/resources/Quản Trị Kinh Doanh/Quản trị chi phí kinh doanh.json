@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Kết quả sản xuất kinh doanh sẽ chính xác hơn khi doanh nghiệp sử dụng hệ thống",
+    "answer": "Tính chi phí kinh doanh không đầy đủ"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Mức lãi thô đơn vị sản phẩm là hiệu số của doanh thu và chi phí kinh doanh biến đổi tính trung bình cho từng đơn vị sản phẩm"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Nguyên tắc bảo toàn tài sản về mặt hiện vật được thể hiện ở bước tính chi phí kinh doanh theo loại."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Trong doanh nghiệp xét ở phương diện kỹ thuật tính toán, điểm chi phí chính là điểm tiếp nhận các chi phí được phân bổ từ các điểm chi phí phụ"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Tháng 1/2015 Công ty A mua về 1 chiếc xe ô tô đưa đón công nhân viên đi làm với giá 1,6 tỉ đồng. Thời gian khấu hao dự định 8 năm. Giá xe được dự báo năm 2015 tăng 1% rồi ổn định hàng chục năm sau đó.\nKết quả khấu hao nào sau đây chính xác?",
+    "answer": "Khấu hao đến khi thanh lý 1.616.000.000 đồng."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Tháng 1/2015 Công ty A mua về 2 tấn thép với giá 20 triệu đồng/tấn. Trong tháng 1 Công ty xuất dùng 500 kg thép loại này. Chu kỳ kinh doanh kéo dài 10 tháng; từ tháng 1/2015 giá thép ổn định từ đó đến hết năm.\nKết quả nào sau đây về chi phí kinh doanh sử dụng thép chính xác?",
+    "answer": "10.000.000 đồng."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Những khẳng định nào SAI khi chu kỳ kinh doanh là 1 tháng? trong khi giá vật liệu A tăng 1%/tháng.",
+    "answer": "Tổng chi phí kinh doanh sử dụng vật liệu ở câu này là 21,1 triệu đồng."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Phân bổ chi phí kinh doanh chung bằng chìa khóa hiện vật chính xác hơn so với chìa khóa giá trị."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Có thể hình thành các điểm chi phí ở doanh nghiệp theo các cấp sau: điểm chi phí cấp doanh nghiệp, điểm chi phí cấp phân xưởng, điểm chi phí cấp tổ sản xuất và điểm chi phí cấp nơi làm việc."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Những khoản chi phí nào dưới đây là chi phí kinh doanh của kỳ?",
+    "answer": "Trong kỳ doanh nghiệp khấu hao tài sản cố định theo kế hoạch và giá trị mua lại 100 triệu đồng."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Những khoản chi phí nào dưới đây KHÔNG phải là chi tiêu hoặc không đúng?",
+    "answer": "Tổng chi tiêu trong trường hợp này là 220 triệu đồng"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5.\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nNếu không tuân thủ nguyên tắc bảo toàn hiện vật khi tính chi phí kinh doanh phát sinh sử dụng vật liệu 1001 trong tháng 1/2014 thì kết quả nào dưới đây là về khoản lãi giả là chính xác?",
+    "answer": "10.387.282 đồng."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 2/2014 của công ty K như ở bảng sau:\nCả tháng Công ty K sử dụng 57.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.800 đồng/kw, dự báo tháng từ 3/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng có giá trị 140 triệu đồng.\nDự báo giá cả thị trường vật liệu như sau: giá vật liệu 001 ổn định; giá loại vật liệu 002 tăng 2%/1 tháng; giá loại vật liệu 003 tăng 1%/tháng và giá loại vật liệu 004 tăng 3% sau 5 tháng. Chỉ số giá cả các loại vật liệu phụ là + 0,5%/tháng. Chu kì kinh doanh của Công ty kéo dài 5 tháng.\nTổn thất do mất mát trong quá trình lưu kho hàng tháng vật liệu 001 là 0,2 tấn; vật liệu 002 là 2m2 và vật liệu phụ ước tính hàng năm là 53,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nKhẳng định nào sau đây chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vật liệu 004 trong tháng 2/2014 là 233.398.000 đồng."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKết quả nào dưới đây về chi phí kinh doanh vật liệu để sản xuất sản phẩm tháng 1/2014 là chính xác?",
+    "answer": "207.050.286 đồng."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Những khoản chi phí nào dưới đây KHÔNG là chi phí kinh doanh nhưng là chi phí tài chính của kỳ?",
+    "answer": "Trong kỳ doanh nghiệp khấu hao theo qui định của cơ quan thuế 100 triệu đồng."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu bạn tính chi phí kinh doanh khấu hao xà lan cho từng tháng của năm 2015 theo phương pháp bậc nhất theo kết quả nhưng không tuân thủ nguyên tắc bảo toàn tài sản về hiện vật đã gây ra khoản “lãi giả” là bao nhiêu?",
+    "answer": "1.318.914 đồng."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Khi hình thành các điểm chi phí ở doanh nghiệp theo không gian hoạt động phải căn cứ vào sự chia cắt về không gian."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Trong doanh nghiệp, quyết định nào là quyết định trong marketing",
+    "answer": "Quyết định chấp nhận bán sản phẩm ngay cả ở mức giá thấp hơn bình thường"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Những khoản nào dưới đây KHÔNG phải là chi tiêu?",
+    "answer": "Xuất kho 1.000 kg vật tư B để sản xuất với giá mua lại 50.000 đồng/kg."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Những mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh chế biến thông tin kinh tế bên trong theo yêu cầu của bộ máy quản trị doanh nghiệp."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Những khoản chi phí kinh doanh không trùng chi phí tài chính nào dưới đây được tính KHÔNG đúng?",
+    "answer": "Tiền trả lãi cho số vốn doanh nghiệp vay ngoài là 5 triệu đồng; tính chi phí kinh doanh sử dụng vốn là 5 triệu đồng."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Một dây chuyền sản xuất gạch với 10 công nhân; trong đó thực hiện nhiệm vụ trộn đất (bằng máy trộn) do 5 công nhân, cắt và phơi gạch (bằng máy cắt và tự động chuyển gạch ra khu vực phơi) do 5 công nhân phục vụ.\nMệnh đề nào dưới đây chính xác?",
+    "answer": "Cần hình thành ở dây chuyền sản xuất gạch 1 bảng tính chi phí kinh doanh trong đó có 2 cột gắn với 2 điểm chi phí chính"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Tháng 1/2015 Công ty A mua về 2 tấn thép với giá 20 triệu đồng/tấn. Trong tháng 1 Công ty xuất dùng 500 kg thép loại này. Chu kỳ kinh doanh kéo dài 1 tháng; giá thép ổn định qua chu kỳ kinh doanh.\nKết quả nào sau đây về chi phí kinh doanh sử dụng thép chính xác?",
+    "answer": "10.000.000 đồng."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?",
+    "answer": "Tính chi phí kinh doanh ra đời do ý muốn chủ quan của bộ máy quản trị."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây KHÔNG thuộc nhiệm vụ của tính chi phí kinh doanh?",
+    "answer": "Cung cấp thông tin để kiểm tra, kiểm soát các hoạt động kinh doanh của doanh nghiệp xem có đúng pháp luật về quản lý kinh tế không."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong 1 tháng như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 3 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKhẳng định nào sau đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vật liệu 1002 là 7.725.000 đồng."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng dịch vụ sửa chữa tháng 10/2015 là 3.300.000 đồng."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây là đúng?",
+    "answer": "Có thể lựa chọn phương pháp tính giá thành."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Trong trường học, điểm chi phí – phòng học là điểm chi phí không gian cấp thấp nhất."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Một doanh nghiệp đang cân nhắc việc đầu tư dây truyền thiết bị mới, các chi phí tính tới thời điểm doanh nghiệp sản xuất là 11 tỉ đồng. (Giả sử chi phí cho thiết bị này không đổi). Dự báo cầu trong 4 năm đầu là: năm 1: 12.000 sản phẩm, năm 2: 9.000 sản phẩm, năm 3: 7.000 sản phẩm và năm 4: 4000 sản phẩm. Giá sản phẩm cùng loại trên thị trường là 700.000 đồng/sản phẩm. Chi phí biến đổi trung bình AVC là 120.000 đồng. Sản lượng hòa vốn của công ty là:",
+    "answer": "18.966 sản phẩm"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Chìa khoá phân bổ hiện vật phải là đơn vị đơn như kg, m2, lít… hoặc đơn vị kép như kg-giờ, m2-giờ, lít-giờ…"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi cho tháng 7/2018 thì kết quả nào sau đây đúng?",
+    "answer": "13.876.373 đồng."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Thông tin nào dưới đây là thiếu chính xác?",
+    "answer": "Tính chi phí kinh doanh tuân thủ nguyên tắc bảo toàn tài sản về mặt giá trị."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt tổ và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Có thể hình thành 6 điểm chi phí dưới điểm chi phí cấp doanh nghiệp."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Trong doanh nghiệp, điểm chi phí – phân xưởng có thể là điểm chi phí chính, cũng có thể là điểm chi phí phụ."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Trong kỳ tính toán tháng 3/2015 có các hành vi sau xuất hiện:\n- Xuất kho nguyên vật liệu để sản xuất với giá đánh giá là 50 triệu đồng trong khi giá mua chỉ là 48 triệu đồng.\n- Trả lương cho người lao động 60 triệu đồng.\n- Cháy 1 kho vật liệu gây thiệt hại là 12 triệu đồng.\nChi phí kinh doanh thực tế là:",
+    "answer": "122 triệu đồng."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây đúng cho chi phí kinh doanh không trùng chi phí tài chính?",
+    "answer": "Có thể lựa chọn phương pháp tính tiền trả lãi."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây KHÔNG chính xác khi chu kỳ kinh doanh là 1 tháng?",
+    "answer": "Tổng chi phí kinh doanh sử dụng vật liệu ở câu này là 113 triệu đồng."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây về tính chi phí kinh doanh khấu hao tài sản cố định là thiếu chính xác?",
+    "answer": "Mặc dù đã tính đủ chi phí kinh doanh khấu hao nhưng nếu tiếp tục sử dụng tài sản cố định thì vẫn tiếp tục tính khấu hao."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây là chính xác?",
+    "answer": "Hao mòn tài sản cố định là một phạm trù khách quan, không phụ thuộc vào ý muốn chủ quan của con người."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt tổ và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Chi phí vật liệu phát sinh ở các tổ may có thể là chi phí trực tiếp tuỳ theo đối tượng tính chi phí"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Một doanh nghiệp đang cân nhắc việc đầu tư dây truyền thiết bị mới, các chi phí tính tới thời điểm doanh nghiệp sản xuất là 11 tỉ đồng. (Giả sử chi phí cho thiết bị này không đổi). Dự báo cầu trong 4 năm đầu là: năm 1: 12.000 sản phẩm, năm 2: 9.000 sản phẩm, năm 3: 7.000 sản phẩm và năm 4: 4000 sản phẩm. Giá sản phẩm cùng loại trên thị trường là 700.000 đồng/sản phẩm. Chi phí biến đổi trung bình AVC là 120.000 đồng.",
+    "answer": "Công ty nên đầu tư dây truyền thiết bị này"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Tháng 1/2015 Công ty A mua về 2 tấn thép với giá 20 triệu đồng/tấn. Trong tháng 1 Công ty xuất dùng 500 kg thép loại này. Chu kỳ kinh doanh kéo dài 1 tháng; giá thép tăng 1%/1 tháng.\nKết quả nào sau đây về chi phí kinh doanh sử dụng thép chính xác?",
+    "answer": "10.100.000 đồng."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Để ban hành chính sách giá cho sản phẩm cũ, thị trường truyền thống tính chi phí kinh doanh phải cung cấp thông tin về chi phí kinh doanh biến đổi bình quân."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Một doanh nghiệp đang cân nhắc việc đầu tư dây truyền thiết bị mới, các chi phí tính tới thời điểm doanh nghiệp sản xuất là 11 tỉ đồng. (Giả sử chi phí cho thiết bị này không đổi). Dự báo cầu trong 4 năm đầu là: năm 1: 12.000 sản phẩm, năm 2: 9.000 sản phẩm, năm 3: 7.000 sản phẩm và năm 4: 4000 sản phẩm. Giá sản phẩm cùng loại trên thị trường là 700.000 đồng/sản phẩm. Chi phí biến đổi trung bình AVC là 120.000 đồng. Công ty sẽ bắt đầu có lãi vào:",
+    "answer": "Năm thứ 2"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Doanh nghiệp nên quyết định ngừng kinh doanh 1 dòng sản phẩm khi:",
+    "answer": "Giá bán sản phẩm nhỏ hơn chi phí biến đổi bình quân sản phẩm"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5.\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nNếu không tuân thủ nguyên tắc bảo toàn hiện vật khi tính chi phí kinh doanh phát sinh sử dụng vật liệu 1002 trong tháng 1/2014 thì kết quả nào dưới đây là về khoản lãi giả là chính xác?",
+    "answer": "225.000 đồng."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Những mệnh đề nào dưới đây KHÔNG đúng nếu chu kỳ kinh doanh kéo dài 2 tháng?",
+    "answer": "Tổng chi phí kinh doanh sử dụng vật liệu ở câu này là 241 triệu đồng."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 10/2014 của một doanh nghiệp như ở bảng sau:\nĐơn vị tính: 1.000 đồng\nCả tháng Doanh nghiệp sử dụng 88.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.600 đồng/kw, dự báo tháng từ 12/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng cho SX có giá trị 40 triệu đồng.\nDự báo giá cả thị trường nguyên vật liệu như sau: giá vật liệu 01 ổn định; giá loại vật liệu 02 tăng 1%/1 tháng; giá loại vật liệu 03 tăng 2%/2 tháng và giá loại vật liệu 04 tăng 3% sau 6 tháng. Chỉ số giá cả các loại vật liệu phụ là +3%/3 tháng. Chu kì kinh doanh sản phẩm đang xem xét của doanh nghiệp kéo dài 6 tháng.\nTheo kế hoạch năm 2014 công ty sẽ chi 84 triệu đồng thuê dịch vụ nâng cấp và sửa chữa nhà kho chứa vật liệu vào tháng 6/2014. Tổn thất do mất mát trong quá trình lưu kho nguyên vật liệu ước tính hàng năm là 23,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nĐánh giá giá trị vốn ngắn hạn bình quân cần thiết trong tháng là 620 triệu đồng; trong đó một nửa là vốn tự có, nửa còn lại phải vay ngân hàng. Lãi suất cho vay ngắn hạn bình quân của các ngân hàng thời kỳ này 0,8%/tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vật liệu chính trong tháng 10/2014 là 408.470.000 đồng"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh chế biến thông tin kinh tế bên trong theo yêu cầu của bộ máy quản trị doanh nghiệp."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2015 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2015 theo phương pháp khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi và giá trị vốn bình quân.\nKết quả nào dưới đây đúng?",
+    "answer": "1.749.345 đồng."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2015 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2015 theo phương pháp khấu hao giảm dần với tỉ lệ khấu hao năm không đổi và giá trị vốn bình quân.\nKết quả nào dưới đây đúng?",
+    "answer": "1.717.262 đồng."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Một doanh nghiệp tham gia đấu thầu công trình xây dựng, tính toán ban đầu cho thấy đây là dự án có khả năng sinh lợi nên doanh nghiệp đã tiến hành lập dự án hết 100 triệu đồng, chi phí quan hệ 80 triệu đồng. Sau khi đấu thầu, doanh nghiệp nhận được công trình 20 tỷ đồng. Tuy nhiên do giá vật liệu xây dựng tăng rất nhanh nên dự tính, việc xây dựng công trình hết 19,9 tỷ đồng. Giả sử công ty chỉ có 2 phương án để xem xét là nhận hay không nhận công trình này, vậy chi phí chìm là:",
+    "answer": "180 triệu đồng"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKết quả nào dưới đây có thể sử dụng để ra quyết định nếu sử dụng phương pháp khấu hao giảm dần với tỉ lệ khấu hao năm không đổi?",
+    "answer": "Chi phí kinh doanh sử dụng vốn dài hạn tháng 10/2015 là 0 đồng"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?",
+    "answer": "Thông tin về chi phí kinh doanh buộc phải là thông tin ở phạm vi toàn doanh nghiệp."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh cung cấp thông tin để xem nơi làm việc nào lãng phí nguồn lực."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh chung và chi phí kinh doanh gián tiếp là một"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Khi tính chi phí kinh doanh trực tiếp không cần chìa khóa phân bổ."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Tháng 1/2015 Công ty A mua về 2 tấn thép với giá 20 triệu đồng/tấn. Trong tháng 1 Công ty xuất dùng 500 kg thép loại này. Chu kỳ kinh doanh kéo dài 6 tháng; giá thép tăng 1%/2 tháng.\nKết quả nào sau đây về chi phí kinh doanh sử dụng thép là chính xác?",
+    "answer": "10.303.010 đồng."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Khi ra những quyết định ngắn hạn trong tình huống khó, nhà quản trị thường sử dụng thông tin nào nhiều nhất?",
+    "answer": "Chi phí kinh doanh biến đổi"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh có thể cung cấp thông tin về chi phí kinh doanh phát sinh ở từng nơi làm việc."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Tháng 1/2015 Công ty A mua về 1 chiếc xe ô tô đưa đón công nhân viên đi làm với giá 1,6 tỉ đồng. Thời gian khấu hao dự định 8 năm. Giá xe được dự báo tăng 1%/năm. Sau thanh lý phải chi thêm 10 triệu đồng để được đưa xe vào bãi rác thải công nghiệp.\nKết quả khấu hao nào sau đây chính xác?",
+    "answer": "Khấu hao đến khi thanh lý 1.742.570.730 đồng."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5.\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nNếu không tuân thủ nguyên tắc bảo toàn hiện vật khi tính chi phí kinh doanh phát sinh sử dụng vật liệu phụ trong tháng 1/2014 thì kết quả nào dưới đây là về khoản lãi giả là chính xác?",
+    "answer": "1.538.004 đồng."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi cho tháng 1/2022 thì kết quả nào sau đây đúng?",
+    "answer": "2.775.275 đồng."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu khấu hao giảm dần với tỉ lệ khấu hao năm không đổi cho tháng 7/2015 thì kết quả nào sau đây đúng?",
+    "answer": "29.680.289 đồng."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu khấu hao giảm dần với tỉ lệ khấu hao năm không đổi cho tháng 12/2015 thì kết quả nào sau đây đúng?",
+    "answer": "29.680.289 đồng."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Những mệnh đề nào dưới đây đúng khi chu kỳ kinh doanh là 1 tháng?",
+    "answer": "Sử dụng 2 tấn vật liệu B, đánh giá theo giá mua lại là 5 triệu đồng/tấn được kết quả là chi phí kinh doanh sử dụng vật liệu B là 10 triệu đồng."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Những khoản chi phí nào dưới đây là chi phí kinh doanh và đồng thời là chi phí tài chính của kỳ?",
+    "answer": "Trong kỳ báo cáo doanh nghiệp trả lương 120 triệu đồng."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Những chi phí nào dưới đây KHÔNG phải chi phí kinh doanh sử dụng lao động?",
+    "answer": "Tiền nợ lương năm trước là 120 trệu đồng."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Chọn câu trả lời đúng nhất về chi phí kinh doanh sử dụng nguyên vật liệu trực tiếp?",
+    "answer": "Là giá trị nguyên vật liệu chính, vật liệu phụ, nhiên liệu sử dụng trực tiếp cho một đối tượng tính chi phí."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh theo yêu cầu của bộ máy quản trị doanh nghiệp."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh chung và chi phí kinh doanh gián tiếp là một"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Trong doanh nghiệp, quyết định nào là quyết định đầu tư dài hạn",
+    "answer": "Quyết định mua sắm máy móc thiết bị phục vụ sản xuất"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Những khoản nào dưới đây thuộc loại chi phí kinh doanh sử dụng lao động?",
+    "answer": "Doanh nghiệp cử 10 nhân viên đi học hàm thụ tự đóng tiền học phí 15 triệu đồng/người/kỳ, doanh nghiệp chỉ hỗ trợ 5 triệu đồng/kỳ."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây KHÔNG chính xác?",
+    "answer": "Buộc phải áp dụng phương pháp trung bình khi phân bổ chi phí kinh doanh chung."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong 1 tháng như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 3 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKhẳng định nào sau đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vật liệu 1002 là 7.725.000 đồng."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu tính chi phí kinh doanh khấu hao xà lan cho từng tháng của năm 2015 theo phương pháp khấu hao bậc nhất theo thời gian thì kết quả nào sau đây đúng?",
+    "answer": "12.488.735 đồng."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong 1 tháng như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 3 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKhẳng định nào sau đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vật liệu là 207.050.285 đồng."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Khẳng định nào dưới đây là chính xác?",
+    "answer": "Tính chi phí kinh doanh cung cấp thông tin cho bộ máy quản trị doanh nghiệp."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Việc xem xét chi phí chìm có ý nghĩa với các quyết định:",
+    "answer": "Ngắn hạn"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Những chi phí nào dưới đây là chi phí kinh doanh sử dụng lao động trong kỳ tính toán (tháng)?",
+    "answer": "Tiền người lao động đóng bảo hiểm xã hội, y tế và thất nghiệp theo chế độ là 8 triệu đồng."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Những khoản chi phí nào dưới đây KHÔNG phải là chi tiêu?",
+    "answer": "Khách trả món nợ 200 triệu đồng."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2015 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2015 theo phương pháp khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi và giá trị vốn bình quân.\nKết quả nào dưới đây đúng?",
+    "answer": "1.749.345 đồng."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Tháng 1/2015 Công ty A mua về 2 tấn thép với giá 20 triệu đồng/tấn. Trong tháng 1 Công ty xuất dùng 500 kg thép loại này. Chu kỳ kinh doanh kéo dài 1 tháng; giá thép ổn định qua chu kỳ kinh doanh.\nKết quả nào sau đây về chi phí kinh doanh sử dụng thép chính xác?",
+    "answer": "10.000.000 đồng."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Những chi phí nào dưới đây KHÔNG phải chi phí kinh doanh sử dụng lao động?",
+    "answer": "Tiền trợ cấp cho 5 gia đình thuộc địa bàn phường mà công ty cam kết hỗ trợ 1 triệu đồng/gia đình."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Phân bổ chi phí kinh doanh gián tiếp bằng phương pháp dòng chảy hay được sử dụng vì đáp ứng nguyên tắc tính toán nhanh với độ chính xác cần thiết."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt tổ và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh trả lương cho từng tổ sản xuất là chi phí kinh doanh trực tiếp."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí sau, chi phí kinh doanh nào tính được trực tiếp cho từng tổ sản xuất?",
+    "answer": "Chi phí kinh doanh trả lương cho từng tổ sản xuất là chi phí kinh doanh trực tiếp."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2015 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2015 theo phương pháp khấu hao giảm dần với tỉ lệ khấu hao năm không đổi và giá trị vốn bình quân.\nKết quả nào dưới đây đúng?",
+    "answer": "1.717.262 đồng."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Một chuyền May ở Công ty A có 22 nhân viên làm việc trong tầng 1 của tòa nhà sản xuất của Công ty trong đó trưởng chuyền làm nhiệm vụ quản trị (điều hành, thống kê, tính lương…), 1 nhân viên chuyên pha cắt, 1 nhân viên vận chuyển vật liệu và bán thành phẩm từ nơi làm việc nọ sang nơi làm việc kia, 19 nhân viên may.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Cần hình thành ở chuyền May 1 điểm chi phí phụ."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Những khoản chi phí nào dưới đây là chi phí kinh doanh nhưng không là chi phí tài chính của kỳ?",
+    "answer": "Trong kỳ doanh nghiệp xuất dùng 1 tấn thép tính theo giá mua lại 20 triệu đồng."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Có thể tính chi phí kinh doanh phát sinh ra nhiều kết quả khác nhau."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKết quả nào dưới đây về chi phí kinh doanh vật liệu để sản xuất sản phẩm tháng 1/2014 là chính xác?",
+    "answer": "207.050.286 đồng."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Mức lãi thô đơn vị sản phẩm là hiệu số của doanh thu và chi phí kinh doanh biến đổi tính trung bình cho từng đơn vị sản phẩm"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh thu thập thông tin kinh tế bên trong."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 2/2014 của công ty K như ở bảng sau:\nCả tháng Công ty K sử dụng 57.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.800 đồng/kw, dự báo tháng từ 3/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng có giá trị 140 triệu đồng.\nDự báo giá cả thị trường vật liệu như sau: giá vật liệu 001 ổn định; giá loại vật liệu 002 tăng 2%/1 tháng; giá loại vật liệu 003 tăng 1%/tháng và giá loại vật liệu 004 tăng 3% sau 5 tháng. Chỉ số giá cả các loại vật liệu phụ là + 0,5%/tháng. Chu kì kinh doanh của Công ty kéo dài 5 tháng.\nTổn thất do mất mát trong quá trình lưu kho hàng tháng vật liệu 001 là 0,2 tấn; vật liệu 002 là 2m2 và vật liệu phụ ước tính hàng năm là 53,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Số lượng vật liệu 002 sử dụng trong tháng 2/2014 là 160 m2."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu bạn tính chi phí kinh doanh khấu hao xà lan cho từng tháng của năm 2015 theo phương pháp bậc nhất theo thời gian nhưng không tuân thủ nguyên tắc bảo toàn tài sản về hiện vật đã gây ra khoản “lãi giả” là bao nhiêu?",
+    "answer": "1.030.402 đồng."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5.\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKết quả nào dưới đây về chi phí kinh doanh phát sinh trong tháng 1/2014 là chính xác?",
+    "answer": "216.800.285 đồng."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 10/2014 của một doanh nghiệp như ở bảng sau:\nĐơn vị tính: 1.000 đồng\nCả tháng Doanh nghiệp sử dụng 88.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.600 đồng/kw, dự báo tháng từ 12/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng cho SX có giá trị 40 triệu đồng.\nDự báo giá cả thị trường nguyên vật liệu như sau: giá vật liệu 01 ổn định; giá loại vật liệu 02 tăng 1%/1 tháng; giá loại vật liệu 03 tăng 2%/2 tháng và giá loại vật liệu 04 tăng 3% sau 6 tháng. Chỉ số giá cả các loại vật liệu phụ là +3%/3 tháng. Chu kì kinh doanh sản phẩm đang xem xét của doanh nghiệp kéo dài 6 tháng.\nTheo kế hoạch năm 2014 công ty sẽ chi 84 triệu đồng thuê dịch vụ nâng cấp và sửa chữa nhà kho chứa vật liệu vào tháng 6/2014. Tổn thất do mất mát trong quá trình lưu kho nguyên vật liệu ước tính hàng năm là 23,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nĐánh giá giá trị vốn ngắn hạn bình quân cần thiết trong tháng là 620 triệu đồng; trong đó một nửa là vốn tự có, nửa còn lại phải vay ngân hàng. Lãi suất cho vay ngắn hạn bình quân của các ngân hàng thời kỳ này 0,8%/tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh phát sinh trong tháng 10/2014 là 653.554.000 đồng."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh chế biến thông tin kinh tế bên trong theo yêu cầu của bộ máy quản trị doanh nghiệp."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?",
+    "answer": "Thông tin về chi phí kinh doanh buộc phải là thông tin ở phạm vi toàn doanh nghiệp."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh liên quan đến sử dụng lao động có thể tính được tháng 10/2015 là 38.000.000 đồng."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt tổ và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây chính xác?",
+    "answer": "Chi phí kinh doanh trả lương vừa có khoản chi phí gián tiếp vừa có khoản chi phí trực tiếp"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Một doanh nghiệp đang cân nhắc việc đầu tư dây truyền thiết bị mới, các chi phí tính tới thời điểm doanh nghiệp sản xuất là 11 tỉ đồng. (Giả sử chi phí cho thiết bị này không đổi). Dự báo cầu trong 4 năm đầu là: năm 1: 12.000 sản phẩm, năm 2: 9.000 sản phẩm, năm 3: 7.000 sản phẩm và năm 4: 4000 sản phẩm. Giá sản phẩm cùng loại trên thị trường là 700.000 đồng/sản phẩm. Chi phí biến đổi trung bình AVC là 120.000 đồng. Công ty sẽ bắt đầu có lãi vào:",
+    "answer": "Năm thứ 2"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Chỉ có thể hình thành các điểm chi phí – trách nhiệm theo cơ cấu tổ chức của doanh nghiệp."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Những khoản chi phí nào dưới đây là chi phí tài chính của kỳ?",
+    "answer": "Trong kỳ doanh nghiệp khấu hao tài sản cố định theo qui định 100 triệu đồng."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2015 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2015 theo phương pháp khấu hao giảm dần với tỉ lệ khấu hao năm không đổi và giá trị vốn giảm dần.\nKết quả nào dưới đây đúng?",
+    "answer": "1.740.178 đồng."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây thiếu chính xác?",
+    "answer": "Chi phí kinh doanh cũng giống chi phí tài chính ở đặc điểm phải có kỳ tính toán giống nhau."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Thông tin về chi phí kinh doanh có thể là thông tin về quá khứ, hiện tại hoặc tương lai."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Những mệnh đề nào dưới đây KHÔNG đúng nếu chu kỳ kinh doanh kéo dài 2 tháng?",
+    "answer": "Tổng chi phí kinh doanh sử dụng vật liệu ở câu này là 241 triệu đồng."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2022 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch khấu hao vào tháng 4/2022 theo phương pháp khấu hao bậc nhất.\nKết quả nào dưới đây đúng?",
+    "answer": "1.875.000 đồng."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Có thể hình thành các điểm chi phí ở doanh nghiệp theo các cấp sau: điểm chi phí cấp doanh nghiệp, điểm chi phí cấp phân xưởng, điểm chi phí cấp tổ sản xuất và điểm chi phí cấp nơi làm việc."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Những khoản chi phí nào dưới đây là chi tiêu và đồng thời là chi phí tài chính của kỳ?",
+    "answer": "Trả tiền lương cho người lao động trong kỳ là 200 triệu đồng."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh khấu hao giảm dần với cơ sở khấu hao năm không đổi tháng 3/2016 là 0 đồng."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 10/2014 của một doanh nghiệp như ở bảng sau:\nĐơn vị tính: 1.000 đồng\nCả tháng Doanh nghiệp sử dụng 88.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.600 đồng/kw, dự báo tháng từ 12/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng cho sản xuất có giá trị 40 triệu đồng.\nDự báo giá cả thị trường nguyên vật liệu như sau: giá vật liệu 01 ổn định; giá loại vật liệu 02 tăng 1%/1 tháng; giá loại vật liệu 03 tăng 2%/2 tháng và giá loại vật liệu 04 tăng 3% sau 6 tháng. Chỉ số giá cả các loại vật liệu phụ là +3%/3 tháng. Chu kì kinh doanh sản phẩm đang xem xét của doanh nghiệp kéo dài 6 tháng.\nTheo kế hoạch năm 2014 công ty sẽ chi 84 triệu đồng thuê dịch vụ nâng cấp và sửa chữa nhà kho chứa vật liệu vào tháng 6/2014. Tổn thất do mất mát trong quá trình lưu kho nguyên vật liệu ước tính hàng năm là 23,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nĐánh giá giá trị vốn ngắn hạn bình quân cần thiết trong tháng là 620 triệu đồng; trong đó một nửa là vốn tự có, nửa còn lại phải vay ngân hàng. Lãi suất cho vay ngắn hạn bình quân của các ngân hàng thời kỳ này 0,8%/tháng.\nNếu không bảo toàn hiện vật sẽ tạo ra mức lãi giả là:",
+    "answer": "45.934.000 đồng."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi cho tháng 1/2019 thì kết quả nào sau đây đúng?",
+    "answer": "11.101.098 đồng."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Những khoản nào dưới đây KHÔNG phải là chi tiêu?",
+    "answer": "Khấu hao tài sản cố định trong kỳ 200 triệu đồng."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 2/2014 của công ty K như ở bảng sau:\nCả tháng Công ty K sử dụng 57.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.800 đồng/kw, dự báo tháng từ 3/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng có giá trị 140 triệu đồng.\nDự báo giá cả thị trường vật liệu như sau: giá vật liệu 001 ổn định; giá loại vật liệu 002 tăng 2%/1 tháng; giá loại vật liệu 003 tăng 1%/tháng và giá loại vật liệu 004 tăng 3% sau 5 tháng. Chỉ số giá cả các loại vật liệu phụ là + 0,5%/tháng. Chu kì kinh doanh của Công ty kéo dài 5 tháng.\nTổn thất do mất mát trong quá trình lưu kho hàng tháng vật liệu 001 là 0,2 tấn; vật liệu 002 là 2m2 và vật liệu phụ ước tính hàng năm là 53,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nKhẳng định nào sau đây là chính xác?",
+    "answer": "Số lượng vật liệu 003 sử dụng trong tháng 2/2014 là 7.700 lít."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Khẳng định nào dưới đây KHÔNG chính xác?",
+    "answer": "Có thể đánh giá được tính hiệu quả ở từng điểm chi phí ở bước tính chi phí kinh doanh theo loại."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Khi ra những quyết định ngắn hạn trong tình huống khó, nhà quản trị thường sử dụng thông tin nào nhiều nhất?",
+    "answer": "Chi phí kinh doanh biến đổi"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Phân bổ chi phí kinh doanh gián tiếp theo nguyên tắc nhân quả là tốt nhất."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Những khoản chi phí nào dưới đây là chi phí tài chính của kỳ?",
+    "answer": "Chuyển cho Sở Thuế 50 triệu đồng tiền thuế của kỳ."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2015 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2015 theo phương pháp khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi và giá trị vốn giảm dần.\nKết quả nào dưới đây đúng?",
+    "answer": "1.767.679 đồng."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Chi phí trả tiền điện 45 triệu là chi phí kinh doanh chung biến đổi"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Một doanh nghiệp đang cân nhắc việc đầu tư dây truyền thiết bị mới, các chi phí tính tới thời điểm doanh nghiệp sản xuất là 11 tỉ đồng. (Giả sử chi phí cho thiết bị này không đổi). Dự báo cầu trong 4 năm đầu là: năm 1: 12.000 sản phẩm, năm 2: 9.000 sản phẩm, năm 3: 7.000 sản phẩm và năm 4: 4000 sản phẩm. Giá sản phẩm cùng loại trên thị trường là 700.000 đồng/sản phẩm. Chi phí biến đổi trung bình AVC là 120.000 đồng. Sản lượng hòa vốn của công ty là:",
+    "answer": "18.966 sản phẩm"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5.\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nNếu không tuân thủ nguyên tắc bảo toàn hiện vật khi tính chi phí kinh doanh phát sinh sử dụng vật liệu phụ trong tháng 1/2014 thì kết quả nào dưới đây là về khoản lãi giả là chính xác?",
+    "answer": "1.538.004 đồng."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Trong doanh nghiệp xét ở phương diện kỹ thuật tính toán, điểm chi phí chính là điểm tiếp nhận các chi phí được phân bổ từ các điểm chi phí phụ"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi cho tháng 7/2018 thì kết quả nào sau đây đúng?",
+    "answer": "13.876.373 đồng."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây là chính xác?",
+    "answer": "Hao mòn tài sản cố định là một phạm trù khách quan, không phụ thuộc vào ý muốn chủ quan của con người."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Khi hình thành các điểm chi phí ở doanh nghiệp theo không gian hoạt động phải căn cứ vào sự chia cắt về không gian."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Chi phí kinh doanh buộc phải gắn với kết quả của kỳ tính toán."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Khi tính chi phí kinh doanh trực tiếp không cần chìa khóa phân bổ."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây là chính xác?",
+    "answer": "Có thể tính chi phí kinh doanh theo nhiều phương pháp khấu hao khác nhau."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh khấu hao giảm dần với tỉ lệ khấu hao năm không đổi tháng 10/2015 là 6.047.432 đồng."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Thông tin nào dưới đây là thiếu chính xác?",
+    "answer": "Tính chi phí kinh doanh tuân thủ nguyên tắc bảo toàn tài sản về mặt giá trị."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Xét nguyên lý thì trong bảng tính chi phí kinh doanh những khẳng định nào dưới đây là chính xác?",
+    "answer": "Cột chi phí kinh doanh phát sinh của bảng tính chi phí kinh doanh cấp tổ sản xuất ghi các loại chi phí kinh doanh ở cột tương ứng của bảng tính chi phí kinh doanh cấp phân xưởng."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2022 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch khấu hao vào tháng 4/2022 theo phương pháp khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi.\nKết quả nào dưới đây đúng?",
+    "answer": "416.667 đồng."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh cung cấp thông tin để xem nơi làm việc nào lãng phí nguồn lực."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Trong doanh nghiệp, điểm chi phí – phân xưởng có thể là điểm chi phí chính, cũng có thể là điểm chi phí phụ."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Tại điểm chi phí Vật tư, chi phí kinh doanh kỳ này phát sinh là 20.000.000 đồng. Nếu tính theo tỷ lệ kỳ trước thì chi phí kinh doanh phát sinh tại điểm này là 19.500.000. Vậy kỳ này, điểm chi phí này lãng phí:",
+    "answer": "500.000 đồng"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Một doanh nghiệp tham gia đấu thầu công trình xây dựng, tính toán ban đầu cho thấy đây là dự án có khả năng sinh lợi nên doanh nghiệp đã tiến hành lập dự án hết 100 triệu đồng, chi phí quan hệ 80 triệu đồng. Sau khi đấu thầu, doanh nghiệp nhận được công trình 20 tỷ đồng. Tuy nhiên do giá vật liệu xây dựng tăng rất nhanh nên dự tính, việc xây dựng công trình hết 19,9 tỷ đồng. Giả sử công ty chỉ có 2 phương án để xem xét là nhận hay không nhận công trình này. Nhận định nào sau đây chính xác?",
+    "answer": "Kết quả thực hiện dự án là doanh nghiệp bị lỗ"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Những khẳng định nào dưới đây thiếu chính xác?",
+    "answer": "Trong doanh nghiệp, điểm chi phí – tổ sản xuất là điểm chi phí - trách nhiệm cấp cao hơn điểm chi phí – phòng kinh doanh."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Tháng 1/2015 Công ty A mua về 1 chiếc xe ô tô đưa đón công nhân viên đi làm với giá 1,6 tỉ đồng. Thời gian khấu hao dự định 8 năm. Giá xe được dự báo tăng 1%/năm. Sau khi thanh lý bán chiếc xe được 200 triệu đồng.\nMệnh đề nào sau đây chính xác?",
+    "answer": "Có thể lựa chọn phương pháp khấu hao."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu bạn tính chi phí kinh doanh khấu hao xà lan cho từng tháng của năm 2015 theo phương pháp bậc nhất theo kết quả nhưng không tuân thủ nguyên tắc bảo toàn tài sản về hiện vật đã gây ra khoản “lãi giả” là bao nhiêu?",
+    "answer": "1.318.914 đồng."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng dịch vụ sửa chữa tháng 10/2015 là 3.300.000 đồng."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Những chi phí nào dưới đây KHÔNG thuộc chi phí kinh doanh sử dụng nguyên vật liệu?",
+    "answer": "Hao hụt trong kỳ 100 kg nguyên liệu A, tính thành tiền 500 nghìn đồng."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2022 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2022 theo phương pháp khấu hao bậc nhất và giá trị vốn bình quân.\nKết quả nào dưới đây đúng?",
+    "answer": "72.991 đồng."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Những khoản chi phí kinh doanh không trùng chi phí tài chính nào dưới đây được tính KHÔNG đúng?",
+    "answer": "Tiền trả lãi cho số vốn doanh nghiệp vay ngoài là 5 triệu đồng; tính chi phí kinh doanh sử dụng vốn là 5 triệu đồng."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Những khoản chi phí nào dưới đây là chi phí kinh doanh của kỳ?",
+    "answer": "Trong kỳ doanh nghiệp khấu hao tài sản cố định theo kế hoạch và giá trị mua lại 100 triệu đồng."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Tháng 1/2015 Công ty A mua về 1 chiếc xe ô tô đưa đón công nhân viên đi làm với giá 1,6 tỉ đồng. Thời gian khấu hao dự định 8 năm. Giá xe được dự báo tăng 1%/năm. Sau thanh lý dự kiến bán xe cũ được 200 triệu đồng.\nKết quả khấu hao nào sau đây chính xác?",
+    "answer": "Khấu hao đến khi thanh lý 1.532.570.730 đồng."
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Khi thiết kế các điểm chi phí - không gian hoạt động có thể hình thành các điểm chi phí phụ."
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh theo yêu cầu của bộ máy quản trị doanh nghiệp."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Những chi phí nào dưới đây KHÔNG đúng cho chi phí kinh doanh sử dụng lao động trong kỳ tính toán?",
+    "answer": "Chi phí kinh doanh sử dụng lao động trong tháng là 75 triệu đồng."
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Trong doanh nghiệp, quyết định nào là quyết định trong sản xuất",
+    "answer": "Quyết định lượng sản xuất và lưu kho để đạt mục tiêu lợi nhuận cụ thể"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2022 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch khấu hao vào tháng 4/2022 theo phương pháp khấu hao giảm dần với tỉ lệ khấu hao năm không đổi.\nKết quả nào dưới đây đúng?",
+    "answer": "556.183 đồng."
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Một doanh nghiệp tham gia đấu thầu công trình xây dựng, tính toán ban đầu cho thấy đây là dự án có khả năng sinh lợi nên doanh nghiệp đã tiến hành lập dự án hết 100 triệu đồng, chi phí quan hệ 80 triệu đồng. Sau khi đấu thầu, doanh nghiệp nhận được công trình 20 tỷ đồng. Tuy nhiên do giá vật liệu xây dựng tăng rất nhanh nên dự tính, việc xây dựng công trình hết 19,9 tỷ đồng. Giả sử công ty chỉ có 2 phương án để xem xét là nhận hay không nhận công trình này. Nhận định nào sau đây chính xác?",
+    "answer": "Kết quả thực hiện dự án là doanh nghiệp bị lỗ"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 3 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKhẳng định nào sau đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vật liệu 1001 là 150.387.282 đồng."
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu bạn tính chi phí kinh doanh khấu hao xà lan cho từng tháng của năm 2015 theo phương pháp bậc nhất theo thời gian nhưng không tuân thủ nguyên tắc bảo toàn tài sản về hiện vật đã gây ra khoản “lãi giả” là bao nhiêu?",
+    "answer": "1.030.402 đồng."
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 3 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKhẳng định nào dưới đây chính xác?",
+    "answer": "Tính toán và tập hợp chi phí kinh doanh theo loại trong tháng là 216.800.285 đồng."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu tính chi phí kinh doanh khấu hao xà lan cho tháng 7 của năm 2015 theo phương pháp khấu hao bậc nhất theo kết quả thì kết quả nào sau đây đúng?",
+    "answer": "15.985.581 đồng."
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Nhà quản trị nên quyết định mua ngoài một phụ phẩm mà nó đang sản xuất khi:",
+    "answer": "Giá bán phụ phẩm đó nhỏ hơn chi phí biến đổi bình quân khi sản xuất bộ phận"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Chỉ có thể hình thành các điểm chi phí – trách nhiệm theo cơ cấu tổ chức của doanh nghiệp."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Chỉ có thể xác định chính sách giá cho một loại vật liệu chính trên cơ sở giả định đã biết giá của các loại vật liệu vào khác."
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Khẳng định nào dưới đây KHÔNG chính xác?",
+    "answer": "Có thể đánh giá được tính hiệu quả ở từng điểm chi phí ở bước tính chi phí kinh doanh theo loại."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây KHÔNG phải là chi phí kinh doanh của kỳ?",
+    "answer": "Trong kỳ số tiền khách nợ doanh nghiệp giảm 50 triệu đồng."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây chính xác nhất?",
+    "answer": "Chi phí kinh doanh khấu hao xà lan tháng 10/2015 là 26.672.369 đồng."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Những chi phí nào dưới đây KHÔNG phải chi phí kinh doanh sử dụng lao động?",
+    "answer": "Tiền trợ cấp cho 5 gia đình thuộc địa bàn phường mà công ty cam kết hỗ trợ 1 triệu đồng/gia đình."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Phương pháp phân bổ đại số là chính xác nhất"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Thông tin về chi phí kinh doanh có thể là thông tin về quá khứ, hiện tại hoặc tương lai."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?",
+    "answer": "Tính chi phí kinh doanh buộc phải cung cấp mọi thông tin về chi phí."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây KHÔNG phải là chi phí tài chính trong kỳ?",
+    "answer": "Hao hụt ngoài định mức qui định là 1 triệu đồng."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt tổ và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh trả tiền điện là chi phí kinh doanh chung"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Trong doanh nghiệp, quyết định nào là quyết định đầu tư dài hạn",
+    "answer": "Quyết định mua sắm máy móc thiết bị phục vụ sản xuất"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh phải cung cấp thông tin liên tục."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Chìa khóa phân bổ giá trị là chi phí kinh doanh trực tiếp chính xác hơn chìa khóa phân bổ là mức lãi thô."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Có thể đánh giá được tính hiệu quả hoạt động cho toàn bộ hoặc từng bộ phận doanh nghiệp."
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu khấu hao bậc nhất theo thời gian cho tháng 1/2019 thì kết quả nào sau đây đúng?",
+    "answer": "12.488.735 đồng."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Chi phí chìm là chi phí",
+    "answer": "Đã bỏ ra trong quá khứ, hiện không thay đổi được, và nó xuất hiện ở tất cả các phương án mà nhà quản trị lựa chọn"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Thông tin về chi phí kinh doanh có thể là thông tin ở từng phòng ban, phân xưởng và từng nơi làm việc."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây KHÔNG phải là chi tiêu?",
+    "answer": "Khách trả món nợ 200 triệu đồng."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Các điểm chi phí - không gian hoạt động phải phụ thuộc vào sự chia cắt không gian."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Những chi phí kinh doanh không trùng chi phí tài chính nào dưới đây được tính đúng?",
+    "answer": "Tính số tiền phải trả lãi cho toàn bộ vốn cần thiết trong kỳ theo các phương pháp thích hợp là 25 triệu đồng."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây không phải là chi phí tài chính trong kỳ?",
+    "answer": "Các khoản phí khi ký hợp đồng ngoài qui định là 10 triệu đồng."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh khấu hao bậc nhất theo thời gian tháng 10/2015 là 22.732.133 đồng."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây KHÔNG chính xác?",
+    "answer": "Buộc phải áp dụng phương pháp trung bình khi phân bổ chi phí kinh doanh chung."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2022 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch khấu hao vào tháng 4/2022 theo phương pháp khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi.\nKết quả nào dưới đây đúng?",
+    "answer": "416.667 đồng."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây đúng cho chi phí kinh doanh không trùng chi phí tài chính?",
+    "answer": "Phải tính tiền trả lãi trên toàn bộ số vốn kinh doanh."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Khi hình thành các điểm chi phí ở doanh nghiệp theo chức năng hoạt động sẽ chỉ có thể tạo thành các điểm chi phí - chức năng."
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nChi phí kinh doanh hao hụt, mất mát khi lưu kho phát sinh trong tháng 1/2014 là:",
+    "answer": "9.750.000 đồng."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây KHÔNG phải là chi phí tài chính của kỳ?",
+    "answer": "Trong kỳ số tiền khách nợ doanh nghiệp giảm 50 triệu đồng."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt tổ và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh trả lương cho từng tổ sản xuất là chi phí kinh doanh trực tiếp."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Tháng 1/2015 Công ty A mua về 1 chiếc xe ô tô đưa đón công nhân viên đi làm với giá 1,6 tỉ đồng. Thời gian khấu hao dự định 8 năm. Giá xe được dự báo tăng 1%/năm. Sau thanh lý dự kiến bán xe cũ được 200 triệu đồng.\nKết quả khấu hao nào sau đây chính xác?",
+    "answer": "Khấu hao đến khi thanh lý 1.532.570.730 đồng."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Xét nguyên lý thì những khẳng định nào dưới đây là chính xác?",
+    "answer": "Bảng tính chi phí kinh doanh cấp tổ sản xuất được thiết kế với kết cấu giống bảng tính chi phí kinh doanh phòng bán hàng."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Trong doanh nghiệp, quyết định nào là quyết định ngắn hạn?",
+    "answer": "Quyết định chấp nhận một đơn đặt hàng giá thấp để sản xuất trong tháng do công suất máy móc tạm thời bị trống"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Ngay cả trong những tình huống khó, nhà quản trị không nên ra quyết định bán sản phẩm khi:",
+    "answer": "Giá bán sản phẩm nhỏ hơn chi phí biến đổi bình quân sản phẩm"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong 1 tháng như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 3 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKhẳng định nào sau đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vật liệu phụ là 26.538.003 đồng."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?",
+    "answer": "Chi phí kinh doanh thông thường cũng là chi phí tài chính phát sinh trong kỳ."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2022 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2022 theo phương pháp khấu hao bậc nhất và giá trị vốn bình quân.\nKết quả nào dưới đây đúng?",
+    "answer": "72.991 đồng."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 2/2014 của công ty K như ở bảng sau:\nCả tháng Công ty K sử dụng 57.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.800 đồng/kw, dự báo tháng từ 3/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng có giá trị 140 triệu đồng.\nDự báo giá cả thị trường vật liệu như sau: giá vật liệu 001 ổn định; giá loại vật liệu 002 tăng 2%/1 tháng; giá loại vật liệu 003 tăng 1%/tháng và giá loại vật liệu 004 tăng 3% sau 5 tháng. Chỉ số giá cả các loại vật liệu phụ là + 0,5%/tháng. Chu kì kinh doanh của Công ty kéo dài 5 tháng.\nTổn thất do mất mát trong quá trình lưu kho hàng tháng vật liệu 001 là 0,2 tấn; vật liệu 002 là 2m2 và vật liệu phụ ước tính hàng năm là 53,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Số lượng vật liệu 002 sử dụng trong tháng 2/2014 là 160 m2."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Tháng 1/2015 Công ty A mua về 1 chiếc xe ô tô đưa đón công nhân viên đi làm với giá 1,6 tỉ đồng. Thời gian khấu hao dự định 8 năm. Giá xe được dự báo ổn định và có xu hướng giảm.\nKết quả khấu hao nào sau đây chính xác?",
+    "answer": "Khấu hao đến khi thanh lý 1.600.000.000 đồng."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Tháng 1/2015 Công ty A mua về 1 chiếc xe ô tô đưa đón công nhân viên đi làm với giá 1,6 tỉ đồng. Thời gian khấu hao dự định 8 năm. Giá xe được dự báo tăng 1%/năm.\nKết quả khấu hao nào sau đây chính xác?",
+    "answer": "Khấu hao đến khi thanh lý 1.732.570.730 đồng."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Những khoản mục nào dưới đây KHÔNG là chi tiêu?",
+    "answer": "Khách trả món nợ 500 triệu đồng."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Chỉ tính được chi phí kinh doanh qua ba bước: theo loại, theo điểm và theo đối tượng."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh thu thập thông tin kinh tế bên trong."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Tháng 1/2015 Công ty A mua về 1 chiếc xe ô tô đưa đón công nhân viên đi làm với giá 1,6 tỉ đồng. Thời gian khấu hao dự định 8 năm. Giá xe được dự báo ổn định và có xu hướng giảm. Sau khi sử dụng Công ty bán chiếc xe đó được 200 triệu đồng.\nKết quả khấu hao nào sau đây chính xác?",
+    "answer": "Khấu hao đến khi thanh lý 1.400.000.000 đồng."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 10/2014 của một doanh nghiệp như ở bảng sau:\nĐơn vị tính: 1.000 đồng\nCả tháng Doanh nghiệp sử dụng 88.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.600 đồng/kw, dự báo tháng từ 12/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng cho SX có giá trị 40 triệu đồng.\nDự báo giá cả thị trường nguyên vật liệu như sau: giá vật liệu 01 ổn định; giá loại vật liệu 02 tăng 1%/1 tháng; giá loại vật liệu 03 tăng 2%/2 tháng và giá loại vật liệu 04 tăng 3% sau 6 tháng. Chỉ số giá cả các loại vật liệu phụ là +3%/3 tháng. Chu kì kinh doanh sản phẩm đang xem xét của doanh nghiệp kéo dài 6 tháng.\nTheo kế hoạch năm 2014 công ty sẽ chi 84 triệu đồng thuê dịch vụ nâng cấp và sửa chữa nhà kho chứa vật liệu vào tháng 6/2014. Tổn thất do mất mát trong quá trình lưu kho nguyên vật liệu ước tính hàng năm là 23,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nĐánh giá giá trị vốn ngắn hạn bình quân cần thiết trong tháng là 620 triệu đồng; trong đó một nửa là vốn tự có, nửa còn lại phải vay ngân hàng. Lãi suất cho vay ngắn hạn bình quân của các ngân hàng thời kỳ này 0,8%/tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh phát sinh trong tháng 10/2014 là 653.554.000 đồng."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Khi cần tính sản lượng hòa vốn để ra quyết định đầu tư, nhà quản trị cần có thông tin:",
+    "answer": "Chi phí cố định và chi phí biến đổi"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Có điểm chi phí - trách nhiệm cá nhân và điểm chi phí – trách nhiệm tập thể."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Tại điểm chi phí Vật tư, chi phí kinh doanh kỳ này phát sinh là 20.000.000 đồng. Nếu tính theo tỷ lệ kỳ trước thì chi phí kinh doanh phát sinh tại điểm này là 19.500.000. Vậy kỳ này, điểm chi phí này lãng phí:",
+    "answer": "500.000 đồng"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Một chuyền May ở Công ty A có 22 nhân viên làm việc trong tầng 1 của tòa nhà sản xuất của Công ty trong đó trưởng chuyền làm nhiệm vụ quản trị (điều hành, thống kê, tính lương…), 1 nhân viên chuyên pha cắt, 1 nhân viên vận chuyển vật liệu và bán thành phẩm từ nơi làm việc nọ sang nơi làm việc kia, 19 nhân viên may.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Có thể hình thành ở chuyền May 22 điểm chi phí."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Một chuyền May ở Công ty A có 22 nhân viên làm việc trong tầng 1 của tòa nhà sản xuất của Công ty trong đó trưởng chuyền làm nhiệm vụ quản trị (điều hành, thống kê, tính lương…), 1 nhân viên chuyên pha cắt, 1 nhân viên vận chuyển vật liệu và bán thành phẩm từ nơi làm việc nọ sang nơi làm việc kia, 19 nhân viên may.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Có thể tính chi phí kinh doanh theo nhiều phương pháp khấu hao khác nhau."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Khẳng định nào dưới đây là chính xác?",
+    "answer": "Kết thúc của tính chi phí kinh doanh theo bảng vẫn chưa tính được giá thành cho từng loại sản phẩm."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây là chính xác?",
+    "answer": "Tính giá thành cho công nghệ sản xuất nhiều sản phẩm mang tính áp đặt."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Phân bổ chi phí kinh doanh gián tiếp bằng phương pháp dòng chảy hay được sử dụng vì đáp ứng nguyên tắc tính toán nhanh với độ chính xác cần thiết."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Những chi phí nào dưới đây là chi phí kinh doanh sử dụng lao động trong kỳ tính toán (tháng)?",
+    "answer": "Tiền người lao động đóng bảo hiểm xã hội, y tế và thất nghiệp theo chế độ là 8 triệu đồng."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?",
+    "answer": "Tính chi phí kinh doanh là tính chi phí phát sinh trong kỳ."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Chỉ có thể đánh giá tính hiệu quả hoạt động của từng nơi làm việc thông qua chi phí kinh doanh."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5.\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKết quả nào dưới đây về chi phí kinh doanh phát sinh trong tháng 1/2014 là chính xác?",
+    "answer": "216.800.285 đồng."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu tính chi phí kinh doanh khấu hao xà lan cho từng tháng của năm 2015 theo phương pháp khấu hao bậc nhất theo thời gian thì kết quả nào sau đây đúng?",
+    "answer": "12.488.735 đồng."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác nhất?",
+    "answer": "Để xây dựng kế hoạch năm cho doanh nghiệp đa sản xuất tính chi phí kinh doanh phải cung cấp thông tin để tính được mức lãi thô."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Tháng 1/2015 Công ty A mua về 2 tấn thép với giá 20 triệu đồng/tấn. Trong tháng 1 Công ty xuất dùng 500 kg thép loại này. Chu kỳ kinh doanh kéo dài 3 tháng; giá thép tăng 2%/1 tháng.\nKết quả nào sau đây về chi phí kinh doanh sử dụng thép chính xác?",
+    "answer": "10.612.080 đồng."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí sau, chi phí kinh doanh nào tính được trực tiếp cho từng tổ sản xuất?",
+    "answer": "10.612.080 đồng."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh khấu hao giảm dần với cơ sở khấu hao năm không đổi tháng 10/2015 là 5.051.585 đồng."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh liên quan đến sử dụng lao động có thể tính được tháng 10/2015 là 38.000.000 đồng."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Muốn hoàn thành nhiệm vụ tính chi phí kinh doanh phải qua ba bước: theo loại, theo điểm và theo đối tượng."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 10/2014 của một doanh nghiệp như ở bảng sau:\nĐơn vị tính: 1.000 đồng\nCả tháng Doanh nghiệp sử dụng 88.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.600 đồng/kw, dự báo tháng từ 12/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng cho SX có giá trị 40 triệu đồng.\nDự báo giá cả thị trường nguyên vật liệu như sau: giá vật liệu 01 ổn định; giá loại vật liệu 02 tăng 1%/1 tháng; giá loại vật liệu 03 tăng 2%/2 tháng và giá loại vật liệu 04 tăng 3% sau 6 tháng. Chỉ số giá cả các loại vật liệu phụ là +3%/3 tháng. Chu kì kinh doanh sản phẩm đang xem xét của doanh nghiệp kéo dài 6 tháng.\nTheo kế hoạch năm 2014 công ty sẽ chi 84 triệu đồng thuê dịch vụ nâng cấp và sửa chữa nhà kho chứa vật liệu vào tháng 6/2014. Tổn thất do mất mát trong quá trình lưu kho nguyên vật liệu ước tính hàng năm là 23,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nĐánh giá giá trị vốn ngắn hạn bình quân cần thiết trong tháng là 620 triệu đồng; trong đó một nửa là vốn tự có, nửa còn lại phải vay ngân hàng. Lãi suất cho vay ngắn hạn bình quân của các ngân hàng thời kỳ này 0,8%/tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vốn trong tháng 10/2014 là 4.960.000 đồng."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2015 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2015 theo phương pháp khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi và giá trị vốn giảm dần.\nKết quả nào dưới đây đúng?",
+    "answer": "1.767.679 đồng."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2022 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch khấu hao vào tháng 4/2022 theo phương pháp khấu hao bậc nhất.\nKết quả nào dưới đây đúng?",
+    "answer": "1.875.000 đồng."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây KHÔNG chính xác về việc phân bổ chi phí kinh doanh cho các điểm chi phí?",
+    "answer": "Chỉ cần phân bổ chi phí kinh doanh trực tiếp."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt tổ và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh trả lương tính được trực tiếp cho bộ máy quản trị."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5.\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nNếu không tuân thủ nguyên tắc bảo toàn hiện vật khi tính chi phí kinh doanh phát sinh sử dụng vật liệu 1003 trong tháng 1/2014 thì kết quả nào dưới đây là về khoản lãi giả là chính xác?",
+    "answer": "0 đồng."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2015 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2015 theo phương pháp khấu hao giảm dần với tỉ lệ khấu hao năm không đổi và giá trị vốn giảm dần.\nKết quả nào dưới đây đúng?",
+    "answer": "1.740.178 đồng."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Tháng 1/2015 Công ty A mua về 1 chiếc xe ô tô đưa đón công nhân viên đi làm với giá 1,6 tỉ đồng. Thời gian khấu hao dự định 8 năm. Giá xe được dự báo tăng 1%/năm. Sau khi thanh lý bán chiếc xe được 200 triệu đồng.\nMệnh đề nào sau đây chính xác?",
+    "answer": "Có thể lựa chọn phương pháp khấu hao."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 10/2014 của một doanh nghiệp như ở bảng sau:\nĐơn vị tính: 1.000 đồng\nCả tháng Doanh nghiệp sử dụng 88.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.600 đồng/kw, dự báo tháng từ 12/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng cho SX có giá trị 40 triệu đồng.\nDự báo giá cả thị trường nguyên vật liệu như sau: giá vật liệu 01 ổn định; giá loại vật liệu 02 tăng 1%/1 tháng; giá loại vật liệu 03 tăng 2%/2 tháng và giá loại vật liệu 04 tăng 3% sau 6 tháng. Chỉ số giá cả các loại vật liệu phụ là +3%/3 tháng. Chu kì kinh doanh sản phẩm đang xem xét của doanh nghiệp kéo dài 6 tháng.\nTheo kế hoạch năm 2014 công ty sẽ chi 84 triệu đồng thuê dịch vụ nâng cấp và sửa chữa nhà kho chứa vật liệu vào tháng 6/2014. Tổn thất do mất mát trong quá trình lưu kho nguyên vật liệu ước tính hàng năm là 23,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nĐánh giá giá trị vốn ngắn hạn bình quân cần thiết trong tháng là 620 triệu đồng; trong đó một nửa là vốn tự có, nửa còn lại phải vay ngân hàng. Lãi suất cho vay ngắn hạn bình quân của các ngân hàng thời kỳ này 0,8%/tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Loại chi phí kinh doanh sử dụng nguyên vật liệu trong tháng 10/2014 là 617.994.000 đồng."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây là chi phí kinh doanh nhưng không là chi phí tài chính của kỳ?",
+    "answer": "Trong kỳ doanh nghiệp xuất dùng 1 tấn thép tính theo giá mua lại 20 triệu đồng."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Một dây chuyền sản xuất gạch với 10 công nhân; trong đó thực hiện nhiệm vụ trộn đất (bằng máy trộn) do 5 công nhân, cắt và phơi gạch (bằng máy cắt và tự động chuyển gạch ra khu vực phơi) do 5 công nhân phục vụ.\nMệnh đề nào dưới đây chính xác?",
+    "answer": "Cần hình thành ở chuyền sản xuất gạch 1 bảng tính chi phí kinh doanh với 6 cột, trong đó có hai cột đều là điểm chi phí chính."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây là chi phí kinh doanh và cũng là chi phí tài chính của kỳ?",
+    "answer": "Trong kỳ doanh nghiệp xuất dùng 1 tấn thép tính theo giá mua 20 triệu đồng, giá này không thay đổi trong suốt chu kỳ kinh doanh của doanh nghiệp."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Những chi phí nào dưới đây thuộc chi phí kinh doanh sử dụng nguyên vật liệu hoặc đúng?",
+    "answer": "Sử dụng 10 tấn vật liệu A đánh giá theo giá mua lại là 5 triệu đồng/tấn."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Phân bổ chi phí kinh doanh gián tiếp bằng phương pháp đại số là chính xác nhất."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5.\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKết quả nào dưới đây về chi phí kinh doanh phát sinh sản xuất sản phẩm A trong tháng 1/2014 là chính xác?",
+    "answer": "92.652.772 đồng."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng nguyên vật liệu gắn với nguyên tắc bảo toàn tài sản về mặt hiện vật."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Khẳng định nào dưới đây KHÔNG chính xác?",
+    "answer": "Có thể sử dụng phương pháp phân bổ theo dòng chảy để phân bổ chi phí kinh doanh chung sơ cấp vào các điểm chi phí"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt tổ và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây chính xác?",
+    "answer": "Chi phí kinh doanh trả lương vừa có khoản chi phí gián tiếp vừa có khoản chi phí trực tiếp"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Việc xem xét chi phí chìm có ý nghĩa với các quyết định:",
+    "answer": "Ngắn hạn"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Một chuyền May ở Công ty A có 22 nhân viên làm việc trong tầng 1 của tòa nhà sản xuất của Công ty trong đó trưởng chuyền làm nhiệm vụ quản trị (điều hành, thống kê, tính lương…), 1 nhân viên chuyên pha cắt, 1 nhân viên vận chuyển vật liệu và bán thành phẩm từ nơi làm việc nọ sang nơi làm việc kia, 19 nhân viên may.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Cần hình thành ở chuyền May 1 điểm chi phí phụ."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây là chi phí tài chính của kỳ?",
+    "answer": "Chuyển cho Sở Thuế 50 triệu đồng tiền thuế của kỳ."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Khẳng định nào dưới đây KHÔNG chính xác?",
+    "answer": "Các cột phản ánh loại chi phí kinh doanh."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Xét nguyên lý thì khẳng định nào dưới đây là chính xác?",
+    "answer": "Có thể sắp xếp thứ tự một số cột của bảng tính chi phí kinh doanh theo ý muốn."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây thiếu chính xác?",
+    "answer": "Chi phí kinh doanh cũng giống chi phí tài chính ở đặc điểm phải có kỳ tính toán giống nhau."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong tháng 1/2014 như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 5 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5.\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKết quả nào dưới đây về chi phí kinh doanh phát sinh sản xuất sản phẩm B trong tháng 1/2014 là chính xác?",
+    "answer": "114.397.514 đồng."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Phân bổ chi phí kinh doanh gián tiếp theo nguyên tắc nhân quả là tốt nhất."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Một doanh nghiệp tham gia đấu thầu công trình xây dựng, tính toán ban đầu cho thấy đây là dự án có khả năng sinh lợi nên doanh nghiệp đã tiến hành lập dự án hết 100 triệu đồng, chi phí quan hệ 80 triệu đồng. Sau khi đấu thầu, doanh nghiệp nhận được công trình 20 tỷ đồng. Tuy nhiên do giá vật liệu xây dựng tăng rất nhanh nên dự tính, việc xây dựng công trình hết 19,9 tỷ đồng. Giả sử công ty chỉ có 2 phương án để xem xét là nhận hay không nhận công trình này, công ty nên:",
+    "answer": "Nhận công trình này vì nó có lợi hơn so với không nhận thi công công trình"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Đã tính chi phí kinh doanh phải tuân thủ nguyên tắc hiệu quả."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Hay sử dụng phương pháp phân bổ trực tiếp vì đáp ứng yêu cầu tính toán nhanh với độ chính xác chấp nhận được."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 10/2014 của một doanh nghiệp như ở bảng sau:\nĐơn vị tính: 1.000 đồng\nCả tháng Doanh nghiệp sử dụng 88.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.600 đồng/kw, dự báo tháng từ 12/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng cho sản xuất có giá trị 40 triệu đồng.\nDự báo giá cả thị trường nguyên vật liệu như sau: giá vật liệu 01 ổn định; giá loại vật liệu 02 tăng 1%/1 tháng; giá loại vật liệu 03 tăng 2%/2 tháng và giá loại vật liệu 04 tăng 3% sau 6 tháng. Chỉ số giá cả các loại vật liệu phụ là +3%/3 tháng. Chu kì kinh doanh sản phẩm đang xem xét của doanh nghiệp kéo dài 6 tháng.\nTheo kế hoạch năm 2014 công ty sẽ chi 84 triệu đồng thuê dịch vụ nâng cấp và sửa chữa nhà kho chứa vật liệu vào tháng 6/2014. Tổn thất do mất mát trong quá trình lưu kho nguyên vật liệu ước tính hàng năm là 23,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nĐánh giá giá trị vốn ngắn hạn bình quân cần thiết trong tháng là 620 triệu đồng; trong đó một nửa là vốn tự có, nửa còn lại phải vay ngân hàng. Lãi suất cho vay ngắn hạn bình quân của các ngân hàng thời kỳ này 0,8%/tháng.\nNếu không bảo toàn hiện vật sẽ tạo ra mức lãi giả là:",
+    "answer": "45.934.000 đồng."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Có thể thiết kế các điểm chi phí - không gian hoạt động bên ngoài và bên trong doanh nghiệp."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây là chi phí kinh doanh?",
+    "answer": "Tổng mức xuất kho trong kỳ là 20 tấn và đánh giá theo giá mua lại vật liệu A là 5,2 triệu đồng/tấn."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây là chi tiêu và đồng thời là chi phí kinh doanh của kỳ?",
+    "answer": "Trả tiền lương cho người lao động trong kỳ là 200 triệu đồng."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Một doanh nghiệp mua về một thiết bị với giá 170.698.074 đồng vào ngày 1/1/2015. Doanh nghiệp dự kiến sử dụng thiết bị này trong 8 năm và sau thanh lí có thể thu hồi được 20.000.000 đồng phế liệu. Bộ phận dự báo cho biết giá cả loại thiết bị này có khả năng tăng 2%/năm; lãi suất dài hạn bình quân các ngân hàng khu vực ở thời điểm năm 2022 là 1,1%/tháng.\nBạn có nhiệm vụ lập kế hoạch chi phí kinh doanh sử dụng vốn dài hạn vào tháng 4/2022 theo phương pháp khấu hao bậc nhất và giá trị vốn giảm dần.\nKết quả nào dưới đây đúng?",
+    "answer": "83.304 đồng."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhấu hao giảm dần với cơ sở khấu hao năm không đổi, tính theo phương pháp giảm dần thì khẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vốn dài hạn tháng 10/2015 là 0 đồng."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Nguyên tắc thống nhất với kế toán tài chính của tính chi phí kinh doanh biểu hiện ở việc cùng sử dụng chung số liệu ghi chép ban đầu."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh khấu hao giảm dần với tỉ lệ khấu hao năm không đổi tháng 10/2015 là 6.047.432 đồng."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Trong kỳ tính toán tháng 3/2015 có các hành vi sau xuất hiện:\n- Xuất kho nguyên vật liệu để sản xuất với giá đánh giá là 50 triệu đồng trong khi giá mua chỉ là 48 triệu.\n- Trả lương cho người lao động 60 triệu đồng.\n- Cháy 1 kho vật liệu gây thiệt hại là 12 triệu đồng.\nChi phí kinh doanh thông thường là:",
+    "answer": "110 triệu đồng."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 10/2014 của một doanh nghiệp như ở bảng sau:\nĐơn vị tính: 1.000 đồng\nCả tháng Doanh nghiệp sử dụng 88.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.600 đồng/kw, dự báo tháng từ 12/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng cho SX có giá trị 40 triệu đồng.\nDự báo giá cả thị trường nguyên vật liệu như sau: giá vật liệu 01 ổn định; giá loại vật liệu 02 tăng 1%/1 tháng; giá loại vật liệu 03 tăng 2%/2 tháng và giá loại vật liệu 04 tăng 3% sau 6 tháng. Chỉ số giá cả các loại vật liệu phụ là +3%/3 tháng. Chu kì kinh doanh sản phẩm đang xem xét của doanh nghiệp kéo dài 6 tháng.\nTheo kế hoạch năm 2014 công ty sẽ chi 84 triệu đồng thuê dịch vụ nâng cấp và sửa chữa nhà kho chứa vật liệu vào tháng 6/2014. Tổn thất do mất mát trong quá trình lưu kho nguyên vật liệu ước tính hàng năm là 23,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nĐánh giá giá trị vốn ngắn hạn bình quân cần thiết trong tháng là 620 triệu đồng; trong đó một nửa là vốn tự có, nửa còn lại phải vay ngân hàng. Lãi suất cho vay ngắn hạn bình quân của các ngân hàng thời kỳ này 0,8%/tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vật liệu phụ trong tháng 10/2014 là 42.436.000 đồng."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Xét nguyên lý thì trong bảng tính chi phí kinh doanh những khẳng định nào dưới đây là chính xác?",
+    "answer": "Cột chi phí kinh doanh phát sinh của bảng tính chi phí kinh doanh cấp tổ sản xuất ghi các loại chi phí kinh doanh ở cột tương ứng của bảng tính chi phí kinh doanh cấp phân xưởng."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?",
+    "answer": "Chi tiêu là chi phí nên gắn với hành vi xuất dùng vật liệu từ kho vật liệu."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Xét nguyên lý thì trong bảng tính chi phí kinh doanh khẳng định nào dưới đây KHÔNG chính xác?",
+    "answer": "Phải sắp xếp bốn cột đầu tiên theo thứ tự: số thứ tự, chìa khóa phân bổ, tiêu chí, chi phí kinh doanh phát sinh."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh khấu hao bậc nhất theo kết quả tháng 10/2015 là 26.672.369 đồng."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây thiếu chính xác?",
+    "answer": "Trong doanh nghiệp, điểm chi phí – tổ sản xuất là điểm chi phí - trách nhiệm cấp cao hơn điểm chi phí – phòng kinh doanh."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu được giao nhiệm vụ tính chi phí kinh doanh sử dụng vốn của tháng 1 năm 2015 thì bạn tính theo phương pháp nào trong các phương pháp sau?",
+    "answer": "Tính chi phí kinh doanh khấu hao bậc nhất theo kết quả và chi phí kinh doanh sử dụng vốn theo phương pháp bình quân."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Những mệnh đề nào dưới đây KHÔNG đúng nếu chu kỳ kinh doanh kéo dài 2 tháng?",
+    "answer": "Trả tiền mua 5 tấn vật liệu C trong kỳ là 100 triệu đồng; sử dụng hết trong tháng và tính chi phí kinh doanh sử dụng vật liệu C là 101 triệu đồng trong khi giá vật liệu C tăng 1% sau 4 tháng."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu khấu hao giảm dần với giá trị cơ sở khấu hao năm không đổi cho tháng 1/2019 thì kết quả nào sau đây đúng?",
+    "answer": "11.101.098 đồng."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Những khoản nào dưới đây thuộc loại chi phí kinh doanh sử dụng lao động?",
+    "answer": "Doanh nghiệp cử 10 nhân viên đi học hàm thụ tự đóng tiền học phí 15 triệu đồng/người/kỳ, doanh nghiệp chỉ hỗ trợ 5 triệu đồng/kỳ."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Khẳng định nào dưới đây là chính xác?",
+    "answer": "Tính chi phí kinh doanh cung cấp thông tin cho bộ máy quản trị doanh nghiệp."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Chi phí kinh doanh buộc phải gắn với kết quả của kỳ tính toán."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt tổ và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nVới kỳ tính toán là ngày, mệnh đề nào dưới đây là chính xác?",
+    "answer": "Có thể trực tiếp tập hợp chi phí kinh doanh trả lương cho điểm chi phí quản trị."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Chi phí trả tiền điện 45 triệu là chi phí kinh doanh chung biến đổi"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây là chi phí tài chính của kỳ?",
+    "answer": "Trong kỳ doanh nghiệp khấu hao tài sản cố định theo qui định 100 triệu đồng."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Có thể tính chi phí kinh doanh phát sinh ra nhiều kết quả khác nhau."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Thông tin về chi phí kinh doanh cụ thể hơn thông tin ở các báo cáo tài chính cùng kỳ."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Xét nguyên lý thì trong bảng tính chi phí kinh doanh cấp phân xưởng có cấp tổ sản xuất những khẳng định nào dưới đây KHÔNG chính xác?",
+    "answer": "Trong các cột phản ánh điểm chi phí chính phải sắp xếp theo trình tự sản xuất sản phẩm."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Khẳng định nào dưới đây sai?",
+    "answer": "Trong các cột phản ánh điểm chi phí chính phải sắp xếp theo trình tự sản xuất sản phẩm."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Tháng 1 năm 2015 công ty vận chuyển đường sông S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 1,2 tỉ đồng.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 10 triệu tấn/km. Theo kế hoạch công ty sẽ sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 1,6 triệu tấn/km; các tháng vận chuyển đều nhau.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 2%/2 năm. Khi thanh lý công ty có thể bán được chiếc xà lan đó với giá 100 triệu đồng. Lãi suất bình quân ngân hàng cùng kì năm 2022 là 1%/tháng.\nNếu bạn có nhiệm vụ tính chi phí kinh doanh khấu hao xà lan cho từng tháng của năm 2015 thì bạn chấp nhận kết quả nào sau đây?",
+    "answer": "15.985.581 đồng."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Những khoản nào dưới đây KHÔNG phải là chi tiêu?",
+    "answer": "Khấu hao tài sản cố định trong kỳ 200 triệu đồng."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Những chi phí nào dưới đây KHÔNG thuộc chi phí kinh doanh sử dụng nguyên vật liệu?",
+    "answer": "Hao hụt trong kỳ 100 kg nguyên liệu A, tính thành tiền 500 nghìn đồng."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Những chi phí nào dưới đây KHÔNG thuộc loại chi phí kinh doanh sử dụng lao động?",
+    "answer": "5 nhân viên không báo doanh nghiệp, tự đi học bên ngoài với chi phí đóng tiền học 2 triệu/người/kỳ."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Tháng 1/2015 Công ty A mua về 1 chiếc xe ô tô đưa đón công nhân viên đi làm với giá 1,6 tỉ đồng. Thời gian khấu hao dự định 8 năm. Giá xe được dự báo năm 2015 tăng 1% rồi ổn định hàng chục năm sau đó. Sau thanh lý dự kiến bán chiếc xe đó được 16 triệu đồng.\nKết quả khấu hao nào sau đây chính xác?",
+    "answer": "Khấu hao đến khi thanh lý 1.600.000.000 đồng."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây KHÔNG chính xác?",
+    "answer": "Trong nền kinh tế thị trường thông tin về chi phí thỏa mãn nhu cầu cùng ra quyết định của quản lý vĩ mô và doanh nghiệp."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây là chi tiêu và đồng thời là chi phí tài chính của kỳ?",
+    "answer": "Trả tiền lương cho người lao động trong kỳ là 200 triệu đồng."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 2/2014 của công ty K như ở bảng sau:\nCả tháng Công ty K sử dụng 57.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.800 đồng/kw, dự báo tháng từ 3/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng có giá trị 140 triệu đồng.\nDự báo giá cả thị trường vật liệu như sau: giá vật liệu 001 ổn định; giá loại vật liệu 002 tăng 2%/1 tháng; giá loại vật liệu 003 tăng 1%/tháng và giá loại vật liệu 004 tăng 3% sau 5 tháng. Chỉ số giá cả các loại vật liệu phụ là + 0,5%/tháng. Chu kì kinh doanh của Công ty kéo dài 5 tháng.\nTổn thất do mất mát trong quá trình lưu kho hàng tháng vật liệu 001 là 0,2 tấn; vật liệu 002 là 2m2 và vật liệu phụ ước tính hàng năm là 53,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nKhẳng định nào sau đây là chính xác?",
+    "answer": "Số lượng vật liệu 003 sử dụng trong tháng 2/2014 là 7.700 lít."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Với chu kỳ kinh doanh của doanh nghiệp là 6 tháng và các số liệu ban đầu trong 1 tháng như sau:\nNhập kho vật liệu 1001 trong kỳ 15 tấn với giá mua vào 20 triệu đồng/tấn, dự báo giá vật liệu 1001 tăng 1,2%/tháng. Xuất 3 tấn vật liệu 1001 để sản xuất sản phẩm A và 4 tấn vật liệu 1001 để sản xuất sản phẩm B.\nMua về 10 tấn vật liệu 1002 với giá mua là 2,5 triệu đồng/tấn, dự kiến sau chu kỳ kinh doanh giá loại vật liệu 1002 tăng 3%. Xuất kho loại vật liệu 1002 là 3 tấn, trong đó 2 tấn được sử dụng để sản xuất sản phẩm A và 1 tấn để sản xuất sản phẩm B.\nXuất kho 800 kg vật liệu 1003 để sản xuất sản phẩm A và B theo tỉ lệ sử dụng A/B = 3/7. Giá vật liệu 1003 ổn định ở mức 28.000 đồng/kg.\nCác loại vật liệu phụ đưa vào sử dụng có giá trị tính theo giá mua vào là 25 triệu đồng, chỉ số giá cả vật liệu thời kỳ này tăng 1%/tháng. Tỉ lệ vật liệu phụ được sử dụng để sản xuất sản phẩm A và B thường là 8/5\nCuối tháng kiểm kê kho thấy loại vật liệu 1001 hao hụt 0,4 tấn, loại vật liệu 1002 hao hụt 0,1 tấn và các loại vật liệu phụ hao hụt được đánh giá có trị giá là 1,5 triệu đồng.\nKhẳng định nào sau đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng vật liệu là 207.050.285 đồng."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Những khoản chi phí nào dưới đây KHÔNG phải là chi tiêu hoặc không chính xác?",
+    "answer": "Xuất kho 1.000 kg vật tư B để sản xuất với giá mua lại 50.000 đồng/kg."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây chính xác?",
+    "answer": "Tính chi phí kinh doanh cung cấp thông tin cho người ra quyết định quản trị."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Kiểm kê lượng vật liệu chính tiêu hao trong tháng 10/2014 của một doanh nghiệp như ở bảng sau:\nĐơn vị tính: 1.000 đồng\nCả tháng Doanh nghiệp sử dụng 88.500 kw điện với giá điện năm 2013 khá ổn định ở mức 1.600 đồng/kw, dự báo tháng từ 12/2014 giá điện tăng bình quân 18% và ổn định sau đó. Các loại vật liệu phụ cần thiết khác được sử dụng cho SX có giá trị 40 triệu đồng.\nDự báo giá cả thị trường nguyên vật liệu như sau: giá vật liệu 01 ổn định; giá loại vật liệu 02 tăng 1%/1 tháng; giá loại vật liệu 03 tăng 2%/2 tháng và giá loại vật liệu 04 tăng 3% sau 6 tháng. Chỉ số giá cả các loại vật liệu phụ là +3%/3 tháng. Chu kì kinh doanh sản phẩm đang xem xét của doanh nghiệp kéo dài 6 tháng.\nTheo kế hoạch năm 2014 công ty sẽ chi 84 triệu đồng thuê dịch vụ nâng cấp và sửa chữa nhà kho chứa vật liệu vào tháng 6/2014. Tổn thất do mất mát trong quá trình lưu kho nguyên vật liệu ước tính hàng năm là 23,6 triệu đồng, dự báo năm 2014 mức tổn thất có thể tăng thêm 10%.\nĐánh giá giá trị vốn ngắn hạn bình quân cần thiết trong tháng là 620 triệu đồng; trong đó một nửa là vốn tự có, nửa còn lại phải vay ngân hàng. Lãi suất cho vay ngắn hạn bình quân của các ngân hàng thời kỳ này 0,8%/tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh sử dụng điện trong tháng 10/2014 là 167.088.000 đồng."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Tháng 1/2015 Công ty A mua về 2 tấn thép với giá 20 triệu đồng/tấn. Trong tháng 1 Công ty xuất dùng 500 kg thép loại này. Chu kỳ kinh doanh kéo dài 10 tháng; sang tháng 2/2015 giá thép tăng 2% và ổn định từ đó đến hết năm.\nKết quả nào sau đây về chi phí kinh doanh sử dụng thép chính xác?",
+    "answer": "10.200.000 đồng."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Trong doanh nghiệp, quyết định nào là quyết định dài hạn?",
+    "answer": "Quyết định xây dựng nhà xưởng"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Những khẳng định nào dưới đây chính xác?",
+    "answer": "Trong tổ xây tường xét ở phương diện kỹ thuật tính toán, các chi phí ở điểm chi phí phụ sẽ được phân bổ tiếp cho các điểm chi phí chính khác"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Ngoài bộ phận quản trị, Công ty May M có 1 tổ thiết kế thời trang, 1 tổ cắt và 3 tổ may theo mặt hàng (mỗi tổ may 1 mặt hàng). Tất cả đều nằm gọn trong 1 tòa nhà. Công ty trả lương cho bộ phận quản trị theo tháng; trả lương cho nhân viên từng tổ sản xuất theo giờ. Tháng 2/2015 phát sinh các loại chi phí:\n- Chi phí kinh doanh trả lương = 267 triệu đồng.\n- Chi phí kinh doanh trả tiền điện = 45 triệu đồng.\n- Chi phí kinh doanh sử dụng các loại vật liệu = 200 triệu đồng.\n- Chi phí kinh doanh khấu hao nhà = 50 triệu đồng.\nMệnh đề nào dưới đây là chính xác?",
+    "answer": "Không tính được chi phí kinh doanh trả tiền điện cho từng tổ sản xuất."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Nhà quản trị sử dụng chi phí kinh doanh để ra các quyết định:",
+    "answer": "Cả ngắn hạn, trung hạn và dài hạn"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Đầu năm 2008 Công ty S vay tiền ở ngân hàng với lãi suất ưu đãi 2,5%/năm để mua về một chiếc xà lan tự hành với giá 2,2 tỉ đồng. Giả định Bộ Tài chính qui định sử dụng loại xà lan này trong 10 năm.\nTheo hướng dẫn ở catalogue xà lan có thể vận chuyển tới 15 triệu tấn/km. Công ty có kế hoạch sử dụng xà lan này trong 8 năm và kế hoạch vận chuyển năm 2015 là 2,2 triệu tấn/km, các tháng vận chuyển đều nhau. Quãng đường vận chuyển năm 2015 dự tính là 24.000 km. Khi thanh lý Công ty có thể bán được chiếc xà lan đó với giá 200 triệu đồng. Theo kế hoạch sửa chữa, tháng 10/2015 Công ty đưa xà lan vào xưởng sửa chữa bên ngoài với tổng chi phí kinh doanh sửa chữa và bảo dưỡng là 39.600.000 đồng.\nTheo dự báo, giá cả thị trường loại xà lan này tăng khoảng 1%/năm. Lãi suất dài hạn bình quân hàng tháng của các ngân hàng năm 2015 là 1%/tháng.\nDoanh nghiệp thuê 3 thuỷ thủ vận hành xà lan với mức lương thuyền trưởng là 15 triệu đồng/tháng, 2 thuyền viên là 10 triệu đồng/người/tháng. Tiền công tác phí bình quân 1 triệu đồng/người/tháng.\nMức tiêu thụ dầu diezel bình quân của xà lan (kể cả có và không tải) là 60 lít/100 km. Giá dầu diezel tháng 1/2015 là 16.000 đồng/lít, dự báo giá dầu tăng 1%/4 tháng. Chu kỳ kinh doanh của xà lan là 2 tháng.\nKhẳng định nào dưới đây là chính xác?",
+    "answer": "Chi phí kinh doanh khấu hao giảm dần với cơ sở khấu hao năm không đổi tháng 3/2016 là 0 đồng."
+  }
+]

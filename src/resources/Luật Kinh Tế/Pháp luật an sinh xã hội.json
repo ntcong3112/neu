@@ -1,0 +1,1982 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Mức hỗ trợ người bị thương nặng do thiên tai tại nơi cư trú hoặc ngoài nơi cư trú được quy định như thế nào?",
+    "answer": "Được xem xét hỗ trợ với mức bằng 10 lần mức chuẩn trợ giúp xã hội theo quy định."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Trường hợp người lao động đóng BHXH tự nguyện có thời gian đóng BHXH chưa đủ 01 năm thì mức trợ cấp tuất một lần cho thân nhân được quy định như thế nào?",
+    "answer": "Bằng số tiền đã đóng nhưng mức tối đa bằng 02 tháng mức bình quân thu nhập tháng đóng BHXH"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Người thuộc trường nào sau đây KHÔNG được xem xét xác nhận là liệt sĩ?",
+    "answer": "Khi đang trực tiếp làm nhiệm vụ tìm kiếm, quy tập hài cốt liệt sĩ do cơ quan có thẩm quyền giao;"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Căn cứ vào điều kiện cụ thể của địa phương, cơ quan/cá nhân nào được quyết định mức trợ cấp xã hội , mức trợ cấp nuôi dưỡng, mức hỗ trợ kinh phí chăm sóc, nuôi dưỡng và các mức trợ giúp xã hội ở địa phương cao hơn mức chuẩn trợ giúp xã hội của nhà nước?",
+    "answer": "Chủ tịch UBND cấp tỉnh"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Đối tượng nào sau đây KHÔNG thuộc đối tượng hưởng trợ cấp xã hội hàng tháng?",
+    "answer": "Trẻ em mồ côi cha hoặc mẹ"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Thời hạn cơ quan BHXH phải có trách nhiệm giải quyết hưởng chế độ tai nạn lao động bệnh nghề nghiệp được quy định như thế nào?",
+    "answer": "10 ngày kể từ ngày nhận đủ hồ sơ từ người sử dụng lao động."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Mức hỗ trợ kinh phí đào tạo, bồi dưỡng nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động được quy định như thế nào?",
+    "answer": "Tối đa 01 triệu đồng/người/tháng. Mức hỗ trợ cụ thể được tính theo tháng, thời gian học thực tế của từng nghề hoặc từng khóa học nhưng không quá 06 tháng."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Lao động nữ có thể đi làm trước khi hết thời hạn nghỉ sinh con khi đã nghỉ hưởng chế độ ít nhất là:",
+    "answer": "04 tháng"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Pháp luật ASXH Việt Nam KHÔNG có vai trò nào sau đây?",
+    "answer": "Phòng ngừa và đấu tranh chống tội phạm."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Mức đóng hưởng BHXH tự nguyện được tính trên cơ sở:",
+    "answer": "Mức thu nhập tháng do người lao động lựa chọn"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Thời gian nhận chăm sóc, nuôi dưỡng tạm thời tại cộng đồng đối với nạn nhân của bạo lực gia đình được quy định như thế nào?",
+    "answer": "Không quá 03 tháng."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Hồ sơ hưởng chế độ ưu đãi đối với người hoạt động kháng chiến bị nhiễm chất độc hóa học KHÔNG có giấy tờ nào sau đây:",
+    "answer": "Bản sao Bằng tổ quốc ghi công."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Người đóng BHYT ĐƯỢC hưởng BHYT trong trường hợp nào sau đây:",
+    "answer": "Phục hồi chức năng"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Các quan hệ an sinh xã hội xuất hiện từ giai đoạn nào trong sự phát triển của xã hội loài người?",
+    "answer": "Từ thời kỳ công xã nguyên thủy"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Thời gian hưởng chế độ khi khám thai được quy định như thế nào?",
+    "answer": "Trong thời gian mang thai, lao động nữ được nghỉ việc để đi khám thai 05 lần, mỗi lần 1 ngày."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Mức trợ cấp mai táng mà người lo mai táng được nhận khi người lao động chết do tai nạn lao động, bệnh nghề nghiệp được quy định như thế nào?",
+    "answer": "Bằng 10 lần mức lương cơ sở tại tháng mà người lao động chết."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Mộ liệt sĩ tại nghĩa trang dòng họ do gia đình quản lý được nhà nước hỗ trợ kinh phí như thế nào?",
+    "answer": "Hỗ trợ một lần để xây vỏ mộ mức 2.500.000 đồng."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây là tranh chấp về bảo hiểm thất nghiệp:",
+    "answer": "Tranh chấp giữa người sử dụng lao động với Sở lao động thương binh xã hội điều kiện hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Đối tượng KHÔNG được ngân sách nhà nước hỗ trợ đóng BHYT là:",
+    "answer": "Người đang hưởng trợ cấp thất nghiệp."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Lao động nam đang đóng BHXH khi vợ sinh con trong trường hợp bình thường được nghỉ việc hưởng chế độ thai sản là:",
+    "answer": "05 ngày làm việc"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Thời hạn Trung tâm dịch vụ việc làm có trách nhiệm xem xét hồ sơ đề nghị hỗ trợ học nghề của người lao động để trình Giám đốc Sở Lao động – Thương binh và Xã hội quyết định là bao nhiêu ngày ?",
+    "answer": "Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị hỗ trợ học nghề."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Những tranh chấp ASXH nào được xác định là tranh chấp lao động cá nhân có thể khởi kiện thẳng ra Tòa án mà không bắt buộc phải qua thủ tục hòa giải?",
+    "answer": "Cả đáp án A, B, C"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Người đóng BHYT ĐƯỢC hưởng BHYT trong trường hợp nào sau đây:",
+    "answer": "Khám thai định kỳ."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Chế độ nào không phải chế độ ưu đãi đối với thương binh?",
+    "answer": "Trợ cấp thờ cúng."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Người lao động KHÔNG được ủy quyền cho người khác nộp hồ sơ hoặc gửi hồ sơ đề nghị hưởng trợ cấp thất nghiệp theo đường bưu điện nếu thuộc trường hợp:",
+    "answer": "Nhập học có xác nhận của Cơ sở đào tạo."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Ngoài nhà nước là chủ thể đặc biệt điều tiết quan hệ pháp luật thì chủ thể tham gia quan hệ pháp luật BHYT bao gồm:",
+    "answer": "Chủ thể tham gia đóng góp BHYT; Chủ thể hưởng chế độ BHYT; Chủ thể thực hiện BHYT"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Thời hạn giải quyết khiếu nại lần đầu quyết định, hành vi hành chính về BHXH được quy định như thế nào?",
+    "answer": "Không quá 30 ngày, kể từ ngày thụ lý; đối với vụ việc phức tạp có thể kéo dài hơn nhưng không quá 45 ngày, kể từ ngày thụ lý"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Người lao động nghỉ việc do mắc bệnh thuộc danh mục bệnh cần chữa trị dài ngày do Bộ Y tế ban hành thì được hưởng chế độ ốm đau là:",
+    "answer": "Tối đa 180 ngày tính cả ngày nghỉ lễ, nghỉ tết, ngày nghỉ hàng tuần;"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Thời hạn có hiệu lực của hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế hằng năm được quy định như thế nào?",
+    "answer": "Thời hạn của hợp đồng từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm, tối đa không quá 36 tháng;"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Trong các Công ước của tổ chức lao động quốc tế (ILO) quy định các vấn đề về ASXH, Công ước nào được coi là công ước quan trọng nhất:",
+    "answer": "Công ước số 102 năm 1952 về Quy phạm tối thiểu về an toàn xã hội"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Người sử dụng lao động khi tham gia BHXH KHÔNG có trách nhiệm nào sau đây:",
+    "answer": "Khởi kiện về BHXH theo quy định pháp luật"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Mức đóng BHYT hằng tháng của người lao động làm việc theo hợp đồng lao động không xác định được quy định như thế nào:",
+    "answer": "Tối đa bằng 6% tiền lương tháng trong đó người sử dụng lao động đóng 2/3 và người lao động đóng 1/3."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Người từ đủ 80 tuổi trở lên đang hưởng trợ cấp tuất bảo hiểm xã hội hàng tháng khi chết được hỗ trợ chi phí mai táng với mức như thế nào?",
+    "answer": "Bằng 20 lần mức chuẩn trợ giúp xã hội theo quy định."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Cơ quan nào thực hiện chức năng thanh tra về BHXH",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Pháp luật ASXH Việt Nam có các cơ chế nào trong giải quyết tranh chấp ASXH?",
+    "answer": "Thương lượng, hòa giải, khiếu nại, tố tụng"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Thời gian tính hưởng chế độ hưu trí đối với người có cả thời gian BHXH tự nguyện và BHXH bắt buộc được quy định như thế nào?",
+    "answer": "Thời gian tính hưởng là tổng thời gian đã đóng BHXH bắt buộc và BHXH tự nguyện,"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Chế độ nào không phải chế độ ưu đãi đối với bệnh binh?",
+    "answer": "Hỗ trợ theo học tại cơ sở giáo dục thuộc hệ thống giáo dục quốc dân đến trình độ đại học."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Người đang hưởng trợ cấp thất nghiệp KHÔNG bị chấm dứt hưởng trợ cấp thất nghiệp trong trường hợp:",
+    "answer": "Bị tai nạn giao thông"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Trách nhiệm hỗ trợ quỹ bảo hiểm thất nghiệp của nhà nước được quy định như thế nào?",
+    "answer": "Nhà nước hỗ trợ tối đa 1% quỹ tiền lương tháng đóng bảo hiểm thất nghiệp của những người lao động đang tham gia bảo hiểm thất nghiệp và do ngân sách trung ương đảm bảo."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Mức hỗ trợ làm nhà ở, sửa chữa nhà ở đối với Hộ nghèo có nhà bị cháy hoàn toàn do hỏa hoạn mà không còn nơi ở được quy định như thế nào?",
+    "answer": "Được xem xét hỗ trợ chi phí làm nhà ở với mức tối đa không quá 20.000.000 đồng/ hộ"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Quy định nào sau đây KHÔNG đúng đối với Hợp đồng dịch vụ chăm sóc nuôi dưỡng giữa đối tượng với Cơ sở bảo trợ xã hội?",
+    "answer": "Hợp đồng phải có xác nhận của UBND cấp huyện nơi có đăng ký Cơ sở bảo trợ xã hội"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Đối tượng nào sau đây KHÔNG phải tham gia bảo hiểm thất nghiệp:",
+    "answer": "Lao động giúp việc gia đình"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Chế độ trợ cấp hàng tháng của người hoạt động cách mạng được quy định như thế nào?",
+    "answer": "Trợ cấp hàng tháng bằng 0,6 lần mức chuẩn."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Mức chuẩn trợ giúp xã hội theo quy định của pháp luật hiện hành được quy định như thế nào?",
+    "answer": "270.000 đồng"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc cơ bản về chính sách trợ giúp xã hội?",
+    "answer": "Bình đẳng về cơ hội việc làm và thu nhập."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Trách nhiệm đóng bảo hiểm thất nghiệp mà người sử dụng lao động phải thực hiện được quy định như thế nào?",
+    "answer": "Đóng bằng 1% quỹ tiền lương tháng của những người lao động đang tham gia bảo hiểm thất nghiệp."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây là tranh chấp về trợ giúp xã hội:",
+    "answer": "Tranh chấp giữa hộ gia đình với Chủ tịch UBND cấp xã về hỗ trợ lương thực sau thiên tai."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Đối tượng nào sau đây KHÔNG thuộc đối tượng hưởng trợ cấp xã hội hàng tháng?",
+    "answer": "Người cao tuổi thuộc hộ nghèo."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Những tranh chấp ASXH nào được xác định là tranh chấp lao động cá nhân có thể khởi kiện thẳng ra Tòa án mà không bắt buộc phải qua thủ tục hòa giải?",
+    "answer": "Cả đáp án A, B, C"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Thời gian chi trả chính sách trợ giúp xã hội thông qua Tổ chức dịch vụ chi trả được quy định như thế nào?",
+    "answer": "Từ ngày 5 đến ngày 15 hàng tháng"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Đối tượng nào sau đây KHÔNG phải tham gia bảo hiểm thất nghiệp:",
+    "answer": "Lao động giúp việc gia đình"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Mức hưởng dưỡng sức, phục hồi sức khỏe sau khi ốm đau của người lao động tính theo một ngày là:",
+    "answer": "30% mức mức cơ sở."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Thời hạn người sử dụng lao động phải tham gia bảo hiểm thất nghiệp cho người lao động tại tổ chức BHXH là bao nhiêu ngày?",
+    "answer": "30 ngày kể từ hợp đồng lao động hoặc hợp đồng làm việc có hiệu lực."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Mức lương hưu hằng tháng thấp nhất của người lao động tham gia BHXH bắt buộc đủ điều kiện hưởng lương hưu hằng tháng được quy định như thế nào?",
+    "answer": "Bằng 0,5 mức lương cơ sở"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Hồ sơ đề nghị hưởng trợ cấp thất nghiệp của người lao động làm việc theo hợp đồng lao động xác định thời hạn KHÔNG cần có giấy tờ nào sau đây:",
+    "answer": "Giấy xác nhận hộ khẩu của UBND cấp xã nơi có đăng ký hộ khẩu thường trú."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Hành vi nào sau đây KHÔNG phải là hành vi bị nghiêm cấm trong lĩnh vực BHXH:",
+    "answer": "Ủy quyền cho người khác nhận trợ cấp BHXH"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Trợ cấp một lần khi chết do tai nạn lao động, bệnh nghề nghiệp được tính như thế nào?",
+    "answer": "Thân nhân người lao động được hưởng trợ cấp một lần bằng 36 lần mức lương cơ sở tại tháng người lao động bị chết."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Cơ quan nào thống nhất quản lý nhà nước về BHXH:",
+    "answer": "Chính phủ."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Lao động nữ có thể đi làm trước khi hết thời hạn nghỉ sinh con khi đã nghỉ hưởng chế độ ít nhất là:",
+    "answer": "04 tháng"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Thân nhân của người có công là ai?",
+    "answer": "Cha đẻ, mẹ đẻ; vợ hoặc chồng; con (con đẻ, con nuôi); Thân nhân liệt sĩ còn là người có công nuôi dưỡng liệt sĩ."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Thời hạn người lao động phải phải nộp hồ sơ hưởng trợ cấp thất nghiệp tại Trung tâm dịch vụ việc làm được quy định như thế nào?",
+    "answer": "03 tháng kể từ ngày chấm dứt hợp đồng lao động hoặc hợp đồng làm việc"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Mức hỗ trợ kinh phí phục hồi chức năng cho người lao động được quy định như thế nào?",
+    "answer": "Tối đa bằng 50% chi phí phục hồi chức năng lao động sau khi đã được bảo hiểm y tế chi trả nhưng không vượt quá 02 lần mức lương cơ sở/1 người/1 lượt. Số lần hỗ trợ tối đa mỗi người là 02 lần, trong 01 năm chỉ được nhận hỗ trợ 01 lần."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Chế độ chính sách trợ giúp xã hội được thực hiện chi trả trực tiếp hàng tháng cho đối tượng thụ hưởng thông qua cơ quan/ tổ chức nào ?",
+    "answer": "Một trong 3 đáp án theo quyết định của Chủ tịch UBND cấp tỉnh."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Thời hạn để Sở Lao động - Thương binh và Xã hội ra quyết định thực hiện chế độ ưu đãi đối với người hoạt động cách mạng trước 1/1/1945 được quy định như thế nào?",
+    "answer": "trong thời gian 10 ngày làm việc từ ngày tiếp nhận đủ hồ sơ hợp lệ"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Việc đóng BHYT hằng tháng của người đang hưởng trợ cấp thất nghiệp được quy định như thế nào?",
+    "answer": "Tối đa bằng 6% tiền trợ cấp thất nghiệp và do tổ chức BHXH đóng"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Mức trợ cấp xã hội hàng tháng đối với trẻ em dưới 04 tuổi không có nguồn nuôi dưỡng mồ côi cả cha lẫn mẹ được quy định như thế nào?",
+    "answer": "Được trợ cấp xã hội hàng tháng với mức thấp nhất bằng mức chuẩn trợ giúp xã hội nhân với hệ số 2,5."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Mức hỗ trợ lương thực đối với tất cả các thành viên hộ gia đình thiếu đói trong dịp tết âm lịch được quy định như thế nào?",
+    "answer": "Hỗ trợ 15 kg gạo /người."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Nguồn hình thành Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp bao gồm:",
+    "answer": "Người sử dụng lao động đóng, tiền sinh lời từ hoạt động đầu tư từ Quỹ, các khoản thu hợp pháp khác."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Mức đóng BHYT hằng tháng của người lao động làm việc theo hợp đồng không xác định thời hạn được quy định như thế nào?",
+    "answer": "Bằng 3 % tiền lương tháng của người lao động."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Quan hệ ASXH (theo nghĩa hẹp) thuộc đối tượng điều chỉnh của pháp luật ASXH Việt Nam bao gồm các nhóm nào?",
+    "answer": "Quan hệ về BHXH, Quan hệ về Bảo hiểm y tế, Quan hệ về bảo hiểm thất nghiệp, Quan hệ về ưu đãi xã hội, Quan hệ về cứu trợ xã hội"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Chế độ thăm viếng mộ liệt sĩ trong các trường hợp theo quy định được nhà nước hỗ trợ kinh phí như thế nào?",
+    "answer": "Thân nhân liệt sĩ (không quá ba người) hoặc người thờ cúng liệt sĩ khi thăm viếng mộ liệt sĩ được nhà nước hỗ trợ tiền đi lại và tiền ăn mỗi năm một lần."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Thời hạn cơ quan BHXH phải giải quyết và tổ chức chi trả cho người lao động hưởng chế độ thai sản là: :",
+    "answer": "10 ngày kể từ ngày nhận đủ hồ sơ theo quy định từ người sử dụng lao động"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Mức ngân sách nhà nước hỗ trợ đóng BHYT đối với học sinh, sinh viên được quy định là bao nhiêu?",
+    "answer": "Hỗ trợ tối thiểu 30% mức đóng bảo hiểm y tế."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Điều kiện về thời gian đóng bảo hiểm thất nghiệp để được hưởng trợ cấp thất nghiệp đối với người lao động làm việc theo hợp đồng lao động xác định thời hạn được quy định như thế nào?",
+    "answer": "Đã đóng bảo hiểm thất nghiệp đủ 12 tháng"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Luật BHYT 2008 (sửa đổi bổ sung năm 2014) KHÔNG áp dụng với đối tượng nào sau đây:",
+    "answer": "BHYT mang tính kinh doanh"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Đối tượng nào KHÔNG được hưởng chế độ ưu đãi người có công với cách mạng và thân nhân của họ:",
+    "answer": "Bệnh binh nhưng bị tước danh hiệu quân nhân."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Thời gian tham gia đóng BHXH được quy định như thế nào?",
+    "answer": "Thời gian tham gia đóng BHXH được tính từ khi người lao động bắt đầu đóng BHXH cho đến khi dừng đóng. Trường hợp người lao động đóng BHXH không liên tục thì thời gian đóng BHXH là tổng thời gian đã đóng BHXH."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Thời gian hưởng chế độ khi con dưới 03 tuổi ốm đau trong một năm cho mỗi con được tính theo số ngày chăm sóc con là:",
+    "answer": "20 ngày làm việc"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Thẻ BHYT vẫn CÓ giá trị sử dụng trong trường hợp:",
+    "answer": "Người có tên trong thẻ đang hưởng chế độ tai nạn lao động, bệnh nghề nghiệp."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Mức trợ cấp tuất hằng tháng đối với mỗi thân nhân có người trực tiếp nuôi dưỡng được quy định như thế nào?",
+    "answer": "Bằng 50% mức lương cơ sở"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Mức hỗ trợ chi phí mai táng đối với Hộ gia đình có người chết do tai nạn giao thông được quy định như thế nào?",
+    "answer": "Được xem xét hỗ trợ với mức bằng 10 lần mức chuẩn trợ giúp xã hội theo quy định."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Đối tượng nào sau đây bắt buộc phải tham gia bảo hiểm thất nghiệp:",
+    "answer": "Người lao động làm việc theo hợp đồng lao động xác định thời hạn 24 tháng"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Chọn đáp án ĐÚNG về khái niệm BHXH:",
+    "answer": "Bảo hiểm xã hội là sự bảo đảm thay thế hoặc bù đắp một phần thu nhập của người lao động khi họ bị giảm hoặc mất thu nhập do ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp, hết tuổi lao động hoặc chết, trên cơ sở đóng vào quỹ bảo hiểm xã hội."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Chế độ nào không phải chế độ ưu đãi đối với người hoạt động cách mạng?",
+    "answer": "Ưu tiên trong tuyển sinh, tạo việc làm"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Thời hạn tổ chức BHXH thực hiện việc chi trả trợ cấp thất nghiệp cho người lao động được quy định như thế nào?",
+    "answer": "05 ngày kể từ ngày nhận được quyết định hưởng trợ cấp thất nghiệp"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Mức tiền lương tháng tối đa để tính số tiền đóng BHYT là:",
+    "answer": "20 lần mức lương cơ sở"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Người lao động có đủ 20 năm đóng BHXH trở lên, làm việc trong điều kiện bình thường thì cần điều kiện tuổi đời như thế nào để được hưởng lương hưu hằng tháng?",
+    "answer": "Nam đủ 60 tuổi, nữ 55 tuổi."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Việc phân bổ và sử dụng tổng số tiền đóng quỹ BHYT được quy định theo tỷ lệ như thế nào?",
+    "answer": "90% dành cho quỹ khám bệnh, chữa bệnh; 10% dành cho quỹ dự phòng và chi phí quản lý quỹ bảo hiểm y tế"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Người lao động KHÔNG được hưởng chế độ thai sản khi thuộc trường hợp:",
+    "answer": "Lao động nữ thực hiện phương pháp thụ tinh ống nghiệm."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây là tranh chấp về ưu đãi xã hội:",
+    "answer": "Tranh chấp giữa thân nhân liệt sỹ với Giám đốc Sở lao động thương binh xã hội về chế độ trợ cấp tiền tuất hàng tháng."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Người tham gia BHYT được quỹ BHYT chi trả các chi phí sau:",
+    "answer": "Khám bệnh, chữa bệnh; Phục hồi chức năng; Khám thai định kỳ, sinh con; Vận chuyển người bệnh trong các trường hợp theo quy định."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Quan điểm nào sau đây là ĐÚNG:",
+    "answer": "Thuật ngữ “An sinh xã hội” được sử dụng trong Hiến pháp 2013."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Quan điểm nào sau đây là ĐÚNG:",
+    "answer": "Từ Hiến pháp năm 1946 đã có những quy định về quyền ASXH."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Mức đóng BHYT hằng tháng của người hưởng lương hưu do tổ chức BHXH đóng được quy định như thế nào:",
+    "answer": "Tối đa bằng 6% tiền lương hưu."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Tòa án nhân dân không thụ lý vụ tranh chấp nào sau đây:",
+    "answer": "Cơ quan BHXH khởi kiện người sử dụng lao động yêu cầu giải quyết tranh chấp về hành vi trốn đóng BHXH"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Hiện nay chế độ tai nạn lao động, bệnh nghề nghiệp do Luật nào quy định?",
+    "answer": "Luật An toàn, vệ sinh lao động năm 2015"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Thời điểm đóng bảo hiểm thất nghiệp của người lao động và người sử dụng lao động được quy định như thế nào ?",
+    "answer": "Là thời điểm đóng BHXH bắt buộc."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Mức hưởng chế độ ốm đau tính theo tháng khi người lao động nghỉ việc do mắc bệnh thuộc danh mục cần chữa trị dài ngày do Bộ Y tế ban hành là:",
+    "answer": "75% mức tiền lương đóng BHXH của tháng liền kề trước khi nghỉ việc"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Điều kiện về thời gian đóng bảo hiểm thất nghiệp để được hưởng trợ cấp thất nghiệp đối với người lao động làm việc theo hợp đồng lao động theo mùa vụ được quy định như thế nào?",
+    "answer": "Đã đóng bảo hiểm thất nghiệp từ đủ 12 tháng trở lên trong thời gian 36 tháng trước khi chấm dứt hợp đồng lao động."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Tổ chức Công đoàn KHÔNG có trách nhiệm nào sau đây:",
+    "answer": "Giải quyết khiếu nại về BHXH"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Nguyên tắc nào không phải là nguyên tắc cơ bản trong giải quyết tranh chấp ASXH?",
+    "answer": "Đảm bảo quyền tự quyết định của các bên trong quá trình giải quyết tranh chấp."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Mức trợ cấp xã hội hàng tháng đối với người từ đủ 16 đến 22 tuổi có cả cha và mẹ bị mất tích theo quy định pháp luật đang học phổ thông được quy định như thế nào?",
+    "answer": "Được trợ cấp xã hội hàng tháng với mức thấp nhất bằng mức chuẩn trợ giúp xã hội nhân với hệ số 1,5."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Khi cơ quan BHXH khởi kiện người sử dụng lao động ra Tòa án yêu cầu giải quyết tranh chấp về hành vi trốn đóng BHXH của người sử dụng lao động thì việc giải quyết tranh chấp được xác định như thế nào?",
+    "answer": "Cơ quan BHXH xử lý vi phạm của người sử dụng lao động hoặc kiến nghị với cơ quan nhà nước có thẩm quyền xử lý vi phạm pháp luật về BHXH."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Người lao động khi tham gia BHXH KHÔNG có trách nhiệm nào sau đây:",
+    "answer": "Khiếu nại về BHXH theo quy định pháp luật."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Chế độ nào KHÔNG phải là chế độ ưu đãi đối với người có công với cách mạng và thân nhân của họ?",
+    "answer": "Nâng lương trước thời hạn"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Người lao động có đủ 20 năm đóng BHXH trở lên và đủ 15 năm làm công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc độc hại thuộc danh mục do Bộ Lao động thương binh xã hội, Bộ Y tế ban hành cần điều kiện tuổi đời như thế nào để được hưởng lương hưu hằng tháng?",
+    "answer": "Nam từ đủ 55 tuổi đến đủ 60 tuổi, nữ từ đủ 50 tuổi đến đủ 55 tuổi."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Người lao động có đủ 20 năm đóng BHXH trở lên và đủ 15 năm làm công việc khai thác than trong hầm lò cần điều kiện tuổi đời như thế nào để được hưởng lương hưu hằng tháng?",
+    "answer": "Nam/nữ từ đủ 50 đến đủ 55 tuổi."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Pháp luật ASXH Việt Nam sử dụng phương pháp nào để điều chỉnh các quan hệ ASXH?",
+    "answer": "Kết hợp cả hai phương pháp mệnh lệnh và thỏa thuận"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Thời hiệu khiếu nại quyết định, hành vi hành chính về BHXH được quy định như thế nào?",
+    "answer": "90 ngày kể từng ngày nhận được quyết định hành chính hoặc biết được quyết định hành chính, hành vi hành chính."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Hồ sơ hưởng chế độ ưu đãi của thương binh KHÔNG có giấy tờ nào sau đây:",
+    "answer": "Bản khai tình hình thân nhân."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Thẻ BHYT KHÔNG bị thu hồi trong trường hợp:",
+    "answer": "Cấp trùng thẻ BHYT"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Trong các nguyên tắc sau đây, nguyên tắc nào là nguyên tắc cơ bản của pháp luật ASXH Việt Nam:",
+    "answer": "Nguyên tắc đa dạng hóa, xã hội hóa."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Theo quy định của pháp luật ASXH Việt Nam, Tòa án chuyên trách giải quyết các tranh chấp về ASXH được tổ chức ở cấp nào?",
+    "answer": "Chưa có Tòa án chuyên trách giải quyết tranh chấp ASXH"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Thời hạn có hiệu lực của hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế hằng năm được quy định như thế nào?",
+    "answer": "Thời hạn của hợp đồng từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm, tối đa không quá 36 tháng;"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Mức đóng mà Người sử dụng lao động hằng tháng phải đóng vào Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp là:",
+    "answer": "Tối đa 1% trên quỹ lương làm căn cứ đóng BHXH cho người lao động"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Mức trợ cấp một lần đối với người lao động có thời gian đóng BHXH cao hơn số năm tương ứng với tỷ lệ hưởng lương hưu 75% được quy định như thế nào?",
+    "answer": "Tính theo số năm đóng BHXH cao hơn số năm tương ứng với tỷ lệ hưởng lương hưu 75%, cứ mỗi năm đóng BHXH thì được tính bằng 0,5 tháng mức bình quân tiền lương tháng đóng BHXH."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Thân nhân của hai liệt sĩ trở lên đồng thời là thân nhân của người có công từ trần thì được hưởng trợ cấp tiền tuất hàng tháng như thế nào?",
+    "answer": "Chỉ hưởng trợ cấp tiền tuất hàng tháng đối với thân nhân liệt sĩ."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Người thuộc trường nào sau đây KHÔNG được xem xét xác nhận là liệt sĩ?",
+    "answer": "Chết trong khi thăm viếng hữu nghị."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Chế độ nào không phải chế độ ưu đãi đối với người làm nghĩa vụ quốc tế?",
+    "answer": "Vay vốn ưu đãi để sản xuất"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Trong các nguyên tắc sau đây, nguyên tắc nào KHÔNG phải là nguyên tắc cơ bản của pháp luật ASXH Việt Nam:",
+    "answer": "Nguyên tắc áp dụng tập quán."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Hồ sơ hưởng chế độ ưu đãi của liệt sỹ KHÔNG có giấy tờ nào sau đây:",
+    "answer": "Bản Photo có chứng thực Bằng tổ quốc ghi công."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Thời hạn để Chủ tịch UBND cấp huyện xem xét, quyết định trợ cấp xã hội hàng tháng cho đối tượng trợ giúp xã hội được quy định như thế nào?",
+    "answer": "Thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản trình của Phòng Lao động thương binh xã hội"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Khi người lao động khởi kiện ra Tòa án yêu cầu giải quyết tranh chấp về quyết định hành chính, hành vi hành chính của cơ quan BHXH thì Tòa án sẽ xác định vụ án tranh chấp như thế nào?",
+    "answer": "Tòa án xác định là vụ án hành chính"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Người lao động KHÔNG được hưởng chế độ tai nạn lao động khi suy giảm khả năng lao động từ 5% trở lên trong trường hợp:",
+    "answer": "Tai nạn do người lao động cố ý tự hủy hoại sức khỏe của bản thân"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "BHXH tự nguyện có các chế độ nào sau đây",
+    "answer": "Hưu trí, tử tuất"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Thẻ BHYT KHÔNG được đổi trong trường hợp:",
+    "answer": "Người có tên trong thẻ định cư ở nước ngoài."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Trong các nguyên tắc sau đây, nguyên tắc nào KHÔNG phải là nguyên tắc cơ bản của pháp luật ASXH Việt Nam:",
+    "answer": "Nguyên tắc tự do, tự nguyện thỏa thuận."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Hiến pháp năm 2013 quy định đối tượng nào sau đây được bảo đảm an sinh xã hội",
+    "answer": "Công dân."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Hội đồng xét duyệt trợ giúp xã hội do cơ quan/cá nhân có thẩm quyền nào thành lập?",
+    "answer": "Chủ tịch UBND cấp xã"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Người lao động đóng BHXH tự nguyện nếu có yêu cầu cũng KHÔNG được hưởng BHXH một lần nếu thuộc trường hợp sau:",
+    "answer": "Chuyển sang chế độ BHXH bắt buộc"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc cơ bản trong giải quyết tranh chấp ASXH?",
+    "answer": "Khoan hồng đối với người tự thú, đầu thú, thành khẩn khai báo."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Thời gian hưởng trợ cấp thất nghiệp tính theo số tháng đóng bảo hiểm thất nghiệp được quy định như thế nào?",
+    "answer": "Đóng đủ 12 tháng đến đủ 36 thì được hưởng 03 tháng trợ cấp thất nghiệp, sau đó cứ đóng đủ thêm 12 tháng thì được thêm 01 tháng trợ cấp thất nghiệp nhưng tối đa không quá 12 tháng."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Đối tượng nào KHÔNG được hưởng chế độ ưu đãi người có công với cách mạng và thân nhân của họ:",
+    "answer": "Thương binh nhưng đang bị chấp hành án tù giam."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Thẻ BHYT KHÔNG có thông tin sau:",
+    "answer": "Ảnh của người tham gia BHYT"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Công ước 102 của ILO quy định các chế độ ASXH nào?",
+    "answer": "Chăm sóc y tế; ốm đau; thất nghiệp; tuổi già; tai nạn lao động; trợ cấp gia đình; thai sản; mất sức lao động; tử tuất."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Văn bản quy phạm pháp luật về ASXH của Việt Nam trong giai đoạn từ Cách mạng tháng 8 năm 1945 đến năm 1960 chủ yếu dưới hình thức nào?",
+    "answer": "Sắc lệnh"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Trường hợp một người tham gia BHYT vừa thuộc nhóm đối tượng do ngân sách nhà nước đóng vừa thuộc nhóm đối tượng do tổ chức BHXH đóng thì được hưởng quyền lợi BHYT theo đối tượng nào?",
+    "answer": "Theo đối tượng có quyền lợi cao nhất."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Thời hạn người sử dụng lao động phải tham gia bảo hiểm thất nghiệp cho người lao động tại tổ chức BHXH là bao nhiêu ngày?",
+    "answer": "30 ngày kể từ hợp đồng lao động hoặc hợp đồng làm việc có hiệu lực."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Mức hỗ trợ người bị thương nặng do thiên tai tại nơi cư trú hoặc ngoài nơi cư trú được quy định như thế nào?",
+    "answer": "Được xem xét hỗ trợ với mức bằng 10 lần mức chuẩn trợ giúp xã hội theo quy định."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Mức trợ cấp mai táng mà người lo mai táng được nhận khi người lao động chết do tai nạn lao động, bệnh nghề nghiệp được quy định như thế nào?",
+    "answer": "Bằng 10 lần mức lương cơ sở tại tháng mà người lao động chết."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Người sử dụng lao động khi tham gia bảo hiểm xã hội KHÔNG có quyền nào sau đây:",
+    "answer": "Quản lý sổ BHXH của người lao động"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Thân nhân của người có công là ai?",
+    "answer": "Cha đẻ, mẹ đẻ; vợ hoặc chồng; con (con đẻ, con nuôi); Thân nhân liệt sĩ còn là người có công nuôi dưỡng liệt sĩ."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Tổ chức chính trị xã hội nào có trách nhiệm giám sát việc thực hiện các chính sách, chế độ ưu đãi với người có công với cách mạng và thân nhân của họ?",
+    "answer": "Mặt trận tổ quốc Việt Nam"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Mức hưởng trợ cấp thất nghiệp hằng tháng đối với người lao động làm việc theo hợp đồng lao động không xác định thời hạn được quy định như thế nào?",
+    "answer": "Bằng 60% mức bình quân tiền lương tháng đóng bảo hiểm thất nghiệp của 06 tháng liền kề trước khi thất nghiệp, tối đa không quá 05 lần mức lương tối thiểu vùng."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Mức hỗ trợ kinh phí đào tạo, bồi dưỡng nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động được quy định như thế nào?",
+    "answer": "Tối đa 01 triệu đồng/người/tháng. Mức hỗ trợ cụ thể được tính theo tháng, thời gian học thực tế của từng nghề hoặc từng khóa học nhưng không quá 06 tháng."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Tổ chức Công đoàn KHÔNG có trách nhiệm nào sau đây:",
+    "answer": "Giải quyết khiếu nại về BHXH"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Quan điểm nào sau đây là ĐÚNG:",
+    "answer": "Thuật ngữ “An sinh xã hội” được sử dụng trong Hiến pháp 2013."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Trong các nguyên tắc sau đây, nguyên tắc nào KHÔNG phải là nguyên tắc cơ bản của pháp luật ASXH Việt Nam:",
+    "answer": "Nguyên tắc áp dụng tập quán."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Mức hỗ trợ lương thực đối với tất cả các thành viên hộ gia đình thiếu đói trong dịp tết âm lịch được quy định như thế nào?",
+    "answer": "Hỗ trợ 15 kg gạo /người."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc cơ bản trong giải quyết tranh chấp ASXH?",
+    "answer": "Khoan hồng đối với người tự thú, đầu thú, thành khẩn khai báo."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Trách nhiệm hỗ trợ quỹ bảo hiểm thất nghiệp của nhà nước được quy định như thế nào?",
+    "answer": "Nhà nước hỗ trợ tối đa 1% quỹ tiền lương tháng đóng bảo hiểm thất nghiệp của những người lao động đang tham gia bảo hiểm thất nghiệp và do ngân sách trung ương đảm bảo."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Luật BHYT 2008 (sửa đổi bổ sung năm 2014) KHÔNG áp dụng với đối tượng nào sau đây:",
+    "answer": "BHYT mang tính kinh doanh"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Chọn đáp án ĐÚNG về khái niệm BHXH:",
+    "answer": "Bảo hiểm xã hội là sự bảo đảm thay thế hoặc bù đắp một phần thu nhập của người lao động khi họ bị giảm hoặc mất thu nhập do ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp, hết tuổi lao động hoặc chết, trên cơ sở đóng vào quỹ bảo hiểm xã hội."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Người tham gia BHYT được quỹ BHYT chi trả các chi phí sau:",
+    "answer": "Khám bệnh, chữa bệnh; Phục hồi chức năng; Khám thai định kỳ, sinh con; Vận chuyển người bệnh trong các trường hợp theo quy định."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Đối tượng nào sau đây KHÔNG phải tham gia bảo hiểm thất nghiệp:",
+    "answer": "Lao động giúp việc gia đình"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Pháp luật ASXH Việt Nam có các cơ chế nào trong giải quyết tranh chấp ASXH?",
+    "answer": "Thương lượng, hòa giải, khiếu nại, tố tụng"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Người thuộc trường nào sau đây KHÔNG được xem xét xác nhận là liệt sĩ?",
+    "answer": "Chết trong khi thăm viếng hữu nghị."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Đối tượng nào sau đây KHÔNG thuộc đối tượng hưởng trợ cấp xã hội hàng tháng?",
+    "answer": "Trẻ em mồ côi cha hoặc mẹ"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Đối tượng nào sau đây KHÔNG thuộc đối tượng hưởng trợ cấp xã hội hàng tháng?",
+    "answer": "Người cao tuổi thuộc hộ nghèo."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây là tranh chấp về ưu đãi xã hội:",
+    "answer": "Tranh chấp giữa thân nhân liệt sỹ với Giám đốc Sở lao động thương binh xã hội về chế độ trợ cấp tiền tuất hàng tháng."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Hồ sơ hưởng chế độ ưu đãi đối với người hoạt động kháng chiến bị nhiễm chất độc hóa học KHÔNG có giấy tờ nào sau đây:",
+    "answer": "Bản sao Bằng tổ quốc ghi công."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Người đóng BHYT ĐƯỢC hưởng BHYT trong trường hợp nào sau đây:",
+    "answer": "Khám thai định kỳ."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Người lao động KHÔNG được ủy quyền cho người khác nộp hồ sơ hoặc gửi hồ sơ đề nghị hưởng trợ cấp thất nghiệp theo đường bưu điện nếu thuộc trường hợp:",
+    "answer": "Nhập học có xác nhận của Cơ sở đào tạo."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Điều kiện về thời gian đóng bảo hiểm thất nghiệp để được hưởng trợ cấp thất nghiệp đối với người lao động làm việc theo hợp đồng lao động theo mùa vụ được quy định như thế nào?",
+    "answer": "Đã đóng bảo hiểm thất nghiệp từ đủ 12 tháng trở lên trong thời gian 36 tháng trước khi chấm dứt hợp đồng lao động."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Nguồn hình thành Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp bao gồm:",
+    "answer": "Người sử dụng lao động đóng, tiền sinh lời từ hoạt động đầu tư từ Quỹ, các khoản thu hợp pháp khác."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Khi người lao động khởi kiện ra Tòa án yêu cầu giải quyết tranh chấp về quyết định hành chính, hành vi hành chính của cơ quan BHXH thì Tòa án sẽ xác định vụ án tranh chấp như thế nào?",
+    "answer": "Tòa án xác định là vụ án hành chính"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Chế độ trợ cấp hàng tháng của người hoạt động cách mạng được quy định như thế nào?",
+    "answer": "Trợ cấp hàng tháng bằng 0,6 lần mức chuẩn."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Lao động nam đang đóng BHXH khi vợ sinh con trong trường hợp bình thường được nghỉ việc hưởng chế độ thai sản là:",
+    "answer": "05 ngày làm việc"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Người đang hưởng trợ cấp thất nghiệp KHÔNG bị chấm dứt hưởng trợ cấp thất nghiệp trong trường hợp:",
+    "answer": "Bị tai nạn giao thông"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Thời hiệu khiếu nại quyết định, hành vi hành chính về BHXH được quy định như thế nào?",
+    "answer": "90 ngày kể từng ngày nhận được quyết định hành chính hoặc biết được quyết định hành chính, hành vi hành chính."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Mức đóng BHYT hằng tháng của người lao động làm việc theo hợp đồng lao động không xác định được quy định như thế nào:",
+    "answer": "Tối đa bằng 6% tiền lương tháng trong đó người sử dụng lao động đóng 2/3 và người lao động đóng 1/3."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Mức hỗ trợ người bị thương nặng do thiên tai tại nơi cư trú hoặc ngoài nơi cư trú được quy định như thế nào?",
+    "answer": "Được xem xét hỗ trợ với mức bằng 10 lần mức chuẩn trợ giúp xã hội theo quy định."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Chế độ nào không phải chế độ ưu đãi đối với thương binh?",
+    "answer": "Trợ cấp thờ cúng."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Người lao động nghỉ việc do mắc bệnh thuộc danh mục bệnh cần chữa trị dài ngày do Bộ Y tế ban hành thì được hưởng chế độ ốm đau là:",
+    "answer": "Tối đa 180 ngày tính cả ngày nghỉ lễ, nghỉ tết, ngày nghỉ hàng tuần;"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Người thuộc trường nào sau đây KHÔNG được xem xét xác nhận là liệt sĩ?",
+    "answer": "Khi đang trực tiếp làm nhiệm vụ tìm kiếm, quy tập hài cốt liệt sĩ do cơ quan có thẩm quyền giao;"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Chế độ bảo hiểm thất nghiệp thuộc phạm vi điều chỉnh của Luật nào:",
+    "answer": "Luật Việc làm năm 2013"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Hành vi nào sau đây KHÔNG phải là hành vi bị nghiêm cấm trong lĩnh vực BHXH:",
+    "answer": "Ủy quyền cho người khác nhận trợ cấp BHXH"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Người từ đủ 80 tuổi trở lên đang hưởng trợ cấp tuất bảo hiểm xã hội hàng tháng khi chết được hỗ trợ chi phí mai táng với mức như thế nào?",
+    "answer": "Bằng 20 lần mức chuẩn trợ giúp xã hội theo quy định."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Mức đóng BHYT hằng tháng của người lao động làm việc theo hợp đồng không xác định thời hạn được quy định như thế nào?",
+    "answer": "Bằng 3 % tiền lương tháng của người lao động."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Mức tiền lương tháng tối đa để tính số tiền đóng BHYT là:",
+    "answer": "20 lần mức lương cơ sở"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Việc đóng BHYT hằng tháng của người đang hưởng trợ cấp thất nghiệp được quy định như thế nào?",
+    "answer": "Tối đa bằng 6% tiền trợ cấp thất nghiệp và do tổ chức BHXH đóng"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Khi cơ quan BHXH khởi kiện người sử dụng lao động ra Tòa án yêu cầu giải quyết tranh chấp về hành vi trốn đóng BHXH của người sử dụng lao động thì việc giải quyết tranh chấp được xác định như thế nào?",
+    "answer": "Cơ quan BHXH xử lý vi phạm của người sử dụng lao động hoặc kiến nghị với cơ quan nhà nước có thẩm quyền xử lý vi phạm pháp luật về BHXH."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Chế độ nào không phải chế độ ưu đãi đối với người hoạt động cách mạng?",
+    "answer": "Ưu tiên trong tuyển sinh, tạo việc làm"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Quan điểm nào sau đây là ĐÚNG:",
+    "answer": "Từ Hiến pháp năm 1946 đã có những quy định về quyền ASXH."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Thời gian hưởng chế độ khi con dưới 03 tuổi ốm đau trong một năm cho mỗi con được tính theo số ngày chăm sóc con là:",
+    "answer": "20 ngày làm việc"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Quy định nào sau đây KHÔNG đúng đối với Hợp đồng dịch vụ chăm sóc nuôi dưỡng giữa đối tượng với Cơ sở bảo trợ xã hội?",
+    "answer": "Hợp đồng phải có xác nhận của UBND cấp huyện nơi có đăng ký Cơ sở bảo trợ xã hội"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Người sử dụng lao động khi tham gia bảo hiểm xã hội KHÔNG có quyền nào sau đây:",
+    "answer": "Quản lý sổ BHXH của người lao động"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Mức hỗ trợ kinh phí phục hồi chức năng cho người lao động được quy định như thế nào?",
+    "answer": "Tối đa bằng 50% chi phí phục hồi chức năng lao động sau khi đã được bảo hiểm y tế chi trả nhưng không vượt quá 02 lần mức lương cơ sở/1 người/1 lượt. Số lần hỗ trợ tối đa mỗi người là 02 lần, trong 01 năm chỉ được nhận hỗ trợ 01 lần."
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Tranh chấp nào sau đây là tranh chấp về ưu đãi xã hội:",
+    "answer": "Tranh chấp giữa thân nhân liệt sỹ với Giám đốc Sở lao động thương binh xã hội về chế độ trợ cấp tiền tuất hàng tháng."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Thời hạn cơ quan BHXH phải giải quyết và tổ chức chi trả cho người lao động hưởng chế độ thai sản là: :",
+    "answer": "10 ngày kể từ ngày nhận đủ hồ sơ theo quy định từ người sử dụng lao động"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Những tranh chấp ASXH nào được xác định là tranh chấp lao động cá nhân có thể khởi kiện thẳng ra Tòa án mà không bắt buộc phải qua thủ tục hòa giải?",
+    "answer": "Cả đáp án A, B, C"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Mức đóng BHYT hằng tháng của người hưởng lương hưu do tổ chức BHXH đóng được quy định như thế nào:",
+    "answer": "Tối đa bằng 6% tiền lương hưu."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Hiện nay chế độ tai nạn lao động, bệnh nghề nghiệp do Luật nào quy định?",
+    "answer": "Luật An toàn, vệ sinh lao động năm 2015"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Thời hạn người sử dụng lao động phải tham gia bảo hiểm thất nghiệp cho người lao động tại tổ chức BHXH là bao nhiêu ngày?",
+    "answer": "30 ngày kể từ hợp đồng lao động hoặc hợp đồng làm việc có hiệu lực."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Mức ngân sách nhà nước hỗ trợ đóng BHYT đối với học sinh, sinh viên được quy định là bao nhiêu?",
+    "answer": "Hỗ trợ tối thiểu 30% mức đóng bảo hiểm y tế."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Mức trợ cấp một lần đối với người lao động có thời gian đóng BHXH cao hơn số năm tương ứng với tỷ lệ hưởng lương hưu 75% được quy định như thế nào?",
+    "answer": "Tính theo số năm đóng BHXH cao hơn số năm tương ứng với tỷ lệ hưởng lương hưu 75%, cứ mỗi năm đóng BHXH thì được tính bằng 0,5 tháng mức bình quân tiền lương tháng đóng BHXH."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Thẻ BHYT KHÔNG có thông tin sau:",
+    "answer": "Ảnh của người tham gia BHYT"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Theo quy định của pháp luật ASXH Việt Nam, Tòa án chuyên trách giải quyết các tranh chấp về ASXH được tổ chức ở cấp nào?",
+    "answer": "Chưa có Tòa án chuyên trách giải quyết tranh chấp ASXH"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Tòa án nhân dân không thụ lý vụ tranh chấp nào sau đây:",
+    "answer": "Cơ quan BHXH khởi kiện người sử dụng lao động yêu cầu giải quyết tranh chấp về hành vi trốn đóng BHXH"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Thân nhân của người có công là ai?",
+    "answer": "Cha đẻ, mẹ đẻ; vợ hoặc chồng; con (con đẻ, con nuôi); Thân nhân liệt sĩ còn là người có công nuôi dưỡng liệt sĩ."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Chế độ nào KHÔNG phải là chế độ ưu đãi đối với người có công với cách mạng và thân nhân của họ?",
+    "answer": "Nâng lương trước thời hạn"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Đối tượng nào KHÔNG được hưởng chế độ ưu đãi người có công với cách mạng và thân nhân của họ:",
+    "answer": "Thương binh nhưng đang bị chấp hành án tù giam."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Thời gian nhận chăm sóc, nuôi dưỡng tạm thời tại cộng đồng đối với nạn nhân của bạo lực gia đình được quy định như thế nào?",
+    "answer": "Không quá 03 tháng."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Mức lương hưu hằng tháng thấp nhất của người lao động tham gia BHXH bắt buộc đủ điều kiện hưởng lương hưu hằng tháng được quy định như thế nào?",
+    "answer": "Bằng 0,5 mức lương cơ sở"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Đối tượng nào KHÔNG được hưởng chế độ ưu đãi người có công với cách mạng và thân nhân của họ:",
+    "answer": "Bệnh binh nhưng bị tước danh hiệu quân nhân."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Trợ cấp một lần khi chết do tai nạn lao động, bệnh nghề nghiệp được tính như thế nào?",
+    "answer": "Thân nhân người lao động được hưởng trợ cấp một lần bằng 36 lần mức lương cơ sở tại tháng người lao động bị chết."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Mức hưởng dưỡng sức, phục hồi sức khỏe sau khi ốm đau của người lao động tính theo một ngày là:",
+    "answer": "30% mức mức cơ sở."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Nguyên tắc nào không phải là nguyên tắc cơ bản trong giải quyết tranh chấp ASXH?",
+    "answer": "Đảm bảo quyền tự quyết định của các bên trong quá trình giải quyết tranh chấp."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Mức trợ cấp nuôi dưỡng hàng tháng thấp nhất tại cơ sở bảo trợ xã hội đối với người lang thang xin ăn từ đủ 60 tuổi trở lên trong thời gian chờ đưa về nơi cư trú được quy định như thế nào?",
+    "answer": "Bằng mức chuẩn trợ giúp xã hội theo quy định nhân với hệ số 4,0"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Đối tượng nào sau đây KHÔNG thuộc đối tượng hưởng trợ cấp xã hội hàng tháng?",
+    "answer": "Trẻ em mồ côi cha hoặc mẹ"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Đối tượng nào sau đây bắt buộc phải tham gia bảo hiểm thất nghiệp:",
+    "answer": "Người lao động làm việc theo hợp đồng lao động xác định thời hạn 24 tháng"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Người thuộc trường nào sau đây KHÔNG được xem xét xác nhận là liệt sĩ?",
+    "answer": "Chết trong khi thăm viếng hữu nghị."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Hiến pháp năm 2013 quy định đối tượng nào sau đây được bảo đảm an sinh xã hội",
+    "answer": "Công dân."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Đối tượng nào sau đây KHÔNG phải tham gia bảo hiểm thất nghiệp:",
+    "answer": "Lao động giúp việc gia đình"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Thời hạn tổ chức BHYT cấp lại thẻ BHYT cho người tham gia BHYT được quy định như thế nào?",
+    "answer": "Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp lại thẻ."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Quan hệ ASXH (theo nghĩa hẹp) thuộc đối tượng điều chỉnh của pháp luật ASXH Việt Nam bao gồm các nhóm nào?",
+    "answer": "Quan hệ về BHXH, Quan hệ về Bảo hiểm y tế, Quan hệ về bảo hiểm thất nghiệp, Quan hệ về ưu đãi xã hội, Quan hệ về cứu trợ xã hội"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Mức hỗ trợ lương thực đối với tất cả các thành viên hộ gia đình thiếu đói trong dịp tết âm lịch được quy định như thế nào?",
+    "answer": "Hỗ trợ 15 kg gạo /người."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Thời hạn người lao động phải phải nộp hồ sơ hưởng trợ cấp thất nghiệp tại Trung tâm dịch vụ việc làm được quy định như thế nào?",
+    "answer": "03 tháng kể từ ngày chấm dứt hợp đồng lao động hoặc hợp đồng làm việc"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Thẻ BHYT KHÔNG được đổi trong trường hợp:",
+    "answer": "Người có tên trong thẻ định cư ở nước ngoài."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Thời gian chi trả chính sách trợ giúp xã hội thông qua Tổ chức dịch vụ chi trả được quy định như thế nào?",
+    "answer": "Từ ngày 5 đến ngày 15 hàng tháng"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Pháp luật ASXH Việt Nam KHÔNG có vai trò nào sau đây?",
+    "answer": "Phòng ngừa và đấu tranh chống tội phạm."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Mức hỗ trợ làm nhà ở, sửa chữa nhà ở đối với Hộ nghèo có nhà bị cháy hoàn toàn do hỏa hoạn mà không còn nơi ở được quy định như thế nào?",
+    "answer": "Được xem xét hỗ trợ chi phí làm nhà ở với mức tối đa không quá 20.000.000 đồng/ hộ"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Người lao động có đủ 20 năm đóng BHXH trở lên, làm việc trong điều kiện bình thường thì cần điều kiện tuổi đời như thế nào để được hưởng lương hưu hằng tháng?",
+    "answer": "Nam đủ 60 tuổi, nữ 55 tuổi."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Văn bản quy phạm pháp luật về ASXH của Việt Nam trong giai đoạn từ Cách mạng tháng 8 năm 1945 đến năm 1960 chủ yếu dưới hình thức nào?",
+    "answer": "Sắc lệnh"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Mức hỗ trợ kinh phí đào tạo, bồi dưỡng nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động được quy định như thế nào?",
+    "answer": "Tối đa 01 triệu đồng/người/tháng. Mức hỗ trợ cụ thể được tính theo tháng, thời gian học thực tế của từng nghề hoặc từng khóa học nhưng không quá 06 tháng."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Thời gian hưởng trợ cấp thất nghiệp tính theo số tháng đóng bảo hiểm thất nghiệp được quy định như thế nào?",
+    "answer": "Đóng đủ 12 tháng đến đủ 36 thì được hưởng 03 tháng trợ cấp thất nghiệp, sau đó cứ đóng đủ thêm 12 tháng thì được thêm 01 tháng trợ cấp thất nghiệp nhưng tối đa không quá 12 tháng."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Người tham gia BHYT được quỹ BHYT chi trả các chi phí sau:",
+    "answer": "Khám bệnh, chữa bệnh; Phục hồi chức năng; Khám thai định kỳ, sinh con; Vận chuyển người bệnh trong các trường hợp theo quy định."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Tranh chấp nào sau đây là tranh chấp về trợ giúp xã hội:",
+    "answer": "Tranh chấp giữa hộ gia đình với Chủ tịch UBND cấp xã về hỗ trợ lương thực sau thiên tai."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Đối tượng KHÔNG được ngân sách nhà nước hỗ trợ đóng BHYT là:",
+    "answer": "Người đang hưởng trợ cấp thất nghiệp."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Công ước 102 của ILO quy định các chế độ ASXH nào?",
+    "answer": "Chăm sóc y tế; ốm đau; thất nghiệp; tuổi già; tai nạn lao động; trợ cấp gia đình; thai sản; mất sức lao động; tử tuất."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Lao động nữ có thể đi làm trước khi hết thời hạn nghỉ sinh con khi đã nghỉ hưởng chế độ ít nhất là:",
+    "answer": "04 tháng"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Thời hạn để Sở Lao động - Thương binh và Xã hội ra quyết định thực hiện chế độ ưu đãi đối với người hoạt động cách mạng trước 1/1/1945 được quy định như thế nào?",
+    "answer": "trong thời gian 10 ngày làm việc từ ngày tiếp nhận đủ hồ sơ hợp lệ"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Chế độ chính sách trợ giúp xã hội được thực hiện chi trả trực tiếp hàng tháng cho đối tượng thụ hưởng thông qua cơ quan/ tổ chức nào ?",
+    "answer": "Một trong 3 đáp án theo quyết định của Chủ tịch UBND cấp tỉnh."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Chế độ nào không phải chế độ ưu đãi đối với bệnh binh?",
+    "answer": "Hỗ trợ theo học tại cơ sở giáo dục thuộc hệ thống giáo dục quốc dân đến trình độ đại học."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Trường hợp người lao động đóng BHXH tự nguyện có thời gian đóng BHXH chưa đủ 01 năm thì mức trợ cấp tuất một lần cho thân nhân được quy định như thế nào?",
+    "answer": "Bằng số tiền đã đóng nhưng mức tối đa bằng 02 tháng mức bình quân thu nhập tháng đóng BHXH"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Thời điểm đóng bảo hiểm thất nghiệp của người lao động và người sử dụng lao động được quy định như thế nào ?",
+    "answer": "Là thời điểm đóng BHXH bắt buộc."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Tranh chấp nào sau đây là tranh chấp về bảo hiểm thất nghiệp:",
+    "answer": "Tranh chấp giữa người sử dụng lao động với Sở lao động thương binh xã hội điều kiện hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Trong các nguyên tắc sau đây, nguyên tắc nào KHÔNG phải là nguyên tắc cơ bản của pháp luật ASXH Việt Nam:",
+    "answer": "Nguyên tắc tự do, tự nguyện thỏa thuận."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Ngoài nhà nước là chủ thể đặc biệt điều tiết quan hệ pháp luật thì chủ thể tham gia quan hệ pháp luật BHXH bao gồm:",
+    "answer": "Chủ thể đóng góp BHXH, chủ thể thực hiện BHXH, chủ thể hưởng BHXH"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Hội đồng xét duyệt trợ giúp xã hội do cơ quan/cá nhân có thẩm quyền nào thành lập?",
+    "answer": "Chủ tịch UBND cấp xã"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Thẻ BHYT vẫn CÓ giá trị sử dụng trong trường hợp:",
+    "answer": "Người có tên trong thẻ đang hưởng chế độ tai nạn lao động, bệnh nghề nghiệp."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Luật BHYT 2008 (sửa đổi bổ sung năm 2014) KHÔNG áp dụng với đối tượng nào sau đây:",
+    "answer": "BHYT mang tính kinh doanh"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Hồ sơ hưởng chế độ ưu đãi của thương binh KHÔNG có giấy tờ nào sau đây:",
+    "answer": "Bản khai tình hình thân nhân."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Mộ liệt sĩ tại nghĩa trang dòng họ do gia đình quản lý được nhà nước hỗ trợ kinh phí như thế nào?",
+    "answer": "Hỗ trợ một lần để xây vỏ mộ mức 2.500.000 đồng."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Tổ chức Công đoàn KHÔNG có trách nhiệm nào sau đây:",
+    "answer": "Giải quyết khiếu nại về BHXH"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Thời gian tính hưởng chế độ hưu trí đối với người có cả thời gian BHXH tự nguyện và BHXH bắt buộc được quy định như thế nào?",
+    "answer": "Thời gian tính hưởng là tổng thời gian đã đóng BHXH bắt buộc và BHXH tự nguyện,"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Mức đóng mà Người sử dụng lao động hằng tháng phải đóng vào Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp là:",
+    "answer": "Tối đa 1% trên quỹ lương làm căn cứ đóng BHXH cho người lao động"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Mức chuẩn trợ giúp xã hội theo quy định của pháp luật hiện hành được quy định như thế nào?",
+    "answer": "270.000 đồng"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Chế độ nào không phải chế độ ưu đãi đối với người làm nghĩa vụ quốc tế?",
+    "answer": "Vay vốn ưu đãi để sản xuất"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Người lao động bị suy giảm khả năng lao động từ 31% trở lên thì được hưởng trợ cấp hàng tháng mới mức trợ cấp là:",
+    "answer": "Được hưởng bằng 30% mức lương cơ sở, sau đó cứ suy giảm thêm 1% thì được hưởng thêm 2% mức lương cơ sở."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Các quan hệ an sinh xã hội xuất hiện từ giai đoạn nào trong sự phát triển của xã hội loài người?",
+    "answer": "Từ thời kỳ công xã nguyên thủy"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Mức trợ cấp tuất hằng tháng đối với mỗi thân nhân có người trực tiếp nuôi dưỡng được quy định như thế nào?",
+    "answer": "Bằng 50% mức lương cơ sở"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trong các Công ước của tổ chức lao động quốc tế (ILO) quy định các vấn đề về ASXH, Công ước nào được coi là công ước quan trọng nhất:",
+    "answer": "Công ước số 102 năm 1952 về Quy phạm tối thiểu về an toàn xã hội"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Trường hợp một người là Anh hùng lực lượng vũ trang nhân dân nhưng cũng là thương binh thì chế độ ưu đãi sẽ được thực hiện như thế nào?",
+    "answer": "Được hưởng trợ cấp, phụ cấp đối với từng đối tượng, các chế độ khác được hưởng mức ưu đãi của một trong hai đối tượng (trừ các trường hợp theo quy định của pháp luật)."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Trường hợp người có thẻ BHYT tự đi khám bệnh, chữa bệnh không đúng tuyến tại Bệnh viện tuyến trung ương được quỹ BHYT thanh toán theo mức hưởng là:",
+    "answer": "40% chi phí điều trị nội trú."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Trách nhiệm hỗ trợ quỹ bảo hiểm thất nghiệp của nhà nước được quy định như thế nào?",
+    "answer": "Nhà nước hỗ trợ tối đa 1% quỹ tiền lương tháng đóng bảo hiểm thất nghiệp của những người lao động đang tham gia bảo hiểm thất nghiệp và do ngân sách trung ương đảm bảo."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Người lao động có đủ 20 năm đóng BHXH trở lên và đủ 15 năm làm công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc độc hại thuộc danh mục do Bộ Lao động thương binh xã hội, Bộ Y tế ban hành cần điều kiện tuổi đời như thế nào để được hưởng lương hưu hằng tháng?",
+    "answer": "Nam từ đủ 55 tuổi đến đủ 60 tuổi, nữ từ đủ 50 tuổi đến đủ 55 tuổi."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc cơ bản trong giải quyết tranh chấp ASXH?",
+    "answer": "Khoan hồng đối với người tự thú, đầu thú, thành khẩn khai báo."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Hồ sơ đề nghị hưởng trợ cấp thất nghiệp của người lao động làm việc theo hợp đồng lao động xác định thời hạn KHÔNG cần có giấy tờ nào sau đây:",
+    "answer": "Giấy xác nhận hộ khẩu của UBND cấp xã nơi có đăng ký hộ khẩu thường trú."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Người sử dụng lao động khi tham gia BHXH KHÔNG có trách nhiệm nào sau đây:",
+    "answer": "Khởi kiện về BHXH theo quy định pháp luật"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Điều kiện về thời gian đóng bảo hiểm thất nghiệp để được hưởng trợ cấp thất nghiệp đối với người lao động làm việc theo hợp đồng lao động xác định thời hạn được quy định như thế nào?",
+    "answer": "Đã đóng bảo hiểm thất nghiệp đủ 12 tháng"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Thời hạn Trung tâm dịch vụ việc làm có trách nhiệm xem xét hồ sơ đề nghị hỗ trợ học nghề của người lao động để trình Giám đốc Sở Lao động – Thương binh và Xã hội quyết định là bao nhiêu ngày ?",
+    "answer": "Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị hỗ trợ học nghề."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Người đóng BHYT ĐƯỢC hưởng BHYT trong trường hợp nào sau đây:",
+    "answer": "Phục hồi chức năng"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Thời hạn cơ quan BHXH phải có trách nhiệm giải quyết hưởng chế độ tai nạn lao động bệnh nghề nghiệp được quy định như thế nào?",
+    "answer": "10 ngày kể từ ngày nhận đủ hồ sơ từ người sử dụng lao động."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Hồ sơ hưởng chế độ ưu đãi đối với người hoạt động kháng chiến bị nhiễm chất độc hóa học KHÔNG có giấy tờ nào sau đây:",
+    "answer": "Bản sao Bằng tổ quốc ghi công."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Mức hưởng chế độ ốm đau tính theo tháng khi người lao động nghỉ việc do mắc bệnh thuộc danh mục cần chữa trị dài ngày do Bộ Y tế ban hành là:",
+    "answer": "75% mức tiền lương đóng BHXH của tháng liền kề trước khi nghỉ việc"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Thời gian tham gia đóng BHXH được quy định như thế nào?",
+    "answer": "Thời gian tham gia đóng BHXH được tính từ khi người lao động bắt đầu đóng BHXH cho đến khi dừng đóng. Trường hợp người lao động đóng BHXH không liên tục thì thời gian đóng BHXH là tổng thời gian đã đóng BHXH."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Nguồn hình thành Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp bao gồm:",
+    "answer": "Người sử dụng lao động đóng, tiền sinh lời từ hoạt động đầu tư từ Quỹ, các khoản thu hợp pháp khác."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Đối tượng nào sau đây KHÔNG phải tham gia bảo hiểm thất nghiệp:",
+    "answer": "Lao động giúp việc gia đình"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Ngoài nhà nước là chủ thể đặc biệt điều tiết quan hệ pháp luật thì chủ thể tham gia quan hệ pháp luật BHYT bao gồm:",
+    "answer": "Chủ thể tham gia đóng góp BHYT; Chủ thể hưởng chế độ BHYT; Chủ thể thực hiện BHYT"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Trường hợp một người tham gia BHYT vừa thuộc nhóm đối tượng do ngân sách nhà nước đóng vừa thuộc nhóm đối tượng do tổ chức BHXH đóng thì được hưởng quyền lợi BHYT theo đối tượng nào?",
+    "answer": "Theo đối tượng có quyền lợi cao nhất."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Đối tượng nào sau đây KHÔNG thuộc đối tượng hưởng trợ cấp xã hội hàng tháng?",
+    "answer": "Người cao tuổi thuộc hộ nghèo."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Hồ sơ hưởng chế độ ưu đãi của liệt sỹ KHÔNG có giấy tờ nào sau đây:",
+    "answer": "Bản Photo có chứng thực Bằng tổ quốc ghi công."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Trong các nguyên tắc sau đây, nguyên tắc nào là nguyên tắc cơ bản của pháp luật ASXH Việt Nam:",
+    "answer": "Nguyên tắc đa dạng hóa, xã hội hóa."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Thân nhân của hai liệt sĩ trở lên đồng thời là thân nhân của người có công từ trần thì được hưởng trợ cấp tiền tuất hàng tháng như thế nào?",
+    "answer": "Chỉ hưởng trợ cấp tiền tuất hàng tháng đối với thân nhân liệt sĩ."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Những tranh chấp ASXH nào được xác định là tranh chấp lao động cá nhân có thể khởi kiện thẳng ra Tòa án mà không bắt buộc phải qua thủ tục hòa giải?",
+    "answer": "Cả đáp án A, B, C"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Thời hạn có hiệu lực của hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế hằng năm được quy định như thế nào?",
+    "answer": "Thời hạn của hợp đồng từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm, tối đa không quá 36 tháng;"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Điều kiện về thời gian đóng bảo hiểm thất nghiệp để được hưởng trợ cấp thất nghiệp đối với người lao động làm việc theo hợp đồng lao động theo mùa vụ được quy định như thế nào?",
+    "answer": "Đã đóng bảo hiểm thất nghiệp từ đủ 12 tháng trở lên trong thời gian 36 tháng trước khi chấm dứt hợp đồng lao động."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Thời gian hưởng chế độ khi con từ 03 đến dưới 07 tuổi ốm đau trong một năm cho mỗi con được tính theo số ngày chăm sóc con là:",
+    "answer": "15 ngày làm việc"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Trong các nguyên tắc sau đây, nguyên tắc nào KHÔNG phải là nguyên tắc cơ bản của pháp luật ASXH Việt Nam:",
+    "answer": "Nguyên tắc áp dụng tập quán."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Thẻ BHYT KHÔNG bị thu hồi trong trường hợp:",
+    "answer": "Cấp trùng thẻ BHYT"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Mức đóng hưởng BHXH tự nguyện được tính trên cơ sở:",
+    "answer": "Mức thu nhập tháng do người lao động lựa chọn"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Người đang hưởng trợ cấp thất nghiệp KHÔNG bị chấm dứt hưởng trợ cấp thất nghiệp trong trường hợp:",
+    "answer": "Sinh con."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Khi người sử dụng lao động khởi kiện ra Tòa án yêu cầu giải quyết tranh chấp về quyết định hành chính, hành vi hành chính của cơ quan BHXH thì Tòa án sẽ xác định vụ án tranh chấp như thế nào?",
+    "answer": "Tòa án xác định là vụ án hành chính"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Tổ chức chính trị xã hội nào có trách nhiệm giám sát việc thực hiện các chính sách, chế độ ưu đãi với người có công với cách mạng và thân nhân của họ?",
+    "answer": "Mặt trận tổ quốc Việt Nam"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Thời hạn tổ chức BHXH thực hiện việc chi trả trợ cấp thất nghiệp cho người lao động được quy định như thế nào?",
+    "answer": "05 ngày kể từ ngày nhận được quyết định hưởng trợ cấp thất nghiệp"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Người lao động KHÔNG được hưởng chế độ tai nạn lao động khi suy giảm khả năng lao động từ 5% trở lên trong trường hợp:",
+    "answer": "Tai nạn do người lao động cố ý tự hủy hoại sức khỏe của bản thân"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Người lao động có đủ 20 năm đóng BHXH trở lên và đủ 15 năm làm công việc khai thác than trong hầm lò cần điều kiện tuổi đời như thế nào để được hưởng lương hưu hằng tháng?",
+    "answer": "Nam/nữ từ đủ 50 đến đủ 55 tuổi."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Chọn đáp án ĐÚNG về khái niệm BHXH:",
+    "answer": "Bảo hiểm xã hội là sự bảo đảm thay thế hoặc bù đắp một phần thu nhập của người lao động khi họ bị giảm hoặc mất thu nhập do ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp, hết tuổi lao động hoặc chết, trên cơ sở đóng vào quỹ bảo hiểm xã hội."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Việc phân bổ và sử dụng tổng số tiền đóng quỹ BHYT được quy định theo tỷ lệ như thế nào?",
+    "answer": "90% dành cho quỹ khám bệnh, chữa bệnh; 10% dành cho quỹ dự phòng và chi phí quản lý quỹ bảo hiểm y tế"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Người lao động KHÔNG được hưởng chế độ thai sản khi thuộc trường hợp:",
+    "answer": "Lao động nữ thực hiện phương pháp thụ tinh ống nghiệm."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Lao động nữ có thể đi làm trước khi hết thời hạn nghỉ sinh con khi đã nghỉ hưởng chế độ ít nhất là:",
+    "answer": "04 tháng"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc cơ bản về chính sách trợ giúp xã hội?",
+    "answer": "Bình đẳng về cơ hội việc làm và thu nhập."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Thời hạn có hiệu lực của hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế hằng năm được quy định như thế nào?",
+    "answer": "Thời hạn của hợp đồng từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm, tối đa không quá 36 tháng;"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Căn cứ vào điều kiện cụ thể của địa phương, cơ quan/cá nhân nào được quyết định mức trợ cấp xã hội , mức trợ cấp nuôi dưỡng, mức hỗ trợ kinh phí chăm sóc, nuôi dưỡng và các mức trợ giúp xã hội ở địa phương cao hơn mức chuẩn trợ giúp xã hội của nhà nước?",
+    "answer": "Chủ tịch UBND cấp tỉnh"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "BHXH tự nguyện có các chế độ nào sau đây",
+    "answer": "Hưu trí, tử tuất"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Mức trợ cấp xã hội hàng tháng đối với người từ đủ 16 đến 22 tuổi có cả cha và mẹ bị mất tích theo quy định pháp luật đang học phổ thông được quy định như thế nào?",
+    "answer": "Được trợ cấp xã hội hàng tháng với mức thấp nhất bằng mức chuẩn trợ giúp xã hội nhân với hệ số 1,5."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Mức hưởng trợ cấp thất nghiệp hằng tháng đối với người lao động làm việc theo hợp đồng lao động không xác định thời hạn được quy định như thế nào?",
+    "answer": "Bằng 60% mức bình quân tiền lương tháng đóng bảo hiểm thất nghiệp của 06 tháng liền kề trước khi thất nghiệp, tối đa không quá 05 lần mức lương tối thiểu vùng."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Cơ quan nào thống nhất quản lý nhà nước về BHXH:",
+    "answer": "Chính phủ."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Quan điểm nào sau đây là ĐÚNG:",
+    "answer": "Thuật ngữ “An sinh xã hội” được sử dụng trong Hiến pháp 2013."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Pháp luật ASXH Việt Nam có các cơ chế nào trong giải quyết tranh chấp ASXH?",
+    "answer": "Thương lượng, hòa giải, khiếu nại, tố tụng"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Mức hỗ trợ chi phí mai táng đối với Hộ gia đình có người chết do tai nạn giao thông được quy định như thế nào?",
+    "answer": "Được xem xét hỗ trợ với mức bằng 10 lần mức chuẩn trợ giúp xã hội theo quy định."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Mức trợ cấp xã hội hàng tháng đối với trẻ em dưới 04 tuổi không có nguồn nuôi dưỡng mồ côi cả cha lẫn mẹ được quy định như thế nào?",
+    "answer": "Được trợ cấp xã hội hàng tháng với mức thấp nhất bằng mức chuẩn trợ giúp xã hội nhân với hệ số 2,5."
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Chế độ thăm viếng mộ liệt sĩ trong các trường hợp theo quy định được nhà nước hỗ trợ kinh phí như thế nào?",
+    "answer": "Thân nhân liệt sĩ (không quá ba người) hoặc người thờ cúng liệt sĩ khi thăm viếng mộ liệt sĩ được nhà nước hỗ trợ tiền đi lại và tiền ăn mỗi năm một lần."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Trách nhiệm đóng bảo hiểm thất nghiệp mà người sử dụng lao động phải thực hiện được quy định như thế nào?",
+    "answer": "Đóng bằng 1% quỹ tiền lương tháng của những người lao động đang tham gia bảo hiểm thất nghiệp."
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Người lao động khi tham gia BHXH KHÔNG có trách nhiệm nào sau đây:",
+    "answer": "Khiếu nại về BHXH theo quy định pháp luật."
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Thời hạn để Chủ tịch UBND cấp huyện xem xét, quyết định trợ cấp xã hội hàng tháng cho đối tượng trợ giúp xã hội được quy định như thế nào?",
+    "answer": "Thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản trình của Phòng Lao động thương binh xã hội"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Cơ quan nào thực hiện chức năng thanh tra về BHXH",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Người đóng BHYT ĐƯỢC hưởng BHYT trong trường hợp nào sau đây:",
+    "answer": "Khám thai định kỳ."
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Điều kiện nào KHÔNG phải là điều kiện phải đảm bảo của người nhận chăm sóc, nuôi dưỡng trẻ em?",
+    "answer": "Phải đủ hoặc trên 30 tuổi."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Thời hạn giải quyết khiếu nại lần đầu quyết định, hành vi hành chính về BHXH được quy định như thế nào?",
+    "answer": "Không quá 30 ngày, kể từ ngày thụ lý; đối với vụ việc phức tạp có thể kéo dài hơn nhưng không quá 45 ngày, kể từ ngày thụ lý"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Mức trợ cấp mai táng mà người lo mai táng được nhận khi người lao động chết do tai nạn lao động, bệnh nghề nghiệp được quy định như thế nào?",
+    "answer": "Bằng 10 lần mức lương cơ sở tại tháng mà người lao động chết."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Thời gian hưởng chế độ khi khám thai được quy định như thế nào?",
+    "answer": "Trong thời gian mang thai, lao động nữ được nghỉ việc để đi khám thai 05 lần, mỗi lần 1 ngày."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Người lao động KHÔNG được ủy quyền cho người khác nộp hồ sơ hoặc gửi hồ sơ đề nghị hưởng trợ cấp thất nghiệp theo đường bưu điện nếu thuộc trường hợp:",
+    "answer": "Nhập học có xác nhận của Cơ sở đào tạo."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Pháp luật ASXH Việt Nam sử dụng phương pháp nào để điều chỉnh các quan hệ ASXH?",
+    "answer": "Kết hợp cả hai phương pháp mệnh lệnh và thỏa thuận"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Người lao động đóng BHXH tự nguyện nếu có yêu cầu cũng KHÔNG được hưởng BHXH một lần nếu thuộc trường hợp sau:",
+    "answer": "Chuyển sang chế độ BHXH bắt buộc"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Thời gian hưởng chế độ khi con từ 03 đến dưới 07 tuổi ốm đau trong một năm cho mỗi con được tính theo số ngày chăm sóc con là:",
+    "answer": "15 ngày làm việc"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Người đang hưởng trợ cấp thất nghiệp KHÔNG bị chấm dứt hưởng trợ cấp thất nghiệp trong trường hợp:",
+    "answer": "Sinh con."
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Chế độ bảo hiểm thất nghiệp thuộc phạm vi điều chỉnh của Luật nào:",
+    "answer": "Luật Việc làm năm 2013"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Mức trợ cấp nuôi dưỡng hàng tháng thấp nhất tại cơ sở bảo trợ xã hội đối với người lang thang xin ăn từ đủ 60 tuổi trở lên trong thời gian chờ đưa về nơi cư trú được quy định như thế nào?",
+    "answer": "Bằng mức chuẩn trợ giúp xã hội theo quy định nhân với hệ số 4,0"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Thời hạn tổ chức BHYT cấp lại thẻ BHYT cho người tham gia BHYT được quy định như thế nào?",
+    "answer": "Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp lại thẻ."
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Trường hợp một người là Anh hùng lực lượng vũ trang nhân dân nhưng cũng là thương binh thì chế độ ưu đãi sẽ được thực hiện như thế nào?",
+    "answer": "Được hưởng trợ cấp, phụ cấp đối với từng đối tượng, các chế độ khác được hưởng mức ưu đãi của một trong hai đối tượng (trừ các trường hợp theo quy định của pháp luật)."
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Mức hưởng trợ cấp thất nghiệp hằng tháng đối với người lao động làm việc theo hợp đồng lao động không xác định thời hạn được quy định như thế nào?",
+    "answer": "Bằng 60% mức bình quân tiền lương tháng đóng bảo hiểm thất nghiệp của 06 tháng liền kề trước khi thất nghiệp, tối đa không quá 05 lần mức lương tối thiểu vùng."
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Khi người sử dụng lao động khởi kiện ra Tòa án yêu cầu giải quyết tranh chấp về quyết định hành chính, hành vi hành chính của cơ quan BHXH thì Tòa án sẽ xác định vụ án tranh chấp như thế nào?",
+    "answer": "Tòa án xác định là vụ án hành chính"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Trường hợp người có thẻ BHYT tự đi khám bệnh, chữa bệnh không đúng tuyến tại Bệnh viện tuyến trung ương được quỹ BHYT thanh toán theo mức hưởng là:",
+    "answer": "40% chi phí điều trị nội trú."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Điều kiện nào KHÔNG phải là điều kiện phải đảm bảo của người nhận chăm sóc, nuôi dưỡng trẻ em?",
+    "answer": "Phải đủ hoặc trên 30 tuổi."
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Người lao động bị suy giảm khả năng lao động từ 31% trở lên thì được hưởng trợ cấp hàng tháng mới mức trợ cấp là:",
+    "answer": "Được hưởng bằng 30% mức lương cơ sở, sau đó cứ suy giảm thêm 1% thì được hưởng thêm 2% mức lương cơ sở."
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Người sử dụng lao động khi tham gia bảo hiểm xã hội KHÔNG có quyền nào sau đây:",
+    "answer": "Quản lý sổ BHXH của người lao động"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Tổ chức chính trị xã hội nào có trách nhiệm giám sát việc thực hiện các chính sách, chế độ ưu đãi với người có công với cách mạng và thân nhân của họ?",
+    "answer": "Mặt trận tổ quốc Việt Nam"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Ngoài nhà nước là chủ thể đặc biệt điều tiết quan hệ pháp luật thì chủ thể tham gia quan hệ pháp luật BHXH bao gồm:",
+    "answer": "Chủ thể đóng góp BHXH, chủ thể thực hiện BHXH, chủ thể hưởng BHXH"
+  }
+]

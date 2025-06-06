@@ -1,0 +1,2636 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Nếu dự trữ trong hệ thống ngân hàng tăng lên $100, tiền gửi sẽ tăng lên $667 trong mô hình đơn giản nếu như tỷ lệ dự trữ bắt buộc là:",
+    "answer": "0.15"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Khi NHTW giảm số tiền cho vay chiết khấu, cơ số tiền tệ……..và lượng tiền dự trữ trong các NHTM…………",
+    "answer": "Giảm, giảm"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Khi NHTW bán 200 tỷ chứng khoán cho NHTM. Với giả định các yếu tố khác không thay đổi, tỷ lệ dự trữ bắt buộc là 10% thì lượng tiền cung ứng sẽ thay đổi như thế nào?",
+    "answer": "Giảm đi $2,000 tỷ"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Các khoản mục bên có trong bảng cân đối tài sản của NHTW là:",
+    "answer": "Chứng khoán của Chính phủ và tiền cho vay chiết khấu"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Sự giảm xuống của cơ số tiền tệ sẽ không làm cho",
+    "answer": "Đầu tư tăng"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Tín phiếu kho bạc là công cụ tài chính giao dịch nhiều nhất trên thị trường mở do",
+    "answer": "Tính lỏng và an toàn cao"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Khi Ngân hàng Trung ương bán chứng khoán chính phủ cho các tổ chức tài chính thì",
+    "answer": "Các tổ chức tài chính giảm lượng vốn sẵn sàng cho vay"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Lượng tiền cung ứng không thay đổi khi",
+    "answer": "Ngân hàng Trung ương không cho vay chiết khấu với các ngân hàng thương mại"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Khi Ngân hàng Trung ương tăng cho vay chiết khấu, lượng tiền cung ứng",
+    "answer": "Tăng"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Phân tích tổng cung và tổng cầu với giả định rằng với các yếu tố không đổi, sự gia tăng liên tục trong cung tiền gây ra",
+    "answer": "Lạm phát"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Khi lạm phát được định nghĩa là tình trạng gia tăng liên tục trong mức giá, ____ nhà kinh tế học đồng ý với đề xuất của Milton Friedman rằng lạm phát là hiện tượng tiền tệ.",
+    "answer": "Hầu hết"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Khi chính phủ quyết định tài trợ cho thâm hụt ngân sách bằng cách phát hành trái phiếu ra công chúng, lượng tiền cung ứng sẽ có xu hướng?",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Trong phân tích về tổng cung và tổng cầu, lạm phát được gây ra bởi?",
+    "answer": "Chính sách tiền tệ mở rộng"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Phương án giải quyết đơn giản nhất để chống lại lạm phát là?",
+    "answer": "Giảm sự gia tăng của cung tiền"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Theo thuyết ngang giá sức mua, nếu mức giá cả ở Mỹ tăng lên là 5% và mức giá cả ở Mexico tăng lên 6% khiến cho",
+    "answer": "Đồng USD tăng 1% so với đồng tiền của Mexico"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Khi lãi suất nội tệ tăng do sự tăng lên của lạm phát dự tính, sẽ làm cho lãi suất dự tính bằng tiền gửi ngoại tệ tăng lên, khi đó:",
+    "answer": "đường lãi suất tiền gửi ngoại tệ tương đương RF dịch phải và dịch phải nhiều hơn so với đường lãi suất tiền gửi nội tệ RD"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Lượng tiền cung ứng tăng lên sẽ khiến cho tỷ giá ngắn hạn thay đổi vì khi đó:",
+    "answer": "Đường lãi suất dự tính của tiền gửi ngoại tệ RF dịch chuyển sang phải và đường lãi suất trong nước RD dịch chuyển sang trái"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Khi NHTW bán ra một khoản dự trữ quốc tế ra trên thị trường tương đương với 10 tỷ đồng",
+    "answer": "Dự trữ quốc tế giảm và số tiền lưu hành giảm"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nếu chính phủ Mỹ tăng thuế nhập khẩu cho quần áo của Nhật, nhưng cùng lúc đó, nhu cầu của người dân Mỹ về hàng hoá của Nhật tăng lên. Nếu các thứ khác không đổi, trong dài hạn:",
+    "answer": "Đồng tiền của Nhật sẽ giảm giá hoặc tăng giá hoặc giữ nguyên so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Điều này sau đây là đúng về công ty tài chính và ngân hàng thương mại:",
+    "answer": "Công ty tài chính và ngân hàng thương mại đều chủ yếu thu lợi nhuận từ hoạt động cho vay."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Việc làm giảm thiểu rủi ro bằng cách mua các tài sản mà thu nhập của chúng không phải lúc nào cũng thay đổi cùng chiều gọi là:",
+    "answer": "Hoạt động đa dạng hóa danh mục đầu tư"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Tài sản chủ yếu của một công ty tài chính là:",
+    "answer": "Các khoản cho vay đối với doanh nghiệp và người tiêu dùng"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Vấn đề gây ra bởi thông tin không cân xứng trước khi diễn ra các giao dịch được gọi là _____, trong khi vấn đề gây ra sau khi diễn ra các giao dịch được gọi là _____.",
+    "answer": "Sự lựa chọn đối nghịch; rủi ro đạo đức"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Giải pháp nào trong các giải pháp sau đây là hiệu quả nhất trong việc làm giảm thiểu các rủi ro do thông tin không cân xứng:",
+    "answer": "Nâng cao hiệu quả và chất lượng hoạt động của các trung gian tài chính trong cấu trúc tài chính"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Hoạt động đầu tư của ngân hàng thương mại chỉ tập trung cho chứng khoán Chính phủ",
+    "answer": "Chứng khoán Chính phủ, cổ phiếu và các khoản đầu tư khác"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Bảng cân đối tài sản của ngân hàng thương mại là:",
+    "answer": "Bảng kê các tài sản và nguồn vốn của ngân hàng thương mại"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Tiền dự trữ được thể hiện trên bảng cân đối kế toán của ngân hàng thương mại theo tỷ lệ",
+    "answer": "100% bên tài sản"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Để bảo vệ lợi ích cho người gửi tiền, Ngân hàng Trung ương sẽ yêu cầu ngân hàng thương mại",
+    "answer": "Đa dạng hoá và quy định tỷ lệ tối đa mà ngân hàng thương mại có thể nhận tiền gửi dựa trên vốn tự có của ngân hàng thương mại"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Lựa chọn đối nghịch trong các thị trường cho vay đòi hỏi các ngân hàng thương mại phải lựa chọn khách hàng có ít rủi ro nhất",
+    "answer": "Đây là quy định đòi hỏi phải tuân thủ chặt chẽ"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Theo học thuyết về số lượng tiền tệ của các nhà kinh tế học cổ điển,",
+    "answer": "Lãi suất không có ảnh hưởng tới cầu tiền tệ"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Lý thuyết của Keynes về cầu tiền chỉ ra rằng nhu cầu về tiền là",
+    "answer": "Có quan hệ nghịch chiều với lãi suất"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Cầu nắm giữ tiền liên quan tới nhu cầu thanh toán các chi tiêu bất thường, hoặc các khoản chi tiêu được ưu đãi không dự đoán trước được gọi là:",
+    "answer": "Động cơ dự phòng"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Theo lý thuyết của Keynes về cầu tiền tệ, khi lãi suất thị trường hiện tại cao hơn mức lãi suất cân bằng thị trường dài hạn:",
+    "answer": "Các nhà đầu cơ sẽ kỳ vọng rằng lãi suất giảm và giá trái phiếu tăng"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Lý thuyết của Keynes về cầu tiền chỉ ra rằng tốc độ lưu chuyển của tiền:",
+    "answer": "Không phải là hằng số và thay đổi cùng với lãi suất"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Ý kiến ủng hộ Trung ương trực thuộc Chính phủ cho rằng",
+    "answer": "Chính phủ cần quản lý Ngân hàng Trung ương nhằm phối kết hợp các chính sách kinh tế vĩ mô"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Quy định về sự an toàn của ngân hàng thương mại",
+    "answer": "Do Ngân hàng Trung ương quy định"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Ngân hàng Trung ương trực thuộc Chính phủ:",
+    "answer": "Chính phủ cần quản lý Ngân hàng Trung ương nhằm phối kết hợp các chính sách kinh tế vĩ mô"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Nội dung nào không thuộc chức năng của Ngân hàng Trung ương",
+    "answer": "Phương án A và B"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Ngân hàng Trung ương là",
+    "answer": "Quỹ đầu tư"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Giả định ban đầu tỷ lệ dự trữ bắt buộc là 10%, tỷ lệ tiền mặt trên tiền gửi là 40%; tỷ lệ dự trữ vượt mức là 0. Nếu tỷ lệ dự trữ vượt mức tăng lên 15%, giả định tất cả các yếu tố khác không thay đổi, số nhân tiền sẽ thay đổi như thế nào?",
+    "answer": "Giảm từ 2.8 xuống 2.55"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Dự trữ của NHTM bao gồm:",
+    "answer": "Dự trữ bắt buộc và dự trữ tiền mặt tại két của NHTM"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ tăng lên khi:",
+    "answer": "NHTW mua tín phiếu kho bạc trên thị trường mở"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Nếu tỷ lệ dự trữ bắt buộc là 10%, tiền mặt trong quá trình lưu thông là $400 tỷ, tiền gửi có thể phát séc là $800 tỷ, dự trữ vượt mức là $0.8 tỷ vậy tỷ lệ tiền mặt trên tiền gửi là?",
+    "answer": "0.5"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Sau khi hệ thông NHTM tăng cường hoạt động cho vay, cơ số tiền tệ sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Lượng tiền cung ứng sẽ giảm xuống khi",
+    "answer": "Ngân hàng Trung ương giảm hạn mức tín dụng của các ngân hàng thương mại"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Khi một ngân hàng thương mại bán chứng khoán cho Ngân hàng Trung ương trên thị trường mở, thì",
+    "answer": "Dự trữ ngân hàng tăng và cơ số tiền tệ tăng"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây không đúng về ưu điểm của nghiệp vụ thị trường mở",
+    "answer": "Giúp Ngân hàng Trung ương thực hiện vai trò người cho vay cuối cùng"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Giả định các yếu tố khác không thay đổi, khi Ngân hàng Trung ương bán trái phiếu Chính phủ trên thị trường mở, lượng tiền cung ứng sẽ",
+    "answer": "Giảm xuống"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Lượng tiền cung ứng sẽ tăng lên khi",
+    "answer": "Ngân hàng thương mại bán tín phiếu kho bạc trên thị trường mở"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Trạng thái gia tăng liên tục trong mức giá được định nghĩa là:",
+    "answer": "Lạm phát"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Về mặt lý thuyết, so sánh lạm phát cầu kéo và lạm phát phí đẩy có thể căn cứ vào:",
+    "answer": "Tỷ lệ thất nghiệp với mức tự nhiên"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trong một nền kinh tế, khi lạm phát được dự đoán tăng lên thì điều gì xảy ra?",
+    "answer": "Lãi suất danh nghĩa tang"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Việc công nhân đòi tăng lương thành công và cam kết của chính phủ đối với một mức công ăn việc làm cao sẽ dẫn tới?",
+    "answer": "Lạm phát phí đẩy"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Xét về mặt định lượng, người ta chia lạm phát thành:",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Khi tỷ giá dài hạn dự tính trong tương lai Eet+1 giảm xuống:",
+    "answer": "lãi suất tiền gửi ngoại tệ tương đương tăng lên"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Lượng tiền cung ứng tăng lên sẽ:",
+    "answer": "làm tăng lãi suất dự tính của tiền gửi ngoại tệ và di chuyển RF sang phải"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Vào ngày 05/01/2019, 1USD đổi được trên thị trường ngoại hối 49.0 đồng rupee của Ấn Độ, do đó, 1 rupee sẽ đổi được:",
+    "answer": "0.02 USD"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Khi NHTW bán dự trữ quốc tế, đồng thời thực hiện việc mua vào trái phiếu chính phủ trái phiếu chính phủ",
+    "answer": "Lượng tiền cung ứng không thay đổi"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Nếu tỷ lệ lạm phát ở Mỹ cao hơn ở Mexico và năng suất lao động ở Mỹ tăng lên với tốc độ chậm hơn năng suất lao động của Mexico. Nếu các thứ khác không đổi, trong dài hạn:",
+    "answer": "Đồng tiền của Mexico sẽ tăng giá so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là đúng:",
+    "answer": "Công ty tài chính có thực hiện hoạt động cho vay nhưng hoạt động cho vay của công ty tài chính khác với của ngân hàng thương mại"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Loại trung gian tài chính nào sau đây không phải là tổ chức tiền gửi:",
+    "answer": "Công ty tài chính"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Nghiên cứu về hầu hết các nước phát triển trên thế giới cho thấy khi doanh nghiệp tìm kiếm nguồn tài trợ cho các hoạt động của họ thì họ chủ yếu huy động được từ:",
+    "answer": "Các tổ chức tài chính trung gian"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Điều nào sau đây là không đúng về công ty tài chính:",
+    "answer": "Công ty tài chính chủ yếu cho vay các món tiền lớn cho các doanh nghiệp lớn."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Gia tăng lượng thông tin cho các nhà đầu tư giúp làm giảm thiểu các vấn đề về _____ và _____ trên thị trường tài chính",
+    "answer": "Sự lựa chọn đối nghịch; rủi ro đạo đức"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Tiền cho vay được thể hiện trên bảng cân đối kế toán của ngân hàng thương mại theo tỷ lệ",
+    "answer": "100% bên tài sản"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Hoạt động cho vay của ngân hàng thương mại chỉ tập trung cho các khách hàng vay với thời hạn trung và dài hạn",
+    "answer": "Cho vay khách hàng không chỉ ngắn hạn mà còn cả trung và dài hạn"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Sự an toàn và hiệu quả trong kinh doanh của ngân hàng thương mại phải là",
+    "answer": "Hoạt động tuân thủ theo các quy định của pháp luật, có lợi nhuận và tỷ lệ nợ quá hạn ở mức cho phép"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Vốn chủ sở hữu của ngân hàng thương mại cổ phần được hình thành",
+    "answer": "Do các cổ đông đóng góp"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Việc giám sát khách hàng vay vốn nhằm để",
+    "answer": "Hạn chế việc khách hàng sử dụng tiền vay vào các hoạt động kinh doanh mạo hiểm"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Bởi vì Keynes giả định rằng thu nhập kỳ vọng từ tiền bằng 0, nên Keynes cho rằng mọi người sẽ",
+    "answer": "Giữ tiền như là phương tiện lưu trữ giá trị khi thu nhập kỳ vọng nhận được từ trái phiếu là âm"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Keynes giải thiết rằng nhu cầu tiền với động cơ dự phòng chủ yếu được quyết định bởi",
+    "answer": "Thu nhập"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Nhu cầu nắm giữ tiền đầu cơ có thể không tồn tại vì",
+    "answer": "Những tài sản phi rủi ro thay thế trả thu nhập cao hơn thu nhập từ tiền"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Keynes giải thiết rằng nhu cầu tiền giao dịch chủ yếu được quyết định bởi",
+    "answer": "Thu nhập"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Theo học thuyết về số lượng tiền tệ của các nhà kinh tế học cổ điển",
+    "answer": "Tốc độ của tiền ổn định trong ngắn hạn"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Phát hành tiền trên cơ sở tín dụng",
+    "answer": "Không nhất thiết phải có vàng đảm bảo"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây không đúng về Ngân hàng Trung ương",
+    "answer": "Ngân hàng Trung ương chỉ mở tài khoản cho khoản cho Kho bạc Nhà nước, không mở tài khoản cho ngân hàng thương mại"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Khi một ngân hàng thương mại mua chứng khoán của Ngân hàng Trung ương, thì",
+    "answer": "Lượng tiền cung ứng thay đổi"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Chính sách tiền tệ do",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây đúng khi đề cập về Ngân hàng Trung ương",
+    "answer": "Ngân hàng Trung ương nhận tiền gửi của ngân hàng thương mại"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Nếu tỷ lệ dự trữ bắt buộc là 20%, số nhân tiền đơn giản sẽ là",
+    "answer": "5.0"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Tỷ lệ dự trữ bắt buộc là 1/3; tiền mặt trong quá trình lưu thông là $300 tỷ, tiền gửi có thể phát séc là $900 tỷ, vậy khi đó lượng tiền cơ sở là bao nhiêu?",
+    "answer": "$600 tỷ"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Sau khi chính phủ vay của nước ngoài một lượng ngoại tệ, lượng tiền cung ứng trong nước sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Khi FED muốn giảm dự trữ trong hệ thống ngân hàng, FED có thể:",
+    "answer": "Bán trái phiếu chính phủ cho NHTM"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ giảm đi khi:",
+    "answer": "NHTW tăng tỷ lệ dự trữ bắt buộc đối với các NHTM"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Ưu điểm quan trọng nhất của chính sách chiết khấu là Ngân hàng Trung ương có thể sử dụng nó",
+    "answer": "Thực hiện vai trò người cho vay cuối cùng đối với ngân hàng thương mại"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Lượng tiền cung ứng giảm xuống khi:",
+    "answer": "Ngân hàng Trung ương bán giấy tờ có giá trên thị trường mở"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Tỷ lệ dự trữ bắt buộc giảm, làm cho",
+    "answer": "Lãi suất trên thị trường giảm"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Công cụ quan trọng nhất của chính sách tiền tệ là:",
+    "answer": "Nghiệp vụ thị trường mở"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Hoạt động thị trường mở tạo sự linh hoạt cho các ngân hàng thương mại trong việc đảm bảo thanh khoản",
+    "answer": "Hỗ trợ 20%"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Khi công nhân không tin rằng các nhà hoạch định chính sách nghiêm túc trong việc giải quyết lạm phát, công nhân sẽ có xu hướng đấu tranh đòi tăng lương, điều này làm ___ tổng ___ và có thể dẫn tới thất nghiệp hoặc lạm phát hoặc cả hai, với giả định các nhân tố khác không thay đổi",
+    "answer": "Giảm, cung"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Phân tích về các cuộc siêu lạm phát đã chỉ ra rằng sự tăng nhanh của tiền tệ dẫn tới tình trạng lạm phát là kết quả của?",
+    "answer": "Chính phủ tài trợ tình trạng vô cùng thâm hụt bằng cách in tiền"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Nếu các nhà hoạch định chính sách đặt mục tiêu thất nghiệp ở mức thấp hơn mức tự nhiên, điều này có thể dẫn tới:",
+    "answer": "Lạm phát cầu kéo"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Tài trợ chi tiêu chính phủ bằng thuế sẽ?",
+    "answer": "Không có ảnh hưởng ròng tới lượng tiền cơ sở"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Lọai lạm phát nào sau đây không phải là lạm phát phân loại dựa trên mặt định tính?",
+    "answer": "Lạm phát phi mã"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Nếu chính phủ Mỹ giảm hạn ngạch nhập khẩu cho quần áo của Nhật, nhưng cùng lúc đó, nhu cầu của người dân Nhật về hàng hoá của Mỹ tăng lên. Nếu các thứ khác không đổi, trong dài hạn:",
+    "answer": "Đồng tiền của Nhật sẽ giảm giá so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Tỷ giá được xác định trên",
+    "answer": "Thị trường ngoại hối"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Nếu nhu cầu của người Nhật về hàng hoá xuất khẩu của Mỹ tăng lên, cùng với đó năng suất lao động ở Mỹ tăng lên tương đối so với Nhật. Nếu các thứ khác không đổi, trong dài hạn:",
+    "answer": "Đồng tiền của Nhật sẽ giảm giá so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Vào ngày 25/09/2019, 1USD đổi được trên thị trường ngoại hối 0.75 euro. Do đó, 1 euro sẽ đổi được:",
+    "answer": "1.33 USD"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "“Nếu hai quốc gia sản xuất ra một mặt hàng giống hệt nhau, giá của hàng hoá đó phải giống nhau trên toàn thế giới, bất kể quốc gia nào sản xuất nó.” Đây là phát biểu theo:",
+    "answer": "Thuyết ngang giá sức mua"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Thời gian và tiền bạc được sử dụng để thực hiện các giao dịch tài chính được gọi là:",
+    "answer": "Các chi phí giao dịch"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Điều nào sau đây là không đúng về các trung gian tài chính:",
+    "answer": "Các trung gian tài chính thực hiện các hoạt động tài chính trực tiếp và gián tiếp."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Loại tổ chức nào trong các tổ chức tài chính trung gian sau thực hiện việc huy động vốn bằng cách bán cổ phần cho các cá nhân và sau đó sử dụng vốn thu được để đầu tư vào các danh mục gồm cổ phiếu và trái phiếu:",
+    "answer": "Quỹ đầu tư chung"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Một khoản cho vay có lãi suất hoàn vốn là 10%. Số tiền thu được qua từng năm lần lượt là $1100, $1210 và $1331. Tính giá trị hiện tại của khoản đầu tư.",
+    "answer": "3000"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Thông thường, người đi vay có thông tin tốt hơn người cho vay về lợi nhuận và rủi ro tiềm năng của một dự án đầu tư. Sự khác nhau về mặt thông tin này được gọi là:",
+    "answer": "Thông tin không cân xứng"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Hạn chế tín dụng trong nội dung quản lý tiền cho vay của ngân hàng thương mại là việc Hạn chế tín dụng trong nội dung quản lý tiền cho vay của ngân hàng thương mại là việc",
+    "answer": "Ngân hàng thương mại hoặc từ chối bất kỳ một yêu cầu vay vốn nào của khách hàng hoặc sẵn lòng cho vay nhưng hạn chế ở dưới mức mà người vay mong muốn"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Một trong những biện pháp sẽ gia tăng vốn nợ của ngân hàng thương mại",
+    "answer": "Phát hành chứng chỉ tiền gửi và phát hành trái phiếu"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Khi ngân hàng thương mại phát hành chứng chỉ tiền gửi trên thị trường tài chính, vốn nợ của ngân hàng sẽ",
+    "answer": "Tăng"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Ngân hàng thương mại thực hiện quản lý tiền dự trữ và dòng tiền rút ra nhằm",
+    "answer": "Hạn chế chi phí khi có dòng tiền rút ra và ngăn ngừa vỡ nợ của ngân hàng"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Sự thay đổi lãi suất sẽ làm giảm lợi nhuận của ngân hàng thương mại",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Theo các chứng minh thực nghiệm về cầu tiền, cầu tiền sẽ giảm xuống khi:",
+    "answer": "Các phương thức thanh toán phát triển"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Lý thuyết của Keynes về cầu tiền nhấn mạnh đến tầm quan trọng của:",
+    "answer": "Lãi suất đối với nhu cầu về tiền"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Theo lý thuyết của Keynes về cầu tiền tệ, khi lãi suất thị trường hiện tại thấp hơn mức lãi suất cân bằng thị trường dài hạn:",
+    "answer": "Các nhà đầu cơ sẽ kỳ vọng rằng giá trái phiếu giảm xuống"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Động cơ đầu cơ của việc nắm giữ tiền có liên quan chặt chẽ tới chức năng nào của tiền",
+    "answer": "Lưu trữ giá trị"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Theo học thuyết số lượng tiền tệ của Irving Fisher, khi lượng tiền cung ứng tăng lên gấp đôi",
+    "answer": "GDP danh nghĩa tăng gấp đôi"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Công cụ của chính sách tiền tệ",
+    "answer": "Nghiệp vụ thị trường mở"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Ngân hàng Trung ương độc lập Chính phủ cho phép",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Lượng tiền cung ứng sẽ không thay đổi",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Phát hành tiền có vàng đảm bảo",
+    "answer": "Mức bảo đảm khác nhau ở các quốc gia"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Ngân hàng Trung ương trực thuộc Chính phủ trong thực tế có nhược điểm",
+    "answer": "Giảm tính độc lập của Ngân hàng Trung ương"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Khi FED bán $100 trái phiếu cho Ngân hàng Đệ nhất, dự trữ trong hệ thống ngân hàng sẽ có xu hướng:",
+    "answer": "Giảm đi $100"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ thay đổi như thế nào khi NHTW giảm tỷ lệ dự trữ bắt buộc đối với các NHTM",
+    "answer": "Tăng"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ thay đổi như thế nào khi NHTM tăng tỷ lệ dự trữ vượt mức",
+    "answer": "Giảm"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ thay đổi như thế nào khi NHTW tăng tỷ lệ dự trữ bắt buộc đối với các NHTM",
+    "answer": "Giảm"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Sau khi NHTM tăng tỷ lệ dự trữ vượt mức, hệ số nhân tiền sẽ:",
+    "answer": "Giảm"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Lượng tiền cung ứng sẽ giảm xuống khi",
+    "answer": "Ngân hàng Trung ương tăng tỷ lệ dự trữ bắt buộc"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Tỷ lệ dự trữ bắt buộc được xác định",
+    "answer": "theo mục tiêu của chính sách tiền tệ ở mỗi thời kỳ"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Khi Ngân hàng Trung ương cho vay chiết khấu, khoản mục nào trong bảng cân đối kế toán của Ngân hàng Trung ương sẽ thay đổi",
+    "answer": "Khoản mục cho vay chiết khấu tăng, khoản mục tiền dự trữ tăng"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Nghiệp vụ thị trường mở của Ngân hàng Trung ương",
+    "answer": "Là công cụ hiệu quả nhất so với các công cụ khác của chính sách tiền tệ"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Lượng tiền cung ứng thay đổi như thế nào khi Ngân hàng Trung ương mua trái phiếu chính phủ trên thị trường mở lúc lãi suất thị trường đang tăng",
+    "answer": "Tăng"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Trong phân tích về tổng cung và tổng cầu, sự gia tăng trong chi tiêu chính phủ sẽ làm cho tổng cầu ___, dẫn tới sản lượng ___, giả định mọi yếu tố khác không thay đổi",
+    "answer": "Tăng, tăng"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Lạm phát phi mã là lạm phát ở mức?",
+    "answer": "Tỷ lệ lạm phát ở mức hai chữ số nhưng dưới mức ba chữ số"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Siêu lạm phát Đức năm 1921-1923 là bằng chứng quan trọng ủng hộ quan điểm tỷ lệ gia tăng tiền cao xảy ra khi?",
+    "answer": "Chính phủ gia tăng cung tiền để tài trợ chi tiêu"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Phân tích tổng cầu và tổng cung chỉ ra rằng các cú sốc cung tiêu cực làm",
+    "answer": "Tăng mức giá, nhưng không làm giảm tỷ lệ lạm phát"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Điều nào sau đây ít có thể dẫn tới chính sách tiền tệ mang tính lạm phát?",
+    "answer": "Sụt giảm trong giá dầu"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Khi lãi suất nội tệ tăng do sự tăng lên của lạm phát dự tính:",
+    "answer": "lãi suất dự tính bằng tiền gửi ngoại tệ tăng lên"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Tỷ giá là:",
+    "answer": "Giá một đơn vị tiền tệ của một nước được tính theo tiền tệ của nước khác"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Mặc dù thị trường ngoại hối thường được nói là nơi mua và bán các loại tiền tệ, tuy nhiên hầu hết các giao dịch liên quan tới việc mua và bán:",
+    "answer": "Các khoản tiền gửi được niêm yết bằng ngoại tệ"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Nếu đồng USD bị mất giá so với đồng Euro:",
+    "answer": "Quần áo của châu Âu sẽ trở nên đắt hơn ở Mỹ"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Giả sử tỷ lệ lạm phát ở một số quốc gia được dự kiến trong năm như sau: ở Mỹ là 2%, Canada 3%, Mexico 4%, và Braxin 5%. Theo thuyết ngang giá sức mua và mọi thứ khác không đổi, điều gì được kỳ vọng sẽ xảy ra?",
+    "answer": "Đồng tiền của Braxin sẽ giảm giá so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Vật thế chấp và quy định về giá trị tài sản ròng của doanh nghiệp đi vay vốn có ý nghĩa quan trọng trong việc",
+    "answer": "Làm giảm thiểu vấn đề về rủi ro đạo đức"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "So với các trung gian tài chính khác, NHTM là nguồn tài trợ vốn lớn nhất cho các doanh nghiệp?",
+    "answer": "Đúng"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Rủi ro đạo đức trong các hợp đồng vốn cổ phẩn xảy ra khi:",
+    "answer": "Có sự mất cân xứng ở thông tin về hoạt động của doanh nghiệp giữa người quản lý và các chủ sở hữu doanh nghiệp khi người quản lý sở hữu rất ít hoặc không sở hữu phần vốn nào của doanh nghiệp và họ hành động vì lợi ích của mình hơn là vì lợi ích của các chủ sở hữu."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Công ty bảo hiểm thực hiện hoạt động trung gian tài chính bằng cách:",
+    "answer": "Sử dụng tiền phí thu được từ bán các hợp đồng bảo hiểm để đầu tư vào các tài sản như chứng khoán và các món vay, sau đó sử dụng lợi nhuận từ các tài sản này để thanh toán cho các rủi ro đòi được bồi thường theo hợp đồng đã bán."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Nếu người đi vay không trả được nợ là những người tích cực tìm vay nhất, và do đó nhận được các khoản vay từ các trung gian tài chính, thì các tổ chức tài chính trung gian phải đổi mặt với vấn đề về:",
+    "answer": "Sự lựa chọn đối nghịch"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Vốn chủ sở của ngân hàng thương mại thường duy trì ở mức",
+    "answer": "5%/ tổng nguồn vốn"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Để làm gia tăng quy mô vốn chủ sở hữu, các ngân hàng thương mại có thể thực hiện những hoạt động sau",
+    "answer": "Gia tăng các khoản lợi nhuận được giữ lại"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Nguồn vốn của ngân hàng thương mại chủ yếu dưới hình thức phát hành trái phiếu",
+    "answer": "Sai"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Tiền gửi giao dịch của khách hàng tại ngân hàng thương mại nhằm",
+    "answer": "Để khách hàng được sử dụng dịch vụ thanh toán do ngân hàng thương mại cung cấp"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Tăng cường hoạt động marketing sẽ giúp ngân hàng thương mại và các tổ chức tài chính phi ngân hàng mở rộng đối tượng khách hàng tốt hơn",
+    "answer": "Tăng thêm 5% so với khách hàng sẵn có"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Trong học thuyết số lượng tiền tệ của Irving Fisher, tốc độ lưu chuyển tiền chịu ảnh hưởng bởi:",
+    "answer": "Thay đổi trong thói quen sử dụng tiền của người dân khi họ nhận được thu nhập"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Theo lý thuyết của Keynes về cầu tiền tệ, khi lãi suất thị trường hiện tại cao hơn mức lãi suất cân bằng thị trường dài hạn:",
+    "answer": "Các nhà đầu cơ sẽ mua trái phiếu để bán lại trong tương lai khi giá trái phiếu đã tăng lên"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Tốc độ lưu chuyển tiền được xác định như sau:",
+    "answer": "(P*Y)/M"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Theo học thuyết về số lượng tiền tệ của các nhà kinh tế học cổ điển, sự thay đổi của mức giá cả:",
+    "answer": "Chịu ảnh hưởng duy nhất từ sự thay đổi trong số lượng tiền"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Ban đầu lượng tiền cung ứng là 1 tỷ USD, tốc độ lưu chuyển tiền là 5, mức giá cả là 1, và GDP thực tế là 5 tỷ USD. Nếu lượng tiền cung ứng tăng lên 2 tỷ USD",
+    "answer": "Mức giá cả tăng lên 2"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Ngân hàng Trung ương cho ngân sách nhà nước vay",
+    "answer": "Trong trường hợp cụ thể nhất định"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Chính sách tiền tệ là do Ngân hàng Trung ương thực hiện",
+    "answer": "Đúng"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Giả định các yếu tố khác không thay đổi, khi Ngân hàng Trung ương mua bán trái phiếu Chính phủ trên thị trường mở, lượng tiền cung ứng sẽ",
+    "answer": "Có thay đổi"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Ngân hàng Trung ương có thực hiện",
+    "answer": "Thanh toán bù trừ cho ngân hàng thương mại"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Ngân hàng Trung ương có thể lựa chọn phát hành tiền qua kênh",
+    "answer": "Ngân sách Nhà nước, tín dụng"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Số nhân tiền cho quá trình tạo tiền đơn giản có thể biểu thị qua công thức nào sau đây?",
+    "answer": "△D = 1r × △R"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Tỷ lệ dự trữ bắt buộc là 15%, tiền mặt trong quá trình lưu thông là $400 tỷ, tiền gửi có thể phát séc là $800 tỷ, dự trữ vượt mức là $0.8 tỷ. Số nhân tiền là bao nhiêu?",
+    "answer": "2.3"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Sau khi DN trả cho NH một khoản tiền nợ, cơ số tiền tệ sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Sau khi NHTM phát hành một lượng cổ phiếu để tăng vốn điều lệ, cơ số tiền tệ sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Nếu một NHM có dự trữ vượt mức là $4,000, và tiền gửi là $100,000. Tỷ lệ dự trữ bắt buộc là 20%. Nếu tỷ lệ này tăng lên 25%, giả định tổng lượng dự trữ không thay đổi, dự trữ vượt mức sẽ là:",
+    "answer": "-$1,000"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Khi Ngân hàng Trung ương tăng tỷ lệ dự trữ bắt buộc, lượng tiền cung ứng sẽ",
+    "answer": "Giảm"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Lượng tiền cung ứng (MS) giảm khi",
+    "answer": "Ngân hàng Trung ương giảm cho vay chiết khấu các ngân hàng thương mại và tăng tỷ lệ dự trữ bắt buộc"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Chính sách tiền tệ nhằm tác động vào cung cầu tiền tệ để đạt được mục tiêu",
+    "answer": "Ổn định và tăng trưởng kinh tế"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Mục tiêu nào dưới đây không phải là mục tiêu của chính sách tiền tệ",
+    "answer": "Lãi suất thấp"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Mục tiêu chính sách tiền tệ có quan hệ chặt chẽ với nhau, hỗ trợ và thúc đẩy lẫn nhau trong dài hạn",
+    "answer": "Đúng"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Theo các nhà kinh tế học cổ điển, khi khối lượng tiền tăng gấp đôi:",
+    "answer": "Mức giá tăng lên gấp đôi"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Nhà kinh tế học đề xuất “Lạm phát bao giờ và ở đâu cũng là một hiện tượng tiền tệ” là ai?",
+    "answer": "Milton Friedman"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Đề xuất rằng lạm phát là kết quả của sự gia tăng tiền tệ?",
+    "answer": "Được ủng hộ bằng rất nhiều ví dụ từ các cuộc khủng hoảng liên quan tới lạm phát trên toàn thế giới"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Khi lạm phát được định nghĩa là tình trạng gia tăng liên tục trong mức giá, ____ nhà kinh tế học đồng ý với đề xuất của Milton Friedman rằng lạm phát là hiện tượng tiền tệ.",
+    "answer": "Hầu hết"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Điều nào sau đây ít có thể dẫn tới chính sách tiền tệ mang tính lạm phát?",
+    "answer": "Sụt giảm trong giá dầu"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Giả sử lãi suất tiền gửi ngoại tệ (USD) là iF = 5%, tỷ giá dự tính trong kỳ tới là Eet+1= 1.20; nếu tỷ giá hiện hành là Et= 1.15, mức tăng giá dự tính của EUR là",
+    "answer": "4.34%"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Theo quy luật một giá, nếu giá của cà phê Colombia là 100 peso/ cân và giá của cà phê Braxin là 4 real/ cân, khi đó tỷ giá giữa đồng peso (đồng tiền của Colombia) và đồng real (đồng tiền của Braxin) là:",
+    "answer": "25 peso/ real"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Giả sử lãi suất tiền gửi ngoại tệ (USD) là iF = 5%, tỷ giá dự tính trong kỳ tới là Eet+1= 1.20; nếu tỷ giá hiện hành là Et= 1.15, lãi suất dự tính tiền gửi ngoại tệ tương đương là:",
+    "answer": "0.66%"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Để mua hàng hoá ở Nhật rẻ hơn mua hàng hoá ở Mỹ, tỷ giá giữa USD và Yên Nhật phải",
+    "answer": "Lớn hơn 1.0"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Theo thuyết ngang giá sức mua, nếu mức giá cả của một quốc gia tăng lên tương đối so với quốc gia khác, đồng tiền của nó sẽ",
+    "answer": "giảm giá"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Điều nào sau đây là không đúng về công ty tài chính:",
+    "answer": "Công ty tài chính chủ yếu cho vay các món tiền lớn cho các doanh nghiệp lớn."
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là đúng:",
+    "answer": "Công ty tài chính có thực hiện hoạt động cho vay nhưng hoạt động cho vay của công ty tài chính khác với của ngân hàng thương mại"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Gia tăng lượng thông tin cho các nhà đầu tư giúp làm giảm thiểu các vấn đề về _____ và _____ trên thị trường tài chính",
+    "answer": "Sự lựa chọn đối nghịch; rủi ro đạo đức"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "So với các trung gian tài chính khác, NHTM là nguồn tài trợ vốn lớn nhất cho các doanh nghiệp?",
+    "answer": "Đúng"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Việc làm giảm thiểu rủi ro bằng cách mua các tài sản mà thu nhập của chúng không phải lúc nào cũng thay đổi cùng chiều gọi là:",
+    "answer": "Hoạt động đa dạng hóa danh mục đầu tư"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Hạn chế tín dụng trong nội dung quản lý tiền cho vay của ngân hàng thương mại là việc Hạn chế tín dụng trong nội dung quản lý tiền cho vay của ngân hàng thương mại là việc",
+    "answer": "Ngân hàng thương mại hoặc từ chối bất kỳ một yêu cầu vay vốn nào của khách hàng hoặc sẵn lòng cho vay nhưng hạn chế ở dưới mức mà người vay mong muốn"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Tăng cường hoạt động marketing sẽ giúp ngân hàng thương mại và các tổ chức tài chính phi ngân hàng mở rộng đối tượng khách hàng tốt hơn",
+    "answer": "Tăng thêm 5% so với khách hàng sẵn có"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Để bảo vệ lợi ích cho người gửi tiền, Ngân hàng Trung ương sẽ yêu cầu ngân hàng thương mại",
+    "answer": "Đa dạng hoá và quy định tỷ lệ tối đa mà ngân hàng thương mại có thể nhận tiền gửi dựa trên vốn tự có của ngân hàng thương mại"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Lựa chọn đối nghịch trong các thị trường cho vay đòi hỏi các ngân hàng thương mại phải lựa chọn khách hàng có ít rủi ro nhất",
+    "answer": "Đây là quy định đòi hỏi phải tuân thủ chặt chẽ"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Hoạt động đầu tư của ngân hàng thương mại chỉ tập trung cho chứng khoán Chính phủ",
+    "answer": "Chứng khoán Chính phủ, cổ phiếu và các khoản đầu tư khác"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Theo học thuyết về số lượng tiền tệ của các nhà kinh tế học cổ điển,",
+    "answer": "Lãi suất không có ảnh hưởng tới cầu tiền tệ"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Theo các chứng minh thực nghiệm về cầu tiền, cầu tiền sẽ giảm xuống khi:",
+    "answer": "Các phương thức thanh toán phát triển"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Keynes giải thiết rằng nhu cầu tiền với động cơ dự phòng chủ yếu được quyết định bởi",
+    "answer": "Thu nhập"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Lý thuyết của Keynes về cầu tiền chỉ ra rằng tốc độ lưu chuyển của tiền:",
+    "answer": "Không phải là hằng số và thay đổi cùng với lãi suất"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Theo lý thuyết của Keynes về cầu tiền tệ, khi lãi suất thị trường hiện tại cao hơn mức lãi suất cân bằng thị trường dài hạn:",
+    "answer": "Các nhà đầu cơ sẽ kỳ vọng rằng lãi suất giảm và giá trái phiếu tăng"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Mô hình tổ chức của Ngân hàng Trung ương",
+    "answer": "gắn liền đặc điểm riêng có của mỗi dân tộc như vấn đề thể chế chính trị, quan điểm phát triển kinh tế và đặc điểm văn hoá"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây đúng khi đề cập về Ngân hàng Trung ương",
+    "answer": "Ngân hàng Trung ương nhận tiền gửi của ngân hàng thương mại"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Dự trữ bắt buộc của ngân hàng thương mại",
+    "answer": "Nhất thiết phải do Bộ Kế hoạch Đầu tư giữa"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Nội dung nào không thuộc chức năng của Ngân hàng Trung ương",
+    "answer": "Phương án A và B"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Ngân hàng Trung ương độc lập Chính phủ cho phép",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Số nhân tiền cho quá trình tạo tiền đơn giản có thể biểu thị qua công thức nào sau đây?",
+    "answer": "△D = 1r × △R"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Dự trữ của NHTM bao gồm:",
+    "answer": "Dự trữ bắt buộc và dự trữ tiền mặt tại két của NHTM"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ tăng lên khi:",
+    "answer": "NHTW mua tín phiếu kho bạc trên thị trường mở"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Sau khi DN trả cho NH một khoản tiền nợ, cơ số tiền tệ sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Giả định ban đầu tỷ lệ dự trữ bắt buộc là 10%, tỷ lệ tiền mặt trên tiền gửi là 40%; tỷ lệ dự trữ vượt mức là 0. Nếu tỷ lệ dự trữ vượt mức tăng lên 15%, giả định tất cả các yếu tố khác không thay đổi, số nhân tiền sẽ thay đổi như thế nào?",
+    "answer": "Giảm từ 2.8 xuống 2.55"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Hoạt động thị trường mở tạo sự linh hoạt cho các ngân hàng thương mại trong việc đảm bảo thanh khoản",
+    "answer": "Hỗ trợ 20%"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Lượng tiền cung ứng sẽ tăng lên khi",
+    "answer": "Ngân hàng thương mại bán tín phiếu kho bạc trên thị trường mở"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Lượng tiền cung ứng sẽ giảm xuống khi",
+    "answer": "Ngân hàng Trung ương giảm hạn mức tín dụng của các ngân hàng thương mại"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Mục tiêu nào dưới đây không phải là mục tiêu của chính sách tiền tệ",
+    "answer": "Lãi suất thấp"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Khi một ngân hàng thương mại bán chứng khoán cho Ngân hàng Trung ương trên thị trường mở, thì",
+    "answer": "Dự trữ ngân hàng tăng và cơ số tiền tệ tăng"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Đề xuất rằng lạm phát là kết quả của sự gia tăng tiền tệ?",
+    "answer": "Được ủng hộ bằng rất nhiều ví dụ từ các cuộc khủng hoảng liên quan tới lạm phát trên toàn thế giới"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Lọai lạm phát nào sau đây không phải là lạm phát phân loại dựa trên mặt định tính?",
+    "answer": "Lạm phát phi mã"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Phương án giải quyết đơn giản nhất để chống lại lạm phát là?",
+    "answer": "Giảm sự gia tăng của cung tiền"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Phân tích tổng cung và tổng cầu với giả định rằng với các yếu tố không đổi, sự gia tăng liên tục trong cung tiền gây ra",
+    "answer": "Lạm phát"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Khi công nhân không tin rằng các nhà hoạch định chính sách nghiêm túc trong việc giải quyết lạm phát, công nhân sẽ có xu hướng đấu tranh đòi tăng lương, điều này làm ___ tổng ___ và có thể dẫn tới thất nghiệp hoặc lạm phát hoặc cả hai, với giả định các nhân tố khác không thay đổi",
+    "answer": "Giảm, cung"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Khi NHTW bán ra một khoản dự trữ quốc tế ra trên thị trường tương đương với 10 tỷ đồng",
+    "answer": "Dự trữ quốc tế giảm và số tiền lưu hành giảm"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Khi tỷ giá dài hạn dự tính trong tương lai Eet+1 giảm xuống:",
+    "answer": "lãi suất tiền gửi ngoại tệ tương đương tăng lên"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Giả sử lãi suất tiền gửi ngoại tệ (USD) là iF = 5%, tỷ giá dự tính trong kỳ tới là Eet+1= 1.20; nếu tỷ giá hiện hành là Et= 1.15, mức tăng giá dự tính của EUR là",
+    "answer": "4.34%"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Khi NHTW bán dự trữ quốc tế, đồng thời thực hiện việc mua vào trái phiếu chính phủ trái phiếu chính phủ",
+    "answer": "Lượng tiền cung ứng không thay đổi"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Nếu chính phủ Mỹ tăng thuế nhập khẩu cho quần áo của Nhật, nhưng cùng lúc đó, nhu cầu của người dân Mỹ về hàng hoá của Nhật tăng lên. Nếu các thứ khác không đổi, trong dài hạn:",
+    "answer": "Đồng tiền của Nhật sẽ giảm giá hoặc tăng giá hoặc giữ nguyên so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Giải pháp nào trong các giải pháp sau đây là hiệu quả nhất trong việc làm giảm thiểu các rủi ro do thông tin không cân xứng:",
+    "answer": "Nâng cao hiệu quả và chất lượng hoạt động của các trung gian tài chính trong cấu trúc tài chính"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Điều này sau đây là đúng về công ty tài chính và ngân hàng thương mại:",
+    "answer": "Công ty tài chính và ngân hàng thương mại đều chủ yếu thu lợi nhuận từ hoạt động cho vay."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Các tổ chức nhận tiền gửi gồm có:",
+    "answer": "Các ngân hàng thương mại, các hiệp hội cho vay và tiết kiệm, các ngân hàng tiết kiệm tương trợ và các liên hiệp tín dụng"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Sự lựa chọn đối nghịch là một vấn đề liên quan tới các hợp đồng nợ và hợp đồng vốn cổ phần được tạo ra bởi:",
+    "answer": "Sự thiếu hụt tương đối ở thông tin của người cho vay về lợi nhuận và rủi ro tiềm năng của người đi vay trong các hoạt động đầu tư của anh ta."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Tài sản thế chấp là giúp ngân hàng thương mại tăng hiệu quả quản lý tiền cho vay",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Một trong những biện pháp sẽ gia tăng vốn nợ của ngân hàng thương mại",
+    "answer": "Phát hành chứng chỉ tiền gửi và phát hành trái phiếu"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Tăng cường hoạt động marketing sẽ giúp ngân hàng thương mại và các tổ chức tài chính phi ngân hàng mở rộng đối tượng khách hàng tốt hơn",
+    "answer": "Tăng thêm 5% so với khách hàng sẵn có"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Vốn chủ sở hữu của ngân hàng thương mại cổ phần được hình thành",
+    "answer": "Do các cổ đông đóng góp"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Hạn chế tín dụng trong nội dung quản lý tiền cho vay của ngân hàng thương mại là việc Hạn chế tín dụng trong nội dung quản lý tiền cho vay của ngân hàng thương mại là việc",
+    "answer": "Ngân hàng thương mại hoặc từ chối bất kỳ một yêu cầu vay vốn nào của khách hàng hoặc sẵn lòng cho vay nhưng hạn chế ở dưới mức mà người vay mong muốn"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Theo lý thuyết của Keynes về cầu tiền tệ, khi lãi suất thị trường hiện tại cao hơn mức lãi suất cân bằng thị trường dài hạn:",
+    "answer": "Các nhà đầu cơ sẽ mua trái phiếu để bán lại trong tương lai khi giá trái phiếu đã tăng lên"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Tốc độ lưu chuyển tiền được xác định như sau:",
+    "answer": "(P*Y)/M"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Lý thuyết của Keynes về cầu tiền chỉ ra rằng tốc độ lưu chuyển của tiền:",
+    "answer": "Không phải là hằng số và thay đổi cùng với lãi suất"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Theo học thuyết số lượng tiền tệ của Irving Fisher, khi lượng tiền cung ứng tăng lên gấp đôi",
+    "answer": "GDP danh nghĩa tăng gấp đôi"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Lý thuyết của Keynes về cầu tiền chỉ ra rằng tốc độ lưu chuyển của tiền sẽ tăng lên khi:",
+    "answer": "Lãi suất tăng"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Giả định các yếu tố khác không thay đổi, khi Ngân hàng Trung ương mua bán trái phiếu Chính phủ trên thị trường mở, lượng tiền cung ứng sẽ",
+    "answer": "Có thay đổi"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Ngân hàng Trung ương có thể lựa chọn phát hành tiền qua kênh",
+    "answer": "Ngân sách Nhà nước, tín dụng"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Ý kiến ủng hộ Trung ương trực thuộc Chính phủ cho rằng",
+    "answer": "Chính phủ cần quản lý Ngân hàng Trung ương nhằm phối kết hợp các chính sách kinh tế vĩ mô"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Công cụ của chính sách tiền tệ",
+    "answer": "Nghiệp vụ thị trường mở"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây không đúng về Ngân hàng Trung ương",
+    "answer": "Ngân hàng Trung ương chỉ mở tài khoản cho khoản cho Kho bạc Nhà nước, không mở tài khoản cho ngân hàng thương mại"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Số nhân tiền cho quá trình tạo tiền đơn giản có thể biểu thị qua công thức nào sau đây?",
+    "answer": "△D = 1r × △R"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Giả định ban đầu tỷ lệ dự trữ bắt buộc là 10%, tỷ lệ tiền mặt trên tiền gửi là 40%; tỷ lệ dự trữ vượt mức là 0. Nếu tỷ lệ dự trữ vượt mức tăng lên 15%, giả định tất cả các yếu tố khác không thay đổi, số nhân tiền sẽ thay đổi như thế nào?",
+    "answer": "Giảm từ 2.8 xuống 2.55"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Khi FED bán $100 trái phiếu cho Ngân hàng Đệ nhất, dự trữ trong hệ thống ngân hàng sẽ có xu hướng:",
+    "answer": "Giảm đi $100"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Nếu tỷ lệ dự trữ bắt buộc là 10%, tiền mặt trong quá trình lưu thông là $400 tỷ, tiền gửi có thể phát séc là $800 tỷ, dự trữ vượt mức là $0.8 tỷ vậy tỷ lệ tiền mặt trên tiền gửi là?",
+    "answer": "0.5"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Nếu dự trữ trong hệ thống ngân hàng tăng lên $100, tiền gửi sẽ tăng lên $667 trong mô hình đơn giản nếu như tỷ lệ dự trữ bắt buộc là:",
+    "answer": "0.15"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Nghiệp vụ thị trường mở của Ngân hàng Trung ương",
+    "answer": "Là công cụ hiệu quả nhất so với các công cụ khác của chính sách tiền tệ"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Giả định các yếu tố khác không thay đổi, khi Ngân hàng Trung ương bán trái phiếu Chính phủ trên thị trường mở, lượng tiền cung ứng sẽ",
+    "answer": "Giảm xuống"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Lượng tiền cung ứng (MS) giảm khi",
+    "answer": "Ngân hàng Trung ương giảm cho vay chiết khấu các ngân hàng thương mại và tăng tỷ lệ dự trữ bắt buộc"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Lượng tiền cung ứng sẽ tăng lên khi",
+    "answer": "Ngân hàng thương mại bán tín phiếu kho bạc trên thị trường mở"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Tín phiếu kho bạc là công cụ tài chính giao dịch nhiều nhất trên thị trường mở do",
+    "answer": "Tính lỏng và an toàn cao"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Trong phân tích về tổng cung và tổng cầu, lạm phát được gây ra bởi?",
+    "answer": "Chính sách tiền tệ mở rộng"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Đề xuất rằng lạm phát là kết quả của sự gia tăng tiền tệ?",
+    "answer": "Được ủng hộ bằng rất nhiều ví dụ từ các cuộc khủng hoảng liên quan tới lạm phát trên toàn thế giới"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Lọai lạm phát nào sau đây không phải là lạm phát phân loại dựa trên mặt định tính?",
+    "answer": "Lạm phát phi mã"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Siêu lạm phát Đức năm 1921-1923 là bằng chứng quan trọng ủng hộ quan điểm tỷ lệ gia tăng tiền cao xảy ra khi?",
+    "answer": "Chính phủ gia tăng cung tiền để tài trợ chi tiêu"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Khi công nhân không tin rằng các nhà hoạch định chính sách nghiêm túc trong việc giải quyết lạm phát, công nhân sẽ có xu hướng đấu tranh đòi tăng lương, điều này làm ___ tổng ___ và có thể dẫn tới thất nghiệp hoặc lạm phát hoặc cả hai, với giả định các nhân tố khác không thay đổi",
+    "answer": "Giảm, cung"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Tỷ giá được xác định trên",
+    "answer": "Thị trường ngoại hối"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Theo thuyết ngang giá sức mua, nếu mức giá cả của một quốc gia tăng lên tương đối so với quốc gia khác, đồng tiền của nó sẽ",
+    "answer": "giảm giá"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Lượng tiền cung ứng tăng lên sẽ khiến cho tỷ giá ngắn hạn thay đổi vì khi đó:",
+    "answer": "Đường lãi suất dự tính của tiền gửi ngoại tệ RF dịch chuyển sang phải và đường lãi suất trong nước RD dịch chuyển sang trái"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Mặc dù thị trường ngoại hối thường được nói là nơi mua và bán các loại tiền tệ, tuy nhiên hầu hết các giao dịch liên quan tới việc mua và bán:",
+    "answer": "Các khoản tiền gửi được niêm yết bằng ngoại tệ"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Lượng tiền cung ứng tăng lên sẽ:",
+    "answer": "làm tăng lãi suất dự tính của tiền gửi ngoại tệ và di chuyển RF sang phải"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Việc làm giảm thiểu rủi ro bằng cách mua các tài sản mà thu nhập của chúng không phải lúc nào cũng thay đổi cùng chiều gọi là:",
+    "answer": "Hoạt động đa dạng hóa danh mục đầu tư"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Tài sản chủ yếu của một công ty tài chính là:",
+    "answer": "Các khoản cho vay đối với doanh nghiệp và người tiêu dùng"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Điều nào sau đây là không đúng về công ty tài chính:",
+    "answer": "Công ty tài chính chủ yếu cho vay các món tiền lớn cho các doanh nghiệp lớn."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Thông thường, người đi vay có thông tin tốt hơn người cho vay về lợi nhuận và rủi ro tiềm năng của một dự án đầu tư. Sự khác nhau về mặt thông tin này được gọi là:",
+    "answer": "Thông tin không cân xứng"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "So với các trung gian tài chính khác, NHTM là nguồn tài trợ vốn lớn nhất cho các doanh nghiệp?",
+    "answer": "Đúng"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Để bảo vệ lợi ích cho người gửi tiền, Ngân hàng Trung ương sẽ yêu cầu ngân hàng thương mại",
+    "answer": "Đa dạng hoá và quy định tỷ lệ tối đa mà ngân hàng thương mại có thể nhận tiền gửi dựa trên vốn tự có của ngân hàng thương mại"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Tỷ lệ dự trữ vượt quá của ngân hàng thương mại được xác định",
+    "answer": "Phụ thuộc vào đặc điểm khách hàng của ngân hàng thương mại"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Sự an toàn và hiệu quả trong kinh doanh của ngân hàng thương mại phải là",
+    "answer": "Hoạt động tuân thủ theo các quy định của pháp luật, có lợi nhuận và tỷ lệ nợ quá hạn ở mức cho phép"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Vốn chủ sở của ngân hàng thương mại thường duy trì ở mức",
+    "answer": "5%/ tổng nguồn vốn"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Tỷ lệ dự trữ bắt buộc đối với ngân hàng thương mại nhất thiết phải là",
+    "answer": "Do Ngân hàng Trung ương quy định từng thời kỳ"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Theo học thuyết về số lượng tiền tệ của các nhà kinh tế học cổ điển, sự thay đổi của mức giá cả:",
+    "answer": "Chịu ảnh hưởng duy nhất từ sự thay đổi trong số lượng tiền"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Nhu cầu nắm giữ tiền đầu cơ có thể không tồn tại vì",
+    "answer": "Những tài sản phi rủi ro thay thế trả thu nhập cao hơn thu nhập từ tiền"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Theo quan điểm của Friedman, cầu tiền tệ là",
+    "answer": "Không nhạy cảm với lãi suất"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Lượng cầu tiền theo Friedman sẽ có quan hệ tỷ lệ thuận với:",
+    "answer": "Thu nhập thường xuyên"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Theo học thuyết về số lượng tiền tệ của các nhà kinh tế học cổ điển",
+    "answer": "Tốc độ của tiền ổn định trong ngắn hạn"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Quy định về sự an toàn của ngân hàng thương mại",
+    "answer": "Do Ngân hàng Trung ương quy định"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Ngân hàng Trung ương có thực hiện",
+    "answer": "Thanh toán bù trừ cho ngân hàng thương mại"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Ngân hàng Trung ương độc lập Chính phủ cho phép",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Ngân hàng Trung ương cho ngân sách nhà nước vay",
+    "answer": "Trong trường hợp cụ thể nhất định"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Nhận tiền gửi của ngân hàng thương mại dưới các hình thức khác nhau thuộc",
+    "answer": "Chức năng Ngân hàng của các ngân hàng"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Nếu một NHM có dự trữ vượt mức là $4,000, và tiền gửi là $100,000. Tỷ lệ dự trữ bắt buộc là 20%. Nếu tỷ lệ này tăng lên 25%, giả định tổng lượng dự trữ không thay đổi, dự trữ vượt mức sẽ là:",
+    "answer": "-$1,000"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Tỷ lệ dự trữ bắt buộc là 15%, tiền mặt trong quá trình lưu thông là $400 tỷ, tiền gửi có thể phát séc là $800 tỷ, dự trữ vượt mức là $0.8 tỷ. Số nhân tiền là bao nhiêu?",
+    "answer": "2.3"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Các khoản mục bên có trong bảng cân đối tài sản của NHTW là:",
+    "answer": "Chứng khoán của Chính phủ và tiền cho vay chiết khấu"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ giảm đi khi:",
+    "answer": "NHTW tăng tỷ lệ dự trữ bắt buộc đối với các NHTM"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Sau khi NHTM tăng tỷ lệ dự trữ vượt mức, hệ số nhân tiền sẽ:",
+    "answer": "Giảm"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Mục tiêu chính sách tiền tệ có quan hệ chặt chẽ với nhau, hỗ trợ và thúc đẩy lẫn nhau trong dài hạn",
+    "answer": "Đúng"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Chính sách tiền tệ nhằm tác động vào cung cầu tiền tệ để đạt được mục tiêu",
+    "answer": "Ổn định và tăng trưởng kinh tế"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khi Ngân hàng Trung ương bán chứng khoán chính phủ cho các tổ chức tài chính thì",
+    "answer": "Các tổ chức tài chính giảm lượng vốn sẵn sàng cho vay"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Sự giảm xuống của cơ số tiền tệ sẽ không làm cho",
+    "answer": "Đầu tư tăng"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Lượng tiền cung ứng sẽ giảm xuống khi",
+    "answer": "Ngân hàng Trung ương tăng tỷ lệ dự trữ bắt buộc"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Khi lạm phát được định nghĩa là tình trạng gia tăng liên tục trong mức giá, ____ nhà kinh tế học đồng ý với đề xuất của Milton Friedman rằng lạm phát là hiện tượng tiền tệ.",
+    "answer": "Hầu hết"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Theo các nhà kinh tế học cổ điển, khi khối lượng tiền tăng gấp đôi:",
+    "answer": "Mức giá tăng lên gấp đôi"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Điều nào sau đây ít có thể dẫn tới chính sách tiền tệ mang tính lạm phát?",
+    "answer": "Sụt giảm trong giá dầu"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Phương án giải quyết đơn giản nhất để chống lại lạm phát là?",
+    "answer": "Giảm sự gia tăng của cung tiền"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Việc công nhân đòi tăng lương thành công và cam kết của chính phủ đối với một mức công ăn việc làm cao sẽ dẫn tới?",
+    "answer": "Lạm phát phí đẩy"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Tỷ giá là:",
+    "answer": "Giá một đơn vị tiền tệ của một nước được tính theo tiền tệ của nước khác"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Khi NHTW bán ra một khoản dự trữ quốc tế ra trên thị trường tương đương với 10 tỷ đồng",
+    "answer": "Dự trữ quốc tế giảm và số tiền lưu hành giảm"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Khi lãi suất nội tệ tăng do sự tăng lên của lạm phát dự tính, sẽ làm cho lãi suất dự tính bằng tiền gửi ngoại tệ tăng lên, khi đó:",
+    "answer": "đường lãi suất tiền gửi ngoại tệ tương đương RF dịch phải và dịch phải nhiều hơn so với đường lãi suất tiền gửi nội tệ RD"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Khi tỷ giá dài hạn dự tính trong tương lai Eet+1 giảm xuống:",
+    "answer": "lãi suất tiền gửi ngoại tệ tương đương tăng lên"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Theo thuyết ngang giá sức mua, nếu mức giá cả ở Mỹ tăng lên là 5% và mức giá cả ở Mexico tăng lên 6% khiến cho",
+    "answer": "Đồng USD tăng 1% so với đồng tiền của Mexico"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Vật thế chấp và quy định về giá trị tài sản ròng của doanh nghiệp đi vay vốn có ý nghĩa quan trọng trong việc",
+    "answer": "Làm giảm thiểu vấn đề về rủi ro đạo đức"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Loại trung gian tài chính nào sau đây không phải là tổ chức tiền gửi:",
+    "answer": "Công ty tài chính"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Loại tổ chức nào trong các tổ chức tài chính trung gian sau thực hiện việc huy động vốn bằng cách bán cổ phần cho các cá nhân và sau đó sử dụng vốn thu được để đầu tư vào các danh mục gồm cổ phiếu và trái phiếu:",
+    "answer": "Quỹ đầu tư chung"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Gia tăng lượng thông tin cho các nhà đầu tư giúp làm giảm thiểu các vấn đề về _____ và _____ trên thị trường tài chính",
+    "answer": "Sự lựa chọn đối nghịch; rủi ro đạo đức"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây là đúng:",
+    "answer": "Công ty tài chính có thực hiện hoạt động cho vay nhưng hoạt động cho vay của công ty tài chính khác với của ngân hàng thương mại"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Tiền dự trữ được thể hiện trên bảng cân đối kế toán của ngân hàng thương mại theo tỷ lệ",
+    "answer": "100% bên tài sản"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Khi ngân hàng thương mại phát hành chứng chỉ tiền gửi trên thị trường tài chính, vốn nợ của ngân hàng sẽ",
+    "answer": "Tăng"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Lựa chọn đối nghịch trong các thị trường cho vay đòi hỏi các ngân hàng thương mại phải lựa chọn khách hàng có ít rủi ro nhất",
+    "answer": "Đây là quy định đòi hỏi phải tuân thủ chặt chẽ"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Sự thay đổi lãi suất sẽ làm giảm lợi nhuận của ngân hàng thương mại",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Ngân hàng thương mại thực hiện quản lý tiền cho vay phải đảm bảo các nguyên tắc",
+    "answer": "Sàng lọc và giám sát; quan hệ với khách hàng; thế chấp tài sản và số dư bù; hạn chế tín dụng; vốn ngân hàng và tính tương hợp"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Trong học thuyết số lượng tiền tệ của Irving Fisher, tốc độ lưu chuyển tiền chịu ảnh hưởng bởi:",
+    "answer": "Thay đổi trong thói quen sử dụng tiền của người dân khi họ nhận được thu nhập"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Lý thuyết của Keynes về cầu tiền nhấn mạnh đến tầm quan trọng của:",
+    "answer": "Lãi suất đối với nhu cầu về tiền"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Cầu nắm giữ tiền liên quan tới nhu cầu thanh toán các chi tiêu bất thường, hoặc các khoản chi tiêu được ưu đãi không dự đoán trước được gọi là:",
+    "answer": "Động cơ dự phòng"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Ban đầu lượng tiền cung ứng là 1 tỷ USD, tốc độ lưu chuyển tiền là 5, mức giá cả là 1, và GDP thực tế là 5 tỷ USD. Nếu lượng tiền cung ứng tăng lên 2 tỷ USD",
+    "answer": "Mức giá cả tăng lên 2"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Keynes giải thiết rằng nhu cầu tiền giao dịch chủ yếu được quyết định bởi",
+    "answer": "Thu nhập"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Dự trữ bắt buộc của ngân hàng thương mại",
+    "answer": "Nhất thiết phải do Bộ Kế hoạch Đầu tư giữa"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Nội dung nào không thuộc chức năng của Ngân hàng Trung ương",
+    "answer": "Phương án A và B"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Mô hình tổ chức của Ngân hàng Trung ương",
+    "answer": "gắn liền đặc điểm riêng có của mỗi dân tộc như vấn đề thể chế chính trị, quan điểm phát triển kinh tế và đặc điểm văn hoá"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Chính sách tiền tệ do",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Công cụ nào sau đây là công cụ của chính sách tiền tệ",
+    "answer": "Dự trữ bắt buộc"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Sau khi chính phủ vay của nước ngoài một lượng ngoại tệ, lượng tiền cung ứng trong nước sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Nếu tỷ lệ dự trữ bắt buộc là 20%, số nhân tiền đơn giản sẽ là",
+    "answer": "5.0"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Sau khi DN trả cho NH một khoản tiền nợ, cơ số tiền tệ sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ thay đổi như thế nào khi NHTW giảm tỷ lệ dự trữ bắt buộc đối với các NHTM",
+    "answer": "Tăng"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Khi NHTW giảm số tiền cho vay chiết khấu, cơ số tiền tệ……..và lượng tiền dự trữ trong các NHTM…………",
+    "answer": "Giảm, giảm"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Hoạt động thị trường mở tạo sự linh hoạt cho các ngân hàng thương mại trong việc đảm bảo thanh khoản",
+    "answer": "Hỗ trợ 20%"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Khi Ngân hàng Trung ương tăng tỷ lệ dự trữ bắt buộc, lượng tiền cung ứng sẽ",
+    "answer": "Giảm"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Khi Ngân hàng Trung ương cho vay chiết khấu, khoản mục nào trong bảng cân đối kế toán của Ngân hàng Trung ương sẽ thay đổi",
+    "answer": "Khoản mục cho vay chiết khấu tăng, khoản mục tiền dự trữ tăng"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Lượng tiền cung ứng giảm xuống khi:",
+    "answer": "Ngân hàng Trung ương bán giấy tờ có giá trên thị trường mở"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây không đúng về ưu điểm của nghiệp vụ thị trường mở",
+    "answer": "Giúp Ngân hàng Trung ương thực hiện vai trò người cho vay cuối cùng"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Tài trợ chi tiêu chính phủ bằng thuế sẽ?",
+    "answer": "Không có ảnh hưởng ròng tới lượng tiền cơ sở"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Trong phân tích về tổng cung và tổng cầu, sự gia tăng trong chi tiêu chính phủ sẽ làm cho tổng cầu ___, dẫn tới sản lượng ___, giả định mọi yếu tố khác không thay đổi",
+    "answer": "Tăng, tăng"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Phân tích tổng cung và tổng cầu với giả định rằng với các yếu tố không đổi, sự gia tăng liên tục trong cung tiền gây ra",
+    "answer": "Lạm phát"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Nếu các nhà hoạch định chính sách đặt mục tiêu thất nghiệp ở mức thấp hơn mức tự nhiên, điều này có thể dẫn tới:",
+    "answer": "Lạm phát cầu kéo"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Phân tích về các cuộc siêu lạm phát đã chỉ ra rằng sự tăng nhanh của tiền tệ dẫn tới tình trạng lạm phát là kết quả của?",
+    "answer": "Chính phủ tài trợ tình trạng vô cùng thâm hụt bằng cách in tiền"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Để mua hàng hoá ở Nhật rẻ hơn mua hàng hoá ở Mỹ, tỷ giá giữa USD và Yên Nhật phải",
+    "answer": "Lớn hơn 1.0"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Nếu đồng USD bị mất giá so với đồng Euro:",
+    "answer": "Quần áo của châu Âu sẽ trở nên đắt hơn ở Mỹ"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Giả sử lãi suất tiền gửi ngoại tệ (USD) là iF = 5%, tỷ giá dự tính trong kỳ tới là Eet+1= 1.20; nếu tỷ giá hiện hành là Et= 1.15, lãi suất dự tính tiền gửi ngoại tệ tương đương là:",
+    "answer": "0.66%"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Nếu tỷ lệ lạm phát ở Mỹ cao hơn ở Mexico và năng suất lao động ở Mỹ tăng lên với tốc độ chậm hơn năng suất lao động của Mexico. Nếu các thứ khác không đổi, trong dài hạn:",
+    "answer": "Đồng tiền của Mexico sẽ tăng giá so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Giả sử lãi suất tiền gửi ngoại tệ (USD) là iF = 5%, tỷ giá dự tính trong kỳ tới là Eet+1= 1.20; nếu tỷ giá hiện hành là Et= 1.15, mức tăng giá dự tính của EUR là",
+    "answer": "4.34%"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Điều nào sau đây là không đúng về các trung gian tài chính:",
+    "answer": "Các trung gian tài chính thực hiện các hoạt động tài chính trực tiếp và gián tiếp."
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Nghiên cứu về hầu hết các nước phát triển trên thế giới cho thấy khi doanh nghiệp tìm kiếm nguồn tài trợ cho các hoạt động của họ thì họ chủ yếu huy động được từ:",
+    "answer": "Các tổ chức tài chính trung gian"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Công ty bảo hiểm thực hiện hoạt động trung gian tài chính bằng cách:",
+    "answer": "Sử dụng tiền phí thu được từ bán các hợp đồng bảo hiểm để đầu tư vào các tài sản như chứng khoán và các món vay, sau đó sử dụng lợi nhuận từ các tài sản này để thanh toán cho các rủi ro đòi được bồi thường theo hợp đồng đã bán."
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Phương pháp tiết kiệm cho quy mô giúp các trung gian tài chính trong việc:",
+    "answer": "Giảm các chi phí giao dịch"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Nếu người đi vay không trả được nợ là những người tích cực tìm vay nhất, và do đó nhận được các khoản vay từ các trung gian tài chính, thì các tổ chức tài chính trung gian phải đổi mặt với vấn đề về:",
+    "answer": "Sự lựa chọn đối nghịch"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Tài sản thế chấp của ngân hàng thương mại phải đáp án các yêu cầu",
+    "answer": "Có giá trị tiền tệ và đảm bảo các yêu cầu của pháp luật"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Tiền gửi giao dịch của khách hàng tại ngân hàng thương mại nhằm",
+    "answer": "Để khách hàng được sử dụng dịch vụ thanh toán do ngân hàng thương mại cung cấp"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Việc giám sát khách hàng vay vốn nhằm để",
+    "answer": "Hạn chế việc khách hàng sử dụng tiền vay vào các hoạt động kinh doanh mạo hiểm"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Hoạt động cho vay của ngân hàng thương mại chỉ tập trung cho các khách hàng vay với thời hạn trung và dài hạn",
+    "answer": "Cho vay khách hàng không chỉ ngắn hạn mà còn cả trung và dài hạn"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Bảng cân đối tài sản của ngân hàng thương mại là:",
+    "answer": "Bảng kê các tài sản và nguồn vốn của ngân hàng thương mại"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Lý thuyết của Keynes về cầu tiền chỉ ra rằng nhu cầu về tiền là",
+    "answer": "Có quan hệ nghịch chiều với lãi suất"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Bởi vì Keynes giả định rằng thu nhập kỳ vọng từ tiền bằng 0, nên Keynes cho rằng mọi người sẽ",
+    "answer": "Giữ tiền như là phương tiện lưu trữ giá trị khi thu nhập kỳ vọng nhận được từ trái phiếu là âm"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Keynes giải thiết rằng nhu cầu tiền với động cơ dự phòng chủ yếu được quyết định bởi",
+    "answer": "Thu nhập"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Theo lý thuyết của Keynes về cầu tiền tệ, khi lãi suất thị trường hiện tại cao hơn mức lãi suất cân bằng thị trường dài hạn:",
+    "answer": "Các nhà đầu cơ sẽ kỳ vọng rằng lãi suất giảm và giá trái phiếu tăng"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Tổng hợp nhu cầu nắm giữ tiền, theo Keynes thì",
+    "answer": "Cầu tiền đầu cơ có mối quan hệ tỷ lệ nghịch với lãi suất"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Phát hành tiền trên cơ sở tín dụng",
+    "answer": "Không nhất thiết phải có vàng đảm bảo"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Phát hành tiền có vàng đảm bảo",
+    "answer": "Mức bảo đảm khác nhau ở các quốc gia"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Khi một ngân hàng thương mại mua chứng khoán của Ngân hàng Trung ương, thì",
+    "answer": "Lượng tiền cung ứng thay đổi"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây đúng khi đề cập về Ngân hàng Trung ương",
+    "answer": "Ngân hàng Trung ương nhận tiền gửi của ngân hàng thương mại"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Ngân hàng Trung ương trực thuộc Chính phủ trong thực tế có nhược điểm",
+    "answer": "Giảm tính độc lập của Ngân hàng Trung ương"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ thay đổi như thế nào khi NHTM tăng tỷ lệ dự trữ vượt mức",
+    "answer": "Giảm"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Sau khi hệ thông NHTM tăng cường hoạt động cho vay, cơ số tiền tệ sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ tăng lên khi:",
+    "answer": "NHTW mua tín phiếu kho bạc trên thị trường mở"
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Dự trữ của NHTM bao gồm:",
+    "answer": "Dự trữ bắt buộc và dự trữ tiền mặt tại két của NHTM"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Khi FED muốn giảm dự trữ trong hệ thống ngân hàng, FED có thể:",
+    "answer": "Bán trái phiếu chính phủ cho NHTM"
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Lượng tiền cung ứng không thay đổi khi",
+    "answer": "Ngân hàng Trung ương không cho vay chiết khấu với các ngân hàng thương mại"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Lượng tiền cung ứng sẽ giảm xuống khi",
+    "answer": "Ngân hàng Trung ương giảm hạn mức tín dụng của các ngân hàng thương mại"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Tỷ lệ dự trữ bắt buộc giảm, làm cho",
+    "answer": "Lãi suất trên thị trường giảm"
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Tỷ lệ dự trữ bắt buộc được xác định",
+    "answer": "theo mục tiêu của chính sách tiền tệ ở mỗi thời kỳ"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Công cụ quan trọng nhất của chính sách tiền tệ là:",
+    "answer": "Nghiệp vụ thị trường mở"
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Xét về mặt định lượng, người ta chia lạm phát thành:",
+    "answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Khi chính phủ quyết định tài trợ cho thâm hụt ngân sách bằng cách phát hành trái phiếu ra công chúng, lượng tiền cung ứng sẽ có xu hướng?",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Phân tích tổng cầu và tổng cung chỉ ra rằng các cú sốc cung tiêu cực làm",
+    "answer": "Tăng mức giá, nhưng không làm giảm tỷ lệ lạm phát"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Trong một nền kinh tế, khi lạm phát được dự đoán tăng lên thì điều gì xảy ra?",
+    "answer": "Lãi suất danh nghĩa tang"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Nhà kinh tế học Milton Friedman đã phát biểu rằng “Lạm phát ở đâu và bao giờ cũng là một hiện tượng ___”",
+    "answer": "Tiền tệ"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Giả sử tỷ lệ lạm phát ở một số quốc gia được dự kiến trong năm như sau: ở Mỹ là 2%, Canada 3%, Mexico 4%, và Braxin 5%. Theo thuyết ngang giá sức mua và mọi thứ khác không đổi, điều gì được kỳ vọng sẽ xảy ra?",
+    "answer": "Đồng tiền của Braxin sẽ giảm giá so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Vào ngày 05/01/2019, 1USD đổi được trên thị trường ngoại hối 49.0 đồng rupee của Ấn Độ, do đó, 1 rupee sẽ đổi được:",
+    "answer": "0.02 USD"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Nếu chính phủ Mỹ tăng thuế nhập khẩu cho quần áo của Nhật, nhưng cùng lúc đó, nhu cầu của người dân Mỹ về hàng hoá của Nhật tăng lên. Nếu các thứ khác không đổi, trong dài hạn:",
+    "answer": "Đồng tiền của Nhật sẽ giảm giá hoặc tăng giá hoặc giữ nguyên so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Theo quy luật một giá, nếu giá của cà phê Colombia là 100 peso/ cân và giá của cà phê Braxin là 4 real/ cân, khi đó tỷ giá giữa đồng peso (đồng tiền của Colombia) và đồng real (đồng tiền của Braxin) là:",
+    "answer": "25 peso/ real"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Nếu chính phủ Mỹ giảm hạn ngạch nhập khẩu cho quần áo của Nhật, nhưng cùng lúc đó, nhu cầu của người dân Nhật về hàng hoá của Mỹ tăng lên. Nếu các thứ khác không đổi, trong dài hạn:",
+    "answer": "Đồng tiền của Nhật sẽ giảm giá so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Một khoản cho vay có lãi suất hoàn vốn là 10%. Số tiền thu được qua từng năm lần lượt là $1100, $1210 và $1331. Tính giá trị hiện tại của khoản đầu tư.",
+    "answer": "3000"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Vấn đề gây ra bởi thông tin không cân xứng trước khi diễn ra các giao dịch được gọi là _____, trong khi vấn đề gây ra sau khi diễn ra các giao dịch được gọi là _____.",
+    "answer": "Sự lựa chọn đối nghịch; rủi ro đạo đức"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Rủi ro đạo đức trong các hợp đồng vốn cổ phẩn xảy ra khi:",
+    "answer": "Có sự mất cân xứng ở thông tin về hoạt động của doanh nghiệp giữa người quản lý và các chủ sở hữu doanh nghiệp khi người quản lý sở hữu rất ít hoặc không sở hữu phần vốn nào của doanh nghiệp và họ hành động vì lợi ích của mình hơn là vì lợi ích của các chủ sở hữu."
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Nguồn vốn chủ yếu của một ngân hàng thương mại là:",
+    "answer": "Các khoản tiền gửi"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Hoạt động nào sau đây không thuộc hoạt động trung gian tài chính của công ty chứng khoán:",
+    "answer": "Cho vay ngắn, trung và dài hạn để đầu tư chứng khoán"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Nguồn vốn của ngân hàng thương mại chủ yếu dưới hình thức phát hành trái phiếu",
+    "answer": "Sai"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Để làm gia tăng quy mô vốn chủ sở hữu, các ngân hàng thương mại có thể thực hiện những hoạt động sau",
+    "answer": "Gia tăng các khoản lợi nhuận được giữ lại"
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Ngân hàng thương mại thực hiện quản lý tiền dự trữ và dòng tiền rút ra nhằm",
+    "answer": "Hạn chế chi phí khi có dòng tiền rút ra và ngăn ngừa vỡ nợ của ngân hàng"
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Hoạt động đầu tư của ngân hàng thương mại chỉ tập trung cho chứng khoán Chính phủ",
+    "answer": "Chứng khoán Chính phủ, cổ phiếu và các khoản đầu tư khác"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Tiền cho vay được thể hiện trên bảng cân đối kế toán của ngân hàng thương mại theo tỷ lệ",
+    "answer": "100% bên tài sản"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Theo các chứng minh thực nghiệm về cầu tiền, cầu tiền sẽ giảm xuống khi:",
+    "answer": "Các phương thức thanh toán phát triển"
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Theo các chứng minh thực nghiệm về cầu tiền, cầu tiền sẽ tăng lên khi:",
+    "answer": "Thu nhập tăng"
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Theo lý thuyết của Keynes về cầu tiền tệ, khi lãi suất thị trường hiện tại thấp hơn mức lãi suất cân bằng thị trường dài hạn:",
+    "answer": "Các nhà đầu cơ sẽ kỳ vọng rằng giá trái phiếu giảm xuống"
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Động cơ đầu cơ của việc nắm giữ tiền có liên quan chặt chẽ tới chức năng nào của tiền",
+    "answer": "Lưu trữ giá trị"
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Theo học thuyết về số lượng tiền tệ của các nhà kinh tế học cổ điển,",
+    "answer": "Lãi suất không có ảnh hưởng tới cầu tiền tệ"
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Lượng tiền cung ứng sẽ không thay đổi",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Ngân hàng Trung ương là",
+    "answer": "Quỹ đầu tư"
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Chính sách tiền tệ là do Ngân hàng Trung ương thực hiện",
+    "answer": "Đúng"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Ngân hàng Trung ương trực thuộc Chính phủ:",
+    "answer": "Chính phủ cần quản lý Ngân hàng Trung ương nhằm phối kết hợp các chính sách kinh tế vĩ mô"
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Lượng tiền cung ứng thay đổi khi",
+    "answer": "Ngân hàng Trung ương thực hiện hoạt động đào tạo"
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Sau khi NHTM phát hành một lượng cổ phiếu để tăng vốn điều lệ, cơ số tiền tệ sẽ:",
+    "answer": "Không đổi"
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ thay đổi như thế nào khi NHTW tăng tỷ lệ dự trữ bắt buộc đối với các NHTM",
+    "answer": "Giảm"
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ thay đổi như thế nào khi NHTW mua tín phiếu kho bạc trên thị trường mở",
+    "answer": "Tăng"
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Tỷ lệ dự trữ bắt buộc là 1/3; tiền mặt trong quá trình lưu thông là $300 tỷ, tiền gửi có thể phát séc là $900 tỷ, vậy khi đó lượng tiền cơ sở là bao nhiêu?",
+    "answer": "$600 tỷ"
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "Khi NHTW bán 200 tỷ chứng khoán cho NHTM. Với giả định các yếu tố khác không thay đổi, tỷ lệ dự trữ bắt buộc là 10% thì lượng tiền cung ứng sẽ thay đổi như thế nào?",
+    "answer": "Giảm đi $2,000 tỷ"
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Mục tiêu nào dưới đây không phải là mục tiêu của chính sách tiền tệ",
+    "answer": "Lãi suất thấp"
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "Khi Ngân hàng Trung ương tăng cho vay chiết khấu, lượng tiền cung ứng",
+    "answer": "Tăng"
+  },
+  {
+    "id": 406,
+    "premium": true,
+    "question": "Ưu điểm quan trọng nhất của chính sách chiết khấu là Ngân hàng Trung ương có thể sử dụng nó",
+    "answer": "Thực hiện vai trò người cho vay cuối cùng đối với ngân hàng thương mại"
+  },
+  {
+    "id": 407,
+    "premium": true,
+    "question": "Lượng tiền cung ứng thay đổi như thế nào khi Ngân hàng Trung ương mua trái phiếu chính phủ trên thị trường mở lúc lãi suất thị trường đang tăng",
+    "answer": "Tăng"
+  },
+  {
+    "id": 408,
+    "premium": true,
+    "question": "Khi một ngân hàng thương mại bán chứng khoán cho Ngân hàng Trung ương trên thị trường mở, thì",
+    "answer": "Dự trữ ngân hàng tăng và cơ số tiền tệ tăng"
+  },
+  {
+    "id": 409,
+    "premium": true,
+    "question": "Về mặt lý thuyết, so sánh lạm phát cầu kéo và lạm phát phí đẩy có thể căn cứ vào:",
+    "answer": "Tỷ lệ thất nghiệp với mức tự nhiên"
+  },
+  {
+    "id": 410,
+    "premium": true,
+    "question": "Lạm phát phi mã là lạm phát ở mức?",
+    "answer": "Tỷ lệ lạm phát ở mức hai chữ số nhưng dưới mức ba chữ số"
+  },
+  {
+    "id": 411,
+    "premium": true,
+    "question": "Nhà kinh tế học đề xuất “Lạm phát bao giờ và ở đâu cũng là một hiện tượng tiền tệ” là ai?",
+    "answer": "Milton Friedman"
+  },
+  {
+    "id": 412,
+    "premium": true,
+    "question": "Trạng thái gia tăng liên tục trong mức giá được định nghĩa là:",
+    "answer": "Lạm phát"
+  },
+  {
+    "id": 413,
+    "premium": true,
+    "question": "Nhà kinh tế học Milton Friedman đã phát biểu rằng “Lạm phát ở đâu và bao giờ cũng là một hiện tượng ___”",
+    "answer": "Tiền tệ"
+  },
+  {
+    "id": 414,
+    "premium": true,
+    "question": "“Nếu hai quốc gia sản xuất ra một mặt hàng giống hệt nhau, giá của hàng hoá đó phải giống nhau trên toàn thế giới, bất kể quốc gia nào sản xuất nó.” Đây là phát biểu theo:",
+    "answer": "Thuyết ngang giá sức mua"
+  },
+  {
+    "id": 415,
+    "premium": true,
+    "question": "Nếu nhu cầu của người Nhật về hàng hoá xuất khẩu của Mỹ tăng lên, cùng với đó năng suất lao động ở Mỹ tăng lên tương đối so với Nhật. Nếu các thứ khác không đổi, trong dài hạn:",
+    "answer": "Đồng tiền của Nhật sẽ giảm giá so với đồng tiền của Mỹ"
+  },
+  {
+    "id": 416,
+    "premium": true,
+    "question": "Khi lãi suất nội tệ tăng do sự tăng lên của lạm phát dự tính:",
+    "answer": "lãi suất dự tính bằng tiền gửi ngoại tệ tăng lên"
+  },
+  {
+    "id": 417,
+    "premium": true,
+    "question": "Khi NHTW bán dự trữ quốc tế, đồng thời thực hiện việc mua vào trái phiếu chính phủ trái phiếu chính phủ",
+    "answer": "Lượng tiền cung ứng không thay đổi"
+  },
+  {
+    "id": 418,
+    "premium": true,
+    "question": "Vào ngày 25/09/2019, 1USD đổi được trên thị trường ngoại hối 0.75 euro. Do đó, 1 euro sẽ đổi được:",
+    "answer": "1.33 USD"
+  },
+  {
+    "id": 419,
+    "premium": true,
+    "question": "Nguồn vốn chủ yếu của một ngân hàng thương mại là:",
+    "answer": "Các khoản tiền gửi"
+  },
+  {
+    "id": 420,
+    "premium": true,
+    "question": "Sự lựa chọn đối nghịch là một vấn đề liên quan tới các hợp đồng nợ và hợp đồng vốn cổ phần được tạo ra bởi:",
+    "answer": "Sự thiếu hụt tương đối ở thông tin của người cho vay về lợi nhuận và rủi ro tiềm năng của người đi vay trong các hoạt động đầu tư của anh ta."
+  },
+  {
+    "id": 421,
+    "premium": true,
+    "question": "Phương pháp tiết kiệm cho quy mô giúp các trung gian tài chính trong việc:",
+    "answer": "Giảm các chi phí giao dịch"
+  },
+  {
+    "id": 422,
+    "premium": true,
+    "question": "Hoạt động nào sau đây không thuộc hoạt động trung gian tài chính của công ty chứng khoán:",
+    "answer": "Cho vay ngắn, trung và dài hạn để đầu tư chứng khoán"
+  },
+  {
+    "id": 423,
+    "premium": true,
+    "question": "Các tổ chức nhận tiền gửi gồm có:",
+    "answer": "Các ngân hàng thương mại, các hiệp hội cho vay và tiết kiệm, các ngân hàng tiết kiệm tương trợ và các liên hiệp tín dụng"
+  },
+  {
+    "id": 424,
+    "premium": true,
+    "question": "Tài sản thế chấp của ngân hàng thương mại phải đáp án các yêu cầu",
+    "answer": "Có giá trị tiền tệ và đảm bảo các yêu cầu của pháp luật"
+  },
+  {
+    "id": 425,
+    "premium": true,
+    "question": "Tài sản thế chấp là giúp ngân hàng thương mại tăng hiệu quả quản lý tiền cho vay",
+    "answer": "Không có phương án nào đúng"
+  },
+  {
+    "id": 426,
+    "premium": true,
+    "question": "Tỷ lệ dự trữ vượt quá của ngân hàng thương mại được xác định",
+    "answer": "Phụ thuộc vào đặc điểm khách hàng của ngân hàng thương mại"
+  },
+  {
+    "id": 427,
+    "premium": true,
+    "question": "Ngân hàng thương mại thực hiện quản lý tiền cho vay phải đảm bảo các nguyên tắc",
+    "answer": "Sàng lọc và giám sát; quan hệ với khách hàng; thế chấp tài sản và số dư bù; hạn chế tín dụng; vốn ngân hàng và tính tương hợp"
+  },
+  {
+    "id": 428,
+    "premium": true,
+    "question": "Tỷ lệ dự trữ bắt buộc đối với ngân hàng thương mại nhất thiết phải là",
+    "answer": "Do Ngân hàng Trung ương quy định từng thời kỳ"
+  },
+  {
+    "id": 429,
+    "premium": true,
+    "question": "Lượng cầu tiền theo Friedman sẽ có quan hệ tỷ lệ thuận với:",
+    "answer": "Thu nhập thường xuyên"
+  },
+  {
+    "id": 430,
+    "premium": true,
+    "question": "Theo các chứng minh thực nghiệm về cầu tiền, cầu tiền sẽ tăng lên khi:",
+    "answer": "Thu nhập tăng"
+  },
+  {
+    "id": 431,
+    "premium": true,
+    "question": "Lý thuyết của Keynes về cầu tiền chỉ ra rằng tốc độ lưu chuyển của tiền sẽ tăng lên khi:",
+    "answer": "Lãi suất tăng"
+  },
+  {
+    "id": 432,
+    "premium": true,
+    "question": "Theo quan điểm của Friedman, cầu tiền tệ là",
+    "answer": "Không nhạy cảm với lãi suất"
+  },
+  {
+    "id": 433,
+    "premium": true,
+    "question": "Tổng hợp nhu cầu nắm giữ tiền, theo Keynes thì",
+    "answer": "Cầu tiền đầu cơ có mối quan hệ tỷ lệ nghịch với lãi suất"
+  },
+  {
+    "id": 434,
+    "premium": true,
+    "question": "Nhận tiền gửi của ngân hàng thương mại dưới các hình thức khác nhau thuộc",
+    "answer": "Chức năng Ngân hàng của các ngân hàng"
+  },
+  {
+    "id": 435,
+    "premium": true,
+    "question": "Mô hình tổ chức của Ngân hàng Trung ương",
+    "answer": "gắn liền đặc điểm riêng có của mỗi dân tộc như vấn đề thể chế chính trị, quan điểm phát triển kinh tế và đặc điểm văn hoá"
+  },
+  {
+    "id": 436,
+    "premium": true,
+    "question": "Công cụ nào sau đây là công cụ của chính sách tiền tệ",
+    "answer": "Dự trữ bắt buộc"
+  },
+  {
+    "id": 437,
+    "premium": true,
+    "question": "Lượng tiền cung ứng thay đổi khi",
+    "answer": "Ngân hàng Trung ương thực hiện hoạt động đào tạo"
+  },
+  {
+    "id": 438,
+    "premium": true,
+    "question": "Dự trữ bắt buộc của ngân hàng thương mại",
+    "answer": "Nhất thiết phải do Bộ Kế hoạch Đầu tư giữa"
+  },
+  {
+    "id": 439,
+    "premium": true,
+    "question": "Giả sử các yếu tố khác không đổi, khối lượng tiền cung ứng sẽ thay đổi như thế nào khi NHTW mua tín phiếu kho bạc trên thị trường mở",
+    "answer": "Tăng"
+  }
+]

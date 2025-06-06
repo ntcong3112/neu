@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Sử dụng Bài toán lập tiến độ sản xuất đã",
+    "answer": "Quan tâm đến sự thay đổi khả năng tiêu thụ sản phẩm của doanh nghiệp trong từng tháng"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Điều kiện cần và đủ để bài toán vận tải có phương án tối ưu duy nhất là",
+    "answer": "c_ij, Tất cả các ô không có hàng của bảng vận tải cuối cùng ứng với phương án tối ưu đều thỏa mãn bất đẳng thức u_i+v_j"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Bài toán sản xuất, vận chuyển và tiêu thụ",
+    "answer": "Phương án tối ưu luôn cho chúng ta tổng lợi nhuận thu được tại các cơ sở tiêu thụ trong kỳ kế hoạch là lớn nhất"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Khi sử dụng bài toán vận tải để xác định khối lượng sản phẩm sản xuất, vận chuyển và tiêu thụ cho doanh nghiệp đã không chú ý đến",
+    "answer": "Sự thay đổi chi phí sản xuất và giá bán đơn vị sản phẩm tại các cơ sở sản xuất và tại các cơ sở tiêu thụ sản phẩm trong kỳ kế hoạch"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu duy nhất"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây là mệnh đề đúng:",
+    "answer": "Nếu bài toán quy hoạch tuyến tính có phương án thì nó phương án cực biên"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Bài toán cực đại hóa giá trị sản lượng của doanh nghiệp:",
+    "answer": "Mới chỉ quan tâm đến việc sản xuất một loại sản phẩm"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Khi sử dụng thuật toán gán nhãn để tìm đường đi ngắn nhất từ đỉnh u đến đỉnh v của một đồ thị liên thông thì",
+    "answer": "Thuật toán có thể không tìm được đường đi ngắn nhất"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu chi phí hoàn thành dự án",
+    "answer": "Có biến số là tổng chi phí cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Để tìm phương án tối ưu cần xác định một máy tham gia sản xuất cả hai loại chi tiết"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Cây là một đồ thị vô hướng",
+    "answer": "Liên thông và có n-1 cạnh"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có lời giải tối ưu nếu :",
+    "answer": "Có phương án và hàm mục tiêu bị chặn"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Min",
+    "answer": "1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≤0 , j, 1,2,….,n, 1,2,….,n, 1,2,….,n"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Khi năng suất của các máy khi sản xuất từng loại chi tiết đều được tăng lên k lần thì phương án tối ưu sẽ không thay đổi"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Bài toán cực tiểu hóa chi phí sản xuất của doanh nghiệp:",
+    "answer": "Đã quan tâm đến mức sản lượng để đáp ứng nhu cầu của khách hàng theo hợp đồng"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Cây bao trùm T=(E,F) của đồ thị G=(D,C)",
+    "answer": "Là một đồ thị có hướng"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu thời gian hoàn thành dự án",
+    "answer": "Có biến số là thời gian cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Bài toán quy hoạch tuyến tính là bài toán",
+    "answer": "Luôn tồn tại lời giải tối ưu"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Sử dụng Bài toán lập kế hoạch sản xuất để xác định số lượng từng loại sản phẩm mà doanh nghiệp sẽ sản xuất trong kỳ kế hoạch đã :",
+    "answer": "Quan tâm đến giới hạn cầu của thị trường về từng loại sản phẩm của doanh nghiệp trong kỳ kế hoạch"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Phương pháp tối ưu trong kinh doanh",
+    "answer": "Có thể hỗ trợ nhà quản trị xác định nhu cầu của thị trường về sản phẩm của doanh nghiệp"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Mệnh đề nào là sai trong những mệnh đề sau:",
+    "answer": "Giải quyết được vấn đề thì chắc chắn có quyết định"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Bài toán cực tiểu hóa chi tiêu của hộ gia đình",
+    "answer": "Đã quan tâm đến mức tiêu dùng tối thiểu cần phải đảm bảo đối với từng loại hàng hóa"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Bài toán cực đại hóa lợi ích tiêu dùng của hộ gia đình:",
+    "answer": "Đã quan tâm đến hạn chế về tài chính của hộ gia đình khi tiêu dùng các loại hàng hóa"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Bài toán xe không",
+    "answer": "Nhằm xác định số tấn x km chạy xe không tải cho hợp động vận chuyển là nhỏ nhất"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Bài toán quy hoạch toán học là bài toán",
+    "answer": "Có ràng buộc được thể hiện dưới dạng các phương trình, các bất phương trình của các biến số"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Khi sử dụng bài toán vận tải để phân công công việc đã chú ý đến điều kiện :",
+    "answer": "Mỗi người chỉ đảm nhận một công việc và mỗi công việc chỉ do một người đảm nhận"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Bài toán vận tải :",
+    "answer": "Luôn có lời giải tối ưu"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Phương án cực biên của bài toán vận tải:",
+    "answer": "Luôn tồn tại"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Khi sử dụng bài toán vận tải để lựa chọn địa điểm xây dựng cơ sở sản xuất cho doanh nghiệp đã chú ý đến",
+    "answer": "Chi phí để sản xuất và vận chuyển một đơn vị sản phẩm từ những địa điểm dự định lựa chọn đến các đại lý"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Bài toán hai máy gia công nhiều chi tiết",
+    "answer": "Để tìm phương án tối ưu cần phải xác định chi tiết được cả hai máy cùng tham gia sản xuất"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Phương pháp tối ưu",
+    "answer": "Không phụ thuộc vào mục tiêu cần đạt được và những ràng buộc khi giải quyết vấn đề"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Cây bao trùm của một đồ thị vô hướng n đỉnh",
+    "answer": "Chỉ có n-1 đỉnh"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Sử dụng phương pháp đơn hình để giải Bài toán pha cắt vật liệu đã :",
+    "answer": "Quan tâm đến số lượng những tấm vật liệu có kích thước nhỏ hơn cần thiết để phục vụ cho kế hoạch sản xuất sản phẩm"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Sử dụng bài toán tối ưu để giải quyết các vấn đề thực tế trong kinh doanh cần",
+    "answer": "Không cần phải kiểm định lại kết quả thu được sau khi áp dụng phương pháp tối ưu để giải bài toán"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Bài toán hai máy gia công nhiều loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Với mục tiêu là xác định số lượng sản phẩm lắp ráp được trong một giờ là lớn nhất"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Điều kiện cần và đủ để một phương án của bài toán vận tải là phương án tối ưu là",
+    "answer": "c_ij ở những ô không có hàng, c_ij ở những ô có hàng, Tìm được m số u_i và n số v_j sao cho u_i+v_j, c_ij ở những ô có hàng và u_i+v_j≤c_ij ở những ô không có hàng"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Không phải là một bài toán quy hoạch tuyến tính"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp đơn hình ở bảng cuối cùng ứng với phương án tối ưu có những số kiểm tra ∆_k=0 ứng với những véc tơ phi cơ sở thì điều đó cho thấy :",
+    "answer": "Phương án tối ưu là không duy nhất"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có thể chuyển về bài toán dạng chính tắc nhờ:",
+    "answer": "Sử dụng các biến bù với hệ số của các biến bù trong hàm mục tiêu bằng 0"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Mạng",
+    "answer": "Là một đồ thị vô hướng"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn tìm được phương án tối ưu"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Với cây bao trùm bé nhất T của đồ thị G thì mỗi cạnh (u,v) của G nhưng không thuộc T",
+    "answer": "Cạnh (u,v) là cạnh có độ dài nhỏ nhất so với những cạnh của chu trình mà nó tạo ra với những cạnh của T"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Sơ đồ mạng của một dự án (sơ đồ PERT)",
+    "answer": "Đường găng là đường có độ dài ngắn nhất đi từ sự kiện khởi công dự án đến sự kiện kết thúc dự án"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Bài toán xe không",
+    "answer": "Là bài toán vận tải với điểm phát và điểm thu sản phẩm như đã phát biểu trong mục 3.1.1."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Sử dụng phương pháp sơ đồ mạng để điều hành dự án cần",
+    "answer": "Xác định chi phí các nguồn lực cần thiết để thực hiện các công việc của dự án"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Max :",
+    "answer": "1,2,….,n, 1,2,….,n, 0 , j, 1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≥0 , j, 1,2,….,n"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Khi sử dụng bài toán phụ để tìm phương án cực biên của bài toán quy hoạch tuyến tính :",
+    "answer": "Nếu giá trị nhỏ nhất của hàm mục tiêu của bài toán phụ dương thì bài toán chính không có phương án cực biên"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Bài toán quy hoạch toán học là bài toán",
+    "answer": "Có ràng buộc được thể hiện dưới dạng các phương trình, các bất phương trình của các biến số"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Để tìm phương án tối ưu cần xác định một máy tham gia sản xuất cả hai loại chi tiết"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Bài toán cực đại hóa giá trị sản lượng của doanh nghiệp:",
+    "answer": "Mới chỉ quan tâm đến việc sản xuất một loại sản phẩm"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Min",
+    "answer": "1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≤0 , j, 1,2,….,n, 1,2,….,n, 1,2,….,n"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây là mệnh đề đúng:",
+    "answer": "Nếu bài toán quy hoạch tuyến tính có phương án thì nó phương án cực biên"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Bài toán xe không",
+    "answer": "Nhằm xác định số tấn x km chạy xe không tải cho hợp động vận chuyển là nhỏ nhất"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Bài toán vận tải :",
+    "answer": "Luôn có lời giải tối ưu"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Sử dụng Bài toán lập kế hoạch sản xuất để xác định số lượng từng loại sản phẩm mà doanh nghiệp sẽ sản xuất trong kỳ kế hoạch đã :",
+    "answer": "Quan tâm đến giới hạn cầu của thị trường về từng loại sản phẩm của doanh nghiệp trong kỳ kế hoạch"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Bài toán sản xuất, vận chuyển và tiêu thụ",
+    "answer": "Phương án tối ưu luôn cho chúng ta tổng lợi nhuận thu được tại các cơ sở tiêu thụ trong kỳ kế hoạch là lớn nhất"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Điều kiện cần và đủ để một phương án của bài toán vận tải là phương án tối ưu là",
+    "answer": "c_ij ở những ô không có hàng, c_ij ở những ô có hàng, Tìm được m số u_i và n số v_j sao cho u_i+v_j, c_ij ở những ô có hàng và u_i+v_j≤c_ij ở những ô không có hàng"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Mệnh đề nào là sai trong những mệnh đề sau:",
+    "answer": "Giải quyết được vấn đề thì chắc chắn có quyết định"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Bài toán cực đại hóa lợi ích tiêu dùng của hộ gia đình:",
+    "answer": "Đã quan tâm đến hạn chế về tài chính của hộ gia đình khi tiêu dùng các loại hàng hóa"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Sử dụng Bài toán lập tiến độ sản xuất đã",
+    "answer": "Quan tâm đến sự thay đổi khả năng tiêu thụ sản phẩm của doanh nghiệp trong từng tháng"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Khi sử dụng bài toán vận tải để lựa chọn địa điểm xây dựng cơ sở sản xuất cho doanh nghiệp đã chú ý đến",
+    "answer": "Chi phí để sản xuất và vận chuyển một đơn vị sản phẩm từ những địa điểm dự định lựa chọn đến các đại lý"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Max :",
+    "answer": "1,2,….,n, 1,2,….,n, 0 , j, 1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≥0 , j, 1,2,….,n"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Khi sử dụng bài toán phụ để tìm phương án cực biên của bài toán quy hoạch tuyến tính :",
+    "answer": "Nếu giá trị nhỏ nhất của hàm mục tiêu của bài toán phụ dương thì bài toán chính không có phương án cực biên"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Bài toán hai máy gia công nhiều chi tiết",
+    "answer": "Để tìm phương án tối ưu cần phải xác định chi tiết được cả hai máy cùng tham gia sản xuất"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Sử dụng phương pháp đơn hình để giải Bài toán pha cắt vật liệu đã :",
+    "answer": "Quan tâm đến số lượng những tấm vật liệu có kích thước nhỏ hơn cần thiết để phục vụ cho kế hoạch sản xuất sản phẩm"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có lời giải tối ưu nếu :",
+    "answer": "Có phương án và hàm mục tiêu bị chặn"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Sử dụng phương pháp sơ đồ mạng để điều hành dự án cần",
+    "answer": "Xác định chi phí các nguồn lực cần thiết để thực hiện các công việc của dự án"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Phương pháp tối ưu trong kinh doanh",
+    "answer": "Có thể hỗ trợ nhà quản trị xác định nhu cầu của thị trường về sản phẩm của doanh nghiệp"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Khi sử dụng thuật toán gán nhãn để tìm đường đi ngắn nhất từ đỉnh u đến đỉnh v của một đồ thị liên thông thì",
+    "answer": "Thuật toán có thể không tìm được đường đi ngắn nhất"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Cây bao trùm của một đồ thị vô hướng n đỉnh",
+    "answer": "Chỉ có n-1 đỉnh"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Khi sử dụng bài toán vận tải để phân công công việc đã chú ý đến điều kiện :",
+    "answer": "Mỗi người chỉ đảm nhận một công việc và mỗi công việc chỉ do một người đảm nhận"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Mạng",
+    "answer": "Là một đồ thị vô hướng"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Phương án cực biên của bài toán vận tải:",
+    "answer": "Luôn tồn tại"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Bài toán cực tiểu hóa chi tiêu của hộ gia đình",
+    "answer": "Đã quan tâm đến mức tiêu dùng tối thiểu cần phải đảm bảo đối với từng loại hàng hóa"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Bài toán hai máy gia công nhiều loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Điều kiện cần và đủ để bài toán vận tải có phương án tối ưu duy nhất là",
+    "answer": "c_ij, Tất cả các ô không có hàng của bảng vận tải cuối cùng ứng với phương án tối ưu đều thỏa mãn bất đẳng thức u_i+v_j"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Với mục tiêu là xác định số lượng sản phẩm lắp ráp được trong một giờ là lớn nhất"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Bài toán cực tiểu hóa chi phí sản xuất của doanh nghiệp:",
+    "answer": "Đã quan tâm đến mức sản lượng để đáp ứng nhu cầu của khách hàng theo hợp đồng"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Khi năng suất của các máy khi sản xuất từng loại chi tiết đều được tăng lên k lần thì phương án tối ưu sẽ không thay đổi"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Bài toán quy hoạch tuyến tính là bài toán",
+    "answer": "Luôn tồn tại lời giải tối ưu"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Phương pháp tối ưu",
+    "answer": "Không phụ thuộc vào mục tiêu cần đạt được và những ràng buộc khi giải quyết vấn đề"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu duy nhất"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Khi sử dụng bài toán vận tải để xác định khối lượng sản phẩm sản xuất, vận chuyển và tiêu thụ cho doanh nghiệp đã không chú ý đến",
+    "answer": "Sự thay đổi chi phí sản xuất và giá bán đơn vị sản phẩm tại các cơ sở sản xuất và tại các cơ sở tiêu thụ sản phẩm trong kỳ kế hoạch"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Cây là một đồ thị vô hướng",
+    "answer": "Liên thông và có n-1 cạnh"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Sử dụng bài toán tối ưu để giải quyết các vấn đề thực tế trong kinh doanh cần",
+    "answer": "Không cần phải kiểm định lại kết quả thu được sau khi áp dụng phương pháp tối ưu để giải bài toán"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có thể chuyển về bài toán dạng chính tắc nhờ:",
+    "answer": "Sử dụng các biến bù với hệ số của các biến bù trong hàm mục tiêu bằng 0"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn tìm được phương án tối ưu"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Sơ đồ mạng của một dự án (sơ đồ PERT)",
+    "answer": "Đường găng là đường có độ dài ngắn nhất đi từ sự kiện khởi công dự án đến sự kiện kết thúc dự án"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Cây bao trùm T=(E,F) của đồ thị G=(D,C)",
+    "answer": "Là một đồ thị có hướng"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu chi phí hoàn thành dự án",
+    "answer": "Có biến số là tổng chi phí cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu thời gian hoàn thành dự án",
+    "answer": "Có biến số là thời gian cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Với cây bao trùm bé nhất T của đồ thị G thì mỗi cạnh (u,v) của G nhưng không thuộc T",
+    "answer": "Cạnh (u,v) là cạnh có độ dài nhỏ nhất so với những cạnh của chu trình mà nó tạo ra với những cạnh của T"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Không phải là một bài toán quy hoạch tuyến tính"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp đơn hình ở bảng cuối cùng ứng với phương án tối ưu có những số kiểm tra ∆_k=0 ứng với những véc tơ phi cơ sở thì điều đó cho thấy :",
+    "answer": "Phương án tối ưu là không duy nhất"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Bài toán xe không",
+    "answer": "Là bài toán vận tải với điểm phát và điểm thu sản phẩm như đã phát biểu trong mục 3.1.1."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Mệnh đề nào là sai trong những mệnh đề sau:",
+    "answer": "Giải quyết được vấn đề thì chắc chắn có quyết định"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Khi năng suất của các máy khi sản xuất từng loại chi tiết đều được tăng lên k lần thì phương án tối ưu sẽ không thay đổi"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Bài toán cực tiểu hóa chi tiêu của hộ gia đình",
+    "answer": "Đã quan tâm đến mức tiêu dùng tối thiểu cần phải đảm bảo đối với từng loại hàng hóa"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Max :",
+    "answer": "1,2,….,n, 1,2,….,n, 0 , j, 1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≥0 , j, 1,2,….,n"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Sử dụng phương pháp sơ đồ mạng để điều hành dự án cần",
+    "answer": "Xác định chi phí các nguồn lực cần thiết để thực hiện các công việc của dự án"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Phương án cực biên của bài toán vận tải:",
+    "answer": "Luôn tồn tại"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu duy nhất"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Bài toán quy hoạch tuyến tính là bài toán",
+    "answer": "Luôn tồn tại lời giải tối ưu"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Khi sử dụng bài toán vận tải để lựa chọn địa điểm xây dựng cơ sở sản xuất cho doanh nghiệp đã chú ý đến",
+    "answer": "Chi phí để sản xuất và vận chuyển một đơn vị sản phẩm từ những địa điểm dự định lựa chọn đến các đại lý"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Bài toán hai máy gia công nhiều chi tiết",
+    "answer": "Để tìm phương án tối ưu cần phải xác định chi tiết được cả hai máy cùng tham gia sản xuất"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Cây bao trùm của một đồ thị vô hướng n đỉnh",
+    "answer": "Chỉ có n-1 đỉnh"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Sử dụng phương pháp đơn hình để giải Bài toán pha cắt vật liệu đã :",
+    "answer": "Quan tâm đến số lượng những tấm vật liệu có kích thước nhỏ hơn cần thiết để phục vụ cho kế hoạch sản xuất sản phẩm"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Khi sử dụng bài toán phụ để tìm phương án cực biên của bài toán quy hoạch tuyến tính :",
+    "answer": "Nếu giá trị nhỏ nhất của hàm mục tiêu của bài toán phụ dương thì bài toán chính không có phương án cực biên"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Để tìm phương án tối ưu cần xác định một máy tham gia sản xuất cả hai loại chi tiết"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Sử dụng Bài toán lập kế hoạch sản xuất để xác định số lượng từng loại sản phẩm mà doanh nghiệp sẽ sản xuất trong kỳ kế hoạch đã :",
+    "answer": "Quan tâm đến giới hạn cầu của thị trường về từng loại sản phẩm của doanh nghiệp trong kỳ kế hoạch"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Sử dụng Bài toán lập tiến độ sản xuất đã",
+    "answer": "Quan tâm đến sự thay đổi khả năng tiêu thụ sản phẩm của doanh nghiệp trong từng tháng"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Bài toán cực đại hóa lợi ích tiêu dùng của hộ gia đình:",
+    "answer": "Đã quan tâm đến hạn chế về tài chính của hộ gia đình khi tiêu dùng các loại hàng hóa"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Khi sử dụng bài toán vận tải để xác định khối lượng sản phẩm sản xuất, vận chuyển và tiêu thụ cho doanh nghiệp đã không chú ý đến",
+    "answer": "Sự thay đổi chi phí sản xuất và giá bán đơn vị sản phẩm tại các cơ sở sản xuất và tại các cơ sở tiêu thụ sản phẩm trong kỳ kế hoạch"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Bài toán cực đại hóa giá trị sản lượng của doanh nghiệp:",
+    "answer": "Mới chỉ quan tâm đến việc sản xuất một loại sản phẩm"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Phương pháp tối ưu trong kinh doanh",
+    "answer": "Có thể hỗ trợ nhà quản trị xác định nhu cầu của thị trường về sản phẩm của doanh nghiệp"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Điều kiện cần và đủ để một phương án của bài toán vận tải là phương án tối ưu là",
+    "answer": "c_ij ở những ô không có hàng, c_ij ở những ô có hàng, Tìm được m số u_i và n số v_j sao cho u_i+v_j, c_ij ở những ô có hàng và u_i+v_j≤c_ij ở những ô không có hàng"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Bài toán vận tải :",
+    "answer": "Luôn có lời giải tối ưu"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Bài toán hai máy gia công nhiều loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Bài toán sản xuất, vận chuyển và tiêu thụ",
+    "answer": "Phương án tối ưu luôn cho chúng ta tổng lợi nhuận thu được tại các cơ sở tiêu thụ trong kỳ kế hoạch là lớn nhất"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Phương pháp tối ưu",
+    "answer": "Không phụ thuộc vào mục tiêu cần đạt được và những ràng buộc khi giải quyết vấn đề"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp đơn hình ở bảng cuối cùng ứng với phương án tối ưu có những số kiểm tra ∆_k=0 ứng với những véc tơ phi cơ sở thì điều đó cho thấy :",
+    "answer": "Phương án tối ưu là không duy nhất"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Khi sử dụng thuật toán gán nhãn để tìm đường đi ngắn nhất từ đỉnh u đến đỉnh v của một đồ thị liên thông thì",
+    "answer": "Thuật toán có thể không tìm được đường đi ngắn nhất"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Với cây bao trùm bé nhất T của đồ thị G thì mỗi cạnh (u,v) của G nhưng không thuộc T",
+    "answer": "Cạnh (u,v) là cạnh có độ dài nhỏ nhất so với những cạnh của chu trình mà nó tạo ra với những cạnh của T"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu chi phí hoàn thành dự án",
+    "answer": "Có biến số là tổng chi phí cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Bài toán xe không",
+    "answer": "Nhằm xác định số tấn x km chạy xe không tải cho hợp động vận chuyển là nhỏ nhất"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Không phải là một bài toán quy hoạch tuyến tính"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Bài toán xe không",
+    "answer": "Là bài toán vận tải với điểm phát và điểm thu sản phẩm như đã phát biểu trong mục 3.1.1."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Với mục tiêu là xác định số lượng sản phẩm lắp ráp được trong một giờ là lớn nhất"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Mạng",
+    "answer": "Là một đồ thị vô hướng"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Điều kiện cần và đủ để bài toán vận tải có phương án tối ưu duy nhất là",
+    "answer": "c_ij, Tất cả các ô không có hàng của bảng vận tải cuối cùng ứng với phương án tối ưu đều thỏa mãn bất đẳng thức u_i+v_j"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn tìm được phương án tối ưu"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có lời giải tối ưu nếu :",
+    "answer": "Có phương án và hàm mục tiêu bị chặn"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có thể chuyển về bài toán dạng chính tắc nhờ:",
+    "answer": "Sử dụng các biến bù với hệ số của các biến bù trong hàm mục tiêu bằng 0"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Cây bao trùm T=(E,F) của đồ thị G=(D,C)",
+    "answer": "Là một đồ thị có hướng"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Sử dụng bài toán tối ưu để giải quyết các vấn đề thực tế trong kinh doanh cần",
+    "answer": "Không cần phải kiểm định lại kết quả thu được sau khi áp dụng phương pháp tối ưu để giải bài toán"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Khi sử dụng bài toán vận tải để phân công công việc đã chú ý đến điều kiện :",
+    "answer": "Mỗi người chỉ đảm nhận một công việc và mỗi công việc chỉ do một người đảm nhận"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Sơ đồ mạng của một dự án (sơ đồ PERT)",
+    "answer": "Đường găng là đường có độ dài ngắn nhất đi từ sự kiện khởi công dự án đến sự kiện kết thúc dự án"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu thời gian hoàn thành dự án",
+    "answer": "Có biến số là thời gian cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Bài toán cực tiểu hóa chi phí sản xuất của doanh nghiệp:",
+    "answer": "Đã quan tâm đến mức sản lượng để đáp ứng nhu cầu của khách hàng theo hợp đồng"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Min",
+    "answer": "1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≤0 , j, 1,2,….,n, 1,2,….,n, 1,2,….,n"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Cây là một đồ thị vô hướng",
+    "answer": "Liên thông và có n-1 cạnh"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Mệnh đề nào dưới đây là mệnh đề đúng:",
+    "answer": "Nếu bài toán quy hoạch tuyến tính có phương án thì nó phương án cực biên"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Bài toán quy hoạch toán học là bài toán",
+    "answer": "Có ràng buộc được thể hiện dưới dạng các phương trình, các bất phương trình của các biến số"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu duy nhất"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Sử dụng bài toán tối ưu để giải quyết các vấn đề thực tế trong kinh doanh cần",
+    "answer": "Không cần phải kiểm định lại kết quả thu được sau khi áp dụng phương pháp tối ưu để giải bài toán"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Khi năng suất của các máy khi sản xuất từng loại chi tiết đều được tăng lên k lần thì phương án tối ưu sẽ không thay đổi"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Cây bao trùm của một đồ thị vô hướng n đỉnh",
+    "answer": "Chỉ có n-1 đỉnh"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Mệnh đề nào là sai trong những mệnh đề sau:",
+    "answer": "Giải quyết được vấn đề thì chắc chắn có quyết định"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Bài toán quy hoạch tuyến tính là bài toán",
+    "answer": "Luôn tồn tại lời giải tối ưu"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu chi phí hoàn thành dự án",
+    "answer": "Có biến số là tổng chi phí cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Cây bao trùm T=(E,F) của đồ thị G=(D,C)",
+    "answer": "Là một đồ thị có hướng"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Bài toán xe không",
+    "answer": "Nhằm xác định số tấn x km chạy xe không tải cho hợp động vận chuyển là nhỏ nhất"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Max :",
+    "answer": "1,2,….,n, 1,2,….,n, 0 , j, 1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≥0 , j, 1,2,….,n"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Khi sử dụng phương pháp đơn hình ở bảng cuối cùng ứng với phương án tối ưu có những số kiểm tra ∆_k=0 ứng với những véc tơ phi cơ sở thì điều đó cho thấy :",
+    "answer": "Phương án tối ưu là không duy nhất"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Bài toán cực đại hóa lợi ích tiêu dùng của hộ gia đình:",
+    "answer": "Đã quan tâm đến hạn chế về tài chính của hộ gia đình khi tiêu dùng các loại hàng hóa"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Để tìm phương án tối ưu cần xác định một máy tham gia sản xuất cả hai loại chi tiết"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Bài toán cực đại hóa giá trị sản lượng của doanh nghiệp:",
+    "answer": "Mới chỉ quan tâm đến việc sản xuất một loại sản phẩm"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Không phải là một bài toán quy hoạch tuyến tính"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Bài toán vận tải :",
+    "answer": "Luôn có lời giải tối ưu"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Khi sử dụng bài toán phụ để tìm phương án cực biên của bài toán quy hoạch tuyến tính :",
+    "answer": "Nếu giá trị nhỏ nhất của hàm mục tiêu của bài toán phụ dương thì bài toán chính không có phương án cực biên"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Bài toán quy hoạch toán học là bài toán",
+    "answer": "Có ràng buộc được thể hiện dưới dạng các phương trình, các bất phương trình của các biến số"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Sơ đồ mạng của một dự án (sơ đồ PERT)",
+    "answer": "Đường găng là đường có độ dài ngắn nhất đi từ sự kiện khởi công dự án đến sự kiện kết thúc dự án"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Điều kiện cần và đủ để một phương án của bài toán vận tải là phương án tối ưu là",
+    "answer": "c_ij ở những ô không có hàng, c_ij ở những ô có hàng, Tìm được m số u_i và n số v_j sao cho u_i+v_j, c_ij ở những ô có hàng và u_i+v_j≤c_ij ở những ô không có hàng"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Với cây bao trùm bé nhất T của đồ thị G thì mỗi cạnh (u,v) của G nhưng không thuộc T",
+    "answer": "Cạnh (u,v) là cạnh có độ dài nhỏ nhất so với những cạnh của chu trình mà nó tạo ra với những cạnh của T"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Phương án cực biên của bài toán vận tải:",
+    "answer": "Luôn tồn tại"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Khi sử dụng bài toán vận tải để xác định khối lượng sản phẩm sản xuất, vận chuyển và tiêu thụ cho doanh nghiệp đã không chú ý đến",
+    "answer": "Sự thay đổi chi phí sản xuất và giá bán đơn vị sản phẩm tại các cơ sở sản xuất và tại các cơ sở tiêu thụ sản phẩm trong kỳ kế hoạch"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu thời gian hoàn thành dự án",
+    "answer": "Có biến số là thời gian cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Bài toán hai máy gia công nhiều loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Khi sử dụng bài toán vận tải để lựa chọn địa điểm xây dựng cơ sở sản xuất cho doanh nghiệp đã chú ý đến",
+    "answer": "Chi phí để sản xuất và vận chuyển một đơn vị sản phẩm từ những địa điểm dự định lựa chọn đến các đại lý"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Khi sử dụng bài toán vận tải để phân công công việc đã chú ý đến điều kiện :",
+    "answer": "Mỗi người chỉ đảm nhận một công việc và mỗi công việc chỉ do một người đảm nhận"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Phương pháp tối ưu",
+    "answer": "Không phụ thuộc vào mục tiêu cần đạt được và những ràng buộc khi giải quyết vấn đề"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Với mục tiêu là xác định số lượng sản phẩm lắp ráp được trong một giờ là lớn nhất"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có thể chuyển về bài toán dạng chính tắc nhờ:",
+    "answer": "Sử dụng các biến bù với hệ số của các biến bù trong hàm mục tiêu bằng 0"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Sử dụng phương pháp đơn hình để giải Bài toán pha cắt vật liệu đã :",
+    "answer": "Quan tâm đến số lượng những tấm vật liệu có kích thước nhỏ hơn cần thiết để phục vụ cho kế hoạch sản xuất sản phẩm"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn tìm được phương án tối ưu"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Bài toán cực tiểu hóa chi phí sản xuất của doanh nghiệp:",
+    "answer": "Đã quan tâm đến mức sản lượng để đáp ứng nhu cầu của khách hàng theo hợp đồng"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Bài toán hai máy gia công nhiều chi tiết",
+    "answer": "Để tìm phương án tối ưu cần phải xác định chi tiết được cả hai máy cùng tham gia sản xuất"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Min",
+    "answer": "1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≤0 , j, 1,2,….,n, 1,2,….,n, 1,2,….,n"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có lời giải tối ưu nếu :",
+    "answer": "Có phương án và hàm mục tiêu bị chặn"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Sử dụng phương pháp sơ đồ mạng để điều hành dự án cần",
+    "answer": "Xác định chi phí các nguồn lực cần thiết để thực hiện các công việc của dự án"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Sử dụng Bài toán lập kế hoạch sản xuất để xác định số lượng từng loại sản phẩm mà doanh nghiệp sẽ sản xuất trong kỳ kế hoạch đã :",
+    "answer": "Quan tâm đến giới hạn cầu của thị trường về từng loại sản phẩm của doanh nghiệp trong kỳ kế hoạch"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Điều kiện cần và đủ để bài toán vận tải có phương án tối ưu duy nhất là",
+    "answer": "c_ij, Tất cả các ô không có hàng của bảng vận tải cuối cùng ứng với phương án tối ưu đều thỏa mãn bất đẳng thức u_i+v_j"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Khi sử dụng thuật toán gán nhãn để tìm đường đi ngắn nhất từ đỉnh u đến đỉnh v của một đồ thị liên thông thì",
+    "answer": "Thuật toán có thể không tìm được đường đi ngắn nhất"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây là mệnh đề đúng:",
+    "answer": "Nếu bài toán quy hoạch tuyến tính có phương án thì nó phương án cực biên"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Bài toán sản xuất, vận chuyển và tiêu thụ",
+    "answer": "Phương án tối ưu luôn cho chúng ta tổng lợi nhuận thu được tại các cơ sở tiêu thụ trong kỳ kế hoạch là lớn nhất"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Sử dụng Bài toán lập tiến độ sản xuất đã",
+    "answer": "Quan tâm đến sự thay đổi khả năng tiêu thụ sản phẩm của doanh nghiệp trong từng tháng"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Bài toán cực tiểu hóa chi tiêu của hộ gia đình",
+    "answer": "Đã quan tâm đến mức tiêu dùng tối thiểu cần phải đảm bảo đối với từng loại hàng hóa"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Cây là một đồ thị vô hướng",
+    "answer": "Liên thông và có n-1 cạnh"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Phương pháp tối ưu trong kinh doanh",
+    "answer": "Có thể hỗ trợ nhà quản trị xác định nhu cầu của thị trường về sản phẩm của doanh nghiệp"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Mạng",
+    "answer": "Là một đồ thị vô hướng"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Bài toán xe không",
+    "answer": "Là bài toán vận tải với điểm phát và điểm thu sản phẩm như đã phát biểu trong mục 3.1.1."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Bài toán quy hoạch toán học là bài toán",
+    "answer": "Có ràng buộc được thể hiện dưới dạng các phương trình, các bất phương trình của các biến số"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Bài toán cực đại hóa giá trị sản lượng của doanh nghiệp:",
+    "answer": "Mới chỉ quan tâm đến việc sản xuất một loại sản phẩm"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu duy nhất"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Mệnh đề nào là sai trong những mệnh đề sau:",
+    "answer": "Giải quyết được vấn đề thì chắc chắn có quyết định"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Cây bao trùm của một đồ thị vô hướng n đỉnh",
+    "answer": "Chỉ có n-1 đỉnh"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Khi sử dụng bài toán vận tải để xác định khối lượng sản phẩm sản xuất, vận chuyển và tiêu thụ cho doanh nghiệp đã không chú ý đến",
+    "answer": "Sự thay đổi chi phí sản xuất và giá bán đơn vị sản phẩm tại các cơ sở sản xuất và tại các cơ sở tiêu thụ sản phẩm trong kỳ kế hoạch"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Với mục tiêu là xác định số lượng sản phẩm lắp ráp được trong một giờ là lớn nhất"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Điều kiện cần và đủ để một phương án của bài toán vận tải là phương án tối ưu là",
+    "answer": "c_ij ở những ô không có hàng, c_ij ở những ô có hàng, Tìm được m số u_i và n số v_j sao cho u_i+v_j, c_ij ở những ô có hàng và u_i+v_j≤c_ij ở những ô không có hàng"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Để tìm phương án tối ưu cần xác định một máy tham gia sản xuất cả hai loại chi tiết"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu chi phí hoàn thành dự án",
+    "answer": "Có biến số là tổng chi phí cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Bài toán cực tiểu hóa chi tiêu của hộ gia đình",
+    "answer": "Đã quan tâm đến mức tiêu dùng tối thiểu cần phải đảm bảo đối với từng loại hàng hóa"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Max :",
+    "answer": "1,2,….,n, 1,2,….,n, 0 , j, 1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≥0 , j, 1,2,….,n"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Bài toán hai máy gia công nhiều loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Sơ đồ mạng của một dự án (sơ đồ PERT)",
+    "answer": "Đường găng là đường có độ dài ngắn nhất đi từ sự kiện khởi công dự án đến sự kiện kết thúc dự án"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Mạng",
+    "answer": "Là một đồ thị vô hướng"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Cây là một đồ thị vô hướng",
+    "answer": "Liên thông và có n-1 cạnh"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Bài toán cực đại hóa lợi ích tiêu dùng của hộ gia đình:",
+    "answer": "Đã quan tâm đến hạn chế về tài chính của hộ gia đình khi tiêu dùng các loại hàng hóa"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Phương pháp tối ưu trong kinh doanh",
+    "answer": "Có thể hỗ trợ nhà quản trị xác định nhu cầu của thị trường về sản phẩm của doanh nghiệp"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Bài toán sản xuất, vận chuyển và tiêu thụ",
+    "answer": "Phương án tối ưu luôn cho chúng ta tổng lợi nhuận thu được tại các cơ sở tiêu thụ trong kỳ kế hoạch là lớn nhất"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Sử dụng phương pháp đơn hình để giải Bài toán pha cắt vật liệu đã :",
+    "answer": "Quan tâm đến số lượng những tấm vật liệu có kích thước nhỏ hơn cần thiết để phục vụ cho kế hoạch sản xuất sản phẩm"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Khi sử dụng bài toán phụ để tìm phương án cực biên của bài toán quy hoạch tuyến tính :",
+    "answer": "Nếu giá trị nhỏ nhất của hàm mục tiêu của bài toán phụ dương thì bài toán chính không có phương án cực biên"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Điều kiện cần và đủ để bài toán vận tải có phương án tối ưu duy nhất là",
+    "answer": "c_ij, Tất cả các ô không có hàng của bảng vận tải cuối cùng ứng với phương án tối ưu đều thỏa mãn bất đẳng thức u_i+v_j"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Khi năng suất của các máy khi sản xuất từng loại chi tiết đều được tăng lên k lần thì phương án tối ưu sẽ không thay đổi"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Sử dụng Bài toán lập kế hoạch sản xuất để xác định số lượng từng loại sản phẩm mà doanh nghiệp sẽ sản xuất trong kỳ kế hoạch đã :",
+    "answer": "Quan tâm đến giới hạn cầu của thị trường về từng loại sản phẩm của doanh nghiệp trong kỳ kế hoạch"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Bài toán xe không",
+    "answer": "Là bài toán vận tải với điểm phát và điểm thu sản phẩm như đã phát biểu trong mục 3.1.1."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Khi sử dụng bài toán vận tải để lựa chọn địa điểm xây dựng cơ sở sản xuất cho doanh nghiệp đã chú ý đến",
+    "answer": "Chi phí để sản xuất và vận chuyển một đơn vị sản phẩm từ những địa điểm dự định lựa chọn đến các đại lý"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Min",
+    "answer": "1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≤0 , j, 1,2,….,n, 1,2,….,n, 1,2,….,n"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Bài toán xe không",
+    "answer": "Nhằm xác định số tấn x km chạy xe không tải cho hợp động vận chuyển là nhỏ nhất"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Bài toán vận tải :",
+    "answer": "Luôn có lời giải tối ưu"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Bài toán quy hoạch tuyến tính là bài toán",
+    "answer": "Luôn tồn tại lời giải tối ưu"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Khi sử dụng phương pháp đơn hình ở bảng cuối cùng ứng với phương án tối ưu có những số kiểm tra ∆_k=0 ứng với những véc tơ phi cơ sở thì điều đó cho thấy :",
+    "answer": "Phương án tối ưu là không duy nhất"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Bài toán hai máy gia công nhiều chi tiết",
+    "answer": "Để tìm phương án tối ưu cần phải xác định chi tiết được cả hai máy cùng tham gia sản xuất"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Với cây bao trùm bé nhất T của đồ thị G thì mỗi cạnh (u,v) của G nhưng không thuộc T",
+    "answer": "Cạnh (u,v) là cạnh có độ dài nhỏ nhất so với những cạnh của chu trình mà nó tạo ra với những cạnh của T"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Sử dụng bài toán tối ưu để giải quyết các vấn đề thực tế trong kinh doanh cần",
+    "answer": "Không cần phải kiểm định lại kết quả thu được sau khi áp dụng phương pháp tối ưu để giải bài toán"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Khi sử dụng bài toán vận tải để phân công công việc đã chú ý đến điều kiện :",
+    "answer": "Mỗi người chỉ đảm nhận một công việc và mỗi công việc chỉ do một người đảm nhận"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có lời giải tối ưu nếu :",
+    "answer": "Có phương án và hàm mục tiêu bị chặn"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có thể chuyển về bài toán dạng chính tắc nhờ:",
+    "answer": "Sử dụng các biến bù với hệ số của các biến bù trong hàm mục tiêu bằng 0"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Không phải là một bài toán quy hoạch tuyến tính"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Khi sử dụng thuật toán gán nhãn để tìm đường đi ngắn nhất từ đỉnh u đến đỉnh v của một đồ thị liên thông thì",
+    "answer": "Thuật toán có thể không tìm được đường đi ngắn nhất"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn tìm được phương án tối ưu"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Phương pháp tối ưu",
+    "answer": "Không phụ thuộc vào mục tiêu cần đạt được và những ràng buộc khi giải quyết vấn đề"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu thời gian hoàn thành dự án",
+    "answer": "Có biến số là thời gian cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Sử dụng phương pháp sơ đồ mạng để điều hành dự án cần",
+    "answer": "Xác định chi phí các nguồn lực cần thiết để thực hiện các công việc của dự án"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây là mệnh đề đúng:",
+    "answer": "Nếu bài toán quy hoạch tuyến tính có phương án thì nó phương án cực biên"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Phương án cực biên của bài toán vận tải:",
+    "answer": "Luôn tồn tại"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Cây bao trùm T=(E,F) của đồ thị G=(D,C)",
+    "answer": "Là một đồ thị có hướng"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Bài toán cực tiểu hóa chi phí sản xuất của doanh nghiệp:",
+    "answer": "Đã quan tâm đến mức sản lượng để đáp ứng nhu cầu của khách hàng theo hợp đồng"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Sử dụng Bài toán lập tiến độ sản xuất đã",
+    "answer": "Quan tâm đến sự thay đổi khả năng tiêu thụ sản phẩm của doanh nghiệp trong từng tháng"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Với mục tiêu là xác định số lượng sản phẩm lắp ráp được trong một giờ là lớn nhất"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Cây là một đồ thị vô hướng",
+    "answer": "Liên thông và có n-1 cạnh"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Sử dụng bài toán tối ưu để giải quyết các vấn đề thực tế trong kinh doanh cần",
+    "answer": "Không cần phải kiểm định lại kết quả thu được sau khi áp dụng phương pháp tối ưu để giải bài toán"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Sử dụng phương pháp đơn hình để giải Bài toán pha cắt vật liệu đã :",
+    "answer": "Quan tâm đến số lượng những tấm vật liệu có kích thước nhỏ hơn cần thiết để phục vụ cho kế hoạch sản xuất sản phẩm"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Bài toán cực đại hóa giá trị sản lượng của doanh nghiệp:",
+    "answer": "Mới chỉ quan tâm đến việc sản xuất một loại sản phẩm"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Sơ đồ mạng của một dự án (sơ đồ PERT)",
+    "answer": "Đường găng là đường có độ dài ngắn nhất đi từ sự kiện khởi công dự án đến sự kiện kết thúc dự án"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Bài toán hai máy gia công nhiều chi tiết",
+    "answer": "Để tìm phương án tối ưu cần phải xác định chi tiết được cả hai máy cùng tham gia sản xuất"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Cây bao trùm của một đồ thị vô hướng n đỉnh",
+    "answer": "Chỉ có n-1 đỉnh"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Khi sử dụng bài toán vận tải để lựa chọn địa điểm xây dựng cơ sở sản xuất cho doanh nghiệp đã chú ý đến",
+    "answer": "Chi phí để sản xuất và vận chuyển một đơn vị sản phẩm từ những địa điểm dự định lựa chọn đến các đại lý"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Với cây bao trùm bé nhất T của đồ thị G thì mỗi cạnh (u,v) của G nhưng không thuộc T",
+    "answer": "Cạnh (u,v) là cạnh có độ dài nhỏ nhất so với những cạnh của chu trình mà nó tạo ra với những cạnh của T"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Mệnh đề nào là sai trong những mệnh đề sau:",
+    "answer": "Giải quyết được vấn đề thì chắc chắn có quyết định"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu duy nhất"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Bài toán cực tiểu hóa chi tiêu của hộ gia đình",
+    "answer": "Đã quan tâm đến mức tiêu dùng tối thiểu cần phải đảm bảo đối với từng loại hàng hóa"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có thể chuyển về bài toán dạng chính tắc nhờ:",
+    "answer": "Sử dụng các biến bù với hệ số của các biến bù trong hàm mục tiêu bằng 0"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Bài toán quy hoạch toán học là bài toán",
+    "answer": "Có ràng buộc được thể hiện dưới dạng các phương trình, các bất phương trình của các biến số"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Bài toán xe không",
+    "answer": "Là bài toán vận tải với điểm phát và điểm thu sản phẩm như đã phát biểu trong mục 3.1.1."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Bài toán sản xuất, vận chuyển và tiêu thụ",
+    "answer": "Phương án tối ưu luôn cho chúng ta tổng lợi nhuận thu được tại các cơ sở tiêu thụ trong kỳ kế hoạch là lớn nhất"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Bài toán xe không",
+    "answer": "Nhằm xác định số tấn x km chạy xe không tải cho hợp động vận chuyển là nhỏ nhất"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Bài toán cực đại hóa lợi ích tiêu dùng của hộ gia đình:",
+    "answer": "Đã quan tâm đến hạn chế về tài chính của hộ gia đình khi tiêu dùng các loại hàng hóa"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Phương án cực biên của bài toán vận tải:",
+    "answer": "Luôn tồn tại"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Điều kiện cần và đủ để bài toán vận tải có phương án tối ưu duy nhất là",
+    "answer": "c_ij, Tất cả các ô không có hàng của bảng vận tải cuối cùng ứng với phương án tối ưu đều thỏa mãn bất đẳng thức u_i+v_j"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn tìm được phương án tối ưu"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Bài toán nhiều máy gia công hai loại chi tiết",
+    "answer": "Để tìm phương án tối ưu cần xác định một máy tham gia sản xuất cả hai loại chi tiết"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Mệnh đề nào dưới đây là mệnh đề đúng:",
+    "answer": "Nếu bài toán quy hoạch tuyến tính có phương án thì nó phương án cực biên"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Sử dụng Bài toán lập tiến độ sản xuất đã",
+    "answer": "Quan tâm đến sự thay đổi khả năng tiêu thụ sản phẩm của doanh nghiệp trong từng tháng"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Mạng",
+    "answer": "Là một đồ thị vô hướng"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Sử dụng Bài toán lập kế hoạch sản xuất để xác định số lượng từng loại sản phẩm mà doanh nghiệp sẽ sản xuất trong kỳ kế hoạch đã :",
+    "answer": "Quan tâm đến giới hạn cầu của thị trường về từng loại sản phẩm của doanh nghiệp trong kỳ kế hoạch"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Min",
+    "answer": "1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≤0 , j, 1,2,….,n, 1,2,….,n, 1,2,….,n"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu chi phí hoàn thành dự án",
+    "answer": "Có biến số là tổng chi phí cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Khi năng suất của các máy khi sản xuất từng loại chi tiết đều được tăng lên k lần thì phương án tối ưu sẽ không thay đổi"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Khi sử dụng bài toán phụ để tìm phương án cực biên của bài toán quy hoạch tuyến tính :",
+    "answer": "Nếu giá trị nhỏ nhất của hàm mục tiêu của bài toán phụ dương thì bài toán chính không có phương án cực biên"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Bài toán vận tải :",
+    "answer": "Luôn có lời giải tối ưu"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Cây bao trùm T=(E,F) của đồ thị G=(D,C)",
+    "answer": "Là một đồ thị có hướng"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Khi sử dụng bài toán vận tải để phân công công việc đã chú ý đến điều kiện :",
+    "answer": "Mỗi người chỉ đảm nhận một công việc và mỗi công việc chỉ do một người đảm nhận"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Điều kiện cần và đủ để một phương án của bài toán vận tải là phương án tối ưu là",
+    "answer": "c_ij ở những ô không có hàng, c_ij ở những ô có hàng, Tìm được m số u_i và n số v_j sao cho u_i+v_j, c_ij ở những ô có hàng và u_i+v_j≤c_ij ở những ô không có hàng"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Bài toán quy hoạch tuyến tính là bài toán",
+    "answer": "Luôn tồn tại lời giải tối ưu"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Bài toán cực tiểu hóa chi phí sản xuất của doanh nghiệp:",
+    "answer": "Đã quan tâm đến mức sản lượng để đáp ứng nhu cầu của khách hàng theo hợp đồng"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Phương pháp tối ưu",
+    "answer": "Không phụ thuộc vào mục tiêu cần đạt được và những ràng buộc khi giải quyết vấn đề"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Khi sử dụng phương pháp đơn hình để giải bài toán quy hoạch tuyến tính để tìm Max :",
+    "answer": "1,2,….,n, 1,2,….,n, 0 , j, 1,2,….,n, Phương án tối ưu là phương án có các số kiểm tra ∆_j≥0 , j, 1,2,….,n"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Bài toán hai máy gia công nhiều loại chi tiết",
+    "answer": "Là bài toán sản xuất đồng bộ tổng quát"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ điển hình",
+    "answer": "Không phải là một bài toán quy hoạch tuyến tính"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Bài toán sản xuất đồng bộ tổng quát",
+    "answer": "Luôn có phương án tối ưu"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Khi sử dụng phương pháp đơn hình ở bảng cuối cùng ứng với phương án tối ưu có những số kiểm tra ∆_k=0 ứng với những véc tơ phi cơ sở thì điều đó cho thấy :",
+    "answer": "Phương án tối ưu là không duy nhất"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Phương pháp tối ưu trong kinh doanh",
+    "answer": "Có thể hỗ trợ nhà quản trị xác định nhu cầu của thị trường về sản phẩm của doanh nghiệp"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Mọi bài toán quy hoạch tuyến tính đều có lời giải tối ưu nếu :",
+    "answer": "Có phương án và hàm mục tiêu bị chặn"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Khi sử dụng thuật toán gán nhãn để tìm đường đi ngắn nhất từ đỉnh u đến đỉnh v của một đồ thị liên thông thì",
+    "answer": "Thuật toán có thể không tìm được đường đi ngắn nhất"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Nếu giả thiết chi phí để thực hiện công việc ( i,j ) là hàm số tuyến tính của thời gian thực hiện công việc t_(i j) thì bài toán cực tiểu thời gian hoàn thành dự án",
+    "answer": "Có biến số là thời gian cần thiết để hoàn thành dự án"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Khi sử dụng bài toán vận tải để xác định khối lượng sản phẩm sản xuất, vận chuyển và tiêu thụ cho doanh nghiệp đã không chú ý đến",
+    "answer": "Sự thay đổi chi phí sản xuất và giá bán đơn vị sản phẩm tại các cơ sở sản xuất và tại các cơ sở tiêu thụ sản phẩm trong kỳ kế hoạch"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Sử dụng phương pháp sơ đồ mạng để điều hành dự án cần",
+    "answer": "Xác định chi phí các nguồn lực cần thiết để thực hiện các công việc của dự án"
+  }
+]

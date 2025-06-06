@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Khi DN mua tài sản theo giá hóa đơn có thuế GTGT 10% là 220.000.000 đồng trừ vào số tiền đã trả trước cho người bán 150.000.000 đồng, 70.000.000 đồng còn lại được ghi:",
+    "answer": "Có TK Phải trả người bán"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Khi DN thanh toán cho khách hàng số tiền nhận trước còn thừa, kế toán ghi:",
+    "answer": "Nợ TK Phải thu khách hàng"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Chi phí lãi vay được ghi:",
+    "answer": "Phụ thuộc mục đích sử dụng tiền vay của DN"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Trong DN đa sở hữu, lỗ tỷ giá trước hoạt động chính thức được ghi nhận vào:",
+    "answer": "Chi phí tài chính"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Khi DN bán sản phẩm, hàng hóa trừ vào số tiền đã nhận trước của khách hàng theo giá hóa đơn có thuế GTGT 10% là 385.000.000 đồng, số tiền nhận trước 290.000.000 đồng, 95.000.000 đồng còn lại được ghi:",
+    "answer": "Nợ TK Phải thu khách hàng"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Công ty cổ phần TH mua 15.000 cổ phiếu (với mục đích kinh doanh) do Công ty QM phát hành với mệnh giá là 10.000đ/cổ phiếu, giá mua là 22.500đ/cổ phiếu. Chi phí môi giới, giao dịch đã thanh toán là 5.000.000đ, thuế GTGT 10%. Giá trị khoản đầu tư này được ghi trên sổ kế toán là:",
+    "answer": "Nợ TK 1211: 342.500.000đ."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Công ty cổ phần kinh doanh bất động sản Hoa Sen mua một tòa nhà để cho thuê làm văn phòng với giá mua theo hóa đơn chưa bao gồm thuế GTGT 10% là 15 tỷ đồng. Chi phí môi giới công ty đã trả là 5% giá trị hợp đồng mua tài sản. Nguyên giá của BSĐ này là:",
+    "answer": "15,825 tỷ đồng"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Giá trị khoản đầu tư vào chứng khoán được ghi nhận trên sổ kế toán theo:",
+    "answer": "Giá phí thực tế."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Công ty cổ phần HQ góp vốn vào công ty con một thiết bị có nguyên giá là 700.000.000đ, hao mòn lũy kế là 200.000.000đ, giá trị góp vốn được công nhận là 600.000.000đ. Nghiệp vụ này được ghi:",
+    "answer": "Nợ TK 221: 600.000.000đ."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Nguyên giá bất động sản đầu tư được tính:",
+    "answer": "là toàn bộ chi phí thực tế mà DN bỏ ra để có được BĐS đó."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Tài khoản 5211 – Chiết khấu thương mại có kết cấu:",
+    "answer": "Ngược với TK 511."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "TK 421 – Lợi nhuận chưa phân phối là TK:",
+    "answer": "Có số dư bên Nợ hoặc bên Có."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Phần lợi nhuận được kết chuyển từ bút toán:",
+    "answer": "Lợi nhuận đã trừ thuế TNDN."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Lợi nhuận chưa phân phối là:",
+    "answer": "Lợi nhuận sau thuế TNDN."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Khi hoàn nhập lại số lợi nhuận đã chia thừa, kế toán ghi:",
+    "answer": "Nợ TK 415."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Chênh lệch đánh giá lại tài sản được sử dụng khi đánh giá lại các khoản sau?",
+    "answer": "Tài sản cố định, nguyên vật liệu, công cụ dụng cụ"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Khi phát hành cổ phiếu phổ thông, phần chênh lệch giữa giá phát hành nhỏ hơn mệnh giá được hạch toán vào?",
+    "answer": "Bên Nợ TK 4112"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Trường hợp bán ngoại tệ, phần chênh lệch giữa giá bán vào giá ghi sổ của ngoại tệ được hạch toán vào?",
+    "answer": "Doanh thu, chi phí tài chính"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Khi công ty mẹ bổ sung vốn đầu tư vào công ty con bằng tiền?",
+    "answer": "Vốn chủ sở hữu của công ty mẹ không thay đổi"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Trường hợp bán ngoại tệ trong thời gian xây dựng cơ bản trước hoạt động, phần chênh lệch giữa giá bán vào giá ghi sổ của ngoại tệ được hạch toán vào?",
+    "answer": "Chênh lệch tỷ giá hối đoái"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Nguồn số liệu chủ yếu để lập bảng cân đối kế toán bao gồm?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Số dư cuối kỳ của TK 111: 500 tr; TK 112: 800 tr; TK 1123: 900 tr. Số tiền ghi vào chỉ tiêu “Tiền và các khoản tương đương tiền” trong trường hợp này là?",
+    "answer": "1.300 tr"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Giá trị trái phiếu phát hành được kế toán trình bày trên Bảng cân đối kế toán trong phần?",
+    "answer": "Nợ phải trả"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Nguồn số liệu chủ yếu để lập báo cáo kết quả kinh doanh bao gồm?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Số dư bên Nợ tài khoản Phải trả công nhân viên (334) được?",
+    "answer": "Ghi số dương bên Tài sản của Bảng cân đối kế toán"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Tiền mặt thừa quỹ phát hiện khi kiểm kê, kế toán ghi:",
+    "answer": "Nợ TK 111/Có TK 3381"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Khoản phải trả người bán có gốc ngoại tệ tăng lên được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá bán của NHTM"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Khi doanh nghiệp chuyển ngoại tệ từ tài khoản ngân hàng về quỹ sẽ:",
+    "answer": "Không phát sinh chênh lệch tỷ giá hối đoái"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Tiền gửi ngân hàng phát hiện thiếu khi đối chiếu số liệu, kế toán ghi:",
+    "answer": "Nợ TK 1381/Có TK 112"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Khi DN nhập khẩu tài sản thuộc diện chịu thuế TTĐB, thuế GTGT hàng nhập khẩu được tính dựa vào:",
+    "answer": "Giá nhập khẩu + Thuế nhập khẩu + Thuế TTĐB hàng nhập khẩu"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Lỗ từ nhượng bán khoản đầu tư cổ phiếu kinh doanh được ghi:",
+    "answer": "Nợ TK 635."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Thu nhập từ nhượng bán BĐS đầu tư được ghi Có:",
+    "answer": "TK 5117."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Công ty cổ phần TH mua đầu tư dài hạn 15.000 cổ phiếu (với mục đích kinh doanh) do Công ty QM phát hành với mệnh giá là 10.000đ/cổ phiếu, giá mua là 22.500đ/cổ phiếu. Chi phí môi giới, giao dịch đã thanh toán là 5.000.000đ, thuế GTGT 10%. Giá trị khoản đầu tư này được ghi:",
+    "answer": "Nợ TK 1211."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Ngày 10 tháng 9 năm 2019, Công ty cổ phần kinh doanh bất động sản Hoa Sen mua một tòa nhà để cho thuê làm văn phòng với giá mua theo hóa đơn chưa bao gồm thuế GTGT 10% là 15 tỷ đồng, đã thanh toán bằng chuyển khoản sau khi trừ 1% chiết khấu thanh toán. Số tiền phải trả người bán là:",
+    "answer": "16,335 tỷ đồng."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Ngày 20 tháng 9 năm 2019, Công ty cổ phần kinh doanh bất động sản Hoa Sen mua một tòa nhà để cho thuê làm văn phòng với giá mua theo hóa đơn chưa bao gồm thuế GTGT 10% là 15 tỷ đồng, chưa thanh toán cho người bán. Chi phí môi giới công ty đã trả là 5% giá trị hợp đồng mua tài sản bằng chuyển khoản. Kế toán Công ty ghi sổ kế toán tại ngày 20/9/2019:",
+    "answer": "Nợ TK 217: 15,825 tỷ đồng"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Doanh thu thuần là:",
+    "answer": "Doanh thu đã trừ các khoản giảm trừ doanh thu."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Bút toán kết chuyển lãi vào cuối kỳ kế toán, ghi:",
+    "answer": "Nợ TK 911."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Lợi nhuận gộp được tính bằng:",
+    "answer": "Doanh thu thuần trừ Giá vốn hàng bán."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Lợi nhuận là:",
+    "answer": "Kết quả cuối cùng của doanh nghiệp sau một kỳ kinh doanh."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Lợi nhuận được xác định bằng:",
+    "answer": "Lợi nhuận từ hoạt động kinh doanh cộng với Lợi nhuận khác."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Khoản tiền doanh nghiệp phải nộp phạt do nộp chậm thuế được trừ vào?",
+    "answer": "Lợi nhuận sau thuế"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Khi trích lập các quỹ khác thuộc vốn chủ sở hữu (418), kế toán ghi?",
+    "answer": "Giảm lợi nhuận sau thuế"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Các quỹ khác thuộc vốn chủ sở hữu (418) được hình thành từ các nguồn?",
+    "answer": "Lợi nhuận sau thuế"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Chi phí phát hành cổ phiếu được hạch toán?",
+    "answer": "Giảm thặng dư vốn cổ phần"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Khi tái phát hành cổ phiếu quỹ, nếu giá tái phát hành lớn hơn giá ghi sổ của cổ phiếu quỹ thì phần chênh lệch được ghi?",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Trường hợp tài khoản Thặng dư vốn cổ phần có số dư bên Nợ, số dư này được trình bày trên Bảng cân đối kế toán theo cách?",
+    "answer": "Trình bày thành một chỉ tiêu riêng biệt, ghi âm bên Nguồn vốn."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Vào thời điểm lập BCTC, tài khoản \"Lợi nhuận chưa phân phối\" có số dư bên Nợ, số dư này được trình bày trên Bảng cân đối kế toán bằng cách?",
+    "answer": "Ghi âm bên nguồn vốn"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Số liệu được ghi vào chỉ tiêu \"Thuế thu nhập hoãn lại phải trả\" được tính bằng cách?",
+    "answer": "Lấy số dư Có TK 347"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Số dư bên có của TK Phải thu khác (138) được",
+    "answer": "Ghi dương bên nguồn vốn của Bảng cân đối kế toán"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Tình hình thanh toán với ngân sách Nhà nước của doanh nghiệp Nhà nước được thể hiệu trên?",
+    "answer": "Báo cáo kết quả kinh doanh"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Khi DN mua tài sản, dịch vụ sử dụng cho sản xuất kinh doanh và nhận được hóa đơn trực tiếp thì:",
+    "answer": "DN không được khấu trừ thuế GTGT đầu vào"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trong doanh nghiệp đa sở hữu, chênh lệch lỗ > chênh lệch lãi do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ được ghi vào:",
+    "answer": "Chi phí tài chính"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Tỷ giá hối đoái dùng để đánh giá lại số dư của ngoại tệ gửi ngân hàng cuối kỳ, cuối năm là:",
+    "answer": "Tỷ giá mua của NHTM nơi DN mở tài khoản ngoại tệ"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Khoản phải thu khách hàng có gốc ngoại tệ giảm được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá ghi sổ đích danh"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Nếu DN tính thuế GTGT theo phương pháp trực tiếp, thuế GTGT phải nộp khi bán sản phẩm, hàng hóa được ghi:",
+    "answer": "(A) hoặc (B) tùy DN có tách riêng được thuế GTGT phải nộp hay không ở thời điểm phát sinh giao dịch"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Ngày 20 tháng 9 năm 2019, Công ty cổ phần kinh doanh bất động sản Hoa Sen mua một tòa nhà để cho thuê làm văn phòng với giá mua theo hóa đơn chưa bao gồm thuế GTGT 10% là 15 tỷ đồng, chưa thanh toán cho người bán. Kế toán Công ty ghi sổ kế toán tại ngày 20/9/2019:",
+    "answer": "Nợ TK 217"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Khi hoàn nhập dự phòng giảm giá hàng tồn kho, kế toán ghi:",
+    "answer": "Nợ TK 2294."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Mua 1.000 trái phiếu do Công ty MH phát hành với mục đích kinh doanh, mệnh giá là 1.000.000đ/trái phiếu, giá mua là 800.000đ/trái phiếu, giá thị trường là 900.000đ/trái phiếu, lãi suất 8%/năm, thời gian đáo hạn là 5 năm, lãi trả khi đáo hạn. Tại thời điểm mua, kế toán sẽ ghi:",
+    "answer": "Nợ TK 1212: 800.000.000đ."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Chi phí khấu hao BĐS đầu tư được ghi Có:",
+    "answer": "TK 2147."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Dự phòng giảm giá cổ phiếu kinh doanh đầu tư được trích lập khi:",
+    "answer": "Giá trị ghi sổ của cổ phiếu lớn hơn giá trị thị trường của nó."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Bút toán kết chuyển lỗ vào cuối kỳ kế toán, ghi:",
+    "answer": "Có TK 911."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Cổ tức của doanh nghiệp thường được chia từ:",
+    "answer": "Lợi nhuận sau thuế TNDN."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Tài khoản 5211 – Chiết khấu thương mại có kết cấu:",
+    "answer": "Ngược với TK 511."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Khi phân phối lợi nhuận, kế toán ghi:",
+    "answer": "Có TK 414."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Lợi nhuận từ hoạt động kinh doanh được tính bằng:",
+    "answer": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ cộng Doanh thu tài chính, và trừ Chi phí bán hàng, Chi phí QLDN và Chi phí tài chính."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Lợi nhuận được chia từ hoạt động liên doanh được hạch toán vào?",
+    "answer": "Doanh thu hoạt động tài chính"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Khi mua cổ phiếu quỹ, phần chênh lệch giữa giá mua và mệnh giá được kế toán hạch toán vào?",
+    "answer": "Không phản ánh chênh lệch"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Khi phát hành cổ phiếu, phần chênh lệch giữa mệnh giá và giá phát hành được kế toán hạch toán vào?",
+    "answer": "Thặng dư vốn cổ phần"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Chênh lệch đánh giá lại tài sản được sử dụng khi đánh giá lại các khoản sau?",
+    "answer": "Tài sản cố định, nguyên vật liệu, công cụ dụng cụ"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Khi bổ sung Vốn đầu tư của chủ sở hữu từ lợi nhuận sau thuế, kế toán ghi?",
+    "answer": "Nợ TK Lợi nhuận chưa phân phối"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Số dư bên Có tài khoản \"Hao mòn tài sản cố định\" được trình bày trên Bảng cân đối tài khoản bằng cách?",
+    "answer": "Ghi bình thường bên cột số dư Có"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Chỉ tiêu \"Thu nhập khác\" trên Báo cáo kết quả kinh doanh căn cứ vào?",
+    "answer": "Phát sinh Nợ TK 711/ Có TK 911"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Số dư bên Nợ TK Phải trả, phải nộp khác (338) được?",
+    "answer": "Ghi số dương bên Tài sản của Bảng cân đối kế toán"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Thông tin về nguồn đầu tư tài sản cố định được trình bày trong báo cáo nào sau đây?",
+    "answer": "Thuyết minh báo cáo tài chính"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Thời hạn nộp BCTC năm của các công ty TNHH, công ty cổ phần là?",
+    "answer": "90 ngày kể từ khi kết thúc niên độ kế toán"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Khi DN mua tài sản, dịch vụ có giá trị hóa đơn dưới 20 triệu đồng và DN thanh toán bằng tiền mặt, các điều kiện khấu trừ khác đảm bảo thì:",
+    "answer": "DN được khấu trừ thuế GTGT đầu vào"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Cuối kỳ, nếu thuế GTGT đầu vào > thuế GTGT đầu ra, doanh nghiệp được khấu trừ:",
+    "answer": "Bằng số thuế GTGT đầu ra"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Khi doanh nghiệp chuyển ngoại tệ từ quỹ vào tài khoản ngân hàng sẽ:",
+    "answer": "Không phát sinh chênh lệch tỷ giá hối đoái"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Khi người bán thanh toán cho DN số tiền trả trước còn thừa, kế toán ghi:",
+    "answer": "Có TK Phải trả người bán"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Khi DN mua tài sản, dịch vụ và sử dụng cho hoạt động thuộc diện chịu thuế GTGT %, các điều kiện khấu trừ khác đảm bảo thì:",
+    "answer": "DN được khấu trừ thuế GTGT đầu vào"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Mua 1.000 trái phiếu do Công ty MH phát hành với mục đích kinh doanh, mệnh giá là 1.000.000đ/trái phiếu, giá mua là 800.000đ/trái phiếu, giá thị trường là 900.000đ/trái phiếu, lãi suất 8%/năm, thời gian đáo hạn là 5 năm, lãi trả khi đáo hạn. Kế toán sẽ ghi:",
+    "answer": "Nợ TK 1212."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Đầu tư là:",
+    "answer": "hoạt động chuyển nhượng quyền sử dụng vốn nhằm mục đích kiếm lời hoặc thu được lợi ích kinh tế từ đơn vị được đầu tư hoặc người nhận quyền sử dụng vốn."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Chi phí khấu hao BĐS đầu tư được ghi Có:",
+    "answer": "TK 2147."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "BĐS đầu tư:",
+    "answer": ".khấu hao theo các phương pháp khấu hao áp dụng cho TSCĐ."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Để phản ánh khoản đầu tư vào công ty liên doanh, kế toán sử dụng:",
+    "answer": "TK 222."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "TK 5212 – Doanh thu hàng bán bị trả lại có kết cấu tương tự như:",
+    "answer": "TK 5211."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Cuối năm tài chính, số lợi nhuận còn chưa phân phối sẽ được kết chuyển, ghi:",
+    "answer": "Nợ TK 4212."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Tính ra thuế TNDN phải nộp, kế toán ghi:",
+    "answer": "Nợ TK 8211."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Khoản chi phí nào sau đây KHÔNG được kết chuyển vào TK 911 để xác định lợi nhuận:",
+    "answer": "Chi phí nguyên vật liệu trực tiếp."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Khi phân phối lợi nhuận, kế toán ghi:",
+    "answer": "Có TK 414."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Công ty mẹ chuyển nhượng bớt vốn đầu tư vào công ty con, giá chuyển nhượng lớn hơn giá gốc đầu tư?",
+    "answer": "Vốn chủ sở hữu của công ty mẹ tăng thêm tương ứng với số lãi chuyển nhượng"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Trường hợp bán ngoại tệ trong thời gian xây dựng cơ bản trước hoạt động, phần chênh lệch giữa giá bán vào giá ghi sổ của ngoại tệ được hạch toán vào?",
+    "answer": "Chênh lệch tỷ giá hối đoái"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 421 (Lợi nhuận chưa phân phối) là?",
+    "answer": "2"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Số dư có cuối kỳ của tài khoản Vốn đầu tư của chủ sở hữu (411) thể hiện?",
+    "answer": "Vốn đầu tư của chủ sở hữu (thuộc vốn chủ sở hữu) hiện có của doanh nghiệp"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Khi phát hành trái phiếu, kế toán công ty ghi?",
+    "answer": "Tăng nợ phải trả"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Công ty có số dư cuối kỳ của TK 211: 2.000 tr; TK 214: 500 tr. Số tiền được ghi vào chỉ tiêu “TSCĐ hữu hình” là?",
+    "answer": "1.500 tr"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Số dư bên có TK Phải thu khách hàng (131) được:",
+    "answer": "Ghi bình thường bên nguồn vốn của Bảng cân đối kế toán"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Số dư bên Có tài khoản \"Hao mòn tài sản cố định\" được trình bày trên Bảng cân đối kế toán bằng cách?",
+    "answer": "Ghi âm bên tài sản"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Số dư bên Nợ TK Thuế và các khoản phải nộp Nhà nước (333) được?",
+    "answer": "Ghi số dương bên Tài sản của Bảng cân đối kế toán"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Số dư các tài khoản dự phòng tổn thất tài sản (229) được",
+    "answer": "Ghi âm bên tài sản của Bảng cân đối kế toán"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ cuối năm trong DN đa sở hữu, lãi do đánh giá lại được ghi:",
+    "answer": "Tăng lãi tỷ giá hối đoái do đánh giá lại"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Trong doanh nghiệp đa sở hữu, chênh lệch lỗ < chênh lệch lãi do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ được ghi vào:",
+    "answer": "Doanh thu hoạt động tài chính"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Tiền gửi ngân hàng phát hiện thừa khi đối chiếu, kế toán ghi:",
+    "answer": "Nợ TK 112/Có TK 3381"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Khoản phải thu khách hàng có gốc ngoại tệ tăng lên được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá mua của NHTM"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Khi DN bán sản phẩm, hàng hóa trừ vào số tiền đã nhận trước của khách hàng theo giá hóa đơn có thuế GTGT 10% là 385.000.000 đồng, số tiền nhận trước 290.000.000 đồng, 95.000.000 đồng còn lại được ghi:",
+    "answer": "Nợ TK Phải thu khách hàng"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Công ty cổ phần TH mua đầu tư dài hạn 15.000 cổ phiếu (với mục đích kinh doanh) do Công ty QM phát hành với mệnh giá là 10.000đ/cổ phiếu, giá mua là 22.500đ/cổ phiếu. Chi phí môi giới, giao dịch đã thanh toán là 5.000.000đ, thuế GTGT 10%. Giá trị khoản đầu tư này được ghi:",
+    "answer": "Nợ TK 1211."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Ngày 31/12/2019, số dự phòng nợ phải thu khó đòi còn chưa sử dụng là 50.000.000đ. Số dự phòng cần trích lập trong năm tới là 150.000.000đ. Bút toán trích lập dự phòng cuối năm 2019 cần ghi:",
+    "answer": "Có TK 2293: 100.000.000đ."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Ngày 10 tháng 9 năm 2019, Công ty cổ phần kinh doanh bất động sản Hoa Sen mua một tòa nhà để cho thuê làm văn phòng với giá mua theo hóa đơn chưa bao gồm thuế GTGT 10% là 15 tỷ đồng, đã thanh toán bằng chuyển khoản sau khi trừ 1% chiết khấu thanh toán. Nguyên giá của BĐS này là:",
+    "answer": "15 tỷ đồng."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Khi hoàn nhập dự phòng giảm giá hàng tồn kho, kế toán ghi:",
+    "answer": "Có TK 632."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Bất động sản nào sau đây là bất động sản đầu tư?",
+    "answer": "Bất động sản do DN nắm giữ với mục đích là chờ tăng giá để bán."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "TK 5212 – Doanh thu hàng bán bị trả lại có kết cấu tương tự như:",
+    "answer": "TK 5211."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Doanh thu thuần là:",
+    "answer": "Doanh thu đã trừ các khoản giảm trừ doanh thu."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Khi hoàn nhập lại số lợi nhuận đã chia thừa, kế toán ghi:",
+    "answer": "Nợ TK 415."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "TK 421 – Lợi nhuận chưa phân phối là TK:",
+    "answer": "Có số dư bên Nợ hoặc bên Có."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Lợi nhuận gộp được tính bằng:",
+    "answer": "Doanh thu thuần trừ Giá vốn hàng bán."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Khi công ty mẹ bổ sung vốn đầu tư vào công ty con bằng tiền?",
+    "answer": "Vốn chủ sở hữu của công ty mẹ không thay đổi"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Khi phát hành trái phiếu có quyền chuyển đổi thành cổ phiếu, phần nợ gốc của trái phiếu được hạch toán?",
+    "answer": "Có TK 3432"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Khi tạm phân phối lợi nhuận trong năm, kế toán ghi?",
+    "answer": "Giảm lợi nhuận chưa phân phối"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Trường hợp bán ngoại tệ, phần chênh lệch giữa giá bán vào giá ghi sổ của ngoại tệ được hạch toán vào?",
+    "answer": "Doanh thu, chi phí tài chính"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 411 (Vốn đầu tư của chủ sở hữu) là?",
+    "answer": "4"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Sự thay đổi các khoản dự phòng giảm giá trong kỳ được trình bày trong?",
+    "answer": "Thuyết minh báo cáo tài chính"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Số dư bên Nợ tài khoản Phải trả công nhân viên (334) được?",
+    "answer": "Ghi số dương bên Tài sản của Bảng cân đối kế toán"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Giá trị trái phiếu phát hành được kế toán trình bày trên Bảng cân đối kế toán trong phần?",
+    "answer": "Nợ phải trả"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Số dư bên Nợ TK phải trả người bán (331) được?",
+    "answer": "Ghi bình thường bên Tài sản của Bảng cân đối kế toán"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Chỉ tiêu vốn kinh doanh ở đơn vị trực thuộc trong Bảng cân đối kế toán của một doanh nghiệp được lập bằng cách?",
+    "answer": "Lấy phần dư Nợ TK 1361 trên sổ cái của đơn vị chính trừ phần dư có TK 411 trên sổ cái của đơn vị trực thuộc"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Khi doanh nghiệp chuyển ngoại tệ từ tài khoản ngân hàng về quỹ, bên Nợ TK 1112 được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá bình quân gia quyền di động của TK 1122"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Khi DN bán sản phẩm, hàng hóa trừ vào số tiền đã nhận trước của khách hàng theo giá hóa đơn có thuế GTGT 10% là 385.000.000 đồng, kế toán ghi:",
+    "answer": "Nợ TK Phải thu khách hàng"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Cuối kỳ, nếu thuế GTGT đầu vào < thuế GTGT đầu ra, doanh nghiệp được khấu trừ:",
+    "answer": "Bằng số thuế GTGT đầu vào"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Khi DN thanh toán cho khách hàng số tiền nhận trước còn thừa, kế toán ghi:",
+    "answer": "Nợ TK Phải thu khách hàng"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Trong DN 100% vốn Nhà nước, lãi tỷ giá trước hoạt động chính thức được ghi nhận vào:",
+    "answer": "Chênh lệch tỷ giá hối đoái"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Giá trị khoản đầu tư vào chứng khoán được ghi nhận trên sổ kế toán theo:",
+    "answer": "Giá phí thực tế."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Nguyên giá của BĐS đầu tư mua trả góp:",
+    "answer": "Không bao gồm lãi trả góp."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Để phản ánh khoản đầu tư vào công ty liên kết, kế toán sử dụng:",
+    "answer": "TK 222."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Thu nhập từ nhượng bán BĐS đầu tư được ghi Có:",
+    "answer": "TK 5117."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Lỗ từ nhượng bán khoản đầu tư cổ phiếu kinh doanh được ghi:",
+    "answer": "Nợ TK 635."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Cổ tức của doanh nghiệp thường được chia từ:",
+    "answer": "Lợi nhuận sau thuế TNDN."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Phần lợi nhuận được kết chuyển từ bút toán:",
+    "answer": "Lợi nhuận đã trừ thuế TNDN."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Lợi nhuận từ hoạt động kinh doanh được tính bằng:",
+    "answer": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ cộng Doanh thu tài chính, và trừ Chi phí bán hàng, Chi phí QLDN và Chi phí tài chính."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Lợi nhuận là:",
+    "answer": "Kết quả cuối cùng của doanh nghiệp sau một kỳ kinh doanh."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Tài khoản 5211 – Chiết khấu thương mại có kết cấu:",
+    "answer": "Ngược với TK 511."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Chênh lệch tỷ giá hối đoái do đánh giá lại số dư các khoản mục tiền tệ có gốc ngoại tệ vào thời điểm cuối năm được ghi?",
+    "answer": "Nợ (Có) chênh lệch tỷ giá hối đoái (413)"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Khi hủy bỏ cổ phiếu quỹ, phần chênh lệch giữa giá mua lại lớn hơn mệnh giá được kế toán ghi?",
+    "answer": "Nợ TK 4112"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Các quỹ của doanh nghiệp được trích lập từ?",
+    "answer": "Lợi nhuận sau thuế"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Trường hợp doanh nghiệp bị giải thể, các chủ sở hữu?",
+    "answer": "Được nhận giá trị còn lại theo tỷ lệ vốn góp sau khi đã thanh toán các khoản nợ"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Chênh lệch tỷ giá hối đoái trong thời gian xây dựng cơ bản trước hoạt động được phân bổ vào chi phí hoặc doanh thu tài chính trong thời gian tối đa là?",
+    "answer": "5 năm"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Các chính sách kế toán mà đơn vị áp dụng được giải trình trên?",
+    "answer": "Thuyết minh Báo cáo tài chính"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Nguồn số liệu chủ yếu để lập bảng cân đối kế toán bao gồm?",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Chỉ tiêu \"Giá vốn hàng bán\" trên Báo cáo kết quả kinh doanh căn cứ vào?",
+    "answer": "Phát sinh Nợ TK 911/ Có TK 632"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Thu nhập và chi phí từ hoạt động nhượng bán TSCĐ của doanh nghiệp lần lượt là: 500 tr và 400 tr. Số tiền được ghi vào chỉ tiêu “Thu nhập khác” trên Báo cáo kết quả kinh doanh là?",
+    "answer": "100 tr"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Số dư cuối kỳ của tài khoản tổng hợp phải thu KH là 200 tr; trong đó: khách hàng A: 150 tr, khách hàng B: 100 tr, Khách hàng C ứng trước tiền hàng: 50 tr. Trên bảng cân đối kế toán, khoản phải thu khách hàng là?",
+    "answer": "250"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Tiền mặt, tiền gửi bằng ngoại tệ tăng lên được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá mua của NHTM"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Trong DN đa sở hữu, lỗ tỷ giá trước hoạt động chính thức được ghi nhận vào:",
+    "answer": "Chi phí tài chính"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Khoản phải trả người bán có gốc ngoại tệ giảm được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá ghi sổ đích danh"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Khi DN mua tài sản theo giá hóa đơn có thuế GTGT 10% là 220.000.000 đồng trừ vào số tiền đã trả trước cho người bán 150.000.000 đồng, 70.000.000 đồng còn lại được ghi:",
+    "answer": "Có TK Phải trả người bán"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Khi doanh nghiệp chuyển ngoại tệ từ quỹ vào tài khoản ngân hàng, bên Nợ TK 1122 được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá bình quân gia quyền di động của TK 1112"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Ngày 10 tháng 9 năm 2019, Công ty cổ phần kinh doanh bất động sản Hoa Sen mua một tòa nhà để cho thuê làm văn phòng với giá mua theo hóa đơn chưa bao gồm thuế GTGT 10% là 15 tỷ đồng, đã thanh toán bằng chuyển khoản sau khi trừ 1% chiết khấu thanh toán. Số tiền phải trả người bán là:",
+    "answer": "16,335 tỷ đồng."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Công ty cổ phần kinh doanh bất động sản Hoa Sen mua một tòa nhà để cho thuê làm văn phòng với giá mua theo hóa đơn chưa bao gồm thuế GTGT 10% là 15 tỷ đồng. Chi phí môi giới công ty đã trả là 5% giá trị hợp đồng mua tài sản. Nguyên giá của BSĐ này là:",
+    "answer": "15,825 tỷ đồng"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Dự phòng giảm giá hàng tồn kho được trích lập khi:",
+    "answer": "Giá trị ghi sổ của HTK lớn hơn giá trị thị trường của nó."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Nguyên giá bất động sản đầu tư được tính:",
+    "answer": "là toàn bộ chi phí thực tế mà DN bỏ ra để có được BĐS đó."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Doanh nghiệp kinh doanh BĐS sử dụng:",
+    "answer": "Chỉ TK 1567."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Bút toán kết chuyển lỗ vào cuối kỳ kế toán, ghi:",
+    "answer": "Có TK 911."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Tính ra thuế TNDN phải nộp, kế toán ghi:",
+    "answer": "Nợ TK 8211."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Lợi nhuận chưa phân phối là:",
+    "answer": "Lợi nhuận sau thuế TNDN."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Cuối năm tài chính, số lợi nhuận còn chưa phân phối sẽ được kết chuyển, ghi:",
+    "answer": "Nợ TK 4212."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Khoản chi phí nào sau đây KHÔNG được kết chuyển vào TK 911 để xác định lợi nhuận:",
+    "answer": "Chi phí nguyên vật liệu trực tiếp."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Khi công ty cổ phần mua cổ phiếu quỹ hủy bỏ ngay, giá trị cổ phiếu quỹ được ghi nhận vào?",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Khi trả lại tài sản cố định cho bên góp vốn, phần chênh lệch giữa giá trị còn lại của tài sản cố định và giá do hội đồng đánh giá được hạch toán vào?",
+    "answer": "Chênh lệch đánh giá tài sản (412)"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Vốn đầu tư của chủ sở hữu được hình thành do các cổ đông góp cổ phần, mua cổ phiếu phù hợp với loại hình doanh nghiệp nào?",
+    "answer": "Công ty Cổ phần"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "TK 419: Cổ phiếu quỹ có?",
+    "answer": "Số dư bên Nợ"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Khi phát hành cổ phiếu phổ thông, phần chênh lệch giữa giá phát hành nhỏ hơn mệnh giá được hạch toán vào?",
+    "answer": "Bên Nợ TK 4112"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Khi trình bày Bảng cân đối kế toán, một tài sản được xếp vào tài sản ngắn hạn nếu?",
+    "answer": "Tài sản này được dự kiến thu hồi trong vòng 12 tháng kể từ ngày kết thúc niên độ"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Các chỉ tiêu phân tích tình hình tài chính của doanh nghiệp được trình bày trên?",
+    "answer": "Thuyết minh báo cáo tài chính"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Số dư của tài khoản dự phòng phải trải sẽ được trình bày trên Bảng cân đối kế toán theo cách?",
+    "answer": "Ghi dương bên nguồn vốn"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Các khoản tương đương tiền là?",
+    "answer": "Tiền mặt, tiền gửi ngân hàng và tiền đang chuyển và Các khoản đầu tư ngắn hạn có thời hạn thu hồi hoặc đáo hạn không quá ba tháng kể từ ngày mua"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Các báo cáo tài chính theo quy định hiện hành hiện nay gồm?",
+    "answer": "Bảng CĐKT; Báo cáo KQKD; Báo cáo LCTT; Thuyết minh BCTC"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Khi doanh nghiệp chuyển ngoại tệ từ quỹ vào tài khoản ngân hàng, bên Nợ TK 1122 được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá bình quân gia quyền di động của TK 1112"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Khoản phải trả người bán có gốc ngoại tệ giảm được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá ghi sổ đích danh"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Khi DN mua tài sản theo giá hóa đơn có thuế GTGT 10% là 220.000.000 đồng trừ vào số tiền đã trả trước cho người bán, kế toán ghi:",
+    "answer": "Có TK Phải trả người bán"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Tiền gửi ngân hàng phát hiện thiếu khi đối chiếu số liệu, kế toán ghi:",
+    "answer": "Nợ TK 1381/Có TK 112"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Khoản phải thu khách hàng có gốc ngoại tệ tăng lên được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá mua của NHTM"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Ngày 20/3/2019, Công ty Hoàn Mỹ nhận được thông báo chia cổ tức từ Công ty ABC là 25%. Số cổ tức này sẽ được ghi:",
+    "answer": "Có TK 4211."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Nguyên giá của BĐS đầu tư mua trả góp:",
+    "answer": "Không bao gồm lãi trả góp."
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Mua 1.000 trái phiếu do Công ty MH phát hành, mệnh giá là 1.000.000đ/trái phiếu, giá mua là 800.000đ/trái phiếu, giá thị trường là 900.000đ/trái phiếu, lãi suất 8%/năm (tính lãi kép), thời gian đáo hạn là 5 năm, lãi trả khi đáo hạn. Tại thời điểm đáo hạn, công ty sẽ thu được số tiền là:",
+    "answer": "1.469.328.080đ."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Bất động sản đầu tư bao gồm",
+    "answer": "Quyền sử dụng đất; nhà hoặc cả nhà và quyền sử dụng đất; cơ sở hạ tầng."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Để phản ánh khoản đầu tư vào công ty liên kết, kế toán sử dụng:",
+    "answer": "TK 222."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Lợi nhuận là:",
+    "answer": "Kết quả cuối cùng của doanh nghiệp sau một kỳ kinh doanh."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Khi phân phối lợi nhuận, kế toán ghi:",
+    "answer": "Có TK 414."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Lợi nhuận từ hoạt động kinh doanh được tính bằng:",
+    "answer": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ cộng Doanh thu tài chính, và trừ Chi phí bán hàng, Chi phí QLDN và Chi phí tài chính."
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Bút toán kết chuyển lãi vào cuối kỳ kế toán, ghi:",
+    "answer": "Nợ TK 911."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "TK 421 – Lợi nhuận chưa phân phối là TK:",
+    "answer": "Có số dư bên Nợ hoặc bên Có."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Khi tái phát hành cổ phiếu quỹ, nếu giá tái phát hành lớn hơn giá ghi sổ của cổ phiếu quỹ thì phần chênh lệch được ghi?",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Khi mua tài sản cố định dùng cho sản xuất kinh doanh, đầu tư bằng quỹ đầu tư phát triển, kế toán kết chuyển nguồn bằng cách?",
+    "answer": "Nợ TK 414/ Có TK 411"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Công ty mẹ chuyển nhượng bớt vốn đầu tư vào công ty con, giá chuyển nhượng lớn hơn giá gốc đầu tư?",
+    "answer": "Vốn chủ sở hữu của công ty mẹ tăng thêm tương ứng với số lãi chuyển nhượng"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Khi trích lập quỹ Đầu tư phát triển, kế toán ghi?",
+    "answer": "Giảm lợi nhuận sau thuế"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Lợi nhuận được chia từ hoạt động liên doanh được hạch toán vào?",
+    "answer": "Doanh thu hoạt động tài chính"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Các báo cáo tài chính theo quy định hiện hành hiện nay gồm?",
+    "answer": "Bảng CĐKT; Báo cáo KQKD; Báo cáo LCTT; Thuyết minh BCTC"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Số liệu được ghi vào chỉ tiêu \"Thuế thu nhập hoãn lại phải trả\" được tính bằng cách?",
+    "answer": "Lấy số dư Có TK 347"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Chỉ tiêu vốn kinh doanh ở đơn vị trực thuộc trong Bảng cân đối kế toán của một doanh nghiệp được lập bằng cách?",
+    "answer": "Lấy phần dư Nợ TK 1361 trên sổ cái của đơn vị chính trừ phần dư có TK 411 trên sổ cái của đơn vị trực thuộc"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Các chỉ tiêu phân tích tình hình tài chính của doanh nghiệp được trình bày trên?",
+    "answer": "Thuyết minh báo cáo tài chính"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Khi trình bày khoản nợ vay từ phát hành trái phiếu trên Bảng cân đối kế toán, cần?",
+    "answer": "Bù trừ số dư mệnh giá trái phiếu với số dư phụ trội và chiết khấu trái phiếu"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Khoản phải thu khách hàng có gốc ngoại tệ giảm được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá ghi sổ đích danh"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Khoản phải trả người bán có gốc ngoại tệ tăng lên được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá bán của NHTM"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Khi DN nhập khẩu tài sản thuộc diện chịu thuế TTĐB, thuế GTGT hàng nhập khẩu được tính dựa vào:",
+    "answer": "Giá nhập khẩu + Thuế nhập khẩu + Thuế TTĐB hàng nhập khẩu"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Khi doanh nghiệp chuyển ngoại tệ từ tài khoản ngân hàng về quỹ, bên Nợ TK 1112 được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá bình quân gia quyền di động của TK 1122"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Cuối kỳ, nếu thuế GTGT đầu vào > thuế GTGT đầu ra, doanh nghiệp được khấu trừ:",
+    "answer": "Bằng số thuế GTGT đầu ra"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Lãi từ nhượng bán khoản đầu tư cổ phiếu kinh doanh được ghi:",
+    "answer": "Có TK 515."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Bất động sản đầu tư là",
+    "answer": "bất động sản do DN nắm giữ với mục đích là chờ tăng giá để bán hoặc cho thuê hoạt động."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Bất động sản nào sau đây là bất động sản đầu tư?",
+    "answer": "Bất động sản do DN nắm giữ với mục đích là chờ tăng giá để bán."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Khấu hao BĐS là:",
+    "answer": "sự phân bổ có hệ thống giá trị BĐS đã đầu tư vào chi phí sản xuất kinh doanh của DN"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Hàng hóa bất động sản là",
+    "answer": "bất động sản được doanh nghiệp mua vào và bán ngay trong năm tài chính."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Khoản chi phí nào sau đây KHÔNG được kết chuyển vào TK 911 để xác định lợi nhuận:",
+    "answer": "Chi phí nguyên vật liệu trực tiếp."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Phần lợi nhuận được kết chuyển từ bút toán:",
+    "answer": "Lợi nhuận đã trừ thuế TNDN."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Doanh thu thuần là:",
+    "answer": "Doanh thu đã trừ các khoản giảm trừ doanh thu."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Lợi nhuận gộp được tính bằng:",
+    "answer": "Doanh thu thuần trừ Giá vốn hàng bán."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Cổ tức của doanh nghiệp thường được chia từ:",
+    "answer": "Lợi nhuận sau thuế TNDN."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Chênh lệch đánh giá lại tài sản phát sinh khi",
+    "answer": "Đánh giá lại tài sản theo quyết định của Nhà nước"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Vốn đầu tư của chủ sở hữu được hình thành do các cổ đông góp cổ phần, mua cổ phiếu phù hợp với loại hình doanh nghiệp nào?",
+    "answer": "Công ty Cổ phần"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Số dư có cuối kỳ của tài khoản Vốn đầu tư của chủ sở hữu (411) thể hiện?",
+    "answer": "Vốn đầu tư của chủ sở hữu (thuộc vốn chủ sở hữu) hiện có của doanh nghiệp"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Khi bổ sung Vốn đầu tư của chủ sở hữu từ lợi nhuận sau thuế, kế toán ghi?",
+    "answer": "Nợ TK Lợi nhuận chưa phân phối"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Giá trị quyền chọn cổ phiếu khi trái phiếu được chuyển đổi thành cổ phiếu được hạch toán vào?",
+    "answer": "Có TK 4112"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Thông tin về nguồn đầu tư tài sản cố định được trình bày trong báo cáo nào sau đây?",
+    "answer": "Thuyết minh báo cáo tài chính"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Khi trình bày trên Bảng cân đối kế toán thì chỉ tiêu “người mua trả tiền trước” được phản ánh?",
+    "answer": "Bên nguồn vốn"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Số dư các tài khoản dự phòng tổn thất tài sản (229) được",
+    "answer": "Ghi âm bên tài sản của Bảng cân đối kế toán"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Số dư bên Nợ TK Thuế và các khoản phải nộp Nhà nước (333) được?",
+    "answer": "Ghi số dương bên Tài sản của Bảng cân đối kế toán"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Các khoản tương đương tiền là?",
+    "answer": "Tiền mặt, tiền gửi ngân hàng và tiền đang chuyển và Các khoản đầu tư ngắn hạn có thời hạn thu hồi hoặc đáo hạn không quá ba tháng kể từ ngày mua"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Khi DN mua tài sản, dịch vụ sử dụng cho sản xuất kinh doanh và nhận được hóa đơn trực tiếp thì:",
+    "answer": "DN không được khấu trừ thuế GTGT đầu vào"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trong DN 100% vốn Nhà nước, lãi tỷ giá trước hoạt động chính thức được ghi nhận vào:",
+    "answer": "Chênh lệch tỷ giá hối đoái"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Tiền mặt thừa quỹ phát hiện khi kiểm kê, kế toán ghi:",
+    "answer": "Nợ TK 111/Có TK 3381"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Khi DN mua tài sản, dịch vụ có giá trị hóa đơn dưới 20 triệu đồng và DN thanh toán bằng tiền mặt, các điều kiện khấu trừ khác đảm bảo thì:",
+    "answer": "DN được khấu trừ thuế GTGT đầu vào"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Tiền gửi ngân hàng phát hiện thừa khi đối chiếu, kế toán ghi:",
+    "answer": "Nợ TK 112/Có TK 3381"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Để phản ánh khoản đầu tư vào công ty liên doanh, kế toán sử dụng:",
+    "answer": "TK 222."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Công ty cổ phần HQ góp vốn liên doanh một thiết bị có nguyên giá là 700.000.000đ, hao mòn lũy kế là 200.000.000đ, giá trị góp vốn được công nhận là 600.000.000đ. Chênh lệch giữa giá trị ghi sổ và giá trị góp vốn được ghi:",
+    "answer": "Có TK 711."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Theo thời gian đầu tư thì khoản đầu tư bao gồm",
+    "answer": "Đầu tư ngắn hạn và đầu tư dài hạn."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Công ty cổ phần kinh doanh bất động sản Hoa Sen mua một tòa nhà để cho thuê làm văn phòng với giá mua theo hóa đơn chưa bao gồm thuế GTGT 10% là 15 tỷ đồng. Chi phí môi giới công ty đã trả là 5% giá trị tài sản mua. BSĐ này là:",
+    "answer": "BĐS đầu tư."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Mua 1.000 trái phiếu do Công ty MH phát hành với mục đích kinh doanh, mệnh giá là 1.000.000đ/trái phiếu, giá mua là 800.000đ/trái phiếu, giá thị trường là 900.000đ/trái phiếu, lãi suất 8%/năm, thời gian đáo hạn là 5 năm, lãi trả khi đáo hạn. Kế toán sẽ ghi:",
+    "answer": "Nợ TK 1212."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Tài khoản 5211 – Chiết khấu thương mại có kết cấu:",
+    "answer": "Ngược với TK 511."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Lợi nhuận chưa phân phối là:",
+    "answer": "Lợi nhuận sau thuế TNDN."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Tính ra thuế TNDN phải nộp, kế toán ghi:",
+    "answer": "Nợ TK 8211."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Lợi nhuận được xác định bằng:",
+    "answer": "Lợi nhuận từ hoạt động kinh doanh cộng với Lợi nhuận khác."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "TK 5212 – Doanh thu hàng bán bị trả lại có kết cấu tương tự như:",
+    "answer": "TK 5211."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Theo quy định hiện hành, tiền thu sử dụng vốn được?",
+    "answer": "Bổ sung vốn kinh doanh của doanh nghiệp"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Khoản chênh lệch đánh giá lại tài sản cuối kỳ được xử lý bằng cách?",
+    "answer": "Ghi tăng, giảm Vốn đầu tư của chủ sở hữu"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Khi phát hành cổ phiếu, phần chênh lệch giữa mệnh giá và giá phát hành được kế toán hạch toán vào?",
+    "answer": "Thặng dư vốn cổ phần"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Khi công ty cổ phần mua cổ phiếu quỹ hủy bỏ ngay, giá trị cổ phiếu quỹ được ghi nhận vào?",
+    "answer": "Không có đáp án nào đúng"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Trường hợp doanh nghiệp bị giải thể, các chủ sở hữu?",
+    "answer": "Được nhận giá trị còn lại theo tỷ lệ vốn góp sau khi đã thanh toán các khoản nợ"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Chỉ tiêu \"Giá vốn hàng bán\" trên Báo cáo kết quả kinh doanh căn cứ vào?",
+    "answer": "Phát sinh Nợ TK 911/ Có TK 632"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Thu nhập và chi phí từ hoạt động nhượng bán TSCĐ của doanh nghiệp lần lượt là: 500 tr và 400 tr. Số tiền được ghi vào chỉ tiêu “Thu nhập khác” trên Báo cáo kết quả kinh doanh là?",
+    "answer": "100 tr"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Số dư bên Có tài khoản \"Hao mòn tài sản cố định\" được trình bày trên Bảng cân đối tài khoản bằng cách?",
+    "answer": "Ghi bình thường bên cột số dư Có"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Số dư cuối kỳ của tài khoản tong hợp phải trả người bán là 400 tr; trong đó: chi tiết người bán A: 300 tr, người bán B: 250 tr, Trả trưóc người bán C: 150 tr. Trên bảng cân đối kế toán, khoản phải trả người bán là?",
+    "answer": "550"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Công ty có số dư cuối kỳ của TK 211: 2.000 tr; TK 214: 500 tr. Số tiền được ghi vào chỉ tiêu “TSCĐ hữu hình” là?",
+    "answer": "1.500 tr"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Khi người bán thanh toán cho DN số tiền trả trước còn thừa, kế toán ghi:",
+    "answer": "Có TK Phải trả người bán"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Tỷ giá hối đoái dùng để đánh giá lại số dư của ngoại tệ gửi ngân hàng cuối kỳ, cuối năm là:",
+    "answer": "Tỷ giá mua của NHTM nơi DN mở tài khoản ngoại tệ"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trong doanh nghiệp đa sở hữu, chênh lệch lỗ < chênh lệch lãi do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ được ghi vào:",
+    "answer": "Doanh thu hoạt động tài chính"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Khi DN bán sản phẩm, hàng hóa trừ vào số tiền đã nhận trước của khách hàng theo giá hóa đơn có thuế GTGT 10% là 385.000.000 đồng, kế toán ghi:",
+    "answer": "Nợ TK Phải thu khách hàng"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Trong doanh nghiệp đa sở hữu, chênh lệch lỗ > chênh lệch lãi do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ được ghi vào:",
+    "answer": "Chi phí tài chính"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Công ty cổ phần TH mua đầu tư dài hạn 15.000 cổ phiếu do Công ty QM phát hành với mệnh giá là 10.000đ/cổ phiếu, giá mua là 22.500đ/cổ phiếu. Chi phí môi giới, giao dịch đã thanh toán là 5.000.000đ, thuế GTGT 10%. Giá trị khoản đầu tư này được ghi:",
+    "answer": "Nợ TK 228."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Để phản ánh khoản đầu tư vào công ty con, kế toán sử dụng:",
+    "answer": "TK 221."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Dự phòng nợ phải thu khó đòi KHÔNG được trích lập khi:",
+    "answer": "Khoản nợ chưa đến hạn thanh toán."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Công ty cổ phần HQ góp vốn vào công ty liên kết một thiết bị có nguyên giá là 880.000.000đ, hao mòn lũy kế là 200.000.000đ, giá trị góp vốn được công nhận là 600.000.000đ. Chênh lệch giữa giá trị ghi sổ và giá trị góp vốn được ghi:",
+    "answer": "Nợ TK 811."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Khi hoàn nhập dự phòng giảm giá hàng tồn kho, kế toán ghi:",
+    "answer": "Có TK 632."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Bút toán kết chuyển lỗ vào cuối kỳ kế toán, ghi:",
+    "answer": "Có TK 911."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Cuối năm tài chính, số lợi nhuận còn chưa phân phối sẽ được kết chuyển, ghi:",
+    "answer": "Nợ TK 4212."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Khi hoàn nhập lại số lợi nhuận đã chia thừa, kế toán ghi:",
+    "answer": "Nợ TK 415."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Khi phân phối lợi nhuận, kế toán ghi:",
+    "answer": "Có TK 414."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Khoản chi phí nào sau đây KHÔNG được kết chuyển vào TK 911 để xác định lợi nhuận:",
+    "answer": "Chi phí nguyên vật liệu trực tiếp."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Các quỹ của doanh nghiệp được trích lập từ?",
+    "answer": "Lợi nhuận sau thuế"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 421 (Lợi nhuận chưa phân phối) là?",
+    "answer": "2"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Khoản tiền doanh nghiệp phải nộp phạt do nộp chậm thuế được trừ vào?",
+    "answer": "Lợi nhuận sau thuế"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 411 (Vốn đầu tư của chủ sở hữu) là?",
+    "answer": "4"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Khi phát hành trái phiếu có quyền chuyển đổi thành cổ phiếu, phần nợ gốc của trái phiếu được hạch toán?",
+    "answer": "Có TK 3432"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Vào thời điểm lập BCTC, tài khoản \"Lợi nhuận chưa phân phối\" có số dư bên Nợ, số dư này được trình bày trên Bảng cân đối kế toán bằng cách?",
+    "answer": "Ghi âm bên nguồn vốn"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Thời hạn nộp BCTC năm của các công ty TNHH, công ty cổ phần là?",
+    "answer": "90 ngày kể từ khi kết thúc niên độ kế toán"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Khi trình bày các khoản nợ phải trả trên Bảng cân đối kế toán?",
+    "answer": "Cần trình bày riêng biệt các khoản nợ ngắn hạn và dài hạn"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Khi trình bày trên Bảng cân đối kể toán thì chỉ tiêu “trả trước cho người bán” được phản ánh?",
+    "answer": "Bên tài sản"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Số dự bên Nợ TK Chênh lệch tỷ giá hối đoái (413) được?",
+    "answer": "Ghi âm bên nguồn vốn của Bảng cân đối kế toán"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Cuối kỳ, nếu thuế GTGT đầu vào < thuế GTGT đầu ra, doanh nghiệp được khấu trừ:",
+    "answer": "Bằng số thuế GTGT đầu vào"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Khi DN mua tài sản, dịch vụ và sử dụng cho hoạt động thuộc diện chịu thuế GTGT %, các điều kiện khấu trừ khác đảm bảo thì:",
+    "answer": "DN được khấu trừ thuế GTGT đầu vào"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Tiền mặt, tiền gửi bằng ngoại tệ giảm được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá bình quân gia quyền di động"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ cuối năm trong DN đa sở hữu, lãi do đánh giá lại được ghi:",
+    "answer": "Tăng lãi tỷ giá hối đoái do đánh giá lại"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Tiền mặt phát hiện thiếu quỹ qua kiểm kê, kế toán ghi:",
+    "answer": "Nợ TK 1381/Có TK 111"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Công ty cổ phần TH mua 15.000 cổ phiếu do Công ty QM phát hành với mệnh giá là 10.000đ/cổ phiếu, giá mua là 22.500đ/cổ phiếu. Chi phí môi giới, giao dịch đã thanh toán là 5.000.000đ, thuế GTGT 10%. Giá trị khoản đầu tư này được ghi trên sổ kế toán là:",
+    "answer": "342.500.000đ."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Ngày 20/3/2019, Công ty Hoàn Mỹ nhận được thông báo chia cổ tức cho năm tài chính trước từ Công ty ABC là 25%. Số cổ tức này sẽ được ghi nhận vào:",
+    "answer": "Thu nhập của năm 2018."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Mua 1.000 trái phiếu do Công ty MH phát hành, mệnh giá là 1.000.000đ/trái phiếu, giá mua là 800.000đ/trái phiếu, giá thị trường là 900.000đ/trái phiếu, lãi suất 8%/năm (tính lãi đơn), thời gian đáo hạn là 5 năm, lãi trả khi đáo hạn. Tại thời điểm đáo hạn, công ty sẽ thu được số tiền là:",
+    "answer": "1.400.000.000đ."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Dự phòng giảm giá hàng tồn kho được trích lập khi:",
+    "answer": "Giá trị ghi sổ của HTK lớn hơn giá trị thị trường của nó."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Mua 1.000 trái phiếu do Công ty MH phát hành, mệnh giá là 1.000.000đ/trái phiếu, giá mua là 800.000đ/trái phiếu, giá thị trường là 900.000đ/trái phiếu, lãi suất 8%/năm, thời gian đáo hạn là 5 năm, lãi trả khi đáo hạn. Kế toán sẽ ghi nhận khoản đầu tư này là:",
+    "answer": "800.000.000đ."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khi hoàn nhập lại số lợi nhuận đã chia thừa, kế toán ghi:",
+    "answer": "Nợ TK 415."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "TK 421 – Lợi nhuận chưa phân phối là TK:",
+    "answer": "Có số dư bên Nợ hoặc bên Có."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Bút toán kết chuyển lãi vào cuối kỳ kế toán, ghi:",
+    "answer": "Nợ TK 911."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Lợi nhuận chưa phân phối là:",
+    "answer": "Lợi nhuận sau thuế TNDN."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Lợi nhuận là:",
+    "answer": "Kết quả cuối cùng của doanh nghiệp sau một kỳ kinh doanh."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "TK 419: Cổ phiếu quỹ có?",
+    "answer": "Số dư bên Nợ"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Khi hoàn trả lại vốn góp cho nhà đầu tư bằng chuyển khoản, kế toán ghi?",
+    "answer": "Nợ TK 4111"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Sau khi đánh giá chêch lệch tỷ giá cuối kỳ, trường hợp tổng Nợ TK 413 lớn hơn tổng có TK 413 thì phần chênh lệch giữa tổng Nợ và tổng Có TK 413 được hạch toán vào?",
+    "answer": "Chi phí tài chính"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Khi trả lại tài sản cố định cho bên góp vốn, phần chênh lệch giữa giá trị còn lại của tài sản cố định và giá do hội đồng đánh giá được hạch toán vào?",
+    "answer": "Chênh lệch đánh giá tài sản (412)"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Khi phát hành trái phiếu, kế toán công ty ghi?",
+    "answer": "Tăng nợ phải trả"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Số dư của tài khoản dự phòng phải trải sẽ được trình bày trên Bảng cân đối kế toán theo cách?",
+    "answer": "Ghi dương bên nguồn vốn"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Các chính sách kế toán mà đơn vị áp dụng được giải trình trên?",
+    "answer": "Thuyết minh Báo cáo tài chính"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Sự thay đổi các khoản dự phòng giảm giá trong kỳ được trình bày trong?",
+    "answer": "Thuyết minh báo cáo tài chính"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Tình hình thanh toán với ngân sách Nhà nước của doanh nghiệp Nhà nước được thể hiệu trên?",
+    "answer": "Báo cáo kết quả kinh doanh"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Số dư bên Có tài khoản \"Hao mòn tài sản cố định\" được trình bày trên Bảng cân đối kế toán bằng cách?",
+    "answer": "Ghi âm bên tài sản"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Khi DN mua tài sản, dịch vụ hóa đơn trên 20 triệu đồng và DN thanh toán bằng tiền mặt thì:",
+    "answer": "DN không được trừ thuế TNDN, không được khấu trừ thuế GTGT"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Tiền mặt, tiền gửi bằng ngoại tệ tăng lên được quy đổi, ghi sổ theo:",
+    "answer": "Tỷ giá mua của NHTM"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Khi doanh nghiệp chuyển ngoại tệ từ quỹ vào tài khoản ngân hàng sẽ:",
+    "answer": "Không phát sinh chênh lệch tỷ giá hối đoái"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Khi DN bán sản phẩm thuộc diện chịu thuế TTĐB, thuế TTĐB phải nộp của sản phẩm đã bán được ghi:",
+    "answer": "(A) hoặc (B) tùy DN có tách riêng được thuế TTĐB phải nộp hay không ở thời điểm phát sinh giao dịch"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Khi doanh nghiệp chuyển ngoại tệ từ tài khoản ngân hàng về quỹ sẽ:",
+    "answer": "Không phát sinh chênh lệch tỷ giá hối đoái"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Chi phí khấu hao BĐS đầu tư được ghi Nợ:",
+    "answer": "TK 632."
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Ngày 31/12/2019 số dự phòng nợ phải thu khó đòi còn chưa sử dụng là 50.000.000đ. Số dự phòng cần trích lập trong năm tới là 150.000.000đ. Kế toán cần:",
+    "answer": "Trích lập dự phòng thêm 100.000.000đ."
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Ngày 10 tháng 9 năm 2019, Công ty cổ phần kinh doanh bất động sản Hoa Sen mua một tòa nhà để cho thuê làm văn phòng với giá mua theo hóa đơn chưa bao gồm thuế GTGT 10% là 15 tỷ đồng, đã thanh toán bằng chuyển khoản sau khi trừ 1% chiết khấu thanh toán. Nguyên giá của BĐS này là:",
+    "answer": "15 tỷ đồng."
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Công ty cổ phần TH góp vốn dài hạn vào Công ty TNHH HT với tỷ lệ quyền biểu quyết chiếm 50%. Khoản đầu tư này là:",
+    "answer": "đầu tư vào công ty liên kết."
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Công ty cổ phần TH góp vốn dài hạn vào Công ty TNHH HT với tỷ lệ quyền biểu quyết chiểm 20%. Khoản đầu tư này là:",
+    "answer": "đầu tư dài hạn."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Phần lợi nhuận được kết chuyển từ bút toán:",
+    "answer": "Lợi nhuận đã trừ thuế TNDN."
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Lợi nhuận được xác định bằng:",
+    "answer": "Lợi nhuận từ hoạt động kinh doanh cộng với Lợi nhuận khác."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Bút toán kết chuyển lỗ vào cuối kỳ kế toán, ghi:",
+    "answer": "Có TK 911."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Doanh thu thuần là:",
+    "answer": "Doanh thu đã trừ các khoản giảm trừ doanh thu."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Lợi nhuận từ hoạt động kinh doanh được tính bằng:",
+    "answer": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ cộng Doanh thu tài chính, và trừ Chi phí bán hàng, Chi phí QLDN và Chi phí tài chính."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Theo TT200/2014/TT/BTC, số tài khoản cấp 2 của TK 413 (chênh lệch đánh giá ngoại tệ là?",
+    "answer": "2"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Chênh lệch tỷ giá hối đoái do đánh giá lại số dư các khoản mục tiền tệ có gốc ngoại tệ vào thời điểm cuối năm được ghi?",
+    "answer": "Nợ (Có) chênh lệch tỷ giá hối đoái (413)"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Chi phí phát hành cổ phiếu được hạch toán?",
+    "answer": "Giảm thặng dư vốn cổ phần"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Chênh lệch tỷ giá hối đoái trong thời gian xây dựng cơ bản trước hoạt động được phân bổ vào chi phí hoặc doanh thu tài chính trong thời gian tối đa là?",
+    "answer": "5 năm"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Khi hủy bỏ cổ phiếu quỹ, phần chênh lệch giữa giá mua lại lớn hơn mệnh giá được kế toán ghi?",
+    "answer": "Nợ TK 4112"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Khi trình bày Bảng cân đối kế toán, một tài sản được xếp vào tài sản ngắn hạn nếu?",
+    "answer": "Tài sản này được dự kiến thu hồi trong vòng 12 tháng kể từ ngày kết thúc niên độ"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Số dư bên có của TK Phải thu khác (138) được",
+    "answer": "Ghi dương bên nguồn vốn của Bảng cân đối kế toán"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Số dư bên Nợ TK Phải trả, phải nộp khác (338) được?",
+    "answer": "Ghi số dương bên Tài sản của Bảng cân đối kế toán"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Số dư cuối kỳ của tài khoản tổng hợp phải thu KH là 200 tr; trong đó: khách hàng A: 150 tr, khách hàng B: 100 tr, Khách hàng C ứng trước tiền hàng: 50 tr. Trên bảng cân đối kế toán, khoản phải thu khách hàng là?",
+    "answer": "250"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Trường hợp tài khoản Thặng dư vốn cổ phần có số dư bên Nợ, số dư này được trình bày trên Bảng cân đối kế toán theo cách?",
+    "answer": "Trình bày thành một chỉ tiêu riêng biệt, ghi âm bên Nguồn vốn."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Trong DN 100% vốn Nhà nước, lỗ tỷ giá trước hoạt động chính thức được ghi nhận vào:",
+    "answer": "Chênh lệch tỷ giá hối đoái"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Trong DN đa sở hữu, lãi tỷ giá trước hoạt động chính thức được ghi nhận vào:",
+    "answer": "Doanh thu hoạt động tài chin"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Nếu DN tính thuế GTGT theo phương pháp trực tiếp, thuế GTGT phải nộp khi bán sản phẩm, hàng hóa được ghi:",
+    "answer": "(A) hoặc (B) tùy DN có tách riêng được thuế GTGT phải nộp hay không ở thời điểm phát sinh giao dịch"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Khi đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ cuối năm trong DN đa sở hữu, lỗ do đánh giá lại được ghi:",
+    "answer": "Tăng lỗ tỷ giá hối đoái do đánh giá lại"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Nếu DN xuất khẩu sản phẩm, hàng hóa, thuế xuất khẩu phải nộp của sản phẩm, hàng hóa xuất khẩu được ghi:",
+    "answer": "(A) hoặc (B) tùy DN có tách riêng được thuế xuất khẩu phải nộp hay không ở thời điểm phát sinh giao dịch"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "BĐS đầu tư:",
+    "answer": ".khấu hao theo các phương pháp khấu hao áp dụng cho TSCĐ."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Để phản ánh khoản đầu tư tài chính dài hạn, kế toán sử dụng:",
+    "answer": "TK 228."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Doanh nghiệp kinh doanh BĐS sử dụng:",
+    "answer": "Chỉ TK 1567."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Đầu tư là:",
+    "answer": "hoạt động chuyển nhượng quyền sử dụng vốn nhằm mục đích kiếm lời hoặc thu được lợi ích kinh tế từ đơn vị được đầu tư hoặc người nhận quyền sử dụng vốn."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Ngày 31/12/2019, số dự phòng nợ phải thu khó đòi còn chưa sử dụng là 50.000.000đ. Số dự phòng cần trích lập trong năm tới là 150.000.000đ. Bút toán trích lập dự phòng cuối năm 2019 cần ghi:",
+    "answer": "Có TK 2293: 100.000.000đ."
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Cuối năm tài chính, số lợi nhuận còn chưa phân phối sẽ được kết chuyển, ghi:",
+    "answer": "Nợ TK 4212."
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Tính ra thuế TNDN phải nộp, kế toán ghi:",
+    "answer": "Nợ TK 8211."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Lợi nhuận gộp được tính bằng:",
+    "answer": "Doanh thu thuần trừ Giá vốn hàng bán."
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "TK 5212 – Doanh thu hàng bán bị trả lại có kết cấu tương tự như:",
+    "answer": "TK 5211."
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Cổ tức của doanh nghiệp thường được chia từ:",
+    "answer": "Lợi nhuận sau thuế TNDN."
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Vốn đầu tư của chủ sở hữu của doanh nghiệp được hình thành từ?",
+    "answer": "Góp vốn"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Khi trích lập các quỹ khác thuộc vốn chủ sở hữu (418), kế toán ghi?",
+    "answer": "Giảm lợi nhuận sau thuế"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Khi mua cổ phiếu quỹ, phần chênh lệch giữa giá mua và mệnh giá được kế toán hạch toán vào?",
+    "answer": "Không phản ánh chênh lệch"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Các quỹ khác thuộc vốn chủ sở hữu (418) được hình thành từ các nguồn?",
+    "answer": "Lợi nhuận sau thuế"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Khi tạm phân phối lợi nhuận trong năm, kế toán ghi?",
+    "answer": "Giảm lợi nhuận chưa phân phối"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Số dư bên Nợ TK phải trả người bán (331) được?",
+    "answer": "Ghi bình thường bên Tài sản của Bảng cân đối kế toán"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Số dư bên Nợ của TK Cổ phiếu quỹ (419) trong công ty cổ phần được?",
+    "answer": "Ghi âm bên nguồn vốn của Bảng cân đối kế toán"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Chỉ tiêu \"Doanh thu hoạt động tài chính\" trên Báo cáo kết quả kinh doanh căn cứ vào?",
+    "answer": "Phát sinh Nợ TK 515/ Có TK 911"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Số dư bên có TK Phải thu khách hàng (131) được:",
+    "answer": "Ghi bình thường bên nguồn vốn của Bảng cân đối kế toán"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Chỉ tiêu \"Thu nhập khác\" trên Báo cáo kết quả kinh doanh căn cứ vào?",
+    "answer": "Phát sinh Nợ TK 711/ Có TK 911"
+  }
+]

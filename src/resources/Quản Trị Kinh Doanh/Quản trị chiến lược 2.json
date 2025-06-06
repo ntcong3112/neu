@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Chiến lược toàn cầu có ưu điểm",
+    "answer": "Tiết kiệm chi phí do đạt được tính kinh tế theo quy mô, đạt hiệu quả đường cong kinh nghiệm do có thể rút kinh nghiệm từ các thị trường"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Ma trận BCG do tác giả nào xây dựng?",
+    "answer": "M. Porter"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Để xây dựng ma trận SPACE, cần thực hiện mấy bước:",
+    "answer": "6 bước"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Quá trình quản trị chiến lược gồm mấy bước chính:",
+    "answer": "3"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Một trong những mục tiếu của chiến lược phát triển sản phẩm là",
+    "answer": "Doanh nghiệp cải tiến sản phẩm hiện có"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Chức năng đánh giá và điều chỉnh chiến lược (cấp DN hoặc cấp kinh doanh) có thể bao gồm các hoạt động dưới đây TRỪ:",
+    "answer": "Xây dựng CSF"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Trong chiến lược chi phí thấp, tiêu chí nào dưới đây được xếp theo thứ tự ưu tiên nhất",
+    "answer": "Cắt giảm chi phí"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Chiến lược tăng trưởng của doanh nghiệp không phải là",
+    "answer": "Chiến lược khác biệt hoá"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Các chiến lược sau đây là chiến lược cấp chức năng",
+    "answer": "Chiến lược nghiên cứu và phát triển"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Chiến lược ở cấp doanh nghiệp",
+    "answer": "A sai B đúng"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Quá trình điều chỉnh chiến lược bao gồm",
+    "answer": "Xác định sự cần thiết phải điều chỉnh chiến lược, xác định các cản trở đổi với điều chỉnh chiến lược, thực hiện điều chỉnh chiến lược, đánh giá lại sự điều chỉnh chiến lược"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Chiến lược trọng tâm hóa là chiến lược",
+    "answer": "Cấp đơn vị kinh doanh"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "“Đánh giá lại cơ sở chiến lược” là:",
+    "answer": "Khâu đầu tiên của Đánh giá chiến lược"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Chiến lược phát triển thị trường"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Chiến lược chi phí thấp là",
+    "answer": "Chiến lược tận dụng lợi thế về chi phí"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Quá trình quản trị chiến lược gồm mấy giai đoạn chính:",
+    "answer": "4"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "SMART không bao gồm",
+    "answer": "Phân bổ nguồn lực"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Độ Trong chiến lược chi phí thấp, tiêu chí nào dưới đây được xếp theo thứ tự ưu tiên thấp nhất",
+    "answer": "Đổi mới"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Ma trận QSPM dùng để:",
+    "answer": "Đánh giá điểm mạnh, yếu, cơ hội, nguy cơ"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Chiến lược toàn cầu có ưu điểm",
+    "answer": "Tiết kiệm chi phí do đạt được tính kinh tế theo quy mô, đạt hiệu quả đường cong kinh nghiệm do có thể rút kinh nghiệm từ các thị trường"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Những nội dung nào sau đây KHÔNG thuộc quá trình Đánh giá chiến lược",
+    "answer": "Kiểm tra, kiểm soát quá trình hành động"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Các nội dung nào sau đây KHÔNG phải là yêu cầu đối với đánh giá chiến lược",
+    "answer": "Kiểm tra không tập trung vào những điểm thiết yếu"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Chính sách marketing trong thực thi chiến lược không bao gồm những hoạt động nào dưới đây:",
+    "answer": "Nghiên cứu ra sản phẩm mới"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Chiến lược phát triển sản phẩm"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Yếu tố nào KHÔNG thuộc mô hình kim cương của M. Porter",
+    "answer": "Môi trường tự nhiên"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Việc giải quyết xung đột nên diễn ra",
+    "answer": "Càng sớm càng tốt"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Yếu tố nào KHÔNG thuộc mô hình kim cương của M. Porter",
+    "answer": "Loại sản phẩm mà doanh nghiệp cung cấp. "
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Điểm khác biệt của ________ so với cấu trúc tổ chức theo ma trận là thay vì được thiết kế tạm thời cho các dự án khác nhau, các chuyên gia chức năng được bố trí trong các nhóm xuyên chức năng một cách ổn định:",
+    "answer": "Cấu trúc tổ chức theo sản phẩm"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Chiến lược đa dạng hóa là chiến lược",
+    "answer": "Cấp doanh nghiệp"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Có bao nhiêu nguyên tắc chung cho việc đánh giá chiến lược",
+    "answer": "4"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Cấu trúc tổ chức theo chức năng được áp dụng tốt nhất khi doanh nghiệp:",
+    "answer": "Đang trong giai đoạn bắt đầu tăng trưởng và đa dạng hóa"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Chức năng đánh giá và điều chỉnh chiến lược (cấp DN hoặc cấp kinh doanh) có thể bao gồm các hoạt động dưới đây TRỪ:",
+    "answer": "Xây dựng KPI"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Trong giai đoạn phân tích và hình thành chiến lược, nhà hoạch định chiến lược có thể vận dụng ma trận:",
+    "answer": "SWOT, BCG, McKinsey, SPACE"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Để xây dựng ma trận SPACE, cần thực hiện mấy bước:",
+    "answer": "6 bước"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Sơ đồ cấu trúc tổ chức dưới là:",
+    "answer": "Cấu trúc theo ma trận"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Chiến lược chi phí thấp là chiến lược",
+    "answer": "Cấp đơn vị kinh doanh"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Việc giải quyết xung đột nên diễn ra",
+    "answer": "Càng sớm càng tốt"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Chiến lược thâm nhập thị trường"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Chiến lược xuyên quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp vừa giảm chi phí nhưng đồng thời cũng quan tâm đến nhu cầu, đặc thù của thị trường đến tính thích ứng của sản phẩm/dịch vụ với nhu cầu địa phương."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Chi nhánh sở hữu toàn bộ",
+    "answer": "Là một hình thức thâm nhập thị trường nước ngoài thông qua hình thức đầu tư, trong đó công ty sẽ thiết lập một chi nhánh ở nước sở tại, do công ty sở hữu 100% vốn và kiểm soát hoàn toàn."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Mua bán quyền sở hữu công nghiệp",
+    "answer": "Là việc tổ chức, cá nhân nắm độc quyền sử dụng một đối tượng sở hữu công nghiệp (bên giao) cho phép tổ chức cá nhân tổ chức khác (bên nhận) sử dụng đối tượng sở hữu công nghiệp đó."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Cấu trúc tổ chức theo sản phẩm được áp dụng tốt nhất khi doanh nghiệp:",
+    "answer": "Có nhiều loại sản phẩm khác nhau"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Chiến lược trọng tâm hóa là chiến lược",
+    "answer": "Cấp đơn vị kinh doanh"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Khó khăn thường gặp nhất là đánh giá tính hiệu lực và hiệu quả trong thay đổi cơ cấu tổ chức, bởi vì",
+    "answer": "Tính hợp lý và sự linh hoạt của cơ cấu tổ chức quản lý thường rất khó xác định một cách chính xác"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Có bao nhiêu nguyên tắc chung cho việc đánh giá chiến lược",
+    "answer": "4"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Cấu trúc tổ chức theo sản phẩm được áp dụng tốt nhất khi doanh nghiệp:",
+    "answer": "Có nhiều loại sản phẩm khác nhau"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Quá trình quản trị chiến lược gồm mấy giai đoạn chính:",
+    "answer": "4"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Ưu điểm của loại hình cấu trúc tổ chức theo ma trận là:",
+    "answer": "Có khả năng tận dụng tối đa kỹ năng của nhân viên"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Chiến lược toàn cầu hóa là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp giữ nguyên các sản phẩm, dịch vụ của mình ở tất cả các khu vực thị trường khác nhau Chiến lược tận dụng lợi thế về chi phí"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Chiến lược phát triển sản phẩm là chiến lược",
+    "answer": "Cấp doanh nghiệp"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Đâu là ví dụ của mục tiêu",
+    "answer": "Tăng lợi nhuận 10% năm tớ"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trong giai đoạn thu thập thông tin của quy trình phân tích và lựa chọn chiến lược, nhà hoạch định chiến lược có thể sử dụng ma trận:",
+    "answer": "EFE và IFE"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Dựa vào công cụ ma trận BCG, doanh nghiệp thực hiện chiến lược thu hoạch khi:",
+    "answer": "Thị phần tương đối cao và tốc độ tăng trưởng nhu cầu bão hòa"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Đâu là ví dụ chính xác nhất của mục tiêu",
+    "answer": "Tăng lợi nhuận 10% năm tớ"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Khung đánh giá chiến lược bao gồm:",
+    "answer": "Đánh giá lại các vấn đề cơ bản của chiến lược, đo lường và so sánh kết quả, thực hiện các điều chỉnh"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Chiến lược đa quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp cải tiến, đổi mới sản phẩm, dịch vụ của mình nhằm tối đa hóa việc đáp ứng nhu cầu địa phương"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Chức năng đánh giá và điều chỉnh chiến lược (cấp DN hoặc cấp kinh doanh) có thể bao gồm các hoạt động dưới đây TRỪ:",
+    "answer": "Xây dựng CSF"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Trong ma trận SWOT, chiến lược ST được hiều là",
+    "answer": "Tận dụng điểm mạnh bên trong DN nhằm giảm bớt tác động của các nguy cơ bên ngoài."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Ma trận Mc Kinsey được xây dựng dựa trên:",
+    "answer": "Sức hấp dẫn của thị trường và vị thế cạnh tranh của doanh nghiệp"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là không chính xác về các cấp chiến lược trong doanh nghiệp?",
+    "answer": "Chiến lược ở các cấp của doanh nghiệp đều giống nhau"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Phân tích chiến lược được hiểu là",
+    "answer": "Hoạt động nhằm hình thành các phương án chiến lược khác nhau"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Đâu là ví dụ của CSF",
+    "answer": "Đảm bảo giảm chi phí"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Hãy cho biết đâu là mối quan hệ giữa hoạch định chiến và thực thi chiến lược",
+    "answer": "Tư duy - tác nghiệp"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Chiến lược đa quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp cải tiến, đổi mới sản phẩm, dịch vụ của mình nhằm tối đa hóa việc đáp ứng nhu cầu địa phương"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Hệ Chiến lược xuyên quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp vừa giảm chi phí nhưng đồng thời cũng quan tâm đến nhu cầu, đặc thù của thị trường đến tính thích ứng của sản phẩm/dịch vụ với nhu cầu địa phương."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Các cản trở sự điều chỉnh hợp lý chiến lược có thể ở các cấp",
+    "answer": "Doanh nghiệp, đơn vị cơ sở, bộ phận chức năng và cá nhân"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Ma trận BCG được xây dựng gồm 2 trục, trong đó trục hoành là:",
+    "answer": "Thị phần tương đối"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "“Đánh giá lại cơ sở chiến lược” là:",
+    "answer": "Khâu đầu tiên của Đánh giá chiến lược"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Chiến lược xuyên quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp vừa giảm chi phí nhưng đồng thời cũng quan tâm đến nhu cầu, đặc thù của thị trường đến tính thích ứng của sản phẩm/dịch vụ với nhu cầu địa phương."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Đáp án b & c"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Đâu là ví dụ của mục tiêu",
+    "answer": "Đảm bảo giảm chi phí 25%"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Ba chiến lược cở bản gồm:",
+    "answer": "Chiến lược chi phí thấp, khác biệt hóa, trọng tâm hóa"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Chiến lược ở cấp doanh nghiệp",
+    "answer": "A sai B đúng"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Hệ thống cấp chiến lược của doanh nghiệp gồm mấy chiến lược chủ yếu: ",
+    "answer": "3"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Một trong những mục tiếu của chiến lược phát triển sản phẩm là",
+    "answer": "Doanh nghiệp cải tiến sản phẩm hiện có"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Các nội dung nào sau đây KHÔNG phải là yêu cầu đối với đánh giá chiến lược",
+    "answer": "Xây dựng cơ cấu tổ chức bộ máy"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Doanh nghiệp theo đuổi chiến lược chi phí thấp sẽ",
+    "answer": "A và B sai"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Trong lựa chọn chiến lược chi phí thấp, yếu tố nào có mức độ ưu tiên cao nhất",
+    "answer": "Lợi thế về quy mô sản xuất"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Quá trình điều chỉnh chiến lược bao gồm",
+    "answer": "Xác định sự cần thiết phải điều chỉnh chiến lược, xác định các cản trở đổi với điều chỉnh chiến lược, thực hiện điều chỉnh chiến lược, đánh giá lại sự điều chỉnh chiến lược"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "SMART không bao gồm",
+    "answer": "Phân bổ nguồn lực"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Quy trình phân tích và lựa chọn chiến lược có thể được phân tách thành mấy giai đoạn",
+    "answer": "3"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Liên doanh",
+    "answer": "Là hình thức hợp tác kinh tế ở một trình độ tương đối cao, được tiến hành trên cơ sở các bên tham gia (công ti hoặc cá nhân trong nước hay nước ngoài) tự nguyện cùng nhau góp vốn để thành lập các công ti, xí nghiệp (gọi chung là công ti, xí nghiệp liên doanh) nhằm cùng sản xuất, cùng quản lí và chia lãi theo phương thức thoả thuận."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Thôn tính là chiến lược",
+    "answer": "A và B sai"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Nội dung nào sau đây KHÔNG thuộc giai đoạn Thực thi chiến lược:",
+    "answer": "Xây dựng các mục tiêu dài hạn"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Có bao nhiêu nguyên tắc chung cho việc đánh giá chiến lược",
+    "answer": "4"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Quá trình quản trị chiến lược gồm mấy bước chính:",
+    "answer": "3"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Chiến lược xuyên quốc gia có nhược điểm",
+    "answer": "Phức tạp trong việc quản lý do mỗi công ty con ở các khu vực thị trường có sự khác biệt về tổ chức, thực hiện"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Lựa chọn chiến lược là",
+    "answer": "Việc xác định được chiến lược phù hợp nhất với điều kiện chủ quan và khách quan của doanh nghiệp."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Trong chiến lược chi phí thấp, tiêu chí nào dưới đây được xếp theo thứ tự ưu tiên nhất",
+    "answer": "Đổi mới"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là không chính xác:",
+    "answer": "Chiến lược cấp chức năng là chiến lược độc lập, không gắn kết với chiến lược ở cấp khác."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Hãy cho biết đâu không phải là hạn chế của ma trận SWOT:",
+    "answer": "SWOT phù hợp với làm việc và phân tích theo nhóm"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Đánh giá chiến lược là khâu nào của quá trình quản trị chiến lược",
+    "answer": "Khâu cuối cùng"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Đáp án a & c"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Chi nhánh sở hữu toàn bộ",
+    "answer": "Là một hình thức thâm nhập thị trường nước ngoài thông qua hình thức đầu tư, trong đó công ty sẽ thiết lập một chi nhánh ở nước sở tại, do công ty sở hữu 100% vốn và kiểm soát hoàn toàn."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là không chính xác:",
+    "answer": "Chiến lược cấp chức năng cũng tương tự như chiến lược cấp SBU"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Ma trận SPACE được xây dựng với:",
+    "answer": "2 trục, dựa trên 4 yếu tố bên trong và bên ngoài"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Chiến lược đa dạng hóa ngang"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Để xây dựng ma trận SWOT cần thực hiện mấy bước:",
+    "answer": "8"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Chiến lược quốc tế là loại hình chiến lược mà",
+    "answer": "Sản phẩm của doanh nghiệp được thiết kế, phát triển, sản xuất và tiêu thụ ở thị trường nội địa rồi được ra nước ngoài với những thích ứng không đáng kể"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Ma trận BCG được xây dựng trên cơ sở 2 biến số về:",
+    "answer": "Thị phần tương đối & tốc độ tăng trưởng"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Trong ma trận SWOT, chiến lược SO được hiều là",
+    "answer": "Tận dụng thế mạnh của DN để khai thác các cơ hội trong môi trường kinh doanh bên ngoài."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Chức năng đánh giá và điều chỉnh chiến lược (cấp DN hoặc cấp kinh doanh) có thể bao gồm các hoạt động dưới đây TRỪ:",
+    "answer": "Xây dựng KPI"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Nội dung của tổ chức, thực hiện chiến lược bao gồm",
+    "answer": "Tất cả các đáp án trên "
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Hệ thống cấp chiến lược của doanh nghiệp gồm mấy chiến lược chủ yếu",
+    "answer": "3"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Các chiến lược sau đây là chiến lược cấp chức năng",
+    "answer": "Chiến lược nghiên cứu và phát triển"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Chiến lược đa quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp cải tiến, đổi mới sản phẩm, dịch vụ của mình nhằm tối đa hóa việc đáp ứng nhu cầu địa phương"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Ma trận BCG được xây dựng gồm 2 trục, trong đó trục tung là",
+    "answer": "Tỷ lệ tăng trưởng của ngành"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Chiến lược quốc tế có nhược điểm",
+    "answer": "Dễ tạo cơ hội cho đối thủ cạnh tranh khai thác được thị trường còn đang bỏ ngỏ mà chưa được đáp ứng theo đặc thù"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Đáp án a & c"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Đâu là lợi ích của KPI",
+    "answer": "Cho thấy thành quả hiện thời của một mục đích"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Những nội dung nào sau đây KHÔNG thuộc quá trình Đánh giá chiến lược",
+    "answer": "Kiểm tra, kiểm soát quá trình hành động"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Đặc điểm của ô “Ngôi sao” trong ma trận BCG là:",
+    "answer": "Lợi nhuận cao – nhu cầu tài chính lớn"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Chức năng đánh giá và điều chỉnh chiến lược (cấp DN hoặc cấp kinh doanh) có thể bao gồm các hoạt động dưới đây TRỪ:",
+    "answer": "Xây dựng hệ thống đánh giá nhân sự"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Trong ma trận SWOT, chiến lược WT được hiều là",
+    "answer": "Kết hợp chiến lược mang tính \"phòng thủ\", cải thiện điểm yếu để hạn chế các nguy cơ"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Đâu không phải là ví dụ của KPI",
+    "answer": "Giữ quan hệ tốt với khách hàng"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Trong chiến lược chi phí thấp, tiêu chí nào dưới đây được xếp theo thứ tự ưu tiên nhất",
+    "answer": "Cắt giảm chi phí"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Chiến lược quốc tế là loại hình chiến lược mà",
+    "answer": "Sản phẩm của doanh nghiệp được thiết kế, phát triển, sản xuất và tiêu thụ ở thị trường nội địa rồi được ra nước ngoài với những thích ứng không đáng kể"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Chiến lược phát triển thị trường"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Bản chất của chiến lược phát triển sản phẩm là",
+    "answer": "A và B đúng"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Một trong những mục tiếu của chiến lược phát triển thị trường là",
+    "answer": "Đưa sản phẩm ra khu vực địa lý mới"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Về cơ bản, thực thi chiến lược là một quá trình thế nào?",
+    "answer": "Quá trình tác nghiệp"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Ma trận BCG do tác giả nào xây dựng?",
+    "answer": "M. Porter"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Bên cạnh việc lượng hóa các kết quả chiến lược, thực thi những hành động điều chỉnh để đảm bảo thực hiện các mục tiêu chiến lược; đánh giá chiến lược còn là quá trình làm gì?",
+    "answer": "Đo lường"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Nhượng quyền thương mại",
+    "answer": "Là hoạt động thương mại, theo đó bên nhượng quyền cho phép và yêu cầu bên nhận quyền tự mình tiến hành việc mua bán hàng hoá, cung ứng dịch vụ theo các điều kiện nhất định. "
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Chiến lược chi phí thấp là",
+    "answer": "Chiến lược tận dụng lợi thế về chi phí"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Độ co giãn củ cầu theo giá là một yếu tố nằm trong trục nào của ma trận SPACE",
+    "answer": "ES"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Đâu là lợi ích của CSF",
+    "answer": "Đảm bảo sự thành công của chiến lược"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm mạnh và cơ hội là sự kết hợp giữa",
+    "answer": "SO"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Quá trình quản trị chiến lược gồm mấy giai đoạn chính:",
+    "answer": "3"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Trong ma trận SWOT, chiến lược WO được hiều là",
+    "answer": "Tận dụng các cơ hội bên ngoài để khắc phục điểm yếu bên trong DN."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Yếu tố nào KHÔNG thuộc mô hình kim cương của M. Porter",
+    "answer": "Sản phẩm thay thế"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Ba chiến lược cở bản gồm:",
+    "answer": "Chiến lược chi phí thấp, khác biệt hóa, trọng tâm hóa"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Chi nhánh sở hữu toàn bộ",
+    "answer": "Là một hình thức thâm nhập thị trường nước ngoài thông qua hình thức đầu tư, trong đó công ty sẽ thiết lập một chi nhánh ở nước sở tại, do công ty sở hữu 100% vốn và kiểm soát hoàn toàn."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "CSF không phải là?",
+    "answer": "Các tiêu chuẩn để các nhà lãnh đạo đánh giá thành quả hoạt động của các doanh nghiệp"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Chiến lược tăng trưởng của doanh nghiệp không phải là",
+    "answer": "Chiến lược khác biệt hoá"
+  },
+  {
+    "id": 136,
+    "premium": true,
+    "question": "Trong giai đoạn lựa chọn chiến lược, nhà hoạch định chiến lược có thể vận dụng ma trận:",
+    "answer": "QSPM"
+  },
+  {
+    "id": 137,
+    "premium": true,
+    "question": "Chiến lược đa quốc gia có nhược điểm",
+    "answer": "Tăng chi phí dẫn tới giá bán cao"
+  },
+  {
+    "id": 138,
+    "premium": true,
+    "question": "Trong ma trận SPACE, nếu vecto rơi vào ô thận trọng thì doanh nghiệp cần:",
+    "answer": "Đa dạng hóa đồng tâm"
+  },
+  {
+    "id": 139,
+    "premium": true,
+    "question": "Yếu tố nào thuộc mô hình kim cương của M. Porter",
+    "answer": "Tất cả các đáp án trên "
+  },
+  {
+    "id": 140,
+    "premium": true,
+    "question": "Đặc điểm của ô “Ngôi sao” trong ma trận BCG là:",
+    "answer": "Lợi nhuận cao – nhu cầu tài chính lớn"
+  },
+  {
+    "id": 141,
+    "premium": true,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Chiến lược phát triển thị trường"
+  },
+  {
+    "id": 142,
+    "premium": true,
+    "question": "Đâu là ví dụ của mục tiêu",
+    "answer": "Tăng lợi nhuận 10% năm tớ"
+  },
+  {
+    "id": 143,
+    "premium": true,
+    "question": "Ma trận QSPM dùng để:",
+    "answer": "Đánh giá điểm mạnh, yếu, cơ hội, nguy cơ"
+  },
+  {
+    "id": 144,
+    "premium": true,
+    "question": "Quy trình phân tích và lựa chọn chiến lược có thể được phân tách thành mấy giai đoạn",
+    "answer": "3"
+  },
+  {
+    "id": 145,
+    "premium": true,
+    "question": "Trong giai đoạn phân tích và hình thành chiến lược, nhà hoạch định chiến lược có thể vận dụng ma trận:",
+    "answer": "SWOT, BCG, McKinsey, SPACE"
+  },
+  {
+    "id": 146,
+    "premium": true,
+    "question": "Yếu tố nào KHÔNG thuộc mô hình kim cương của M. Porter",
+    "answer": "Loại sản phẩm mà doanh nghiệp cung cấp. "
+  },
+  {
+    "id": 147,
+    "premium": true,
+    "question": "Sơ đồ cấu trúc tổ chức dưới là:",
+    "answer": "Cấu trúc theo ma trận"
+  },
+  {
+    "id": 148,
+    "premium": true,
+    "question": "Các cản trở sự điều chỉnh hợp lý chiến lược có thể ở các cấp",
+    "answer": "Doanh nghiệp, đơn vị cơ sở, bộ phận chức năng và cá nhân"
+  },
+  {
+    "id": 149,
+    "premium": true,
+    "question": "Doanh nghiệp theo đuổi chiến lược chi phí thấp sẽ",
+    "answer": "A và B sai"
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "Chiến lược đa dạng hóa là chiến lược",
+    "answer": "Cấp doanh nghiệp"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Một trong những mục tiếu của chiến lược phát triển sản phẩm là",
+    "answer": "Doanh nghiệp cải tiến sản phẩm hiện có"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Hệ thống cấp chiến lược của doanh nghiệp gồm mấy chiến lược chủ yếu: ",
+    "answer": "3"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Ma trận BCG được xây dựng gồm 2 trục, trong đó trục tung là",
+    "answer": "Tỷ lệ tăng trưởng của ngành"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Chiến lược xuyên quốc gia có nhược điểm",
+    "answer": "Phức tạp trong việc quản lý do mỗi công ty con ở các khu vực thị trường có sự khác biệt về tổ chức, thực hiện"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Có bao nhiêu nguyên tắc chung cho việc đánh giá chiến lược",
+    "answer": "4"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Chiến lược toàn cầu hóa là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp giữ nguyên các sản phẩm, dịch vụ của mình ở tất cả các khu vực thị trường khác nhau Chiến lược tận dụng lợi thế về chi phí"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Việc giải quyết xung đột nên diễn ra",
+    "answer": "Càng sớm càng tốt"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Cấu trúc tổ chức theo chức năng được áp dụng tốt nhất khi doanh nghiệp:",
+    "answer": "Đang trong giai đoạn bắt đầu tăng trưởng và đa dạng hóa"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Chức năng đánh giá và điều chỉnh chiến lược (cấp DN hoặc cấp kinh doanh) có thể bao gồm các hoạt động dưới đây TRỪ:",
+    "answer": "Xây dựng CSF"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Chiến lược đa dạng hóa ngang"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Nhận định nào dưới đây là không chính xác:",
+    "answer": "Chiến lược cấp chức năng cũng tương tự như chiến lược cấp SBU"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Nhượng quyền thương mại",
+    "answer": "Là hoạt động thương mại, theo đó bên nhượng quyền cho phép và yêu cầu bên nhận quyền tự mình tiến hành việc mua bán hàng hoá, cung ứng dịch vụ theo các điều kiện nhất định. "
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Chiến lược trọng tâm hóa là chiến lược",
+    "answer": "Cấp đơn vị kinh doanh"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "CSF không phải là?",
+    "answer": "Các tiêu chuẩn để các nhà lãnh đạo đánh giá thành quả hoạt động của các doanh nghiệp"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Chiến lược quốc tế có nhược điểm",
+    "answer": "Dễ tạo cơ hội cho đối thủ cạnh tranh khai thác được thị trường còn đang bỏ ngỏ mà chưa được đáp ứng theo đặc thù"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Ba chiến lược cở bản gồm:",
+    "answer": "Chiến lược chi phí thấp, khác biệt hóa, trọng tâm hóa"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Trong ma trận SWOT, chiến lược WT được hiều là",
+    "answer": "Kết hợp chiến lược mang tính \"phòng thủ\", cải thiện điểm yếu để hạn chế các nguy cơ"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Trong ma trận SWOT, chiến lược SO được hiều là",
+    "answer": "Tận dụng thế mạnh của DN để khai thác các cơ hội trong môi trường kinh doanh bên ngoài."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Chiến lược đa quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp cải tiến, đổi mới sản phẩm, dịch vụ của mình nhằm tối đa hóa việc đáp ứng nhu cầu địa phương"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Đâu là ví dụ của CSF",
+    "answer": "Đảm bảo giảm chi phí"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Chi nhánh sở hữu toàn bộ",
+    "answer": "Là một hình thức thâm nhập thị trường nước ngoài thông qua hình thức đầu tư, trong đó công ty sẽ thiết lập một chi nhánh ở nước sở tại, do công ty sở hữu 100% vốn và kiểm soát hoàn toàn."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Doanh nghiệp theo đuổi chiến lược chi phí thấp sẽ",
+    "answer": "A và B sai"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Nhận định nào dưới đây là không chính xác:",
+    "answer": "Chiến lược cấp chức năng là chiến lược độc lập, không gắn kết với chiến lược ở cấp khác."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Có bao nhiêu nguyên tắc chung cho việc đánh giá chiến lược",
+    "answer": "4"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Chiến lược xuyên quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp vừa giảm chi phí nhưng đồng thời cũng quan tâm đến nhu cầu, đặc thù của thị trường đến tính thích ứng của sản phẩm/dịch vụ với nhu cầu địa phương."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Chiến lược đa dạng hóa là chiến lược",
+    "answer": "Cấp doanh nghiệp"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "CSF không phải là?",
+    "answer": "Các tiêu chuẩn để các nhà lãnh đạo đánh giá thành quả hoạt động của các doanh nghiệp"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Những nội dung nào sau đây KHÔNG thuộc quá trình Đánh giá chiến lược",
+    "answer": "Kiểm tra, kiểm soát quá trình hành động"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Đáp án a & c"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Độ Trong chiến lược chi phí thấp, tiêu chí nào dưới đây được xếp theo thứ tự ưu tiên thấp nhất",
+    "answer": "Đổi mới"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Chi nhánh sở hữu toàn bộ",
+    "answer": "Là một hình thức thâm nhập thị trường nước ngoài thông qua hình thức đầu tư, trong đó công ty sẽ thiết lập một chi nhánh ở nước sở tại, do công ty sở hữu 100% vốn và kiểm soát hoàn toàn."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Hệ thống cấp chiến lược của doanh nghiệp gồm mấy chiến lược chủ yếu: ",
+    "answer": "3"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Hãy cho biết đâu là mối quan hệ giữa hoạch định chiến và thực thi chiến lược",
+    "answer": "Tư duy - tác nghiệp"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Ma trận BCG được xây dựng gồm 2 trục, trong đó trục tung là",
+    "answer": "Tỷ lệ tăng trưởng của ngành"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Chiến lược quốc tế có nhược điểm",
+    "answer": "Dễ tạo cơ hội cho đối thủ cạnh tranh khai thác được thị trường còn đang bỏ ngỏ mà chưa được đáp ứng theo đặc thù"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Trong giai đoạn phân tích và hình thành chiến lược, nhà hoạch định chiến lược có thể vận dụng ma trận:",
+    "answer": "SWOT, BCG, McKinsey, SPACE"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Khó khăn thường gặp nhất là đánh giá tính hiệu lực và hiệu quả trong thay đổi cơ cấu tổ chức, bởi vì",
+    "answer": "Tính hợp lý và sự linh hoạt của cơ cấu tổ chức quản lý thường rất khó xác định một cách chính xác"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Bản chất của chiến lược phát triển sản phẩm là",
+    "answer": "A và B đúng"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Đặc điểm của ô “Ngôi sao” trong ma trận BCG là:",
+    "answer": "Lợi nhuận cao – nhu cầu tài chính lớn"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Yếu tố nào KHÔNG thuộc mô hình kim cương của M. Porter",
+    "answer": "Sản phẩm thay thế"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Chiến lược quốc tế là loại hình chiến lược mà",
+    "answer": "Sản phẩm của doanh nghiệp được thiết kế, phát triển, sản xuất và tiêu thụ ở thị trường nội địa rồi được ra nước ngoài với những thích ứng không đáng kể"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Ma trận Mc Kinsey được xây dựng dựa trên:",
+    "answer": "Sức hấp dẫn của thị trường và vị thế cạnh tranh của doanh nghiệp"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Ma trận BCG được xây dựng trên cơ sở 2 biến số về:",
+    "answer": "Thị phần tương đối & tốc độ tăng trưởng"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Đâu không phải là ví dụ của KPI",
+    "answer": "Giữ quan hệ tốt với khách hàng"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Về cơ bản, thực thi chiến lược là một quá trình thế nào?",
+    "answer": "Quá trình tác nghiệp"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Chiến lược phát triển sản phẩm là chiến lược",
+    "answer": "Cấp doanh nghiệp"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Chiến lược đa quốc gia có nhược điểm",
+    "answer": "Tăng chi phí dẫn tới giá bán cao"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Ưu điểm của loại hình cấu trúc tổ chức theo ma trận là:",
+    "answer": "Có khả năng tận dụng tối đa kỹ năng của nhân viên"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Điểm khác biệt của ________ so với cấu trúc tổ chức theo ma trận là thay vì được thiết kế tạm thời cho các dự án khác nhau, các chuyên gia chức năng được bố trí trong các nhóm xuyên chức năng một cách ổn định:",
+    "answer": "Cấu trúc tổ chức theo sản phẩm"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Chiến lược đa quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp cải tiến, đổi mới sản phẩm, dịch vụ của mình nhằm tối đa hóa việc đáp ứng nhu cầu địa phương"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Ma trận QSPM dùng để:",
+    "answer": "Đánh giá điểm mạnh, yếu, cơ hội, nguy cơ"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Chiến lược đa dạng hóa ngang"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Yếu tố nào KHÔNG thuộc mô hình kim cương của M. Porter",
+    "answer": "Môi trường tự nhiên"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Độ co giãn củ cầu theo giá là một yếu tố nằm trong trục nào của ma trận SPACE",
+    "answer": "ES"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Một trong những mục tiếu của chiến lược phát triển thị trường là",
+    "answer": "Đưa sản phẩm ra khu vực địa lý mới"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Ba chiến lược cở bản gồm:",
+    "answer": "Chiến lược chi phí thấp, khác biệt hóa, trọng tâm hóa"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Trong ma trận SWOT, sự kết hợp giữa điểm mạnh và cơ hội là sự kết hợp giữa",
+    "answer": "SO"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Trong giai đoạn thu thập thông tin của quy trình phân tích và lựa chọn chiến lược, nhà hoạch định chiến lược có thể sử dụng ma trận:",
+    "answer": "EFE và IFE"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Cấu trúc tổ chức theo chức năng được áp dụng tốt nhất khi doanh nghiệp:",
+    "answer": "Đang trong giai đoạn bắt đầu tăng trưởng và đa dạng hóa"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Những nội dung nào sau đây KHÔNG thuộc quá trình Đánh giá chiến lược",
+    "answer": "Kiểm tra, kiểm soát quá trình hành động"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Yếu tố nào thuộc mô hình kim cương của M. Porter",
+    "answer": "Tất cả các đáp án trên "
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Dựa vào công cụ ma trận BCG, doanh nghiệp thực hiện chiến lược thu hoạch khi:",
+    "answer": "Thị phần tương đối cao và tốc độ tăng trưởng nhu cầu bão hòa"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Đáp án b & c"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Chiến lược xuyên quốc gia có nhược điểm",
+    "answer": "Phức tạp trong việc quản lý do mỗi công ty con ở các khu vực thị trường có sự khác biệt về tổ chức, thực hiện"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Nội dung của tổ chức, thực hiện chiến lược bao gồm",
+    "answer": "Tất cả các đáp án trên "
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Liên doanh",
+    "answer": "Là hình thức hợp tác kinh tế ở một trình độ tương đối cao, được tiến hành trên cơ sở các bên tham gia (công ti hoặc cá nhân trong nước hay nước ngoài) tự nguyện cùng nhau góp vốn để thành lập các công ti, xí nghiệp (gọi chung là công ti, xí nghiệp liên doanh) nhằm cùng sản xuất, cùng quản lí và chia lãi theo phương thức thoả thuận."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Đâu là lợi ích của KPI",
+    "answer": "Cho thấy thành quả hiện thời của một mục đích"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Hãy cho biết đâu không phải là hạn chế của ma trận SWOT:",
+    "answer": "SWOT phù hợp với làm việc và phân tích theo nhóm"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Lựa chọn chiến lược là",
+    "answer": "Việc xác định được chiến lược phù hợp nhất với điều kiện chủ quan và khách quan của doanh nghiệp."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Chiến lược đa quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp cải tiến, đổi mới sản phẩm, dịch vụ của mình nhằm tối đa hóa việc đáp ứng nhu cầu địa phương"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Bên cạnh việc lượng hóa các kết quả chiến lược, thực thi những hành động điều chỉnh để đảm bảo thực hiện các mục tiêu chiến lược; đánh giá chiến lược còn là quá trình làm gì?",
+    "answer": "Đo lường"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Đâu là ví dụ của mục tiêu",
+    "answer": "Đảm bảo giảm chi phí 25%"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Đáp án a & c"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Quy trình phân tích và lựa chọn chiến lược có thể được phân tách thành mấy giai đoạn",
+    "answer": "3"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Nhận định nào dưới đây là không chính xác về các cấp chiến lược trong doanh nghiệp?",
+    "answer": "Chiến lược ở các cấp của doanh nghiệp đều giống nhau"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Hệ Chiến lược xuyên quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp vừa giảm chi phí nhưng đồng thời cũng quan tâm đến nhu cầu, đặc thù của thị trường đến tính thích ứng của sản phẩm/dịch vụ với nhu cầu địa phương."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trong ma trận SWOT, chiến lược ST được hiều là",
+    "answer": "Tận dụng điểm mạnh bên trong DN nhằm giảm bớt tác động của các nguy cơ bên ngoài."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Trong chiến lược chi phí thấp, tiêu chí nào dưới đây được xếp theo thứ tự ưu tiên nhất",
+    "answer": "Đổi mới"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Chính sách marketing trong thực thi chiến lược không bao gồm những hoạt động nào dưới đây:",
+    "answer": "Nghiên cứu ra sản phẩm mới"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Trong ma trận SPACE, nếu vecto rơi vào ô thận trọng thì doanh nghiệp cần:",
+    "answer": "Đa dạng hóa đồng tâm"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Quá trình quản trị chiến lược gồm mấy giai đoạn chính:",
+    "answer": "3"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Chiến lược quốc tế là loại hình chiến lược mà",
+    "answer": "Sản phẩm của doanh nghiệp được thiết kế, phát triển, sản xuất và tiêu thụ ở thị trường nội địa rồi được ra nước ngoài với những thích ứng không đáng kể"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Việc giải quyết xung đột nên diễn ra",
+    "answer": "Càng sớm càng tốt"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Các cản trở sự điều chỉnh hợp lý chiến lược có thể ở các cấp",
+    "answer": "Doanh nghiệp, đơn vị cơ sở, bộ phận chức năng và cá nhân"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Đâu là ví dụ của mục tiêu",
+    "answer": "Tăng lợi nhuận 10% năm tớ"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Các nội dung nào sau đây KHÔNG phải là yêu cầu đối với đánh giá chiến lược",
+    "answer": "Xây dựng cơ cấu tổ chức bộ máy"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Chiến lược phát triển sản phẩm"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Có bao nhiêu nguyên tắc chung cho việc đánh giá chiến lược",
+    "answer": "4"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Chi nhánh sở hữu toàn bộ",
+    "answer": "Là một hình thức thâm nhập thị trường nước ngoài thông qua hình thức đầu tư, trong đó công ty sẽ thiết lập một chi nhánh ở nước sở tại, do công ty sở hữu 100% vốn và kiểm soát hoàn toàn."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Có bao nhiêu nguyên tắc chung cho việc đánh giá chiến lược",
+    "answer": "4"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Cấu trúc tổ chức theo sản phẩm được áp dụng tốt nhất khi doanh nghiệp:",
+    "answer": "Có nhiều loại sản phẩm khác nhau"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Sơ đồ cấu trúc tổ chức dưới là:",
+    "answer": "Cấu trúc theo ma trận"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Chiến lược toàn cầu hóa là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp giữ nguyên các sản phẩm, dịch vụ của mình ở tất cả các khu vực thị trường khác nhau Chiến lược tận dụng lợi thế về chi phí"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Trong giai đoạn lựa chọn chiến lược, nhà hoạch định chiến lược có thể vận dụng ma trận:",
+    "answer": "QSPM"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Phân tích chiến lược được hiểu là",
+    "answer": "Hoạt động nhằm hình thành các phương án chiến lược khác nhau"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Các nội dung nào sau đây KHÔNG phải là yêu cầu đối với đánh giá chiến lược",
+    "answer": "Kiểm tra không tập trung vào những điểm thiết yếu"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Khung đánh giá chiến lược bao gồm:",
+    "answer": "Đánh giá lại các vấn đề cơ bản của chiến lược, đo lường và so sánh kết quả, thực hiện các điều chỉnh"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Mua bán quyền sở hữu công nghiệp",
+    "answer": "Là việc tổ chức, cá nhân nắm độc quyền sử dụng một đối tượng sở hữu công nghiệp (bên giao) cho phép tổ chức cá nhân tổ chức khác (bên nhận) sử dụng đối tượng sở hữu công nghiệp đó."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Ma trận BCG được xây dựng gồm 2 trục, trong đó trục hoành là:",
+    "answer": "Thị phần tương đối"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Trong ma trận SWOT, chiến lược WO được hiều là",
+    "answer": "Tận dụng các cơ hội bên ngoài để khắc phục điểm yếu bên trong DN."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Yếu tố nào KHÔNG thuộc mô hình kim cương của M. Porter",
+    "answer": "Loại sản phẩm mà doanh nghiệp cung cấp. "
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Ma trận SPACE được xây dựng với:",
+    "answer": "2 trục, dựa trên 4 yếu tố bên trong và bên ngoài"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Chiến lược xuyên quốc gia là loại hình chiến lược mà",
+    "answer": "Doanh nghiệp vừa giảm chi phí nhưng đồng thời cũng quan tâm đến nhu cầu, đặc thù của thị trường đến tính thích ứng của sản phẩm/dịch vụ với nhu cầu địa phương."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Chức năng đánh giá và điều chỉnh chiến lược (cấp DN hoặc cấp kinh doanh) có thể bao gồm các hoạt động dưới đây TRỪ:",
+    "answer": "Xây dựng hệ thống đánh giá nhân sự"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Chiến lược chi phí thấp là chiến lược",
+    "answer": "Cấp đơn vị kinh doanh"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Nhượng quyền thương mại",
+    "answer": "Là hoạt động thương mại, theo đó bên nhượng quyền cho phép và yêu cầu bên nhận quyền tự mình tiến hành việc mua bán hàng hoá, cung ứng dịch vụ theo các điều kiện nhất định. "
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Nhận định nào dưới đây là không chính xác:",
+    "answer": "Chiến lược cấp chức năng cũng tương tự như chiến lược cấp SBU"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Hệ thống cấp chiến lược của doanh nghiệp gồm mấy chiến lược chủ yếu",
+    "answer": "3"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Chức năng đánh giá và điều chỉnh chiến lược (cấp DN hoặc cấp kinh doanh) có thể bao gồm các hoạt động dưới đây TRỪ:",
+    "answer": "Xây dựng KPI"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Đánh giá chiến lược là khâu nào của quá trình quản trị chiến lược",
+    "answer": "Khâu cuối cùng"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Thôn tính là chiến lược",
+    "answer": "A và B sai"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Trong lựa chọn chiến lược chi phí thấp, yếu tố nào có mức độ ưu tiên cao nhất",
+    "answer": "Lợi thế về quy mô sản xuất"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Việc giải quyết xung đột nên diễn ra",
+    "answer": "Càng sớm càng tốt"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Đâu là ví dụ chính xác nhất của mục tiêu",
+    "answer": "Tăng lợi nhuận 10% năm tớ"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Đâu là lợi ích của CSF",
+    "answer": "Đảm bảo sự thành công của chiến lược"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Chiến lược cấp doanh nghiệp gồm",
+    "answer": "Chiến lược thâm nhập thị trường"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Cấu trúc tổ chức theo sản phẩm được áp dụng tốt nhất khi doanh nghiệp:",
+    "answer": "Có nhiều loại sản phẩm khác nhau"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Chức năng đánh giá và điều chỉnh chiến lược (cấp DN hoặc cấp kinh doanh) có thể bao gồm các hoạt động dưới đây TRỪ:",
+    "answer": "Xây dựng KPI"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Nội dung nào sau đây KHÔNG thuộc giai đoạn Thực thi chiến lược:",
+    "answer": "Xây dựng các mục tiêu dài hạn"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Để xây dựng ma trận SWOT cần thực hiện mấy bước:",
+    "answer": "8"
+  }
+]

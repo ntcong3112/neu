@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Thời gian có hiệu lực của bảo đảm dự thầu bằng thời gian có hiệu lực của hồ sơ dự thầu, hồ sơ đề xuất:",
+    "answer": "Cộng thêm 30 ngày"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Chọn phương án ĐÚNG. Biện pháp tuyên bố vô hiệu đối với các quyết định của bên mời thầu trong đấu thầu lựa chọn nhà đầu tư do người có thẩm quyền quyết định trong trường hợp:",
+    "answer": "Phát hiện các quyết định của bên mời thầu không phù hợp quy định của pháp luật về đấu thầu và pháp luật liên quan."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Thời gian phê duyệt kết quả lựa chọn nhà thầu trong quy trình chào hàng cạnh tranh thông thường là:",
+    "answer": "Tối đa 05 ngày làm việc, kể từ khi nhận được tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu của bên mời thầu và báo cáo thẩm định của đơn vị thẩm định."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Chọn phương án SAI. Trong đấu thầu lựa chọn nhà thầu, hủy thầu được thực hiện trong trường hợp:",
+    "answer": "Nhà thầu đang trong quá trình tham dự thầu nhưng bị sáp nhập hoặc chia tách."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Báo cáo thẩm định kết quả lựa chọn nhà thầu trong đấu thầu rộng rãi gói thầu hỗn hợp theo phương thức 1 giai đoạn, 1 túi hồ sơ gồm các nội dung:",
+    "answer": "Khái quát về nội dung chính của dự án và gói thầu, cơ sở pháp lý đối với việc tổ chức lựa chọn nhà thầu; Tóm tắt toàn bộ quá trình lựa chọn nhà thầu kèm theo hồ sơ tài liệu đã báo cáo theo quy định; Tóm tắt đề xuất, kiến nghị của bên mời thầu về kết quả lựa chọn nhà thầu; Nhận xét và ý kiến của đơn vị thẩm định; Các ý kiến khác (nếu có)."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, thời gian gửi văn bản (đồng thời theo đường bưu điện và fax, thư điện tử hoặc gửi trực tiếp) sửa đổi hồ sơ yêu cầu tối thiểu là:",
+    "answer": "10 ngày trước ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu quốc tế, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả lựa chọn nhà đầu tư, thời gian đánh giá hồ sơ đề xuất tối đa là:",
+    "answer": "60 ngày"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Thủ tục tổ chức lựa chọn nhà thầu theo quy trình đấu thầu rộng rãi đối với gói thầu mua sắm hàng hóa phương thức một giai đoạn, một túi hồ sơ gồm các bước:",
+    "answer": "Mời thầu; Phát hành sửa đổi, làm rõ hồ sơ mời thầu; Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu; Mở thầu."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Cá nhân, tổ chức có hành vi không tiến hành thương thảo hợp đồng trong lựa chọn nhà thầu, đàm phán sơ bộ hợp đồng trong lựa chọn nhà đầu tư sẽ bị xử phạt vi phạm hành chính với mức phạt:",
+    "answer": "Phạt tiền từ 10.000.000 đến 15.000.000 đồng"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu quốc tế lựa chọn nhà đầu tư, kể từ ngày đầu tiên phát hành hồ sơ mời thầu cho đến ngày có thời điểm đóng thầu, Thời gian chuẩn bị hồ sơ dự thầu tối thiểu là:",
+    "answer": "90 ngày"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, thời gian đàm phán, hoàn thiện hợp đồng tối đa là:",
+    "answer": "120 ngày kể từ ngày phê duyệt kết quả lựa chọn nhà đầu tư"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Hợp đồng với nhà thầu:",
+    "answer": "Việc thanh toán căn cứ theo dự toán cũng như các quy định, hướng dẫn hiện hành của Nhà nước về định mức, đơn giá"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Khi giải quyết kiến nghị về kết quả lựa chọn nhà thầu, thời hạn chủ đầu tư/bên mời thầu phải có văn bản giải quyết kiến nghị gửi nhà thầu là:",
+    "answer": "07 ngày làm việc kể từ ngày nhận được văn bản kiến nghị của nhà thầu."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Chọn phương án SAI. Trong đấu thầu lựa chọn nhà thầu, hủy thầu được thực hiện trong trường hợp:",
+    "answer": "Tại thời điểm đóng thầu đối với gói thầu áp dụng hình thức đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, có ít hơn 03 nhà thầu nộp hồ sơ dự thầu, hồ sơ đề xuất"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà thầu, nhà đầu tư là tổ chức có tư cách hợp lệ phải đáp ứng những điều kiện sau đây:",
+    "answer": "Có đăng ký thành lập, hoạt động do cơ quan có thẩm quyền của Việt Nam cấp"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, thời gian sửa đổi hồ sơ yêu cầu tối thiểu là:",
+    "answer": "10 ngày trước ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Đối với lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất, nhà đầu tư được đề nghị lựa chọn khi đáp ứng đầy đủ các điều kiện sau đây:",
+    "answer": "Có giá thấp nhất"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Nhà đầu tư không được hoàn trả bảo đảm thực hiện hợp đồng trong trường hợp sau đây:",
+    "answer": "Vi phạm thỏa thuận trong hợp đồng"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Chỉ định thầu đối với nhà đầu tư được áp dụng trong trường hợp sau đây:",
+    "answer": "Dự án do nhà đầu tư đề xuất đáp ứng yêu cầu thực hiện dự án khả thi và hiệu quả cao nhất bao gồm dự án PPP, dự án đầu tư có sử dụng đất có mục tiêu bảo vệ chủ quyền quốc gia, biên giới quốc gia, hải đảo"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Thời gian gửi văn bản (đồng thời theo đường bưu điện và fax, thư điện tử hoặc gửi trực tiếp) sửa đổi hồ sơ mời sơ tuyển đến các nhà đầu tư đã nhận hồ sơ mời sơ tuyển tối thiểu là:",
+    "answer": "10 ngày trước ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Phải áp dụng hình thức đấu thầu rộng rãi quốc tế trong lựa chọn nhà đầu tư đối với:",
+    "answer": "Thực hiện dự án PPP"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Trong lựa chọn nhà đầu tư đối với dự án PPP nhóm C, thời gian thẩm định kết quả lựa chọn nhà đầu tư tối đa là:",
+    "answer": "10 ngày, kể từ ngày nhận được đầy đủ hồ sơ trình duyệt"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Áp dụng quy trình chỉ định thầu đối với gói thầu cung cấp dịch vụ công có giá gói thầu là:",
+    "answer": "Không quá 500 triệu đồng"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Việc mở hồ sơ đề xuất về kỹ thuật trong tổ chức lựa chọn nhà thầu theo quy trình đấu thầu rộng rãi gói thầu hỗn hợp phương thức 1 giai đoạn 2 túi hồ sơ phải thực hiện như sau:",
+    "answer": "Tiến hành công khai và bắt đầu trong vòng 01 giờ kể từ thời điểm đóng thầu, không phụ thuộc sự có mặt hay vắng mặt của nhà thầu."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Minh bạch"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Gói thầu xây lắp có giá ở mức nào thì chỉ cho phép nhà thầu là doanh nghiệp cấp nhỏ và siêu nhỏ theo quy định của pháp luật về doanh nghiệp tham gia đấu thầu:",
+    "answer": "Giá gói thầu không quá 05 tỷ đồng"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng với nhà thầu được coi là đã thanh lý trong thời hạn:",
+    "answer": "45 ngày, kể từ ngày các bên tham gia hợp đồng hoàn thành các trách nhiệm trong biên bản thanh lý hợp đồng"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Cơ sở để thanh toán cho nhà thầu là:",
+    "answer": "Giá hợp đồng và các điều khoản cụ thể về thanh toán được ghi trong hợp đồng"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà thầu, nhà đầu tư là tổ chức có tư cách hợp lệ phải đáp ứng những điều kiện sau đây:",
+    "answer": "Có đăng ký thành lập, hoạt động do cơ quan có thẩm quyền của nước theo quy định của hồ sơ mời thầu, hồ sơ yêu cầu"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, thời gian có hiệu lực của hồ sơ dự thầu, hồ sơ đề xuất tối đa là:",
+    "answer": "320 ngày, kể từ ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Người có thẩm quyền xử lý tình huống đối với lựa chọn nhà thầu trong mua sắm thường xuyên là:",
+    "answer": "Bên mời thầu"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Chọn phương án ĐÚNG. Biện pháp tuyên bố vô hiệu đối với các quyết định của chủ đầu tư, bên mời thầu trong đấu thầu lựa chọn nhà thầu do người có thẩm quyền quyết định trong trường hợp:",
+    "answer": "Phát hiện các quyết định của chủ đầu tư, bên mời thầu không phù hợp quy định của pháp luật về đấu thầu và pháp luật liên quan."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Việc mở hồ sơ đề xuất về tài chính trong tổ chức lựa chọn nhà thầu theo quy trình đấu thầu rộng rãi gói thầu hỗn hợp phương thức 1 giai đoạn 2 túi hồ sơ phải thực hiện như sau:",
+    "answer": "Chỉ tiến hành mở hồ sơ đề xuất về tài chính của nhà thầu có tên trong danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật trước sự chứng kiến của đại diện các nhà thầu tham dự lễ mở hồ sơ đề xuất về tài chính, các nhà thầu bắt buộc phải có mặt."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu trong nước, trường hợp cần làm rõ hồ sơ mời thầu thì nhà đầu tư phải gửi văn bản đề nghị đến bên mời thầu tối thiểu:",
+    "answer": "07 ngày làm việc trước ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Chọn phương án SAI. Nội dung giám sát, theo dõi hoạt động đấu thầu lựa chọn nhà thầu trong việc tuân thủ quy định pháp luật về đấu thầu bao gồm:",
+    "answer": "Việc ban hành các văn bản hướng dẫn, chỉ đạo thực hiện công tác lựa chọn nhà đầu tư, phân cấp trong lựa chọn nhà đầu tư."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Thời gian đánh giá hồ sơ đề xuất trong quy trình chào hàng cạnh tranh thông thường là:",
+    "answer": "Tối đa 20 ngày, kể từ ngày mở thầu đến khi bên mời thầu có tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu kèm theo báo cáo kết quả đánh giá hồ sơ đề xuất."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Sau khi đánh giá gói thầu áp dụng phương pháp kết hợp giữa kỹ thuật và giá nếu có nhiều nhà thầu được đánh giá tốt nhất, ngang nhau thì xử lý như sau:",
+    "answer": "Trao thầu cho nhà thầu có giá đề nghị trúng thầu thấp hơn."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà thầu, giá trị bảo đảm dự thầu được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu theo một mức xác định:",
+    "answer": "Từ 1% đến 3% giá gói thầu"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà thầu, thời gian phê duyệt kế hoạch lựa chọn nhà thầu:",
+    "answer": "Tối đa là 05 ngày làm việc, kể từ ngày nhận được báo cáo thẩm định"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà thầu, thời hạn gửi văn bản thông báo kết quả lựa chọn nhà thầu cho các nhà thầu tham dự thầu theo đường bưu điện, fax là:",
+    "answer": "05 ngày làm việc, kể từ ngày kết quả lựa chọn nhà thầu được phê duyệt"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Kể từ ngày nhận được đầy đủ hồ sơ trình duyệt, đối với từng nội dung: Kế hoạch lựa chọn nhà đầu tư, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, kết quả sơ tuyển, danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật và kết quả lựa chọn nhà đầu tư, thời gian thẩm định tối đa là:",
+    "answer": "30 ngày"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với hợp đồng với nhà thầu, loại hợp đồng theo đơn giá điều chỉnh, thời điểm để tính toán đơn giá gốc để làm cơ sở xác định chênh lệch giữa đơn giá trúng thầu và đơn giá điều chỉnh, thông thường xác định tại thời điểm:",
+    "answer": "28 ngày trước thời điểm đóng thầu"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Hoạt động đấu thầu nào sau đây KHÔNG PHẢI thực hiện Luật Đấu thầu:",
+    "answer": "Dự án mua sắm tài sản của Công ty cổ phần V có sử dụng 25% vốn nhà nước trong tổng mức đầu tư của dự án là 500 tỷ đồng"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Thủ tục Mở và Đánh giá hồ sơ về tài chính trong quy trình đấu thầu rộng rãi đối với gói thầu mua sắm hàng hóa theo phương thức một giai đoạn, hai túi hồ sơ là:",
+    "answer": "Mở hồ sơ đề xuất về tài chính của các nhà thầu trong danh sách được duyệt; Kiểm tra, đánh giá tính hợp lệ của hồ sơ đề xuất về tài chính; Đánh giá chi tiết hồ sơ đề xuất về tài chính; Xếp hạng nhà thầu."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu trong nước, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả lựa chọn nhà đầu tư, thời gian đánh giá hồ sơ dự thầu tối đa là:",
+    "answer": "90 ngày"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Sơ tuyển trong nước bắt buộc áp dụng đối với các trường hợp:",
+    "answer": "Dự án đầu tư có sử dụng đất mà sơ bộ tổng chi phí thực hiện dự án (không bao gồm chi phí bồi thường, giải phóng mặt bằng) dưới 120.000.000.000 (một trăm hai mươi tỷ) đồng."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Trong việc thanh toán cho nhà thầu:",
+    "answer": "Việc thanh toán căn cứ theo dự toán"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với việc thực hiện hợp đồng dự án, khi điều chỉnh giá, phí hàng hóa, dịch vụ và các khoản thu (nếu có), doanh nghiệp dự án (nhà đầu tư trong trường hợp không thành lập doanh nghiệp dự án) phải thông báo trước:",
+    "answer": "30 ngày cho các đối tượng sử dụng hàng hóa, dịch vụ"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Hồ sơ trình thẩm định, phê duyệt hồ sơ mời thầu trong đấu thầu rộng rãi gói thầu hỗn hợp theo phương thức 1 giai đoạn, 1 túi hồ sơ gồm:",
+    "answer": "Tờ trình đề nghị phê duyệt hồ sơ mời thầu; Dự thảo hồ sơ mời thầu; Bản chụp các tài liệu: quyết định phê duyệt dự án, dự toán mua sắm, quyết định phê duyệt kế hoạch lựa chọn nhà thầu; Tài liệu khác có liên quan."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Chỉ định thầu đối với nhà đầu tư được áp dụng trong trường hợp sau đây:",
+    "answer": "Chỉ có một nhà đầu tư đăng ký và đáp ứng yêu cầu của hồ sơ mời sơ tuyển; chỉ có một nhà đầu tư trúng sơ tuyển"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Quy trình đấu thầu rộng rãi đối với gói thầu mua sắm hàng hóa theo phương thức hai giai đoạn một túi hồ sơ bao gồm các bước:",
+    "answer": "Chuẩn bị đấu thầu giai đoạn 1; Tổ chức đấu thầu giai đoạn 1; Chuẩn bị, tổ chức đấu thầu giai đoạn 2; Đánh giá hồ sơ dự thầu và thương thảo hợp đồng giai đoạn 2; Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu, hoàn thiện và ký kết hợp đồng."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Trong lựa chọn nhà đầu tư đối với dự án PPP nhóm C, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả lựa chọn nhà đầu tư, thời gian đánh giá hồ sơ dự thầu tối đa là:",
+    "answer": "30 ngày"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu trong nước, thời gian gửi văn bản sửa đổi hồ sơ mời thầu đến các nhà đầu tư đã nhận hồ sơ mời thầu tối thiểu là:",
+    "answer": "15 ngày"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Chọn phương án SAI. Trách nhiệm của cá nhân hoặc đơn vị giám sát, theo dõi hoạt động đấu thầu trong lựa chọn nhà đầu tư là phải:",
+    "answer": "Công bằng và hiệu quả kinh tế."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Chọn phương án SAI. Trách nhiệm của cá nhân hoặc đơn vị giám sát, theo dõi hoạt động đấu thầu trong lựa chọn nhà thầu là phải:",
+    "answer": "Công khai thông tin theo quy định."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Chào hàng cạnh tranh theo quy trình rút gọn áp dụng đối với trường hợp:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Nhà thầu, nhà đầu tư là tổ chức có tư cách hợp lệ phải đáp ứng điều kiện sau đây:",
+    "answer": "Có đăng ký thành lập, hoạt động do cơ quan có thẩm quyền của nước mà nhà thầu, nhà đầu tư đang hoạt động cấp"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Tìm phương án SAI. Điều kiện để xem xét giải quyết kiến nghị về các vấn đề trong quá trình lựa chọn nhà đầu tư là:",
+    "answer": "Chỉ được gửi đơn kiến nghị sau khi có thông báo kết quả lựa chọn nhà đầu tư."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà thầu, thời gian chuẩn bị hồ sơ đề xuất tối thiểu là:",
+    "answer": "05 ngày làm việc, kể từ ngày đầu tiên hồ sơ yêu cầu được phát hành đến ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày có thời điểm đóng thầu, thời gian có hiệu lực của hồ sơ dự thầu, hồ sơ đề xuất tối đa là:",
+    "answer": "320 ngày"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Kể từ ngày kết quả lựa chọn nhà đầu tư được phê duyệt, thời hạn bên mời thầu gửi văn bản thông báo kết quả lựa chọn nhà đầu tư đến các nhà đầu tư tham dự thầu theo đường bưu điện, fax không muộn hơn:",
+    "answer": "05 ngày làm việc"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Chi phí trong lựa chọn nhà thầu qua mạng bao gồm:",
+    "answer": "Chi phí tham gia hệ thống mạng đấu thầu quốc gia; chi phí nộp hồ sơ dự thầu, hồ sơ đề suất; chi phí nhà thầu trúng thầu; chi phí sử dụng hợp đồng điện tử và chi phí sử dụng hệ thống mua sắm điện tử."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Tìm phương án SAI. Điều kiện để xem xét giải quyết kiến nghị về kết quả lựa chọn nhà thầu là:",
+    "answer": "Chỉ được gửi đơn kiến nghị đến chủ đầu tư/bên mời thầu trong thời hạn 05 ngày kể từ ngày thông báo kết quả lựa chọn nhà thầu."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, thời hạn bên mời thầu gửi văn bản thông báo kết quả lựa chọn nhà đầu tư đến các nhà đầu tư tham dự thầu theo đường bưu điện, fax không muộn hơn:",
+    "answer": "05 ngày làm việc, kể từ ngày kết quả lựa chọn nhà đầu tư được phê duyệt"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, giá trị bảo đảm dự thầu được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu theo một mức xác định:",
+    "answer": "Từ 0,5% đến 1,5% tổng mức đầu tư"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Thời gian có hiệu lực của bảo đảm dự thầu bằng thời gian có hiệu lực của hồ sơ dự thầu, hồ sơ đề xuất:",
+    "answer": "Cộng thêm 30 ngày"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Nhà thầu có hành vi vi phạm về việc sử dụng lao động trong đấu thầu lựa chọn nhà thầu thì tùy mức độ vi phạm sẽ bị cấm tham gia hoạt động đấu thầu trong thời hạn:",
+    "answer": "Từ 01 năm đến 05 năm"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với hợp đồng xây dựng sử dụng vốn nhà nước, thời hạn quyết toán hợp đồng, kể từ ngày nghiệm thu hoàn thành toàn bộ công việc của hợp đồng, bao gồm cả phần công việc phát sinh (nếu có) không vượt quá:",
+    "answer": "60 ngày"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Trong hợp đồng với nhà đầu tư:",
+    "answer": "Tất cả thành viên liên danh phải trực tiếp ký, đóng dấu (nếu có) vào văn bản hợp đồng"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Hợp đồng với nhà thầu:",
+    "answer": "Việc thanh toán căn cứ theo dự toán cũng như các quy định, hướng dẫn hiện hành của Nhà nước về định mức, đơn giá"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Đối với lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất, nhà đầu tư được đề nghị lựa chọn khi đáp ứng đầy đủ các điều kiện sau đây:",
+    "answer": "Có giá thấp nhất"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà thầu, nhà đầu tư là tổ chức có tư cách hợp lệ phải đáp ứng những điều kiện sau đây:",
+    "answer": "Có đăng ký thành lập, hoạt động do cơ quan có thẩm quyền của nước theo quy định của hồ sơ mời thầu, hồ sơ yêu cầu"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Chỉ định thầu đối với nhà đầu tư được áp dụng trong trường hợp sau đây:",
+    "answer": "Dự án do nhà đầu tư đề xuất đáp ứng yêu cầu thực hiện dự án khả thi và hiệu quả cao nhất bao gồm dự án PPP, dự án đầu tư có sử dụng đất có mục tiêu bảo vệ chủ quyền quốc gia, biên giới quốc gia, hải đảo"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Nhà đầu tư tham dự thầu được đánh giá là độc lập về tài chính với cơ quan nhà nước có thẩm quyền, bên mời thầu nếu:",
+    "answer": "Không có cổ phần hoặc vốn góp trên 30% của nhau"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Cạnh tranh"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Thỏa thuận"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả sơ tuyển, thời gian đánh giá hồ sơ dự sơ tuyển tối đa là:",
+    "answer": "30 ngày"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Quy trình chào hàng cạnh tranh thông thường gồm các bước sau:",
+    "answer": "Chuẩn bị lựa chọn nhà thầu; tổ chức lựa chọn nhà thầu; Đánh giá các hồ sơ đề xuất và thương thảo hợp đồng; Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu; Hoàn thiện và ký kết hợp đồng."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Chọn phương án SAI. Nội dung giám sát, theo dõi hoạt động đấu thầu lựa chọn nhà thầu trong việc tuân thủ quy định pháp luật về đấu thầu bao gồm:",
+    "answer": "Việc ban hành các văn bản hướng dẫn, chỉ đạo thực hiện công tác lựa chọn nhà đầu tư, phân cấp trong lựa chọn nhà đầu tư."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Hoạt động đấu thầu nào sau đây PHẢI thực hiện Luật Đấu thầu:",
+    "answer": "Dự án đầu tư phát triển của doanh nghiệp nhà nước"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, thời gian chuẩn bị hồ sơ đề xuất tối thiểu là:",
+    "answer": "30 ngày, kể từ ngày đầu tiên phát hành hồ sơ yêu cầu cho đến ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu trong nước, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả lựa chọn nhà đầu tư, thời gian đánh giá hồ sơ dự thầu tối đa là:",
+    "answer": "90 ngày"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà thầu, nhà đầu tư là tổ chức có tư cách hợp lệ phải đáp ứng những điều kiện sau đây:",
+    "answer": "Có đăng ký thành lập, hoạt động do cơ quan có thẩm quyền của Việt Nam cấp"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Chọn phương án ĐÚNG. Đình chỉ cuộc thầu, không công nhận kết quả lựa chọn nhà thầu được áp dụng trong trường hợp:",
+    "answer": "Có bằng chứng cho thấy tổ chức, cá nhân tham gia hoạt động đấu thầu có hành vi vi phạm pháp luật về đấu thầu hoặc các quy định khác của pháp luật liên quan dẫn đến không đảm bảo mục tiêu của công tác đấu thầu là cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế hoặc làm sai lệch kết quả lựa chọn nhà đầu thầu."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, thời gian sửa đổi hồ sơ yêu cầu tối thiểu là:",
+    "answer": "10 ngày trước ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Nhà thầu tham dự đấu thầu với tư cách cá nhân khi chưa đủ điều kiện quy định sẽ bị xử phạt vi phạm hành chính với mức phạt:",
+    "answer": "Phạt tiền từ 10.000.000 đến 15.000.000 đồng"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Trường hợp sau khi lựa chọn danh sách ngắn, chỉ có ít hơn 03 nhà thầu đáp ứng yêu cầu thì căn cứ điều kiện cụ thể của gói thầu xử lý theo một trong hai cách sau:",
+    "answer": "Tiến hành lựa chọn bổ sung nhà thầu vào danh sách ngắn hoặc cho phép phát hành ngay hồ sơ mời thầu cho nhà thầu trong danh sách ngắn."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án để xây dựng công trình hạ tầng; sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án chuyển giao cho cơ quan nhà nước có thẩm quyền và được quyền kinh doanh công trình đó trong một thời hạn nhất định là:",
+    "answer": "Hợp đồng Xây dựng - Chuyển giao - Kinh doanh (gọi tắt là hợp đồng BTO)"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Hiệu quả kinh tế"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Chọn phương án ĐÚNG. Đình chỉ cuộc thầu, không công nhận kết quả lựa chọn nhà đầu tư được áp dụng trong trường hợp:",
+    "answer": "Có bằng chứng cho thấy tổ chức, cá nhân tham gia đấu thầu có hành vi vi phạm pháp luật về đấu thầu hoặc các quy định khác của pháp luật liên quan dẫn đến không đảm bảo mục tiêu của công tác đấu thầu, làm sai lệch kết quả lựa chọn nhà đầu tư."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Minh bạch"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, căn cứ quy mô, tính chất của dự án, giá trị bảo đảm thực hiện hợp đồng được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu theo mức xác định từ:",
+    "answer": "1% đến 3% tổng mức đầu tư của dự án"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Tiêu chuẩn đánh giá hồ sơ dự thầu đối với gói thầu mua sắm hàng hóa khi lập hồ sơ mời thầu theo quy trình đấu thầu rộng rãi phương thức một giai đoạn, một túi hồ sơ là:",
+    "answer": "Cả 3 đáp án A, B, C."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Trong lựa chọn nhà đầu tư đối với dự án PPP nhóm C, thời gian thẩm định kết quả lựa chọn nhà đầu tư tối đa là:",
+    "answer": "10 ngày, kể từ ngày nhận được đầy đủ hồ sơ trình duyệt"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Hồ sơ trình thẩm định, phê duyệt hồ sơ mời thầu trong đấu thầu rộng rãi gói thầu hỗn hợp theo phương thức 1 giai đoạn, 1 túi hồ sơ gồm:",
+    "answer": "Tờ trình đề nghị phê duyệt hồ sơ mời thầu; Dự thảo hồ sơ mời thầu; Bản chụp các tài liệu: quyết định phê duyệt dự án, dự toán mua sắm, quyết định phê duyệt kế hoạch lựa chọn nhà thầu; Tài liệu khác có liên quan."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Áp dụng hình thức đấu thầu rộng rãi trong nước để lựa chọn nhà đầu tư đối với:",
+    "answer": "Thực hiện dự án PPP"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà thầu, thời hạn gửi văn bản thông báo kết quả lựa chọn nhà thầu cho các nhà thầu tham dự thầu theo đường bưu điện, fax là:",
+    "answer": "05 ngày làm việc, kể từ ngày kết quả lựa chọn nhà thầu được phê duyệt"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà thầu, nhà đầu tư là cá nhân có tư cách hợp lệ phải đáp ứng những điều kiện sau đây:",
+    "answer": "Có năng lực hành vi dân sự đầy đủ theo quy định pháp luật của nước được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Chỉ định thầu đối với nhà đầu tư được áp dụng trong trường hợp sau đây:",
+    "answer": "Chỉ có một nhà đầu tư có khả năng thực hiện do liên quan đến sở hữu trí tuệ, bí mật thương mại, công nghệ hoặc thu xếp vốn"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng với nhà thầu:",
+    "answer": "Nội dung của hợp đồng phải được lập theo mẫu quy định trong hồ sơ mời thầu, hồ sơ yêu cầu"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với hợp đồng xây dựng sử dụng vốn nhà nước, thời hạn quyết toán hợp đồng không vượt quá 60 ngày, kể từ ngày nghiệm thu hoàn thành toàn bộ công việc của hợp đồng, bao gồm cả phần công việc phát sinh (nếu có). Trường hợp hợp đồng xây dựng có quy mô lớn thì được phép kéo dài thời hạn thực hiện quyết toán hợp đồng nhưng không vượt quá:",
+    "answer": "120 ngày"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Trong lựa chọn nhà đầu tư đối với dự án PPP nhóm C, kể từ ngày đầu tiên phát hành hồ sơ mời sơ tuyển cho đến ngày có thời điểm đóng thầu, thời gian chuẩn bị hồ sơ dự sơ tuyển tối thiểu là:",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Tìm phương án SAI. Điều kiện để xem xét giải quyết kiến nghị về kết quả lựa chọn nhà đầu tư là:",
+    "answer": "Chỉ được gửi đơn kiến nghị đến bên mời thầu trong thời hạn 03 ngày kể từ ngày thông báo kết quả lựa chọn nhà đầu tư."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Nhà đầu tư không được hoàn trả bảo đảm thực hiện hợp đồng trong trường hợp sau đây:",
+    "answer": "Vi phạm thỏa thuận trong hợp đồng"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày nhận được báo cáo thẩm định, thời gian phê duyệt kế hoạch lựa chọn nhà đầu tư tối đa là:",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà đầu tư không được hoàn trả bảo đảm thực hiện hợp đồng trong trường hợp sau đây:",
+    "answer": "Từ chối ký kết hợp đồng"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Chọn phương án SAI. Trong đấu thầu lựa chọn nhà thầu, hủy thầu được thực hiện trong trường hợp:",
+    "answer": "Nhà thầu đang trong quá trình tham dự thầu nhưng bị sáp nhập hoặc chia tách."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Kiểm tra tính hợp lệ của hồ sơ dự thầu trong quy trình đấu thầu rộng rãi gói thầu mua sắm hàng hóa phương thức 1 giai đoạn, 1 túi hồ sơ bao gồm:",
+    "answer": "Kiểm tra số lượng bản gốc, bản chụp hồ sơ dự thầu; Kiểm tra các thành phần của hồ sơ dự thầu; kiểm tra sự thống nhất nội dung giữa bản gốc và bản chụp để phục vụ quá trình đánh giá chi tiết hồ sơ dự thầu."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Sơ tuyển trong nước bắt buộc áp dụng đối với các trường hợp:",
+    "answer": "Dự án đầu tư có sử dụng đất mà sơ bộ tổng chi phí thực hiện dự án (không bao gồm chi phí bồi thường, giải phóng mặt bằng) dưới 120.000.000.000 (một trăm hai mươi tỷ) đồng."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Thủ tục đánh giá hồ sơ dự thầu trong quy trình đấu thầu rộng rãi đối với gói thầu dịch vụ phi tư vấn phương thức một giai đoạn, một túi hồ sơ gồm các bước sau:",
+    "answer": "Kiểm tra, đánh giá tính hợp lệ của hồ sơ dự thầu; Đánh giá chi tiết hồ sơ dự thầu; Xếp hạng nhà thầu."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày đầu tiên phát hành hồ sơ yêu cầu cho đến ngày có thời điểm đóng thầu, thời gian chuẩn bị hồ sơ đề xuất tối thiểu là 30 ngày",
+    "answer": "30 ngày"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Thủ tục tổ chức lựa chọn nhà thầu theo quy trình đấu thầu rộng rãi đối với gói thầu mua sắm hàng hóa phương thức một giai đoạn, một túi hồ sơ gồm các bước:",
+    "answer": "Mời thầu; Phát hành sửa đổi, làm rõ hồ sơ mời thầu; Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu; Mở thầu."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Sau khi đánh giá gói thầu áp dụng phương pháp kết hợp giữa kỹ thuật và giá nếu có nhiều nhà thầu được đánh giá tốt nhất, ngang nhau thì xử lý như sau:",
+    "answer": "Trao thầu cho nhà thầu có giá đề nghị trúng thầu thấp hơn."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Quy trình đấu thầu rộng rãi đối với gói thầu hỗn hợp theo phương thức hai giai đoạn hai túi hồ sơ bao gồm các bước:",
+    "answer": "Chuẩn bị đấu thầu giai đoạn 1; Tổ chức đấu thầu giai đoạn 1; Chuẩn bị, tổ chức đấu thầu giai đoạn 2; Đánh giá, hồ sơ dự thầu và thương thảo hợp đồng giai đoạn 2; Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu; Hoàn thiện và ký kết hợp đồng."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với hợp đồng với nhà thầu, loại hợp đồng theo đơn giá điều chỉnh, thời điểm để tính toán đơn giá gốc để làm cơ sở xác định chênh lệch giữa đơn giá trúng thầu và đơn giá điều chỉnh, thông thường xác định tại thời điểm:",
+    "answer": "28 ngày trước thời điểm đóng thầu"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Cá nhân, tổ chức có hành vi không thực hiện sơ tuyển trước khi lập kế hoạch lựa chọn nhà đầu tư sẽ bị xử phạt vi phạm hành chính với mức phạt:",
+    "answer": "Phạt tiền từ 10.000.000 đến 15.000.000 đồng"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Ủy ban nhân dân cấp tỉnh có thể ủy quyền cho",
+    "answer": "Ủy ban nhân dân cấp huyện ký kết và thực hiện hợp đồng dự án nhóm B và nhóm C"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu trong nước lựa chọn nhà thầu, trường hợp sau khi ưu đãi nếu các hồ sơ dự thầu, hồ sơ đề xuất xếp hạng ngang nhau thì ưu tiên xếp hạng cao hơn cho:",
+    "answer": "Nhà thầu ở địa phương nơi triển khai gói thầu"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Trong đấu thầu lựa chọn nhà đầu tư, sơ tuyển trong nước bắt buộc áp dụng đối với các trường hợp:",
+    "answer": "Dự án PPP nhóm C theo quy định pháp luật về đầu tư công"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Tìm phương án SAI. Nội dung mua sắm thường xuyên (trừ trường hợp mua sắm trang thiết bị, phương tiện đặc thù chuyên dùng cho quốc phòng, an ninh) gồm:",
+    "answer": "Vật liệu xây dựng"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Tổ chức, cá nhân vi phạm pháp luật về đấu thầu và quy định khác của pháp luật liên quan thì tùy theo tính chất, mức độ vi phạm sẽ bị xử lý theo các hình thức trách nhiệm pháp lý:",
+    "answer": "Xử lý kỷ luật, xử phạt vi phạm hành chính, bồi thường thiệt hại, truy cứu trách nhiệm hình sự cấm tham gia hoạt động đấu thầu."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án (nếu có) để xây dựng công trình hạ tầng; sau khi hoàn thành công trình, nhà đầu tư chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền và được thanh toán bằng quỹ đất, trụ sở làm việc, tài sản kết cấu hạ tầng hoặc quyền kinh doanh, khai thác công trình, dịch vụ để thực hiện Dự án khác là:",
+    "answer": "Hợp đồng Xây dựng - Chuyển giao (gọi tắt là hợp đồng BT)"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà thầu, thời gian phê duyệt kế hoạch lựa chọn nhà thầu:",
+    "answer": "Tối đa là 05 ngày làm việc, kể từ ngày nhận được báo cáo thẩm định"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Trong lựa chọn nhà đầu tư đối với dự án PPP nhóm C, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả lựa chọn nhà đầu tư, thời gian đánh giá hồ sơ dự thầu tối đa là:",
+    "answer": "30 ngày"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Áp dụng quy trình chỉ định thầu đối với gói thầu cung cấp dịch vụ công có giá gói thầu là:",
+    "answer": "Không quá 500 triệu đồng"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Khi giải quyết kiến nghị về kết quả lựa chọn nhà thầu, thời hạn chủ đầu tư/bên mời thầu phải có văn bản giải quyết kiến nghị gửi nhà thầu là:",
+    "answer": "07 ngày làm việc kể từ ngày nhận được văn bản kiến nghị của nhà thầu."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Thời gian chuẩn bị hồ sơ dự thầu trong lựa chọn nhà thầu đối với gói thầu quy mô nhỏ là:",
+    "answer": "Tối thiểu 10 ngày, kể từ ngày đầu tiên phát hành hồ sơ mời thầu."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Giá trị bảo đảm dự thầu trong lựa chọn nhà thầu đối với gói thầu quy mô nhỏ là:",
+    "answer": "Từ 1% đến 1,5% giá gói thầu"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nội dung của hợp đồng với nhà thầu:",
+    "answer": "Theo thỏa thuận của bên mời thầu và nhà thầu được lựa chọn"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Tìm phương án SAI. Điều kiện để xem xét giải quyết kiến nghị về các vấn đề trong quá trình lựa chọn nhà thầu là:",
+    "answer": "Chỉ được gửi đơn kiến nghị sau khi có thông báo kết quả lựa chọn nhà thầu."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án để xây dựng công trình hạ tầng; sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án sở hữu và được quyền kinh doanh công trình trong một thời hạn nhất định; hết thời hạn, nhà đầu tư, doanh nghiệp dự án chấm dứt hoạt động của dự án đầu tư theo quy định của pháp luật về đầu tư là:",
+    "answer": "Hợp đồng Xây dựng - Sở hữu - Kinh doanh (gọi tắt là hợp đồng BOO)"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Hợp đồng với nhà đầu tư phải phù hợp với:",
+    "answer": "Thỏa thuận của các bên"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Thành viên Hội đồng tư vấn cấp Bộ giải quyết kiện nghị trong lựa chọn nhà đầu tư gồm có:",
+    "answer": "Các cá nhân thuộc đơn vị được giao nhiệm vụ quản lý về đấu thầu thuộc các cơ quan này, đại diện cơ quan nhà nước có thẩm quyền, đại diện của hiệp hội nghề nghiệp liên quan."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Chọn phương án ĐÚNG. Biện pháp tuyên bố vô hiệu đối với các quyết định của bên mời thầu trong đấu thầu lựa chọn nhà đầu tư do người có thẩm quyền quyết định trong trường hợp:",
+    "answer": "Phát hiện các quyết định của bên mời thầu không phù hợp quy định của pháp luật về đấu thầu và pháp luật liên quan."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Khi khởi kiện yêu cầu tòa án giải quyết tranh chấp trong đấu thầu lựa chọn nhà thầu, các bên có quyền yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời là:",
+    "answer": "Cả 3 đáp án A, B, C."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Đối với hợp đồng với nhà thầu có quy mô lớn, phức tạp hợp đồng được coi là đã thanh lý trong thời hạn:",
+    "answer": "90 ngày, kể từ ngày các bên tham gia hợp đồng hoàn thành các trách nhiệm trong biên bản thanh lý hợp đồng"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Theo Luật Đấu thầu, hợp đồng theo thời gian là:",
+    "answer": "Hợp đồng có giá hợp đồng được tính trên cơ sở thời gian làm việc theo tháng, tuần, ngày, giờ và các khoản chi phí ngoài thù lao"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Chọn phương án SAI. Nội dung giám sát, theo dõi hoạt động đấu thầu lựa chọn nhà thầu trong việc tuân thủ quy định pháp luật về đấu thầu bao gồm:",
+    "answer": "Cấp chứng chỉ đào tạo về đấu thầu, chứng chỉ hành nghề hoạt động đấu thầu."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Chọn phương án SAI. Trong đấu thầu lựa chọn nhà thầu, hủy thầu được thực hiện trong trường hợp:",
+    "answer": "Sau khi lựa chọn danh sách ngắn, chỉ có ít hơn 03 nhà thầu đáp ứng yêu cầu."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Bên mời thầu có trách nhiệm hoàn trả hoặc giải tỏa bảo đảm dự thầu cho nhà thầu, nhà đầu tư không được lựa chọn theo thời hạn quy định trong hồ sơ mời thầu, hồ sơ yêu cầu nhưng không quá:",
+    "answer": "20 ngày, kể từ ngày kết quả lựa chọn nhà thầu, nhà đầu tư được phê duyệt"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Tìm phương án SAI. Điều kiện để nhà thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp được xem xét, đề nghị trúng thầu khi đáp ứng điều kiện:",
+    "answer": "Có sai lệch thiếu không quá 20% giá dự thầu"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Phải áp dụng hình thức đấu thầu rộng rãi quốc tế trong lựa chọn nhà đầu tư đối với:",
+    "answer": "Thực hiện dự án PPP"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Hoạt động đấu thầu nào sau đây KHÔNG PHẢI thực hiện Luật Đấu thầu:",
+    "answer": "Dự án đầu tư phát triển của các công ty hợp danh"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Việc mở hồ sơ đề xuất về kỹ thuật trong tổ chức lựa chọn nhà thầu theo quy trình đấu thầu rộng rãi gói thầu hỗn hợp phương thức 1 giai đoạn 2 túi hồ sơ phải thực hiện như sau:",
+    "answer": "Tiến hành công khai và bắt đầu trong vòng 01 giờ kể từ thời điểm đóng thầu, không phụ thuộc sự có mặt hay vắng mặt của nhà thầu."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Nhà thầu không được hoàn trả bảo đảm thực hiện hợp đồng trong trường hợp sau đây:",
+    "answer": "Vi phạm thỏa thuận trong hợp đồng"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Khi áp dụng hình thức đấu thầu rộng rãi cho gói thầu xây lắp, quy trình lựa chọn nhà thầu nào có việc mở thầu đánh giá đồng thời cả mặt kỹ thuật và tài chính của hồ sơ dự thầu?",
+    "answer": "Quy trình lựa chọn nhà thầu theo phương thức 1 giai đoạn, 1 túi hồ sơ"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Yêu cầu đối với đơn dự thầu của nhà thầu liên danh trong đấu thầu rộng rãi gói thầu xây lắp theo phương thức 1 giai đoạn, 1 túi hồ sơ:",
+    "answer": "Đơn dự thầu phải do đại diện hợp pháp của từng thành viên liên danh ký tên, đóng dấu (nếu có) hoặc thành viên đứng đầu liên danh thay mặt liên danh ký đơn dự thầu theo phân công trách nhiệm trong văn bản thỏa thuận liên danh."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Quy trình đấu thầu rộng rãi đối với gói thầu mua sắm hàng hóa theo phương thức một giai đoạn, một túi hồ sơ được tiến hành gồm các bước:",
+    "answer": "Chuẩn bị lựa chọn nhà thầu; Tổ chức lựa chọn nhà thầu; Đánh giá hồ sơ dự thầu; Thương thảo hợp đồng; Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu; Hoàn thiện ký kết hợp đồng."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng được ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án để xây dựng công trình hạ tầng; sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án chuyển giao cho cơ quan nhà nước có thẩm quyền và được quyền cung cấp dịch vụ trên cơ sở vận hành, khai thác công trình đó trong một thời hạn nhất định; cơ quan nhà nước có thẩm quyền thuê dịch vụ và thanh toán cho nhà đầu tư, doanh nghiệp dự án là:",
+    "answer": "Hợp đồng Xây dựng - Chuyển giao - Thuê dịch vụ (gọi tắt là hợp đồng BTL)"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án để kinh doanh một phần hoặc toàn bộ công trình trong một thời hạn nhất định là:",
+    "answer": "Hợp đồng Kinh doanh - Quản lý (gọi tắt là hợp đồng O&M)"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Giá trị bảo đảm thực hiện hợp đồng trong lựa chọn nhà thầu đối với gói thầu quy mô nhỏ là:",
+    "answer": "Từ 2% đến 3% giá gói thầu"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà thầu, nhà đầu tư là cá nhân có tư cách hợp lệ phải đáp ứng những điều kiện sau đây:",
+    "answer": "Có năng lực hành vi dân sự đầy đủ theo quy định pháp luật của nước được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Trong đấu thầu lựa chọn nhà đầu tư, sơ tuyển trong nước bắt buộc áp dụng đối với các trường hợp:",
+    "answer": "Dự án PPP nhóm C theo quy định pháp luật về đầu tư công"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày đầu tiên phát hành hồ sơ yêu cầu cho đến ngày có thời điểm đóng thầu, thời gian chuẩn bị hồ sơ đề xuất tối thiểu là 30 ngày",
+    "answer": "30 ngày"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Hoạt động đấu thầu nào sau đây KHÔNG PHẢI thực hiện Luật Đấu thầu:",
+    "answer": "Dự án đầu tư phát triển của các công ty hợp danh"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, giá trị bảo đảm dự thầu được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu theo một mức xác định:",
+    "answer": "Từ 0,5% đến 1,5% tổng mức đầu tư"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Trong hợp đồng xây dựng, đối với công trình xây dựng sử dụng vốn nhà nước, mức phạt hợp đồng không vượt quá:",
+    "answer": "12% giá trị phần hợp đồng bị vi phạm"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, thời gian chuẩn bị hồ sơ đề xuất tối thiểu là:",
+    "answer": "30 ngày, kể từ ngày đầu tiên phát hành hồ sơ yêu cầu cho đến ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Thời gian chuẩn bị hồ sơ dự thầu trong lựa chọn nhà thầu đối với gói thầu quy mô nhỏ là:",
+    "answer": "Tối thiểu 10 ngày, kể từ ngày đầu tiên phát hành hồ sơ mời thầu."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Chọn phương án SAI. Trong đấu thầu lựa chọn nhà thầu, hủy thầu được thực hiện trong trường hợp:",
+    "answer": "Sau khi lựa chọn danh sách ngắn, chỉ có ít hơn 03 nhà thầu đáp ứng yêu cầu."
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Chào hàng cạnh tranh theo quy trình rút gọn áp dụng đối với trường hợp:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Tổ chức, cá nhân đưa hối lộ trong đấu thầu lựa chọn nhà đầu tư thì tùy mức độ vi phạm sẽ bị cấm tham gia hoạt động đấu thầu trong thời hạn:",
+    "answer": "Từ 03 năm đến 05 năm"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Nhà thầu không được hoàn trả bảo đảm thực hiện hợp đồng trong trường hợp sau đây:",
+    "answer": "Vi phạm thỏa thuận trong hợp đồng"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Kiểm tra tính hợp lệ của hồ sơ dự thầu trong quy trình đấu thầu rộng rãi gói thầu mua sắm hàng hóa phương thức 1 giai đoạn, 1 túi hồ sơ bao gồm:",
+    "answer": "Kiểm tra số lượng bản gốc, bản chụp hồ sơ dự thầu; Kiểm tra các thành phần của hồ sơ dự thầu; kiểm tra sự thống nhất nội dung giữa bản gốc và bản chụp để phục vụ quá trình đánh giá chi tiết hồ sơ dự thầu."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả sơ tuyển, thời gian đánh giá hồ sơ dự sơ tuyển tối đa là:",
+    "answer": "30 ngày"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Chọn phương án SAI. Nội dung giám sát, theo dõi hoạt động đấu thầu lựa chọn nhà thầu trong việc tuân thủ quy định pháp luật về đấu thầu bao gồm:",
+    "answer": "Công tác đào tạo về đấu thầu."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Trong lựa chọn nhà đầu tư đối với dự án PPP nhóm C, kể từ ngày đầu tiên phát hành hồ sơ mời sơ tuyển cho đến ngày có thời điểm đóng thầu, thời gian chuẩn bị hồ sơ dự sơ tuyển tối thiểu là:",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Nhà thầu, nhà đầu tư là tổ chức có tư cách hợp lệ phải đáp ứng điều kiện sau đây:",
+    "answer": "Có đăng ký thành lập, hoạt động do cơ quan có thẩm quyền của nước mà nhà thầu, nhà đầu tư đang hoạt động cấp"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Chi phí trong lựa chọn nhà thầu qua mạng bao gồm:",
+    "answer": "Chi phí tham gia hệ thống mạng đấu thầu quốc gia; chi phí nộp hồ sơ dự thầu, hồ sơ đề suất; chi phí nhà thầu trúng thầu; chi phí sử dụng hợp đồng điện tử và chi phí sử dụng hệ thống mua sắm điện tử."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với hợp đồng xây dựng sử dụng vốn nhà nước, thời hạn quyết toán hợp đồng không vượt quá 60 ngày, kể từ ngày nghiệm thu hoàn thành toàn bộ công việc của hợp đồng, bao gồm cả phần công việc phát sinh (nếu có). Trường hợp hợp đồng xây dựng có quy mô lớn thì được phép kéo dài thời hạn thực hiện quyết toán hợp đồng nhưng không vượt quá:",
+    "answer": "120 ngày"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày có thời điểm đóng thầu, thời gian có hiệu lực của hồ sơ dự thầu, hồ sơ đề xuất tối đa là:",
+    "answer": "320 ngày"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Theo Luật Đấu thầu, hợp đồng theo đơn giá cố định là:",
+    "answer": "Hợp đồng có đơn giá không thay đổi trong suốt thời gian thực hiện đối với toàn bộ nội dung công việc trong hợp đồng"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Tìm phương án SAI. Điều kiện để xem xét giải quyết kiến nghị về kết quả lựa chọn nhà đầu tư là:",
+    "answer": "Chỉ được gửi đơn kiến nghị đến bên mời thầu trong thời hạn 03 ngày kể từ ngày thông báo kết quả lựa chọn nhà đầu tư."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Thủ tục đánh giá hồ sơ về kỹ thuật trong quy trình đấu thầu rộng rãi đối với gói thầu mua sắm hàng hóa theo phương thức một giai đoạn, hai túi hồ sơ là:",
+    "answer": "Mở hồ sơ đề xuất về kỹ thuật; Kiểm tra, đánh giá tính hợp lệ của hồ sơ đề xuất về kỹ thuật; Đánh giá chi tiết hồ sơ đề xuất về kỹ thuật; Phê duyệt danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu quốc tế, thời gian gửi văn bản sửa đổi hồ sơ mời thầu đến các nhà đầu tư đã nhận hồ sơ mời thầu tối thiểu là:",
+    "answer": "25 ngày"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Theo Luật Đấu thầu, hợp đồng theo đơn giá điều chỉnh là:",
+    "answer": "Hợp đồng có đơn giá có thể được điều chỉnh căn cứ vào các thỏa thuận trong hợp đồng đối với toàn bộ nội dung công việc trong hợp đồng"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Nhà thầu có hành vi gian lận trong đấu thầu lựa chọn nhà thầu thì tùy mức độ vi phạm sẽ bị cấm tham gia hoạt động đấu thầu trong thời hạn:",
+    "answer": "Từ 03 năm đến 05 năm"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Tìm phương án SAI. Điều kiện để xem xét giải quyết kiến nghị về các vấn đề trong quá trình lựa chọn nhà đầu tư là:",
+    "answer": "Chỉ được gửi đơn kiến nghị sau khi có thông báo kết quả lựa chọn nhà đầu tư."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Áp dụng hình thức đấu thầu rộng rãi trong nước để lựa chọn nhà đầu tư đối với:",
+    "answer": "Thực hiện dự án PPP"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Ủy ban nhân dân cấp tỉnh có thể ủy quyền cho",
+    "answer": "Ủy ban nhân dân cấp huyện ký kết và thực hiện hợp đồng dự án nhóm B và nhóm C"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng với nhà thầu:",
+    "answer": "Nội dung của hợp đồng phải được lập theo mẫu quy định trong hồ sơ mời thầu, hồ sơ yêu cầu"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án (nếu có) để xây dựng công trình hạ tầng; sau khi hoàn thành công trình, nhà đầu tư chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền và được thanh toán bằng quỹ đất, trụ sở làm việc, tài sản kết cấu hạ tầng hoặc quyền kinh doanh, khai thác công trình, dịch vụ để thực hiện Dự án khác là:",
+    "answer": "Hợp đồng Xây dựng - Chuyển giao (gọi tắt là hợp đồng BT)"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Phương thức kiểm tra hoạt động đấu thầu trong lựa chọn nhà đầu tư là:",
+    "answer": "Kiểm tra trực tiếp và yêu cầu báo cáo"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Cá nhân, tổ chức có hành vi không thực hiện sơ tuyển trước khi lập kế hoạch lựa chọn nhà đầu tư sẽ bị xử phạt vi phạm hành chính với mức phạt:",
+    "answer": "Phạt tiền từ 10.000.000 đến 15.000.000 đồng"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Áp dụng hình thức đấu thầu rộng rãi trong nước để lựa chọn nhà đầu tư đối với:",
+    "answer": "Thực hiện dự án PPP"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Nhà thầu tham dự đấu thầu với tư cách cá nhân khi chưa đủ điều kiện quy định sẽ bị xử phạt vi phạm hành chính với mức phạt:",
+    "answer": "Phạt tiền từ 10.000.000 đến 15.000.000 đồng"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Trong hợp đồng với nhà thầu:",
+    "answer": "Tất cả thành viên tham gia liên danh phải trực tiếp ký, đóng dấu (nếu có) vào văn bản hợp đồng"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày đầu tiên đăng tải thông báo mời sơ tuyển, thông báo mời thầu trên hệ thống mạng đấu thầu quốc gia hoặc Báo đấu thầu, gửi thư mời thầu đến trước thời điểm đóng thầu, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu được phát hành sau:",
+    "answer": "03 ngày làm việc"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Trong lựa chọn nhà đầu tư đối với dự án PPP nhóm C, thời gian thẩm định Kế hoạch lựa chọn nhà đầu tư tối đa là:",
+    "answer": "10 ngày, kể từ ngày nhận được đầy đủ hồ sơ trình duyệt"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án để xây dựng công trình hạ tầng; sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án chuyển giao cho cơ quan nhà nước có thẩm quyền và được quyền kinh doanh công trình đó trong một thời hạn nhất định là:",
+    "answer": "Hợp đồng Xây dựng - Chuyển giao - Kinh doanh (gọi tắt là hợp đồng BTO)"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày đầu tiên phát hành hồ sơ mời sơ tuyển cho đến ngày có thời điểm đóng thầu, thời gian chuẩn bị hồ sơ dự sơ tuyển tối thiểu là:",
+    "answer": "30 ngày"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Trong hợp đồng với nhà thầu, giá hợp đồng:",
+    "answer": "Không được vượt giá trúng thầu"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Tổ chức, cá nhân vi phạm pháp luật về đấu thầu và quy định khác của pháp luật liên quan thì tùy theo tính chất, mức độ vi phạm sẽ bị xử lý theo các hình thức trách nhiệm pháp lý:",
+    "answer": "Xử lý kỷ luật, xử phạt vi phạm hành chính, bồi thường thiệt hại, truy cứu trách nhiệm hình sự cấm tham gia hoạt động đấu thầu."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Hoạt động đấu thầu nào sau đây PHẢI thực hiện Luật Đấu thầu:",
+    "answer": "Mua sắm sử dụng vốn nhà nước nhằm duy trì hoạt động thường xuyên của UBND thành phố Hà Nội"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, căn cứ quy mô, tính chất của dự án, giá trị bảo đảm thực hiện hợp đồng được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu theo mức xác định từ:",
+    "answer": "1% đến 3% tổng mức đầu tư của dự án"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Chủ đầu tư, bên mời thầu có hành vi lợi dụng chức vụ, quyền hạn để can thiệp bất hợp pháp vào hoạt động đấu thầu trong đấu thầu lựa chọn nhà thầu thì tùy mức độ vi phạm sẽ bị cấm tham gia hoạt động đấu thầu trong thời hạn:",
+    "answer": "Từ 03 năm đến 05 năm"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Công bằng"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Theo Luật Đấu thầu, hợp đồng theo thời gian là:",
+    "answer": "Hợp đồng có giá hợp đồng được tính trên cơ sở thời gian làm việc theo tháng, tuần, ngày, giờ và các khoản chi phí ngoài thù lao"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Trường hợp nhà thầu đang trong quá trình tham dự thầu nhưng bị sáp nhập, hoặc chia tách thì:",
+    "answer": "Xem xét, quyết định việc cho phép nhà thầu đã bị sáp nhập hoặc chia tách đó tiếp tục tham gia đấu thầu."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Chọn phương án ĐÚNG. Đình chỉ cuộc thầu, không công nhận kết quả lựa chọn nhà thầu được áp dụng trong trường hợp:",
+    "answer": "Có bằng chứng cho thấy tổ chức, cá nhân tham gia hoạt động đấu thầu có hành vi vi phạm pháp luật về đấu thầu hoặc các quy định khác của pháp luật liên quan dẫn đến không đảm bảo mục tiêu của công tác đấu thầu là cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế hoặc làm sai lệch kết quả lựa chọn nhà đầu thầu."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Hoạt động đấu thầu nào sau đây PHẢI thực hiện Luật Đấu thầu:",
+    "answer": "Dự án đầu tư phát triển của doanh nghiệp nhà nước"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Thỏa thuận về việc sử dụng trọng tài để giải quyết các tranh chấp xảy ra trong quá trình thực hiện hợp đồng với nhà thầu:",
+    "answer": "Có thể thỏa thuận sau khi tranh chấp phát sinh"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, thời gian phê duyệt kế hoạch lựa chọn nhà đầu tư:",
+    "answer": "Tối đa là 10 ngày, kể từ ngày nhận được báo cáo thẩm định"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Cơ sở để thương thảo hợp đồng trong quy trình đấu thầu rộng rãi đối với gói thầu mua sắm hàng hóa phương thức một giai đoạn, một túi hồ sơ là:",
+    "answer": "Cả 3 đáp án A, B, C."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Sau khi đánh giá gói thầu áp dụng phương pháp giá thấp nhất nếu có nhiều nhà thầu được đánh giá tốt nhất, ngang nhau thì xử lý như sau:",
+    "answer": "Trao thầu cho nhà thầu có điểm kỹ thuật cao hơn"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Khi khởi kiện yêu cầu tòa án giải quyết tranh chấp trong đấu thầu lựa chọn nhà thầu, các bên có quyền yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời là:",
+    "answer": "Cả 3 đáp án A, B, C."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Trừ trường hợp áp dụng hợp đồng dịch vụ theo pháp luật chuyên ngành, Bộ, ngành, Ủy ban nhân dân cấp tỉnh có thể ủy quyền cho:",
+    "answer": "Đơn vị sự nghiệp tự đảm bảo chi thường xuyên và chi đầu tư thuộc bộ, ngành, địa phương mình ký kết và thực hiện hợp đồng dự án nhóm B và nhóm C"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng với nhà thầu:",
+    "answer": "Một gói thầu có thể được thực hiện theo một hoặc nhiều hợp đồng; trong một hợp đồng có thể áp dụng một hoặc nhiều loại hợp đồng"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Đối với dự án do địa phương quyết định đầu tư hoặc quản lý thì cơ quan có thầm quyền chủ trì, tổ chức việc giám sát, theo dõi hoạt động đấu thầu lựa chọn nhà thầu là:",
+    "answer": "Sở kế hoạch và Đầu tư"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Theo Luật Đấu thầu, hợp đồng trọn gói là:",
+    "answer": "Hợp đồng có giá cố định trong suốt thời gian thực hiện đối với toàn bộ nội dung công việc trong hợp đồng"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Phương pháp đánh giá hồ sơ dự thầu đối với gói thầu cung cấp dịch vụ tư vấn của nhà thầu tư vấn là tổ chức gồm:",
+    "answer": "Phương pháp giá thấp nhất; Phương pháp giá cố định; Phương pháp kết hợp giữa kỹ thuật và giá được áp dụng; Phương pháp dựa trên kỹ thuật"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Hoạt động đấu thầu nào sau đây PHẢI thực hiện Luật Đấu thầu:",
+    "answer": "Mua hàng dự trữ quốc gia sử dụng vốn nhà nước"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Áp dụng hình thức đấu thầu rộng rãi trong nước để lựa chọn nhà đầu tư đối với:",
+    "answer": "Thực hiện dự án đầu tư có sử dụng đất"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Nhà thầu tư vấn là cá nhân được xem xét, đề nghị trúng thầu khi đáp ứng được các điều kiện sau:",
+    "answer": "Có hồ sơ lý lịch khoa học, đề xuất kỹ thuật (nếu có) tốt nhất và đáp ứng yêu cầu của điều khoản tham chiếu và có giá đề nghị trúng thầu không vượt quá gói thầu được phê duyệt (trường hợp dự toán của gói thầu được phê duyệt thấp hơn hoặc cao hơn giá gói thầu được phê duyệt thì dự toán này sẽ thay thế giá gói thầu làm cơ sở xét duyệt trúng thầu)."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày nhận được báo cáo thẩm định, thời gian phê duyệt kế hoạch lựa chọn nhà đầu tư tối đa là:",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Trường hợp sau khi lựa chọn danh sách ngắn, chỉ có ít hơn 03 nhà thầu đáp ứng yêu cầu thì căn cứ điều kiện cụ thể của gói thầu xử lý theo một trong hai cách sau:",
+    "answer": "Tiến hành lựa chọn bổ sung nhà thầu vào danh sách ngắn hoặc cho phép phát hành ngay hồ sơ mời thầu cho nhà thầu trong danh sách ngắn."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu trong nước lựa chọn nhà đầu tư, kể từ ngày đầu tiên phát hành hồ sơ mời thầu cho đến ngày có thời điểm đóng thầu, Thời gian chuẩn bị hồ sơ dự thầu tối thiểu là: 60 ngày",
+    "answer": "60 ngày"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Nhà thầu có hành vi vi phạm về việc sử dụng lao động trong đấu thầu lựa chọn nhà thầu thì tùy mức độ vi phạm sẽ bị cấm tham gia hoạt động đấu thầu trong thời hạn:",
+    "answer": "Từ 01 năm đến 05 năm"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Trong hợp đồng với nhà thầu, tiến độ thực hiện hợp đồng được điều chỉnh trong trường hợp sau đây:",
+    "answer": "Theo thỏa thuận của các bên"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Ưu tiên lợi ích của bên mời thầu"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Nhà thầu, nhà đầu tư là cá nhân có tư cách hợp lệ phải đáp ứng điều kiện sau đây:",
+    "answer": "Có năng lực hành vi dân sự đầy đủ theo quy định pháp luật của nước mà cá nhân đó là công dân"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Kể từ ngày kết quả lựa chọn nhà đầu tư được phê duyệt, thời hạn bên mời thầu gửi văn bản thông báo kết quả lựa chọn nhà đầu tư đến các nhà đầu tư tham dự thầu theo đường bưu điện, fax không muộn hơn:",
+    "answer": "05 ngày làm việc"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Quy trình chào hàng cạnh tranh thông thường gồm các bước sau:",
+    "answer": "Chuẩn bị lựa chọn nhà thầu; tổ chức lựa chọn nhà thầu; Đánh giá các hồ sơ đề xuất và thương thảo hợp đồng; Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu; Hoàn thiện và ký kết hợp đồng."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với hợp đồng xây dựng sử dụng vốn nhà nước, thời hạn quyết toán hợp đồng, kể từ ngày nghiệm thu hoàn thành toàn bộ công việc của hợp đồng, bao gồm cả phần công việc phát sinh (nếu có) không vượt quá:",
+    "answer": "60 ngày"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Việc điều chỉnh giá hợp đồng được áp dụng đối với:",
+    "answer": "Hợp đồng trọn gói"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà đầu tư được đề nghị lựa chọn khi đáp ứng đủ các điều kiện sau đây:",
+    "answer": "Có giá dịch vụ hợp lý"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Cá nhân, tổ chức có hành vi phê duyệt hồ sơ mời thầu, hồ sơ yêu cầu không phù hợp với kế hoạch lựa chọn nhà thầu, nhà đầu tư đã được phê duyệt sẽ bị xử phạt vi phạm hành chính với mức phạt:",
+    "answer": "Phạt tiền từ 20.000.000 đến 30.000.000 đồng"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng được ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án để xây dựng công trình hạ tầng; sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án được quyền kinh doanh công trình trong một thời hạn nhất định; hết thời hạn, nhà đầu tư, doanh nghiệp dự án chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền là:",
+    "answer": "Hợp đồng Xây dựng - Kinh doanh - Chuyển giao (gọi tắt là hợp đồng BOT)"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Phương pháp đánh giá hồ sơ dự thầu đối với gói thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp là:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Yêu cầu đối với đơn dự thầu của nhà thầu liên danh trong đấu thầu rộng rãi gói thầu xây lắp theo phương thức 1 giai đoạn, 1 túi hồ sơ:",
+    "answer": "Đơn dự thầu phải do đại diện hợp pháp của từng thành viên liên danh ký tên, đóng dấu (nếu có) hoặc thành viên đứng đầu liên danh thay mặt liên danh ký đơn dự thầu theo phân công trách nhiệm trong văn bản thỏa thuận liên danh."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Quy trình đấu thầu rộng rãi đối với gói thầu mua sắm hàng hóa theo phương thức một giai đoạn, một túi hồ sơ được tiến hành gồm các bước:",
+    "answer": "Chuẩn bị lựa chọn nhà thầu; Tổ chức lựa chọn nhà thầu; Đánh giá hồ sơ dự thầu; Thương thảo hợp đồng; Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu; Hoàn thiện ký kết hợp đồng."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Tìm phương án SAI. Tiêu chuẩn đánh giá hồ sơ dự thầu đối với gói thầu xây lắp khi lập hồ sơ mời thầu theo quy trình đấu thầu rộng rãi phương thức một giai đoạn, một túi hồ sơ là:",
+    "answer": "Cả 3 đáp án A, B, C đều sai."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Trường hợp phải chấm dứt hợp đồng với nhà thầu vi phạm để thay thế nhà thầu mới, chủ đầu tư phải gửi thông báo đến Bộ kế hoạch và Đầu tư để xem xét, đăng tải thông tin nhà thầu vi phạm trên hệ thống mạng đấu thầu quốc gia và Báo đầu thầu trong thời hạn:",
+    "answer": "05 ngày làm việc kể từ ngày ban hành quyết định chấm dứt hợp đồng với nhà thầu vi phạm"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Kể từ ngày người có thẩm quyền nhận được báo cáo thẩm định, đối với từng nội dung: Hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, kết quả sơ tuyển và kết quả lựa chọn nhà đầu tư, thời gian phê duyệt tối đa là: 20 ngày",
+    "answer": "20 ngày"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Chủ tịch Hội đồng tư vấn cấp Bộ giải quyết kiện nghị trong lựa chọn nhà thầu là:",
+    "answer": "Đại diện có thẩm quyền của đơn vị được giao nhiệm vụ quản lý về hoạt động đấu thầu thuộc các cơ quan này."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Quy trình chào hàng cạnh tranh rút gọn gồm các bước sau:",
+    "answer": "Chuẩn bị và gửi bản yêu cầu báo giá; Nộp và tiếp nhận báo giá; Đánh giá các báo giá; Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu; Hoàn thiện và ký kết hợp đồng"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày đề xuất dự án PPP, danh mục dự án đầu tư có sử dụng đất được phê duyệt, thời hạn công bố thông tin dự án PPP, danh mục dự án đầu tư có sử dụng đất không muộn hơn:",
+    "answer": "07 ngày làm việc"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Cạnh tranh"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Hợp đồng với nhà thầu:",
+    "answer": "Việc thanh toán căn cứ căn cứ vào đơn giá trong hóa đơn tài chính đối với các yếu tố đầu vào của nhà thầu"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Quy trình đấu thầu rộng rãi đối với gói thầu hỗn hợp theo phương thức hai giai đoạn hai túi hồ sơ bao gồm các bước:",
+    "answer": "Chuẩn bị đấu thầu giai đoạn 1; Tổ chức đấu thầu giai đoạn 1; Chuẩn bị, tổ chức đấu thầu giai đoạn 2; Đánh giá, hồ sơ dự thầu và thương thảo hợp đồng giai đoạn 2; Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu; Hoàn thiện và ký kết hợp đồng."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Trong lựa chọn nhà đầu tư đối với dự án PPP nhóm C, trường hợp cần sửa đổi hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, bên mời thầu phải thông báo cho các nhà đầu tư trước ngày có thời điểm đóng thầu là:",
+    "answer": "03 ngày làm việc"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Chọn phương án ĐÚNG. Đình chỉ cuộc thầu, không công nhận kết quả lựa chọn nhà đầu tư được áp dụng trong trường hợp:",
+    "answer": "Có bằng chứng cho thấy tổ chức, cá nhân tham gia đấu thầu có hành vi vi phạm pháp luật về đấu thầu hoặc các quy định khác của pháp luật liên quan dẫn đến không đảm bảo mục tiêu của công tác đấu thầu, làm sai lệch kết quả lựa chọn nhà đầu tư."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Hợp đồng với nhà đầu tư phải phù hợp với:",
+    "answer": "Thỏa thuận của các bên"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà thầu không được hoàn trả bảo đảm thực hiện hợp đồng trong trường hợp sau đây:",
+    "answer": "Từ chối ký kết hợp đồng"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Tìm phương án SAI. Điều kiện để xem xét giải quyết kiến nghị về kết quả lựa chọn nhà thầu là:",
+    "answer": "Chỉ được gửi đơn kiến nghị đến chủ đầu tư/bên mời thầu trong thời hạn 05 ngày kể từ ngày thông báo kết quả lựa chọn nhà thầu."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Chọn phương án SAI. Nội dung giám sát, theo dõi hoạt động đấu thầu lựa chọn nhà thầu trong việc tuân thủ quy định pháp luật về đấu thầu bao gồm:",
+    "answer": "Cấp chứng chỉ đào tạo về đấu thầu, chứng chỉ hành nghề hoạt động đấu thầu."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án để xây dựng công trình hạ tầng; sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án được quyền cung cấp dịch vụ trên cơ sở vận hành, khai thác công trình đó trong một thời hạn nhất định; cơ quan nhà nước có thẩm quyền thuê dịch vụ và thanh toán cho nhà đầu tư, doanh nghiệp dự án; hết thời hạn cung cấp dịch vụ, nhà đầu tư, doanh nghiệp dự án chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền là:",
+    "answer": "Hợp đồng Xây dựng - Thuê dịch vụ - Chuyển giao (gọi tắt là hợp đồng BLT)"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Sau khi đánh giá gói thầu áp dụng phương pháp giá đánh giá nếu có nhiều nhà thầu được đánh giá tốt nhất, ngang nhau thì xử lý như sau:",
+    "answer": "Trao thầu cho nhà thầu có giá đề nghị trúng thầu thấp hơn."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà đầu tư không được hoàn trả bảo đảm thực hiện hợp đồng trong trường hợp sau đây:",
+    "answer": "Từ chối ký kết hợp đồng"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà thầu, nhà đầu tư là cá nhân có tư cách hợp lệ phải đáp ứng những điều kiện sau đây:",
+    "answer": "Có năng lực hành vi dân sự đầy đủ theo quy định pháp luật của nước mà cá nhân đó đang cư trú"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà thầu, thời gian chuẩn bị hồ sơ đề xuất tối thiểu là:",
+    "answer": "05 ngày làm việc, kể từ ngày đầu tiên hồ sơ yêu cầu được phát hành đến ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng được ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án để xây dựng công trình hạ tầng; sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án chuyển giao cho cơ quan nhà nước có thẩm quyền và được quyền cung cấp dịch vụ trên cơ sở vận hành, khai thác công trình đó trong một thời hạn nhất định; cơ quan nhà nước có thẩm quyền thuê dịch vụ và thanh toán cho nhà đầu tư, doanh nghiệp dự án là:",
+    "answer": "Hợp đồng Xây dựng - Chuyển giao - Thuê dịch vụ (gọi tắt là hợp đồng BTL)"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Thủ tục đánh giá hồ sơ dự thầu trong quy trình đấu thầu rộng rãi đối với gói thầu dịch vụ phi tư vấn phương thức một giai đoạn, một túi hồ sơ gồm các bước sau:",
+    "answer": "Kiểm tra, đánh giá tính hợp lệ của hồ sơ dự thầu; Đánh giá chi tiết hồ sơ dự thầu; Xếp hạng nhà thầu."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Khi áp dụng hình thức đấu thầu rộng rãi cho gói thầu xây lắp, quy trình lựa chọn nhà thầu nào có việc mở thầu đánh giá đồng thời cả mặt kỹ thuật và tài chính của hồ sơ dự thầu?",
+    "answer": "Quy trình lựa chọn nhà thầu theo phương thức 1 giai đoạn, 1 túi hồ sơ"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Áp dụng hình thức đấu thầu rộng rãi trong nước để lựa chọn nhà đầu tư đối với:",
+    "answer": "Thực hiện dự án đầu tư có sử dụng đất"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Cá nhân trực tiếp cung cấp thông tin không trung thực làm sai lệch kết quả lựa chọn nhà đầu tư trong đấu thầu lựa chọn nhà đầu tư thì tùy mức độ vi phạm sẽ bị cấm tham gia hoạt động đấu thầu trong thời hạn:",
+    "answer": "Từ 03 năm đến 05 năm"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Trong hợp đồng với nhà đầu tư:",
+    "answer": "Tất cả thành viên liên danh phải trực tiếp ký, đóng dấu (nếu có) vào văn bản hợp đồng"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Giá trị bảo đảm dự thầu trong lựa chọn nhà thầu đối với gói thầu quy mô nhỏ là:",
+    "answer": "Từ 1% đến 1,5% giá gói thầu"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Chỉ định thầu đối với nhà đầu tư được áp dụng trong trường hợp sau đây:",
+    "answer": "Chỉ có một nhà đầu tư có khả năng thực hiện do liên quan đến sở hữu trí tuệ, bí mật thương mại, công nghệ hoặc thu xếp vốn"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Chủ đầu tư, bên mời thầu có hành vi không đảm bảo công bằng, minh bạch trong đấu thầu lựa chọn nhà thầu thì tùy mức độ vi phạm sẽ bị cấm tham gia hoạt động đấu thầu trong thời hạn:",
+    "answer": "Từ 06 tháng đến 01 năm"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Tìm phương án SAI. Hàng hóa, dịch vụ được đưa vào danh mục mua sắm tập trung khi đáp ứng một trong các điều kiện sau:",
+    "answer": "Hàng hóa, dịch vụ phục vụ công tác an ninh, quốc phòng."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Chọn phương án SAI. Trách nhiệm của cá nhân hoặc đơn vị giám sát, theo dõi hoạt động đấu thầu trong lựa chọn nhà thầu là phải:",
+    "answer": "Công khai thông tin theo quy định."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Thỏa thuận"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, kể từ ngày phê duyệt kết quả lựa chọn nhà đầu tư, thời gian đàm phán, hoàn thiện hợp đồng tối đa là:",
+    "answer": "120 ngày"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu trong nước, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả lựa chọn nhà đầu tư, thời gian đánh giá hồ sơ đề xuất tối đa là:",
+    "answer": "45 ngày"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Ưu tiên lợi ích của nhà thầu"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Ưu tiên lợi ích của nhà đầu tư"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà thầu, căn cứ quy mô, tính chất của gói thầu, giá trị bảo đảm thực hiện hợp đồng được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu theo mức xác định từ:",
+    "answer": "2% đến 10% giá trúng thầu"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án để xây dựng công trình hạ tầng; sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án sở hữu và được quyền kinh doanh công trình trong một thời hạn nhất định; hết thời hạn, nhà đầu tư, doanh nghiệp dự án chấm dứt hoạt động của dự án đầu tư theo quy định của pháp luật về đầu tư là:",
+    "answer": "Hợp đồng Xây dựng - Sở hữu - Kinh doanh (gọi tắt là hợp đồng BOO)"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu quốc tế, trường hợp cần làm rõ hồ sơ mời thầu thì nhà đầu tư phải gửi văn bản đề nghị đến bên mời thầu tối thiểu:",
+    "answer": "15 ngày làm việc trước ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Tiêu chuẩn đánh giá hồ sơ dự thầu đối với gói thầu mua sắm hàng hóa khi lập hồ sơ mời thầu theo quy trình đấu thầu rộng rãi phương thức một giai đoạn, một túi hồ sơ là:",
+    "answer": "Cả 3 đáp án A, B, C."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Bên mời thầu có trách nhiệm hoàn trả hoặc giải tỏa bảo đảm dự thầu cho nhà thầu, nhà đầu tư không được lựa chọn theo thời hạn quy định trong hồ sơ mời thầu, hồ sơ yêu cầu nhưng không quá:",
+    "answer": "20 ngày, kể từ ngày kết quả lựa chọn nhà thầu, nhà đầu tư được phê duyệt"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hợp đồng ký giữa cơ quan nhà nước có thẩm quyền và nhà đầu tư, doanh nghiệp dự án để kinh doanh một phần hoặc toàn bộ công trình trong một thời hạn nhất định là:",
+    "answer": "Hợp đồng Kinh doanh - Quản lý (gọi tắt là hợp đồng O&M)"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Trường hợp nhà đầu tư cần thay đổi tư cách (tên) tham gia đấu thầu so với tên trong danh sách ngắn thì phải thông báo bằng văn bản tới bên mời thầu tối thiểu:",
+    "answer": "07 ngày làm việc trước ngày có thời điểm đóng thầu"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà thầu, nhà đầu tư là tổ chức có tư cách hợp lệ phải đáp ứng những điều kiện sau đây:",
+    "answer": "Có đăng ký thành lập, hoạt động do cơ quan có thẩm quyền của nước mà nhà thầu, nhà đầu tư có địa chỉ trụ sở chính cấp"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Sau khi phát hiện lỗi, sai lệch, bên mời thầu phải thông báo bằng văn bản cho nhà đầu tư biết về lỗi, sai lệch và việc sửa lỗi, hiệu chỉnh sai lệch nội dung đó. Kể từ ngày nhận được thông báo của bên mời thầu, nhà đầu tư phải có ý kiến bằng văn bản gửi bên mời thầu trong vòng:",
+    "answer": "07 ngày làm việc"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hạn mức gói thầu quy mô nhỏ trong lựa chọn nhà thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa là:",
+    "answer": "Gói thầu trị giá không quá 10 tỷ đồng"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Quy trình đấu thầu rộng rãi đối với gói thầu cung cấp dịch vụ tư vấn mà nhà thầu là tổ chức bao gồm các bước:",
+    "answer": "Chuẩn bị lựa chọn nhà thầu; tổ chức lựa chọn nhà thầu; Đánh giá hồ sơ đề xuất về kỹ thuật; Mở và đánh giá hồ sơ đề xuất về tài chính trong danh sách được duyệt; Thương thảo hợp đồng; Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu; Hoàn thiện ký kết hợp đồng."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Nguyên tắc của đấu thầu là:",
+    "answer": "Hiệu quả kinh tế"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nhà thầu, nhà đầu tư là cá nhân có tư cách hợp lệ phải đáp ứng những điều kiện sau đây:",
+    "answer": "Có năng lực hành vi dân sự đầy đủ theo quy định pháp luật của Việt Nam"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Phải áp dụng hình thức đấu thầu rộng rãi quốc tế trong lựa chọn nhà đầu tư đối với:",
+    "answer": "Thực hiện dự án PPP"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu trong nước lựa chọn nhà thầu, trường hợp sau khi ưu đãi nếu các hồ sơ dự thầu, hồ sơ đề xuất xếp hạng ngang nhau thì ưu tiên xếp hạng cao hơn cho:",
+    "answer": "Nhà thầu ở địa phương nơi triển khai gói thầu"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Nhà thầu tư vấn là tổ chức được xem xét, đề nghị trúng thầu khi đáp ứng được các điều kiện sau:",
+    "answer": "Có hồ sơ dự thầu, hồ sơ đề xuất hợp lệ; Có đề xuất về kỹ thuật đáp ứng yêu cầu; Có giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) thấp nhất đối với phương pháp giá thấp nhất/có điểm kỹ thuật cao nhất đối với phương pháp giá cố định và phương pháp dựa trên kỹ thuật/có điểm tổng hợp cao nhất đối với phương pháp kết hợp giữa kỹ thuật và giá; Có giá đề nghị trúng thầu không vượt quá giá gói thầu được phê duyệt."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Phương pháp được sử dụng để đánh giá hồ sơ đề xuất trong chào hàng cạnh tranh là:",
+    "answer": "Phương pháp giá thấp nhất"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với lựa chọn nhà đầu tư, thời hạn bên mời thầu gửi văn bản thông báo kết quả lựa chọn nhà đầu tư đến các nhà đầu tư tham dự thầu theo đường bưu điện, fax không muộn hơn:",
+    "answer": "05 ngày làm việc, kể từ ngày kết quả lựa chọn nhà đầu tư được phê duyệt"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Chọn phương án SAI. Trách nhiệm của cá nhân hoặc đơn vị giám sát, theo dõi hoạt động đấu thầu trong lựa chọn nhà đầu tư là phải:",
+    "answer": "Công bằng và hiệu quả kinh tế."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Nhà đầu tư tham dự thầu được đánh giá là độc lập về tài chính với cơ quan nhà nước có thẩm quyền, bên mời thầu nếu:",
+    "answer": "Không có cổ phần hoặc vốn góp trên 30% của nhau"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu quốc tế, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả lựa chọn nhà đầu tư, thời gian đánh giá hồ sơ dự thầu tối đa là:",
+    "answer": "120 ngày"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Phải áp dụng hình thức đấu thầu rộng rãi quốc tế trong lựa chọn nhà đầu tư đối với:",
+    "answer": "Thực hiện dự án đầu tư có sử dụng đất"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Tìm phương án SAI. Điều kiện để nhà thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp được xem xét, đề nghị trúng thầu khi đáp ứng điều kiện:",
+    "answer": "Có sai lệch thiếu không quá 20% giá dự thầu"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Trong lựa chọn nhà đầu tư đối với dự án PPP nhóm C, thời gian thẩm định hồ sơ mời thầu tối đa là:",
+    "answer": "10 ngày, kể từ ngày nhận được đầy đủ hồ sơ trình duyệt"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Thành viên Hội đồng tư vấn cấp Bộ giải quyết kiện nghị trong lựa chọn nhà đầu tư gồm có:",
+    "answer": "Các cá nhân thuộc đơn vị được giao nhiệm vụ quản lý về đấu thầu thuộc các cơ quan này, đại diện cơ quan nhà nước có thẩm quyền, đại diện của hiệp hội nghề nghiệp liên quan."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Tìm phương án KHÔNG ĐÚNG. Nội dung của hợp đồng với nhà thầu:",
+    "answer": "Theo thỏa thuận của bên mời thầu và nhà thầu được lựa chọn"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Tìm phương án SAI. Điều kiện để xem xét giải quyết kiến nghị về các vấn đề trong quá trình lựa chọn nhà thầu là:",
+    "answer": "Chỉ được gửi đơn kiến nghị sau khi có thông báo kết quả lựa chọn nhà thầu."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với đấu thầu trong nước, thời gian gửi văn bản sửa đổi hồ sơ mời thầu đến các nhà đầu tư đã nhận hồ sơ mời thầu tối thiểu là:",
+    "answer": "15 ngày"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Việc giải quyết tranh chấp trong đấu thầu tại Tòa án được giải quyết:",
+    "answer": "Theo quy định pháp luật về tố tụng dân sự"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Thời gian thẩm định kết quả lựa chọn nhà thầu đối với gói thầu quy mô nhỏ là:",
+    "answer": "Tối đa 10 ngày kể từ ngày nhận được hồ sơ trình thẩm định"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Hạn mức gói thầu quy mô nhỏ trong lựa chọn nhà thầu cho gói thầu xây lắp, hỗn hợp là:",
+    "answer": "Gói thầu trị giá không quá 20 tỷ đồng"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Tìm phương án SAI. Nội dung mua sắm thường xuyên (trừ trường hợp mua sắm trang thiết bị, phương tiện đặc thù chuyên dùng cho quốc phòng, an ninh) gồm:",
+    "answer": "Vật liệu xây dựng"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Tìm phương án ĐÚNG. Đối với hợp đồng với nhà thầu có quy mô lớn, phức tạp hợp đồng được coi là đã thanh lý trong thời hạn:",
+    "answer": "90 ngày, kể từ ngày các bên tham gia hợp đồng hoàn thành các trách nhiệm trong biên bản thanh lý hợp đồng"
+  }
+]

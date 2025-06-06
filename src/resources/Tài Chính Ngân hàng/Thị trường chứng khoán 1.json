@@ -1,0 +1,4412 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Sự di chuyển vốn đầu tư trong nền kinh tế được thực hiện thông qua:",
+    "answer": "cơ chế \"bàn tay vô hình\", cơ chế xác định giá chứng khoán và thông qua hoạt động thâu tóm, sáp nhập doanh nghiệp trên thị trường thứ cấp."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "“Investors” là từ dùng để nói đến các nhà đầu tư:",
+    "answer": "Dài hạn"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Căn cứ vào sự luân chuyển của vốn, thị trường chứng khoán được chia làm:",
+    "answer": "Thị trường sơ cấp và thị trường thứ cấp"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Chủ thể phát hành chứng khoán trên thị trường bao gồm :",
+    "answer": "Chính phủ, Quỹ đầu tư và Doanh nghiệp"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Kênh tài chính gián tiếp là:",
+    "answer": "Trung gian tài chính"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": ". Thị trường tài chính bao gồm:",
+    "answer": "Thị trường tiền tệ và thị trường vốn"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Điều nào sau đây là không đúng:",
+    "answer": "Nhà đầu tư thích đầu tư vào các nước phát triển do tỷ lệ hoàn vốn đầu tư cao hơn."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Đáp án nào không đúng trong các đáp án sau?",
+    "answer": "chi phí vốn không phụ thuộc vào cơ chế định giá."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Phương án nào sau đây là không đúng?",
+    "answer": "Nhà đầu tư thích đầu tư vào các nước phát triển do tỷ lệ hoàn vốn đầu tư cao hơn."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Thị trường chứng khoán bao gồm:",
+    "answer": "Thị trường cổ phiếu và thị trường trái phiếu"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Mức hiệu quả yếu xảy ra khi giá của chứng khoán:",
+    "answer": "phản ánh các thông tin trong quá khứ về giá chứng khoán."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Cơ quan quản lý thị trường chứng khoán Việt Nam là:",
+    "answer": "Ủy ban chứng khoán Nhà nước"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả?",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Thị trường chứng khoán NewYork ra đời vào năm:",
+    "answer": "1792"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Mức hiệu quả mạnh xảy ra khi giá của chứng khoán",
+    "answer": "phản ánh thông tin nội gián và toàn bộ thông tin hiện có liên quan tới chứng khoán."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Điều nào dưới đây không đúng về quỹ đầu tư dạng công ty:",
+    "answer": "Quỹ đầu tư dạng công ty không phải chịu sự chi phối của Luật doanh nghiệp."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Công ty chứng khoán tham gia vào thị trường với tư cách là nhà đầu tư có tổ chức thông qua nghiệp vụ:",
+    "answer": "Tự doanh"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Nhà đầu tư cá nhân có đặc điểm:",
+    "answer": "tham gia mua bán trên thị trường chứng khoán với mục đích tìm kiếm lợi nhuận."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Điểm nào sau đây là đúng về phân phối vốn thông qua kênh tín dụng?",
+    "answer": "Nguyên tắc sàng lọc là đặc trưng của quá trình phân phối vốn của kênh tín dụng."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Hệ số tín nhiệm lần đầu tiên ra đời vào năm:",
+    "answer": "1909"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Tổ chức nào sau đây không được phép phát hành trái phiếu tại Việt Nam:",
+    "answer": "Công ty hợp danh"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Thị trường nào dưới đây là nơi giao dịch mua bán, trao đổi các giấy tờ xác nhận cổ phần đóng góp của cổ đông:",
+    "answer": "Thị trường cổ phiếu"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Thị trường chứng khoán bao gồm:",
+    "answer": "thị trường cổ phiếu và thị trường trái phiếu."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Thị trường vốn là thị trường giao dịch:",
+    "answer": "Các công cụ tài chính trung và dài hạn"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây là không đúng về thị trường hiệu quả:",
+    "answer": "Khi thị trường là hiệu quả, sẽ tồn tại nhiều cơ hội kinh doanh chênh lệch giá cho các nhà đầu tư"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Đối tượng tham gia đầu tư trên thị trường chứng khoán có thể là:",
+    "answer": "Quỹ đầu tư"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Trên thị trường chứng khoán, hành vi có tiêu cực là:",
+    "answer": "Mua bán nội gián"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả :",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Quan điểm cho rằng: \"Thị trường chứng khoán là thị trường cổ phiếu\", hay là nơi mua bán các cổ phần được các công ty phát hành ra để huy động vốn. Quan điểm này xuất phát từ việc:",
+    "answer": "xét mức độ tác động của thị trường tới nền kinh tế khi có biến động thì cổ phiếu ảnh hưởng mạnh hơn."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào sai về thị trường chứng khoán thứ cấp:",
+    "answer": "Là nơi mua bán các loại chứng khoán kém chất lượng"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Logic ẩn sau phương pháp phân tích kỹ thuật là:",
+    "answer": "lịch sử giá chứng khoán có xu hướng lặp lại."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Căn cứ vào hình thức tổ chức của thị trường, thị trường chứng khoán được chia làm:",
+    "answer": "Thị trường tập trung và OTC"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Chức năng cơ bản của thị trường tài chính là:",
+    "answer": "Dẫn vốn từ nơi thừa vốn sang nơi thiếu vốn"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Nhà đầu tư cá nhân có đặc điểm:",
+    "answer": "tham gia mua bán trên thị trường chứng khoán với mục đích tìm kiếm lợi nhuận."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Mức hiệu quả yếu xảy ra khi giá của chứng khoán:",
+    "answer": "phản ánh các thông tin trong quá khứ về giá chứng khoán."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Điều nào dưới đây không đúng về quỹ đầu tư dạng công ty:",
+    "answer": "Quỹ đầu tư dạng công ty không phải chịu sự chi phối của Luật doanh nghiệp."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Căn cứ vào sự luân chuyển của vốn, thị trường chứng khoán được chia làm:",
+    "answer": "Thị trường sơ cấp và thị trường thứ cấp"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả :",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Thị trường nào dưới đây là nơi giao dịch mua bán, trao đổi các giấy tờ xác nhận cổ phần đóng góp của cổ đông:",
+    "answer": "Thị trường cổ phiếu"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Kênh tài chính gián tiếp là:",
+    "answer": "Trung gian tài chính"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào sai về thị trường chứng khoán thứ cấp:",
+    "answer": "Là nơi mua bán các loại chứng khoán kém chất lượng"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Điều nào sau đây là không đúng:",
+    "answer": "Nhà đầu tư thích đầu tư vào các nước phát triển do tỷ lệ hoàn vốn đầu tư cao hơn."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Đáp án nào không đúng trong các đáp án sau?",
+    "answer": "chi phí vốn không phụ thuộc vào cơ chế định giá."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "“Investors” là từ dùng để nói đến các nhà đầu tư:",
+    "answer": "Dài hạn"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Thị trường chứng khoán bao gồm:",
+    "answer": "thị trường cổ phiếu và thị trường trái phiếu."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Công ty chứng khoán tham gia vào thị trường với tư cách là nhà đầu tư có tổ chức thông qua nghiệp vụ:",
+    "answer": "Tự doanh"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây là không đúng về thị trường hiệu quả:",
+    "answer": "Khi thị trường là hiệu quả, sẽ tồn tại nhiều cơ hội kinh doanh chênh lệch giá cho các nhà đầu tư"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Mức hiệu quả mạnh xảy ra khi giá của chứng khoán",
+    "answer": "phản ánh thông tin nội gián và toàn bộ thông tin hiện có liên quan tới chứng khoán."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Tổ chức nào sau đây không được phép phát hành trái phiếu tại Việt Nam:",
+    "answer": "Công ty hợp danh"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Đối tượng tham gia đầu tư trên thị trường chứng khoán có thể là:",
+    "answer": "Quỹ đầu tư"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Thị trường chứng khoán NewYork ra đời vào năm:",
+    "answer": "1792"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Cơ quan quản lý thị trường chứng khoán Việt Nam là:",
+    "answer": "Ủy ban chứng khoán Nhà nước"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": ". Thị trường tài chính bao gồm:",
+    "answer": "Thị trường tiền tệ và thị trường vốn"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Thị trường vốn là thị trường giao dịch:",
+    "answer": "Các công cụ tài chính trung và dài hạn"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Điểm nào sau đây là đúng về phân phối vốn thông qua kênh tín dụng?",
+    "answer": "Nguyên tắc sàng lọc là đặc trưng của quá trình phân phối vốn của kênh tín dụng."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Chủ thể phát hành chứng khoán trên thị trường bao gồm :",
+    "answer": "Chính phủ, Quỹ đầu tư và Doanh nghiệp"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Sự di chuyển vốn đầu tư trong nền kinh tế được thực hiện thông qua:",
+    "answer": "cơ chế \"bàn tay vô hình\", cơ chế xác định giá chứng khoán và thông qua hoạt động thâu tóm, sáp nhập doanh nghiệp trên thị trường thứ cấp."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Căn cứ vào hình thức tổ chức của thị trường, thị trường chứng khoán được chia làm:",
+    "answer": "Thị trường tập trung và OTC"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Quan điểm cho rằng: \"Thị trường chứng khoán là thị trường cổ phiếu\", hay là nơi mua bán các cổ phần được các công ty phát hành ra để huy động vốn. Quan điểm này xuất phát từ việc:",
+    "answer": "xét mức độ tác động của thị trường tới nền kinh tế khi có biến động thì cổ phiếu ảnh hưởng mạnh hơn."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Chức năng cơ bản của thị trường tài chính là:",
+    "answer": "Dẫn vốn từ nơi thừa vốn sang nơi thiếu vốn"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Trên thị trường chứng khoán, hành vi có tiêu cực là:",
+    "answer": "Mua bán nội gián"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Hệ số tín nhiệm lần đầu tiên ra đời vào năm:",
+    "answer": "1909"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Thị trường chứng khoán bao gồm:",
+    "answer": "Thị trường cổ phiếu và thị trường trái phiếu"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả?",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Logic ẩn sau phương pháp phân tích kỹ thuật là:",
+    "answer": "lịch sử giá chứng khoán có xu hướng lặp lại."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Phương án nào sau đây là không đúng?",
+    "answer": "Nhà đầu tư thích đầu tư vào các nước phát triển do tỷ lệ hoàn vốn đầu tư cao hơn."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Điểm nào sau đây là đúng về phân phối vốn thông qua kênh tín dụng?",
+    "answer": "Nguyên tắc sàng lọc là đặc trưng của quá trình phân phối vốn của kênh tín dụng."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Thị trường chứng khoán NewYork ra đời vào năm:",
+    "answer": "1792"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Tổ chức nào sau đây không được phép phát hành trái phiếu tại Việt Nam:",
+    "answer": "Công ty hợp danh"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Đáp án nào không đúng trong các đáp án sau?",
+    "answer": "chi phí vốn không phụ thuộc vào cơ chế định giá."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Sự di chuyển vốn đầu tư trong nền kinh tế được thực hiện thông qua:",
+    "answer": "cơ chế \"bàn tay vô hình\", cơ chế xác định giá chứng khoán và thông qua hoạt động thâu tóm, sáp nhập doanh nghiệp trên thị trường thứ cấp."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Kênh tài chính gián tiếp là:",
+    "answer": "Trung gian tài chính"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Căn cứ vào hình thức tổ chức của thị trường, thị trường chứng khoán được chia làm:",
+    "answer": "Thị trường tập trung và OTC"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Công ty chứng khoán tham gia vào thị trường với tư cách là nhà đầu tư có tổ chức thông qua nghiệp vụ:",
+    "answer": "Tự doanh"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Mức hiệu quả yếu xảy ra khi giá của chứng khoán:",
+    "answer": "phản ánh các thông tin trong quá khứ về giá chứng khoán."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Mức hiệu quả mạnh xảy ra khi giá của chứng khoán",
+    "answer": "phản ánh thông tin nội gián và toàn bộ thông tin hiện có liên quan tới chứng khoán."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Thị trường chứng khoán bao gồm:",
+    "answer": "Thị trường cổ phiếu và thị trường trái phiếu"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Chủ thể phát hành chứng khoán trên thị trường bao gồm :",
+    "answer": "Chính phủ, Quỹ đầu tư và Doanh nghiệp"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả?",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Thị trường chứng khoán bao gồm:",
+    "answer": "thị trường cổ phiếu và thị trường trái phiếu."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Phương án nào sau đây là không đúng?",
+    "answer": "Nhà đầu tư thích đầu tư vào các nước phát triển do tỷ lệ hoàn vốn đầu tư cao hơn."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Điều nào sau đây là không đúng:",
+    "answer": "Nhà đầu tư thích đầu tư vào các nước phát triển do tỷ lệ hoàn vốn đầu tư cao hơn."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Thị trường vốn là thị trường giao dịch:",
+    "answer": "Các công cụ tài chính trung và dài hạn"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Hệ số tín nhiệm lần đầu tiên ra đời vào năm:",
+    "answer": "1909"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Logic ẩn sau phương pháp phân tích kỹ thuật là:",
+    "answer": "lịch sử giá chứng khoán có xu hướng lặp lại."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây là không đúng về thị trường hiệu quả:",
+    "answer": "Khi thị trường là hiệu quả, sẽ tồn tại nhiều cơ hội kinh doanh chênh lệch giá cho các nhà đầu tư"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": ". Thị trường tài chính bao gồm:",
+    "answer": "Thị trường tiền tệ và thị trường vốn"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Nhà đầu tư cá nhân có đặc điểm:",
+    "answer": "tham gia mua bán trên thị trường chứng khoán với mục đích tìm kiếm lợi nhuận."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Điều nào dưới đây không đúng về quỹ đầu tư dạng công ty:",
+    "answer": "Quỹ đầu tư dạng công ty không phải chịu sự chi phối của Luật doanh nghiệp."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Chức năng cơ bản của thị trường tài chính là:",
+    "answer": "Dẫn vốn từ nơi thừa vốn sang nơi thiếu vốn"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Người sở hữu cổ phiếu phổ thông:",
+    "answer": "là chủ sở hữu công ty."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Giá trị thực của tài sản chịu ảnh hưởng của những nhân tố nào?",
+    "answer": "Độ lớn và thời điểm của những luồng tiền dự tính trong tương lai, mức độ rủi ro của luồng tiền, tỷ lệ lợi tức yêu cầu của nhà đầu tư."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Khi lãi suất giảm, để tận dụng triệt để mức tăng giá do lãi suất, các nhà đầu tư thường chọn:",
+    "answer": "những trái phiếu có Duration lớn."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Các điều kiện không đổi, giá trái phiếu tăng khi:",
+    "answer": "lãi suất thị trường giảm."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Trong trường hợp phá sản, giải thể doanh nghiệp, các trái chủ sẽ:",
+    "answer": "được ưu tiên trả lại phần vốn đã đóng góp trước."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Một trái phiếu coupon có mệnh giá 1.000 USD, lãi suất danh nghĩa 8%/năm, phát hành đầu năm 2003, đáo hạn đầu năm 2013. Giả sử trái chủ nắm giữ trái phiếu đến khi đáo hạn, thu nhập trái phiếu này mang lại cho trái chủ là:",
+    "answer": "tiền lãi hàng năm là 80 USD và tiền gốc khi trái phiếu đáo hạn là 1.000 USD."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Trái phiếu coupon là trái phiếu:",
+    "answer": "mà tiền lãi được thanh toán đều đặn theo kỳ, còn tiền gốc thanh toán tại ngày đáo hạn."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Giá trị cổ phiếu được ghi trên tờ cổ phiếu, thường được quy định trong điều lệ của công ty cổ phần là:",
+    "answer": "mệnh giá cổ phiếu."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Cổ phiếu của công ty A được chi trả cổ tức hiện tại là 3.000 đồng. Biết giá hiện tại của cổ phiếu là 60.000 đồng, tỷ lệ lợi tức yêu cầu là 15%. Xác định tốc độ tăng trưởng cổ tức của cổ phiếu (giả định cổ tức tăng trưởng đều qua các năm).",
+    "answer": "10%."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Cổ phiếu quỹ là loại cổ phiếu:",
+    "answer": "được chính tổ chức phát hành mua lại."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Cổ phiếu phổ thông có thời hạn bao nhiêu?",
+    "answer": "Bằng tuổi đời công ty."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Nếu một trái phiếu coupon được bán đúng bằng mệnh giá của nó thì:",
+    "answer": "tỷ lệ lợi tức yêu cầu của nhà đầu tư = lãi suất coupon."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Một trái phiếu niên kim cố định có mệnh giá 1.000 USD, lãi suất danh nghĩa 8%/năm, phát hành đầu năm 2003, đáo hạn đầu năm 2013. Giả sử trái chủ nắm giữ trái phiếu đến khi đáo hạn, thu nhập trái phiếu này mang lại cho trái chủ là:",
+    "answer": "khoản tiền đều hàng năm là 159,26 USD."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Trong trường hợp phá sản, giải thể doanh nghiệp, các cổ đông thường sẽ:",
+    "answer": "là người cuối cùng được thanh toán."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Năm nay, Công ty A có thu nhập ròng là 800 triệu đồng, số cổ phiếu đã phát hành là 600.000 cổ phiếu, cổ phiếu quỹ là 40.000, không có cổ phiếu ưu đãi. Hội đồng quản trị quyết định trả 560 triệu đồng cổ tức. Như vậy mỗi cổ phiếu được trả cổ tức là:",
+    "answer": "1.000 đồng."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Công ty A được phép phát hành 70.000 cổ phiếu. Hiện nay công ty phát hành được 60.000 cổ phiếu, trong đó có 10.000 cổ phiếu ngân quỹ. Số cổ phiếu đang lưu hành hiện nay của công ty là:",
+    "answer": "50.000 cổ phiếu."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Công ty XYZ có 10.000 cổ phiếu đang lưu hành và tuyên bố trả cổ tức bằng cổ phiếu với mức 30%. Khách hàng của bạn có 100 cổ phiếu XYZ. Sau khi nhận cổ tức bằng cổ phiếu, tỷ lệ sở hữu cổ phần của ông ta trong công ty XYZ là bao nhiêu?",
+    "answer": "1%."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Khi lãi suất tăng, nếu căn cứ vào độ co giãn của giá trái phiếu theo lãi suất, các nhà đầu tư thường chọn:",
+    "answer": "những trái phiếu có Duration nhỏ."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Nếu một trái phiếu coupon được bán với giá cao hơn mệnh giá thì:",
+    "answer": "tỷ lệ lợi tức yêu cầu của nhà đầu tư < lãi suất danh nghĩa của trái phiếu."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Công việc của nhà định giá là xác định giá trị nào trong các giá trị sau đây?",
+    "answer": "Giá trị thực."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Công ty cổ phần bắt buộc phải có:",
+    "answer": "cổ phần phổ thông."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Loại cổ phiếu được phát hành lần đầu tiên và tiền thuộc về công ty phát hành là:",
+    "answer": "cổ phiếu sơ cấp."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Các điều kiện khác không đổi, giá trái phiếu giảm khi:",
+    "answer": "lãi suất thị trường tăng."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Trái phiếu có kỳ hạn càng lớn thì sẽ có rủi ro lãi suất:",
+    "answer": "càng lớn."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Nếu 1 trái phiếu coupon được bán ra thấp hơn mệnh giá thì:",
+    "answer": "tỷ lệ lợi tức yêu cầu của nhà đầu tư > lãi suất danh nghĩa của trái phiếu."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Nếu trong trường hợp công ty hoạt động không có lãi, công ty vẫn phải:",
+    "answer": "trả lãi cho trái chủ."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Người sở hữu trái phiếu là:",
+    "answer": "chủ nợ công ty."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Nhà phát hành định phát hành 2 loại trái phiếu: trái phiếu X có thời hạn 5 năm và trái phiếu Y có thời hạn 30 năm. Như vậy, nhà phát hành phải định mức lãi suất cho 2 trái phiếu như thế nào?",
+    "answer": "Lãi suất trái phiếu X < lãi suất trái phiếu Y."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Giá trị thực của một tài sản là:",
+    "answer": "giá trị hiện tại của những luồng tiền trong tương lai dự tính thu được từ tài sản."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Cổ phiếu X có tỷ lệ tăng trưởng kỳ vọng không đổi theo các nhà phân tích chứng khoán là 8%/năm. Cổ tức được trả trong lần gần nhất là 2 USD. Nếu nhà đầu tư có ý định bán cổ phiếu đi sau khi đã nhận cổ tức của năm thì phải bán với giá bao nhiêu biết rằng tỷ lệ sinh lời yêu cầu của nhà đầu tư là 12%/năm?",
+    "answer": "54 USD."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Cổ phiếu X có mức tăng trưởng g = 0, cổ tức nhận được hàng năm là 2.000 đồng. Với mức tỷ suất lợi nhuận yêu cầu là 10%/năm thì giá cổ phiếu X được xác định là:",
+    "answer": "20.000 đồng."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Phát hành loại chứng khoán nào làm tăng vốn chủ sở hữu?",
+    "answer": "Cổ phiếu phổ thông và cổ phiếu ưu đãi."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Công ty định phát hành thêm 2 triệu cổ phiếu thường. Nếu điều này xảy ra thực sự thì:",
+    "answer": "vốn chủ sở hữu tăng."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Khi công ty giải thể, đối tượng nào sẽ được thanh toán cuối cùng?",
+    "answer": "Cổ đông thường."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Để đo lường tính nhạy cảm của giá trị trái phiếu với sự thay đổi của lãi suất người ta sử dụng:",
+    "answer": "độ co giãn (Duration)."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Nhà phát hành định phát hành 2 loại trái phiếu: trái phiếu X có thời hạn 5 năm và trái phiếu Y có thời hạn 30 năm. Như vậy, nhà phát hành phải định mức lãi suất cho 2 trái phiếu như thế nào?",
+    "answer": "Lãi suất trái phiếu X < lãi suất trái phiếu Y."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Cổ phiếu của công ty A được chi trả cổ tức hiện tại là 3.000 đồng. Biết giá hiện tại của cổ phiếu là 60.000 đồng, tỷ lệ lợi tức yêu cầu là 15%. Xác định tốc độ tăng trưởng cổ tức của cổ phiếu (giả định cổ tức tăng trưởng đều qua các năm).",
+    "answer": "10%."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Cổ phiếu phổ thông có thời hạn bao nhiêu?",
+    "answer": "Bằng tuổi đời công ty."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Giá trị thực của một tài sản là:",
+    "answer": "giá trị hiện tại của những luồng tiền trong tương lai dự tính thu được từ tài sản."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Công ty A được phép phát hành 70.000 cổ phiếu. Hiện nay công ty phát hành được 60.000 cổ phiếu, trong đó có 10.000 cổ phiếu ngân quỹ. Số cổ phiếu đang lưu hành hiện nay của công ty là:",
+    "answer": "50.000 cổ phiếu."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Khi lãi suất giảm, để tận dụng triệt để mức tăng giá do lãi suất, các nhà đầu tư thường chọn:",
+    "answer": "những trái phiếu có Duration lớn."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Cổ phiếu quỹ là loại cổ phiếu:",
+    "answer": "được chính tổ chức phát hành mua lại."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Công việc của nhà định giá là xác định giá trị nào trong các giá trị sau đây?",
+    "answer": "Giá trị thực."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Công ty XYZ có 10.000 cổ phiếu đang lưu hành và tuyên bố trả cổ tức bằng cổ phiếu với mức 30%. Khách hàng của bạn có 100 cổ phiếu XYZ. Sau khi nhận cổ tức bằng cổ phiếu, tỷ lệ sở hữu cổ phần của ông ta trong công ty XYZ là bao nhiêu?",
+    "answer": "1%."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Các điều kiện không đổi, giá trái phiếu tăng khi:",
+    "answer": "lãi suất thị trường giảm."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Cổ phiếu X có tỷ lệ tăng trưởng kỳ vọng không đổi theo các nhà phân tích chứng khoán là 8%/năm. Cổ tức được trả trong lần gần nhất là 2 USD. Nếu nhà đầu tư có ý định bán cổ phiếu đi sau khi đã nhận cổ tức của năm thì phải bán với giá bao nhiêu biết rằng tỷ lệ sinh lời yêu cầu của nhà đầu tư là 12%/năm?",
+    "answer": "54 USD."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Công ty định phát hành thêm 2 triệu cổ phiếu thường. Nếu điều này xảy ra thực sự thì:",
+    "answer": "vốn chủ sở hữu tăng."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Nếu trong trường hợp công ty hoạt động không có lãi, công ty vẫn phải:",
+    "answer": "trả lãi cho trái chủ."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Trong trường hợp phá sản, giải thể doanh nghiệp, các trái chủ sẽ:",
+    "answer": "được ưu tiên trả lại phần vốn đã đóng góp trước."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Khi lãi suất tăng, nếu căn cứ vào độ co giãn của giá trái phiếu theo lãi suất, các nhà đầu tư thường chọn:",
+    "answer": "những trái phiếu có Duration nhỏ."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Khi công ty giải thể, đối tượng nào sẽ được thanh toán cuối cùng?",
+    "answer": "Cổ đông thường."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Một trái phiếu niên kim cố định có mệnh giá 1.000 USD, lãi suất danh nghĩa 8%/năm, phát hành đầu năm 2003, đáo hạn đầu năm 2013. Giả sử trái chủ nắm giữ trái phiếu đến khi đáo hạn, thu nhập trái phiếu này mang lại cho trái chủ là:",
+    "answer": "khoản tiền đều hàng năm là 159,26 USD."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nếu 1 trái phiếu coupon được bán ra thấp hơn mệnh giá thì:",
+    "answer": "tỷ lệ lợi tức yêu cầu của nhà đầu tư > lãi suất danh nghĩa của trái phiếu."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Người sở hữu trái phiếu là:",
+    "answer": "chủ nợ công ty."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Trái phiếu coupon là trái phiếu:",
+    "answer": "mà tiền lãi được thanh toán đều đặn theo kỳ, còn tiền gốc thanh toán tại ngày đáo hạn."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Người sở hữu cổ phiếu phổ thông:",
+    "answer": "là chủ sở hữu công ty."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Phát hành loại chứng khoán nào làm tăng vốn chủ sở hữu?",
+    "answer": "Cổ phiếu phổ thông và cổ phiếu ưu đãi."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Trái phiếu có kỳ hạn càng lớn thì sẽ có rủi ro lãi suất:",
+    "answer": "càng lớn."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Các điều kiện khác không đổi, giá trái phiếu giảm khi:",
+    "answer": "lãi suất thị trường tăng."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Cổ phiếu X có mức tăng trưởng g = 0, cổ tức nhận được hàng năm là 2.000 đồng. Với mức tỷ suất lợi nhuận yêu cầu là 10%/năm thì giá cổ phiếu X được xác định là:",
+    "answer": "20.000 đồng."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Một trái phiếu coupon có mệnh giá 1.000 USD, lãi suất danh nghĩa 8%/năm, phát hành đầu năm 2003, đáo hạn đầu năm 2013. Giả sử trái chủ nắm giữ trái phiếu đến khi đáo hạn, thu nhập trái phiếu này mang lại cho trái chủ là:",
+    "answer": "tiền lãi hàng năm là 80 USD và tiền gốc khi trái phiếu đáo hạn là 1.000 USD."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Nếu một trái phiếu coupon được bán với giá cao hơn mệnh giá thì:",
+    "answer": "tỷ lệ lợi tức yêu cầu của nhà đầu tư < lãi suất danh nghĩa của trái phiếu."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Công ty cổ phần bắt buộc phải có:",
+    "answer": "cổ phần phổ thông."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Giá trị thực của tài sản chịu ảnh hưởng của những nhân tố nào?",
+    "answer": "Độ lớn và thời điểm của những luồng tiền dự tính trong tương lai, mức độ rủi ro của luồng tiền, tỷ lệ lợi tức yêu cầu của nhà đầu tư."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Để đo lường tính nhạy cảm của giá trị trái phiếu với sự thay đổi của lãi suất người ta sử dụng:",
+    "answer": "độ co giãn (Duration)."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Nếu một trái phiếu coupon được bán đúng bằng mệnh giá của nó thì:",
+    "answer": "tỷ lệ lợi tức yêu cầu của nhà đầu tư = lãi suất coupon."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Loại cổ phiếu được phát hành lần đầu tiên và tiền thuộc về công ty phát hành là:",
+    "answer": "cổ phiếu sơ cấp."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Năm nay, Công ty A có thu nhập ròng là 800 triệu đồng, số cổ phiếu đã phát hành là 600.000 cổ phiếu, cổ phiếu quỹ là 40.000, không có cổ phiếu ưu đãi. Hội đồng quản trị quyết định trả 560 triệu đồng cổ tức. Như vậy mỗi cổ phiếu được trả cổ tức là:",
+    "answer": "1.000 đồng."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Trong trường hợp phá sản, giải thể doanh nghiệp, các cổ đông thường sẽ:",
+    "answer": "là người cuối cùng được thanh toán."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Giá trị cổ phiếu được ghi trên tờ cổ phiếu, thường được quy định trong điều lệ của công ty cổ phần là:",
+    "answer": "mệnh giá cổ phiếu."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Khi công ty giải thể, đối tượng nào sẽ được thanh toán cuối cùng?",
+    "answer": "Cổ đông thường."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Giá trị thực của một tài sản là:",
+    "answer": "giá trị hiện tại của những luồng tiền trong tương lai dự tính thu được từ tài sản."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Công việc của nhà định giá là xác định giá trị nào trong các giá trị sau đây?",
+    "answer": "Giá trị thực."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Công ty A được phép phát hành 70.000 cổ phiếu. Hiện nay công ty phát hành được 60.000 cổ phiếu, trong đó có 10.000 cổ phiếu ngân quỹ. Số cổ phiếu đang lưu hành hiện nay của công ty là:",
+    "answer": "50.000 cổ phiếu."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Khi lãi suất tăng, nếu căn cứ vào độ co giãn của giá trái phiếu theo lãi suất, các nhà đầu tư thường chọn:",
+    "answer": "những trái phiếu có Duration nhỏ."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Chính phủ và chính quyền địa phương phát hành loại chứng khoán nào",
+    "answer": "Trái phiếu"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Thủ tục chào bán cổ phiếu riêng lẻ : Trong vòng bao nhiêu ngày kể từ khi hoàn thành đợt chào bán, tổ chức phát hành gửi báo cáo kết quả đợt chào bán cho cơ quan nhà nước có thẩm quyền",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Quỹ đầu tư dạng đóng là quỹ",
+    "answer": "Chỉ phát hành chứng chỉ quỹ một lần"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "Quỹ mở niêm yết trên thị trường chứng khoán"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Đối tượng nào sau đây được phát hành trái phiếu chuyển đổi",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Hình thức bảo lãnh nào mà tổ chức phát hành yêu cầu tổ chức bảo lãnh phải phân phối một tỷ lệ tối thiểu nhất định trái phiếu phát hành",
+    "answer": "Tối thiểu tối đa"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Đâu không phải chủ thể phát hành chứng khoán",
+    "answer": "Hộ gia đình"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "IPO là phương thức",
+    "answer": "Chào bán lần đầu ra công chúng"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Điều kiện chào bán trái phiếu ra công chúng về mức vốn điều lệ",
+    "answer": "10 tỷ đ"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Ở Việt Nam, loại hình doanh nghiệp nào được phép phát hành cả trái phiếu và cổ phiếu",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Tại Thái Lan, tổng số tiền huy động qua phát hành riêng lẻ không được quá",
+    "answer": "20 triệu bath"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Trong thời hạn ….. ngày kể từ ngày nhận được hồ sơ đăng ký đầy đủ và hợp lệ, cơ quan nhà nước có thẩm quyền thông báo cho tổ chức đăng ký và công bố trên trang thông tin điện tử về việc chào bán cổ phiếu riêng lẻ của tổ chức đăng ký.",
+    "answer": "15 ngày"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Hình thức nào dưới đây không phải là doanh nghiệp huy động vốn chủ sở hữu",
+    "answer": "Phát hành trái phiếu"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Doanh nghiệp phát hành cổ phiếu ưu đãi để",
+    "answer": "huy động vốn trong trường hợp muốn giảm chi phí vốn chủ sở hữu"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Tại Thái Lan, huy động qua phát hành riêng lẻ không được quá",
+    "answer": "35 người"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Đây là phương thức thường được áp dụng khi một công ty đại chúng phát hành bổ sung thêm cổ phiếu thường và chào bán cho các cổ đông cũ trước khi chào bán ra công chúng bên ngoài",
+    "answer": "Bảo lãnh dự phòng"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Hình thức bảo lãnh nào mà tổ chức bảo lãnh cũng phải cố gắng tối đa để bán hết số chứng khoán do tổ chức phát hành chỉ th",
+    "answer": "Tất cả hoặc khôn"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "IPO là phát hành trái phiếu lần đầu"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Hình thức bảo lãnh nào tổ chức bảo lãnh hoạt động như một đại lý cho tổ chức phát hành (Chính phủ); tổ chức bảo lãnh sẽ nỗ lực tối đa nhưng không cam kết trong việc phân phối trái phiếu cho các nhà đầu tư",
+    "answer": "Cố gắng tối đa"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Đâu không phải là đặc tính của vốn chủ sở hữu",
+    "answer": "Không bị ảnh hưởng khi phát hành thêm cổ phiếu"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Trái phiếu bằng đồng Việt Nam được tổ chức quốc tế chào bán có cam kết đưa vào giao dịch tại thị trường tập trung …. năm sau khi chào bán",
+    "answer": "1 năm"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Hinh thức bảo lãnh phát hành nào tổ chức bảo lãnh cam kết sẽ mua toàn trái phiếu của đơn vị phát hành cho dù trong trường hợp không phân phối hết",
+    "answer": "Cam kết chắc chắn"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Đâu không phải đặc điểm của vốn nợ",
+    "answer": "Vô thời hạn"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Hình thức bảo lãnh phát hành nào Người bảo lãnh nhận mua một phần (được quy định trong hợp đồng) số trái phiếu của Chính phủ nếu phân phối không hết",
+    "answer": "Bảo lãnh từng phần"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Để chứng minh tình hình tài chính lành mạnh trong việc vay vốn ngân hàng, các doanh nghiệp phải nộp các Báo cáo tài chính trong ít nhất bao nhiêu năm",
+    "answer": "3 năm gần nhất"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Mức vốn điều lệ tại thời điểm đăng ký chào bán chứng khoán",
+    "answer": "10 tỷ đ"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Đặc điểm đấu giá kiểu Mỹ là",
+    "answer": "thành viên trúng thầu sẽ mua trái phiếu có lãi suất đúng bằng lãi suất họ đã đặt thầu"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Mênh đề nào sau đây là đúng",
+    "answer": "Phát hành riêng lẻ là việc phát hành trong đó chứng khoán được bán trong phạm vi một số người nhất định, với những điều kiện hạn chế và khối lượng phát hành phải đạt một mức nhất định"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Trái phiếu bằng đồng Việt Nam được tổ chức quốc tế chào bán có kỳ hạn",
+    "answer": "Không dưới 10 năm"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là không đúng",
+    "answer": "Công ty hợp danh được phép phát hành chứng khoán"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Đâu không phải là mục tiêu của phát hành riêng lẻ",
+    "answer": "Số lượng huy động vốn rất lớn."
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Đặc điểm đấu giá kiểu Hà Lan",
+    "answer": "Lãi suất trúng thầu cao nhất sẽ là lãi suất áp dụng chung cho mọi đối tượng trúng thầu"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Quỹ đầu tư chứng khoán dạng mở là quỹ:",
+    "answer": "Liên tục phát hành chứng chỉ quỹ"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Quỹ đầu tư dạng đóng là quỹ",
+    "answer": "Chỉ phát hành chứng chỉ quỹ một lần"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Đâu không phải chủ thể phát hành chứng khoán",
+    "answer": "Hộ gia đình"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Đối tượng nào sau đây được phát hành trái phiếu chuyển đổi",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Đâu không phải là đặc tính của vốn chủ sở hữu",
+    "answer": "Không bị ảnh hưởng khi phát hành thêm cổ phiếu"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Doanh nghiệp phát hành cổ phiếu ưu đãi để",
+    "answer": "huy động vốn trong trường hợp muốn giảm chi phí vốn chủ sở hữu"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Điều kiện chào bán trái phiếu ra công chúng về mức vốn điều lệ",
+    "answer": "10 tỷ đ"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Chính phủ và chính quyền địa phương phát hành loại chứng khoán nào",
+    "answer": "Trái phiếu"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Thủ tục chào bán cổ phiếu riêng lẻ : Trong vòng bao nhiêu ngày kể từ khi hoàn thành đợt chào bán, tổ chức phát hành gửi báo cáo kết quả đợt chào bán cho cơ quan nhà nước có thẩm quyền",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là không đúng",
+    "answer": "Công ty hợp danh được phép phát hành chứng khoán"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Hình thức bảo lãnh nào mà tổ chức phát hành yêu cầu tổ chức bảo lãnh phải phân phối một tỷ lệ tối thiểu nhất định trái phiếu phát hành",
+    "answer": "Tối thiểu tối đa"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Hình thức bảo lãnh phát hành nào Người bảo lãnh nhận mua một phần (được quy định trong hợp đồng) số trái phiếu của Chính phủ nếu phân phối không hết",
+    "answer": "Bảo lãnh từng phần"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Mênh đề nào sau đây là đúng",
+    "answer": "Phát hành riêng lẻ là việc phát hành trong đó chứng khoán được bán trong phạm vi một số người nhất định, với những điều kiện hạn chế và khối lượng phát hành phải đạt một mức nhất định"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Ở Việt Nam, loại hình doanh nghiệp nào được phép phát hành cả trái phiếu và cổ phiếu",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Mức vốn điều lệ tại thời điểm đăng ký chào bán chứng khoán",
+    "answer": "10 tỷ đ"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Trái phiếu bằng đồng Việt Nam được tổ chức quốc tế chào bán có cam kết đưa vào giao dịch tại thị trường tập trung …. năm sau khi chào bán",
+    "answer": "1 năm"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "IPO là phương thức",
+    "answer": "Chào bán lần đầu ra công chúng"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Trái phiếu bằng đồng Việt Nam được tổ chức quốc tế chào bán có kỳ hạn",
+    "answer": "Không dưới 10 năm"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Đặc điểm đấu giá kiểu Hà Lan",
+    "answer": "Lãi suất trúng thầu cao nhất sẽ là lãi suất áp dụng chung cho mọi đối tượng trúng thầu"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Đây là phương thức thường được áp dụng khi một công ty đại chúng phát hành bổ sung thêm cổ phiếu thường và chào bán cho các cổ đông cũ trước khi chào bán ra công chúng bên ngoài",
+    "answer": "Bảo lãnh dự phòng"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Quỹ đầu tư chứng khoán dạng mở là quỹ:",
+    "answer": "Liên tục phát hành chứng chỉ quỹ"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Hình thức bảo lãnh nào mà tổ chức bảo lãnh cũng phải cố gắng tối đa để bán hết số chứng khoán do tổ chức phát hành chỉ th",
+    "answer": "Tất cả hoặc khôn"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Để chứng minh tình hình tài chính lành mạnh trong việc vay vốn ngân hàng, các doanh nghiệp phải nộp các Báo cáo tài chính trong ít nhất bao nhiêu năm",
+    "answer": "3 năm gần nhất"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Trong thời hạn ….. ngày kể từ ngày nhận được hồ sơ đăng ký đầy đủ và hợp lệ, cơ quan nhà nước có thẩm quyền thông báo cho tổ chức đăng ký và công bố trên trang thông tin điện tử về việc chào bán cổ phiếu riêng lẻ của tổ chức đăng ký.",
+    "answer": "15 ngày"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "IPO là phát hành trái phiếu lần đầu"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Hình thức bảo lãnh nào tổ chức bảo lãnh hoạt động như một đại lý cho tổ chức phát hành (Chính phủ); tổ chức bảo lãnh sẽ nỗ lực tối đa nhưng không cam kết trong việc phân phối trái phiếu cho các nhà đầu tư",
+    "answer": "Cố gắng tối đa"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Hình thức nào dưới đây không phải là doanh nghiệp huy động vốn chủ sở hữu",
+    "answer": "Phát hành trái phiếu"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Đâu không phải đặc điểm của vốn nợ",
+    "answer": "Vô thời hạn"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Đặc điểm đấu giá kiểu Mỹ là",
+    "answer": "thành viên trúng thầu sẽ mua trái phiếu có lãi suất đúng bằng lãi suất họ đã đặt thầu"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Hinh thức bảo lãnh phát hành nào tổ chức bảo lãnh cam kết sẽ mua toàn trái phiếu của đơn vị phát hành cho dù trong trường hợp không phân phối hết",
+    "answer": "Cam kết chắc chắn"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Tại Thái Lan, tổng số tiền huy động qua phát hành riêng lẻ không được quá",
+    "answer": "20 triệu bath"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Đâu không phải là mục tiêu của phát hành riêng lẻ",
+    "answer": "Số lượng huy động vốn rất lớn."
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "Quỹ mở niêm yết trên thị trường chứng khoán"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Tại Thái Lan, huy động qua phát hành riêng lẻ không được quá",
+    "answer": "35 người"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Để chứng minh tình hình tài chính lành mạnh trong việc vay vốn ngân hàng, các doanh nghiệp phải nộp các Báo cáo tài chính trong ít nhất bao nhiêu năm",
+    "answer": "3 năm gần nhất"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Thủ tục chào bán cổ phiếu riêng lẻ : Trong vòng bao nhiêu ngày kể từ khi hoàn thành đợt chào bán, tổ chức phát hành gửi báo cáo kết quả đợt chào bán cho cơ quan nhà nước có thẩm quyền",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Hình thức nào dưới đây không phải là doanh nghiệp huy động vốn chủ sở hữu",
+    "answer": "Phát hành trái phiếu"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Mênh đề nào sau đây là đúng",
+    "answer": "Phát hành riêng lẻ là việc phát hành trong đó chứng khoán được bán trong phạm vi một số người nhất định, với những điều kiện hạn chế và khối lượng phát hành phải đạt một mức nhất định"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Trong thời hạn ….. ngày kể từ ngày nhận được hồ sơ đăng ký đầy đủ và hợp lệ, cơ quan nhà nước có thẩm quyền thông báo cho tổ chức đăng ký và công bố trên trang thông tin điện tử về việc chào bán cổ phiếu riêng lẻ của tổ chức đăng ký.",
+    "answer": "15 ngày"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Ở Việt Nam, loại hình doanh nghiệp nào được phép phát hành cả trái phiếu và cổ phiếu",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Đâu không phải chủ thể phát hành chứng khoán",
+    "answer": "Hộ gia đình"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Mức vốn điều lệ tại thời điểm đăng ký chào bán chứng khoán",
+    "answer": "10 tỷ đ"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Chính phủ và chính quyền địa phương phát hành loại chứng khoán nào",
+    "answer": "Trái phiếu"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Lệnh thị trường là lệnh:",
+    "answer": "Đặt mua (bán) chứng khoán theo giá thị trường"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Lệnh giao dịch được áp dụng trên thị trường cổ phiếu niêm yết tại Sở Giao dịch chứng khoán TP. Hồ Chí Minh là:",
+    "answer": "Lệnh giới hạn, lệnh thị trường, ATO, ATC"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Biên độ dao động giá trên thị trường chứng khoán Việt Nam do:",
+    "answer": "Sở Giao dịch Chứng khoán quy định."
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Sổ lệnh của cổ phiếu Z như sau trong phiên khớp lệnh định kỳ:",
+    "answer": "1000 cổ phiếu, giá 51000"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Nhà đầu tư có quyền bán cổ phiếu niêm yết lô lẻ tại:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Niêm yết chứng khoán là :",
+    "answer": "Quá trình định danh các chứng khoán đáp ứng đủ tiêu chuẩn được giao dịch trên SGDCK"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Sổ lệnh của cổ phiếu X như sau trong phiên khớp lệnh định kỳ:",
+    "answer": "500 cổ phiếu, giá 51000"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Giao dịch theo phương thức khớp lệnh ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh quy định đơn vị yết giá đối với những cổ phiếu có mức giá từ 50.000 đồng đến 99.500 đồng là:",
+    "answer": "100đ"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Xác định quy trình giao dịch tại thị trường chứng khoán tập trung khi chưa có giao dịch trực tuyến:",
+    "answer": "1-5-3-7-2-8-4-6"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Lệnh thị trường là lệnh:",
+    "answer": "Khách hàng không đưa giá trong lệnh"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Niêm yết nào sau đây là niêm yết cửa sau :",
+    "answer": "việc cho phép chứng khoán của tổ chức phát hành được đăng ký niêm yết giao dịch chứng khoán lần đầu tiên sau khi phát hành ra công chúng (IPO) khi tổ chức phát hành đó đáp ứng được các tiêu chuẩn về niêm yết."
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Sổ lệnh của cổ phiếu Y như sau:",
+    "answer": "Không bán được cổ phiếu nào"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Thời gian giao dịch trong ngày làm việc ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh là:",
+    "answer": "Từ 9h00 đến 15h00"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Giả sử giá đóng cửa chứng khoán A trong phiên giao dịch trước là 9500 đồng. Đơn vị yết giá 100 đồng, biên độ dao động giá là 7%, các mức giá mà nhà đầu tư chứng khoán có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "9300, 9700, 9800, 10100"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Giao dịch theo phương thức khớp lệnh ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh quy định đơn vị yết giá đối với những cổ phiếu có mức giá dưới 50.000 đồng là:",
+    "answer": "50đ"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Nếu giá tham chiếu của cổ phiếu Z đang ở mức 50.500 đồng với đơn vị yết giá 100 đồng đối với giá dưới 49.900 đồng và 500 đồng đối với giá từ 50.000 đồng đến 99.500 đồng, biên độ dao động 7%, mức giá mà nhà đầu tư chứng khoán có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "51.500"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Lệnh giao dịch được áp dụng trên thị trường cổ phiếu niêm yết tại Sở Giao dịch chứng khoán Hà Nội là:",
+    "answer": "Lệnh giới hạn, Lệnh thị trường, ATC và PLO"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Sở giao dịch chứng khoán có thể có những hình thức sở hữu sau đây:",
+    "answer": "Hình thức sở hữu nhà nước, Hình thức sở hữu thành viên, Hình thức sở hữu công ty cổ phần"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Niêm yết chứng khoán nhằm mục tiêu ",
+    "answer": "Thiết lập quan hệ hợp đồng giữa SGDCK với tổ chức phát hành có chứng khoán niêm yết"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Lệnh thị trường là lệnh:",
+    "answer": "Được ưu tiên thực hiện trước các lệnh khác."
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Sở giao dịch chứng khoán là:",
+    "answer": "Thị trường tập trung"
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Giả sử cổ phiếu A được niêm yết trên Sở giao dịch chứng khoán TP. Hồ Chí Minh, có giá đóng cửa ở phiên giao dịch trước là 101.000 đồng, theo quy chế giao dịch ở thị trường chứng khoán Việt Nam hiện nay, mức giá nào sẽ là mức đặt lệnh hợp lệ trong các mức giá sau:",
+    "answer": "101.100 đồng"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Giao dịch theo phương thức khớp lệnh ở Sở Giao dịch chứng khoán Hà Nội quy định đơn vị yết giá đối với những cổ phiếu có mức giá từ 100.000 đồng trở lên là:",
+    "answer": "100 đ"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Trong tháng 7 không có ngày nghỉ lễ, một nhà đầu tư bán cổ phiếu trên thị trường chứng khoán tập trung và đã được báo là giao dịch thành công vào phiên giao dịch ngày 16 tháng 7 (thứ 6). Thời gian thanh toán là T+3. Thời gian tiền được chuyển vào tài khoản của bạn là:",
+    "answer": "Thứ tư 21/7"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Nhà đầu tư đặt lệnh mua bán chứng khoán niêm yết tại:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Tiêu chuẩn niêm yết cổ phiếu trên SGDCK Hà Nội là gì :",
+    "answer": "công ty cổ phần có vốn điều lệ đã góp tại thời điểm đăng ký niêm yết từ 30 tỷ đồng Việt Nam trở lên tính theo giá trị ghi trên sổ kế toán"
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Lệnh dừng để mua được đưa ra:",
+    "answer": "Với giá cao hơn giá thị trường hiện hành"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Lệnh giới hạn là lệnh:",
+    "answer": "Được thực hiện tại mức giá mà người đặt lệnh chỉ định"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Nếu giá tham chiếu của cổ phiếu Y đang ở mức 101.000 đồng với đơn vị yết giá 1000 đồng đối với giá trên 100.000 đồng và 500 đồng đối với giá từ 50.000 đồng đến 99.500 đồng, biên độ dao động 10%, mức giá mà nhà đầu tư chứng khoán có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "92.000"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Niêm yết nào sau đây là niêm yết lần đầu :",
+    "answer": "việc cho phép chứng khoán của tổ chức phát hành được đăng ký niêm yết giao dịch chứng khoán lần đầu tiên sau khi phát hành ra công chúng (IPO) khi tổ chức phát hành đó đáp ứng được các tiêu chuẩn về niêm yết."
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Đơn vị yết giá là:",
+    "answer": "Mức giá tối thiểu cho mỗi lần mua (bán) chứng khoán"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Các phiên giao dịch chứng khoán trên thị trường chứng khoán Việt Nam được thực hiện vào:",
+    "answer": "Các ngày trong tuần trừ thứ bảy, chủ nhật và ngày lễ."
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Vai trò của Sở giao dịch chứng khoán là:",
+    "answer": "Thiết lập một thị trường giao chứng khoán có tổ chức, vận hành liên tục với các chứng khoán được chọn lựa"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Giả sử giá đóng cửa của cổ phiếu A trong phiên giao dịch trước là 10200 đồng, đơn vị yết giá là 100 đồng, biên độ dao động giá là 5%. Các mức giá mà nhà đầu tư có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "9900, 10000, 10100, 10300."
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Niêm yết chứng khoán là :",
+    "answer": "Quá trình định danh các chứng khoán đáp ứng đủ tiêu chuẩn được giao dịch trên SGDCK"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Giả sử giá đóng cửa chứng khoán A trong phiên giao dịch trước là 9500 đồng. Đơn vị yết giá 100 đồng, biên độ dao động giá là 7%, các mức giá mà nhà đầu tư chứng khoán có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "9300, 9700, 9800, 10100"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Lệnh giao dịch được áp dụng trên thị trường cổ phiếu niêm yết tại Sở Giao dịch chứng khoán Hà Nội là:",
+    "answer": "Lệnh giới hạn, Lệnh thị trường, ATC và PLO"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Tiêu chuẩn niêm yết cổ phiếu trên SGDCK Hà Nội là gì :",
+    "answer": "công ty cổ phần có vốn điều lệ đã góp tại thời điểm đăng ký niêm yết từ 30 tỷ đồng Việt Nam trở lên tính theo giá trị ghi trên sổ kế toán"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Lệnh thị trường là lệnh:",
+    "answer": "Được ưu tiên thực hiện trước các lệnh khác."
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Lệnh dừng để mua được đưa ra:",
+    "answer": "Với giá cao hơn giá thị trường hiện hành"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Nhà đầu tư đặt lệnh mua bán chứng khoán niêm yết tại:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Nhà đầu tư có quyền bán cổ phiếu niêm yết lô lẻ tại:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Giả sử cổ phiếu A được niêm yết trên Sở giao dịch chứng khoán TP. Hồ Chí Minh, có giá đóng cửa ở phiên giao dịch trước là 101.000 đồng, theo quy chế giao dịch ở thị trường chứng khoán Việt Nam hiện nay, mức giá nào sẽ là mức đặt lệnh hợp lệ trong các mức giá sau:",
+    "answer": "101.100 đồng"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Sở giao dịch chứng khoán là:",
+    "answer": "Thị trường tập trung"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Giao dịch theo phương thức khớp lệnh ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh quy định đơn vị yết giá đối với những cổ phiếu có mức giá dưới 50.000 đồng là:",
+    "answer": "50đ"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Giả sử giá đóng cửa của cổ phiếu A trong phiên giao dịch trước là 10200 đồng, đơn vị yết giá là 100 đồng, biên độ dao động giá là 5%. Các mức giá mà nhà đầu tư có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "9900, 10000, 10100, 10300."
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Sổ lệnh của cổ phiếu Z như sau trong phiên khớp lệnh định kỳ:",
+    "answer": "1000 cổ phiếu, giá 51000"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Trong tháng 7 không có ngày nghỉ lễ, một nhà đầu tư bán cổ phiếu trên thị trường chứng khoán tập trung và đã được báo là giao dịch thành công vào phiên giao dịch ngày 16 tháng 7 (thứ 6). Thời gian thanh toán là T+3. Thời gian tiền được chuyển vào tài khoản của bạn là:",
+    "answer": "Thứ tư 21/7"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Biên độ dao động giá trên thị trường chứng khoán Việt Nam do:",
+    "answer": "Sở Giao dịch Chứng khoán quy định."
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Niêm yết nào sau đây là niêm yết cửa sau :",
+    "answer": "việc cho phép chứng khoán của tổ chức phát hành được đăng ký niêm yết giao dịch chứng khoán lần đầu tiên sau khi phát hành ra công chúng (IPO) khi tổ chức phát hành đó đáp ứng được các tiêu chuẩn về niêm yết."
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Giao dịch theo phương thức khớp lệnh ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh quy định đơn vị yết giá đối với những cổ phiếu có mức giá từ 50.000 đồng đến 99.500 đồng là:",
+    "answer": "100đ"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Vai trò của Sở giao dịch chứng khoán là:",
+    "answer": "Thiết lập một thị trường giao chứng khoán có tổ chức, vận hành liên tục với các chứng khoán được chọn lựa"
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Lệnh giao dịch được áp dụng trên thị trường cổ phiếu niêm yết tại Sở Giao dịch chứng khoán TP. Hồ Chí Minh là:",
+    "answer": "Lệnh giới hạn, lệnh thị trường, ATO, ATC"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Nếu giá tham chiếu của cổ phiếu Y đang ở mức 101.000 đồng với đơn vị yết giá 1000 đồng đối với giá trên 100.000 đồng và 500 đồng đối với giá từ 50.000 đồng đến 99.500 đồng, biên độ dao động 10%, mức giá mà nhà đầu tư chứng khoán có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "92.000"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Các phiên giao dịch chứng khoán trên thị trường chứng khoán Việt Nam được thực hiện vào:",
+    "answer": "Các ngày trong tuần trừ thứ bảy, chủ nhật và ngày lễ."
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Giao dịch theo phương thức khớp lệnh ở Sở Giao dịch chứng khoán Hà Nội quy định đơn vị yết giá đối với những cổ phiếu có mức giá từ 100.000 đồng trở lên là:",
+    "answer": "100 đ"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Sở giao dịch chứng khoán có thể có những hình thức sở hữu sau đây:",
+    "answer": "Hình thức sở hữu nhà nước, Hình thức sở hữu thành viên, Hình thức sở hữu công ty cổ phần"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Đơn vị yết giá là:",
+    "answer": "Mức giá tối thiểu cho mỗi lần mua (bán) chứng khoán"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Niêm yết nào sau đây là niêm yết lần đầu :",
+    "answer": "việc cho phép chứng khoán của tổ chức phát hành được đăng ký niêm yết giao dịch chứng khoán lần đầu tiên sau khi phát hành ra công chúng (IPO) khi tổ chức phát hành đó đáp ứng được các tiêu chuẩn về niêm yết."
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Lệnh giới hạn là lệnh:",
+    "answer": "Được thực hiện tại mức giá mà người đặt lệnh chỉ định"
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": "Lệnh thị trường là lệnh:",
+    "answer": "Khách hàng không đưa giá trong lệnh"
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "Sổ lệnh của cổ phiếu X như sau trong phiên khớp lệnh định kỳ:",
+    "answer": "500 cổ phiếu, giá 51000"
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Thời gian giao dịch trong ngày làm việc ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh là:",
+    "answer": "Từ 9h00 đến 15h00"
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "Nếu giá tham chiếu của cổ phiếu Z đang ở mức 50.500 đồng với đơn vị yết giá 100 đồng đối với giá dưới 49.900 đồng và 500 đồng đối với giá từ 50.000 đồng đến 99.500 đồng, biên độ dao động 7%, mức giá mà nhà đầu tư chứng khoán có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "51.500"
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Sổ lệnh của cổ phiếu Y như sau:",
+    "answer": "Không bán được cổ phiếu nào"
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Xác định quy trình giao dịch tại thị trường chứng khoán tập trung khi chưa có giao dịch trực tuyến:",
+    "answer": "1-5-3-7-2-8-4-6"
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "Lệnh thị trường là lệnh:",
+    "answer": "Đặt mua (bán) chứng khoán theo giá thị trường"
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": "Niêm yết chứng khoán nhằm mục tiêu ",
+    "answer": "Thiết lập quan hệ hợp đồng giữa SGDCK với tổ chức phát hành có chứng khoán niêm yết"
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Nhà đầu tư có quyền bán cổ phiếu niêm yết lô lẻ tại:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "Nhà đầu tư đặt lệnh mua bán chứng khoán niêm yết tại:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": "Lệnh thị trường là lệnh:",
+    "answer": "Được ưu tiên thực hiện trước các lệnh khác."
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": "Lệnh giao dịch được áp dụng trên thị trường cổ phiếu niêm yết tại Sở Giao dịch chứng khoán TP. Hồ Chí Minh là:",
+    "answer": "Lệnh giới hạn, lệnh thị trường, ATO, ATC"
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Sở giao dịch chứng khoán là:",
+    "answer": "Thị trường tập trung"
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "Sổ lệnh của cổ phiếu Z như sau trong phiên khớp lệnh định kỳ:",
+    "answer": "1000 cổ phiếu, giá 51000"
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Lệnh dừng để mua được đưa ra:",
+    "answer": "Với giá cao hơn giá thị trường hiện hành"
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Đặc điểm quan trọng nhất của thị trường OTC để phân biệt với thị trường chứng khoán tập trung là:",
+    "answer": "Cơ chế xác lập giá bằng hình thức thương lượng, thỏa thuận song phương giữa người mua và người bán"
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "Đặc điểm của thị trường OTC :",
+    "answer": "Không có địa điểm giao dịch cụ thể"
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Số doanh nghiệp trên thị trường UpCoM khi khai trương:",
+    "answer": "10 doanh nghiệp"
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Tổ chức tham gia tạo lập thị trường trên thị trường trái phiếu có mấy cấp độ",
+    "answer": "2"
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Biên độ giao động giá trên thị trường UpCoM:",
+    "answer": "15%"
+  },
+  {
+    "id": 321,
+    "premium": false,
+    "question": "Thị trường OTC là",
+    "answer": "Thị trường thứ cấp"
+  },
+  {
+    "id": 322,
+    "premium": false,
+    "question": "Thị trường UpCoM được thành lập vào năm",
+    "answer": "2009"
+  },
+  {
+    "id": 323,
+    "premium": false,
+    "question": "Phương thức giao dịch trên thị trường OTC giai đoạn đầu",
+    "answer": "Thương lượng thỏa thuận"
+  },
+  {
+    "id": 324,
+    "premium": false,
+    "question": "Để tạo ra thị trường cho một loại chứng khoán, các nhà tạo lập thị trường cần:",
+    "answer": "Xướng giá cao nhất sẵn sàng mua"
+  },
+  {
+    "id": 325,
+    "premium": false,
+    "question": "Đơn vị yết giá trên sàn UpCom",
+    "answer": "100 đồng"
+  },
+  {
+    "id": 326,
+    "premium": false,
+    "question": "Đơn vị giao dịch với khớp lệnh thỏa thuận trên UpCoM",
+    "answer": "Không quy định"
+  },
+  {
+    "id": 327,
+    "premium": false,
+    "question": "Đâu không phải mục tiêu của thị trường OTC hiện đại",
+    "answer": "Tạo ra môi trường đầu tư có rủi ro thấp cho nền kinh tế."
+  },
+  {
+    "id": 328,
+    "premium": false,
+    "question": "Đâu không phải lợi ích của nhà tạo lập thị trường",
+    "answer": "Lợi ích ưu đãi khi phát hành chứng khoán"
+  },
+  {
+    "id": 329,
+    "premium": false,
+    "question": "Chứng khoán giao dịch trên thị trường OTC có độ rủi ro …… so với các chứng khoán niêm yết trên SGDCK:",
+    "answer": "Cao hơn"
+  },
+  {
+    "id": 330,
+    "premium": false,
+    "question": "Cơ chế xác lập giá chứng khoán chủ yếu trên thị trường OTC là:",
+    "answer": "Thương lượng, thỏa thuận"
+  },
+  {
+    "id": 331,
+    "premium": false,
+    "question": "Điểm giống nhau giữa thị trường OTC và SGDCK:",
+    "answer": "Chịu sự quản lý, giám sát của nhà nước"
+  },
+  {
+    "id": 332,
+    "premium": false,
+    "question": "Nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 333,
+    "premium": false,
+    "question": "Đâu là điều sai khi nói về nhà tạo lập thị trường",
+    "answer": "Nhà tạo lập thị trường không chịu áp lực về phá sản"
+  },
+  {
+    "id": 334,
+    "premium": false,
+    "question": "Điều nào sau đây là sai",
+    "answer": "Thị trường OTC không có sự tham gia của nhà tạo lập thị trường."
+  },
+  {
+    "id": 335,
+    "premium": false,
+    "question": "Trong ngày giao dịch đầu tiên của cổ phiếu mới đăng ký giao dịch hoặc ngày đầu tiên giao dịch trở lại của cổ phiếu không có giao dịch trên 25 phiên liên tiếp, SGDCK chỉ nhận lệnh giao dịch theo phương thức:",
+    "answer": "Khớp lệnh liên tục"
+  },
+  {
+    "id": 336,
+    "premium": false,
+    "question": "Vai trò của thị trường OTC KHÔNG bao gồm:",
+    "answer": "Mở rộng thị trường tự do"
+  },
+  {
+    "id": 337,
+    "premium": false,
+    "question": "Hoạt động giao dịch của thị trường OTC được diễn ra",
+    "answer": "Tại quầy (sàn giao dịch) của các ngân hàng thương mại hoặc các công ty chứng khoán"
+  },
+  {
+    "id": 338,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "Thị trường OTC chỉ niêm yết các công ty vừa và nhỏ"
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Nhiệm vụ của nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Tạo tính thanh khoản cho thị trường"
+  },
+  {
+    "id": 340,
+    "premium": false,
+    "question": "Giá chứng khoán trên thị trường OTC được hình thành qua:",
+    "answer": "Thương lượng và thỏa thuận riêng biệt giữa người mua và người bán"
+  },
+  {
+    "id": 341,
+    "premium": false,
+    "question": "Lệnh giao dịch của nhà đầu tư trong nước lưu ký tại tổ chức lưu ký trong nước hoặc tại tổ chức lưu ký nước ngoài; Tổ chức lưu ký trong nước tự doanh tại UpCoM được ký hiệu là :",
+    "answer": "M"
+  },
+  {
+    "id": 342,
+    "premium": false,
+    "question": "Ý nghĩa của cụm từ “thị trường OTC”:",
+    "answer": "Thị trường giao dịch qua quầy"
+  },
+  {
+    "id": 343,
+    "premium": false,
+    "question": "Chứng khoán giao dịch trên thị trường OTC là:",
+    "answer": "chứng khoán đáp ứng yêu cầu tài chính tối thiểu của thị trường OTC"
+  },
+  {
+    "id": 344,
+    "premium": false,
+    "question": "Biên độ giao dịch trong ngày giao dịch đầu tiên của cổ phiếu mới trên thị trường UpCoM:",
+    "answer": "40%"
+  },
+  {
+    "id": 345,
+    "premium": false,
+    "question": "Các điều kiện để trở thành nhà tạo lập thị trường",
+    "answer": "Quy mô vốn, đội ngũ nhân viên, cơ sở vật chất kỹ thuật"
+  },
+  {
+    "id": 346,
+    "premium": false,
+    "question": "Chức năng của nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Duy trì tính linh hoạt của thị trường đối với một loại chứng khoán khi chứng khoán đó được phát hành ra thị trường."
+  },
+  {
+    "id": 347,
+    "premium": false,
+    "question": "Số lượng nhóm thành viên chính trên thị trường OTC",
+    "answer": "4"
+  },
+  {
+    "id": 348,
+    "premium": false,
+    "question": "Biên độ dao động giá đối với trường hợp trả cổ tức/thưởng bằng cổ phiếu quỹ cho cổ đông hiện hữu trong ngày không hưởng quyền hoặc trả cổ tức bằng tiền với giá trị số tiền lớn hơn hoặc bằng giá bình quân gia quyền của cổ phiếu trong ngày giao dịch liền trước ngày không hưởng quyền trên UpCoM là:",
+    "answer": "40%"
+  },
+  {
+    "id": 349,
+    "premium": false,
+    "question": "Giá chứng khoán trên thị trường OTC được hình thành qua:",
+    "answer": "Thương lượng và thỏa thuận riêng biệt giữa người mua và người bán"
+  },
+  {
+    "id": 350,
+    "premium": false,
+    "question": "Trong ngày giao dịch đầu tiên của cổ phiếu mới đăng ký giao dịch hoặc ngày đầu tiên giao dịch trở lại của cổ phiếu không có giao dịch trên 25 phiên liên tiếp, SGDCK chỉ nhận lệnh giao dịch theo phương thức:",
+    "answer": "Khớp lệnh liên tục"
+  },
+  {
+    "id": 351,
+    "premium": false,
+    "question": "Điều nào sau đây là sai",
+    "answer": "Thị trường OTC không có sự tham gia của nhà tạo lập thị trường."
+  },
+  {
+    "id": 352,
+    "premium": false,
+    "question": "Vai trò của thị trường OTC KHÔNG bao gồm:",
+    "answer": "Mở rộng thị trường tự do"
+  },
+  {
+    "id": 353,
+    "premium": false,
+    "question": "Hoạt động giao dịch của thị trường OTC được diễn ra",
+    "answer": "Tại quầy (sàn giao dịch) của các ngân hàng thương mại hoặc các công ty chứng khoán"
+  },
+  {
+    "id": 354,
+    "premium": false,
+    "question": "Đặc điểm quan trọng nhất của thị trường OTC để phân biệt với thị trường chứng khoán tập trung là:",
+    "answer": "Cơ chế xác lập giá bằng hình thức thương lượng, thỏa thuận song phương giữa người mua và người bán"
+  },
+  {
+    "id": 355,
+    "premium": false,
+    "question": "Biên độ giao dịch trong ngày giao dịch đầu tiên của cổ phiếu mới trên thị trường UpCoM:",
+    "answer": "40%"
+  },
+  {
+    "id": 356,
+    "premium": false,
+    "question": "Đơn vị giao dịch với khớp lệnh thỏa thuận trên UpCoM",
+    "answer": "Không quy định"
+  },
+  {
+    "id": 357,
+    "premium": false,
+    "question": "Nhiệm vụ của nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Tạo tính thanh khoản cho thị trường"
+  },
+  {
+    "id": 358,
+    "premium": false,
+    "question": "Đâu là điều sai khi nói về nhà tạo lập thị trường",
+    "answer": "Nhà tạo lập thị trường không chịu áp lực về phá sản"
+  },
+  {
+    "id": 359,
+    "premium": false,
+    "question": "Đơn vị yết giá trên sàn UpCom",
+    "answer": "100 đồng"
+  },
+  {
+    "id": 360,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "Thị trường OTC chỉ niêm yết các công ty vừa và nhỏ"
+  },
+  {
+    "id": 361,
+    "premium": false,
+    "question": "Nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 362,
+    "premium": false,
+    "question": "Chứng khoán giao dịch trên thị trường OTC là:",
+    "answer": "chứng khoán đáp ứng yêu cầu tài chính tối thiểu của thị trường OTC"
+  },
+  {
+    "id": 363,
+    "premium": false,
+    "question": "Thị trường UpCoM được thành lập vào năm",
+    "answer": "2009"
+  },
+  {
+    "id": 364,
+    "premium": false,
+    "question": "Phương thức giao dịch trên thị trường OTC giai đoạn đầu",
+    "answer": "Thương lượng thỏa thuận"
+  },
+  {
+    "id": 365,
+    "premium": false,
+    "question": "Lệnh giao dịch của nhà đầu tư trong nước lưu ký tại tổ chức lưu ký trong nước hoặc tại tổ chức lưu ký nước ngoài; Tổ chức lưu ký trong nước tự doanh tại UpCoM được ký hiệu là :",
+    "answer": "M"
+  },
+  {
+    "id": 366,
+    "premium": false,
+    "question": "Cơ chế xác lập giá chứng khoán chủ yếu trên thị trường OTC là:",
+    "answer": "Thương lượng, thỏa thuận"
+  },
+  {
+    "id": 367,
+    "premium": false,
+    "question": "Đâu không phải lợi ích của nhà tạo lập thị trường",
+    "answer": "Lợi ích ưu đãi khi phát hành chứng khoán"
+  },
+  {
+    "id": 368,
+    "premium": false,
+    "question": "Chứng khoán giao dịch trên thị trường OTC có độ rủi ro …… so với các chứng khoán niêm yết trên SGDCK:",
+    "answer": "Cao hơn"
+  },
+  {
+    "id": 369,
+    "premium": false,
+    "question": "Thị trường OTC là",
+    "answer": "Thị trường thứ cấp"
+  },
+  {
+    "id": 370,
+    "premium": false,
+    "question": "Số lượng nhóm thành viên chính trên thị trường OTC",
+    "answer": "4"
+  },
+  {
+    "id": 371,
+    "premium": false,
+    "question": "Chức năng của nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Duy trì tính linh hoạt của thị trường đối với một loại chứng khoán khi chứng khoán đó được phát hành ra thị trường."
+  },
+  {
+    "id": 372,
+    "premium": false,
+    "question": "Điểm giống nhau giữa thị trường OTC và SGDCK:",
+    "answer": "Chịu sự quản lý, giám sát của nhà nước"
+  },
+  {
+    "id": 373,
+    "premium": false,
+    "question": "Đâu không phải mục tiêu của thị trường OTC hiện đại",
+    "answer": "Tạo ra môi trường đầu tư có rủi ro thấp cho nền kinh tế."
+  },
+  {
+    "id": 374,
+    "premium": false,
+    "question": "Đặc điểm của thị trường OTC :",
+    "answer": "Không có địa điểm giao dịch cụ thể"
+  },
+  {
+    "id": 375,
+    "premium": false,
+    "question": "Biên độ dao động giá đối với trường hợp trả cổ tức/thưởng bằng cổ phiếu quỹ cho cổ đông hiện hữu trong ngày không hưởng quyền hoặc trả cổ tức bằng tiền với giá trị số tiền lớn hơn hoặc bằng giá bình quân gia quyền của cổ phiếu trong ngày giao dịch liền trước ngày không hưởng quyền trên UpCoM là:",
+    "answer": "40%"
+  },
+  {
+    "id": 376,
+    "premium": false,
+    "question": "Để tạo ra thị trường cho một loại chứng khoán, các nhà tạo lập thị trường cần:",
+    "answer": "Xướng giá cao nhất sẵn sàng mua"
+  },
+  {
+    "id": 377,
+    "premium": false,
+    "question": "Các điều kiện để trở thành nhà tạo lập thị trường",
+    "answer": "Quy mô vốn, đội ngũ nhân viên, cơ sở vật chất kỹ thuật"
+  },
+  {
+    "id": 378,
+    "premium": false,
+    "question": "Số doanh nghiệp trên thị trường UpCoM khi khai trương:",
+    "answer": "10 doanh nghiệp"
+  },
+  {
+    "id": 379,
+    "premium": false,
+    "question": "Tổ chức tham gia tạo lập thị trường trên thị trường trái phiếu có mấy cấp độ",
+    "answer": "2"
+  },
+  {
+    "id": 380,
+    "premium": false,
+    "question": "Ý nghĩa của cụm từ “thị trường OTC”:",
+    "answer": "Thị trường giao dịch qua quầy"
+  },
+  {
+    "id": 381,
+    "premium": false,
+    "question": "Biên độ giao động giá trên thị trường UpCoM:",
+    "answer": "15%"
+  },
+  {
+    "id": 382,
+    "premium": false,
+    "question": "Hoạt động giao dịch của thị trường OTC được diễn ra",
+    "answer": "Tại quầy (sàn giao dịch) của các ngân hàng thương mại hoặc các công ty chứng khoán"
+  },
+  {
+    "id": 383,
+    "premium": false,
+    "question": "Giá chứng khoán trên thị trường OTC được hình thành qua:",
+    "answer": "Thương lượng và thỏa thuận riêng biệt giữa người mua và người bán"
+  },
+  {
+    "id": 384,
+    "premium": false,
+    "question": "Thị trường UpCoM được thành lập vào năm",
+    "answer": "2009"
+  },
+  {
+    "id": 385,
+    "premium": false,
+    "question": "Đâu không phải lợi ích của nhà tạo lập thị trường",
+    "answer": "Lợi ích ưu đãi khi phát hành chứng khoán"
+  },
+  {
+    "id": 386,
+    "premium": false,
+    "question": "Lệnh giao dịch của nhà đầu tư trong nước lưu ký tại tổ chức lưu ký trong nước hoặc tại tổ chức lưu ký nước ngoài; Tổ chức lưu ký trong nước tự doanh tại UpCoM được ký hiệu là :",
+    "answer": "M"
+  },
+  {
+    "id": 387,
+    "premium": false,
+    "question": "Số lượng nhóm thành viên chính trên thị trường OTC",
+    "answer": "4"
+  },
+  {
+    "id": 388,
+    "premium": false,
+    "question": "Chứng khoán giao dịch trên thị trường OTC là:",
+    "answer": "chứng khoán đáp ứng yêu cầu tài chính tối thiểu của thị trường OTC"
+  },
+  {
+    "id": 389,
+    "premium": false,
+    "question": "Nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 390,
+    "premium": false,
+    "question": "Điều nào sau đây là sai",
+    "answer": "Thị trường OTC không có sự tham gia của nhà tạo lập thị trường."
+  },
+  {
+    "id": 391,
+    "premium": false,
+    "question": "Đáp án nào không đúng trong các đáp án sau?",
+    "answer": "chi phí vốn không phụ thuộc vào cơ chế định giá."
+  },
+  {
+    "id": 392,
+    "premium": false,
+    "question": "Hệ số tín nhiệm lần đầu tiên ra đời vào năm:",
+    "answer": "1909"
+  },
+  {
+    "id": 393,
+    "premium": false,
+    "question": "Công ty chứng khoán tham gia vào thị trường với tư cách là nhà đầu tư có tổ chức thông qua nghiệp vụ:",
+    "answer": "Tự doanh"
+  },
+  {
+    "id": 394,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây là không đúng về thị trường hiệu quả:",
+    "answer": "Khi thị trường là hiệu quả, sẽ tồn tại nhiều cơ hội kinh doanh chênh lệch giá cho các nhà đầu tư"
+  },
+  {
+    "id": 395,
+    "premium": false,
+    "question": "Thị trường chứng khoán bao gồm:",
+    "answer": "thị trường cổ phiếu và thị trường trái phiếu."
+  },
+  {
+    "id": 396,
+    "premium": false,
+    "question": "Nhà đầu tư cá nhân có đặc điểm:",
+    "answer": "tham gia mua bán trên thị trường chứng khoán với mục đích tìm kiếm lợi nhuận."
+  },
+  {
+    "id": 397,
+    "premium": false,
+    "question": "Mức hiệu quả yếu xảy ra khi giá của chứng khoán:",
+    "answer": "phản ánh các thông tin trong quá khứ về giá chứng khoán."
+  },
+  {
+    "id": 398,
+    "premium": false,
+    "question": "Căn cứ vào hình thức tổ chức của thị trường, thị trường chứng khoán được chia làm:",
+    "answer": "Thị trường tập trung và OTC"
+  },
+  {
+    "id": 399,
+    "premium": false,
+    "question": "“Investors” là từ dùng để nói đến các nhà đầu tư:",
+    "answer": "Dài hạn"
+  },
+  {
+    "id": 400,
+    "premium": false,
+    "question": "Logic ẩn sau phương pháp phân tích kỹ thuật là:",
+    "answer": "lịch sử giá chứng khoán có xu hướng lặp lại."
+  },
+  {
+    "id": 401,
+    "premium": false,
+    "question": "Giá trị cổ phiếu được ghi trên tờ cổ phiếu, thường được quy định trong điều lệ của công ty cổ phần là:",
+    "answer": "mệnh giá cổ phiếu."
+  },
+  {
+    "id": 402,
+    "premium": false,
+    "question": "Năm nay, Công ty A có thu nhập ròng là 800 triệu đồng, số cổ phiếu đã phát hành là 600.000 cổ phiếu, cổ phiếu quỹ là 40.000, không có cổ phiếu ưu đãi. Hội đồng quản trị quyết định trả 560 triệu đồng cổ tức. Như vậy mỗi cổ phiếu được trả cổ tức là:",
+    "answer": "1.000 đồng."
+  },
+  {
+    "id": 403,
+    "premium": false,
+    "question": "Nhà phát hành định phát hành 2 loại trái phiếu: trái phiếu X có thời hạn 5 năm và trái phiếu Y có thời hạn 30 năm. Như vậy, nhà phát hành phải định mức lãi suất cho 2 trái phiếu như thế nào?",
+    "answer": "Lãi suất trái phiếu X < lãi suất trái phiếu Y."
+  },
+  {
+    "id": 404,
+    "premium": false,
+    "question": "Trong trường hợp phá sản, giải thể doanh nghiệp, các cổ đông thường sẽ:",
+    "answer": "là người cuối cùng được thanh toán."
+  },
+  {
+    "id": 405,
+    "premium": false,
+    "question": "Người sở hữu cổ phiếu phổ thông:",
+    "answer": "là chủ sở hữu công ty."
+  },
+  {
+    "id": 406,
+    "premium": false,
+    "question": "Một trái phiếu coupon có mệnh giá 1.000 USD, lãi suất danh nghĩa 8%/năm, phát hành đầu năm 2003, đáo hạn đầu năm 2013. Giả sử trái chủ nắm giữ trái phiếu đến khi đáo hạn, thu nhập trái phiếu này mang lại cho trái chủ là:",
+    "answer": "tiền lãi hàng năm là 80 USD và tiền gốc khi trái phiếu đáo hạn là 1.000 USD."
+  },
+  {
+    "id": 407,
+    "premium": false,
+    "question": "Cổ phiếu X có tỷ lệ tăng trưởng kỳ vọng không đổi theo các nhà phân tích chứng khoán là 8%/năm. Cổ tức được trả trong lần gần nhất là 2 USD. Nếu nhà đầu tư có ý định bán cổ phiếu đi sau khi đã nhận cổ tức của năm thì phải bán với giá bao nhiêu biết rằng tỷ lệ sinh lời yêu cầu của nhà đầu tư là 12%/năm?",
+    "answer": "54 USD."
+  },
+  {
+    "id": 408,
+    "premium": false,
+    "question": "Trái phiếu coupon là trái phiếu:",
+    "answer": "mà tiền lãi được thanh toán đều đặn theo kỳ, còn tiền gốc thanh toán tại ngày đáo hạn."
+  },
+  {
+    "id": 409,
+    "premium": false,
+    "question": "Trái phiếu có kỳ hạn càng lớn thì sẽ có rủi ro lãi suất:",
+    "answer": "càng lớn."
+  },
+  {
+    "id": 410,
+    "premium": false,
+    "question": "Để đo lường tính nhạy cảm của giá trị trái phiếu với sự thay đổi của lãi suất người ta sử dụng:",
+    "answer": "độ co giãn (Duration)."
+  },
+  {
+    "id": 411,
+    "premium": false,
+    "question": "Quỹ đầu tư dạng đóng là quỹ",
+    "answer": "Chỉ phát hành chứng chỉ quỹ một lần"
+  },
+  {
+    "id": 412,
+    "premium": false,
+    "question": "Trái phiếu bằng đồng Việt Nam được tổ chức quốc tế chào bán có kỳ hạn",
+    "answer": "Không dưới 10 năm"
+  },
+  {
+    "id": 413,
+    "premium": false,
+    "question": "Điều kiện chào bán trái phiếu ra công chúng về mức vốn điều lệ",
+    "answer": "10 tỷ đ"
+  },
+  {
+    "id": 414,
+    "premium": false,
+    "question": "Đâu không phải là mục tiêu của phát hành riêng lẻ",
+    "answer": "Số lượng huy động vốn rất lớn."
+  },
+  {
+    "id": 415,
+    "premium": false,
+    "question": "Thủ tục chào bán cổ phiếu riêng lẻ : Trong vòng bao nhiêu ngày kể từ khi hoàn thành đợt chào bán, tổ chức phát hành gửi báo cáo kết quả đợt chào bán cho cơ quan nhà nước có thẩm quyền",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 416,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "IPO là phát hành trái phiếu lần đầu"
+  },
+  {
+    "id": 417,
+    "premium": false,
+    "question": "Quỹ đầu tư chứng khoán dạng mở là quỹ:",
+    "answer": "Liên tục phát hành chứng chỉ quỹ"
+  },
+  {
+    "id": 418,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "Quỹ mở niêm yết trên thị trường chứng khoán"
+  },
+  {
+    "id": 419,
+    "premium": false,
+    "question": "Đâu không phải chủ thể phát hành chứng khoán",
+    "answer": "Hộ gia đình"
+  },
+  {
+    "id": 420,
+    "premium": false,
+    "question": "Hinh thức bảo lãnh phát hành nào tổ chức bảo lãnh cam kết sẽ mua toàn trái phiếu của đơn vị phát hành cho dù trong trường hợp không phân phối hết",
+    "answer": "Cam kết chắc chắn"
+  },
+  {
+    "id": 421,
+    "premium": false,
+    "question": "Bản thông cáo của tổ chức phát hành khi thực hiện phát hành chứng khoán ra công chúng gọi là",
+    "answer": "Bản cáo bạch"
+  },
+  {
+    "id": 422,
+    "premium": false,
+    "question": "Thời hạn công bố báo cáo thường niên của công ty đại chúng chậm nhất …… sau ngày công bố báo cáo tài chính năm được kiểm toán nhưng không vượt quá 120 ngày kể từ ngày kết thúc năm tài chính",
+    "answer": "20 ngày"
+  },
+  {
+    "id": 423,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, báo cáo tài chính năm đã được kiểm toán của Công ty đại chúng (bao gồm cả Tổ chức niêm yết, công ty đại chúng quy mô lớn) phải công bố thông tin trong thời hạn ………, kể từ ngày tổ chức kiểm toán ký báo cáo kiểm toán nhưng không vượt quá 90 ngày, kể từ ngày kết thúc năm tài chính",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 424,
+    "premium": false,
+    "question": "Chỉ số VN30 là chỉ số được tính dựa trên",
+    "answer": "Cổ phiếu của 30 công ty có vốn hóa thị trường và tính thanh khoản cao nhất trên sở giao dịch chứng khoán TP. HCM"
+  },
+  {
+    "id": 425,
+    "premium": false,
+    "question": "Chỉ số giá cổ phiếu là",
+    "answer": "Thông tin thể hiện giá chứng khoán bình quân hiện tại so với giá bình quân thời kỳ gốc đã chọn"
+  },
+  {
+    "id": 426,
+    "premium": false,
+    "question": "Đối với chỉ số HN30 index, giới hạn tỷ trọng vốn hóa của một cổ phiếu tối đa ở mức:",
+    "answer": "15%"
+  },
+  {
+    "id": 427,
+    "premium": false,
+    "question": "Chỉ số VN index được tính toán theo phương pháp",
+    "answer": "Chỉ số giá Passcher"
+  },
+  {
+    "id": 428,
+    "premium": false,
+    "question": "Thông tin về tình hình hình hoạt động kinh doanh, tài chính,… và các thông tin khác về mục tiêu phát hành chứng khoán của tổ chức phát hành được phản ánh trong:",
+    "answer": "Bản cáo bạch phát hành"
+  },
+  {
+    "id": 429,
+    "premium": false,
+    "question": "Thời gian điều chỉnh danh mục cổ phiếu trong rổ tính chỉ số VN30:",
+    "answer": "6 tháng một lần"
+  },
+  {
+    "id": 430,
+    "premium": false,
+    "question": "Đối với chỉ số VN30 index, giới hạn tỷ trọng vốn hóa của một cổ phiếu tối đa ở mức:",
+    "answer": "10%"
+  },
+  {
+    "id": 431,
+    "premium": false,
+    "question": "Thông tin được công bố trên thị trường phải đảm bảo nguyên tắc:",
+    "answer": "Công khai - công bằng"
+  },
+  {
+    "id": 432,
+    "premium": false,
+    "question": "Thời điểm xem xét định kỳ điều chỉnh rổ cổ phiếu để tính chỉ số 6 tháng 1 lần vào tháng 4 và tháng mười hàng năm là đối với chỉ số:",
+    "answer": "HN30 index"
+  },
+  {
+    "id": 433,
+    "premium": false,
+    "question": "Chỉ số Nikkei là chỉ số tổng hợp cổ phiếu với quyền số giá cả của",
+    "answer": "225 cổ phiếu thuộc Sở giao dịch chứng khoán Tokyo và 250 cổ phiếu thuộc Sở giao dịch Osaka"
+  },
+  {
+    "id": 434,
+    "premium": false,
+    "question": "Chỉ số giá chứng khoán được xây dựng phải tuân thủ nguyên tắc:",
+    "answer": "I và II"
+  },
+  {
+    "id": 435,
+    "premium": false,
+    "question": "Hệ thống công bố thông tin có vai trò:",
+    "answer": "I, II và III"
+  },
+  {
+    "id": 436,
+    "premium": false,
+    "question": "Những thông tin dưới đây đều được phản ánh trong bản cáo bạch của một công ty khi phát hành, trừ:",
+    "answer": "Giá của chứng khoán phát hành"
+  },
+  {
+    "id": 437,
+    "premium": false,
+    "question": "Các chỉ số sau đây, chỉ số nào được tính theo chỉ số giá bình quân Paasche:",
+    "answer": "DAX (Đức)"
+  },
+  {
+    "id": 438,
+    "premium": false,
+    "question": "NASDAQ Composite Index",
+    "answer": "là chỉ số tổng hợp của 4700 công ty, kể cả của Mỹ và nước ngoài được niêm yết trên TTCK NASDAQ"
+  },
+  {
+    "id": 439,
+    "premium": false,
+    "question": "Công khai thông tin về thị trường chứng khoán phải thỏa mãn các yêu cầu ngoại trừ:",
+    "answer": "Ưu tiên khách hàng"
+  },
+  {
+    "id": 440,
+    "premium": false,
+    "question": "Thông tin theo yêu cầu của công ty đại chúng sẽ phải công bố khi đối tượng sau yêu cầu:",
+    "answer": "Ủy ban chứng khoán Nhà nước"
+  },
+  {
+    "id": 441,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam, việc công bố thông tin của tổ chức niêm yết do đối tượng nào dưới đây có trách nhiệm công bố",
+    "answer": "Người đại diện theo pháp luật của công ty hoặc người được ủy quyền công bố thông tin"
+  },
+  {
+    "id": 442,
+    "premium": false,
+    "question": "Nguyên tắc công khai thông tin trên thị trường chứng khoán nhằm:",
+    "answer": "Đảm bảo mọi nhà đầu tư đều có quyền bình đẳng trong việc được cung cấp thông tin về thị trường"
+  },
+  {
+    "id": 443,
+    "premium": false,
+    "question": "Chỉ số giá bình quân gia quyền, lấy quyền số là khối lượng thời kỳ báo cáo là",
+    "answer": "Chỉ số giá Paascher"
+  },
+  {
+    "id": 444,
+    "premium": false,
+    "question": "Tác dụng của việc phân loại các doanh nghiệp có những đặc trưng tương tự nhau vào cùng một nhóm ngành",
+    "answer": "I và II"
+  },
+  {
+    "id": 445,
+    "premium": false,
+    "question": "Đối tượng công bố thông tin trên TTCK ở Việt nam gồm:",
+    "answer": "Công ty đại chúng, tổ chức phát hành trái phiếu, công ty quản lý quĩ, quỹ đại chúng, CTCK, SGDCK, trung tâm lưu ký chứng khoán, nhà đầu tư theo quy định của pháp luật và đối tượng liên quan khác"
+  },
+  {
+    "id": 446,
+    "premium": false,
+    "question": "Chỉ số giá chứng khoán không có sự tham gia của quyền số là:",
+    "answer": "Chỉ số giá bình quân giản đơn"
+  },
+  {
+    "id": 447,
+    "premium": false,
+    "question": "Báo cáo tài chính năm của công ty đại chúng KHÔNG bao gồm:",
+    "answer": "Bản cáo bạch"
+  },
+  {
+    "id": 448,
+    "premium": false,
+    "question": "Chỉ số giá bình quân gia quyền, lấy quyền số là khối lượng thời kỳ gốc là:",
+    "answer": "Chỉ số giá Laspeyres"
+  },
+  {
+    "id": 449,
+    "premium": false,
+    "question": "Cổ phiếu từ do chuyển nhượng (Free-float) là:",
+    "answer": "số cổ phiếu đang lưu hành trên thị trường trừ đi số cổ phiếu bi hạn chế chuyển nhượng"
+  },
+  {
+    "id": 450,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, thời hạn công bố thông tin của việc chào bán ra công chúng là …… kể từ ngày giấy chứng nhận đăng ký chào bán chứng khoán ra công chúng có hiệu lực",
+    "answer": "7 ngày làm việc"
+  },
+  {
+    "id": 451,
+    "premium": false,
+    "question": "Thời điểm xem xét định kỳ điều chỉnh rổ cổ phiểu để tính chỉ số 6 tháng 1 lần vào tháng 7 và tháng giêng hàng năm là đối với chỉ số:",
+    "answer": "HN30 index"
+  },
+  {
+    "id": 452,
+    "premium": false,
+    "question": "Phương tiện công bố thông tin của công ty đại chúng KHÔNG bao gồm:",
+    "answer": "Tờ rơi"
+  },
+  {
+    "id": 453,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, tổ chức niêm yết, công ty đại chúng quy mô lớn công bố thông tin về báo cáo tài chính quý trong thời hạn …. kể từ ngày kết thúc quý",
+    "answer": "20 ngày"
+  },
+  {
+    "id": 454,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, báo cáo tài chính năm đã được kiểm toán của Công ty đại chúng (bao gồm cả Tổ chức niêm yết, công ty đại chúng quy mô lớn) phải công bố thông tin trong thời hạn ………, kể từ ngày tổ chức kiểm toán ký báo cáo kiểm toán nhưng không vượt quá 90 ngày, kể từ ngày kết thúc năm tài chính",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 455,
+    "premium": false,
+    "question": "Báo cáo tài chính năm của công ty đại chúng KHÔNG bao gồm:",
+    "answer": "Bản cáo bạch"
+  },
+  {
+    "id": 456,
+    "premium": false,
+    "question": "Thời gian điều chỉnh danh mục cổ phiếu trong rổ tính chỉ số VN30:",
+    "answer": "6 tháng một lần"
+  },
+  {
+    "id": 457,
+    "premium": false,
+    "question": "Chỉ số giá bình quân gia quyền, lấy quyền số là khối lượng thời kỳ báo cáo là",
+    "answer": "Chỉ số giá Paascher"
+  },
+  {
+    "id": 458,
+    "premium": false,
+    "question": "Chỉ số giá cổ phiếu là",
+    "answer": "Thông tin thể hiện giá chứng khoán bình quân hiện tại so với giá bình quân thời kỳ gốc đã chọn"
+  },
+  {
+    "id": 459,
+    "premium": false,
+    "question": "Chỉ số VN30 là chỉ số được tính dựa trên",
+    "answer": "Cổ phiếu của 30 công ty có vốn hóa thị trường và tính thanh khoản cao nhất trên sở giao dịch chứng khoán TP. HCM"
+  },
+  {
+    "id": 460,
+    "premium": false,
+    "question": "Những thông tin dưới đây đều được phản ánh trong bản cáo bạch của một công ty khi phát hành, trừ:",
+    "answer": "Giá của chứng khoán phát hành"
+  },
+  {
+    "id": 461,
+    "premium": false,
+    "question": "Thời điểm xem xét định kỳ điều chỉnh rổ cổ phiếu để tính chỉ số 6 tháng 1 lần vào tháng 4 và tháng mười hàng năm là đối với chỉ số:",
+    "answer": "HN30 index"
+  },
+  {
+    "id": 462,
+    "premium": false,
+    "question": "Chỉ số Nikkei là chỉ số tổng hợp cổ phiếu với quyền số giá cả của",
+    "answer": "225 cổ phiếu thuộc Sở giao dịch chứng khoán Tokyo và 250 cổ phiếu thuộc Sở giao dịch Osaka"
+  },
+  {
+    "id": 463,
+    "premium": false,
+    "question": "Chỉ số giá bình quân gia quyền, lấy quyền số là khối lượng thời kỳ gốc là:",
+    "answer": "Chỉ số giá Laspeyres"
+  },
+  {
+    "id": 464,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam, việc công bố thông tin của tổ chức niêm yết do đối tượng nào dưới đây có trách nhiệm công bố",
+    "answer": "Người đại diện theo pháp luật của công ty hoặc người được ủy quyền công bố thông tin"
+  },
+  {
+    "id": 465,
+    "premium": false,
+    "question": "Đối tượng công bố thông tin trên TTCK ở Việt nam gồm:",
+    "answer": "Công ty đại chúng, tổ chức phát hành trái phiếu, công ty quản lý quĩ, quỹ đại chúng, CTCK, SGDCK, trung tâm lưu ký chứng khoán, nhà đầu tư theo quy định của pháp luật và đối tượng liên quan khác"
+  },
+  {
+    "id": 466,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, thời hạn công bố thông tin của việc chào bán ra công chúng là …… kể từ ngày giấy chứng nhận đăng ký chào bán chứng khoán ra công chúng có hiệu lực",
+    "answer": "7 ngày làm việc"
+  },
+  {
+    "id": 467,
+    "premium": false,
+    "question": "Thời điểm xem xét định kỳ điều chỉnh rổ cổ phiểu để tính chỉ số 6 tháng 1 lần vào tháng 7 và tháng giêng hàng năm là đối với chỉ số:",
+    "answer": "HN30 index"
+  },
+  {
+    "id": 468,
+    "premium": false,
+    "question": "Thông tin về tình hình hình hoạt động kinh doanh, tài chính,… và các thông tin khác về mục tiêu phát hành chứng khoán của tổ chức phát hành được phản ánh trong:",
+    "answer": "Bản cáo bạch phát hành"
+  },
+  {
+    "id": 469,
+    "premium": false,
+    "question": "Đối với chỉ số VN30 index, giới hạn tỷ trọng vốn hóa của một cổ phiếu tối đa ở mức:",
+    "answer": "10%"
+  },
+  {
+    "id": 470,
+    "premium": false,
+    "question": "Chỉ số VN index được tính toán theo phương pháp",
+    "answer": "Chỉ số giá Passcher"
+  },
+  {
+    "id": 471,
+    "premium": false,
+    "question": "Đối với chỉ số HN30 index, giới hạn tỷ trọng vốn hóa của một cổ phiếu tối đa ở mức:",
+    "answer": "15%"
+  },
+  {
+    "id": 472,
+    "premium": false,
+    "question": "Tác dụng của việc phân loại các doanh nghiệp có những đặc trưng tương tự nhau vào cùng một nhóm ngành",
+    "answer": "I và II"
+  },
+  {
+    "id": 473,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, tổ chức niêm yết, công ty đại chúng quy mô lớn công bố thông tin về báo cáo tài chính quý trong thời hạn …. kể từ ngày kết thúc quý",
+    "answer": "20 ngày"
+  },
+  {
+    "id": 474,
+    "premium": false,
+    "question": "Phương tiện công bố thông tin của công ty đại chúng KHÔNG bao gồm:",
+    "answer": "Tờ rơi"
+  },
+  {
+    "id": 475,
+    "premium": false,
+    "question": "Cổ phiếu từ do chuyển nhượng (Free-float) là:",
+    "answer": "số cổ phiếu đang lưu hành trên thị trường trừ đi số cổ phiếu bi hạn chế chuyển nhượng"
+  },
+  {
+    "id": 476,
+    "premium": false,
+    "question": "Thời hạn công bố báo cáo thường niên của công ty đại chúng chậm nhất …… sau ngày công bố báo cáo tài chính năm được kiểm toán nhưng không vượt quá 120 ngày kể từ ngày kết thúc năm tài chính",
+    "answer": "20 ngày"
+  },
+  {
+    "id": 477,
+    "premium": false,
+    "question": "NASDAQ Composite Index",
+    "answer": "là chỉ số tổng hợp của 4700 công ty, kể cả của Mỹ và nước ngoài được niêm yết trên TTCK NASDAQ"
+  },
+  {
+    "id": 478,
+    "premium": false,
+    "question": "Công khai thông tin về thị trường chứng khoán phải thỏa mãn các yêu cầu ngoại trừ:",
+    "answer": "Ưu tiên khách hàng"
+  },
+  {
+    "id": 479,
+    "premium": false,
+    "question": "Bản thông cáo của tổ chức phát hành khi thực hiện phát hành chứng khoán ra công chúng gọi là",
+    "answer": "Bản cáo bạch"
+  },
+  {
+    "id": 480,
+    "premium": false,
+    "question": "Các chỉ số sau đây, chỉ số nào được tính theo chỉ số giá bình quân Paasche:",
+    "answer": "DAX (Đức)"
+  },
+  {
+    "id": 481,
+    "premium": false,
+    "question": "Chỉ số giá chứng khoán không có sự tham gia của quyền số là:",
+    "answer": "Chỉ số giá bình quân giản đơn"
+  },
+  {
+    "id": 482,
+    "premium": false,
+    "question": "Thông tin theo yêu cầu của công ty đại chúng sẽ phải công bố khi đối tượng sau yêu cầu:",
+    "answer": "Ủy ban chứng khoán Nhà nước"
+  },
+  {
+    "id": 483,
+    "premium": false,
+    "question": "Thông tin được công bố trên thị trường phải đảm bảo nguyên tắc:",
+    "answer": "Công khai - công bằng"
+  },
+  {
+    "id": 484,
+    "premium": false,
+    "question": "Chỉ số giá chứng khoán được xây dựng phải tuân thủ nguyên tắc:",
+    "answer": "I và II"
+  },
+  {
+    "id": 485,
+    "premium": false,
+    "question": "Nguyên tắc công khai thông tin trên thị trường chứng khoán nhằm:",
+    "answer": "Đảm bảo mọi nhà đầu tư đều có quyền bình đẳng trong việc được cung cấp thông tin về thị trường"
+  },
+  {
+    "id": 486,
+    "premium": false,
+    "question": "Hệ thống công bố thông tin có vai trò:",
+    "answer": "I, II và III"
+  },
+  {
+    "id": 487,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, báo cáo tài chính năm đã được kiểm toán của Công ty đại chúng (bao gồm cả Tổ chức niêm yết, công ty đại chúng quy mô lớn) phải công bố thông tin trong thời hạn ………, kể từ ngày tổ chức kiểm toán ký báo cáo kiểm toán nhưng không vượt quá 90 ngày, kể từ ngày kết thúc năm tài chính",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 488,
+    "premium": false,
+    "question": "Công khai thông tin về thị trường chứng khoán phải thỏa mãn các yêu cầu ngoại trừ:",
+    "answer": "Ưu tiên khách hàng"
+  },
+  {
+    "id": 489,
+    "premium": false,
+    "question": "Các chỉ số sau đây, chỉ số nào được tính theo chỉ số giá bình quân Paasche:",
+    "answer": "DAX (Đức)"
+  },
+  {
+    "id": 490,
+    "premium": false,
+    "question": "NASDAQ Composite Index",
+    "answer": "là chỉ số tổng hợp của 4700 công ty, kể cả của Mỹ và nước ngoài được niêm yết trên TTCK NASDAQ"
+  },
+  {
+    "id": 491,
+    "premium": false,
+    "question": "Chỉ số Nikkei là chỉ số tổng hợp cổ phiếu với quyền số giá cả của",
+    "answer": "225 cổ phiếu thuộc Sở giao dịch chứng khoán Tokyo và 250 cổ phiếu thuộc Sở giao dịch Osaka"
+  },
+  {
+    "id": 492,
+    "premium": false,
+    "question": "Chỉ số VN30 là chỉ số được tính dựa trên",
+    "answer": "Cổ phiếu của 30 công ty có vốn hóa thị trường và tính thanh khoản cao nhất trên sở giao dịch chứng khoán TP. HCM"
+  },
+  {
+    "id": 493,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, tổ chức niêm yết, công ty đại chúng quy mô lớn công bố thông tin về báo cáo tài chính quý trong thời hạn …. kể từ ngày kết thúc quý",
+    "answer": "20 ngày"
+  },
+  {
+    "id": 494,
+    "premium": false,
+    "question": "Những thông tin dưới đây đều được phản ánh trong bản cáo bạch của một công ty khi phát hành, trừ:",
+    "answer": "Giá của chứng khoán phát hành"
+  },
+  {
+    "id": 495,
+    "premium": false,
+    "question": "Đối với chỉ số HN30 index, giới hạn tỷ trọng vốn hóa của một cổ phiếu tối đa ở mức:",
+    "answer": "15%"
+  },
+  {
+    "id": 496,
+    "premium": false,
+    "question": "Niêm yết nào sau đây là niêm yết lần đầu :",
+    "answer": "việc cho phép chứng khoán của tổ chức phát hành được đăng ký niêm yết giao dịch chứng khoán lần đầu tiên sau khi phát hành ra công chúng (IPO) khi tổ chức phát hành đó đáp ứng được các tiêu chuẩn về niêm yết."
+  },
+  {
+    "id": 497,
+    "premium": false,
+    "question": "Niêm yết nào sau đây là niêm yết cửa sau :",
+    "answer": "việc cho phép chứng khoán của tổ chức phát hành được đăng ký niêm yết giao dịch chứng khoán lần đầu tiên sau khi phát hành ra công chúng (IPO) khi tổ chức phát hành đó đáp ứng được các tiêu chuẩn về niêm yết."
+  },
+  {
+    "id": 498,
+    "premium": false,
+    "question": "Tiêu chuẩn niêm yết cổ phiếu trên SGDCK Hà Nội là gì :",
+    "answer": "công ty cổ phần có vốn điều lệ đã góp tại thời điểm đăng ký niêm yết từ 30 tỷ đồng Việt Nam trở lên tính theo giá trị ghi trên sổ kế toán"
+  },
+  {
+    "id": 499,
+    "premium": false,
+    "question": "Nếu trong trường hợp công ty hoạt động không có lãi, công ty vẫn phải:",
+    "answer": "trả lãi cho trái chủ."
+  },
+  {
+    "id": 500,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "IPO là phát hành trái phiếu lần đầu"
+  },
+  {
+    "id": 501,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "Thị trường OTC chỉ niêm yết các công ty vừa và nhỏ"
+  },
+  {
+    "id": 502,
+    "premium": false,
+    "question": "Nhà đầu tư cá nhân có đặc điểm:",
+    "answer": "tham gia mua bán trên thị trường chứng khoán với mục đích tìm kiếm lợi nhuận."
+  },
+  {
+    "id": 503,
+    "premium": false,
+    "question": "Giá trị cổ phiếu được ghi trên tờ cổ phiếu, thường được quy định trong điều lệ của công ty cổ phần là:",
+    "answer": "mệnh giá cổ phiếu."
+  },
+  {
+    "id": 504,
+    "premium": false,
+    "question": "Nếu giá tham chiếu của cổ phiếu Y đang ở mức 101.000 đồng với đơn vị yết giá 1000 đồng đối với giá trên 100.000 đồng và 500 đồng đối với giá từ 50.000 đồng đến 99.500 đồng, biên độ dao động 10%, mức giá mà nhà đầu tư chứng khoán có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "92.000"
+  },
+  {
+    "id": 505,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, thời hạn công bố thông tin của việc chào bán ra công chúng là …… kể từ ngày giấy chứng nhận đăng ký chào bán chứng khoán ra công chúng có hiệu lực",
+    "answer": "7 ngày làm việc"
+  },
+  {
+    "id": 506,
+    "premium": false,
+    "question": "Điểm giống nhau giữa thị trường OTC và SGDCK:",
+    "answer": "Chịu sự quản lý, giám sát của nhà nước"
+  },
+  {
+    "id": 507,
+    "premium": false,
+    "question": "Kênh tài chính gián tiếp là:",
+    "answer": "Trung gian tài chính"
+  },
+  {
+    "id": 508,
+    "premium": false,
+    "question": "Khi công ty giải thể, đối tượng nào sẽ được thanh toán cuối cùng?",
+    "answer": "Cổ đông thường."
+  },
+  {
+    "id": 509,
+    "premium": false,
+    "question": "Điều nào dưới đây không đúng về quỹ đầu tư dạng công ty:",
+    "answer": "Quỹ đầu tư dạng công ty không phải chịu sự chi phối của Luật doanh nghiệp."
+  },
+  {
+    "id": 510,
+    "premium": false,
+    "question": "Ở Việt Nam, loại hình doanh nghiệp nào được phép phát hành cả trái phiếu và cổ phiếu",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 511,
+    "premium": false,
+    "question": "Thị trường chứng khoán bao gồm:",
+    "answer": "thị trường cổ phiếu và thị trường trái phiếu."
+  },
+  {
+    "id": 512,
+    "premium": false,
+    "question": "Những thông tin dưới đây đều được phản ánh trong bản cáo bạch của một công ty khi phát hành, trừ:",
+    "answer": "Giá của chứng khoán phát hành"
+  },
+  {
+    "id": 513,
+    "premium": false,
+    "question": "Đơn vị giao dịch với khớp lệnh thỏa thuận trên UpCoM",
+    "answer": "Không quy định"
+  },
+  {
+    "id": 514,
+    "premium": false,
+    "question": "Tại Thái Lan, huy động qua phát hành riêng lẻ không được quá",
+    "answer": "35 người"
+  },
+  {
+    "id": 515,
+    "premium": false,
+    "question": "Mức hiệu quả mạnh xảy ra khi giá của chứng khoán",
+    "answer": "phản ánh thông tin nội gián và toàn bộ thông tin hiện có liên quan tới chứng khoán."
+  },
+  {
+    "id": 516,
+    "premium": false,
+    "question": "Lệnh thị trường là lệnh:",
+    "answer": "Đặt mua (bán) chứng khoán theo giá thị trường"
+  },
+  {
+    "id": 517,
+    "premium": false,
+    "question": "Nhà đầu tư đặt lệnh mua bán chứng khoán niêm yết tại:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 518,
+    "premium": false,
+    "question": "Tại Thái Lan, tổng số tiền huy động qua phát hành riêng lẻ không được quá",
+    "answer": "20 triệu bath"
+  },
+  {
+    "id": 519,
+    "premium": false,
+    "question": "Sở giao dịch chứng khoán là:",
+    "answer": "Thị trường tập trung"
+  },
+  {
+    "id": 520,
+    "premium": false,
+    "question": "Lệnh thị trường là lệnh:",
+    "answer": "Được ưu tiên thực hiện trước các lệnh khác."
+  },
+  {
+    "id": 521,
+    "premium": false,
+    "question": "Số doanh nghiệp trên thị trường UpCoM khi khai trương:",
+    "answer": "10 doanh nghiệp"
+  },
+  {
+    "id": 522,
+    "premium": false,
+    "question": "Trái phiếu bằng đồng Việt Nam được tổ chức quốc tế chào bán có cam kết đưa vào giao dịch tại thị trường tập trung …. năm sau khi chào bán",
+    "answer": "1 năm"
+  },
+  {
+    "id": 523,
+    "premium": false,
+    "question": "Điều nào sau đây là sai",
+    "answer": "Thị trường OTC không có sự tham gia của nhà tạo lập thị trường."
+  },
+  {
+    "id": 524,
+    "premium": false,
+    "question": "Tác dụng của việc phân loại các doanh nghiệp có những đặc trưng tương tự nhau vào cùng một nhóm ngành",
+    "answer": "I và II"
+  },
+  {
+    "id": 525,
+    "premium": false,
+    "question": "Chức năng của nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Duy trì tính linh hoạt của thị trường đối với một loại chứng khoán khi chứng khoán đó được phát hành ra thị trường."
+  },
+  {
+    "id": 526,
+    "premium": false,
+    "question": "Đâu là điều sai khi nói về nhà tạo lập thị trường",
+    "answer": "Nhà tạo lập thị trường không chịu áp lực về phá sản"
+  },
+  {
+    "id": 527,
+    "premium": false,
+    "question": "Một trái phiếu coupon có mệnh giá 1.000 USD, lãi suất danh nghĩa 8%/năm, phát hành đầu năm 2003, đáo hạn đầu năm 2013. Giả sử trái chủ nắm giữ trái phiếu đến khi đáo hạn, thu nhập trái phiếu này mang lại cho trái chủ là:",
+    "answer": "tiền lãi hàng năm là 80 USD và tiền gốc khi trái phiếu đáo hạn là 1.000 USD."
+  },
+  {
+    "id": 528,
+    "premium": false,
+    "question": "Đơn vị yết giá là:",
+    "answer": "Mức giá tối thiểu cho mỗi lần mua (bán) chứng khoán"
+  },
+  {
+    "id": 529,
+    "premium": false,
+    "question": "Hệ thống công bố thông tin có vai trò:",
+    "answer": "I, II và III"
+  },
+  {
+    "id": 530,
+    "premium": false,
+    "question": "Thời gian giao dịch trong ngày làm việc ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh là:",
+    "answer": "Từ 9h00 đến 15h00"
+  },
+  {
+    "id": 531,
+    "premium": false,
+    "question": "Các điều kiện khác không đổi, giá trái phiếu giảm khi:",
+    "answer": "lãi suất thị trường tăng."
+  },
+  {
+    "id": 532,
+    "premium": false,
+    "question": "Khi lãi suất giảm, để tận dụng triệt để mức tăng giá do lãi suất, các nhà đầu tư thường chọn:",
+    "answer": "những trái phiếu có Duration lớn."
+  },
+  {
+    "id": 533,
+    "premium": false,
+    "question": "Trong trường hợp phá sản, giải thể doanh nghiệp, các trái chủ sẽ:",
+    "answer": "được ưu tiên trả lại phần vốn đã đóng góp trước."
+  },
+  {
+    "id": 534,
+    "premium": false,
+    "question": "Trong trường hợp phá sản, giải thể doanh nghiệp, các cổ đông thường sẽ:",
+    "answer": "là người cuối cùng được thanh toán."
+  },
+  {
+    "id": 535,
+    "premium": false,
+    "question": "Thời gian điều chỉnh danh mục cổ phiếu trong rổ tính chỉ số VN30:",
+    "answer": "6 tháng một lần"
+  },
+  {
+    "id": 536,
+    "premium": false,
+    "question": "Đâu không phải mục tiêu của thị trường OTC hiện đại",
+    "answer": "Tạo ra môi trường đầu tư có rủi ro thấp cho nền kinh tế."
+  },
+  {
+    "id": 537,
+    "premium": false,
+    "question": "Các chỉ số sau đây, chỉ số nào được tính theo chỉ số giá bình quân Paasche:",
+    "answer": "DAX (Đức)"
+  },
+  {
+    "id": 538,
+    "premium": false,
+    "question": "Điều kiện chào bán trái phiếu ra công chúng về mức vốn điều lệ",
+    "answer": "10 tỷ đ"
+  },
+  {
+    "id": 539,
+    "premium": false,
+    "question": "Thị trường chứng khoán bao gồm:",
+    "answer": "Thị trường cổ phiếu và thị trường trái phiếu"
+  },
+  {
+    "id": 540,
+    "premium": false,
+    "question": "Đặc điểm đấu giá kiểu Mỹ là",
+    "answer": "thành viên trúng thầu sẽ mua trái phiếu có lãi suất đúng bằng lãi suất họ đã đặt thầu"
+  },
+  {
+    "id": 541,
+    "premium": false,
+    "question": "Giao dịch theo phương thức khớp lệnh ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh quy định đơn vị yết giá đối với những cổ phiếu có mức giá dưới 50.000 đồng là:",
+    "answer": "50đ"
+  },
+  {
+    "id": 542,
+    "premium": false,
+    "question": "Vai trò của thị trường OTC KHÔNG bao gồm:",
+    "answer": "Mở rộng thị trường tự do"
+  },
+  {
+    "id": 543,
+    "premium": false,
+    "question": "Ý nghĩa của cụm từ “thị trường OTC”:",
+    "answer": "Thị trường giao dịch qua quầy"
+  },
+  {
+    "id": 544,
+    "premium": false,
+    "question": "Niêm yết chứng khoán là :",
+    "answer": "Quá trình định danh các chứng khoán đáp ứng đủ tiêu chuẩn được giao dịch trên SGDCK"
+  },
+  {
+    "id": 545,
+    "premium": false,
+    "question": "Tổ chức tham gia tạo lập thị trường trên thị trường trái phiếu có mấy cấp độ",
+    "answer": "2"
+  },
+  {
+    "id": 546,
+    "premium": false,
+    "question": "Phát hành loại chứng khoán nào làm tăng vốn chủ sở hữu?",
+    "answer": "Cổ phiếu phổ thông và cổ phiếu ưu đãi."
+  },
+  {
+    "id": 547,
+    "premium": false,
+    "question": "Giá trị thực của tài sản chịu ảnh hưởng của những nhân tố nào?",
+    "answer": "Độ lớn và thời điểm của những luồng tiền dự tính trong tương lai, mức độ rủi ro của luồng tiền, tỷ lệ lợi tức yêu cầu của nhà đầu tư."
+  },
+  {
+    "id": 548,
+    "premium": false,
+    "question": "Đâu không phải chủ thể phát hành chứng khoán",
+    "answer": "Hộ gia đình"
+  },
+  {
+    "id": 549,
+    "premium": false,
+    "question": "Biên độ dao động giá đối với trường hợp trả cổ tức/thưởng bằng cổ phiếu quỹ cho cổ đông hiện hữu trong ngày không hưởng quyền hoặc trả cổ tức bằng tiền với giá trị số tiền lớn hơn hoặc bằng giá bình quân gia quyền của cổ phiếu trong ngày giao dịch liền trước ngày không hưởng quyền trên UpCoM là:",
+    "answer": "40%"
+  },
+  {
+    "id": 550,
+    "premium": false,
+    "question": "Nhà phát hành định phát hành 2 loại trái phiếu: trái phiếu X có thời hạn 5 năm và trái phiếu Y có thời hạn 30 năm. Như vậy, nhà phát hành phải định mức lãi suất cho 2 trái phiếu như thế nào?",
+    "answer": "Lãi suất trái phiếu X < lãi suất trái phiếu Y."
+  },
+  {
+    "id": 551,
+    "premium": false,
+    "question": "Cơ chế xác lập giá chứng khoán chủ yếu trên thị trường OTC là:",
+    "answer": "Thương lượng, thỏa thuận"
+  },
+  {
+    "id": 552,
+    "premium": false,
+    "question": "Quỹ đầu tư chứng khoán dạng mở là quỹ:",
+    "answer": "Liên tục phát hành chứng chỉ quỹ"
+  },
+  {
+    "id": 553,
+    "premium": false,
+    "question": "Hình thức bảo lãnh phát hành nào Người bảo lãnh nhận mua một phần (được quy định trong hợp đồng) số trái phiếu của Chính phủ nếu phân phối không hết",
+    "answer": "Bảo lãnh từng phần"
+  },
+  {
+    "id": 554,
+    "premium": false,
+    "question": "Mênh đề nào sau đây là đúng",
+    "answer": "Phát hành riêng lẻ là việc phát hành trong đó chứng khoán được bán trong phạm vi một số người nhất định, với những điều kiện hạn chế và khối lượng phát hành phải đạt một mức nhất định"
+  },
+  {
+    "id": 555,
+    "premium": false,
+    "question": "Niêm yết chứng khoán nhằm mục tiêu ",
+    "answer": "Thiết lập quan hệ hợp đồng giữa SGDCK với tổ chức phát hành có chứng khoán niêm yết"
+  },
+  {
+    "id": 556,
+    "premium": false,
+    "question": "Công ty A được phép phát hành 70.000 cổ phiếu. Hiện nay công ty phát hành được 60.000 cổ phiếu, trong đó có 10.000 cổ phiếu ngân quỹ. Số cổ phiếu đang lưu hành hiện nay của công ty là:",
+    "answer": "50.000 cổ phiếu."
+  },
+  {
+    "id": 557,
+    "premium": false,
+    "question": "Biên độ dao động giá trên thị trường chứng khoán Việt Nam do:",
+    "answer": "Sở Giao dịch Chứng khoán quy định."
+  },
+  {
+    "id": 558,
+    "premium": false,
+    "question": "Thông tin theo yêu cầu của công ty đại chúng sẽ phải công bố khi đối tượng sau yêu cầu:",
+    "answer": "Ủy ban chứng khoán Nhà nước"
+  },
+  {
+    "id": 559,
+    "premium": false,
+    "question": "Hình thức bảo lãnh nào tổ chức bảo lãnh hoạt động như một đại lý cho tổ chức phát hành (Chính phủ); tổ chức bảo lãnh sẽ nỗ lực tối đa nhưng không cam kết trong việc phân phối trái phiếu cho các nhà đầu tư",
+    "answer": "Cố gắng tối đa"
+  },
+  {
+    "id": 560,
+    "premium": false,
+    "question": "Đây là phương thức thường được áp dụng khi một công ty đại chúng phát hành bổ sung thêm cổ phiếu thường và chào bán cho các cổ đông cũ trước khi chào bán ra công chúng bên ngoài",
+    "answer": "Bảo lãnh dự phòng"
+  },
+  {
+    "id": 561,
+    "premium": false,
+    "question": "Một trái phiếu niên kim cố định có mệnh giá 1.000 USD, lãi suất danh nghĩa 8%/năm, phát hành đầu năm 2003, đáo hạn đầu năm 2013. Giả sử trái chủ nắm giữ trái phiếu đến khi đáo hạn, thu nhập trái phiếu này mang lại cho trái chủ là:",
+    "answer": "khoản tiền đều hàng năm là 159,26 USD."
+  },
+  {
+    "id": 562,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây là không đúng về thị trường hiệu quả:",
+    "answer": "Khi thị trường là hiệu quả, sẽ tồn tại nhiều cơ hội kinh doanh chênh lệch giá cho các nhà đầu tư"
+  },
+  {
+    "id": 563,
+    "premium": false,
+    "question": "Chức năng cơ bản của thị trường tài chính là:",
+    "answer": "Dẫn vốn từ nơi thừa vốn sang nơi thiếu vốn"
+  },
+  {
+    "id": 564,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam, việc công bố thông tin của tổ chức niêm yết do đối tượng nào dưới đây có trách nhiệm công bố",
+    "answer": "Người đại diện theo pháp luật của công ty hoặc người được ủy quyền công bố thông tin"
+  },
+  {
+    "id": 565,
+    "premium": false,
+    "question": "Thị trường UpCoM được thành lập vào năm",
+    "answer": "2009"
+  },
+  {
+    "id": 566,
+    "premium": false,
+    "question": "Công ty định phát hành thêm 2 triệu cổ phiếu thường. Nếu điều này xảy ra thực sự thì:",
+    "answer": "vốn chủ sở hữu tăng."
+  },
+  {
+    "id": 567,
+    "premium": false,
+    "question": "Nếu một trái phiếu coupon được bán đúng bằng mệnh giá của nó thì:",
+    "answer": "tỷ lệ lợi tức yêu cầu của nhà đầu tư = lãi suất coupon."
+  },
+  {
+    "id": 568,
+    "premium": false,
+    "question": "Chỉ số giá cổ phiếu là",
+    "answer": "Thông tin thể hiện giá chứng khoán bình quân hiện tại so với giá bình quân thời kỳ gốc đã chọn"
+  },
+  {
+    "id": 569,
+    "premium": false,
+    "question": "Chứng khoán giao dịch trên thị trường OTC có độ rủi ro …… so với các chứng khoán niêm yết trên SGDCK:",
+    "answer": "Cao hơn"
+  },
+  {
+    "id": 570,
+    "premium": false,
+    "question": "Căn cứ vào sự luân chuyển của vốn, thị trường chứng khoán được chia làm:",
+    "answer": "Thị trường sơ cấp và thị trường thứ cấp"
+  },
+  {
+    "id": 571,
+    "premium": false,
+    "question": "Trái phiếu coupon là trái phiếu:",
+    "answer": "mà tiền lãi được thanh toán đều đặn theo kỳ, còn tiền gốc thanh toán tại ngày đáo hạn."
+  },
+  {
+    "id": 572,
+    "premium": false,
+    "question": "Chủ thể phát hành chứng khoán trên thị trường bao gồm :",
+    "answer": "Chính phủ, Quỹ đầu tư và Doanh nghiệp"
+  },
+  {
+    "id": 573,
+    "premium": false,
+    "question": "Chỉ số giá chứng khoán được xây dựng phải tuân thủ nguyên tắc:",
+    "answer": "I và II"
+  },
+  {
+    "id": 574,
+    "premium": false,
+    "question": "Cổ phiếu X có tỷ lệ tăng trưởng kỳ vọng không đổi theo các nhà phân tích chứng khoán là 8%/năm. Cổ tức được trả trong lần gần nhất là 2 USD. Nếu nhà đầu tư có ý định bán cổ phiếu đi sau khi đã nhận cổ tức của năm thì phải bán với giá bao nhiêu biết rằng tỷ lệ sinh lời yêu cầu của nhà đầu tư là 12%/năm?",
+    "answer": "54 USD."
+  },
+  {
+    "id": 575,
+    "premium": false,
+    "question": "Giả sử giá đóng cửa của cổ phiếu A trong phiên giao dịch trước là 10200 đồng, đơn vị yết giá là 100 đồng, biên độ dao động giá là 5%. Các mức giá mà nhà đầu tư có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "9900, 10000, 10100, 10300."
+  },
+  {
+    "id": 576,
+    "premium": false,
+    "question": "Vai trò của Sở giao dịch chứng khoán là:",
+    "answer": "Thiết lập một thị trường giao chứng khoán có tổ chức, vận hành liên tục với các chứng khoán được chọn lựa"
+  },
+  {
+    "id": 577,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, báo cáo tài chính năm đã được kiểm toán của Công ty đại chúng (bao gồm cả Tổ chức niêm yết, công ty đại chúng quy mô lớn) phải công bố thông tin trong thời hạn ………, kể từ ngày tổ chức kiểm toán ký báo cáo kiểm toán nhưng không vượt quá 90 ngày, kể từ ngày kết thúc năm tài chính",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 578,
+    "premium": false,
+    "question": "Hình thức nào dưới đây không phải là doanh nghiệp huy động vốn chủ sở hữu",
+    "answer": "Phát hành trái phiếu"
+  },
+  {
+    "id": 579,
+    "premium": false,
+    "question": "Điều nào sau đây là không đúng:",
+    "answer": "Nhà đầu tư thích đầu tư vào các nước phát triển do tỷ lệ hoàn vốn đầu tư cao hơn."
+  },
+  {
+    "id": 580,
+    "premium": false,
+    "question": "Công khai thông tin về thị trường chứng khoán phải thỏa mãn các yêu cầu ngoại trừ:",
+    "answer": "Ưu tiên khách hàng"
+  },
+  {
+    "id": 581,
+    "premium": false,
+    "question": "Đối tượng nào sau đây được phát hành trái phiếu chuyển đổi",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 582,
+    "premium": false,
+    "question": "Chứng khoán giao dịch trên thị trường OTC là:",
+    "answer": "chứng khoán đáp ứng yêu cầu tài chính tối thiểu của thị trường OTC"
+  },
+  {
+    "id": 583,
+    "premium": false,
+    "question": "Lệnh giao dịch được áp dụng trên thị trường cổ phiếu niêm yết tại Sở Giao dịch chứng khoán TP. Hồ Chí Minh là:",
+    "answer": "Lệnh giới hạn, lệnh thị trường, ATO, ATC"
+  },
+  {
+    "id": 584,
+    "premium": false,
+    "question": "Thời điểm xem xét định kỳ điều chỉnh rổ cổ phiểu để tính chỉ số 6 tháng 1 lần vào tháng 7 và tháng giêng hàng năm là đối với chỉ số:",
+    "answer": "HN30 index"
+  },
+  {
+    "id": 585,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai",
+    "answer": "Quỹ mở niêm yết trên thị trường chứng khoán"
+  },
+  {
+    "id": 586,
+    "premium": false,
+    "question": "Đơn vị yết giá trên sàn UpCom",
+    "answer": "100 đồng"
+  },
+  {
+    "id": 587,
+    "premium": false,
+    "question": "Bản thông cáo của tổ chức phát hành khi thực hiện phát hành chứng khoán ra công chúng gọi là",
+    "answer": "Bản cáo bạch"
+  },
+  {
+    "id": 588,
+    "premium": false,
+    "question": "Chỉ số VN30 là chỉ số được tính dựa trên",
+    "answer": "Cổ phiếu của 30 công ty có vốn hóa thị trường và tính thanh khoản cao nhất trên sở giao dịch chứng khoán TP. HCM"
+  },
+  {
+    "id": 589,
+    "premium": false,
+    "question": "Công ty cổ phần bắt buộc phải có:",
+    "answer": "cổ phần phổ thông."
+  },
+  {
+    "id": 590,
+    "premium": false,
+    "question": "Sổ lệnh của cổ phiếu Y như sau:",
+    "answer": "Không bán được cổ phiếu nào"
+  },
+  {
+    "id": 591,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là không đúng",
+    "answer": "Công ty hợp danh được phép phát hành chứng khoán"
+  },
+  {
+    "id": 592,
+    "premium": false,
+    "question": "Để tạo ra thị trường cho một loại chứng khoán, các nhà tạo lập thị trường cần:",
+    "answer": "Xướng giá cao nhất sẵn sàng mua"
+  },
+  {
+    "id": 593,
+    "premium": false,
+    "question": "Nếu 1 trái phiếu coupon được bán ra thấp hơn mệnh giá thì:",
+    "answer": "tỷ lệ lợi tức yêu cầu của nhà đầu tư > lãi suất danh nghĩa của trái phiếu."
+  },
+  {
+    "id": 594,
+    "premium": false,
+    "question": "Trong các nhận định sau, nhận định nào sai về thị trường chứng khoán thứ cấp:",
+    "answer": "Là nơi mua bán các loại chứng khoán kém chất lượng"
+  },
+  {
+    "id": 595,
+    "premium": false,
+    "question": "Biên độ giao dịch trong ngày giao dịch đầu tiên của cổ phiếu mới trên thị trường UpCoM:",
+    "answer": "40%"
+  },
+  {
+    "id": 596,
+    "premium": false,
+    "question": "Sổ lệnh của cổ phiếu X như sau trong phiên khớp lệnh định kỳ:",
+    "answer": "500 cổ phiếu, giá 51000"
+  },
+  {
+    "id": 597,
+    "premium": false,
+    "question": "Chỉ số giá bình quân gia quyền, lấy quyền số là khối lượng thời kỳ gốc là:",
+    "answer": "Chỉ số giá Laspeyres"
+  },
+  {
+    "id": 598,
+    "premium": false,
+    "question": "Hinh thức bảo lãnh phát hành nào tổ chức bảo lãnh cam kết sẽ mua toàn trái phiếu của đơn vị phát hành cho dù trong trường hợp không phân phối hết",
+    "answer": "Cam kết chắc chắn"
+  },
+  {
+    "id": 599,
+    "premium": false,
+    "question": "Trên thị trường chứng khoán, hành vi có tiêu cực là:",
+    "answer": "Mua bán nội gián"
+  },
+  {
+    "id": 600,
+    "premium": false,
+    "question": "Nhà đầu tư có quyền bán cổ phiếu niêm yết lô lẻ tại:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 601,
+    "premium": false,
+    "question": "Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả?",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường."
+  },
+  {
+    "id": 602,
+    "premium": false,
+    "question": "Công ty chứng khoán tham gia vào thị trường với tư cách là nhà đầu tư có tổ chức thông qua nghiệp vụ:",
+    "answer": "Tự doanh"
+  },
+  {
+    "id": 603,
+    "premium": false,
+    "question": "Giao dịch theo phương thức khớp lệnh ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh quy định đơn vị yết giá đối với những cổ phiếu có mức giá từ 50.000 đồng đến 99.500 đồng là:",
+    "answer": "100đ"
+  },
+  {
+    "id": 604,
+    "premium": false,
+    "question": "Cổ phiếu quỹ là loại cổ phiếu:",
+    "answer": "được chính tổ chức phát hành mua lại."
+  },
+  {
+    "id": 605,
+    "premium": false,
+    "question": "Công ty XYZ có 10.000 cổ phiếu đang lưu hành và tuyên bố trả cổ tức bằng cổ phiếu với mức 30%. Khách hàng của bạn có 100 cổ phiếu XYZ. Sau khi nhận cổ tức bằng cổ phiếu, tỷ lệ sở hữu cổ phần của ông ta trong công ty XYZ là bao nhiêu?",
+    "answer": "1%."
+  },
+  {
+    "id": 606,
+    "premium": false,
+    "question": "Thủ tục chào bán cổ phiếu riêng lẻ : Trong vòng bao nhiêu ngày kể từ khi hoàn thành đợt chào bán, tổ chức phát hành gửi báo cáo kết quả đợt chào bán cho cơ quan nhà nước có thẩm quyền",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 607,
+    "premium": false,
+    "question": "Lệnh thị trường là lệnh:",
+    "answer": "Khách hàng không đưa giá trong lệnh"
+  },
+  {
+    "id": 608,
+    "premium": false,
+    "question": "Các điều kiện không đổi, giá trái phiếu tăng khi:",
+    "answer": "lãi suất thị trường giảm."
+  },
+  {
+    "id": 609,
+    "premium": false,
+    "question": "Hệ số tín nhiệm lần đầu tiên ra đời vào năm:",
+    "answer": "1909"
+  },
+  {
+    "id": 610,
+    "premium": false,
+    "question": "Nguyên tắc công khai thông tin trên thị trường chứng khoán nhằm:",
+    "answer": "Đảm bảo mọi nhà đầu tư đều có quyền bình đẳng trong việc được cung cấp thông tin về thị trường"
+  },
+  {
+    "id": 611,
+    "premium": false,
+    "question": "Đặc điểm của thị trường OTC :",
+    "answer": "Không có địa điểm giao dịch cụ thể"
+  },
+  {
+    "id": 612,
+    "premium": false,
+    "question": "Loại cổ phiếu được phát hành lần đầu tiên và tiền thuộc về công ty phát hành là:",
+    "answer": "cổ phiếu sơ cấp."
+  },
+  {
+    "id": 613,
+    "premium": false,
+    "question": "Biên độ giao động giá trên thị trường UpCoM:",
+    "answer": "15%"
+  },
+  {
+    "id": 614,
+    "premium": false,
+    "question": "Cổ phiếu từ do chuyển nhượng (Free-float) là:",
+    "answer": "số cổ phiếu đang lưu hành trên thị trường trừ đi số cổ phiếu bi hạn chế chuyển nhượng"
+  },
+  {
+    "id": 615,
+    "premium": false,
+    "question": "Hình thức bảo lãnh nào mà tổ chức phát hành yêu cầu tổ chức bảo lãnh phải phân phối một tỷ lệ tối thiểu nhất định trái phiếu phát hành",
+    "answer": "Tối thiểu tối đa"
+  },
+  {
+    "id": 616,
+    "premium": false,
+    "question": "Đặc điểm quan trọng nhất của thị trường OTC để phân biệt với thị trường chứng khoán tập trung là:",
+    "answer": "Cơ chế xác lập giá bằng hình thức thương lượng, thỏa thuận song phương giữa người mua và người bán"
+  },
+  {
+    "id": 617,
+    "premium": false,
+    "question": "Chỉ số VN index được tính toán theo phương pháp",
+    "answer": "Chỉ số giá Passcher"
+  },
+  {
+    "id": 618,
+    "premium": false,
+    "question": "Sở giao dịch chứng khoán có thể có những hình thức sở hữu sau đây:",
+    "answer": "Hình thức sở hữu nhà nước, Hình thức sở hữu thành viên, Hình thức sở hữu công ty cổ phần"
+  },
+  {
+    "id": 619,
+    "premium": false,
+    "question": "Thời hạn công bố báo cáo thường niên của công ty đại chúng chậm nhất …… sau ngày công bố báo cáo tài chính năm được kiểm toán nhưng không vượt quá 120 ngày kể từ ngày kết thúc năm tài chính",
+    "answer": "20 ngày"
+  },
+  {
+    "id": 620,
+    "premium": false,
+    "question": "Để chứng minh tình hình tài chính lành mạnh trong việc vay vốn ngân hàng, các doanh nghiệp phải nộp các Báo cáo tài chính trong ít nhất bao nhiêu năm",
+    "answer": "3 năm gần nhất"
+  },
+  {
+    "id": 621,
+    "premium": false,
+    "question": "Lệnh giới hạn là lệnh:",
+    "answer": "Được thực hiện tại mức giá mà người đặt lệnh chỉ định"
+  },
+  {
+    "id": 622,
+    "premium": false,
+    "question": "Phương án nào sau đây là không đúng?",
+    "answer": "Nhà đầu tư thích đầu tư vào các nước phát triển do tỷ lệ hoàn vốn đầu tư cao hơn."
+  },
+  {
+    "id": 623,
+    "premium": false,
+    "question": "Người sở hữu trái phiếu là:",
+    "answer": "chủ nợ công ty."
+  },
+  {
+    "id": 624,
+    "premium": false,
+    "question": "Nếu giá tham chiếu của cổ phiếu Z đang ở mức 50.500 đồng với đơn vị yết giá 100 đồng đối với giá dưới 49.900 đồng và 500 đồng đối với giá từ 50.000 đồng đến 99.500 đồng, biên độ dao động 7%, mức giá mà nhà đầu tư chứng khoán có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "51.500"
+  },
+  {
+    "id": 625,
+    "premium": false,
+    "question": "Trong tháng 7 không có ngày nghỉ lễ, một nhà đầu tư bán cổ phiếu trên thị trường chứng khoán tập trung và đã được báo là giao dịch thành công vào phiên giao dịch ngày 16 tháng 7 (thứ 6). Thời gian thanh toán là T+3. Thời gian tiền được chuyển vào tài khoản của bạn là:",
+    "answer": "Thứ tư 21/7"
+  },
+  {
+    "id": 626,
+    "premium": false,
+    "question": "Phương thức giao dịch trên thị trường OTC giai đoạn đầu",
+    "answer": "Thương lượng thỏa thuận"
+  },
+  {
+    "id": 627,
+    "premium": false,
+    "question": "Các điều kiện để trở thành nhà tạo lập thị trường",
+    "answer": "Quy mô vốn, đội ngũ nhân viên, cơ sở vật chất kỹ thuật"
+  },
+  {
+    "id": 628,
+    "premium": false,
+    "question": "Chỉ số giá bình quân gia quyền, lấy quyền số là khối lượng thời kỳ báo cáo là",
+    "answer": "Chỉ số giá Paascher"
+  },
+  {
+    "id": 629,
+    "premium": false,
+    "question": "Doanh nghiệp phát hành cổ phiếu ưu đãi để",
+    "answer": "huy động vốn trong trường hợp muốn giảm chi phí vốn chủ sở hữu"
+  },
+  {
+    "id": 630,
+    "premium": false,
+    "question": "Đặc điểm đấu giá kiểu Hà Lan",
+    "answer": "Lãi suất trúng thầu cao nhất sẽ là lãi suất áp dụng chung cho mọi đối tượng trúng thầu"
+  },
+  {
+    "id": 631,
+    "premium": false,
+    "question": "Báo cáo tài chính năm của công ty đại chúng KHÔNG bao gồm:",
+    "answer": "Bản cáo bạch"
+  },
+  {
+    "id": 632,
+    "premium": false,
+    "question": "Đối với chỉ số VN30 index, giới hạn tỷ trọng vốn hóa của một cổ phiếu tối đa ở mức:",
+    "answer": "10%"
+  },
+  {
+    "id": 633,
+    "premium": false,
+    "question": "Đối tượng công bố thông tin trên TTCK ở Việt nam gồm:",
+    "answer": "Công ty đại chúng, tổ chức phát hành trái phiếu, công ty quản lý quĩ, quỹ đại chúng, CTCK, SGDCK, trung tâm lưu ký chứng khoán, nhà đầu tư theo quy định của pháp luật và đối tượng liên quan khác"
+  },
+  {
+    "id": 634,
+    "premium": false,
+    "question": "Trái phiếu có kỳ hạn càng lớn thì sẽ có rủi ro lãi suất:",
+    "answer": "càng lớn."
+  },
+  {
+    "id": 635,
+    "premium": false,
+    "question": "Giả sử cổ phiếu A được niêm yết trên Sở giao dịch chứng khoán TP. Hồ Chí Minh, có giá đóng cửa ở phiên giao dịch trước là 101.000 đồng, theo quy chế giao dịch ở thị trường chứng khoán Việt Nam hiện nay, mức giá nào sẽ là mức đặt lệnh hợp lệ trong các mức giá sau:",
+    "answer": "101.100 đồng"
+  },
+  {
+    "id": 636,
+    "premium": false,
+    "question": "Năm nay, Công ty A có thu nhập ròng là 800 triệu đồng, số cổ phiếu đã phát hành là 600.000 cổ phiếu, cổ phiếu quỹ là 40.000, không có cổ phiếu ưu đãi. Hội đồng quản trị quyết định trả 560 triệu đồng cổ tức. Như vậy mỗi cổ phiếu được trả cổ tức là:",
+    "answer": "1.000 đồng."
+  },
+  {
+    "id": 637,
+    "premium": false,
+    "question": "Đối với chỉ số HN30 index, giới hạn tỷ trọng vốn hóa của một cổ phiếu tối đa ở mức:",
+    "answer": "15%"
+  },
+  {
+    "id": 638,
+    "premium": false,
+    "question": "NASDAQ Composite Index",
+    "answer": "là chỉ số tổng hợp của 4700 công ty, kể cả của Mỹ và nước ngoài được niêm yết trên TTCK NASDAQ"
+  },
+  {
+    "id": 639,
+    "premium": false,
+    "question": "Đâu không phải lợi ích của nhà tạo lập thị trường",
+    "answer": "Lợi ích ưu đãi khi phát hành chứng khoán"
+  },
+  {
+    "id": 640,
+    "premium": false,
+    "question": "Quỹ đầu tư dạng đóng là quỹ",
+    "answer": "Chỉ phát hành chứng chỉ quỹ một lần"
+  },
+  {
+    "id": 641,
+    "premium": false,
+    "question": "Đâu không phải đặc điểm của vốn nợ",
+    "answer": "Vô thời hạn"
+  },
+  {
+    "id": 642,
+    "premium": false,
+    "question": "IPO là phương thức",
+    "answer": "Chào bán lần đầu ra công chúng"
+  },
+  {
+    "id": 643,
+    "premium": false,
+    "question": "Các phiên giao dịch chứng khoán trên thị trường chứng khoán Việt Nam được thực hiện vào:",
+    "answer": "Các ngày trong tuần trừ thứ bảy, chủ nhật và ngày lễ."
+  },
+  {
+    "id": 644,
+    "premium": false,
+    "question": "Thông tin được công bố trên thị trường phải đảm bảo nguyên tắc:",
+    "answer": "Công khai - công bằng"
+  },
+  {
+    "id": 645,
+    "premium": false,
+    "question": "Trong ngày giao dịch đầu tiên của cổ phiếu mới đăng ký giao dịch hoặc ngày đầu tiên giao dịch trở lại của cổ phiếu không có giao dịch trên 25 phiên liên tiếp, SGDCK chỉ nhận lệnh giao dịch theo phương thức:",
+    "answer": "Khớp lệnh liên tục"
+  },
+  {
+    "id": 646,
+    "premium": false,
+    "question": "Mức hiệu quả yếu xảy ra khi giá của chứng khoán:",
+    "answer": "phản ánh các thông tin trong quá khứ về giá chứng khoán."
+  },
+  {
+    "id": 647,
+    "premium": false,
+    "question": "Thời điểm xem xét định kỳ điều chỉnh rổ cổ phiếu để tính chỉ số 6 tháng 1 lần vào tháng 4 và tháng mười hàng năm là đối với chỉ số:",
+    "answer": "HN30 index"
+  },
+  {
+    "id": 648,
+    "premium": false,
+    "question": "Cơ quan quản lý thị trường chứng khoán Việt Nam là:",
+    "answer": "Ủy ban chứng khoán Nhà nước"
+  },
+  {
+    "id": 649,
+    "premium": false,
+    "question": "Để đo lường tính nhạy cảm của giá trị trái phiếu với sự thay đổi của lãi suất người ta sử dụng:",
+    "answer": "độ co giãn (Duration)."
+  },
+  {
+    "id": 650,
+    "premium": false,
+    "question": "Đâu không phải là đặc tính của vốn chủ sở hữu",
+    "answer": "Không bị ảnh hưởng khi phát hành thêm cổ phiếu"
+  },
+  {
+    "id": 651,
+    "premium": false,
+    "question": "Trong thời hạn ….. ngày kể từ ngày nhận được hồ sơ đăng ký đầy đủ và hợp lệ, cơ quan nhà nước có thẩm quyền thông báo cho tổ chức đăng ký và công bố trên trang thông tin điện tử về việc chào bán cổ phiếu riêng lẻ của tổ chức đăng ký.",
+    "answer": "15 ngày"
+  },
+  {
+    "id": 652,
+    "premium": false,
+    "question": "Đối tượng tham gia đầu tư trên thị trường chứng khoán có thể là:",
+    "answer": "Quỹ đầu tư"
+  },
+  {
+    "id": 653,
+    "premium": false,
+    "question": "Xác định quy trình giao dịch tại thị trường chứng khoán tập trung khi chưa có giao dịch trực tuyến:",
+    "answer": "1-5-3-7-2-8-4-6"
+  },
+  {
+    "id": 654,
+    "premium": false,
+    "question": "Công việc của nhà định giá là xác định giá trị nào trong các giá trị sau đây?",
+    "answer": "Giá trị thực."
+  },
+  {
+    "id": 655,
+    "premium": false,
+    "question": "Sổ lệnh của cổ phiếu Z như sau trong phiên khớp lệnh định kỳ:",
+    "answer": "1000 cổ phiếu, giá 51000"
+  },
+  {
+    "id": 656,
+    "premium": false,
+    "question": "Lệnh giao dịch của nhà đầu tư trong nước lưu ký tại tổ chức lưu ký trong nước hoặc tại tổ chức lưu ký nước ngoài; Tổ chức lưu ký trong nước tự doanh tại UpCoM được ký hiệu là :",
+    "answer": "M"
+  },
+  {
+    "id": 657,
+    "premium": false,
+    "question": "Thị trường OTC là",
+    "answer": "Thị trường thứ cấp"
+  },
+  {
+    "id": 658,
+    "premium": false,
+    "question": "Tổ chức nào sau đây không được phép phát hành trái phiếu tại Việt Nam:",
+    "answer": "Công ty hợp danh"
+  },
+  {
+    "id": 659,
+    "premium": false,
+    "question": "Thị trường nào dưới đây là nơi giao dịch mua bán, trao đổi các giấy tờ xác nhận cổ phần đóng góp của cổ đông:",
+    "answer": "Thị trường cổ phiếu"
+  },
+  {
+    "id": 660,
+    "premium": false,
+    "question": "Số lượng nhóm thành viên chính trên thị trường OTC",
+    "answer": "4"
+  },
+  {
+    "id": 661,
+    "premium": false,
+    "question": "Mức vốn điều lệ tại thời điểm đăng ký chào bán chứng khoán",
+    "answer": "10 tỷ đ"
+  },
+  {
+    "id": 662,
+    "premium": false,
+    "question": "Hình thức bảo lãnh nào mà tổ chức bảo lãnh cũng phải cố gắng tối đa để bán hết số chứng khoán do tổ chức phát hành chỉ th",
+    "answer": "Tất cả hoặc khôn"
+  },
+  {
+    "id": 663,
+    "premium": false,
+    "question": "Thị trường vốn là thị trường giao dịch:",
+    "answer": "Các công cụ tài chính trung và dài hạn"
+  },
+  {
+    "id": 664,
+    "premium": false,
+    "question": "Thị trường chứng khoán NewYork ra đời vào năm:",
+    "answer": "1792"
+  },
+  {
+    "id": 665,
+    "premium": false,
+    "question": "Chỉ số Nikkei là chỉ số tổng hợp cổ phiếu với quyền số giá cả của",
+    "answer": "225 cổ phiếu thuộc Sở giao dịch chứng khoán Tokyo và 250 cổ phiếu thuộc Sở giao dịch Osaka"
+  },
+  {
+    "id": 666,
+    "premium": false,
+    "question": "Đâu không phải là mục tiêu của phát hành riêng lẻ",
+    "answer": "Số lượng huy động vốn rất lớn."
+  },
+  {
+    "id": 667,
+    "premium": false,
+    "question": "Giao dịch theo phương thức khớp lệnh ở Sở Giao dịch chứng khoán Hà Nội quy định đơn vị yết giá đối với những cổ phiếu có mức giá từ 100.000 đồng trở lên là:",
+    "answer": "100 đ"
+  },
+  {
+    "id": 668,
+    "premium": false,
+    "question": "Lệnh dừng để mua được đưa ra:",
+    "answer": "Với giá cao hơn giá thị trường hiện hành"
+  },
+  {
+    "id": 669,
+    "premium": false,
+    "question": "Lệnh giao dịch được áp dụng trên thị trường cổ phiếu niêm yết tại Sở Giao dịch chứng khoán Hà Nội là:",
+    "answer": "Lệnh giới hạn, Lệnh thị trường, ATC và PLO"
+  },
+  {
+    "id": 670,
+    "premium": false,
+    "question": "Giả sử giá đóng cửa chứng khoán A trong phiên giao dịch trước là 9500 đồng. Đơn vị yết giá 100 đồng, biên độ dao động giá là 7%, các mức giá mà nhà đầu tư chứng khoán có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "9300, 9700, 9800, 10100"
+  },
+  {
+    "id": 671,
+    "premium": false,
+    "question": "Nếu một trái phiếu coupon được bán với giá cao hơn mệnh giá thì:",
+    "answer": "tỷ lệ lợi tức yêu cầu của nhà đầu tư < lãi suất danh nghĩa của trái phiếu."
+  },
+  {
+    "id": 672,
+    "premium": false,
+    "question": "Điểm nào sau đây là đúng về phân phối vốn thông qua kênh tín dụng?",
+    "answer": "Nguyên tắc sàng lọc là đặc trưng của quá trình phân phối vốn của kênh tín dụng."
+  },
+  {
+    "id": 673,
+    "premium": false,
+    "question": "Cổ phiếu phổ thông có thời hạn bao nhiêu?",
+    "answer": "Bằng tuổi đời công ty."
+  },
+  {
+    "id": 674,
+    "premium": false,
+    "question": "Chỉ số giá chứng khoán không có sự tham gia của quyền số là:",
+    "answer": "Chỉ số giá bình quân giản đơn"
+  },
+  {
+    "id": 675,
+    "premium": false,
+    "question": "Hoạt động giao dịch của thị trường OTC được diễn ra",
+    "answer": "Tại quầy (sàn giao dịch) của các ngân hàng thương mại hoặc các công ty chứng khoán"
+  },
+  {
+    "id": 676,
+    "premium": false,
+    "question": "“Investors” là từ dùng để nói đến các nhà đầu tư:",
+    "answer": "Dài hạn"
+  },
+  {
+    "id": 677,
+    "premium": false,
+    "question": "Nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 678,
+    "premium": false,
+    "question": "Phương tiện công bố thông tin của công ty đại chúng KHÔNG bao gồm:",
+    "answer": "Tờ rơi"
+  },
+  {
+    "id": 679,
+    "premium": false,
+    "question": "Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả :",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường"
+  },
+  {
+    "id": 680,
+    "premium": false,
+    "question": "Khi lãi suất tăng, nếu căn cứ vào độ co giãn của giá trái phiếu theo lãi suất, các nhà đầu tư thường chọn:",
+    "answer": "những trái phiếu có Duration nhỏ."
+  },
+  {
+    "id": 681,
+    "premium": false,
+    "question": "Người sở hữu cổ phiếu phổ thông:",
+    "answer": "là chủ sở hữu công ty."
+  },
+  {
+    "id": 682,
+    "premium": false,
+    "question": "Giá trị thực của một tài sản là:",
+    "answer": "giá trị hiện tại của những luồng tiền trong tương lai dự tính thu được từ tài sản."
+  },
+  {
+    "id": 683,
+    "premium": false,
+    "question": "Logic ẩn sau phương pháp phân tích kỹ thuật là:",
+    "answer": "lịch sử giá chứng khoán có xu hướng lặp lại."
+  },
+  {
+    "id": 684,
+    "premium": false,
+    "question": "Sự di chuyển vốn đầu tư trong nền kinh tế được thực hiện thông qua:",
+    "answer": "cơ chế \"bàn tay vô hình\", cơ chế xác định giá chứng khoán và thông qua hoạt động thâu tóm, sáp nhập doanh nghiệp trên thị trường thứ cấp."
+  },
+  {
+    "id": 685,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, tổ chức niêm yết, công ty đại chúng quy mô lớn công bố thông tin về báo cáo tài chính quý trong thời hạn …. kể từ ngày kết thúc quý",
+    "answer": "20 ngày"
+  },
+  {
+    "id": 686,
+    "premium": false,
+    "question": "Cổ phiếu của công ty A được chi trả cổ tức hiện tại là 3.000 đồng. Biết giá hiện tại của cổ phiếu là 60.000 đồng, tỷ lệ lợi tức yêu cầu là 15%. Xác định tốc độ tăng trưởng cổ tức của cổ phiếu (giả định cổ tức tăng trưởng đều qua các năm).",
+    "answer": "10%."
+  },
+  {
+    "id": 687,
+    "premium": false,
+    "question": "Căn cứ vào hình thức tổ chức của thị trường, thị trường chứng khoán được chia làm:",
+    "answer": "Thị trường tập trung và OTC"
+  },
+  {
+    "id": 688,
+    "premium": false,
+    "question": "Trái phiếu bằng đồng Việt Nam được tổ chức quốc tế chào bán có kỳ hạn",
+    "answer": "Không dưới 10 năm"
+  },
+  {
+    "id": 689,
+    "premium": false,
+    "question": "Cổ phiếu X có mức tăng trưởng g = 0, cổ tức nhận được hàng năm là 2.000 đồng. Với mức tỷ suất lợi nhuận yêu cầu là 10%/năm thì giá cổ phiếu X được xác định là:",
+    "answer": "20.000 đồng."
+  },
+  {
+    "id": 690,
+    "premium": false,
+    "question": "Chính phủ và chính quyền địa phương phát hành loại chứng khoán nào",
+    "answer": "Trái phiếu"
+  },
+  {
+    "id": 691,
+    "premium": false,
+    "question": "Quan điểm cho rằng: \"Thị trường chứng khoán là thị trường cổ phiếu\", hay là nơi mua bán các cổ phần được các công ty phát hành ra để huy động vốn. Quan điểm này xuất phát từ việc:",
+    "answer": "xét mức độ tác động của thị trường tới nền kinh tế khi có biến động thì cổ phiếu ảnh hưởng mạnh hơn."
+  },
+  {
+    "id": 692,
+    "premium": false,
+    "question": "Giá chứng khoán trên thị trường OTC được hình thành qua:",
+    "answer": "Thương lượng và thỏa thuận riêng biệt giữa người mua và người bán"
+  },
+  {
+    "id": 693,
+    "premium": false,
+    "question": "Nhiệm vụ của nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Tạo tính thanh khoản cho thị trường"
+  },
+  {
+    "id": 694,
+    "premium": false,
+    "question": "Thông tin về tình hình hình hoạt động kinh doanh, tài chính,… và các thông tin khác về mục tiêu phát hành chứng khoán của tổ chức phát hành được phản ánh trong:",
+    "answer": "Bản cáo bạch phát hành"
+  },
+  {
+    "id": 695,
+    "premium": false,
+    "question": ". Thị trường tài chính bao gồm:",
+    "answer": "Thị trường tiền tệ và thị trường vốn"
+  },
+  {
+    "id": 696,
+    "premium": false,
+    "question": "Đáp án nào không đúng trong các đáp án sau?",
+    "answer": "chi phí vốn không phụ thuộc vào cơ chế định giá."
+  },
+  {
+    "id": 697,
+    "premium": false,
+    "question": "Hình thức nào dưới đây không phải là doanh nghiệp huy động vốn chủ sở hữu",
+    "answer": "Phát hành trái phiếu"
+  },
+  {
+    "id": 698,
+    "premium": false,
+    "question": "Cơ quan quản lý thị trường chứng khoán Việt Nam là:",
+    "answer": "Ủy ban chứng khoán Nhà nước"
+  },
+  {
+    "id": 699,
+    "premium": false,
+    "question": "Bản thông cáo của tổ chức phát hành khi thực hiện phát hành chứng khoán ra công chúng gọi là",
+    "answer": "Bản cáo bạch"
+  },
+  {
+    "id": 700,
+    "premium": false,
+    "question": "Giả sử giá đóng cửa của cổ phiếu A trong phiên giao dịch trước là 10200 đồng, đơn vị yết giá là 100 đồng, biên độ dao động giá là 5%. Các mức giá mà nhà đầu tư có thể đặt lệnh trong phiên giao dịch tới là:",
+    "answer": "9900, 10000, 10100, 10300."
+  },
+  {
+    "id": 701,
+    "premium": false,
+    "question": "Trên thị trường chứng khoán, hành vi có tiêu cực là:",
+    "answer": "Mua bán nội gián"
+  },
+  {
+    "id": 702,
+    "premium": false,
+    "question": "Thời gian giao dịch trong ngày làm việc ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh là:",
+    "answer": "Từ 9h00 đến 15h00"
+  },
+  {
+    "id": 703,
+    "premium": false,
+    "question": "Sở giao dịch chứng khoán có thể có những hình thức sở hữu sau đây:",
+    "answer": "Hình thức sở hữu nhà nước, Hình thức sở hữu thành viên, Hình thức sở hữu công ty cổ phần"
+  },
+  {
+    "id": 704,
+    "premium": false,
+    "question": "Biên độ giao dịch trong ngày giao dịch đầu tiên của cổ phiếu mới trên thị trường UpCoM:",
+    "answer": "40%"
+  },
+  {
+    "id": 705,
+    "premium": false,
+    "question": "Đơn vị giao dịch với khớp lệnh thỏa thuận trên UpCoM",
+    "answer": "Không quy định"
+  },
+  {
+    "id": 706,
+    "premium": false,
+    "question": "Cổ phiếu phổ thông có thời hạn bao nhiêu?",
+    "answer": "Bằng tuổi đời công ty."
+  },
+  {
+    "id": 707,
+    "premium": false,
+    "question": "Chủ thể phát hành chứng khoán trên thị trường bao gồm :",
+    "answer": "Chính phủ, Quỹ đầu tư và Doanh nghiệp"
+  },
+  {
+    "id": 708,
+    "premium": false,
+    "question": "Các phiên giao dịch chứng khoán trên thị trường chứng khoán Việt Nam được thực hiện vào:",
+    "answer": "Các ngày trong tuần trừ thứ bảy, chủ nhật và ngày lễ."
+  },
+  {
+    "id": 709,
+    "premium": false,
+    "question": "Giá trị thực của một tài sản là:",
+    "answer": "giá trị hiện tại của những luồng tiền trong tương lai dự tính thu được từ tài sản."
+  },
+  {
+    "id": 710,
+    "premium": false,
+    "question": "Khi lãi suất giảm, để tận dụng triệt để mức tăng giá do lãi suất, các nhà đầu tư thường chọn:",
+    "answer": "những trái phiếu có Duration lớn."
+  },
+  {
+    "id": 711,
+    "premium": false,
+    "question": "Điều kiện chào bán trái phiếu ra công chúng về mức vốn điều lệ",
+    "answer": "10 tỷ đ"
+  },
+  {
+    "id": 712,
+    "premium": false,
+    "question": "Thị trường OTC là",
+    "answer": "Thị trường thứ cấp"
+  },
+  {
+    "id": 713,
+    "premium": false,
+    "question": "Đơn vị yết giá trên sàn UpCom",
+    "answer": "100 đồng"
+  },
+  {
+    "id": 714,
+    "premium": false,
+    "question": "Đáp án nào không đúng trong các đáp án sau?",
+    "answer": "chi phí vốn không phụ thuộc vào cơ chế định giá."
+  },
+  {
+    "id": 715,
+    "premium": false,
+    "question": "Cơ chế xác lập giá chứng khoán chủ yếu trên thị trường OTC là:",
+    "answer": "Thương lượng, thỏa thuận"
+  },
+  {
+    "id": 716,
+    "premium": false,
+    "question": "Giao dịch theo phương thức khớp lệnh ở Sở Giao dịch chứng khoán TP. Hồ Chí Minh quy định đơn vị yết giá đối với những cổ phiếu có mức giá dưới 50.000 đồng là:",
+    "answer": "50đ"
+  },
+  {
+    "id": 717,
+    "premium": false,
+    "question": "Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả :",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường"
+  },
+  {
+    "id": 718,
+    "premium": false,
+    "question": "Nhà tạo lập thị trường trên thị trường OTC là:",
+    "answer": "Công ty chứng khoán"
+  },
+  {
+    "id": 719,
+    "premium": false,
+    "question": "Phát hành loại chứng khoán nào làm tăng vốn chủ sở hữu?",
+    "answer": "Cổ phiếu phổ thông và cổ phiếu ưu đãi."
+  },
+  {
+    "id": 720,
+    "premium": false,
+    "question": "IPO là phương thức",
+    "answer": "Chào bán lần đầu ra công chúng"
+  },
+  {
+    "id": 721,
+    "premium": false,
+    "question": "Quỹ đầu tư chứng khoán dạng mở là quỹ:",
+    "answer": "Liên tục phát hành chứng chỉ quỹ"
+  },
+  {
+    "id": 722,
+    "premium": false,
+    "question": "Trong trường hợp phá sản, giải thể doanh nghiệp, các cổ đông thường sẽ:",
+    "answer": "là người cuối cùng được thanh toán."
+  },
+  {
+    "id": 723,
+    "premium": false,
+    "question": "Tại Thái Lan, huy động qua phát hành riêng lẻ không được quá",
+    "answer": "35 người"
+  },
+  {
+    "id": 724,
+    "premium": false,
+    "question": "Thị trường vốn là thị trường giao dịch:",
+    "answer": "Các công cụ tài chính trung và dài hạn"
+  },
+  {
+    "id": 725,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là không đúng",
+    "answer": "Công ty hợp danh được phép phát hành chứng khoán"
+  },
+  {
+    "id": 726,
+    "premium": false,
+    "question": "Niêm yết nào sau đây là niêm yết lần đầu :",
+    "answer": "việc cho phép chứng khoán của tổ chức phát hành được đăng ký niêm yết giao dịch chứng khoán lần đầu tiên sau khi phát hành ra công chúng (IPO) khi tổ chức phát hành đó đáp ứng được các tiêu chuẩn về niêm yết."
+  },
+  {
+    "id": 727,
+    "premium": false,
+    "question": ". Thị trường tài chính bao gồm:",
+    "answer": "Thị trường tiền tệ và thị trường vốn"
+  },
+  {
+    "id": 728,
+    "premium": false,
+    "question": "Đây là phương thức thường được áp dụng khi một công ty đại chúng phát hành bổ sung thêm cổ phiếu thường và chào bán cho các cổ đông cũ trước khi chào bán ra công chúng bên ngoài",
+    "answer": "Bảo lãnh dự phòng"
+  },
+  {
+    "id": 729,
+    "premium": false,
+    "question": "Công ty chứng khoán tham gia vào thị trường với tư cách là nhà đầu tư có tổ chức thông qua nghiệp vụ:",
+    "answer": "Tự doanh"
+  },
+  {
+    "id": 730,
+    "premium": false,
+    "question": "Thông tin theo yêu cầu của công ty đại chúng sẽ phải công bố khi đối tượng sau yêu cầu:",
+    "answer": "Ủy ban chứng khoán Nhà nước"
+  },
+  {
+    "id": 731,
+    "premium": false,
+    "question": "Theo quy định ở Việt nam hiện nay, báo cáo tài chính năm đã được kiểm toán của Công ty đại chúng (bao gồm cả Tổ chức niêm yết, công ty đại chúng quy mô lớn) phải công bố thông tin trong thời hạn ………, kể từ ngày tổ chức kiểm toán ký báo cáo kiểm toán nhưng không vượt quá 90 ngày, kể từ ngày kết thúc năm tài chính",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 732,
+    "premium": false,
+    "question": "Giá chứng khoán trên thị trường OTC được hình thành qua:",
+    "answer": "Thương lượng và thỏa thuận riêng biệt giữa người mua và người bán"
+  },
+  {
+    "id": 733,
+    "premium": false,
+    "question": "Phương tiện công bố thông tin của công ty đại chúng KHÔNG bao gồm:",
+    "answer": "Tờ rơi"
+  },
+  {
+    "id": 734,
+    "premium": false,
+    "question": "Thời điểm xem xét định kỳ điều chỉnh rổ cổ phiếu để tính chỉ số 6 tháng 1 lần vào tháng 4 và tháng mười hàng năm là đối với chỉ số:",
+    "answer": "HN30 index"
+  },
+  {
+    "id": 735,
+    "premium": false,
+    "question": "Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả?",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường."
+  }
+]

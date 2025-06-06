@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Một trong những chức năng của hệ thống thông tin kế toán là:",
+    "answer": "Chuyển hóa dữ liệu thành thông tin hữu ích."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Nguồn dữ liệu chủ yếu cho hệ thống thông tin kế toán là?",
+    "answer": "Các nghiệp vụ tài chính bên trong đơn vị/tổ chức."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Khoản tiền ứng trước của khách hàng sẽ được trình bày",
+    "answer": "Bên nguồn vốn của Bảng cân đối kế toán"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Trong hình thức Nhật ký chung, cơ sở ghi vào Sổ cái là?",
+    "answer": "Sổ Nhật ký chung, sổ Nhật ký đặc biệt"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Kế toán tài chính có đặc điểm là?",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Hóa đơn bán hàng là?",
+    "answer": "Chứng từ gốc"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Số dư bên Có của Tài khoản “Lợi nhuận chưa phân phối” được:",
+    "answer": "Ghi số dương bên Nguồn vốn của Bảng cân đối kế toán"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Bộ phận kho hàng gửi yêu cầu mua hàng để bộ phận mua hàng lập và gửi đơn đặt hàng cho nhà cung cấp."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Tài liệu hóa hệ thống thông tin kế toán là?",
+    "answer": "Sử dụng các công cụ phù hợp để mô tả lại cấu trúc và toàn bộ hoạt động của hệ thống thông tin kế toán."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Khi vẽ lưu đồ, biểu tượng nào dưới đây KHÔNG thuộc nhóm biểu tượng lưu trữ?",
+    "answer": "Pa: B"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Mục đích của việc thâm nhập kho dữ liệu là?",
+    "answer": "Để lưu trữ và sử dụng dữ liệu."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Sử dụng dữ liệu lưu trong kho dữ liệu khoản Phải thu khách hàng để lập Bản đối chiếu công nợ và gửi cho khách hàng."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Một quản lý nhà máy đã ghi giảm một thiết bị robot tự động như là thanh lý tài sản, nhưng trên thực tế, anh ta đã bán máy và đút túi số tiền thu được. Biện pháp nào trong số các biện pháp sau có thể giúp hạn chế rủi ro dạng này hiệu quả nhất?",
+    "answer": "Hạn chế quyền được phê duyệt nghiệp vụ thanh lý hay nhượng bán tài sản đồng thời yêu cầu các nghiệp vụ thanh lý, nhượng bán tài sản phải được sự phê duyệt của ít nhất 2 người đại diện bộ phận quản lý và bộ phận sử dụng tài sản."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Để theo dõi công nợ của khách hàng, KHÔNG cần?",
+    "answer": "Phân chia trách nhiệm lập hóa đơn và chức năng xuất kho giao hàng."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Việc “Lựa chọn thanh toán” trong hoạt động “Thu tiền của chu trình bán hàng” mang ý nghĩa?",
+    "answer": "Đối chiếu, kiểm tra tình trạng công nợ của khách hàng và xác nhận nội dung thanh toán của khách hàng."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Ưu điểm của hệ thống dùng sổ chi tiết phải trả người nhà cung cấp là?",
+    "answer": "Dễ dàng xác định quá trình thanh toán công nợ và số dư nợ hiện hành với từng nhà cung cấp."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Nhận định nào KHÔNG phù hợp với phương pháp xác định chi phí theo quá trình sản xuất?",
+    "answer": "Phương pháp này được áp dụng khi sản xuất theo yêu cầu của từng khách hàng riêng biệt."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Cơ sở dữ liệu(database) là?",
+    "answer": "Một tập hợp các tệp dữ liệu tập trung và có mối liên hệ với nhau"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Trong các phần mềm sau đây, phần mềm nào không phải là hệ quản trị dữ liệu quan hệ ?",
+    "answer": "Microsoft excel."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là Đúng?",
+    "answer": "Mỗi cột trong bảng bao gồm các thông tin về thuộc tính của đối tượng"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là Đúng",
+    "answer": "Mỗi dòng bao gồm dữ liệu về các thuộc tính của đối tượng trong một bảng"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Một trong những lợi ích của cơ sở dữ liệu là?",
+    "answer": "Quản lý dữ liệu trung tâm"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Hệ thống thông tin kế toán là?",
+    "answer": "Một hệ thống cấu thành hệ thống thông tin của đơn vị."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Thông tin hữu ích KHÔNG nhất thiết phải?",
+    "answer": "Ít tốn kém."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Nguồn dữ liệu chủ yếu cho hệ thống thông tin kế toán là?",
+    "answer": "Các nghiệp vụ tài chính bên trong đơn vị/tổ chức."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Điểm khác biệt giữa dữ liệu và thông tin là?",
+    "answer": "Dữ liệu là đầu vào, thông tin là đầu ra."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Nguyên tắc ghi chép nghiệp vụ theo giá vốn được gọi là",
+    "answer": "Nguyên tắc giá gốc"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Nếu phân loại theo phương pháp ghi chép thì sổ ghi theo hệ thống bao gồm?",
+    "answer": "Sổ cái và sổ chi tiết"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Khi nhận được chứng từ kế toán, nhân viên kế toán phải xử lý theo trình tự như sau?",
+    "answer": "Kiểm tra, tổ chức luân chuyển, hoàn chỉnh, lưu trữ - bảo quản chứng từ"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Bảng cân đối tài khoản phản ánh mối quan hệ?",
+    "answer": "Các tài khoản từ loại 1 đến loại 9"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Trong hình thức Nhật ký chung, cơ sở ghi vào sổ chi tiết là?",
+    "answer": "Chứng từ kế toán"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Những yếu tố nào sau đây là yếu tố bắt buộc của bản chứng từ?",
+    "answer": "Cả A, C, D."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Khuyến nghị nào sau đây KHÔNG phù hợp để thiết kế một lưu đồ ngắn gọn, dễ hiểu?",
+    "answer": "Lập lưu đồ tất cả các dòng thông tin, kể cả các thủ tục kiểm soát."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Trong sơ đồ dòng dữ liệu, hình tròn biểu tượng cho?",
+    "answer": "Quá trình xử lý dữ liệu."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Trong sơ đồ dòng dữ liệu, hình chữ nhật hoặc hình vuông biểu tượng cho?",
+    "answer": "Nguồn dữ liệu và đích đến."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Các thành phần của hệ thống trong mỗi cột của lưu đồ được sắp xếp theo trật tự nào?",
+    "answer": "Các thành phần đi vào – các hoạt động xử lý – các thành phần đi ra – phương thức lưu trữ."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Nhận định nào sau đây KHÔNG phải là một hướng dẫn phải theo khi đặt tên các thành phần của sơ đồ dòng dữ liệu?",
+    "answer": "Chọn các tên tích cực và có tính mô tả."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Câu nào dưới đây KHÔNG đúng với phương pháp xác định lượng đặt hàng kinh tế (EOQ)?",
+    "answer": "Loại bỏ việc dự trữ hàng tồn kho."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Thủ tục kiểm soát nào sẽ giúp hạn chế rủi ro do trong quá trình nhập dữ liệu, cụ thể là số giờ làm việc một ngày của nhân viên trên Bảng chấm công bị ghi sai là 80 trong khi thực tế chỉ là 8?",
+    "answer": "Sử dụng biện pháp kiểm soát giới hạn trong quá trình nhập dữ liệu để kiểm tra việc ghi chép số giờ làm việc của nhân viên (ví dụ: đặt ra giới hạn tối đa là 8h/ngày, việc vượt quá số giờ đó là không được phép)."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Khi đặt hàng KHÔNG cần lưu trữ thông tin nào dưới đây?",
+    "answer": "Thông tin về thiết bị lưu trữ."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Rủi ro nào KHÔNG thuộc phạm vi của quá trình đặt hàng?",
+    "answer": "Nhận hàng không yêu cầu."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Nhận định nào sau đây KHÔNG chính xác?",
+    "answer": "Thiết kế sản phẩm và lập kế hoạch sản xuất là hai hoạt động độc lập."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Chi phí lớn"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Liên kết giữa các bảng dựa trên?",
+    "answer": "Khóa ngoại."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Tệp dữ liệu (file) là?",
+    "answer": "Được tạo thành từ một tập hợp các bản ghi có liên quan với nhau"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Người quản trị cơ sở dữ liệu (database administrator)?",
+    "answer": "Người chịu trách nhiệm về cơ sở dữ liệu"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Khóa ngoại (foreign key) là?",
+    "answer": "Một thuộc tính trong một bảng nhưng là khóa chính (primary key) trong một bảng khác dùng để kết nối hai bảng với nhau"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Trong những tài sản dưới đây, tài sản nào không có nhiều giá trị đối với doanh nghiệp?",
+    "answer": "Công cụ dụng cụ"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Một hệ thống con có thể?",
+    "answer": "Chứa đựng các hệ thống con khác."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Kế toán viên là người?",
+    "answer": "Người tư vấn xây dựng, tham gia vào quá trình phân tích, thiết kế và trực tiếp sử dụng hệ thống thông tin kế toán"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Chức năng của hệ thống thông tin kế toán trong doanh nghiệp KHÔNG bao gồm?",
+    "answer": "Phân tích tình hình kinh tế - xã hội địa phương."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Đặc tính nào dưới đây liên quan gần nhất đến khả năng của thông tin, làm giảm tính không chắc chắn của thông tin?",
+    "answer": "Tính tương thích"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Khi xuất kho sản phẩm bán cho khách hàng, giá ghi trên phiếu xuất kho là?",
+    "answer": "Giá vốn"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Đơn vị kế toán là? ",
+    "answer": "A, B, C, D đều đúng"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Chứng từ kế toán cần phải được lưu trữ trong thời gian?",
+    "answer": "Tùy theo loại chứng từ kế toán mà có thời gian lưu trữ khác nhau"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Nếu phân loại theo mức độ phản ánh thì sổ nhật ký chung thuộc loại?",
+    "answer": "Sổ nhật ký tổng hợp"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Những câu phát biểu là ĐÚNG đối với PHIẾU XUẤT KHO được sử dụng trong chu trình doanh thu?",
+    "answer": "Câu A,B đều đúng"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Mô tả nào phù hợp với lưu đồ sau?",
+    "answer": "In báo cáo do máy tính kết xuất từ dữ liệu trong kho lưu trữ."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Hình vẽ sau mô tả?",
+    "answer": "Lưu đồ tài liệu."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Trên lưu đồ, hình chữ nhật là biểu tượng của?",
+    "answer": "Hoạt động xử lý bằng máy tính."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Trong sơ đồ dòng dữ liệu?",
+    "answer": "Kho dữ liệu có thể đặt ở nhiều chỗ (nhằm giúp việc thể hiện các dòng dữ liệu trở nên dễ dàng hơn)."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Trong sơ đồ dòng dữ liệu, hình ảnh “mũi tên hướng tới ký hiệu lưu trữ dữ liệu” biểu hiện hoạt động",
+    "answer": "Lưu trữ thông tin."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Hoạt động kiểm soát nào dưới đây KHÔNG có tác dụng đối với rủi ro mua hàng kém chất lượng?",
+    "answer": "Lập ngân sách mua hàng."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Lệnh bán hàng thường được lập bởi?",
+    "answer": "Bộ phận bán hàng."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Bộ phận nào trong doanh nghiệp chịu trách nhiệm cập nhật những thay đổi về nhân sự?",
+    "answer": "Bộ phận quản lý nhân sự."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Kế toán đã ghi giảm khoản phải thu của một khách hàng như một khoản nợ không thể thu hồi để che giấu việc ăn cắp các khoản thanh toán bằng tiền mặt của khách hàng đó. Thủ tục kiểm soát tốt nhất để ngăn chặn rủi ro này là?",
+    "answer": "Tách biệt chức năng phê duyệt xóa sổ khoản phải thu với chức năng thu tiền."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Để giảm bớt rủi ro về sai sót của dữ liệu đầu vào, doanh nghiệp cần?",
+    "answer": "Áp dụng tất cả các biện pháp cần thiết như hạn chế truy cập, giới hạn đối tượng được quyền thay đổi dữ liệu và yêu cầu lập báo cáo khi có thay đổi."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Có sự phản đối khi thay đổi"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Trường khóa chính là?",
+    "answer": "Một thuộc tính hoặc thuộc tính kết hợp mà duy nhất dùng để xác định các hàng xác định trong một bảng"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Một trong những ưu điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Sản xuất-Kinh doanh hiệu quả hơn"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Thực thể là?",
+    "answer": "Những sự vật, sự việc tồn tại mà tổ chức muốn lưu trữ dữ liệu về nó."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Tốn nhiều thời gian để ứng dụng."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Một trong những chức năng của hệ thống thông tin kế toán là",
+    "answer": "Chuyển hóa dữ liệu thành thông tin hữu ích."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Thông tin là?",
+    "answer": "Những sự kiện, những con số, những hình ảnh được xử lý để phù hợp với người sử dụng"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Một trong những chức năng của hệ thống thông tin kế toán là:",
+    "answer": "Chuyển hóa dữ liệu thành thông tin hữu ích."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Hệ thống con là?",
+    "answer": "Hệ thống nhưng là một thành phần của hệ thống khác."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Hệ thống thông tin nào dưới đây có tác dụng hỗ trợ phân tích tổng quát hiệu quả và năng lực hoạt động của tổ chức?",
+    "answer": "Hệ thống thông tin quản lý MIS."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Sổ cái tài khoản tiền mặt là loại sổ kế toán?",
+    "answer": "Sổ liên hợp"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Đơn vị tiền tệ trong kế toán là?  ",
+    "answer": "Là loại tiền có thể là VNĐ hay USD hay một đồng tiền khác được dùng để ghi sổ kế toán, lập và trình bày báo cáo tài chính của doanh nghiệp, căn cứ vào quy định của Luật Kế toán để xem xét, quyết định lựa chọn đơn vị tiền tệ trong kế toán và chịu trách nhiệm về quyết định đó trước pháp luật."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Đợt đặt hàng là?",
+    "answer": "Chứng từ mệnh lệnh"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Theo nội dung thanh toán, chứng từ có các loại như:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Chứng từ nào sau đây được gửi kèm với hàng giao cho khách?",
+    "answer": "Phiếu kiểm tra"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Trong sơ đồ dòng dữ liệu, mũi tên biểu tượng cho",
+    "answer": "Quá trình xử lý dữ liệu."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Tiêu thức nào KHÔNG được sử dụng để phân nhóm các hoạt động khi vẽ sơ đồ dòng dữ liệu chi tiết?",
+    "answer": "Các hoạt động xảy ra khác nơi, khác thời điểm."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Trong các biểu tượng sau, biểu tượng nào thể hiện hệ thống có sử dụng máy tính?",
+    "answer": "Pa:C"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây KHÔNG phù hợp với sơ đồ?",
+    "answer": "Phải trình bày người tham gia trong hệ thống."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Thu tiền hàng của khách hàng và gửi vào ngân hàng."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Để tránh nhầm lẫn khi chấm công và tính kết quả lao động hàng tháng, doanh nghiệp cần?",
+    "answer": "Phân quyền giữa các bộ phận quản lý nhân sự, bộ phận sử dụng lao động và bộ phận kế toán."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Các hoạt động cơ bản của chu trình mua hàng KHÔNG bao gồm?",
+    "answer": "Vay ngân hàng."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Trong chu trình bán hàng, hoá đơn bán hàng được lập bởi?",
+    "answer": "Không ai trong số 3 đối tượng: khách hàng, ngân hàng hay bộ phận quản lý doanh thu."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Cập nhật cơ sở dữ liệu tiền lương KHÔNG bao gồm hoạt động nào dưới đây?",
+    "answer": "Tình trạng hôn nhân của nhân viên."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Kế hoạch sản xuất tổng thể cho biết?",
+    "answer": "Số lượng sản phẩm cần sản xuất trong khoảng thời gian kế hoạch."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Tệp dữ liệu (file) là?",
+    "answer": "Được tạo thành từ một tập hợp các bản ghi có liên quan với nhau"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là Đúng",
+    "answer": "Mỗi dòng bao gồm dữ liệu về các thuộc tính của đối tượng trong một bảng"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Người quản trị cơ sở dữ liệu (database administrator)?",
+    "answer": "Người chịu trách nhiệm về cơ sở dữ liệu"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Hệ thống hợp nhất tất cả quá trình kinh doanh và chức năng trên một hệ thống phần mềm và sử dụng một cơ sở dữ liệu chung"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Người sử dụng có thể truy cập?",
+    "answer": "Phụ thuộc vào quyền truy nhập."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Thành phần nào dưới đây không thuộc thành phần của hệ thống thông tin?",
+    "answer": "Rủi ro thông tin"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Dữ liệu là?",
+    "answer": "Tất cả các sự kiện được thu thập, lưu trữ và xử lý bởi hệ thống thông tin"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Hệ thống thông tin kế toán bao gồm những thành phần nào?",
+    "answer": "Con người, thủ tục và công nghệ thông tin"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Các thành phần cơ bản của hệ thống gồm",
+    "answer": "Các yếu tố đầu vào; xử lý, chế biến; và các yếu tố đầu ra."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Đối tượng của hệ thống thông tin kế toán là:",
+    "answer": "Tất cả các nghiệp tài chính và những nghiệp vụ phi tài chính có ảnh hưởng trực tiếp tới quá trình xử lý các nghiệp vụ tài chính của đơn vị/tổ chức."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Các loại sổ của hình thức Nhật ký chung bao gồm?",
+    "answer": "Nhật ký chung, Nhật ký đặc biệt, Sổ cái, Sổ chi tiết"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Một bản chứng từ kế toán cần",
+    "answer": "Tất cả các trường hợp trên"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Ý nghĩa của chứng từ kế toán",
+    "answer": "Tất cả các nội dung trên"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Trong kỳ kế toán ghi Nợ mà quên ghi Có hoặc ngược lại sẽ dẫn đến sự mất cân đối của tài khoản đối với?",
+    "answer": "Số dư cuối kỳ và số phát sinh trong kỳ"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Bảng chấm công là?",
+    "answer": "Chứng từ chấp hành"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Sơ đồ dòng dữ liệu tổng quát thường KHÔNG thể hiện?",
+    "answer": "Hệ thống này gồm bao nhiêu hoạt động."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Yếu tố nào được thể hiện trên các sơ đồ dòng dữ liệu chi tiết chứ không thể hiện trên sơ đồ dòng dữ liệu tổng quát?",
+    "answer": "Các hoạt động cụ thể của quá trình xử lý dữ liệu."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Sơ đồ dòng dữ liệu bao gồm các thành phần cơ bản sau?",
+    "answer": "Nguồn dữ liệu và điểm đến, dòng dữ liệu, quá trình xử lý và lưu trữ dữ liệu."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Trên sơ đồ dòng dữ liệu, một quá trình xử lý KHÔNG nhất thiết phải có?",
+    "answer": "Tên của đối tượng lưu trữ."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Trong sơ đồ dòng dữ liệu, hình ảnh “mũi tên đi ra từ ký hiệu lưu trữ dữ liệu” biểu hiện hoạt động?",
+    "answer": "Sử dụng thông tin."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Một quản đốc phân xưởng đã không thông báo cho bộ phận nhân sự về việc sa thải một nhân viên. Do đó, nhân viên này vẫn được thanh toán lương và người quản đốc đã lĩnh hộ rồi “đút túi” số tiền đó. Giải pháp nào sẽ là hữu hiệu để giúp doanh nghiệp hạn chế rủi ro dạng này?",
+    "answer": "Áp dụng chính sách không cho phép lĩnh hộ lương."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "“Một nhân viên đã ghi thẻ chấm công cho bạn mình từ 1:00 p.m. đến 5:00 p.m trong khi người bạn đó đã đi hát karaoke cả buổi chiều”. Doanh nghiệp cần làm gì để kiểm soát rủi ro này?",
+    "answer": "Kết hợp công nghệ hiện đại để chấm công, đồng thời phân tách nhiệm vụ giữa việc chấm công và thẻ thời gian, giám sát việc kiêm tra lại."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Tình huống nào có thể gây rủi ro cho doanh nghiệp?",
+    "answer": "Chấp nhận đơn đặt hàng của khách hàng dù lượng hàng tồn kho hiện tại chưa đủ đáp ứng yêu cầu."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Bảng thanh toán lương được lập trên cơ sở?",
+    "answer": "Bảng chấm công và phiếu xác nhận sản phẩm hoặc công việc hoàn thành."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Chu trình mua hàng KHÔNG nhất thiết phải liên quan đến?",
+    "answer": "Chu trình nhân sự."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Một trong những lợi ích của cơ sở dữ liệu là?",
+    "answer": "Tích hợp dữ liệu."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Cơ sở dữ liệu(database) là?",
+    "answer": "Một tập hợp các tệp dữ liệu tập trung và có mối liên hệ với nhau"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Phần mềm kế toán là?",
+    "answer": "Một hệ thống được tổ chức dưới dạng chương trình máy tính có thể thu thập, xử lý các giao dịch về kinh tế tài chính và cung cấp các thông tin dưới dạng các báo cáo tài chính"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Chi phí lớn"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Trường khóa chính là?",
+    "answer": "Một thuộc tính hoặc thuộc tính kết hợp mà duy nhất dùng để xác định các hàng xác định trong một bảng"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Theo đối tượng sử dụng, hệ thống thông tin kế toán bao gồm:",
+    "answer": "Hệ thống thông tin kế toán tài chính và hệ thống thông tin kế toán quản trị."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Các thành phần vật lý của hệ thống thông tin không bao gồm:",
+    "answer": "Quy trình nghiệp vụ và môi trường"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Điều nào sau đây không phải là một trong ba chức năng quan trọng của việc thực hiện một hê thống thông tin kế toán?",
+    "answer": "Đảm bảo rằng các hoạt động của nhà quản trị phản ánh một cách độc lập với lợi nhuận công ty"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây của thông tin không hỗ trợ quá trình ra quyết định?",
+    "answer": "Quá tải trong quá trình tiếp nhận thông tin"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Dữ liệu là?",
+    "answer": "Một thành phần của hệ thống thông tin."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Hình thức kế toán quy định?",
+    "answer": "Hệ thống các sổ kế toán, số lượng sổ, kết cấu, các loại sổ, Trình tự và phương pháp ghi vào từng sổ, mối quan hệ giữa các loại sổ với nhau"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Kế toán quản trị có đặc điểm?",
+    "answer": "A, B và D"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Các loại sổ của hình thức Nhật ký chung bao gồm?",
+    "answer": "Nhật ký chung, Nhật ký đặc biệt, Sổ cái, Sổ chi tiết"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Bảng cân đối tài khoản phản ánh mối quan hệ?",
+    "answer": "Các tài khoản từ loại 1 đến loại 9"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Các loại giấy tờ sau đây thì loại nào được xác định là loại chứng từ kế toán trực tiếp?",
+    "answer": "Giấy đề nghị tạm ứng được phê duyệt"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Mô tả nào phù hợp với lưu đồ sau?",
+    "answer": "Hóa đơn bán hàng được lập thủ công và gửi cho khách hàng."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Nhận định nào sau đây CHƯA chính xác?",
+    "answer": "Lưu đồ hệ thống là biểu diễn có tính mô tả một hệ thống thông tin."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Khi vẽ sơ đồ dòng dữ liệu KHÔNG nhất thiết phải?",
+    "answer": "Thể hiện các quy trình kiểm soát và hoạt động kiểm soát."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây KHÔNG đúng khi vẽ lưu đồ?",
+    "answer": "Trình bày đủ các thành phần của hệ thống trong mỗi cột nhưng không nhất thiết phải theo thứ tự."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Trên lưu đồ, hình tròn là biểu tượng của?",
+    "answer": "Điểm nối trong cùng 1 trang."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Các rủi ro tiềm tàng trong quá trình thanh toán là?",
+    "answer": "Thanh toán bỏ sót hoặc trùng lặp, không phát hiện được sai sót."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Nhận định nào sau đây là đúng?",
+    "answer": "Có thể mua bảo hiểm để hạn chế rủi ro trong trường hợp tài sản bị hư hỏng do thiên tai, hỏa hoạn."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Thông tin giữa chu trình sản xuất và chu trình nhân sự gồm?",
+    "answer": "Nhu cầu nhân sự phục vụ cho quá trình sản xuất và thông tin về chi phí nhân công để tính giá thành sản phẩm."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Trong chu trình nhân sự, phòng nhân sự có chức năng?",
+    "answer": "Cung cấp thông tin về tuyển dụng, chấm dứt hợp đồng, thay đổi thang bậc lương do tăng lương, khuyến khích, khen thưởng…"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Thông tin kế toán chu trình sản xuất là cơ sở thiết yếu để ra các quyết định liên quan đến?",
+    "answer": "Tất cả các nội dung từ giá bán sản phẩm, kế hoạch sản xuất và phân bổ nguồn lực, đến quản trị chi phí."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Một trong những Ưu điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Chỉ có một cơ sở dữ liệu (để thu thập, lưu trữ dữ liệu)"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Một trong những lợi ích của cơ sở dữ liệu là?",
+    "answer": "Quản lý dữ liệu trung tâm"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Liên kết giữa các bảng dựa trên?",
+    "answer": "Khóa ngoại."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Khóa ngoại (foreign key) là?",
+    "answer": "Một thuộc tính trong một bảng nhưng là khóa chính (primary key) trong một bảng khác dùng để kết nối hai bảng với nhau"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Có sự phản đối khi thay đổi"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Thông tin là?",
+    "answer": "Những sự kiện, những con số, những hình ảnh được xử lý để phù hợp với người sử dụng"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Đặc điểm nào dưới đây của thông tin không hỗ trợ quá trình ra quyết định?",
+    "answer": "Quá tải trong quá trình tiếp nhận thông tin"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Chức năng của hệ thống thông tin kế toán trong doanh nghiệp KHÔNG bao gồm?",
+    "answer": "Phân tích tình hình kinh tế - xã hội địa phương."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Đặc tính nào dưới đây liên quan gần nhất đến khả năng của thông tin, làm giảm tính không chắc chắn của thông tin?",
+    "answer": "Tính tương thích"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Hệ thống thông tin kế toán bao gồm những thành phần nào?",
+    "answer": "Con người, thủ tục và công nghệ thông tin"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Theo nội dung thanh toán, chứng từ có các loại như:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Chứng từ nào sau đây xem như là một hợp đồng ràng buộc giữa doanh nghiệp và nhà cung cấp trong nghiệp vụ mua hàng?",
+    "answer": "Đơn đặt hàng"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Một bản chứng từ kế toán cần",
+    "answer": "Tất cả các trường hợp trên"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Trong kỳ kế toán ghi Nợ mà quên ghi Có hoặc ngược lại sẽ dẫn đến sự mất cân đối của tài khoản đối với?",
+    "answer": "Số dư cuối kỳ và số phát sinh trong kỳ"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Nghiệp vụ “xuất kho thành phẩm gửi bán” làm ảnh hưởng đến:",
+    "answer": "Bảng cân đối kế toán"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Nhận hóa đơn vận chuyển cho hàng đã mua, ghi nhận, kiểm tra, đối chiếu với đơn đặt hàng và lưu vận đơn."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Khách hàng đặt hàng, đơn hàng được chấp nhận và nhận được hóa đơn thanh toán."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Biểu tượng nào sau đây trong lưu đồ mang ý nghĩa là Bắt đầu/kết thúc?",
+    "answer": "Pa: A"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Trong sơ đồ dòng dữ liệu, mũi tên biểu tượng cho",
+    "answer": "Quá trình xử lý dữ liệu."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Tài liệu hóa hệ thống thông tin kế toán là?",
+    "answer": "Sử dụng các công cụ phù hợp để mô tả lại cấu trúc và toàn bộ hoạt động của hệ thống thông tin kế toán."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Phần lớn các chi phí sản xuất được xác định ở giai đoạn nào của chu trình sản xuất?",
+    "answer": "Thiết kế sản phẩm."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Tiêu chuẩn lựa chọn nhà cung cấp bao gồm?",
+    "answer": "Cả 3 tiêu chuẩn: giá cả hợp lý, chất lượng hàng đáp ứng yêu cầu, nhà cung cấp tin cậy."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Trong tháng 9, doanh số của Công ty A bị giảm vì một vài mặt hàng đã hết nhưng thông tin trên máy tính vẫn báo rằng đủ hàng dự trữ. Vậy giải pháp tốt nhất để hạn chế tình trạng này là?",
+    "answer": "Thực hiện kiểm hàng tồn kho thường xuyên và đối chiếu với số lượng ghi sổ để có sự điều chỉnh kịp thời."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Các doanh nghiệp lựa chọn phương pháp nào để xác định chi phí?",
+    "answer": "Doanh nghiệp không bị bắt buộc phải lựa chọn phương pháp nào."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Hệ thống thông tin kế toán chu trình mua hàng thu thập, xử lý dữ liệu và cung cấp thông tin liên quan tới?",
+    "answer": "Quá trình mua hàng hóa, dịch vụ và thanh toán với nhà cung cấp."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là Đúng?",
+    "answer": "Mỗi cột trong bảng bao gồm các thông tin về thuộc tính của đối tượng"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Một trong những ưu điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Sản xuất-Kinh doanh hiệu quả hơn"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Tốn nhiều thời gian để ứng dụng."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Trong các phần mềm sau đây, phần mềm nào không phải là hệ quản trị dữ liệu quan hệ ?",
+    "answer": "Microsoft excel."
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Thực thể là?",
+    "answer": "Những sự vật, sự việc tồn tại mà tổ chức muốn lưu trữ dữ liệu về nó."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Dữ liệu là?",
+    "answer": "Tất cả các sự kiện được thu thập, lưu trữ và xử lý bởi hệ thống thông tin"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Đối tượng của hệ thống thông tin kế toán là:",
+    "answer": "Tất cả các nghiệp tài chính và những nghiệp vụ phi tài chính có ảnh hưởng trực tiếp tới quá trình xử lý các nghiệp vụ tài chính của đơn vị/tổ chức."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Điểm khác biệt giữa dữ liệu và thông tin là?",
+    "answer": "Dữ liệu là đầu vào, thông tin là đầu ra."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Kế toán viên là người?",
+    "answer": "Người tư vấn xây dựng, tham gia vào quá trình phân tích, thiết kế và trực tiếp sử dụng hệ thống thông tin kế toán"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Điều nào sau đây không phải là một trong ba chức năng quan trọng của việc thực hiện một hê thống thông tin kế toán?",
+    "answer": "Đảm bảo rằng các hoạt động của nhà quản trị phản ánh một cách độc lập với lợi nhuận công ty"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Chứng từ nào sau đây được gửi kèm với hàng giao cho khách?",
+    "answer": "Phiếu kiểm tra"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Hóa đơn bán hàng là?",
+    "answer": "Chứng từ gốc"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Bảng chấm công là?",
+    "answer": "Chứng từ chấp hành"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Trong hình thức Nhật ký chung, cơ sở ghi vào sổ chi tiết là?",
+    "answer": "Chứng từ kế toán"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Đợt đặt hàng là?",
+    "answer": "Chứng từ mệnh lệnh"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Các thành phần của hệ thống trong mỗi cột của lưu đồ được sắp xếp theo trật tự nào?",
+    "answer": "Các thành phần đi vào – các hoạt động xử lý – các thành phần đi ra – phương thức lưu trữ."
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Mô tả nào phù hợp với lưu đồ sau?",
+    "answer": "Hóa đơn bán hàng được lập thủ công và gửi cho khách hàng."
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Khách hàng đặt hàng, đơn hàng được chấp nhận và nhận được hóa đơn thanh toán."
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Bộ phận kho hàng gửi yêu cầu mua hàng để bộ phận mua hàng lập và gửi đơn đặt hàng cho nhà cung cấp."
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Trên sơ đồ dòng dữ liệu, một quá trình xử lý KHÔNG nhất thiết phải có?",
+    "answer": "Tên của đối tượng lưu trữ."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Điểm khác biệt của hệ thống kết hợp sổ chi tiết và voucher với các hệ thống khác là?",
+    "answer": "Yêu cầu áp dụng xử lý thông tin bằng máy."
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Nhận định nào sau đây CHƯA chính xác?",
+    "answer": "Trong chu trình bán hàng, hoạt động thu tiền chỉ được thực hiện khi khách hàng thanh toán bằng tiền mặt."
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Đơn đặt hàng phải?",
+    "answer": "Lập thành nhiều liên gửi cho các bộ phận liên quan."
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Mục tiêu của chu trình mua hàng thường KHÔNG phải là?",
+    "answer": "Mua hàng từ những nhà cung cấp mới."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Nội dung chính của hoạt động Lập kế hoạch sản xuất bao gồm?",
+    "answer": "Xác định và cho phép sản xuất sản phẩm từng loại theo yêu cầu, đồng thời xác định nhu cầu nguyên vật liệu cần cho sản xuất."
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Một trong những lợi ích của cơ sở dữ liệu là?",
+    "answer": "Quản lý dữ liệu trung tâm"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Cơ sở dữ liệu(database) là?",
+    "answer": "Một tập hợp các tệp dữ liệu tập trung và có mối liên hệ với nhau"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Một trong những ưu điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Sản xuất-Kinh doanh hiệu quả hơn"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Thực thể là?",
+    "answer": "Những sự vật, sự việc tồn tại mà tổ chức muốn lưu trữ dữ liệu về nó."
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Khẳng định nào sau đây là Đúng?",
+    "answer": "Mỗi cột trong bảng bao gồm các thông tin về thuộc tính của đối tượng"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Hệ thống thông tin nào dưới đây có tác dụng hỗ trợ phân tích tổng quát hiệu quả và năng lực hoạt động của tổ chức?",
+    "answer": "Hệ thống thông tin quản lý MIS."
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Theo đối tượng sử dụng, hệ thống thông tin kế toán bao gồm:",
+    "answer": "Hệ thống thông tin kế toán tài chính và hệ thống thông tin kế toán quản trị."
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Nguyên tắc ghi chép nghiệp vụ theo giá vốn được gọi là",
+    "answer": "Nguyên tắc giá gốc"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Một trong những chức năng của hệ thống thông tin kế toán là",
+    "answer": "Chuyển hóa dữ liệu thành thông tin hữu ích."
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Thông tin hữu ích KHÔNG nhất thiết phải?",
+    "answer": "Ít tốn kém."
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Bảng cân đối kế toán được lập dựa trên cân đối?",
+    "answer": "Tài sản – Nguồn vốn"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Sổ chi tiết nguyên vật liệu A là loại sổ kế toán?",
+    "answer": "Sổ liên hợp"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Hình thức kế toán quy định?",
+    "answer": "Hệ thống các sổ kế toán, số lượng sổ, kết cấu, các loại sổ, Trình tự và phương pháp ghi vào từng sổ, mối quan hệ giữa các loại sổ với nhau"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Lợi nhuận kinh doanh trong kỳ được thể hiện trong?",
+    "answer": "Báo cáo kết quả kinh doanh"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Khi nhận được chứng từ kế toán, nhân viên kế toán phải xử lý theo trình tự như sau?",
+    "answer": "Kiểm tra, tổ chức luân chuyển, hoàn chỉnh, lưu trữ - bảo quản chứng từ"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Nhận định nào sau đây CHƯA chính xác?",
+    "answer": "Lưu đồ hệ thống là biểu diễn có tính mô tả một hệ thống thông tin."
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Trong sơ đồ dòng dữ liệu, hình ảnh “mũi tên đi ra từ ký hiệu lưu trữ dữ liệu” biểu hiện hoạt động?",
+    "answer": "Sử dụng thông tin."
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Thu tiền hàng của khách hàng và gửi vào ngân hàng."
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Trong sơ đồ dòng dữ liệu, hình tròn biểu tượng cho?",
+    "answer": "Quá trình xử lý dữ liệu."
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Tiêu thức nào KHÔNG được sử dụng để phân nhóm các hoạt động khi vẽ sơ đồ dòng dữ liệu chi tiết?",
+    "answer": "Các hoạt động xảy ra khác nơi, khác thời điểm."
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Trong chu trình bán hàng, bộ phận lập hóa đơn bán hàng và theo dõi công nợ sẽ KHÔNG thực hiện các công việc nào sau đây?",
+    "answer": "Theo dõi công nợ phải trả."
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Để tối thiểu hóa lượng hàng tồn kho, các doanh nghiệp áp dụng?",
+    "answer": "Phương pháp xác định hàng tồn kho tức thời (Just in time)."
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Để tránh mất dữ liệu về chi phí sản xuất, doanh nghiệp cần?",
+    "answer": "Áp dụng đồng bộ nhiều biện pháp như hạn chế truy cập dữ liệu,cài mã bảo vệ, xây dựng quy trình khôi phục và sao lưu dữ liệu."
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Nhằm hạn chế rủi ro do dữ liệu gốc không chính xác hoặc không hiệu lực, cần áp dụng các thủ tục kiểm soát nào?",
+    "answer": "Áp dụng đồng thời các thủ tục như kiểm soát tính nguyên trạng của quá trình xử lý, hạn chế truy cập dữ liệu gốc, giám sát toàn bộ những thay đổi dữ liệu gốc."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Nhận định nào sau đây CHƯA chính xác?",
+    "answer": "Biên bản kiểm tra và từ chối nhận hàng chỉ cần lập 01 liên để lưu."
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Trường khóa chính là?",
+    "answer": "Một thuộc tính hoặc thuộc tính kết hợp mà duy nhất dùng để xác định các hàng xác định trong một bảng"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Trong các phần mềm sau đây, phần mềm nào không phải là hệ quản trị dữ liệu quan hệ ?",
+    "answer": "Microsoft excel."
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Một trong những lợi ích của cơ sở dữ liệu là?",
+    "answer": "Tích hợp dữ liệu."
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Người sử dụng có thể truy cập?",
+    "answer": "Phụ thuộc vào quyền truy nhập."
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Phần mềm kế toán là?",
+    "answer": "Một hệ thống được tổ chức dưới dạng chương trình máy tính có thể thu thập, xử lý các giao dịch về kinh tế tài chính và cung cấp các thông tin dưới dạng các báo cáo tài chính"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Một trong những chức năng của hệ thống thông tin kế toán là",
+    "answer": "Chuyển hóa dữ liệu thành thông tin hữu ích."
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Các thành phần vật lý của hệ thống thông tin không bao gồm:",
+    "answer": "Quy trình nghiệp vụ và môi trường"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Dữ liệu là?",
+    "answer": "Tất cả các sự kiện được thu thập, lưu trữ và xử lý bởi hệ thống thông tin"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Trong những tài sản dưới đây, tài sản nào không có nhiều giá trị đối với doanh nghiệp?",
+    "answer": "Công cụ dụng cụ"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Hệ thống thông tin kế toán bao gồm những thành phần nào?",
+    "answer": "Con người, thủ tục và công nghệ thông tin"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Kế toán quản trị có đặc điểm?",
+    "answer": "A, B và D"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Các loại giấy tờ sau đây thì loại nào được xác định là loại chứng từ kế toán trực tiếp?",
+    "answer": "Giấy đề nghị tạm ứng được phê duyệt"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Bảng chấm công là?",
+    "answer": "Chứng từ chấp hành"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Bảng cân đối kế toán được lập dựa trên cân đối?",
+    "answer": "Tài sản – Nguồn vốn"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Sổ chi tiết nguyên vật liệu A là loại sổ kế toán?",
+    "answer": "Sổ liên hợp"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Khuyến nghị nào sau đây KHÔNG phù hợp để thiết kế một lưu đồ ngắn gọn, dễ hiểu?",
+    "answer": "Lập lưu đồ tất cả các dòng thông tin, kể cả các thủ tục kiểm soát."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Trong các biểu tượng sau, biểu tượng nào thể hiện hệ thống có sử dụng máy tính?",
+    "answer": "Pa:C"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Sơ đồ dòng dữ liệu bao gồm các thành phần cơ bản sau?",
+    "answer": "Nguồn dữ liệu và điểm đến, dòng dữ liệu, quá trình xử lý và lưu trữ dữ liệu."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Nhận định nào sau đây KHÔNG phải là một hướng dẫn phải theo khi đặt tên các thành phần của sơ đồ dòng dữ liệu?",
+    "answer": "Chọn các tên tích cực và có tính mô tả."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Sử dụng dữ liệu lưu trong kho dữ liệu khoản Phải thu khách hàng để lập Bản đối chiếu công nợ và gửi cho khách hàng."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Để kiểm tra khả năng tín dụng của khách hàng, KHÔNG cần quan tâm đến thông tin về?",
+    "answer": "Số hàng có sẵn trong kho có đủ đáp ứng đơn đặt hàng hay không."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Đơn đặt hàng là văn bản?",
+    "answer": "Thể hiện cam kết thanh toán cho số hàng mua."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Trong chu trình nhân sự, bộ phận sử dụng lao động có nhiệm vụ?",
+    "answer": "Cung cấp dữ liệu thực tế về số giờ làm việc và kết quả làm việc của người lao động do bộ phận mình quản lý."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Hạn chế truy cập dữ liệu tiền lương sẽ giúp doanh nghiệp?",
+    "answer": "Không bị rò rỉ các thông tin về thu nhập cá nhân."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Yêu cầu: Chỉ lập hóa đơn khi có chứng từ lệnh bán hàng/hợp đồng bán hàng, phiếu xuất kho, phiếu giao hàng, là nhằm hạn chế rủi ro nào?",
+    "answer": "Lập hóa đơn sai thực tế."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Khóa ngoại (foreign key) là?",
+    "answer": "Một thuộc tính trong một bảng nhưng là khóa chính (primary key) trong một bảng khác dùng để kết nối hai bảng với nhau"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Hệ thống hợp nhất tất cả quá trình kinh doanh và chức năng trên một hệ thống phần mềm và sử dụng một cơ sở dữ liệu chung"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Một trong những Ưu điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Chỉ có một cơ sở dữ liệu (để thu thập, lưu trữ dữ liệu)"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Thực thể là?",
+    "answer": "Những sự vật, sự việc tồn tại mà tổ chức muốn lưu trữ dữ liệu về nó."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Khẳng định nào sau đây là Đúng",
+    "answer": "Mỗi dòng bao gồm dữ liệu về các thuộc tính của đối tượng trong một bảng"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Đối tượng của hệ thống thông tin kế toán là:",
+    "answer": "Tất cả các nghiệp tài chính và những nghiệp vụ phi tài chính có ảnh hưởng trực tiếp tới quá trình xử lý các nghiệp vụ tài chính của đơn vị/tổ chức."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Thông tin hữu ích KHÔNG nhất thiết phải?",
+    "answer": "Ít tốn kém."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Theo đối tượng sử dụng, hệ thống thông tin kế toán bao gồm:",
+    "answer": "Hệ thống thông tin kế toán tài chính và hệ thống thông tin kế toán quản trị."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Điều nào sau đây không phải là một trong ba chức năng quan trọng của việc thực hiện một hê thống thông tin kế toán?",
+    "answer": "Đảm bảo rằng các hoạt động của nhà quản trị phản ánh một cách độc lập với lợi nhuận công ty"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Hệ thống thông tin nào dưới đây có tác dụng hỗ trợ phân tích tổng quát hiệu quả và năng lực hoạt động của tổ chức?",
+    "answer": "Hệ thống thông tin quản lý MIS."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Sổ cái tài khoản tiền mặt là loại sổ kế toán?",
+    "answer": "Sổ liên hợp"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Các loại biên bản sau đây thì biên bản nào là chứng từ kế toán?",
+    "answer": "Không có"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Đơn vị tiền tệ trong kế toán là?  ",
+    "answer": "Là loại tiền có thể là VNĐ hay USD hay một đồng tiền khác được dùng để ghi sổ kế toán, lập và trình bày báo cáo tài chính của doanh nghiệp, căn cứ vào quy định của Luật Kế toán để xem xét, quyết định lựa chọn đơn vị tiền tệ trong kế toán và chịu trách nhiệm về quyết định đó trước pháp luật."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Số dư bên Có của Tài khoản “Lợi nhuận chưa phân phối” được:",
+    "answer": "Ghi số dương bên Nguồn vốn của Bảng cân đối kế toán"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Nghiệp vụ “xuất kho thành phẩm gửi bán” làm ảnh hưởng đến:",
+    "answer": "Bảng cân đối kế toán"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Khi vẽ lưu đồ, biểu tượng nào dưới đây KHÔNG thuộc nhóm biểu tượng lưu trữ?",
+    "answer": "Pa: B"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Mô tả nào phù hợp với lưu đồ sau?",
+    "answer": "In báo cáo do máy tính kết xuất từ dữ liệu trong kho lưu trữ."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Khi vẽ sơ đồ dòng dữ liệu KHÔNG nhất thiết phải?",
+    "answer": "Thể hiện các quy trình kiểm soát và hoạt động kiểm soát."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Nhận định nào sau đây CHƯA chính xác?",
+    "answer": "Lưu đồ không trình bày quá trình luân chuyển, xử lý dữ liệu và phương tiện lưu trữ."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Nhận định nào sau đây CHƯA chính xác?",
+    "answer": "Lưu đồ hệ thống là biểu diễn có tính mô tả một hệ thống thông tin."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Chu trình bán hàng KHÔNG bao gồm hoạt động nào?",
+    "answer": "Nhận hàng và theo dõi công nợ phải trả."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Rủi ro nào trong số các rủi ro sau không thuộc phạm vi của hoạt động tập hợp chi phí tính giá thành sản phẩm?",
+    "answer": "Không mua được nguyên vật liệu phù hợp."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Thông tin giữa chu trình sản xuất và chu trình doanh thu KHÔNG bao gồm?",
+    "answer": "Tình hình sử dụng nguyên vật liệu."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Thủ tục kiểm soát tốt nhất để giảm rủi ro của công bố trái phép dữ liệu tiền lương là?",
+    "answer": "Sử dụng xác nhận đa yếu tố và kiểm soát an ninh để hạn chế truy cập dữ liệu gốc."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Phiếu giao hàng KHÔNG nhất thiết phải giao cho?",
+    "answer": "Bộ phận kho."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Phần mềm kế toán là?",
+    "answer": "Một hệ thống được tổ chức dưới dạng chương trình máy tính có thể thu thập, xử lý các giao dịch về kinh tế tài chính và cung cấp các thông tin dưới dạng các báo cáo tài chính"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Một trong những ưu điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Sản xuất-Kinh doanh hiệu quả hơn"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Người quản trị cơ sở dữ liệu (database administrator)?",
+    "answer": "Người chịu trách nhiệm về cơ sở dữ liệu"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Liên kết giữa các bảng dựa trên?",
+    "answer": "Khóa ngoại."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Có sự phản đối khi thay đổi"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Dữ liệu là?",
+    "answer": "Một thành phần của hệ thống thông tin."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Hệ thống con là?",
+    "answer": "Hệ thống nhưng là một thành phần của hệ thống khác."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Một trong những chức năng của hệ thống thông tin kế toán là:",
+    "answer": "Chuyển hóa dữ liệu thành thông tin hữu ích."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Kế toán viên là người?",
+    "answer": "Người tư vấn xây dựng, tham gia vào quá trình phân tích, thiết kế và trực tiếp sử dụng hệ thống thông tin kế toán"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Đặc tính nào dưới đây liên quan gần nhất đến khả năng của thông tin, làm giảm tính không chắc chắn của thông tin?",
+    "answer": "Tính tương thích"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Những yếu tố nào sau đây là yếu tố bắt buộc của bản chứng từ?",
+    "answer": "Cả A, C, D."
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Trong hình thức Nhật ký chung, cơ sở ghi vào sổ chi tiết là?",
+    "answer": "Chứng từ kế toán"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Khoản tiền ứng trước của khách hàng sẽ được trình bày",
+    "answer": "Bên nguồn vốn của Bảng cân đối kế toán"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Lợi nhuận kinh doanh trong kỳ được thể hiện trong?",
+    "answer": "Báo cáo kết quả kinh doanh"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Trong hình thức Nhật ký chung, cơ sở ghi vào Sổ cái là?",
+    "answer": "Sổ Nhật ký chung, sổ Nhật ký đặc biệt"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Hình vẽ sau mô tả?",
+    "answer": "Lưu đồ tài liệu."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Các thành phần của hệ thống trong mỗi cột của lưu đồ được sắp xếp theo trật tự nào?",
+    "answer": "Các thành phần đi vào – các hoạt động xử lý – các thành phần đi ra – phương thức lưu trữ."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Yếu tố nào được thể hiện trên các sơ đồ dòng dữ liệu chi tiết chứ không thể hiện trên sơ đồ dòng dữ liệu tổng quát?",
+    "answer": "Các hoạt động cụ thể của quá trình xử lý dữ liệu."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Trong sơ đồ dòng dữ liệu, hình ảnh “mũi tên hướng tới ký hiệu lưu trữ dữ liệu” biểu hiện hoạt động",
+    "answer": "Lưu trữ thông tin."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây KHÔNG đúng khi vẽ lưu đồ?",
+    "answer": "Trình bày đủ các thành phần của hệ thống trong mỗi cột nhưng không nhất thiết phải theo thứ tự."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Để tránh mất hàng trong quá trình giao nhận, doanh nghiệp cần?",
+    "answer": "Hạn chế người ra vào khu vực kho hàng."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Chức năng cơ bản của hoạt động Tập hợp chi phí tính giá thành sản phẩm là?",
+    "answer": "Cung cấp thông tin về quá trình sản xuất; cung cấp số liệu để định giá, xác định cơ cấu sản phẩm cũng như số liệu về hàng tồn kho để lập báo cáo tài chính."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Các rủi ro thường gặp trong chu trình nhân sự là?",
+    "answer": "Tất cả các rủi ro như thiếu dữ liệu, chấm công sai, thanh toán lương không kịp thời…"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Các rủi ro tiềm tàng trong quá trình đặt hàng là?",
+    "answer": "Đặt hàng không cần, giá mua hàng không hợp lý, dự trữ không phù hợp."
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Các hoạt động cơ bản trong chu trình bán hàng thường được thực hiện theo trình tự nào?",
+    "answer": "Xử lí đơn hàng – cung cấp hàng hóa, dịch vụ – lập hoá đơn và theo dõi công nợ phải thu – thu tiền."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Cơ sở dữ liệu(database) là?",
+    "answer": "Một tập hợp các tệp dữ liệu tập trung và có mối liên hệ với nhau"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Một trong những lợi ích của cơ sở dữ liệu là?",
+    "answer": "Quản lý dữ liệu trung tâm"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Người sử dụng có thể truy cập?",
+    "answer": "Phụ thuộc vào quyền truy nhập."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Tốn nhiều thời gian để ứng dụng."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Trong các phần mềm sau đây, phần mềm nào không phải là hệ quản trị dữ liệu quan hệ ?",
+    "answer": "Microsoft excel."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Một hệ thống con có thể?",
+    "answer": "Chứa đựng các hệ thống con khác."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Hệ thống thông tin kế toán là?",
+    "answer": "Một hệ thống cấu thành hệ thống thông tin của đơn vị."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Các thành phần cơ bản của hệ thống gồm",
+    "answer": "Các yếu tố đầu vào; xử lý, chế biến; và các yếu tố đầu ra."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Điểm khác biệt giữa dữ liệu và thông tin là?",
+    "answer": "Dữ liệu là đầu vào, thông tin là đầu ra."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Nguồn dữ liệu chủ yếu cho hệ thống thông tin kế toán là?",
+    "answer": "Các nghiệp vụ tài chính bên trong đơn vị/tổ chức."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Đợt đặt hàng là?",
+    "answer": "Chứng từ mệnh lệnh"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Kế toán tài chính có đặc điểm là?",
+    "answer": "Tất cả các đáp án trên"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Trong hình thức Nhật ký chung, cơ sở ghi vào Sổ Nhật ký chung là?",
+    "answer": "Chứng từ kế toán"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Nếu phân loại theo phương pháp ghi chép thì sổ ghi theo hệ thống bao gồm?",
+    "answer": "Sổ cái và sổ chi tiết"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Một bản chứng từ kế toán cần",
+    "answer": "Tất cả các trường hợp trên"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Trong các biểu tượng sau, biểu tượng nào thể hiện hoạt động không cần sử dụng máy tính?",
+    "answer": "Pa:B"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Đặc điểm nào sau đây KHÔNG phù hợp với sơ đồ?",
+    "answer": "Phải trình bày người tham gia trong hệ thống."
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Sơ đồ dòng dữ liệu tổng quát thường KHÔNG thể hiện?",
+    "answer": "Hệ thống này gồm bao nhiêu hoạt động."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Trên sơ đồ dòng dữ liệu, một quá trình xử lý KHÔNG nhất thiết phải có?",
+    "answer": "Tên của đối tượng lưu trữ."
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Lưu đồ sau mô tả tình huống nào?",
+    "answer": "Căn cứ vào hóa đơn của nhà cung cấp để viết phiểu chi."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Thủ tục kiểm soát nào sau đây có thể giúp hạn chế rủi ro do sản phẩm thiết kế không phù hợp làm tăng chi phí?",
+    "answer": "Phân tích sự thay đổi chi phí khi thay đổi các phương án thiết kế."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Để tránh mất hàng hóa trong quá trình giao hàng KHÔNG cần",
+    "answer": "Kiểm tra số dư khách của khách hàng."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Câu nào dưới đây là đúng?",
+    "answer": "Tình trạng nhân viên thường xuyên vắng mặt là hao phí của doanh nghiệp."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Phương pháp xác định hàng tồn kho tức thời (Just in time) là phương pháp?",
+    "answer": "Loại bỏ việc dự trữ hàng tồn kho."
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Khi nhận được hóa đơn mua hàng từ nhà cung cấp, nhiệm vụ của kế toán phải trả là?",
+    "answer": "Kiểm tra tính chính xác của thông tin trên hóa đơn; nếu chấp nhận hóa đơn thì ghi nhận thông tin về nghĩa vụ thanh toán với nhà cung cấp và lưu trữ hồ sơ liên quan."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Khẳng định nào sau đây là Đúng?",
+    "answer": "Mỗi cột trong bảng bao gồm các thông tin về thuộc tính của đối tượng"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Một trong những lợi ích của cơ sở dữ liệu là?",
+    "answer": "Tích hợp dữ liệu."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Chi phí lớn"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Trường khóa chính là?",
+    "answer": "Một thuộc tính hoặc thuộc tính kết hợp mà duy nhất dùng để xác định các hàng xác định trong một bảng"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Tệp dữ liệu (file) là?",
+    "answer": "Được tạo thành từ một tập hợp các bản ghi có liên quan với nhau"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Đặc điểm nào dưới đây của thông tin không hỗ trợ quá trình ra quyết định?",
+    "answer": "Quá tải trong quá trình tiếp nhận thông tin"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Thông tin là?",
+    "answer": "Những sự kiện, những con số, những hình ảnh được xử lý để phù hợp với người sử dụng"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Thành phần nào dưới đây không thuộc thành phần của hệ thống thông tin?",
+    "answer": "Rủi ro thông tin"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Chức năng của hệ thống thông tin kế toán trong doanh nghiệp KHÔNG bao gồm?",
+    "answer": "Phân tích tình hình kinh tế - xã hội địa phương."
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Nguyên tắc ghi chép nghiệp vụ theo giá vốn được gọi là",
+    "answer": "Nguyên tắc giá gốc"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Ý nghĩa của chứng từ kế toán",
+    "answer": "Tất cả các nội dung trên"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Trong kỳ kế toán ghi Nợ mà quên ghi Có hoặc ngược lại sẽ dẫn đến sự mất cân đối của tài khoản đối với?",
+    "answer": "Số dư cuối kỳ và số phát sinh trong kỳ"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Khi nhận được chứng từ kế toán, nhân viên kế toán phải xử lý theo trình tự như sau?",
+    "answer": "Kiểm tra, tổ chức luân chuyển, hoàn chỉnh, lưu trữ - bảo quản chứng từ"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Chứng từ nào sau đây được gửi kèm với hàng giao cho khách?",
+    "answer": "Phiếu kiểm tra"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Bảng cân đối tài khoản phản ánh mối quan hệ?",
+    "answer": "Các tài khoản từ loại 1 đến loại 9"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Tài liệu hóa hệ thống thông tin kế toán là?",
+    "answer": "Sử dụng các công cụ phù hợp để mô tả lại cấu trúc và toàn bộ hoạt động của hệ thống thông tin kế toán."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Để mô tả hoạt động của hệ thống, công cụ sử dụng thường là?",
+    "answer": "Lưu đồ tài liệu và lưu đồ hệ thống."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Khách hàng đặt hàng, đơn hàng được chấp nhận và nhận được hóa đơn thanh toán."
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Biểu tượng nào sau đây trong lưu đồ mang ý nghĩa là Bắt đầu/kết thúc?",
+    "answer": "Pa: A"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Thu tiền hàng của khách hàng và gửi vào ngân hàng."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Trong chu trình bán hàng, hoạt động “Thu tiền” KHÔNG bao gồm?",
+    "answer": "Kiểm kê quỹ."
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Hoạt động nào KHÔNG thuộc chu trình nhân sự?",
+    "answer": "Vay ngân hàng để chuẩn bị trả lương."
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Khi thanh toán tiền lương cho người lao động qua ngân hàng cần?",
+    "answer": "Chuyển tiền từ tài khoản ngân hàng của doanh nghiệp tới tài khoản của người lao động bằng dữ liệu điện tử."
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Các thông tin cơ bản của yêu cầu mua hàng gồm?",
+    "answer": "Đặc điểm hàng mua, các yêu cầu khác và chữ ký của bộ phận yêu cầu."
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Chứng từ nào sử dụng trong hoạt động thiết kế sản phẩm?",
+    "answer": "Danh mục nguyên vật liệu (Bill of materials)."
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Chi phí lớn"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Phần mềm kế toán là?",
+    "answer": "Một hệ thống được tổ chức dưới dạng chương trình máy tính có thể thu thập, xử lý các giao dịch về kinh tế tài chính và cung cấp các thông tin dưới dạng các báo cáo tài chính"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Thực thể là?",
+    "answer": "Những sự vật, sự việc tồn tại mà tổ chức muốn lưu trữ dữ liệu về nó."
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Trường khóa chính là?",
+    "answer": "Một thuộc tính hoặc thuộc tính kết hợp mà duy nhất dùng để xác định các hàng xác định trong một bảng"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Hệ thống hợp nhất tất cả quá trình kinh doanh và chức năng trên một hệ thống phần mềm và sử dụng một cơ sở dữ liệu chung"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Một hệ thống con có thể?",
+    "answer": "Chứa đựng các hệ thống con khác."
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Dữ liệu là?",
+    "answer": "Tất cả các sự kiện được thu thập, lưu trữ và xử lý bởi hệ thống thông tin"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Một trong những chức năng của hệ thống thông tin kế toán là",
+    "answer": "Chuyển hóa dữ liệu thành thông tin hữu ích."
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Điều nào sau đây không phải là một trong ba chức năng quan trọng của việc thực hiện một hê thống thông tin kế toán?",
+    "answer": "Đảm bảo rằng các hoạt động của nhà quản trị phản ánh một cách độc lập với lợi nhuận công ty"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Các thành phần vật lý của hệ thống thông tin không bao gồm:",
+    "answer": "Quy trình nghiệp vụ và môi trường"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Những câu phát biểu là ĐÚNG đối với PHIẾU XUẤT KHO được sử dụng trong chu trình doanh thu?",
+    "answer": "Câu A,B đều đúng"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Chứng từ nào sau đây xem như là một hợp đồng ràng buộc giữa doanh nghiệp và nhà cung cấp trong nghiệp vụ mua hàng?",
+    "answer": "Đơn đặt hàng"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Chứng từ kế toán cần phải được lưu trữ trong thời gian?",
+    "answer": "Tùy theo loại chứng từ kế toán mà có thời gian lưu trữ khác nhau"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Theo nội dung thanh toán, chứng từ có các loại như:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Khi xuất kho sản phẩm bán cho khách hàng, giá ghi trên phiếu xuất kho là?",
+    "answer": "Giá vốn"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Trong sơ đồ dòng dữ liệu?",
+    "answer": "Kho dữ liệu có thể đặt ở nhiều chỗ (nhằm giúp việc thể hiện các dòng dữ liệu trở nên dễ dàng hơn)."
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Nhận hóa đơn vận chuyển cho hàng đã mua, ghi nhận, kiểm tra, đối chiếu với đơn đặt hàng và lưu vận đơn."
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Để mô tả một hệ thống có thể sử dụng?",
+    "answer": "01 sơ đồ dòng dữ liệu tổng quát và các sơ đồ dòng dữ liệu chi tiết."
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Các công cụ mô tả hệ thống thông tin kế toán KHÔNG mang nhiều ý nghĩa trong việc?",
+    "answer": "Giúp phân tích hiệu quả của hệ thống thông tin quản lý."
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Mục đích của việc thâm nhập kho dữ liệu là?",
+    "answer": "Để lưu trữ và sử dụng dữ liệu."
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Qui định: “Lập chứng từ cho tất cả các nghiệp vụ nhập xuất hàng tồn kho, thay đổi TSCĐ, kể cả nghiệp vụ thanh lý” được áp dụng nhằm hạn chế rủi ro nào?",
+    "answer": "Tài sản trong doanh nghiệp bị mất cắp."
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Hoạt động nào có liên quan trực tiếp đến bộ phận kế toán trong chu trình nhân sự?",
+    "answer": "Hoạt động thanh toán tiền lương."
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Những hoạt động nào chỉ có thể xảy ra một lần trong suốt thời gian người lao động làm việc tại đơn vị?",
+    "answer": "Tuyển dụng và chấm dứt hợp đồng."
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Để tránh nhân viên mua hàng nhận hối lộ từ nhà cung cấp, doanh nghiệp cần?",
+    "answer": "Luân chuyển cán bộ, đào tạo nhân viên, yêu cầu trung thực, công khai."
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Bảng chấm công dùng để?",
+    "answer": "Theo dõi thời gian lao động thực tế."
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Một trong những lợi ích của cơ sở dữ liệu là?",
+    "answer": "Tích hợp dữ liệu."
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Khẳng định nào sau đây là Đúng",
+    "answer": "Mỗi dòng bao gồm dữ liệu về các thuộc tính của đối tượng trong một bảng"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Tốn nhiều thời gian để ứng dụng."
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Trong các phần mềm sau đây, phần mềm nào không phải là hệ quản trị dữ liệu quan hệ ?",
+    "answer": "Microsoft excel."
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Cơ sở dữ liệu(database) là?",
+    "answer": "Một tập hợp các tệp dữ liệu tập trung và có mối liên hệ với nhau"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Hệ thống thông tin kế toán bao gồm những thành phần nào?",
+    "answer": "Con người, thủ tục và công nghệ thông tin"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Hệ thống con là?",
+    "answer": "Hệ thống nhưng là một thành phần của hệ thống khác."
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Trong những tài sản dưới đây, tài sản nào không có nhiều giá trị đối với doanh nghiệp?",
+    "answer": "Công cụ dụng cụ"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Thông tin là?",
+    "answer": "Những sự kiện, những con số, những hình ảnh được xử lý để phù hợp với người sử dụng"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Thông tin hữu ích KHÔNG nhất thiết phải?",
+    "answer": "Ít tốn kém."
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Hình thức kế toán quy định?",
+    "answer": "Hệ thống các sổ kế toán, số lượng sổ, kết cấu, các loại sổ, Trình tự và phương pháp ghi vào từng sổ, mối quan hệ giữa các loại sổ với nhau"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Hóa đơn bán hàng là?",
+    "answer": "Chứng từ gốc"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Các loại sổ của hình thức Nhật ký chung bao gồm?",
+    "answer": "Nhật ký chung, Nhật ký đặc biệt, Sổ cái, Sổ chi tiết"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Nếu phân loại theo mức độ phản ánh thì sổ nhật ký chung thuộc loại?",
+    "answer": "Sổ nhật ký tổng hợp"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Đơn vị kế toán là? ",
+    "answer": "A, B, C, D đều đúng"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Trên lưu đồ, hình tròn là biểu tượng của?",
+    "answer": "Điểm nối trong cùng 1 trang."
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Sơ đồ sau mô tả tình huống nào?",
+    "answer": "Bộ phận kho hàng gửi yêu cầu mua hàng để bộ phận mua hàng lập và gửi đơn đặt hàng cho nhà cung cấp."
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Trong sơ đồ dòng dữ liệu, hình ảnh “mũi tên đi ra từ ký hiệu lưu trữ dữ liệu” biểu hiện hoạt động?",
+    "answer": "Sử dụng thông tin."
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Trong sơ đồ dòng dữ liệu, mũi tên biểu tượng cho",
+    "answer": "Quá trình xử lý dữ liệu."
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Trong sơ đồ dòng dữ liệu, hình chữ nhật hoặc hình vuông biểu tượng cho?",
+    "answer": "Nguồn dữ liệu và đích đến."
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Phiếu chi là chứng từ do?",
+    "answer": "Kế toán thanh toán lập."
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Chứng từ cơ bản của hoạt động đặt hàng KHÔNG gồm?",
+    "answer": "Giấy báo nợ."
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Trong chu trình bán hàng, hoạt động “Lập hóa đơn và theo dõi công nợ” KHÔNG bao gồm?",
+    "answer": "Nhận lại hàng."
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Mục tiêu của phương pháp xác định lượng đặt hàng kinh tế (EOQ) là?",
+    "answer": "Duy trì một lượng hàng tồn kho đủ cho quá trình kinh doanh không bị gián đoạn."
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Uy tín của một công ty có thể bị ảnh hưởng khi thói quen mua sắm của một số khách hàng nổi tiếng của công ty bị tiết lộ trái phép. Vậy thủ tục kiếm soát tốt nhất mà công ty có thể áp dụng để hạn chế rủi ro này là?",
+    "answer": "Hạn chế khả năng tiếp cận thông tin khách hàng bằng cách sử dụng tên truy cập, mật khẩu và ma trận kiểm soát."
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Khẳng định nào sau đây là Đúng?",
+    "answer": "Mỗi cột trong bảng bao gồm các thông tin về thuộc tính của đối tượng"
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Một trong những nhược điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Có sự phản đối khi thay đổi"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Liên kết giữa các bảng dựa trên?",
+    "answer": "Khóa ngoại."
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Một trong những ưu điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Sản xuất-Kinh doanh hiệu quả hơn"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Tệp dữ liệu (file) là?",
+    "answer": "Được tạo thành từ một tập hợp các bản ghi có liên quan với nhau"
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Đặc tính nào dưới đây liên quan gần nhất đến khả năng của thông tin, làm giảm tính không chắc chắn của thông tin?",
+    "answer": "Tính tương thích"
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Theo đối tượng sử dụng, hệ thống thông tin kế toán bao gồm:",
+    "answer": "Hệ thống thông tin kế toán tài chính và hệ thống thông tin kế toán quản trị."
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Thành phần nào dưới đây không thuộc thành phần của hệ thống thông tin?",
+    "answer": "Rủi ro thông tin"
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "Các thành phần cơ bản của hệ thống gồm",
+    "answer": "Các yếu tố đầu vào; xử lý, chế biến; và các yếu tố đầu ra."
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Hệ thống thông tin kế toán là?",
+    "answer": "Một hệ thống cấu thành hệ thống thông tin của đơn vị."
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "Chứng từ mệnh lệnh dùng để?",
+    "answer": "Truyền đạt các lệnh sản xuất kinh doanh hoặc công tác nhất định"
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Các loại biên bản sau đây thì biên bản nào là chứng từ kế toán?",
+    "answer": "Không có"
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "Lợi nhuận kinh doanh trong kỳ được thể hiện trong?",
+    "answer": "Báo cáo kết quả kinh doanh"
+  },
+  {
+    "id": 406,
+    "premium": true,
+    "question": "Các loại giấy tờ sau đây thì loại nào được xác định là loại chứng từ kế toán trực tiếp?",
+    "answer": "Giấy đề nghị tạm ứng được phê duyệt"
+  },
+  {
+    "id": 407,
+    "premium": true,
+    "question": "Trong hình thức Nhật ký chung, cơ sở ghi vào Sổ Nhật ký chung là?",
+    "answer": "Chứng từ kế toán"
+  },
+  {
+    "id": 408,
+    "premium": true,
+    "question": "Trong sơ đồ dòng dữ liệu, hình tròn biểu tượng cho?",
+    "answer": "Quá trình xử lý dữ liệu."
+  },
+  {
+    "id": 409,
+    "premium": true,
+    "question": "Trên lưu đồ, hình chữ nhật là biểu tượng của?",
+    "answer": "Hoạt động xử lý bằng máy tính."
+  },
+  {
+    "id": 410,
+    "premium": true,
+    "question": "Mô tả nào phù hợp với lưu đồ sau?",
+    "answer": "Hóa đơn bán hàng được lập thủ công và gửi cho khách hàng."
+  },
+  {
+    "id": 411,
+    "premium": true,
+    "question": "Tiêu thức nào KHÔNG được sử dụng để phân nhóm các hoạt động khi vẽ sơ đồ dòng dữ liệu chi tiết?",
+    "answer": "Các hoạt động xảy ra khác nơi, khác thời điểm."
+  },
+  {
+    "id": 412,
+    "premium": true,
+    "question": "Trong các biểu tượng sau, biểu tượng nào thể hiện hoạt động không cần sử dụng máy tính?",
+    "answer": "Pa:B"
+  },
+  {
+    "id": 413,
+    "premium": true,
+    "question": "Nội dung chính của hoạt động thực hiện sản xuất KHÔNG bao gồm?",
+    "answer": "Chuẩn bị nguồn lực."
+  },
+  {
+    "id": 414,
+    "premium": true,
+    "question": "Thông tin KHÔNG thể thiếu trên Hóa đơn mua hàng là?",
+    "answer": "Giá trị hàng mua."
+  },
+  {
+    "id": 415,
+    "premium": true,
+    "question": "Hoạt động “Cung cấp hàng hóa, dịch vụ” trong chu trình bán hàng bao gồm?",
+    "answer": "Xuất kho và giao hàng."
+  },
+  {
+    "id": 416,
+    "premium": true,
+    "question": "Chứng từ nào sử dụng trong hoạt động lập kế hoạch sản xuất?",
+    "answer": "Yêu cầu nguyên vật liệu (Materials requisition)."
+  },
+  {
+    "id": 417,
+    "premium": true,
+    "question": "Phương pháp sản xuất tinh gọn được thực hiện khi?",
+    "answer": "Nhận được đơn đặt hàng của khách hàng."
+  },
+  {
+    "id": 418,
+    "premium": true,
+    "question": "Khóa ngoại (foreign key) là?",
+    "answer": "Một thuộc tính trong một bảng nhưng là khóa chính (primary key) trong một bảng khác dùng để kết nối hai bảng với nhau"
+  },
+  {
+    "id": 419,
+    "premium": true,
+    "question": "Người quản trị cơ sở dữ liệu (database administrator)?",
+    "answer": "Người chịu trách nhiệm về cơ sở dữ liệu"
+  },
+  {
+    "id": 420,
+    "premium": true,
+    "question": "Người sử dụng có thể truy cập?",
+    "answer": "Phụ thuộc vào quyền truy nhập."
+  },
+  {
+    "id": 421,
+    "premium": true,
+    "question": "Một trong những Ưu điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Chỉ có một cơ sở dữ liệu (để thu thập, lưu trữ dữ liệu)"
+  },
+  {
+    "id": 422,
+    "premium": true,
+    "question": "Một trong những lợi ích của cơ sở dữ liệu là?",
+    "answer": "Quản lý dữ liệu trung tâm"
+  },
+  {
+    "id": 423,
+    "premium": true,
+    "question": "Nguyên tắc ghi chép nghiệp vụ theo giá vốn được gọi là",
+    "answer": "Nguyên tắc giá gốc"
+  },
+  {
+    "id": 424,
+    "premium": true,
+    "question": "Đặc điểm nào dưới đây của thông tin không hỗ trợ quá trình ra quyết định?",
+    "answer": "Quá tải trong quá trình tiếp nhận thông tin"
+  },
+  {
+    "id": 425,
+    "premium": true,
+    "question": "Đối tượng của hệ thống thông tin kế toán là:",
+    "answer": "Tất cả các nghiệp tài chính và những nghiệp vụ phi tài chính có ảnh hưởng trực tiếp tới quá trình xử lý các nghiệp vụ tài chính của đơn vị/tổ chức."
+  },
+  {
+    "id": 426,
+    "premium": true,
+    "question": "Hệ thống thông tin nào dưới đây có tác dụng hỗ trợ phân tích tổng quát hiệu quả và năng lực hoạt động của tổ chức?",
+    "answer": "Hệ thống thông tin quản lý MIS."
+  },
+  {
+    "id": 427,
+    "premium": true,
+    "question": "Điểm khác biệt giữa dữ liệu và thông tin là?",
+    "answer": "Dữ liệu là đầu vào, thông tin là đầu ra."
+  },
+  {
+    "id": 428,
+    "premium": true,
+    "question": "Sổ chi tiết nguyên vật liệu A là loại sổ kế toán?",
+    "answer": "Sổ liên hợp"
+  },
+  {
+    "id": 429,
+    "premium": true,
+    "question": "Chứng từ nào sau đây xem như là một hợp đồng ràng buộc giữa doanh nghiệp và nhà cung cấp trong nghiệp vụ mua hàng?",
+    "answer": "Đơn đặt hàng"
+  },
+  {
+    "id": 430,
+    "premium": true,
+    "question": "Nghiệp vụ “xuất kho thành phẩm gửi bán” làm ảnh hưởng đến:",
+    "answer": "Bảng cân đối kế toán"
+  },
+  {
+    "id": 431,
+    "premium": true,
+    "question": "Bảng cân đối kế toán được lập dựa trên cân đối?",
+    "answer": "Tài sản – Nguồn vốn"
+  },
+  {
+    "id": 432,
+    "premium": true,
+    "question": "Chứng từ mệnh lệnh dùng để?",
+    "answer": "Truyền đạt các lệnh sản xuất kinh doanh hoặc công tác nhất định"
+  },
+  {
+    "id": 433,
+    "premium": true,
+    "question": "Để mô tả hoạt động của hệ thống, công cụ sử dụng thường là?",
+    "answer": "Lưu đồ tài liệu và lưu đồ hệ thống."
+  },
+  {
+    "id": 434,
+    "premium": true,
+    "question": "Để mô tả một hệ thống có thể sử dụng?",
+    "answer": "01 sơ đồ dòng dữ liệu tổng quát và các sơ đồ dòng dữ liệu chi tiết."
+  },
+  {
+    "id": 435,
+    "premium": true,
+    "question": "Nhận định nào sau đây CHƯA chính xác?",
+    "answer": "Lưu đồ không trình bày quá trình luân chuyển, xử lý dữ liệu và phương tiện lưu trữ."
+  },
+  {
+    "id": 436,
+    "premium": true,
+    "question": "Lưu đồ sau mô tả tình huống nào?",
+    "answer": "Căn cứ vào hóa đơn của nhà cung cấp để viết phiểu chi."
+  },
+  {
+    "id": 437,
+    "premium": true,
+    "question": "Các công cụ mô tả hệ thống thông tin kế toán KHÔNG mang nhiều ý nghĩa trong việc?",
+    "answer": "Giúp phân tích hiệu quả của hệ thống thông tin quản lý."
+  },
+  {
+    "id": 438,
+    "premium": true,
+    "question": "Hợp đồng bán hàng là?",
+    "answer": "Chứng từ thể hiện sự cam kết, ràng buộc giữa khách hàng và doanh nghiệp về nội dung yêu cầu đã được cho phép thực hiện."
+  },
+  {
+    "id": 439,
+    "premium": true,
+    "question": "Chứng từ hạch toán thời gian lao động là?",
+    "answer": "Bảng chấm công."
+  },
+  {
+    "id": 440,
+    "premium": true,
+    "question": "Chứng từ nào sử dụng trong hoạt động thực hiện sản xuất?",
+    "answer": "Phiếu xuất kho (Dispatched note)."
+  },
+  {
+    "id": 441,
+    "premium": true,
+    "question": "Hoạt động “cập nhật dữ liệu” trong chu trình nhân sự KHÔNG mang ý nghĩa là?",
+    "answer": "Xóa ngay thông tin khi chấm dứt hợp đồng."
+  },
+  {
+    "id": 442,
+    "premium": true,
+    "question": "Chứng từ nào được sử dụng để lập hợp đồng mua bán hàng hóa với nhà cung cấp?",
+    "answer": "Giấy yêu cầu mua hàng."
+  },
+  {
+    "id": 443,
+    "premium": true,
+    "question": "Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Hệ thống hợp nhất tất cả quá trình kinh doanh và chức năng trên một hệ thống phần mềm và sử dụng một cơ sở dữ liệu chung"
+  },
+  {
+    "id": 444,
+    "premium": true,
+    "question": "Phần mềm kế toán là?",
+    "answer": "Một hệ thống được tổ chức dưới dạng chương trình máy tính có thể thu thập, xử lý các giao dịch về kinh tế tài chính và cung cấp các thông tin dưới dạng các báo cáo tài chính"
+  },
+  {
+    "id": 445,
+    "premium": true,
+    "question": "Người sử dụng có thể truy cập?",
+    "answer": "Phụ thuộc vào quyền truy nhập."
+  },
+  {
+    "id": 446,
+    "premium": true,
+    "question": "Một trong những Ưu điểm của Hệ thống hoạch định nguồn lực (Enterprise Resource Planning -ERP) là?",
+    "answer": "Chỉ có một cơ sở dữ liệu (để thu thập, lưu trữ dữ liệu)"
+  },
+  {
+    "id": 447,
+    "premium": true,
+    "question": "Một trong những lợi ích của cơ sở dữ liệu là?",
+    "answer": "Tích hợp dữ liệu."
+  },
+  {
+    "id": 448,
+    "premium": true,
+    "question": "Dữ liệu là?",
+    "answer": "Một thành phần của hệ thống thông tin."
+  },
+  {
+    "id": 449,
+    "premium": true,
+    "question": "Chức năng của hệ thống thông tin kế toán trong doanh nghiệp KHÔNG bao gồm?",
+    "answer": "Phân tích tình hình kinh tế - xã hội địa phương."
+  },
+  {
+    "id": 450,
+    "premium": true,
+    "question": "Kế toán viên là người?",
+    "answer": "Người tư vấn xây dựng, tham gia vào quá trình phân tích, thiết kế và trực tiếp sử dụng hệ thống thông tin kế toán"
+  }
+]

@@ -1,0 +1,2342 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Lựa chọn để xây dựng hệ thống quản trị chất lượng phù hợp cần căn cứ vào:",
+    "answer": "Nguồn lực tài chính, qui mô hoạt động và yêu cầu của khách hàng."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "\"Một phần của quản trị chất lượng tập trung vào việc lập mục tiêu chất lượng và quy định các quá trình tác nghiệp cần thiết và các nguồn lực có liên quan để thực hiện mục tiêu chất lượng\" là:",
+    "answer": "Hoạch định chất lượng"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "\"Một phần của quản trị chất lượng tập trung vào cung cấp lòng tin rằng các yêu cầu chất lượng sẽ được thực hiện\" là:",
+    "answer": "Đảm bảo chất lượng"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "\"Một phần của quản trị chất lượng tập trung vào nâng cao khả năng thực hiện các yêu cầu chất lượng\" là:",
+    "answer": "Cải tiến chất lượng"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Hệ thống quản trị chất lượng ISO 9000 được xây dựng dựa trên triết lý:",
+    "answer": "Nếu một tổ chức có hệ thống quản trị chất lượng tốt thì những sản phẩm hay dịch vụ mà nó cung cấp cũng sẽ tốt."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Trong một tổ chức, nhiệm vụ quản trị được phân chia cho các đơn vị riêng biệt theo các chức năng quản trị và hình thành nên những người lãnh đạo được chuyên môn hóa chỉ đảm nhận thực hiện một chức năng nhất định là hình thức cơ cấu tổ chức nào?",
+    "answer": "Cơ cấu tổ chức chức năng"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Những câu nói nào sau đây không đúng về sản phẩm",
+    "answer": "Nếu như trước đây người tiêu dùng quan tâm chủ yếu đến những yếu tố vô hình thì ngày nay họ lại quan tâm chủ yếu đến các thuộc tính vật chất hữu hình đáp ứng những yêu cầu về tính năng và tác dụng của sản phẩm."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Các doanh nghiệp, tổ chức thúc đẩy sự hợp tác trong toàn tổ chức, trao đổi thông tin với mọi người để thúc đẩy việc hiểu tầm quan trọng của những đóng góp riêng của họ là hoạt động cần thực hiện của nguyên tắc quản trị chất lượng:",
+    "answer": "Sự tham gia của mọi người"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Nguyên nhân làm cho quá trình biến động đột biến vượt quá mức cho phép và quá trình sẽ không bình thường là:",
+    "answer": "Nguyên nhân đặc biệt"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về kỳ vọng của khách hàng.",
+    "answer": "Những kỳ vọng của khách hàng đối với một sản phẩm hoặc dịch vụ nào đó thường là có mức độ quan trọng giống nhau đối với khách hàng."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Kỳ vọng về chất lượng trước khi sử dụng bằng cảm nhận về chất lượng sau khi sử dụng thì dịch vụ được đánh giá là:",
+    "answer": "Chất lượng ổn"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Giải thưởng chất lượng quốc gia Việt Nam học hỏi mô hình nào?",
+    "answer": "Giải thưởng chất lượng Malcolm Baldrige"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về phân loại sản phẩm?",
+    "answer": "Việc phân loại sản phẩm chỉ có ý nghĩa đối với doanh nghiệp vì doanh nghiệp phải quản lý danh mục sản phẩm mà không có ý nghĩa đối với các cơ quan quản lý Nhà nước."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Thay đổi và hoàn thiện quá trình nhằm giảm khuyết tật là nhiệm vụ của chức năng quản trị:",
+    "answer": "Điều chỉnh, điều hòa, phối hợp"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Giả sử quan trắc 20 nhóm mẫu, mỗi nhóm mẫu 5 chiếc nến, đường tâm của biểu đồ kiểm soát độ phân tán = 9,5, D4 = 2,114 và D3 = 0 thì UCL và LCL là:",
+    "answer": "UCL = 20,083; LCL = 0"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Những câu nói nào sau đây không đúng về giải thưởng chất lượng quốc gia Việt Nam?",
+    "answer": "Cơ cấu giải thưởng chất lượng quốc gia Việt Nam kể từ khi thành lập đến nay không thay đổi, chỉ có số lượng giải thưởng là khác nhau theo từng năm."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Tuyên bố về sự phù hợp so với yêu cầu của bên thứ 3 liên quan tới sản phẩm, quá trình, hệ thống là hoạt động:",
+    "answer": "Chứng nhận"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Việc sắp xếp, tổ chức vị trí, vai trò của từng cá nhân, bộ phận trong một tổ chức, qui định quyền hạn, trách nhiệm của từng vị trí hoặc bộ phận đó và hệ thống điều hành chung của tổ chức nhằm đạt được mục tiêu mà tổ chức đề ra là yếu tố nào trong những yếu tố cấu thành của HTQTCL",
+    "answer": "Cơ cấu tổ chức"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "\"Một phần của quản trị chất lượng tập trung vào nâng cao khả năng thực hiện các yêu cầu chất lượng\" là:",
+    "answer": "Cải tiến chất lượng"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Theo mô hình Servuction, chất lượng kỹ thuật là chất lượng được tạo ra bởi yếu tố:",
+    "answer": "Cơ sở vật chất tạo ra dịch vụ"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Học giả đã khái quát chức năng quản trị chất lượng thành chu trình PDCA là:",
+    "answer": "Edward Deming"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Công cụ thống kê giúp thu thập, ghi chép các dữ liệu chất lượng dùng làm đầu vào cho các công cụ phân tích thống kê khác là:",
+    "answer": "Phiếu kiểm tra chất lượng"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Đổi mới khác với cải tiến liên tục ở chỗ:",
+    "answer": "Thực hiện những thay đổi lớn"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Đặc điểm cá nhân của khách hàng có thể ảnh hưởng đến chất lượng sản phẩm. Chẳng hạn như thu nhập của khách hàng có thể làm cho khách hàng có những mong muốn cụ thể về chất lượng sản phẩm, từ đó họ có thể có đánh giá cao hoặc đánh giá thấp về chất lượng của một sản phẩm nào đó. Đây là ví dụ về sự ảnh hưởng của yếu tố nào đến chất lượng sản phẩm?",
+    "answer": "Tình hình thị trường."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "\"Một phần của quản trị chất lượng tập trung vào việc lập mục tiêu chất lượng và quy định các quá trình tác nghiệp cần thiết và các nguồn lực có liên quan để thực hiện mục tiêu chất lượng\" là:",
+    "answer": "Hoạch định chất lượng"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Theo mô hình về chỉ số về sự hài lòng của khách hàng của Thụy Điển, hai tham số ảnh hưởng đến sự hài lòng của khách hàng là:",
+    "answer": "kỳ vọng của khách hàng về sản phẩm hay dịch vụ và cảm nhận của khách hàng về sản phẩm hay dịch vụ."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Lựa chọn để xây dựng hệ thống quản trị chất lượng phù hợp cần căn cứ vào:",
+    "answer": "Nguồn lực tài chính, qui mô hoạt động và yêu cầu của khách hàng."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Tạo thói quen tự giác thực hiện các quy định 5S ở nơi làm việc là:",
+    "answer": "Săn sóc"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Những yếu tố bên ngoài ảnh hưởng trực tiếp đến chất lượng sản phẩm có thể bao gồm:",
+    "answer": "Các yếu tố văn hóa xã hội, tình hình thị trường lao động, trình độ tiến bộ của khoa học công nghệ, cơ chế chính sách quản lý kinh tế của quốc gia."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Câu nói nào sau đây đúng nhất về định nghĩa khách hàng trong lĩnh vực quản trị chất lượng:",
+    "answer": "Khách hàng là toàn bộ những đối tượng có liên quan trực tiếp đến những đòi hỏi về CLSP mà doanh nghiệp phải đáp ứng."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Sau khi xử lý dữ liệu thống kê từ việc kiểm tra chọn mẫu cho kết quả như sau: Xmax = 49, Xmin = 22, số lớp k = 6. Độ rộng của từng lớp h là:",
+    "answer": "4.5"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Bậc yêu cầu thấp nhất của khách hàng về chất lượng sản phẩm là",
+    "answer": "bậc tuyệt đối"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Đánh giá việc thực hiện chất lượng trong thực tế của doanh nghiệp là nhiệm vụ của chức năng quản trị:",
+    "answer": "Kiểm tra, kiểm soát"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Chia khách hàng ra làm hai loại là khách hàng quan trọng và khách hàng không quan trọng là cách phân loại nào trong những cách phân loại sau:",
+    "answer": "Phân loại khách hàng theo qui luật 80/20"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Khoảng thời gian mà tại đó sản phẩm duy trì được chức năng của mình là:",
+    "answer": "Tuổi thọ của sản phẩm"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Những câu nói nào sau đây không đúng về các yếu tố ảnh hưởng đến chất lượng sản phẩm?",
+    "answer": "Trong các yếu tố thuộc môi trường bên ngoài, môi trường tự nhiên không có ảnh hưởng gì đến chất lượng sản phẩm."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Mức độ thực hiện chức năng công dụng của sản phẩm là:",
+    "answer": "Độ tin cậy của sản phẩm"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Trong quản trị theo quá trình (MBP), với mỗi quá trình được xác định cần làm rõ:",
+    "answer": "Đầu vào, các hoạt động và đầu ra của quá trình"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Khi vẽ sơ đồ nhân quả (sơ đồ xương cá), các nguyên nhân thứ cấp được vẽ ở vị trí:",
+    "answer": "Xương dăm"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Mục đích của việc phân loại khách hàng theo mục đích sử dụng là:",
+    "answer": "Khác biệt hóa sản phẩm và phương thức bán sao cho phù hợp với từng đối tượng để đáp ứng nhu cầu của họ."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Chi phí mua sản phẩm và chi phí để vận hành sản phẩm là đặc trưng của thuộc tính nào của chất lượng sản phẩm trong những thuộc tính sau:",
+    "answer": "Tính kinh tế của sản phẩm"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Theo Tổ chức quốc tế về tiêu chuẩn hóa (ISO) thì chất lượng sản phẩm là:",
+    "answer": "Mức độ thỏa mãn của một tập hợp các thuộc tính đáp ứng các yêu cầu."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về cách phân loại khách hàng theo qui luật 80/20.",
+    "answer": "Khách hàng quan trọng là những khách hàng chiếm 80% về số lượng nhưng chiếm khoảng 20% về doanh thu hoặc lợi nhuận."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Kỳ vọng về chất lượng trước khi sử dụng lớn hơn cảm nhận về chất lượng sau khi sử dụng thì dịch vụ được đánh giá là:",
+    "answer": "Chất lượng kém"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Ngay sau khi xác định các loại sai sót và chi phí của các loại sai sót, để lập biểu đồ Pareto cần:",
+    "answer": "Sắp xếp dữ liệu theo thứ tự từ lớn đến bé"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Sau khi xử lý dữ liệu thống kê từ việc kiểm tra chọn mẫu cho kết quả như sau: Xmax = 18, Xmin = 15, số lớp k = 8. Độ rộng của từng lớp h là:",
+    "answer": "0.375"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Khi phân loại các kỳ vọng của khách hàng đối với sản phẩm hoặc dịch vụ, có những thuộc tính chất lượng của sản phẩm hoặc dịch vụ mà bản thân khách hàng chưa nhận ra hoặc chưa biết nhưng nếu được đáp ứng họ sẽ cảm thấy thích thú. Những nhu cầu của khách hàng đối với những thuộc tính này được gọi là",
+    "answer": "bậc tiềm ẩn"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Căn cứ vào biểu đồ kiểm soát, quá trình sản xuất được cho là không bình thường khi:",
+    "answer": "7 điểm liên tiếp ở 1 bên của đường tâm"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Công cụ thống kê biểu diễn mối quan hệ giữa kết quả và nguyên nhân gây ra kết quả đó là:",
+    "answer": "Sơ đồ nhân quả"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Công cụ thống kê giúp xác định tình trạng bình thường hay không bình thường của một quá trình là:",
+    "answer": "Biểu đồ phân bố mật độ và biểu đồ kiểm soát"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Các phong trào chất lượng trong chương trình quản trị chất lượng toàn diện muốn thành công thì điều kiện tiên quyết là:",
+    "answer": "Có sự cam kết của lãnh đạo"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Công cụ thống kê biểu hiện mối tương quan giữa nguyên nhân và kết quả hoặc giữa các yếu tố ảnh hưởng đến chất lượng là:",
+    "answer": "Biểu đồ quan hệ"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Khi áp dụng ISO 9001:2015 trong doanh nghiệp thì những tài liệu về hệ thống chất lượng gồm có:",
+    "answer": "Sổ tay chất lượng, các thủ tục qui trình, các hướng dẫn công việc và các hồ sơ."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Khi vẽ sơ đồ nhân quả (sơ đồ xương cá), các nguyên nhân chính được vẽ ở vị trí:",
+    "answer": "Xương nhánh chính"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Chất lượng được phán ảnh bởi các tính chất đặc trưng vốn có của sản phẩm phản ánh công dụng của sản phẩm đó. Đây là quan niệm về chất lượng nào?",
+    "answer": "Quan niệm xuất phát từ sản phẩm"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Trong các yếu tố cấu thành của HTQTCL, các qui định mà tổ chức tuân thủ bao gồm:",
+    "answer": "Các định hướng chiến lược và các mục tiêu."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Việc chia khách hàng ra làm ba nhóm là nhóm mua sản phẩm để sản xuất hoặc chế biến, nhóm mua sản phẩm để tiêu dùng và nhóm mua sản phẩm để bán là cách phân loại nào:",
+    "answer": "Phân loại khách hàng căn cứ vào mục đích sử dụng."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "\"Điều định tìm kiếm hay nhắm tới có liên quan đến chất lượng\" là:",
+    "answer": "Mục tiêu chất lượng"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Tăng cường năng lực cho đội ngũ nhân viên cung ứng dịch vụ là hoạt động để thu hẹp khoảng cách:",
+    "answer": "Khoảng cách 3"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Câu nói nào sau đây đúng nhất khi mô tả về nhu cầu khách hàng?",
+    "answer": "Là cảm giác thiếu hụt một cái gì đó."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Khi vẽ biểu đồ kiểm soát, đường thể hiện khoảng sai lệch cao và thấp nhất mà các giá trị chất lượng còn nằm trong sự kiểm soát là:",
+    "answer": "Đường giới hạn trên và dưới"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Công cụ thống kê xác định thứ tự ưu tiên trong giải quyết vấn đề là:",
+    "answer": "Biểu đồ Pareto"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Điều nào sau đây không đúng về HACCP?",
+    "answer": "điểm kiểm soát tới hạn là một địa điểm mà tại đó người ta thực hiện các biện pháp kiểm soát tới hạn."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Tính không thể nhìn thấy, không nếm được, không nghe được, không cầm được dịch vụ trước khi tiêu dùng chúng là đặc điểm nào của dịch vụ?",
+    "answer": "Tính phi vật chất"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Khi xác định nhu cầu của khách hàng, câu nói nào sau đây là không đúng?",
+    "answer": "Đây là công việc tương đối dễ dàng đối với doanh nghiệp bởi doanh nghiệp chỉ cần tổ chức điều tra là các nhu cầu của khách hàng sẽ dễ dàng được xác định."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Tính an toàn trong sử dụng, vận hành sản phẩm đối với sức khỏe của người tiêu dùng là:",
+    "answer": "Tính an toàn của sản phẩm"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Trong áp dụng tiêu chuẩn ISO 9001:2015, đánh giá nội bộ được thực hiện bởi:",
+    "answer": "Tổ chức áp dụng"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Tiêu chuẩn đưa ra các yêu cầu cho một hệ thống quản trị chất lượng là:",
+    "answer": "ISO 9001:2015"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Phương pháp thu thập dữ liệu nào sau đây không được coi như phương pháp điều tra theo cách tiếp cận định lượng?",
+    "answer": "Nhóm tập trung"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Một trong những cách phân loại nhu cầu của khách hàng là chia các nhu cầu làm ba bậc theo một trật tự lũy tiến bao gồm:",
+    "answer": "Bậc tuyệt đối, bậc rõ ràng, bậc tiềm ẩn."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Kiểm soát chất lượng so với kiểm tra chất lượng có:",
+    "answer": "Phạm vi rộng hơn"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Trong quá trình xây dựng biểu đồ phân bố mật độ, độ rộng R của toàn bộ tập dữ liệu được tính như sau:",
+    "answer": "R = Xmax - Xmin"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Kết cấu của sản phẩm bao gồm:",
+    "answer": "Hai thành phần: phần cứng và phần mềm"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây không phải là một trong bảy nguyên tắc của QTCL theo ISO 9000?",
+    "answer": "Kiểm soát hoạt động"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Hệ thống nào không áp dụng cho các doanh nghiệp nuôi trồng, sản xuất và chế biến thực phẩm:",
+    "answer": "QS 9000"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Những yếu tố bên trong ảnh hưởng đến chất lượng sản phẩm bao gồm:",
+    "answer": "Lao động, công nghệ, nguyên vật liệu, quản lý."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Khi một tổ chức được cấp chứng chỉ ISO9001:2015 rồi thì:",
+    "answer": "Được tự do lựa chọn nhà cung cấp mà không có ràng buộc nào về việc nhà cung cấp bắt buộc phải áp dụng ISO 9001:2015"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Độ phân tán của nhóm mẫu i (kí hiệu là Ri) được xác định bằng:",
+    "answer": "Ri = Ximax - Ximin"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Quản trị theo mục tiêu (MBO) chú trọng vào các kết quả cuối cùng cần phải đạt còn quản trị theo quá trình (MBP) quan tâm đến:",
+    "answer": "Chất lượng của từng quá trình"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về phân loại chất lượng sản phẩm căn cứ vào mục tiêu cần đạt được?",
+    "answer": "Chất lượng tuân thủ thiết kế phụ thuộc vào khả năng thiết kế sản phẩm, sự hiểu biết thị trường, khách hàng, điều kiện kinh tế công nghệ, xã hội."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Tác giả của “Thuyết tam luận chất lượng” liên quan đến ba quá trình cơ bản kế hoạch hóa chất lượng, quản lý chất lượng, cải tiến chất lượng là:",
+    "answer": "Joseph Juran"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Làm tăng giá trị cho khách hàng thông qua việc liên tục loại bỏ lãng phí trong suốt quá trình cung cấp sản phẩm, dịch vụ là nguyên tắc chủ đạo của:",
+    "answer": "Lean Manufacturing"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Cách tiếp cận \"quản trị là quá trình làm việc với và làm việc thông qua người khác nhằm đạt được mục tiêu của tổ chức trên cơ sở các nguồn lực nhất định\" xuất phát từ:",
+    "answer": "Nền kinh tế thị trường"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Câu nói nào sau đây thích hợp nhất khi mô tả về sự thỏa mãn của khách hàng.",
+    "answer": "Trạng thái cảm giác mà khách hàng có được khi sản phẩm hay dịch vụ thỏa mãn được nhu cầu của khách hàng."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Khi xây dựng tiêu chuẩn và quy chuẩn kỹ thuật, câu nói nào sau đây là không chính xác?",
+    "answer": "Đối tượng của hoạt động trong lĩnh vực tiêu chuẩn và đối tương của hoạt động trong lĩnh vực quy chuẩn kỹ thuật chỉ bao gồm sản phẩm và dịch vụ."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Sau khi xử lý dữ liệu thống kê từ việc kiểm tra chọn mẫu cho kết quả như sau: Xmax = 60, Xmin = 40, số lớp k = 5. Biên giới của lớp đầu tiên là:",
+    "answer": "38 - 42"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Các thông tin, khái niệm, các dịch vụ đi kèm theo sản phẩm, sự cảm nhận những tiện lợi, đáp ứng nhưng nhu cầu tinh thần, tâm lý xã hội của khách hàng là:",
+    "answer": "Phần mềm của sản phẩm"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về các quá trình, một trong những yếu tố cấu thành của HTQTCL.",
+    "answer": "Quaá trình chính có nghĩa là quá trình sản xuất hoặc cung cấp dịch vụ, còn quá trình hỗ trợ là các quá trình như thiết kế, phân phối, giúp cho việc hình thành sản phẩm và đưa sản phẩm đến người tiêu dùng."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Biểu đồ phân bố mật độ có dạng bằng phẳng không có đỉnh rõ ràng phản ánh:",
+    "answer": "Không có quy trình xác định chung mà có rất nhiều quy trình khác nhau tùy thuộc vào cách thao tác của từng người lao động"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Mục đích của sơ đồ lưu trình là:",
+    "answer": "Giúp xác định hoạt động thừa hay lãng phí của quá trình"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Tính sẵn có, tính dễ vận chuyển, dễ bảo quản, dễ sử dụng, khả năng thay thế chi tiết,…là",
+    "answer": "Tính tiện dụng của sản phẩm"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Học giả cho rằng tất cả các bộ phận và tất cả các cán bộ công nhân viên trong tổ chức nên cùng tham gia vào việc nghiên cứu và hỗ trợ quản lý chất lượng bằng cách nắm được 7 công cụ thống kê là:",
+    "answer": "Kaoru Ishikawa"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), khoảng cách 4 là khoảng cách giữa:",
+    "answer": "Giao nhận dịch vụ và thông tin bên ngoài (các yếu tố ngoại cảnh khác)"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Sử dụng thang đo Likert để đo lường mức độ hài lòng của khách hàng thì:",
+    "answer": "Thang đo càng nhiều nấc, nhiều điểm càng tốt"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Khi vẽ biểu đồ Pareto, đường tích lũy được vẽ theo:",
+    "answer": "Tỷ lệ % tích lũy của các dạng sai sót"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Nhằm phát hiện ra lỗi trong quá trình cung ứng dịch vụ, nhà quản trị cần thực hiện hoạt động:",
+    "answer": "Giám sát, đánh giá"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Chất lượng là sự tuyệt vời và hoàn hảo nhất của sản phẩm. Đây là quan niệm về chất lượng nào?",
+    "answer": "Quan niệm siêu hình"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Quản trị chất lượng theo quan điểm hiện đại là:",
+    "answer": "Quản trị chất lượng là vấn đề tác nghiệp và chiến lược"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Khách hàng bên trong là đối tượng nào trong những đối tượng sau:",
+    "answer": "Là các thành viên, bộ phận có tiêu dùng sản phẩm hoặc dịch vụ được cung cấp nội bộ doanh nghiệp."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Trong một tổ chức, mỗi nhân viên hoặc bộ phận của bộ phận trực tuyến được gắn với việc thực hiện một đề án hoặc một sản phẩm nhất định. Đồng thời, mỗi nhân viên của bộ phận chức năng cũng được gắn với một đề án hoặc một sản phẩm. sau khi hoàn thành đề án thì họ lại trở lại vị trí của mình. Đây là hình thức cơ cấu tổ chức nào?",
+    "answer": "Cơ cấu tổ chức ma trận"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Quản trị chất lượng về thực chất là:",
+    "answer": "Tập hợp các hoạt động để định hướng và kiểm soát một tổ chức về chất lượng"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Các chương trình cải tiến chất lượng dịch vụ được thực hiện nhằm mục đích:",
+    "answer": "Điều chỉnh, nâng cao chất lượng dịch vụ cung cấp"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Giải quyết các khiếu nại của khách hàng nhanh chóng là tiêu chí nào trong 5 tiêu chí thuộc mô hình RATER:",
+    "answer": "Tính đáp ứng"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Phần cứng của sản phẩm chính là:",
+    "answer": "Các vật thể bộ phận, sản phẩm được lắp ráp, nguyên vật liệu."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Công cụ thống kê biểu hiện sự thay đổi của các chỉ tiêu chất lượng để đánh giá quá trình sản xuất có ở trạng thái kiểm soát hay chấp nhận được không là:",
+    "answer": "Biểu đồ kiểm soát"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Khi phân loại chất lượng căn cứ vào mục tiêu cần đạt được, người ta có thể phân loại chất lượng thành",
+    "answer": "Chất lượng thiết kế và chất lượng tuân thủ thiết kế."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Khi triển khai 5S trong một tổ chức, Seiton có nghĩa là:",
+    "answer": "Sắp xếp"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về nhu cầu khách hàng",
+    "answer": "Nhu cầu của các đối tượng khách hàng có thể được sắp xếp theo một trật tự lũy tiến ba bậc bao gồm bậc tuyệt đối, bậc tương đối và bậc tiềm ẩn."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "\"Một phần của quản trị chất lượng tập trung vào thực hiện các yêu cầu chất lượng\" là:",
+    "answer": "Kiểm soát chất lượng"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Cảm giác nào của khách hàng là phù hợp nhất khi chất lượng thực tế thấp hơn chất lượng mong đợi?",
+    "answer": "Khách hàng sẽ cảm thấy không thỏa mãn."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Dịch vụ khi đã được tạo ra thì không thể \"cất giữ\" để một thời gian sau sử dụng, giống như lưu kho sản phẩm vật chất là đặc điểm nào của dịch vụ",
+    "answer": "Tính không lưu giữ được"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Giám sát và đánh giá được kết hợp với nhau nhằm mục tiêu phát hiện ra:",
+    "answer": "Những gì là \"không phù hợp\""
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Thời gian đem lại hiệu quả từ công tác đổi mới so với cải tiến liên tục thì:",
+    "answer": "Nhanh hơn"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về khách hàng?",
+    "answer": "Khách hàng bên trong là những thành viên trong doanh nghiệp có tiêu dùng sản phẩm hoặc dịch vụ cuối cùng của doanh nghiệp."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "\"Hệ thống quản trị để định hướng và kiểm soát một tổ chức về chất lượng\" là:",
+    "answer": "Hệ thống quản trị chất lượng"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Hiện nay trên thế giới có ba mô hình tiêu chí giải thưởng chất lượng là:",
+    "answer": "Giải thưởng chất lượng Deming, Giải thưởng chất lượng Malcolm Baldrige và Giải thưởng chất lượng Châu Âu."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Những câu nói nào sau đây không đúng về các yếu tố ảnh hưởng đến chất lượng sản phẩm?",
+    "answer": "Các yếu tố bên trong bao gồm lao động, công nghệ, cơ cấu tổ chức, quản lý."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Quá trình cung ứng và sử dụng dịch vụ diễn ra đồng thời là đặc điểm nào của dịch vụ?",
+    "answer": "Tính không thể chia cắt được"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về cách phân loại khách hàng:",
+    "answer": "Để phục vụ cho các mục tiêu của quản trị chất lượng, người ta không phân loại khách hàng theo hành vi tiêu dùng."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "\"Một phần của quản trị chất lượng tập trung vào cung cấp lòng tin rằng các yêu cầu chất lượng sẽ được thực hiện\" là:",
+    "answer": "Đảm bảo chất lượng"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Chất lượng mong đợi là",
+    "answer": "Tập hợp mức độ của những mong muốn của khách hàng đối với một sản phẩm hoặc dịch vụ nào đó trước khi khách hàng tiêu dùng sản phẩm hoặc thụ hưởng dịch vụ."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Khi đánh giá chất lượng sản phẩm thì người ta không sử dụng những thuộc tính nào trong những thuộc tính sau:",
+    "answer": "Tính hữu hình, sự thấu cảm, sự phản hồi"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), khoảng cách 1 là khoảng cách giữa:",
+    "answer": "Dịch vụ mong muốn và nhận thức của lãnh đạo về mong muốn của khách hàng"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Các yếu tố thuộc về cơ sở vật chất như mặt bằng, nhà cửa, trang thiết bị thuộc về tiêu chí nào trong 5 tiếu chí thuộc mô hình RATER:",
+    "answer": "Tính hữu hình"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Kinh phí bỏ ra để phòng ngừa và đánh giá trong quản trị chất lượng chính là:",
+    "answer": "Chi phí chất lượng"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Theo quan điểm hiện hành, dịch vụ được cấu thành bởi hai bộ phận sau:",
+    "answer": "Dịch vụ cơ bản và dịch vụ hỗ trợ"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Trong quản trị chất lượng dịch vụ, trước nhà quản trị cần phải xác định cái gì làm cơ sở cho việc hoạch định chất lượng, cải tiến chất lượng, đảm bảo chất lượng.",
+    "answer": "Mục tiêu và chính sách chất lượng dịch vụ"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Khi vẽ sơ đồ lưu trình, muốn thể hiện bước kiểm tra hoặc ra quyết định cần sử dụng:",
+    "answer": "Hình thoi"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Công cụ thống kê thể hiện các hoạt động cần thực hiện của một quá trình là:",
+    "answer": "Sơ đồ lưu trình"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), khoảng cách 5 là khoảng cách giữa:",
+    "answer": "Dịch vụ mong muốn và mức độ cảm nhận"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Chất lượng là sự thỏa mãn nhu cầu của khách hàng. Đây là quan niệm nào về chất lượng sản phẩm?",
+    "answer": "Quan niệm của người tiêu dùng"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Người tham gia vào xây dựng sơ đồ lưu trình trên thực tế tại các doanh nghiệp nên là những người:",
+    "answer": "Có liên quan trực tiếp đến quá trình đó"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Chất lượng dịch vụ dao động trong một khoảng rất rộng, tùy thuộc vào hoàn cảnh tạo ra dịch vụ là đặc điểm nào của dịch vụ?",
+    "answer": "Tính không ổn định"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Trong quá trình sử dụng sản phẩm, việc khách hàng cảm thấy sản phẩm dễ sử dụng, thuận tiện trong việc thay thế các chi tiết nếu sản phẩm bị hỏng là ví dụ về thuộc tính chất lượng nào trong những thuộc tính dưới đây?",
+    "answer": "Tính tiện dụng của sản phẩm"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Theo mô hình Servuction, yếu tố quan trọng nhất trong quản trị chất lượng dịch vụ là:",
+    "answer": "Năng lực của lực lượng trực tiếp tiếp xúc với khách hàng"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Tiến hành các biện pháp kinh tế, tổ chức, kỹ thuật, chính trị, tư tưởng, hành chính nhằm thực hiện kế hoạch đã xác định là nhiệm vụ của chức năng quản trị:",
+    "answer": "Tổ chức"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Sau khi xử lý dữ liệu thống kê từ việc kiểm tra chọn mẫu cho kết quả như sau: Xmax = 50, Xmin = 30, số lớp k = 5. Biên giới của lớp đầu tiên là:",
+    "answer": "28-32"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Sự hiểu biết về công việc đang thực hiện, kỹ năng giao tiếp, kỹ năng đàm phán với khách hàng thuộc về tiêu chí nào trong 5 tiêu chí thuộc mô hình RATER:",
+    "answer": "Sự đảm bảo"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Ở Việt Nam, việc xét và trao giải thưởng chất lượng Việt Nam được diễn ra lần đầu tiên vào năm:",
+    "answer": "1995"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Hệ thống quản trị chất lượng là:",
+    "answer": "Tập hợp các yếu tố có liên quan và tương tác để định hướng và kiểm soát một tổ chức về chất lượng."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Tăng cường năng lực cho đội ngũ nhân viên thiết kế dịch vụ là hoạt động để thu hẹp khoảng cách:",
+    "answer": "Khoảng cách 2"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Đặc điểm sau không phải là đặc điểm của dịch vụ:",
+    "answer": "Tính có thể chia cắt được"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Phương pháp thu thập dữ liệu nào trong những phương pháp thu thập dữ liệu sau nên giới hạn thời gian ngắn, thường là khoảng từ vài phút đến 20 phút.",
+    "answer": "Điều tra qua điện thoại"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Điều nào sau đây không đúng về SA 8000?",
+    "answer": "Khi một doanh nghiệp phát hiện ra mình đang sử dụng lao động trẻ em thì doanh nghiệp này cần chấm dứt ngay việc sử dụng lao động trẻ em: chấm dứt hợp đồng với lao động này."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Vì quản trị chất lượng xét đến cùng là những hoạt động có phối hợp để thực hiện mục tiêu thỏa mãn khách hàng nên một trong những vấn đề quan trọng nhất của quản trị chất lượng là:",
+    "answer": "Cần xác định khách hàng có nhu cầu hoặc mong đợi gì khi mua sản phẩm hoặc thụ hưởng dịch vụ của doanh nghiệp."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Điều chỉnh trong chu trình quản trị là:",
+    "answer": "Khâu cuối cùng và khởi thủy của chu trình tiếp theo"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Vì sự phát triển của khoa học công nghệ, phương pháp nào trong những phương pháp thu thập dữ liệu sau ngày càng ít được sử dụng mặc dù nó có nhiều ưu điểm, đặc biệt là ưu điểm về chi phí thực hiện.",
+    "answer": "Điều tra qua thư tay"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về hệ thống quản trị chất lượng?",
+    "answer": "Tổ chức tốt HTQTCL có ý nghĩa quan trọng đối với khách hàng, đối với doanh nghiệp và đối với xã hội."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Học giả cho rằng chất lượng là một điều có thể có được mà không mất tiền. Cái tốn kém nhất chính là cái thiếu chất lượng, nghĩa là không làm đúng mọi việc ngay từ đầu là:",
+    "answer": "Philip Crosby"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Quản trị theo quá trình (MBP) chú trọng phát triển những tiêu chuẩn hướng tới quá trình tiến hành công việc còn quản trị theo mục tiêu (MBO) quan tâm đến:",
+    "answer": "Chất lượng sản phẩm hoặc dịch vụ"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Khi phân loại các kỳ vọng của khách hàng đối với sản phẩm hoặc dịch vụ, những kỳ vọng cơ bản của khách hàng đối với một sản phẩm hoặc dịch vụ được gọi là",
+    "answer": "bậc tuyệt đố"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Mức chất lượng dịch vụ trên quan điểm khách hàng được đánh giá thông qua:",
+    "answer": "Mức độ thỏa mãn khách hàng"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Công cụ thống kê giúp giảm lãng phí chi phí và thời gian, giúp người thực hiện hiểu rõ quá trình, biết được vị trí của mình trong quá trình là:",
+    "answer": "Sơ đồ lưu trình"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Mức độ thỏa mãn của khách hàng là hiệu số giữa:",
+    "answer": "Cảm nhận và kỳ vọng"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Điều kiện tiên quyết để áp dụng thành công ISO 9001:2015 là:",
+    "answer": "Có sự cam kết của lãnh đạo"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Nhà quản trị sử dụng biểu đồ Pareto là để:",
+    "answer": "Xác định loại khuyết tật cần ưu tiên giải quyết"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Quan tâm tới nhu cầu khách hàng, thiết kế sản phẩm và dịch vụ thỏa mãn nhu cầu khách hàng là các hoạt động cần thực hiện của nguyên tắc quản trị chất lượng:",
+    "answer": "Định hướng khách hàng"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Thuộc tính nào sau đây không phải là một trong những thuộc tính của chất lượng sản phẩm?",
+    "answer": "Tính kiểm soát"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Khi phân loại các kỳ vọng của khách hàng đối với sản phẩm hoặc dịch vụ, những đòi hỏi tất yếu của khách hàng về những thuộc tính của sản phẩm hoặc dịch vụ được gọi là",
+    "answer": "bậc rõ ràng"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Hệ thống nào sau đây là hệ thống quản trị chất lượng?",
+    "answer": "OHSAS 18000"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Công cụ thống kê giúp xác định nguyên nhân một cách có hệ thống, từ đó giải quyết vấn đề một cách dễ dàng hơn là:",
+    "answer": "Sơ đồ nhân quả"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Trong môi trường cạnh tranh gay gắt như hiện nay, để có thể tồn tại và phát triển thì nhiệm vụ đầu tiên của mỗi doanh nghiệp là:",
+    "answer": "Xác định rõ khách hàng của mình là ai, từ đó mới biết được cung cấp cái gì và như thế nào để thỏa mãn khách hàng."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về phong trào 5S?",
+    "answer": "Khi thực hiện 5S, việc đưa ra những khẩu hiệu, bài hát, bài thơ không có ý nghĩa quan trọng lắm, điều quan trọng là phải xây dựng được hệ thống thanh tra kiểm tra các hoạt động của phong trào này."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Việc chia khách hàng ra làm ba nhóm là khách hàng bản địa, khách hàng địa phương và khách hàng quốc tế là cách phân loại khách hàng nào?",
+    "answer": "Phân loại khách hàng căn cứ vào khu vực địa lý."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "\"Ý đồ và định hướng chung của một tổ chức có liên quan đến chất lượng được lãnh đạo cao nhất công bố chính thức\" là:",
+    "answer": "Chính sách chất lượng"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về quản trị quan hệ khách hàng:",
+    "answer": "Trong ba yếu tố cấu thành nên một hệ thống quản trị quan hệ khách hàng thì yếu tố công nghệ đóng vai trò quan trọng nhất, quyết định đến sự thành công hay thất bại khi triển khai hệ thống này."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Hệ thống nào sau đây là hệ thống quản trị chất lượng?",
+    "answer": "QS 9000"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Kỳ vọng về chất lượng trước khi sử dụng nhỏ hơn cảm nhận về chất lượng sau khi sử dụng thì dịch vụ được đánh giá là:",
+    "answer": "Chất lượng tốt"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Việc nhu cầu của khách hàng về một chiếc điện thoại di động cách đây 10 năm khác so với nhu cầu của khách hàng về một chiếc điện thoại vào thời điểm này, thông thường, nhu cầu của khách hàng vào thời điểm này nhiều hơn, yêu cầu cao hơn,… là liên quan đến đặc điểm nào trong những đặc điểm sau?",
+    "answer": "Nhu cầu của khách hàng luôn luôn có xu hướng rơi xuống bậc thấp hơn."
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về khách hàng?",
+    "answer": "Phân loại khách hàng theo mức độ quan trọng là chia khách hàng ra làm ba loại: Loại quan trọng, loại bình thường và loại không quan trọng."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Biểu đồ kiểm soát được vẽ dưới dạng:",
+    "answer": "Đồ thị"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Sản phẩm được định nghĩa là:",
+    "answer": "Kết quả của một/ các hoạt động hoặc một/ các quá trình."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Cách tiếp cận \"quản trị là quá trình tác động hướng đích của chủ thể vào khách thể nhằm đạt được các mục tiêu đề ra trên cơ sở các nguồn lực nhất định\" xuất phát từ:",
+    "answer": "Nền kinh tế kế hoạch hóa tập trung"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), khoảng cách 3 là khoảng cách giữa:",
+    "answer": "Đặc tính dịch vụ và giao nhận dịch vụ"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Việc người theo đạo hồi không ăn thịt lợn làm cho các sản phẩm về lợn không tiêu thụ được, các sản phẩm sử dụng thịt lợn làm thành phần (ví dụ làm nhân bánh, ruốc rắc trên bánh,…) vì vậy cũng không được xem xét sử dụng. Đây là ví dụ yếu tố nào đã ảnh hưởng đến chất lượng sản phẩm?",
+    "answer": "Văn hóa xã hội"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Nghị định số 12/2015/NĐ-CP được Chính phủ Việt Nam ban hành ngày 12/2/2015 có đưa ra những ưu đãi về thuế đối với các doanh nghiệp công nghiệp hỗ trợ. Những ưu đãi này khiến cho các doanh nghiệp có thể giảm chi phí và từ đó giá của sản phẩm có thể thấp hơn. Chất lượng sản phẩm vì thế mà cũng được nâng cao. Đây là ví dụ về sự ảnh hưởng của yếu tố nào đến chất lượng sản phẩm.",
+    "answer": "Cơ chế chính sách quản lý kinh tế của Nhà nước."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Tăng cường các hoạt động nghiên cứu thị trường nhằm tìm hiểu nhu cầu của khách hàng là hoạt động để thu hẹp khoảng cách:",
+    "answer": "Khoảng cách 1"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Hiểu tâm lý, sở thích của khách hàng thuộc về tiêu chí nào trong 5 tiêu chí thuộc mô hình RATER:",
+    "answer": "Sự thấu cảm"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Thực hiện dịch vụ đúng như tuyên bố của nhà cung cấp là ý nghĩa của tiêu chí nào trong 5 tiêu chí thuộc mô hình RATER:",
+    "answer": "Độ tin cậy"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Khi chất lượng và hiệu suất tăng thì độ biến động giảm vì mọi vật đều biến động nên cần sử dụng các phương pháp thống kê điều khiển chất lượng là triết lý của học giả:",
+    "answer": "Edward Deming"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Giả sử quan trắc 20 nhóm mẫu, mỗi nhóm mẫu 5 chiếc nến, đường tâm của biểu đồ kiểm soát độ phân tán = 8, D4 = 2,114 và D3 = 0 thì UCL và LCL là:",
+    "answer": "UCL = 16,912; LCL = 0"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Việc một tổ chức nhận diện các quá trình, phân loại các quá trình và kiểm soát các quá trình là những việc làm để đảm bảo nguyên tắc nào sau đây?",
+    "answer": "Quản trị theo cách tiếp cận dựa trên quá trình"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Khi vẽ biểu đồ kiểm soát, đường tâm thể hiện:",
+    "answer": "Giá trị bình quân của các dữ liệu"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Khi đánh giá về chất lượng sản phẩm, thương hiệu và uy tín của nhà sản xuất là thuộc yếu tố:",
+    "answer": "Các thuộc tính vô hình"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Chất lượng là sự phù hợp với những tiêu chuẩn qui cách đã được xác định trước của sản phẩm. Đây là quan niệm nào về chất lượng sản phẩm?",
+    "answer": "Quan niệm của các nhà sản xuất"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Mục đích của sơ đồ nhân quả là:",
+    "answer": "Xác định các nguyên nhân một cách có hệ thống, từ đó giải quyết vấn đề một cách dễ dàng"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Chất lượng thực tế là",
+    "answer": "Mức độ thỏa mãn của khách hàng đối với một sản phẩm hoặc dịch vụ sau khi khách hàng đã tiêu dùng sản phẩm hoặc thụ hưởng dịch vụ."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Câu nói nào sau đây không đúng về vai trò của chất lượng sản phẩm?",
+    "answer": "Việc nâng cao chất lượng sản phẩm chỉ có ý nghĩa đối với doanh nghiệp, việc nâng cao chất lượng sản phẩm này không có liên quan gì đến tăng năng suất lao động xã hội."
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Cách tiếp cận \"quản trị là quá trình lập kế hoạch - tổ chức thực hiện - giám sát đánh giá - và điều chỉnh (nếu cần) để thực thi tốt một công việc nào đó\" xuất phát từ:",
+    "answer": "Công việc mà một người quản lý cần làm"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Khi vẽ sơ đồ lưu trình, hình chữ nhật thể hiện:",
+    "answer": "Các hoạt động"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Việc phân loại khách hàng căn cứ vào độ tuổi là cách phân loại khách hàng nào?",
+    "answer": "Phân loại khách hàng căn cứ vào đặc điểm nhân khẩu học."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Biểu đồ phân bố mật độ có dạng hình quả chuông (phân bố chuẩn) có nghĩa là:",
+    "answer": "Những biến thiên nhỏ của quá trình vẫn nằm trong giới hạn cho phép, quá trình vẫn hoạt động ổn định"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), nguồn sau đây không phải là nguồn hình thành kỳ vọng của khách hàng về chất lượng dịch vụ (dịch vụ mong muốn):",
+    "answer": "Nhu cầu người thân trong gia đình"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Theo mô hình Servuction, chất lượng chức năng là chất lượng được tạo ra bởi yếu tố:",
+    "answer": "Năng lực của lực lượng trực tiếp tiếp xúc với khách hàng"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Công cụ thống kê cho thấy bằng hình ảnh sự thay đổi, biến động của một tập hợp các dữ liệu theo những hình dạng nhất định là:",
+    "answer": "Biểu đồ phân bố mật độ"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Khi triển khai 5S trong một tổ chức, Seiton có nghĩa là:",
+    "answer": "Sắp xếp"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Công cụ thống kê cho thấy bằng hình ảnh sự thay đổi, biến động của một tập hợp các dữ liệu theo những hình dạng nhất định là:",
+    "answer": "Biểu đồ phân bố mật độ"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Những yếu tố bên trong ảnh hưởng đến chất lượng sản phẩm bao gồm:",
+    "answer": "Lao động, công nghệ, nguyên vật liệu, quản lý."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "\"Hệ thống quản trị để định hướng và kiểm soát một tổ chức về chất lượng\" là:",
+    "answer": "Hệ thống quản trị chất lượng"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Trong quá trình xây dựng biểu đồ phân bố mật độ, độ rộng R của toàn bộ tập dữ liệu được tính như sau:",
+    "answer": "R = Xmax - Xmin"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Cách tiếp cận \"quản trị là quá trình lập kế hoạch - tổ chức thực hiện - giám sát đánh giá - và điều chỉnh (nếu cần) để thực thi tốt một công việc nào đó\" xuất phát từ:",
+    "answer": "Công việc mà một người quản lý cần làm"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Nhà quản trị sử dụng biểu đồ Pareto là để:",
+    "answer": "Xác định loại khuyết tật cần ưu tiên giải quyết"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Đánh giá việc thực hiện chất lượng trong thực tế của doanh nghiệp là nhiệm vụ của chức năng quản trị:",
+    "answer": "Kiểm tra, kiểm soát"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Khi đánh giá chất lượng sản phẩm thì người ta không sử dụng những thuộc tính nào trong những thuộc tính sau:",
+    "answer": "Tính hữu hình, sự thấu cảm, sự phản hồi"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Biểu đồ kiểm soát được vẽ dưới dạng:",
+    "answer": "Đồ thị"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Khi vẽ biểu đồ kiểm soát, đường thể hiện khoảng sai lệch cao và thấp nhất mà các giá trị chất lượng còn nằm trong sự kiểm soát là:",
+    "answer": "Đường giới hạn trên và dưới"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Khi phân loại các kỳ vọng của khách hàng đối với sản phẩm hoặc dịch vụ, những đòi hỏi tất yếu của khách hàng về những thuộc tính của sản phẩm hoặc dịch vụ được gọi là",
+    "answer": "bậc rõ ràng"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Giả sử quan trắc 20 nhóm mẫu, mỗi nhóm mẫu 5 chiếc nến, đường tâm của biểu đồ kiểm soát độ phân tán = 9,5, D4 = 2,114 và D3 = 0 thì UCL và LCL là:",
+    "answer": "UCL = 20,083; LCL = 0"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Câu nói nào sau đây đúng nhất khi mô tả về nhu cầu khách hàng?",
+    "answer": "Là cảm giác thiếu hụt một cái gì đó."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Quản trị chất lượng về thực chất là:",
+    "answer": "Tập hợp các hoạt động để định hướng và kiểm soát một tổ chức về chất lượng"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Độ phân tán của nhóm mẫu i (kí hiệu là Ri) được xác định bằng:",
+    "answer": "Ri = Ximax - Ximin"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Ngay sau khi xác định các loại sai sót và chi phí của các loại sai sót, để lập biểu đồ Pareto cần:",
+    "answer": "Sắp xếp dữ liệu theo thứ tự từ lớn đến bé"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Vì sự phát triển của khoa học công nghệ, phương pháp nào trong những phương pháp thu thập dữ liệu sau ngày càng ít được sử dụng mặc dù nó có nhiều ưu điểm, đặc biệt là ưu điểm về chi phí thực hiện.",
+    "answer": "Điều tra qua thư tay"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Sau khi xử lý dữ liệu thống kê từ việc kiểm tra chọn mẫu cho kết quả như sau: Xmax = 49, Xmin = 22, số lớp k = 6. Độ rộng của từng lớp h là:",
+    "answer": "4.5"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Chi phí mua sản phẩm và chi phí để vận hành sản phẩm là đặc trưng của thuộc tính nào của chất lượng sản phẩm trong những thuộc tính sau:",
+    "answer": "Tính kinh tế của sản phẩm"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Quản trị theo mục tiêu (MBO) chú trọng vào các kết quả cuối cùng cần phải đạt còn quản trị theo quá trình (MBP) quan tâm đến:",
+    "answer": "Chất lượng của từng quá trình"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Nghị định số 12/2015/NĐ-CP được Chính phủ Việt Nam ban hành ngày 12/2/2015 có đưa ra những ưu đãi về thuế đối với các doanh nghiệp công nghiệp hỗ trợ. Những ưu đãi này khiến cho các doanh nghiệp có thể giảm chi phí và từ đó giá của sản phẩm có thể thấp hơn. Chất lượng sản phẩm vì thế mà cũng được nâng cao. Đây là ví dụ về sự ảnh hưởng của yếu tố nào đến chất lượng sản phẩm.",
+    "answer": "Cơ chế chính sách quản lý kinh tế của Nhà nước."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Một trong những cách phân loại nhu cầu của khách hàng là chia các nhu cầu làm ba bậc theo một trật tự lũy tiến bao gồm:",
+    "answer": "Bậc tuyệt đối, bậc rõ ràng, bậc tiềm ẩn."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về khách hàng?",
+    "answer": "Phân loại khách hàng theo mức độ quan trọng là chia khách hàng ra làm ba loại: Loại quan trọng, loại bình thường và loại không quan trọng."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Cảm giác nào của khách hàng là phù hợp nhất khi chất lượng thực tế thấp hơn chất lượng mong đợi?",
+    "answer": "Khách hàng sẽ cảm thấy không thỏa mãn."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về phân loại chất lượng sản phẩm căn cứ vào mục tiêu cần đạt được?",
+    "answer": "Chất lượng tuân thủ thiết kế phụ thuộc vào khả năng thiết kế sản phẩm, sự hiểu biết thị trường, khách hàng, điều kiện kinh tế công nghệ, xã hội."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "\"Điều định tìm kiếm hay nhắm tới có liên quan đến chất lượng\" là:",
+    "answer": "Mục tiêu chất lượng"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Quan tâm tới nhu cầu khách hàng, thiết kế sản phẩm và dịch vụ thỏa mãn nhu cầu khách hàng là các hoạt động cần thực hiện của nguyên tắc quản trị chất lượng:",
+    "answer": "Định hướng khách hàng"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), khoảng cách 4 là khoảng cách giữa:",
+    "answer": "Giao nhận dịch vụ và thông tin bên ngoài (các yếu tố ngoại cảnh khác)"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về cách phân loại khách hàng theo qui luật 80/20.",
+    "answer": "Khách hàng quan trọng là những khách hàng chiếm 80% về số lượng nhưng chiếm khoảng 20% về doanh thu hoặc lợi nhuận."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Thực hiện dịch vụ đúng như tuyên bố của nhà cung cấp là ý nghĩa của tiêu chí nào trong 5 tiêu chí thuộc mô hình RATER:",
+    "answer": "Độ tin cậy"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Chất lượng được phán ảnh bởi các tính chất đặc trưng vốn có của sản phẩm phản ánh công dụng của sản phẩm đó. Đây là quan niệm về chất lượng nào?",
+    "answer": "Quan niệm xuất phát từ sản phẩm"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Khi phân loại các kỳ vọng của khách hàng đối với sản phẩm hoặc dịch vụ, những kỳ vọng cơ bản của khách hàng đối với một sản phẩm hoặc dịch vụ được gọi là",
+    "answer": "bậc tuyệt đố"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Thuộc tính nào sau đây không phải là một trong những thuộc tính của chất lượng sản phẩm?",
+    "answer": "Tính kiểm soát"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Hiện nay trên thế giới có ba mô hình tiêu chí giải thưởng chất lượng là:",
+    "answer": "Giải thưởng chất lượng Deming, Giải thưởng chất lượng Malcolm Baldrige và Giải thưởng chất lượng Châu Âu."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Kỳ vọng về chất lượng trước khi sử dụng lớn hơn cảm nhận về chất lượng sau khi sử dụng thì dịch vụ được đánh giá là:",
+    "answer": "Chất lượng kém"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về quản trị quan hệ khách hàng:",
+    "answer": "Trong ba yếu tố cấu thành nên một hệ thống quản trị quan hệ khách hàng thì yếu tố công nghệ đóng vai trò quan trọng nhất, quyết định đến sự thành công hay thất bại khi triển khai hệ thống này."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Công cụ thống kê giúp thu thập, ghi chép các dữ liệu chất lượng dùng làm đầu vào cho các công cụ phân tích thống kê khác là:",
+    "answer": "Phiếu kiểm tra chất lượng"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), khoảng cách 3 là khoảng cách giữa:",
+    "answer": "Đặc tính dịch vụ và giao nhận dịch vụ"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Hệ thống quản trị chất lượng là:",
+    "answer": "Tập hợp các yếu tố có liên quan và tương tác để định hướng và kiểm soát một tổ chức về chất lượng."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Việc chia khách hàng ra làm ba nhóm là khách hàng bản địa, khách hàng địa phương và khách hàng quốc tế là cách phân loại khách hàng nào?",
+    "answer": "Phân loại khách hàng căn cứ vào khu vực địa lý."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Trong một tổ chức, mỗi nhân viên hoặc bộ phận của bộ phận trực tuyến được gắn với việc thực hiện một đề án hoặc một sản phẩm nhất định. Đồng thời, mỗi nhân viên của bộ phận chức năng cũng được gắn với một đề án hoặc một sản phẩm. sau khi hoàn thành đề án thì họ lại trở lại vị trí của mình. Đây là hình thức cơ cấu tổ chức nào?",
+    "answer": "Cơ cấu tổ chức ma trận"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Khi phân loại các kỳ vọng của khách hàng đối với sản phẩm hoặc dịch vụ, có những thuộc tính chất lượng của sản phẩm hoặc dịch vụ mà bản thân khách hàng chưa nhận ra hoặc chưa biết nhưng nếu được đáp ứng họ sẽ cảm thấy thích thú. Những nhu cầu của khách hàng đối với những thuộc tính này được gọi là",
+    "answer": "bậc tiềm ẩn"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Hệ thống nào sau đây là hệ thống quản trị chất lượng?",
+    "answer": "OHSAS 18000"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Giám sát và đánh giá được kết hợp với nhau nhằm mục tiêu phát hiện ra:",
+    "answer": "Những gì là \"không phù hợp\""
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Quản trị chất lượng theo quan điểm truyền thống là:",
+    "answer": "Quản trị chất lượng là một vấn đề tác nghiệp"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Khi vẽ sơ đồ lưu trình, hình chữ nhật thể hiện:",
+    "answer": "Các hoạt động"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về phân loại sản phẩm?",
+    "answer": "Việc phân loại sản phẩm chỉ có ý nghĩa đối với doanh nghiệp vì doanh nghiệp phải quản lý danh mục sản phẩm mà không có ý nghĩa đối với các cơ quan quản lý Nhà nước."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Hệ thống quản trị chất lượng ISO 9000 được xây dựng dựa trên triết lý:",
+    "answer": "Nếu một tổ chức có hệ thống quản trị chất lượng tốt thì những sản phẩm hay dịch vụ mà nó cung cấp cũng sẽ tốt."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Mục đích của sơ đồ lưu trình là:",
+    "answer": "Giúp xác định hoạt động thừa hay lãng phí của quá trình"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Học giả cho rằng chất lượng là một điều có thể có được mà không mất tiền. Cái tốn kém nhất chính là cái thiếu chất lượng, nghĩa là không làm đúng mọi việc ngay từ đầu là:",
+    "answer": "Philip Crosby"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Đặc điểm cá nhân của khách hàng có thể ảnh hưởng đến chất lượng sản phẩm. Chẳng hạn như thu nhập của khách hàng có thể làm cho khách hàng có những mong muốn cụ thể về chất lượng sản phẩm, từ đó họ có thể có đánh giá cao hoặc đánh giá thấp về chất lượng của một sản phẩm nào đó. Đây là ví dụ về sự ảnh hưởng của yếu tố nào đến chất lượng sản phẩm?",
+    "answer": "Tình hình thị trường."
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "\"Một phần của quản trị chất lượng tập trung vào thực hiện các yêu cầu chất lượng\" là:",
+    "answer": "Kiểm soát chất lượng"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về nhu cầu khách hàng",
+    "answer": "Nhu cầu của các đối tượng khách hàng có thể được sắp xếp theo một trật tự lũy tiến ba bậc bao gồm bậc tuyệt đối, bậc tương đối và bậc tiềm ẩn."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Kiểm soát chất lượng so với kiểm tra chất lượng có:",
+    "answer": "Phạm vi rộng hơn"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Kỳ vọng về chất lượng trước khi sử dụng bằng cảm nhận về chất lượng sau khi sử dụng thì dịch vụ được đánh giá là:",
+    "answer": "Chất lượng ổn"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Làm tăng giá trị cho khách hàng thông qua việc liên tục loại bỏ lãng phí trong suốt quá trình cung cấp sản phẩm, dịch vụ là nguyên tắc chủ đạo của:",
+    "answer": "Lean Manufacturing"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về hệ thống quản trị chất lượng?",
+    "answer": "Tổ chức tốt HTQTCL có ý nghĩa quan trọng đối với khách hàng, đối với doanh nghiệp và đối với xã hội."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Công cụ thống kê biểu hiện mối tương quan giữa nguyên nhân và kết quả hoặc giữa các yếu tố ảnh hưởng đến chất lượng là:",
+    "answer": "Biểu đồ quan hệ"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Nguyên nhân làm cho quá trình biến động đột biến vượt quá mức cho phép và quá trình sẽ không bình thường là:",
+    "answer": "Nguyên nhân đặc biệt"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Theo mô hình Servuction, chất lượng chức năng là chất lượng được tạo ra bởi yếu tố:",
+    "answer": "Năng lực của lực lượng trực tiếp tiếp xúc với khách hàng"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Sự hiểu biết về công việc đang thực hiện, kỹ năng giao tiếp, kỹ năng đàm phán với khách hàng thuộc về tiêu chí nào trong 5 tiêu chí thuộc mô hình RATER:",
+    "answer": "Sự đảm bảo"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Những yếu tố bên ngoài ảnh hưởng trực tiếp đến chất lượng sản phẩm có thể bao gồm:",
+    "answer": "Các yếu tố văn hóa xã hội, tình hình thị trường lao động, trình độ tiến bộ của khoa học công nghệ, cơ chế chính sách quản lý kinh tế của quốc gia."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Việc nhu cầu của khách hàng về một chiếc điện thoại di động cách đây 10 năm khác so với nhu cầu của khách hàng về một chiếc điện thoại vào thời điểm này, thông thường, nhu cầu của khách hàng vào thời điểm này nhiều hơn, yêu cầu cao hơn,… là liên quan đến đặc điểm nào trong những đặc điểm sau?",
+    "answer": "Nhu cầu của khách hàng luôn luôn có xu hướng rơi xuống bậc thấp hơn."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Trong một tổ chức, nhiệm vụ quản trị được phân chia cho các đơn vị riêng biệt theo các chức năng quản trị và hình thành nên những người lãnh đạo được chuyên môn hóa chỉ đảm nhận thực hiện một chức năng nhất định là hình thức cơ cấu tổ chức nào?",
+    "answer": "Cơ cấu tổ chức chức năng"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Theo mô hình Servuction, chất lượng kỹ thuật là chất lượng được tạo ra bởi yếu tố:",
+    "answer": "Cơ sở vật chất tạo ra dịch vụ"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Phương pháp thu thập dữ liệu nào sau đây không được coi như phương pháp điều tra theo cách tiếp cận định lượng?",
+    "answer": "Nhóm tập trung"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Những câu nói nào sau đây không đúng về các yếu tố ảnh hưởng đến chất lượng sản phẩm?",
+    "answer": "Các yếu tố bên trong bao gồm lao động, công nghệ, cơ cấu tổ chức, quản lý."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Công cụ thống kê thể hiện các hoạt động cần thực hiện của một quá trình là:",
+    "answer": "Sơ đồ lưu trình"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Xác định mục tiêu và chính sách chất lượng của doanh nghiệp là nhiệm vụ của chức năng quản trị:",
+    "answer": "Hoạch định"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Tăng cường năng lực cho đội ngũ nhân viên cung ứng dịch vụ là hoạt động để thu hẹp khoảng cách:",
+    "answer": "Khoảng cách 3"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Trong những tiêu chí của giải thưởng chất lượng Việt Nam thì tiêu chí nào có số điểm lớn nhất và là bao nhiêu điểm?",
+    "answer": "Kết quả hoạt động, 450"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Tạo thói quen tự giác thực hiện các quy định 5S ở nơi làm việc là:",
+    "answer": "Săn sóc"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về kỳ vọng của khách hàng.",
+    "answer": "Những kỳ vọng của khách hàng đối với một sản phẩm hoặc dịch vụ nào đó thường là có mức độ quan trọng giống nhau đối với khách hàng."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Chất lượng sản phẩm không có đặc điểm sau:",
+    "answer": "Có tính tuyệt đối"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Tính an toàn trong sử dụng, vận hành sản phẩm đối với sức khỏe của người tiêu dùng là:",
+    "answer": "Tính an toàn của sản phẩm"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Tiến hành các biện pháp kinh tế, tổ chức, kỹ thuật, chính trị, tư tưởng, hành chính nhằm thực hiện kế hoạch đã xác định là nhiệm vụ của chức năng quản trị:",
+    "answer": "Tổ chức"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Theo Tổ chức quốc tế về tiêu chuẩn hóa (ISO) thì chất lượng sản phẩm là:",
+    "answer": "Mức độ thỏa mãn của một tập hợp các thuộc tính đáp ứng các yêu cầu."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Khi áp dụng ISO 9001:2015 trong doanh nghiệp thì những tài liệu về hệ thống chất lượng gồm có:",
+    "answer": "Sổ tay chất lượng, các thủ tục qui trình, các hướng dẫn công việc và các hồ sơ."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Khi phân loại chất lượng căn cứ vào mục tiêu cần đạt được, người ta có thể phân loại chất lượng thành",
+    "answer": "Chất lượng thiết kế và chất lượng tuân thủ thiết kế."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Việc chia khách hàng ra làm ba nhóm là nhóm mua sản phẩm để sản xuất hoặc chế biến, nhóm mua sản phẩm để tiêu dùng và nhóm mua sản phẩm để bán là cách phân loại nào:",
+    "answer": "Phân loại khách hàng căn cứ vào mục đích sử dụng."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Tính không thể nhìn thấy, không nếm được, không nghe được, không cầm được dịch vụ trước khi tiêu dùng chúng là đặc điểm nào của dịch vụ?",
+    "answer": "Tính phi vật chất"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Cách tiếp cận \"quản trị là quá trình làm việc với và làm việc thông qua người khác nhằm đạt được mục tiêu của tổ chức trên cơ sở các nguồn lực nhất định\" xuất phát từ:",
+    "answer": "Nền kinh tế thị trường"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Tiêu chuẩn đưa ra các yêu cầu cho một hệ thống quản trị chất lượng là:",
+    "answer": "ISO 9001:2015"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Giả sử quan trắc 20 nhóm mẫu, mỗi nhóm mẫu 5 chiếc nến, đường tâm của biểu đồ kiểm soát độ phân tán = 8, D4 = 2,114 và D3 = 0 thì UCL và LCL là:",
+    "answer": "UCL = 16,912; LCL = 0"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Khi đánh giá về chất lượng sản phẩm, thương hiệu và uy tín của nhà sản xuất là thuộc yếu tố:",
+    "answer": "Các thuộc tính vô hình"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Những câu nói nào sau đây không đúng về giải thưởng chất lượng quốc gia Việt Nam?",
+    "answer": "Cơ cấu giải thưởng chất lượng quốc gia Việt Nam kể từ khi thành lập đến nay không thay đổi, chỉ có số lượng giải thưởng là khác nhau theo từng năm."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Tăng cường các hoạt động nghiên cứu thị trường nhằm tìm hiểu nhu cầu của khách hàng là hoạt động để thu hẹp khoảng cách:",
+    "answer": "Khoảng cách 1"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây không phải là một trong bảy nguyên tắc của QTCL theo ISO 9000?",
+    "answer": "Kiểm soát hoạt động"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Việc một tổ chức nhận diện các quá trình, phân loại các quá trình và kiểm soát các quá trình là những việc làm để đảm bảo nguyên tắc nào sau đây?",
+    "answer": "Quản trị theo cách tiếp cận dựa trên quá trình"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Thời gian đem lại hiệu quả từ công tác đổi mới so với cải tiến liên tục thì:",
+    "answer": "Nhanh hơn"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Mục đích của việc phân loại khách hàng theo mục đích sử dụng là:",
+    "answer": "Khác biệt hóa sản phẩm và phương thức bán sao cho phù hợp với từng đối tượng để đáp ứng nhu cầu của họ."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Điều nào sau đây không đúng về HACCP?",
+    "answer": "điểm kiểm soát tới hạn là một địa điểm mà tại đó người ta thực hiện các biện pháp kiểm soát tới hạn."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Câu nói nào sau đây đúng nhất về định nghĩa khách hàng trong lĩnh vực quản trị chất lượng:",
+    "answer": "Khách hàng là toàn bộ những đối tượng có liên quan trực tiếp đến những đòi hỏi về CLSP mà doanh nghiệp phải đáp ứng."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Mục đích của sơ đồ nhân quả là:",
+    "answer": "Xác định các nguyên nhân một cách có hệ thống, từ đó giải quyết vấn đề một cách dễ dàng"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Khi một tổ chức được cấp chứng chỉ ISO9001:2015 rồi thì:",
+    "answer": "Được tự do lựa chọn nhà cung cấp mà không có ràng buộc nào về việc nhà cung cấp bắt buộc phải áp dụng ISO 9001:2015"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), khoảng cách 5 là khoảng cách giữa:",
+    "answer": "Dịch vụ mong muốn và mức độ cảm nhận"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), khoảng cách 1 là khoảng cách giữa:",
+    "answer": "Dịch vụ mong muốn và nhận thức của lãnh đạo về mong muốn của khách hàng"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Khi xác định nhu cầu của khách hàng, câu nói nào sau đây là không đúng?",
+    "answer": "Đây là công việc tương đối dễ dàng đối với doanh nghiệp bởi doanh nghiệp chỉ cần tổ chức điều tra là các nhu cầu của khách hàng sẽ dễ dàng được xác định."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Trong quá trình sử dụng sản phẩm, việc khách hàng cảm thấy sản phẩm dễ sử dụng, thuận tiện trong việc thay thế các chi tiết nếu sản phẩm bị hỏng là ví dụ về thuộc tính chất lượng nào trong những thuộc tính dưới đây?",
+    "answer": "Tính tiện dụng của sản phẩm"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Khi vẽ biểu đồ Pareto, đường tích lũy được vẽ theo:",
+    "answer": "Tỷ lệ % tích lũy của các dạng sai sót"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Điều nào sau đây không đúng về SA 8000?",
+    "answer": "Khi một doanh nghiệp phát hiện ra mình đang sử dụng lao động trẻ em thì doanh nghiệp này cần chấm dứt ngay việc sử dụng lao động trẻ em: chấm dứt hợp đồng với lao động này."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "\"Ý đồ và định hướng chung của một tổ chức có liên quan đến chất lượng được lãnh đạo cao nhất công bố chính thức\" là:",
+    "answer": "Chính sách chất lượng"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Phần cứng của sản phẩm chính là:",
+    "answer": "Các vật thể bộ phận, sản phẩm được lắp ráp, nguyên vật liệu."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Việc phân loại khách hàng căn cứ vào độ tuổi là cách phân loại khách hàng nào?",
+    "answer": "Phân loại khách hàng căn cứ vào đặc điểm nhân khẩu học."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Khoảng cách 5 là cộng hợp của các khoảng cách:",
+    "answer": "Khoảng cách 1,2,3 và 4"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Khách hàng bên trong là đối tượng nào trong những đối tượng sau:",
+    "answer": "Là các thành viên, bộ phận có tiêu dùng sản phẩm hoặc dịch vụ được cung cấp nội bộ doanh nghiệp."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Học giả cho rằng tất cả các bộ phận và tất cả các cán bộ công nhân viên trong tổ chức nên cùng tham gia vào việc nghiên cứu và hỗ trợ quản lý chất lượng bằng cách nắm được 7 công cụ thống kê là:",
+    "answer": "Kaoru Ishikawa"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Học giả đã khái quát chức năng quản trị chất lượng thành chu trình PDCA là:",
+    "answer": "Edward Deming"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Điều chỉnh trong chu trình quản trị là:",
+    "answer": "Khâu cuối cùng và khởi thủy của chu trình tiếp theo"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Mức độ thỏa mãn của khách hàng là hiệu số giữa:",
+    "answer": "Cảm nhận và kỳ vọng"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Trong môi trường cạnh tranh gay gắt như hiện nay, để có thể tồn tại và phát triển thì nhiệm vụ đầu tiên của mỗi doanh nghiệp là:",
+    "answer": "Xác định rõ khách hàng của mình là ai, từ đó mới biết được cung cấp cái gì và như thế nào để thỏa mãn khách hàng."
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Sản phẩm được định nghĩa là:",
+    "answer": "Kết quả của một/ các hoạt động hoặc một/ các quá trình."
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về chỉ số hài lòng của khách hàng?",
+    "answer": "Chỉ số hài lòng của khách hàng chỉ được tính trong phạm vi doanh nghiệp."
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Người tham gia vào xây dựng sơ đồ lưu trình trên thực tế tại các doanh nghiệp nên là những người:",
+    "answer": "Có liên quan trực tiếp đến quá trình đó"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Công cụ thống kê giúp xác định tình trạng bình thường hay không bình thường của một quá trình là:",
+    "answer": "Biểu đồ phân bố mật độ và biểu đồ kiểm soát"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Các thông tin, khái niệm, các dịch vụ đi kèm theo sản phẩm, sự cảm nhận những tiện lợi, đáp ứng nhưng nhu cầu tinh thần, tâm lý xã hội của khách hàng là:",
+    "answer": "Phần mềm của sản phẩm"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Sau khi xử lý dữ liệu thống kê từ việc kiểm tra chọn mẫu cho kết quả như sau: Xmax = 50, Xmin = 30, số lớp k = 5. Biên giới của lớp đầu tiên là:",
+    "answer": "28-32"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Chất lượng dịch vụ dao động trong một khoảng rất rộng, tùy thuộc vào hoàn cảnh tạo ra dịch vụ là đặc điểm nào của dịch vụ?",
+    "answer": "Tính không ổn định"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Sau khi xử lý dữ liệu thống kê từ việc kiểm tra chọn mẫu cho kết quả như sau: Xmax = 18, Xmin = 15, số lớp k = 8. Độ rộng của từng lớp h là:",
+    "answer": "0.375"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Trong các yếu tố cấu thành của HTQTCL, các qui định mà tổ chức tuân thủ bao gồm:",
+    "answer": "Các định hướng chiến lược và các mục tiêu."
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Vì quản trị chất lượng xét đến cùng là những hoạt động có phối hợp để thực hiện mục tiêu thỏa mãn khách hàng nên một trong những vấn đề quan trọng nhất của quản trị chất lượng là:",
+    "answer": "Cần xác định khách hàng có nhu cầu hoặc mong đợi gì khi mua sản phẩm hoặc thụ hưởng dịch vụ của doanh nghiệp."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Giải quyết các khiếu nại của khách hàng nhanh chóng là tiêu chí nào trong 5 tiêu chí thuộc mô hình RATER:",
+    "answer": "Tính đáp ứng"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), nguồn sau đây không phải là nguồn hình thành kỳ vọng của khách hàng về chất lượng dịch vụ (dịch vụ mong muốn):",
+    "answer": "Nhu cầu người thân trong gia đình"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Nhằm phát hiện ra lỗi trong quá trình cung ứng dịch vụ, nhà quản trị cần thực hiện hoạt động:",
+    "answer": "Giám sát, đánh giá"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Việc người theo đạo hồi không ăn thịt lợn làm cho các sản phẩm về lợn không tiêu thụ được, các sản phẩm sử dụng thịt lợn làm thành phần (ví dụ làm nhân bánh, ruốc rắc trên bánh,…) vì vậy cũng không được xem xét sử dụng. Đây là ví dụ yếu tố nào đã ảnh hưởng đến chất lượng sản phẩm?",
+    "answer": "Văn hóa xã hội"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Theo mô hình Servuction, yếu tố quan trọng nhất trong quản trị chất lượng dịch vụ là:",
+    "answer": "Năng lực của lực lượng trực tiếp tiếp xúc với khách hàng"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Thay đổi và hoàn thiện quá trình nhằm giảm khuyết tật là nhiệm vụ của chức năng quản trị:",
+    "answer": "Điều chỉnh, điều hòa, phối hợp"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Kỳ vọng về chất lượng trước khi sử dụng nhỏ hơn cảm nhận về chất lượng sau khi sử dụng thì dịch vụ được đánh giá là:",
+    "answer": "Chất lượng tốt"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Hệ thống nào sau đây là hệ thống quản trị chất lượng?",
+    "answer": "QS 9000"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Theo quan điểm hiện hành, dịch vụ được cấu thành bởi hai bộ phận sau:",
+    "answer": "Dịch vụ cơ bản và dịch vụ hỗ trợ"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Theo mô hình về chỉ số về sự hài lòng của khách hàng của Thụy Điển, hai tham số ảnh hưởng đến sự hài lòng của khách hàng là:",
+    "answer": "kỳ vọng của khách hàng về sản phẩm hay dịch vụ và cảm nhận của khách hàng về sản phẩm hay dịch vụ."
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Mức độ thực hiện chức năng công dụng của sản phẩm là:",
+    "answer": "Độ tin cậy của sản phẩm"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Chất lượng là sự tuyệt vời và hoàn hảo nhất của sản phẩm. Đây là quan niệm về chất lượng nào?",
+    "answer": "Quan niệm siêu hình"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Quản trị theo quá trình (MBP) chú trọng phát triển những tiêu chuẩn hướng tới quá trình tiến hành công việc còn quản trị theo mục tiêu (MBO) quan tâm đến:",
+    "answer": "Chất lượng sản phẩm hoặc dịch vụ"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Công cụ thống kê giúp xác định nguyên nhân một cách có hệ thống, từ đó giải quyết vấn đề một cách dễ dàng hơn là:",
+    "answer": "Sơ đồ nhân quả"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Khi vẽ sơ đồ nhân quả (sơ đồ xương cá), các nguyên nhân thứ cấp được vẽ ở vị trí:",
+    "answer": "Xương dăm"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Công cụ thống kê biểu hiện sự thay đổi của các chỉ tiêu chất lượng để đánh giá quá trình sản xuất có ở trạng thái kiểm soát hay chấp nhận được không là:",
+    "answer": "Biểu đồ kiểm soát"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Khi chất lượng và hiệu suất tăng thì độ biến động giảm vì mọi vật đều biến động nên cần sử dụng các phương pháp thống kê điều khiển chất lượng là triết lý của học giả:",
+    "answer": "Edward Deming"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Tuyên bố về sự phù hợp so với yêu cầu của bên thứ 3 liên quan tới sản phẩm, quá trình, hệ thống là hoạt động:",
+    "answer": "Chứng nhận"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về cách phân loại khách hàng:",
+    "answer": "Để phục vụ cho các mục tiêu của quản trị chất lượng, người ta không phân loại khách hàng theo hành vi tiêu dùng."
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Khi vẽ sơ đồ nhân quả (sơ đồ xương cá), các nguyên nhân chính được vẽ ở vị trí:",
+    "answer": "Xương nhánh chính"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Biểu đồ phân bố mật độ có dạng bằng phẳng không có đỉnh rõ ràng phản ánh:",
+    "answer": "Không có quy trình xác định chung mà có rất nhiều quy trình khác nhau tùy thuộc vào cách thao tác của từng người lao động"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Đổi mới khác với cải tiến liên tục ở chỗ:",
+    "answer": "Thực hiện những thay đổi lớn"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Kinh phí bỏ ra để phòng ngừa và đánh giá trong quản trị chất lượng chính là:",
+    "answer": "Chi phí chất lượng"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Các chương trình cải tiến chất lượng dịch vụ được thực hiện nhằm mục đích:",
+    "answer": "Điều chỉnh, nâng cao chất lượng dịch vụ cung cấp"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Việc sắp xếp, tổ chức vị trí, vai trò của từng cá nhân, bộ phận trong một tổ chức, qui định quyền hạn, trách nhiệm của từng vị trí hoặc bộ phận đó và hệ thống điều hành chung của tổ chức nhằm đạt được mục tiêu mà tổ chức đề ra là yếu tố nào trong những yếu tố cấu thành của HTQTCL",
+    "answer": "Cơ cấu tổ chức"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Sau khi xử lý dữ liệu thống kê từ việc kiểm tra chọn mẫu cho kết quả như sau: Xmax = 60, Xmin = 40, số lớp k = 5. Biên giới của lớp đầu tiên là:",
+    "answer": "38 - 42"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Các phong trào chất lượng trong chương trình quản trị chất lượng toàn diện muốn thành công thì điều kiện tiên quyết là:",
+    "answer": "Có sự cam kết của lãnh đạo"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về các quá trình, một trong những yếu tố cấu thành của HTQTCL.",
+    "answer": "Quaá trình chính có nghĩa là quá trình sản xuất hoặc cung cấp dịch vụ, còn quá trình hỗ trợ là các quá trình như thiết kế, phân phối, giúp cho việc hình thành sản phẩm và đưa sản phẩm đến người tiêu dùng."
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Các yếu tố thuộc về cơ sở vật chất như mặt bằng, nhà cửa, trang thiết bị thuộc về tiêu chí nào trong 5 tiếu chí thuộc mô hình RATER:",
+    "answer": "Tính hữu hình"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Tác giả của “Thuyết tam luận chất lượng” liên quan đến ba quá trình cơ bản kế hoạch hóa chất lượng, quản lý chất lượng, cải tiến chất lượng là:",
+    "answer": "Joseph Juran"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Căn cứ vào biểu đồ kiểm soát, quá trình sản xuất được cho là không bình thường khi:",
+    "answer": "7 điểm liên tiếp ở 1 bên của đường tâm"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Hiểu tâm lý, sở thích của khách hàng thuộc về tiêu chí nào trong 5 tiêu chí thuộc mô hình RATER:",
+    "answer": "Sự thấu cảm"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Tăng cường năng lực cho đội ngũ nhân viên thiết kế dịch vụ là hoạt động để thu hẹp khoảng cách:",
+    "answer": "Khoảng cách 2"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Khi vẽ biểu đồ kiểm soát, đường tâm thể hiện:",
+    "answer": "Giá trị bình quân của các dữ liệu"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Câu nói nào sau đây thích hợp nhất khi mô tả về sự thỏa mãn của khách hàng.",
+    "answer": "Trạng thái cảm giác mà khách hàng có được khi sản phẩm hay dịch vụ thỏa mãn được nhu cầu của khách hàng."
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Khi vẽ sơ đồ lưu trình, muốn thể hiện bước kiểm tra hoặc ra quyết định cần sử dụng:",
+    "answer": "Hình thoi"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về khách hàng?",
+    "answer": "Khách hàng bên trong là những thành viên trong doanh nghiệp có tiêu dùng sản phẩm hoặc dịch vụ cuối cùng của doanh nghiệp."
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Mức chất lượng dịch vụ trên quan điểm khách hàng được đánh giá thông qua:",
+    "answer": "Mức độ thỏa mãn khách hàng"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Biểu đồ phân bố mật độ có dạng hình quả chuông (phân bố chuẩn) có nghĩa là:",
+    "answer": "Những biến thiên nhỏ của quá trình vẫn nằm trong giới hạn cho phép, quá trình vẫn hoạt động ổn định"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Cách tiếp cận \"quản trị là quá trình tác động hướng đích của chủ thể vào khách thể nhằm đạt được các mục tiêu đề ra trên cơ sở các nguồn lực nhất định\" xuất phát từ:",
+    "answer": "Nền kinh tế kế hoạch hóa tập trung"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Chất lượng là sự thỏa mãn nhu cầu của khách hàng. Đây là quan niệm nào về chất lượng sản phẩm?",
+    "answer": "Quan niệm của người tiêu dùng"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Trong áp dụng tiêu chuẩn ISO 9001:2015, đánh giá nội bộ được thực hiện bởi:",
+    "answer": "Tổ chức áp dụng"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Chất lượng mong đợi là",
+    "answer": "Tập hợp mức độ của những mong muốn của khách hàng đối với một sản phẩm hoặc dịch vụ nào đó trước khi khách hàng tiêu dùng sản phẩm hoặc thụ hưởng dịch vụ."
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Những câu nói nào sau đây không đúng về sản phẩm",
+    "answer": "Nếu như trước đây người tiêu dùng quan tâm chủ yếu đến những yếu tố vô hình thì ngày nay họ lại quan tâm chủ yếu đến các thuộc tính vật chất hữu hình đáp ứng những yêu cầu về tính năng và tác dụng của sản phẩm."
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Sự cạnh tranh của các doanh nghiệp trên thị trường làm cho chất lượng sản phẩm của doanh nghiệp bị ảnh hưởng. Nếu sản phẩm của đối thủ cạnh tranh có chất lượng cao, sản phẩm của doanh nghiệp sẽ bị đánh giá trên cơ sở so sánh với những sản phẩm đó. Đây là ví dụ về sự ảnh hưởng của yếu tố nào đến chất lượng sản phẩm.",
+    "answer": "Tình hình thị trường."
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về vai trò của chất lượng sản phẩm?",
+    "answer": "Việc nâng cao chất lượng sản phẩm chỉ có ý nghĩa đối với doanh nghiệp, việc nâng cao chất lượng sản phẩm này không có liên quan gì đến tăng năng suất lao động xã hội."
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Kết cấu của sản phẩm bao gồm:",
+    "answer": "Hai thành phần: phần cứng và phần mềm"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Tính sẵn có, tính dễ vận chuyển, dễ bảo quản, dễ sử dụng, khả năng thay thế chi tiết,…là",
+    "answer": "Tính tiện dụng của sản phẩm"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Chia khách hàng ra làm hai loại là khách hàng quan trọng và khách hàng không quan trọng là cách phân loại nào trong những cách phân loại sau:",
+    "answer": "Phân loại khách hàng theo qui luật 80/20"
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Theo mô hình 5 khoảng cách (5 GAP), khoảng cách 2 là khoảng cách giữa:",
+    "answer": "Nhận thức của lãnh đạo về mong muốn của khách hàng và việc biến nhận thức thành các đặc tính dịch vụ"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Quản trị chất lượng theo quan điểm hiện đại là:",
+    "answer": "Quản trị chất lượng là vấn đề tác nghiệp và chiến lược"
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Trong quản trị chất lượng dịch vụ, trước nhà quản trị cần phải xác định cái gì làm cơ sở cho việc hoạch định chất lượng, cải tiến chất lượng, đảm bảo chất lượng.",
+    "answer": "Mục tiêu và chính sách chất lượng dịch vụ"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Công cụ thống kê giúp giảm lãng phí chi phí và thời gian, giúp người thực hiện hiểu rõ quá trình, biết được vị trí của mình trong quá trình là:",
+    "answer": "Sơ đồ lưu trình"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Giải thưởng chất lượng quốc gia Việt Nam học hỏi mô hình nào?",
+    "answer": "Giải thưởng chất lượng Malcolm Baldrige"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Sử dụng thang đo Likert để đo lường mức độ hài lòng của khách hàng thì:",
+    "answer": "Thang đo càng nhiều nấc, nhiều điểm càng tốt"
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Những câu nói nào sau đây không đúng về các yếu tố ảnh hưởng đến chất lượng sản phẩm?",
+    "answer": "Trong các yếu tố thuộc môi trường bên ngoài, môi trường tự nhiên không có ảnh hưởng gì đến chất lượng sản phẩm."
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Các doanh nghiệp, tổ chức thúc đẩy sự hợp tác trong toàn tổ chức, trao đổi thông tin với mọi người để thúc đẩy việc hiểu tầm quan trọng của những đóng góp riêng của họ là hoạt động cần thực hiện của nguyên tắc quản trị chất lượng:",
+    "answer": "Sự tham gia của mọi người"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Chất lượng là sự phù hợp với những tiêu chuẩn qui cách đã được xác định trước của sản phẩm. Đây là quan niệm nào về chất lượng sản phẩm?",
+    "answer": "Quan niệm của các nhà sản xuất"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Trong quản trị theo quá trình (MBP), với mỗi quá trình được xác định cần làm rõ:",
+    "answer": "Đầu vào, các hoạt động và đầu ra của quá trình"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Quá trình cung ứng và sử dụng dịch vụ diễn ra đồng thời là đặc điểm nào của dịch vụ?",
+    "answer": "Tính không thể chia cắt được"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Đặc điểm sau không phải là đặc điểm của dịch vụ:",
+    "answer": "Tính có thể chia cắt được"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Ở Việt Nam, việc xét và trao giải thưởng chất lượng Việt Nam được diễn ra lần đầu tiên vào năm:",
+    "answer": "1995"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Khi xây dựng tiêu chuẩn và quy chuẩn kỹ thuật, câu nói nào sau đây là không chính xác?",
+    "answer": "Đối tượng của hoạt động trong lĩnh vực tiêu chuẩn và đối tương của hoạt động trong lĩnh vực quy chuẩn kỹ thuật chỉ bao gồm sản phẩm và dịch vụ."
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Điều kiện tiên quyết để áp dụng thành công ISO 9001:2015 là:",
+    "answer": "Có sự cam kết của lãnh đạo"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Chất lượng thực tế là",
+    "answer": "Mức độ thỏa mãn của khách hàng đối với một sản phẩm hoặc dịch vụ sau khi khách hàng đã tiêu dùng sản phẩm hoặc thụ hưởng dịch vụ."
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Khoảng thời gian mà tại đó sản phẩm duy trì được chức năng của mình là:",
+    "answer": "Tuổi thọ của sản phẩm"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Công cụ thống kê xác định thứ tự ưu tiên trong giải quyết vấn đề là:",
+    "answer": "Biểu đồ Pareto"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Dịch vụ khi đã được tạo ra thì không thể \"cất giữ\" để một thời gian sau sử dụng, giống như lưu kho sản phẩm vật chất là đặc điểm nào của dịch vụ",
+    "answer": "Tính không lưu giữ được"
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Hệ thống nào không áp dụng cho các doanh nghiệp nuôi trồng, sản xuất và chế biến thực phẩm:",
+    "answer": "QS 9000"
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Phương pháp thu thập dữ liệu nào trong những phương pháp thu thập dữ liệu sau nên giới hạn thời gian ngắn, thường là khoảng từ vài phút đến 20 phút.",
+    "answer": "Điều tra qua điện thoại"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Công cụ thống kê biểu diễn mối quan hệ giữa kết quả và nguyên nhân gây ra kết quả đó là:",
+    "answer": "Sơ đồ nhân quả"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Bậc yêu cầu thấp nhất của khách hàng về chất lượng sản phẩm là",
+    "answer": "bậc tuyệt đối"
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Câu nói nào sau đây không đúng về phong trào 5S?",
+    "answer": "Khi thực hiện 5S, việc đưa ra những khẩu hiệu, bài hát, bài thơ không có ý nghĩa quan trọng lắm, điều quan trọng là phải xây dựng được hệ thống thanh tra kiểm tra các hoạt động của phong trào này."
+  }
+]

@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Trường hợp thay đổi cơ cấu công nghệ, người sử dụng lao động không thể giải quyết được việc làm và cho người lao động thôi việc thì phải thực hiện điều kiện, thủ tục sau:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Thời giờ làm việc bình thường được quy định như thế nào?",
+    "answer": "Không quá 08 giờ trong 01 ngày và 48 giờ trong 01 tuần."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Quyền, trách nhiệm của người lao động khi Chủ tịch UBND cấp tỉnh quyết định về việc ngừng đình công là:",
+    "answer": "Người lao động phải trở lại làm việc và được trả lương."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Nguyên tắc xử lý bồi thường thiệt hại là:",
+    "answer": "Việc xem xét, quyết định mức bồi thường thiệt hại phải căn cứ vào lỗi, mức độ thiệt hại thực tế và hoàn cảnh thực tế gia đình, nhân thân và tài sản của người lao động."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Luật lao động Việt Nam điều chỉnh quan hệ lao động nào trong những quan hệ lao động sau đây:",
+    "answer": "Quan hệ lao động giữa người lao động với đơn vị sự nghiệp công lập theo hợp đồng lao động xác định thời hạn."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Trường hợp nào sau đây người sử dụng lao động không phải đăng ký nội quy lao động?",
+    "answer": "Người sử dụng lao động sử dụng dưới 10 lao động"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Cơ cấu tổ chức của Hội đồng tiền lương quốc gia gồm có:",
+    "answer": "17 thành viên gồm 05 thành viên đại diện của Bộ Lao động thương binh và xã hội; 05 thành viên đại diện của Tổng liên đoàn Lao động Việt Nam; 05 thành viên đại diện của một số tổ chức đại diện người sử dụng lao động ở trung ương; 02 thành viên là chuyên gia độc lập."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Thỏa ước lao động tập thể là gì?",
+    "answer": "Thỏa ước lao động tập thể là thỏa thuận đạt được thông qua thương lượng tập thể và được các bên ký kết bằng văn bản."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Yêu cầu nào sau đây KHÔNG phải là yêu cầu về lao động thuộc thẩm quyền giải quyết của Tòa án nhân dân?",
+    "answer": "Yêu cầu hạn chế quyền của cha, mẹ đối với con chưa thành niên"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Trường hợp nào sau đây KHÔNG phải là đình công bất hợp pháp?",
+    "answer": "Phát sinh từ tranh chấp lao động tập thể về lợi ích."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Thời hiệu xử lý vi phạm kỷ luật lao động được quy định như thế nào?",
+    "answer": "Thời hiệu xử lý kỷ luật lao động là 06 tháng, kể từ ngày xảy ra hành vi vi phạm;."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Hội đồng trọng tài lao động có thẩm quyền giải quyết những loại tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động cá nhân và Tranh chấp lao động tập thể."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Kỷ luật lao động là gì?",
+    "answer": "Kỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh doanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Tranh chấp lao động cá nhân nào sau đây KHÔNG bắt buộc phải qua hòa giải mà có thể khởi kiện thẳng ra Tòa án nhân dân?",
+    "answer": "Tranh chấp giữa người giúp việc gia đình với người sử dụng lao động"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Trường hợp làm việc ban đêm, thì người lao động được nghỉ giữa giờ bao lâu?",
+    "answer": "Ít nhất 45 phút liên tục."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Người lao động có thể được tạm ứng tiền lương hay không?",
+    "answer": "Người lao động được tạm ứng tiền lương theo điều kiện do hai bên thỏa thuận và không bị tính lãi."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Nội quy lao động là loại văn bản nào?",
+    "answer": "Thỏa thuận giữa người sử dụng lao động và người lao động về quy tắc xử sự."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Trường hợp nào sau đây KHÔNG bị hoãn đình công?",
+    "answer": "Đình công khi có đoàn ngoại giao cấp cao đến thăm tỉnh nơi xảy ra có đình công."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Theo quy định hiện hành, người lao động làm việc theo ca được nghỉ chuyển ca như thế nào?",
+    "answer": "Được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Điều kiện để người lao động đơn phương chấm dứt hợp đồng lao động là:",
+    "answer": "Không cần phải có căn cứ nhưng phải báo trước cho người sử dụng lao động với thời hạn theo quy định của pháp luật, trừ trường hợp không cần báo trước."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Nghỉ ngày lễ, tết được hưởng nguyên lương đối với lao động là người nước ngoài làm việc tại Việt Nam quy định như thế nào?",
+    "answer": "Ngoài ngày nghỉ lễ, tết theo quy định đối với lao động Việt Nam còn được nghỉ thêm 01 ngày quốc khánh của nước họ."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Ít nhất 03 ngày làm việc trước ngày đóng cửa tạm thời nơi làm việc, người sử dụng lao động phải thông báo cho cơ quan, tổ chức nào sau đây?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Luật lao động Việt Nam điều chỉnh quan hệ lao động nào trong những quan hệ lao động sau đây:",
+    "answer": "Quan hệ học nghề giữa người học nghề để làm việc cho người sử dụng lao động với người sử dụng lao động qua hợp đồng đào tạo."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Các hình thức kỷ luật lao động áp dụng đối với hành vi vi phạm kỷ luật của người lao động bao gồm:",
+    "answer": "Khiển trách, kéo dài thời hạn nâng lương không quá 06 tháng, cách chức; sa thải."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Trong các trường hợp sau đây, trường hợp nào KHÔNG PHẢI đương nhiên chấm dứt hợp đồng lao động:",
+    "answer": "Người lao động thực hiện nghĩa vụ quân sự."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Trường hợp phải ngừng việc do lỗi của người sử dụng lao đồng thì người lao động được trả lương như thế nào?",
+    "answer": "Người lao động được trả đủ tiền lương theo tiền lương theo hợp đồng lao động"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Yêu cầu nào sau đây KHÔNG phải là yêu cầu về lao động thuộc thẩm quyền giải quyết của Tòa án nhân dân?",
+    "answer": "Yêu cầu hạn chế quyền của cha, mẹ đối với con chưa thành niên"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Trường hợp nào sau đây KHÔNG phải là đình công bất hợp pháp?",
+    "answer": "Phát sinh từ tranh chấp lao động tập thể về lợi ích."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Hòa giải viên lao động có thẩm quyền hòa giải những loại tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động cá nhân và Tranh chấp lao động tập thể"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Doanh nghiệp có thể gia nhập thỏa ước lao động tập thể ngành trong trường hợp:",
+    "answer": "Có sự đồng thuận của tất cả người sử dụng lao động và tổ chức đại diện người lao động tại doanh nghiệp là thành viên của thỏa ước."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Người sử dụng lao động phải đăng ký nội quy lao động tại cơ quan nhà nước nào sau đây:",
+    "answer": "Cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Quan hệ pháp luật nào sau đây KHÔNG phải là quan hệ pháp luật lao động?",
+    "answer": "Quan hệ pháp luật về hợp đồng cộng tác viên"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Nội dung nào sau đây không phải là quyền, trách nhiệm của công đoàn cơ sở trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Nghiên cứu, ứng dụng khoa học, công nghệ, đào tạo, huấn luyện về an toàn, vệ sinh lao động; kiến nghị các giải pháp chăm lo cải thiện điều kiện lao động, phòng ngừa tai nạn lao động, bệnh nghề nghiệp cho người lao động."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Chủ tịch UBND cấp huyện có thẩm quyền giải quyết tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động tập thể về quyền"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Tiền lương bao gồm những khoản gì?",
+    "answer": "Mức lương theo công việc hoặc chức danh, phụ cấp lương, các khoản bổ sung khác."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Thỏa ước lao động tập thể gồm những hình thức nào?",
+    "answer": "Thỏa ước lao động tập thể doanh nghiệp, thỏa ước lao động tập thể ngành, thỏa ước lao động tập thể có nhiều doanh nghiệp và hình thức thỏa ước lao động tập thể khác."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Hòa giải viên lao động là:",
+    "answer": "Do Chủ tịch UBND cấp tỉnh bổ nhiệm để hòa giải tranh chấp lao động, tranh chấp đào tạo nghề; hỗ trợ phát triển quan hệ lao động."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Tiền lương làm thêm giờ (ban ngày) của người lao động được trả lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc đang làm như thế nào?",
+    "answer": "Vào ngày thường, ít nhất bằng 150%; Vào ngày nghỉ hằng tuần, ít nhất bằng 200%; Vào ngày nghỉ lễ, tết ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền lương ngày lễ, tết ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Hành vi nào sau đây của người sử dụng lao động KHÔNG bị cấm trước, trong và sau khi đình công?",
+    "answer": "Yêu cầu Tòa án tuyên bố cuộc đình công là bất hợp pháp."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Trong trường hợp nào sau đây người sử dụng lao động có thể áp dụng hình thức kỷ luật sa thải với người lao động?",
+    "answer": "Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Chọn phương án SAI - Khi sử dụng người lao động chưa đủ 15 tuổi, người sử dụng lao động phải thực hiện điều kiện sau:",
+    "answer": "Chỉ được sử dụng người lao động làm việc ở công trường xây dựng nếu được sự đồng ý của cha mẹ hoặc người đại diện theo pháp luật."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Tiền lương làm căn cứ trả cho người lao động những ngày nghỉ lễ, tết, nghỉ hằng năm, nghỉ việc riêng có hưởng lương là:",
+    "answer": "Tiền lương theo hợp đồng lao động tại thời điểm nghỉ"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "An toàn, vệ sinh viên có nghĩa vụ nào sau đây?",
+    "answer": "Giám sát việc thực hiện tiêu chuẩn, quy chuẩn, quy trình, nội quy an toàn, vệ sinh lao động, phát hiện những thiếu sót, vi phạm về an toàn, vệ sinh lao động, những trường hợp mất an toàn, vệ sinh của máy, thiết bị, vật tư, chất và nơi làm việc."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Nguyên tắc xử lý bồi thường thiệt hại là:",
+    "answer": "Việc xem xét, quyết định mức bồi thường thiệt hại phải căn cứ vào lỗi, mức độ thiệt hại thực tế và hoàn cảnh thực tế gia đình, nhân thân và tài sản của người lao động."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Quyền, trách nhiệm của người lao động khi Chủ tịch UBND cấp tỉnh quyết định về việc ngừng đình công là:",
+    "answer": "Người lao động phải trở lại làm việc và được trả lương."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Kỳ hạn trả lương cho người lao động hưởng lương tháng được tính như thế nào?",
+    "answer": "Người lao động hưởng lương theo tháng được trả một tháng một lần hoặc nửa tháng một lần."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Cơ cấu tổ chức của Hội đồng tiền lương quốc gia gồm có:",
+    "answer": "17 thành viên gồm 05 thành viên đại diện của Bộ Lao động thương binh và xã hội; 05 thành viên đại diện của Tổng liên đoàn Lao động Việt Nam; 05 thành viên đại diện của một số tổ chức đại diện người sử dụng lao động ở trung ương; 02 thành viên là chuyên gia độc lập."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Quyền thương lượng tập thể của tổ chức đại diện người lao động để ký kết thỏa ước lao động tập thể doanh nghiệp thuộc chủ thể nào?",
+    "answer": "Tổ chức đại diện người lao động cơ sở đạt tỷ lệ thành viên tối thiểu trên tổng số người lao động trong doanh nghiệp và là tổ chức có nhiều thành viên nhất trong doanh nghiệp."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây KHÔNG phải nguyên tắc điều chỉnh của pháp luật lao động:",
+    "answer": "Nguyên tắc bảo đảm quyền tự do lựa chọn việc làm, nơi làm việc và tham gia quản lý doanh nghiệp của người lao động."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Cơ quan có thẩm quyền xét tính hợp pháp của cuộc đình công là:",
+    "answer": "Tòa án nhân dân cấp tỉnh nơi xảy ra cuộc đình công."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Trường hợp nào sau đây người lao động có thể đơn phương chấm dứt hợp đồng lao động mà không cần báo trước cho người sử dụng lao động:",
+    "answer": "Lao động nữ mang thai phải nghỉ vệc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Chọn phương án SAI. Trường hợp nào được xác định là thương lượng tập thể không thành?",
+    "answer": "Tòa án nhân dân tuyên bố thương lượng không thành"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc bảo đảm an toàn, vệ sinh lao động?",
+    "answer": "Bảo đảm quyền của người lao động chủ động phối hợp với cơ quan, tổ chức trong điều tra, thống kê, báo cáo tai nạn lao động, bệnh nghề nghiệp."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây KHÔNG phải là tranh chấp lao động thuộc thẩm quyền của Tòa án nhân dân:",
+    "answer": "Tranh chấp về bồi thường thiệt hại ngoài hợp đồng"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động tập thể về quyền là:",
+    "answer": "01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Nghĩa vụ chứng minh trong xử lý kỷ luật lao động thuộc về ai?",
+    "answer": "Người sử dụng lao động phải chứng minh được lỗi của người lao động."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Khi sử dụng người lao động từ 13 đến dưới 15 tuổi, người sử dụng lao động phải thực hiện điều kiện sau:",
+    "answer": "Cả 3 phương án A, B, C."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Người lao động không tham gia đình công nhưng phải ngừng việc vì lý do đình công thì được giải quyết quyền lợi như thế nào?",
+    "answer": "Được trả lương ngừng việc và các quyền lợi khác theo quy định."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Chọn phương án SAI. Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ không giới hạn về số giờ làm thêm mà người lao động không được từ chối trong trường hợp:",
+    "answer": "Sản xuất cung cấp điện."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Thời giờ làm việc bình thường được quy định như thế nào?",
+    "answer": "Không quá 08 giờ trong 01 ngày và 48 giờ trong 01 tuần."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Thời giờ làm việc ban đêm được tính trong khoảng thời gian như thế nào?",
+    "answer": "Từ 22 giờ đến 6 giờ sáng ngày hôm sau"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Thời hạn người sử dụng lao động tham gia thỏa ước phải gửi thỏa ước lao động tập thể doanh nghiệp đến cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh là bao nhiêu ngày kể từ ngày ký kết?",
+    "answer": "10 ngày ."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Những người tham gia phiên họp xét tính hợp pháp của cuộc đình công gồm có:",
+    "answer": "Hội đồng xét tính hợp pháp của cuộc đình công; Thư ký tòa án; Kiểm sát viên Viện kiểm sát cùng cấp; Đại diện tổ chức đại diện tập thể lao động; Người sử dụng lao động; Đại diện cơ quan, tổ chức theo yêu cầu của Tòa án."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Quan hệ lao động giữa viên chức nhà nước với tổ chức sự nghiệp công lập thuộc đối tượng điều chỉnh của:",
+    "answer": "Pháp luật hành chính."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Tổ chức đại diện người lao động tại cơ sở bao gồm:",
+    "answer": "Công đoàn cơ sở và tổ chức đại diện người lao động tại doanh nghiệp"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Người sử dụng lao động có quyền gì sau đây trước và trong quá trình đình công?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Ngành nghề nào sau đây KHÔNG phải là ngành nghề được thuê lại lao động?",
+    "answer": "Lái tàu biển"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Cơ quan nào có thẩm quyền tuyên bố hợp đồng lao động vô hiệu:",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Nơi nào sau đây KHÔNG ĐƯỢC đình công?",
+    "answer": "Công ty TNHH hữu hạn một thành viên Thông tin điện tử hàng hải Việt Nam"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Thời hiệu yêu cầu Hòa giải viên lao động thực hiện hòa giải tranh chấp lao động cá nhân là:",
+    "answer": "06 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền, lợi ích hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Cho thuê lại lao động là gì?",
+    "answer": "Cho thuê lại lao động là việc người lao động giao kết hợp đồng lao động với một người sử dụng lao động là doanh nghiệp cho thuê lại lao động, sau đó người lao động được chuyển sang làm việc và chịu sự điều hành của người sử dụng lao động khác mà vẫn duy trì quan hệ lao động với người sử dụng lao động đã giao kết hợp đồng lao động"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Chọn phương án SAI, Hòa giải viên lao động miễn nhiệm khi thuộc trường hợp:",
+    "answer": "Từ chối nhiệm vụ hòa giải từ 03 lần trở lên khi được cử tham gia giải quyết tranh chấp lao động mà không có lý do chính đáng theo quy chế quản lý hòa giải viên lao động"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Nội quy lao động có hiệu lực từ thời điểm nào?",
+    "answer": "Có hiệu lực sau thời hạn 15 ngày, kể từ ngày cơ quan nhà nước có thẩm quyền nhận được đầy đủ hồ sơ đăng ký nội quy lao động"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Trường hợp đình công hợp pháp, tiền lương và quyền lợi của người lao động tham gia đình công trong thời gian đình công được giải quyết như sau:",
+    "answer": "Người lao động không được trả lương và các quyền lợi khác theo quy định pháp luật, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Trường hợp thay đổi cơ cấu công nghệ, người sử dụng lao động không thể giải quyết được việc làm và cho người lao động thôi việc thì phải thực hiện điều kiện, thủ tục sau:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Thỏa ước lao động tập thể vô hiệu toàn bộ thuộc các trường hợp là:",
+    "answer": "Có toàn bộ nội dung trái pháp luật; Người ký kết không đúng thẩm quyền; Việc ký kết không đúng quy trình thương lượng, ký kết thỏa ước lao động tập thể."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây là tranh chấp lao động thuộc thẩm quyền của Tòa án nhân dân?",
+    "answer": "Tranh chấp về quyền công đoàn"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Quy định nào dưới đây không phải là nghĩa vụ của người sử dụng lao động trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Đầu tư, nghiên cứu, ứng dụng khoa học và công nghệ về an toàn, vệ sinh lao động."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Ngày có hiệu lực của Thỏa ước lao động tập thể được quy định từ thời điểm nào?",
+    "answer": "Do các bên thỏa thuận và ghi trong thoả ước, trường hợp các bên không thỏa thuận thì thoả ước lao động tập thể có hiệu lực kể từ ngày ký kết."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Thời hạn để Tòa án có thẩm quyền chuẩn bị xét yêu cầu tuyên bố hợp đồng lao động vô hiệu, thỏa ước lao động tập thể vô hiệu là bao nhiêu ngày?",
+    "answer": "Thời hạn để Tòa án có thẩm quyền chuẩn bị xét yêu cầu tuyên bố hợp đồng lao động vô hiệu là 10 ngày, thỏa ước lao động tập thể vô hiệu là 15 ngày kể từ ngày Tòa án thụ lý đơn yêu cầu"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Quan hệ lao động giữa viên chức nhà nước với tổ chức sự nghiệp công lập thuộc đối tượng điều chỉnh của:",
+    "answer": "Pháp luật hành chính."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Đối tượng điều chỉnh của Bộ luật lao động 2019 bao gồm:",
+    "answer": "Người lao động; người học nghề, người tập nghề và người làm việc không có quan hệ lao động; Người sử dụng lao động; Người lao động nước ngoài làm việc tại Việt Nam; Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Quan hệ xã hội nào sau đây KHÔNG thuộc đối tượng điều chỉnh của luật lao động:",
+    "answer": "Quan hệ giữa cổ đông của công ty cổ phần với công ty cổ phần"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Luật lao động Việt Nam điều chỉnh quan hệ lao động nào trong những quan hệ lao động sau đây:",
+    "answer": "Quan hệ lao động giữa người lao động với đơn vị sự nghiệp công lập theo hợp đồng lao động xác định thời hạn."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây KHÔNG phải nguyên tắc điều chỉnh của pháp luật lao động:",
+    "answer": "Nguyên tắc bảo đảm quyền tự do lựa chọn việc làm, nơi làm việc và tham gia quản lý doanh nghiệp của người lao động."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Luật lao động Việt Nam điều chỉnh quan hệ lao động nào trong những quan hệ lao động sau đây:",
+    "answer": "Quan hệ học nghề giữa người học nghề để làm việc cho người sử dụng lao động với người sử dụng lao động qua hợp đồng đào tạo."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Quan hệ pháp luật nào sau đây KHÔNG phải là quan hệ pháp luật lao động?",
+    "answer": "Quan hệ pháp luật về hợp đồng cộng tác viên"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Quan hệ xã hội nào sau đây thuộc đối tượng điều chỉnh của pháp luật lao động?",
+    "answer": "Quan hệ về cho thuê lại lao động"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Quan hệ xã hội nào sau đây KHÔNG thuộc đối tượng điều chỉnh của luật lao động:",
+    "answer": "Quan hệ giữa thành viên hợp tác xã với hợp tác xã"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây không phải nguyên tắc điều chỉnh của pháp luật lao động:",
+    "answer": "Nguyên tắc đảm bảo quyền tự do kinh doanh theo quy định pháp luật."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Quan hệ pháp luật nào sau đây KHÔNG phải là quan hệ pháp luật lao động?",
+    "answer": "Quan hệ pháp luật về hợp đồng cộng tác viên"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Đối tượng điều chỉnh của Bộ luật lao động 2019 bao gồm:",
+    "answer": "Người lao động; người học nghề, người tập nghề và người làm việc không có quan hệ lao động; Người sử dụng lao động; Người lao động nước ngoài làm việc tại Việt Nam; Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây KHÔNG phải nguyên tắc điều chỉnh của pháp luật lao động:",
+    "answer": "Nguyên tắc bảo đảm quyền tự do lựa chọn việc làm, nơi làm việc và tham gia quản lý doanh nghiệp của người lao động."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Quan hệ lao động giữa viên chức nhà nước với tổ chức sự nghiệp công lập thuộc đối tượng điều chỉnh của:",
+    "answer": "Pháp luật hành chính."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Quan hệ xã hội nào sau đây KHÔNG thuộc đối tượng điều chỉnh của luật lao động:",
+    "answer": "Quan hệ giữa cổ đông của công ty cổ phần với công ty cổ phần"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây không phải nguyên tắc điều chỉnh của pháp luật lao động:",
+    "answer": "Nguyên tắc đảm bảo quyền tự do kinh doanh theo quy định pháp luật."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Quan hệ xã hội nào sau đây thuộc đối tượng điều chỉnh của pháp luật lao động?",
+    "answer": "Quan hệ về cho thuê lại lao động"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Luật lao động Việt Nam điều chỉnh quan hệ lao động nào trong những quan hệ lao động sau đây:",
+    "answer": "Quan hệ lao động giữa người lao động với đơn vị sự nghiệp công lập theo hợp đồng lao động xác định thời hạn."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Luật lao động Việt Nam điều chỉnh quan hệ lao động nào trong những quan hệ lao động sau đây:",
+    "answer": "Quan hệ học nghề giữa người học nghề để làm việc cho người sử dụng lao động với người sử dụng lao động qua hợp đồng đào tạo."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Quan hệ xã hội nào sau đây KHÔNG thuộc đối tượng điều chỉnh của luật lao động:",
+    "answer": "Quan hệ giữa thành viên hợp tác xã với hợp tác xã"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Cho thuê lại lao động là gì?",
+    "answer": "Cho thuê lại lao động là việc người lao động giao kết hợp đồng lao động với một người sử dụng lao động là doanh nghiệp cho thuê lại lao động, sau đó người lao động được chuyển sang làm việc và chịu sự điều hành của người sử dụng lao động khác mà vẫn duy trì quan hệ lao động với người sử dụng lao động đã giao kết hợp đồng lao động"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Trường hợp vì lý do kinh tế, người sử dụng lao động không thể giải quyết được việc làm và cho người lao động thôi việc thì phải thực hiện điều kiện, thủ tục sau:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Trong các trường hợp sau đây, trường hợp nào là đương nhiên chấm dứt hợp đồng lao động:",
+    "answer": "Người lao động là người nước ngoài làm việc tại Việt Nam bị trục xuất theo bản án của tòa án đã có hiệu lực pháp luật."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Hết thời hạn 30 ngày kể từ ngày Hợp đồng lao động xác định thời hạn kết thúc nhưng hai bên không giao kết hợp đồng mới và người lao động vẫn tiếp tục làm việc thì:",
+    "answer": "Hợp đồng lao động đã giao kết đương nhiên chuyển sang loại hợp đồng lao động không xác định thời hạn."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Có mấy loại hợp đồng lao động, đó là những loại hợp đồng nào ?",
+    "answer": "Hợp đồng lao động không xác định thời hạn, hợp đồng lao động xác định thời hạn."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Tìm đáp án chính xác nhất trong các phương án sau về khái niệm hợp đồng lao động:",
+    "answer": "Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Trường hợp nào sau đây hợp đồng lao động KHÔNG bị vô hiệu toàn bộ:",
+    "answer": "Các bên vi phạm về hình thức hợp đồng lao động"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Trường hợp nào sau đây người lao động có thể đơn phương chấm dứt hợp đồng lao động mà không cần báo trước cho người sử dụng lao động:",
+    "answer": "Lao động nữ mang thai phải nghỉ vệc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Phương án nào KHÔNG phải là nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+    "answer": "Phải bồi thường cho người sử dụng lao động 02 tháng tiền lương theo hợp đồng lao động."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Điều kiện để người sử dụng lao động đơn phương chấm dứt hợp đồng lao động trước thời hạn với người lao động là:",
+    "answer": "Phải thuộc các trường hợp theo quy định của pháp luật và phải báo trước cho người lao động với thời hạn theo quy định."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Chọn phương án SAI - Khi sử dụng người lao động chưa đủ 15 tuổi, người sử dụng lao động phải thực hiện điều kiện sau:",
+    "answer": "Chỉ được sử dụng người lao động làm việc ở công trường xây dựng nếu được sự đồng ý của cha mẹ hoặc người đại diện theo pháp luật."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật?",
+    "answer": "Phải nhận người lao động trở lại làm việc theo hợp đồng lao động đã giao kết, phải trả tiền lương, đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong những ngày người lao động không được làm việc và phải trả thêm 1 khoản tiền ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Trường hợp thay đổi cơ cấu công nghệ, người sử dụng lao động không thể giải quyết được việc làm và cho người lao động thôi việc thì phải thực hiện điều kiện, thủ tục sau:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Cơ quan nào có thẩm quyền tuyên bố hợp đồng lao động vô hiệu:",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật?",
+    "answer": "Tất cả phương án A, B, C đều đúng"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Điều kiện để người lao động đơn phương chấm dứt hợp đồng lao động là:",
+    "answer": "Không cần phải có căn cứ nhưng phải báo trước cho người sử dụng lao động với thời hạn theo quy định của pháp luật, trừ trường hợp không cần báo trước."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Chọn phương án SAI. Công việc cấm sử dụng người lao động từ đủ 15 đến chưa đủ 18 tuổi gồm:",
+    "answer": "Công nghệ thông tin."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Trong các trường hợp sau đây, trường hợp nào KHÔNG PHẢI đương nhiên chấm dứt hợp đồng lao động:",
+    "answer": "Người lao động thực hiện nghĩa vụ quân sự."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Ngành nghề nào sau đây KHÔNG phải là ngành nghề được thuê lại lao động?",
+    "answer": "Lái tàu biển"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Khi sử dụng người lao động từ 13 đến dưới 15 tuổi, người sử dụng lao động phải thực hiện điều kiện sau:",
+    "answer": "Cả 3 phương án A, B, C."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Thỏa ước lao động tập thể doanh nghiệp có thời hạn bao nhiêu lâu?",
+    "answer": "Thoả ước lao động tập thể doanh nghiệp có thời hạn từ 01 năm đến 03 năm. Các bên có quyền thỏa thuận thời hạn khác nhau đối với các nội dung của thỏa ước lao động tập thể."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Chọn phương án SAI. Các hành vi bị nghiêm cấm đối với người sử dụng lao động liên quan đến thành lập, gia nhập và hoạt động của tổ chức đại diện người lao động tại cơ sở:",
+    "answer": "Yêu cầu tổ chức đại diện người lao động thương lượng để ký kết thỏa ước lao động tập thể"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Người sử dụng lao động tham gia thỏa ước phải gửi Thỏa ước lao động tập thể doanh nghiệp đến cơ quan nào sau khi thỏa ước lao động tập thể được ký kết?",
+    "answer": "Cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh nơi doanh nghiệp đặt trụ sở chính"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Thời hạn người sử dụng lao động tham gia thỏa ước phải gửi thỏa ước lao động tập thể doanh nghiệp đến cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh là bao nhiêu ngày kể từ ngày ký kết?",
+    "answer": "10 ngày ."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Thỏa ước lao động tập thể gồm những hình thức nào?",
+    "answer": "Thỏa ước lao động tập thể doanh nghiệp, thỏa ước lao động tập thể ngành, thỏa ước lao động tập thể có nhiều doanh nghiệp và hình thức thỏa ước lao động tập thể khác."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Chọn phương án SAI. Trường hợp nào được xác định là thương lượng tập thể không thành?",
+    "answer": "Tòa án nhân dân tuyên bố thương lượng không thành"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Chọn phương án SAI. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở:",
+    "answer": "Thực hiện quy chế dân chủ cơ sở tại nơi làm việc"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Doanh nghiệp có thể gia nhập thỏa ước lao động tập thể ngành trong trường hợp:",
+    "answer": "Có sự đồng thuận của tất cả người sử dụng lao động và tổ chức đại diện người lao động tại doanh nghiệp là thành viên của thỏa ước."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Quyền thương lượng tập thể của tổ chức đại diện người lao động để ký kết thỏa ước lao động tập thể doanh nghiệp thuộc chủ thể nào?",
+    "answer": "Tổ chức đại diện người lao động cơ sở đạt tỷ lệ thành viên tối thiểu trên tổng số người lao động trong doanh nghiệp và là tổ chức có nhiều thành viên nhất trong doanh nghiệp."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Trường hợp doanh nghiệp chỉ có một tổ chức đại diện người lao động tại cơ sở thì đại diện thương lượng tập thể tại doanh nghiệp là:",
+    "answer": "Số lượng người tham gia thương lượng của mỗi bên do các bên thỏa thuận, thành phần tham gia thương lượng của mỗi bên do bên đó quyết định."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Tổ chức đại diện người lao động tại cơ sở bao gồm:",
+    "answer": "Công đoàn cơ sở và tổ chức đại diện người lao động tại doanh nghiệp"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Thẩm quyền tuyên bố thỏa ước lao động tập thể vô hiệu thuộc Cơ quan nào?",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Thỏa ước lao động tập thể là gì?",
+    "answer": "Thỏa ước lao động tập thể là thỏa thuận đạt được thông qua thương lượng tập thể và được các bên ký kết bằng văn bản."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Ngày có hiệu lực của Thỏa ước lao động tập thể được quy định từ thời điểm nào?",
+    "answer": "Do các bên thỏa thuận và ghi trong thoả ước, trường hợp các bên không thỏa thuận thì thoả ước lao động tập thể có hiệu lực kể từ ngày ký kết."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Thỏa ước lao động tập thể vô hiệu toàn bộ thuộc các trường hợp là:",
+    "answer": "Có toàn bộ nội dung trái pháp luật; Người ký kết không đúng thẩm quyền; Việc ký kết không đúng quy trình thương lượng, ký kết thỏa ước lao động tập thể."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Thời giờ làm việc ban đêm được tính trong khoảng thời gian như thế nào?",
+    "answer": "Từ 22 giờ đến 6 giờ sáng ngày hôm sau"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Chọn phương án SAI. Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ không giới hạn về số giờ làm thêm mà người lao động không được từ chối trong trường hợp:",
+    "answer": "Sản xuất cung cấp điện."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Theo quy định hiện hành, người lao động làm việc theo ca được nghỉ chuyển ca như thế nào?",
+    "answer": "Được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Người lao động được nghỉ việc riêng mà vẫn được hưởng nguyên lương trong các trường hợp sau đây:",
+    "answer": "Kết hôn: nghỉ 03 ngày; Con đẻ, con nuôi kết hôn: nghỉ 01 ngày; cha mẹ đẻ, cha mẹ nuôi cha mẹ đẻ, cha mẹ nuôi của chồng hoặc vợ; vợ hoặc chồng, con đẻ, con nuôi chết: nghỉ 03 ngày."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Trường hợp nào người sử dụng lao động KHÔNG có quyền được huy động làm thêm giờ mà người lao động không có quyền từ chối?",
+    "answer": "Yêu cầu cấp thiết, không thể trì hoãn của hoạt động sản xuất kinh doanh."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Theo quy định hiện hành, người sử dụng lao động có quyền sắp xếp ngày nghỉ hằng tuần của người lao động vào chủ nhật hoặc một ngày xác định khác trong tuần hay không?",
+    "answer": "Có quyền sắp xếp nhưng phải ghi vào nội quy lao động."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Trường hợp làm việc ban đêm, thì người lao động được nghỉ giữa giờ bao lâu?",
+    "answer": "Ít nhất 45 phút liên tục."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Người sử dụng lao động có quyền quy định lịch nghỉ hàng năm cho người lao động hay không?",
+    "answer": "Có quyền quy định lịch nghỉ hằng năm sau khi tham khảo ý kiến của người lao động và phải thông báo trước cho người lao động biết."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Thời giờ làm việc bình thường được quy định như thế nào?",
+    "answer": "Không quá 08 giờ trong 01 ngày và 48 giờ trong 01 tuần."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Nghỉ ngày lễ, tết được hưởng nguyên lương đối với lao động là người nước ngoài làm việc tại Việt Nam quy định như thế nào?",
+    "answer": "Ngoài ngày nghỉ lễ, tết theo quy định đối với lao động Việt Nam còn được nghỉ thêm 01 ngày quốc khánh của nước họ."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Trách nhiệm của Người sử dụng lao động đối với công tác an toàn, vệ sinh lao động được quy định trong văn bản quy phạm pháp luật nào?",
+    "answer": "Tất cả đáp án A, B, C"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Quy định nào dưới đây không phải là nghĩa vụ của người sử dụng lao động trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Đầu tư, nghiên cứu, ứng dụng khoa học và công nghệ về an toàn, vệ sinh lao động."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Nội dung nào sau đây về công tác bảo hộ lao động bắt buộc phải có trong Hợp đồng lao động?",
+    "answer": "Trang bị bảo hộ lao động cho người lao động."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc bảo đảm an toàn, vệ sinh lao động?",
+    "answer": "Bảo đảm quyền của người lao động chủ động phối hợp với cơ quan, tổ chức trong điều tra, thống kê, báo cáo tai nạn lao động, bệnh nghề nghiệp."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Người sử dụng lao động có trách nhiệm gì đối với người lao động bị tai nạn lao động?",
+    "answer": "Cả 3 đáp án A, B, C."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Khi xây dựng kế hoạch ứng cứu khẩn cấp tại nơi làm việc, người sử dụng lao động phải xây dựng nội dung chủ yếu nào?",
+    "answer": "Cả 3 nội dung trên."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Nội dung nào sau đây không phải là quyền, trách nhiệm của công đoàn cơ sở trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Nghiên cứu, ứng dụng khoa học, công nghệ, đào tạo, huấn luyện về an toàn, vệ sinh lao động; kiến nghị các giải pháp chăm lo cải thiện điều kiện lao động, phòng ngừa tai nạn lao động, bệnh nghề nghiệp cho người lao động."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Người lao động bị bệnh nghề nghiệp suy giảm ở mức nào thì được người sử dụng lao động bồi thường ít nhất bằng 30 tháng tiền lương?",
+    "answer": "Suy giảm khả năng lao động từ 81% trở lên."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "An toàn, vệ sinh viên có nghĩa vụ nào sau đây?",
+    "answer": "Giám sát việc thực hiện tiêu chuẩn, quy chuẩn, quy trình, nội quy an toàn, vệ sinh lao động, phát hiện những thiếu sót, vi phạm về an toàn, vệ sinh lao động, những trường hợp mất an toàn, vệ sinh của máy, thiết bị, vật tư, chất và nơi làm việc."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Dễ - An toàn, vệ sinh viên hoạt động dưới sự quản lý và hướng dẫn của ai?",
+    "answer": "Ban chấp hành công đoàn cơ sở."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Nội dung nào sau đây không phải là quyền, trách nhiệm của công đoàn cơ sở trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Nghiên cứu, ứng dụng khoa học, công nghệ, đào tạo, huấn luyện về an toàn, vệ sinh lao động; kiến nghị các giải pháp chăm lo cải thiện điều kiện lao động, phòng ngừa tai nạn lao động, bệnh nghề nghiệp cho người lao động."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Khi xây dựng kế hoạch ứng cứu khẩn cấp tại nơi làm việc, người sử dụng lao động phải xây dựng nội dung chủ yếu nào?",
+    "answer": "Cả 3 nội dung trên."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Người sử dụng lao động có trách nhiệm gì đối với người lao động bị tai nạn lao động?",
+    "answer": "Cả 3 đáp án A, B, C."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Quy định nào dưới đây không phải là nghĩa vụ của người sử dụng lao động trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Đầu tư, nghiên cứu, ứng dụng khoa học và công nghệ về an toàn, vệ sinh lao động."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc bảo đảm an toàn, vệ sinh lao động?",
+    "answer": "Bảo đảm quyền của người lao động chủ động phối hợp với cơ quan, tổ chức trong điều tra, thống kê, báo cáo tai nạn lao động, bệnh nghề nghiệp."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Người lao động bị bệnh nghề nghiệp suy giảm ở mức nào thì được người sử dụng lao động bồi thường ít nhất bằng 30 tháng tiền lương?",
+    "answer": "Suy giảm khả năng lao động từ 81% trở lên."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Nội dung nào sau đây về công tác bảo hộ lao động bắt buộc phải có trong Hợp đồng lao động?",
+    "answer": "Trang bị bảo hộ lao động cho người lao động."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Dễ - An toàn, vệ sinh viên hoạt động dưới sự quản lý và hướng dẫn của ai?",
+    "answer": "Ban chấp hành công đoàn cơ sở."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Trách nhiệm của Người sử dụng lao động đối với công tác an toàn, vệ sinh lao động được quy định trong văn bản quy phạm pháp luật nào?",
+    "answer": "Tất cả đáp án A, B, C"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "An toàn, vệ sinh viên có nghĩa vụ nào sau đây?",
+    "answer": "Giám sát việc thực hiện tiêu chuẩn, quy chuẩn, quy trình, nội quy an toàn, vệ sinh lao động, phát hiện những thiếu sót, vi phạm về an toàn, vệ sinh lao động, những trường hợp mất an toàn, vệ sinh của máy, thiết bị, vật tư, chất và nơi làm việc."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Các hình thức kỷ luật lao động áp dụng đối với hành vi vi phạm kỷ luật của người lao động bao gồm:",
+    "answer": "Khiển trách, kéo dài thời hạn nâng lương không quá 06 tháng, cách chức; sa thải."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Trong trường hợp nào sau đây người sử dụng lao động có thể áp dụng hình thức kỷ luật sa thải với người lao động?",
+    "answer": "Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Trong thời hạn người sử dụng lao động tạm đình chỉ công việc của người lao động để xác minh xử lý kỷ luật lao động thì người lao động được tạm ứng 50% tiền lương và số tiền tạm ứng này sẽ được xử lý như thế nào?",
+    "answer": "Trường hợp người lao động bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng. Trường hợp người lao động không bị xử lý kỷ luật lao động thì được người sử dụng lao động trả đủ tiền lương cho thời gian bị tạm đình chỉ công việc."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Nội quy lao động có hiệu lực từ thời điểm nào?",
+    "answer": "Có hiệu lực sau thời hạn 15 ngày, kể từ ngày cơ quan nhà nước có thẩm quyền nhận được đầy đủ hồ sơ đăng ký nội quy lao động"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Người sử dụng lao động có quyền tạm đình chỉ công việc của người lao động để xác minh xử lý kỷ luật lao động trong thời hạn là:",
+    "answer": "Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá 90 ngày."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Nội quy lao động là loại văn bản nào?",
+    "answer": "Thỏa thuận giữa người sử dụng lao động và người lao động về quy tắc xử sự."
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Trường hợp nào sau đây người sử dụng lao động không phải đăng ký nội quy lao động?",
+    "answer": "Người sử dụng lao động sử dụng dưới 10 lao động"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Trường hợp người lao động gây thiệt hại không nghiêm trọng do sơ suất với giá trị không quá 10 tháng lương tối thiểu vùng do Chính phủ công bố được áp dụng tại nơi người lao động làm việc, thì người lao động phải bồi thường:",
+    "answer": "Nhiều nhất là 03 tháng tiền lương và bị khấu trừ hằng tháng vào lương theo quy định."
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Trong thời hạn bao nhiêu ngày kể từ ngày ban hành nội quy lao động thì người sử dụng lao động phải nộp hồ sơ đăng ký nội quy lao động cho cơ quan quản lý nhà nước?",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Thời hiệu xử lý kỷ luật lao động đối với hành vi vi phạm có liên quan trực tiếp đến tài chính, tài sản, tiết lộ bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động là",
+    "answer": "12 tháng kể từ ngày xảy ra hành vi vi phạm"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Kỷ luật lao động là gì?",
+    "answer": "Kỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh doanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Nghĩa vụ chứng minh trong xử lý kỷ luật lao động thuộc về ai?",
+    "answer": "Người sử dụng lao động phải chứng minh được lỗi của người lao động."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Thời hiệu xử lý vi phạm kỷ luật lao động được quy định như thế nào?",
+    "answer": "Thời hiệu xử lý kỷ luật lao động là 06 tháng, kể từ ngày xảy ra hành vi vi phạm;."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Được xử lý kỷ luật lao động đối với người lao động trong thời gian sau đây:",
+    "answer": "Người lao động đang chịu hình thức kỷ luật khác."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Khi xử lý kỷ luật lao động, hành vi nào sau đây bị cấm thực hiện?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Áp dụng hình thức kỷ luật sa thải đối với người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày; 20 ngày cộng dồn trong thời hạn 365 ngày mà không có lý do chính đáng. Trường hợp có lý do chính đáng là:",
+    "answer": "Cả 3 đáp án A. B, C"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Người có thẩm quyền xử lý kỷ luật lao động là ai?",
+    "answer": "Người có thẩm quyền giao kết hợp đồng lao động bên phía người sử dụng lao động hoặc người được quy định cụ thể trong nội quy lao động."
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Người sử dụng lao động phải đăng ký nội quy lao động tại cơ quan nhà nước nào sau đây:",
+    "answer": "Cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh."
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Thời hiệu xử lý bồi thường thiệt hại đối với việc người lao động làm hư hỏng, làm mất dụng cụ, thiết bị hoặc làm mất tài sản của người sử dụng lao động giao hoặc có hành vi khác gây thiệt hại tài sản của người sử dụng lao động hoặc tiêu hao vật tư quá định mức cho phép là:",
+    "answer": "03 tháng kể từ ngày người lao động có hành vi."
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Nguyên tắc xử lý bồi thường thiệt hại là:",
+    "answer": "Việc xem xét, quyết định mức bồi thường thiệt hại phải căn cứ vào lỗi, mức độ thiệt hại thực tế và hoàn cảnh thực tế gia đình, nhân thân và tài sản của người lao động."
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Cơ quan, cá nhân nào sau đây có thẩm quyền giải quyết tranh chấp lao động cá nhân:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Thời hiệu yêu cầu Hội đồng trọng tài lao động tranh chấp lao động cá nhân là:",
+    "answer": "09 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền, lợi ích hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Thời hạn để Tòa án có thẩm quyền chuẩn bị xét yêu cầu tuyên bố hợp đồng lao động vô hiệu, thỏa ước lao động tập thể vô hiệu là bao nhiêu ngày?",
+    "answer": "Thời hạn để Tòa án có thẩm quyền chuẩn bị xét yêu cầu tuyên bố hợp đồng lao động vô hiệu là 10 ngày, thỏa ước lao động tập thể vô hiệu là 15 ngày kể từ ngày Tòa án thụ lý đơn yêu cầu"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động tập thể về quyền là:",
+    "answer": "01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Hội đồng trọng tài lao động do chủ tịch UBND cấp tỉnh quyết định thành lập gồm các thành phần:",
+    "answer": "Ít nhất là 15 người bao gồm: tối thiểu 05 thành viên do cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh đề cử; tối thiểu 05 thành viên do Công đoàn cấp tỉnh đề cử; tối thiểu 05 thành viên do các tổ chức đại diện của người sử dụng lao động trên địa bàn tỉnh thống nhất đề cử."
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Tiêu chuẩn nào sau đây không phải tiêu chuẩn của Hòa giải viên lao động?",
+    "answer": "Tốt nhiệp cử nhân luật"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Hòa giải viên lao động là:",
+    "answer": "Do Chủ tịch UBND cấp tỉnh bổ nhiệm để hòa giải tranh chấp lao động, tranh chấp đào tạo nghề; hỗ trợ phát triển quan hệ lao động."
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Hội đồng trọng tài lao động có thẩm quyền giải quyết những loại tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động cá nhân và Tranh chấp lao động tập thể."
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Chọn phương án SAI, Hòa giải viên lao động miễn nhiệm khi thuộc trường hợp:",
+    "answer": "Từ chối nhiệm vụ hòa giải từ 03 lần trở lên khi được cử tham gia giải quyết tranh chấp lao động mà không có lý do chính đáng theo quy chế quản lý hòa giải viên lao động"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Trong Hội đồng xét xử sơ thẩm vụ án lao động bắt buộc phải có:",
+    "answer": "Hội thẩm nhân dân là người đã hoặc đang công tác trong tổ chức đại diện tập thể lao động hoặc người có kiến thức pháp luật lao động."
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Tranh chấp lao động cá nhân nào sau đây KHÔNG bắt buộc phải qua hòa giải mà có thể khởi kiện thẳng ra Tòa án nhân dân?",
+    "answer": "Tranh chấp giữa người giúp việc gia đình với người sử dụng lao động"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Hòa giải viên lao động có thẩm quyền hòa giải những loại tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động cá nhân và Tranh chấp lao động tập thể"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Yêu cầu nào sau đây KHÔNG phải là yêu cầu về lao động thuộc thẩm quyền giải quyết của Tòa án nhân dân?",
+    "answer": "Yêu cầu hạn chế quyền của cha, mẹ đối với con chưa thành niên"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Thời hạn để Ban trọng tài lao động ra quyết định về việc giải quyết tranh chấp là bao nhiêu lâu?",
+    "answer": "Trong thời hạn 30 ngày kể từ ngày Ban Trọng tài lao động được thành lập."
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Người lao động KHÔNG có quyền nào sau đây trong giải quyết tranh chấp lao động ?",
+    "answer": "Hành động đơn phương chống lại bên kia."
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Nguyên tắc nào sau đây KHÔNG phải nguyên tắc giải quyết tranh chấp lao động:",
+    "answer": "Đảm bảo bí mật và lợi ích kinh doanh của người sử dụng lao động"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Chủ tịch UBND cấp huyện có thẩm quyền giải quyết tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động tập thể về quyền"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây là tranh chấp lao động thuộc thẩm quyền của Tòa án nhân dân?",
+    "answer": "Tranh chấp về quyền công đoàn"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Thời hiệu yêu cầu Hòa giải viên lao động thực hiện hòa giải tranh chấp lao động cá nhân là:",
+    "answer": "06 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền, lợi ích hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây KHÔNG phải là tranh chấp lao động thuộc thẩm quyền của Tòa án nhân dân:",
+    "answer": "Tranh chấp về bồi thường thiệt hại ngoài hợp đồng"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Quyền, trách nhiệm của người lao động khi Chủ tịch UBND cấp tỉnh quyết định về việc ngừng đình công là:",
+    "answer": "Người lao động phải trở lại làm việc và được trả lương."
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Chủ thể nào có quyền tổ chức, lãnh đạo đình công?",
+    "answer": "Tổ chức đại diện người lao động có quyền thương lượng tập thể là một bên tranh chấp lao động tập thể."
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Ít nhất 03 ngày làm việc trước ngày đóng cửa tạm thời nơi làm việc, người sử dụng lao động phải thông báo cho cơ quan, tổ chức nào sau đây?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Cá nhân, cơ quan nào sau đây có thẩm quyền hoãn, ngừng đình công?",
+    "answer": "Chủ tịch UBND cấp tỉnh."
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Nơi nào sau đây ĐƯỢC đình công?",
+    "answer": "Công ty cổ phần viễn thông FPT"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Hành vi nào sau đây của người sử dụng lao động KHÔNG bị cấm trước, trong và sau khi đình công?",
+    "answer": "Yêu cầu Tòa án tuyên bố cuộc đình công là bất hợp pháp."
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Nơi nào sau đây KHÔNG ĐƯỢC đình công?",
+    "answer": "Công ty TNHH hữu hạn một thành viên Thông tin điện tử hàng hải Việt Nam"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Người sử dụng lao động có quyền gì sau đây trước và trong quá trình đình công?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Trường hợp đình công hợp pháp, tiền lương và quyền lợi của người lao động tham gia đình công trong thời gian đình công được giải quyết như sau:",
+    "answer": "Người lao động không được trả lương và các quyền lợi khác theo quy định pháp luật, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Người lao động không tham gia đình công nhưng phải ngừng việc vì lý do đình công thì được giải quyết quyền lợi như thế nào?",
+    "answer": "Được trả lương ngừng việc và các quyền lợi khác theo quy định."
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Cơ quan có thẩm quyền xét tính hợp pháp của cuộc đình công là:",
+    "answer": "Tòa án nhân dân cấp tỉnh nơi xảy ra cuộc đình công."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Những người tham gia phiên họp xét tính hợp pháp của cuộc đình công gồm có:",
+    "answer": "Hội đồng xét tính hợp pháp của cuộc đình công; Thư ký tòa án; Kiểm sát viên Viện kiểm sát cùng cấp; Đại diện tổ chức đại diện tập thể lao động; Người sử dụng lao động; Đại diện cơ quan, tổ chức theo yêu cầu của Tòa án."
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Trường hợp nào sau đây KHÔNG bị hoãn đình công?",
+    "answer": "Đình công khi có đoàn ngoại giao cấp cao đến thăm tỉnh nơi xảy ra có đình công."
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Chọn phương án SAI. Trường hợp người lao động có quyền đình công:",
+    "answer": "Sau khi Tòa án ra quyết định giải quyết tranh chấp nhưng tập thể lao động không đồng ý với phán quyết của Tòa án."
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Trường hợp nào sau đây KHÔNG phải là đình công bất hợp pháp?",
+    "answer": "Phát sinh từ tranh chấp lao động tập thể về lợi ích."
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Đối tượng điều chỉnh của Bộ luật lao động 2019 bao gồm:",
+    "answer": "Người lao động; người học nghề, người tập nghề và người làm việc không có quan hệ lao động; Người sử dụng lao động; Người lao động nước ngoài làm việc tại Việt Nam; Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động."
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Quan hệ pháp luật nào sau đây KHÔNG phải là quan hệ pháp luật lao động?",
+    "answer": "Quan hệ pháp luật về hợp đồng cộng tác viên"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Luật lao động Việt Nam điều chỉnh quan hệ lao động nào trong những quan hệ lao động sau đây:",
+    "answer": "Quan hệ học nghề giữa người học nghề để làm việc cho người sử dụng lao động với người sử dụng lao động qua hợp đồng đào tạo."
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật?",
+    "answer": "Tất cả phương án A, B, C đều đúng"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Trường hợp nào sau đây người lao động có thể đơn phương chấm dứt hợp đồng lao động mà không cần báo trước cho người sử dụng lao động:",
+    "answer": "Lao động nữ mang thai phải nghỉ vệc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền."
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Chọn phương án SAI - Khi sử dụng người lao động chưa đủ 15 tuổi, người sử dụng lao động phải thực hiện điều kiện sau:",
+    "answer": "Chỉ được sử dụng người lao động làm việc ở công trường xây dựng nếu được sự đồng ý của cha mẹ hoặc người đại diện theo pháp luật."
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Tổ chức đại diện người lao động tại cơ sở bao gồm:",
+    "answer": "Công đoàn cơ sở và tổ chức đại diện người lao động tại doanh nghiệp"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Thỏa ước lao động tập thể là gì?",
+    "answer": "Thỏa ước lao động tập thể là thỏa thuận đạt được thông qua thương lượng tập thể và được các bên ký kết bằng văn bản."
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Thỏa ước lao động tập thể doanh nghiệp có thời hạn bao nhiêu lâu?",
+    "answer": "Thoả ước lao động tập thể doanh nghiệp có thời hạn từ 01 năm đến 03 năm. Các bên có quyền thỏa thuận thời hạn khác nhau đối với các nội dung của thỏa ước lao động tập thể."
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Thời giờ làm việc ban đêm được tính trong khoảng thời gian như thế nào?",
+    "answer": "Từ 22 giờ đến 6 giờ sáng ngày hôm sau"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Người sử dụng lao động có quyền quy định lịch nghỉ hàng năm cho người lao động hay không?",
+    "answer": "Có quyền quy định lịch nghỉ hằng năm sau khi tham khảo ý kiến của người lao động và phải thông báo trước cho người lao động biết."
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Thời giờ làm việc bình thường được quy định như thế nào?",
+    "answer": "Không quá 08 giờ trong 01 ngày và 48 giờ trong 01 tuần."
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Những căn cứ để người sử dụng lao động và người lao động thỏa thuận hình thức trả lương là:",
+    "answer": "Căn cứ vào tính chất công việc và điều kiện sản xuất kinh doanh."
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Tiền lương làm thêm giờ (ban ngày) của người lao động được trả lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc đang làm như thế nào?",
+    "answer": "Vào ngày thường, ít nhất bằng 150%; Vào ngày nghỉ hằng tuần, ít nhất bằng 200%; Vào ngày nghỉ lễ, tết ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền lương ngày lễ, tết ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày."
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Tiền lương bao gồm những khoản gì?",
+    "answer": "Mức lương theo công việc hoặc chức danh, phụ cấp lương, các khoản bổ sung khác."
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Người sử dụng lao động có trách nhiệm gì đối với người lao động bị tai nạn lao động?",
+    "answer": "Cả 3 đáp án A, B, C."
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Quy định nào dưới đây không phải là nghĩa vụ của người sử dụng lao động trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Đầu tư, nghiên cứu, ứng dụng khoa học và công nghệ về an toàn, vệ sinh lao động."
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Dễ - An toàn, vệ sinh viên hoạt động dưới sự quản lý và hướng dẫn của ai?",
+    "answer": "Ban chấp hành công đoàn cơ sở."
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc bảo đảm an toàn, vệ sinh lao động?",
+    "answer": "Bảo đảm quyền của người lao động chủ động phối hợp với cơ quan, tổ chức trong điều tra, thống kê, báo cáo tai nạn lao động, bệnh nghề nghiệp."
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Khi xử lý kỷ luật lao động, hành vi nào sau đây bị cấm thực hiện?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Thời hiệu xử lý bồi thường thiệt hại đối với việc người lao động làm hư hỏng, làm mất dụng cụ, thiết bị hoặc làm mất tài sản của người sử dụng lao động giao hoặc có hành vi khác gây thiệt hại tài sản của người sử dụng lao động hoặc tiêu hao vật tư quá định mức cho phép là:",
+    "answer": "03 tháng kể từ ngày người lao động có hành vi."
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Các hình thức kỷ luật lao động áp dụng đối với hành vi vi phạm kỷ luật của người lao động bao gồm:",
+    "answer": "Khiển trách, kéo dài thời hạn nâng lương không quá 06 tháng, cách chức; sa thải."
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Được xử lý kỷ luật lao động đối với người lao động trong thời gian sau đây:",
+    "answer": "Người lao động đang chịu hình thức kỷ luật khác."
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Thời hiệu yêu cầu Hội đồng trọng tài lao động tranh chấp lao động cá nhân là:",
+    "answer": "09 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền, lợi ích hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Tranh chấp lao động cá nhân nào sau đây KHÔNG bắt buộc phải qua hòa giải mà có thể khởi kiện thẳng ra Tòa án nhân dân?",
+    "answer": "Tranh chấp giữa người giúp việc gia đình với người sử dụng lao động"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Cơ quan, cá nhân nào sau đây có thẩm quyền giải quyết tranh chấp lao động cá nhân:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Thời hạn để Ban trọng tài lao động ra quyết định về việc giải quyết tranh chấp là bao nhiêu lâu?",
+    "answer": "Trong thời hạn 30 ngày kể từ ngày Ban Trọng tài lao động được thành lập."
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Quyền, trách nhiệm của người lao động khi Chủ tịch UBND cấp tỉnh quyết định về việc ngừng đình công là:",
+    "answer": "Người lao động phải trở lại làm việc và được trả lương."
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Trường hợp nào sau đây KHÔNG phải là đình công bất hợp pháp?",
+    "answer": "Phát sinh từ tranh chấp lao động tập thể về lợi ích."
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Người sử dụng lao động có quyền gì sau đây trước và trong quá trình đình công?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Chọn phương án SAI. Các hành vi bị nghiêm cấm đối với người sử dụng lao động liên quan đến thành lập, gia nhập và hoạt động của tổ chức đại diện người lao động tại cơ sở:",
+    "answer": "Yêu cầu tổ chức đại diện người lao động thương lượng để ký kết thỏa ước lao động tập thể"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Chọn phương án SAI, Hòa giải viên lao động miễn nhiệm khi thuộc trường hợp:",
+    "answer": "Từ chối nhiệm vụ hòa giải từ 03 lần trở lên khi được cử tham gia giải quyết tranh chấp lao động mà không có lý do chính đáng theo quy chế quản lý hòa giải viên lao động"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Trong thời hạn người sử dụng lao động tạm đình chỉ công việc của người lao động để xác minh xử lý kỷ luật lao động thì người lao động được tạm ứng 50% tiền lương và số tiền tạm ứng này sẽ được xử lý như thế nào?",
+    "answer": "Trường hợp người lao động bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng. Trường hợp người lao động không bị xử lý kỷ luật lao động thì được người sử dụng lao động trả đủ tiền lương cho thời gian bị tạm đình chỉ công việc."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Chọn phương án SAI. Công việc cấm sử dụng người lao động từ đủ 15 đến chưa đủ 18 tuổi gồm:",
+    "answer": "Công nghệ thông tin."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Cơ cấu tổ chức của Hội đồng tiền lương quốc gia gồm có:",
+    "answer": "17 thành viên gồm 05 thành viên đại diện của Bộ Lao động thương binh và xã hội; 05 thành viên đại diện của Tổng liên đoàn Lao động Việt Nam; 05 thành viên đại diện của một số tổ chức đại diện người sử dụng lao động ở trung ương; 02 thành viên là chuyên gia độc lập."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Nơi nào sau đây KHÔNG ĐƯỢC đình công?",
+    "answer": "Công ty TNHH hữu hạn một thành viên Thông tin điện tử hàng hải Việt Nam"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày kể từ ngày ban hành nội quy lao động thì người sử dụng lao động phải nộp hồ sơ đăng ký nội quy lao động cho cơ quan quản lý nhà nước?",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Dễ - An toàn, vệ sinh viên hoạt động dưới sự quản lý và hướng dẫn của ai?",
+    "answer": "Ban chấp hành công đoàn cơ sở."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Chọn phương án SAI. Trường hợp người lao động có quyền đình công:",
+    "answer": "Sau khi Tòa án ra quyết định giải quyết tranh chấp nhưng tập thể lao động không đồng ý với phán quyết của Tòa án."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Người lao động KHÔNG có quyền nào sau đây trong giải quyết tranh chấp lao động ?",
+    "answer": "Hành động đơn phương chống lại bên kia."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động tập thể về quyền là:",
+    "answer": "01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Người sử dụng lao động tham gia thỏa ước phải gửi Thỏa ước lao động tập thể doanh nghiệp đến cơ quan nào sau khi thỏa ước lao động tập thể được ký kết?",
+    "answer": "Cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh nơi doanh nghiệp đặt trụ sở chính"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Ít nhất 03 ngày làm việc trước ngày đóng cửa tạm thời nơi làm việc, người sử dụng lao động phải thông báo cho cơ quan, tổ chức nào sau đây?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Trong các trường hợp sau đây, trường hợp nào KHÔNG PHẢI đương nhiên chấm dứt hợp đồng lao động:",
+    "answer": "Người lao động thực hiện nghĩa vụ quân sự."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Trường hợp vì lý do kinh tế, người sử dụng lao động không thể giải quyết được việc làm và cho người lao động thôi việc thì phải thực hiện điều kiện, thủ tục sau:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Cơ quan, cá nhân nào sau đây có thẩm quyền giải quyết tranh chấp lao động cá nhân:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Trường hợp nào sau đây KHÔNG phải là đình công bất hợp pháp?",
+    "answer": "Phát sinh từ tranh chấp lao động tập thể về lợi ích."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Thời giờ làm việc bình thường được quy định như thế nào?",
+    "answer": "Không quá 08 giờ trong 01 ngày và 48 giờ trong 01 tuần."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Thời hiệu xử lý vi phạm kỷ luật lao động được quy định như thế nào?",
+    "answer": "Thời hiệu xử lý kỷ luật lao động là 06 tháng, kể từ ngày xảy ra hành vi vi phạm;."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Tiền lương bao gồm những khoản gì?",
+    "answer": "Mức lương theo công việc hoặc chức danh, phụ cấp lương, các khoản bổ sung khác."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Đối tượng điều chỉnh của Bộ luật lao động 2019 bao gồm:",
+    "answer": "Người lao động; người học nghề, người tập nghề và người làm việc không có quan hệ lao động; Người sử dụng lao động; Người lao động nước ngoài làm việc tại Việt Nam; Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Trong trường hợp nào sau đây người sử dụng lao động có thể áp dụng hình thức kỷ luật sa thải với người lao động?",
+    "answer": "Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Người có thẩm quyền xử lý kỷ luật lao động là ai?",
+    "answer": "Người có thẩm quyền giao kết hợp đồng lao động bên phía người sử dụng lao động hoặc người được quy định cụ thể trong nội quy lao động."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Khi xử lý kỷ luật lao động, hành vi nào sau đây bị cấm thực hiện?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Luật lao động Việt Nam điều chỉnh quan hệ lao động nào trong những quan hệ lao động sau đây:",
+    "answer": "Quan hệ học nghề giữa người học nghề để làm việc cho người sử dụng lao động với người sử dụng lao động qua hợp đồng đào tạo."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Thỏa ước lao động tập thể gồm những hình thức nào?",
+    "answer": "Thỏa ước lao động tập thể doanh nghiệp, thỏa ước lao động tập thể ngành, thỏa ước lao động tập thể có nhiều doanh nghiệp và hình thức thỏa ước lao động tập thể khác."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Hòa giải viên lao động có thẩm quyền hòa giải những loại tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động cá nhân và Tranh chấp lao động tập thể"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Tranh chấp nào sau đây là tranh chấp lao động thuộc thẩm quyền của Tòa án nhân dân?",
+    "answer": "Tranh chấp về quyền công đoàn"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Thỏa ước lao động tập thể là gì?",
+    "answer": "Thỏa ước lao động tập thể là thỏa thuận đạt được thông qua thương lượng tập thể và được các bên ký kết bằng văn bản."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Hết thời hạn 30 ngày kể từ ngày Hợp đồng lao động xác định thời hạn kết thúc nhưng hai bên không giao kết hợp đồng mới và người lao động vẫn tiếp tục làm việc thì:",
+    "answer": "Hợp đồng lao động đã giao kết đương nhiên chuyển sang loại hợp đồng lao động không xác định thời hạn."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Đình công là gì?",
+    "answer": "Đình công là sự ngừng việc tạm thời, tự nguyện và có tổ chức của người lao động nhằm đạt được yêu cầu trong quá trình giải quyết tranh chấp lao động và do tổ chức đại diện người lao động có quyền thương lượng tập thể là một bên tranh chấp lao động tập thể tổ chức, lãnh đạo."
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Các hình thức kỷ luật lao động áp dụng đối với hành vi vi phạm kỷ luật của người lao động bao gồm:",
+    "answer": "Khiển trách, kéo dài thời hạn nâng lương không quá 06 tháng, cách chức; sa thải."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Quan hệ lao động giữa viên chức nhà nước với tổ chức sự nghiệp công lập thuộc đối tượng điều chỉnh của:",
+    "answer": "Pháp luật hành chính."
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Tìm đáp án chính xác nhất trong các phương án sau về khái niệm hợp đồng lao động:",
+    "answer": "Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Những người tham gia phiên họp xét tính hợp pháp của cuộc đình công gồm có:",
+    "answer": "Hội đồng xét tính hợp pháp của cuộc đình công; Thư ký tòa án; Kiểm sát viên Viện kiểm sát cùng cấp; Đại diện tổ chức đại diện tập thể lao động; Người sử dụng lao động; Đại diện cơ quan, tổ chức theo yêu cầu của Tòa án."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Quan hệ xã hội nào sau đây thuộc đối tượng điều chỉnh của pháp luật lao động?",
+    "answer": "Quan hệ về cho thuê lại lao động"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Chọn phương án SAI. Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ không giới hạn về số giờ làm thêm mà người lao động không được từ chối trong trường hợp:",
+    "answer": "Sản xuất cung cấp điện."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Nội quy lao động có hiệu lực từ thời điểm nào?",
+    "answer": "Có hiệu lực sau thời hạn 15 ngày, kể từ ngày cơ quan nhà nước có thẩm quyền nhận được đầy đủ hồ sơ đăng ký nội quy lao động"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây KHÔNG phải nguyên tắc điều chỉnh của pháp luật lao động:",
+    "answer": "Nguyên tắc bảo đảm quyền tự do lựa chọn việc làm, nơi làm việc và tham gia quản lý doanh nghiệp của người lao động."
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Được xử lý kỷ luật lao động đối với người lao động trong thời gian sau đây:",
+    "answer": "Người lao động đang chịu hình thức kỷ luật khác."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Trường hợp nào sau đây người sử dụng lao động không phải đăng ký nội quy lao động?",
+    "answer": "Người sử dụng lao động sử dụng dưới 10 lao động"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Kỳ hạn trả lương cho người lao động hưởng lương tháng được tính như thế nào?",
+    "answer": "Người lao động hưởng lương theo tháng được trả một tháng một lần hoặc nửa tháng một lần."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Cho thuê lại lao động là gì?",
+    "answer": "Cho thuê lại lao động là việc người lao động giao kết hợp đồng lao động với một người sử dụng lao động là doanh nghiệp cho thuê lại lao động, sau đó người lao động được chuyển sang làm việc và chịu sự điều hành của người sử dụng lao động khác mà vẫn duy trì quan hệ lao động với người sử dụng lao động đã giao kết hợp đồng lao động"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Chủ tịch UBND cấp huyện có thẩm quyền giải quyết tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động tập thể về quyền"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Người lao động có thể được tạm ứng tiền lương hay không?",
+    "answer": "Người lao động được tạm ứng tiền lương theo điều kiện do hai bên thỏa thuận và không bị tính lãi."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc bảo đảm an toàn, vệ sinh lao động?",
+    "answer": "Bảo đảm quyền của người lao động chủ động phối hợp với cơ quan, tổ chức trong điều tra, thống kê, báo cáo tai nạn lao động, bệnh nghề nghiệp."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Nguyên tắc xử lý bồi thường thiệt hại là:",
+    "answer": "Việc xem xét, quyết định mức bồi thường thiệt hại phải căn cứ vào lỗi, mức độ thiệt hại thực tế và hoàn cảnh thực tế gia đình, nhân thân và tài sản của người lao động."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Mức lương tối thiểu là gì?",
+    "answer": "Là mức lương thấp nhất được trả cho người lao động làm công việc giản đơn nhất, trong điều kiện lao động bình thường và phải bảo đảm mức sống tối thiểu của người lao động và gia đình họ, phù hợp với điều kiện phát triển kinh tế xã hội."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Nơi nào sau đây ĐƯỢC đình công?",
+    "answer": "Công ty cổ phần viễn thông FPT"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Doanh nghiệp có thể gia nhập thỏa ước lao động tập thể ngành trong trường hợp:",
+    "answer": "Có sự đồng thuận của tất cả người sử dụng lao động và tổ chức đại diện người lao động tại doanh nghiệp là thành viên của thỏa ước."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Trường hợp làm việc ban đêm, thì người lao động được nghỉ giữa giờ bao lâu?",
+    "answer": "Ít nhất 45 phút liên tục."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Cá nhân, cơ quan nào sau đây có thẩm quyền hoãn, ngừng đình công?",
+    "answer": "Chủ tịch UBND cấp tỉnh."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Nội dung nào sau đây không phải là quyền, trách nhiệm của công đoàn cơ sở trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Nghiên cứu, ứng dụng khoa học, công nghệ, đào tạo, huấn luyện về an toàn, vệ sinh lao động; kiến nghị các giải pháp chăm lo cải thiện điều kiện lao động, phòng ngừa tai nạn lao động, bệnh nghề nghiệp cho người lao động."
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây KHÔNG phải nguyên tắc giải quyết tranh chấp lao động:",
+    "answer": "Đảm bảo bí mật và lợi ích kinh doanh của người sử dụng lao động"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Phương án nào KHÔNG phải là nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+    "answer": "Phải bồi thường cho người sử dụng lao động 02 tháng tiền lương theo hợp đồng lao động."
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Những căn cứ để người sử dụng lao động và người lao động thỏa thuận hình thức trả lương là:",
+    "answer": "Căn cứ vào tính chất công việc và điều kiện sản xuất kinh doanh."
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Quan hệ pháp luật nào sau đây KHÔNG phải là quan hệ pháp luật lao động?",
+    "answer": "Quan hệ pháp luật về hợp đồng cộng tác viên"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Nghĩa vụ chứng minh trong xử lý kỷ luật lao động thuộc về ai?",
+    "answer": "Người sử dụng lao động phải chứng minh được lỗi của người lao động."
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật?",
+    "answer": "Tất cả phương án A, B, C đều đúng"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Thời hạn để Ban trọng tài lao động ra quyết định về việc giải quyết tranh chấp là bao nhiêu lâu?",
+    "answer": "Trong thời hạn 30 ngày kể từ ngày Ban Trọng tài lao động được thành lập."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Thỏa ước lao động tập thể vô hiệu toàn bộ thuộc các trường hợp là:",
+    "answer": "Có toàn bộ nội dung trái pháp luật; Người ký kết không đúng thẩm quyền; Việc ký kết không đúng quy trình thương lượng, ký kết thỏa ước lao động tập thể."
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Thời hiệu xử lý bồi thường thiệt hại đối với việc người lao động làm hư hỏng, làm mất dụng cụ, thiết bị hoặc làm mất tài sản của người sử dụng lao động giao hoặc có hành vi khác gây thiệt hại tài sản của người sử dụng lao động hoặc tiêu hao vật tư quá định mức cho phép là:",
+    "answer": "03 tháng kể từ ngày người lao động có hành vi."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Quyền, trách nhiệm của người lao động khi Chủ tịch UBND cấp tỉnh quyết định về việc ngừng đình công là:",
+    "answer": "Người lao động phải trở lại làm việc và được trả lương."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Khi sử dụng người lao động từ 13 đến dưới 15 tuổi, người sử dụng lao động phải thực hiện điều kiện sau:",
+    "answer": "Cả 3 phương án A, B, C."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Chọn phương án SAI. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở:",
+    "answer": "Thực hiện quy chế dân chủ cơ sở tại nơi làm việc"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Yêu cầu nào sau đây KHÔNG phải là yêu cầu về lao động thuộc thẩm quyền giải quyết của Tòa án nhân dân?",
+    "answer": "Yêu cầu hạn chế quyền của cha, mẹ đối với con chưa thành niên"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Người lao động bị bệnh nghề nghiệp suy giảm ở mức nào thì được người sử dụng lao động bồi thường ít nhất bằng 30 tháng tiền lương?",
+    "answer": "Suy giảm khả năng lao động từ 81% trở lên."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Trường hợp phải ngừng việc do lỗi của người sử dụng lao đồng thì người lao động được trả lương như thế nào?",
+    "answer": "Người lao động được trả đủ tiền lương theo tiền lương theo hợp đồng lao động"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Thời hiệu xử lý kỷ luật lao động đối với hành vi vi phạm có liên quan trực tiếp đến tài chính, tài sản, tiết lộ bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động là",
+    "answer": "12 tháng kể từ ngày xảy ra hành vi vi phạm"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Thời hiệu yêu cầu Hòa giải viên lao động thực hiện hòa giải tranh chấp lao động cá nhân là:",
+    "answer": "06 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền, lợi ích hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Cơ quan nào có thẩm quyền tuyên bố hợp đồng lao động vô hiệu:",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Trường hợp doanh nghiệp chỉ có một tổ chức đại diện người lao động tại cơ sở thì đại diện thương lượng tập thể tại doanh nghiệp là:",
+    "answer": "Số lượng người tham gia thương lượng của mỗi bên do các bên thỏa thuận, thành phần tham gia thương lượng của mỗi bên do bên đó quyết định."
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Thời hạn để Tòa án có thẩm quyền chuẩn bị xét yêu cầu tuyên bố hợp đồng lao động vô hiệu, thỏa ước lao động tập thể vô hiệu là bao nhiêu ngày?",
+    "answer": "Thời hạn để Tòa án có thẩm quyền chuẩn bị xét yêu cầu tuyên bố hợp đồng lao động vô hiệu là 10 ngày, thỏa ước lao động tập thể vô hiệu là 15 ngày kể từ ngày Tòa án thụ lý đơn yêu cầu"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Ngành nghề nào sau đây KHÔNG phải là ngành nghề được thuê lại lao động?",
+    "answer": "Lái tàu biển"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Nội quy lao động là loại văn bản nào?",
+    "answer": "Thỏa thuận giữa người sử dụng lao động và người lao động về quy tắc xử sự."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Người lao động được nghỉ việc riêng mà vẫn được hưởng nguyên lương trong các trường hợp sau đây:",
+    "answer": "Kết hôn: nghỉ 03 ngày; Con đẻ, con nuôi kết hôn: nghỉ 01 ngày; cha mẹ đẻ, cha mẹ nuôi cha mẹ đẻ, cha mẹ nuôi của chồng hoặc vợ; vợ hoặc chồng, con đẻ, con nuôi chết: nghỉ 03 ngày."
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Tiền thưởng là gì?",
+    "answer": "Tiền thưởng là số tiền hoặc tài sản hoặc bằng các hình thức khác mà người sử dụng lao động thưởng cho người lao động căn cứ vào kết quả sản xuất kinh doanh, mức độ hoàn thành công việc của người lao động."
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Chọn phương án SAI - Khi sử dụng người lao động chưa đủ 15 tuổi, người sử dụng lao động phải thực hiện điều kiện sau:",
+    "answer": "Chỉ được sử dụng người lao động làm việc ở công trường xây dựng nếu được sự đồng ý của cha mẹ hoặc người đại diện theo pháp luật."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Điều kiện để người sử dụng lao động đơn phương chấm dứt hợp đồng lao động trước thời hạn với người lao động là:",
+    "answer": "Phải thuộc các trường hợp theo quy định của pháp luật và phải báo trước cho người lao động với thời hạn theo quy định."
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Thời hiệu yêu cầu Hội đồng trọng tài lao động tranh chấp lao động cá nhân là:",
+    "answer": "09 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền, lợi ích hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "An toàn, vệ sinh viên có nghĩa vụ nào sau đây?",
+    "answer": "Giám sát việc thực hiện tiêu chuẩn, quy chuẩn, quy trình, nội quy an toàn, vệ sinh lao động, phát hiện những thiếu sót, vi phạm về an toàn, vệ sinh lao động, những trường hợp mất an toàn, vệ sinh của máy, thiết bị, vật tư, chất và nơi làm việc."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Khi xây dựng kế hoạch ứng cứu khẩn cấp tại nơi làm việc, người sử dụng lao động phải xây dựng nội dung chủ yếu nào?",
+    "answer": "Cả 3 nội dung trên."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Chủ thể nào có quyền tổ chức, lãnh đạo đình công?",
+    "answer": "Tổ chức đại diện người lao động có quyền thương lượng tập thể là một bên tranh chấp lao động tập thể."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Người sử dụng lao động có quyền tạm đình chỉ công việc của người lao động để xác minh xử lý kỷ luật lao động trong thời hạn là:",
+    "answer": "Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá 90 ngày."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Áp dụng hình thức kỷ luật sa thải đối với người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày; 20 ngày cộng dồn trong thời hạn 365 ngày mà không có lý do chính đáng. Trường hợp có lý do chính đáng là:",
+    "answer": "Cả 3 đáp án A. B, C"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Người sử dụng lao động có quyền gì sau đây trước và trong quá trình đình công?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Luật lao động Việt Nam điều chỉnh quan hệ lao động nào trong những quan hệ lao động sau đây:",
+    "answer": "Quan hệ lao động giữa người lao động với đơn vị sự nghiệp công lập theo hợp đồng lao động xác định thời hạn."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Có mấy loại hợp đồng lao động, đó là những loại hợp đồng nào ?",
+    "answer": "Hợp đồng lao động không xác định thời hạn, hợp đồng lao động xác định thời hạn."
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Quy định nào dưới đây không phải là nghĩa vụ của người sử dụng lao động trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Đầu tư, nghiên cứu, ứng dụng khoa học và công nghệ về an toàn, vệ sinh lao động."
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Cơ quan có thẩm quyền xét tính hợp pháp của cuộc đình công là:",
+    "answer": "Tòa án nhân dân cấp tỉnh nơi xảy ra cuộc đình công."
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Theo quy định hiện hành, người sử dụng lao động có quyền sắp xếp ngày nghỉ hằng tuần của người lao động vào chủ nhật hoặc một ngày xác định khác trong tuần hay không?",
+    "answer": "Có quyền sắp xếp nhưng phải ghi vào nội quy lao động."
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Nghỉ ngày lễ, tết được hưởng nguyên lương đối với lao động là người nước ngoài làm việc tại Việt Nam quy định như thế nào?",
+    "answer": "Ngoài ngày nghỉ lễ, tết theo quy định đối với lao động Việt Nam còn được nghỉ thêm 01 ngày quốc khánh của nước họ."
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Nội dung nào sau đây về công tác bảo hộ lao động bắt buộc phải có trong Hợp đồng lao động?",
+    "answer": "Trang bị bảo hộ lao động cho người lao động."
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Kỷ luật lao động là gì?",
+    "answer": "Kỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh doanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định."
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Hòa giải viên lao động là:",
+    "answer": "Do Chủ tịch UBND cấp tỉnh bổ nhiệm để hòa giải tranh chấp lao động, tranh chấp đào tạo nghề; hỗ trợ phát triển quan hệ lao động."
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Trường hợp nào sau đây hợp đồng lao động KHÔNG bị vô hiệu toàn bộ:",
+    "answer": "Các bên vi phạm về hình thức hợp đồng lao động"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Tổ chức đại diện người lao động tại cơ sở bao gồm:",
+    "answer": "Công đoàn cơ sở và tổ chức đại diện người lao động tại doanh nghiệp"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Người sử dụng lao động có quyền quy định lịch nghỉ hàng năm cho người lao động hay không?",
+    "answer": "Có quyền quy định lịch nghỉ hằng năm sau khi tham khảo ý kiến của người lao động và phải thông báo trước cho người lao động biết."
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Tranh chấp nào sau đây KHÔNG phải là tranh chấp lao động thuộc thẩm quyền của Tòa án nhân dân:",
+    "answer": "Tranh chấp về bồi thường thiệt hại ngoài hợp đồng"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Hội đồng trọng tài lao động do chủ tịch UBND cấp tỉnh quyết định thành lập gồm các thành phần:",
+    "answer": "Ít nhất là 15 người bao gồm: tối thiểu 05 thành viên do cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh đề cử; tối thiểu 05 thành viên do Công đoàn cấp tỉnh đề cử; tối thiểu 05 thành viên do các tổ chức đại diện của người sử dụng lao động trên địa bàn tỉnh thống nhất đề cử."
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Trường hợp nào sau đây người lao động có thể đơn phương chấm dứt hợp đồng lao động mà không cần báo trước cho người sử dụng lao động:",
+    "answer": "Lao động nữ mang thai phải nghỉ vệc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền."
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Người sử dụng lao động phải đăng ký nội quy lao động tại cơ quan nhà nước nào sau đây:",
+    "answer": "Cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh."
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Hội đồng trọng tài lao động có thẩm quyền giải quyết những loại tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động cá nhân và Tranh chấp lao động tập thể."
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Trách nhiệm của Người sử dụng lao động đối với công tác an toàn, vệ sinh lao động được quy định trong văn bản quy phạm pháp luật nào?",
+    "answer": "Tất cả đáp án A, B, C"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Tranh chấp lao động cá nhân nào sau đây KHÔNG bắt buộc phải qua hòa giải mà có thể khởi kiện thẳng ra Tòa án nhân dân?",
+    "answer": "Tranh chấp giữa người giúp việc gia đình với người sử dụng lao động"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Trường hợp đình công hợp pháp, tiền lương và quyền lợi của người lao động tham gia đình công trong thời gian đình công được giải quyết như sau:",
+    "answer": "Người lao động không được trả lương và các quyền lợi khác theo quy định pháp luật, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Trong các trường hợp sau đây, trường hợp nào là đương nhiên chấm dứt hợp đồng lao động:",
+    "answer": "Người lao động là người nước ngoài làm việc tại Việt Nam bị trục xuất theo bản án của tòa án đã có hiệu lực pháp luật."
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Trường hợp nào sau đây KHÔNG bị hoãn đình công?",
+    "answer": "Đình công khi có đoàn ngoại giao cấp cao đến thăm tỉnh nơi xảy ra có đình công."
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Trường hợp người lao động gây thiệt hại không nghiêm trọng do sơ suất với giá trị không quá 10 tháng lương tối thiểu vùng do Chính phủ công bố được áp dụng tại nơi người lao động làm việc, thì người lao động phải bồi thường:",
+    "answer": "Nhiều nhất là 03 tháng tiền lương và bị khấu trừ hằng tháng vào lương theo quy định."
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Thời giờ làm việc ban đêm được tính trong khoảng thời gian như thế nào?",
+    "answer": "Từ 22 giờ đến 6 giờ sáng ngày hôm sau"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Thời hạn người sử dụng lao động tham gia thỏa ước phải gửi thỏa ước lao động tập thể doanh nghiệp đến cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh là bao nhiêu ngày kể từ ngày ký kết?",
+    "answer": "10 ngày ."
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Theo quy định hiện hành, người lao động làm việc theo ca được nghỉ chuyển ca như thế nào?",
+    "answer": "Được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác."
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "Quyền thương lượng tập thể của tổ chức đại diện người lao động để ký kết thỏa ước lao động tập thể doanh nghiệp thuộc chủ thể nào?",
+    "answer": "Tổ chức đại diện người lao động cơ sở đạt tỷ lệ thành viên tối thiểu trên tổng số người lao động trong doanh nghiệp và là tổ chức có nhiều thành viên nhất trong doanh nghiệp."
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Người sử dụng lao động có trách nhiệm gì đối với người lao động bị tai nạn lao động?",
+    "answer": "Cả 3 đáp án A, B, C."
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Điều kiện để người lao động đơn phương chấm dứt hợp đồng lao động là:",
+    "answer": "Không cần phải có căn cứ nhưng phải báo trước cho người sử dụng lao động với thời hạn theo quy định của pháp luật, trừ trường hợp không cần báo trước."
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Hành vi nào sau đây của người sử dụng lao động KHÔNG bị cấm trước, trong và sau khi đình công?",
+    "answer": "Yêu cầu Tòa án tuyên bố cuộc đình công là bất hợp pháp."
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Tiêu chuẩn nào sau đây không phải tiêu chuẩn của Hòa giải viên lao động?",
+    "answer": "Tốt nhiệp cử nhân luật"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật?",
+    "answer": "Phải nhận người lao động trở lại làm việc theo hợp đồng lao động đã giao kết, phải trả tiền lương, đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong những ngày người lao động không được làm việc và phải trả thêm 1 khoản tiền ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động."
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Tiền lương làm căn cứ trả cho người lao động những ngày nghỉ lễ, tết, nghỉ hằng năm, nghỉ việc riêng có hưởng lương là:",
+    "answer": "Tiền lương theo hợp đồng lao động tại thời điểm nghỉ"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Ngày có hiệu lực của Thỏa ước lao động tập thể được quy định từ thời điểm nào?",
+    "answer": "Do các bên thỏa thuận và ghi trong thoả ước, trường hợp các bên không thỏa thuận thì thoả ước lao động tập thể có hiệu lực kể từ ngày ký kết."
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Trường hợp nào người sử dụng lao động KHÔNG có quyền được huy động làm thêm giờ mà người lao động không có quyền từ chối?",
+    "answer": "Yêu cầu cấp thiết, không thể trì hoãn của hoạt động sản xuất kinh doanh."
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Thỏa ước lao động tập thể doanh nghiệp có thời hạn bao nhiêu lâu?",
+    "answer": "Thoả ước lao động tập thể doanh nghiệp có thời hạn từ 01 năm đến 03 năm. Các bên có quyền thỏa thuận thời hạn khác nhau đối với các nội dung của thỏa ước lao động tập thể."
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Thẩm quyền tuyên bố thỏa ước lao động tập thể vô hiệu thuộc Cơ quan nào?",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây không phải nguyên tắc điều chỉnh của pháp luật lao động:",
+    "answer": "Nguyên tắc đảm bảo quyền tự do kinh doanh theo quy định pháp luật."
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Quan hệ xã hội nào sau đây KHÔNG thuộc đối tượng điều chỉnh của luật lao động:",
+    "answer": "Quan hệ giữa cổ đông của công ty cổ phần với công ty cổ phần"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Người lao động không tham gia đình công nhưng phải ngừng việc vì lý do đình công thì được giải quyết quyền lợi như thế nào?",
+    "answer": "Được trả lương ngừng việc và các quyền lợi khác theo quy định."
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "Tiền lương làm thêm giờ (ban ngày) của người lao động được trả lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc đang làm như thế nào?",
+    "answer": "Vào ngày thường, ít nhất bằng 150%; Vào ngày nghỉ hằng tuần, ít nhất bằng 200%; Vào ngày nghỉ lễ, tết ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền lương ngày lễ, tết ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày."
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Quan hệ xã hội nào sau đây KHÔNG thuộc đối tượng điều chỉnh của luật lao động:",
+    "answer": "Quan hệ giữa thành viên hợp tác xã với hợp tác xã"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Chọn phương án SAI. Trường hợp nào được xác định là thương lượng tập thể không thành?",
+    "answer": "Tòa án nhân dân tuyên bố thương lượng không thành"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Trường hợp thay đổi cơ cấu công nghệ, người sử dụng lao động không thể giải quyết được việc làm và cho người lao động thôi việc thì phải thực hiện điều kiện, thủ tục sau:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Trong Hội đồng xét xử sơ thẩm vụ án lao động bắt buộc phải có:",
+    "answer": "Hội thẩm nhân dân là người đã hoặc đang công tác trong tổ chức đại diện tập thể lao động hoặc người có kiến thức pháp luật lao động."
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Thời hạn để Tòa án có thẩm quyền chuẩn bị xét yêu cầu tuyên bố hợp đồng lao động vô hiệu, thỏa ước lao động tập thể vô hiệu là bao nhiêu ngày?",
+    "answer": "Thời hạn để Tòa án có thẩm quyền chuẩn bị xét yêu cầu tuyên bố hợp đồng lao động vô hiệu là 10 ngày, thỏa ước lao động tập thể vô hiệu là 15 ngày kể từ ngày Tòa án thụ lý đơn yêu cầu"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Trường hợp đình công hợp pháp, tiền lương và quyền lợi của người lao động tham gia đình công trong thời gian đình công được giải quyết như sau:",
+    "answer": "Người lao động không được trả lương và các quyền lợi khác theo quy định pháp luật, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Nội dung nào sau đây không phải là quyền, trách nhiệm của công đoàn cơ sở trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Nghiên cứu, ứng dụng khoa học, công nghệ, đào tạo, huấn luyện về an toàn, vệ sinh lao động; kiến nghị các giải pháp chăm lo cải thiện điều kiện lao động, phòng ngừa tai nạn lao động, bệnh nghề nghiệp cho người lao động."
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Người sử dụng lao động có trách nhiệm gì đối với người lao động bị tai nạn lao động?",
+    "answer": "Cả 3 đáp án A, B, C."
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Khi xử lý kỷ luật lao động, hành vi nào sau đây bị cấm thực hiện?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Trường hợp nào sau đây người lao động có thể đơn phương chấm dứt hợp đồng lao động mà không cần báo trước cho người sử dụng lao động:",
+    "answer": "Lao động nữ mang thai phải nghỉ vệc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền."
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "Người lao động KHÔNG có quyền nào sau đây trong giải quyết tranh chấp lao động ?",
+    "answer": "Hành động đơn phương chống lại bên kia."
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây KHÔNG phải nguyên tắc điều chỉnh của pháp luật lao động:",
+    "answer": "Nguyên tắc bảo đảm quyền tự do lựa chọn việc làm, nơi làm việc và tham gia quản lý doanh nghiệp của người lao động."
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật?",
+    "answer": "Tất cả phương án A, B, C đều đúng"
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Chọn phương án SAI, Hòa giải viên lao động miễn nhiệm khi thuộc trường hợp:",
+    "answer": "Từ chối nhiệm vụ hòa giải từ 03 lần trở lên khi được cử tham gia giải quyết tranh chấp lao động mà không có lý do chính đáng theo quy chế quản lý hòa giải viên lao động"
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Đình công là gì?",
+    "answer": "Đình công là sự ngừng việc tạm thời, tự nguyện và có tổ chức của người lao động nhằm đạt được yêu cầu trong quá trình giải quyết tranh chấp lao động và do tổ chức đại diện người lao động có quyền thương lượng tập thể là một bên tranh chấp lao động tập thể tổ chức, lãnh đạo."
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Nội dung nào sau đây về công tác bảo hộ lao động bắt buộc phải có trong Hợp đồng lao động?",
+    "answer": "Trang bị bảo hộ lao động cho người lao động."
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Tổ chức đại diện người lao động tại cơ sở bao gồm:",
+    "answer": "Công đoàn cơ sở và tổ chức đại diện người lao động tại doanh nghiệp"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Tiền thưởng là gì?",
+    "answer": "Tiền thưởng là số tiền hoặc tài sản hoặc bằng các hình thức khác mà người sử dụng lao động thưởng cho người lao động căn cứ vào kết quả sản xuất kinh doanh, mức độ hoàn thành công việc của người lao động."
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Người sử dụng lao động tham gia thỏa ước phải gửi Thỏa ước lao động tập thể doanh nghiệp đến cơ quan nào sau khi thỏa ước lao động tập thể được ký kết?",
+    "answer": "Cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh nơi doanh nghiệp đặt trụ sở chính"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Cho thuê lại lao động là gì?",
+    "answer": "Cho thuê lại lao động là việc người lao động giao kết hợp đồng lao động với một người sử dụng lao động là doanh nghiệp cho thuê lại lao động, sau đó người lao động được chuyển sang làm việc và chịu sự điều hành của người sử dụng lao động khác mà vẫn duy trì quan hệ lao động với người sử dụng lao động đã giao kết hợp đồng lao động"
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Hòa giải viên lao động là:",
+    "answer": "Do Chủ tịch UBND cấp tỉnh bổ nhiệm để hòa giải tranh chấp lao động, tranh chấp đào tạo nghề; hỗ trợ phát triển quan hệ lao động."
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Trường hợp nào sau đây KHÔNG bị hoãn đình công?",
+    "answer": "Đình công khi có đoàn ngoại giao cấp cao đến thăm tỉnh nơi xảy ra có đình công."
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Khi sử dụng người lao động từ 13 đến dưới 15 tuổi, người sử dụng lao động phải thực hiện điều kiện sau:",
+    "answer": "Cả 3 phương án A, B, C."
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "An toàn, vệ sinh viên có nghĩa vụ nào sau đây?",
+    "answer": "Giám sát việc thực hiện tiêu chuẩn, quy chuẩn, quy trình, nội quy an toàn, vệ sinh lao động, phát hiện những thiếu sót, vi phạm về an toàn, vệ sinh lao động, những trường hợp mất an toàn, vệ sinh của máy, thiết bị, vật tư, chất và nơi làm việc."
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động tập thể về quyền là:",
+    "answer": "01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "Tìm đáp án chính xác nhất trong các phương án sau về khái niệm hợp đồng lao động:",
+    "answer": "Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động."
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Trong thời hạn người sử dụng lao động tạm đình chỉ công việc của người lao động để xác minh xử lý kỷ luật lao động thì người lao động được tạm ứng 50% tiền lương và số tiền tạm ứng này sẽ được xử lý như thế nào?",
+    "answer": "Trường hợp người lao động bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng. Trường hợp người lao động không bị xử lý kỷ luật lao động thì được người sử dụng lao động trả đủ tiền lương cho thời gian bị tạm đình chỉ công việc."
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "Chọn phương án SAI. Công việc cấm sử dụng người lao động từ đủ 15 đến chưa đủ 18 tuổi gồm:",
+    "answer": "Công nghệ thông tin."
+  },
+  {
+    "id": 406,
+    "premium": true,
+    "question": "Tiêu chuẩn nào sau đây không phải tiêu chuẩn của Hòa giải viên lao động?",
+    "answer": "Tốt nhiệp cử nhân luật"
+  },
+  {
+    "id": 407,
+    "premium": true,
+    "question": "Chủ thể nào có quyền tổ chức, lãnh đạo đình công?",
+    "answer": "Tổ chức đại diện người lao động có quyền thương lượng tập thể là một bên tranh chấp lao động tập thể."
+  },
+  {
+    "id": 408,
+    "premium": true,
+    "question": "Tiền lương làm căn cứ trả cho người lao động những ngày nghỉ lễ, tết, nghỉ hằng năm, nghỉ việc riêng có hưởng lương là:",
+    "answer": "Tiền lương theo hợp đồng lao động tại thời điểm nghỉ"
+  },
+  {
+    "id": 409,
+    "premium": true,
+    "question": "Trong thời hạn bao nhiêu ngày kể từ ngày ban hành nội quy lao động thì người sử dụng lao động phải nộp hồ sơ đăng ký nội quy lao động cho cơ quan quản lý nhà nước?",
+    "answer": "10 ngày"
+  },
+  {
+    "id": 410,
+    "premium": true,
+    "question": "Hòa giải viên lao động có thẩm quyền hòa giải những loại tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động cá nhân và Tranh chấp lao động tập thể"
+  },
+  {
+    "id": 411,
+    "premium": true,
+    "question": "Người lao động không tham gia đình công nhưng phải ngừng việc vì lý do đình công thì được giải quyết quyền lợi như thế nào?",
+    "answer": "Được trả lương ngừng việc và các quyền lợi khác theo quy định."
+  },
+  {
+    "id": 412,
+    "premium": true,
+    "question": "Người lao động được nghỉ việc riêng mà vẫn được hưởng nguyên lương trong các trường hợp sau đây:",
+    "answer": "Kết hôn: nghỉ 03 ngày; Con đẻ, con nuôi kết hôn: nghỉ 01 ngày; cha mẹ đẻ, cha mẹ nuôi cha mẹ đẻ, cha mẹ nuôi của chồng hoặc vợ; vợ hoặc chồng, con đẻ, con nuôi chết: nghỉ 03 ngày."
+  },
+  {
+    "id": 413,
+    "premium": true,
+    "question": "Thời giờ làm việc ban đêm được tính trong khoảng thời gian như thế nào?",
+    "answer": "Từ 22 giờ đến 6 giờ sáng ngày hôm sau"
+  },
+  {
+    "id": 414,
+    "premium": true,
+    "question": "Quyền thương lượng tập thể của tổ chức đại diện người lao động để ký kết thỏa ước lao động tập thể doanh nghiệp thuộc chủ thể nào?",
+    "answer": "Tổ chức đại diện người lao động cơ sở đạt tỷ lệ thành viên tối thiểu trên tổng số người lao động trong doanh nghiệp và là tổ chức có nhiều thành viên nhất trong doanh nghiệp."
+  },
+  {
+    "id": 415,
+    "premium": true,
+    "question": "Có mấy loại hợp đồng lao động, đó là những loại hợp đồng nào ?",
+    "answer": "Hợp đồng lao động không xác định thời hạn, hợp đồng lao động xác định thời hạn."
+  },
+  {
+    "id": 416,
+    "premium": true,
+    "question": "Ngành nghề nào sau đây KHÔNG phải là ngành nghề được thuê lại lao động?",
+    "answer": "Lái tàu biển"
+  },
+  {
+    "id": 417,
+    "premium": true,
+    "question": "Thời hạn để Ban trọng tài lao động ra quyết định về việc giải quyết tranh chấp là bao nhiêu lâu?",
+    "answer": "Trong thời hạn 30 ngày kể từ ngày Ban Trọng tài lao động được thành lập."
+  },
+  {
+    "id": 418,
+    "premium": true,
+    "question": "Thẩm quyền tuyên bố thỏa ước lao động tập thể vô hiệu thuộc Cơ quan nào?",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 419,
+    "premium": true,
+    "question": "Thời hạn người sử dụng lao động tham gia thỏa ước phải gửi thỏa ước lao động tập thể doanh nghiệp đến cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh là bao nhiêu ngày kể từ ngày ký kết?",
+    "answer": "10 ngày ."
+  },
+  {
+    "id": 420,
+    "premium": true,
+    "question": "Phương án nào KHÔNG phải là nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+    "answer": "Phải bồi thường cho người sử dụng lao động 02 tháng tiền lương theo hợp đồng lao động."
+  },
+  {
+    "id": 421,
+    "premium": true,
+    "question": "Người lao động bị bệnh nghề nghiệp suy giảm ở mức nào thì được người sử dụng lao động bồi thường ít nhất bằng 30 tháng tiền lương?",
+    "answer": "Suy giảm khả năng lao động từ 81% trở lên."
+  },
+  {
+    "id": 422,
+    "premium": true,
+    "question": "Người có thẩm quyền xử lý kỷ luật lao động là ai?",
+    "answer": "Người có thẩm quyền giao kết hợp đồng lao động bên phía người sử dụng lao động hoặc người được quy định cụ thể trong nội quy lao động."
+  },
+  {
+    "id": 423,
+    "premium": true,
+    "question": "Người sử dụng lao động có quyền quy định lịch nghỉ hàng năm cho người lao động hay không?",
+    "answer": "Có quyền quy định lịch nghỉ hằng năm sau khi tham khảo ý kiến của người lao động và phải thông báo trước cho người lao động biết."
+  },
+  {
+    "id": 424,
+    "premium": true,
+    "question": "Điều kiện để người lao động đơn phương chấm dứt hợp đồng lao động là:",
+    "answer": "Không cần phải có căn cứ nhưng phải báo trước cho người sử dụng lao động với thời hạn theo quy định của pháp luật, trừ trường hợp không cần báo trước."
+  },
+  {
+    "id": 425,
+    "premium": true,
+    "question": "Trường hợp vì lý do kinh tế, người sử dụng lao động không thể giải quyết được việc làm và cho người lao động thôi việc thì phải thực hiện điều kiện, thủ tục sau:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 426,
+    "premium": true,
+    "question": "Trường hợp nào người sử dụng lao động KHÔNG có quyền được huy động làm thêm giờ mà người lao động không có quyền từ chối?",
+    "answer": "Yêu cầu cấp thiết, không thể trì hoãn của hoạt động sản xuất kinh doanh."
+  },
+  {
+    "id": 427,
+    "premium": true,
+    "question": "Quan hệ pháp luật nào sau đây KHÔNG phải là quan hệ pháp luật lao động?",
+    "answer": "Quan hệ pháp luật về hợp đồng cộng tác viên"
+  },
+  {
+    "id": 428,
+    "premium": true,
+    "question": "Ít nhất 03 ngày làm việc trước ngày đóng cửa tạm thời nơi làm việc, người sử dụng lao động phải thông báo cho cơ quan, tổ chức nào sau đây?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 429,
+    "premium": true,
+    "question": "Trường hợp nào sau đây hợp đồng lao động KHÔNG bị vô hiệu toàn bộ:",
+    "answer": "Các bên vi phạm về hình thức hợp đồng lao động"
+  },
+  {
+    "id": 430,
+    "premium": true,
+    "question": "Chọn phương án SAI. Trường hợp nào được xác định là thương lượng tập thể không thành?",
+    "answer": "Tòa án nhân dân tuyên bố thương lượng không thành"
+  },
+  {
+    "id": 431,
+    "premium": true,
+    "question": "Khi xây dựng kế hoạch ứng cứu khẩn cấp tại nơi làm việc, người sử dụng lao động phải xây dựng nội dung chủ yếu nào?",
+    "answer": "Cả 3 nội dung trên."
+  },
+  {
+    "id": 432,
+    "premium": true,
+    "question": "Thời hiệu yêu cầu Hòa giải viên lao động thực hiện hòa giải tranh chấp lao động cá nhân là:",
+    "answer": "06 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền, lợi ích hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 433,
+    "premium": true,
+    "question": "Được xử lý kỷ luật lao động đối với người lao động trong thời gian sau đây:",
+    "answer": "Người lao động đang chịu hình thức kỷ luật khác."
+  },
+  {
+    "id": 434,
+    "premium": true,
+    "question": "Chọn phương án SAI. Quyền của thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở:",
+    "answer": "Thực hiện quy chế dân chủ cơ sở tại nơi làm việc"
+  },
+  {
+    "id": 435,
+    "premium": true,
+    "question": "Mức lương tối thiểu là gì?",
+    "answer": "Là mức lương thấp nhất được trả cho người lao động làm công việc giản đơn nhất, trong điều kiện lao động bình thường và phải bảo đảm mức sống tối thiểu của người lao động và gia đình họ, phù hợp với điều kiện phát triển kinh tế xã hội."
+  },
+  {
+    "id": 436,
+    "premium": true,
+    "question": "Thời hiệu xử lý bồi thường thiệt hại đối với việc người lao động làm hư hỏng, làm mất dụng cụ, thiết bị hoặc làm mất tài sản của người sử dụng lao động giao hoặc có hành vi khác gây thiệt hại tài sản của người sử dụng lao động hoặc tiêu hao vật tư quá định mức cho phép là:",
+    "answer": "03 tháng kể từ ngày người lao động có hành vi."
+  },
+  {
+    "id": 437,
+    "premium": true,
+    "question": "Tranh chấp nào sau đây KHÔNG phải là tranh chấp lao động thuộc thẩm quyền của Tòa án nhân dân:",
+    "answer": "Tranh chấp về bồi thường thiệt hại ngoài hợp đồng"
+  },
+  {
+    "id": 438,
+    "premium": true,
+    "question": "Tranh chấp lao động cá nhân nào sau đây KHÔNG bắt buộc phải qua hòa giải mà có thể khởi kiện thẳng ra Tòa án nhân dân?",
+    "answer": "Tranh chấp giữa người giúp việc gia đình với người sử dụng lao động"
+  },
+  {
+    "id": 439,
+    "premium": true,
+    "question": "Cơ quan có thẩm quyền xét tính hợp pháp của cuộc đình công là:",
+    "answer": "Tòa án nhân dân cấp tỉnh nơi xảy ra cuộc đình công."
+  },
+  {
+    "id": 440,
+    "premium": true,
+    "question": "Trường hợp người lao động gây thiệt hại không nghiêm trọng do sơ suất với giá trị không quá 10 tháng lương tối thiểu vùng do Chính phủ công bố được áp dụng tại nơi người lao động làm việc, thì người lao động phải bồi thường:",
+    "answer": "Nhiều nhất là 03 tháng tiền lương và bị khấu trừ hằng tháng vào lương theo quy định."
+  },
+  {
+    "id": 441,
+    "premium": true,
+    "question": "Trách nhiệm của Người sử dụng lao động đối với công tác an toàn, vệ sinh lao động được quy định trong văn bản quy phạm pháp luật nào?",
+    "answer": "Tất cả đáp án A, B, C"
+  },
+  {
+    "id": 442,
+    "premium": true,
+    "question": "Người sử dụng lao động phải đăng ký nội quy lao động tại cơ quan nhà nước nào sau đây:",
+    "answer": "Cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh."
+  },
+  {
+    "id": 443,
+    "premium": true,
+    "question": "Trường hợp doanh nghiệp chỉ có một tổ chức đại diện người lao động tại cơ sở thì đại diện thương lượng tập thể tại doanh nghiệp là:",
+    "answer": "Số lượng người tham gia thương lượng của mỗi bên do các bên thỏa thuận, thành phần tham gia thương lượng của mỗi bên do bên đó quyết định."
+  },
+  {
+    "id": 444,
+    "premium": true,
+    "question": "Tiền lương bao gồm những khoản gì?",
+    "answer": "Mức lương theo công việc hoặc chức danh, phụ cấp lương, các khoản bổ sung khác."
+  },
+  {
+    "id": 445,
+    "premium": true,
+    "question": "Điều kiện để người sử dụng lao động đơn phương chấm dứt hợp đồng lao động trước thời hạn với người lao động là:",
+    "answer": "Phải thuộc các trường hợp theo quy định của pháp luật và phải báo trước cho người lao động với thời hạn theo quy định."
+  },
+  {
+    "id": 446,
+    "premium": true,
+    "question": "Trong Hội đồng xét xử sơ thẩm vụ án lao động bắt buộc phải có:",
+    "answer": "Hội thẩm nhân dân là người đã hoặc đang công tác trong tổ chức đại diện tập thể lao động hoặc người có kiến thức pháp luật lao động."
+  },
+  {
+    "id": 447,
+    "premium": true,
+    "question": "Thỏa ước lao động tập thể vô hiệu toàn bộ thuộc các trường hợp là:",
+    "answer": "Có toàn bộ nội dung trái pháp luật; Người ký kết không đúng thẩm quyền; Việc ký kết không đúng quy trình thương lượng, ký kết thỏa ước lao động tập thể."
+  },
+  {
+    "id": 448,
+    "premium": true,
+    "question": "Quan hệ xã hội nào sau đây thuộc đối tượng điều chỉnh của pháp luật lao động?",
+    "answer": "Quan hệ về cho thuê lại lao động"
+  },
+  {
+    "id": 449,
+    "premium": true,
+    "question": "Quan hệ lao động giữa viên chức nhà nước với tổ chức sự nghiệp công lập thuộc đối tượng điều chỉnh của:",
+    "answer": "Pháp luật hành chính."
+  },
+  {
+    "id": 450,
+    "premium": true,
+    "question": "Trong các trường hợp sau đây, trường hợp nào KHÔNG PHẢI đương nhiên chấm dứt hợp đồng lao động:",
+    "answer": "Người lao động thực hiện nghĩa vụ quân sự."
+  },
+  {
+    "id": 451,
+    "premium": true,
+    "question": "Đối tượng điều chỉnh của Bộ luật lao động 2019 bao gồm:",
+    "answer": "Người lao động; người học nghề, người tập nghề và người làm việc không có quan hệ lao động; Người sử dụng lao động; Người lao động nước ngoài làm việc tại Việt Nam; Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động."
+  },
+  {
+    "id": 452,
+    "premium": true,
+    "question": "Trường hợp phải ngừng việc do lỗi của người sử dụng lao đồng thì người lao động được trả lương như thế nào?",
+    "answer": "Người lao động được trả đủ tiền lương theo tiền lương theo hợp đồng lao động"
+  },
+  {
+    "id": 453,
+    "premium": true,
+    "question": "Thời hiệu xử lý kỷ luật lao động đối với hành vi vi phạm có liên quan trực tiếp đến tài chính, tài sản, tiết lộ bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động là",
+    "answer": "12 tháng kể từ ngày xảy ra hành vi vi phạm"
+  },
+  {
+    "id": 454,
+    "premium": true,
+    "question": "Trong trường hợp nào sau đây người sử dụng lao động có thể áp dụng hình thức kỷ luật sa thải với người lao động?",
+    "answer": "Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày."
+  },
+  {
+    "id": 455,
+    "premium": true,
+    "question": "Áp dụng hình thức kỷ luật sa thải đối với người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày; 20 ngày cộng dồn trong thời hạn 365 ngày mà không có lý do chính đáng. Trường hợp có lý do chính đáng là:",
+    "answer": "Cả 3 đáp án A. B, C"
+  },
+  {
+    "id": 456,
+    "premium": true,
+    "question": "Các hình thức kỷ luật lao động áp dụng đối với hành vi vi phạm kỷ luật của người lao động bao gồm:",
+    "answer": "Khiển trách, kéo dài thời hạn nâng lương không quá 06 tháng, cách chức; sa thải."
+  },
+  {
+    "id": 457,
+    "premium": true,
+    "question": "Chọn phương án SAI. Các hành vi bị nghiêm cấm đối với người sử dụng lao động liên quan đến thành lập, gia nhập và hoạt động của tổ chức đại diện người lao động tại cơ sở:",
+    "answer": "Yêu cầu tổ chức đại diện người lao động thương lượng để ký kết thỏa ước lao động tập thể"
+  },
+  {
+    "id": 458,
+    "premium": true,
+    "question": "Cá nhân, cơ quan nào sau đây có thẩm quyền hoãn, ngừng đình công?",
+    "answer": "Chủ tịch UBND cấp tỉnh."
+  },
+  {
+    "id": 459,
+    "premium": true,
+    "question": "Nơi nào sau đây ĐƯỢC đình công?",
+    "answer": "Công ty cổ phần viễn thông FPT"
+  },
+  {
+    "id": 460,
+    "premium": true,
+    "question": "Thỏa ước lao động tập thể doanh nghiệp có thời hạn bao nhiêu lâu?",
+    "answer": "Thoả ước lao động tập thể doanh nghiệp có thời hạn từ 01 năm đến 03 năm. Các bên có quyền thỏa thuận thời hạn khác nhau đối với các nội dung của thỏa ước lao động tập thể."
+  },
+  {
+    "id": 461,
+    "premium": true,
+    "question": "Quan hệ xã hội nào sau đây KHÔNG thuộc đối tượng điều chỉnh của luật lao động:",
+    "answer": "Quan hệ giữa cổ đông của công ty cổ phần với công ty cổ phần"
+  },
+  {
+    "id": 462,
+    "premium": true,
+    "question": "Ngày có hiệu lực của Thỏa ước lao động tập thể được quy định từ thời điểm nào?",
+    "answer": "Do các bên thỏa thuận và ghi trong thoả ước, trường hợp các bên không thỏa thuận thì thoả ước lao động tập thể có hiệu lực kể từ ngày ký kết."
+  },
+  {
+    "id": 463,
+    "premium": true,
+    "question": "Doanh nghiệp có thể gia nhập thỏa ước lao động tập thể ngành trong trường hợp:",
+    "answer": "Có sự đồng thuận của tất cả người sử dụng lao động và tổ chức đại diện người lao động tại doanh nghiệp là thành viên của thỏa ước."
+  },
+  {
+    "id": 464,
+    "premium": true,
+    "question": "Luật lao động Việt Nam điều chỉnh quan hệ lao động nào trong những quan hệ lao động sau đây:",
+    "answer": "Quan hệ học nghề giữa người học nghề để làm việc cho người sử dụng lao động với người sử dụng lao động qua hợp đồng đào tạo."
+  },
+  {
+    "id": 465,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây không phải nguyên tắc điều chỉnh của pháp luật lao động:",
+    "answer": "Nguyên tắc đảm bảo quyền tự do kinh doanh theo quy định pháp luật."
+  },
+  {
+    "id": 466,
+    "premium": true,
+    "question": "Dễ - An toàn, vệ sinh viên hoạt động dưới sự quản lý và hướng dẫn của ai?",
+    "answer": "Ban chấp hành công đoàn cơ sở."
+  },
+  {
+    "id": 467,
+    "premium": true,
+    "question": "Tranh chấp nào sau đây là tranh chấp lao động thuộc thẩm quyền của Tòa án nhân dân?",
+    "answer": "Tranh chấp về quyền công đoàn"
+  },
+  {
+    "id": 468,
+    "premium": true,
+    "question": "Nguyên tắc nào sau đây KHÔNG phải nguyên tắc giải quyết tranh chấp lao động:",
+    "answer": "Đảm bảo bí mật và lợi ích kinh doanh của người sử dụng lao động"
+  },
+  {
+    "id": 469,
+    "premium": true,
+    "question": "Trường hợp làm việc ban đêm, thì người lao động được nghỉ giữa giờ bao lâu?",
+    "answer": "Ít nhất 45 phút liên tục."
+  },
+  {
+    "id": 470,
+    "premium": true,
+    "question": "Thỏa ước lao động tập thể gồm những hình thức nào?",
+    "answer": "Thỏa ước lao động tập thể doanh nghiệp, thỏa ước lao động tập thể ngành, thỏa ước lao động tập thể có nhiều doanh nghiệp và hình thức thỏa ước lao động tập thể khác."
+  },
+  {
+    "id": 471,
+    "premium": true,
+    "question": "Quan hệ xã hội nào sau đây KHÔNG thuộc đối tượng điều chỉnh của luật lao động:",
+    "answer": "Quan hệ giữa thành viên hợp tác xã với hợp tác xã"
+  },
+  {
+    "id": 472,
+    "premium": true,
+    "question": "Người sử dụng lao động có quyền gì sau đây trước và trong quá trình đình công?",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 473,
+    "premium": true,
+    "question": "Nội quy lao động có hiệu lực từ thời điểm nào?",
+    "answer": "Có hiệu lực sau thời hạn 15 ngày, kể từ ngày cơ quan nhà nước có thẩm quyền nhận được đầy đủ hồ sơ đăng ký nội quy lao động"
+  },
+  {
+    "id": 474,
+    "premium": true,
+    "question": "Nơi nào sau đây KHÔNG ĐƯỢC đình công?",
+    "answer": "Công ty TNHH hữu hạn một thành viên Thông tin điện tử hàng hải Việt Nam"
+  },
+  {
+    "id": 475,
+    "premium": true,
+    "question": "Quy định nào dưới đây không phải là nghĩa vụ của người sử dụng lao động trong công tác an toàn, vệ sinh lao động?",
+    "answer": "Đầu tư, nghiên cứu, ứng dụng khoa học và công nghệ về an toàn, vệ sinh lao động."
+  },
+  {
+    "id": 476,
+    "premium": true,
+    "question": "Chọn phương án SAI - Khi sử dụng người lao động chưa đủ 15 tuổi, người sử dụng lao động phải thực hiện điều kiện sau:",
+    "answer": "Chỉ được sử dụng người lao động làm việc ở công trường xây dựng nếu được sự đồng ý của cha mẹ hoặc người đại diện theo pháp luật."
+  },
+  {
+    "id": 477,
+    "premium": true,
+    "question": "Hội đồng trọng tài lao động do chủ tịch UBND cấp tỉnh quyết định thành lập gồm các thành phần:",
+    "answer": "Ít nhất là 15 người bao gồm: tối thiểu 05 thành viên do cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh đề cử; tối thiểu 05 thành viên do Công đoàn cấp tỉnh đề cử; tối thiểu 05 thành viên do các tổ chức đại diện của người sử dụng lao động trên địa bàn tỉnh thống nhất đề cử."
+  },
+  {
+    "id": 478,
+    "premium": true,
+    "question": "Theo quy định hiện hành, người lao động làm việc theo ca được nghỉ chuyển ca như thế nào?",
+    "answer": "Được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác."
+  },
+  {
+    "id": 479,
+    "premium": true,
+    "question": "Trong các trường hợp sau đây, trường hợp nào là đương nhiên chấm dứt hợp đồng lao động:",
+    "answer": "Người lao động là người nước ngoài làm việc tại Việt Nam bị trục xuất theo bản án của tòa án đã có hiệu lực pháp luật."
+  },
+  {
+    "id": 480,
+    "premium": true,
+    "question": "Nghĩa vụ chứng minh trong xử lý kỷ luật lao động thuộc về ai?",
+    "answer": "Người sử dụng lao động phải chứng minh được lỗi của người lao động."
+  },
+  {
+    "id": 481,
+    "premium": true,
+    "question": "Theo quy định hiện hành, người sử dụng lao động có quyền sắp xếp ngày nghỉ hằng tuần của người lao động vào chủ nhật hoặc một ngày xác định khác trong tuần hay không?",
+    "answer": "Có quyền sắp xếp nhưng phải ghi vào nội quy lao động."
+  },
+  {
+    "id": 482,
+    "premium": true,
+    "question": "Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật?",
+    "answer": "Phải nhận người lao động trở lại làm việc theo hợp đồng lao động đã giao kết, phải trả tiền lương, đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong những ngày người lao động không được làm việc và phải trả thêm 1 khoản tiền ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động."
+  },
+  {
+    "id": 483,
+    "premium": true,
+    "question": "Hết thời hạn 30 ngày kể từ ngày Hợp đồng lao động xác định thời hạn kết thúc nhưng hai bên không giao kết hợp đồng mới và người lao động vẫn tiếp tục làm việc thì:",
+    "answer": "Hợp đồng lao động đã giao kết đương nhiên chuyển sang loại hợp đồng lao động không xác định thời hạn."
+  },
+  {
+    "id": 484,
+    "premium": true,
+    "question": "Nội quy lao động là loại văn bản nào?",
+    "answer": "Thỏa thuận giữa người sử dụng lao động và người lao động về quy tắc xử sự."
+  },
+  {
+    "id": 485,
+    "premium": true,
+    "question": "Người lao động có thể được tạm ứng tiền lương hay không?",
+    "answer": "Người lao động được tạm ứng tiền lương theo điều kiện do hai bên thỏa thuận và không bị tính lãi."
+  },
+  {
+    "id": 486,
+    "premium": true,
+    "question": "Những căn cứ để người sử dụng lao động và người lao động thỏa thuận hình thức trả lương là:",
+    "answer": "Căn cứ vào tính chất công việc và điều kiện sản xuất kinh doanh."
+  },
+  {
+    "id": 487,
+    "premium": true,
+    "question": "Cơ quan, cá nhân nào sau đây có thẩm quyền giải quyết tranh chấp lao động cá nhân:",
+    "answer": "Cả 3 đáp án A, B, C"
+  },
+  {
+    "id": 488,
+    "premium": true,
+    "question": "Kỷ luật lao động là gì?",
+    "answer": "Kỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh doanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định."
+  },
+  {
+    "id": 489,
+    "premium": true,
+    "question": "Nghỉ ngày lễ, tết được hưởng nguyên lương đối với lao động là người nước ngoài làm việc tại Việt Nam quy định như thế nào?",
+    "answer": "Ngoài ngày nghỉ lễ, tết theo quy định đối với lao động Việt Nam còn được nghỉ thêm 01 ngày quốc khánh của nước họ."
+  },
+  {
+    "id": 490,
+    "premium": true,
+    "question": "Chủ tịch UBND cấp huyện có thẩm quyền giải quyết tranh chấp lao động nào sau đây:",
+    "answer": "Tranh chấp lao động tập thể về quyền"
+  },
+  {
+    "id": 491,
+    "premium": true,
+    "question": "Chọn phương án SAI. Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ không giới hạn về số giờ làm thêm mà người lao động không được từ chối trong trường hợp:",
+    "answer": "Sản xuất cung cấp điện."
+  },
+  {
+    "id": 492,
+    "premium": true,
+    "question": "Những người tham gia phiên họp xét tính hợp pháp của cuộc đình công gồm có:",
+    "answer": "Hội đồng xét tính hợp pháp của cuộc đình công; Thư ký tòa án; Kiểm sát viên Viện kiểm sát cùng cấp; Đại diện tổ chức đại diện tập thể lao động; Người sử dụng lao động; Đại diện cơ quan, tổ chức theo yêu cầu của Tòa án."
+  },
+  {
+    "id": 493,
+    "premium": true,
+    "question": "Hành vi nào sau đây của người sử dụng lao động KHÔNG bị cấm trước, trong và sau khi đình công?",
+    "answer": "Yêu cầu Tòa án tuyên bố cuộc đình công là bất hợp pháp."
+  },
+  {
+    "id": 494,
+    "premium": true,
+    "question": "Cơ quan nào có thẩm quyền tuyên bố hợp đồng lao động vô hiệu:",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 495,
+    "premium": true,
+    "question": "Thời hiệu yêu cầu Hội đồng trọng tài lao động tranh chấp lao động cá nhân là:",
+    "answer": "09 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền, lợi ích hợp pháp của mình bị vi phạm."
+  },
+  {
+    "id": 496,
+    "premium": true,
+    "question": "Kỳ hạn trả lương cho người lao động hưởng lương tháng được tính như thế nào?",
+    "answer": "Người lao động hưởng lương theo tháng được trả một tháng một lần hoặc nửa tháng một lần."
+  },
+  {
+    "id": 497,
+    "premium": true,
+    "question": "Chọn phương án SAI. Trường hợp người lao động có quyền đình công:",
+    "answer": "Sau khi Tòa án ra quyết định giải quyết tranh chấp nhưng tập thể lao động không đồng ý với phán quyết của Tòa án."
+  },
+  {
+    "id": 498,
+    "premium": true,
+    "question": "Nguyên tắc nào KHÔNG phải là nguyên tắc bảo đảm an toàn, vệ sinh lao động?",
+    "answer": "Bảo đảm quyền của người lao động chủ động phối hợp với cơ quan, tổ chức trong điều tra, thống kê, báo cáo tai nạn lao động, bệnh nghề nghiệp."
+  },
+  {
+    "id": 499,
+    "premium": true,
+    "question": "Người sử dụng lao động có quyền tạm đình chỉ công việc của người lao động để xác minh xử lý kỷ luật lao động trong thời hạn là:",
+    "answer": "Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá 90 ngày."
+  },
+  {
+    "id": 500,
+    "premium": true,
+    "question": "Tiền lương làm thêm giờ (ban ngày) của người lao động được trả lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc đang làm như thế nào?",
+    "answer": "Vào ngày thường, ít nhất bằng 150%; Vào ngày nghỉ hằng tuần, ít nhất bằng 200%; Vào ngày nghỉ lễ, tết ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền lương ngày lễ, tết ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày."
+  }
+]

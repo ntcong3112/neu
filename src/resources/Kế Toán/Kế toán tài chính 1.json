@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Nguyên giá TSCĐ chỉ thay đổi khi doanh nghiệp thực hiện:",
+    "answer": "đánh giá lại theo quyết định của cơ quan có thẩm quyền."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Nguyên giá TSCĐ tăng khi mua là:",
+    "answer": "phụ thuộc vào mục đích sử dụng, phương pháp tính thuế GTGT của doanh nghiệp."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Khi hết thời gian khấu hao TSCĐ theo dự kiến, doanh nghiệp:",
+    "answer": "không tiếp tục trích khấu hao TSCĐ vì TSCĐ đã khấu hao hết, nhưng vẫn quản lý, sử dụng tài sản đó."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Ngày 20/05, một doanh nghiệp tính thuế GTGT theo phương pháp khấu trừ mua 1 dây truyền sản xuất, giá mua trên hóa đơn chưa bao gồm thuế GTGT 10% là 500 triệu. Chi phí lắp đặt đã bao gồm thuế GTGT 10%, đã chi bằng chuyển khoản là 22 triệu. Doanh nghiệp dự kiến thời gian sử dụng là 10 năm. Mức khấu hao trong tháng 5 của TSCĐ là:",
+    "answer": "1,67742 triệu."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Giá trị còn lại của TSCĐ hữu hình được xác định dựa trên:",
+    "answer": "số dư Nợ TK 211 - số dư Có TK 214."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Mua 1 thiết bị vận chuyển, giá mua trên hóa đơn đã bao gồm thuế GTGT 10% là 220 triệu. Chi phí lắp đặt đã bao gồm thuế GTGT 10%, đã chi bằng tiền mặt là 33 triệu. Nguyên giá TSCĐ bằng:",
+    "answer": "233 triệu nếu doanh nghiệp tính thuế GTGT theo phương pháp khấu trừ và TSCĐ dùng cho hoạt động sản xuất chịu thuế GTGT."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Nghiệp vụ ứng trước tiền mặt cho người bán nguyên vật liệu được hạch toán",
+    "answer": "Ghi Nợ TK Phải trả người bán, Có TK Tiền mặt"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Giá trị nguyên vật liệu đã mua xuất kho trả lại cho người bán theo phương pháp nhập trước xuất trước được tính theo giá",
+    "answer": "Giá mà doanh nghiệp mua của người bán trước đây"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Phương pháp giá bình quân sau mỗi lần nhập là phương pháp",
+    "answer": "Sau mỗi lần nhập doanh nghiệp xác định lại giá đơn vị bình quân"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Tình hình luân chuyển vật liệu tại doanh nghiệp trong tháng 6/N",
+    "answer": "32.628.572 đ"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Doanh nghiệp tính thuế GTGT theo phương thức khấu trừ mua nguyên vật liệu nhập kho đã trả bằng tiền mặt bao gồm cả thuế GTGT 10% là 55.000.000. doanh nghiệp được hưởng chiết khấu thanh toán 2% bằng tiền mặt. Chi phí vận chuyển đã trả bằng tiền gửi ngân hàng bao gồm cả thuế 10% bằng tiền gửi ngân hàng là 2.200.000. Giá gốc nguyên vật liệu nhập kho được ghi nhận là",
+    "answer": "57.000.000"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Khi mua vật liệu theo hình thức nhập khẩu, thuế nhập khẩu được tính vào",
+    "answer": "Giá gốc vật liệu nhập kho"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Chứng từ sử dụng để theo dõi thời gian làm việc của công nhân viên trong doanh nghiệp là:",
+    "answer": "Bảng chấm công"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "TK 3383-Bảo hiểm xã hội là tài khoản có :",
+    "answer": "Số dư bên Có và có thể có số dư bên Nợ"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Nếu tiền lương nghỉ phép trích trước lớn hơn tiền lương nghỉ phép thực tế thì số chênh lệch được",
+    "answer": "Ghi giảm chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Tiền thưởng do sáng kiến cải tiến kỹ thuật, tiết kiệm vật tư được ghi:",
+    "answer": "Tăng chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Chế độ phụ cấp lương bao gồm :",
+    "answer": "Tất cả các loại phụ cấp trên"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Tiền lương nghỉ phép phải trả người lao động được tính vào:",
+    "answer": "Chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Xuất phụ tùng thay thế cho sửa chữa thường xuyên TSCĐ ở bộ phận sản xuất, được kế toán ghi:",
+    "answer": "Nợ TK 627 và Có TK 152"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Tiền thuê hoạt động thiết bị sản xuất được tính vào:",
+    "answer": "Chi phí sản xuất chung"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Theo phạm vi phát sinh chi phí, giá thành được chia thành:",
+    "answer": "Giá thành sản xuất và giá thành tiêu thụ"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Chi phí bằng tiền khác cho phân xưởng sản xuất là 3.000.000đ, kế toán ghi:",
+    "answer": "Nợ TK 627/ Có TK 111 : 3.000.000"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Tại 1DN có tiền lương phải trả công nhân sản xuất trong tháng là 100.000.000đ và tiền ăn ca phải trả công nhân sản xuất là 20.000.000đ. Số tiền BHXH, BHYT, BHTN theo tỷ lệ quy định người lao động phải nộp và được trừ vào lương sẽ là:",
+    "answer": "10.500.000đ"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Số dư cuối kì của TK 154 phản ánh:",
+    "answer": "Chi phí sản phẩm dở dang cuối kì của doanh nghiệp"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Chi phí vận chuyển sản phẩm gửi bán bằng tiền mặt được kế toán ghi:",
+    "answer": "NNợ TK 641/ Có TK 111"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Giá vốn hàng bán dùng để xác định kết quả được tính bằng công thức:",
+    "answer": "Giá vốn hàng bán trong kỳ - Giá vốn hàng bán bị trả lại."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Sự khác nhau giữa giảm giá hàng bán và hàng bán bị trả lại ở điểm:",
+    "answer": "Luồng hiện vật."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Tiêu thụ thành phẩm theo phương pháp bán trực tiếp nghĩa là:",
+    "answer": "DN được ghi nhận doanh thu bán hàng và giá vốn hàng bán ngay tại kỳ bán hàng."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Nghiệp vụ “Nhập kho thành phẩm từ sản xuất” được kế toán định khoản:",
+    "answer": "Nợ TK 155/ Có TK 154"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Cuối kỳ, TK 641 được kết chuyển về bên:",
+    "answer": "Nợ TK 911"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Khi mua TSCĐ do chất lượng kém, không đúng thỏa thuận trên Hợp đồng, doanh nghiệp được hưởng giảm giá hàng mua. Khoản giảm trừ này sẽ làm:",
+    "answer": "giảm trừ nguyên giá TSCĐ."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Doanh nghiệp tiến hành kiểm kê cuối kỳ phát hiện thiếu 1 thiết bị sản xuất, chưa rõ nguyên nhân chờ xử lý, kế toán ghi:",
+    "answer": "Nợ TK 214, Nợ TK 138/Có TK 211."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Việc trích khấu hao TSCĐ được thực hiện từ:",
+    "answer": "ngày mà TSCĐ tăng."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Trên Bảng cân đối kế toán khoản mục “Hao mòn TSCĐ” thuộc về:",
+    "answer": "tài sản dài hạn."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Tài khoản 214 “Hao mòn TSCĐ” có số dư:",
+    "answer": "bên Có."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "TSCĐ tăng do tự sản xuất thì nguyên giá TSCĐ là:",
+    "answer": "giá thành sản xuất sản phẩm."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Chi phí vận chuyển khi mua NVL được",
+    "answer": "Ghi tăng giá trị nguyên vật liệu"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Xuất kho công cụ, dụng cụ thuộc loại phân bổ một lần thì chi phí sản xuất sẽ được tính vào",
+    "answer": "Chi phí của đối tượng sử dụng"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Giá trị NVL tồn cuối kỳ khi tính giá NVL xuất theo phương pháp nhập trước- xuất trước là giá:",
+    "answer": "Giá của những lần nhập cuối cùng trong kỳ"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Chiết khấu thương mại được hưởng khi mua vật liệu làm ảnh hưởng tới",
+    "answer": "Giá gốc nguyên vật liệu mua vào"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Khi dùng vật liệu, dụng cụ để góp vốn thành lập cơ sở liên doanh đồng kiểm soát, phần chênh lệch giá xuất kho < giá trị được liên doanh ghi nhận sẽ được hạch toán vào",
+    "answer": "Tăng thu nhập khác trong kỳ"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Khi tính giá xuất kho vật liệu, phải dùng một phương pháp duy nhất trong suốt một niên độ kế toán là yêu cầu của nguyên tắc nào",
+    "answer": "Nguyên tắc nhất quán"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Tỷ lệ tính trên tiền lương để trích lập quỹ KPCĐ theo quy định hiện hành là :",
+    "answer": "2%"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Khi tính số trích BHXH, BHYT, BHTN và KPCĐ trên số tiền lương nghỉ phép của công nhân sản xuất , kế toán doanh nghiệp sẽ ghi :",
+    "answer": "Nợ TK 622 / Có TK 338"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "BHXH do người lao động nộp được :",
+    "answer": "Khấu trừ vào tiền lương"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "BHXH do doanh nghiệp nộp cho người lao động được :",
+    "answer": "Tính vào chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Khi doanh nghiệp tính khoản BHXH phải trả thay lương cho CNV khi bị ốm đau, thai sản, doanh nghiệp thực hiện bút toán:",
+    "answer": "Nợ TK 338/ Có TK 334"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Tiền lương và tiền thưởng của lao động thời vụ sẽ được hạch toán trên tài khoản:",
+    "answer": "TK 3348"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Chi phí vật liệu phụ sử dụng trực tiếp cho chế tạo sản phẩm trong kỳ được tính vào:",
+    "answer": "Chi phí nguyên vật liệu trực tiếp"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Chênh lệch giữa chi phí sản xuất dở dang cuối kỳ so với chi phí sản xuất dở dang đầu kỳ tăng, chi phí sản xuất không thay đổi thì tổng giá thành sản phẩm hoàn thành sẽ:",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Một doanh nghiệp sản xuất hiện đang xác định tỷ lệ hoàn thành của sản phẩm dở dang là 40% và đánh giá sản phẩm dở dang theo phương pháp ước tính sản lượng hoàn thành tương đương. Nếu tỷ lệ trên tăng gấp đôi, các số liệu khác không thay đổi thì:",
+    "answer": "Giá thành sản phẩm giảm đi"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Tập hợp chi phí kinh doanh trong kỳ của Công ty B như sau (đơn vị 1000đ): CPNVLTT là 500.000, CPNCTT là 220.000, CPSXC là 115.000, CPQLDN là 150.000. Cuối kỳ bộ phận sản xuất bàn giao một lô sản phẩm hoàn thành, giá trị sản phẩm dở dang cuối kỳ lớn hơn đầu kỳ là 30.000. Giá thành sản xuất của lô sản phẩm này sẽ là:",
+    "answer": "805.000"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Chi phí điện nước mua ngoài dùng cho phân xưởng theo giá hóa đơn có thuế GTGT 10% là 16.500.000đ, kế toán ghi:",
+    "answer": "Nợ TK 627 : 15.000.000"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Nhận được nguyên vật liệu đã mua tháng trước và chuyển thẳng cho sản xuất sản phẩm, kế toán ghi:",
+    "answer": "Nợ TK 621 và Có TK 151"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Cuối kỳ, TK 641 được kết chuyển về bên:",
+    "answer": "Nợ TK 911"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Chiết khấu thương mại mà DN chấp nhận cho khách hàng hưởng là:",
+    "answer": "Làm giảm doanh thu của doanh nghiệp."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Nghiệp vụ “Nhập kho thành phẩm từ sản xuất” được kế toán định khoản:",
+    "answer": "Nợ TK 155/ Có TK 154"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Khi doanh nghiệp nhập lại kho số thành phẩm gửi bán trước đây, kế toán ghi vào bên:",
+    "answer": "Nợ TK 155"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Xuất thành phẩm từ phân xưởng sản xuất mang đi gửi bán được kế toán định khoản:",
+    "answer": "Nợ TK 157/ Có TK 154"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Tài khoản 5212 có kết cấu:",
+    "answer": "Tương tự như TK 5211"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Thuế Tiêu thụ đặc biệt khi nhập khẩu TSCĐ được tính vào:",
+    "answer": "nguyên giá TSCĐ."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Tỷ lệ khấu hao hàng năm bằng:",
+    "answer": "1/Số năm sử dụng dự kiến."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Nguyên giá TSCĐ có giá trị:",
+    "answer": "từ 30 triệu đồng trở lên."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Thuế GTGT khi mua TSCĐ được ghi nhận:",
+    "answer": "tăng Nguyên giá TSCĐ nếu doanh nghiệp tính thuế GTGT theo phương pháp trực tiếp."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Ngày 20/05, một doanh nghiệp tính thuế GTGT theo phương pháp khấu trừ mua 1 dây truyền sản xuất, giá mua trên hóa đơn chưa bao gồm thuế GTGT 10% là 500 triệu. Chi phí lắp đặt đã bao gồm thuế GTGT 10%, đã chi bằng chuyển khoản là 22 triệu. Doanh nghiệp dự kiến thời gian sử dụng là 10 năm. Mức khấu hao trong tháng 6 của TSCĐ là:",
+    "answer": "4,33333 triệu."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Một TSCĐ có nguyên giá 100 triệu, thời gian sử dụng 5 năm bắt đầu từ đầu năm N. Năm (N+5), giá trị hao mòn lũy kế của TSCĐ là:",
+    "answer": "100 triệu."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Khi nhận vốn góp liên doanh bằng vật liệu kế toán ghi sổ",
+    "answer": "Nợ TK Nguyên vật liệu/ Có TK Vốn đầu tư của chủ sở hữu"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Xuất kho công cụ, dụng cụ thuộc loại phân bổ một lần của bộ phận bán hàng thì chi phí sản xuất sẽ được tính vào",
+    "answer": "Chi phí bán hàng"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Chiết khấu thanh toán được hưởng khi doanh nghiệp mua nguyên vật liệu được tính vào",
+    "answer": "Doanh thu tài chính"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Tình hình luân chuyển vật liệu tại doanh nghiệp trong tháng 6/N",
+    "answer": "34.600.000 đ"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Chi phí liên quan đến thuê ngoài gia công chế biến vật liệu được kế toán tập hợp trực tiếp vào bên Nợ",
+    "answer": "Chi phí sản xuất kinh doanh dở dang"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Công cụ dụng cụ đi đường tháng trước về tới doanh nghiệp thuộc loại phân bổ một lần, xuất dùng trực tiếp cho phân xưởng sản xuất được định khoản",
+    "answer": "Nợ TK 627 Có TK 151"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Tỷ lệ tính trên tiền lương để trích lập quỹ BHYT theo quy định hiện hành là :",
+    "answer": "4.5%"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Hình thức tiền lương theo sản phẩm lũy tiến được áp dụng trong trường hợp :",
+    "answer": "A và B đúng"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Tiền lương chính của doanh nghiệp gồm :",
+    "answer": "Tiền lương cấp bậc"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Khi doanh nghiệp tạm ứng lương kỳ 1 cho người lao động thì số đã tạm ứng được:",
+    "answer": "Ghi Nợ TK 334"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Tỷ lệ tính trên tiền lương để trích lập quỹ BHTN theo quy định hiện hành là",
+    "answer": "2%"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Khi doanh nghiệp trích BHXH, BHYT, BHTN và KPCĐ theo quy định, doanh nghiệp thực hiện bút toán:",
+    "answer": "Nợ các TK chi phí/ Có TK 338"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Để tổng hợp chi phí sản xuất phát sinh trong kỳ, kế toán sử dụng:",
+    "answer": "TK 154 “ Chi phí sản xuất kinh doanh dở dang”"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Tập hợp chi phí kinh doanh trong kỳ của Công ty B như sau (đơn vị 1000đ): CPNVLTT là 500.000, CPNCTT là 220.000, CPSXC là 115.000, CPQLDN là 150.000. Cuối kỳ bộ phận sản xuất bàn giao một lô sản phẩm hoàn thành, giá trị sản phẩm dở dang cuối kỳ nhỏ hơn đầu kỳ là 30.000. Giá thành sản xuất của lô sản phẩm này sẽ là:",
+    "answer": "865.000"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Tại 1DN có tiền lương phải trả công nhân sản xuất trong tháng là 100.000.000đ và tiền ăn ca phải trả công nhân sản xuất là 20.000.000đ. Số tiền BHXH, BHYT, BHTN theo tỷ lệ quy định trừ vào lương của người lao động, kế toán sẽ ghi:",
+    "answer": "Nợ TK 334/ Có TK338 : 10.500.000"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Chênh lệch giữa chi phí sản xuất dở dang đầu kỳ so với chi phí sản xuất dở dang cuối kỳ tăng, chi phí sản xuất không thay đổi thì tổng giá thành sản phẩm hoàn thành sẽ:",
+    "answer": "Tăng thêm"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Tiền lương và phụ cấp lương phải trả cho nhân viên quản lý phân xưởng được tính vào:",
+    "answer": "Chi phí sản xuất chung"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Chi phí sản xuất kinh doanh là biểu hiện bằng tiền của:",
+    "answer": "Toàn bộ các khoản hao phí về lao động sống và lao động vật hóa trong kỳ có liên quan đến hoạt động sản xuất kinh doanh."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Doanh thu thuần về tiêu thụ sản phẩm của DN được xác định bằng:",
+    "answer": "Doanh thu bán hàng – Các khoản giảm doanh thu."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Khi bán sản phẩm thuộc đối tượng chịu thuế GTGT theo phương pháp khấu trừ, tổng giá thanh toán ghi trên hóa đơn được ghi trên tài khoản:",
+    "answer": "TK 131 hoặc TK 111, TK 112"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Cuối kỳ, các khoản giảm trừ doanh thu sẽ:",
+    "answer": "Được kết chuyển sang bên Nợ TK 511"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Chiết khấu thanh toán là:",
+    "answer": "Số tiền DN trả cho khách hàng do khách hàng thanh toán sớm."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Khi tiêu thụ sản phẩm thuộc đối tượng chịu thuế đặc biệt, doanh thu bán hàng là:",
+    "answer": "Giá bán chưa có thuế GTGT đầu ra nếu DN tính thuế theo phương pháp khấu trừ và thuế TTĐB."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Giá vốn hàng bán dùng để xác định kết quả được tính bằng công thức:",
+    "answer": "Giá vốn hàng bán trong kỳ - Giá vốn hàng bán bị trả lại."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Một TSCĐHH có nguyên giá 250 triệu, thời gian sử dụng 5 năm, khấu hao theo phương pháp đường thẳng. Hãy tính mức khấu hao tăng trong tháng 10/N biết TSCĐ được đưa vào sử dụng từ ngày 11/10/N:",
+    "answer": "2.822.589 đ"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Nhượng bán 1 TSCĐ dùng cho sản xuất sản phẩm được ghi nhận:",
+    "answer": "Nợ TK 811, Nợ TK 214/Có TK 211."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Thời gian và phương pháp khấu hao TSCĐ được xem xét ít nhất vào :",
+    "answer": "Cuối mỗi năm tài chính"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Căn cứ tính khấu hao TSCĐ là:",
+    "answer": "nguyên giá của TSCĐ."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "TSCĐ tăng do nhận lại vốn liên doanh đã góp trước đây, định khoản:",
+    "answer": "Nợ TK 211/Có TK 222."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "TSCĐ phân loại theo quyền sở hữu bao gồm:",
+    "answer": "TSCĐ tự có và TSCĐ đi thuê."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Thuế GTGT của vật liệu nhập khẩu",
+    "answer": "Có được khấu trừ hay không còn tùy thuộc vào vật liệu đó sử dụng cho mục đích gì và phương pháp tính thuế GTGT của doanh nghiệp"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Giá thực tế ghi sổ của nguyên vật liệu thuê ngoài gia công nhập kho được tính theo",
+    "answer": "Giá xuất nguyên vật liệu đem đi gia công và các chi phí liên quan đến việc gia công"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Khi dùng vật liệu, dụng cụ để góp vốn thành lập cơ sở liên doanh đồng kiểm soát, phần chênh lệch giá xuất kho > giá trị được liên doanh ghi nhận sẽ được hạch toán vào",
+    "answer": "Tăng chi phí khác trong kỳ"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Tình hình luân chuyển vật liệu tại doanh nghiệp trong tháng 6/N",
+    "answer": "32.628.572 đ"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Tài khoản 152 dùng để theo dõi giá trị hiện có, tình hình biến động tăng giảm giá thực tế nguyên vật liệu của doanh nghiệp",
+    "answer": "Tại kho"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Doanh nghiệp xuất kho nguyên vật liệu thuê gia công được kế toán định khoản",
+    "answer": "Nợ TK Chi phí SK dở dang/ Có TK Nguyên vật liệu"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Hình thức tiền lương theo sản phẩm lũy tiến được áp dụng trong trường hợp :",
+    "answer": "A và B đúng"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Tỷ lệ tính trên tiền lương để trích lập quỹ BHXH theo quy định hiện hành là :",
+    "answer": "25.5%"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Tiền thưởng do sáng kiến cải tiến kỹ thuật, tiết kiệm vật tư được ghi:",
+    "answer": "Tăng chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Khi trích trước tiền lương nghỉ phép của công nhân sản xuất, doanh nghiệp thực hiện bút toán:",
+    "answer": "Nợ các TK 622, 623/ Có 335"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Việc kết chuyển tiền lương phải trả người lao động thành tiền lương giữ hộ chứng tỏ :",
+    "answer": "Tất cả các câu trên đều sai"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Khi doanh nghiệp trích BHXH, BHYT, BHTN và KPCĐ theo quy định, doanh nghiệp thực hiện bút toán:",
+    "answer": "Nợ các TK chi phí/ Có TK 338"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Đơn giá tiền lương sản phẩm tăng sẽ làm cho:",
+    "answer": "Giá thành đơn vị sản xuất của sản phẩm tăng"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Chênh lệch giữa chi phí sản xuất dở dang cuối kỳ so với chi phí sản xuất dở dang đầu kỳ tăng, chi phí sản xuất không thay đổi thì tổng giá thành sản phẩm hoàn thành sẽ:",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Doanh nghiệp đánh giá sản phẩm dở dang theo chi phí nguyên vật liệu chính, giá trị sản phẩm dở dang bao gồm:",
+    "answer": "Chi phí nguyên vật liệu chính"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Tại 1DN có tiền lương phải trả công nhân sản xuất trong tháng là 100.000.000đ và tiền ăn ca phải trả công nhân sản xuất là 20.000.000đ. Khi trích BHXH, BHYT, KPCĐ và BHTN theo tỷ lệ quy định tính vào chi phí trong tháng, kế toán sẽ ghi:",
+    "answer": "Nợ TK 622/ Có TK 338 : 24.000.000"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Tiền ăn giữa ca của công nhân sản xuất sản phẩm được tính vào:",
+    "answer": "Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Doanh nghiệp đánh giá sản phẩm dở dang theo phương pháp sản lượng ước tính tương đương, giá trị sản phẩm dở dang bao gồm",
+    "answer": "Chi phí nguyên vật liệu trực tiếp, chi phí nhân công trực tiếp và chi phí sản xuất chung"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "DN xuất kho một số thành phẩm để phục vụ cho tiêu dùng nội bộ trong DN thuộc bộ phận quản lý DN được kế toán ghi:",
+    "answer": "Nợ TK 642/ Có TK 155"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Giá vốn hàng bán trùng với giá thành sản xuất khi phương pháp tính giá sản phẩm xuất kho là:",
+    "answer": "Phương pháp giá thực tế đích danh."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Doanh thu bán thành phẩm được ghi nhận khi:",
+    "answer": "Khi DN đã giao sản phẩm cho khách hàng và khách hàng đã chấp nhận thanh toán."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Nếu DN tính thuế GTGT theo phương pháp khấu trừ, doanh thu được ghi nhận là:",
+    "answer": "Giá bán chưa có thuế GTGT đầu ra."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Nội dung bên Nợ của TK 511 sẽ bao gồm:",
+    "answer": "Tiền thuế tiêu thụ đặc biệt mà DN phải nộp trong kỳ."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Chi phí vận chuyển số thành phẩm đã bán bị trả lại về nhập kho DN theo hình thức thuê ngoài được ghi nhận:",
+    "answer": "Vào chi phí bán hàng"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Nguyên giá TSCĐ tăng do nhận vốn góp liên doanh là:",
+    "answer": "giá trị thỏa thuận giữa các bên hoặc giá trị do hội đồng định giá xác định."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Nguyên giá TSCĐ chỉ thay đổi khi doanh nghiệp thực hiện:",
+    "answer": "đánh giá lại theo quyết định của cơ quan có thẩm quyền."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Phế liệu nhập kho thu hồi từ thanh lý TSCĐ được ghi nhận:",
+    "answer": "Nợ TK 152/Có TK 711."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Định khoản Nợ TK 211/Có TK 711 có nội dung kinh tế là:",
+    "answer": "TSCĐ tăng do nhận biếu tặng, viện trợ."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Một TSCĐ có nguyên giá 100 triệu, thời gian sử dụng 5 năm bắt đầu từ năm N. Năm (N+2), TSCĐ có nguyên giá là:",
+    "answer": "100 triệu."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Nguyên giá TSCĐ tăng khi mua là:",
+    "answer": "phụ thuộc vào mục đích sử dụng, phương pháp tính thuế GTGT của doanh nghiệp."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Giá trị vật liệu thiếu khi kiểm kê sau khi trừ phần thu hồi do cá nhân bồi thường sẽ được kế toán ghi",
+    "answer": "Nợ TK Giá vốn hàng bán"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Tình hình luân chuyển vật liệu tại doanh nghiệp trong tháng 6/N",
+    "answer": "33.700.000 đ"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Phương pháp giá bình quân sau mỗi lần nhập là phương pháp",
+    "answer": "Sau mỗi lần nhập doanh nghiệp xác định lại giá đơn vị bình quân"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Nghiệp vụ mua nguyên vật liệu chưa trả tiền cho người bán",
+    "answer": "Ghi Nợ TK Nguyên vật liệu, Có TK Phải trả người bán"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Khi mua vật liệu có thuế tiêu thụ đặc biệt, thuế này được tính vào",
+    "answer": "Giá gốc vật liệu nhập kho."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Doanh nghiệp báo hỏng một số dụng cụ, trị giá vốn thực tế xuất kho là 24.000.000 đ, phân bổ 12 tháng đã phân bổ được 11 tháng, phế liệu thu hồi là 500.000 đ. Gía trị công cụ dụng cụ lần cuối khi báo hỏng là",
+    "answer": "1.500.000 đ"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Khi phân tích tiền lương, tiền lương được hưởng khi đi học được xếp vào loại:",
+    "answer": "Tiền lương phụ"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Quỹ tiền lương làm căn cứ trích BHXH là :",
+    "answer": "Tiền lương cấp bậc"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Tiền lương nghỉ phép phải trả người lao động được tính vào:",
+    "answer": "Chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Khi doanh nghiệp tính khoản BHXH phải trả thay lương cho CNV khi bị ốm đau, thai sản, doanh nghiệp thực hiện bút toán:",
+    "answer": "Nợ TK 338/ Có TK 334"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "TK 3383-Bảo hiểm xã hội là tài khoản có :",
+    "answer": "Số dư bên Có và có thể có số dư bên Nợ"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Tỷ lệ tính trên tiền lương để trích lập quỹ BHTN theo quy định hiện hành là",
+    "answer": "2%"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Tổng giá thành sản xuất thực tế của sản phẩm hoàn thành gửi thẳng đi bán, được kế toán ghi vào bên Nợ:",
+    "answer": "TK 157"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Giá thành sản xuất của sản phẩm không bao gồm chi phí:",
+    "answer": "Chi phí bán hàng"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Chênh lệch giữa chi phí sản xuất dở dang cuối kỳ so với chi phí sản xuất dở dang đầu kỳ giảm, chi phí sản xuất không thay đổi thì tổng giá thành sản phẩm hoàn thành sẽ:",
+    "answer": "Tăng thêm"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Giá trị sản phẩm hoàn thành nhập kho 885.000.000đ, kế toán ghi",
+    "answer": "Nợ TK 155/ Có TK 154: 885.000.000"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Giá trị vật liệu xuất dùng cho chế tạo sản phẩm sử dụng không hết nhập lại kho được ghi:",
+    "answer": "Giảm chi phí nguyên vật liệu trực tiếp"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Theo thời điểm và nguồn số liệu để tính giá thành, giá thành được chia thành:",
+    "answer": "Giá thành kế hoạch, giá thành định mức và giá thành thực tế"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Khi đơn vị xuất sản phẩm từ bộ phận sản xuất bán cho khách hàng và đã được khách hàng chấp nhận thanh toán thì trị giá của số sản phẩm này được kế toán ghi vào bên:",
+    "answer": "Có TK 154"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Doanh thu là tổng giá trị các lợi ích kinh tế DN thu được trong kì kế toán, phát sinh từ:",
+    "answer": "Hoạt động sản xuất kinh doanh thông thường."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Giá vốn hàng bán trong kì:",
+    "answer": "Là giá gốc của số sản phẩm tiêu thụ được trong kỳ"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Hàng gửi đi bán:",
+    "answer": "Không còn nằm ở đơn vị nhưng thuộc quyền sở hữu của đơn vị"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Các khoản giảm trừ doanh thu khi phát sinh được tập hợp:",
+    "answer": "Vào bên Nợ của TK giảm trừ doanh thu tương ứng"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Chiết khấu thương mại là khoản:",
+    "answer": "Giảm giá niêm yết cho các khách hàng mua với số lượng lớn."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Trích khấu hao TSCĐ dùng trực tiếp cho hoạt động sản xuất sản phẩm được ghi nhận:",
+    "answer": "Nợ TK 627/Có TK 214."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "TSCĐ tăng do nhận biếu tặng, viện trợ thuộc quan hệ đối ứng:",
+    "answer": "tài sản tăng - nguồn vốn tăng."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Nguyên giá TSCĐ được theo dõi trên tài khoản:",
+    "answer": "TK 211 và TK 213."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Mua 1 thiết bị vận tải dùng cho bán hàng, giá mua ghi trên hóa đơn chưa bao gồm thuế GTGT 10% là 200 triệu. Kèm theo thiết bị là 1 số phụ tùng thay thế có giá trị trên thị trường là 20 triệu. Như vậy, Nguyên giá thiết bị là bao nhiêu, biết DN tính thuế GTGT theo phương pháp khấu trừ:",
+    "answer": "180 triệu"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Mua TSCĐ đã nhận bàn giao, thanh toán trừ vào số tiền trả trước cho người bán bằng tiền vay dài hạn từ kỳ trước. Nghiệp vụ trên thuộc quan hệ đối ứng:",
+    "answer": "tài sản tăng - tài sản giảm."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Một TSCĐ có nguyên giá 100 triệu, thời gian sử dụng 5 năm bắt đầu từ năm N. Biết TSCĐ được tính khấu hao theo phương pháp đường thẳng, hết năm (N+2), giá trị còn lại của TSCĐ là:",
+    "answer": "40 triệu."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Giá trị nguyên vật liệu đã mua xuất kho trả lại cho người bán theo phương pháp nhập trước xuất trước được tính theo giá",
+    "answer": "Giá mà doanh nghiệp mua của người bán trước đây"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Nhiên liệu trong kỳ sử dụng cho sản xuất sản phẩm được hạch toán",
+    "answer": "Nợ TK Chi phí sản xuất chung"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Giá trị công cụ dụng cụ xuất dùng phân bổ nhiều lần sẽ",
+    "answer": "Làm ảnh hưởng đến chi phí sản xuất kinh doanh của kỳ kế toán hiện hành"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Hao hụt tự nhiên trong quá trình thu mua vật liệu sẽ làm ảnh hưởng đến",
+    "answer": "Đơn giá vật liệu nhập kho"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Số tiền bớt giá được hưởng khi mua vật liệu làm ảnh hưởng tới",
+    "answer": "Giá gốc nguyên vật liệu mua vào"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Tình hình luân chuyển vật liệu tại doanh nghiệp trong tháng 6/N",
+    "answer": "32.628.572 đ"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Số tiền đóng quỹ BHTN thuộc trách nhiệm của người sử dụng lao động được kế toán hạch toán vào:",
+    "answer": "Chi phí sản xuất, kinh doanh trong kỳ"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Tiền lương chính của doanh nghiệp gồm :",
+    "answer": "Tiền lương cấp bậc"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Tiền lương và tiền thưởng của lao động thời vụ sẽ được hạch toán trên tài khoản:",
+    "answer": "TK 3348"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Khi tính số trích BHXH, BHYT, BHTN và KPCĐ trên số tiền lương nghỉ phép của công nhân sản xuất , kế toán doanh nghiệp sẽ ghi :",
+    "answer": "Nợ TK 622 / Có TK 338"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Chế độ phụ cấp lương bao gồm :",
+    "answer": "Tất cả các loại phụ cấp trên"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Nếu tiền lương nghỉ phép trích trước lớn hơn tiền lương nghỉ phép thực tế thì số chênh lệch được",
+    "answer": "Ghi giảm chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Một doanh nghiệp sản xuất hiện đang xác định tỷ lệ hoàn thành của sản phẩm dở dang là 40% và đánh giá sản phẩm dở dang theo phương pháp ước tính sản lượng hoàn thành tương đương. Nếu tỷ lệ trên tăng gấp đôi, các số liệu khác không thay đổi thì:",
+    "answer": "Giá thành sản phẩm giảm đi"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Chi phí khấu hao tài sản cố định ở bộ phận sản xuất được tính vào:",
+    "answer": "Chi phí sản xuất chung"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Chênh lệch giữa chi phí sản xuất dở dang đầu kỳ so với chi phí sản xuất dở dang cuối kỳ giảm, chi phí sản xuất không thay đổi thì tổng giá thành sản phẩm hoàn thành sẽ:",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Chi phí bằng tiền khác cho phân xưởng sản xuất là 3.000.000đ, kế toán ghi:",
+    "answer": "Nợ TK 627/ Có TK 111 : 3.000.000"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Tiền thuê hoạt động thiết bị sản xuất được tính vào:",
+    "answer": "Chi phí sản xuất chung"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Tổng giá thành sản xuất thực tế của sản phẩm hoàn thành nhập kho, được kế toán ghi vào bên Nợ:",
+    "answer": "TK 155"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "DN giảm giá cho khách hàng khi:",
+    "answer": "Sản phẩm bị lỗi, kém phẩm chất."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Khi đơn vị xuất kho sản phẩm chuyển cho khách hàng chờ chấp nhận thanh toán, kế toán ghi:",
+    "answer": "NNợ TK 157/ Có TK 155"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Khi nhận bán hàng đại lí cho các DN khác, số tiền hàng đơn vị đã bán được tính vào",
+    "answer": "Khoản phải trả của DN."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Khi tiêu thụ sản phẩm thuộc đối tượng chịu thuế tiêu thụ đặc biệt, doanh thu bán hàng là:",
+    "answer": "Giá bán của sản phẩm đã bao gồm thuế tiêu thụ đặc biệt."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Khi phát sinh chiết khấu thanh toán mà DN phải trả cho khách hàng, kế toán sẽ:",
+    "answer": "Ghi Nợ TK 635."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Cuối kỳ, TK 642 được kết chuyển về bên:",
+    "answer": "Nợ TK 911"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Tài khoản 214 “Hao mòn TSCĐ” có số dư:",
+    "answer": "bên Có."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Mua 1 thiết bị vận tải dùng cho bán hàng, giá mua ghi trên hóa đơn chưa bao gồm thuế GTGT 10% là 200 triệu. Kèm theo thiết bị là 1 số phụ tùng thay thế có giá trị trên thị trường là 20 triệu. Như vậy, Nguyên giá thiết bị là bao nhiêu, biết DN tính thuế GTGT theo phương pháp khấu trừ:",
+    "answer": "180 triệu"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Nghiệp vụ “Nhận bàn giao 1 thiết bị dùng cho hoạt động sản xuất, tiền đã trả từ kỳ trước.” được ghi nhận:",
+    "answer": "Nợ TK 211, Nợ TK 133/Có TK 331."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Thời gian tính khấu hao TSCĐ:",
+    "answer": "Do doanh nghiệp tự quyết định dựa trên khung khấu hao của Bộ Tài chính quy định."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "TSCĐ tăng do tự sản xuất thì nguyên giá TSCĐ là:",
+    "answer": "giá thành sản xuất sản phẩm."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Mua 1 thiết bị vận chuyển, giá mua trên hóa đơn đã bao gồm thuế GTGT 10% là 220 triệu. Chi phí lắp đặt đã bao gồm thuế GTGT 10%, đã chi bằng tiền mặt là 33 triệu. Nguyên giá TSCĐ bằng:",
+    "answer": "233 triệu nếu doanh nghiệp tính thuế GTGT theo phương pháp khấu trừ và TSCĐ dùng cho hoạt động sản xuất chịu thuế GTGT."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Chiết khấu thương mại được hưởng khi mua vật liệu làm ảnh hưởng tới",
+    "answer": "Giá gốc nguyên vật liệu mua vào"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Nghiệp vụ mua nguyên vật liệu chưa trả tiền cho người bán",
+    "answer": "Ghi Nợ TK Nguyên vật liệu, Có TK Phải trả người bán"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Giá trị nguyên vật liệu đã mua xuất kho trả lại cho người bán theo phương pháp giá bình quân cả kỳ được tính theo giá",
+    "answer": "Giá mà doanh nghiệp mua của người bán trước đây"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Tình hình luân chuyển vật liệu tại doanh nghiệp trong tháng 6/N",
+    "answer": "33.700.000 đ"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Số tiền bớt giá được hưởng khi mua vật liệu làm ảnh hưởng tới",
+    "answer": "Giá gốc nguyên vật liệu mua vào"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Khi dùng vật liệu, dụng cụ để góp vốn thành lập cơ sở liên doanh đồng kiểm soát, phần chênh lệch giá xuất kho > giá trị được liên doanh ghi nhận sẽ được hạch toán vào",
+    "answer": "Tăng chi phí khác trong kỳ"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Khi phân tích tiền lương, tiền lương được hưởng khi đi học được xếp vào loại:",
+    "answer": "Tiền lương phụ"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Chứng từ sử dụng để theo dõi thời gian làm việc của công nhân viên trong doanh nghiệp là:",
+    "answer": "Bảng chấm công"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Số tiền đóng quỹ BHTN thuộc trách nhiệm của người sử dụng lao động được kế toán hạch toán vào:",
+    "answer": "Chi phí sản xuất, kinh doanh trong kỳ"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Quỹ tiền lương làm căn cứ trích BHXH là :",
+    "answer": "Tiền lương cấp bậc"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Tiền thưởng do sáng kiến cải tiến kỹ thuật, tiết kiệm vật tư được ghi:",
+    "answer": "Tăng chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Tiền lương và tiền thưởng của lao động thời vụ sẽ được hạch toán trên tài khoản:",
+    "answer": "TK 3348"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Giá trị sản phẩm hoàn thành nhập kho 885.000.000đ, kế toán ghi",
+    "answer": "Nợ TK 155/ Có TK 154: 885.000.000"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Giá trị sản phẩm hỏng không sửa chữa được thu hồi từ quá trình sản xuất 12.000.000đ, kế toán ghi:",
+    "answer": "Nợ TK 1381/ Có TK 154: 12.000.000"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Chênh lệch giữa chi phí sản xuất dở dang đầu kỳ so với chi phí sản xuất dở dang cuối kỳ giảm, chi phí sản xuất không thay đổi thì tổng giá thành sản phẩm hoàn thành sẽ:",
+    "answer": "Giảm đi"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Chi phí sản xuất kinh doanh là biểu hiện bằng tiền của:",
+    "answer": "Toàn bộ các khoản hao phí về lao động sống và lao động vật hóa trong kỳ có liên quan đến hoạt động sản xuất kinh doanh."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Tại 1DN có tiền lương phải trả công nhân sản xuất trong tháng là 100.000.000đ và tiền ăn ca phải trả công nhân sản xuất là 20.000.000đ. Khi trích BHXH, BHYT, KPCĐ và BHTN theo tỷ lệ quy định tính vào chi phí trong tháng, kế toán sẽ ghi:",
+    "answer": "Nợ TK 622/ Có TK 338 : 24.000.000"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Tại 1DN có tiền lương phải trả công nhân sản xuất trong tháng là 100.000.000đ và tiền ăn ca phải trả công nhân sản xuất là 20.000.000đ. Số tiền BHXH, BHYT, BHTN theo tỷ lệ quy định trừ vào lương của người lao động, kế toán sẽ ghi:",
+    "answer": "Nợ TK 334/ Có TK338 : 10.500.000"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Khi xuất sản phẩm giao cho đại lý, nhờ đại lý bán hộ, kế toán ghi:",
+    "answer": "Tăng giá trị hàng gửi bán."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Khi tiêu thụ sản phẩm thuộc đối tượng chịu thuế đặc biệt, doanh thu bán hàng là:",
+    "answer": "Giá bán chưa có thuế GTGT đầu ra nếu DN tính thuế theo phương pháp khấu trừ và thuế TTĐB."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Khi đơn vị xuất kho sản phẩm chuyển cho khách hàng chờ chấp nhận thanh toán, kế toán ghi:",
+    "answer": "NNợ TK 157/ Có TK 155"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Chiết khấu thương mại mà DN chấp nhận cho khách hàng hưởng là:",
+    "answer": "Làm giảm doanh thu của doanh nghiệp."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Giá vốn của số hàng đã bán nhưng bị trả lại được DN nhập kho:",
+    "answer": "Là giá vốn của chính số sản phẩm này khi xuất bán."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Tài khoản 5212 có kết cấu:",
+    "answer": "Tương tự như TK 5211"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Phế liệu nhập kho thu hồi từ thanh lý TSCĐ được ghi nhận:",
+    "answer": "Nợ TK 152/Có TK 711."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Tỷ lệ khấu hao hàng năm bằng:",
+    "answer": "1/Số năm sử dụng dự kiến."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Ngày 20/05, một doanh nghiệp tính thuế GTGT theo phương pháp khấu trừ mua 1 dây truyền sản xuất, giá mua trên hóa đơn chưa bao gồm thuế GTGT 10% là 500 triệu. Chi phí lắp đặt đã bao gồm thuế GTGT 10%, đã chi bằng chuyển khoản là 22 triệu. Doanh nghiệp dự kiến thời gian sử dụng là 10 năm. Mức khấu hao trong tháng 6 của TSCĐ là:",
+    "answer": "4,33333 triệu."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Thuế GTGT khi mua TSCĐ được ghi nhận:",
+    "answer": "tăng Nguyên giá TSCĐ nếu doanh nghiệp tính thuế GTGT theo phương pháp trực tiếp."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Một TSCĐ có nguyên giá 100 triệu, thời gian sử dụng 5 năm bắt đầu từ năm N. Biết TSCĐ được tính khấu hao theo phương pháp đường thẳng, hết năm (N+2), giá trị còn lại của TSCĐ là:",
+    "answer": "40 triệu."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Một TSCĐHH có nguyên giá 250 triệu, thời gian sử dụng 5 năm, khấu hao theo phương pháp đường thẳng. Hãy tính mức khấu hao tăng trong tháng 10/N biết TSCĐ được đưa vào sử dụng từ ngày 11/10/N:",
+    "answer": "2.822.589 đ"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Thuế GTGT của vật liệu nhập khẩu",
+    "answer": "Có được khấu trừ hay không còn tùy thuộc vào vật liệu đó sử dụng cho mục đích gì và phương pháp tính thuế GTGT của doanh nghiệp"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Tình hình luân chuyển vật liệu tại doanh nghiệp trong tháng 6/N",
+    "answer": "34.600.000 đ"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Doanh nghiệp xuất kho nguyên vật liệu thuê gia công được kế toán định khoản",
+    "answer": "Nợ TK Chi phí SK dở dang/ Có TK Nguyên vật liệu"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Chi phí liên quan đến thuê ngoài gia công chế biến vật liệu được kế toán tập hợp trực tiếp vào bên Nợ",
+    "answer": "Chi phí sản xuất kinh doanh dở dang"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Tình hình luân chuyển vật liệu tại doanh nghiệp trong tháng 6/N",
+    "answer": "32.628.572 đ"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Giá trị công cụ dụng cụ xuất dùng phân bổ nhiều lần sẽ",
+    "answer": "Làm ảnh hưởng đến chi phí sản xuất kinh doanh của kỳ kế toán hiện hành"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Khi doanh nghiệp tạm ứng lương kỳ 1 cho người lao động thì số đã tạm ứng được:",
+    "answer": "Ghi Nợ TK 334"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Chứng từ sử dụng trong hạch toán số lượng lao động là :",
+    "answer": "Quyết định tuyển dụng, thuyên chuyển"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Nếu tiền lương nghỉ phép trích trước lớn hơn tiền lương nghỉ phép thực tế thì số chênh lệch được",
+    "answer": "Ghi giảm chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Hình thức tiền lương theo sản phẩm lũy tiến được áp dụng trong trường hợp :",
+    "answer": "A và B đúng"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Tỷ lệ tính trên tiền lương để trích lập quỹ BHXH theo quy định hiện hành là :",
+    "answer": "25.5%"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Khi doanh nghiệp tính khoản BHXH phải trả thay lương cho CNV khi bị ốm đau, thai sản, doanh nghiệp thực hiện bút toán:",
+    "answer": "Nợ TK 338/ Có TK 334"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Doanh nghiệp đánh giá sản phẩm dở dang theo phương pháp sản lượng ước tính tương đương, giá trị sản phẩm dở dang bao gồm",
+    "answer": "Chi phí nguyên vật liệu trực tiếp, chi phí nhân công trực tiếp và chi phí sản xuất chung"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Tổng giá thành sản xuất sản phẩm hoàn thành trong kỳ được xác định bằng:",
+    "answer": "Tổng chi phí sản xuất phát sinh trong kỳ cộng (+) hoặc trừ (-) chênh lệch giữa chi phí sản xuất dở dang đầu kỳ so với chi phí sản xuất dở dang cuối kỳ."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Công ty B sản xuất 2 loại sản phẩm A1 và A2.Tổng chi phí sản xuất 2 loại sản phẩm trong kỳ là 800.000.000đ. Cuối kỳ thu được 1000SP A1 và 600SP A2, không có sản phẩm dở dang đầu kỳ và cuối kỳ. Nếu công ty tính giá thành sản phẩm theo phương pháp hệ số và hệ số quy đổi của SP A1 và A2 lần lượt là 1,1; 1,5 thì giá thành đơn vị sản phẩm A1 và A2 sẽ là:",
+    "answer": "440.000đ và 600.000đ"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Nếu giá trị sản phẩm dở dang đầu kỳ tăng 30.000.000đ và giá trị sản phẩm dở dang cuối kỳ cũng tăng 30.000.000đ, giá thành sản phẩm sẽ:",
+    "answer": "Không thay đổi"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Tổng giá thành sản xuất thực tế của sản phẩm hoàn thành nhập kho, được kế toán ghi vào bên Nợ:",
+    "answer": "TK 155"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Tiền ăn giữa ca của công nhân sản xuất sản phẩm được tính vào:",
+    "answer": "Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Doanh thu bán thành phẩm được ghi nhận khi:",
+    "answer": "Khi DN đã giao sản phẩm cho khách hàng và khách hàng đã chấp nhận thanh toán."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Khi nhận bán hàng đại lí cho các DN khác, số tiền hàng đơn vị đã bán được tính vào",
+    "answer": "Khoản phải trả của DN."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Khi doanh nghiệp nhập lại kho số thành phẩm gửi bán trước đây, kế toán ghi vào bên:",
+    "answer": "Nợ TK 155"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Giá vốn hàng bán trong kì:",
+    "answer": "Là giá gốc của số sản phẩm tiêu thụ được trong kỳ"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Khi đơn vị xuất sản phẩm từ bộ phận sản xuất bán cho khách hàng và đã được khách hàng chấp nhận thanh toán thì trị giá của số sản phẩm này được kế toán ghi vào bên:",
+    "answer": "Có TK 154"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "DN xuất kho một số thành phẩm để phục vụ cho tiêu dùng nội bộ trong DN thuộc bộ phận quản lý DN được kế toán ghi:",
+    "answer": "Nợ TK 642/ Có TK 155"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Nguyên giá TSCĐ tăng do nhận vốn góp liên doanh là:",
+    "answer": "giá trị thỏa thuận giữa các bên hoặc giá trị do hội đồng định giá xác định."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Ngày 20/05, một doanh nghiệp tính thuế GTGT theo phương pháp khấu trừ mua 1 dây truyền sản xuất, giá mua trên hóa đơn chưa bao gồm thuế GTGT 10% là 500 triệu. Chi phí lắp đặt đã bao gồm thuế GTGT 10%, đã chi bằng chuyển khoản là 22 triệu. Doanh nghiệp dự kiến thời gian sử dụng là 10 năm. Mức khấu hao trong tháng 5 của TSCĐ là:",
+    "answer": "1,67742 triệu."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Một TSCĐ có nguyên giá 100 triệu, thời gian sử dụng 5 năm bắt đầu từ đầu năm N. Năm (N+5), giá trị hao mòn lũy kế của TSCĐ là:",
+    "answer": "100 triệu."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Định khoản Nợ TK 211/Có TK 711 có nội dung kinh tế là:",
+    "answer": "TSCĐ tăng do nhận biếu tặng, viện trợ."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Khi mua TSCĐ do chất lượng kém, không đúng thỏa thuận trên Hợp đồng, doanh nghiệp được hưởng giảm giá hàng mua. Khoản giảm trừ này sẽ làm:",
+    "answer": "giảm trừ nguyên giá TSCĐ."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Việc trích khấu hao TSCĐ được thực hiện từ:",
+    "answer": "ngày mà TSCĐ tăng."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Khi tính giá xuất kho vật liệu, phải dùng một phương pháp duy nhất trong suốt một niên độ kế toán là yêu cầu của nguyên tắc nào",
+    "answer": "Nguyên tắc nhất quán"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Xuất kho công cụ, dụng cụ thuộc loại phân bổ một lần thì chi phí sản xuất sẽ được tính vào",
+    "answer": "Chi phí của đối tượng sử dụng"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Khi mua vật liệu có thuế tiêu thụ đặc biệt, thuế này được tính vào",
+    "answer": "Giá gốc vật liệu nhập kho."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Giá thực tế ghi sổ của nguyên vật liệu thuê ngoài gia công nhập kho được tính theo",
+    "answer": "Giá xuất nguyên vật liệu đem đi gia công và các chi phí liên quan đến việc gia công"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Khi dùng vật liệu, dụng cụ để góp vốn thành lập cơ sở liên doanh đồng kiểm soát, phần chênh lệch giá xuất kho < giá trị được liên doanh ghi nhận sẽ được hạch toán vào",
+    "answer": "Tăng thu nhập khác trong kỳ"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Nhiên liệu trong kỳ sử dụng cho sản xuất sản phẩm được hạch toán",
+    "answer": "Nợ TK Chi phí sản xuất chung"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Việc kết chuyển tiền lương phải trả người lao động thành tiền lương giữ hộ chứng tỏ :",
+    "answer": "Tất cả các câu trên đều sai"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Tiền lương nghỉ phép phải trả người lao động được tính vào:",
+    "answer": "Chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Tiền lương chính của doanh nghiệp gồm :",
+    "answer": "Tiền lương cấp bậc"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "BHXH do doanh nghiệp nộp cho người lao động được :",
+    "answer": "Tính vào chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Tỷ lệ tính trên tiền lương để trích lập quỹ KPCĐ theo quy định hiện hành là :",
+    "answer": "2%"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Tỷ lệ tính trên tiền lương để trích lập quỹ BHTN theo quy định hiện hành là",
+    "answer": "2%"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Phế liệu thu hồi từ sản xuất nhập kho theo giá đánh giá 4.500.000đ, kế toán ghi:",
+    "answer": "Nợ TK 152/ Có TK 154: 4.500.000"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Tại 1DN có tiền lương phải trả công nhân sản xuất trong tháng là 100.000.000đ và tiền ăn ca phải trả công nhân sản xuất là 20.000.000đ. Số tiền trích BHXH, BHYT, KPCĐ và BHTN theo tỷ lệ quy định tính vào chi phí trong tháng sẽ là:",
+    "answer": "24.000.000đ"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Theo thời điểm và nguồn số liệu để tính giá thành, giá thành được chia thành:",
+    "answer": "Giá thành kế hoạch, giá thành định mức và giá thành thực tế"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Tổng giá thành sản xuất thực tế của sản phẩm hoàn thành gửi thẳng đi bán, được kế toán ghi vào bên Nợ:",
+    "answer": "TK 157"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Chi phí nguyên vật liệu trực tiếp bao gồm:",
+    "answer": "Tổng giá trị nguyên vật liệu đã sử dụng trong kỳ cho chế tạo sản phẩm."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Giá thành sản xuất của sản phẩm không bao gồm chi phí:",
+    "answer": "Chi phí bán hàng"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Chi phí vận chuyển số thành phẩm đã bán bị trả lại về nhập kho DN theo hình thức thuê ngoài được ghi nhận:",
+    "answer": "Vào chi phí bán hàng"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Chiết khấu thanh toán là:",
+    "answer": "Số tiền DN trả cho khách hàng do khách hàng thanh toán sớm."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Nếu DN tính thuế GTGT theo phương pháp khấu trừ, doanh thu được ghi nhận là:",
+    "answer": "Giá bán chưa có thuế GTGT đầu ra."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Doanh thu thuần về bán hàng được tính bằng:",
+    "answer": "Doanh thu bán hàng – các khoản giảm doanh thu"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Cuối kỳ, các khoản giảm trừ doanh thu sẽ:",
+    "answer": "Được kết chuyển sang bên Nợ TK 511"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Nội dung bên Nợ của TK 511 sẽ bao gồm:",
+    "answer": "Tiền thuế tiêu thụ đặc biệt mà DN phải nộp trong kỳ."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "TSCĐ tăng do nhận lại vốn liên doanh đã góp trước đây, định khoản:",
+    "answer": "Nợ TK 211/Có TK 222."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Mua TSCĐ đã nhận bàn giao, thanh toán trừ vào số tiền trả trước cho người bán bằng tiền vay dài hạn từ kỳ trước. Nghiệp vụ trên thuộc quan hệ đối ứng:",
+    "answer": "tài sản tăng - tài sản giảm."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Nhượng bán 1 TSCĐ dùng cho sản xuất sản phẩm được ghi nhận:",
+    "answer": "Nợ TK 811, Nợ TK 214/Có TK 211."
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Một TSCĐ có nguyên giá 100 triệu, thời gian sử dụng 5 năm bắt đầu từ năm N. Năm (N+2), TSCĐ có nguyên giá là:",
+    "answer": "100 triệu."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Một dây truyền sản xuất có giá mua trên hóa đơn đã bao gồm thuế GTGT 10% là 726 triệu, thời gian sử dụng 6 năm, khấu hao theo phương pháp đường thẳng. Giá trị phụ tùng thay thế là 60 triệu. Hãy tính mức khấu hao trong 1 năm, biết DN tính thuế GTGT theo phương pháp khấu trừ.",
+    "answer": "100 triệu"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Doanh nghiệp tiến hành kiểm kê cuối kỳ phát hiện thiếu 1 thiết bị sản xuất, chưa rõ nguyên nhân chờ xử lý, kế toán ghi:",
+    "answer": "Nợ TK 214, Nợ TK 138/Có TK 211."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Giá trị NVL tồn cuối kỳ khi tính giá NVL xuất theo phương pháp nhập trước- xuất trước là giá:",
+    "answer": "Giá của những lần nhập cuối cùng trong kỳ"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Chiết khấu thanh toán được hưởng khi doanh nghiệp mua nguyên vật liệu được tính vào",
+    "answer": "Doanh thu tài chính"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Doanh nghiệp tính thuế GTGT theo phương thức khấu trừ mua nguyên vật liệu nhập kho đã trả bằng tiền mặt bao gồm cả thuế GTGT 10% là 55.000.000. doanh nghiệp được hưởng chiết khấu thanh toán 2% bằng tiền mặt. Chi phí vận chuyển đã trả bằng tiền gửi ngân hàng bao gồm cả thuế 10% bằng tiền gửi ngân hàng là 2.200.000. Giá gốc nguyên vật liệu nhập kho được ghi nhận là",
+    "answer": "57.000.000"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Công cụ dụng cụ đi đường tháng trước về tới doanh nghiệp thuộc loại phân bổ một lần, xuất dùng trực tiếp cho phân xưởng sản xuất được định khoản",
+    "answer": "Nợ TK 627 Có TK 151"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Doanh nghiệp báo hỏng một số dụng cụ, trị giá vốn thực tế xuất kho là 24.000.000 đ, phân bổ 12 tháng đã phân bổ được 11 tháng, phế liệu thu hồi là 500.000 đ. Gía trị công cụ dụng cụ lần cuối khi báo hỏng là",
+    "answer": "1.500.000 đ"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Khi mua vật liệu theo hình thức nhập khẩu, thuế nhập khẩu được tính vào",
+    "answer": "Giá gốc vật liệu nhập kho"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "TK 3383-Bảo hiểm xã hội là tài khoản có :",
+    "answer": "Số dư bên Có và có thể có số dư bên Nợ"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Chế độ phụ cấp lương bao gồm :",
+    "answer": "Tất cả các loại phụ cấp trên"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Khi trích trước tiền lương nghỉ phép của công nhân sản xuất, doanh nghiệp thực hiện bút toán:",
+    "answer": "Nợ các TK 622, 623/ Có 335"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Khi tính thuế thu nhập của CNV, người lao động phải nộp Nhà nước, kế toán doanh nghiệp thực hiện bút toán",
+    "answer": "Nợ TK 334/ Có TK 333(3335)"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Khi doanh nghiệp trích BHXH, BHYT, BHTN và KPCĐ theo quy định, doanh nghiệp thực hiện bút toán:",
+    "answer": "Nợ các TK chi phí/ Có TK 338"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Khi tính số trích BHXH, BHYT, BHTN và KPCĐ trên số tiền lương nghỉ phép của công nhân sản xuất , kế toán doanh nghiệp sẽ ghi :",
+    "answer": "Nợ TK 622 / Có TK 338"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Công ty B sản xuất 2 loại sản phẩm A1 và A2.Tổng chi phí sản xuất 2 loại sản phẩm trong kỳ là 950.000.000đ. Cuối kỳ thu được 1000SP A1 và 500SP A2, không có sản phẩm dở dang đầu kỳ và cuối kỳ. Nếu công ty tính giá thành sản phẩm theo phương pháp tỷ lệ và giá thành đơn vị kế hoạch của SP A1 và A2 lần lượt là 600.000đ/SPA1 và 800.000đ/SPA2 thì giá thành thực tế đơn vị sản phẩm A1 và A2 sẽ là:",
+    "answer": "570.000đ và 760.000đ"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Khi kết chuyển chi phí sản xuất chung phát sinh trong kỳ, kế toán ghi:",
+    "answer": "Nợ TK 154/ Có TK 627"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Nếu giá trị sản phẩm dở dang đầu kỳ giảm 30.000.000đ và giá trị sản phẩm dở dang cuối kỳ tăng 30.000.000đ, giá thành sản phẩm sẽ",
+    "answer": "Giảm 60.000.000đ"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Một doanh nghiệp sản xuất hiện đang xác định tỷ lệ hoàn thành của sản phẩm dở dang là 40% và đánh giá sản phẩm dở dang theo phương pháp ước tính sản lượng hoàn thành tương đương. Nếu tỷ lệ trên tăng gấp đôi, các số liệu khác không thay đổi thì giá trị sản phẩm dở dang sẽ:",
+    "answer": "Tăng thêm"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Doanh nghiệp đánh giá sản phẩm dở dang theo chi phí nguyên vật liệu chính, giá trị sản phẩm dở dang bao gồm:",
+    "answer": "Chi phí nguyên vật liệu chính"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Chi phí sản xuất chung là những chi phí",
+    "answer": "Phát sinh trong phạm vi phân xưởng, bộ phận sản xuất trừ chi phí nguyên vật liệu trực tiếp và nhân công trực tiếp"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Giá vốn hàng bán trùng với giá thành sản xuất khi phương pháp tính giá sản phẩm xuất kho là:",
+    "answer": "Phương pháp giá thực tế đích danh."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Chiết khấu thương mại là khoản:",
+    "answer": "Giảm giá niêm yết cho các khách hàng mua với số lượng lớn."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Doanh thu bán hàng là:",
+    "answer": "Là tổng giá trị các lợi ích kinh tế mà DN đã hoặc sẽ thu được, phát sinh từ hoạt động sản xuất, kinh doanh thông thường của DN, góp phần làm tăng VCSH."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Khi đơn vị bán hàng trả góp, doanh thu bán hàng được ghi nhận gồm:",
+    "answer": "Giá hóa đơn chưa bao gồm lãi trả góp."
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "DN giảm giá cho khách hàng khi:",
+    "answer": "Sản phẩm bị lỗi, kém phẩm chất."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Xuất thành phẩm từ phân xưởng sản xuất mang đi gửi bán được kế toán định khoản:",
+    "answer": "Nợ TK 157/ Có TK 154"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Giá trị còn lại của TSCĐ hữu hình được xác định dựa trên:",
+    "answer": "số dư Nợ TK 211 - số dư Có TK 214."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Thuế Tiêu thụ đặc biệt khi nhập khẩu TSCĐ được tính vào:",
+    "answer": "nguyên giá TSCĐ."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Khi hết thời gian khấu hao TSCĐ theo dự kiến, doanh nghiệp:",
+    "answer": "không tiếp tục trích khấu hao TSCĐ vì TSCĐ đã khấu hao hết, nhưng vẫn quản lý, sử dụng tài sản đó."
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "TSCĐ phân loại theo quyền sở hữu bao gồm:",
+    "answer": "TSCĐ tự có và TSCĐ đi thuê."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Căn cứ tính khấu hao TSCĐ là:",
+    "answer": "nguyên giá của TSCĐ."
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Thời gian và phương pháp khấu hao TSCĐ được xem xét ít nhất vào :",
+    "answer": "Cuối mỗi năm tài chính"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Chi phí vận chuyển khi mua NVL được",
+    "answer": "Ghi tăng giá trị nguyên vật liệu"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Nguyên tắc nhất quán trong tính giá đòi hỏi",
+    "answer": "Sử dụng nhất quán các phương pháp tính giá, không nhất thiết sử dụng một phương pháp"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Phương pháp giá bình quân cả kỳ là phương pháp",
+    "answer": "Căn cứ vào giá thực tế NVL tồn đầu kỳ và nhập trong kỳ xác định giá bình quân NVL trong kỳ"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Khi nhận vốn góp liên doanh bằng vật liệu kế toán ghi sổ",
+    "answer": "Nợ TK Nguyên vật liệu/ Có TK Vốn đầu tư của chủ sở hữu"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Tài khoản 152 dùng để theo dõi giá trị hiện có, tình hình biến động tăng giảm giá thực tế nguyên vật liệu của doanh nghiệp",
+    "answer": "Tại kho"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Doanh nghiệp nhập khẩu một lô nguyên vật liệu giá 2.000 USD dùng đển sản xuất sản phẩm chịu thuế GTGT theo phương thức khấu trừ. Thuế nhập khẩu 4% tính trên giá nhập. Chi phí vận chuyển là 500.000đ. Tỷ giá tính giá nhập khẩu và thuế nhập khẩu là 21.000đ/USD. Trị giá vốn thực tế nguyên vật liệu nhập kho là",
+    "answer": "44.180.000"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Tiền ăn ca phải trả người lao động được :",
+    "answer": "Ghi tăng chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Tỷ lệ tính trên tiền lương để trích lập quỹ BHYT theo quy định hiện hành là :",
+    "answer": "4.5%"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "BHXH do người lao động nộp được :",
+    "answer": "Khấu trừ vào tiền lương"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Việc kết chuyển tiền lương phải trả người lao động thành tiền lương giữ hộ chứng tỏ :",
+    "answer": "Tất cả các câu trên đều sai"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Chứng từ sử dụng trong hạch toán số lượng lao động là :",
+    "answer": "Quyết định tuyển dụng, thuyên chuyển"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Tỷ lệ tính trên tiền lương để trích lập quỹ BHXH theo quy định hiện hành là :",
+    "answer": "25.5%"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Chi phí khấu hao tài sản cố định ở bộ phận sản xuất được tính vào:",
+    "answer": "Chi phí sản xuất chung"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Đơn giá tiền lương sản phẩm tăng sẽ làm cho:",
+    "answer": "Giá thành đơn vị sản xuất của sản phẩm tăng"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Chênh lệch giữa chi phí sản xuất dở dang cuối kỳ so với chi phí sản xuất dở dang đầu kỳ giảm, chi phí sản xuất không thay đổi thì tổng giá thành sản phẩm hoàn thành sẽ:",
+    "answer": "Tăng thêm"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Nếu giá trị sản phẩm dở dang đầu kỳ tăng 30.000.000đ và giá trị sản phẩm dở dang cuối kỳ giảm 30.000.000đ, giá thành sản phẩm sẽ",
+    "answer": "Tăng 60.000.000đ"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Giá trị vật liệu xuất dùng cho chế tạo sản phẩm sử dụng không hết nhập lại kho được ghi:",
+    "answer": "Giảm chi phí nguyên vật liệu trực tiếp"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Chênh lệch giữa chi phí sản xuất dở dang đầu kỳ so với chi phí sản xuất dở dang cuối kỳ tăng, chi phí sản xuất không thay đổi thì tổng giá thành sản phẩm hoàn thành sẽ:",
+    "answer": "Tăng thêm"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Doanh thu là tổng giá trị các lợi ích kinh tế DN thu được trong kì kế toán, phát sinh từ:",
+    "answer": "Hoạt động sản xuất kinh doanh thông thường."
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Khi phát sinh chiết khấu thanh toán mà DN phải trả cho khách hàng, kế toán sẽ:",
+    "answer": "Ghi Nợ TK 635."
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Hàng gửi đi bán:",
+    "answer": "Không còn nằm ở đơn vị nhưng thuộc quyền sở hữu của đơn vị"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Khi bán sản phẩm thuộc đối tượng chịu thuế GTGT theo phương pháp khấu trừ, tổng giá thanh toán ghi trên hóa đơn được ghi trên tài khoản:",
+    "answer": "TK 131 hoặc TK 111, TK 112"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Khi tính giá trị thành phẩm xuất kho, kế toán cần xem xét:",
+    "answer": "Phương pháp tính giá xuất kho mà DN áp dụng."
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Doanh thu thuần về tiêu thụ sản phẩm của DN được xác định bằng:",
+    "answer": "Doanh thu bán hàng – Các khoản giảm doanh thu."
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Nguyên giá TSCĐ được theo dõi trên tài khoản:",
+    "answer": "TK 211 và TK 213."
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Nguyên giá TSCĐ có giá trị:",
+    "answer": "từ 30 triệu đồng trở lên."
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Chi phí lắp đặt TSCĐ khi mua được tính vào:",
+    "answer": "nguyên giá TSCĐ."
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Trên Bảng cân đối kế toán khoản mục “Hao mòn TSCĐ” thuộc về:",
+    "answer": "tài sản dài hạn."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Trích khấu hao TSCĐ dùng trực tiếp cho hoạt động sản xuất sản phẩm được ghi nhận:",
+    "answer": "Nợ TK 627/Có TK 214."
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "TSCĐ tăng do nhận biếu tặng, viện trợ thuộc quan hệ đối ứng:",
+    "answer": "tài sản tăng - nguồn vốn tăng."
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Giá trị vật liệu thiếu khi kiểm kê sau khi trừ phần thu hồi do cá nhân bồi thường sẽ được kế toán ghi",
+    "answer": "Nợ TK Giá vốn hàng bán"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Xuất kho công cụ, dụng cụ thuộc loại phân bổ một lần của bộ phận bán hàng thì chi phí sản xuất sẽ được tính vào",
+    "answer": "Chi phí bán hàng"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Hao hụt tự nhiên trong quá trình thu mua vật liệu sẽ làm ảnh hưởng đến",
+    "answer": "Đơn giá vật liệu nhập kho"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Khi nhận được hóa đơn số vật liệu đã nhập kho từ kỳ trước, kế toán sẽ",
+    "answer": "Điều chỉnh giá tạm tính đã ghi kỳ trước theo giá thực tế của hóa đơn"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Tình hình luân chuyển vật liệu tại doanh nghiệp trong tháng 6/N",
+    "answer": "32.800.000 đ"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Công cụ dụng cụ phân bổ một lần trong kỳ sử dụng cho sản xuất được hạch toán",
+    "answer": "Nợ TK Chi phí sản xuất chung"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Khi tính thuế thu nhập của CNV, người lao động phải nộp Nhà nước, kế toán doanh nghiệp thực hiện bút toán",
+    "answer": "Nợ TK 334/ Có TK 333(3335)"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Tiền ăn ca phải trả người lao động được :",
+    "answer": "Ghi tăng chi phí sản xuất kinh doanh"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Khi trích trước tiền lương nghỉ phép của công nhân sản xuất, doanh nghiệp thực hiện bút toán:",
+    "answer": "Nợ các TK 622, 623/ Có 335"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Quỹ tiền lương làm căn cứ trích BHXH là :",
+    "answer": "Tiền lương cấp bậc"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Khi phân tích tiền lương, tiền lương được hưởng khi đi học được xếp vào loại:",
+    "answer": "Tiền lương phụ"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Số tiền đóng quỹ BHTN thuộc trách nhiệm của người sử dụng lao động được kế toán hạch toán vào:",
+    "answer": "Chi phí sản xuất, kinh doanh trong kỳ"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Một doanh nghiệp sản xuất hiện đang xác định tỷ lệ hoàn thành của sản phẩm dở dang là 40% và đánh giá sản phẩm dở dang theo chi phí nguyên vật liệu chính. Nếu tỷ lệ trên tăng gấp đôi, các số liệu khác không thay đổi thì giá trị sản phẩm dở dang sẽ:",
+    "answer": "Không thay đổi"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Giá trị phế liệu thu hồi từ quá trình sản xuất sản phẩm, được kế toán phản ánh vào bên Có:",
+    "answer": "TK 154"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Giá trị nguyên vật liệu xuất dùng cho chế tạo sản phẩm sử dụng không hết nhập lại kho, được kế toán ghi vào bên Có:",
+    "answer": "TK 621"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Tiền lương và phụ cấp lương phải trả cho nhân viên quản lý phân xưởng được tính vào:",
+    "answer": "Chi phí sản xuất chung"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Giá thành sản xuất của sản phẩm không bao gồm khoản tiền lương:",
+    "answer": "Tiền lương của giám đốc doanh nghiệp"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Khoản chi phí nào sau đây thuộc chi phí sản xuất sản phẩm:",
+    "answer": "Chi phí nhân công trực tiếp"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Việc ghi nhận doanh thu và các khoản giảm doanh thu:",
+    "answer": "Không phụ thuộc vào phương pháp hạch toán hàng tồn kho của DN."
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Giá bán của số sản phẩm đã được khách hàng chấp nhận thanh toán được kế toán ghi vào bên:",
+    "answer": "Có TK 511"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Cuối kỳ, TK 642 được kết chuyển về bên:",
+    "answer": "Nợ TK 911"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Khi tiêu thụ sản phẩm thuộc đối tượng chịu thuế tiêu thụ đặc biệt, doanh thu bán hàng là:",
+    "answer": "Giá bán của sản phẩm đã bao gồm thuế tiêu thụ đặc biệt."
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Các khoản giảm trừ doanh thu khi phát sinh được tập hợp:",
+    "answer": "Vào bên Nợ của TK giảm trừ doanh thu tương ứng"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Doanh nghiệp sử dụng sản phẩm của doanh nghiệp để phục vụ cho hoạt động sản xuất kinh doanh tại DN thì:",
+    "answer": "Kế toán hạch toán vào chi phí của bộ phận sử dụng sản phẩm."
+  }
+]

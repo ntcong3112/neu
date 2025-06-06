@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Tầm quan trọng của kỹ năng kỹ thuật:",
+    "answer": "tăng theo chiều hướng từ cấp quản lý cao nhất đến thấp nhất."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Tầm quan trọng tương đối của các kỹ năng quản lý:",
+    "answer": "thay đổi ở các cấp quản lý khác nhau đối với từng kỹ năng cụ thể."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Năng lực thực hiện các hoạt động chuyên môn được tiến hành bởi tổ chức với mức độ thành thục nhất định là:",
+    "answer": "Kỹ năng kỹ thuật"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Kỹ năng nhận thức:",
+    "answer": "có vai trò lớn nhất ở các nhà quản lý cấp cao, giảm dần đối với các nhà quản lý cấp trung, và có ý nghĩa khá nhỏ đối với các nhà quản lý cấp cơ sở."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Những người sử dụng kỹ năng kỹ thuật đặc biệt để cho lời khuyên và hỗ trợ những người lao động theo tuyến là:",
+    "answer": "nhà quản lý tham mưu"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Tổ chức hội thảo:",
+    "answer": "là một trong các phương pháp để nhà quản lý lấy ý kiến chuyên gia trong quá trình ra quyết định hoặc tổ chức thực hiện quyết định quản lý."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Tính hợp pháp của quyết định quản lý được thể hiện:",
+    "answer": "là quyết định đó được đưa ra trong thẩm quyền, nội dung không trái pháp luật và đúng thể thức văn bản."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Hiệu quả của quyết định:",
+    "answer": "là một trong các căn cứ để ra quyết định."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Tổng kết, rút kinh nghiệm về quyết định:",
+    "answer": "là nội dung cuối cùng của bước tổ chức thực hiện quyết định"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Phương pháp chuyên gia:",
+    "answer": "là phương pháp dựa trên các ý kiến chuyên gia để thực hiện các bước của quá trình quyết định."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Khi xác định các mục tiêu, người lập kế hoạch cũng cần xác định thứ tự ưu tiên các muc tiêu vì:",
+    "answer": "Nguồn lực của tổ chức là hữu hạn"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Môi trường bên ngoài của tổ chức bao gồm:",
+    "answer": "cơ hội và thách thức."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Chiến lược là kết quả cuối cùng của:",
+    "answer": "lập kế hoạch chiến lược."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Môi trường bên ngoài của tổ chức không bao gồm:",
+    "answer": "yếu kém về nhân sự của tổ chức."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Lập kế hoạch là nhiệm vụ của:",
+    "answer": "tất cả các nhà quản lý trong tổ chức."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Mô hình cơ cấu nào có mức độ linh hoạt cao hơn",
+    "answer": "Nằm ngang"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Các nhóm nhiệm vụ trong tổ chức được thực hiện bởi các bộ phận cụ thể trong tổ chức là thuộc tính nào của cơ cấu tổ chức",
+    "answer": "Hợp nhóm và hình thành bộ phận"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Sử dụng được lợi thế nguồn lực của các địa phương khác nhau là lợi thế của cơ cấu",
+    "answer": "Địa dư"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Tổ chức nào cơ cấu phẳng so với các tổ chức còn lại",
+    "answer": "Giám đốc, tổ trưởng"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Tại một tổ chức, khi cấp dưới được tham gia vào quá trình tự kiểm soát việc thực hiện nhiệm vụ của mình, chúng ta nói tổ chức đó có",
+    "answer": "Mức độ phi tập trung cao"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Theo thuyết hai nhóm yếu tố của Herzberg thì tiền công là một yếu tố:",
+    "answer": "có thể gây bất mãn với công việc khi nó không được đảm bảo, nhưng bản thân nó lại không tạo ra động lực làm việc."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Các yếu tố cấu thành của sự lãnh đạo không bao gồm yếu tố nào sau đây?",
+    "answer": "Khả năng chuyên môn."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "________ là sự thôi thúc khiến người ta hành động",
+    "answer": "Động lực"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Nhờ có kiến thức chuyên môn giỏi, anh Phương luôn sẵn sàng giúp đỡ mọi người về những vấn đề chuyên môn. Cấp dưới tin tưởng vào anh và phòng của anh trở thành một trong những phòng làm việc hiệu quả nhất. Anh Phương đang sử dụng loại quyền lực gì?",
+    "answer": "Quyền lực chuyên môn."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Trong quy trình tạo động lực, sau khi nghiên cứu và dự báo thì bước tiếp theo là:",
+    "answer": "xác định mục tiêu tạo động lực."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Hệ thống kiểm soát phản hồi kết quả hoạt động tập trung vào:",
+    "answer": "đầu ra công việc."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Sau khi xác định hệ thống kiểm soát, bước tiếp theo của quy trình kiểm soát là",
+    "answer": "giám sát và đo lường việc thực hiện."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Sau khi xác định mục tiêu và nội dung kiểm soát, bước tiếp theo của quy trình kiểm soát là:",
+    "answer": "xác định tiêu chuẩn kiểm soát."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Nhà quản lý sẽ phải tăng cường mức độ kiểm soát nếu:",
+    "answer": "nhân viên thụ động khi thực hiện công việc."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Việc nhà quản lý lập kế hoạch hiệu quả giúp thực hiện bước nào trong quá trình kiểm soát?",
+    "answer": "Thiết lập tiêu chuẩn kiểm soát."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Ví dụ nào dưới đây không phải là một tổ chức?",
+    "answer": "Một nhóm bạn"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Năng lực của một người có thể làm việc trong mối quan hệ hợp tác với những người khác là:",
+    "answer": "Kỹ năng con người"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Các vai trò của nhà quản lý theo Mintzberg bao gồm:",
+    "answer": "vai trò liên kết con người, vai trò thông tin và vai trò quyết định."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Khi phân chia tổ chức thành các bộ phận nhỏ hơn, phụ thuộc nhau nhiều hơn, nhà quản lý đã thực hiện chức năng:",
+    "answer": "tổ chức."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Theo cấp quản lý, có các loại nhà quản lý sau:",
+    "answer": "nhà quản lý cấp cao, cấp trung và cấp cơ sở."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Phân chia theo mức độ tổng quát hay chi tiết của vấn đề cần ra quyết định, quyết định quản lý bao gồm:",
+    "answer": "quyết định chiến lược, quyết định chiến thuật và quyết định tác nghiệp."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Tính hệ thống của quyết định quản lý được thể hiện",
+    "answer": "các quyết định quản lý được đưa ra bởi các chủ thể khác nhau, được đưa ra ở các thời điểm khác nhau không được mâu thuẫn."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Phương pháp phân tích toán học:",
+    "answer": "có thể hỗ trợ cho các nhà quản lý trong việc xác định vấn đề và lựa chọn phương án trong quá trình quyết định."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Chủ thể ra quyết định quản lý là:",
+    "answer": "các cá nhân, tập thể được trao thẩm quyền hoặc uỷ quyền."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Tính tối ưu của quyết định quản lý được thể hiện:",
+    "answer": "phương án mà quyết định lựa chọn phải là phương án tối ưu."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Các mục tiêu của kế hoạch chiến lược thường:",
+    "answer": "cô đọng và tổng thể."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Kế hoạch tác nghiệp:",
+    "answer": "có phạm vi hẹp hơn kế hoạch chiến lược."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Chiến lược của một tổ chức hoạt đa ngành gồm:",
+    "answer": "chiến lược cấp tổ chức, cấp ngành và cấp chức năng."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Cấu trúc của một bản phân tích chiến lược không bao gồm:",
+    "answer": "báo cáo tình hình thực hiện chiến lược."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Thông tin về cơ hội và thách thức có được từ:",
+    "answer": "phân tích môi trường bên ngoài của tổ chức."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Cần có nhiều người có năng lực quản lý chung là yêu cầu của mô hình cơ cấu",
+    "answer": "Khách hàng"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Số lượng cấp dưới mà một nhà quản lý có thể kiểm soát là khái niệm",
+    "answer": "Tầm quản lý"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Tầm quản lý của một nhà quản lý ít phụ thuộc vào",
+    "answer": "Tác động của môi trường bên ngoài"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Cơ cấu tổ chức chính thức là cơ cấu:",
+    "answer": "Được thể hiện thông qua sơ đồ cơ cấu tổ chức"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Mô hình cơ cấu dẫn đến đổ trách nhiệm về vấn đề thực hiện mục tiêu chung của tổ chức cho cấp quản lý cao nhất là cơ cấu",
+    "answer": "Chức năng"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "____________ là trạng thái tâm lý mà con người cảm thấy thiếu thốn không thỏa mãn về một cái gì đó và mong được đáp ứng nó.",
+    "answer": "Nhu cầu"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Theo học thuyết động cơ của V.Room, những kết luận sau là đúng loại trừ:",
+    "answer": "chỉ cần có một trong ba yếu tố là kỳ vọng, chất xúc tác hoặc phương tiện thì người lao động sẽ có động lực để làm việc."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Sau khi lựa chọn các công cụ tạo động lực cần tổ chức sử dụng các công cụ này. Công việc cụ thể cần triển khai tiếp theo là:",
+    "answer": "truyền thông những công cụ tạo động lực sẽ được sử dụng đến từng người lao động trong tổ chức."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Những đặc điểm sau đây mô tả người lãnh đạo có uy tín, loại trừ:",
+    "answer": "là người thích ổn định và giữ nguyên hiện trạng."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Học thuyết_______ cho rằng một cá nhân có xu hướng hành động theo một cách nhất định dựa trên những kỳ vọng rằng hành động đó sẽ dẫn đến một kết quả cho trước và dựa trên mức độ hấp dẫn của kết quả đó đối với cá nhân này",
+    "answer": "kỳ vọng của V.Room"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Trong các chủ thể kiểm soát sau, đâu là chủ thể kiểm soát bên ngoài tổ chức?",
+    "answer": "Cơ quan thuế của nhà nước."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Ưu điểm của hệ thống kiểm soát phản hồi dự báo là:",
+    "answer": "ngăn ngừa hoặc phát hiện ngay các sai sót."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Đảm bảo rằng các hướng dẫn và các nguồn lực là phù hợp trước khi công việc bắt đầu là mục tiêu của",
+    "answer": "kiểm soát đầu vào."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Kế hoạch bán hàng của một đơn vị trong quý là một ví dụ về công cụ kiểm soát nào?",
+    "answer": "Ngân quỹ."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Việc nhà quản lý kiểm tra nhân viên đã hiểu hết các quy trình công việc là một nội dung của kiểm soát:",
+    "answer": "đầu vào."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Năng lực phát hiện, phân tích và giải quyết những vấn đề phức tạp là:",
+    "answer": "Kỹ năng nhận thức"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Quản lý xét theo quy trình là:",
+    "answer": "tương đối thống nhất với mọi tổ chức."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Những người chịu trách nhiệm quản lý các đơn vị và phân hệ của tổ chức, được tạo nên bởi các bộ phận mang tính cơ sở là:",
+    "answer": "Nhà quản lý cấp trung"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Những người chỉ chịu trách nhiệm đối với một chức năng hoạt động của tổ chức là:",
+    "answer": "Nhà quản lý chức năng"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Những người chịu trách nhiệm trước công việc của những người lao động trực tiếp là:",
+    "answer": "Nhà quản lý cấp cơ sở"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Chọn phương án đúng. Quyết định quản lý:",
+    "answer": "bao gồm cả quyết định dài hạn, trung hạn và ngắn hạn."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Hệ thống pháp luật và các thông lệ:",
+    "answer": "là một trong các căn cứ để ra quyết định."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Tổ chức thực hiện quyết định:",
+    "answer": "là bước quan trọng trong quy trình quyết định."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Các nguồn lực có thể huy động của tổ chức:",
+    "answer": "là một trong các căn cứ để ra quyết định."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "So sánh các phương án của quyết định:",
+    "answer": "là một nội dung của bước đánh giá và lựa chọn phương án tốt nhất."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Kế hoạch tác nghiệp thường được xây dựng cho thời gian",
+    "answer": "dưới 1 năm."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Ma trận BCG được sử dụng để",
+    "answer": "xây dựng chiến lược cấp tổ chức và cấp ngành."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Hướng dẫn các việc phải làm và trình tự của nó là nội dung của:",
+    "answer": "các thủ tục."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Loại kế hoạch thể hiện tầm nhìn, sự bố trí chiến lược về thời gian, không gian lãnh thổ là:",
+    "answer": "Quy hoạch"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Sứ mệnh của tổ chức:",
+    "answer": "xác định mục đích cơ bản của tổ chức."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Mô hình Cơ cấu nào vi phạm chế độ một thủ trưởng",
+    "answer": "Ma trận"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Quyền tự chủ trong hành động, trong quá trình quyết định thuộc khái niệm",
+    "answer": "Quyền hạn"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Một nhân viên có trách nhiệm tư vấn cho các nhà quản lý trực tuyến là một nội dung của loại quyền hạn",
+    "answer": "Tham mưu"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Mô hình cơ cấu nào dễ đào tạo các nhà quản lý chuyên môn",
+    "answer": "Chức năng"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Nhiệm vụ tổ chức là nhiệm vụ của",
+    "answer": "Mọi nhà quản lý trong tổ chuc"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Quyền lực ________ có thể có được một cách có ý thức hoặc vô thức, dựa trên sự mê hoặc, cảm phục, hâm mộ bởi uy tín, tính cách, đạo đức, sức hút, sức hấp dẫn riêng hay một giá trị cá nhân của một người,được người khác cảm nhận và tôn trọng.",
+    "answer": "thu hút hay hấp lực"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Hợp đồng lao động, thoả ước lao động tập thể là ví dụ về:",
+    "answer": "công cụ hành chính."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Trong học thuyết về động cơ của Herzberg, yếu tố duy trì liên quan đến ________ và ảnh hưởng tới _________",
+    "answer": "điều kiện làm việc … sự bất mãn với công việc"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Các yếu tố sau, yếu tố nào không ảnh hưởng trực tiếp tới động lực làm việc?",
+    "answer": "Đặc điểm của môi trường tự nhiên."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Theo học thuyết về động cơ của Herzberg, các nhà quản lý:",
+    "answer": "cần luôn tìm cách cải thiện điều kiện làm việc để triệt tiêu những mầm mống của sự bất mãn với công việc."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Mục đích của kiểm soát là:",
+    "answer": "đảm bảo thực hiện thành công mục tiêu với hiệu quả cao."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Việc xây dựng dự toán cho một dự án marketing trong tương lại là một ví dụ về kiểm soát:",
+    "answer": "đầu vào."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Một trong những nội dung của nguyên tắc kiểm soát “Tuân thủ pháp luật” có nghĩa là:",
+    "answer": "bộ phận kiểm soát cần tiến hành đúng trách nhiệm, nhiệm vụ, quyền hạn."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Bản kế hoạch ngành kinh doanh của công ty trong 10 năm tới sẽ là công cụ kiểm soát nào:",
+    "answer": "Công cụ kiểm soát chiến lược."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Một trong những nội dung của nguyên tắc kiểm soát “Điểm kiểm soát thiết yếu” có nghĩa là:",
+    "answer": "tập trung kiểm soát những điểm hay xẩy ra sai sót."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Tổ chức thuộc sở hữu tư nhân (của một hay một nhóm người) là một:",
+    "answer": "Tổ chức tư"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Những người chịu trách nhiệm đối với những đơn vị phức tạp, đa chức năng như tổ chức, chi nhánh hay đơn vị hoạt động độc lập là:",
+    "answer": "Nhà quản lý tổng hợp"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Khi nhà quản lý xác định mục tiêu và các phương thức hành động thích hợp để đạt được mục tiêu cho một tổ chức, nhà quản lý đã thực hiện chức năng:",
+    "answer": "lập kế hoạch."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Tầm quan trọng của kỹ năng nhận thức:",
+    "answer": "giảm theo chiều hướng từ cấp quản lý cao nhất đến thấp nhất."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Năng lực của con người có thể đưa kiến thức vào thực tế để đạt được kết quả mong muốn với hiệu lực, hiệu quả cao là:",
+    "answer": "Kỹ năng"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Phân chia theo cơ quan ra quyết định, quyết định quản lý bao gồm:",
+    "answer": "các quyết định quản lý nhà nước và quyết định của các tổ chức."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Xây dựng các phương án quyết định:",
+    "answer": "là một bước trong quy trình quyết định, được thực hiện sau khi phân tích vấn đề."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Tính hợp pháp của quyết định quản lý được thể hiện:",
+    "answer": "Cả A và B"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Hình thức của quyết định quản lý:",
+    "answer": "được thể hiện dưới dạng văn bản và phi văn bản."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Phương pháp phỏng vấn:",
+    "answer": "là một trong các cách thức để lấy ý kiến chuyên gia trong quá trình quyết định quản lý."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Mô hình SWOT được sử dụng để:",
+    "answer": "phân tích môi trường của tổ chức."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Quy hoạch là sự cụ thể hoá của",
+    "answer": "chiến lược."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Sau khi xác định mục tiêu, bước tiếp theo của quá trình lập kế hoạch là:",
+    "answer": "xây dựng các phương án."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Tất cả các giảng viên phải đeo thẻ khi lên lớp” là minh hoạ của:",
+    "answer": "quy tắc."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Bước đầu tiên trong quá trình lập kế hoạch là:",
+    "answer": "phân tích môi trường."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Đảm bảo hình thái cơ cấu nhất định nhằm đạt được các mục tiêu chiến lược của tổ chức là nội dung của chức năng",
+    "answer": "Tổ chức"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Mô hình cơ cấu thường dẫn đến mâu thuẫn giữa các đơn vị chức năng khi đề ra các chiến lược là hạn chế của cơ cấu",
+    "answer": "Chức năng"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Cơ cấu tổ chức là:",
+    "answer": "Là sự phân công lao động trong tổ chức"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Mô hình cơ cấu tạo điều kiện cho tập trung nguồn lực vào khâu xung yếu là cơ cấu",
+    "answer": "Ma trận"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Mô hình Cơ cấu nào được sử dụng khi tổ chức có các dự án và chương trình mục tiêu",
+    "answer": "Ma trận"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Cách tiếp cận ________ cho rằng chỉ nên đào tạo những người có năng lực lãnh đạo bẩm sinh - được coi là nhà lãnh đạo tiềm năng - để trở thành nhà lãnh đạo hiệu quả",
+    "answer": "theo đặc điểm và phẩm chất"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Quyền lực ______ là khả năng có thể tác động đến hành vi người khác bằng cách làm cho họ sợ hãi thông qua hình phạt hoặc đe dọa trừng phạt.",
+    "answer": "ép buộc hay cưỡng bức"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Làm cho người khác thực hiện công việc là:",
+    "answer": "lãnh đạo."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Theo mô hình phân cấp nhu cầu của A. Maslow, đáp án nào sau đây là đúng?",
+    "answer": "Nhà quản lý cần phải làm thỏa mãn nhu cầu cấp thấp nhất của người lao động ở mức độ nhất định trước khi đáp ứng nhu cầu cấp cao."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Nhu cầu về thức ăn, nước uống, nhà ở là những nhu cầu ___________ theo học thuyết phân cấp nhu cầu của Maslow",
+    "answer": "nhu cầu sinh lý"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Sau khi xác định các tiêu chuẩn kiểm soát, bước tiếp theo của quy trình kiểm soát là:",
+    "answer": "xác định hệ thống kiểm soát."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Loại hình kiểm soát đảm bảo rằng các nhân viên đã hiểu rõ các thủ tục cần tuân thủ là:",
+    "answer": "kiểm soát đầu vào."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về kiểm soát là đúng nhất?",
+    "answer": "Kiểm soát đóng vai trò tích cực và cần thiết trong quá trình quản lý."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Một trong những nội dung của nguyên tắc kiểm soát “Tính hiệu quả” có nghĩa là:",
+    "answer": "lợi ích của kiểm soát phải tương xứng với chi phí dành cho kiểm soát."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Nhược điểm của hệ thống kiểm soát phản hồi dự báo là:",
+    "answer": "chi phí thực hiện kiểm soát lớn"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Theo mối quan hệ với đầu ra của tổ chức, có các loại nhà quản lý sau:",
+    "answer": "nhà quản lý theo tuyến và nhà quản lý tham mưu."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Những người chịu trách nhiệm đối với các công việc có đóng góp trực tiếp vào việc tạo ra đầu ra của tổ chức là :",
+    "answer": "nhà quản lý theo tuyến"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Theo Daniel Goleman, năng lực quản lý bản thân và các mối quan hệ của chúng ta một cách có hiệu lực là:",
+    "answer": "trí thông minh cảm xúc"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Người lập kế hoạch, tổ chức, lãnh đạo và kiểm soát công việc của những người khác để tổ chức do họ quản lý đạt được mục đích của mình là:",
+    "answer": "Nhà quản lý"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Quản lý là quá trình:",
+    "answer": "Lập kế hoạch, tổ chức, lãnh đạo và kiểm soát"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Nguồn lực của tổ chức:",
+    "answer": "Là một trong các căn cứ ra quyết định quản lý."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Phạm vi tác động của quyết định quản lý:",
+    "answer": "có thể là các cá nhân, các tổ chức và toàn xã hội."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Xây dựng kế hoạch thực hiện quyết định:",
+    "answer": "là nội dung đầu tiên của bước tổ chức thực hiện quyết định."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Đánh giá và lựa chọn phương án tốt nhất:",
+    "answer": "là một bước trong quy trình quyết định, được thực hiện sau khi xây dựng các phương án."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Quyết định quản lý là:",
+    "answer": "phương án hợp lý nhất để giải quyết 1 vấn đề."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Nội dung nào sau đây nằm trong quy trình lập kế hoạch:",
+    "answer": "xây dựng các phương án."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Lập kế hoạch chiến lược là nhiệm vụ của:",
+    "answer": "các nhà quản lý cấp cao."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Chính sách là loại hình kế hoạch:",
+    "answer": "khuyến khích tự do sáng tạo của nhà quản lý."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Chiến lược marketing là chiến lược cấp:",
+    "answer": "chức năng."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Thông tin về điểm mạnh và điểm yếu của tổ chức có được từ:",
+    "answer": "phân tích môi trường bên trong của tổ chức."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Thường dẫn đến sự không thống nhất mệnh lệnh là hạn chế của mô hình cơ cấu",
+    "answer": "Ma trận"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Mô hình cơ cấu nào dễ đào tạo các nhà quản lý tổng hợp",
+    "answer": "Khách hàng"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Việc phối hợp hành động giữa các phòng ban chức năng vì mục tiêu cuối cùng có hiệu quả hơn là ưu điểm của cơ cấu",
+    "answer": "Sản phẩm"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Mô hình cơ cấu nào phản ứng nhanh hơn với môi trường bên ngoài",
+    "answer": "2 cấp quản lý"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Cơ cấu tốt nhất đối với tất cả các tổ chức là",
+    "answer": "Không cơ cấu nào"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Tiêu chí đánh giá thành công của việc sử dụng quyền lực là:",
+    "answer": "sự thoả mãn và sự hoàn thành nhiệm vụ của người dưới quyền."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Các công cụ tâm lý tạo động lực cho người lao động xuất phát từ:",
+    "answer": "động cơ tinh thần."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "___________ là quá trình truyền cảm hứng, khơi dậy sự nhiệt tình, động lực của con người để họ làm việc một cách tốt nhất nhằm đạt được các mục tiêu kế hoạch",
+    "answer": "lãnh đạo."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Nội dung cơ bản của chức năng lãnh đạo không bao gồm:",
+    "answer": "phối hợp hoạt động trong tổ chức."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Trong ba yếu tố cấu thành chính của lãnh đạo, ___________ là khả năng khích lệ những người đi theo phát huy toàn bộ năng lực của họ cho một nhiệm vụ hay mục tiêu.",
+    "answer": "khả năng khích lệ, lôi cuốn."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Ưu điểm của hệ thống kiểm soát phản hồi kết quả hoạt động là:",
+    "answer": "hệ thống kiểm soát đơn giản, dễ thực hiện."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Nhược điểm của hệ thống kiểm soát phản hồi kết quả hoạt động là:",
+    "answer": "không xác định kịp thời sai sót để có biện pháp khắc phục sớm."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Số liệu về chi phí bán hàng của doanh nghiệp trong 3 năm liền trước là một ví dụ về công cụ kiểm soát nào?",
+    "answer": "Dữ liệu thống kê."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Trong các thông tin sau, đâu không phải là công cụ kiểm soát",
+    "answer": "bằng khen của cấp trên"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Tăng cường sự giám sát làm việc cùng với nhân viên, không ngừng quan sát và can thiệp nhằm sửa chữa ngay tức khắc những hành động khi mà chúng được làm không chính xác, là một ví dụ của kiểm soát:",
+    "answer": "trong hoạt động."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Quản lý là:",
+    "answer": "một khoa học, một nghệ thuật, một nghề"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Theo phạm vi quản lý, có các loại nhà quản lý sau:",
+    "answer": "nhà quản lý chức năng và nhà quản lý tổng hợp."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Kỹ năng kỹ thuật:",
+    "answer": "có vai trò lớn nhất ở các nhà quản lý cơ sở, giảm dần đối với các nhà quản lý cấp trung, và có ý nghĩa khá nhỏ đối với các nhà quản lý cấp cao."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Quá trình giám sát, đo lường, đánh giá và điều chỉnh hoạt động để đảm bảo sự thực hiện theo các kế hoạch là nội dung của chức năng :",
+    "answer": "Kiểm soát"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Khi quản đốc phân xưởng của một nhà máy so sánh chất lượng sản phẩm với tiêu chuẩn đặt ra của sản phẩm đó, nhà quản lý này đang thực hiện chức năng:",
+    "answer": "kiểm soát."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Tính khoa học của quyết định quản lý được thể hiện:",
+    "answer": "Quyết định được đưa ra dựa trên các căn cứ khoa học."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Phân chia theo số người ra quyết định, quyết định quản lý bao gồm:",
+    "answer": "quyết định tập thể và quyết định cá nhân."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Hệ thống mục tiêu của tổ chức:",
+    "answer": "là một trong các căn cứ để ra quyết định."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Một quyết định quản lý cần đáp ứng được các yêu cầu về:",
+    "answer": "tính hợp pháp, tính hệ thống, tính khoa học và tính tối ưu."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp chuyên gia trong ra quyết định quản lý:",
+    "answer": "các nhà quản lý cần thành lập nhóm chuyên gia và tổ chức lấy ý kiến chuyên gia."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Thời tiết ngày càng nóng lên, doanh nghiệp kinh doanh nước giải khát sẽ xem nó như là một:",
+    "answer": "cơ hội."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Kế hoạch chiến lược được xây dựng cho thời gian:",
+    "answer": "từ 3-5 năm trở lên."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Đầu ra của lập kế hoạch là:",
+    "answer": "bản kế hoạch của tổ chức."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Mô hình năm lực lượng của M.Porter được sử dụng để:",
+    "answer": "phân tích môi trường ngành của tổ chức."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Lập kế hoạch tác nghiệp là nhiệm vụ của:",
+    "answer": "các nhà quản lý cấp trung và cấp cơ sở."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Cơ cấu tổ chức bền vững là",
+    "answer": "Công cụ thực thi kế hoạch chiến lược"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Sự cấn thiết hoàn thiện cơ cấu tổ chức là xuất phát từ",
+    "answer": "Sức ép từ môi trường bên ngoài và bên trong"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Lý do phối hợp trong tổ chức là",
+    "answer": "Để đảm bảo mục tiêu chung của tổ chức"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Cơ cấu tổ chức phi chính thức là tập hợp của những người",
+    "answer": "cùng quan điểm, lợi ích, sở thích, quê quán"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Khó khăn đối với việc kiểm soát của của các nhà quản lý cấp cao là hạn chế của cơ cấu",
+    "answer": "Sản phẩm"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Chức năng lãnh đạo có liên quan đến các chức năng khác trong quá trình quản lý. Đặc biệt, __________ xác định phương hướng và mục tiêu; __________ phối hợp các nguồn lực để biến kế hoạch thành hiện thực; __________ truyền cảm hứng và tạo động lực làm việc; và __________ đảm bảo mọi thứ được thực hiện đúng.",
+    "answer": "lập kế hoạch … tổ chức … lãnh đạo … kiểm soát"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Trong những kết luận sau đây về động lực làm việc, kết luận nào là sai?",
+    "answer": "Hiểu được động lực làm việc và áp dụng được các lý thuyết về tạo động lực là đủ để lãnh đạo có hiệu quả."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Trong học thuyết động cơ của Victor Room, _________là khả năng mà một người nhận thức rằng việc bỏ ra một mức độ nỗ lực nhất định sẽ dẫn tới một mức độ thành tích nhất định",
+    "answer": "kỳ vọng"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Trong học thuyết động cơ của Victor Room, _________phản ánh xác suất mà một người tin rằng làm việc chăm chỉ sẽ dẫn tới kết quả mong muốn.",
+    "answer": "kỳ vọng"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Công cụ kinh tế có các đặc điểm sau loại trừ:",
+    "answer": "tác động trực tiếp vào các đối tượng quản lý."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Một báo cáo ngân sách cho thấy việc bội chi ngân sách cho một dự án đã được hoàn thành trong tháng trước là một ví dụ của loại hình kiểm soát nào?",
+    "answer": "Kiểm soát phản hồi kết quả."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Nhận định nào không phải là mục đích của kiểm soát?",
+    "answer": "Đảm bảo đầy đủ tài chính cho doanh nghiệp."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Trong những vai trò sau, vai trò nào không phải của chức năng kiểm soát?",
+    "answer": "Phân công công việc cho nhân viên."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Việc nhà quản lý kiểm tra đột xuất việc tuân thủ nội quy lao động của nhân viên là một nội dung của kiểm soát:",
+    "answer": "trong hoạt động."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Sau khi đánh giá việc thực hiện, bước tiếp theo của quy trình kiểm soát là:",
+    "answer": "điều chỉnh sai lệch."
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Khi giám đốc một doanh nghiệp tạo động lực cho nhân viên dưới quyền để họ làm việc một cách tốt nhất nhằm đạt được các mục tiêu kế hoạch, nhà quản lý này đã thực hiện chức năng:",
+    "answer": "lãnh đạo."
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Yếu tố nào dưới đây không thuộc hoạt động của nhà quản lý trong tổ chức?",
+    "answer": "Bán hàng."
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Quá trình thiết lập các mục tiêu và phương thức hành động thích hợp để đạt mục tiêu là nội dung của chức năng :",
+    "answer": "Lập kế hoạch"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Những người chịu trách nhiệm đối với sự thực hiện của toàn tổ chức hay một phân hệ lớn của tổ chức là:",
+    "answer": "Nhà quản lý cấp cao"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Tổ chức thuộc quyền sở hữu của Nhà nước hoặc không có chủ sở hữu là một:",
+    "answer": "Tổ chức công"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Phương pháp ra quyết định dựa vào trực giác:",
+    "answer": "thường được áp dụng khi các phương pháp ra quyết định khác không đưa ra được quyết định đáng tin cậy."
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Quyết định quản lý:",
+    "answer": "liên quan chặt chẽ với thu thập và xử lý thông tin."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Phân tích vấn đề:",
+    "answer": "là bước quan trọng trong quy trình quyết định."
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Tính hệ thống của quyết định quản lý được thể hiện",
+    "answer": "các quyết định quản lý được đưa ra bởi các chủ thể khác nhau, được đưa ra ở các thời điểm khác nhau không được mâu thuẫn."
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Tổng kết, rút kinh nghiệm về quyết định:",
+    "answer": "là nội dung cuối cùng của bước tổ chức thực hiện quyết định"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Môi trường bên trong của tổ chức không bao gồm:",
+    "answer": "gia tăng đối thủ cạnh tranh."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Phải làm gì và làm thế nào? Là nội dung của",
+    "answer": "Giải pháp kế hoạch"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Mô hình chuỗi giá trị của M.Porter được sử dụng để:",
+    "answer": "tìm hiểu các hoạt động bên trong một tổ chức sẽ tạo ra giá trị cho khách hàng như thế nào."
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Môi trường bên trong của tổ chức bao gồm:",
+    "answer": "điểm mạnh và điểm yếu."
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Kế hoạch chiến lược:",
+    "answer": "có phạm vi rộng hơn kế hoạch tác nghiệp."
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Cơ cấu nào thích hợp với tổ chức quy mô nhỏ, hoạt động đơn ngành",
+    "answer": "Chức năng"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Mô hình cơ cấu dẫn đến sự tranh dành nguồn lực giữa các bộ phận và sự trùng lặp của tổ chức là cơ cấu",
+    "answer": "Sản phẩm"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Định hướng hoạt động theo kết quả cuối cùng là ưu điểm của mô hình cơ cấu",
+    "answer": "Ma trận"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Đặc điểm của chuyên môn hóa công việc trong tổ chức là",
+    "answer": "Người lao động thực hiện một vài nhiệm vụ cụ thể"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Mô hình tổ chức sản phẩm nên được sử dụng khi tổ chức có đặc điểm",
+    "answer": "Kinh doanh đa ngành"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "____________ là người gây cảm hứng và tạo động cơ làm việc, còn ______________ là người chỉ đạo và kiểm soát.",
+    "answer": "Nhà lãnh đạo ... nhà quản lý..."
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Khi Mai là cửa hàng trưởng, nói với nhân viên của mình phải thực hiện mệnh lệnh mà cô đưa ra vì cô ấy là sếp và mọi người phải làm những điều mà cô ấy yêu cầu, cô ấy đang cố sử dụng quyền lực gì để gây ảnh hưởng tới nhân viên?",
+    "answer": "Quyền lực vị trí."
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Theo học thuyết phân cấp nhu cầu của A. Maslow, nhu cầu về an toàn sẽ được thỏa mãn với các điều kiện sau loại trừ",
+    "answer": "khen ngợi và tuyên dương."
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Khả năng làm cho người khác thực hiện những điều mình muốn hoặc làm cho mọi việc diễn ra như mình mong muốn được gọi là __________.",
+    "answer": "quyền lực."
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Các kết luận sau đây là các kết luận đúng về yếu tố “duy trì” theo học thuyết về động cơ của Herzberg loại trừ:",
+    "answer": "yếu tố duy trì nếu được thỏa mãn sẽ tạo động lực làm việc cho nhân viên."
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Bước đầu tiên của quy trình kiểm soát là:",
+    "answer": "xác định mục tiêu và nội dung kiểm soát."
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Nhược điểm của hệ thống kiểm soát phản hồi dự báo là:",
+    "answer": "hệ thống kiểm soát phức tạp, khó thực hiện."
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Sau khi giám sát và đo lường việc thực hiện, bước tiếp theo của quy trình kiểm soát là:",
+    "answer": "đánh giá sự thực hiện."
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Tăng cường sự giám sát thực hiện của nhân viên, không ngừng quan sát và can thiệp nhằm sửa chữa ngay tức khắc những hành động không chính xác, là một ví dụ của kiểm soát:",
+    "answer": "trong hoạt động."
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Một trong những nội dung của nguyên tắc kiểm soát “Công khai, minh bạch” có nghĩa là:",
+    "answer": "khuyến khích việc tham gia của nhân viên vào việc kiểm soát."
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Tổ chức thuộc quyền sở hữu của Nhà nước hoặc không có chủ sở hữu là một:",
+    "answer": "Tổ chức công"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Quản lý là:",
+    "answer": "một khoa học, một nghệ thuật, một nghề"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Khi nhà quản lý xác định mục tiêu và các phương thức hành động thích hợp để đạt được mục tiêu cho một tổ chức, nhà quản lý đã thực hiện chức năng:",
+    "answer": "lập kế hoạch."
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Năng lực của một người có thể làm việc trong mối quan hệ hợp tác với những người khác là:",
+    "answer": "Kỹ năng con người"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Những người chịu trách nhiệm quản lý các đơn vị và phân hệ của tổ chức, được tạo nên bởi các bộ phận mang tính cơ sở là:",
+    "answer": "Nhà quản lý cấp trung"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Quyết định quản lý:",
+    "answer": "liên quan chặt chẽ với thu thập và xử lý thông tin."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Quyết định quản lý là:",
+    "answer": "phương án hợp lý nhất để giải quyết 1 vấn đề."
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Tổ chức thực hiện quyết định:",
+    "answer": "là bước quan trọng trong quy trình quyết định."
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Phân chia theo mức độ tổng quát hay chi tiết của vấn đề cần ra quyết định, quyết định quản lý bao gồm:",
+    "answer": "quyết định chiến lược, quyết định chiến thuật và quyết định tác nghiệp."
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Phương pháp phân tích toán học:",
+    "answer": "có thể hỗ trợ cho các nhà quản lý trong việc xác định vấn đề và lựa chọn phương án trong quá trình quyết định."
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Lập kế hoạch là nhiệm vụ của:",
+    "answer": "tất cả các nhà quản lý trong tổ chức."
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Chiến lược marketing là chiến lược cấp:",
+    "answer": "chức năng."
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Loại kế hoạch thể hiện tầm nhìn, sự bố trí chiến lược về thời gian, không gian lãnh thổ là:",
+    "answer": "Quy hoạch"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Kế hoạch chiến lược được xây dựng cho thời gian:",
+    "answer": "từ 3-5 năm trở lên."
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Khi xác định các mục tiêu, người lập kế hoạch cũng cần xác định thứ tự ưu tiên các muc tiêu vì:",
+    "answer": "Nguồn lực của tổ chức là hữu hạn"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Cơ cấu nào thích hợp với tổ chức quy mô nhỏ, hoạt động đơn ngành",
+    "answer": "Chức năng"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Cơ cấu tổ chức là:",
+    "answer": "Là sự phân công lao động trong tổ chức"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Đảm bảo hình thái cơ cấu nhất định nhằm đạt được các mục tiêu chiến lược của tổ chức là nội dung của chức năng",
+    "answer": "Tổ chức"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Nhiệm vụ tổ chức là nhiệm vụ của",
+    "answer": "Mọi nhà quản lý trong tổ chuc"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Cơ cấu tổ chức chính thức là cơ cấu:",
+    "answer": "Được thể hiện thông qua sơ đồ cơ cấu tổ chức"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "________ là sự thôi thúc khiến người ta hành động",
+    "answer": "Động lực"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Cách tiếp cận ________ cho rằng chỉ nên đào tạo những người có năng lực lãnh đạo bẩm sinh - được coi là nhà lãnh đạo tiềm năng - để trở thành nhà lãnh đạo hiệu quả",
+    "answer": "theo đặc điểm và phẩm chất"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Những đặc điểm sau đây mô tả người lãnh đạo có uy tín, loại trừ:",
+    "answer": "là người thích ổn định và giữ nguyên hiện trạng."
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Theo học thuyết phân cấp nhu cầu của A. Maslow, nhu cầu về an toàn sẽ được thỏa mãn với các điều kiện sau loại trừ",
+    "answer": "khen ngợi và tuyên dương."
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Trong quy trình tạo động lực, sau khi nghiên cứu và dự báo thì bước tiếp theo là:",
+    "answer": "xác định mục tiêu tạo động lực."
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Nhược điểm của hệ thống kiểm soát phản hồi dự báo là:",
+    "answer": "hệ thống kiểm soát phức tạp, khó thực hiện."
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về kiểm soát là đúng nhất?",
+    "answer": "Kiểm soát đóng vai trò tích cực và cần thiết trong quá trình quản lý."
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Sau khi đánh giá việc thực hiện, bước tiếp theo của quy trình kiểm soát là:",
+    "answer": "điều chỉnh sai lệch."
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Việc xây dựng dự toán cho một dự án marketing trong tương lại là một ví dụ về kiểm soát:",
+    "answer": "đầu vào."
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Một trong những nội dung của nguyên tắc kiểm soát “Công khai, minh bạch” có nghĩa là:",
+    "answer": "khuyến khích việc tham gia của nhân viên vào việc kiểm soát."
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Tầm quan trọng tương đối của các kỹ năng quản lý:",
+    "answer": "thay đổi ở các cấp quản lý khác nhau đối với từng kỹ năng cụ thể."
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Năng lực của con người có thể đưa kiến thức vào thực tế để đạt được kết quả mong muốn với hiệu lực, hiệu quả cao là:",
+    "answer": "Kỹ năng"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Ví dụ nào dưới đây không phải là một tổ chức?",
+    "answer": "Một nhóm bạn"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Theo mối quan hệ với đầu ra của tổ chức, có các loại nhà quản lý sau:",
+    "answer": "nhà quản lý theo tuyến và nhà quản lý tham mưu."
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Những người chịu trách nhiệm trước công việc của những người lao động trực tiếp là:",
+    "answer": "Nhà quản lý cấp cơ sở"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Xây dựng các phương án quyết định:",
+    "answer": "là một bước trong quy trình quyết định, được thực hiện sau khi phân tích vấn đề."
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Chủ thể ra quyết định quản lý là:",
+    "answer": "các cá nhân, tập thể được trao thẩm quyền hoặc uỷ quyền."
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Các nguồn lực có thể huy động của tổ chức:",
+    "answer": "là một trong các căn cứ để ra quyết định."
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Tính tối ưu của quyết định quản lý được thể hiện:",
+    "answer": "phương án mà quyết định lựa chọn phải là phương án tối ưu."
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Khi sử dụng phương pháp chuyên gia trong ra quyết định quản lý:",
+    "answer": "các nhà quản lý cần thành lập nhóm chuyên gia và tổ chức lấy ý kiến chuyên gia."
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Lập kế hoạch chiến lược là nhiệm vụ của:",
+    "answer": "các nhà quản lý cấp cao."
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Chính sách là loại hình kế hoạch:",
+    "answer": "khuyến khích tự do sáng tạo của nhà quản lý."
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Thời tiết ngày càng nóng lên, doanh nghiệp kinh doanh nước giải khát sẽ xem nó như là một:",
+    "answer": "cơ hội."
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Hướng dẫn các việc phải làm và trình tự của nó là nội dung của:",
+    "answer": "các thủ tục."
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Sau khi xác định mục tiêu, bước tiếp theo của quá trình lập kế hoạch là:",
+    "answer": "xây dựng các phương án."
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Mô hình cơ cấu tạo điều kiện cho tập trung nguồn lực vào khâu xung yếu là cơ cấu",
+    "answer": "Ma trận"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Số lượng cấp dưới mà một nhà quản lý có thể kiểm soát là khái niệm",
+    "answer": "Tầm quản lý"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Mô hình cơ cấu nào dễ đào tạo các nhà quản lý chuyên môn",
+    "answer": "Chức năng"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Việc phối hợp hành động giữa các phòng ban chức năng vì mục tiêu cuối cùng có hiệu quả hơn là ưu điểm của cơ cấu",
+    "answer": "Sản phẩm"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Lý do phối hợp trong tổ chức là",
+    "answer": "Để đảm bảo mục tiêu chung của tổ chức"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Học thuyết_______ cho rằng một cá nhân có xu hướng hành động theo một cách nhất định dựa trên những kỳ vọng rằng hành động đó sẽ dẫn đến một kết quả cho trước và dựa trên mức độ hấp dẫn của kết quả đó đối với cá nhân này",
+    "answer": "kỳ vọng của V.Room"
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Nhờ có kiến thức chuyên môn giỏi, anh Phương luôn sẵn sàng giúp đỡ mọi người về những vấn đề chuyên môn. Cấp dưới tin tưởng vào anh và phòng của anh trở thành một trong những phòng làm việc hiệu quả nhất. Anh Phương đang sử dụng loại quyền lực gì?",
+    "answer": "Quyền lực chuyên môn."
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Hợp đồng lao động, thoả ước lao động tập thể là ví dụ về:",
+    "answer": "công cụ hành chính."
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "____________ là trạng thái tâm lý mà con người cảm thấy thiếu thốn không thỏa mãn về một cái gì đó và mong được đáp ứng nó.",
+    "answer": "Nhu cầu"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "____________ là người gây cảm hứng và tạo động cơ làm việc, còn ______________ là người chỉ đạo và kiểm soát.",
+    "answer": "Nhà lãnh đạo ... nhà quản lý..."
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Một trong những nội dung của nguyên tắc kiểm soát “Tuân thủ pháp luật” có nghĩa là:",
+    "answer": "bộ phận kiểm soát cần tiến hành đúng trách nhiệm, nhiệm vụ, quyền hạn."
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Kế hoạch bán hàng của một đơn vị trong quý là một ví dụ về công cụ kiểm soát nào?",
+    "answer": "Ngân quỹ."
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Việc nhà quản lý lập kế hoạch hiệu quả giúp thực hiện bước nào trong quá trình kiểm soát?",
+    "answer": "Thiết lập tiêu chuẩn kiểm soát."
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Loại hình kiểm soát đảm bảo rằng các nhân viên đã hiểu rõ các thủ tục cần tuân thủ là:",
+    "answer": "kiểm soát đầu vào."
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Nhận định nào không phải là mục đích của kiểm soát?",
+    "answer": "Đảm bảo đầy đủ tài chính cho doanh nghiệp."
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Quản lý xét theo quy trình là:",
+    "answer": "tương đối thống nhất với mọi tổ chức."
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Khi quản đốc phân xưởng của một nhà máy so sánh chất lượng sản phẩm với tiêu chuẩn đặt ra của sản phẩm đó, nhà quản lý này đang thực hiện chức năng:",
+    "answer": "kiểm soát."
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Người lập kế hoạch, tổ chức, lãnh đạo và kiểm soát công việc của những người khác để tổ chức do họ quản lý đạt được mục đích của mình là:",
+    "answer": "Nhà quản lý"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Năng lực phát hiện, phân tích và giải quyết những vấn đề phức tạp là:",
+    "answer": "Kỹ năng nhận thức"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Quản lý là quá trình:",
+    "answer": "Lập kế hoạch, tổ chức, lãnh đạo và kiểm soát"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Tổ chức hội thảo:",
+    "answer": "là một trong các phương pháp để nhà quản lý lấy ý kiến chuyên gia trong quá trình ra quyết định hoặc tổ chức thực hiện quyết định quản lý."
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Phân chia theo số người ra quyết định, quyết định quản lý bao gồm:",
+    "answer": "quyết định tập thể và quyết định cá nhân."
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Một quyết định quản lý cần đáp ứng được các yêu cầu về:",
+    "answer": "tính hợp pháp, tính hệ thống, tính khoa học và tính tối ưu."
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Phương pháp phỏng vấn:",
+    "answer": "là một trong các cách thức để lấy ý kiến chuyên gia trong quá trình quyết định quản lý."
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Chọn phương án đúng. Quyết định quản lý:",
+    "answer": "bao gồm cả quyết định dài hạn, trung hạn và ngắn hạn."
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Lập kế hoạch tác nghiệp là nhiệm vụ của:",
+    "answer": "các nhà quản lý cấp trung và cấp cơ sở."
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Môi trường bên trong của tổ chức bao gồm:",
+    "answer": "điểm mạnh và điểm yếu."
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Thông tin về cơ hội và thách thức có được từ:",
+    "answer": "phân tích môi trường bên ngoài của tổ chức."
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Quy hoạch là sự cụ thể hoá của",
+    "answer": "chiến lược."
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Bước đầu tiên trong quá trình lập kế hoạch là:",
+    "answer": "phân tích môi trường."
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Mô hình Cơ cấu nào được sử dụng khi tổ chức có các dự án và chương trình mục tiêu",
+    "answer": "Ma trận"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Định hướng hoạt động theo kết quả cuối cùng là ưu điểm của mô hình cơ cấu",
+    "answer": "Ma trận"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Thường dẫn đến sự không thống nhất mệnh lệnh là hạn chế của mô hình cơ cấu",
+    "answer": "Ma trận"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Sự cấn thiết hoàn thiện cơ cấu tổ chức là xuất phát từ",
+    "answer": "Sức ép từ môi trường bên ngoài và bên trong"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Mô hình Cơ cấu nào vi phạm chế độ một thủ trưởng",
+    "answer": "Ma trận"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Trong những kết luận sau đây về động lực làm việc, kết luận nào là sai?",
+    "answer": "Hiểu được động lực làm việc và áp dụng được các lý thuyết về tạo động lực là đủ để lãnh đạo có hiệu quả."
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Các yếu tố sau, yếu tố nào không ảnh hưởng trực tiếp tới động lực làm việc?",
+    "answer": "Đặc điểm của môi trường tự nhiên."
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Trong ba yếu tố cấu thành chính của lãnh đạo, ___________ là khả năng khích lệ những người đi theo phát huy toàn bộ năng lực của họ cho một nhiệm vụ hay mục tiêu.",
+    "answer": "khả năng khích lệ, lôi cuốn."
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Trong học thuyết động cơ của Victor Room, _________phản ánh xác suất mà một người tin rằng làm việc chăm chỉ sẽ dẫn tới kết quả mong muốn.",
+    "answer": "kỳ vọng"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Theo mô hình phân cấp nhu cầu của A. Maslow, đáp án nào sau đây là đúng?",
+    "answer": "Nhà quản lý cần phải làm thỏa mãn nhu cầu cấp thấp nhất của người lao động ở mức độ nhất định trước khi đáp ứng nhu cầu cấp cao."
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Sau khi xác định mục tiêu và nội dung kiểm soát, bước tiếp theo của quy trình kiểm soát là:",
+    "answer": "xác định tiêu chuẩn kiểm soát."
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Ưu điểm của hệ thống kiểm soát phản hồi dự báo là:",
+    "answer": "ngăn ngừa hoặc phát hiện ngay các sai sót."
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Sau khi giám sát và đo lường việc thực hiện, bước tiếp theo của quy trình kiểm soát là:",
+    "answer": "đánh giá sự thực hiện."
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Một trong những nội dung của nguyên tắc kiểm soát “Tính hiệu quả” có nghĩa là:",
+    "answer": "lợi ích của kiểm soát phải tương xứng với chi phí dành cho kiểm soát."
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Trong các thông tin sau, đâu không phải là công cụ kiểm soát",
+    "answer": "bằng khen của cấp trên"
+  }
+]

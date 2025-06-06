@@ -1,0 +1,3842 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Không sử dụng CAPM để giải thich cả hai trường hợp"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Cả hai danh mục"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Những điểm nằm phía trên đường SML là những chứng khoán được định giá",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "1,2 và 0,72"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Hệ số β của một tài sản đo lường",
+    "answer": "Rủi ro hệ thống của tài sản đó"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Để đo lường rủi ro hệ thống của một tài sản, chúng ta có thể sử dụng",
+    "answer": "Hệ số β"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Phần bù rủi ro thị trường sẽ phụ thuộc vào",
+    "answer": "Mức độ chấp nhận rủi ro trung bình của các nhà đầu tư"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Một cổ phiếu được bán với giá 50$ vào ngày hôm nay. Nếu cổ tức là 6$ cho mỗi cổ phiếu vào cuối năm. Hệ số beta là 1,2. Lãi suất phi rủi ro là 6% và tỷ lệ lơi tức kỳ vọng của thị trường là 16%. Dự đoán giá của cổ phiếu vào cuối năm?",
+    "answer": "53$"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Kết quả của mô hình định giá tài sản tài chính CAPM là",
+    "answer": "Tất cả các nhà đầu tư sẽ nắm giữ cùng một danh mục đầu tư thị trường"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "1,2 và 0,6"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Những điểm nằm phía dưới đường SML là những chứng khoán được định giá",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "-6% và 0,3%"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Phần bù rủi ro của danh mục thị trường tỉ lệ thuận với",
+    "answer": "Rủi ro của danh mục thị trường"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Cổ phiếu IBM đang được giao dịch với giá $95 trên sàn NYSE nhưng chỉ có $93 trên NASDAQ. Nhà đầu tư có thể kiếm lời bằng việc thực hiện :",
+    "answer": "Kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Hệ số alpha đo lường:",
+    "answer": "Chênh lệch giữa tỷ lệ lợi tức kỳ vọng với tỷ lệ lợi tức kỳ vọng xác định bởi mô hình CAPM"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Số liệu trong quá khứ của VNIndex cho thấy phần bù rủi ro trung bình là 8,4%, hệ số chấp nhận rủi ro trung bình của nhà đầu tư bằng 3,5. Phần bù rủi ro thị trường bằng bao nhiêu sẽ phù hợp với độ lệch chuẩn trong quá khứ",
+    "answer": "14,4%"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Những điểm nằm phía dưới đường SML là những chứng khoán được định giá",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Các giả định của mô hình định giá tài sản tài chính CAPM không bao gồm:",
+    "answer": "Các nhà đầu tư có kỳ vọng khác nhau"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Lãi suất phi rủi ro là 6% và tỷ lệ lợi tức kỳ vọng của thị trường là 16%. Cổ phiếu với tỷ lệ lợi tức kỳ vọng là 8%, beta bằng bao nhiêu?",
+    "answer": "0,2"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Giả định nào KHÔNG là của Lý thuyết APT:",
+    "answer": "Nhà đầu tư là người chấp nhận giá"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Cổ phiếu XYZ với lợi tức kỳ vọng là 11%, và hệ số beta = 1. Cổ phiếu ABC có lợi tức kỳ vọng là 13%, và hệ số beta = 1.5. Lợi tức kỳ vọng của thị trường là 11% và rf = 5%. Cổ phiếu XYZ và ABC được thị trường",
+    "answer": "Định giá cao và định giá đúng"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Đường SML có phần bù rủi ro của tài sản riêng lẻ phụ thuộc vào:",
+    "answer": "Rủi ro hệ thống của tài sản đó"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Giả định nào được sử dụng để xây dựng mô hình CAPM lại không còn được sử dụng khi xây dựng lý thuyết APT :",
+    "answer": "Nhà đầu tư sử dụng hàm hữu dụng để tối đa hóa lợi ích"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Danh mục thị trường có hệ số β bằng",
+    "answer": "1"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Số liệu trong quá khứ của VNIndex cho thấy phần bù rủi ro trung bình là 8,4%, độ lệch chuẩn là 20,3%. Căn cứ vào số liệu lịch sử, hệ số chấp nhận rủi ro trung bình của nhà đầu tư bằng bao nhiêu?",
+    "answer": "2.04"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "19,41%"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Lãi suất phi rủi ro là 5% và tỷ lệ lợi tức kỳ vọng của thị trường là 18%. Cổ phiếu với tỷ lệ lợi tức kỳ vọng là 10%, beta bằng bao nhiêu?",
+    "answer": "0.38"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "0,94 và 0,57"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Cổ phiếu với β=0 thì có tỷ lệ lợi tức kỳ vọng",
+    "answer": "Tỷ lệ lợi tức kỳ vọng bằng lãi suất phi rủi ro"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Giả định nào KHÔNG là của Lý thuyết APT:",
+    "answer": "Nhà đầu tư là người chấp nhận giá"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Kết quả của mô hình định giá tài sản tài chính CAPM là",
+    "answer": "Tất cả các nhà đầu tư sẽ nắm giữ cùng một danh mục đầu tư thị trường"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Hệ số alpha đo lường:",
+    "answer": "Chênh lệch giữa tỷ lệ lợi tức kỳ vọng với tỷ lệ lợi tức kỳ vọng xác định bởi mô hình CAPM"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Các giả định của mô hình định giá tài sản tài chính CAPM không bao gồm:",
+    "answer": "Các nhà đầu tư có kỳ vọng khác nhau"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Danh mục thị trường theo mô hình định giá tài sản tài chính CAPM là danh mục",
+    "answer": "Là điểm tiếp xúc giữa đường CML và đường biên hiệu quả"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Cổ phiếu IBM đang được giao dịch với giá $95 trên sàn NYSE nhưng chỉ có $93 trên NASDAQ. Nhà đầu tư có thể kiếm lời bằng việc thực hiện :",
+    "answer": "Kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Không sử dụng CAPM để giải thich cả hai trường hợp"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Cổ phiếu XYZ với lợi tức kỳ vọng là 11%, và hệ số beta = 1. Cổ phiếu ABC có lợi tức kỳ vọng là 13%, và hệ số beta = 1.5. Lợi tức kỳ vọng của thị trường là 11% và rf = 5%. Cổ phiếu XYZ và ABC được thị trường",
+    "answer": "Định giá cao và định giá đúng"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Một cổ phiếu được bán với giá 50$ vào ngày hôm nay. Nếu cổ tức là 6$ cho mỗi cổ phiếu vào cuối năm. Hệ số beta là 1,2. Lãi suất phi rủi ro là 6% và tỷ lệ lơi tức kỳ vọng của thị trường là 16%. Dự đoán giá của cổ phiếu vào cuối năm?",
+    "answer": "53$"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Một cổ phiếu được bán với giá 45$ vào ngày hôm nay. Nếu cổ tức là 5$ cho mỗi cổ phiếu vào cuối năm. Hệ số beta là 1,2. Lãi suất phi rủi ro là 7% và tỷ lệ lơi tức kỳ vọng của thị trường là 12%. Dự đoán giá của cổ phiếu vào cuối năm?",
+    "answer": "45,3$"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Hệ số β của một tài sản đo lường",
+    "answer": "Rủi ro hệ thống của tài sản đó"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Giả định nào là của Lý thuyết APT:",
+    "answer": "Thị trường chứng khoán hoạt động hiệu quả, không cho phép tồn tại các cơ hội kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "1,2 và 0,6"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Những điểm nằm phía dưới đường SML là những chứng khoán được định giá",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Để đo lường rủi ro hệ thống của một tài sản, chúng ta có thể sử dụng",
+    "answer": "Hệ số β"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Những điểm nằm phía dưới đường SML là những chứng khoán được định giá",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Phần bù rủi ro thị trường sẽ phụ thuộc vào",
+    "answer": "Mức độ chấp nhận rủi ro trung bình của các nhà đầu tư"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "1,2 và 0,72"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Giả định nào được sử dụng để xây dựng mô hình CAPM lại không còn được sử dụng khi xây dựng lý thuyết APT :",
+    "answer": "Nhà đầu tư sử dụng hàm hữu dụng để tối đa hóa lợi ích"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Các giả định của mô hình định giá tài sản tài chính CAPM gồm có",
+    "answer": "Nhà đầu tư cá nhân là người chấp nhận giá"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Cả hai danh mục"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Số liệu trong quá khứ của VNIndex cho thấy phần bù rủi ro trung bình là 8,4%, độ lệch chuẩn là 20,3%. Căn cứ vào số liệu lịch sử, hệ số chấp nhận rủi ro trung bình của nhà đầu tư bằng bao nhiêu?",
+    "answer": "2.04"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Tỷ lệ chiết khấu được sử dụng để xác định giá trị hiện tại của công ty là",
+    "answer": "Chi phí vốn bình quân"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Ngân hàng Nhà nước thực hiện công cụ tác động vào lượng cung tiền:",
+    "answer": "Tỷ lệ dự trữ bắt buộc"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Các ngành có doanh thu tăng hoặc giảm cùng với chu kỳ kinh tế sẽ hấp dẫn các nhà đầu tư",
+    "answer": "Trong giai đoạn đầu của giai đoạn phục hồi"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Để xác định giá trị của mỗi doanh nghiệp, từ đó xác định giá trị của cổ phiếu, người ta phải tiến hành",
+    "answer": "Phân tích vĩ mô, phân tích ngành và phân tích công ty"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Để giảm cầu sản xuất, tiêu dùng và mức chi tiêu, Chính Phủ sẽ quyết định thực hiện các biện pháp",
+    "answer": "Tăng thuế, giảm cung tiền, giảm chi tiêu của Chính Phủ"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Giá trị thực của chứng khoán phụ thuộc vào .... nhân tố cơ bản.",
+    "answer": "Ba"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "tỷ lệ lợi tức yêu cầu của nhà đầu tư",
+    "answer": "phản ánh thái độ của nhà đầu tư trong việc dự đoán rủi ro và nhận biết mức độ rủi ro của tài sản"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "công ty mà tài sản bao gồm nhiều tài sản có độ rủi ro cao, nhưng cũng có khả năng sinh lợi lớn",
+    "answer": "Công ty đầu cơ"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Dấu hiệu thường đi kèm với giai đoạn suy giảm nền kinh tế là",
+    "answer": "Số lượng công ty phá sản và các trường hợp mất khả năng chi trả lãi và vốn của trái phiếu tăng;"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Chu kỳ kinh tế là",
+    "answer": "các giai đoạn tăng trưởng phát triển kinh tế thường nối tiếp sau những giai đoạn suy thoái kinh tế và có thể dự báo dài hạn được"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "công ty có bề dày lịch sử, phát triển lớn mạnh, có mức tăng doanh thu và thu nhập lớn hơn mức trung bình là",
+    "answer": "Công ty tăng trưởng"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Mục tiêu của phân tích vĩ mô là",
+    "answer": "Phân bổ tối ưu giữa cổ phiếu, trái phiếu, tiền …"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Các công cụ mà Ngân hàng Nhà nước tác động vào cung tiền trong nền kinh tế, TRỪ:",
+    "answer": "Cổ phiếu"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ vận động ngược với chu kỳ kinh tế",
+    "answer": "ngành thực phẩm, đồ uống"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Khi tình hình kinh doanh bắt đầu sụt giảm, nền kinh tế bước vào giai đoạn",
+    "answer": "Suy thoái"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Mục tiêu của phân tích ngành là",
+    "answer": "Xác định ngành có triển vọng phát triển"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Khi giai đoạn thu hẹp nền kinh tế diễn ra mạnh hơn và dài hơn gọi là",
+    "answer": "Khủng hoảng"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "công ty mà thu nhập tương lai của chúng có thể ít có sự biến động khi khủng hoảng kinh tế",
+    "answer": "Công ty phòng vệ"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Một cổ phiếu có tỷ suất lợi nhuận thay đổi lớn hơn thay đổi của tỷ suất lợi nhuận của toàn thị trường là",
+    "answer": "Cổ phiếu có tính chu kỳ"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Giai đoạn suy giảm trong nền kinh tế thường đi kèm với các dấu hiệu sau, TRỪ:",
+    "answer": "GDP tăng"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Phân tích cơ bản cho biết",
+    "answer": "Giá trị thực của cổ phiếu"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Một cổ phiếu có khả năng đạt tỷ suất lợi nhuận thấp hoặc âm và ít khả năng đạt tỷ suất lợi nhuận trung bình hoặc cao là",
+    "answer": "Cổ phiếu đầu cơ"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Tỷ suất lợi nhuận của một cổ phiếu được kỳ vọng không giảm sút trong giai đoạn xuống dốc của toàn bộ thị trường, hoặc không suy giảm quá trầm trọng như toàn thị trường",
+    "answer": "Cổ phiếu phòng vệ"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Chính sách tài chính do Chính Phủ thực hiện thông qua các công cụ, TRỪ:",
+    "answer": "Tỷ lệ dự trữ bắt buộc"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Mục tiêu của phân tích công ty là",
+    "answer": "Chọn ra công ty có triển vọng và những cổ phiếu bị định giá thấp"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ vận động phù hợp với chu kỳ kinh tế",
+    "answer": "ngành ngân hàng tài chính"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Một cổ phiếu có tỷ suất thu nhập cao hơn những cổ phiếu khác trên thị trường với cùng độ rủi ro là",
+    "answer": "Cổ phiếu tăng trưởng"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Các công cụ mà Ngân hàng Nhà nước tác động vào cung tiền trong nền kinh tế, TRỪ:",
+    "answer": "Cổ phiếu"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Ngân hàng Nhà nước thực hiện công cụ tác động vào lượng cung tiền:",
+    "answer": "Tỷ lệ dự trữ bắt buộc"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Khi tình hình kinh doanh bắt đầu sụt giảm, nền kinh tế bước vào giai đoạn",
+    "answer": "Suy thoái"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Chu kỳ kinh tế là",
+    "answer": "các giai đoạn tăng trưởng phát triển kinh tế thường nối tiếp sau những giai đoạn suy thoái kinh tế và có thể dự báo dài hạn được"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Mục tiêu của phân tích công ty là",
+    "answer": "Chọn ra công ty có triển vọng và những cổ phiếu bị định giá thấp"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Phân tích cơ bản cho biết",
+    "answer": "Giá trị thực của cổ phiếu"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "công ty có bề dày lịch sử, phát triển lớn mạnh, có mức tăng doanh thu và thu nhập lớn hơn mức trung bình là",
+    "answer": "Công ty tăng trưởng"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Khi giai đoạn thu hẹp nền kinh tế diễn ra mạnh hơn và dài hơn gọi là",
+    "answer": "Khủng hoảng"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ vận động phù hợp với chu kỳ kinh tế",
+    "answer": "ngành ngân hàng tài chính"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Chính sách tài chính do Chính Phủ thực hiện thông qua các công cụ, TRỪ:",
+    "answer": "Tỷ lệ dự trữ bắt buộc"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ vận động ngược với chu kỳ kinh tế",
+    "answer": "ngành thực phẩm, đồ uống"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Tỷ lệ chiết khấu được sử dụng để xác định giá trị hiện tại của công ty là",
+    "answer": "Chi phí vốn bình quân"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Một cổ phiếu có tỷ suất lợi nhuận thay đổi lớn hơn thay đổi của tỷ suất lợi nhuận của toàn thị trường là",
+    "answer": "Cổ phiếu có tính chu kỳ"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Mục tiêu của phân tích ngành là",
+    "answer": "Xác định ngành có triển vọng phát triển"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "công ty mà tài sản bao gồm nhiều tài sản có độ rủi ro cao, nhưng cũng có khả năng sinh lợi lớn",
+    "answer": "Công ty đầu cơ"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Dấu hiệu thường đi kèm với giai đoạn suy giảm nền kinh tế là",
+    "answer": "Số lượng công ty phá sản và các trường hợp mất khả năng chi trả lãi và vốn của trái phiếu tăng;"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "tỷ lệ lợi tức yêu cầu của nhà đầu tư",
+    "answer": "phản ánh thái độ của nhà đầu tư trong việc dự đoán rủi ro và nhận biết mức độ rủi ro của tài sản"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Một cổ phiếu có tỷ suất thu nhập cao hơn những cổ phiếu khác trên thị trường với cùng độ rủi ro là",
+    "answer": "Cổ phiếu tăng trưởng"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Giá trị thực của chứng khoán phụ thuộc vào .... nhân tố cơ bản.",
+    "answer": "Ba"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Các ngành có doanh thu tăng hoặc giảm cùng với chu kỳ kinh tế sẽ hấp dẫn các nhà đầu tư",
+    "answer": "Trong giai đoạn đầu của giai đoạn phục hồi"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Để xác định giá trị của mỗi doanh nghiệp, từ đó xác định giá trị của cổ phiếu, người ta phải tiến hành",
+    "answer": "Phân tích vĩ mô, phân tích ngành và phân tích công ty"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Một cổ phiếu có khả năng đạt tỷ suất lợi nhuận thấp hoặc âm và ít khả năng đạt tỷ suất lợi nhuận trung bình hoặc cao là",
+    "answer": "Cổ phiếu đầu cơ"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Giai đoạn suy giảm trong nền kinh tế thường đi kèm với các dấu hiệu sau, TRỪ:",
+    "answer": "GDP tăng"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Để giảm cầu sản xuất, tiêu dùng và mức chi tiêu, Chính Phủ sẽ quyết định thực hiện các biện pháp",
+    "answer": "Tăng thuế, giảm cung tiền, giảm chi tiêu của Chính Phủ"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Mục tiêu của phân tích vĩ mô là",
+    "answer": "Phân bổ tối ưu giữa cổ phiếu, trái phiếu, tiền …"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "công ty mà thu nhập tương lai của chúng có thể ít có sự biến động khi khủng hoảng kinh tế",
+    "answer": "Công ty phòng vệ"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Tỷ suất lợi nhuận của một cổ phiếu được kỳ vọng không giảm sút trong giai đoạn xuống dốc của toàn bộ thị trường, hoặc không suy giảm quá trầm trọng như toàn thị trường",
+    "answer": "Cổ phiếu phòng vệ"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "tỷ lệ lợi tức yêu cầu của nhà đầu tư",
+    "answer": "phản ánh thái độ của nhà đầu tư trong việc dự đoán rủi ro và nhận biết mức độ rủi ro của tài sản"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Chu kỳ kinh tế là",
+    "answer": "các giai đoạn tăng trưởng phát triển kinh tế thường nối tiếp sau những giai đoạn suy thoái kinh tế và có thể dự báo dài hạn được"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Phân tích cơ bản cho biết",
+    "answer": "Giá trị thực của cổ phiếu"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ vận động phù hợp với chu kỳ kinh tế",
+    "answer": "ngành ngân hàng tài chính"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Khi giai đoạn thu hẹp nền kinh tế diễn ra mạnh hơn và dài hơn gọi là",
+    "answer": "Khủng hoảng"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Một cổ phiếu có tỷ suất lợi nhuận thay đổi lớn hơn thay đổi của tỷ suất lợi nhuận của toàn thị trường là",
+    "answer": "Cổ phiếu có tính chu kỳ"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Dấu hiệu thường đi kèm với giai đoạn suy giảm nền kinh tế là",
+    "answer": "Số lượng công ty phá sản và các trường hợp mất khả năng chi trả lãi và vốn của trái phiếu tăng;"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "công ty mà thu nhập tương lai của chúng có thể ít có sự biến động khi khủng hoảng kinh tế",
+    "answer": "Công ty phòng vệ"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Mục tiêu của phân tích ngành là",
+    "answer": "Xác định ngành có triển vọng phát triển"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Để giảm cầu sản xuất, tiêu dùng và mức chi tiêu, Chính Phủ sẽ quyết định thực hiện các biện pháp",
+    "answer": "Tăng thuế, giảm cung tiền, giảm chi tiêu của Chính Phủ"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ vận động ngược với chu kỳ kinh tế",
+    "answer": "ngành thực phẩm, đồ uống"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "công ty mà tài sản bao gồm nhiều tài sản có độ rủi ro cao, nhưng cũng có khả năng sinh lợi lớn",
+    "answer": "Công ty đầu cơ"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Khi tình hình kinh doanh bắt đầu sụt giảm, nền kinh tế bước vào giai đoạn",
+    "answer": "Suy thoái"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Giai đoạn suy giảm trong nền kinh tế thường đi kèm với các dấu hiệu sau, TRỪ:",
+    "answer": "GDP tăng"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Mục tiêu của phân tích vĩ mô là",
+    "answer": "Phân bổ tối ưu giữa cổ phiếu, trái phiếu, tiền …"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Một cổ phiếu có khả năng đạt tỷ suất lợi nhuận thấp hoặc âm và ít khả năng đạt tỷ suất lợi nhuận trung bình hoặc cao là",
+    "answer": "Cổ phiếu đầu cơ"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "công ty có bề dày lịch sử, phát triển lớn mạnh, có mức tăng doanh thu và thu nhập lớn hơn mức trung bình là",
+    "answer": "Công ty tăng trưởng"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Chính sách tài chính do Chính Phủ thực hiện thông qua các công cụ, TRỪ:",
+    "answer": "Tỷ lệ dự trữ bắt buộc"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Một cổ phiếu có tỷ suất thu nhập cao hơn những cổ phiếu khác trên thị trường với cùng độ rủi ro là",
+    "answer": "Cổ phiếu tăng trưởng"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Ngân hàng Nhà nước thực hiện công cụ tác động vào lượng cung tiền:",
+    "answer": "Tỷ lệ dự trữ bắt buộc"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Các công cụ mà Ngân hàng Nhà nước tác động vào cung tiền trong nền kinh tế, TRỪ:",
+    "answer": "Cổ phiếu"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Trong bất kỳ một một đồ thị nào ta đều thấy sau một giai đoạn giá chuyển động theo xu thế thị trường thì giá sẽ hoàn lại một chút trước khi quay trở lại chuyển động theo xu thế cũ. Những chuyển động ngược xu thế này thường có độ lớn ở vào khoảng có thể sử dụng được gọi là",
+    "answer": "Mức hoàn lại"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Mô hình nào trong các mô hình dưới đây được coi là một dạng mô hình trung gian mang tính củng cố hay báo hiệu sự tiếp tục xu thế hiện tại của thị trường, tuy nhiên đôi khi mang tính đảo ngược, mô hình cần ít hơn 3 tháng để hoàn thiện và khi xuất hiện thường kèm theo sự gia tăng của khối lượng giao dịch.",
+    "answer": "Mô hình tam giác hướng lên"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Phân tích kỹ thuật có mấy giả định cơ bản",
+    "answer": "3"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Hình mẫu nào trong hình mẫu dưới đây được các nhà phân tích chuyên nghiệp thường nhận biết hình mẫu này thông qua những biến cố thực sự. Hình mẫu này là hình mẫu đảo ngược xu thế thị trường, nó đánh dấu sự đảo chiều của xu thế biến động giá CK từ xu thế tăng giá chuyển thành xu thế giảm giá.",
+    "answer": "Hình mẫu đỉnh đầu vai"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Biểu đồ dạng nào trong các biểu đồ dưới đây có tính ưu việt của nó đó là sự phản ánh rõ nét giá CK",
+    "answer": "Biểu đồ dạng then chắn"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Mệnh đề nào không phải giả định cơ bản của phân tích kỹ thuật",
+    "answer": "Thị giá chứng khoán sẽ đạt đến giá trị thực qua thời gian."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là:",
+    "answer": "Giá chứng khoán vận động theo xu thế"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Biểu đồ thể hiện mức giao động giá và sản lượng dưới dạng một đường liền nét là:",
+    "answer": "Biểu đồ dạng đường"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Loại biểu đồ nào phản ánh rõ nét nhất sự biến động giá CK trên TTCK khớp lệnh định kỳ.",
+    "answer": "Biểu đồ dạng hình nến"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Hình mẫu nào tròn các hình mẫu dưới đây thể hiện tiếp tục xu thế của thị trường trong ngắn hạn. Thông thường trước khi xẩy ra những hình mẫu kỹ thuật này thì được xác nhận bằng sự tăng hoặc giảm giá mạnh kết hợp với khối lượng giao dịch lớn",
+    "answer": "Hình mẫu cờ chữ nhật và đuôi nheo"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là",
+    "answer": "Biến động thị trường phản ánh tất cả"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Hai kí tự mà dạng biểu đồ này sử dụng là:",
+    "answer": "Biểu đồ dạng hình nến"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Biểu đồ dạng dạng nào trong các biểu đồ dưới đây thường được sử dụng cho những TTCK mới đi vào hoạt động trong thời gian ngắn, khớp lệnh định kỳ theo từng phiên hoặc nhiều lần trong một phiên.",
+    "answer": "Biểu đồ dạng đường"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Hình mẫu nào trong các hình mẫu dưới đây là một dạng tiếp tục xu thế của thị trường, nó giống như một kênh giao dịch cho đến cuối của xu thế biến động giá. Hình mẫu này có thể diễn ra trong vài tuần hoặc vài tháng, thông thường thì thường diễn ra trong khoảng 3 tuần.",
+    "answer": "Hình mẫu hình chữ nhật"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Hình mẫu nào dưới đây được xem xét như là hình mẫu trung gian chuyển tiếp của xu thế biến động giá chứng khoán. Tín hiệu đáng tin cậy để nhận biết ra hình mẫu này là sự xuyên chéo một trong hai đường xu thế bởi đường biểu diễn sự biến động giá chứng khoán một cách rõ ràng",
+    "answer": "Mô hình kỹ thuật tam giác cân"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Có bao nhiêu xu thế của thị trường theo lý thuyết Dow",
+    "answer": "3"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Khoảng giao động của giá, nếu giá giao động trong một dải thì dải đó được gọi là",
+    "answer": "Kênh"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Hình mẫu này là",
+    "answer": "Mô hình tam giác hướng xuống"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Việc đưa ra mô hình, dữ liệu để phân tích, dự đoán giá chứng khoán được gọi là",
+    "answer": "Phân tích kỹ thuật"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Hình mẫu nào có xu thế đảo ngược xu thế biến động của thị trường, nó thường được sử dụng để phân tích với biểu đồ hàng tuần. Nó đại diện cho thời kỳ củng cố dài hạn trong xu thế biến động của giá chứng khoán, nó là mô hình chuyển tiếp từ một khuynh hướng giảm giá liên tục sang khuynh hướng tăng giá mạnh.",
+    "answer": "Hình mẫu đáy vòng cung"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Hình mẫu này là",
+    "answer": "Hình mẫu ba đỉnh"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Điểm xuất hiện khi giá của thị trường dịch chuyển ra ngoài xu thế của kênh là:",
+    "answer": "Điểm đột phá"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Trong phân tích kỹ thuật các chuyên gia chia làm mấy loại xu thế chính",
+    "answer": "2"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây cung cấp cho chúng ta những chỉ báo kỹ thuật về các điểm Overbought và Oversould của CK trên thị trường.",
+    "answer": "Chỉ số kênh hàng hóa"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Đâu là hạn chế của phân tích kỹ thuật",
+    "answer": "Diễn biến giá chứng khoán trong quá khứ hay mối quan hệ giữa các biến số trên thị trường và giá cả của chứng khoán có thể không lặp lại."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Lý thuyết sóng có mấy khía cạnh cơ bản",
+    "answer": "3"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây có thể cho biết sức mạnh hoặc tình trạng yếu kém của thị trường, thông thường nó đem lại tín hiệu sớm của xu hướng đổi chiều.",
+    "answer": "Bộ giao động stochastic"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Đây là ưu, nhược điểm của loại biểu đồ nào: dễ sử dụng, tuy nhiên những TTCK phát triển thì mức độ giao động trong thời gian ngắn, với độ lệch khá cao, nếu dùng biểu đồ này thì hiệu quả không cao.",
+    "answer": "Biểu đồ dạng đường"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Hai kí tự mà dạng biểu đồ này sử dụng là:",
+    "answer": "Biểu đồ dạng then chắn"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Phân tích kỹ thuật là",
+    "answer": "Phương pháp sử dụng diễn biến của giá và khối lượng giao dịch trong quá khứ để dự đoán xu thế giá trong tương lai"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là:",
+    "answer": "Lịch sử sẽ lặp lại."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây có thể cung cấp cho chúng ta những cảnh báo sớm những cơ hội mua và bán chứng khoán.",
+    "answer": "RSI (Chỉ số sức mạnh tương đối)"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Mức giá mà ở đó lượng cung đủ để giá sẽ ngừng không tăng nữa và có thể chuyển động ngược lại đi xuống là mức giá nào dưới đây?",
+    "answer": "Mức kháng cự"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Mức giá ở đó mức cầu cho một cổ phiếu là đủ để ít nhất là làm dừng xu thế giảm giá của thị trường và cũng có thể đổi chiều xu thế đó là mức giá nào dưới đây?",
+    "answer": "Mức hỗ trợ"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Mô hình hình thành khi giá tạo thành hai điểm đáy liên tiếp trên cùng một đồ thị. Mô hình này chỉ hoàn thiện khi giá tăng vượt qua điểm bắt đầu hình thành đáy thứ hai được gọi là:",
+    "answer": "Mô hình hai đáy"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Có mấy loại biểu đồ thường được sử dụng trong phân tích kỹ thuật",
+    "answer": "3"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây biểu diễn sự quy tụ hay phân kỳ của trung bình chuẩn động, chỉ báo động lượng dung để báo hiệu sự thay đổi của khuynh hướng biến động giá chứng khoán, và để dự báo khuynh hướng mới.",
+    "answer": "Đường chuẩn MACD"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Có mấy loại đường trung bình trượt:",
+    "answer": "4"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai về hạn chế của phân tích kỹ thuật",
+    "answer": "Hạn chế chính của các giả định của phân tích kỹ thuật chính là kết quả của các nghiên cứu thực nghiệm về giả thuyết thị trường hiệu quả EMH"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Chỉ báo quan trọng nào được dùng để theo dõi khuynh hướng biến động của giá CK và sự đảo chiều của những khuynh hướng này",
+    "answer": "Đường trung bình trượt"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Việc đưa ra mô hình, dữ liệu để phân tích, dự đoán giá chứng khoán được gọi là",
+    "answer": "Phân tích kỹ thuật"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Mệnh đề nào không phải giả định cơ bản của phân tích kỹ thuật",
+    "answer": "Thị giá chứng khoán sẽ đạt đến giá trị thực qua thời gian."
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Trong phân tích kỹ thuật các chuyên gia chia làm mấy loại xu thế chính",
+    "answer": "2"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Khoảng giao động của giá, nếu giá giao động trong một dải thì dải đó được gọi là",
+    "answer": "Kênh"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây có thể cho biết sức mạnh hoặc tình trạng yếu kém của thị trường, thông thường nó đem lại tín hiệu sớm của xu hướng đổi chiều.",
+    "answer": "Bộ giao động stochastic"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Biểu đồ thể hiện mức giao động giá và sản lượng dưới dạng một đường liền nét là:",
+    "answer": "Biểu đồ dạng đường"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Mô hình nào trong các mô hình dưới đây được coi là một dạng mô hình trung gian mang tính củng cố hay báo hiệu sự tiếp tục xu thế hiện tại của thị trường, tuy nhiên đôi khi mang tính đảo ngược, mô hình cần ít hơn 3 tháng để hoàn thiện và khi xuất hiện thường kèm theo sự gia tăng của khối lượng giao dịch.",
+    "answer": "Mô hình tam giác hướng lên"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Mệnh đề nào sau đây là sai về hạn chế của phân tích kỹ thuật",
+    "answer": "Hạn chế chính của các giả định của phân tích kỹ thuật chính là kết quả của các nghiên cứu thực nghiệm về giả thuyết thị trường hiệu quả EMH"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây có thể cung cấp cho chúng ta những cảnh báo sớm những cơ hội mua và bán chứng khoán.",
+    "answer": "RSI (Chỉ số sức mạnh tương đối)"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Phân tích kỹ thuật có mấy giả định cơ bản",
+    "answer": "3"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây cung cấp cho chúng ta những chỉ báo kỹ thuật về các điểm Overbought và Oversould của CK trên thị trường.",
+    "answer": "Chỉ số kênh hàng hóa"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Hình mẫu nào có xu thế đảo ngược xu thế biến động của thị trường, nó thường được sử dụng để phân tích với biểu đồ hàng tuần. Nó đại diện cho thời kỳ củng cố dài hạn trong xu thế biến động của giá chứng khoán, nó là mô hình chuyển tiếp từ một khuynh hướng giảm giá liên tục sang khuynh hướng tăng giá mạnh.",
+    "answer": "Hình mẫu đáy vòng cung"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Lý thuyết sóng có mấy khía cạnh cơ bản",
+    "answer": "3"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây biểu diễn sự quy tụ hay phân kỳ của trung bình chuẩn động, chỉ báo động lượng dung để báo hiệu sự thay đổi của khuynh hướng biến động giá chứng khoán, và để dự báo khuynh hướng mới.",
+    "answer": "Đường chuẩn MACD"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Có mấy loại đường trung bình trượt:",
+    "answer": "4"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Hai kí tự mà dạng biểu đồ này sử dụng là:",
+    "answer": "Biểu đồ dạng hình nến"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Hình mẫu nào dưới đây được xem xét như là hình mẫu trung gian chuyển tiếp của xu thế biến động giá chứng khoán. Tín hiệu đáng tin cậy để nhận biết ra hình mẫu này là sự xuyên chéo một trong hai đường xu thế bởi đường biểu diễn sự biến động giá chứng khoán một cách rõ ràng",
+    "answer": "Mô hình kỹ thuật tam giác cân"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là",
+    "answer": "Biến động thị trường phản ánh tất cả"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là:",
+    "answer": "Lịch sử sẽ lặp lại."
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Loại biểu đồ nào phản ánh rõ nét nhất sự biến động giá CK trên TTCK khớp lệnh định kỳ.",
+    "answer": "Biểu đồ dạng hình nến"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Đâu là hạn chế của phân tích kỹ thuật",
+    "answer": "Diễn biến giá chứng khoán trong quá khứ hay mối quan hệ giữa các biến số trên thị trường và giá cả của chứng khoán có thể không lặp lại."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Hình mẫu này là",
+    "answer": "Mô hình tam giác hướng xuống"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Hai kí tự mà dạng biểu đồ này sử dụng là:",
+    "answer": "Biểu đồ dạng then chắn"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là:",
+    "answer": "Giá chứng khoán vận động theo xu thế"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Hình mẫu nào trong hình mẫu dưới đây được các nhà phân tích chuyên nghiệp thường nhận biết hình mẫu này thông qua những biến cố thực sự. Hình mẫu này là hình mẫu đảo ngược xu thế thị trường, nó đánh dấu sự đảo chiều của xu thế biến động giá CK từ xu thế tăng giá chuyển thành xu thế giảm giá.",
+    "answer": "Hình mẫu đỉnh đầu vai"
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Biểu đồ dạng nào trong các biểu đồ dưới đây có tính ưu việt của nó đó là sự phản ánh rõ nét giá CK",
+    "answer": "Biểu đồ dạng then chắn"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Hình mẫu nào trong các hình mẫu dưới đây là một dạng tiếp tục xu thế của thị trường, nó giống như một kênh giao dịch cho đến cuối của xu thế biến động giá. Hình mẫu này có thể diễn ra trong vài tuần hoặc vài tháng, thông thường thì thường diễn ra trong khoảng 3 tuần.",
+    "answer": "Hình mẫu hình chữ nhật"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Phân tích kỹ thuật là",
+    "answer": "Phương pháp sử dụng diễn biến của giá và khối lượng giao dịch trong quá khứ để dự đoán xu thế giá trong tương lai"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Có bao nhiêu xu thế của thị trường theo lý thuyết Dow",
+    "answer": "3"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Mô hình hình thành khi giá tạo thành hai điểm đáy liên tiếp trên cùng một đồ thị. Mô hình này chỉ hoàn thiện khi giá tăng vượt qua điểm bắt đầu hình thành đáy thứ hai được gọi là:",
+    "answer": "Mô hình hai đáy"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Hình mẫu này là",
+    "answer": "Hình mẫu ba đỉnh"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Đây là ưu, nhược điểm của loại biểu đồ nào: dễ sử dụng, tuy nhiên những TTCK phát triển thì mức độ giao động trong thời gian ngắn, với độ lệch khá cao, nếu dùng biểu đồ này thì hiệu quả không cao.",
+    "answer": "Biểu đồ dạng đường"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Trong bất kỳ một một đồ thị nào ta đều thấy sau một giai đoạn giá chuyển động theo xu thế thị trường thì giá sẽ hoàn lại một chút trước khi quay trở lại chuyển động theo xu thế cũ. Những chuyển động ngược xu thế này thường có độ lớn ở vào khoảng có thể sử dụng được gọi là",
+    "answer": "Mức hoàn lại"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Mức giá ở đó mức cầu cho một cổ phiếu là đủ để ít nhất là làm dừng xu thế giảm giá của thị trường và cũng có thể đổi chiều xu thế đó là mức giá nào dưới đây?",
+    "answer": "Mức hỗ trợ"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Hình mẫu nào tròn các hình mẫu dưới đây thể hiện tiếp tục xu thế của thị trường trong ngắn hạn. Thông thường trước khi xẩy ra những hình mẫu kỹ thuật này thì được xác nhận bằng sự tăng hoặc giảm giá mạnh kết hợp với khối lượng giao dịch lớn",
+    "answer": "Hình mẫu cờ chữ nhật và đuôi nheo"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Nếu căn cứ vào giá chứng khoán trong quá khứ, người ta có thể dự báo giá chứng khoán tại thời điểm hiện tại. Đây là giả định thuộc mức hiệu quả nào của thị trường?",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Kiểm định thị trường hiệu quả dạng yếu thực chất là:",
+    "answer": "Xem xét có hay không sự phụ thuộc thống kê giữa những sự thay đổi giá."
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Câu nào dưới đây ĐÚNG về mức hiệu quả yếu:",
+    "answer": "Giá của chứng khoán phản ánh các thông tin trong quá khứ về giá chứng khoán"
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Cơ chế để những thông tin không công khai được phản ánh vào giá chứng khoán:",
+    "answer": "Cơ chế rò rỉ thông tin và cơ chế dự báo"
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Phương pháp kiểm tra phản ứng của thị trường và tỷ suất lợi nhuận vượt trội xung quanh những sự kiện thông tin đặc biệt thuộc phương pháp nào?",
+    "answer": "Phương pháp nghiên cứu sự kiện"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Nhận định sau nằm trong giả thuyết thị trường nào: “Giá cả của chứng khoán phản ánh các thông tin công khai trên thị trường, bao gồm các thông tin quá khứ về giá chứng khoán và các thông tin công khai trên thị trường”.",
+    "answer": "Thị trường hiệu quả dạng trung bình"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Đặc điểm nào sau đây là không đúng về thị trường hiệu quả:",
+    "answer": "Khi thị trường là hiệu quả, sẽ tồn tại nhiều cơ hội kinh doanh chênh lệch giá cho các nhà đầu tư"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Giả thuyết nào dưới đây mở rộng thêm giả định cho các thị trường hiệu quả - thị trường mà tại đó giá phản ánh các thông tin công khai, trở thành thị trường hoàn hảo - thị trường mà tại đó tất cả các thông tin đều miễn phí và sẵn có ở cùng một thời điểm?",
+    "answer": "Thị trường hiệu quả dạng mạnh"
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "PTVDTCK.B5.033 Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả :",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Điều nào dưới đây hàm ý thị trường đạt mức hiệu quả dạng yếu:",
+    "answer": "Căn cứ vào giá chứng khoán trong quá khứ, người ta có thể dự báo giá chứng khoán tại thời điểm hiện tại"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Điều nào sau đây không đúng :",
+    "answer": "Thị trường không thể đạt mức hiệu quả yếu khi chưa đạt mức hiệu quả trung bình"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Mức hiệu quả yếu xảy ra khi:",
+    "answer": "Giá của chứng khoán phản ánh các thông tin trong quá khứ về giá chứng khoán"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Quá trình luân chuyển vốn được coi là hiệu quả khi:",
+    "answer": "Chi phí cho việc luân chuyển vốn là thấp nhất"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Câu nào sau đây KHÔNG ĐÚNG về thị trường hiệu quả:",
+    "answer": "Trên thị trường hiệu quả, các chứng khoán sẽ được mua bán, trao đổi không ngang giá trên các sàn giao dịch chứng khoán;"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "“Thị trường mà tại đó giá luôn phản ánh những thông tin sẵn có, được gọi là thị trường hiệu quả” - nhận định trên được Fama đưa ra vào năm:",
+    "answer": "1970"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Mức hiệu quả trung bình xảy ra khi:",
+    "answer": "Giá cả của chứng khoán phản ánh các thông tin công khai trên thị trường"
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Mức hiệu quả trung bình xảy ra khi:",
+    "answer": "Giá cả của chứng khoán phản ánh các thông tin công khai trên thị trường, bao gồm các thông tin quá khứ về giá chứng khoán và các thông tin công khai"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Dự tính hợp lý là dự tính được tính toán trên cơ sở :",
+    "answer": "Các thông tin sẵn có trên thị trường"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Kendall(1953) who for the first time used the term random-walk in finance literature, examined (1953) đã sử dụng thuật ngữ bước đi ngẫu nhiên trong lý thuyết tài chính và nhận thấy:",
+    "answer": "Giá cả dường như tuân theo bước đi ngẫu nhiên"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Kiểm định được sử dụng khá phổ biến để kiểm định một chuỗi thời gian dừng hay không dừng là phương pháp kiểm định thị trường nào?",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Các thông tin trong nội bộ doanh nghiệp được phản ánh vào giá chứng khoán là biểu hiện của :",
+    "answer": "Thị trường hiệu quả dạng mạnh"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Thị trường mà tại đó giá phản ánh các thông tin công khai, trở thành thị trường hoàn hảo được đề cập đến trong giả thuyết:",
+    "answer": "Thị trường hiệu quả dạng mạnh"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Chiến lược nào dưới đây được cổ vũ trong Lý thuyết thị trường hiệu quả:",
+    "answer": "Chiến lược đầu tư thụ động"
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Phương pháp nghiên cứu sự kiện trong kiểm định hiệu quả của thị trường chứng khoán bao gồm bao nhiêu bước?",
+    "answer": "5"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Các nghiên cứu thực nghiệm về mức hiệu quả dạng mạnh giới hạn ở việc xác định những thông tin nào?",
+    "answer": "Thông tin sẵn có trong nội bộ doanh nghiệp"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Hàm ý của Lý thuyết Thị trường hiệu quả đối với các nhà phân tích là:",
+    "answer": "Các báo cáo được công bố của các nhà phân tích tài chính là không có giá trị."
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Kiểm định nhằm xem xét có hay không sự phụ thuộc thống kê giữa những sự thay đổi giá thuộc kiểm định thị trường nào?",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Kiểm định nghiệm đơn vị được sử dụng trong kiểm định:",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Câu nào dưới đây không đúng:",
+    "answer": "Trên thị trường chứng khoán, cơ chế phân phối vốn được diễn ra ở thị trường sơ cấp."
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Các phương pháp nào dưới đây được sử dụng để kiểm định thị trường hiệu quả dạng trung bình:",
+    "answer": "Nghiên cứu sự kiện"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Điều nào dưới đây không đúng:",
+    "answer": "Lý thuyết Thị trường hiệu quả cổ vũ cho chiến lược đầu tư mang tính chất chủ động"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Nhà nghiên cứu lần đầu tiên sử dụng thuật ngữ bước đi ngẫu nhiên là:",
+    "answer": "Kendall"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Cơ chế phân phối vốn của thị trường chứng khoán là cơ chế định giá, chỉ ra điều không đúng:",
+    "answer": "Chi phí vốn không phụ thuộc vào cơ chế định giá"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Lược đồ tự tương quan được sử dụng trong kiểm định:",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Lý thuyết Thị trường hiệu quả có vai trò quan trọng đối với cơ chế:",
+    "answer": "Phân phối vốn"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Mức hiệu quả mạnh xảy ra khi:",
+    "answer": "Giá của chứng khoán phản ánh thông tin nội gián và toàn bộ thông tin hiện có liên quan tới chứng khoán"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Trên thị trường chứng khoán, quá trình phân phối vốn được thực hiện thông qua:",
+    "answer": "Cơ chế định giá chứng khoán"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Câu nào sau đây ĐÚNG:",
+    "answer": "Cơ chế phân phối vốn có thể được thực thông qua hai kênh tài trợ cơ bản: tín dụng và thị trường chứng khoán"
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Hai kênh tài trợ cơ bản để thực hiện cơ chế phân phối vốn:",
+    "answer": "Tín dụng và thị trường chứng khoán"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Các phương pháp nào dưới đây được sử dụng để kiểm định thị trường hiệu quả dạng yếu:",
+    "answer": "Kiểm định tính chuẩn"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Câu nào sau đây KHÔNG ĐÚNG về thị trường hiệu quả:",
+    "answer": "Trên thị trường hiệu quả, các chứng khoán sẽ được mua bán, trao đổi không ngang giá trên các sàn giao dịch chứng khoán;"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Kiểm định được sử dụng khá phổ biến để kiểm định một chuỗi thời gian dừng hay không dừng là phương pháp kiểm định thị trường nào?",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Kendall(1953) who for the first time used the term random-walk in finance literature, examined (1953) đã sử dụng thuật ngữ bước đi ngẫu nhiên trong lý thuyết tài chính và nhận thấy:",
+    "answer": "Giá cả dường như tuân theo bước đi ngẫu nhiên"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Điều nào sau đây không đúng :",
+    "answer": "Thị trường không thể đạt mức hiệu quả yếu khi chưa đạt mức hiệu quả trung bình"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Thị trường mà tại đó giá phản ánh các thông tin công khai, trở thành thị trường hoàn hảo được đề cập đến trong giả thuyết:",
+    "answer": "Thị trường hiệu quả dạng mạnh"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Kiểm định thị trường hiệu quả dạng yếu thực chất là:",
+    "answer": "Xem xét có hay không sự phụ thuộc thống kê giữa những sự thay đổi giá."
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Hai kênh tài trợ cơ bản để thực hiện cơ chế phân phối vốn:",
+    "answer": "Tín dụng và thị trường chứng khoán"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "“Thị trường mà tại đó giá luôn phản ánh những thông tin sẵn có, được gọi là thị trường hiệu quả” - nhận định trên được Fama đưa ra vào năm:",
+    "answer": "1970"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Chiến lược nào dưới đây được cổ vũ trong Lý thuyết thị trường hiệu quả:",
+    "answer": "Chiến lược đầu tư thụ động"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Nhận định sau nằm trong giả thuyết thị trường nào: “Giá cả của chứng khoán phản ánh các thông tin công khai trên thị trường, bao gồm các thông tin quá khứ về giá chứng khoán và các thông tin công khai trên thị trường”.",
+    "answer": "Thị trường hiệu quả dạng trung bình"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Kiểm định nghiệm đơn vị được sử dụng trong kiểm định:",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Nhà nghiên cứu lần đầu tiên sử dụng thuật ngữ bước đi ngẫu nhiên là:",
+    "answer": "Kendall"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Hàm ý của Lý thuyết Thị trường hiệu quả đối với các nhà phân tích là:",
+    "answer": "Các báo cáo được công bố của các nhà phân tích tài chính là không có giá trị."
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Kiểm định nhằm xem xét có hay không sự phụ thuộc thống kê giữa những sự thay đổi giá thuộc kiểm định thị trường nào?",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Điều nào dưới đây hàm ý thị trường đạt mức hiệu quả dạng yếu:",
+    "answer": "Căn cứ vào giá chứng khoán trong quá khứ, người ta có thể dự báo giá chứng khoán tại thời điểm hiện tại"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Phương pháp kiểm tra phản ứng của thị trường và tỷ suất lợi nhuận vượt trội xung quanh những sự kiện thông tin đặc biệt thuộc phương pháp nào?",
+    "answer": "Phương pháp nghiên cứu sự kiện"
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Dự tính hợp lý là dự tính được tính toán trên cơ sở :",
+    "answer": "Các thông tin sẵn có trên thị trường"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Mức hiệu quả trung bình xảy ra khi:",
+    "answer": "Giá cả của chứng khoán phản ánh các thông tin công khai trên thị trường, bao gồm các thông tin quá khứ về giá chứng khoán và các thông tin công khai"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Các phương pháp nào dưới đây được sử dụng để kiểm định thị trường hiệu quả dạng trung bình:",
+    "answer": "Nghiên cứu sự kiện"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Cơ chế phân phối vốn của thị trường chứng khoán là cơ chế định giá, chỉ ra điều không đúng:",
+    "answer": "Chi phí vốn không phụ thuộc vào cơ chế định giá"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "PTVDTCK.B5.033 Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả :",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường"
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Câu nào dưới đây không đúng:",
+    "answer": "Trên thị trường chứng khoán, cơ chế phân phối vốn được diễn ra ở thị trường sơ cấp."
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Cơ chế để những thông tin không công khai được phản ánh vào giá chứng khoán:",
+    "answer": "Cơ chế rò rỉ thông tin và cơ chế dự báo"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Mức hiệu quả yếu xảy ra khi:",
+    "answer": "Giá của chứng khoán phản ánh các thông tin trong quá khứ về giá chứng khoán"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Điều nào dưới đây không đúng:",
+    "answer": "Lý thuyết Thị trường hiệu quả cổ vũ cho chiến lược đầu tư mang tính chất chủ động"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Mức hiệu quả mạnh xảy ra khi:",
+    "answer": "Giá của chứng khoán phản ánh thông tin nội gián và toàn bộ thông tin hiện có liên quan tới chứng khoán"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Câu nào dưới đây ĐÚNG về mức hiệu quả yếu:",
+    "answer": "Giá của chứng khoán phản ánh các thông tin trong quá khứ về giá chứng khoán"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Quá trình luân chuyển vốn được coi là hiệu quả khi:",
+    "answer": "Chi phí cho việc luân chuyển vốn là thấp nhất"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Các thông tin trong nội bộ doanh nghiệp được phản ánh vào giá chứng khoán là biểu hiện của :",
+    "answer": "Thị trường hiệu quả dạng mạnh"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Các phương pháp nào dưới đây được sử dụng để kiểm định thị trường hiệu quả dạng yếu:",
+    "answer": "Kiểm định tính chuẩn"
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Các nghiên cứu thực nghiệm về mức hiệu quả dạng mạnh giới hạn ở việc xác định những thông tin nào?",
+    "answer": "Thông tin sẵn có trong nội bộ doanh nghiệp"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Lược đồ tự tương quan được sử dụng trong kiểm định:",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Lý thuyết Thị trường hiệu quả có vai trò quan trọng đối với cơ chế:",
+    "answer": "Phân phối vốn"
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Nếu căn cứ vào giá chứng khoán trong quá khứ, người ta có thể dự báo giá chứng khoán tại thời điểm hiện tại. Đây là giả định thuộc mức hiệu quả nào của thị trường?",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Phương pháp nghiên cứu sự kiện trong kiểm định hiệu quả của thị trường chứng khoán bao gồm bao nhiêu bước?",
+    "answer": "5"
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Thước đo để đánh giá khả năng sẵn sàng chấp nhận rủi ro của các nhà đầu tư",
+    "answer": "Mức chịu rủi ro"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Xem xét hai chứng khoán sau đây:",
+    "answer": "Chứng khoán A có lợi tức kỳ vọng thấp hơn chứng khoán B"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Đâu không phải giả định của Lý thuyết Markowitz",
+    "answer": "Lịch sử sẽ lặp lại"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Để thực hiện hoạt động đầu tư hưởng lợi, các nhà quản trị tài chính thường:",
+    "answer": "Thực hiện kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Loại hình đầu tư nào sau đây KHÔNG thuộc loại hình đầu tư hưởng lợi:",
+    "answer": "Đầu tư ngân quỹ"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Hoạt động đầu tư hưởng lợi khi có hiện tượng giảm giá chứng khoán là",
+    "answer": "Kinh doanh giảm giá"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Để thực hiện hoạt động đầu tư ngân quỹ, các nhà quản trị tài chính thường đầu tư vào:",
+    "answer": "Chứng khoán ngắn hạn có khả năng chuyển đổi thành tiền cao"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Những điểm nằm phía dưới đường SML là những chứng khoán được định giá",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Một cổ phiếu được bán với giá 45$ vào ngày hôm nay. Nếu cổ tức là 5$ cho mỗi cổ phiếu vào cuối năm. Hệ số beta là 1,2. Lãi suất phi rủi ro là 7% và tỷ lệ lơi tức kỳ vọng của thị trường là 12%. Dự đoán giá của cổ phiếu vào cuối năm?",
+    "answer": "45,3$"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Giả định nào được sử dụng để xây dựng mô hình CAPM lại không còn được sử dụng khi xây dựng lý thuyết APT :",
+    "answer": "Nhà đầu tư sử dụng hàm hữu dụng để tối đa hóa lợi ích"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Phần bù rủi ro thị trường sẽ phụ thuộc vào",
+    "answer": "Mức độ chấp nhận rủi ro trung bình của các nhà đầu tư"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Những điểm nằm phía trên đường SML là những chứng khoán được định giá",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "-6% và 0,3%"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Để giảm cầu sản xuất, tiêu dùng và mức chi tiêu, Chính Phủ sẽ quyết định thực hiện các biện pháp",
+    "answer": "Tăng thuế, giảm cung tiền, giảm chi tiêu của Chính Phủ"
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Phân tích cơ bản cho biết",
+    "answer": "Giá trị thực của cổ phiếu"
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Tỷ suất lợi nhuận của một cổ phiếu được kỳ vọng không giảm sút trong giai đoạn xuống dốc của toàn bộ thị trường, hoặc không suy giảm quá trầm trọng như toàn thị trường",
+    "answer": "Cổ phiếu phòng vệ"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Nhóm ngành có chu kỳ vận động ngược với chu kỳ kinh tế",
+    "answer": "ngành thực phẩm, đồ uống"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "công ty có bề dày lịch sử, phát triển lớn mạnh, có mức tăng doanh thu và thu nhập lớn hơn mức trung bình là",
+    "answer": "Công ty tăng trưởng"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Mục tiêu của phân tích ngành là",
+    "answer": "Xác định ngành có triển vọng phát triển"
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Chu kỳ kinh tế là",
+    "answer": "các giai đoạn tăng trưởng phát triển kinh tế thường nối tiếp sau những giai đoạn suy thoái kinh tế và có thể dự báo dài hạn được"
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là:",
+    "answer": "Giá chứng khoán vận động theo xu thế"
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là:",
+    "answer": "Lịch sử sẽ lặp lại."
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Đâu là hạn chế của phân tích kỹ thuật",
+    "answer": "Diễn biến giá chứng khoán trong quá khứ hay mối quan hệ giữa các biến số trên thị trường và giá cả của chứng khoán có thể không lặp lại."
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "Lý thuyết sóng có mấy khía cạnh cơ bản",
+    "answer": "3"
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Hai kí tự mà dạng biểu đồ này sử dụng là:",
+    "answer": "Biểu đồ dạng then chắn"
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Hình mẫu này là",
+    "answer": "Mô hình tam giác hướng xuống"
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là",
+    "answer": "Biến động thị trường phản ánh tất cả"
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": "Trong phân tích kỹ thuật các chuyên gia chia làm mấy loại xu thế chính",
+    "answer": "2"
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Phân tích kỹ thuật có mấy giả định cơ bản",
+    "answer": "3"
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "Hình mẫu nào có xu thế đảo ngược xu thế biến động của thị trường, nó thường được sử dụng để phân tích với biểu đồ hàng tuần. Nó đại diện cho thời kỳ củng cố dài hạn trong xu thế biến động của giá chứng khoán, nó là mô hình chuyển tiếp từ một khuynh hướng giảm giá liên tục sang khuynh hướng tăng giá mạnh.",
+    "answer": "Hình mẫu đáy vòng cung"
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": "Thị trường mà tại đó giá phản ánh các thông tin công khai, trở thành thị trường hoàn hảo được đề cập đến trong giả thuyết:",
+    "answer": "Thị trường hiệu quả dạng mạnh"
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": "Lược đồ tự tương quan được sử dụng trong kiểm định:",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Phương pháp kiểm tra phản ứng của thị trường và tỷ suất lợi nhuận vượt trội xung quanh những sự kiện thông tin đặc biệt thuộc phương pháp nào?",
+    "answer": "Phương pháp nghiên cứu sự kiện"
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "“Thị trường mà tại đó giá luôn phản ánh những thông tin sẵn có, được gọi là thị trường hiệu quả” - nhận định trên được Fama đưa ra vào năm:",
+    "answer": "1970"
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Hai kênh tài trợ cơ bản để thực hiện cơ chế phân phối vốn:",
+    "answer": "Tín dụng và thị trường chứng khoán"
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Các phương pháp nào dưới đây được sử dụng để kiểm định thị trường hiệu quả dạng trung bình:",
+    "answer": "Nghiên cứu sự kiện"
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "PTVDTCK.B5.033 Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả :",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường"
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Câu nào sau đây KHÔNG ĐÚNG về thị trường hiệu quả:",
+    "answer": "Trên thị trường hiệu quả, các chứng khoán sẽ được mua bán, trao đổi không ngang giá trên các sàn giao dịch chứng khoán;"
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Phương pháp nghiên cứu sự kiện trong kiểm định hiệu quả của thị trường chứng khoán bao gồm bao nhiêu bước?",
+    "answer": "5"
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Các thông tin trong nội bộ doanh nghiệp được phản ánh vào giá chứng khoán là biểu hiện của :",
+    "answer": "Thị trường hiệu quả dạng mạnh"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Hình mẫu này là",
+    "answer": "Mô hình tam giác hướng xuống"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Các công cụ mà Ngân hàng Nhà nước tác động vào cung tiền trong nền kinh tế, TRỪ:",
+    "answer": "Cổ phiếu"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "tỷ lệ lợi tức yêu cầu của nhà đầu tư",
+    "answer": "phản ánh thái độ của nhà đầu tư trong việc dự đoán rủi ro và nhận biết mức độ rủi ro của tài sản"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Kiểm định nhằm xem xét có hay không sự phụ thuộc thống kê giữa những sự thay đổi giá thuộc kiểm định thị trường nào?",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Mức giá mà ở đó lượng cung đủ để giá sẽ ngừng không tăng nữa và có thể chuyển động ngược lại đi xuống là mức giá nào dưới đây?",
+    "answer": "Mức kháng cự"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "18%"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Số liệu trong quá khứ của VNIndex cho thấy phần bù rủi ro trung bình là 8,4%, độ lệch chuẩn là 20,3%. Căn cứ vào số liệu lịch sử, hệ số chấp nhận rủi ro trung bình của nhà đầu tư bằng bao nhiêu?",
+    "answer": "2.04"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Đặc điểm nào sau đây là không đúng về thị trường hiệu quả:",
+    "answer": "Khi thị trường là hiệu quả, sẽ tồn tại nhiều cơ hội kinh doanh chênh lệch giá cho các nhà đầu tư"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Giả định nào KHÔNG là của Lý thuyết APT:",
+    "answer": "Nhà đầu tư là người chấp nhận giá"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Các phương pháp nào dưới đây được sử dụng để kiểm định thị trường hiệu quả dạng trung bình:",
+    "answer": "Nghiên cứu sự kiện"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Phương pháp kiểm tra phản ứng của thị trường và tỷ suất lợi nhuận vượt trội xung quanh những sự kiện thông tin đặc biệt thuộc phương pháp nào?",
+    "answer": "Phương pháp nghiên cứu sự kiện"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Nếu căn cứ vào giá chứng khoán trong quá khứ, người ta có thể dự báo giá chứng khoán tại thời điểm hiện tại. Đây là giả định thuộc mức hiệu quả nào của thị trường?",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Kiểm định nghiệm đơn vị được sử dụng trong kiểm định:",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Khoảng giao động của giá, nếu giá giao động trong một dải thì dải đó được gọi là",
+    "answer": "Kênh"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Chỉ báo quan trọng nào được dùng để theo dõi khuynh hướng biến động của giá CK và sự đảo chiều của những khuynh hướng này",
+    "answer": "Đường trung bình trượt"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Câu nào sau đây KHÔNG ĐÚNG về thị trường hiệu quả:",
+    "answer": "Trên thị trường hiệu quả, các chứng khoán sẽ được mua bán, trao đổi không ngang giá trên các sàn giao dịch chứng khoán;"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Các nghiên cứu thực nghiệm về mức hiệu quả dạng mạnh giới hạn ở việc xác định những thông tin nào?",
+    "answer": "Thông tin sẵn có trong nội bộ doanh nghiệp"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Kinh doanh chênh lệch giá là hoạt động:",
+    "answer": "Tìm kiếm lợi nhuận trong ngắn hạn đối với cổ phiếu được niêm yết trên hai thị trường."
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Có mấy loại biểu đồ thường được sử dụng trong phân tích kỹ thuật",
+    "answer": "3"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Những điểm nằm phía dưới đường SML là những chứng khoán được định giá",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Có bao nhiêu xu thế của thị trường theo lý thuyết Dow",
+    "answer": "3"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Loại biểu đồ nào phản ánh rõ nét nhất sự biến động giá CK trên TTCK khớp lệnh định kỳ.",
+    "answer": "Biểu đồ dạng hình nến"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Giả định nào là của Lý thuyết APT:",
+    "answer": "Thị trường chứng khoán hoạt động hiệu quả, không cho phép tồn tại các cơ hội kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Nhận định sau nằm trong giả thuyết thị trường nào: “Giá cả của chứng khoán phản ánh các thông tin công khai trên thị trường, bao gồm các thông tin quá khứ về giá chứng khoán và các thông tin công khai trên thị trường”.",
+    "answer": "Thị trường hiệu quả dạng trung bình"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Để xác định giá trị của mỗi doanh nghiệp, từ đó xác định giá trị của cổ phiếu, người ta phải tiến hành",
+    "answer": "Phân tích vĩ mô, phân tích ngành và phân tích công ty"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Giả thuyết nào dưới đây mở rộng thêm giả định cho các thị trường hiệu quả - thị trường mà tại đó giá phản ánh các thông tin công khai, trở thành thị trường hoàn hảo - thị trường mà tại đó tất cả các thông tin đều miễn phí và sẵn có ở cùng một thời điểm?",
+    "answer": "Thị trường hiệu quả dạng mạnh"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Lý thuyết sóng có mấy khía cạnh cơ bản",
+    "answer": "3"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Hình mẫu nào tròn các hình mẫu dưới đây thể hiện tiếp tục xu thế của thị trường trong ngắn hạn. Thông thường trước khi xẩy ra những hình mẫu kỹ thuật này thì được xác nhận bằng sự tăng hoặc giảm giá mạnh kết hợp với khối lượng giao dịch lớn",
+    "answer": "Hình mẫu cờ chữ nhật và đuôi nheo"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Biểu đồ thể hiện mức giao động giá và sản lượng dưới dạng một đường liền nét là:",
+    "answer": "Biểu đồ dạng đường"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Câu nào sau đây đúng về rủi ro hệ thống",
+    "answer": "Rủi ro hệ thống là rủi ro của toàn bộ thị trường"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là",
+    "answer": "Biến động thị trường phản ánh tất cả"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Điều nào dưới đây không đúng:",
+    "answer": "Lý thuyết Thị trường hiệu quả cổ vũ cho chiến lược đầu tư mang tính chất chủ động"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Kết quả của mô hình định giá tài sản tài chính CAPM là",
+    "answer": "Tất cả các nhà đầu tư sẽ nắm giữ cùng một danh mục đầu tư thị trường"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Giai đoạn suy giảm trong nền kinh tế thường đi kèm với các dấu hiệu sau, TRỪ:",
+    "answer": "GDP tăng"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Giả định nào được sử dụng để xây dựng mô hình CAPM lại không còn được sử dụng khi xây dựng lý thuyết APT :",
+    "answer": "Nhà đầu tư sử dụng hàm hữu dụng để tối đa hóa lợi ích"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Lợi tức kỳ vọng trong trường hợp dưới đây là",
+    "answer": "0.05"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Cổ phiếu XYZ với lợi tức kỳ vọng là 11%, và hệ số beta = 1. Cổ phiếu ABC có lợi tức kỳ vọng là 13%, và hệ số beta = 1.5. Lợi tức kỳ vọng của thị trường là 11% và rf = 5%. Cổ phiếu XYZ và ABC được thị trường",
+    "answer": "Định giá cao và định giá đúng"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Phân tích cơ bản cho biết",
+    "answer": "Giá trị thực của cổ phiếu"
+  },
+  {
+    "id": 361,
+    "premium": true,
+    "question": "Lãi suất phi rủi ro là 5% và tỷ lệ lợi tức kỳ vọng của thị trường là 18%. Cổ phiếu với tỷ lệ lợi tức kỳ vọng là 10%, beta bằng bao nhiêu?",
+    "answer": "0.38"
+  },
+  {
+    "id": 362,
+    "premium": true,
+    "question": "Giá trị thực của chứng khoán phụ thuộc vào .... nhân tố cơ bản.",
+    "answer": "Ba"
+  },
+  {
+    "id": 363,
+    "premium": true,
+    "question": "công ty có bề dày lịch sử, phát triển lớn mạnh, có mức tăng doanh thu và thu nhập lớn hơn mức trung bình là",
+    "answer": "Công ty tăng trưởng"
+  },
+  {
+    "id": 364,
+    "premium": true,
+    "question": "Một cổ phiếu có tỷ suất lợi nhuận thay đổi lớn hơn thay đổi của tỷ suất lợi nhuận của toàn thị trường là",
+    "answer": "Cổ phiếu có tính chu kỳ"
+  },
+  {
+    "id": 365,
+    "premium": true,
+    "question": "Câu nào dưới đây ĐÚNG về mức hiệu quả yếu:",
+    "answer": "Giá của chứng khoán phản ánh các thông tin trong quá khứ về giá chứng khoán"
+  },
+  {
+    "id": 366,
+    "premium": true,
+    "question": "Khi giai đoạn thu hẹp nền kinh tế diễn ra mạnh hơn và dài hơn gọi là",
+    "answer": "Khủng hoảng"
+  },
+  {
+    "id": 367,
+    "premium": true,
+    "question": "Quá trình luân chuyển vốn được coi là hiệu quả khi:",
+    "answer": "Chi phí cho việc luân chuyển vốn là thấp nhất"
+  },
+  {
+    "id": 368,
+    "premium": true,
+    "question": "Để thực hiện hoạt động đầu tư hưởng lợi, các nhà quản trị tài chính thường:",
+    "answer": "Thực hiện kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 369,
+    "premium": true,
+    "question": "Hình mẫu nào có xu thế đảo ngược xu thế biến động của thị trường, nó thường được sử dụng để phân tích với biểu đồ hàng tuần. Nó đại diện cho thời kỳ củng cố dài hạn trong xu thế biến động của giá chứng khoán, nó là mô hình chuyển tiếp từ một khuynh hướng giảm giá liên tục sang khuynh hướng tăng giá mạnh.",
+    "answer": "Hình mẫu đáy vòng cung"
+  },
+  {
+    "id": 370,
+    "premium": true,
+    "question": "Việc xác định danh mục đầu tư tổng thể tối ưu giữa các tài sản rủi ro và tài sản phi rủi ro gồm mấy bước cơ bản:",
+    "answer": "3"
+  },
+  {
+    "id": 371,
+    "premium": true,
+    "question": "Hai kí tự mà dạng biểu đồ này sử dụng là:",
+    "answer": "Biểu đồ dạng hình nến"
+  },
+  {
+    "id": 372,
+    "premium": true,
+    "question": "Câu nào dưới đây không đúng:",
+    "answer": "Trên thị trường chứng khoán, cơ chế phân phối vốn được diễn ra ở thị trường sơ cấp."
+  },
+  {
+    "id": 373,
+    "premium": true,
+    "question": "Đâu không phải giả định của Lý thuyết Markowitz",
+    "answer": "Lịch sử sẽ lặp lại"
+  },
+  {
+    "id": 374,
+    "premium": true,
+    "question": "Xem xét hai khoản đầu tư sau đây:",
+    "answer": "Chứng khoán A có rủi ro cao hơn chứng khoán B"
+  },
+  {
+    "id": 375,
+    "premium": true,
+    "question": "Phân tích kỹ thuật có mấy giả định cơ bản",
+    "answer": "3"
+  },
+  {
+    "id": 376,
+    "premium": true,
+    "question": "Mức lợi tức mà nhà đầu tư mong muốn nhận được trong tương lai:",
+    "answer": "Lợi tức kỳ vọng"
+  },
+  {
+    "id": 377,
+    "premium": true,
+    "question": "PTVDTCK.B5.033 Điều nào sau đây là đúng về lý thuyết thị trường hiệu quả :",
+    "answer": "Lý thuyết này cho rằng quản lý danh mục đầu tư theo chiến lược chủ động không thể đem lại thu nhập cao hơn thị trường"
+  },
+  {
+    "id": 378,
+    "premium": true,
+    "question": "Những điểm nằm phía trên đường SML là những chứng khoán được định giá",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 379,
+    "premium": true,
+    "question": "Cho bảng sau",
+    "answer": "11%"
+  },
+  {
+    "id": 380,
+    "premium": true,
+    "question": "Hệ số β của một tài sản đo lường",
+    "answer": "Rủi ro hệ thống của tài sản đó"
+  },
+  {
+    "id": 381,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 382,
+    "premium": true,
+    "question": "Mức hiệu quả trung bình xảy ra khi:",
+    "answer": "Giá cả của chứng khoán phản ánh các thông tin công khai trên thị trường"
+  },
+  {
+    "id": 383,
+    "premium": true,
+    "question": "Một cổ phiếu được bán với giá 50$ vào ngày hôm nay. Nếu cổ tức là 6$ cho mỗi cổ phiếu vào cuối năm. Hệ số beta là 1,2. Lãi suất phi rủi ro là 6% và tỷ lệ lơi tức kỳ vọng của thị trường là 16%. Dự đoán giá của cổ phiếu vào cuối năm?",
+    "answer": "53$"
+  },
+  {
+    "id": 384,
+    "premium": true,
+    "question": "Nhà nghiên cứu lần đầu tiên sử dụng thuật ngữ bước đi ngẫu nhiên là:",
+    "answer": "Kendall"
+  },
+  {
+    "id": 385,
+    "premium": true,
+    "question": "Để thực hiện hoạt động đầu tư ngân quỹ, các nhà quản trị tài chính thường đầu tư vào:",
+    "answer": "Chứng khoán ngắn hạn có khả năng chuyển đổi thành tiền cao"
+  },
+  {
+    "id": 386,
+    "premium": true,
+    "question": "Số liệu trong quá khứ của VNIndex cho thấy phần bù rủi ro trung bình là 8,4%, hệ số chấp nhận rủi ro trung bình của nhà đầu tư bằng 3,5. Phần bù rủi ro thị trường bằng bao nhiêu sẽ phù hợp với độ lệch chuẩn trong quá khứ",
+    "answer": "14,4%"
+  },
+  {
+    "id": 387,
+    "premium": true,
+    "question": "Việc đưa ra mô hình, dữ liệu để phân tích, dự đoán giá chứng khoán được gọi là",
+    "answer": "Phân tích kỹ thuật"
+  },
+  {
+    "id": 388,
+    "premium": true,
+    "question": "công ty mà thu nhập tương lai của chúng có thể ít có sự biến động khi khủng hoảng kinh tế",
+    "answer": "Công ty phòng vệ"
+  },
+  {
+    "id": 389,
+    "premium": true,
+    "question": "Hai kí tự mà dạng biểu đồ này sử dụng là:",
+    "answer": "Biểu đồ dạng then chắn"
+  },
+  {
+    "id": 390,
+    "premium": true,
+    "question": "Đây là ưu, nhược điểm của loại biểu đồ nào: dễ sử dụng, tuy nhiên những TTCK phát triển thì mức độ giao động trong thời gian ngắn, với độ lệch khá cao, nếu dùng biểu đồ này thì hiệu quả không cao.",
+    "answer": "Biểu đồ dạng đường"
+  },
+  {
+    "id": 391,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "4%"
+  },
+  {
+    "id": 392,
+    "premium": true,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây có thể cho biết sức mạnh hoặc tình trạng yếu kém của thị trường, thông thường nó đem lại tín hiệu sớm của xu hướng đổi chiều.",
+    "answer": "Bộ giao động stochastic"
+  },
+  {
+    "id": 393,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  },
+  {
+    "id": 394,
+    "premium": true,
+    "question": "Mức hiệu quả mạnh xảy ra khi:",
+    "answer": "Giá của chứng khoán phản ánh thông tin nội gián và toàn bộ thông tin hiện có liên quan tới chứng khoán"
+  },
+  {
+    "id": 395,
+    "premium": true,
+    "question": "Kendall(1953) who for the first time used the term random-walk in finance literature, examined (1953) đã sử dụng thuật ngữ bước đi ngẫu nhiên trong lý thuyết tài chính và nhận thấy:",
+    "answer": "Giá cả dường như tuân theo bước đi ngẫu nhiên"
+  },
+  {
+    "id": 396,
+    "premium": true,
+    "question": "Phương pháp nghiên cứu sự kiện trong kiểm định hiệu quả của thị trường chứng khoán bao gồm bao nhiêu bước?",
+    "answer": "5"
+  },
+  {
+    "id": 397,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "19,41%"
+  },
+  {
+    "id": 398,
+    "premium": true,
+    "question": "Danh mục thị trường theo mô hình định giá tài sản tài chính CAPM là danh mục",
+    "answer": "Là điểm tiếp xúc giữa đường CML và đường biên hiệu quả"
+  },
+  {
+    "id": 399,
+    "premium": true,
+    "question": "Dấu hiệu thường đi kèm với giai đoạn suy giảm nền kinh tế là",
+    "answer": "Số lượng công ty phá sản và các trường hợp mất khả năng chi trả lãi và vốn của trái phiếu tăng;"
+  },
+  {
+    "id": 400,
+    "premium": true,
+    "question": "Mệnh đề nào không phải giả định cơ bản của phân tích kỹ thuật",
+    "answer": "Thị giá chứng khoán sẽ đạt đến giá trị thực qua thời gian."
+  },
+  {
+    "id": 401,
+    "premium": true,
+    "question": "Cơ chế phân phối vốn của thị trường chứng khoán là cơ chế định giá, chỉ ra điều không đúng:",
+    "answer": "Chi phí vốn không phụ thuộc vào cơ chế định giá"
+  },
+  {
+    "id": 402,
+    "premium": true,
+    "question": "Hình mẫu này là",
+    "answer": "Hình mẫu ba đỉnh"
+  },
+  {
+    "id": 403,
+    "premium": true,
+    "question": "Có mấy loại đường trung bình trượt:",
+    "answer": "4"
+  },
+  {
+    "id": 404,
+    "premium": true,
+    "question": "Trong phân tích kỹ thuật các chuyên gia chia làm mấy loại xu thế chính",
+    "answer": "2"
+  },
+  {
+    "id": 405,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của HAG đầu năm 2013 với tổng số tiền 5 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 500.000đ cổ tức. Năm 2014, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 1 triệu đồng. Cuối năm 2015, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 10 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ hoàn vốn HPR sẽ là:",
+    "answer": "250%"
+  },
+  {
+    "id": 406,
+    "premium": true,
+    "question": "Cho bảng sau: Xác suất của mỗi điều kiện nền kinh tế có thể xảy ra và xác suất về lợi nhuận của cổ phiếu trong từng điều kiện:",
+    "answer": "15%"
+  },
+  {
+    "id": 407,
+    "premium": true,
+    "question": "Để đo lường rủi ro hệ thống của một tài sản, chúng ta có thể sử dụng",
+    "answer": "Hệ số β"
+  },
+  {
+    "id": 408,
+    "premium": true,
+    "question": "Xem xét hai chứng khoán sau đây:",
+    "answer": "Chứng khoán A có tổng rủi ro cao hơn chứng khoán B"
+  },
+  {
+    "id": 409,
+    "premium": true,
+    "question": "Điều nào sau đây không đúng :",
+    "answer": "Thị trường không thể đạt mức hiệu quả yếu khi chưa đạt mức hiệu quả trung bình"
+  },
+  {
+    "id": 410,
+    "premium": true,
+    "question": "Tổ chức nào thường là nhà tạo lập thị trường trái phiếu:",
+    "answer": "Ngân hàng thương mại"
+  },
+  {
+    "id": 411,
+    "premium": true,
+    "question": "Tỷ suất lợi nhuận của một cổ phiếu được kỳ vọng không giảm sút trong giai đoạn xuống dốc của toàn bộ thị trường, hoặc không suy giảm quá trầm trọng như toàn thị trường",
+    "answer": "Cổ phiếu phòng vệ"
+  },
+  {
+    "id": 412,
+    "premium": true,
+    "question": "Trường hợp nhà đầu tư, thường là các công ty chứng khoán, các ngân hàng thương mại đảm nhận tạo thị trường cho các loại chứng khoán trên thị trường phi tập trung (OTC) là",
+    "answer": "Tạo lập thị trường"
+  },
+  {
+    "id": 413,
+    "premium": true,
+    "question": "Mục tiêu của phân tích ngành là",
+    "answer": "Xác định ngành có triển vọng phát triển"
+  },
+  {
+    "id": 414,
+    "premium": true,
+    "question": "Lược đồ tự tương quan được sử dụng trong kiểm định:",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 415,
+    "premium": true,
+    "question": "Mệnh đề nào sau đây là sai về hạn chế của phân tích kỹ thuật",
+    "answer": "Hạn chế chính của các giả định của phân tích kỹ thuật chính là kết quả của các nghiên cứu thực nghiệm về giả thuyết thị trường hiệu quả EMH"
+  },
+  {
+    "id": 416,
+    "premium": true,
+    "question": "Xem xét hai khoản đầu tư sau đây:",
+    "answer": "Chứng khoán A có rủi ro thấp hơn chứng khoán B"
+  },
+  {
+    "id": 417,
+    "premium": true,
+    "question": "“Thị trường mà tại đó giá luôn phản ánh những thông tin sẵn có, được gọi là thị trường hiệu quả” - nhận định trên được Fama đưa ra vào năm:",
+    "answer": "1970"
+  },
+  {
+    "id": 418,
+    "premium": true,
+    "question": "Mức giá ở đó mức cầu cho một cổ phiếu là đủ để ít nhất là làm dừng xu thế giảm giá của thị trường và cũng có thể đổi chiều xu thế đó là mức giá nào dưới đây?",
+    "answer": "Mức hỗ trợ"
+  },
+  {
+    "id": 419,
+    "premium": true,
+    "question": "Thị trường mà tại đó giá phản ánh các thông tin công khai, trở thành thị trường hoàn hảo được đề cập đến trong giả thuyết:",
+    "answer": "Thị trường hiệu quả dạng mạnh"
+  },
+  {
+    "id": 420,
+    "premium": true,
+    "question": "Nhóm ngành có chu kỳ vận động phù hợp với chu kỳ kinh tế",
+    "answer": "ngành ngân hàng tài chính"
+  },
+  {
+    "id": 421,
+    "premium": true,
+    "question": "Câu nào sau đây ĐÚNG:",
+    "answer": "Cơ chế phân phối vốn có thể được thực thông qua hai kênh tài trợ cơ bản: tín dụng và thị trường chứng khoán"
+  },
+  {
+    "id": 422,
+    "premium": true,
+    "question": "Kiểm định thị trường hiệu quả dạng yếu thực chất là:",
+    "answer": "Xem xét có hay không sự phụ thuộc thống kê giữa những sự thay đổi giá."
+  },
+  {
+    "id": 423,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của TIG đầu năm 2012 với tổng số tiền 25 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 1,5 triệu đồng cổ tức. Cuối năm 2014, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 50 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ lợi tức HPY ba năm sẽ là:",
+    "answer": "118%"
+  },
+  {
+    "id": 424,
+    "premium": true,
+    "question": "Trên thị trường chứng khoán, quá trình phân phối vốn được thực hiện thông qua:",
+    "answer": "Cơ chế định giá chứng khoán"
+  },
+  {
+    "id": 425,
+    "premium": true,
+    "question": "Phần bù rủi ro thị trường sẽ phụ thuộc vào",
+    "answer": "Mức độ chấp nhận rủi ro trung bình của các nhà đầu tư"
+  },
+  {
+    "id": 426,
+    "premium": true,
+    "question": "Hoạt động đầu tư chứng khoán nhằm kiếm lợi nhuận từ lợi tức và chênh lệch giá trong dài hạn là",
+    "answer": "Hoạt động đầu cơ"
+  },
+  {
+    "id": 427,
+    "premium": true,
+    "question": "Giả định cơ bản của phân tích kỹ thuật là:",
+    "answer": "Lịch sử sẽ lặp lại."
+  },
+  {
+    "id": 428,
+    "premium": true,
+    "question": "Lý thuyết Markowitz dựa trên mấy giả định cơ bản liên quan đến tâm lý của nhà đầu tư:",
+    "answer": "5"
+  },
+  {
+    "id": 429,
+    "premium": true,
+    "question": "Kiểm định được sử dụng khá phổ biến để kiểm định một chuỗi thời gian dừng hay không dừng là phương pháp kiểm định thị trường nào?",
+    "answer": "Thị trường hiệu quả dạng yếu"
+  },
+  {
+    "id": 430,
+    "premium": true,
+    "question": "Mục tiêu của phân tích vĩ mô là",
+    "answer": "Phân bổ tối ưu giữa cổ phiếu, trái phiếu, tiền …"
+  },
+  {
+    "id": 431,
+    "premium": true,
+    "question": "Nhóm ngành có chu kỳ vận động ngược với chu kỳ kinh tế",
+    "answer": "ngành thực phẩm, đồ uống"
+  },
+  {
+    "id": 432,
+    "premium": true,
+    "question": "Cơ chế để những thông tin không công khai được phản ánh vào giá chứng khoán:",
+    "answer": "Cơ chế rò rỉ thông tin và cơ chế dự báo"
+  },
+  {
+    "id": 433,
+    "premium": true,
+    "question": "Hoạt động mua bán chứng khoán nhằm tìm kiếm lợi nhuận trong ngắn hạn từ chênh lệch giá chứng khoán là",
+    "answer": "Kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 434,
+    "premium": true,
+    "question": "Điểm xuất hiện khi giá của thị trường dịch chuyển ra ngoài xu thế của kênh là:",
+    "answer": "Điểm đột phá"
+  },
+  {
+    "id": 435,
+    "premium": true,
+    "question": "Phần bù rủi ro của danh mục thị trường tỉ lệ thuận với",
+    "answer": "Rủi ro của danh mục thị trường"
+  },
+  {
+    "id": 436,
+    "premium": true,
+    "question": "Đường SML có phần bù rủi ro của tài sản riêng lẻ phụ thuộc vào:",
+    "answer": "Rủi ro hệ thống của tài sản đó"
+  },
+  {
+    "id": 437,
+    "premium": true,
+    "question": "Mô hình nào trong các mô hình dưới đây được coi là một dạng mô hình trung gian mang tính củng cố hay báo hiệu sự tiếp tục xu thế hiện tại của thị trường, tuy nhiên đôi khi mang tính đảo ngược, mô hình cần ít hơn 3 tháng để hoàn thiện và khi xuất hiện thường kèm theo sự gia tăng của khối lượng giao dịch.",
+    "answer": "Mô hình tam giác hướng lên"
+  },
+  {
+    "id": 438,
+    "premium": true,
+    "question": "Căn cứ loại tài sản đầu tư, có thể phân loại đầu tư thành:",
+    "answer": "Đầu tư cổ phiếu, Đầu tư trái phiếu và Đầu tư các tài sản tài chính khác"
+  },
+  {
+    "id": 439,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "1,2 và 0,72"
+  },
+  {
+    "id": 440,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 441,
+    "premium": true,
+    "question": "Những điểm nằm phía dưới đường SML là những chứng khoán được định giá",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 442,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "0,18 và 0,09"
+  },
+  {
+    "id": 443,
+    "premium": true,
+    "question": "Dự tính hợp lý là dự tính được tính toán trên cơ sở :",
+    "answer": "Các thông tin sẵn có trên thị trường"
+  },
+  {
+    "id": 444,
+    "premium": true,
+    "question": "Hai kênh tài trợ cơ bản để thực hiện cơ chế phân phối vốn:",
+    "answer": "Tín dụng và thị trường chứng khoán"
+  },
+  {
+    "id": 445,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  },
+  {
+    "id": 446,
+    "premium": true,
+    "question": "Biểu đồ dạng nào trong các biểu đồ dưới đây có tính ưu việt của nó đó là sự phản ánh rõ nét giá CK",
+    "answer": "Biểu đồ dạng then chắn"
+  },
+  {
+    "id": 447,
+    "premium": true,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây cung cấp cho chúng ta những chỉ báo kỹ thuật về các điểm Overbought và Oversould của CK trên thị trường.",
+    "answer": "Chỉ số kênh hàng hóa"
+  },
+  {
+    "id": 448,
+    "premium": true,
+    "question": "Lợi tức được thể hiện dưới dạng tỷ lệ, phản ánh kết quả thu được đối với một đại lượng khác",
+    "answer": "Lợi tức tương đối"
+  },
+  {
+    "id": 449,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của TBC đầu năm 2013 với tổng số tiền 5 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 500.000đ cổ tức. Năm 2014, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 1 triệu đồng. Cuối năm 2015, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 10 triệu đồng. Nếu không tính phí giao dịch, lợi nhuận tuyệt đối sẽ là",
+    "answer": "7,5 triệu"
+  },
+  {
+    "id": 450,
+    "premium": true,
+    "question": "Một cổ phiếu có khả năng đạt tỷ suất lợi nhuận thấp hoặc âm và ít khả năng đạt tỷ suất lợi nhuận trung bình hoặc cao là",
+    "answer": "Cổ phiếu đầu cơ"
+  },
+  {
+    "id": 451,
+    "premium": true,
+    "question": "Rủi ro tổng thể của danh mục gồm mấy loại rủi ro",
+    "answer": "2"
+  },
+  {
+    "id": 452,
+    "premium": true,
+    "question": "Hàm ý của Lý thuyết Thị trường hiệu quả đối với các nhà phân tích là:",
+    "answer": "Các báo cáo được công bố của các nhà phân tích tài chính là không có giá trị."
+  },
+  {
+    "id": 453,
+    "premium": true,
+    "question": "Phân tích kỹ thuật là",
+    "answer": "Phương pháp sử dụng diễn biến của giá và khối lượng giao dịch trong quá khứ để dự đoán xu thế giá trong tương lai"
+  },
+  {
+    "id": 454,
+    "premium": true,
+    "question": "Trong bất kỳ một một đồ thị nào ta đều thấy sau một giai đoạn giá chuyển động theo xu thế thị trường thì giá sẽ hoàn lại một chút trước khi quay trở lại chuyển động theo xu thế cũ. Những chuyển động ngược xu thế này thường có độ lớn ở vào khoảng có thể sử dụng được gọi là",
+    "answer": "Mức hoàn lại"
+  },
+  {
+    "id": 455,
+    "premium": true,
+    "question": "Hoạt động đầu tư hưởng lợi khi có hiện tượng giảm giá chứng khoán là",
+    "answer": "Kinh doanh giảm giá"
+  },
+  {
+    "id": 456,
+    "premium": true,
+    "question": "Hình mẫu nào dưới đây được xem xét như là hình mẫu trung gian chuyển tiếp của xu thế biến động giá chứng khoán. Tín hiệu đáng tin cậy để nhận biết ra hình mẫu này là sự xuyên chéo một trong hai đường xu thế bởi đường biểu diễn sự biến động giá chứng khoán một cách rõ ràng",
+    "answer": "Mô hình kỹ thuật tam giác cân"
+  },
+  {
+    "id": 457,
+    "premium": true,
+    "question": "Chỉ báo nào trong các chỉ báo dưới đây có thể cung cấp cho chúng ta những cảnh báo sớm những cơ hội mua và bán chứng khoán.",
+    "answer": "RSI (Chỉ số sức mạnh tương đối)"
+  },
+  {
+    "id": 458,
+    "premium": true,
+    "question": "Đầu tư trực tiếp là việc các nhà đầu tư:",
+    "answer": "Bỏ vốn vào trang thiết bị, máy móc."
+  },
+  {
+    "id": 459,
+    "premium": true,
+    "question": "Một cổ phiếu được bán với giá 45$ vào ngày hôm nay. Nếu cổ tức là 5$ cho mỗi cổ phiếu vào cuối năm. Hệ số beta là 1,2. Lãi suất phi rủi ro là 7% và tỷ lệ lơi tức kỳ vọng của thị trường là 12%. Dự đoán giá của cổ phiếu vào cuối năm?",
+    "answer": "45,3$"
+  },
+  {
+    "id": 460,
+    "premium": true,
+    "question": "Đâu là hạn chế của phân tích kỹ thuật",
+    "answer": "Diễn biến giá chứng khoán trong quá khứ hay mối quan hệ giữa các biến số trên thị trường và giá cả của chứng khoán có thể không lặp lại."
+  },
+  {
+    "id": 461,
+    "premium": true,
+    "question": "Cổ phiếu IBM đang được giao dịch với giá $95 trên sàn NYSE nhưng chỉ có $93 trên NASDAQ. Nhà đầu tư có thể kiếm lời bằng việc thực hiện :",
+    "answer": "Kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 462,
+    "premium": true,
+    "question": "Các giả định của mô hình định giá tài sản tài chính CAPM không bao gồm:",
+    "answer": "Các nhà đầu tư có kỳ vọng khác nhau"
+  },
+  {
+    "id": 463,
+    "premium": true,
+    "question": "công ty mà tài sản bao gồm nhiều tài sản có độ rủi ro cao, nhưng cũng có khả năng sinh lợi lớn",
+    "answer": "Công ty đầu cơ"
+  },
+  {
+    "id": 464,
+    "premium": true,
+    "question": "Chu kỳ kinh tế là",
+    "answer": "các giai đoạn tăng trưởng phát triển kinh tế thường nối tiếp sau những giai đoạn suy thoái kinh tế và có thể dự báo dài hạn được"
+  },
+  {
+    "id": 465,
+    "premium": true,
+    "question": "Giả sử một cơ hội đầu tư có giá trị 10 tỷ VNĐ. Các khả năng có thể xảy ra đối với khoản đầu tư này như sau:",
+    "answer": "1.5 tỷ"
+  },
+  {
+    "id": 466,
+    "premium": true,
+    "question": "Các phương pháp nào dưới đây được sử dụng để kiểm định thị trường hiệu quả dạng yếu:",
+    "answer": "Kiểm định tính chuẩn"
+  },
+  {
+    "id": 467,
+    "premium": true,
+    "question": "Hình mẫu nào trong các hình mẫu dưới đây là một dạng tiếp tục xu thế của thị trường, nó giống như một kênh giao dịch cho đến cuối của xu thế biến động giá. Hình mẫu này có thể diễn ra trong vài tuần hoặc vài tháng, thông thường thì thường diễn ra trong khoảng 3 tuần.",
+    "answer": "Hình mẫu hình chữ nhật"
+  },
+  {
+    "id": 468,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "-6% và 0,3%"
+  },
+  {
+    "id": 469,
+    "premium": true,
+    "question": "Tỷ lệ chiết khấu được sử dụng để xác định giá trị hiện tại của công ty là",
+    "answer": "Chi phí vốn bình quân"
+  },
+  {
+    "id": 470,
+    "premium": true,
+    "question": "Phần lợi tức do chính bản thân các tài sản nắm giữ mang lại và phần lãi (lỗ) do giảm giá hoặc tăng giá của tài sản đầu tư ; và được biểu hiện bằng một số tiền tuyệt đối",
+    "answer": "Lợi tức tuyệt đối"
+  },
+  {
+    "id": 471,
+    "premium": true,
+    "question": "Đầu tư tài chính là việc nhà đầu tư:",
+    "answer": "Thực hiện góp vốn liên doanh."
+  },
+  {
+    "id": 472,
+    "premium": true,
+    "question": "Tài sản nào sau đây được coi là phi rủi ro",
+    "answer": "Tín phiếu kho bạc"
+  },
+  {
+    "id": 473,
+    "premium": true,
+    "question": "Hoạt động đầu tư hưởng lợi khi có hiện tượng giảm giá chứng khoán là",
+    "answer": "Kinh doanh giảm giá"
+  },
+  {
+    "id": 474,
+    "premium": true,
+    "question": "Phần lợi tức do chính bản thân các tài sản nắm giữ mang lại và phần lãi (lỗ) do giảm giá hoặc tăng giá của tài sản đầu tư ; và được biểu hiện bằng một số tiền tuyệt đối",
+    "answer": "Lợi tức tuyệt đối"
+  },
+  {
+    "id": 475,
+    "premium": true,
+    "question": "Trường hợp nhà đầu tư, thường là các công ty chứng khoán, các ngân hàng thương mại đảm nhận tạo thị trường cho các loại chứng khoán trên thị trường phi tập trung (OTC) là",
+    "answer": "Tạo lập thị trường"
+  },
+  {
+    "id": 476,
+    "premium": true,
+    "question": "Căn cứ mục đích đầu tư, có thể phân loại đầu tư:",
+    "answer": "Đầu tư ngân quỹ, đầu tư hưởng lợi, đầu tư phòng vệ và đầu tư nắm quyền kiểm soát"
+  },
+  {
+    "id": 477,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "4%"
+  },
+  {
+    "id": 478,
+    "premium": true,
+    "question": "Giả sử một cơ hội đầu tư có giá trị 10 tỷ VNĐ. Các khả năng có thể xảy ra đối với khoản đầu tư này như sau:",
+    "answer": "1.5 tỷ"
+  },
+  {
+    "id": 479,
+    "premium": true,
+    "question": "Cho bảng sau: Xác suất của mỗi điều kiện nền kinh tế có thể xảy ra và xác suất về lợi nhuận của cổ phiếu trong từng điều kiện:",
+    "answer": "15%"
+  },
+  {
+    "id": 480,
+    "premium": true,
+    "question": "Căn cứ loại tài sản đầu tư, có thể phân loại đầu tư thành:",
+    "answer": "Đầu tư cổ phiếu, Đầu tư trái phiếu và Đầu tư các tài sản tài chính khác"
+  },
+  {
+    "id": 481,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của DPM đầu năm 2012 với tổng số tiền 50 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 5 triệu đồng cổ tức. Năm 2013, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 10 triệu đồng. Cuối năm 2014, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 50 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ lợi tức HPY một năm sẽ là:",
+    "answer": "1,22"
+  },
+  {
+    "id": 482,
+    "premium": true,
+    "question": "Để thực hiện hoạt động đầu tư ngân quỹ, các nhà quản trị tài chính thường đầu tư vào:",
+    "answer": "Chứng khoán ngắn hạn có khả năng chuyển đổi thành tiền cao"
+  },
+  {
+    "id": 483,
+    "premium": true,
+    "question": "Xem xét hai khoản đầu tư sau đây:",
+    "answer": "Chứng khoán A có rủi ro thấp hơn chứng khoán B"
+  },
+  {
+    "id": 484,
+    "premium": true,
+    "question": "Rủi ro tổng thể của danh mục gồm mấy loại rủi ro",
+    "answer": "2"
+  },
+  {
+    "id": 485,
+    "premium": true,
+    "question": "Một trong các giải định của Lý thuyết Markowitz",
+    "answer": "Nhà đầu tư ước tính rủi ro danh mục đầu tư dựa trên mức biến động của lợi nhuận"
+  },
+  {
+    "id": 486,
+    "premium": true,
+    "question": "Lý thuyết Markowitz dựa trên mấy giả định cơ bản liên quan đến tâm lý của nhà đầu tư:",
+    "answer": "5"
+  },
+  {
+    "id": 487,
+    "premium": true,
+    "question": "Hoạt động đầu tư chứng khoán nhằm kiếm lợi nhuận từ lợi tức và chênh lệch giá trong dài hạn là",
+    "answer": "Hoạt động đầu cơ"
+  },
+  {
+    "id": 488,
+    "premium": true,
+    "question": "Việc xác định danh mục đầu tư tổng thể tối ưu giữa các tài sản rủi ro và tài sản phi rủi ro gồm mấy bước cơ bản:",
+    "answer": "3"
+  },
+  {
+    "id": 489,
+    "premium": true,
+    "question": "Xem xét hai chứng khoán sau đây:",
+    "answer": "Chứng khoán A có lợi tức kỳ vọng thấp hơn chứng khoán B"
+  },
+  {
+    "id": 490,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của TBC đầu năm 2013 với tổng số tiền 5 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 500.000đ cổ tức. Năm 2014, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 1 triệu đồng. Cuối năm 2015, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 10 triệu đồng. Nếu không tính phí giao dịch, lợi nhuận tuyệt đối sẽ là",
+    "answer": "7,5 triệu"
+  },
+  {
+    "id": 491,
+    "premium": true,
+    "question": "Để thực hiện hoạt động đầu tư hưởng lợi, các nhà quản trị tài chính thường:",
+    "answer": "Thực hiện kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 492,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "0.0336"
+  },
+  {
+    "id": 493,
+    "premium": true,
+    "question": "Đầu tư trực tiếp là việc các nhà đầu tư:",
+    "answer": "Bỏ vốn vào trang thiết bị, máy móc."
+  },
+  {
+    "id": 494,
+    "premium": true,
+    "question": "Lợi tức kỳ vọng trong trường hợp dưới đây là",
+    "answer": "0.05"
+  },
+  {
+    "id": 495,
+    "premium": true,
+    "question": "Tổ chức nào thường là nhà tạo lập thị trường trái phiếu:",
+    "answer": "Ngân hàng thương mại"
+  },
+  {
+    "id": 496,
+    "premium": true,
+    "question": "Loại hình đầu tư nào sau đây KHÔNG thuộc loại hình đầu tư hưởng lợi:",
+    "answer": "Đầu tư ngân quỹ"
+  },
+  {
+    "id": 497,
+    "premium": true,
+    "question": "Đâu không phải giả định của Lý thuyết Markowitz",
+    "answer": "Lịch sử sẽ lặp lại"
+  },
+  {
+    "id": 498,
+    "premium": true,
+    "question": "Lợi tức được thể hiện dưới dạng tỷ lệ, phản ánh kết quả thu được đối với một đại lượng khác",
+    "answer": "Lợi tức tương đối"
+  },
+  {
+    "id": 499,
+    "premium": true,
+    "question": "Xem xét hai khoản đầu tư sau đây:",
+    "answer": "Chứng khoán A có rủi ro cao hơn chứng khoán B"
+  },
+  {
+    "id": 500,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "18%"
+  },
+  {
+    "id": 501,
+    "premium": true,
+    "question": "Thước đo để đánh giá khả năng sẵn sàng chấp nhận rủi ro của các nhà đầu tư",
+    "answer": "Mức chịu rủi ro"
+  },
+  {
+    "id": 502,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của HAG đầu năm 2013 với tổng số tiền 5 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 500.000đ cổ tức. Năm 2014, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 1 triệu đồng. Cuối năm 2015, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 10 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ hoàn vốn HPR sẽ là:",
+    "answer": "250%"
+  },
+  {
+    "id": 503,
+    "premium": true,
+    "question": "Nhà phân tích dự đoán lợi nhuận của cổ phiếu dựa trên điều kiện của nền kinh tế như bảng sau:",
+    "answer": "11.4%"
+  },
+  {
+    "id": 504,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của TIG đầu năm 2012 với tổng số tiền 25 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 1,5 triệu đồng cổ tức. Cuối năm 2014, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 50 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ lợi tức HPY ba năm sẽ là:",
+    "answer": "118%"
+  },
+  {
+    "id": 505,
+    "premium": true,
+    "question": "Xem xét hai chứng khoán sau đây:",
+    "answer": "Chứng khoán A có tổng rủi ro cao hơn chứng khoán B"
+  },
+  {
+    "id": 506,
+    "premium": true,
+    "question": "Cho bảng sau",
+    "answer": "11%"
+  },
+  {
+    "id": 507,
+    "premium": true,
+    "question": "Mức lợi tức mà nhà đầu tư mong muốn nhận được trong tương lai:",
+    "answer": "Lợi tức kỳ vọng"
+  },
+  {
+    "id": 508,
+    "premium": true,
+    "question": "Hoạt động mua bán chứng khoán nhằm tìm kiếm lợi nhuận trong ngắn hạn từ chênh lệch giá chứng khoán là",
+    "answer": "Kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 509,
+    "premium": true,
+    "question": "Kinh doanh chênh lệch giá là hoạt động:",
+    "answer": "Tìm kiếm lợi nhuận trong ngắn hạn đối với cổ phiếu được niêm yết trên hai thị trường."
+  },
+  {
+    "id": 510,
+    "premium": true,
+    "question": "Câu nào sau đây đúng về rủi ro hệ thống",
+    "answer": "Rủi ro hệ thống là rủi ro của toàn bộ thị trường"
+  },
+  {
+    "id": 511,
+    "premium": true,
+    "question": "Để thực hiện hoạt động đầu tư hưởng lợi, các nhà quản trị tài chính thường:",
+    "answer": "Thực hiện kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 512,
+    "premium": true,
+    "question": "Lý thuyết Markowitz dựa trên mấy giả định cơ bản liên quan đến tâm lý của nhà đầu tư:",
+    "answer": "5"
+  },
+  {
+    "id": 513,
+    "premium": true,
+    "question": "Tài sản nào sau đây được coi là phi rủi ro",
+    "answer": "Tín phiếu kho bạc"
+  },
+  {
+    "id": 514,
+    "premium": true,
+    "question": "Xem xét hai khoản đầu tư sau đây:",
+    "answer": "Chứng khoán A có rủi ro cao hơn chứng khoán B"
+  },
+  {
+    "id": 515,
+    "premium": true,
+    "question": "Đầu tư trực tiếp là việc các nhà đầu tư:",
+    "answer": "Bỏ vốn vào trang thiết bị, máy móc."
+  },
+  {
+    "id": 516,
+    "premium": true,
+    "question": "Cho bảng sau: Xác suất của mỗi điều kiện nền kinh tế có thể xảy ra và xác suất về lợi nhuận của cổ phiếu trong từng điều kiện:",
+    "answer": "15%"
+  },
+  {
+    "id": 517,
+    "premium": true,
+    "question": "Đầu tư tài chính là việc nhà đầu tư:",
+    "answer": "Thực hiện góp vốn liên doanh."
+  },
+  {
+    "id": 518,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của HAG đầu năm 2013 với tổng số tiền 5 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 500.000đ cổ tức. Năm 2014, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 1 triệu đồng. Cuối năm 2015, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 10 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ hoàn vốn HPR sẽ là:",
+    "answer": "250%"
+  },
+  {
+    "id": 519,
+    "premium": true,
+    "question": "Việc xác định danh mục đầu tư tổng thể tối ưu giữa các tài sản rủi ro và tài sản phi rủi ro gồm mấy bước cơ bản:",
+    "answer": "3"
+  },
+  {
+    "id": 520,
+    "premium": true,
+    "question": "Hoạt động mua bán chứng khoán nhằm tìm kiếm lợi nhuận trong ngắn hạn từ chênh lệch giá chứng khoán là",
+    "answer": "Kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 521,
+    "premium": true,
+    "question": "Hoạt động đầu tư hưởng lợi khi có hiện tượng giảm giá chứng khoán là",
+    "answer": "Kinh doanh giảm giá"
+  },
+  {
+    "id": 522,
+    "premium": true,
+    "question": "Loại hình đầu tư nào sau đây KHÔNG thuộc loại hình đầu tư hưởng lợi:",
+    "answer": "Đầu tư ngân quỹ"
+  },
+  {
+    "id": 523,
+    "premium": true,
+    "question": "Cho bảng sau",
+    "answer": "11%"
+  },
+  {
+    "id": 524,
+    "premium": true,
+    "question": "Một trong các giải định của Lý thuyết Markowitz",
+    "answer": "Nhà đầu tư ước tính rủi ro danh mục đầu tư dựa trên mức biến động của lợi nhuận"
+  },
+  {
+    "id": 525,
+    "premium": true,
+    "question": "Tổ chức nào thường là nhà tạo lập thị trường trái phiếu:",
+    "answer": "Ngân hàng thương mại"
+  },
+  {
+    "id": 526,
+    "premium": true,
+    "question": "Căn cứ loại tài sản đầu tư, có thể phân loại đầu tư thành:",
+    "answer": "Đầu tư cổ phiếu, Đầu tư trái phiếu và Đầu tư các tài sản tài chính khác"
+  },
+  {
+    "id": 527,
+    "premium": true,
+    "question": "Xem xét hai khoản đầu tư sau đây:",
+    "answer": "Chứng khoán A có rủi ro thấp hơn chứng khoán B"
+  },
+  {
+    "id": 528,
+    "premium": true,
+    "question": "Mức lợi tức mà nhà đầu tư mong muốn nhận được trong tương lai:",
+    "answer": "Lợi tức kỳ vọng"
+  },
+  {
+    "id": 529,
+    "premium": true,
+    "question": "Giả sử một cơ hội đầu tư có giá trị 10 tỷ VNĐ. Các khả năng có thể xảy ra đối với khoản đầu tư này như sau:",
+    "answer": "1.5 tỷ"
+  },
+  {
+    "id": 530,
+    "premium": true,
+    "question": "Căn cứ mục đích đầu tư, có thể phân loại đầu tư:",
+    "answer": "Đầu tư ngân quỹ, đầu tư hưởng lợi, đầu tư phòng vệ và đầu tư nắm quyền kiểm soát"
+  },
+  {
+    "id": 531,
+    "premium": true,
+    "question": "Hoạt động đầu tư chứng khoán nhằm kiếm lợi nhuận từ lợi tức và chênh lệch giá trong dài hạn là",
+    "answer": "Hoạt động đầu cơ"
+  },
+  {
+    "id": 532,
+    "premium": true,
+    "question": "Phần lợi tức do chính bản thân các tài sản nắm giữ mang lại và phần lãi (lỗ) do giảm giá hoặc tăng giá của tài sản đầu tư ; và được biểu hiện bằng một số tiền tuyệt đối",
+    "answer": "Lợi tức tuyệt đối"
+  },
+  {
+    "id": 533,
+    "premium": true,
+    "question": "Đâu không phải giả định của Lý thuyết Markowitz",
+    "answer": "Lịch sử sẽ lặp lại"
+  },
+  {
+    "id": 534,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của TIG đầu năm 2012 với tổng số tiền 25 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 1,5 triệu đồng cổ tức. Cuối năm 2014, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 50 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ lợi tức HPY ba năm sẽ là:",
+    "answer": "118%"
+  },
+  {
+    "id": 535,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của TBC đầu năm 2013 với tổng số tiền 5 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 500.000đ cổ tức. Năm 2014, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 1 triệu đồng. Cuối năm 2015, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 10 triệu đồng. Nếu không tính phí giao dịch, lợi nhuận tuyệt đối sẽ là",
+    "answer": "7,5 triệu"
+  },
+  {
+    "id": 536,
+    "premium": true,
+    "question": "Câu nào sau đây đúng về rủi ro hệ thống",
+    "answer": "Rủi ro hệ thống là rủi ro của toàn bộ thị trường"
+  },
+  {
+    "id": 537,
+    "premium": true,
+    "question": "Rủi ro tổng thể của danh mục gồm mấy loại rủi ro",
+    "answer": "2"
+  },
+  {
+    "id": 538,
+    "premium": true,
+    "question": "Trường hợp nhà đầu tư, thường là các công ty chứng khoán, các ngân hàng thương mại đảm nhận tạo thị trường cho các loại chứng khoán trên thị trường phi tập trung (OTC) là",
+    "answer": "Tạo lập thị trường"
+  },
+  {
+    "id": 539,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "0.0336"
+  },
+  {
+    "id": 540,
+    "premium": true,
+    "question": "Kinh doanh chênh lệch giá là hoạt động:",
+    "answer": "Tìm kiếm lợi nhuận trong ngắn hạn đối với cổ phiếu được niêm yết trên hai thị trường."
+  },
+  {
+    "id": 541,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của DPM đầu năm 2012 với tổng số tiền 50 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 5 triệu đồng cổ tức. Năm 2013, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 10 triệu đồng. Cuối năm 2014, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 50 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ lợi tức HPY một năm sẽ là:",
+    "answer": "1,22"
+  },
+  {
+    "id": 542,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "18%"
+  },
+  {
+    "id": 543,
+    "premium": true,
+    "question": "Xem xét hai chứng khoán sau đây:",
+    "answer": "Chứng khoán A có lợi tức kỳ vọng thấp hơn chứng khoán B"
+  },
+  {
+    "id": 544,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "4%"
+  },
+  {
+    "id": 545,
+    "premium": true,
+    "question": "Thước đo để đánh giá khả năng sẵn sàng chấp nhận rủi ro của các nhà đầu tư",
+    "answer": "Mức chịu rủi ro"
+  },
+  {
+    "id": 546,
+    "premium": true,
+    "question": "Lợi tức kỳ vọng trong trường hợp dưới đây là",
+    "answer": "0.05"
+  },
+  {
+    "id": 547,
+    "premium": true,
+    "question": "Lợi tức được thể hiện dưới dạng tỷ lệ, phản ánh kết quả thu được đối với một đại lượng khác",
+    "answer": "Lợi tức tương đối"
+  },
+  {
+    "id": 548,
+    "premium": true,
+    "question": "Nhà phân tích dự đoán lợi nhuận của cổ phiếu dựa trên điều kiện của nền kinh tế như bảng sau:",
+    "answer": "11.4%"
+  },
+  {
+    "id": 549,
+    "premium": true,
+    "question": "Xem xét hai chứng khoán sau đây:",
+    "answer": "Chứng khoán A có tổng rủi ro cao hơn chứng khoán B"
+  },
+  {
+    "id": 550,
+    "premium": true,
+    "question": "Để thực hiện hoạt động đầu tư ngân quỹ, các nhà quản trị tài chính thường đầu tư vào:",
+    "answer": "Chứng khoán ngắn hạn có khả năng chuyển đổi thành tiền cao"
+  },
+  {
+    "id": 551,
+    "premium": true,
+    "question": "Hoạt động đầu tư chứng khoán nhằm kiếm lợi nhuận từ lợi tức và chênh lệch giá trong dài hạn là",
+    "answer": "Hoạt động đầu cơ"
+  },
+  {
+    "id": 552,
+    "premium": true,
+    "question": "Căn cứ mục đích đầu tư, có thể phân loại đầu tư:",
+    "answer": "Đầu tư ngân quỹ, đầu tư hưởng lợi, đầu tư phòng vệ và đầu tư nắm quyền kiểm soát"
+  },
+  {
+    "id": 553,
+    "premium": true,
+    "question": "Phần lợi tức do chính bản thân các tài sản nắm giữ mang lại và phần lãi (lỗ) do giảm giá hoặc tăng giá của tài sản đầu tư ; và được biểu hiện bằng một số tiền tuyệt đối",
+    "answer": "Lợi tức tuyệt đối"
+  },
+  {
+    "id": 554,
+    "premium": true,
+    "question": "Hoạt động đầu tư hưởng lợi khi có hiện tượng giảm giá chứng khoán là",
+    "answer": "Kinh doanh giảm giá"
+  },
+  {
+    "id": 555,
+    "premium": true,
+    "question": "Tài sản nào sau đây được coi là phi rủi ro",
+    "answer": "Tín phiếu kho bạc"
+  },
+  {
+    "id": 556,
+    "premium": true,
+    "question": "Cho bảng sau",
+    "answer": "11%"
+  },
+  {
+    "id": 557,
+    "premium": true,
+    "question": "Lý thuyết Markowitz dựa trên mấy giả định cơ bản liên quan đến tâm lý của nhà đầu tư:",
+    "answer": "5"
+  },
+  {
+    "id": 558,
+    "premium": true,
+    "question": "Xem xét hai khoản đầu tư sau đây:",
+    "answer": "Chứng khoán A có rủi ro thấp hơn chứng khoán B"
+  },
+  {
+    "id": 559,
+    "premium": true,
+    "question": "Một trong các giải định của Lý thuyết Markowitz",
+    "answer": "Nhà đầu tư ước tính rủi ro danh mục đầu tư dựa trên mức biến động của lợi nhuận"
+  },
+  {
+    "id": 560,
+    "premium": true,
+    "question": "Xem xét hai khoản đầu tư sau đây:",
+    "answer": "Chứng khoán A có rủi ro cao hơn chứng khoán B"
+  },
+  {
+    "id": 561,
+    "premium": true,
+    "question": "Thước đo để đánh giá khả năng sẵn sàng chấp nhận rủi ro của các nhà đầu tư",
+    "answer": "Mức chịu rủi ro"
+  },
+  {
+    "id": 562,
+    "premium": true,
+    "question": "Để thực hiện hoạt động đầu tư ngân quỹ, các nhà quản trị tài chính thường đầu tư vào:",
+    "answer": "Chứng khoán ngắn hạn có khả năng chuyển đổi thành tiền cao"
+  },
+  {
+    "id": 563,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của DPM đầu năm 2012 với tổng số tiền 50 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 5 triệu đồng cổ tức. Năm 2013, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 10 triệu đồng. Cuối năm 2014, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 50 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ lợi tức HPY một năm sẽ là:",
+    "answer": "1,22"
+  },
+  {
+    "id": 564,
+    "premium": true,
+    "question": "Xem xét hai chứng khoán sau đây:",
+    "answer": "Chứng khoán A có lợi tức kỳ vọng thấp hơn chứng khoán B"
+  },
+  {
+    "id": 565,
+    "premium": true,
+    "question": "Hoạt động mua bán chứng khoán nhằm tìm kiếm lợi nhuận trong ngắn hạn từ chênh lệch giá chứng khoán là",
+    "answer": "Kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 566,
+    "premium": true,
+    "question": "Giả sử một cơ hội đầu tư có giá trị 10 tỷ VNĐ. Các khả năng có thể xảy ra đối với khoản đầu tư này như sau:",
+    "answer": "1.5 tỷ"
+  },
+  {
+    "id": 567,
+    "premium": true,
+    "question": "Xem xét hai chứng khoán sau đây:",
+    "answer": "Chứng khoán A có tổng rủi ro cao hơn chứng khoán B"
+  },
+  {
+    "id": 568,
+    "premium": true,
+    "question": "Đầu tư tài chính là việc nhà đầu tư:",
+    "answer": "Thực hiện góp vốn liên doanh."
+  },
+  {
+    "id": 569,
+    "premium": true,
+    "question": "Rủi ro tổng thể của danh mục gồm mấy loại rủi ro",
+    "answer": "2"
+  },
+  {
+    "id": 570,
+    "premium": true,
+    "question": "Câu nào sau đây đúng về rủi ro hệ thống",
+    "answer": "Rủi ro hệ thống là rủi ro của toàn bộ thị trường"
+  },
+  {
+    "id": 571,
+    "premium": true,
+    "question": "Để thực hiện hoạt động đầu tư hưởng lợi, các nhà quản trị tài chính thường:",
+    "answer": "Thực hiện kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 572,
+    "premium": true,
+    "question": "Đâu không phải giả định của Lý thuyết Markowitz",
+    "answer": "Lịch sử sẽ lặp lại"
+  },
+  {
+    "id": 573,
+    "premium": true,
+    "question": "Việc xác định danh mục đầu tư tổng thể tối ưu giữa các tài sản rủi ro và tài sản phi rủi ro gồm mấy bước cơ bản:",
+    "answer": "3"
+  },
+  {
+    "id": 574,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của HAG đầu năm 2013 với tổng số tiền 5 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 500.000đ cổ tức. Năm 2014, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 1 triệu đồng. Cuối năm 2015, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 10 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ hoàn vốn HPR sẽ là:",
+    "answer": "250%"
+  },
+  {
+    "id": 575,
+    "premium": true,
+    "question": "Nhà phân tích dự đoán lợi nhuận của cổ phiếu dựa trên điều kiện của nền kinh tế như bảng sau:",
+    "answer": "11.4%"
+  },
+  {
+    "id": 576,
+    "premium": true,
+    "question": "Loại hình đầu tư nào sau đây KHÔNG thuộc loại hình đầu tư hưởng lợi:",
+    "answer": "Đầu tư ngân quỹ"
+  },
+  {
+    "id": 577,
+    "premium": true,
+    "question": "Lợi tức được thể hiện dưới dạng tỷ lệ, phản ánh kết quả thu được đối với một đại lượng khác",
+    "answer": "Lợi tức tương đối"
+  },
+  {
+    "id": 578,
+    "premium": true,
+    "question": "Căn cứ loại tài sản đầu tư, có thể phân loại đầu tư thành:",
+    "answer": "Đầu tư cổ phiếu, Đầu tư trái phiếu và Đầu tư các tài sản tài chính khác"
+  },
+  {
+    "id": 579,
+    "premium": true,
+    "question": "Trường hợp nhà đầu tư, thường là các công ty chứng khoán, các ngân hàng thương mại đảm nhận tạo thị trường cho các loại chứng khoán trên thị trường phi tập trung (OTC) là",
+    "answer": "Tạo lập thị trường"
+  },
+  {
+    "id": 580,
+    "premium": true,
+    "question": "Kinh doanh chênh lệch giá là hoạt động:",
+    "answer": "Tìm kiếm lợi nhuận trong ngắn hạn đối với cổ phiếu được niêm yết trên hai thị trường."
+  },
+  {
+    "id": 581,
+    "premium": true,
+    "question": "Cho bảng sau: Xác suất của mỗi điều kiện nền kinh tế có thể xảy ra và xác suất về lợi nhuận của cổ phiếu trong từng điều kiện:",
+    "answer": "15%"
+  },
+  {
+    "id": 582,
+    "premium": true,
+    "question": "Mức lợi tức mà nhà đầu tư mong muốn nhận được trong tương lai:",
+    "answer": "Lợi tức kỳ vọng"
+  },
+  {
+    "id": 583,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của TIG đầu năm 2012 với tổng số tiền 25 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 1,5 triệu đồng cổ tức. Cuối năm 2014, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 50 triệu đồng. Nếu không tính phí giao dịch, tỷ lệ lợi tức HPY ba năm sẽ là:",
+    "answer": "118%"
+  },
+  {
+    "id": 584,
+    "premium": true,
+    "question": "Một nhà đầu tư mua cổ phiếu của TBC đầu năm 2013 với tổng số tiền 5 triệu đồng. Trong 3 năm, mỗi năm nhà đầu tư nhận được 500.000đ cổ tức. Năm 2014, nhà đầu tư có quyền mua cổ phiếu và đã bán, thu được 1 triệu đồng. Cuối năm 2015, nhà đầu tư đã bán toàn bộ cổ phiếu với giá 10 triệu đồng. Nếu không tính phí giao dịch, lợi nhuận tuyệt đối sẽ là",
+    "answer": "7,5 triệu"
+  },
+  {
+    "id": 585,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "0.0336"
+  },
+  {
+    "id": 586,
+    "premium": true,
+    "question": "Lợi tức kỳ vọng trong trường hợp dưới đây là",
+    "answer": "0.05"
+  },
+  {
+    "id": 587,
+    "premium": true,
+    "question": "Tổ chức nào thường là nhà tạo lập thị trường trái phiếu:",
+    "answer": "Ngân hàng thương mại"
+  },
+  {
+    "id": 588,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "18%"
+  },
+  {
+    "id": 589,
+    "premium": true,
+    "question": "Đầu tư trực tiếp là việc các nhà đầu tư:",
+    "answer": "Bỏ vốn vào trang thiết bị, máy móc."
+  },
+  {
+    "id": 590,
+    "premium": true,
+    "question": "Nhà đầu tư có thể ước lượng xác suất xảy ra những tình huống trên dựa vào kinh nghiệm trong quá khứ và sự đánh giá hiện tại như sau:",
+    "answer": "4%"
+  },
+  {
+    "id": 591,
+    "premium": true,
+    "question": "Hệ số alpha đo lường:",
+    "answer": "Chênh lệch giữa tỷ lệ lợi tức kỳ vọng với tỷ lệ lợi tức kỳ vọng xác định bởi mô hình CAPM"
+  },
+  {
+    "id": 592,
+    "premium": true,
+    "question": "Giả định nào được sử dụng để xây dựng mô hình CAPM lại không còn được sử dụng khi xây dựng lý thuyết APT :",
+    "answer": "Nhà đầu tư sử dụng hàm hữu dụng để tối đa hóa lợi ích"
+  },
+  {
+    "id": 593,
+    "premium": true,
+    "question": "Kết quả của mô hình định giá tài sản tài chính CAPM là",
+    "answer": "Tất cả các nhà đầu tư sẽ nắm giữ cùng một danh mục đầu tư thị trường"
+  },
+  {
+    "id": 594,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "1,2 và 0,6"
+  },
+  {
+    "id": 595,
+    "premium": true,
+    "question": "Một cổ phiếu được bán với giá 50$ vào ngày hôm nay. Nếu cổ tức là 6$ cho mỗi cổ phiếu vào cuối năm. Hệ số beta là 1,2. Lãi suất phi rủi ro là 6% và tỷ lệ lơi tức kỳ vọng của thị trường là 16%. Dự đoán giá của cổ phiếu vào cuối năm?",
+    "answer": "53$"
+  },
+  {
+    "id": 596,
+    "premium": true,
+    "question": "Giả định nào là của Lý thuyết APT:",
+    "answer": "Thị trường chứng khoán hoạt động hiệu quả, không cho phép tồn tại các cơ hội kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 597,
+    "premium": true,
+    "question": "Hệ số β của một tài sản đo lường",
+    "answer": "Rủi ro hệ thống của tài sản đó"
+  },
+  {
+    "id": 598,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "-6% và 0,3%"
+  },
+  {
+    "id": 599,
+    "premium": true,
+    "question": "Phần bù rủi ro của danh mục thị trường tỉ lệ thuận với",
+    "answer": "Rủi ro của danh mục thị trường"
+  },
+  {
+    "id": 600,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "0,94 và 0,57"
+  },
+  {
+    "id": 601,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  },
+  {
+    "id": 602,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 603,
+    "premium": true,
+    "question": "Các giả định của mô hình định giá tài sản tài chính CAPM gồm có",
+    "answer": "Nhà đầu tư cá nhân là người chấp nhận giá"
+  },
+  {
+    "id": 604,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 605,
+    "premium": true,
+    "question": "Một cổ phiếu được bán với giá 45$ vào ngày hôm nay. Nếu cổ tức là 5$ cho mỗi cổ phiếu vào cuối năm. Hệ số beta là 1,2. Lãi suất phi rủi ro là 7% và tỷ lệ lơi tức kỳ vọng của thị trường là 12%. Dự đoán giá của cổ phiếu vào cuối năm?",
+    "answer": "45,3$"
+  },
+  {
+    "id": 606,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 607,
+    "premium": true,
+    "question": "Cổ phiếu IBM đang được giao dịch với giá $95 trên sàn NYSE nhưng chỉ có $93 trên NASDAQ. Nhà đầu tư có thể kiếm lời bằng việc thực hiện :",
+    "answer": "Kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 608,
+    "premium": true,
+    "question": "Số liệu trong quá khứ của VNIndex cho thấy phần bù rủi ro trung bình là 8,4%, hệ số chấp nhận rủi ro trung bình của nhà đầu tư bằng 3,5. Phần bù rủi ro thị trường bằng bao nhiêu sẽ phù hợp với độ lệch chuẩn trong quá khứ",
+    "answer": "14,4%"
+  },
+  {
+    "id": 609,
+    "premium": true,
+    "question": "Cổ phiếu XYZ với lợi tức kỳ vọng là 11%, và hệ số beta = 1. Cổ phiếu ABC có lợi tức kỳ vọng là 13%, và hệ số beta = 1.5. Lợi tức kỳ vọng của thị trường là 11% và rf = 5%. Cổ phiếu XYZ và ABC được thị trường",
+    "answer": "Định giá cao và định giá đúng"
+  },
+  {
+    "id": 610,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "0,18 và 0,09"
+  },
+  {
+    "id": 611,
+    "premium": true,
+    "question": "Danh mục thị trường theo mô hình định giá tài sản tài chính CAPM là danh mục",
+    "answer": "Là điểm tiếp xúc giữa đường CML và đường biên hiệu quả"
+  },
+  {
+    "id": 612,
+    "premium": true,
+    "question": "Đường SML có phần bù rủi ro của tài sản riêng lẻ phụ thuộc vào:",
+    "answer": "Rủi ro hệ thống của tài sản đó"
+  },
+  {
+    "id": 613,
+    "premium": true,
+    "question": "Số liệu trong quá khứ của VNIndex cho thấy phần bù rủi ro trung bình là 8,4%, độ lệch chuẩn là 20,3%. Căn cứ vào số liệu lịch sử, hệ số chấp nhận rủi ro trung bình của nhà đầu tư bằng bao nhiêu?",
+    "answer": "2.04"
+  },
+  {
+    "id": 614,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  },
+  {
+    "id": 615,
+    "premium": true,
+    "question": "Những điểm nằm phía dưới đường SML là những chứng khoán được định giá",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 616,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "1,2 và 0,72"
+  },
+  {
+    "id": 617,
+    "premium": true,
+    "question": "Những điểm nằm phía trên đường SML là những chứng khoán được định giá",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 618,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  },
+  {
+    "id": 619,
+    "premium": true,
+    "question": "Cổ phiếu với β=0 thì có tỷ lệ lợi tức kỳ vọng",
+    "answer": "Tỷ lệ lợi tức kỳ vọng bằng lãi suất phi rủi ro"
+  },
+  {
+    "id": 620,
+    "premium": true,
+    "question": "Danh mục thị trường có hệ số β bằng",
+    "answer": "1"
+  },
+  {
+    "id": 621,
+    "premium": true,
+    "question": "Lãi suất phi rủi ro là 6% và tỷ lệ lợi tức kỳ vọng của thị trường là 16%. Cổ phiếu với tỷ lệ lợi tức kỳ vọng là 8%, beta bằng bao nhiêu?",
+    "answer": "0,2"
+  },
+  {
+    "id": 622,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Cả hai danh mục"
+  },
+  {
+    "id": 623,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Không sử dụng CAPM để giải thich cả hai trường hợp"
+  },
+  {
+    "id": 624,
+    "premium": true,
+    "question": "Những điểm nằm phía dưới đường SML là những chứng khoán được định giá",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 625,
+    "premium": true,
+    "question": "Các giả định của mô hình định giá tài sản tài chính CAPM không bao gồm:",
+    "answer": "Các nhà đầu tư có kỳ vọng khác nhau"
+  },
+  {
+    "id": 626,
+    "premium": true,
+    "question": "Lãi suất phi rủi ro là 5% và tỷ lệ lợi tức kỳ vọng của thị trường là 18%. Cổ phiếu với tỷ lệ lợi tức kỳ vọng là 10%, beta bằng bao nhiêu?",
+    "answer": "0.38"
+  },
+  {
+    "id": 627,
+    "premium": true,
+    "question": "Giả định nào KHÔNG là của Lý thuyết APT:",
+    "answer": "Nhà đầu tư là người chấp nhận giá"
+  },
+  {
+    "id": 628,
+    "premium": true,
+    "question": "Phần bù rủi ro thị trường sẽ phụ thuộc vào",
+    "answer": "Mức độ chấp nhận rủi ro trung bình của các nhà đầu tư"
+  },
+  {
+    "id": 629,
+    "premium": true,
+    "question": "Để đo lường rủi ro hệ thống của một tài sản, chúng ta có thể sử dụng",
+    "answer": "Hệ số β"
+  },
+  {
+    "id": 630,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "19,41%"
+  },
+  {
+    "id": 631,
+    "premium": true,
+    "question": "Một cổ phiếu được bán với giá 45$ vào ngày hôm nay. Nếu cổ tức là 5$ cho mỗi cổ phiếu vào cuối năm. Hệ số beta là 1,2. Lãi suất phi rủi ro là 7% và tỷ lệ lơi tức kỳ vọng của thị trường là 12%. Dự đoán giá của cổ phiếu vào cuối năm?",
+    "answer": "45,3$"
+  },
+  {
+    "id": 632,
+    "premium": true,
+    "question": "Giả định nào là của Lý thuyết APT:",
+    "answer": "Thị trường chứng khoán hoạt động hiệu quả, không cho phép tồn tại các cơ hội kinh doanh chênh lệch giá"
+  },
+  {
+    "id": 633,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  },
+  {
+    "id": 634,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  },
+  {
+    "id": 635,
+    "premium": true,
+    "question": "Danh mục thị trường theo mô hình định giá tài sản tài chính CAPM là danh mục",
+    "answer": "Là điểm tiếp xúc giữa đường CML và đường biên hiệu quả"
+  },
+  {
+    "id": 636,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế, giả sử xác suất xảy ra của hai kịch bản là như nhau",
+    "answer": "0,18 và 0,09"
+  },
+  {
+    "id": 637,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "Định giá thấp"
+  },
+  {
+    "id": 638,
+    "premium": true,
+    "question": "Các giả định của mô hình định giá tài sản tài chính CAPM gồm có",
+    "answer": "Nhà đầu tư cá nhân là người chấp nhận giá"
+  },
+  {
+    "id": 639,
+    "premium": true,
+    "question": "Bảng dưới đây cho biết tỷ lệ lợi tức kỳ vọng của 2 cổ phiếu với 2 trường hợp của nền kinh tế",
+    "answer": "Định giá cao"
+  },
+  {
+    "id": 640,
+    "premium": true,
+    "question": "Trường hợp nào sau đây có thể được giải thích bởi mô hình định giá tài sản tài chính CAPM",
+    "answer": "Chưa có cơ sở để kết luận"
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Khi nhà tài trợ chuyển thẳng tiền thuộc hoạt động viện trợ cho nhà cung cấp, kế toán ghi:",
+    "answer": "Nợ TK 612/Có TK 512 và Đồng thời Ghi Nợ TK 004 và Ghi Có TK 004"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Đâu là đặc điểm của nguyên liệu vật liệu",
+    "answer": "Khi tham gia vào quá trình hoạt động sẽ bị thay đổi về hình thái vật chất"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Khi phát sinh các khoản chi sai, chi vượt tiêu chuẩn, định mức trong năm nhưng chưa thu hồi được, kế toán ghi:",
+    "answer": "Nợ TK 131 hoặc TK 138/Có Tk 611"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Nguồn vốn kinh doanh hiện có cuối kì của đơn vị được xác định bằng",
+    "answer": "Số dư cuối kì của TK 411"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Xuất NLVL từ nguồn viện trợ, vay nước ngoài ra sử dụng không hết nhập lại kho, kế toán ghi:",
+    "answer": "Nợ TK 152/ Có TK 612"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Số liệu lập báo cáo quyết toán thu, chi thuộc nguồn khác của đơn vị hành chính sự nghiệp được tính đến hết ngày:",
+    "answer": "31/12 hàng năm."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Theo Luật kế toán số 88/2015/QH13 ngày 20/11/2015, cơ quan nào sau đây trong phạm vi quyền hạn của mình có trách nhiệm quản lý nhà nước về kế toán tại địa phương",
+    "answer": "UBND cấp tỉnh"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Tài khoản 136 “Phải thu nội bộ”",
+    "answer": "Dùng để phản ánh khoản chi hộ, trả hộ tại các đơn vị nội bộ"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Tài khoản 131 - Phải thu khách hàng có số dư:",
+    "answer": "Có số dư Bên Nợ và có thể có số dư Bên Có"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Khấu trừ thu nhập người lao động về các khoản trích theo lương ghi:",
+    "answer": "Nợ TK 334"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Tài sản cố định được đánh giá theo 3 chỉ tiêu, trừ",
+    "answer": "Hao mòn năm"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Khi chi trả hộ bằng TGNH cho đơn vị nội bộ về tiền điện sử dụng 11.000 (trong đó có 10% thuế GTGT). Kế toán ghi (đơn vị 1.000đ):",
+    "answer": "Nợ TK 136/ Có TK 112: 11.000"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Đơn vị hành chính, sự nghiệp nào phải lập Báo cáo quyết toán",
+    "answer": "Đơn vị HCSN có sử dụng kinh phí NSNN cấp và có các khoản thu, chi khác qui định phải quyết toán."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Theo Thông tư 107/2017/TT-BTC về Chế độ kế toán hành chính-sự nghiệp, Kỳ hạn lập BCTC của các đơn vị HCSN, tổ chức có sử dụng NSNN là",
+    "answer": "Theo năm"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Rút dự toán chi HĐ mua TSCĐ sử dụng ngay cho HĐ sự nghiệp, đơn vị hạch toán như sau :",
+    "answer": "Nợ TK 211/Có TK 366 và Ghi có TK 008"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Khi nhận vốn góp kinh doanh của các tổ chức, cá nhân khác, kế toán ghi nhận:",
+    "answer": "Ghi Có TK411 đối ứng với Nợ TK tài sản tương ứng"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Tài khoản được sử dụng để theo dõi các khoản chi phí chi cho bộ máy quản lý của hoạt động sản xuất, kinh doanh dịch vụ là:",
+    "answer": "TK 642"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Theo Luật kế toán số 88/2015/QH13 ngày 20/11/2015, Kỳ kế toán là khoảng thời gian yêu cầu phải lập BCTC, kỳ kế toán có thể theo:",
+    "answer": "Kỳ kế toán năm, quý, tháng"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Phần lỗ do đánh giá lại tiền bằng ngoại tệ cuối kì được kế toán ghi:",
+    "answer": "Ghi bên Nợ TK413"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Các nguồn thu của đơn vị sự nghiệp không tính đến:",
+    "answer": "Nguồn vốn vay, huy động trên thị trường."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Phương pháp tính Hao mòn với TSCĐ sử dụng cho HĐ hành chính là",
+    "answer": "Theo đường thẳng"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Thu hồi một khoản tạm ứng thừa từ kỳ trước, tạm ứng 20.000, chi hết cho hoạt động chuyên môn 15.000, phần còn lại cán bộ tạm ứng đã hoàn trả bằng tiền mặt (đơn vị 1.000đ)",
+    "answer": "Nợ TK 611: 15.000, Nợ TK 111: 5000 / Có TK 141: 20.000 và Nợ TK 3371/Có TK 511: 15.000"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "TSCĐ nào dưới dây không được phân loại theo nguồn hình thành TSCĐ:",
+    "answer": "Tài sản cố định được tặng cho"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Số dư kinh phí thuộc nguồn viện trợ đã được ghi thu, ghi chi, ghi tạm ứng nhưng chưa thanh toán với KBNN được chuyển sang năm nay, căn cứ vào:",
+    "answer": "Số dư TK 004."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Hình thức ghi sổ đề cập trong TT 107/2017/TT-BTC:",
+    "answer": "Không có hình thức Nhật ký – chứng từ;"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Số dư đầu năm của TK 008 phản ánh:",
+    "answer": "Dự toán kinh phí hoạt động của năm trước không được chấp nhận quyết toán."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Khi làm thủ tục thanh toán dự toán đã tạm ứng trước đó của năm nay kế toán ghi:",
+    "answer": "Có TK 008211: ghi âm và Có TK 008212: ghi dương"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Số liệu lập báo cáo quyết toán ngân sách nhà nước hàng năm là số liệu thu, chi thuộc năm ngân sách của đơn vị HCSN được tính đến hết ngày:",
+    "answer": "31/1 năm sau."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Khi kết chuyển các khoản nhận trước chưa ghi thu sang các TK thu tương ứng, kế toán ghi:",
+    "answer": "Nợ TK 366"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Giá trị nguyên vật liệu thừa phát hiện khi kiểm kê, chưa xác định nguyên nhân, chờ xử lý, phải theo dõi như là:",
+    "answer": "Khoản phải trả khác"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Tài khoản được sử dụng để ghi nhận số thu do NSNN cấp cho các nhiệm vụ kể cả thường xuyên, và không thường xuyên là:",
+    "answer": "TK 511"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Đơn vị HCSN nhận vốn tài trợ, biếu tặng nhỏ lẻ được tổng hợp số liệu báo cáo ở phần:",
+    "answer": "Nguồn ngân sách trong nước thuộc mục Ngân sách được giao trong năm"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Tính hao mòn TSCĐ hình thành từ Quỹ Phát triển hoạt động sự nghiệp sử dụng cho HĐ hành chính, ghi :",
+    "answer": "Nợ TK 611/Có TK 214 và Nợ TK 43142/Có TK 4211"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Khi xuất quỹ tiền mặt tạm ứng cho cán bộ, viên chức và người lao động trong đơn vị, ghi:",
+    "answer": "Nợ TK 141, Có TK 111"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Thu hộ tiền đề tại cho chủ nhiệm đề tài, kế toán ghi",
+    "answer": "Nợ TK 111/ Có TK 131"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Khi nộp trả tiền cho nhà tài trợ do không thực hiện dự án, kế toán ghi:",
+    "answer": "Nợ TK 337/Có TK 112"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Bút toán Nợ TK 152/ Có TK 36612 được ghi nhận khi:",
+    "answer": "Rút dự toán KP hoạt động mua NVL nhập kho cho hoạt động thường xuyên"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Trường hợp, đơn vị HCSN bán hàng hóa không tách ngay được các khoản thuế phải nộp. Định kỳ, kế toán xác định nghĩa vụ thuế phải nộp và ghi nhận:",
+    "answer": "Nợ TK 531, Có TK 333"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Giả sử, cuối kỳ, số dư và số phát sinh của các tài khoản trong kỳ được tổng kết trên chữ T (sổ cái). Khi lập báo cao tình hình tài chính, kế toán sẽ căn cứ vào:",
+    "answer": "Số dư từ tài khoản loại tài sản, nợ phải trả, tài sản thuần"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Các đơn vị dự toán cấp 1:",
+    "answer": "được thủ tướng Chính phủ giao dự toán trực tiếp;"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Khi tính ra số quỹ khen thưởng, phúc lợi phải chi trả cho người lao động trong đơn vị, kế toán ghi:",
+    "answer": "Nợ TK 4311,4312/Có TK334"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Đến ngày 31/12/N, kinh phí NSNN sử dụng trong năm là 500.000.000đ. Ngày 15/1/N+1, kinh phí sử dụng trong năm N được điều chỉnh tăng 20.000.000đ. Kinh phí đề nghị quyết toán là:",
+    "answer": "480.000.000đ."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Chỉ tiêu Tài sản thuần trên Báo cáo tình hình tài chính",
+    "answer": "Là giá trị tài sản của một đơn vị sau khi đã trừ đi các khoản nợ phải trả"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Trường hợp tỉ giá chuyển khoản trung bình cuối kì lớn hơn tỉ giá ghi sổ, phần chênh lệch tỉ giá do đánh giá lại số dư khoản nợ thu khách hàng gốc ngoại tệ được ghi nhận:",
+    "answer": "Ghi bên Có TK413"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Tài khoản được sử dụng để theo dõi các khoản chi phí phát sinh chung liên quan tới nhiều hoạt động nhưng chưa xác định được cụ thể rõ ràng cho từng đối tượng là:",
+    "answer": "TK 652"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Khi phát sinh khoản nhận đặt cọc, ký quỹ, ký cược, kế toán ghi:",
+    "answer": "Có TK 348"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Quỹ khen thưởng dùng để",
+    "answer": "Khen thưởng cho tập thể, cá nhân theo kết quả công tác và thành tích đóng góp"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Tài khoản được sử dụng để phản ánh các khoản chi cho hoạt động thu phí, lệ phí tại các cơ quan, đơn vị, tổ chức được phép thu phí, lệ phí theo quy định của pháp luật phí, lệ phí là:",
+    "answer": "TK 614"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "TSCĐ của đơn vị HCSN được đánh giá lại khi",
+    "answer": "Nâng cấp kéo dài tuổi thọ TSCĐ"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Tài khoản 821: Chi phí thuế TNDN được sử dụng khi nào? Hãy chọn đáp án đúng nhất.",
+    "answer": "Được sử dụng định kỳ, xác định số thuế TNDN tạm nộp, cũng như cuối năm tài chính khi quyết toán"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Đối tượng kế toán trong đơn vị HCSN không gồm:",
+    "answer": "Tài sản của công chức, viên chức trong đơn vị;"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Tài khoản được sử dụng để phản ánh các khoản chi để thực hiện chức năng, nhiệm vụ chuyên môn hành chính, sự nghiệp là:",
+    "answer": "TK 611"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Khi xuất kho NVL dùng cho hoạt động thường xuyên, ngoài bút toán ghi nhận chi phí, kế toán sẽ ghi nhận thêm bút toán kết chuyển thu tương ứng vào thời điểm:",
+    "answer": "Cuối năm"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Ghi nhận vào tài khoản 511 trong trường hợp nào sau đây:",
+    "answer": "Rút dự toán thanh toán dịch vụ điện nước sử dụng cho hoạt động sự nghiệp."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Số dư đầu năm của TK 008 phản ánh:",
+    "answer": "Dự toán kinh phí hoạt động của năm trước không được chấp nhận quyết toán."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Phần phí, lệ phí đơn vị phải nộp lại ngân sách ghi:",
+    "answer": "Nợ TK 337/Có TK 3332"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Mua sắm TSCĐ dùng cho HĐ HCSN trị giá 44.000.000 chưa gồm thuế GTGT 10%, lệ phí trước bạ 8.800.000. Nguyên giá TSCĐ:",
+    "answer": "57.200.000"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Hao mòn TSCĐ được tính theo nguyên tắc",
+    "answer": "Tròn năm"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Nguồn vốn kinh doanh có thể hình thành",
+    "answer": "Tại các đơn vị sự nghiệp có tổ chức kinh doanh và hình thành nguồn vốn KD riêng"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "TK 511-Thu hoạt động do NSNN cấp các tài khoản chi tiết nào?",
+    "answer": "TK 5111- Thu thường xuyên, TK 5112-Thu không thường xuyên, TK 5118-Thu hoạt động khác"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "TK 511-Thu hoạt động do NSNN cấp các tài khoản chi tiết nào?",
+    "answer": "Trường Đại học Kinh tế Quốc dân;"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Giá trị NVL, CCDC mua bằng nguồn NSNN đã xuất sử dụng trong năm, cuối năm kết chuyển phần kinh phí đã nhận trước chưa ghi thu thành:",
+    "answer": "Khoản thu tương ứng"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Các đơn vị dự toán cấp 1:",
+    "answer": "được thủ tướng Chính phủ giao dự toán trực tiếp;"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Khoản nào sau đây không được ghi nhận trên tài khoản 137 - Tạm chi",
+    "answer": "Khoản tạm chi hộ cho đơn vị cấp dưới"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "NLVL xuất dùng nhưng sử dụng không hết nhập lại kho, phản ánh theo giá trị",
+    "answer": "Giá xuất kho"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Các đơn vị dự toán cấp 3 không thuộc trường hợp sau",
+    "answer": "được đơn vị dự toán cấp 1 trực tiếp giao dự toán;"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Báo cáo kết quả hoạt động (Mẫu B02/BCTC theo TT 107/TT-BTC):",
+    "answer": "Cả 3 đáp án trên"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Ghi đơn bên Có TK 008 khi",
+    "answer": "Rút tạm ứng dự toán chi hoạt động"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Đối tượng kế toán trong đơn vị HCSN không gồm:",
+    "answer": "Tài sản của công chức, viên chức trong đơn vị;"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Thanh lý TSCĐ hình thành bằng Quỹ phúc lợi, phần GTCL được ghi nhận vào tài khoản:",
+    "answer": "TK 43122"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Theo thông tư 107/2017/TT-BTC, Báo cáo nào trong các BCTC sau không sử dụng trong đơn vị Hành Chính Sự Nghiệp?",
+    "answer": "Bảng tính nháp"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Tài khoản cấp 2 được sử dụng để xác định kết quả hoạt động sản xuất kinh doanh là:",
+    "answer": "TK 9112"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Bút toán Nợ TK 152/ Có TK 36612 được ghi nhận khi:",
+    "answer": "Rút dự toán KP hoạt động mua NVL nhập kho cho hoạt động thường xuyên"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Đơn vị dùng tiền nhận được từ viện trợ, vay nợ nước ngoài động để chi trả cho các khoản chi dự án phát sinh, kế toán cần ghi thêm bút toán:",
+    "answer": "Nợ TK 337/Có TK 512"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Trách nhiệm lập, nộp báo cáo quyết toán thuộc:",
+    "answer": "Đơn vị HCSN; Kho bac; và Cơ quan tài chính"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Phần lỗ do đánh giá lại tiền bằng ngoại tệ cuối kì được kế toán ghi:",
+    "answer": "Ghi bên Nợ TK413"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Nhập kho nguyên vật liệu do được viện trợ không hoàn lại, ghi",
+    "answer": "Nợ TK 152/ Có TK 36622"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Trường hợp, đơn vị HCSN bán hàng hóa không tách ngay được các khoản thuế phải nộp. Định kỳ, kế toán xác định nghĩa vụ thuế phải nộp và ghi nhận:",
+    "answer": "Nợ TK 531, Có TK 333"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Theo quy định của Luật Kế toán số 88/2015/QH13, tài khoản kế toán dùng để",
+    "answer": "Phân loại và hệ thống hóa các nghiệp vụ kinh tế tài chính theo nội dung kinh tế"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Thuyết minh báo cáo quyết toán",
+    "answer": "Nhằm giải thích và bổ sung thông tin về tình hình thực hiện các nhiệm vụ cơ bản của đơn vị, tình hình chấp hành các kỷ luật tài chính về thu chi NSNN trong kỳ báo cáo"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Theo Thông tư 107/2017/TT-BTC về Chế độ kế toán hành chính-sự nghiệp, Kỳ hạn lập BCTC của các đơn vị HCSN, tổ chức có sử dụng NSNN là",
+    "answer": "Theo năm"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Các khoản thu chính trong đơn vị sự nghiệp thuần tuý bao gồm:",
+    "answer": "Thu hoạt động do NSNN cấp, thu từ nguồn viện trợ và thu từ số phí được khấu trừ để lại"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Tài khoản 821: Chi phí thuế TNDN được sử dụng khi nào? Hãy chọn đáp án đúng nhất.",
+    "answer": "Được sử dụng định kỳ, xác định số thuế TNDN tạm nộp, cũng như cuối năm tài chính khi quyết toán"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Nhập kho NVL dùng cho HCSN, giá mua chưa thuế 2.000.000, thuế GTGT 200.000, chi phí vận chuyển 10.000, kế toán ghi nhận tăng TK 152 theo giá:",
+    "answer": "2.010.000"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Các đơn vị sau không được gọi là đơn vị dự toán:",
+    "answer": "Các doanh nghiệp nhà nước;"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Trên báo cáo quyết toán Mẫu 01/BCQT theo TT 107/2017/TT-BTC, nội dung “Nguồn ngân sách trong nước” không:",
+    "answer": "Nhà nước sẽ quyết toán toàn bộ phần dự toán giao cho đơn vị từ đầu năm"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Phương pháp tính Hao mòn với TSCĐ sử dụng cho HĐ hành chính là",
+    "answer": "Theo đường thẳng"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "TK 336-Phải trả nội bộ có kết cấu:",
+    "answer": "Phải trả nội bộ tăng bên Có"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Dùng tiền gửi ngân hàng thanh toán dịch vụ mua ngoài đã ghi nhận vào chi phí hoạt động từ kỳ trước, kế toán ghi",
+    "answer": "Nợ TK 331/ Có TK 112 và đồng thời Nợ TK 337/Có TK 511"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Tiền gửi Ngân hàng, kho bạc bao gồm những khoản tiền nào",
+    "answer": "Tiền gửi không kỳ hạn để thanh toán"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Tính hao mòn TSCĐ hình thành từ Quỹ Phát triển hoạt động sự nghiệp sử dụng cho HĐ hành chính, ghi :",
+    "answer": "Nợ TK 611/Có TK 214 và Nợ TK 43142/Có TK 4211"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "TK 337 dùng để phản ánh:",
+    "answer": "Các khoản tạm thu"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Thanh lý TSCĐ có gốc NSNN, phần GTCL được ghi nhận vào tài khoản:",
+    "answer": "TK 36611"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Khi nhận đóng góp, hỗ trợ từ các tổ chức bên ngoài, được phép bổ sung quỹ khen thưởng, kế toán ghi nhận:",
+    "answer": "Nợ TK111,112/Có TK4311"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Theo Luật kế toán số 88/2015/QH13 ngày 20/11/2015, Kỳ kế toán là khoảng thời gian yêu cầu phải lập BCTC, kỳ kế toán có thể theo:",
+    "answer": "Kỳ kế toán năm, quý, tháng"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Khoản chi hộ đơn vị có quan hệ độc lập được ghi nhận vào tài khoản nào:",
+    "answer": "Tài khoản 138 - Phải thu khác"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Xuất nguyên vật liệu dùng cho hoạt động viện trợ, kế toán ghi:",
+    "answer": "Nợ TK 612/Có TK 152"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Số chiết khấu thanh toán cho người mua do người mua thanh toán tiền mua hàng trước thời hạn quy định được trừ vào khoản nợ phải thu của khách hàng, ghi:",
+    "answer": "Nợ TK 615, Có TK 131"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Tài khoản được sử dụng để phản ánh chi phí liên quan đến hoạt động bán chứng khoán là:",
+    "answer": "TK 615"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Tài khoản được sử dụng để phản ánh các khoản chi cho hoạt động thu phí, lệ phí tại các cơ quan, đơn vị, tổ chức được phép thu phí, lệ phí theo quy định của pháp luật phí, lệ phí là:",
+    "answer": "TK 614"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Khi mua sắm TSCĐ phải thông qua lắp đặt, chạy thử, đơn vị tập hợp chi phí trên tài khoản nào",
+    "answer": "TK 241"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Giá trị nguyên vật liệu thiếu phát hiện khi kiểm kê, chưa xác định nguyên nhân, chờ xử lý, phải theo dõi như là:",
+    "answer": "Khoản phải thu khác"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Quy định đối với kế toán tiền như thế nào",
+    "answer": "A và C"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Phí chuyển tiền lương, tiền bảo hiểm của công chức, viên chức trong đơn vị HCSN được ghi nhận vào tài khoản là:",
+    "answer": "TK Chi phí hoạt động"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Khi mua sắm TSCĐ hữu hình, nguyên giá TSCĐ được ghi nhận trên tài khoản nào",
+    "answer": "TK 211"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Tài khoản được sử dụng để theo dõi doanh thu tại các đơn vị hành chính, sự nghiệp có tổ chức hoạt động sản xuất, kinh doanh, dịch vụ là:",
+    "answer": "TK 531"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Phần lãi do đánh giá lại tiền bằng ngoại tệ cuối kì được kế toán ghi:",
+    "answer": "Nợ TK1112,1122/Có TK413"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Khi xuất quỹ tiền mặt tạm ứng cho cán bộ, viên chức và người lao động trong đơn vị, ghi:",
+    "answer": "Nợ TK 141, Có TK 111"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Phần lãi do đánh giá lại tiền bằng ngoại tệ cuối kì được kế toán ghi:",
+    "answer": "Ghi bên Có TK413"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Trích khấu hao TSCĐ hình thành từ Quỹ Phát triển hoạt động sự nghiệp sử dụng cho HĐ kinh doanh, ghi :",
+    "answer": "Nợ TK 154/Có TK 214 và Nợ TK 43142/Có TK 43141"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Trường hợp tỉ giá chuyển khoản trung bình cuối kì lớn hơn tỉ giá ghi sổ, phần chênh lệch tỉ giá do đánh giá lại số dư khoản nợ thu khách hàng gốc ngoại tệ được ghi nhận:",
+    "answer": "Ghi bên Có TK413"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Khi nhận vốn góp kinh doanh của các tổ chức, cá nhân khác, kế toán ghi nhận:",
+    "answer": "Ghi Có TK411 đối ứng với Nợ TK tài sản tương ứng"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Số liệu lập báo cáo quyết toán thu, chi thuộc nguồn khác của đơn vị hành chính sự nghiệp được tính đến hết ngày:",
+    "answer": "31/12 hàng năm."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Đâu là đặc điểm của nguyên liệu vật liệu",
+    "answer": "Khi tham gia vào quá trình hoạt động sẽ bị thay đổi về hình thái vật chất"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Quỹ phúc lợi có thể được chi trợ cấp khó khăn cho:",
+    "answer": "Người lao động của đơn vị kể cả số đã nghỉ hưu, nghỉ mất sức"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "TK 332 có thể có số dư Nợ khi:",
+    "answer": "Số KPCĐ vượt chi chưa được cấp bù"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Nội dung nào không thuộc nguyên tắc quản lý tài chính công?",
+    "answer": "Công bằng"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Đơn vị dùng tiền từ rút tạm ứng dự toán chi hoạt động để chi trả cho các khoản chi hoạt động phát sinh, kế toán cần ghi thêm bút toán:",
+    "answer": "Nợ TK 337/Có TK 511"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Mua sắm TSCĐ dùng cho HĐ kinh doanh trị giá 44.000.000 chưa gồm thuế GTGT 10%, lệ phí trước bạ 8.800.000. Tỉ lệ hao mòn năm 10%. Mức khấu hao năm:",
+    "answer": "5.808.000"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Số dư đầu năm của TK 337 phản ánh:",
+    "answer": "Kinh phí hoạt động của năm trước đã nhận nhưng chưa chi hết."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Khi trích quỹ khen thưởng từ nguồn thặng dư các hoạt động trong năm theo quy định hiện hành, kế toán ghi nhận:",
+    "answer": "Nợ TK421/Có TK431"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Khoản nào sau đây không thuộc nhóm hàng tồn kho ở đơn vị hành chính sự nghiệp",
+    "answer": "Đầu tư tài chính"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Tài khoản được sử dụng để theo dõi các khoản chi phí chi cho bộ máy quản lý của hoạt động sản xuất, kinh doanh dịch vụ là:",
+    "answer": "TK 642"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Xuất NLVL từ nguồn viện trợ, vay nước ngoài ra sử dụng không hết nhập lại kho, kế toán ghi:",
+    "answer": "Nợ TK 152/ Có TK 612"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Khi nộp trả tiền cho nhà tài trợ do không thực hiện dự án, kế toán ghi:",
+    "answer": "Nợ TK 337/Có TK 112"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Ghi Có TK 3664 để ghi nhận các chi phí phát sinh cho TSCĐ hình thành từ XDCB khi:",
+    "answer": "Đang dở dang chưa hoàn thành"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Giá thực tế nguyên vật liệu xuất kho hiện nay không áp dụng phương pháp nào sau đây",
+    "answer": "Nhập sau xuất trước"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Đơn vị HCSN nói chung thì chủ yếu hoạt động bằng nguồn:",
+    "answer": "Nguồn kinh phí nhà nước cấp;"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Đơn vị hành chính, sự nghiệp nào phải lập Báo cáo quyết toán",
+    "answer": "Đơn vị HCSN có sử dụng kinh phí NSNN cấp và có các khoản thu, chi khác qui định phải quyết toán."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "TSCĐ nào dưới dây không được phân loại theo nguồn hình thành TSCĐ:",
+    "answer": "Tài sản cố định được tặng cho"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Bút toán Nợ TK 337/ Có TK 511 không được ghi nhận khi:",
+    "answer": "Rút tiền tạm ứng dự toán NSNN về nhập quỹ"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Đơn vị hành chính sự nghiệp nào có phát sinh sản phẩm nhập kho",
+    "answer": "Câu B và C"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Số liệu lập báo cáo quyết toán ngân sách nhà nước hàng năm là số liệu thu, chi thuộc năm ngân sách của đơn vị HCSN được tính đến hết ngày:",
+    "answer": "31/1 năm sau."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Khi phát sinh khoản nhận đặt cọc, ký quỹ, ký cược, kế toán ghi:",
+    "answer": "Có TK 348"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Khi lập báo cáo tài chính, các đơn vị hành chính sự nghiệp phải tuân thủ",
+    "answer": "Theo quy định trong TT 107/2017/TT-BTC"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "TK dùng để theo dõi các khoản phí phải nộp nhà nước là:",
+    "answer": "TK 3332"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Đơn vị HCSN nhận vốn tài trợ, biếu tặng nhỏ lẻ được tổng hợp số liệu báo cáo ở phần:",
+    "answer": "Nguồn ngân sách trong nước thuộc mục Ngân sách được giao trong năm"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Theo quy định của Luật Kế toán số 88/2015/QH13, Bộ Tài chính quy định chi tiết về tài khoản kế toán và hệ thống tài khoản kế toán áp dụng cho các đơn vị kế toán sau đây:",
+    "answer": "Đơn vị kế toán là doanh nghiệp;"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Khi nhận ngân sách bằng lệnh chi tiền thực chi, kế toán ghi nhận",
+    "answer": "Nợ TK 112/Có TK 337 và đồng thời ghi Nợ TK 012"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Theo hình thái biểu hiện, TSCĐ nào dưới đây không phải TSCĐ hữu hình",
+    "answer": "Quyền sở hữu công nghiệp"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Tài khoản được sử dụng để ghi nhận số thu do NSNN cấp cho các nhiệm vụ kể cả thường xuyên, và không thường xuyên là:",
+    "answer": "TK 511"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Trường hợp tỉ giá chuyển khoản trung bình cuối kì lớn hơn tỉ giá ghi sổ, phần chênh lệch tỉ giá do đánh giá lại số dư khoản nợ phải trả người bán gốc ngoại tệ được ghi nhận:",
+    "answer": "Ghi bên Nợ TK413"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Khi phát sinh phí điện nước mua ngoài dùng cho hoạt động thường xuyên bằng tiền gửi tại ngân hàng kho bạc, kế toán ghi:",
+    "answer": "Nợ TK 611/Có TK 112 và đồng thời Nợ TK 337/Có TK 511"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Chuyển TGKB thanh toán nợ cho nhà cung cấp, cuối kỳ vẫn chưa nhận được giấy báo Nợ từ kho bạc, kế toán phản ánh",
+    "answer": "Nợ TK 331/ Có TK 113"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Tài khoản 131 “Phải thu khách hàng”",
+    "answer": "Sử dụng tại đơn vị HCSN khi thanh lý vật tư, TSCĐ hoặc có hoạt động SXKD"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Nguyên giá TSCĐ sử dụng cho HĐ sự nghiệp, hình thành từ mua sắm gồm",
+    "answer": "Giá mua gồm thuế GTGT + Các khoản thuế không được hoàn + Chi phí trước sử dụng – Các khoản giảm giá."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Khi thanh toán dịch vụ mua ngoài dùng cho hoạt động viện trợ bằng tiền mặt, kế toán ghi:",
+    "answer": "Nợ TK 612/Có TK 111 và đồng thời Nợ TK 337/Có TK 512"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Cơ cấu tài chính công không bao gồm:",
+    "answer": "Quỹ dự phòng tài chính"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Theo chế độ tài khoản kế toán trong TT 107/2017/TT-BTC, thời điểm kết thúc năm:",
+    "answer": "Các tài khoản loại 0 – 4 có số dư;"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Mua sắm TSCĐ dùng cho HĐ kinh doanh trị giá 44.000.000 chưa gồm thuế GTGT 10%, lệ phí trước bạ 8.800.000. Nguyên giá TSCĐ :",
+    "answer": "52.800.000"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "NLVL xuất dùng nhưng sử dụng không hết nhập lại kho, phản ánh theo giá trị",
+    "answer": "Giá xuất kho"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Khi trích quỹ khen thưởng từ nguồn NSNN cấp theo quy định hiện hành, kế toán ghi nhận:",
+    "answer": "Nợ TK611/Có TK4311"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Nhập kho nguyên vật liệu do vay mượn của đơn vị khác",
+    "answer": "Nợ TK 152/ Có TK 3338"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Nhập kho nguyên vật liệu do được viện trợ không hoàn lại, ghi",
+    "answer": "Nợ TK 152/ Có TK 36622"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Phần lãi do đánh giá lại tiền bằng ngoại tệ cuối kì được kế toán ghi:",
+    "answer": "Ghi bên Có TK413"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Số chiết khấu thanh toán cho người mua do người mua thanh toán tiền mua hàng trước thời hạn quy định được trừ vào khoản nợ phải thu của khách hàng, ghi:",
+    "answer": "Nợ TK 615, Có TK 131"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Dùng tiền gửi ngân hàng thanh toán dịch vụ mua ngoài đã ghi nhận vào chi phí hoạt động từ kỳ trước, kế toán ghi",
+    "answer": "Nợ TK 331/ Có TK 112 và đồng thời Nợ TK 337/Có TK 511"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Khi chi trả hộ bằng tiền mặt cho đơn vị nội bộ về tiền điện sử dụng 3.300 (trong đó có 10% thuế GTGT). Kế toán ghi (đơn vị 1.000đ):",
+    "answer": "Nợ TK 136/ Có TK 111: 3.300"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Đơn vị hành chính sự nghiệp nào có phát sinh sản phẩm nhập kho",
+    "answer": "Câu B và C"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Ghi Có TK 3664 để ghi nhận các chi phí phát sinh cho TSCĐ hình thành từ XDCB khi:",
+    "answer": "Đang dở dang chưa hoàn thành"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "TSCĐ nào sau đây phải tính hao mòn:",
+    "answer": "TSCĐ hình thành từ Quỹ phát triển hoạt động sự nghiệp sử dụng cho hoạt HĐ hành chính"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Nội dung nào không thuộc vai trò của ngân sách nhà nước?",
+    "answer": "Ổn định kinh tế vĩ mô"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Tài khoản được sử dụng để theo dõi doanh thu tại các đơn vị hành chính, sự nghiệp có tổ chức hoạt động sản xuất, kinh doanh, dịch vụ là:",
+    "answer": "TK 531"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Khoản nào sau đây không được ghi nhận trên tài khoản 137 - Tạm chi",
+    "answer": "Khoản tạm chi hộ cho đơn vị cấp dưới"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Phần lãi do đánh giá lại tiền bằng ngoại tệ cuối kì được kế toán ghi:",
+    "answer": "Nợ TK1112,1122/Có TK413"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Việc chi phúc lợi cho người lao động trong đơn vị thuộc thẩm quyền của",
+    "answer": "Thủ trưởng đơn vị"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Nghiệp vụ “Chi tiền mặt mua văn phòng phẩm sử dụng ngay cho kinh doanh” sẽ hạch toán như thế nào?",
+    "answer": "Nợ TK 642/ Có TK 111"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Số dư đầu năm của TK 337 phản ánh:",
+    "answer": "Kinh phí hoạt động của năm trước đã nhận nhưng chưa chi hết."
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Nguồn vốn kinh doanh của đơn vị HCSN có thể được bổ sung từ",
+    "answer": "Chênh lệch thu, chi hoạt động sản xuất kinh doanh, dịch vụ"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Nguồn vốn kinh doanh có thể hình thành",
+    "answer": "Tại các đơn vị sự nghiệp có tổ chức kinh doanh và hình thành nguồn vốn KD riêng"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Xuất NLVL sử dụng cho hoạt động xây dựng cơ bản của đơn vị, kế toán ghi:",
+    "answer": "Nợ TK 241/ Có TK 152"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Số dư kinh phí ngân sách nhà nước cấp cho hoạt động sự nghiệp năm trước chuyển sang được xác định từ Số dư đầu năm của tài khoản:",
+    "answer": "Số dư TK 008."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Giá trị thành phầm phát hiện thừa khi kiểm kê được ghi nhận vào:",
+    "answer": "Bên Nợ TK 155"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Chi phí thu mua phát sinh khi nguyên liệu vật liệu dùng cho hoạt động thường xuyên trong đơn vị HCSN được tính vào?",
+    "answer": "Ghi tăng chi phí hoạt động thường xuyên"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Xác định Kết quả của tất cả các hoạt động hành chính sự nghiệp trong kỳ kế toán bao gồm:",
+    "answer": "Kết quả hoạt động do NSNN cấp; kết quả hoạt động viện trợ, vay nợ nước ngoài; kết quả hoạt động thu phí, lệ phí"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Xuất kho hàng hoá để bán, kế toán ghi",
+    "answer": "Nợ TK 632/ Có TK 156"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Nguyên giá TSCĐ sử dụng cho HĐ sự nghiệp, hình thành từ mua sắm gồm",
+    "answer": "Giá mua gồm thuế GTGT + Các khoản thuế không được hoàn + Chi phí trước sử dụng – Các khoản giảm giá."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Ghi đơn bên Có TK 008 khi",
+    "answer": "Rút tạm ứng dự toán chi hoạt động"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Cơ cấu tài chính công không bao gồm:",
+    "answer": "Quỹ dự phòng tài chính"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Trên báo cáo quyết toán Mẫu 01/BCQT theo TT 107/2017/TT-BTC, nội dung “Nguồn ngân sách trong nước” không:",
+    "answer": "Nhà nước sẽ quyết toán toàn bộ phần dự toán giao cho đơn vị từ đầu năm"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Đơn vị có một lượng ngoại tệ gửi tại nhiều ngân hàng, TK 007 được chia chi tiết theo",
+    "answer": "Cả A và B đều đúng"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Chế độ kế toán HCSN theo TT 107/2017/TT-BTC áp dụng cho các đơn vị, trừ:",
+    "answer": "Các doanh nghiệp nhà nước;"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Mua sắm TSCĐ dùng cho HĐ kinh doanh trị giá 44.000.000 chưa gồm thuế GTGT 10%, lệ phí trước bạ 8.800.000. Nguyên giá TSCĐ :",
+    "answer": "52.800.000"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Cuối năm, TCSĐ đầu tư tư nguồn viện trợ, vay nợ nước ngoài dùng cho các hoạt động dự án, khi ghi nhận hao mòn, đồng thời kết chuyển thu:",
+    "answer": "Nợ TK 36621/Có TK 512"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Mua sắm TSCĐ dùng cho HĐ dự án trị giá 44.000.000 chưa gồm thuế GTGT 10%, lệ phí trước bạ 8.800.000. Tỉ lệ hao mòn năm 10%. Mức hao mòn năm:",
+    "answer": "5.720.000"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Tài khoản 004 :Kinh phí viện trợ không hoàn lại, được ghi Có trong trường hợp",
+    "answer": "Căn cứ thông báo của cơ quan chủ quản về việc thanh toán các khoản đã tạm ứng (hoàn tạm ứng)"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Khi mua sắm TSCĐ hữu hình, nguyên giá TSCĐ được ghi nhận trên tài khoản nào",
+    "answer": "TK 211"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Báo cáo kết quả hoạt động (Mẫu B02/BCTC theo TT 107/TT-BTC):",
+    "answer": "Cả 3 đáp án trên"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Nguồn vốn kinh doanh của đơn vị HCSN có thể được hình thành từ",
+    "answer": "Nhận vốn góp của các tổ chức, cá nhân bên ngoài đơn vị"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Khi đơn vị thu hộ đơn vị nội bộ một khoản bằng tiền mặt, ghi:",
+    "answer": "Nợ TK 111/Có TK 336"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Phí chuyển tiền lương, tiền bảo hiểm của công chức, viên chức trong đơn vị HCSN được ghi nhận vào tài khoản là:",
+    "answer": "TK Chi phí hoạt động"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Thanh toán tiền cho dịch vụ mua ngoài dùng cho hoạt động thu phí bằng tiền mặt lấy từ nguồn thu phí được để lại, kế toán ghi:",
+    "answer": "Nợ TK 614/Có TK 111 và Nợ TK 337/Có TK 514 và ghi Có TK 014"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Đối với phần phí, lệ phí đơn vị khi thu được để lại sẽ ghi:",
+    "answer": "Nợ TK 014"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Bút toán Nợ TK 337/ Có TK 511 không được ghi nhận khi:",
+    "answer": "Rút tiền tạm ứng dự toán NSNN về nhập quỹ"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Theo hình thái biểu hiện, TSCĐ nào dưới đây không phải TSCĐ hữu hình",
+    "answer": "Quyền sở hữu công nghiệp"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Theo Luật kế toán số 88/2015/QH13 ngày 20/11/2015, cơ quan nào sau đây chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về kế toán",
+    "answer": "Bộ tài chính"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Kế toán đơn vị HCSN thực hiện theo nguyên tắc:",
+    "answer": "Cơ sở dồn tích có điều chỉnh;"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Đơn vị sau không được gọi là đơn vị sự nghiệp:",
+    "answer": "Trường Đại học dân lập Thành Đô;"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Khoản nào sau đây không thuộc mối quan hệ phải thu trong đơn vị HCSN",
+    "answer": "Khoản thu hộ cho đơn vị cấp trên"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Số liệu lập báo cáo quyết toán là số thu, chi thuộc nguồn khác của đơn vị HCSN được tính đến hết ngày:",
+    "answer": "31/12 hàng năm."
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Tất cả các hoạt động cần xác định kết quả tại đơn vị HCSN theo quy định của chính sách tài chính hiện hành bao gồm:",
+    "answer": "Kết quả của hoạt động hành chính sự nghiệp, hoạt động SXKD, hoạt động tài chính, hoạt động khác"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Nợ phải trả người bán tổng hợp trên báo cáo tình hình tài chính là 500, ứng trước cho người bán là 200. Vậy số dư Tài khoản 331 là:",
+    "answer": "Bên Nợ 200 và Bên Có 500"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Phần lỗ do đánh giá lại tiền bằng ngoại tệ cuối kì được kế toán ghi:",
+    "answer": "Nợ TK413/Có TK 1112,1122"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Khoản chi hộ đơn vị có quan hệ độc lập được ghi nhận vào tài khoản nào:",
+    "answer": "Tài khoản 138 - Phải thu khác"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Xuất nguyên vật liệu dùng cho hoạt động viện trợ, kế toán ghi:",
+    "answer": "Nợ TK 612/Có TK 152"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Đến ngày 31/12/N, thu khác được để lại trong năm là 500.000.000đ. Ngày 15/1/N+1, thu khác được bổ sung 20.000.000đ. Thu khác được để lại đề nghị quyết toán là:",
+    "answer": "480.000.000đ"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Quỹ phúc lợi có thể được chi trợ cấp khó khăn cho:",
+    "answer": "Người lao động của đơn vị kể cả số đã nghỉ hưu, nghỉ mất sức"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Trích khấu hao TSCĐ hình thành từ Quỹ Phát triển hoạt động sự nghiệp sử dụng cho HĐ kinh doanh, ghi :",
+    "answer": "Nợ TK 154/Có TK 214 và Nợ TK 43142/Có TK 43141"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Tài khoản được sử dụng để phản ánh chi phí liên quan đến hoạt động bán chứng khoán là:",
+    "answer": "TK 615"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Theo quy định của Luật Kế toán số 88/2015/QH13, tài khoản kế toán dùng để",
+    "answer": "Phân loại và hệ thống hóa các nghiệp vụ kinh tế tài chính theo nội dung kinh tế"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Kiểm kê CCDC trong kho, phát hiện số lượng CCDC thực tế trong kho khác với số lượng CCDC trên sổ kế toán, kế toán tiền hành điều chỉnh số lượng trên sổ cho phù hợp với số lượng thực tế kiểm kê?",
+    "answer": "Sai"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Đơn vị hành chính, khi rút dự toán thanh toán phần tiền lương của viên chức, kế toán ghi:",
+    "answer": "Nợ TK 334/Có TK 511 và ghi Có TK 008"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Tài sản nào dưới đây không được ghi nhận là TSCĐ",
+    "answer": "Máy ghi âm có giá trị 3 triệu và thời gian sử dụng 5 năm"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Theo quy định của Luật Kế toán số 88/2015/QH13, Bộ Tài chính quy định chi tiết về tài khoản kế toán và hệ thống tài khoản kế toán áp dụng cho các đơn vị kế toán sau đây:",
+    "answer": "Đơn vị kế toán là doanh nghiệp;"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Khi nhận đóng góp, hỗ trợ từ các tổ chức bên ngoài, được phép bổ sung quỹ khen thưởng, kế toán ghi nhận:",
+    "answer": "Nợ TK111,112/Có TK4311"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Tài khoản 131 “Phải thu khách hàng”",
+    "answer": "Sử dụng tại đơn vị HCSN khi thanh lý vật tư, TSCĐ hoặc có hoạt động SXKD"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "TK 511-Thu hoạt động do NSNN cấp các tài khoản chi tiết nào?",
+    "answer": "TK 5111- Thu thường xuyên, TK 5112-Thu không thường xuyên, TK 5118-Thu hoạt động khác"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Khi thanh lý TSCĐ hình thành từ nguốn NSNN cấp, phần chênh lệch thu chi HĐ thanh lý phải nộp lại NSNN, ghi vào TK :",
+    "answer": "TK 3378"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Chính phủ Việt Nam hướng tới xây dựng “mô hình tổng kế toán công” trong đó:",
+    "answer": "mục đích là lập báo cáo tài chính tại địa phương và báo cáo hợp nhất toàn quốc;"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Cặp tài khoản sử dụng để kế toán các khoản thu, chi của hoạt động thường xuyên, hoạt động dự án, hoạt động tài chính trong đơn vị HCSN lần lượt là:",
+    "answer": "Tài khoản 511 và 611; 512 và 612; 515 và 615"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Nhập kho NVL dùng cho HCSN, giá mua chưa thuế 2.000.000, thuế GTGT 200.000, chi phí vận chuyển 10.000, kế toán ghi nhận tăng TK 152 theo giá:",
+    "answer": "2.010.000"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Tài khoản được sử dụng để theo dõi các khoản phí thu được từ các hoạt động dịch vụ do cơ quan nhà nước thực hiện hoặc số phí thu được từ các hoạt động dịch vụ do đơn vị sự nghiệp công lập thực hiện mà đơn vị được khấu trừ hoặc để lại là:",
+    "answer": "TK 514"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Khi mua NVL nhập kho dùng cho hoạt động thường xuyên bằng tiền rút tạm ứng dự toán kinh phí hoạt động, ngoài bút toán:\nNợ TK 152\nCó TK 111\nKế toán còn phải ghi thêm bút toán:",
+    "answer": "Nợ TK 337/Có TK 36612"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Khi nhập khẩu hàng hoá, số thuế nhập khẩu sẽ được phản ánh vào",
+    "answer": "Bên Có TK 3337"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Các đơn vị dự toán cấp 2 không thuộc trường hợp sau:",
+    "answer": "được UBND cấp huyện giao dự toán;"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Tài khoản cấp 2 được sử dụng để xác định kết quả hoạt động sản xuất kinh doanh là:",
+    "answer": "TK 9112"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Tài khoản 337 có số dư bên Có là 900, số liệu này sẽ được trình bày trên",
+    "answer": "Mục Tạm thu thuộc Nợ phải trả"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Trên báo cáo quyết toán Mẫu 01/BCQT theo TT 107/2017/TT-BTC, nội dung “Nguồn phí được khấu trừ để lại”",
+    "answer": "Phản ánh số quyết toán từ nguồn phí được khấu trừ, để lại cho đơn vị theo quy định"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Khi đơn vị HCSN được phép tạm chi bổ sung thu nhập cho người lao động trong đơn vị, phản ánh số phải trả người lao động, ghi:",
+    "answer": "Nợ TK 137, Có TK 334"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Ghi nhận vào tài khoản 511 trong trường hợp nào sau đây:",
+    "answer": "Rút dự toán thanh toán dịch vụ điện nước sử dụng cho hoạt động sự nghiệp."
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Xuất NLVL từ nguồn kinh phí được khấu trừ, để lại sử dụng ghi:",
+    "answer": "Nợ TK 614/ Có TK 152"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "TK 332 có thể có số dư Nợ khi:",
+    "answer": "Số KPCĐ vượt chi chưa được cấp bù"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Đơn vị HCSN nói chung thì chủ yếu hoạt động bằng nguồn:",
+    "answer": "Nguồn kinh phí nhà nước cấp;"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Khi trích quỹ khen thưởng từ nguồn thặng dư các hoạt động trong năm theo quy định hiện hành, kế toán ghi nhận:",
+    "answer": "Nợ TK421/Có TK431"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Quy định đối với kế toán tiền như thế nào",
+    "answer": "A và C"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Khi mua sắm TSCĐ phải thông qua lắp đặt, chạy thử, đơn vị tập hợp chi phí trên tài khoản nào",
+    "answer": "TK 241"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Đơn vị dùng tiền nhận được từ viện trợ, vay nợ nước ngoài động để chi trả cho các khoản chi dự án phát sinh, kế toán cần ghi thêm bút toán:",
+    "answer": "Nợ TK 337/Có TK 512"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Tiền lương phải trả cho viên chức phục vụ cho hoạt động thu phí, ghi:",
+    "answer": "Nợ TK 614/Có TK 334"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Quỹ dự phòng ổn định thu nhập dùng để",
+    "answer": "Chi đảm bảo thu nhập cho người lao động trong trường hợp nguồn thu bị giảm sút"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Chế độ kế toán HCSN theo TT 107/2017/TT-BTC gồm các nội dung trừ:",
+    "answer": "Hệ thống báo cáo thuế;"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Số dư kinh phí thuộc nguồn viện trợ đã được ghi thu, ghi chi, ghi tạm ứng nhưng chưa thanh toán với KBNN được chuyển sang năm nay, căn cứ vào:",
+    "answer": "Số dư TK 004."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Chuyển TGKB thanh toán nợ cho nhà cung cấp, cuối kỳ vẫn chưa nhận được giấy báo Nợ từ kho bạc, kế toán phản ánh",
+    "answer": "Nợ TK 331/ Có TK 113"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Tiếp nhận kinh phí HĐ bằng TSCĐ, đơn vị hạch toán như sau :",
+    "answer": "Nợ TK 211/ Có TK 214, Có TK 3661"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Nội dung nào không thuộc nguyên tắc quản lý tài chính công?",
+    "answer": "Công bằng"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "TK 337 dùng để phản ánh:",
+    "answer": "Các khoản tạm thu"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Giá trị nguyên vật liệu thiếu phát hiện khi kiểm kê, chưa xác định nguyên nhân, chờ xử lý, phải theo dõi như là:",
+    "answer": "Khoản phải thu khác"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Thanh toán tiền điện, nước bằng tiền gửi ngân hàng, sử dụng cho hoạt động quản lý kinh doanh tại đơn vị sự nghiệp, kế toán ghi:",
+    "answer": "Nợ TK 642/Có TK 112"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Các đơn vị sau không được gọi là đơn vị dự toán:",
+    "answer": "Các doanh nghiệp nhà nước;"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Theo chế độ tài khoản kế toán trong TT 107/2017/TT-BTC, thời điểm kết thúc năm:",
+    "answer": "Các tài khoản loại 0 – 4 có số dư;"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Thanh lý TSCĐ hình thành bằng Quỹ phúc lợi, phần GTCL được ghi nhận vào tài khoản:",
+    "answer": "TK 43122"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Giá thực tế của hàng hoá xuất kho được tính theo phương pháp nào",
+    "answer": "Nhập trước xuất trước"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Thu tiền bệnh nhân ứng tiền trước khi sử dụng các dịch vụ khám, chữa bệnh tại bệnh viện… bằng tiền mặt ghi",
+    "answer": "Nợ TK 111/ Có TK 131"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Các khoản thu chính trong đơn vị sự nghiệp thuần tuý bao gồm:",
+    "answer": "Thu hoạt động do NSNN cấp, thu từ nguồn viện trợ và thu từ số phí được khấu trừ để lại"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Khi thanh toán dịch vụ mua ngoài dùng cho hoạt động viện trợ bằng tiền mặt, kế toán ghi:",
+    "answer": "Nợ TK 612/Có TK 111 và đồng thời Nợ TK 337/Có TK 512"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Khi nhập khẩu TSCĐ dùng cho hoạt SXKD, dịch vụ được khấu trừ thuế GTGT, đơn vị phản ánh Thuế GTGT của TSCĐ nhập khẩu phải nộp được khấu trừ",
+    "answer": "Nợ TK 133/Có TK 3337"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Mua sắm TSCĐ dùng cho HĐ kinh doanh trị giá 44.000.000 chưa gồm thuế GTGT 10%, lệ phí trước bạ 8.800.000. Tỉ lệ hao mòn năm 10%. Mức khấu hao năm:",
+    "answer": "5.808.000"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "TK dùng để theo dõi các khoản phí phải nộp nhà nước là:",
+    "answer": "TK 3332"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Thanh lý TSCĐ có gốc NSNN, phần GTCL được ghi nhận vào tài khoản:",
+    "answer": "TK 36611"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "TSCĐ nào được ghi nhận là TSCĐ vô hình",
+    "answer": "Phần mềm Office 365"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Theo quy định hiện hành, tiêu chuẩn chung ghi nhận TSCĐ trong đơn vị HCSN",
+    "answer": "Giá trị từ 10 triệu trở lên và thời gian sử dụng từ 1 năm trở lên trừ một số TSCĐ đặc biệt."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Các đơn vị dự toán cấp 3 không thuộc trường hợp sau",
+    "answer": "được đơn vị dự toán cấp 1 trực tiếp giao dự toán;"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Trường hợp tỉ giá chuyển khoản trung bình cuối kì lớn hơn tỉ giá ghi sổ, phần chênh lệch tỉ giá do đánh giá lại số dư khoản nợ phải trả người bán gốc ngoại tệ được ghi nhận:",
+    "answer": "Ghi bên Nợ TK413"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Thuyết minh báo cáo quyết toán",
+    "answer": "Nhằm giải thích và bổ sung thông tin về tình hình thực hiện các nhiệm vụ cơ bản của đơn vị, tình hình chấp hành các kỷ luật tài chính về thu chi NSNN trong kỳ báo cáo"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Tiền gửi Ngân hàng, kho bạc bao gồm những khoản tiền nào",
+    "answer": "Tiền gửi không kỳ hạn để thanh toán"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Đơn vị hành chính, cuối kỳ khi xác định phần tiền công, tiền lương… phải trả cho viên chức, kế toán ghi:",
+    "answer": "Nợ TK 611/Có Tk 334"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Khi nhập khẩu TSCĐ dùng cho hoạt SXKD, dịch vụ không được khấu trừ thuế GTGT, đơn vị phản ánh Thuế GTGT của TSCĐ nhập khẩu phải nộp được khấu trừ",
+    "answer": "Nợ TK 211/Có TK 33312"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Rút dự toán chi hoạt động về nhập quỹ tiền mặt, kế toán ghi",
+    "answer": "Nợ TK 111/ Có TK 3371;"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Số dư bên Nợ tài khoản 137 - Tạm chi phản ánh:",
+    "answer": "Số đã tạm chi nhưng chưa được giao dự toán chính thức"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Những TSCĐ phải trích khấu hao, trừ:",
+    "answer": "TSCĐ hình thành từ Quỹ phát triển hoạt động sự nghiệp sử dụng cho HĐ hành chính"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Chuyển khoản mua TSCĐ từ nguồn phí được khấu trừ, để lại, đơn vị hạch toán như sau :",
+    "answer": "Nợ TK 211/Có TK 112 ; Nợ TK 3373/Có TK 3663 và Ghi có TK 014"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Khi lập báo cáo tài chính, các đơn vị hành chính sự nghiệp phải tuân thủ",
+    "answer": "Theo quy định trong TT 107/2017/TT-BTC"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Chi phí thu mua phát sinh khi nguyên liệu vật liệu dùng cho hoạt động thường xuyên trong đơn vị HCSN được tính vào?",
+    "answer": "Ghi tăng chi phí hoạt động thường xuyên"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Hao mòn TSCĐ được tính theo nguyên tắc",
+    "answer": "Tròn năm"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Những TSCĐ phải tính hao mòn, trừ:",
+    "answer": "TSCĐ hình thành từ nguồn phí được khấu trừ, để lại sử dụng cho HĐ thu phí"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Khi xuất kho NVL dùng cho hoạt động thường xuyên, ngoài bút toán ghi nhận chi phí, kế toán sẽ ghi nhận thêm bút toán kết chuyển thu tương ứng vào thời điểm:",
+    "answer": "Cuối năm"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Theo thông tư 107/2017/TT-BTC, Báo cáo nào trong các BCTC sau không sử dụng trong đơn vị Hành Chính Sự Nghiệp?",
+    "answer": "Bảng tính nháp"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Khoản nào sau đây không thuộc nhóm hàng tồn kho ở đơn vị hành chính sự nghiệp",
+    "answer": "Đầu tư tài chính"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "TK 331-Phải trả người bán có kết cấu:",
+    "answer": "Số dư bên Nợ và bên Có"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Theo quy định của Luật Kế toán số 88/2015/QH13, hệ thống tài khoản kế toán được xây dựng:",
+    "answer": "Các đơn vị phải tuyệt đối tuân thủ hệ thống tài khoản ban hành bởi Bộ tài chính, không bổ sung chỉnh sửa"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Phần phí, lệ phí đơn vị phải nộp lại ngân sách ghi:",
+    "answer": "Nợ TK 337/Có TK 3332"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Cho vay tạm thời một khoản tiền 25.000 bằng tiền mặt",
+    "answer": "Nợ TK 138/Có TK 111: 25.000"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Trách nhiệm lập, nộp báo cáo quyết toán thuộc:",
+    "answer": "Đơn vị HCSN; Kho bac; và Cơ quan tài chính"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Báo cáo lưu chuyển tiền tệ",
+    "answer": "Mô tả 3 dòng tiền từ hoạt động chính, dòng tiền từ hoạt động đầu tư và dòng tiền từ hoạt động tài chính"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Khi chi trực tiếp bằng tiền mặt cho các hoạt động khen thưởng, phúc lợi, kế toán ghi:",
+    "answer": "Nợ TK431/Có TK111"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Tài khoản cấp 2 được sử dụng để xác định kết quả hoạt động hành chính sự nghiệp là:",
+    "answer": "TK 9111"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Đơn vị dùng tiền từ rút tạm ứng dự toán chi hoạt động để chi trả cho các khoản chi hoạt động phát sinh, kế toán cần ghi thêm bút toán:",
+    "answer": "Nợ TK 337/Có TK 511"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Khi nhận ngân sách bằng lệnh chi tiền thực chi, kế toán ghi nhận",
+    "answer": "Nợ TK 112/Có TK 337 và đồng thời ghi Nợ TK 012"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Khi phát sinh chi phí đã chi bằng tiền gửi ngân hàng, nhưng chưa xác định được đối tượng sử dụng, kế toán ghi:",
+    "answer": "Nợ TK 652/Có TK 112"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "TSCĐ nào sau đây phải trích khấu hao:",
+    "answer": "TSCĐ hình thành từ nguồn phí được khấu trừ để lại, sử dụng cho HĐ thu phí"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Nhập kho sản phẩm từ các hoạt động chuyên môn, nghiên cứu, chế thử, kế toán ghi",
+    "answer": "Nợ TK 155/ Có TK 611"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Nợ TK 612- Chi phí từ nguồn viện trợ, vay nợ nước ngoài (6121)\nCó TK 332- Các khoản phải nộp theo lương.\nKhi chuyển tiền cho cơ quan BHXH, công đoàn, ghi:\nNợ TK 332- Các khoản phải nộp theo lương\nCó TK 111, 112.\nĐồng thời, ghi: Nợ TK 337- Tạm thu (3372)\nCó TK 512- Thu viện trợ, vay nợ nước ngoài.",
+    "answer": "Nợ TK 332/ Có TK 111, 112.\nĐồng thời, ghi:\nNợ TK 337/Có TK 512"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Giá thực tế nguyên vật liệu xuất kho hiện nay không áp dụng phương pháp nào sau đây",
+    "answer": "Nhập sau xuất trước"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "TK 336-Phải trả nội bộ có kết cấu:",
+    "answer": "Phải trả nội bộ tăng bên Có"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Ghi nhận vào tài khoản 511 trong trường hợp:",
+    "answer": "Rút dự toán thanh toán lương cho cán bộ quản lỹ xã"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Đơn vị HCSN đơn thuần không đảm nhận các hoạt động liên quan tới:",
+    "answer": "Sản xuất, kinh doanh."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Giá trị NVL, CCDC mua bằng nguồn NSNN đã xuất sử dụng trong năm, cuối năm kết chuyển phần kinh phí đã nhận trước chưa ghi thu thành:",
+    "answer": "Khoản thu tương ứng"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Mua sắm TSCĐ dùng cho HĐ HCSN trị giá 44.000.000 chưa gồm thuế GTGT 10%, lệ phí trước bạ 8.800.000. Nguyên giá TSCĐ:",
+    "answer": "57.200.000"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Chế độ chứng từ kế toán trong Thông tư 107/2017/TT-BTC:",
+    "answer": "4 chứng từ liên quan tới tiền là bắt buộc;"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Khi phát sinh phí điện nước mua ngoài dùng cho hoạt động thường xuyên bằng tiền gửi tại ngân hàng kho bạc, kế toán ghi:",
+    "answer": "Nợ TK 611/Có TK 112 và đồng thời Nợ TK 337/Có TK 511"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Đơn vị sự nghiệp công lập gồm có?",
+    "answer": "Trường Đại học Kinh tế Quốc dân;"
+  }
+]

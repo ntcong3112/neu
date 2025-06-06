@@ -1,4 +1,13 @@
-import { IconButton, Box, AppBar, useMediaQuery, Toolbar, styled, Stack } from '@mui/material';
+import {
+  IconButton,
+  Box,
+  AppBar,
+  useMediaQuery,
+  Toolbar,
+  styled,
+  Stack,
+  Typography,
+} from '@mui/material';
 
 import { useSelector, useDispatch } from 'src/store/Store';
 import { toggleSidebar, toggleMobileSidebar } from 'src/store/customizer/CustomizerSlice';
@@ -45,13 +54,13 @@ const Header = () => {
           aria-label="menu"
           onClick={lgUp ? () => dispatch(toggleSidebar()) : () => dispatch(toggleMobileSidebar())}
         >
-          <IconMenu2 size="20" />
+          <IconMenu2 size="20" />{' '}
         </IconButton>
 
         {/* ------------------------------------------- */}
         {/* Search Dropdown */}
         {/* ------------------------------------------- */}
-        <Search />
+        {/* <Search /> */}
         {lgUp ? (
           <>
             <Navigation />
@@ -60,11 +69,11 @@ const Header = () => {
 
         <Box flexGrow={1} />
         <Stack spacing={1} direction="row" alignItems="center">
-          <Language />
+          {/* <Language /> */}
           {/* ------------------------------------------- */}
           {/* Ecommerce Dropdown */}
           {/* ------------------------------------------- */}
-          <Cart />
+          {/* <Cart /> */}
           {/* ------------------------------------------- */}
           {/* End Ecommerce Dropdown */}
           {/* ------------------------------------------- */}
@@ -72,8 +81,8 @@ const Header = () => {
           {/* ------------------------------------------- */}
           {/* Toggle Right Sidebar for mobile */}
           {/* ------------------------------------------- */}
-          {lgDown ? <MobileRightSidebar /> : null}
-          <Profile />
+          {/* {lgDown ? <MobileRightSidebar /> : null} */}
+          {/* <Profile /> */}
         </Stack>
       </ToolbarStyled>
     </AppBarStyled>

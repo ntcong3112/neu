@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.015::Giao dịch vãng lai là: nan",
+    "answer": ": giao dịch giữa người cư trú và người không cư trú không vì mục đích chuyển vốn"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.001::Hoạt động thanh tra và giám sát ngân hàng do: nan",
+    "answer": ": Ngân hàng Trung ương thực hiện"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.013::Thu hồi tiền đối với: nan",
+    "answer": ": Tiền không đủ tiêu chuẩn lưu thông theo quy định của Ngân hàng Trung ương"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.020::Ngân hàng Trung ương thực hiện hoạt động phát hành tiền theo: nan",
+    "answer": ": Theo yêu cầu phát triển kinh tế của mỗi quốc gia"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.020::Ngân hàng Trung ương thay mặt Chính phủ thực hiện quản lý hoạt động của: nan",
+    "answer": ": Ngân hàng thương mại"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.010::Thanh tra tại chỗ có thể thực hiện: nan",
+    "answer": ": Định kỳ và đột xuất"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.011::Thị trường ngoại hối thực hiện: nan",
+    "answer": ": 24h/24h trong ngày"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.007::Ngoại hối là: nan",
+    "answer": ": Là tiền và các phương tiện sử dụng trong giao dịch quốc tế"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.018::Hoạt động đình chỉ tiền lưu hành, thu hổi và tiêu hủy tiền không đủ tiêu chuẩn theo nguyên tắc nan",
+    "answer": ": Quản lý tập trung"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.007::Ngân hàng Trung ương trực thuộc Chính phủ, chịu sự chi phối trực tiếp của Chính phủ trong các quyết định: nan",
+    "answer": ": Xây dựng và thực thi chính sách tiền tệ"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.004::Vai trò của thị trường mở: nan",
+    "answer": ": Hỗ trợ Ngân hàng Trung ương điều tiết lãi suất thị trường"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.028::Chế độ tỷ giá thả nổi là: nan",
+    "answer": ": Tỷ giá thay đổi hoàn toàn theo thị trường"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.019::Ưu điểm của chính sách chiết khấu trong quá trình thực thi chính sách tiền tệ: nan",
+    "answer": ": Giúp Ngân hàng Trung ương thực hiện vai trò là người cho vay cuối cùng trong nền kinh tế"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.003::Hoạt động giám sát ngân hàng của Ngân hàng Trung ương là hoạt động thu thập, tổng hợp phân tích thông tin về đối tượng giám sát ngân hàng thông qua hệ thống thông tin, báo cáo nhằm: nan",
+    "answer": ": Phòng ngừa, phát hiện, ngăn chặn và xử lý kịp thời rủi ro gây mất an toàn hoạt động ngân hàng"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.027::Công cụ linh hoạt nhất của chính sách tiền tệ: nan",
+    "answer": ": Nghiệp vụ thị trường mở"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.004::Chính sách tiền tệ được thực hiện bởi: nan",
+    "answer": ": Ngân hàng Trung ương"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.025::Trong trường hợp chiết khấu và tái chiết khấu giấy tờ có giá có kỳ hạn: nan",
+    "answer": ": Thời hạn của giấy tờ có giá phải dài hơn thời hạn Ngân hàng Trung ương thực hiện chiết khấu, tái chiết khấu giấy tờ có giá"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.011::Ngân hàng Trung ương thay mặt Chính phủ thực hiện quản lý hoạt động của: nan",
+    "answer": ": Hệ thống ngân hàng về mặt pháp luật"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.019::Ngân hàng Trung ương thực hiện thanh toán bù trừ cho: nan",
+    "answer": ": Các ngân hàng thương mại"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.016::Bảo lãnh vay vốn nước ngoài của Ngân hàng Trung ương là: nan",
+    "answer": ": Cam kết bằng văn bản của Ngân hàng Trung ương đối với các bên có quyền ở nước ngoài để bảo lãnh cho các ngân hàng thương mại trong nước được vay vốn ở nước ngoài"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.015::Nguyên tắc 23-25 hoạt động thanh tra ngân hàng xuyên quốc gia quy định: nan",
+    "answer": ": Các ngân hàng nước ngoài phải hoạt động theo tiêu chuẩn như đối với các ngân hàng trong nước"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.031::Giao dịch có hoàn lại được sử dụng chủ yếu vì lý do: nan",
+    "answer": ": Giảm biến động của thị trường trước những các quyết định hàng ngày của Ngân hàng Trung ương"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.015::Tính khối lượng trúng thầu của NHTM A biết NHNN thông báo bán khối lượng GTCG là 1.000 tỷ VND, lãi suất 9%/năm. Có 4 NHTM tham gia đặt thầu: nan NHTM A: 400 tỷ VND nan NHTM B: 200 tỷ VND nan NHTM C: 50 tỷ VND nan NHTM D: 250 tỷ VND nan",
+    "answer": ": 400 tỷ VND"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.006::Nguyên tắc phát hành tiền: nan",
+    "answer": ": Nguyên tắc cân đối, nguyên tắc bảo đảm, nguyên tắc tập trung"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.003::Chính sách tiền tệ tác động vào cung - cầu tiền tệ để đạt được mục tiêu: nan",
+    "answer": ": Ổn định và tăng trưởng kinh tế"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.002::Hoạt động thanh tra của Ngân hàng Trung ương là hoạt động xem xét, đánh giá các ngân hàng trong việc chấp hành các quy định pháp luật về tiền tệ và ngân hàng, các quy định trong giấy phép do: nan",
+    "answer": ": Ngân hàng Trung ương ban hành"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.005::Ngân hàng Trung ương độc lập với Chính phủ sẽ: nan",
+    "answer": ": Chính phủ không được phép can thiệp vào hoạt động của Ngân hàng Trung ương"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.011::Nội dung nào sau đây nói về mục tiêu của hoạt động thanh tra tại chỗ: nan",
+    "answer": ": Xem xét việc tuân thủ các điều khoản về nghĩa vụ tài chính của ngân hàng thương mại đối với Nhà nước"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.029::Việc vận chuyển tiền của Ngân hàng Nhà nước Việt Nam: nan",
+    "answer": ": Được bảo vệ và giữ bí mật"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.013::Lãi suất áp dụng trong đấu thầu lãi suất: nan",
+    "answer": ": Do ngân hàng thương mại được quyền đưa ra các mức lãi suất với khối lượng tương ứng theo thông báo của Ngân hàng Trung ương"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.010::Ngân hàng Trung ương có: nan",
+    "answer": ": Cho vay với ngân hàng thương mại"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.001::Chính sách tiền tệ là: nan",
+    "answer": ": Chính sách kinh tế vĩ mô"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.005::Mục đích hoạt động tín dụng của Ngân hàng Trung ương không là mục đích nào sau đây: nan",
+    "answer": ": Tăng tỷ lệ dự trữ bắt buộc của các ngân hàng thương mại"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.017::Trường hợp người được bảo lãnh không thực hiện nghĩa vụ trả nợ theo cam kết: nan",
+    "answer": ": Ngân hàng Trung ương phải thực hiện nghĩa vụ trả nợ thay"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.004::Nội dung nào là đúng khi nói về hoạt động thanh tra và giám sát ngân hàng của Ngân hàng Trung ương: nan",
+    "answer": ": Tăng cường vai trò quản lý của Ngân hàng Trung ương đối với hoạt động của hệ thống ngân hàng thương mại"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.006::Cho vay tái cấp vốn gồm có: nan",
+    "answer": ": Cho vay cầm cố giấy tờ có giá trị, chiết khấu và tái chiết khấu các giấy tờ có giá"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.014::Mục tiêu kiềm chế lạm phát Ngân hàng Trung ương hướng đến nan",
+    "answer": ": Lạm phát thấp và ổn định"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.023::Ngân hàng Trung ương tổ chức hoạt động thanh tra tại chỗ đột xuất các ngân hàng thương mại: nan",
+    "answer": ": Ngân hàng thương mại có nhiều dấu hiệu bất thường trong hoạt động"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.001::Hoạt động tín dụng do: nan",
+    "answer": ": Ngân hàng Trung ương thực hiện"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.022::Ngân hàng Trung ương thực hiện hoạt động tín dụng theo: nan",
+    "answer": ": Theo tình huống cụ thể phù hợp với yêu cầu quản lý và mục tiêu kinh tế vĩ mô"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.024::Dự trữ bắt buộc của ngân hàng thương mại giảm khi Ngân hàng Trung ương giảm số lượng các hoạt động thanh tra và giám sát ngân hàng: nan",
+    "answer": ": Không thay đổi"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.021::Cho vay lại theo bộ hồ sơ tín dụng yêu cầu bộ hồ sơ tín dụng phải: nan",
+    "answer": ": Có chất lượng"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.029::Công cụ của chính sách tiền tệ sẽ vận hành như thế nào khi nền kinh tế lạm phát cao: nan",
+    "answer": ": Bán giấy tờ có giá trên thị trường mở, giảm hạn mức tín dụng"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.031::Tiền giấy do Ngân hàng Nhà nước Việt Nam phát hành là: nan",
+    "answer": ": Tài sản nợ trong bảng cân đối toán"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.004::Địa điểm tiêu hủy tiền: nan",
+    "answer": ": Do Ngân hàng Trung ương quy định"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "nan Tính khối lượng trúng thầu của NHTM A, C biết NHNN thông báo bán khối lượng GTCG là 1.000 tỷ VND, lãi suất 9%/năm. Có 4 NHTM tham gia đặt thầu nan NHTM A: 400 tỷ VND nan NHTM B: 200 tỷ VND nan NHTM C: 100 tỷ VND nan NHTM D: 100 tỷ VND: nan",
+    "answer": ": là 400 tỷ VND, C là 100 tỷ VND"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.027::Tiêu chuẩn kỹ thuật Kho tiền của Ngân hàng Nhà nước Việt Nam do: nan",
+    "answer": ": Vụ trưởng Vụ chính sách tiền tệ quy định"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.012::Giấy tờ có giá giao dịch trên thị trường mở: nan",
+    "answer": ": Được phát hành và lưu thông hợp pháp, được giao dịch, mua bán, chuyển nhượng, còn thời hạn thanh toán"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.023::Chính sách tiền tệ và chính sách tài cùng theo hướng mở rộng khi: nan",
+    "answer": ": Lượng tiền cung ứng tăng, tăng chi tiêu của Chính phủ"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.001::Nghiệp vụ thị trường mở là: nan",
+    "answer": ": Hoạt động mua, bán giấy tờ có giá giữa Ngân hàng Trung ương với thành viên tham gia thị trường mở"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.026::Chính sách tiền tệ của Ngân hàng Nhà nước Việt Nam được quy định tại: nan",
+    "answer": ": Luật Ngân hàng Nhà nước Việt Nam"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.019::Phát hành tiền qua kênh thị trường mở được thực hiện khi: nan",
+    "answer": ": Ngân hàng Trung ương thực hiện mua giấy tờ có giá trên thị trường mở"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.013::Chính sách quản lý ngoại hối: nan",
+    "answer": ": Chịu sự tác động của chính sách tiền tệ"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.028::Mục tiêu ổn định giá cả: nan",
+    "answer": ": Là mục tiêu chung, trong dài hạn của Ngân hàng Trung ương khi thực thi chính sách tiền tệ"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.028::Cung ứng tiền qua thị trường mở sẽ: nan",
+    "answer": ": Thay đổi giá cả cả, sản lượng, tốc độ tăng trưởng kinh tế"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.017::Mô hình Ngân hàng Trung ương trực thuộc Chính phủ: nan",
+    "answer": ": Tạo điều kiện Chính phủ phối hợp chính sách tiền tệ với các chính sách kinh tế vĩ mô khác"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.027::Tỷ giá cố định được hình thành trên cơ sở: nan",
+    "answer": ": So sánh tiêu chuẩn giá cả của tiền tệ các nước là thành viên của IMF với hàm lượng vàng chính thức của 1 USD là 0,733…gr"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.025::Tính hiệu quả của chính sách tiền tệ sẽ: nan",
+    "answer": ": Tăng khi phối kết hợp nhịp nhàng với chính sách tài khóa"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.023::Cán cân dự báo: nan",
+    "answer": ": Phản ánh các khoản thu và các khoản chi về thanh toán quốc tế sẽ được thực hiện đến một thời điểm nhất định"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.025::Trạng thái ngoại hối của ngân hàng thương mại được xác định: nan",
+    "answer": ": Là chênh lệch giữa tài sản có về ngoại tệ với tài sản nợ về ngoại tệ"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.002::Hoạt động tín dụng của Ngân hàng Trung ương là hình thức: nan",
+    "answer": ": Ngân hàng Trung ương cho vay hoặc là cấp bảo lãnh các ngân hàng thương mại, cho vay (tạm ứng) cho Ngân sách Nhà nước"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.019::Ngân hàng Trung ương thực hiện vai trò người cho vay cuối cùng đối với ngân hàng thương mại trong tình huống: nan",
+    "answer": ": Ngân hàng thương mại không đảm bảo khả năng thanh toán tạm thời"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.010::Cho vay thanh toán nhằm: nan",
+    "answer": ": Phục hồi khả năng chi trả của ngân hàng thương mại"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.004::Dự trữ ngoại hối của Nhà nước bao gồm nan",
+    "answer": ": Tiền mặt bằng ngoại tệ và các giấy tờ có giá bằng ngoại tệ do Chính phủ các nước phát hành"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.018::Các thành viên tham gia thị trường mở cần đáp ứng: nan",
+    "answer": ": Đáp ứng tiêu chuẩn là thành viên do Ngân hàng Trung ương quy định"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.025::Hoạt động thị trường mở của Ngân hàng Nhà nước Việt Nam được thực hiện bắt đầu vào thời điểm: nan",
+    "answer": ": Tháng 7/2000"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.011::Khi tham gia đấu thầu khối lượng nan",
+    "answer": ": Các thành viên tham gia đăng ký khối lượng (giá trị) giấy tờ có giá sẽ mua hoặc bán (khối lượng dự thầu)"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.017::Khuôn khổ CAMELS, xếp hạng từng ngân hàng thành ..... mức: nan",
+    "answer": ": 5"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.004::Vai trò của thị trường mở: nan",
+    "answer": ": Hỗ trợ Ngân hàng Trung ương điều tiết lãi suất thị trường"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.005::Phương pháp thực hiện thanh tra và giám sát ngân hàng gồm có: nan",
+    "answer": ": Giám sát từ xa, thanh tra tại chỗ"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.008::CAMELS - hệ thống đánh giá hoạt động ngân hàng toàn diện dựa trên 6 yếu tố: nan",
+    "answer": ": Vốn, tài sản, quản lý, thanh khoản, độ nhạy với các rủi ro thị trường"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.015::Nguyên tắc 23-25 hoạt động thanh tra ngân hàng xuyên quốc gia quy định: nan",
+    "answer": ": Các ngân hàng nước ngoài phải hoạt động theo tiêu chuẩn như đối với các ngân hàng trong nước"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.031::Ngân hàng Trung ương thực hiện các biện pháp điều chỉnh tỷ giá nhằm mục tiêu: nan",
+    "answer": ": Ổn tỷ giá và bình ổn thị trường ngoại hối"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.009::Giả sử các yếu tố khác không thay đổi, khi Ngân hàng Trung ương bán tín phiếu kho bạc trên thị trường mở, lượng tiền cung ứng sẽ: nan",
+    "answer": ": Chắc chắn giảm"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.018::Hoạt động đình chỉ tiền lưu hành, thu hổi và tiêu hủy tiền không đủ tiêu chuẩn theo nguyên tắc nan",
+    "answer": ": Quản lý tập trung"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.028::Mục tiêu ổn định giá cả: nan",
+    "answer": ": Là mục tiêu chung, trong dài hạn của Ngân hàng Trung ương khi thực thi chính sách tiền tệ"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.003::Mỗi nước có: nan",
+    "answer": ": 1 Ngân hàng Trung ương"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.010::Thanh tra tại chỗ có thể thực hiện: nan",
+    "answer": ": Định kỳ và đột xuất"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.017::Hoạt động in đúc tiền, phát hành tiền, cung ứng tiền theo nguyên tắc nan",
+    "answer": ": Quản lý tập trung"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.016::Tiền mẫu được thiết kế: nan",
+    "answer": ": Riêng cho từng mệnh giá"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.019::Nâng giá tiền tệ là việc: nan",
+    "answer": ": Ngân hàng Trung ương công bố nâng cao giá trị của một đơn vị tiền tệ nước mình so với ngoại tệ"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.022::Ngân hàng Trung ương thực hiện hoạt động tín dụng theo: nan",
+    "answer": ": Theo tình huống cụ thể phù hợp với yêu cầu quản lý và mục tiêu kinh tế vĩ mô"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.017::Khi cần giảm lượng tiền trong lưu thông, Ngân hàng Trung ương sẽ thực hiện: nan",
+    "answer": ": Bán giấy tờ có giá trên thị trường mở và tăng lãi suất chiết khấu"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.019::Ngân hàng Trung ương thực hiện thanh toán bù trừ cho: nan",
+    "answer": ": Các ngân hàng thương mại"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.002::Hoạt động tín dụng của Ngân hàng Trung ương là hình thức: nan",
+    "answer": ": Ngân hàng Trung ương cho vay hoặc là cấp bảo lãnh các ngân hàng thương mại, cho vay (tạm ứng) cho Ngân sách Nhà nước"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.019::Nội dung nào sau đây không thuộc xếp loại các tổ chức tín dụng: nan",
+    "answer": ": Đặt tổ chức tín dụng vào tình trạng kiểm soát đặc biệt"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.010::Ngân hàng Trung ương có: nan",
+    "answer": ": Cho vay với ngân hàng thương mại"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.020::Một trong nguồn thông tin làm cơ sở để Ngân hàng Trung ương có thể xếp loại các tổ chức tín dụng đó là: nan",
+    "answer": ": Số liệu yêu cầu tổ chức tín dụng cung cấp, có chữ ký xác nhận của người có trách nhiệm"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.026::Hoạt động thanh tra và giám sát ngân hàng thực sự không hiệu quả khi: nan",
+    "answer": ": Không có sự phối hợp chặt chẽ giữa giám sát từ xa và thanh tra tại chỗ"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.018::Các thành viên tham gia thị trường mở cần đáp ứng: nan",
+    "answer": ": Đáp ứng tiêu chuẩn là thành viên do Ngân hàng Trung ương quy định"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.017::Nhân tố ảnh hưởng sự thay đổi tỷ giá: nan",
+    "answer": ": Cung – cầu về ngoại tệ trên thị trường ngoại hối"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.027::Tiêu chuẩn kỹ thuật Kho tiền của Ngân hàng Nhà nước Việt Nam do: nan",
+    "answer": ": Vụ trưởng Vụ chính sách tiền tệ quy định"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.006::Mục đích của việc xếp loại các tổ chức tín dụng nhằm: nan",
+    "answer": ": Phát hiện sớm những tổ chức tín dụng đang gặp khó khăn để có giải pháp khắc phục"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.018::Trong hoạt động bảo lãnh vay vốn nước ngoài, bên thụ hưởng bảo lãnh có thể là: nan",
+    "answer": ": Các tổ chức tài chính quốc tế"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.031::Giao dịch có hoàn lại được sử dụng chủ yếu vì lý do: nan",
+    "answer": ": Giảm biến động của thị trường trước những các quyết định hàng ngày của Ngân hàng Trung ương"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.005::Ngân hàng thương mại tham gia thị trường mở với mục tiêu: nan",
+    "answer": ": Đảm bảo hiệu quả hoạt động kinh doanh tiền tệ"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.009::Hoạt động phát hành tiền: nan",
+    "answer": ": Do Ngân hàng Trung ương độc quyền thực hiện"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.011::Ngân hàng Trung ương có thể thực hiện phát hành tiền qua các kênh: nan",
+    "answer": ": phát hành tiền qua kênh Chính phủ, phát hành tiền qua kênh tín dụng, phát hành tiền qua kênh thị trường mở"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.002::Tiền được tiêu hủy khi: nan",
+    "answer": ": Khi tiền không còn đủ tiêu chuẩn lưu thông"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.008::Hoạt động ngoại hối là: nan",
+    "answer": ": Tất cả các hoạt động có liên quan trực tiếp đến ngoại hối của các tổ chức và cá nhân"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.029::Việc vận chuyển tiền của Ngân hàng Nhà nước Việt Nam: nan",
+    "answer": ": Được bảo vệ và giữ bí mật"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.011::Giấy tờ có giá sử dụng trong cho vay cầm cố là: nan",
+    "answer": ": Giấy tờ có giá có giá trị, ngân hàng thương mại là người thụ hưởng hợp pháp, được phát hành và lưu thông hợp pháp, đảm bảo khả năng thanh toán"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.007::Ngân hàng Trung ương tổ chức đầu thầu trên thị trường mở khi: nan",
+    "answer": ": Có 3 thành viên tham gia"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.004::Địa điểm tiêu hủy tiền: nan",
+    "answer": ": Do Ngân hàng Trung ương quy định"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.012::Ngân hàng Trung ương thực hiện chiết khấu giấy tờ có giá được hiểu là: nan",
+    "answer": ": Ngân hàng Trung ương chiết khấu lần đầu các giấy tờ có giá trị chưa đáo hạn thanh toán theo yêu cầu của các ngân hàng thương mại"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.029::Trong đấu thầu lãi suất Ngân hàng Trung ương có thể áp dụng: nan",
+    "answer": ": Lãi suất thống nhất, lãi suất riêng lẻ"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.008::Tạm ứng cho ngân sách Nhà nước dưới hình thức: nan",
+    "answer": ": Cho ngân sách Nhà nước vay và làm đại lý phát hành trái phiếu Chính phủ"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.013::Chính sách quản lý ngoại hối: nan",
+    "answer": ": Chịu sự tác động của chính sách tiền tệ"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.014::Lãi suất áp dụng trong cho vay theo đối tượng chỉ định: nan",
+    "answer": ": Lãi suất liên ngân hàng"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.003::Thời gian tiêu hủy tiền: nan",
+    "answer": ": Do Ngân hàng Trung ương quy định"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.001::Hoạt động quản lý ngoại hối do: nan",
+    "answer": ": Ngân hàng Trung ương thực hiện"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.029::Đối tượng quản lý ngoại hối gồm: nan",
+    "answer": ": Ngưởi cư trú và người không cư trú có hoạt động ngoại hối"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.024::Nhược điểm của hạn mức tín dụng trong quá trình thực thi chính sách tiền tệ: nan",
+    "answer": ": Tạo điều kiện để phát sinh thị trường ngầm và các hoạt động lách luật"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.030::Các đồng tiền không đủ tiêu chuẩn lưu thông được Ngân hàng Nhà nước Việt Nam công bố: nan",
+    "answer": ": Công khai"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.010::Công cụ của chính sách tiền tệ: nan",
+    "answer": ": Dự trữ bắt buộc và chính sách chiết khấu"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.025::Trong trường hợp chiết khấu và tái chiết khấu giấy tờ có giá có kỳ hạn: nan",
+    "answer": ": Thời hạn của giấy tờ có giá phải dài hơn thời hạn Ngân hàng Trung ương thực hiện chiết khấu, tái chiết khấu giấy tờ có giá"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.024::Mức độ độc lập của Ngân hàng Trung ương trong mối quan hệ với Chính phủ sẽ: nan",
+    "answer": ": Ảnh hưởng đến hiệu quả các chính sách do Ngân hàng Trung ương đề ra"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.011::Nội dung nào sau đây nói về mục tiêu của hoạt động thanh tra tại chỗ: nan",
+    "answer": ": Xem xét việc tuân thủ các điều khoản về nghĩa vụ tài chính của ngân hàng thương mại đối với Nhà nước"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.027::Tỷ giá cố định được hình thành trên cơ sở: nan",
+    "answer": ": So sánh tiêu chuẩn giá cả của tiền tệ các nước là thành viên của IMF với hàm lượng vàng chính thức của 1 USD là 0,733…gr"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.028::Chế độ tỷ giá thả nổi là: nan",
+    "answer": ": Tỷ giá thay đổi hoàn toàn theo thị trường"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.019::Ưu điểm của chính sách chiết khấu trong quá trình thực thi chính sách tiền tệ: nan",
+    "answer": ": Giúp Ngân hàng Trung ương thực hiện vai trò là người cho vay cuối cùng trong nền kinh tế"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.022::Đồng tiền Việt Nam là đồng tiền: nan",
+    "answer": ": Được tự do thanh toán không hạn chế số lượng trong lãnh thổ Việt Nam"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.015::Tính khối lượng trúng thầu của NHTM A biết NHNN thông báo bán khối lượng GTCG là 1.000 tỷ VND, lãi suất 9%/năm. Có 4 NHTM tham gia đặt thầu: nan NHTM A: 400 tỷ VND nan NHTM B: 200 tỷ VND nan NHTM C: 50 tỷ VND nan NHTM D: 250 tỷ VND nan",
+    "answer": ": 400 tỷ VND"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.006::Ngân hàng Trung ương tổ chức, điều hành hoạt động thị trường mở với mục đích: nan",
+    "answer": ": Vì mục tiêu của chính sách tiền tệ"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.007::Ngoại hối là: nan",
+    "answer": ": Là tiền và các phương tiện sử dụng trong giao dịch quốc tế"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.003::Hoạt động giám sát ngân hàng của Ngân hàng Trung ương là hoạt động thu thập, tổng hợp phân tích thông tin về đối tượng giám sát ngân hàng thông qua hệ thống thông tin, báo cáo nhằm: nan",
+    "answer": ": Phòng ngừa, phát hiện, ngăn chặn và xử lý kịp thời rủi ro gây mất an toàn hoạt động ngân hàng"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.003::Hoạt động nào sau đây thuộc hoạt động quản lý ngoại hối của Ngân hàng Trung ương: nan",
+    "answer": ": Tổ chức điều hành thị trường ngoại hối trong nước"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B6.024::Cán cân thanh toán quốc tế thâm hụt khi: nan",
+    "answer": ": Tổng thu ngoại tệ nhỏ hơn tổng chi ngoại tệ"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B7.014::Nội dung nào là chính xác nhất đối với nguyên tắc 21 yêu cầu về thông tin: nan",
+    "answer": ": Ngân hàng phải có hệ thống lưu trữ tài liệu phù hợp theo yêu cầu kế toán"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.017::Mô hình Ngân hàng Trung ương trực thuộc Chính phủ: nan",
+    "answer": ": Tạo điều kiện Chính phủ phối hợp chính sách tiền tệ với các chính sách kinh tế vĩ mô khác"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B3.016::Mục tiêu của chính sách tiền tệ: nan",
+    "answer": ": Thay đổi trong từng thời kỳ"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B4.020::Nghiệp vụ thị trường mở của Ngân hàng Trung ương: nan",
+    "answer": ": Là công cụ linh hoạt nhất so với các công cụ khác của chính sách tiền tệ"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B1.016::Mô hình Ngân hàng Trung ương trực thuộc Chính phủ: nan",
+    "answer": ": Do Chính phủ quản lý"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B2.006::Nguyên tắc phát hành tiền: nan",
+    "answer": ": Nguyên tắc cân đối, nguyên tắc bảo đảm, nguyên tắc tập trung"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "nan ﻿::NHTW.B5.023::Khi Ngân hàng Trung ương cho vay tái cấp vốn theo hình thức cầm cố giấy tờ có giá, ngân hàng thương mại sẽ: nan",
+    "answer": ": Không được giữ giấy tờ có giá trong suốt quá trình vay vốn"
+  },
+  {
+    "id": 136,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.018::Khuôn khổ CAMELS, xếp hạng ngân hàng ở mức “Không thoả mãn” khi: nan",
+    "answer": ": Những ngân hàng đã thể hiện mức độ rủi ro cao, có thể áp dụng lệnh đóng cửa và ngừng hoạt động"
+  },
+  {
+    "id": 137,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.004::Hoạt động tín dụng của Ngân hàng Trung ương không vì: nan",
+    "answer": ": Có lợi nhuận"
+  },
+  {
+    "id": 138,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.021::Cán cân dịch vụ bao gồm: nan",
+    "answer": ": Các khoản thu, chi ngoại tệ có liên quan đến việc cung cấp dịch vụ cho nước ngoài và các khoản dịch vụ nhận của nước ngoài trong một thời kỳ nhất định"
+  },
+  {
+    "id": 139,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.022::Dự trữ bắt buộc được tính: nan",
+    "answer": ": Tiền gửi của khách hàng tại ngân hàng thương mại"
+  },
+  {
+    "id": 140,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.012::Giả sử các yếu tố khác không thay đổi, lượng tiền cung ứng sẽ tăng lên khi: nan",
+    "answer": ": Ngân hàng Trung ương mua tín phiếu kho bạc trên thị trường mở"
+  },
+  {
+    "id": 141,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.009::Giả sử các yếu tố khác không thay đổi, khi Ngân hàng Trung ương bán tín phiếu kho bạc trên thị trường mở, lượng tiền cung ứng sẽ: nan",
+    "answer": ": Chắc chắn giảm"
+  },
+  {
+    "id": 142,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.022::Ngân hàng Trung ương lựa chọn các thành viên tham gia thị trường mở bao gồm: nan",
+    "answer": ": Ngân hàng thương mại cổ phần An Bình, Công ty tài chính Việt Nam"
+  },
+  {
+    "id": 143,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.023::Đồng tiền mệnh giá 500.000 đồng ở Việt Nam là: nan",
+    "answer": ": Đồng tiền có mệnh giá lớn nhất"
+  },
+  {
+    "id": 144,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.027::Thành viên thị trường mở, bắt buộc tham gia: nan",
+    "answer": ": Theo quy định là thành viên do Ngân hàng Trung ương công bố"
+  },
+  {
+    "id": 145,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.021::Dự trữ của ngân hàng thương mại giảm xuống khi: nan",
+    "answer": ": Ngân hàng Trung ương bán hẳn giấy tờ có giá cho các ngân hàng thương mại"
+  },
+  {
+    "id": 146,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.011::Khi tham gia đấu thầu khối lượng nan",
+    "answer": ": Các thành viên tham gia đăng ký khối lượng (giá trị) giấy tờ có giá sẽ mua hoặc bán (khối lượng dự thầu)"
+  },
+  {
+    "id": 147,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.003::Mỗi nước có: nan",
+    "answer": ": 1 Ngân hàng Trung ương"
+  },
+  {
+    "id": 148,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.014::Nội dung nào là chính xác nhất đối với nguyên tắc 21 yêu cầu về thông tin: nan",
+    "answer": ": Ngân hàng phải có hệ thống lưu trữ tài liệu phù hợp theo yêu cầu kế toán"
+  },
+  {
+    "id": 149,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.017::Khuôn khổ CAMELS, xếp hạng từng ngân hàng thành ..... mức: nan",
+    "answer": ": 5"
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.006::Mục đích của việc xếp loại các tổ chức tín dụng nhằm: nan",
+    "answer": ": Phát hiện sớm những tổ chức tín dụng đang gặp khó khăn để có giải pháp khắc phục"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.024::Nhược điểm của hạn mức tín dụng trong quá trình thực thi chính sách tiền tệ: nan",
+    "answer": ": Tạo điều kiện để phát sinh thị trường ngầm và các hoạt động lách luật"
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.006::Ngân hàng Trung ương trực thuộc với Chính phủ sẽ: nan",
+    "answer": ": Chính phủ được phép can thiệp vào hoạt động của Ngân hàng Trung ương"
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.006::Nguyên tắc an toàn trong thực hiện quản lý dự trữ ngoại hối yêu cầu: nan",
+    "answer": ": Phải có sự đảm bảo sự an toàn tuyệt đối"
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.005::Các nguyên tắc khi thực hiện quản lý dự trữ ngoại hối: nan",
+    "answer": ": Nguyên tắc an toàn, linh hoạt và có lợi, đảm bảo khả năng thanh toán"
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.017::Nhân tố ảnh hưởng sự thay đổi tỷ giá: nan",
+    "answer": ": Cung – cầu về ngoại tệ trên thị trường ngoại hối"
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.016::Mục tiêu của chính sách tiền tệ: nan",
+    "answer": ": Thay đổi trong từng thời kỳ"
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.016::Tiền mẫu được thiết kế: nan",
+    "answer": ": Riêng cho từng mệnh giá"
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.020::Cán cân thương mại bao gồm: nan",
+    "answer": ": Các khoản thu chi ngoại tệ về xuất khẩu hàng hóa trong một thời kỳ nhất định"
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.026::Cơ quan quản lý hoạt động tín dụng của Ngân hàng Trung ương có hiệu quả và an toàn nhất là: nan",
+    "answer": ": Ngân hàng Trung ương"
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.019::Nâng giá tiền tệ là việc: nan",
+    "answer": ": Ngân hàng Trung ương công bố nâng cao giá trị của một đơn vị tiền tệ nước mình so với ngoại tệ"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.014::Lãi suất áp dụng trong cho vay theo đối tượng chỉ định: nan",
+    "answer": ": Lãi suất liên ngân hàng"
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.011::Tín phiếu kho bạc là giấy tờ có giá: nan",
+    "answer": ": Giao dịch thị trường mở"
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.022::Khối lượng tiền cung ứng tăng khi Ngân hàng Trung ương tăng số lượng các hoạt động thanh tra và giám sát ngân hàng: nan",
+    "answer": ": Không thay đổi"
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.012::Ngân hàng Trung ương thực hiện chức năng: nan",
+    "answer": ": Phát hành tiền và điều tiết lượng tiền cung ứng"
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.011::Ngân hàng Trung ương có thể thực hiện phát hành tiền qua các kênh: nan",
+    "answer": ": phát hành tiền qua kênh Chính phủ, phát hành tiền qua kênh tín dụng, phát hành tiền qua kênh thị trường mở"
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.007::Giả sử các yếu tố khác không thay đổi, khi Ngân hàng Trung ương giảm tỷ lệ dự trữ bắt buộc, lượng tiền cung ứng sẽ: nan",
+    "answer": ": Tăng"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.005::Phương pháp thực hiện thanh tra và giám sát ngân hàng gồm có: nan",
+    "answer": ": Giám sát từ xa, thanh tra tại chỗ"
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.013::Nguyên tắc 1 đề cập các tiền đề để giám sát ngân hàng hiệu quả trong các nguyên tắc thanh tra, giám sát ngân hàng theo Basel quy định: nan",
+    "answer": ": Một hệ thống giám sát nghiệp vụ ngân hàng có hiệu quả phải phân định trách nhiệm và mục tiêu rõ ràng đối với từng cơ quan tham gia giám sát ngân hàng"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.012::Cán cân thanh toán quốc tế là: nan",
+    "answer": ": Bảng tổng hợp phản ánh tổng thu, tổng chi của một nước đối với các nước khác và với các tổ chức quốc tế khác trong một khoảng thời gian nhất định"
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.017::Mục tiêu hoạt động trong điều hành chính sách tiền tệ: nan",
+    "answer": ": Ngân hàng Trung ương có thể dự báo được, kiểm soát được"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.001::Hoạt động quản lý ngoại hối do: nan",
+    "answer": ": Ngân hàng Trung ương thực hiện"
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.010::Công cụ của chính sách tiền tệ: nan",
+    "answer": ": Dự trữ bắt buộc và chính sách chiết khấu"
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.031::Ngân hàng Trung ương thực hiện các biện pháp điều chỉnh tỷ giá nhằm mục tiêu: nan",
+    "answer": ": Ổn tỷ giá và bình ổn thị trường ngoại hối"
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.031::Ổn định giá cả sẽ: nan",
+    "answer": ": Hỗ trợ sự ổn định và nâng cao giá trị đồng nội tệ"
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.008::Hoạt động ngoại hối là: nan",
+    "answer": ": Tất cả các hoạt động có liên quan trực tiếp đến ngoại hối của các tổ chức và cá nhân"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.006::Giả sử các yếu tố khác không thay đổi, khi Ngân hàng Trung ương tăng tỷ lệ dự trữ bắt buộc, lượng tiền cung ứng sẽ: nan",
+    "answer": ": Giảm"
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.002::Hàng hóa giao dịch trên thị trường mở: nan",
+    "answer": ": Tín phiếu kho bạc, trái phiếu Chính phủ"
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.024::Các giấy tờ có giá được sử dụng trong chiết khấu và tái chiết khấu là: nan",
+    "answer": ": Do c"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.020::Nghiệp vụ thị trường mở của Ngân hàng Trung ương: nan",
+    "answer": ": Là công cụ linh hoạt nhất so với các công cụ khác của chính sách tiền tệ"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.014::Thị trường ngoại hối có thể được phân chia thành: nan",
+    "answer": ": Thị trường giao ngay, thị trường kỳ hạn, Thị trường quyền chọn"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.015::Ngân hàng Trung ương phát hành tiền cần cân đối giữa cơ cấu và loại tiền trong lưu thông nhằm: nan",
+    "answer": ": Tạo thuận tiện trong việc giao dịch thanh toán"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.020::Một trong nguồn thông tin làm cơ sở để Ngân hàng Trung ương có thể xếp loại các tổ chức tín dụng đó là: nan",
+    "answer": ": Số liệu yêu cầu tổ chức tín dụng cung cấp, có chữ ký xác nhận của người có trách nhiệm"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.014::Ngân hàng Trung ương hoạt động vì mục tiêu: nan",
+    "answer": ": Sự ổn định và phát triển kinh tế - xã hội"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.003::Hoạt động tín dụng của Ngân hàng Trung ương sẽ: nan",
+    "answer": ": Tác động đến lượng tiền cung ứng, ảnh hưởng đến toàn bộ nền kinh tế"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.015::Ngân hàng Trung ương của Việt Nam là: nan",
+    "answer": ": Ngân hàng Nhà nước Việt Nam"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.014::Ngân hàng Trung ương phát hành tiền cần cân đối giữa tốc độ tăng trưởng GDP với tốc độ tăng trưởng tiền tệ nhằm: nan",
+    "answer": ": Đáp ứng nhu cầu luân chuyển của sản phẩm hàng hóa, dịch vụ"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.004::Ngân hàng Trung ương là: nan",
+    "answer": ": Cơ quan quản lý kinh tế trong lĩnh vực tài chính tiền tệ"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.022::Ngân hàng Trung ương làm đại lý phát hành trái phiếu Chính phủ nhằm hỗ trợ: nan",
+    "answer": ": Ngân sách Nhà nước"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.029::Trong đấu thầu lãi suất Ngân hàng Trung ương có thể áp dụng: nan",
+    "answer": ": Lãi suất thống nhất, lãi suất riêng lẻ"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.017::Hoạt động in đúc tiền, phát hành tiền, cung ứng tiền theo nguyên tắc nan",
+    "answer": ": Quản lý tập trung"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.008::Một trong những chức năng của Ngân hàng Trung ương là: nan",
+    "answer": ": Phát hành tiền và điều tiết lượng tiền cung ứng"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.018::Trong hoạt động bảo lãnh vay vốn nước ngoài, bên thụ hưởng bảo lãnh có thể là: nan",
+    "answer": ": Các tổ chức tài chính quốc tế"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.006::Ngân hàng Trung ương tổ chức, điều hành hoạt động thị trường mở với mục đích: nan",
+    "answer": ": Vì mục tiêu của chính sách tiền tệ"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.021::Hoạt động tiêu hủy tiền được thực hiện: nan",
+    "answer": ": Định kỳ 1 năm/ lần"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.009::Thanh tra tại chỗ là việc tổ chức thanh tra tại: nan",
+    "answer": ": Nơi làm việc của các ngân hàng thương mại"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.003::Chủ thể có thể là thành viên thị trường mở: nan",
+    "answer": ": Ngân hàng thương mại và các tổ chức tài chính phi ngân hàng"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.007::Cho vay thanh toán gồm có: nan",
+    "answer": ": Cho vay thanh toán thường xuyên và cho vay khôi phục năng lực chi trả"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.023::Ngân hàng Trung ương tổ chức hoạt động thị trường: nan",
+    "answer": ": Định kỳ 5 phiên/tuần"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.010::Phát hành tiền trên cơ sở tín dụng: nan",
+    "answer": ": Được bảo đảm bằng giá trị hàng hoá và dịch vụ"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.015::Cho vay lại theo hồ sơ tín dụng là: nan",
+    "answer": ": Một hình thức của cho vay tái cấp vốn"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.015::Chính sách tiền tệ mở rộng là: nan",
+    "answer": ": Tăng cung tiền -> lãi suất giảm -> khuyến khích đầu tư -> mở rộng sản xuất kinh doanh -> kinh tế tăng trưởng"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.020::Một trong những điều kiện để ngân hàng thương mại có thể được vay cầm cố giấy tờ có giá, đó là: nan",
+    "answer": ": Hoạt động kinh doanh trong điều kiện bình thường"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.009::Giả sử các yếu tố khác không thay đổi, khi Ngân hàng Trung ương bán tín phiếu kho bạc trên thị trường mở: nan",
+    "answer": ": Lượng tiền cung ứng giảm"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.013::Ngân hàng Trung ương thực hiện tái chiết khấu giấy tờ có giá được hiểu là: nan",
+    "answer": ": Ngân hàng Trung ương chiết khấu lại các giấy tờ có giá mà ngân hàng thương mại đã chiết khấu cho các doanh nghiệp"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.005::Mục tiêu chính sách tiền tệ có quan hệ chặt chẽ với nhau, hỗ trợ và thúc đẩy lẫn nhau trong dài hạn: nan",
+    "answer": ": Đúng"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.009::Ngân hàng Trung ương có: nan",
+    "answer": ": 3 chức năng"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.005::Ngân hàng thương mại tham gia thị trường mở với mục tiêu: nan",
+    "answer": ": Đảm bảo hiệu quả hoạt động kinh doanh tiền tệ"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.014::Giao dịch không hoàn lại đối với giấy tờ có giá được hiểu là: nan",
+    "answer": ": Giấy tờ có giá được mua, bán hẳn theo giá thị trường"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.026::Lãi suất trúng thầu cuối cùng: nan",
+    "answer": ": Là lãi suất dự thầu thấp nhất (trường hợp Ngân hàng Trung ương mua) và lãi suất dự thầu cao nhất (trường hợp Ngân hàng Trung ương bán) mà tại đó Ngân hàng Trung ương đạt khối lượng cần mua hoặc bán."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.017::Khi cần giảm lượng tiền trong lưu thông, Ngân hàng Trung ương sẽ thực hiện: nan",
+    "answer": ": Bán giấy tờ có giá trên thị trường mở và tăng lãi suất chiết khấu"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.018::Chính sách tiền tệ và chính sách tài khóa luôn: nan",
+    "answer": ": Cần hỗ trợ nhau để cùng đặt được mục tiêu ổn định, tăng trưởng"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.001::Thời kỳ đầu (thế kỷ 15-18) hoạt động của các ngân hàng đều thực hiện các nghiệp vụ: nan",
+    "answer": ": Giống nhau"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.016::Khi Ngân hàng Trung ương bán trái phiếu Chính phủ trên thị trường mở: nan",
+    "answer": ": Khả năng cho vay các ngân hàng thương mại giảm, khối lượng tiền cung ứng giảm"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.021::Hoạt động thanh tra và giám sát ngân hàng đối với các ngân hàng được Ngân hàng Trung ương thực hiện: nan",
+    "answer": ": Theo yêu cầu quản lý của Ngân hàng Trung ương đối với hoạt động của ngân hàng thương mại"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.003::Hoạt động nào sau đây thuộc hoạt động quản lý ngoại hối của Ngân hàng Trung ương: nan",
+    "answer": ": Tổ chức điều hành thị trường ngoại hối trong nước"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.026::Hoạt động thanh tra và giám sát ngân hàng thực sự không hiệu quả khi: nan",
+    "answer": ": Không có sự phối hợp chặt chẽ giữa giám sát từ xa và thanh tra tại chỗ"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.008::CAMELS - hệ thống đánh giá hoạt động ngân hàng toàn diện dựa trên 6 yếu tố: nan",
+    "answer": ": Vốn, tài sản, quản lý, thanh khoản, độ nhạy với các rủi ro thị trường"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.024::Đơn vị tiền của nước Cộng hòa Xã hội chủ Nghĩa Việt Nam: nan",
+    "answer": ": Đồng"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.023::Ngân hàng Trung ương thực hiện: nan",
+    "answer": ": Phát hành tiền và cho vay ngân hàng thương mại"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.009::Ngân hàng Trung ương thực hiện bảo lãnh vay vốn nước ngoài cho: nan",
+    "answer": ": Ngân hàng thương mại và Kho bạc Nhà nước"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.007::Nguyên tắc cân đối giữa cơ cấu và loại tiền trong lưu thông yêu cầu: nan",
+    "answer": ": Cần có nhiều mệnh giá khác nhau"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.007::Nguyên tắc Basel: nan",
+    "answer": ": Xây dựng những chuẩn mực cơ bản cho hoạt động thanh tra ngân hàng có hiệu quả"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.013::Ngân hàng Trung ương được: nan",
+    "answer": ": Độc quyền phát hành tiền"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.019::Nội dung nào sau đây không thuộc xếp loại các tổ chức tín dụng: nan",
+    "answer": ": Đặt tổ chức tín dụng vào tình trạng kiểm soát đặc biệt"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.010::Thị trường ngoại hối là: nan",
+    "answer": ": Nơi diễn ra các hoạt động giao dịch mua, bán các ngoại tệ và các phương tiện thanh toán có giá trị bằng ngoại tệ"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.024::Mức độ độc lập của Ngân hàng Trung ương trong mối quan hệ với Chính phủ sẽ: nan",
+    "answer": ": Ảnh hưởng đến hiệu quả các chính sách do Ngân hàng Trung ương đề ra"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.030::Với phương thức xét thầu lãi suất thống nhất: nan",
+    "answer": ": Toàn bộ khối lượng trúng thầu được tính theo một mức lãi suất trúng thầu để tính toán số tiền phải thanh toán"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.025::Hoạt động thị trường mở của Ngân hàng Nhà nước Việt Nam được thực hiện bắt đầu vào thời điểm: nan",
+    "answer": ": Tháng 7/2000"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.008::Giả sử các yếu tố khác không thay đổi, khi Ngân hàng Trung ương tăng hạn mức tín dụng, lượng tiền cung ứng sẽ: nan",
+    "answer": ": Tăng"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.008::Nguyên tắc bảo đảm trong phát hành tiền, yêu cầu: nan",
+    "answer": ": Phải có vàng đảm bảo"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.016::Mô hình Ngân hàng Trung ương trực thuộc Chính phủ: nan",
+    "answer": ": Do Chính phủ quản lý"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.021::Chính sách tiền tệ thắt chặt làm thay đổi lượng tiền cung ứng theo hướng: nan",
+    "answer": ": Giảm"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.016::Người môi giới trên thị trường ngoại hối: nan",
+    "answer": ": Thực hiện vai trò trung gian cho các bên giao dịch ngoại hối"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.009::Hoạt động phát hành tiền: nan",
+    "answer": ": Do Ngân hàng Trung ương độc quyền thực hiện"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.005::Tiền lưu niệm: nan",
+    "answer": ": Bắt buộc phải đảm bảo có hình ảnh đặc trưng, dễ nhận biết, phù hợp với bản sắc văn hóa dân tộc"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.030::Các đồng tiền không đủ tiêu chuẩn lưu thông được Ngân hàng Nhà nước Việt Nam công bố: nan",
+    "answer": ": Công khai"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.024::Thời gian tổ chức đấu thầu được ấn định: nan",
+    "answer": ": Theo quy định của Ngân hàng Trung ương và được công bố công khai cho các thành viên"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.030::Nội dung nào không thuộc quản lý hoạt động ngoại hối: nan",
+    "answer": ": Người dân mua cổ phiếu"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.020::Nhược điểm của dự trữ bắt buộc trong quá trình thực thi chính sách tiền tệ: nan",
+    "answer": ": Khá cứng nhắc, khó thay đổi để linh hoạt thích ứng với sự thay đổi nhanh của nền kinh tế"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.022::Đồng tiền Việt Nam là đồng tiền: nan",
+    "answer": ": Được tự do thanh toán không hạn chế số lượng trong lãnh thổ Việt Nam"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.009::Chính sách quản lý ngoại hối là: nan",
+    "answer": ": Tổng hợp những thể chế về ngoại hối và các biện pháp có liên quan để quản lý và tác động đến ngoại hối"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.021::Khoản mục “cho Chính phủ vay” được hạch toán vào: nan",
+    "answer": ": Tài sản có của Bảng cân đối tiền tệ của Ngân hàng Trung ương"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.026::Ngân hàng Nhà nước Việt Nam thực hiện thu hồi tiền bị hỏng: nan",
+    "answer": ": Là nghiệp vụ thường xuyên"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.018::Chức năng Ngân hàng Trung ương là ngân hàng của Chính phủ có quy định: nan",
+    "answer": ": Ngân hàng Trung ương thay mặt Nhà nước quan hệ tài chính với các tổ chức tài chính quốc tế"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.030::Công cụ của chính sách tiền tệ vận hành như thế nào khi nền kinh tế ở trạng thái thiểu phát: nan",
+    "answer": ": Giảm tỷ lệ dự trữ bắt buộc, giảm lãi suất"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.023::Khi Ngân hàng Trung ương cho vay tái cấp vốn theo hình thức cầm cố giấy tờ có giá, ngân hàng thương mại sẽ: nan",
+    "answer": ": Không được giữ giấy tờ có giá trong suốt quá trình vay vốn"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.003::Thời gian tiêu hủy tiền: nan",
+    "answer": ": Do Ngân hàng Trung ương quy định"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.001::Việc in tiền ở mỗi quốc gia sẽ: nan",
+    "answer": ": Khác nhau"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.010::Cơ số tiền (MB): nan",
+    "answer": ": Thay đổi khi Ngân hàng Trung ương mua, bán giấy tờ có giá trên thị trường mở"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B1.002::Năm 1694 đạo luật Peel ở nước Anh có quy định trong phạm vi bán kính 170 dặm tại thủ đô London sẽ có: nan",
+    "answer": ": 10 ngân hàng lớn nhất được phát hành tiền"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.012::Ngân hàng Trung ương thực hiện chiết khấu giấy tờ có giá được hiểu là: nan",
+    "answer": ": Ngân hàng Trung ương chiết khấu lần đầu các giấy tờ có giá trị chưa đáo hạn thanh toán theo yêu cầu của các ngân hàng thương mại"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.022::Căn cứ vào thời gian lập, cán cân thanh toán quốc tế được chia thành: nan",
+    "answer": ": Cán cân kế hoạch, cán cân thực hiện"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.008::Tạm ứng cho ngân sách Nhà nước dưới hình thức: nan",
+    "answer": ": Cho ngân sách Nhà nước vay và làm đại lý phát hành trái phiếu Chính phủ"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.026::Phá giá tiền tệ nhằm: nan",
+    "answer": ": Hạn chế nhập khẩu, đẩy mạnh xuất khẩu"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.008::Tín phiếu kho bạc là công cụ tài chính giao dịch nhiều trên thị trường mở do: nan",
+    "answer": ": Tính lỏng và độ an toàn cao"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.029::Đối tượng quản lý ngoại hối gồm: nan",
+    "answer": ": Ngưởi cư trú và người không cư trú có hoạt động ngoại hối"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.018::Biện pháp điều chỉnh tỷ giá có thể là: nan",
+    "answer": ": Can thiệp trực tiếp vào thị trường ngoại tệ để tác động đến tỷ giá"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B4.007::Ngân hàng Trung ương tổ chức đầu thầu trên thị trường mở khi: nan",
+    "answer": ": Có 3 thành viên tham gia"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.002::Chính sách tiền tệ nhằm: nan",
+    "answer": ": Điều tiết lượng tiền cung ứng"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.016::Khuôn khổ CAMELS, xếp hạng ngân hàng ở mức “Mạnh” khi: nan",
+    "answer": ": Chỉ tìm thấy một vài điểm yếu không đáng kể, không cần đến sự phản ứng của thanh tra"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.012::Các kênh phát hành tiền của Ngân hàng Trung ương có đặc điểm: nan",
+    "answer": ": Khác nhau"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.025::Nội dung nào sau đây không phải là công việc cần thực hiện tại các ngân hàng thương mại khi Ngân hàng Trung ương tổ chức hoạt động thanh tra tại chỗ: nan",
+    "answer": ": Kiểm tra hoạt động của các đơn vị của Ngân hàng Trung ương"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.002::Phát biểu nào dưới đây là đúng đối với hoạt động quản lý ngoại hối của Ngân hàng Trung ương: nan",
+    "answer": ": Vì mục tiêu của chính sách tiền tệ, cải thiện cán cân thanh toán"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B3.013::Trong các mục tiêu của chính sách tiền tệ: nan",
+    "answer": ": Mục tiêu tạo công ăn việc làm và tăng trưởng kinh tế thống nhất với nhau"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B5.011::Giấy tờ có giá sử dụng trong cho vay cầm cố là: nan",
+    "answer": ": Giấy tờ có giá có giá trị, ngân hàng thương mại là người thụ hưởng hợp pháp, được phát hành và lưu thông hợp pháp, đảm bảo khả năng thanh toán"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.025::Phát hành tiền qua kênh Chính phủ sẽ nan",
+    "answer": ": Dễ dẫn đến lạm phát"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.002::Tiền được tiêu hủy khi: nan",
+    "answer": ": Khi tiền không còn đủ tiêu chuẩn lưu thông"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B6.024::Cán cân thanh toán quốc tế thâm hụt khi: nan",
+    "answer": ": Tổng thu ngoại tệ nhỏ hơn tổng chi ngoại tệ"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B2.028::Lực lượng bảo vệ kho tiền của Ngân hàng Nhà nước Việt Nam có nhiệm vụ: nan",
+    "answer": ": Bảo vệ 24/24 giờ trong ngày"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "nan ﻿::NHTW.B7.012::Nội dung nào sau đây thuộc quyền hạn của thanh tra ngân hàng: nan",
+    "answer": ": Được bảo lưu ý kiến và chịu trách nhiệm về những ý kiến trong phạm vi hoạt động của thanh tra"
+  }
+]

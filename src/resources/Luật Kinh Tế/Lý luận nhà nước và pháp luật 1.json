@@ -1,0 +1,2522 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Nhà nước tư sản đều hình thành từ sự tan rã của nhà nước phong kiến"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Nhà nước phong kiến có chức năng đối ngoại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị có những đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Nhà nước XHCN đều hình thành từ sự tan rã của nhà nước tư sản"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không áp dụng nguyên tắc tổ chức nào dưới đây?",
+    "answer": "Nguyên tắc tam quyền phân lập"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Chức năng đối ngoại của nhà nước XHCN được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Bản chất xã hội của nhà nước được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản không có cơ quan nào dưới đây?",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa tổng thống"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Đông có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Quyền lực công cộng đặc biệt được thiết lập trên phạm vi toàn bộ lãnh thổ của nhà nước có đặc điểm gì?",
+    "answer": "Là quyền lực của nhà nước"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Cơ quan tư pháp của nhà nước ta gồm có:",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Tây có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Tính giai cấp của nhà nước chủ nô được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “thần”",
+    "answer": "Thuyết thần học"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Bản chất giai cấp của nhà nước được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Nhà nước có bao nhiêu đặc điểm?",
+    "answer": "Vô số đặc điểm"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Học thuyết nào được phổ biến giảng dạy trong phạm vi trường học ở Việt Nam?",
+    "answer": "Học thuyết của Mác - Lê nin"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản có cơ quan nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Tính giai cấp của nhà nước tư sản thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Xã hội tư bản chủ nghĩa dựa trên nền tảng công hữu đối với tư liệu sản xuất"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Các hình thức hoạt động cơ bản để thực hiện chức năng của nhà nước là?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Nhà nước phân chia dân cư theo huyết thống để quản lý"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Các cơ quan quản lý hành chính nhà nước gồm có:",
+    "answer": "Chính phủ, Ủy ban nhân dân"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể quân chủ tuyệt đối"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Nhà nước có chủ quyền quốc gia được hiểu như thế nào?",
+    "answer": "Nhà nước đại diện cho nhân dân cả nước thực hiện một số quyền của chủ quốc gia"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Quyền lực là gì?",
+    "answer": "Quyền tác động lên các chủ thể khác"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa gồm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Hình thức chính thể quân chủ"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Bản chất xã hội của nhà nước không được thể hiện ở đặc điểm nào dưới đây?",
+    "answer": "Lợi ích của mọi người trong xã hội được hưởng phụ thuộc vào vị trí giai cấp của họ"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa đại nghị"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Chức năng đối nội là cơ bản, quyết định tính chất, mức độ của chức năng đối ngoại"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Chức năng đối nội của nhà nước là gì?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Bản chất xã hội của nhà nước không được thể hiện ở đặc điểm nào dưới đây?",
+    "answer": "Lợi ích của mọi người trong xã hội được hưởng phụ thuộc vào vị trí giai cấp của họ"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Tính giai cấp của nhà nước tư sản không thể hiện ở phương án nào dưới đây?",
+    "answer": "Giai cấp tư sản sử dụng nhà nước để bảo vệ những lợi ích chung của toàn xã hội"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Nhà nước chưa phát triển, nguồn lực còn hạn chế, hoặc trong những giai đoạn khủng hoảng, bất ổn thì tính giai cấp lại thể hiện rõ"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông không có đặc điểm nào dưới đây?",
+    "answer": "Xuất hiện sau các nhà nước chủ nô phương Tây"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Nhà nước tư sản có chức năng đối ngoại nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Nhà nước tư sản có chức năng đối nội nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Tính xã hội của nhà nước tư sản không thể hiện ở phương án nào dưới đây?",
+    "answer": "Giai cấp tư sản sử dụng nhà nước như một công cụ để bảo vệ địa vị và quyền lợi cho giai cấp mình."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối nội của nhà nước XHCN?",
+    "answer": "Bảo vệ tổ quốc, chống kẻ thù xâm lược;"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Nhà nước do ai lập ra ?",
+    "answer": "Do giai cấp thống trị lập ra."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Nhà nước phong kiến không có chức năng đối nội nào dưới đây?",
+    "answer": "Tiến hành các cuộc chiến tranh nhằm mở rộng lãnh thổ;"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Nhà nước đặt ra các loại thuế và bắt các cá nhân, tổ chức phải đóng góp nhằm mục đích gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Nhà nước chủ nô không có chức năng đối nội nào dưới đây?",
+    "answer": "Tiến hành các cuộc chiến tranh xâm lược;"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Đông có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Thuế do Nhà nước đặt ra"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Kiểu nhà nước xuất hiện đầu tiên của xã hội loài người là?",
+    "answer": "Kiểu nhà nước Chủ nô"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Hình thức chính thể là gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Nhà nước ban hành ra pháp luật để nhằm mục đích gì?",
+    "answer": "Sử dụng pháp luật như một công cụ để thực hiện các chức năng và nhiệm vụ của nhà nước"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Trong hình thức chính thể quân chủ tuyệt đối, bộ máy nhà nước không có chức danh nào dưới đây?",
+    "answer": "Thủ tướng"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không có cơ quan nào dưới đây?",
+    "answer": "Nghị viện"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “tâm lý”",
+    "answer": "Thuyết tâm lý"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Phương án nào không thể hiện chức năng đối nội của nhà nước tư sản",
+    "answer": "Gây ảnh hưởng quốc tế, khẳng định vị trí của mình trên trường quốc tế;"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không có các chức danh nào dưới đây?",
+    "answer": "Vua"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Theo học thuyết Mác, Nhà nước bắt đầu xuất hiện từ khi nào?",
+    "answer": "Khi mâu thuẫn giữa các tầng lớp, giai cấp trong xã hội đã phát triển đến mức không thể điều hòa."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị không có đặc điểm nào dưới đây?",
+    "answer": "Tổng thống trực tiếp hoặc gián tiếp do nhân dân bầu ra, làm việc theo nhiệm kỳ"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Kiểu nhà nước là gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa lưỡng tính"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Cho biết nhận định nào dưới đây không đúng?",
+    "answer": "Các nhà nước phong kiến đều được hình thành từ sự tan rã của xã hội chiếm hữu nô lệ"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Nhà nước phong kiến có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị có những đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa gồm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước trên cơ sở “thỏa ước”",
+    "answer": "Thuyết khế ước xã hội"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Bộ máy nhà nước có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trong lịch sử KHÔNG tồn tại kiểu nhà nước nào?",
+    "answer": "Cộng sản nguyên thủy"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Trong lịch sử KHÔNG tồn tại hình thức chính thể nào?",
+    "answer": "Hình thức chính thể dân chủ"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “ngoài trái đất”",
+    "answer": "Thuyết siêu trái đất"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về Nhà nước phong kiến là đúng?",
+    "answer": "Nhà nước phong kiến có nhiều điểm tiến bộ hơn nhà nước chủ nô"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối ngoại của nhà nước XHCN?",
+    "answer": "Củng cố và bảo vệ chế độ công hữu và làm chủ tập thể đối với tư liệu sản xuất chủ yếu của xã hội;"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Cơ quan là việc theo chế độ thủ trưởng lãnh đạo là cơ quan nào trong số các cơ quan sau đây:",
+    "answer": "Bộ"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng nhất?",
+    "answer": "Các học thuyết đều giải thích nguồn gốc của nhà nước theo các góc độ tiếp cận khác nhau"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không áp dụng nguyên tắc tổ chức nào dưới đây?",
+    "answer": "Nguyên tắc tam quyền phân lập"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống không có đặc điểm nào dưới đây?",
+    "answer": "Tổng thống có quyền giải tán Nghị viện trước thời hạn"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về xã hội cộng sản nguyên thủy là đúng?",
+    "answer": "Quyền lực đã xuất hiện nhưng thuộc về cả cộng đồng"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Một số nhà nước tư sản hình thành từ sự tan rã của nhà nước phong kiến, một số khác được hình thành từ sự tan rã của các nhà nước XHCN"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Đông không có đặc điểm nào dưới đây?",
+    "answer": "Chịu ảnh hưởng nhiều của Thiên chúa giáo"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Nhà nước chủ nô có các chức năng đối ngoại nào?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Nhà nước tư sản không tồn tại hình thức chính thể nào dưới đây?",
+    "answer": "Cộng hòa XHCN"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Trong hình thức chính thể cộng hòa đại nghị, bộ máy nhà nước không có các chức danh nào dưới đây?",
+    "answer": "Vua"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng?",
+    "answer": "Kiểu nhà nước sau luôn chứa đựng những tàn dư của kiểu nhà nước trước đó"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Trong hình thức chính thể cộng hòa tổng thống, bộ máy nhà nước không có chức danh nào dưới đây?",
+    "answer": "Thủ tướng"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị không có đặc điểm nào dưới đây?",
+    "answer": "Tổng thống không có quyền giải tán Nghị viện trước thời hạn"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Nhà nước chủ nô có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể quân chủ hạn chế"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Nhà nước được giai cấp thống trị lập ra KHÔNG nhằm mục đích chính là gì ?",
+    "answer": "Để bảo vệ địa vị của kẻ yếu trong xã hội."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Bản chất giai cấp của nhà nước không được thể hiện ở đặc điểm nào dưới đây:",
+    "answer": "Các giai cấp bình đẳng về địa vị và quyền lợi"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Chức năng đối nội của nhà nước XHCN được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Nhà nước chủ nô không có đặc điểm nào dưới đây?",
+    "answer": "Tồn tại trong xã hội cộng sản nguyên thủy"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Học thuyết nào được phổ biến giảng dạy trong phạm vi trường học ở Việt Nam?",
+    "answer": "Học thuyết của Mác - Lê nin"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa gồm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối ngoại của nhà nước tư sản?",
+    "answer": "Đàn áp giai cấp công nhân và nhân dân lao động trong nước về chính trị, tư tưởng;"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Phương thức quản lý đặc trưng của Nhà nước để quản lý dân cư được thực hiện như thế nào?",
+    "answer": "Chia dân theo từng đơn vị hành chính lãnh thổ để quản lý"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Tây tồn tại trên nền tảng xã hội không có đặc điểm nào dưới đây?",
+    "answer": "Mâu thuẫn giữa chủ nô và nô lệ không quá sâu sắc"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “bạo lực”",
+    "answer": "Thuyết bạo lực"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Trong lịch sử các kiểu nhà nước nào sau đây đã tồn tại?",
+    "answer": "Chủ nô, phong kiến, tư sản, xã hội chủ nghĩa."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Trong tất cả các bộ máy nhà nước tư sản, không có chức danh nào dưới đây?",
+    "answer": "Chủ tịch nước"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Nhà nước phong kiến có chức năng đối nội nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Xã hội XHCN dựa trên nền tảng tư hữu đối với tư liệu sản xuất"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống không có đặc điểm nào dưới đây?",
+    "answer": "Nghị viện có quyền giải tán Chính phủ"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về hình thức chính thể quân chủ hạn chế là không chính xác?",
+    "answer": "Vua chỉ nắm thần quyền, không nắm vương quyền"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản không có cơ quan nào dưới đây?",
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Cơ sở nền tảng của xã hội phong kiến có đặc điểm gì dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa quý tộc"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Chức năng đối ngoại của nhà nước là gì?",
+    "answer": "Phạm vi hoạt động vượt ra khỏi những việc nội bộ của đất nước"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Các cơ quan quyền lực nhà nước gồm có:",
+    "answer": "Quốc hội, Hội đồng nhân dân"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không có các chức danh nào dưới đây?",
+    "answer": "Tổng thống"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ là gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không có đặc điểm nào dưới đây?",
+    "answer": "Người đứng đầu nhà nước là tổng thống"
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Nhà nước tư sản không tồn tại hình thức chính thể nào dưới đây?",
+    "answer": "Quân chủ tuyệt đối"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Cho biết nhận định nào dưới đây là đúng?",
+    "answer": "Nhà nước phong kiến là kiểu nhà nước thứ hai xuất hiện trong lịch sử"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Nhà nước thiết lập một quyền lực công cộng đặc biệt trên phạm vi lãnh thổ được hiểu như thế nào?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Phương án nào không thể hiện chức năng đối nội của nhà nước tư sản",
+    "answer": "Phòng thủ đất nước và phát triển quan hệ đối ngoại"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Trong hình thức chính thể quân chủ lập hiến, bộ máy nhà nước không có các chức danh nào dưới đây?",
+    "answer": "Tổng thống"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối nội của nhà nước XHCN?",
+    "answer": "Thiết lập các quan hệ đối ngoại giữa các nước trong khối XHCN"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Trong tất cả các bộ máy nhà nước tư sản, không có chức danh nào dưới đây?",
+    "answer": "Tổng bí thư"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Nhà nước càng phát triển, ổn định, nguồn lực dồi dào thì tính xã hội càng biểu hiện rõ"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Mục đích chính của các học thuyết về nguồn gốc nhà nước",
+    "answer": "Giải thích về quá trình hình thành của các nhà nước"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông tồn tại trên nền tảng xã hội có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Hình thức cấu trúc nhà nước đơn nhất có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Đặc điểm của nhà nước có ý nghĩa gì?",
+    "answer": "Để nhận biết được sự tồn tại của nhà nước và sự khác biệt với các tổ chức khác trong xã hội."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Hình thức nhà nước không được xem xét trên góc độ nào dưới đây?",
+    "answer": "Hình thức pháp luật"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Nhà nước XHCN áp dụng hình thức chính thể nào dưới đây?",
+    "answer": "Cộng hòa dân chủ"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Chức năng đối ngoại có tác động hỗ trợ cho sự phát triển của chức năng đối nội"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Tây có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Hình thức cấu trúc nhà nước liên bang có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Nhà nước chưa phát triển, nguồn lực còn hạn chế, hoặc trong những giai đoạn khủng hoảng, bất ổn thì tính giai cấp lại thể hiện rõ"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Thành viên Chính phủ không bao gồm chức danh nào dưới đây?",
+    "answer": "Thủ trưởng cơ quan thuộc Chính phủ."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị có những đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Hình thức cấu trúc nhà nước đơn nhất không có đặc điểm nào dưới đây?",
+    "answer": "Lãnh thổ được hình thành do sự kết hợp của nhiều bang, mỗi bang gần như một nhà nước đơn nhất"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Chức năng của nhà nước gồm những loại nào?",
+    "answer": "Có cả chức năng đối nội và chức năng đối ngoại"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Chủ quyền quốc gia được hiểu như thế nào?",
+    "answer": "Là quyền của chủ thể làm chủ một quốc gia"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Bản chất giai cấp và bản chất xã hội của nhà nước có đặc điểm gì?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông tồn tại trên nền tảng xã hội không có đặc điểm nào dưới đây?",
+    "answer": "Mâu thuẫn giữa giai cấp chủ nô và nô lệ rất sâu sắc"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Phương án nào không thể hiện chức năng đối nội của nhà nước tư sản",
+    "answer": "Tiến hành chiến tranh xâm lược khi có điều kiện, phát triển các liên minh quân sự, kinh tế nhằm bảo vệ chủ nghĩa tư bản trên toàn cầu;"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “thần”",
+    "answer": "Thuyết thần học"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông không có đặc điểm nào dưới đây?",
+    "answer": "Tồn tại trong xã hội phong kiến"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Đông không có đặc điểm nào dưới đây?",
+    "answer": "Chủ yếu là hình thức phân quyền cát cứ"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Chế độ chính trị là gì?",
+    "answer": "Là tổng thể các phương pháp, thủ đoạn được sử dụng để tổ chức thực hiện quyền lực nhà nước"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Bản chất giai cấp của nhà nước phong kiến được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về hình thức chính thể quân chủ tuyệt đối là không chính xác?",
+    "answer": "Vua chỉ nắm thần quyền, không nắm vương quyền"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản không có cơ quan nào dưới đây?",
+    "answer": "Viện kiểm sát nhân dân"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Nhà nước chủ nô không có chức năng đối nội nào dưới đây?",
+    "answer": "Thực hiện các quan hệ đối ngoại, buôn bán với các quốc gia khác."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Tây tồn tại trên nền tảng xã hội có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Hình thức nhà nước được xem xét trên các góc độ nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Nguyên tắc tam quyền phân lập trong tổ chức quyền lực nhà nước không được thể hiện ở phương án nào dưới đây?",
+    "answer": "Quyền lực nhà nước là thống nhất, tập trung về một cơ quan do nhân dân bầu ra."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Chức năng của nhà nước là gì?",
+    "answer": "Là những phương diện hoạt động cơ bản của nhà nước nhằm để thực hiện các nhiệm vụ của nhà nước"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Nhà nước tư sản không tồn tại hình thức chính thể nào dưới đây?",
+    "answer": "Cộng hòa XHCN"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Hình thức cấu trúc nhà nước đơn nhất không có đặc điểm nào dưới đây?",
+    "answer": "Lãnh thổ được hình thành do sự kết hợp của nhiều bang, mỗi bang gần như một nhà nước đơn nhất"
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống không có đặc điểm nào dưới đây?",
+    "answer": "Nghị viện có quyền giải tán Chính phủ"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Đông không có đặc điểm nào dưới đây?",
+    "answer": "Chủ yếu là hình thức phân quyền cát cứ"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Bản chất xã hội của nhà nước không được thể hiện ở đặc điểm nào dưới đây?",
+    "answer": "Lợi ích của mọi người trong xã hội được hưởng phụ thuộc vào vị trí giai cấp của họ"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Học thuyết nào được phổ biến giảng dạy trong phạm vi trường học ở Việt Nam?",
+    "answer": "Học thuyết của Mác - Lê nin"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Nhà nước ban hành ra pháp luật để nhằm mục đích gì?",
+    "answer": "Sử dụng pháp luật như một công cụ để thực hiện các chức năng và nhiệm vụ của nhà nước"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Chức năng đối ngoại của nhà nước XHCN được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Tây có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa gồm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Nhà nước càng phát triển, ổn định, nguồn lực dồi dào thì tính xã hội càng biểu hiện rõ"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Đặc điểm của nhà nước có ý nghĩa gì?",
+    "answer": "Để nhận biết được sự tồn tại của nhà nước và sự khác biệt với các tổ chức khác trong xã hội."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ là gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa lưỡng tính"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Cơ sở nền tảng của xã hội phong kiến có đặc điểm gì dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Nhà nước chủ nô có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Trong tất cả các bộ máy nhà nước tư sản, không có chức danh nào dưới đây?",
+    "answer": "Tổng bí thư"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Phương án nào không thể hiện chức năng đối nội của nhà nước tư sản",
+    "answer": "Tiến hành chiến tranh xâm lược khi có điều kiện, phát triển các liên minh quân sự, kinh tế nhằm bảo vệ chủ nghĩa tư bản trên toàn cầu;"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Trong hình thức chính thể quân chủ tuyệt đối, bộ máy nhà nước không có chức danh nào dưới đây?",
+    "answer": "Thủ tướng"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Trong hình thức chính thể cộng hòa đại nghị, bộ máy nhà nước không có các chức danh nào dưới đây?",
+    "answer": "Vua"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Nhà nước tư sản không tồn tại hình thức chính thể nào dưới đây?",
+    "answer": "Quân chủ tuyệt đối"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “bạo lực”",
+    "answer": "Thuyết bạo lực"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Hình thức cấu trúc nhà nước đơn nhất có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Nhà nước XHCN đều hình thành từ sự tan rã của nhà nước tư sản"
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "Kiểu nhà nước là gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Đông không có đặc điểm nào dưới đây?",
+    "answer": "Chịu ảnh hưởng nhiều của Thiên chúa giáo"
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Bản chất xã hội của nhà nước được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Các cơ quan quản lý hành chính nhà nước gồm có:",
+    "answer": "Chính phủ, Ủy ban nhân dân"
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Cho biết nhận định nào dưới đây không đúng?",
+    "answer": "Các nhà nước phong kiến đều được hình thành từ sự tan rã của xã hội chiếm hữu nô lệ"
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông tồn tại trên nền tảng xã hội có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Cơ quan tư pháp của nhà nước ta gồm có:",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Phương thức quản lý đặc trưng của Nhà nước để quản lý dân cư được thực hiện như thế nào?",
+    "answer": "Chia dân theo từng đơn vị hành chính lãnh thổ để quản lý"
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không áp dụng nguyên tắc tổ chức nào dưới đây?",
+    "answer": "Nguyên tắc tam quyền phân lập"
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Trong lịch sử KHÔNG tồn tại hình thức chính thể nào?",
+    "answer": "Hình thức chính thể dân chủ"
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Mục đích chính của các học thuyết về nguồn gốc nhà nước",
+    "answer": "Giải thích về quá trình hình thành của các nhà nước"
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không áp dụng nguyên tắc tổ chức nào dưới đây?",
+    "answer": "Nguyên tắc tam quyền phân lập"
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản có cơ quan nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Tính giai cấp của nhà nước tư sản thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa quý tộc"
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa đại nghị"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Nhà nước tư sản có chức năng đối nội nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Các cơ quan quyền lực nhà nước gồm có:",
+    "answer": "Quốc hội, Hội đồng nhân dân"
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không có đặc điểm nào dưới đây?",
+    "answer": "Người đứng đầu nhà nước là tổng thống"
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Quyền lực công cộng đặc biệt được thiết lập trên phạm vi toàn bộ lãnh thổ của nhà nước có đặc điểm gì?",
+    "answer": "Là quyền lực của nhà nước"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Bản chất giai cấp của nhà nước được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Nhà nước phong kiến có chức năng đối ngoại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Tính giai cấp của nhà nước chủ nô được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Các hình thức hoạt động cơ bản để thực hiện chức năng của nhà nước là?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Chức năng của nhà nước là gì?",
+    "answer": "Là những phương diện hoạt động cơ bản của nhà nước nhằm để thực hiện các nhiệm vụ của nhà nước"
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Nhà nước phong kiến có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Nhà nước chủ nô không có chức năng đối nội nào dưới đây?",
+    "answer": "Thực hiện các quan hệ đối ngoại, buôn bán với các quốc gia khác."
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Tây tồn tại trên nền tảng xã hội không có đặc điểm nào dưới đây?",
+    "answer": "Mâu thuẫn giữa chủ nô và nô lệ không quá sâu sắc"
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Cơ quan là việc theo chế độ thủ trưởng lãnh đạo là cơ quan nào trong số các cơ quan sau đây:",
+    "answer": "Bộ"
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Bản chất giai cấp của nhà nước phong kiến được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Bản chất giai cấp và bản chất xã hội của nhà nước có đặc điểm gì?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Đông có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Chức năng đối nội của nhà nước XHCN được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Nhà nước có chủ quyền quốc gia được hiểu như thế nào?",
+    "answer": "Nhà nước đại diện cho nhân dân cả nước thực hiện một số quyền của chủ quốc gia"
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông không có đặc điểm nào dưới đây?",
+    "answer": "Tồn tại trong xã hội phong kiến"
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa tổng thống"
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Nhà nước chủ nô không có chức năng đối nội nào dưới đây?",
+    "answer": "Tiến hành các cuộc chiến tranh xâm lược;"
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Nhà nước do ai lập ra ?",
+    "answer": "Do giai cấp thống trị lập ra."
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Phương án nào không thể hiện chức năng đối nội của nhà nước tư sản",
+    "answer": "Gây ảnh hưởng quốc tế, khẳng định vị trí của mình trên trường quốc tế;"
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối nội của nhà nước XHCN?",
+    "answer": "Bảo vệ tổ quốc, chống kẻ thù xâm lược;"
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa gồm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Chủ quyền quốc gia được hiểu như thế nào?",
+    "answer": "Là quyền của chủ thể làm chủ một quốc gia"
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Nhà nước phong kiến không có chức năng đối nội nào dưới đây?",
+    "answer": "Tiến hành các cuộc chiến tranh nhằm mở rộng lãnh thổ;"
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không có các chức danh nào dưới đây?",
+    "answer": "Vua"
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Thành viên Chính phủ không bao gồm chức danh nào dưới đây?",
+    "answer": "Thủ trưởng cơ quan thuộc Chính phủ."
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Nhà nước chủ nô có các chức năng đối ngoại nào?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Chức năng đối ngoại của nhà nước là gì?",
+    "answer": "Phạm vi hoạt động vượt ra khỏi những việc nội bộ của đất nước"
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng nhất?",
+    "answer": "Các học thuyết đều giải thích nguồn gốc của nhà nước theo các góc độ tiếp cận khác nhau"
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối nội của nhà nước XHCN?",
+    "answer": "Thiết lập các quan hệ đối ngoại giữa các nước trong khối XHCN"
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về hình thức chính thể quân chủ tuyệt đối là không chính xác?",
+    "answer": "Vua chỉ nắm thần quyền, không nắm vương quyền"
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống không có đặc điểm nào dưới đây?",
+    "answer": "Tổng thống có quyền giải tán Nghị viện trước thời hạn"
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Chức năng đối nội của nhà nước là gì?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Nhà nước chưa phát triển, nguồn lực còn hạn chế, hoặc trong những giai đoạn khủng hoảng, bất ổn thì tính giai cấp lại thể hiện rõ"
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản không có cơ quan nào dưới đây?",
+    "answer": "Viện kiểm sát nhân dân"
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa"
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị không có đặc điểm nào dưới đây?",
+    "answer": "Tổng thống trực tiếp hoặc gián tiếp do nhân dân bầu ra, làm việc theo nhiệm kỳ"
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Nhà nước đặt ra các loại thuế và bắt các cá nhân, tổ chức phải đóng góp nhằm mục đích gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Theo học thuyết Mác, Nhà nước bắt đầu xuất hiện từ khi nào?",
+    "answer": "Khi mâu thuẫn giữa các tầng lớp, giai cấp trong xã hội đã phát triển đến mức không thể điều hòa."
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Nhận định nào sau đây không đúng?",
+    "answer": "Kiểu nhà nước sau luôn chứa đựng những tàn dư của kiểu nhà nước trước đó"
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Chế độ chính trị là gì?",
+    "answer": "Là tổng thể các phương pháp, thủ đoạn được sử dụng để tổ chức thực hiện quyền lực nhà nước"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể quân chủ hạn chế"
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Tây tồn tại trên nền tảng xã hội có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông tồn tại trên nền tảng xã hội không có đặc điểm nào dưới đây?",
+    "answer": "Mâu thuẫn giữa giai cấp chủ nô và nô lệ rất sâu sắc"
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối ngoại của nhà nước tư sản?",
+    "answer": "Đàn áp giai cấp công nhân và nhân dân lao động trong nước về chính trị, tư tưởng;"
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Quyền lực là gì?",
+    "answer": "Quyền tác động lên các chủ thể khác"
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “thần”",
+    "answer": "Thuyết thần học"
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Trong hình thức chính thể quân chủ lập hiến, bộ máy nhà nước không có các chức danh nào dưới đây?",
+    "answer": "Tổng thống"
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Đông có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Trong hình thức chính thể cộng hòa tổng thống, bộ máy nhà nước không có chức danh nào dưới đây?",
+    "answer": "Thủ tướng"
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Hình thức chính thể là gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản không có cơ quan nào dưới đây?",
+    "answer": "Tòa án nhân dân"
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Nhà nước phong kiến có chức năng đối nội nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Hình thức nhà nước được xem xét trên các góc độ nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “tâm lý”",
+    "answer": "Thuyết tâm lý"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Học thuyết nào được phổ biến giảng dạy trong phạm vi trường học ở Việt Nam?",
+    "answer": "Học thuyết của Mác - Lê nin"
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Tính giai cấp của nhà nước tư sản không thể hiện ở phương án nào dưới đây?",
+    "answer": "Giai cấp tư sản sử dụng nhà nước để bảo vệ những lợi ích chung của toàn xã hội"
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Hình thức chính thể quân chủ"
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Nhà nước tư sản đều hình thành từ sự tan rã của nhà nước phong kiến"
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Cho biết nhận định nào dưới đây là đúng?",
+    "answer": "Nhà nước phong kiến là kiểu nhà nước thứ hai xuất hiện trong lịch sử"
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Phương án nào không thể hiện chức năng đối nội của nhà nước tư sản",
+    "answer": "Phòng thủ đất nước và phát triển quan hệ đối ngoại"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không có các chức danh nào dưới đây?",
+    "answer": "Tổng thống"
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Nhà nước chưa phát triển, nguồn lực còn hạn chế, hoặc trong những giai đoạn khủng hoảng, bất ổn thì tính giai cấp lại thể hiện rõ"
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Chức năng của nhà nước gồm những loại nào?",
+    "answer": "Có cả chức năng đối nội và chức năng đối ngoại"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Xã hội XHCN dựa trên nền tảng tư hữu đối với tư liệu sản xuất"
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Nhà nước XHCN áp dụng hình thức chính thể nào dưới đây?",
+    "answer": "Cộng hòa dân chủ"
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Trong lịch sử các kiểu nhà nước nào sau đây đã tồn tại?",
+    "answer": "Chủ nô, phong kiến, tư sản, xã hội chủ nghĩa."
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “thần”",
+    "answer": "Thuyết thần học"
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về hình thức chính thể quân chủ hạn chế là không chính xác?",
+    "answer": "Vua chỉ nắm thần quyền, không nắm vương quyền"
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Nhà nước tư sản có chức năng đối ngoại nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể quân chủ tuyệt đối"
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước trên cơ sở “thỏa ước”",
+    "answer": "Thuyết khế ước xã hội"
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Nhà nước thiết lập một quyền lực công cộng đặc biệt trên phạm vi lãnh thổ được hiểu như thế nào?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị có những đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Nguyên tắc tam quyền phân lập trong tổ chức quyền lực nhà nước không được thể hiện ở phương án nào dưới đây?",
+    "answer": "Quyền lực nhà nước là thống nhất, tập trung về một cơ quan do nhân dân bầu ra."
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Chức năng đối nội là cơ bản, quyết định tính chất, mức độ của chức năng đối ngoại"
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Bản chất xã hội của nhà nước không được thể hiện ở đặc điểm nào dưới đây?",
+    "answer": "Lợi ích của mọi người trong xã hội được hưởng phụ thuộc vào vị trí giai cấp của họ"
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Bản chất giai cấp của nhà nước không được thể hiện ở đặc điểm nào dưới đây:",
+    "answer": "Các giai cấp bình đẳng về địa vị và quyền lợi"
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Nhà nước có bao nhiêu đặc điểm?",
+    "answer": "Vô số đặc điểm"
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Chức năng đối ngoại có tác động hỗ trợ cho sự phát triển của chức năng đối nội"
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Trong lịch sử KHÔNG tồn tại kiểu nhà nước nào?",
+    "answer": "Cộng sản nguyên thủy"
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị không có đặc điểm nào dưới đây?",
+    "answer": "Tổng thống không có quyền giải tán Nghị viện trước thời hạn"
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Tính xã hội của nhà nước tư sản không thể hiện ở phương án nào dưới đây?",
+    "answer": "Giai cấp tư sản sử dụng nhà nước như một công cụ để bảo vệ địa vị và quyền lợi cho giai cấp mình."
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Hình thức cấu trúc nhà nước liên bang có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Nhà nước chủ nô không có đặc điểm nào dưới đây?",
+    "answer": "Tồn tại trong xã hội cộng sản nguyên thủy"
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Tây có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Nhà nước được giai cấp thống trị lập ra KHÔNG nhằm mục đích chính là gì ?",
+    "answer": "Để bảo vệ địa vị của kẻ yếu trong xã hội."
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Trong tất cả các bộ máy nhà nước tư sản, không có chức danh nào dưới đây?",
+    "answer": "Chủ tịch nước"
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị có những đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa gồm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Kiểu nhà nước xuất hiện đầu tiên của xã hội loài người là?",
+    "answer": "Kiểu nhà nước Chủ nô"
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối ngoại của nhà nước XHCN?",
+    "answer": "Củng cố và bảo vệ chế độ công hữu và làm chủ tập thể đối với tư liệu sản xuất chủ yếu của xã hội;"
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Xã hội tư bản chủ nghĩa dựa trên nền tảng công hữu đối với tư liệu sản xuất"
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông không có đặc điểm nào dưới đây?",
+    "answer": "Xuất hiện sau các nhà nước chủ nô phương Tây"
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về xã hội cộng sản nguyên thủy là đúng?",
+    "answer": "Quyền lực đã xuất hiện nhưng thuộc về cả cộng đồng"
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Nhà nước phân chia dân cư theo huyết thống để quản lý"
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản không có cơ quan nào dưới đây?",
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị có những đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Thuế do Nhà nước đặt ra"
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về Nhà nước phong kiến là đúng?",
+    "answer": "Nhà nước phong kiến có nhiều điểm tiến bộ hơn nhà nước chủ nô"
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “ngoài trái đất”",
+    "answer": "Thuyết siêu trái đất"
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không có cơ quan nào dưới đây?",
+    "answer": "Nghị viện"
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": "Bộ máy nhà nước có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Một số nhà nước tư sản hình thành từ sự tan rã của nhà nước phong kiến, một số khác được hình thành từ sự tan rã của các nhà nước XHCN"
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "Hình thức nhà nước không được xem xét trên góc độ nào dưới đây?",
+    "answer": "Hình thức pháp luật"
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa đại nghị"
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": "Đặc điểm của nhà nước có ý nghĩa gì?",
+    "answer": "Để nhận biết được sự tồn tại của nhà nước và sự khác biệt với các tổ chức khác trong xã hội."
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không có đặc điểm nào dưới đây?",
+    "answer": "Người đứng đầu nhà nước là tổng thống"
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "Nhà nước chủ nô không có đặc điểm nào dưới đây?",
+    "answer": "Tồn tại trong xã hội cộng sản nguyên thủy"
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Chủ quyền quốc gia được hiểu như thế nào?",
+    "answer": "Là quyền của chủ thể làm chủ một quốc gia"
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Chức năng đối ngoại có tác động hỗ trợ cho sự phát triển của chức năng đối nội"
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Nhà nước tư sản đều hình thành từ sự tan rã của nhà nước phong kiến"
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Chế độ chính trị là gì?",
+    "answer": "Là tổng thể các phương pháp, thủ đoạn được sử dụng để tổ chức thực hiện quyền lực nhà nước"
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Nhà nước XHCN áp dụng hình thức chính thể nào dưới đây?",
+    "answer": "Cộng hòa dân chủ"
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Cho biết nhận định nào dưới đây không đúng?",
+    "answer": "Các nhà nước phong kiến đều được hình thành từ sự tan rã của xã hội chiếm hữu nô lệ"
+  },
+  {
+    "id": 321,
+    "premium": false,
+    "question": "Kiểu nhà nước là gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 322,
+    "premium": false,
+    "question": "Kiểu nhà nước xuất hiện đầu tiên của xã hội loài người là?",
+    "answer": "Kiểu nhà nước Chủ nô"
+  },
+  {
+    "id": 323,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa"
+  },
+  {
+    "id": 324,
+    "premium": false,
+    "question": "Chức năng của nhà nước là gì?",
+    "answer": "Là những phương diện hoạt động cơ bản của nhà nước nhằm để thực hiện các nhiệm vụ của nhà nước"
+  },
+  {
+    "id": 325,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ là gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 326,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản có cơ quan nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 327,
+    "premium": false,
+    "question": "Trong hình thức chính thể cộng hòa tổng thống, bộ máy nhà nước không có chức danh nào dưới đây?",
+    "answer": "Thủ tướng"
+  },
+  {
+    "id": 328,
+    "premium": false,
+    "question": "Nhà nước chủ nô có các chức năng đối ngoại nào?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 329,
+    "premium": false,
+    "question": "Học thuyết nào được phổ biến giảng dạy trong phạm vi trường học ở Việt Nam?",
+    "answer": "Học thuyết của Mác - Lê nin"
+  },
+  {
+    "id": 330,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 331,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “thần”",
+    "answer": "Thuyết thần học"
+  },
+  {
+    "id": 332,
+    "premium": false,
+    "question": "Bộ máy nhà nước có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 333,
+    "premium": false,
+    "question": "Hình thức cấu trúc nhà nước đơn nhất không có đặc điểm nào dưới đây?",
+    "answer": "Lãnh thổ được hình thành do sự kết hợp của nhiều bang, mỗi bang gần như một nhà nước đơn nhất"
+  },
+  {
+    "id": 334,
+    "premium": false,
+    "question": "Phương án nào không thể hiện chức năng đối nội của nhà nước tư sản",
+    "answer": "Tiến hành chiến tranh xâm lược khi có điều kiện, phát triển các liên minh quân sự, kinh tế nhằm bảo vệ chủ nghĩa tư bản trên toàn cầu;"
+  },
+  {
+    "id": 335,
+    "premium": false,
+    "question": "Trong tất cả các bộ máy nhà nước tư sản, không có chức danh nào dưới đây?",
+    "answer": "Tổng bí thư"
+  },
+  {
+    "id": 336,
+    "premium": false,
+    "question": "Nhà nước được giai cấp thống trị lập ra KHÔNG nhằm mục đích chính là gì ?",
+    "answer": "Để bảo vệ địa vị của kẻ yếu trong xã hội."
+  },
+  {
+    "id": 337,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Xã hội XHCN dựa trên nền tảng tư hữu đối với tư liệu sản xuất"
+  },
+  {
+    "id": 338,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “tâm lý”",
+    "answer": "Thuyết tâm lý"
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa quý tộc"
+  },
+  {
+    "id": 340,
+    "premium": false,
+    "question": "Trong lịch sử các kiểu nhà nước nào sau đây đã tồn tại?",
+    "answer": "Chủ nô, phong kiến, tư sản, xã hội chủ nghĩa."
+  },
+  {
+    "id": 341,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể quân chủ hạn chế"
+  },
+  {
+    "id": 342,
+    "premium": false,
+    "question": "Phương thức quản lý đặc trưng của Nhà nước để quản lý dân cư được thực hiện như thế nào?",
+    "answer": "Chia dân theo từng đơn vị hành chính lãnh thổ để quản lý"
+  },
+  {
+    "id": 343,
+    "premium": false,
+    "question": "Các hình thức hoạt động cơ bản để thực hiện chức năng của nhà nước là?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 344,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Tây có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 345,
+    "premium": false,
+    "question": "Phương án nào không thể hiện chức năng đối nội của nhà nước tư sản",
+    "answer": "Gây ảnh hưởng quốc tế, khẳng định vị trí của mình trên trường quốc tế;"
+  },
+  {
+    "id": 346,
+    "premium": false,
+    "question": "Nhà nước thiết lập một quyền lực công cộng đặc biệt trên phạm vi lãnh thổ được hiểu như thế nào?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 347,
+    "premium": false,
+    "question": "Chức năng đối ngoại của nhà nước là gì?",
+    "answer": "Phạm vi hoạt động vượt ra khỏi những việc nội bộ của đất nước"
+  },
+  {
+    "id": 348,
+    "premium": false,
+    "question": "Mục đích chính của các học thuyết về nguồn gốc nhà nước",
+    "answer": "Giải thích về quá trình hình thành của các nhà nước"
+  },
+  {
+    "id": 349,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối ngoại của nhà nước XHCN?",
+    "answer": "Củng cố và bảo vệ chế độ công hữu và làm chủ tập thể đối với tư liệu sản xuất chủ yếu của xã hội;"
+  },
+  {
+    "id": 350,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Nhà nước XHCN đều hình thành từ sự tan rã của nhà nước tư sản"
+  },
+  {
+    "id": 351,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 352,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa gồm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 353,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Nhà nước phân chia dân cư theo huyết thống để quản lý"
+  },
+  {
+    "id": 354,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối nội của nhà nước XHCN?",
+    "answer": "Thiết lập các quan hệ đối ngoại giữa các nước trong khối XHCN"
+  },
+  {
+    "id": 355,
+    "premium": false,
+    "question": "Hình thức nhà nước không được xem xét trên góc độ nào dưới đây?",
+    "answer": "Hình thức pháp luật"
+  },
+  {
+    "id": 356,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Thuế do Nhà nước đặt ra"
+  },
+  {
+    "id": 357,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Tây có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 358,
+    "premium": false,
+    "question": "Hình thức cấu trúc nhà nước đơn nhất có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 359,
+    "premium": false,
+    "question": "Nhận định nào dưới đây không đúng?",
+    "answer": "Xã hội tư bản chủ nghĩa dựa trên nền tảng công hữu đối với tư liệu sản xuất"
+  },
+  {
+    "id": 360,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản không có cơ quan nào dưới đây?",
+    "answer": "Viện kiểm sát nhân dân"
+  },
+  {
+    "id": 361,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Nhà nước càng phát triển, ổn định, nguồn lực dồi dào thì tính xã hội càng biểu hiện rõ"
+  },
+  {
+    "id": 362,
+    "premium": false,
+    "question": "Nhà nước có chủ quyền quốc gia được hiểu như thế nào?",
+    "answer": "Nhà nước đại diện cho nhân dân cả nước thực hiện một số quyền của chủ quốc gia"
+  },
+  {
+    "id": 363,
+    "premium": false,
+    "question": "Hình thức nhà nước được xem xét trên các góc độ nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 364,
+    "premium": false,
+    "question": "Quyền lực công cộng đặc biệt được thiết lập trên phạm vi toàn bộ lãnh thổ của nhà nước có đặc điểm gì?",
+    "answer": "Là quyền lực của nhà nước"
+  },
+  {
+    "id": 365,
+    "premium": false,
+    "question": "Nhà nước chủ nô có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 366,
+    "premium": false,
+    "question": "Nhà nước phong kiến không có chức năng đối nội nào dưới đây?",
+    "answer": "Tiến hành các cuộc chiến tranh nhằm mở rộng lãnh thổ;"
+  },
+  {
+    "id": 367,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống không có đặc điểm nào dưới đây?",
+    "answer": "Tổng thống có quyền giải tán Nghị viện trước thời hạn"
+  },
+  {
+    "id": 368,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không có các chức danh nào dưới đây?",
+    "answer": "Vua"
+  },
+  {
+    "id": 369,
+    "premium": false,
+    "question": "Trong hình thức chính thể quân chủ tuyệt đối, bộ máy nhà nước không có chức danh nào dưới đây?",
+    "answer": "Thủ tướng"
+  },
+  {
+    "id": 370,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông tồn tại trên nền tảng xã hội có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 371,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị có những đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 372,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không có cơ quan nào dưới đây?",
+    "answer": "Nghị viện"
+  },
+  {
+    "id": 373,
+    "premium": false,
+    "question": "Nhà nước tư sản có chức năng đối ngoại nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 374,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Một số nhà nước tư sản hình thành từ sự tan rã của nhà nước phong kiến, một số khác được hình thành từ sự tan rã của các nhà nước XHCN"
+  },
+  {
+    "id": 375,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị không có đặc điểm nào dưới đây?",
+    "answer": "Tổng thống trực tiếp hoặc gián tiếp do nhân dân bầu ra, làm việc theo nhiệm kỳ"
+  },
+  {
+    "id": 376,
+    "premium": false,
+    "question": "Nhận định nào dưới đây về xã hội cộng sản nguyên thủy là đúng?",
+    "answer": "Quyền lực đã xuất hiện nhưng thuộc về cả cộng đồng"
+  },
+  {
+    "id": 377,
+    "premium": false,
+    "question": "Tính giai cấp của nhà nước chủ nô được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 378,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Đông có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 379,
+    "premium": false,
+    "question": "Nhà nước đặt ra các loại thuế và bắt các cá nhân, tổ chức phải đóng góp nhằm mục đích gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 380,
+    "premium": false,
+    "question": "Chức năng đối nội của nhà nước XHCN được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 381,
+    "premium": false,
+    "question": "Trong lịch sử KHÔNG tồn tại kiểu nhà nước nào?",
+    "answer": "Cộng sản nguyên thủy"
+  },
+  {
+    "id": 382,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “thần”",
+    "answer": "Thuyết thần học"
+  },
+  {
+    "id": 383,
+    "premium": false,
+    "question": "Phương án nào dưới đây không thể hiện chức năng đối ngoại của nhà nước tư sản?",
+    "answer": "Đàn áp giai cấp công nhân và nhân dân lao động trong nước về chính trị, tư tưởng;"
+  },
+  {
+    "id": 384,
+    "premium": false,
+    "question": "Hình thức chính thể quân chủ không bao gồm loại nào dưới đây?",
+    "answer": "Hình thức chính thể cộng hòa lưỡng tính"
+  },
+  {
+    "id": 385,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa gồm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 386,
+    "premium": false,
+    "question": "Bộ máy nhà nước Cộng hòa XHCN Việt Nam không áp dụng nguyên tắc tổ chức nào dưới đây?",
+    "answer": "Nguyên tắc tam quyền phân lập"
+  },
+  {
+    "id": 387,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng?",
+    "answer": "Chức năng đối nội là cơ bản, quyết định tính chất, mức độ của chức năng đối ngoại"
+  },
+  {
+    "id": 388,
+    "premium": false,
+    "question": "Học thuyết nào được phổ biến giảng dạy trong phạm vi trường học ở Việt Nam?",
+    "answer": "Học thuyết của Mác - Lê nin"
+  },
+  {
+    "id": 389,
+    "premium": false,
+    "question": "Nhà nước tư sản không tồn tại hình thức chính thể nào dưới đây?",
+    "answer": "Quân chủ tuyệt đối"
+  },
+  {
+    "id": 390,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông không có đặc điểm nào dưới đây?",
+    "answer": "Tồn tại trong xã hội phong kiến"
+  },
+  {
+    "id": 391,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 392,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị có những đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 393,
+    "premium": false,
+    "question": "Các cơ quan quyền lực nhà nước gồm có:",
+    "answer": "Quốc hội, Hội đồng nhân dân"
+  },
+  {
+    "id": 394,
+    "premium": false,
+    "question": "Nhà nước do ai lập ra ?",
+    "answer": "Do giai cấp thống trị lập ra."
+  },
+  {
+    "id": 395,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 396,
+    "premium": false,
+    "question": "Chức năng của nhà nước gồm những loại nào?",
+    "answer": "Có cả chức năng đối nội và chức năng đối ngoại"
+  },
+  {
+    "id": 397,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa gồm có những loại nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 398,
+    "premium": false,
+    "question": "Bản chất giai cấp của nhà nước được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 399,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa tổng thống có đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 400,
+    "premium": false,
+    "question": "Nhà nước phong kiến phương Đông có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 401,
+    "premium": false,
+    "question": "Chức năng đối nội của nhà nước là gì?",
+    "answer": "Cả a, b, c đều đúng."
+  },
+  {
+    "id": 402,
+    "premium": false,
+    "question": "Học thuyết nào dưới đây luận giải sự hình thành nhà nước do yếu tố “bạo lực”",
+    "answer": "Thuyết bạo lực"
+  },
+  {
+    "id": 403,
+    "premium": false,
+    "question": "Bộ máy nhà nước tư sản không có cơ quan nào dưới đây?",
+    "answer": "Quốc hội"
+  },
+  {
+    "id": 404,
+    "premium": false,
+    "question": "Nhận định nào dưới đây đúng nhất?",
+    "answer": "Các học thuyết đều giải thích nguồn gốc của nhà nước theo các góc độ tiếp cận khác nhau"
+  },
+  {
+    "id": 405,
+    "premium": false,
+    "question": "Chức năng đối ngoại của nhà nước XHCN được thể hiện như thế nào?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 406,
+    "premium": false,
+    "question": "Thành viên Chính phủ không bao gồm chức danh nào dưới đây?",
+    "answer": "Thủ trưởng cơ quan thuộc Chính phủ."
+  },
+  {
+    "id": 407,
+    "premium": false,
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answer": "Nhà nước chưa phát triển, nguồn lực còn hạn chế, hoặc trong những giai đoạn khủng hoảng, bất ổn thì tính giai cấp lại thể hiện rõ"
+  },
+  {
+    "id": 408,
+    "premium": false,
+    "question": "Bản chất xã hội của nhà nước không được thể hiện ở đặc điểm nào dưới đây?",
+    "answer": "Lợi ích của mọi người trong xã hội được hưởng phụ thuộc vào vị trí giai cấp của họ"
+  },
+  {
+    "id": 409,
+    "premium": false,
+    "question": "Nhà nước ban hành ra pháp luật để nhằm mục đích gì?",
+    "answer": "Sử dụng pháp luật như một công cụ để thực hiện các chức năng và nhiệm vụ của nhà nước"
+  },
+  {
+    "id": 410,
+    "premium": false,
+    "question": "Trong hình thức chính thể quân chủ lập hiến, bộ máy nhà nước không có các chức danh nào dưới đây?",
+    "answer": "Tổng thống"
+  },
+  {
+    "id": 411,
+    "premium": false,
+    "question": "Nhà nước tư sản không tồn tại hình thức chính thể nào dưới đây?",
+    "answer": "Cộng hòa XHCN"
+  },
+  {
+    "id": 412,
+    "premium": false,
+    "question": "Hình thức chính thể gồm có loại nào dưới đây?",
+    "answer": "Hình thức chính thể quân chủ"
+  },
+  {
+    "id": 413,
+    "premium": false,
+    "question": "Hình thức cấu trúc nhà nước liên bang có đặc điểm gì?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 414,
+    "premium": false,
+    "question": "Trong tất cả các bộ máy nhà nước tư sản, không có chức danh nào dưới đây?",
+    "answer": "Chủ tịch nước"
+  },
+  {
+    "id": 415,
+    "premium": false,
+    "question": "Hình thức chính thể là gì?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 416,
+    "premium": false,
+    "question": "Hình thức chính thể cộng hòa đại nghị có những đặc điểm nào dưới đây?",
+    "answer": "Cả a, b, c đúng."
+  },
+  {
+    "id": 417,
+    "premium": false,
+    "question": "Nhà nước chủ nô phương Đông không có đặc điểm nào dưới đây?",
+    "answer": "Xuất hiện sau các nhà nước chủ nô phương Tây"
+  },
+  {
+    "id": 418,
+    "premium": false,
+    "question": "Các cơ quan quản lý hành chính nhà nước gồm có:",
+    "answer": "Chính phủ, Ủy ban nhân dân"
+  },
+  {
+    "id": 419,
+    "premium": false,
+    "question": "Nhà nước tư sản có chức năng đối nội nào dưới đây?",
+    "answer": "Cả a, b, c đúng"
+  },
+  {
+    "id": 420,
+    "premium": false,
+    "question": "Bản chất xã hội của nhà nước không được thể hiện ở đặc điểm nào dưới đây?",
+    "answer": "Lợi ích của mọi người trong xã hội được hưởng phụ thuộc vào vị trí giai cấp của họ"
+  }
+]

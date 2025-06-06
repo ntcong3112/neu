@@ -1,0 +1,1982 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Kinh doanh - Chuyển giao (BOT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án không được quyền kinh doanh công trình đó;"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Hình thức nào sau đây là hình thức hỗ trợ đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Hỗ trợ nghiên cứu và phát triển;"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Doanh nghiệp Việt Nam là doanh nghiệp nào?",
+    "answer": "Doanh nghiệp được thành lập hoặc đăng ký thành lập theo pháp luật Việt Nam và có trụ sở chính tại Việt Nam"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, hình thức đầu tư kinh doanh từ Việt Nam ra nước ngoài nào sau đây là hình thức đầu tư trực tiếp?",
+    "answer": "Thành lập tổ chức kinh tế theo quy định của pháp luật nước tiếp nhận đầu tư"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây là sai?",
+    "answer": "Dự án đầu tư công là dự án sử dụng toàn bộ vốn đầu tư công."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Trong trường hợp nhà đầu tư nước ngoài đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": "Nhà đầu tư nước ngoài không được góp vốn vào công ty trách nhiệm hữu hạn, công ty hợp danh."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, nhà đầu tư là tổ chức, cá nhân thực hiện hoạt động đầu tư kinh doanh, bao gồm nhà đầu tư nào sau đây?",
+    "answer": "Chỉ bao gồm nhà đầu tư trong nước, nhà đầu tư nước ngoài và tổ chức kinh tế có vốn đầu tư nước ngoài."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Kinh doanh (BTO) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án không phải chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Nhà đầu tư được quyền thực hiện hoạt động đầu tư kinh doanh tại Việt Nam trong các ngành, nghề đầu tư kinh doanh nào?",
+    "answer": "Ngành, nghề mà pháp luật không cấm."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Giám đốc hoặc Tổng giám đốc công ty trách nhiệm hữu hạn hai thành viên trở lên là sai?",
+    "answer": "Giám đốc hoặc Tổng giám đốc chịu trách nhiệm trước Chủ tịch Hội đồng thành viên về việc thực hiện các quyền và nghĩa vụ của mình."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Ngành, nghề nào sau đây là ngành, nghề ưu đãi đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Sản xuất sản phẩm công nghệ thông tin, phần mềm, nội dung số."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Trong trường hợp nhà đầu tư nước ngoài đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": "Nhà đầu tư nước ngoài không được mua phần vốn góp của thành viên góp vốn trong công ty hợp danh để trở thành thành viên góp vốn của công ty hợp danh."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Theo Luật Đầu tư công 2019, dự án đầu tư độc lập hoặc cụm công trình liên kết chặt chẽ với nhau nào sau đây không đáp ứng tiêu chí là Dự án quan trọng quốc gia?",
+    "answer": "Sử dụng đất có yêu cầu chuyển mục đích sử dụng đất trồng lúa nước từ hai vụ trở lên với quy mô dưới 500 ha;"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là sai?",
+    "answer": "Mệnh giá một cổ phần là 10.000 đồng hoặc bội số của 10.000 đồng."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trường hợp nào sau đây phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Dự án đầu tư của nhà đầu tư nước ngoài;"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Dự án đầu tư theo hình thức PPP tại Việt Nam không bao gồm dự án nào sau đây?",
+    "answer": "Dự án nhóm D theo tiêu chí quy định tại pháp luật về đầu tư công."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Doanh nghiệp chế xuất tại Việt Nam là doanh nghiệp nào?",
+    "answer": "Là doanh nghiệp được thành lập và hoạt động trong khu chế xuất hoặc doanh nghiệp chuyên sản xuất sản phẩm để xuất khẩu hoạt động trong khu công nghiệp, khu kinh tế."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Giám đốc hoặc Tổng giám đốc công ty cổ phần là sai?",
+    "answer": "Giám đốc hoặc Tổng giám đốc phải là người đại diện theo pháp luật của công ty cổ phần."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, trường hợp công ty cổ phần tổ chức theo mô hình Đại hội đồng cổ đông, Hội đồng quản trị và Giám đốc hoặc Tổng giám đốc, nhận định nào sau đây là sai?",
+    "answer": "Công ty cổ phần phải có ít nhất 20% số thành viên Hội đồng quản trị phải là thành viên không độc lập."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Nhận định nào sau đây về vốn chủ sở hữu của nhà đầu tư để thực hiện dự án PPP tại Việt Nam là sai?",
+    "answer": "Đối với dự án có tổng vốn đầu tư đến 1.500 tỷ đồng, tỷ lệ vốn chủ sở hữu của nhà đầu tư không được thấp hơn 15% tổng vốn đầu tư;"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trường hợp nhà đầu tư nước ngoài đầu tư thành lập tổ chức kinh tế tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": "Nhà đầu tư nước ngoài trước khi thành lập tổ chức kinh tế không cần phải có dự án đầu tư."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, nhận định nào sau đây về thời hạn hoạt động của dự án đầu tư kinh doanh tại Việt Nam sai?",
+    "answer": "Thời hạn hoạt động của tất cả các dự án đầu tư ngoài khu kinh tế không quá 70 năm."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Khi thực hiện thủ tục đầu tư kinh doanh tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": "Cơ quan đăng ký đầu tư phải giải quyết tranh chấp giữa các nhà đầu tư trong quá trình hoạt động đầu tư."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Giám đốc hoặc Tổng giám đốc công ty cổ phần là sai?",
+    "answer": "Giám đốc hoặc Tổng giám đốc phải là thành viên Hội đồng quản trị."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Nhận định nào sau đây về vốn chủ sở hữu của nhà đầu tư để thực hiện dự án PPP tại Việt Nam là sai?",
+    "answer": "Đối với dự án có tổng vốn đầu tư đến 1.500 tỷ đồng, tỷ lệ vốn chủ sở hữu của nhà đầu tư không được thấp hơn 15% tổng vốn đầu tư;"
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Nhận định nào sau đây về bảo đảm đầu tư kinh doanh tại Việt Nam là sai?",
+    "answer": "Nhà nước bắt buộc nhà đầu tư phải thực hiện nhập khẩu hàng hóa với số lượng và giá trị tương ứng với số lượng và giá trị hàng hóa xuất khẩu."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là sai?",
+    "answer": "Cổ phiếu là chứng chỉ do công ty cổ phần phát hành xác nhận quyền sở hữu một cổ phần của công ty đó."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Thuê dịch vụ - Chuyển giao (BLT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án không được quyền cung cấp dịch vụ trên cơ sở vận hành, khai thác công trình đó."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Tranh chấp giữa nhà đầu tư nước ngoài với cơ quan nhà nước có thẩm quyền liên quan đến hoạt động đầu tư kinh doanh trên lãnh thổ Việt Nam được giải quyết bởi cơ quan nào?",
+    "answer": "Trọng tài Việt Nam hoặc Tòa án Việt Nam giải quyết, trừ trường hợp có thỏa thuận khác theo hợp đồng hoặc điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác;"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Trong ngành, nghề cấm hoạt động đầu tư kinh doanh tại Việt Nam sau đây, ngành, nghề nào mà một số chủ thể vẫn có thể được sản xuất, sử dụng sản phẩm?",
+    "answer": "Kinh doanh các chất ma túy."
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Thuê dịch vụ (BTL) tại Việt Nam là sai?",
+    "answer": "Cơ quan nhà nước có thẩm quyền được miễn tiền thuê dịch vụ công trình do nhà đầu tư, doanh nghiệp dự án cung cấp."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Nhận định nào sau đây về thẩm quyền quyết định chủ trương đầu tư dự án PPP tại Việt Nam do Bộ, ngành, Ủy ban nhân dân cấp tỉnh đề xuất là sai?",
+    "answer": "Ủy ban nhân dân cấp tỉnh quyết định chủ trương đầu tư tất dự án ở địa phương mình."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Hoạt động đầu tư kinh doanh trên lãnh thổ Việt Nam phải tuân thủ quy định của Luật nào sau đây?",
+    "answer": "Phải tuân thủ quy định của Luật đầu tư và luật khác có liên quan."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, dự án nào sau đây không phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Dự án đầu tư của nhà đầu tư trong nước;"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, Quốc hội có quyền quyết định chủ trương đầu tư ra nước ngoài đối với dự án có vốn đầu tư ra nước ngoài nào sau đây?",
+    "answer": "Dự án có vốn đầu tư ra nước ngoài từ 20.000 tỷ đồng trở lên và dự án yêu cầu áp dụng cơ chế, chính sách đặc biệt cần được Quốc hội quyết định."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Thuê dịch vụ (BTL) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án không được quyền cung cấp dịch vụ trên cơ sở vận hành, khai thác công trình đó;"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, cơ quan nào sau đây có thẩm quyền tiếp nhận, cấp, điều chỉnh, thu hồi Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Ban Quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế;"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về doanh nghiệp tư nhân là sai?",
+    "answer": "Mỗi cá nhân được quyền thành lập nhiều doanh nghiệp tư nhân."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Nhận định nào sau đây về bảo đảm đầu tư kinh doanh tại Việt Nam là đúng?",
+    "answer": "Nhà nước có thể trưng mua, trưng dụng tài sản của nhà đầu tư vì lý do quốc phòng, an ninh hoặc vì lợi ích quốc gia, tình trạng khẩn cấp, phòng, chống thiên."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao (BT) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án (nếu có) chỉ được thanh toán bằng tiền khi hoàn thành công trình."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty trách nhiệm hữu hạn hai thành viên trở lên là đúng?",
+    "answer": "Thành viên chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp trong phạm vi số vốn đã góp vào doanh nghiệp, trừ trường hợp quy định tại khoản 4 Điều 48 của Doanh nghiệp 2014;"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Nhận định nào sau đây về khu công nghiệp tại Việt Nam là đúng?",
+    "answer": "Khu công nghiệp là khu vực có ranh giới địa lý xác định, chuyên sản xuất hàng công nghiệp và thực hiện dịch vụ cho sản xuất công nghiệp."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên quy định khác, nhận định nào sau đây về sở hữu vốn điều lệ của nhà đầu tư nước ngoài khi đầu tư thành lập tổ chức kinh tế tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư nước ngoài được sở hữu vốn điều lệ không hạn chế tại tất cả các công ty niêm yết và công ty đại chúng."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Kinh doanh (BTO) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án không được quyền kinh doanh công trình đó trong một thời hạn nhất định sau khi chuyển giao công trình cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Cơ quan nhà nước nào sau đây không có quyền ban hành điều kiện đầu tư kinh doanh đối với ngành, nghề đầu tư kinh doanh có điều kiện tại Việt Nam?",
+    "answer": "Hội đồng nhân dân, Ủy ban nhân dân các cấp."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về dự án nhóm C là sai?",
+    "answer": "Dự án thuộc lĩnh vực vườn quốc gia, khu bảo tồn thiên nhiên có tổng mức đầu tư dưới 45 tỷ đồng."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về định giá tài sản góp vốn vào doanh nghiệp tại Việt Nam là sai?",
+    "answer": "Tài sản góp vốn có thể được định giá cao hơn so với giá trị thực tế tại thời điểm góp vốn."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về thẩm quyền quyết định chủ trương đầu tư chương trình, dự án là sai?",
+    "answer": "Hội đồng nhân dân cấp tỉnh quyết định chủ trương đầu tư tất cả dự án nhóm A do địa phương quản lý."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, khi nhà đầu tư nước ngoài đầu tư thành lập tổ chức kinh tế, nhận định nào sau đây là đúng?",
+    "answer": "Nhà đầu tư nước ngoài phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Nhận định nào sau đây về khu kinh tế tại Việt Nam là đúng?",
+    "answer": "Khu kinh tế là khu vực có ranh giới địa lý xác định, gồm nhiều khu chức năng, được thành lập để thực hiện các mục tiêu thu hút đầu tư, phát triển kinh tế - xã hội và bảo vệ quốc phòng, an ninh."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Nhận định nào sau đây về bảo đảm đầu tư kinh doanh tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư nước ngoài không được chuyển ra nước ngoài vốn đầu tư, các khoản thanh lý đầu tư;"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Trừ trường hợp dự án ứng dụng công nghệ cao và dự án áp dụng loại hợp đồng BT, dự PPP tại Việt Nam nào sau đây không phải lập, thẩm định báo cáo nghiên cứu tiền khả thi, quyết định chủ trương đầu tư?",
+    "answer": "Dự án nhóm C."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao (BT) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án (nếu có) chỉ được thanh toán bằng tiền khi hoàn thành công trình."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Nhận định nào sau đây về Cơ quan nhà nước có thẩm quyền ký kết và thực hiện hợp đồng dự án đầu tư theo hình thức PPP tại Việt Nam là sai?",
+    "answer": "Ủy ban nhân dân cấp huyện không được ký kết và thực hiện hợp đồng dự án PPP;"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Đầu tư trực tiếp tại Việt Nam là hình thức đầu tư nào?",
+    "answer": "Nhà đầu tư bỏ vốn đầu tư và trực tiếp tham gia quản lý hoạt động đầu tư."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên quy định khác, nhà đầu tư nước ngoài thành lập tổ chức kinh tế tại Việt Nam không phải đáp ứng các điều kiện nào sau đây?",
+    "answer": "Cung cấp hàng hóa, dịch vụ tại một địa điểm cụ thể ở trong nước."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Dự án BT tại Việt Nam không phải thực hiện trình tự, thủ tục đầu tư nào sau đây?",
+    "answer": "Nhà đầu tư dự án BT không phải thực hiện trình tự, thủ tục quyết định chủ trương đầu tư để thực hiện Dự án khác."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Kinh doanh - Chuyển giao (BOT) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án không phải chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về cổ đông sáng lập cổ đông sáng lập công ty cổ phần là sai?",
+    "answer": "Cổ đông sáng lập có quyền tự do chuyển nhượng cổ phần của mình cho người khác."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Nhận định nào sau đây về Cơ quan nhà nước có thẩm quyền ký kết và thực hiện hợp đồng dự án đầu tư theo hình thức PPP tại Việt Nam là sai?",
+    "answer": "Bộ, ngành không có thẩm quyền ký kết và thực hiện hợp đồng dự án PPP."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Khi đầu tư theo hình thức hợp đồng hợp tác kinh doanh tại Việt Nam giữa Công ty trách nhiệm hữu hạn 100% vốn của nhà đầu tư nước ngoài được thành lập tại Việt Nam và nhà đầu tư trong nước, các bên có thể thỏa thuận trong hợp đồng áp dụng quy định nào?",
+    "answer": "Có thể thỏa thuận việc áp dụng pháp luật nước ngoài hoặc tập quán đầu tư quốc tế nếu thỏa thuận đó không trái với quy định của pháp luật Việt Nam."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Trong trường hợp đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế tại Việt Nam, nhà đầu tư nước ngoài thực hiện thủ tục nào?",
+    "answer": "Phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế khi tổ chức kinh tế đó hoạt động trong ngành, nghề đầu tư kinh doanh có điều kiện áp dụng đối với nhà đầu tư nước ngoài;"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Nhận định nào sau đây về bảo đảm đầu tư kinh doanh tại Việt Nam là sai?",
+    "answer": "Tài sản hợp pháp của nhà đầu tư có thể bị quốc hữu hóa."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Dự án đầu tư theo hình thức PPP tại Việt Nam không bao gồm dự án nào sau đây?",
+    "answer": "Dự án nhóm D theo tiêu chí quy định tại pháp luật về đầu tư công."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Theo Luật đầu tư 2014. trừ những dự án theo quy định của pháp luật về đầu tư công, dự án thuộc thẩm quyền của Quốc Hội và Thủ tướng Chính phủ, dự án đầu tư kinh doanh tại Việt Nam nào sau đây không thuộc thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh?",
+    "answer": "Dự án xây dựng và kinh doanh cảng hàng không; vận tải hàng không;"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Phần vốn góp của Nhà nước tham gia trong dự án PPP tại Việt Nam nào sau đây là sai?",
+    "answer": "Vốn góp của Nhà nước được bố trí từ nguồn vốn đầu tư công được áp dụng đối với dự án BT."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty hợp danh là sai?",
+    "answer": "Thành viên hợp danh phải là cá nhân hoặc tổ chức, chịu trách nhiệm bằng toàn bộ tài sản của mình về các nghĩa vụ của công ty."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao (BT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền và được quyền kinh doanh công trình đó trong một thời gian nhất định."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Thuê dịch vụ (BTL) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án không được quyền cung cấp dịch vụ trên cơ sở vận hành, khai thác công trình đó;"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về doanh nghiệp là sai?",
+    "answer": "Trụ sở chính của doanh nghiệp là địa điểm kinh doanh chính của doanh nghiệp trên lãnh thổ Việt Nam."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Nhận định nào sau đây về bảo đảm đầu tư kinh doanh tại Việt Nam là đúng?",
+    "answer": "Nhà nước không bắt buộc nhà đầu tư phải thực hiện đặt trụ sở chính tại địa điểm theo yêu cầu của cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về tổ chức quản lý và hoạt động công ty trách nhiệm hữu hạn một thành viên do tổ chức làm chủ sở hữu là sai?",
+    "answer": "Hội đồng thành viên hoặc Chủ tịch công ty quyết định số lượng Kiểm soát viên, bổ nhiệm Kiểm soát viên."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao (BT) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án (nếu có) chỉ được thanh toán bằng tiền khi hoàn thành công trình."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là đúng?",
+    "answer": "Công ty cổ phần có quyền phát hành cổ phần các loại để huy động vốn."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, nhà đầu tư nước ngoài khi đầu tư thành lập tổ chức kinh tế tại Việt Nam phải thực hiện thủ tục cơ bản nào?",
+    "answer": "Thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư sau đó thực hiện thủ tục thành lập tổ chức kinh tế."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, nhận định nào sau đây về hình thức đầu tư ra nước ngoài là sai sai?",
+    "answer": "Hình thức đầu tư ra nước ngoài chỉ bao gồm hình thức đầu tư trực tiếp ra nước ngoài;"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Hội đồng quản trị công ty cổ phần là sai?",
+    "answer": "Thành viên Hội đồng quản trị phải là cổ đông của công ty."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty trách nhiệm hữu hạn hai thành viên trở lên là đúng?",
+    "answer": "Thành viên chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp trong phạm vi số vốn đã góp vào doanh nghiệp, trừ trường hợp quy định tại khoản 4 Điều 48 của Doanh nghiệp 2014;"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Dự án BT tại Việt Nam không phải thực hiện trình tự, thủ tục đầu tư nào sau đây?",
+    "answer": "Nhà đầu tư dự án BT không phải thực hiện trình tự, thủ tục quyết định chủ trương đầu tư để thực hiện Dự án khác."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Chính sách về đầu tư kinh doanh tại Việt Nam nào sau đây là sai?",
+    "answer": "Nhà nước đối xử bất bình đẳng giữa các nhà đầu tư trong nước và nhà đầu tư nước ngoài;"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng hợp tác kinh doanh (BCC) tại Việt Nam là sai?",
+    "answer": "Hợp đồng BCC được ký kết giữa nhà đầu tư trong nước với nhà đầu tư nước ngoài hoặc giữa các nhà đầu tư nước ngoài không phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là sai?",
+    "answer": "Mệnh giá một cổ phần là 10.000 đồng hoặc bội số của 10.000 đồng."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, cơ quan có thẩm quyền tiếp nhận hồ sơ đăng ký doanh nghiệp của doanh nghiệp là?",
+    "answer": "Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về tổ chức quản lý và hoạt động công ty trách nhiệm hữu hạn một thành viên do tổ chức làm chủ sở hữu là sai?",
+    "answer": "Bộ máy tổ chức quản lý công ty phải có Chủ tịch công ty và Hội đồng thành viên."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Trong trường hợp đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế tại Việt Nam, nhà đầu tư nước ngoài thực hiện thủ tục nào?",
+    "answer": "Phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế khi tổ chức kinh tế đó hoạt động trong ngành, nghề đầu tư kinh doanh có điều kiện áp dụng đối với nhà đầu tư nước ngoài;"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Theo Luật đầu tư 2014. trừ những dự án theo quy định của pháp luật về đầu tư công, dự án đầu tư kinh doanh tại Việt Nam nào sau đây thuộc thẩm quyền quyết định chủ trương đầu tư của Quốc hội?",
+    "answer": "Nhà máy điện hạt nhân;"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Nhận định nào sau đây về lĩnh vực đầu tư theo hình thức PPP tại Việt Nam là sai?",
+    "answer": "Nhà nước không khuyến khích việc thực hiện đầu tư theo hình thức PPP trong lĩnh vực hạ tầng thương mại."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Trong trường hợp nhà đầu tư nước ngoài đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": "Nhà đầu tư nước ngoài không được góp vốn vào công ty trách nhiệm hữu hạn, công ty hợp danh."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Phần vốn của Nhà nước thanh toán cho nhà đầu tư tham gia trong dự án PPP tại Việt Nam nào sau đây là sai?",
+    "answer": "Vốn thanh toán cho nhà đầu tư được sử dụng để thanh toán cho nhà đầu tư cung cấp dịch vụ theo hợp đồng BOT."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, tổ chức kinh tế là tổ chức được thành lập và hoạt động theo quy định của pháp luật Việt Nam, bao gồm tổ chức nào sau đây?",
+    "answer": "Doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã và các tổ chức khác thực hiện hoạt động đầu tư kinh doanh."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Dự án BT tại Việt Nam không phải thực hiện trình tự, thủ tục đầu tư nào sau đây?",
+    "answer": "Nhà đầu tư dự án BT không phải thực hiện trình tự, thủ tục quyết định chủ trương đầu tư để thực hiện Dự án khác."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Nhà đầu tư nước ngoài thực hiện hoạt động đầu tư kinh doanh tại Việt Nam là ai?",
+    "answer": "Cá nhân có quốc tịch nước ngoài, tổ chức thành lập theo pháp luật nước ngoài."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trường hợp nào sau đây không phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Dự án đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp của tổ chức kinh tế."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Kinh doanh (BTO) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án không được quyền kinh doanh công trình đó trong một thời hạn nhất định sau khi chuyển giao công trình cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Khi đầu tư theo hình thức hợp đồng hợp tác kinh doanh tại Việt Nam giữa nhà đầu tư nước ngoài và nhà đầu tư trong nước, các bên có thể thỏa thuận trong hợp đồng áp dụng quy định nào?",
+    "answer": "Có thể thỏa thuận việc áp dụng pháp luật nước ngoài hoặc tập quán đầu tư quốc tế nếu thỏa thuận đó không trái với quy định của pháp luật Việt Nam."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng hợp tác kinh doanh (BCC) tại Việt Nam là đúng?",
+    "answer": "Hợp đồng hợp tác kinh doanh là hợp đồng được ký giữa các nhà đầu tư nhằm hợp tác kinh doanh phân chia lợi nhuận, phân chia sản phẩm mà không thành lập tổ chức kinh tế."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, hình thức đầu tư kinh doanh từ Việt Nam ra nước ngoài nào sau đây là hình thức đầu tư trực tiếp?",
+    "answer": "Thực hiện hợp đồng BCC ở nước ngoài;"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Đại hội đồng cổ đông công ty cổ phần là sai?",
+    "answer": "Đại hội đồng cổ đông họp thường niên mỗi năm hai lần."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Nhà nước ban hành ngành, nghề đầu tư kinh doanh có điều kiện vì lý do nào?",
+    "answer": "Quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội,."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Thuê dịch vụ (BTL) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án không được quyền cung cấp dịch vụ trên cơ sở vận hành, khai thác công trình đó;"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, trừ trường hợp pháp luật về chứng khoán có quy định khác, nhận định nào sau đây về tổ chức quản lý và hoạt động của công ty cổ phần là sai?",
+    "answer": "Công ty cổ phần bắt buộc phải có Ban kiểm soát."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Nhận định nào sau đây về thẩm quyền quyết định chủ trương đầu tư dự án PPP tại Việt Nam do Bộ, ngành, Ủy ban nhân dân cấp tỉnh đề xuất là sai?",
+    "answer": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ có quyền quyết định chủ trương đầu tư tất cả dự án của bộ, ngành mình."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Kinh doanh - Chuyển giao (BOT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án không được quyền kinh doanh công trình đó;"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về kế hoạch đầu tư công là sai?",
+    "answer": "Kế hoạch đầu tư công ngắn hạn được lập trong thời hạn 03 năm."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên quy định khác, nhận định nào sau đây về sở hữu vốn điều lệ của nhà đầu tư nước ngoài khi đầu tư thành lập tổ chức kinh tế tại Việt Nam là đúng?",
+    "answer": "Nhà đầu tư nước ngoài được sở hữu vốn điều lệ tại công ty niêm yết, công ty đại chúng theo quy định của pháp luật về chứng khoán."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Hình thức nào sau đây không phải là điều kiện đầu tư kinh doanh đối với ngành, nghề đầu tư kinh doanh có điều kiện tại Việt Nam?",
+    "answer": "Giấy chứng nhận đăng ký đầu tư."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Trường hợp nào sau đây không phải là loại hình doanh nghiệp được quy định trong Luật Doanh nghiệp 2014?",
+    "answer": "Công ty tư nhân."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Ngành, nghề nào sau đây là ngành, nghề ưu đãi đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Nuôi trồng, chế biến nông sản, lâm sản, thuỷ sản; trồng và bảo vệ rừng; làm muối."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Theo Luật Đầu tư công 2019, trừ dự án thuộc thẩm quyền của Thủ tướng Chính phủ, nhận định nào sau đây về thẩm quyền quyết định đầu tư chương trình, dự án là sai?",
+    "answer": "Chủ tịch Ủy ban nhân dân cấp huyện, cấp xã quyết định đầu tư chương trình đầu tư công đã được Hội đồng nhân dân cấp tỉnh quyết định chủ trương đầu tư;"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Theo Luật đầu tư 2014. trừ những dự án theo quy định của pháp luật về đầu tư công và dự án thuộc thẩm quyền của Quốc Hội, dự án đầu tư kinh doanh tại Việt Nam nào sau đây thuộc thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ?",
+    "answer": "Dự án phát triển kết cấu hạ tầng khu công nghiệp, khu chế xuất, khu chức năng trong khu kinh tế;"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, tài sản nào sau đây phải làm thủ tục chuyển quyền sở hữu tài sản hoặc quyền sử dụng cho công ty tại cơ quan nhà nước có thẩm quyền.",
+    "answer": "Ô tô, đất đai."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Trong trường hợp nhà đầu tư nước ngoài đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": "Nhà đầu tư nước ngoài không được mua phần vốn góp của thành viên góp vốn trong công ty hợp danh để trở thành thành viên góp vốn của công ty hợp danh."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Khi thực hiện hoạt động đầu tư kinh doanh tại Việt Nam, chủ thể nào sau đây không phải là nhà đầu tư nước ngoài?",
+    "answer": "Tổ chức kinh tế tại Việt Nam có vốn của nhà đầu tư nước ngoài."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Kinh doanh (BTO) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án không phải chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng hợp tác kinh doanh (BCC) tại Việt Nam là sai?",
+    "answer": "Hợp đồng BCC được ký kết giữa nhà đầu tư trong nước với nhà đầu tư nước ngoài hoặc giữa các nhà đầu tư nước ngoài không phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Khi thực hiện hoạt động đầu tư kinh doanh tại Việt Nam, chủ thể nào sau đây không phải là nhà đầu tư nước ngoài?",
+    "answer": "Tổ chức kinh tế tại Việt Nam có 100% vốn của nhà đầu tư nước ngoài."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về doanh nghiệp là sai?",
+    "answer": "Hồ sơ đăng ký doanh nghiệp phải được người thành lập doanh nghiệp gửi cho Cơ quan đăng ký kinh doanh."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trường hợp nhà đầu tư nước ngoài đầu tư thành lập tổ chức kinh tế tại Việt Nam, nhận định nào sau đây là đúng?",
+    "answer": "Nhà đầu tư nước ngoài phải có dự án đầu tư trước khi thành lập tổ chức kinh tế."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Nhận định nào sau đây về Cơ quan nhà nước có thẩm quyền ký kết và thực hiện hợp đồng dự án đầu tư theo hình thức PPP tại Việt Nam là sai?",
+    "answer": "Ủy ban nhân dân cấp huyện không được ký kết và thực hiện hợp đồng dự án PPP;"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về doanh nghiệp tư nhân là sai?",
+    "answer": "Doanh nghiệp tư nhân được quyền góp vốn thành lập hoặc mua cổ phần, phần vốn góp trong công ty."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Hội đồng quản trị công ty cổ phần là sai?",
+    "answer": "Chủ tịch Hội đồng quản trị do Đại hội đồng cổ đông bầu ra."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty trách nhiệm hữu hạn một thành viên là sai?",
+    "answer": "Chủ sở hữu công ty chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty bằng toàn bộ tài sản của mình."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Nhận định nào sau đây về Cơ quan nhà nước có thẩm quyền ký kết và thực hiện hợp đồng dự án đầu tư theo hình thức PPP tại Việt Nam là sai?",
+    "answer": "Bộ, ngành không có thẩm quyền ký kết và thực hiện hợp đồng dự án PPP."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên quy định khác, nhà đầu tư nước ngoài thành lập tổ chức kinh tế tại Việt Nam phải đáp ứng các điều kiện nào sau đây?",
+    "answer": "Tỷ lệ sở hữu vốn điều lệ, hình thức đầu tư, phạm vi hoạt động, đối tác Việt Nam tham gia thực hiện hoạt động đầu tư."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, dự án nào sau đây không phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Dự án đầu tư của nhà đầu tư trong nước;"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Giám đốc hoặc Tổng giám đốc công ty cổ phần là sai?",
+    "answer": "Giám đốc hoặc Tổng giám đốc phải là thành viên Hội đồng quản trị."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Hình thức nào sau đây không phải là hình thức áp dụng ưu đãi đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Miễn thuế nhập khẩu đối với toàn bộ hàng hóa nhập khẩu của nhà đầu tư;"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, nhà đầu tư là tổ chức, cá nhân thực hiện hoạt động đầu tư kinh doanh, bao gồm nhà đầu tư nào sau đây?",
+    "answer": "Chỉ bao gồm nhà đầu tư trong nước, nhà đầu tư nước ngoài và tổ chức kinh tế có vốn đầu tư nước ngoài."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Khi thực hiện thủ tục đầu tư kinh doanh tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": "Cơ quan đăng ký đầu tư phải giải quyết tranh chấp giữa các nhà đầu tư trong quá trình hoạt động đầu tư."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là sai?",
+    "answer": "Cổ đông chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp bằng toàn bộ tài sản của mình;"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Khi đầu tư theo hình thức hợp đồng hợp tác kinh doanh tại Việt Nam giữa Công ty trách nhiệm hữu hạn 100% vốn của nhà đầu tư nước ngoài được thành lập tại Việt Nam và nhà đầu tư trong nước, các bên có thể thỏa thuận trong hợp đồng áp dụng quy định nào?",
+    "answer": "Có thể thỏa thuận việc áp dụng pháp luật nước ngoài hoặc tập quán đầu tư quốc tế nếu thỏa thuận đó không trái với quy định của pháp luật Việt Nam."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Nhận định nào sau đây về vốn chủ sở hữu của nhà đầu tư để thực hiện dự án PPP tại Việt Nam là sai?",
+    "answer": "Đối với dự án có tổng vốn đầu tư trên 1.500 tỷ đồng, tỷ lệ vốn chủ sở hữu của nhà đầu tư không được thấp hơn 10% tổng vốn đầu tư."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Nhận định nào sau đây về Cơ quan nhà nước có thẩm quyền ký kết và thực hiện hợp đồng dự án đầu tư theo hình thức PPP tại Việt Nam là sai?",
+    "answer": "Bộ, ngành không có thẩm quyền ký kết và thực hiện hợp đồng dự án PPP."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Hoạt động đầu tư kinh doanh trên lãnh thổ Việt Nam phải tuân thủ quy định của Luật nào sau đây?",
+    "answer": "Phải tuân thủ quy định của Luật đầu tư và luật khác có liên quan."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Hình thức nào sau đây không phải là hình thức áp dụng ưu đãi đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Áp dụng mức thuế suất thuế thu nhập doanh nghiệp cao hơn mức thuế suất thông thường."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là sai?",
+    "answer": "Tất cả cổ đông đều có quyền tự do chuyển nhượng cổ phần của mình cho người khác."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Kinh doanh - Chuyển giao (BOT) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án không phải chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Hình thức nào sau đây không phải là hình thức hỗ trợ đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Hỗ trợ bằng cách miễn, giảm thuế thu nhập doanh nghiệp;."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Phần vốn góp của Nhà nước tham gia trong dự án PPP tại Việt Nam nào sau đây là sai?",
+    "answer": "Vốn góp của Nhà nước được bố trí từ nguồn vốn đầu tư công được áp dụng đối với dự án BT."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, cổ đông không được coi là tham dự và biểu quyết tại cuộc họp Đại hội đồng cổ đông trong trường hợp nào?",
+    "answer": "Gửi ý biểu quyết của mình đến cổ đông khác thông qua gửi thư, fax, thư điện tử."
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Nhà đầu tư nào sau đây phải chịu trách nhiệm vô hạn bằng toàn bộ tài sản của mình đối với doanh nghiệp tại Việt Nam mà họ đã đầu tư vốn?",
+    "answer": "Chủ doanh nghiệp tư nhân."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên quy định khác, nhận định nào sau đây về sở hữu vốn điều lệ của nhà đầu tư nước ngoài khi đầu tư thành lập tổ chức kinh tế tại Việt Nam là đúng?",
+    "answer": "Nhà đầu tư nước ngoài được sở hữu vốn điều lệ trong các doanh nghiệp nhà nước cổ phần hóa theo quy định của pháp luật về cổ phần hóa."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Trường hợp văn bản pháp luật mới được ban hành quy định ưu đãi đầu tư kinh doanh cao hơn ưu đãi đầu tư mà nhà đầu tư đang được hưởng thì nhà đầu tư được hưởng ưu đãi đầu tư như thế nào?",
+    "answer": "Được hưởng ưu đãi theo quy định của văn bản pháp luật mới cho thời gian hưởng ưu đãi còn lại của dự án."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trường hợp nhà đầu tư nước ngoài đầu tư thành lập tổ chức kinh tế tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": "Nhà đầu tư nước ngoài trước khi thành lập tổ chức kinh tế không cần phải có dự án đầu tư."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Nhận định nào sau đây về thẩm quyền quyết định chủ trương đầu tư dự án PPP tại Việt Nam do Bộ, ngành, Ủy ban nhân dân cấp tỉnh đề xuất là sai?",
+    "answer": "Ủy ban nhân dân cấp tỉnh quyết định chủ trương đầu tư tất dự án ở địa phương mình."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Kinh doanh - Quản lý (O&M) tại Việt Nam là sai?",
+    "answer": "Là hợp đồng được ký giữa tất cả cơ quan nhà nước và nhà đầu tư, doanh nghiệp dự án."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Ngành nghề nào sau đây không phải là ngành nghề cấm đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Chế tạo, mua, bán vũ khí."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Nhận định nào sau đây về vốn chủ sở hữu của nhà đầu tư để thực hiện dự án PPP tại Việt Nam là sai?",
+    "answer": "Đối với dự án có tổng vốn đầu tư đến 1.500 tỷ đồng, tỷ lệ vốn chủ sở hữu của nhà đầu tư không được thấp hơn 15% tổng vốn đầu tư;"
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Phần vốn góp của Nhà nước tham gia trong dự án PPP tại Việt Nam nào sau đây là sai?",
+    "answer": "Vốn góp của Nhà nước được bố trí từ nguồn vốn đầu tư công được áp dụng đối với dự án BT."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Ban quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế có quyền tiếp nhận, cấp, điều chỉnh, thu hồi Giấy chứng nhận đăng ký đầu tư đối với các dự án đầu tư kinh doanh tại Việt Nam nào?",
+    "answer": "Dự án đầu tư trong khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là sai?",
+    "answer": "Cổ phiếu là chứng chỉ do công ty cổ phần phát hành xác nhận quyền sở hữu một cổ phần của công ty đó."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Cơ quan nhà nước nào sau đây có quyền ban hành Danh mục ngành, nghề đầu tư kinh doanh có điều kiện tại Việt Nam?",
+    "answer": "Quốc hội."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Dự án đầu tư nào sau đây không thuộc tiêu chí dự án được hưởng ưu đãi đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Dự án đầu tư tại vùng nông thôn sử dụng dưới 450 lao động;"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao (BT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền và được quyền kinh doanh công trình đó trong một thời gian nhất định."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về tài sản góp vốn đầu tư thành lập doanh nghiệp tại Việt Nam là sai?",
+    "answer": "Thành viên công ty không phải chuyển quyền sở hữu tài sản góp vốn cho công ty."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây là sai?",
+    "answer": "Vốn ngân sách trung ương là vốn cho chi thường xuyên thuộc ngân sách trung ương theo quy định của Luật Ngân sách nhà nước."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Theo Luật Đầu tư công 2019, vốn nào sau đây không phải là vốn đầu tư công?",
+    "answer": "Vốn từ doanh nghiệp nhà nước tiếp tục đầu tư vào sản xuất kinh doanh tại doanh nghiệp."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Công ty A đầu tư kinh doanh ngành, nghề nào sau đây không được hưởng ưu đãi về ngành, nghề ưu đãi đầu tư tại Việt Nam?",
+    "answer": "Đầu tư dự án khai thác khoán sản tại tỉnh Lào cai."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Đầu tư trực tiếp tại Việt Nam là hình thức đầu tư nào?",
+    "answer": "Nhà đầu tư bỏ vốn đầu tư và trực tiếp tham gia quản lý hoạt động đầu tư."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Doanh nghiệp chế xuất tại Việt Nam là doanh nghiệp nào?",
+    "answer": "Là doanh nghiệp được thành lập và hoạt động trong khu chế xuất hoặc doanh nghiệp chuyên sản xuất sản phẩm để xuất khẩu hoạt động trong khu công nghiệp, khu kinh tế."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trường hợp nào sau đây phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Dự án đầu tư của công ty hợp danh Việt Nam mà đa số thành viên hợp danh là cá nhân nước ngoài."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Theo Luật Đầu tư 2014, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên quy định khác, nhận định nào sau đây về sở hữu vốn điều lệ của nhà đầu tư nước ngoài khi đầu tư thành lập tổ chức kinh tế tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư nước ngoài được sở hữu vốn điều lệ không hạn chế tại tất cả các công ty niêm yết và công ty đại chúng."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Dự án đầu tư theo hình thức PPP tại Việt Nam không bao gồm dự án nào sau đây?",
+    "answer": "Dự án nhóm D theo tiêu chí quy định tại pháp luật về đầu tư công."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Cơ quan nhà nước nào sau đây không có quyền ban hành điều kiện đầu tư kinh doanh đối với ngành, nghề đầu tư kinh doanh có điều kiện tại Việt Nam?",
+    "answer": "Thủ tướng Chính phủ"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao (BT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền và được quyền kinh doanh công trình đó trong một thời gian nhất định."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam nào sau đây phải đáp ứng điều kiện và thực hiện thủ tục đầu tư theo quy định đối với nhà đầu tư nước ngoài khi đầu tư thành lập tổ chức kinh tế tại Việt Nam?",
+    "answer": "Công ty cổ phần có nhà đầu tư nước ngoài nắm giữ từ 51% vốn điều lệ trở lên nắm giữ từ 51% vốn điều lệ trở lên;"
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Phần vốn của Nhà nước thanh toán cho nhà đầu tư tham gia trong dự án PPP tại Việt Nam nào sau đây là sai?",
+    "answer": "Vốn thanh toán cho nhà đầu tư được sử dụng để thanh toán cho nhà đầu tư cung cấp dịch vụ theo hợp đồng BOT."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Công ty A đầu tư kinh doanh ở địa bàn nào sau đây sẽ không phải là địa bàn ưu đãi đầu tư tại Việt Nam?",
+    "answer": "Đầu tư dự án thu gom, xử lý, tái chế hoặc tái sử dụng chất thải tại Huyện Gia Lâm, Tp. Hà Nội;"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Hội đồng quản trị công ty cổ phần là sai?",
+    "answer": "Chủ tịch Hội đồng quản trị do Đại hội đồng cổ đông bầu ra."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Đại hội đồng cổ đông công ty cổ phần là sai?",
+    "answer": "Địa điểm họp Đại hội đồng cổ đông phải phải tổ chức tại trụ sở chính của công ty."
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Nhận định nào sau đây về thẩm quyền quyết định chủ trương đầu tư dự án PPP tại Việt Nam do Bộ, ngành, Ủy ban nhân dân cấp tỉnh đề xuất là sai?",
+    "answer": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ có quyền quyết định chủ trương đầu tư tất cả dự án của bộ, ngành mình."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Ban kiểm soát công ty cổ phần là sai?",
+    "answer": "Ban kiểm soát không được giám sát Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc trong việc quản lý và điều hành công ty."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Nhận định nào sau đây về Cơ quan nhà nước có thẩm quyền ký kết và thực hiện hợp đồng dự án đầu tư theo hình thức PPP tại Việt Nam là sai?",
+    "answer": "Bộ, ngành không có thẩm quyền ký kết và thực hiện hợp đồng dự án PPP."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về kế hoạch đầu tư công theo nguồn vốn đầu tư là sai?",
+    "answer": "Kế hoạch đầu tư vốn từ nguồn thu hợp pháp của cơ quan nhà nước, đơn vị sự nghiệp, tổ chức xã hội dành để đầu tư."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về dự án đầu tư công là sai?",
+    "answer": "Dự án có cấu phần xây dựng là dự án đầu tư xây dựng mới, không bao gồm phần mua tài sản, mua trang thiết bị của dự án;"
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Thuê dịch vụ - Chuyển giao (BLT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án không được quyền cung cấp dịch vụ trên cơ sở vận hành, khai thác công trình đó."
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, khi nhà đầu tư nước ngoài đầu tư thành lập tổ chức kinh tế, nhận định nào sau đây là đúng?",
+    "answer": "Nhà đầu tư nước ngoài được thành lập tổ chức kinh tế theo quy định của pháp luật."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Nhà đầu tư bỏ vốn để đầu tư kinh doanh được thực hiện hoạt động đầu tư kinh doanh tại Vệt Nam theo hình thức đầu tư nào?",
+    "answer": "Thông qua hình thức thành lập tổ chức kinh tế; đầu tư góp vốn, mua cổ phần, phần vốn góp của tổ chức kinh tế; đầu tư theo hình thức hợp đồng hoặc thực hiện dự án đầu tư."
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Hoạt động đầu tư công tại Việt Nam không bao gồm hoạt động nào sau đây?",
+    "answer": "Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất kinh doanh tại doanh nghiệp;"
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về tên tiếng Việt của doanh nghiệp là sai?",
+    "answer": "Tên riêng chỉ được viết bằng các chữ cái trong bảng chữ cái tiếng Việt."
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, vốn nào sau đây không phải là vốn đầu tư công?",
+    "answer": "Vốn từ doanh nghiệp nhà nước tiếp tục đầu tư vào sản xuất kinh doanh tại doanh nghiệp."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Theo Luật đầu tư 2014. trừ những dự án theo quy định của pháp luật về đầu tư công, dự án đầu tư kinh doanh tại Việt Nam nào sau đây thuộc thẩm quyền quyết định chủ trương đầu tư của Quốc hội?",
+    "answer": "Nhà máy điện hạt nhân;"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Nhận định nào sau đây về đầu tư theo hình thức hợp đồng đối tác công tư (PPP) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư nước ngoài mới được ký kết hợp đồng PPP với cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Sở hữu - Kinh doanh (BOO) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án sở hữu và nhưng không được quyền kinh doanh công trình trong đó."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Trường hợp văn bản pháp luật mới được ban hành quy định ưu đãi đầu tư kinh doanh cao hơn ưu đãi đầu tư mà nhà đầu tư đang được hưởng thì nhà đầu tư được hưởng ưu đãi đầu tư như thế nào?",
+    "answer": "Được hưởng ưu đãi theo quy định của văn bản pháp luật mới cho thời gian hưởng ưu đãi còn lại của dự án."
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Sở hữu - Kinh doanh (BOO) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Phần vốn của Nhà nước thanh toán cho nhà đầu tư tham gia trong dự án PPP tại Việt Nam nào sau đây là sai?",
+    "answer": "Vốn thanh toán cho nhà đầu tư được sử dụng để thanh toán cho nhà đầu tư cung cấp dịch vụ theo hợp đồng BOT."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Nhận định nào sau đây về Ban quản lý khu công nghiệp, khu kinh tế tại Việt Nam là sai?",
+    "answer": "Ban quản lý khu công nghiệp, khu kinh tế do Ủy ban nhân dân cấp tỉnh quyết định thành lập."
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về thẩm quyền quyết định chủ trương đầu tư chương trình, dự án là sai?",
+    "answer": "Chính phủ quyết định chủ trương đầu tư chương trình mục tiêu quốc gia"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Nhận định nào sau đây về đầu tư theo hình thức hợp đồng đối tác công tư (PPP) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư nước ngoài mới được ký kết hợp đồng PPP với cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Kinh doanh - Quản lý (O&M) tại Việt Nam là sai?",
+    "answer": "Là hợp đồng được ký giữa nhà đầu tư với nhà đầu tư và doanh nghiệp dự án."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Hội đồng thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên là sai?",
+    "answer": "Trường hợp Điều lệ công ty không có quy định khác, Nghị quyết của Hội đồng thành viên về tổ chức lại, giải thể công ty phải được ít nhất 75% tổng số các thành viên dự họp tán thành"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Cơ quan nhà nước nào sau đây có quyền ban hành quy định về điều kiện đầu tư kinh doanh đối với ngành, nghề đầu tư kinh doanh có điều kiện tại Việt Nam?",
+    "answer": "Chính phủ."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Hội đồng quản trị công ty cổ phần là sai?",
+    "answer": "Thành viên Hội đồng quản trị phải là cổ đông của công ty."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Nhà đầu tư thực hiện đầu tư kinh doanh tại Việt Nam nhằm mục đích chủ yếu nào sau đây?",
+    "answer": "Sinh lợi"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, trừ dự án quan trọng quốc gia, nhận định nào sau đây về dự án nhóm A là sai?",
+    "answer": "Dự án xây dựng khu nhà ở có tổng mức đầu tư dưới 1.500 tỷ đồng."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Thuê dịch vụ (BTL) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án không được quyền cung cấp dịch vụ trên cơ sở vận hành, khai thác công trình đó;"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Nhà nước ban hành ngành, nghề đầu tư kinh doanh có điều kiện vì lý do nào?",
+    "answer": "Quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội,."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Trường hợp có quy định khác nhau giữa Luật đầu tư và luật khác về ngành, nghề cấm đầu tư kinh doanh, ngành, nghề đầu tư kinh doanh có điều kiện, trình tự, thủ tục đầu tư thì thực hiện như thế nào?",
+    "answer": "Thực hiện theo quy định của Luật Đầu tư, trừ trình tự, thủ tục đầu tư kinh doanh theo quy định tại Luật chứng khoán, Luật các tổ chức tín dụng, Luật kinh doanh bảo hiểm và Luật dầu khí."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty trách nhiệm hữu hạn hai thành viên trở lên là sai?",
+    "answer": "Công ty trách nhiệm hữu hạn hai thành viên trở lên phải có Ban kiểm soát;"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Kinh doanh (BTO) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án không được quyền kinh doanh công trình đó trong một thời hạn nhất định sau khi chuyển giao công trình cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Nhận định nào sau đây về lĩnh vực đầu tư theo hình thức PPP tại Việt Nam là sai?",
+    "answer": "Nhà nước không khuyến khích việc thực hiện đầu tư theo hình thức PPP trong lĩnh vực hạ tầng thương mại."
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Ngành nghề nào sau đây không phải là ngành nghề cấm đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Chế tạo, mua, bán vũ khí."
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Công ty A đầu tư kinh doanh ngành, nghề nào sau đây không được hưởng ưu đãi về ngành, nghề ưu đãi đầu tư tại Việt Nam?",
+    "answer": "Đầu tư dự án khai thác khoán sản tại tỉnh Lào cai."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Nhận định nào sau đây về vốn chủ sở hữu của nhà đầu tư để thực hiện dự án PPP tại Việt Nam là sai?",
+    "answer": "Đối với dự án có tổng vốn đầu tư trên 1.500 tỷ đồng, tỷ lệ vốn chủ sở hữu của nhà đầu tư không được thấp hơn 10% tổng vốn đầu tư."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, tổ chức, cá nhân nào sau đây có quyền thành lập và quản lý doanh nghiệp tại Việt Nam?",
+    "answer": "Cán bộ lãnh đạo, quản lý nghiệp vụ trong doanh nghiệp nhà nước."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, trừ dự án thuộc thẩm quyền của Thủ tướng Chính phủ, nhận định nào sau đây về thẩm quyền quyết định đầu tư chương trình, dự án là sai?",
+    "answer": "Chủ tịch Ủy ban nhân dân cấp huyện, cấp xã quyết định đầu tư chương trình đầu tư công đã được Hội đồng nhân dân cấp tỉnh quyết định chủ trương đầu tư;"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng hợp tác kinh doanh (BCC) tại Việt Nam là đúng?",
+    "answer": "Hợp đồng BCC được ký kết giữa các nhà đầu tư trong nước thực hiện theo quy định của pháp luật về dân sự."
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về doanh nghiệp là sai?",
+    "answer": "Trụ sở chính của doanh nghiệp là địa điểm kinh doanh chính của doanh nghiệp trên lãnh thổ Việt Nam."
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Nhận định nào sau đây về ký quỹ của nhà đầu tư để bảo đảm thực hiện dự án được Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất là sai?.",
+    "answer": "Mức ký quỹ để bảo đảm thực hiện dự án từ 1% đến 4% vốn đầu tư của dự án căn cứ vào quy mô, tính chất và tiến độ thực hiện của từng dự án cụ thể."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, tổ chức kinh tế là tổ chức được thành lập và hoạt động theo quy định của pháp luật Việt Nam, bao gồm tổ chức nào sau đây?",
+    "answer": "Doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã và các tổ chức khác thực hiện hoạt động đầu tư kinh doanh."
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về tổ chức quản lý và hoạt động công ty trách nhiệm hữu hạn một thành viên do tổ chức làm chủ sở hữu là sai?",
+    "answer": "Chủ sở hữu công ty bổ nhiệm hoặc thuê Giám đốc hoặc Tổng giám"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Hình thức nào sau đây không phải là hình thức hỗ trợ đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Hỗ trợ bằng cách miễn, giảm thuế thu nhập doanh nghiệp;."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Kinh doanh - Chuyển giao (BOT) tại Việt Nam là sai?",
+    "answer": "Nhà đầu tư, doanh nghiệp dự án không phải chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Hình thức nào sau đây không phải là điều kiện đầu tư kinh doanh đối với ngành, nghề đầu tư kinh doanh có điều kiện tại Việt Nam?",
+    "answer": "Giấy chứng nhận đăng ký đầu tư."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Theo Luật đầu tư 2014. trừ những dự án theo quy định của pháp luật về đầu tư công, dự án đầu tư kinh doanh tại Việt Nam nào sau đây thuộc thẩm quyền quyết định chủ trương đầu tư của Quốc hội?",
+    "answer": "Sử dụng đất có yêu cầu chuyển mục đích sử dụng đất trồng lúa nước từ hai vụ trở lên với quy mô từ 500 héc ta trở lên;"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng hợp tác kinh doanh (BCC) tại Việt Nam là sai?",
+    "answer": "Hợp đồng BCC được ký kết giữa nhà đầu tư trong nước với nhà đầu tư nước ngoài hoặc giữa các nhà đầu tư nước ngoài không phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng hợp tác kinh doanh (BCC) tại Việt Nam là đúng?",
+    "answer": "Hợp đồng BCC được ký kết giữa các nhà đầu tư trong nước thực hiện theo quy định của pháp luật về dân sự."
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên quy định khác, nhận định nào sau đây về sở hữu vốn điều lệ của nhà đầu tư nước ngoài khi đầu tư thành lập tổ chức kinh tế tại Việt Nam là đúng?",
+    "answer": "Nhà đầu tư nước ngoài được sở hữu vốn điều lệ trong các doanh nghiệp nhà nước cổ phần hóa theo quy định của pháp luật về cổ phần hóa."
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Dự án đầu tư nào sau đây không thuộc tiêu chí dự án được hưởng ưu đãi đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Dự án đầu tư tại vùng nông thôn sử dụng dưới 450 lao động;"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao (BT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền và được quyền kinh doanh công trình đó trong một thời gian nhất định."
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Cơ quan nhà nước nào sau đây không có quyền ban hành điều kiện đầu tư kinh doanh đối với ngành, nghề đầu tư kinh doanh có điều kiện tại Việt Nam?",
+    "answer": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ.."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, cơ quan nào sau đây có thẩm quyền tiếp nhận, cấp, điều chỉnh, thu hồi Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Sở Kế hoạch và đầu tư"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Thuê dịch vụ (BTL) tại Việt Nam là sai?",
+    "answer": "Cơ quan nhà nước có thẩm quyền được miễn tiền thuê dịch vụ công trình do nhà đầu tư, doanh nghiệp dự án cung cấp."
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về tổ chức quản lý và hoạt động công ty trách nhiệm hữu hạn một thành viên do tổ chức làm chủ sở hữu là sai?",
+    "answer": "Bộ máy tổ chức quản lý công ty phải có Chủ tịch công ty và Hội đồng thành viên."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Chính sách về đầu tư kinh doanh tại Việt Nam nào sau đây là sai?",
+    "answer": "Nhà nước đối xử bất bình đẳng giữa các nhà đầu tư trong nước và nhà đầu tư nước ngoài;"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam là tổ chức kinh tế nào?",
+    "answer": "Là tổ chức kinh tế có nhà đầu tư nước ngoài là thành viên hoặc cổ đông."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Nhà đầu tư nước ngoài thực hiện hoạt động đầu tư kinh doanh tại Việt Nam là ai?",
+    "answer": "Cá nhân có quốc tịch nước ngoài, tổ chức thành lập theo pháp luật nước ngoài."
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Sở hữu - Kinh doanh (BOO) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là sai?",
+    "answer": "Cổ đông chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp bằng toàn bộ tài sản của mình;"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về nguyên tắc quản lý đầu tư công là sai?",
+    "answer": "Đầu tư dàn trải, đồng bộ, chất lượng, lãng phí;"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, nhận định nào sau đây về hình thức đầu tư gián tiếp ra nước ngoài là sai?",
+    "answer": "Nhà đầu tư là cá nhân có quốc tịch Việt Nam được quyền mua, bán mọi loại chứng khoán, các giấy tờ có giá khác phát hành ở nước ngoài."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Khi thực hiện hoạt động đầu tư kinh doanh tại Việt Nam, chủ thể nào sau đây không phải là nhà đầu tư nước ngoài?",
+    "answer": "Tổ chức kinh tế tại Việt Nam có vốn của nhà đầu tư nước ngoài."
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Khi thực hiện hoạt động đầu tư kinh doanh tại Việt Nam, chủ thể nào sau đây không phải là nhà đầu tư nước ngoài?",
+    "answer": "Tổ chức kinh tế tại Việt Nam có 100% vốn của nhà đầu tư nước ngoài."
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng hợp tác kinh doanh (BCC) tại Việt Nam là đúng?",
+    "answer": "Hợp đồng hợp tác kinh doanh là hợp đồng được ký giữa các nhà đầu tư nhằm hợp tác kinh doanh phân chia lợi nhuận, phân chia sản phẩm mà không thành lập tổ chức kinh tế."
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Trong ngành, nghề cấm hoạt động đầu tư kinh doanh tại Việt Nam sau đây, ngành, nghề nào mà một số chủ thể vẫn có thể được sản xuất, sử dụng sản phẩm?",
+    "answer": "Kinh doanh mẫu vật các loại động vật, thực vật hoang dã nguy cấp, quý hiếm Nhóm I có nguồn gốc từ tự nhiên."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, trường hợp nào sau đây không phải là đối tượng đầu tư công?",
+    "answer": "Đầu tư phục vụ hoạt động của cơ quan nhà nước, đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội – nghề nghiệp."
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Khi đầu tư theo hình thức hợp đồng hợp tác kinh doanh tại Việt Nam giữa nhà đầu tư nước ngoài và nhà đầu tư trong nước, các bên có thể thỏa thuận trong hợp đồng áp dụng quy định nào?",
+    "answer": "Có thể thỏa thuận việc áp dụng pháp luật nước ngoài hoặc tập quán đầu tư quốc tế nếu thỏa thuận đó không trái với quy định của pháp luật Việt Nam."
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, trừ dự án quan trọng quốc gia, nhận định nào sau đây về dự án nhóm A là sai?",
+    "answer": "Dự án du lịch, thể dục thể thao có tổng mức đầu tư dưới 800 tỷ đồng."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, trường hợp nào sau đây không phải là đối tượng đầu tư công?",
+    "answer": "Hỗ trợ đầu tư cho các đối tượng chính sách khác, viện trợ không hoàn lại cho các nước khác theo quyết định của Thủ tướng Chính phủ."
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Ban kiểm soát công ty cổ phần là sai?",
+    "answer": "Ban kiểm soát không được tham dự và tham gia thảo luận tại các cuộc họp Đại hội đồng cổ đông, Hội đồng quản trị và các cuộc họp khác của công ty."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Nhận định nào sau đây về lĩnh vực đầu tư theo hình thức PPP tại Việt Nam là sai?",
+    "answer": "Nhà nước không khuyến khích việc thực hiện đầu tư theo hình thức PPP trong lĩnh vực hạ tầng thương mại."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp Việt Nam không bao gồm vốn nào?",
+    "answer": "Vốn từ quỹ đầu tư nước ngoài tại Việt Nam."
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, dự án nào sau đây không phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Dự án đầu tư của công ty trách nhiệm hữu hạn Việt Nam mà nhà đầu tư nước ngoài sở hữu dưới 51% vốn điều lệ."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Trong trường hợp đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế tại Việt Nam, nhà đầu tư nước ngoài thực hiện thủ tục nào?",
+    "answer": "Phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế khi góp vốn vào công ty cổ phần dẫn đến nhà đầu tư nước ngoài nắm giữ từ 51% vốn điều lệ trở lên tại công ty đó."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng hợp tác kinh doanh (BCC) tại Việt Nam là sai?",
+    "answer": "Hợp đồng BCC được ký kết giữa nhà đầu tư trong nước với nhà đầu tư nước ngoài hoặc giữa các nhà đầu tư nước ngoài không phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam nào sau đây không phải thực hiện điều kiện và thủ tục đầu tư theo quy định đối với nhà đầu tư trong nước khi đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp của tổ chức kinh tế; đầu tư theo hình thức hợp đồng BCC tại Việt Nam?",
+    "answer": "Công ty cổ phần có nhà đầu tư nước ngoài nắm giữ dưới 51% vốn điều lệ;"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Theo Luật đầu tư 2014. trừ những dự án theo quy định của pháp luật về đầu tư công và dự án thuộc thẩm quyền của Quốc Hội, dự án đầu tư kinh doanh tại Việt Nam nào sau đây thuộc thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ?",
+    "answer": "Dự án phát triển kết cấu hạ tầng khu công nghiệp, khu chế xuất, khu chức năng trong khu kinh tế;"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Nhận định nào sau đây về thẩm quyền quyết định chủ trương đầu tư dự án PPP tại Việt Nam do Bộ, ngành, Ủy ban nhân dân cấp tỉnh đề xuất là sai?",
+    "answer": "Ủy ban nhân dân cấp tỉnh quyết định chủ trương đầu tư tất dự án ở địa phương mình."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Đại hội đồng cổ đông công ty cổ phần là sai?",
+    "answer": "Đại hội đồng cổ đông họp thường niên mỗi năm hai lần."
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Dự án BT tại Việt Nam không phải thực hiện trình tự, thủ tục đầu tư nào sau đây?",
+    "answer": "Nhà đầu tư dự án BT không phải thực hiện trình tự, thủ tục quyết định chủ trương đầu tư để thực hiện Dự án khác."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam nào sau đây phải đáp ứng điều kiện và thực hiện thủ tục đầu tư theo quy định đối với nhà đầu tư nước ngoài khi đầu tư thành lập tổ chức kinh tế tại Việt Nam?",
+    "answer": "Tổ chức kinh tế có nhà đầu tư nước ngoài nắm giữ từ 51% vốn điều lệ trở lên hoặc có đa số thành viên hợp danh là cá nhân nước ngoài đối với tổ chức kinh tế là công ty hợp danh."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về dự án nhóm B là sai?",
+    "answer": "Dự án thuộc lĩnh vực bưu chính, viễn thông có tổng mức đầu tư từ 120 tỷ đồng đến dưới 2.300 tỷ đồng."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về doanh nghiệp là sai?",
+    "answer": "Hồ sơ đăng ký doanh nghiệp phải được người thành lập doanh nghiệp gửi cho Cơ quan đăng ký kinh doanh."
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Kinh doanh - Quản lý (O&M) tại Việt Nam là sai?",
+    "answer": "Là hợp đồng được ký giữa nhà đầu tư với nhà đầu tư và doanh nghiệp dự án."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về thẩm quyền quyết định chủ trương đầu tư chương trình, dự án của Thủ tướng Chính phủ là sai?",
+    "answer": "Toàn bộ chương trình, dự án đầu tư sử dụng vốn vay ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Nhận định nào sau đây về thẩm quyền quyết định chủ trương đầu tư dự án PPP tại Việt Nam do Bộ, ngành, Ủy ban nhân dân cấp tỉnh đề xuất là sai?",
+    "answer": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ có quyền quyết định chủ trương đầu tư tất cả dự án của bộ, ngành mình."
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Phần vốn góp của Nhà nước tham gia trong dự án PPP tại Việt Nam nào sau đây là sai?",
+    "answer": "Vốn góp của Nhà nước được bố trí từ nguồn vốn đầu tư công được áp dụng đối với dự án BT."
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Thuê dịch vụ - Chuyển giao (BLT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về doanh nghiệp là sai?",
+    "answer": "Mọi người góp vốn thành lập doanh nghiệp đều phải thông báo công khai thông tin doanh nghiệp của mình trên Cổng thông tin quốc gia về đăng ký doanh nghiệp."
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Trong trường hợp nhà đầu tư nước ngoài đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp vào tổ chức kinh tế tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": "Nhà đầu tư nước ngoài không được mua cổ phần phát hành lần đầu hoặc cổ phần phát hành thêm của công ty cổ phần;"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên quy định khác, nhận định nào sau đây về sở hữu vốn điều lệ của nhà đầu tư nước ngoài khi đầu tư thành lập tổ chức kinh tế tại Việt Nam là đúng?",
+    "answer": "Nhà đầu tư nước ngoài được sở hữu vốn điều lệ tại công ty niêm yết, công ty đại chúng theo quy định của pháp luật về chứng khoán."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Trường hợp nào sau đây không phải là loại hình doanh nghiệp được quy định trong Luật Doanh nghiệp 2014?",
+    "answer": "Công ty tư nhân."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Đại hội đồng cổ đông công ty cổ phần là sai?",
+    "answer": "Đại hội đồng cổ đông gồm tất cả cổ đông của công ty cổ phần."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Hình thức nào sau đây không phải là hình thức áp dụng ưu đãi đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Áp dụng mức thuế suất thuế thu nhập doanh nghiệp cao hơn mức thuế suất thông thường."
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Nhà đầu tư nào được thực hiện hoạt động đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Nhà đầu tư trong nước, nhà đầu tư nước ngoài và tổ chức kinh tế có vốn đầu tư nước ngoài."
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Sở hữu - Kinh doanh (BOO) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án sở hữu và nhưng không được quyền kinh doanh công trình trong đó."
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Thuê dịch vụ - Chuyển giao (BLT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là đúng?",
+    "answer": "Công ty cổ phần phải có cổ phần phổ thông."
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Khi thực hiện thủ tục đầu tư kinh doanh tại Việt Nam, nhận định nào sau đây sai?",
+    "answer": "Cơ quan đăng ký đầu tư chịu trách nhiệm kiểm tra tính chính xác, trung thực của hồ sơ đăng ký đầu tư."
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, trường hợp nào sau đây phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Dự án đầu tư của công ty hợp danh Việt Nam mà đa số thành viên hợp danh là cá nhân nước ngoài."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên quy định khác, nhà đầu tư nước ngoài thành lập tổ chức kinh tế tại Việt Nam phải đáp ứng các điều kiện nào sau đây?",
+    "answer": "Tỷ lệ sở hữu vốn điều lệ, hình thức đầu tư, phạm vi hoạt động, đối tác Việt Nam tham gia thực hiện hoạt động đầu tư."
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, nhận định nào sau đây về hình thức đầu tư ra nước ngoài là sai sai?",
+    "answer": "Hình thức đầu tư ra nước ngoài chỉ bao gồm hình thức đầu tư trực tiếp ra nước ngoài;"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Ban quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế có quyền tiếp nhận, cấp, điều chỉnh, thu hồi Giấy chứng nhận đăng ký đầu tư đối với các dự án đầu tư kinh doanh tại Việt Nam nào?",
+    "answer": "Dự án đầu tư trong khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế."
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Kinh doanh - Quản lý (O&M) tại Việt Nam là sai?",
+    "answer": "Là hợp đồng được ký giữa tất cả cơ quan nhà nước và nhà đầu tư, doanh nghiệp dự án."
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Quan điểm nào sau đây về dự án đầu tư kinh doanh tại Việt Nam là sai?",
+    "answer": "Dự án đầu tư là tập hợp đề xuất bỏ vốn trung hạn hoặc ngắn hạn để tiến hành các hoạt động đầu tư kinh doanh."
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Hình thức nào sau đây là hình thức áp dụng ưu đãi đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Miễn, giảm tiền thuê đất, tiền sử dụng đất, thuế sử dụng đất."
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, hình thức đầu tư kinh doanh từ Việt Nam ra nước ngoài nào sau đây là hình thức đầu tư trực tiếp?",
+    "answer": "Thực hiện hợp đồng BCC ở nước ngoài;"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Trừ trường hợp dự án ứng dụng công nghệ cao và dự án áp dụng loại hợp đồng BT, dự PPP tại Việt Nam nào sau đây không phải lập, thẩm định báo cáo nghiên cứu tiền khả thi, quyết định chủ trương đầu tư?",
+    "answer": "Dự án nhóm C."
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Ngành, nghề nào sau đây là ngành, nghề ưu đãi đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Nuôi trồng, chế biến nông sản, lâm sản, thuỷ sản; trồng và bảo vệ rừng; làm muối."
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, hình thức đầu tư kinh doanh từ Việt Nam ra nước ngoài nào sau đây là hình thức đầu tư gián tiếp?",
+    "answer": "Đầu tư thông qua các quỹ đầu tư chứng khoán, các định chế tài chính trung gian khác ở nước ngoài;"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Hình thức nào sau đây là điều kiện đầu tư kinh doanh đối với ngành, nghề đầu tư kinh doanh có điều kiện tại Việt Nam?",
+    "answer": "Giấy phép kinh doanh."
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Sở Kế hoạch và Đầu tư không có quyền tiếp nhận, cấp, điều chỉnh, thu hồi Giấy chứng nhận đăng ký đầu tư đối với các dự án đầu tư kinh doanh tại Việt Nam nào?",
+    "answer": "Dự án đầu tư trong khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế;"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về tổ chức quản lý và hoạt động công ty trách nhiệm hữu hạn một thành viên do tổ chức làm chủ sở hữu là sai?",
+    "answer": "Hội đồng thành viên hoặc Chủ tịch công ty quyết định số lượng Kiểm soát viên, bổ nhiệm Kiểm soát viên."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về thẩm quyền quyết định đầu tư chương trình, dự án của Thủ tướng Chính phủ là sai?",
+    "answer": "Chương trình, dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài trong tất cả các lĩnh vực."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về doanh nghiệp là sai?",
+    "answer": "Người thành lập doanh nghiệp có trách nhiệm xem xét tính hợp lệ của hồ sơ đăng ký doanh nghiệp."
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Khi thực hiện thủ tục đầu tư kinh doanh tại Việt Nam, nhận định nào sau đây là sai?",
+    "answer": "Nhà đầu tư chịu trách nhiệm trước pháp luật về tính hợp lệ, trung thực của hồ sơ đăng ký đầu tư."
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Hội đồng thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên là sai?",
+    "answer": "Chủ tịch Hội đồng thành viên không được kiêm Giám đốc hoặc Tổng giám đốc công ty."
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Theo Luật đầu tư 2014. trừ những dự án theo quy định của pháp luật về đầu tư công và dự án thuộc thẩm quyền của Quốc Hội, dự án đầu tư kinh doanh tại Việt Nam nào sau đây không thuộc thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ?",
+    "answer": "Dự án phải di dân tái định cư từ 20.000 người trở lên ở miền núi, từ 50.000 người trở lên ở các vùng khác;"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Hình thức nào sau đây không phải là hình thức áp dụng ưu đãi đầu tư kinh doanh tại Việt Nam?",
+    "answer": "Miễn thuế nhập khẩu đối với toàn bộ hàng hóa nhập khẩu của nhà đầu tư;"
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Cơ quan nhà nước nào sau đây không có quyền ban hành điều kiện đầu tư kinh doanh đối với ngành, nghề đầu tư kinh doanh có điều kiện tại Việt Nam?",
+    "answer": "Thủ tướng Chính phủ"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, trường hợp nhà đầu tư nước ngoài đầu tư thành lập tổ chức kinh tế tại Việt Nam, nhận định nào sau đây là đúng?",
+    "answer": "Nhà đầu tư nước ngoài phải có dự án đầu tư trước khi thành lập tổ chức kinh tế."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Nhà nước ban hành ngành, nghề đầu tư kinh doanh có điều kiện vì lý do nào?",
+    "answer": "Đạo đức xã hội, sức khỏe của cộng đồng."
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Kinh doanh - Quản lý (O&M) tại Việt Nam là sai?",
+    "answer": "Là hợp đồng được ký giữa tất cả cơ quan nhà nước và nhà đầu tư, doanh nghiệp dự án."
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là đúng?",
+    "answer": "Công ty cổ phần có quyền phát hành cổ phần các loại để huy động vốn."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty cổ phần là sai?",
+    "answer": "Tất cả cổ đông đều có quyền tự do chuyển nhượng cổ phần của mình cho người khác."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, cơ quan có thẩm quyền tiếp nhận hồ sơ đăng ký doanh nghiệp của doanh nghiệp là?",
+    "answer": "Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư."
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Nhận định nào sau đây về đầu tư thành lập doanh nghiệp của nhà đầu tư nước ngoài tại Việt Nam là đúng?",
+    "answer": "Nhà đầu tư nộp hồ sơ đăng ký đầu tư và hồ sơ đăng ký thành lập doanh nghiệp tại Cơ quan đăng ký đầu tư;"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Theo Luật đầu tư 2014. trừ những dự án theo quy định của pháp luật về đầu tư công, dự án thuộc thẩm quyền của Quốc Hội và Thủ tướng Chính phủ, dự án đầu tư kinh doanh tại Việt Nam nào sau đây thuộc thẩm quyền quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh?",
+    "answer": "Dự án có sử dụng công nghệ thuộc Danh mục công nghệ hạn chế chuyển giao theo quy định của pháp luật về chuyển giao công nghệ."
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Chuyển giao - Kinh doanh (BTO) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án không phải chuyển giao công trình đó cho cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng hợp tác kinh doanh (BCC) tại Việt Nam là đúng?",
+    "answer": "Hợp đồng hợp tác kinh doanh là hợp đồng được ký giữa các nhà đầu tư nhằm hợp tác kinh doanh phân chia lợi nhuận, phân chia sản phẩm mà không thành lập tổ chức kinh tế."
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Trường hợp có quy định khác về đầu tư kinh doanh tại Việt Nam giữa điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và Luật đầu tư thì áp dụng theo quy định nào?",
+    "answer": "Áp dụng theo quy định của điều ước quốc tế đó."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty trách nhiệm hữu hạn một thành viên là sai?",
+    "answer": "Chủ sở hữu công ty chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty bằng toàn bộ tài sản của mình."
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Nhận định nào sau đây về bảo đảm đầu tư kinh doanh tại Việt Nam là đúng?",
+    "answer": "Nhà nước không bắt buộc nhà đầu tư phải thực hiện đặt trụ sở chính tại địa điểm theo yêu cầu của cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty trách nhiệm hữu hạn một thành viên là sai?",
+    "answer": "Chủ sở hữu công ty phải là một tổ chức có tư cách pháp nhân."
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Nhận định nào sau đây về vốn chủ sở hữu của nhà đầu tư để thực hiện dự án PPP tại Việt Nam là sai?",
+    "answer": "Đối với dự án có tổng vốn đầu tư trên 1.500 tỷ đồng, tỷ lệ vốn chủ sở hữu của nhà đầu tư không được thấp hơn 10% tổng vốn đầu tư."
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty trách nhiệm hữu hạn hai thành viên trở lên là sai?",
+    "answer": "Công ty trách nhiệm hữu hạn hai thành viên trở lên không được quyền phát hành chứng khoán."
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về công ty trách nhiệm hữu hạn hai thành viên trở lên là sai?",
+    "answer": "Phần vốn góp của thành viên được tự do chuyển nhượng cho người khác."
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Hình thức nào sau đây là hình thức đầu tư vốn nhà nước vào sản xuất, kinh doanh tại doanh nghiệp?",
+    "answer": "Đầu tư bổ sung vốn nhà nước để tiếp tục duy trì tỷ lệ cổ phần của Nhà nước tại công ty cổ phần."
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây về kế hoạch đầu tư công là sai?",
+    "answer": "Kế hoạch đầu tư công ngắn hạn được lập trong thời hạn 03 năm."
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, tài sản nào sau đây phải làm thủ tục chuyển quyền sở hữu tài sản hoặc quyền sử dụng cho công ty tại cơ quan nhà nước có thẩm quyền.",
+    "answer": "Ô tô, đất đai."
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, trừ trường hợp pháp luật về chứng khoán có quy định khác, nhận định nào sau đây về tổ chức quản lý và hoạt động của công ty cổ phần là sai?",
+    "answer": "Công ty cổ phần bắt buộc phải có Ban kiểm soát."
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Hội đồng thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên là sai?",
+    "answer": "Cuộc họp Hội đồng thành viên triệu tập họp lần thứ nhất được tiến hành khi có ít nhất 65% số thành viên dự họp."
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Doanh nghiệp nào sau đây có tư cách pháp nhân?",
+    "answer": "Công ty cổ phần, Công ty trách nhiệm hữu hạn hai thành viên trở lên."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Theo Luật Đầu tư công 2019, nhận định nào sau đây là sai?",
+    "answer": "Vốn ngân sách trung ương là vốn cho chi thường xuyên thuộc ngân sách trung ương theo quy định của Luật Ngân sách nhà nước."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Mục tiêu nào sau đây không phải là mục tiêu chủ yếu khi đầu tư, quản lý, sử dụng vốn nhà nước tại doanh nghiệp?",
+    "answer": "Tối đa hóa lợi nhuận, thu hút nhân tài."
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về doanh nghiệp tư nhân là sai?",
+    "answer": "Doanh nghiệp tư nhân được quyền góp vốn thành lập hoặc mua cổ phần, phần vốn góp trong công ty."
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về tài sản góp vốn đầu tư thành lập doanh nghiệp tại Việt Nam là sai?",
+    "answer": "Thành viên công ty không phải chuyển quyền sở hữu tài sản góp vốn cho công ty."
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Tranh chấp liên quan đến hoạt động đầu tư kinh doanh tại Việt Nam giữa nhà đầu tư trong nước có thể được giải quyết thông qua phương thức nào?",
+    "answer": "Thương lượng, hoà giải Trọng tài và Tòa án."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, trường hợp nào sau đây phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Dự án đầu tư của công ty trách nhiệm hữu hạn Việt Nam mà nhà đầu tư nước ngoài sở hữu từ 51% vốn điều lệ trở lên."
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, nhận định nào sau đây về Hội đồng quản trị công ty cổ phần là sai?",
+    "answer": "Thư ký công ty phải là nữ giới và do Giám đốc hoặc Tổng giám đốc công ty tuyển dụng."
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Nhà đầu tư nào sau đây phải chịu trách nhiệm vô hạn bằng toàn bộ tài sản của mình đối với doanh nghiệp tại Việt Nam mà họ đã đầu tư vốn?",
+    "answer": "Chủ doanh nghiệp tư nhân."
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Theo Luật Doanh nghiệp 2014, cổ đông không được coi là tham dự và biểu quyết tại cuộc họp Đại hội đồng cổ đông trong trường hợp nào?",
+    "answer": "Gửi ý biểu quyết của mình đến cổ đông khác thông qua gửi thư, fax, thư điện tử."
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Nhận định nào sau đây về hợp đồng Xây dựng - Kinh doanh - Chuyển giao (BOT) tại Việt Nam là sai?",
+    "answer": "Sau khi hoàn thành công trình, nhà đầu tư, doanh nghiệp dự án không được quyền kinh doanh công trình đó;"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Nhận định nào sau đây về Cơ quan nhà nước có thẩm quyền ký kết và thực hiện hợp đồng dự án đầu tư theo hình thức PPP tại Việt Nam là sai?",
+    "answer": "Ủy ban nhân dân cấp huyện không được ký kết và thực hiện hợp đồng dự án PPP;"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, nhà đầu tư nước ngoài khi đầu tư thành lập tổ chức kinh tế tại Việt Nam phải thực hiện thủ tục cơ bản nào?",
+    "answer": "Thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư sau đó thực hiện thủ tục thành lập tổ chức kinh tế."
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, trừ các trường hợp thuộc thẩm quyền của Quốc hội, Thủ tướng Chính phủ không có quyền quyết định chủ trương đầu tư ra nước ngoài đối với các dự án đầu tư nào sau đây?",
+    "answer": "Dự án đầu tư thuộc lĩnh phát thanh, truyền hình có vốn đầu tư ra nước ngoài dưới 400 tỷ đồng.."
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Chính sách về đầu tư kinh doanh tại Việt Nam nào sau đây là sai?",
+    "answer": "Nhà đầu tư nước ngoài không được tự chủ quyết định hoạt động đầu tư kinh doanh."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Cơ quan nhà nước nào sau đây có quyền ban hành Danh mục ngành, nghề đầu tư kinh doanh có điều kiện tại Việt Nam?",
+    "answer": "Quốc hội."
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Theo Luật Đầu tư 2014, trường hợp nào sau đây không phải thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư tại Việt Nam?",
+    "answer": "Dự án đầu tư theo hình thức góp vốn, mua cổ phần, phần vốn góp của tổ chức kinh tế."
+  }
+]

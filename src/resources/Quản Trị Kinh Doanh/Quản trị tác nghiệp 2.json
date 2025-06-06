@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Hôm nay là ngày 22, công việc A cần 4 ngày đã hoàn thành và đến ngày 28 phải bàn giao. Tính CRi",
+    "answer": "1.5"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Chi phí lưu kho được tính như sau:",
+    "answer": "Ctt = Q.H/2"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Công thức nào đúng về ROP.",
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Chọn câu trả lời đúng",
+    "answer": "Dự báo dài hạn gồm: Nghiên cứu và phát triển, kế hoạch sản phẩm mới, sử dụng đồng vốn, định vị và phát triển doanh nghiệp."
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Các chi phí gồm phí tồn trữ, phí bảo hiểm, phí quản lý phí do hỏng mất mát và tăng cao do vốn đầu tư là những chi phí mà ta phải chịu khi ta chọn chiến lược",
+    "answer": "Thay đổi mức tồn kho"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Một nhà máy A chuyên đóng xà lan phải dùng Tole 5mm với nhu cầu 2000 tấm/năm. Chi phí đặt hàng mỗi lần là 200.000 đ/1 đơn hàng. Phí trữ hàng 12.000 đ/1 đơn vị (tấm/năm). Hãy xác định lượng mua vào tối ưu mỗi lần đặt hàng?",
+    "answer": "300 tấm."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Một công ty lắp ráp điện tử có nhu cầ về dây dẫn TX512 là 10.000 đơn vị/năm. Thời gian làm việc hàng năm của công ty là 200 ngày. Thời gian vận chuyển là 3 ngày. Điểm đặt hàng lại (ROP) là.",
+    "answer": "150 đơn vị."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Vai trò của Hoạch định nhu cầu nguyên vật liệu",
+    "answer": "Tất cả các ý trên"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Nhân tố nào là nhân tố ảnh hưởng đến hoạch định tổng hợp",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Nếu tăng thêm lượng tồn kho an toàn thì điểm đặt hàng sẽ là:",
+    "answer": "ROP = L x d + dự trữ an toàn"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Đâu không phải là bản chất của bảo trì dự phòng",
+    "answer": "Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Bảo trì được chia làm 2 hình thức là",
+    "answer": "Bảo trì dự phòng, Bảo trì hiệu chỉnh"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Kỹ thuật phân tích ABC phân tổng số loại hàng tồn kho của nhóm C chiếm khoảng bao nhiêu phần trăm tồng giá trị hàng tồn kho:",
+    "answer": "5%"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Chọn câu trả lời sai: Nhiệm vụ của kế hoạch trung hạn:",
+    "answer": "Phân công công việc cho từng đối tượng cụ thể."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Dựa theo chỉ tiêu CRi, đâu là công việc hoàn thành đúng thời hạn",
+    "answer": "1"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Sự cần thiết của công tác bảo trì là",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Chi phí đặt hàng và Sản lượng 1 đơn hàng có quan hệ:",
+    "answer": "Tỷ lệ nghịch"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Trong phương pháp bảo trì bằng việc cải thiện từng bộ phận hợp thành, thuật ngữ \"thời gian trung bình giữa hai lần hư hỏng\" được ký hiệu là",
+    "answer": "MTBF"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "CR = 1 có ý nghĩa gì",
+    "answer": "Công việc hoàn thành đúng thời hạn"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Nhân tố nào là nhân tố ảnh hưởng đến hoạch định tổng hợp",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Khi nào cần tăng cường làm thêm giờ",
+    "answer": "Nhu cầu lớn hơn mức sản xuất trong giờ"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Ưu điểm của chiến lược sản xuất sản phẩm hỗn hợp theo mùa là",
+    "answer": "Tận dụng mọi nguồn tài nguyên, ổn định nhân lực"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Chi phí lưu kho và Sản lượng 1 đơn hàng có quan hệ:",
+    "answer": "Tỷ lệ nghịch"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "ROP là gì ?",
+    "answer": "Điểm đặt hàng lại"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Trong những công việc sau, công việc nào nằm trong kế hoạch dài hạn",
+    "answer": "Nghiên cứu và phát triển."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Chiến lược nào thích hợp với những công việc không đòi hỏi tay nghề cao có thể như sinh viên học sinh, các bà nội trợ",
+    "answer": "Chiến lược dùng công nhân làm việc bán thòi gian."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Khoảng thời gian đối với kế hoạch trung hạn là",
+    "answer": "1 năm"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Hình thức của bảo trì bao gồm:",
+    "answer": "Bảo trì hiệu chỉnh"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Nhu cầu về những sản phẩm cuối cùng hoặc các chi tiết, bộ phận khách hàng đặt được gọi là:",
+    "answer": "Nhu cầu độc lập"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Trong quá trình lập kế hoạch, nhà quản trị cần quan tâm đến",
+    "answer": "Kế hoạch ngắn hạn, trung hạn và dài hạn"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nguyên tắc FCFS có nghĩa:",
+    "answer": "Công việc nào đặt hàng trước làm trước."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Nhược điểm của bảo trì dự phòng là:",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Đặc trưng của hàng hóa là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Chọn câu trả lời sai: Nhiệm vụ của kế hoạch trung hạn",
+    "answer": "Phân công công việc cho từng đối tượng cụ thể."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Nguyên tắc sắp xếp thứ tự công việc LPT là:",
+    "answer": "Công việc có thời gian thực hiện dài nhất làm trước"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Nhược điểm của chiến lược thay đổi cường độ lao động",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Các chiến lược tác nghiệp cạnh tranh dựa trên",
+    "answer": "Chi phí, khác biệt hóa, sự đáp ứng"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Những giả định quan trọng khi sử dụng mô hình EOQ, ngoại trừ:",
+    "answer": "Có nhiều loại chi phí biến đổi"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Nhược điểm của chiến lược thay đổi nhân lực theo mức cầu",
+    "answer": "Tạo sức ép đối với người lao động"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Ưu điểm của chiến lược thay đổi mức dự trữ là",
+    "answer": "Không cần thay đổi hoặc chỉ thay đổi lực lượng lao động từ từ"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Bước thứ 1 trong bài toán Hungary là:",
+    "answer": "Chọn số nhỏ nhất trên mỗi hàng, lấy tất cả các số trên hàng trừ cho số nhỏ nhất đó."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Nguyên tắc sắp xếp thứ tự công việc EDD là:",
+    "answer": "Công việc có thời điểm giao hàng trước làm trước"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Trong hoạt động bảo trì, FR là gì",
+    "answer": "Tỷ lệ hư hỏng"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Ưu điểm của chiến lược dùng công nhân làm việc bán thời gian",
+    "answer": "Giảm chi phí và tăng độ linh hoạt hơn là dùng công nhân có hợp đồng dài hạn không phải trả bảo hiểm lao động."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "CR < 1 có ý nghĩa gì",
+    "answer": "Công việc hoàn thành không đúng thời hạn"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Trong phân tích ABC, mặt hàng loại A là",
+    "answer": "Có tỷ lệ giá trị cao, tỷ lệ mặt hàng nhỏ"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Đây là các quyết định quản trị tác nghiệp, ngoại trừ",
+    "answer": "Kế hoạch bán hàng"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Công thức đúng về tổng chi phí hàng năm về tồn kho:",
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Lượng sản xuất ngoài giờ (lượng sản phẩm hợp đồng phụ) , được tính",
+    "answer": "Nhu cầu - Mức sản xuất trong giờ"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "R1 = 0,9 ; R2 = 0,85 ; R3 = 0,95. Hãy tính Rs. Cho biết sản phẩm này gồm 3 bộ phận hợp thành lắp liên tiếp",
+    "answer": "0,726"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Dựa theo chỉ tiêu CRi, đâu là công việc hoàn thành trước thời hạn",
+    "answer": "1.5"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Một chiếc loa A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Đâu là nhu cầu độc lập",
+    "answer": "Sản phẩm A"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Hôm nay là ngày 10, công việc A cần 10 ngày đã hoàn thành và đến ngày 15 phải bàn giao. Tính CRi",
+    "answer": "0.5"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Chi phí đặt hàng được tính như sau:",
+    "answer": "Cdh = D.S/Q"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Xí nghiệp Lan Anh có nhu cầu về vải là 1000 cây/ năm. Số lượng mua hàng tối ưu là 100 cây/ 1 đơn hàng. Biết trong năm xí nghiệp làm việc với thời gian là 40 tuần. Xác định khoảng cách thời gian giữa hai đơn hàng ?",
+    "answer": "T = 28"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Khoảng thời gian đối với kế hoạch ngắn hạn là",
+    "answer": "1 tháng"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Nhược điểm của chiến lược “tác động đến nhu cầu”",
+    "answer": "Nhu cầu không chắc chắn"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Một bộ phận có độ tin cậy bằng 0,90 và chúng ta đặt thêm một bộ phận nữa cũng có độ tin cậy bằng 0,90 để dự phòng. Lúc đó độ tin cậy của hệ thống sẽ là",
+    "answer": "0.99"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Đặc trưng của dịch vụ là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của B",
+    "answer": "Chi tiết F"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết F",
+    "answer": "200"
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Thay đổi nhân lực theo mức cầu là",
+    "answer": "Bằng cách thuê thêm hay sa thải công nhân cho thích hợp với mức độ sản xuất từng một lúc"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Ưu điểm của dự trữ",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Hôm nay là ngày 22, công việc A cần 4 ngày đã hoàn thành và đến ngày 26 phải bàn giao. Tính CRi",
+    "answer": "1"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Công thức đúng về số lượng đơn hàng mong muốn:",
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Trong mô hình EOQ, chi phí lưu kho có mối quan hệ như thế nào với sản lượng một đơn hàng",
+    "answer": "Tỷ lệ thuận"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Khấu trừ theo số lượng là:",
+    "answer": "Giảm giá hàng hóa khi khách hàng mua loại hàng đó với số lượng lớn"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Bước thứ 2 trong bài toán Hungary là",
+    "answer": "Chọn số nhỏ nhất trên mỗi cột, lấy tất cả các số trên cột trừ cho số nhỏ nhất đó."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Các nguyên tắc sắp xếp thứ tự công việc,gồm:",
+    "answer": "FCFS,EDD,SPT,LPT,tỷ lệ tới hạn trước làm trước."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trong mô hình EOQ, chi phí đặt hàng có mối quan hệ như thế nào với sản lượng một đơn hàng…",
+    "answer": "Tỷ lệ nghịch"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Mục tiêu hầu hết của các mô hình dự trữ đều nhằm",
+    "answer": "Tối thiểu hóa tổng chi phí dự trữ"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Kỹ thuật phân tích ABC được đề xuất dựa vào nguyên tắc:",
+    "answer": "Nguyên tắc Pareto"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Những nhu cầu được tạo ra từ các nhu cầu độc lập, nó được tính toán từ quá trình phân tích sản phẩm thành các bộ phận, chi tiết và nguyên vật liệu được gọi là",
+    "answer": "Nhu cầu phụ thuộc"
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Đâu không phải là đặc trưng của cung ứng dịch vụ",
+    "answer": "Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Hôm nay là ngày 22, công việc A cần 12 ngày đã hoàn thành và đến ngày 30 phải bàn giao. Tính CRi",
+    "answer": "0.67"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Kế hoạch ngắn hạn bao gồm",
+    "answer": "Phân công việc và đặt hàng."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Nhược điểm của dự trữ",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Các doanh nghiệp như khách sạn và hàng không có thể áp dụng chiến lược nào sau đây để đẩy số lượng khách hàng đặt chổ trước lên cao hơn",
+    "answer": "Tác động đến nhu cầu"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Đặc trưng của dịch vụ là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Nhu cầu sản phẩm từng ngày, được tính bằng",
+    "answer": "Nhu cầu trong tháng / Số ngày sản xuất trong tháng"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Đâu không phải là đặc trưng của sản xuất hàng hóa:",
+    "answer": "Hầu hết không thể lưu kho"
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Chi phí nào sau đây không phải là chi phí dự trữ?",
+    "answer": "Chi phí vận hành thiết bị"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Nhược điểm của chiến lược “tác động đến nhu cầu”",
+    "answer": "Nhu cầu không chắc chắn"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Đâu không phải là đặc trưng của cung ứng dịch vụ",
+    "answer": "Tiêu chuẩn chất lượng mang tính khách quan"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Trong phân tích ABC, mặt hàng loại A là",
+    "answer": "Có tỷ lệ giá trị cao, tỷ lệ mặt hàng nhỏ"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Một công ty lắp ráp điện tử có nhu cầ về dây dẫn TX512 là 10.000 đơn vị/năm. Thời gian làm việc hàng năm của công ty là 200 ngày. Thời gian vận chuyển là 3 ngày. Điểm đặt hàng lại (ROP) là.",
+    "answer": "150 đơn vị."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Công thức đúng về tổng chi phí hàng năm về tồn kho:",
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Nội dung của quá trình điều độ sản xuất",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Mục đích của bài toán Hungary :",
+    "answer": "Phân công công việc cho các máy để có tổng chi phí thực hiện hoặc thời gian hoàn thành là nhỏ nhất"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Xí nghiệp Lan Anh có nhu cầu về vải là 1000 cây/ năm. Số lượng mua hàng tối ưu là 100 cây/ 1 đơn hàng. Biết trong năm xí nghiệp làm việc với thời gian là 40 tuần. Xác định khoảng cách thời gian giữa hai đơn hàng ?",
+    "answer": "T = 28"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Nhược điểm của chiến lược thay đổi nhân lực theo mức cầu",
+    "answer": "Tăng chi phí đào tạo"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Trong hoạt động bảo trì, FR là gì",
+    "answer": "Tỷ lệ hư hỏng"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Đặt cọc trước nằm trong giai đoạn nào",
+    "answer": "Nhu cầu cao"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Vai trò của Hoạch định nhu cầu nguyên vật liệu",
+    "answer": "Tất cả các ý trên"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Hoạch định tổng hợp theo phương pháp trực quan",
+    "answer": "Nhanh"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Đặc trưng của hàng hóa là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Điều độ sản xuất là",
+    "answer": "Những hoạt động xây dựng lịch trình sản xuất trong từng tuần cụ thể và phân giao công việc cho từng đơn vị cơ sở, từng bộ phận, từng người lao động trong hệ thống sản xuất"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Nhân tố nào là nhân tố ảnh hưởng đến hoạch định tổng hợp",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Nhu cầu sản phẩm từng ngày, được tính bằng",
+    "answer": "Nhu cầu trong tháng / Số ngày sản xuất trong tháng"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Đây là các quyết định quản trị tác nghiệp, ngoại trừ",
+    "answer": "Quản trị tài chính"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Khoảng thời gian đối với kế hoạch trung hạn là",
+    "answer": "1 năm"
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Chiến lược hỗn hợp là chiến lược như thế nào",
+    "answer": "Là chiến lược kết hợp hai hay nhiều thông số kiểm soát được để lập 1 kế hoạch sản xuất khả thi"
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Kỹ thuật phân tích ABC phân tổng số loại hàng tồn kho của nhóm C chiếm khoảng bao nhiêu phần trăm tồng giá trị hàng tồn kho:",
+    "answer": "5%"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Dựa theo chỉ tiêu CRi, đâu là công việc hoàn thành đúng thời hạn",
+    "answer": "1"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Vai trò của Hoạch định nhu cầu nguyên vật liệu",
+    "answer": "Cả ý A và B"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Mục tiêu của nguyên tắc Johnson ",
+    "answer": "Phải làm sao cho tổng thời gian thực hiện các công việc là nhỏ nhất"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Ưu điểm của chiến lược thay đổi mức dự trữ là",
+    "answer": "Không cần thay đổi hoặc chỉ thay đổi lực lượng lao động từ từ"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Đâu không phải là bản chất của bảo trì dự phòng",
+    "answer": "Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Nếu tăng thêm lượng tồn kho an toàn thì điểm đặt hàng sẽ là:",
+    "answer": "ROP = L x d + dự trữ an toàn"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Những giả định quan trọng khi sử dụng mô hình EOQ, ngoại trừ:",
+    "answer": "Có nhiều loại chi phí biến đổi"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Thuật toán Hungary vận dụng trong điều độ cho bao nhiêu công việc",
+    "answer": "Nhiều đối tượng"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Công thức nào đúng về ROP.",
+    "answer": "C"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Đâu không phải là nhược điểm của chiến lược thay đổi cường độ lao động",
+    "answer": "Năng suất lao động có thể bị giảm"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Chọn câu trả lời sai: Nhiệm vụ của kế hoạch trung hạn:",
+    "answer": "Phân công công việc cho từng đối tượng cụ thể."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Nhược điểm của chiến lược thay đổi mức dự trữ",
+    "answer": "Giảm giá trị vô hình của sản phẩm"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "CR < 1 có ý nghĩa gì",
+    "answer": "Công việc hoàn thành không đúng thời hạn"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Khoảng thời gian của từng loại kế hoạch. Chọn câu trả lời sai",
+    "answer": "Kế hoạch ngắn hạn thường từ 3 tháng tới 1 năm."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Để đo lường sự tin cậy của toàn bộ hệ thống mà mỗi bộ phận cấu thành có độ tin cậy riêng biệt, khác nhau, thì ta có thể dùng công thức sau đây :",
+    "answer": "Rs = R1 * R2 * R3…* Rn"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Kỹ thuật phân tích ABC được đề xuất dựa vào nguyên tắc:",
+    "answer": "Nguyên tắc Pareto"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Các doanh nghiệp như khách sạn và hàng không có thể áp dụng chiến lược nào sau đây để đẩy số lượng khách hàng đặt chổ trước lên cao hơn",
+    "answer": "Tác động đến nhu cầu"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Công thức đúng về số lượng đơn hàng mong muốn:",
+    "answer": "A"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Chiến lược hợp đồng phụ thường dùng",
+    "answer": "Trong khu vực sản xuất"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Công thức của chiến lược thay đổi mức tồn kho là",
+    "answer": "Tồn kho cuối mỗi tháng, Tồn kho tháng trước + Tồn kho phát sinh mỗi tháng., Mức sản xuất trong giờ - Nhu cầu., Tồn kho tháng trước - Tồn kho phát sinh mỗi tháng., Mức sản xuất trong giờ + Nhu cầu."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Lượng sản xuất ngoài giờ (lượng sản phẩm hợp đồng phụ) , được tính",
+    "answer": "Nhu cầu - Mức sản xuất trong giờ"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Đây là vai trò của chiến lược tác nghiệp, ngoại trừ",
+    "answer": "Tăng doanh thu"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Khi nào cần tăng cường làm thêm giờ",
+    "answer": "Nhu cầu lớn hơn mức sản xuất trong giờ"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Các chiến lược tác nghiệp cạnh tranh dựa trên",
+    "answer": "Chi phí, khác biệt hóa, sự đáp ứng"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "CR > 1 có ý nghĩa gì",
+    "answer": "Công việc hoàn thành trước thời hạn"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Đặc trưng của dịch vụ là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Chi phí đặt hàng được tính như sau:",
+    "answer": "Cdh = D.S/Q"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Nhược điểm của bảo trì dự phòng là:",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Hình thức của bảo trì bao gồm:",
+    "answer": "Bảo trì hiệu chỉnh"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của B",
+    "answer": "Chi tiết F"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Đặc trưng của dịch vụ là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Nguyên tắc sắp xếp thứ tự công việc EDD là:",
+    "answer": "Công việc có thời điểm giao hàng trước làm trước"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Thuật ngữ thường dùng nhất trong phân tích sự tin cậy là \"thời gian trung bình giữa hai lần hư hỏng\" (Mean Time Between Failure MTBF), được tính theo công thức",
+    "answer": "MTBF = 1/ FR(n)"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Ưu điểm của chiến lược sản xuất sản phẩm hỗn hợp theo mùa là",
+    "answer": "Tận dụng mọi nguồn tài nguyên, ổn định nhân lực"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Hôm nay là ngày 22, công việc A cần 12 ngày đã hoàn thành và đến ngày 30 phải bàn giao. Tính CRi",
+    "answer": "0.67"
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Chọn câu trả lời đúng",
+    "answer": "Dự báo dài hạn gồm: Nghiên cứu và phát triển, kế hoạch sản phẩm mới, sử dụng đồng vốn, định vị và phát triển doanh nghiệp."
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Đâu không phải là đặc trưng của sản xuất hàng hóa:",
+    "answer": "Hầu hết không thể lưu kho"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Nhà máy A chuyên sản xuất phụ tùng với tốc độ 250 chiếc/ngày. Loại phụ tùng này được sử dụng 12.000 chiếc/năm và trong năm xí nghiệp làm việc 200 ngày. Chi phí tồn trữ 20.000đ/1 đơn vị trong năm, phí đặt hàng mỗi lần là 300.000đ. Vậy số đặt hàng kinh tế là bao nhiêu?",
+    "answer": "688 đơn vị."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Đặt cọc trước nằm trong giai đoạn nào",
+    "answer": "Nhu cầu cao"
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Thay đổi nhân lực theo mức cầu là",
+    "answer": "Bằng cách thuê thêm hay sa thải công nhân cho thích hợp với mức độ sản xuất từng một lúc"
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Khi nào cần tăng cường mức sản xuất ngoài giờ",
+    "answer": "Nhu cầu lớn hơn mức sản xuất trong giờ"
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Nhu cầu về những sản phẩm cuối cùng hoặc các chi tiết, bộ phận khách hàng đặt được gọi là:",
+    "answer": "Nhu cầu độc lập"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Một chiếc loa A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Đâu là nhu cầu độc lập",
+    "answer": "Sản phẩm A"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Chi phí nào sau đây không phải là chi phí dự trữ?",
+    "answer": "Chi phí vận hành thiết bị"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Nguyên tắc LPT có nghĩa:",
+    "answer": "Công việc có thời gian thực hiện dài nhất làm trước."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Đây là các quyết định quản trị tác nghiệp, ngoại trừ",
+    "answer": "Kế hoạch bán hàng"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Bước thứ 1 trong bài toán Hungary là:",
+    "answer": "Chọn số nhỏ nhất trên mỗi hàng, lấy tất cả các số trên hàng trừ cho số nhỏ nhất đó."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "ROP là gì ?",
+    "answer": "Điểm đặt hàng lại"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của C",
+    "answer": "Cả ý B và C"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Đây là các quyết định quản trị tác nghiệp, ngoại trừ",
+    "answer": "Lập kế hoạch quảng bá hình ảnh sản phẩm"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Chiến lược sản xuất ngoài giờ có Lượng sản xuất ngoài giờ bằng",
+    "answer": "Mức sản xuất trong giờ - nhu cầu"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Hôm nay là ngày 10, công việc A cần 10 ngày đã hoàn thành và đến ngày 15 phải bàn giao. Tính CRi",
+    "answer": "0.5"
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Hôm nay là ngày 22, công việc A cần 4 ngày đã hoàn thành và đến ngày 26 phải bàn giao. Tính CRi",
+    "answer": "1"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Một nhà máy A chuyên đóng xà lan phải dùng Tole 5mm với nhu cầu 2000 tấm/năm. Chi phí đặt hàng mỗi lần là 200.000 đ/1 đơn hàng. Phí trữ hàng 12.000 đ/1 đơn vị (tấm/năm). Hãy xác định lượng mua vào tối ưu mỗi lần đặt hàng?",
+    "answer": "300 tấm."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Trong phương pháp bảo trì bằng việc cải thiện từng bộ phận hợp thành, thuật ngữ \"thời gian trung bình giữa hai lần hư hỏng\" được ký hiệu là",
+    "answer": "MTBF"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Dựa theo chỉ tiêu CRi, đâu là công việc hoàn thành trước thời hạn",
+    "answer": "1.5"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Chi phí lưu kho được tính như sau:",
+    "answer": "Ctt = Q.H/2"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Trong mô hình EOQ, chi phí đặt hàng có mối quan hệ như thế nào với sản lượng một đơn hàng…",
+    "answer": "Tỷ lệ nghịch"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Nhân tố nào là nhân tố ảnh hưởng đến hoạch định tổng hợp",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Đâu không phải là đặc trưng của sản xuất hàng hóa:",
+    "answer": "Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Một bộ phận có độ tin cậy bằng 0,90 và chúng ta đặt thêm một bộ phận nữa cũng có độ tin cậy bằng 0,90 để dự phòng. Lúc đó độ tin cậy của hệ thống sẽ là",
+    "answer": "0.99"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Khấu trừ theo số lượng là:",
+    "answer": "Giảm giá hàng hóa khi khách hàng mua loại hàng đó với số lượng lớn"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Hình thức của bảo trì bao gồm",
+    "answer": "Bảo trì dự phòng"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Nhược điểm của dự trữ",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Các chi phí gồm phí tồn trữ, phí bảo hiểm, phí quản lý phí do hỏng mất mát và tăng cao do vốn đầu tư là những chi phí mà ta phải chịu khi ta chọn chiến lược",
+    "answer": "Thay đổi mức tồn kho"
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Mục tiêu hầu hết của các mô hình dự trữ đều nhằm",
+    "answer": "Tối thiểu hóa tổng chi phí dự trữ"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Trong những công việc sau, công việc nào nằm trong kế hoạch dài hạn",
+    "answer": "Nghiên cứu và phát triển."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F. Đâu là nhu cầu phụ thuộc",
+    "answer": "Cả ý B và C"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết F",
+    "answer": "200"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Đâu không phải là bản chất của bảo trì dự phòng",
+    "answer": "Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Ưu điểm của dự trữ",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Nguyên tắc FCFS có nghĩa:",
+    "answer": "Công việc nào đặt hàng trước làm trước."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Đâu không phải là đặc trưng của cung ứng dịch vụ",
+    "answer": "Tiêu chuẩn chất lượng mang tính khách quan"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Chiến lược nào thường tốn chi phí cao và tạo dịp cho khách hàng của mình tiếp xúc với đối thủ cạnh tranh",
+    "answer": "Hợp đồng phụ"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Nhược điểm của chiến lược thay đổi mức dự trữ",
+    "answer": "Tăng chi phí về vốn, gây ứ đọng vốn"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Đâu không phải là vai trò của công tác bảo trì:",
+    "answer": "Giúp dự báo chính xác nhu cầu sản phẩm"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Nhược điểm của chiến lược thay đổi nhân lực theo mức cầu",
+    "answer": "Tạo sức ép đối với người lao động"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Mục tiêu của nguyên tắc Johnson ",
+    "answer": "Phải làm sao cho tổng thời gian thực hiện các công việc là nhỏ nhất"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Đây là các quyết định quản trị tác nghiệp, ngoại trừ",
+    "answer": "Quản trị tài chính"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Các chiến lược tác nghiệp cạnh tranh dựa trên",
+    "answer": "Chi phí, khác biệt hóa, sự đáp ứng"
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Nhược điểm của chiến lược thay đổi cường độ lao động",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Một bộ phận có độ tin cậy bằng 0,90 và chúng ta đặt thêm một bộ phận nữa cũng có độ tin cậy bằng 0,90 để dự phòng. Lúc đó độ tin cậy của hệ thống sẽ là",
+    "answer": "0.99"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Hình thức của bảo trì bao gồm:",
+    "answer": "Bảo trì hiệu chỉnh"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Nhà máy A chuyên sản xuất phụ tùng với tốc độ 250 chiếc/ngày. Loại phụ tùng này được sử dụng 12.000 chiếc/năm và trong năm xí nghiệp làm việc 200 ngày. Chi phí tồn trữ 20.000đ/1 đơn vị trong năm, phí đặt hàng mỗi lần là 300.000đ. Vậy số đặt hàng kinh tế là bao nhiêu?",
+    "answer": "688 đơn vị."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Kỹ thuật phân tích ABC phân tổng số loại hàng tồn kho của nhóm C chiếm khoảng bao nhiêu phần trăm tồng giá trị hàng tồn kho:",
+    "answer": "5%"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Để đo lường sự tin cậy của toàn bộ hệ thống mà mỗi bộ phận cấu thành có độ tin cậy riêng biệt, khác nhau, thì ta có thể dùng công thức sau đây :",
+    "answer": "Rs = R1 * R2 * R3…* Rn"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Đâu không phải là đặc trưng của sản xuất hàng hóa:",
+    "answer": "Hầu hết không thể lưu kho"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Hình thức của bảo trì bao gồm",
+    "answer": "Bảo trì dự phòng"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Hình thức của bảo trì bao gồm",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Khoảng thời gian đối với kế hoạch trung hạn là",
+    "answer": "1 năm"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Công thức đúng về tổng chi phí hàng năm về tồn kho:",
+    "answer": "B"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Đặt cọc trước nằm trong giai đoạn nào",
+    "answer": "Nhu cầu cao"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Hoạch định tổng hợp theo phương pháp trực quan",
+    "answer": "Nhanh"
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Nguyên tắc sắp xếp thứ tự công việc EDD là:",
+    "answer": "Công việc có thời điểm giao hàng trước làm trước"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F. Đâu là nhu cầu phụ thuộc",
+    "answer": "Cả ý B và C"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Các chiến lược tác nghiệp cạnh tranh dựa trên",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Kỹ thuật phân tích ABC được đề xuất dựa vào nguyên tắc:",
+    "answer": "Nguyên tắc Pareto"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Dựa theo chỉ tiêu CRi, đâu là công việc hoàn thành trước thời hạn",
+    "answer": "1.5"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Đặc trưng của dịch vụ là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Đâu không phải là bản chất của bảo trì dự phòng",
+    "answer": "Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Bước thứ 1 trong bài toán Hungary là:",
+    "answer": "Chọn số nhỏ nhất trên mỗi hàng, lấy tất cả các số trên hàng trừ cho số nhỏ nhất đó."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Ưu điểm của chiến lược sản xuất sản phẩm hỗn hợp theo mùa là",
+    "answer": "Tận dụng mọi nguồn tài nguyên, ổn định nhân lực"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Đây là các quyết định quản trị tác nghiệp, ngoại trừ",
+    "answer": "Lập kế hoạch quảng bá hình ảnh sản phẩm"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Vai trò của Hoạch định nhu cầu nguyên vật liệu",
+    "answer": "Cả ý A và B"
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Chi phí nào sau đây không phải là chi phí dự trữ?",
+    "answer": "Chi phí vận hành thiết bị"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Hôm nay là ngày 10, công việc A cần 10 ngày đã hoàn thành và đến ngày 15 phải bàn giao. Tính CRi",
+    "answer": "0.5"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Chiến lược nào thích hợp với những công việc không đòi hỏi tay nghề cao có thể như sinh viên học sinh, các bà nội trợ",
+    "answer": "Chiến lược dùng công nhân làm việc bán thòi gian."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Sự cần thiết của công tác bảo trì là",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Dựa theo chỉ tiêu CRi, đâu là công việc không kịp hoàn thành đúng thời hạn",
+    "answer": "0.8"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Mục tiêu hầu hết của các mô hình dự trữ đều nhằm",
+    "answer": "Tối thiểu hóa tổng chi phí dự trữ"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Chiến lược hợp đồng phụ thường dùng",
+    "answer": "Trong khu vực sản xuất"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Nguyên tắc sắp xếp thứ tự công việc LPT là:",
+    "answer": "Công việc có thời gian thực hiện dài nhất làm trước"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Trong phân tích ABC, mặt hàng loại A là",
+    "answer": "Có tỷ lệ giá trị cao, tỷ lệ mặt hàng nhỏ"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Vai trò của Hoạch định nhu cầu nguyên vật liệu",
+    "answer": "Tất cả các ý trên"
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Đây là các quyết định quản trị tác nghiệp, ngoại trừ",
+    "answer": "Kế hoạch bán hàng"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Điều độ sản xuất là",
+    "answer": "Những hoạt động xây dựng lịch trình sản xuất trong từng tuần cụ thể và phân giao công việc cho từng đơn vị cơ sở, từng bộ phận, từng người lao động trong hệ thống sản xuất"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Nhược điểm của chiến lược thay đổi mức dự trữ",
+    "answer": "Giảm giá trị vô hình của sản phẩm"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Đây là vai trò của chiến lược tác nghiệp, ngoại trừ",
+    "answer": "Tăng doanh thu"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Chi phí đặt hàng và Sản lượng 1 đơn hàng có quan hệ:",
+    "answer": "Tỷ lệ nghịch"
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Các nguyên tắc phân giao cho 1 đối tượng",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Nhược điểm của chiến lược “tác động đến nhu cầu”",
+    "answer": "Nhu cầu không chắc chắn"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Một nhà máy A chuyên đóng xà lan phải dùng Tole 5mm với nhu cầu 2000 tấm/năm. Chi phí đặt hàng mỗi lần là 200.000 đ/1 đơn hàng. Phí trữ hàng 12.000 đ/1 đơn vị (tấm/năm). Hãy xác định lượng mua vào tối ưu mỗi lần đặt hàng?",
+    "answer": "300 tấm."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Lượng sản xuất ngoài giờ (lượng sản phẩm hợp đồng phụ) , được tính",
+    "answer": "Nhu cầu - Mức sản xuất trong giờ"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trong mô hình EOQ, chi phí lưu kho có mối quan hệ như thế nào với sản lượng một đơn hàng",
+    "answer": "Tỷ lệ thuận"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Đặc trưng của hàng hóa là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Hôm nay là ngày 22, công việc A cần 12 ngày đã hoàn thành và đến ngày 30 phải bàn giao. Tính CRi",
+    "answer": "0.67"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Mục đích của bài toán Hungary :",
+    "answer": "Phân công công việc cho các máy để có tổng chi phí thực hiện hoặc thời gian hoàn thành là nhỏ nhất"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Chiến lược sản xuất ngoài giờ có Lượng sản xuất ngoài giờ bằng",
+    "answer": "Mức sản xuất trong giờ - nhu cầu"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "CR > 1 có ý nghĩa gì",
+    "answer": "Công việc hoàn thành trước thời hạn"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Nếu tăng thêm lượng tồn kho an toàn thì điểm đặt hàng sẽ là:",
+    "answer": "ROP = L x d + dự trữ an toàn"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Những nhu cầu được tạo ra từ các nhu cầu độc lập, nó được tính toán từ quá trình phân tích sản phẩm thành các bộ phận, chi tiết và nguyên vật liệu được gọi là",
+    "answer": "Nhu cầu phụ thuộc"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Nhân tố nào là nhân tố ảnh hưởng đến hoạch định tổng hợp",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Khoảng thời gian đối với kế hoạch ngắn hạn là",
+    "answer": "1 tháng"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Các doanh nghiệp như khách sạn và hàng không có thể áp dụng chiến lược nào sau đây để đẩy số lượng khách hàng đặt chổ trước lên cao hơn",
+    "answer": "Tác động đến nhu cầu"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Các chiến lược tác nghiệp cạnh tranh dựa trên",
+    "answer": "Chi phí, khác biệt hóa, sự đáp ứng"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Chọn câu trả lời sai: Nhiệm vụ của kế hoạch trung hạn",
+    "answer": "Phân công công việc cho từng đối tượng cụ thể."
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Thay đổi nhân lực theo mức cầu là",
+    "answer": "Bằng cách thuê thêm hay sa thải công nhân cho thích hợp với mức độ sản xuất từng một lúc"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Chọn câu trả lời sai: Nhiệm vụ của kế hoạch trung hạn:",
+    "answer": "Phân công công việc cho từng đối tượng cụ thể."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Nguyên tắc FCFS có nghĩa:",
+    "answer": "Công việc nào đặt hàng trước làm trước."
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Nhược điểm của chiến lược thay đổi nhân lực theo mức cầu",
+    "answer": "Tạo sức ép đối với người lao động"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Chi phí đặt hàng được tính như sau:",
+    "answer": "Cdh = D.S/Q"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Một chiếc loa A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Đâu là nhu cầu độc lập",
+    "answer": "Sản phẩm A"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Khi nào cần tăng cường làm thêm giờ",
+    "answer": "Nhu cầu lớn hơn mức sản xuất trong giờ"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Đặt cọc trước nằm trong giai đoạn nào",
+    "answer": "Nhu cầu cao"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Nguyên tắc SPT có nghĩa:",
+    "answer": "Công việc có thời gian thực hiện ngắn nhất làm trước."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Thuật ngữ thường dùng nhất trong phân tích sự tin cậy là \"thời gian trung bình giữa hai lần hư hỏng\" (Mean Time Between Failure MTBF), được tính theo công thức",
+    "answer": "MTBF = 1/ FR(n)"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Khấu trừ theo số lượng là:",
+    "answer": "Giảm giá hàng hóa khi khách hàng mua loại hàng đó với số lượng lớn"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Chiến lược nào thường tốn chi phí cao và tạo dịp cho khách hàng của mình tiếp xúc với đối thủ cạnh tranh",
+    "answer": "Hợp đồng phụ"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Trong những công việc sau, công việc nào nằm trong kế hoạch dài hạn",
+    "answer": "Nghiên cứu và phát triển."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Đặc trưng của dịch vụ là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Chi phí lưu kho được tính như sau:",
+    "answer": "Ctt = Q.H/2"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Trong hoạt động bảo trì, FR là gì",
+    "answer": "Tỷ lệ hư hỏng"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Đâu không phải là đặc trưng của cung ứng dịch vụ",
+    "answer": "Tiêu chuẩn chất lượng mang tính khách quan"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết E",
+    "answer": "300"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "CR = 1 có ý nghĩa gì",
+    "answer": "Công việc hoàn thành đúng thời hạn"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Nhược điểm của bảo trì dự phòng là:",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Đâu không phải là vai trò của công tác bảo trì:",
+    "answer": "Giúp dự báo chính xác nhu cầu sản phẩm"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Ưu điểm của chiến lược thay đổi mức dự trữ là",
+    "answer": "Không cần thay đổi hoặc chỉ thay đổi lực lượng lao động từ từ"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Mô hình nào mà hàng được đưa đến làm nhiều chuyến:",
+    "answer": "POQ."
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Chọn câu trả lời đúng",
+    "answer": "Dự báo dài hạn gồm: Nghiên cứu và phát triển, kế hoạch sản phẩm mới, sử dụng đồng vốn, định vị và phát triển doanh nghiệp."
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Đâu không phải là nhược điểm của chiến lược thay đổi cường độ lao động",
+    "answer": "Năng suất lao động có thể bị giảm"
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Chọn câu sai trong các nhược điểm của chiến lược hợp đồng phụ",
+    "answer": "Tốn thêm phí trả phụ trội, hạ thấp năng suất"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Khi nào cần tăng cường mức sản xuất ngoài giờ",
+    "answer": "Nhu cầu lớn hơn mức sản xuất trong giờ"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Đâu không phải là đặc trưng của sản xuất hàng hóa:",
+    "answer": "Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Nhu cầu sản phẩm từng ngày, được tính bằng",
+    "answer": "Nhu cầu trong tháng / Số ngày sản xuất trong tháng"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Trong phương pháp bảo trì bằng việc cải thiện từng bộ phận hợp thành, thuật ngữ \"thời gian trung bình giữa hai lần hư hỏng\" được ký hiệu là",
+    "answer": "MTBF"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Công thức nào đúng về ROP.",
+    "answer": "C"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Khoảng thời gian của từng loại kế hoạch. Chọn câu trả lời sai",
+    "answer": "Kế hoạch ngắn hạn thường từ 3 tháng tới 1 năm."
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Chiến lược hỗn hợp là chiến lược như thế nào",
+    "answer": "Là chiến lược kết hợp hai hay nhiều thông số kiểm soát được để lập 1 kế hoạch sản xuất khả thi"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của B",
+    "answer": "Chi tiết F"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "Các chi phí gồm phí tồn trữ, phí bảo hiểm, phí quản lý phí do hỏng mất mát và tăng cao do vốn đầu tư là những chi phí mà ta phải chịu khi ta chọn chiến lược",
+    "answer": "Thay đổi mức tồn kho"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Nhân tố nào là nhân tố ảnh hưởng đến hoạch định tổng hợp",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Nhược điểm của chiến lược “tác động đến nhu cầu”",
+    "answer": "Nhu cầu không chắc chắn"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Những giả định quan trọng khi sử dụng mô hình EOQ, ngoại trừ:",
+    "answer": "Có nhiều loại chi phí biến đổi"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Dựa theo chỉ tiêu CRi, đâu là công việc hoàn thành đúng thời hạn",
+    "answer": "1"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "R1 = 0,9 ; R2 = 0,85 ; R3 = 0,95. Hãy tính Rs. Cho biết sản phẩm này gồm 3 bộ phận hợp thành lắp liên tiếp",
+    "answer": "0,726"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Chi phí lưu kho và Sản lượng 1 đơn hàng có quan hệ:",
+    "answer": "Tỷ lệ nghịch"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Xí nghiệp Lan Anh có nhu cầu về vải là 1000 cây/ năm. Số lượng mua hàng tối ưu là 100 cây/ 1 đơn hàng. Biết trong năm xí nghiệp làm việc với thời gian là 40 tuần. Xác định khoảng cách thời gian giữa hai đơn hàng ?",
+    "answer": "T = 28"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Nhược điểm của chiến lược thay đổi mức dự trữ",
+    "answer": "Tăng chi phí về vốn, gây ứ đọng vốn"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Thuật toán Hungary vận dụng trong điều độ cho bao nhiêu công việc",
+    "answer": "Nhiều đối tượng"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Bước thứ 2 trong bài toán Hungary là",
+    "answer": "Chọn số nhỏ nhất trên mỗi cột, lấy tất cả các số trên cột trừ cho số nhỏ nhất đó."
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Ưu điểm của chiến lược “ sản xuất sản phẩm hỗn hợp theo mùa",
+    "answer": "Tận dụng mọi nguồn tài nguyên, giúp ổn định được nhân lực"
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Hôm nay là ngày 22, công việc A cần 4 ngày đã hoàn thành và đến ngày 28 phải bàn giao. Tính CRi",
+    "answer": "1.5"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Bảo trì được chia làm 2 hình thức là",
+    "answer": "Bảo trì dự phòng, Bảo trì hiệu chỉnh"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Nhu cầu về những sản phẩm cuối cùng hoặc các chi tiết, bộ phận khách hàng đặt được gọi là:",
+    "answer": "Nhu cầu độc lập"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Nội dung của quá trình điều độ sản xuất",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Các nguyên tắc sắp xếp thứ tự công việc,gồm:",
+    "answer": "FCFS,EDD,SPT,LPT,tỷ lệ tới hạn trước làm trước."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của C",
+    "answer": "Cả ý B và C"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Ưu điểm của chiến lược dùng công nhân làm việc bán thời gian",
+    "answer": "Giảm chi phí và tăng độ linh hoạt hơn là dùng công nhân có hợp đồng dài hạn không phải trả bảo hiểm lao động."
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Đâu không phải là đặc trưng của cung ứng dịch vụ",
+    "answer": "Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Công thức đúng về số lượng đơn hàng mong muốn:",
+    "answer": "A"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "Một công ty lắp ráp điện tử có nhu cầ về dây dẫn TX512 là 10.000 đơn vị/năm. Thời gian làm việc hàng năm của công ty là 200 ngày. Thời gian vận chuyển là 3 ngày. Điểm đặt hàng lại (ROP) là.",
+    "answer": "150 đơn vị."
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Nguyên tắc LPT có nghĩa:",
+    "answer": "Công việc có thời gian thực hiện dài nhất làm trước."
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Nhược điểm của dự trữ",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Trong mô hình EOQ, chi phí đặt hàng có mối quan hệ như thế nào với sản lượng một đơn hàng…",
+    "answer": "Tỷ lệ nghịch"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Ưu điểm của dự trữ",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Trong phân tích ABC, mặt hàng loại C là",
+    "answer": "Có tỷ lệ giá trị nhỏ, tỷ lệ mặt hàng cao"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Hôm nay là ngày 22, công việc A cần 4 ngày đã hoàn thành và đến ngày 26 phải bàn giao. Tính CRi",
+    "answer": "1"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "Chi phí đặt hàng được xác định là:",
+    "answer": "Tích giữa só lần đặt hàng trong năm và chi phí cho mỗi lần đặt hàng."
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Đặc trưng của hàng hóa là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Kế hoạch ngắn hạn bao gồm",
+    "answer": "Phân công việc và đặt hàng."
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Trong quá trình lập kế hoạch, nhà quản trị cần quan tâm đến",
+    "answer": "Kế hoạch ngắn hạn, trung hạn và dài hạn"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Công thức của chiến lược thay đổi mức tồn kho là",
+    "answer": "Tồn kho cuối mỗi tháng, Tồn kho tháng trước + Tồn kho phát sinh mỗi tháng., Mức sản xuất trong giờ - Nhu cầu., Tồn kho tháng trước - Tồn kho phát sinh mỗi tháng., Mức sản xuất trong giờ + Nhu cầu."
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Đâu không phải là bản chất của bảo trì dự phòng",
+    "answer": "Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "ROP là gì ?",
+    "answer": "Điểm đặt hàng lại"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết F",
+    "answer": "200"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "CR < 1 có ý nghĩa gì",
+    "answer": "Công việc hoàn thành không đúng thời hạn"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "« Liệt kê các công việc và thời gian thực hiện chúng trên từng máy, tìm công việc có thời gian nhỏ nhất », đây là một trong các bước của nguyên tắc ",
+    "answer": "Johnson"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Nhược điểm của chiến lược thay đổi nhân lực theo mức cầu",
+    "answer": "Tăng chi phí đào tạo"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Để đo lường sự tin cậy của toàn bộ hệ thống mà mỗi bộ phận cấu thành có độ tin cậy riêng biệt, khác nhau, thì ta có thể dùng công thức sau đây :",
+    "answer": "Rs = R1 * R2 * R3…* Rn"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Hình thức của bảo trì bao gồm",
+    "answer": "Bảo trì dự phòng"
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Nguyên tắc LPT có nghĩa:",
+    "answer": "Công việc có thời gian thực hiện dài nhất làm trước."
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Chiến lược hỗn hợp là chiến lược như thế nào",
+    "answer": "Là chiến lược kết hợp hai hay nhiều thông số kiểm soát được để lập 1 kế hoạch sản xuất khả thi"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Các nguyên tắc phân giao cho 1 đối tượng",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F. Đâu là nhu cầu phụ thuộc",
+    "answer": "Cả ý B và C"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Chiến lược nào thường tốn chi phí cao và tạo dịp cho khách hàng của mình tiếp xúc với đối thủ cạnh tranh",
+    "answer": "Hợp đồng phụ"
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Chiến lược sản xuất ngoài giờ có Lượng sản xuất ngoài giờ bằng",
+    "answer": "Mức sản xuất trong giờ - nhu cầu"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Nhược điểm của chiến lược thay đổi mức dự trữ",
+    "answer": "Giảm giá trị vô hình của sản phẩm"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Hình thức của bảo trì bao gồm",
+    "answer": "Cả B và C"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Thuật toán Hungary vận dụng trong điều độ cho bao nhiêu công việc",
+    "answer": "Nhiều đối tượng"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Đặt cọc trước nằm trong giai đoạn nào",
+    "answer": "Nhu cầu cao"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Chiến lược hợp đồng phụ thường dùng",
+    "answer": "Trong khu vực sản xuất"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Trong phân tích ABC, mặt hàng loại C là",
+    "answer": "Có tỷ lệ giá trị nhỏ, tỷ lệ mặt hàng cao"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "CR > 1 có ý nghĩa gì",
+    "answer": "Công việc hoàn thành trước thời hạn"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Mô hình nào mà hàng được đưa đến làm nhiều chuyến:",
+    "answer": "POQ."
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Mục đích của bài toán Hungary :",
+    "answer": "Phân công công việc cho các máy để có tổng chi phí thực hiện hoặc thời gian hoàn thành là nhỏ nhất"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Ưu điểm của chiến lược “ sản xuất sản phẩm hỗn hợp theo mùa",
+    "answer": "Tận dụng mọi nguồn tài nguyên, giúp ổn định được nhân lực"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "Điều độ sản xuất là",
+    "answer": "Những hoạt động xây dựng lịch trình sản xuất trong từng tuần cụ thể và phân giao công việc cho từng đơn vị cơ sở, từng bộ phận, từng người lao động trong hệ thống sản xuất"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Dựa theo chỉ tiêu CRi, đâu là công việc không kịp hoàn thành đúng thời hạn",
+    "answer": "0.8"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Khi nào cần tăng cường mức sản xuất ngoài giờ",
+    "answer": "Nhu cầu lớn hơn mức sản xuất trong giờ"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Chi phí đặt hàng được xác định là:",
+    "answer": "Tích giữa só lần đặt hàng trong năm và chi phí cho mỗi lần đặt hàng."
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Đâu không phải là vai trò của công tác bảo trì:",
+    "answer": "Giúp dự báo chính xác nhu cầu sản phẩm"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Đâu không phải là bản chất của bảo trì dự phòng",
+    "answer": "Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Khoảng thời gian của từng loại kế hoạch. Chọn câu trả lời sai",
+    "answer": "Kế hoạch ngắn hạn thường từ 3 tháng tới 1 năm."
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Nội dung của quá trình điều độ sản xuất",
+    "answer": "Tất cả ý kiến trên"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Vai trò của Hoạch định nhu cầu nguyên vật liệu",
+    "answer": "Cả ý A và B"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Đặt cọc trước nằm trong giai đoạn nào",
+    "answer": "Nhu cầu cao"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Đâu không phải là nhược điểm của chiến lược thay đổi cường độ lao động",
+    "answer": "Năng suất lao động có thể bị giảm"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Thuật ngữ thường dùng nhất trong phân tích sự tin cậy là \"thời gian trung bình giữa hai lần hư hỏng\" (Mean Time Between Failure MTBF), được tính theo công thức",
+    "answer": "MTBF = 1/ FR(n)"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Nhà máy A chuyên sản xuất phụ tùng với tốc độ 250 chiếc/ngày. Loại phụ tùng này được sử dụng 12.000 chiếc/năm và trong năm xí nghiệp làm việc 200 ngày. Chi phí tồn trữ 20.000đ/1 đơn vị trong năm, phí đặt hàng mỗi lần là 300.000đ. Vậy số đặt hàng kinh tế là bao nhiêu?",
+    "answer": "688 đơn vị."
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "« Liệt kê các công việc và thời gian thực hiện chúng trên từng máy, tìm công việc có thời gian nhỏ nhất », đây là một trong các bước của nguyên tắc ",
+    "answer": "Johnson"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của C",
+    "answer": "Cả ý B và C"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Đây là các quyết định quản trị tác nghiệp, ngoại trừ",
+    "answer": "Lập kế hoạch quảng bá hình ảnh sản phẩm"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Đây là vai trò của chiến lược tác nghiệp, ngoại trừ",
+    "answer": "Tăng doanh thu"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết E",
+    "answer": "300"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Hoạch định tổng hợp theo phương pháp trực quan",
+    "answer": "Nhanh"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Nguyên tắc SPT có nghĩa:",
+    "answer": "Công việc có thời gian thực hiện ngắn nhất làm trước."
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Mục tiêu của nguyên tắc Johnson ",
+    "answer": "Phải làm sao cho tổng thời gian thực hiện các công việc là nhỏ nhất"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Các chiến lược tác nghiệp cạnh tranh dựa trên",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Đâu không phải là đặc trưng của sản xuất hàng hóa:",
+    "answer": "Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Đây là các quyết định quản trị tác nghiệp, ngoại trừ",
+    "answer": "Quản trị tài chính"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Nhược điểm của chiến lược thay đổi nhân lực theo mức cầu",
+    "answer": "Tăng chi phí đào tạo"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Các chiến lược tác nghiệp cạnh tranh dựa trên",
+    "answer": "Chi phí, khác biệt hóa, sự đáp ứng"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Nhược điểm của chiến lược thay đổi mức dự trữ",
+    "answer": "Tăng chi phí về vốn, gây ứ đọng vốn"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Đặc trưng của hàng hóa là:",
+    "answer": "Tất cả các ý kiến trên"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Công thức của chiến lược thay đổi mức tồn kho là",
+    "answer": "Tồn kho cuối mỗi tháng, Tồn kho tháng trước + Tồn kho phát sinh mỗi tháng., Mức sản xuất trong giờ - Nhu cầu., Tồn kho tháng trước - Tồn kho phát sinh mỗi tháng., Mức sản xuất trong giờ + Nhu cầu."
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Chọn câu sai trong các nhược điểm của chiến lược hợp đồng phụ",
+    "answer": "Tốn thêm phí trả phụ trội, hạ thấp năng suất"
+  }
+]

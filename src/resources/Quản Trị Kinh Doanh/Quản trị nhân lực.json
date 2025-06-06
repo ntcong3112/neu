@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Nam luôn quản lý nhân viên rất chặt chẽ vì anh cho rằng nếu không quản lý như vậy thì nhân viên sẽ không chịu làm việc vì bản chất họ là lười biếng. Ví dụ này minh họa cho việc Nam đã áp dụng học thuyết nào để quản lý nhân viên?",
+    "answer": "Thuyết X."
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Cán bộ quản lý các phòng ban trong công ty có trách nhiệm:",
+    "answer": "thực hiện các hoạt động quản trị nhân lực trong phạm vi bộ phận mình phụ trách."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Quản trị nhân lực gồm các hoạt động nào?",
+    "answer": "Các nhóm hoạt động thu hút, xây dựng, sử dụng, đánh giá và duy trì nguồn nhân lực nhằm đáp ứng mục tiêu của tổ chức."
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Mục tiêu chủ yếu của quản trị nguồn nhân lực là:",
+    "answer": "Nâng cao hiệu quả hoạt động của tổ chức thông qua quản lý và sử dụng nguồn nhân lực hiệu quả và hiệu suất"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Triết lý quản trị nhân lực là:",
+    "answer": "quan điểm và tư tưởng của cán bộ lãnh đạo cấp cao trong tổ chức về cách thức quản lý con người trong tổ chức."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong tuyển mộ nhân lực trong tổ chức?",
+    "answer": "Quảng cáo về vị trí việc làm trống."
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Bản mô tả công việc giúp người lao động hiểu rõ điều gì thuộc công việc?",
+    "answer": "Nhiệm vụ, trách nhiệm, điều kiện làm việc."
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong đào tạo và phát triển nguồn nhân lực của tổ chức?",
+    "answer": "Xác định nhu cầu đào tạo."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Để phục vụ cho phân tích công việc thì nhóm thông tin nào cần được thu thập đầu tiên và phải đầy đủ nhất?",
+    "answer": "Về nhiệm vụ, trách nhiệm thuộc công việc."
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong đánh giá thực hiện công việc của tổ chức?",
+    "answer": "Xây dựng tiêu thức đánh giá và mốc chuẩn để so sánh."
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Tham quan công việc nhằm:",
+    "answer": "cung cấp cho ứng viên cái nhìn thực tế về công việc, hiểu rõ hơn về công việc, tránh những mong đợi, đòi hỏi quá mức từ ứng viên."
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Kiểm tra sức khỏe và đánh giá thể lực của các ứng viên nhằm:",
+    "answer": "đánh giá kỹ càng về sức khỏe, thể lực để đảm khả năng thực hiện công việc, tránh những đòi hỏi không chính đáng của ứng viên khi họ có vấn đề với sức khỏe sau này."
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Những loại trắc nghiệm có thể dùng trong tuyển chọn là:",
+    "answer": "trắc nghiệm tâm lý, trắc nghiệm thành tích, trắc nghiệm năng khiếu."
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Nguồn nhân lực để tuyển mộ có thể là từ:",
+    "answer": "lực lượng lao động hiện có của tổ chức, Từ sinh viên tốt nghiệp các trường đại học, cao đẳng, dạy nghề và trung học cả trong và ngoài nước; người thất nghiệp và những người hành nghề tự do; người tự nộp đơn xin việc; Nhân viên cũ của tổ chức; bạn bè, người thân của nhân viên; người lao động đang làm việc tại các tổ chức khác nhưng có nhu cầu thay đổi vị trí làm việc."
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Tuyển mộ từ bên ngoài là từ:",
+    "answer": "sinh viên tốt nghiệp các trường đại học, cao đẳng, dạy nghề và trung học cả trong và ngoài nước; người thất nghiệp và những người hành nghề tự do; người tự nộp đơn xin việc; nhân viên cũ của tổ chức; bạn bè, người thân của nhân viên; người lao động đang làm việc tại các tổ chức khác nhưng có nhu cầu thay đổi vị trí làm việc."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Yếu tố nào KHÔNG là yếu tố cơ bản của hệ thống đánh giá thực hiện công việc?",
+    "answer": "Các phương pháp đánh giá thực hiện công việc"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Đâu KHÔNG phải mục tiêu cơ bản của đánh giá thực hiện công việc?",
+    "answer": "Tạo ra tính chuyên nghiệp cho người lao động."
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Phương pháp “Quản lý bằng mục tiêu” nhấn mạnh vào:",
+    "answer": "kết quả cần đạt được"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Phương pháp phân phối bắt buộc trong đánh giá thực hiện công việc là:",
+    "answer": "bắt buộc phân loại lao động theo tỷ lệ các loại lao động đã quy định sẵn."
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Yêu cầu về tính phù hợp của Hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "đòi hỏi phải có sự liên quan rõ ràng giữa các tiêu chuẩn thực hiện công việc với các mục tiêu của tổ chức."
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Bộ phận chuyên trách nguồn nhân lực có vai trò gì trong công tác đào tạo và phát triển nguồn nhân lực?",
+    "answer": "Lãnh đạo việc xây dựng và tổ chức thực hiện chương trình đào tạo và phát triển"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Ý nào sau đây KHÔNG phải là mục tiêu cơ bản của đào tạo và phát triển nguồn nhân lực trong một doanh nghiệp?",
+    "answer": "Làm cho người lao động yên tâm công tác."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Phương pháp đào tạo nào sau đây thường được áp dụng cho công nhân sản xuất?",
+    "answer": "Đào tạo tại chỗ theo kiểu học nghề."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Đào tạo theo kiểu bài giảng, hội nghị hay thảo luận có nhược điểm gì?",
+    "answer": "Tốn thời gian, phạm vi hẹp."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Nhược điểm của phương pháp đào tạo nguồn nhân lực theo kiểu luân chuyển và thuyên chuyển công việc là gì?",
+    "answer": "Thời gian ở lại một công việc hay một vị trí quá ngắn."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Đánh giá công việc là gì?",
+    "answer": "Tiến hành phân tích, so sánh và xác định giá trị công việc."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Điều kiện cơ bản để áp dụng hình thức trả công theo sản phẩm là gì?",
+    "answer": "Phải xây dựng được các mức lao động có căn cứ khoa học."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Mức trả công của doanh nghiệp là gì?",
+    "answer": "Số tiền người lao động nhận được trong tương quan với tổ chức khác chi trả cho công việc tương tự."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Nhược điểm của hình thức trả công theo sản phẩm là gì?",
+    "answer": "Người lao động ít quan tâm đến đảm bảo chất lượng sản phẩm"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Tại sao doanh nghiệp cần nghiên cứu mức lương thịnh hành khi xây dựng hệ thống trả công?",
+    "answer": "Nhằm đưa ra quyết định về mức tiền công trong doanh nghiệp"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Công ty Mai Linh mới sử dụng phần mềm quản trị nhân sự để quản lý nhân viên. Ví dụ này cho thấy:",
+    "answer": "sự ảnh hưởng của sự phát triển công nghệ đến hoạt động quản trị nhân lực của công ty."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Những yếu tố nào sau đây thuộc về môi trường bên ngoài có ảnh hưởng đến hoạt động quản trị nhân lực của tổ chức?",
+    "answer": "Bộ luật lao động."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "“Tôi luôn tin tưởng và trao quyền cho nhân viên vì tôi nghĩ rằng họ là những người có năng lực và thực sự yêu thích làm việc”, trưởng phòng Lan nói. Lan đã áp dụng học thuyết nào trong quản lý con người?",
+    "answer": "Thuyết Y."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Quan điểm coi người lao động về bản chất là không muốn làm việc và thụ động thuộc học thuyết nào về quản lý con người dưới đây?",
+    "answer": "Thuyết X."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Khi phòng tổ chức thực hiện hoạt động tuyển dụng nhân viên cho toàn công ty, phòng này đã thực hiện vai trò nào của bộ phận chuyên trách nguồn nhân lực?",
+    "answer": "Vai trò phục vụ."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong tuyển chọn nhân lực của tổ chức?",
+    "answer": "Xây dựng các tiêu chuẩn tuyển chọn hợp lý."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Cấp độ thấp nhất của phân tích công việc là gì?",
+    "answer": "Nhiệm vụ."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Phát biểu nào sau đây về vai trò của bộ phận chuyên trách nguồn nhân lực trong phân tích công việc là SAI?",
+    "answer": "Chịu trách nhiệm chính trong việc viết các bản tiêu chuẩn thực hiện công việc trong tổ chức."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Các tổ chức thường tiến hành rà soát lại tất cả các công việc theo chu kỳ bao lâu?",
+    "answer": "3 năm."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Phát biểu nào sau đây về phân tích công việc là đúng?",
+    "answer": "Thu thập các tư liệu, đánh giá có hệ thống các thông tin quan trọng liên quan đến công việc cụ thể trong tổ chức."
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Thẩm tra các thông tin về ứng viên là nhằm:",
+    "answer": "đánh giá độ tin cậy của những thông tin mà ứng viên đã cung cấp, tránh tình trạng ứng viên giả mạo giấy tờ, bằng cấp hay gian dối."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Ưu điểm của tuyển mộ từ nội bộ có thể là:",
+    "answer": "dễ dàng đánh giá năng lực của ứng viên, có thể tận dụng và khai thác triệt để nguồn nhân lực hiện tại; tiết kiệm chi phí và thời gian hội nhập công việc và đào tạo; tạo động lực phấn đấu cho người lao động."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Tuyển mộ từ nội bộ là từ:",
+    "answer": "lực lượng lao động hiện có của tổ chức, tức là gồm những người lao động đang làm việc trong doanh nghiệp."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Các phương pháp tuyển mộ từ nội bộ gồm:",
+    "answer": "gửi bản thông báo về vị trí công việc đến tất cả các nhân viên; Sử dụng các danh mục kỹ năng; Thông qua sự giới thiệu, đề cử của người cán bộ và nhân viên trong tổ chức."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Có thể dùng những loại phỏng vấn tuyển chọn nào?",
+    "answer": "Phỏng vấn cá nhân, phỏng vấn nhóm, phỏng vấn hội đồng."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Nội dung của phỏng vấn đánh giá là:",
+    "answer": "gặp gỡ và trao đổi với người lao động về kết quả đánh giá thực hiện công việc"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Người đánh giá có hiệu quả nhất trong đánh giá thực hiện công việc là:",
+    "answer": "người lãnh đạo trực tiếp."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Phương pháp “Quản lý bằng mục tiêu” khi thực hiện tốt sẽ có vai trò quan trọng trong:",
+    "answer": "tạo động lực cho người lao động"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Các chỉ tiêu dùng để đánh giá thực hiện công việc gồm:",
+    "answer": "Tất cả các chi tiết trên"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Phương pháp đánh giá bằng thang đo dựa trên hành vi trong đánh giá thực hiện công việc là sự kết hợp của thang đo đánh giá đồ họa và:",
+    "answer": "ghi chép sự kiện quan trọng."
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Phương pháp đào tạo nào sau đây thường được áp dụng cho người quản lý có tiềm năng trong tổ chức?",
+    "answer": "Đào tạo theo kiểu luân chuyển và thuyên chuyển công việc"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Phương pháp nào sau đây KHÔNG dùng để xác định nhu cầu đào tạo?",
+    "answer": "Xem xét động thái của đối thủ cạnh tranh"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Lựa chọn đối tượng đào tạo KHÔNG nên dựa trên:",
+    "answer": "tình trạng tài chính của người lao động."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Phương pháp đào tạo được tiến hành sử dụng các kỹ thuật: bài tập tình huống, diễn kịch, mô phỏng trên vi tính, trò chơi quản lí được gọi là gì?",
+    "answer": "Đào tạo theo kiểu phòng thí nghiệm."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Phát triển nguồn nhân lực được hiểu như thế nào là chính xác nhất?",
+    "answer": "Các hoạt động học tập vượt ra khỏi phạm vi công việc trước mắt của người lao động, nhằm mở ra cho họ những công việc mới dựa trên những định hướng tương lai của tổ chức."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Thù lao lao động cơ bản là gì?",
+    "answer": "Phần thù lao cố định mà người lao động nhận được một cách thường kỳ dưới dạng tiền lương hay là tiền công."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Chế độ tiền lương chức vụ là gì?",
+    "answer": "Những quy định của nhà nước trả lương cho cán bộ quản lý"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Ưu điểm của hình thức trả công theo thời gian là:",
+    "answer": "dễ tính toán được tiền công người lao động nhận được."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Trình tự xây dựng hệ thống trả công trong tổ chức được trải qua mấy bước?",
+    "answer": "6 bước."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Hệ thống trả công lao động của doanh nghiệp là:",
+    "answer": "Những quy định do doanh nghiệp xây dựng và ban hành để trả công lao động."
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Nhóm chức năng duy trì nguồn nhân lực chú trọng :",
+    "answer": "đãi ngộ và xây dựng, duy trì mối quan hệ tốt đẹp giữa người lao động và người sử dụng lao động."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Đối tượng của quản trị nhân lực là:",
+    "answer": "con người và các mối quan hệ của con người trong tổ chức."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Nhóm chức năng đào tạo, phát triển nguồn nhân lực chú trọng tới việc:",
+    "answer": "nâng cao năng lực thực hiện công việc hiện tại và tương lai cho người lao động."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Quản trị nguồn nhân lực gồm các nhóm hoạt động:",
+    "answer": "thu hút, xây dựng, sử dụng, phát triển, gìn giữ nguồn nhân lực cho doanh nghiệp."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Việc xây dựng các chính sách, quy định về quản lý nguồn nhân lực, hướng dẫn các cán bộ quản lý chức năng thực thi các hoạt động quản lý nguồn nhân lực là trách nhiệm của ai?",
+    "answer": "Cán bộ của phòng tổ chức cán bộ."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "Đối với công nhân sản xuất thì sử dụng phương pháp thu thập thông tin cho phân tích công việc nào sau đây là tốt nhất?",
+    "answer": "Quan sát."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "PAQ do Ernest Mc Cormick thiết kế bao gồm bao nhiêu yếu tố thuộc công việc?",
+    "answer": "195 yếu tố."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Phương pháp nào được sử dụng trong trường hợp phân tích công việc khó thu thập được thông tin?",
+    "answer": "Hội thảo chuyên gia."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Khi xây dựng các kết quả của phân tích công việc không cần lấy ý kiến đóng góp của ai?",
+    "answer": "Khách hàng."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trước khi ban hành, các kết quả của phân tích công việc cần ai phê chuẩn?",
+    "answer": "Người lãnh đạo cao nhất của tổ chức."
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Tiếp đón ban đầu và phỏng vấn sơ bộ là bước đầu tiên của quá trình tuyển chọn, nhằm:",
+    "answer": "đánh giá ban đầu về những cá nhân có những tố chất và khả năng phù hợp với công việc."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Các phương pháp tuyển mộ từ bên ngoài bao gồm:",
+    "answer": "quảng cáo, thông qua sự giới thiệu của nhân viên hoặc cử nhân viên tuyển mộ đến các cơ sở đào tạo, thông qua các trung tâm giới thiệu việc làm hoặc thông qua các hội chợ việc làm."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Hạn chế của tuyển mộ từ bên ngoài là:",
+    "answer": "rủi ro cao, tốn thời gian và chi phí hơn, có thể gây ra làm suy giảm động lực, tác động tiêu cực tới lòng trung thành của lực lượng lao động hiện tại."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Tuyển chọn là quá trình:",
+    "answer": "đánh giá, sàng lọc những người tham gia dự tuyển để lựa chọn những ứng viên phù hợp nhất với yêu cầu công việc của tổ chức."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Mẫu thông tin ứng viên thường được các tổ chức thiết kế sẵn, gồm những nội dung sau:",
+    "answer": "các thông tin cá nhân; quá trình học tập; lịch sử quá trình làm việc."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Phương pháp cho điểm trong đánh giá thực hiện công việc là:",
+    "answer": "phân phối một tổng số điểm cho các nhân viên trong bộ phận."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Thực chất phương pháp đánh giá thang đo đồ hoạ dùng trong đánh giá thực hiện công việc là:",
+    "answer": "cho điểm theo ý kiến chủ quan của người đánh giá về sự thực hiện công việc"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Yêu cầu về tính tin cậy của hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "được thể hiện ở sự nhất quán của các kết quả đánh giá bởi những người đánh giá khác nhau."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Nội dung cơ bản của phương pháp bản tường thuật trong đánh giá thực hiện công việc là:",
+    "answer": "cá nhân tự mô tả lại quá trình thực hiện công việc của mình."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Đánh giá thực hiện công việc là:",
+    "answer": "Hệ thống đánh giá một cách chính thức tình hình thực hiện công việc của cá nhân."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Đào tạo theo kiểu chương trình hóa với sự trợ giúp của máy tính có ưu điểm là?",
+    "answer": "Được sử dụng để đào tạo rất nhiều kĩ năng mà không cần người chỉ dẫn."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Để xác định nhu cầu đào tạo, cần phải tiến hành phân tích những khía cạnh nào?",
+    "answer": "Tổ chức, con người và nhiệm vụ."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Đâu là ưu điểm chính của đào tạo ngoài công việc?",
+    "answer": "Học viên được trang bị đầy đủ và hệ thống kiến thức lí thuyết và thực hành."
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Để phương pháp đào tạo trong công việc có hiệu quả cần phải có điều kiện gì?",
+    "answer": "Quá trình đào tạo phải chặt chẽ, giáo viên dạy nghề phải có trình độ chuyên môn và khả năng truyền thụ tốt."
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Xác định nhu cầu đào tạo là xác định những vấn đề gì?",
+    "answer": "Khi nào- bộ phận nào- ai đào tạo- cần bao nhiêu người."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Chế độ tiền lương cấp bậc áp dụng cho đối tượng nào?",
+    "answer": "Công nhân sản xuất."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Thù lao lao động bao gồm những gì?",
+    "answer": "Các khoản tài chính và phi tài chính người lao động nhân được"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Khi xác định mức lương của doanh nghiệp không được căn cứ vào:",
+    "answer": "ý kiến chủ quan của người lãnh đạo."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Thế nào là trả công theo sản phẩm?",
+    "answer": "Số tiền trả cho người lao động theo số sản phẩm hoàn thành và đơn giá cho mỗi sản phẩm đó."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Thế nào là trả công theo thời gian?",
+    "answer": "Số tiền người lao động nhận được dựa trên mức tiền công đã được xác định cho công việc và số đơn vị thời gian thực tế làm việc."
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Nhóm chức năng thu hút nguồn nhân lực chú trọng :",
+    "answer": "đảm bảo có đủ số lượng và chất lượng lao động để thực hiện các hoạt động của tổ chức."
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Bộ phận chuyên trách về nguồn nhân lực trong doanh nghiệp có vai trò:",
+    "answer": "tư vấn, phục vụ, kiểm tra."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Những yếu tố nào sau đây thuộc về tổ chức ảnh hưởng tới hoạt động quản trị nhân lực của tổ chức?",
+    "answer": "Đặc điểm nguồn nhân lực."
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Trách nhiệm của cán bộ quản lý cấp cao trong quản trị nhân lực là:",
+    "answer": "đưa ra định hướng và triết lý quản lý con người trong tổ chức"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Cán bộ quản lý các phòng ban trong công ty có trách nhiệm:",
+    "answer": "thực hiện các hoạt động quản trị nhân lực trong phạm vi bộ phận mình phụ trách."
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Để thu thập thông tin cho phân tích công việc của người quản lý và lao động chuyên môn thì phương pháp nào sau đây là tốt nhất?",
+    "answer": "Phỏng vấn."
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong hoạt động thù lao lao động của tổ chức?",
+    "answer": "Xác định giá trị của các công việc."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Chương trình phân tích công việc trong tổ chức tốn kém chi phí tài chính và thời gian nhất trong trường hợp nào?",
+    "answer": "Khi tổ chức vừa mới thành lập."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Bản tiêu chuẩn thực hiện công việc cần làm rõ điều gì thuộc công việc?",
+    "answer": "Giới hạn thời gian cho người thực hiện công việc."
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Trách nhiệm chính của người quản lý trực tiếp trong phân tích công việc là gì?",
+    "answer": "Viết các bản tiêu chuẩn thực hiện công việc cho các công việc thuộc bộ phận mình quản lý."
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Ưu điểm của tuyển mộ từ bên ngoài là:",
+    "answer": "góp phần tạo nên môi trường cạnh tranh lành mạnh; có thể kích thích sự thay đổi, sáng tạo; đặc biệt hợp lý khi nguồn nhân lực nội bộ không thể cung cấp ứng viên có năng lực phù hợp."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Tuyển mộ là quá trình:",
+    "answer": "thu hút những người lao động có trình độ từ lực lượng lao động xã hội và lực lượng lao động bên trong tổ chức."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Hạn chế của tuyển mộ từ nội bộ là có thể dẫn đến:",
+    "answer": "tình trạng nguồn nhân lực làm việc theo kinh nghiệm, thiếu sáng tạo, trì trệ, lạc hậu và kém hiệu quả; có thể dẫn tới hiện tượng bè phái gây mất đoàn kết trong nội bộ; có thể dẫn đến xáo trộn cơ cấu tổ chức hiện tại."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Mục tiêu của phương pháp phỏng vấn tuyển chọn là:",
+    "answer": "đánh giá sâu hơn về năng lực làm việc, khả năng làm việc nhóm, khả năng giao tiếp, mức độ cam kết và các hạn chế của ứng viên; một cách quảng cáo về công ty."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Mẫu thông tin ứng viên thường được các tổ chức thiết kế sẵn, gồm những nội dung sau:",
+    "answer": "các thông tin cá nhân; quá trình học tập; lịch sử quá trình làm việc."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Kết quả đánh giá thực hiện công việc được dùng làm Căn cứ :",
+    "answer": "Căn cứ để ra các quyết định quản lý nguồn nhân lực."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Lựa chọn phương pháp đánh giá trước hết phụ thuộc vào:",
+    "answer": "mục tiêu của quản lý"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Yêu cầu về tính nhạy cảm của hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "đòi hỏi hệ thống đánh giá phải có những công cụ đo lường có khả năng phân biệt được những người hoàn thành tốt công việc và những người không hoàn thành tốt công việc."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Nội dung của phương pháp ghi chép các sự kiện quan trọng trong đánh giá thực hiện công việc là:",
+    "answer": "ghi những nội dung quan trọng và cơ bản quyết định thực hiện công việc."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Yêu cầu về tính thực tiễn của Hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "các phương tiện đánh giá phải đơn giản, dễ hiểu và dễ sử dụng đối với người lao động và với người quản lý."
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Ưu điểm của đào tạo trong công việc là gi?",
+    "answer": "Cho phép học viên thực hành những gì mà tổ chức trông mong ở họ sau khi kết thúc đào tạo."
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây KHÔNG dùng để đánh giá hiệu quả của quá trình đào tạo?",
+    "answer": "Độ tuổi của nhân viên"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Tổ chức nên lựa chọn ai để kèm cặp và chỉ bảo đối tượng đào tạo là tốt nhất?",
+    "answer": "Người lãnh đạo trực tiếp."
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Hoạt động đào tạo nào sau đây thuộc phương pháp đào tạo bằng cách tổ chức các lớp cạnh doanh nghiệp?",
+    "answer": "Các nhân viên mới được các kĩ sư cơ khí giảng lí thuyết về quy trình vận hành máy mó Sau đó, các học viên tiếp tục được thực tập ở các phân xưởng dưới sự hướng dẫn của các kĩ sư."
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Đào tạo trong tổ chức được hiểu như thế nào là chính xác nhất?",
+    "answer": "Đào tạo là các hoạt động học tập nhằm giúp cho người lao động có thể thực hiện hiệu quả hơn chức năng, nhiệm vụ của mình."
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Thế nào là phúc lợi bắt buộc?",
+    "answer": "Các khoản phúc lợi tối thiểu mà các tổ chức phải đưa ra theo yêu cầu của pháp luật."
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Tại sao tổ chức cần đánh giá công việc khi xây dựng hệ thống trả công?",
+    "answer": "Để xem xét tổ chức cần trả công cho bao nhiêu vị trí việc làm."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Yếu tố nào sau đây KHÔNG thể hiện nguyên tắc đảm bảo của mức tiền công doanh nghiệp?",
+    "answer": "Thấp hơn mức lương tối thiểu vùng."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Yếu tố nào sau đây là yếu tố chính quyết định trực tiếp đến mức tiền công người lao động được hưởng trong tổ chức?",
+    "answer": "Vị trí công việc đảm nhận."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Câu nói nào sau đây về mục tiêu của thù lao lao động là KHÔNG đúng?",
+    "answer": "Thù lao của tổ chức không cần tuân thủ quy định của pháp luật hiện hành."
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Khi phòng tổ chức thực hiện hoạt động tuyển dụng nhân viên cho toàn công ty, phòng này đã thực hiện vai trò nào của bộ phận chuyên trách nguồn nhân lực?",
+    "answer": "Vai trò phục vụ."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Nhóm chức năng thu hút nguồn nhân lực chú trọng :",
+    "answer": "đảm bảo có đủ số lượng và chất lượng lao động để thực hiện các hoạt động của tổ chức."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Quản trị nhân lực gồm các hoạt động nào?",
+    "answer": "Các nhóm hoạt động thu hút, xây dựng, sử dụng, đánh giá và duy trì nguồn nhân lực nhằm đáp ứng mục tiêu của tổ chức."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Công ty Mai Linh mới sử dụng phần mềm quản trị nhân sự để quản lý nhân viên. Ví dụ này cho thấy:",
+    "answer": "sự ảnh hưởng của sự phát triển công nghệ đến hoạt động quản trị nhân lực của công ty."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Trách nhiệm của cán bộ quản lý cấp cao trong quản trị nhân lực là:",
+    "answer": "đưa ra định hướng và triết lý quản lý con người trong tổ chức"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Phân tích công việc là quá trình nhằm làm gì?",
+    "answer": "Làm rõ bản chất của từng công việc trong tổ chức."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "PAQ do Ernest Mc Cormick thiết kế nhằm để đo mấy khía cạnh chính thuộc công việc?",
+    "answer": "6 khía cạnh chính."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Việc lựa chọn phương pháp thu thập thông tin trong phân tích công việc cần dựa vào cơ sở nào sau đây?",
+    "answer": "Mục đích của phân tích công việc."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Bản yêu cầu của công việc với người thực hiện giúp người lao động hiểu rõ điều gì thuộc công việc?",
+    "answer": "Yêu cầu thể lực và chí lực người thực hiện công việc cần có."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Phương pháp thu thập thông tin nào sau đây được sử dụng rộng rãi hơn trong phân tích công việc?",
+    "answer": "Bảng hỏi."
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Tuyển mộ từ nội bộ là từ:",
+    "answer": "lực lượng lao động hiện có của tổ chức, tức là gồm những người lao động đang làm việc trong doanh nghiệp."
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Tuyển mộ là quá trình:",
+    "answer": "thu hút những người lao động có trình độ từ lực lượng lao động xã hội và lực lượng lao động bên trong tổ chức."
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Tuyển chọn là quá trình:",
+    "answer": "đánh giá, sàng lọc những người tham gia dự tuyển để lựa chọn những ứng viên phù hợp nhất với yêu cầu công việc của tổ chức."
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "Tuyển mộ từ bên ngoài là từ:",
+    "answer": "sinh viên tốt nghiệp các trường đại học, cao đẳng, dạy nghề và trung học cả trong và ngoài nước; người thất nghiệp và những người hành nghề tự do; người tự nộp đơn xin việc; nhân viên cũ của tổ chức; bạn bè, người thân của nhân viên; người lao động đang làm việc tại các tổ chức khác nhưng có nhu cầu thay đổi vị trí làm việc."
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Nguồn nhân lực để tuyển mộ có thể là từ:",
+    "answer": "lực lượng lao động hiện có của tổ chức, Từ sinh viên tốt nghiệp các trường đại học, cao đẳng, dạy nghề và trung học cả trong và ngoài nước; người thất nghiệp và những người hành nghề tự do; người tự nộp đơn xin việc; Nhân viên cũ của tổ chức; bạn bè, người thân của nhân viên; người lao động đang làm việc tại các tổ chức khác nhưng có nhu cầu thay đổi vị trí làm việc."
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Đâu KHÔNG phải mục tiêu cơ bản của đánh giá thực hiện công việc?",
+    "answer": "Tạo ra tính chuyên nghiệp cho người lao động."
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Đánh giá thực hiện công việc là:",
+    "answer": "Hệ thống đánh giá một cách chính thức tình hình thực hiện công việc của cá nhân."
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Phương pháp phân phối bắt buộc trong đánh giá thực hiện công việc là:",
+    "answer": "bắt buộc phân loại lao động theo tỷ lệ các loại lao động đã quy định sẵn."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Phương pháp “Quản lý bằng mục tiêu” khi thực hiện tốt sẽ có vai trò quan trọng trong:",
+    "answer": "tạo động lực cho người lao động"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Yếu tố nào KHÔNG là yếu tố cơ bản của hệ thống đánh giá thực hiện công việc?",
+    "answer": "Các phương pháp đánh giá thực hiện công việc"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Đâu là ưu điểm chính của đào tạo ngoài công việc?",
+    "answer": "Học viên được trang bị đầy đủ và hệ thống kiến thức lí thuyết và thực hành."
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Đào tạo theo kiểu bài giảng, hội nghị hay thảo luận có nhược điểm gì?",
+    "answer": "Tốn thời gian, phạm vi hẹp."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Nhược điểm của phương pháp đào tạo nguồn nhân lực theo kiểu luân chuyển và thuyên chuyển công việc là gì?",
+    "answer": "Thời gian ở lại một công việc hay một vị trí quá ngắn."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Phương pháp đào tạo được tiến hành sử dụng các kỹ thuật: bài tập tình huống, diễn kịch, mô phỏng trên vi tính, trò chơi quản lí được gọi là gì?",
+    "answer": "Đào tạo theo kiểu phòng thí nghiệm."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Đào tạo trong tổ chức được hiểu như thế nào là chính xác nhất?",
+    "answer": "Đào tạo là các hoạt động học tập nhằm giúp cho người lao động có thể thực hiện hiệu quả hơn chức năng, nhiệm vụ của mình."
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Phúc lợi cho người lao động là gì?",
+    "answer": "Phần thù lao gián tiếp được trả dưới dạng các hỗ trợ về cuộc sống cho người lao động."
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Thù lao lao động được hiểu là gì?",
+    "answer": "Thù lao lao động là tất cả các khoản mà người lao động nhận được thông qua mối quan hệ thuê mướn giữa họ với tổ chức."
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Thế nào là phúc lợi tự nguyện?",
+    "answer": "Các phúc lợi mà các tổ chức tự nguyện đưa ra, tuỳ thuộc vào khả năng kinh tế của họ."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Lý do nào sau đây là KHÔNG đúng về ý nghĩa của phúc lợi trong doanh nghiệp?",
+    "answer": "Làm giảm uy tín của doanh nghiệp trên thương trường."
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Tại sao doanh nghiệp cần nghiên cứu mức lương tối thiểu mà nhà nước quy định khi xây dựng hệ thống trả công?",
+    "answer": "Để đảm bảo tính hợp pháp của hệ thống tiền công."
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Triết lý quản trị nhân lực là:",
+    "answer": "quan điểm và tư tưởng của cán bộ lãnh đạo cấp cao trong tổ chức về cách thức quản lý con người trong tổ chức."
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Quản trị nguồn nhân lực gồm các nhóm hoạt động:",
+    "answer": "thu hút, xây dựng, sử dụng, phát triển, gìn giữ nguồn nhân lực cho doanh nghiệp."
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Nhóm chức năng đào tạo, phát triển nguồn nhân lực chú trọng tới việc:",
+    "answer": "nâng cao năng lực thực hiện công việc hiện tại và tương lai cho người lao động."
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Nam luôn quản lý nhân viên rất chặt chẽ vì anh cho rằng nếu không quản lý như vậy thì nhân viên sẽ không chịu làm việc vì bản chất họ là lười biếng. Ví dụ này minh họa cho việc Nam đã áp dụng học thuyết nào để quản lý nhân viên?",
+    "answer": "Thuyết X."
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Những yếu tố nào sau đây thuộc về tổ chức ảnh hưởng tới hoạt động quản trị nhân lực của tổ chức?",
+    "answer": "Đặc điểm nguồn nhân lực."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Phát biểu nào sau đây về phân tích công việc là đúng?",
+    "answer": "Thu thập các tư liệu, đánh giá có hệ thống các thông tin quan trọng liên quan đến công việc cụ thể trong tổ chức."
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Phương pháp nào được sử dụng trong trường hợp phân tích công việc khó thu thập được thông tin?",
+    "answer": "Hội thảo chuyên gia."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong đào tạo và phát triển nguồn nhân lực của tổ chức?",
+    "answer": "Xác định nhu cầu đào tạo."
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Các tổ chức thường tiến hành rà soát lại tất cả các công việc theo chu kỳ bao lâu?",
+    "answer": "3 năm."
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Bản tiêu chuẩn thực hiện công việc cần làm rõ điều gì thuộc công việc?",
+    "answer": "Giới hạn thời gian cho người thực hiện công việc."
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Ưu điểm của tuyển mộ từ nội bộ có thể là:",
+    "answer": "dễ dàng đánh giá năng lực của ứng viên, có thể tận dụng và khai thác triệt để nguồn nhân lực hiện tại; tiết kiệm chi phí và thời gian hội nhập công việc và đào tạo; tạo động lực phấn đấu cho người lao động."
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Có thể dùng những loại phỏng vấn tuyển chọn nào?",
+    "answer": "Phỏng vấn cá nhân, phỏng vấn nhóm, phỏng vấn hội đồng."
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Tham quan công việc nhằm:",
+    "answer": "cung cấp cho ứng viên cái nhìn thực tế về công việc, hiểu rõ hơn về công việc, tránh những mong đợi, đòi hỏi quá mức từ ứng viên."
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Tiếp đón ban đầu và phỏng vấn sơ bộ là bước đầu tiên của quá trình tuyển chọn, nhằm:",
+    "answer": "đánh giá ban đầu về những cá nhân có những tố chất và khả năng phù hợp với công việc."
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Mục tiêu của phương pháp phỏng vấn tuyển chọn là:",
+    "answer": "đánh giá sâu hơn về năng lực làm việc, khả năng làm việc nhóm, khả năng giao tiếp, mức độ cam kết và các hạn chế của ứng viên; một cách quảng cáo về công ty."
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Nội dung của phỏng vấn đánh giá là:",
+    "answer": "gặp gỡ và trao đổi với người lao động về kết quả đánh giá thực hiện công việc"
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Yêu cầu về tính nhạy cảm của hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "đòi hỏi hệ thống đánh giá phải có những công cụ đo lường có khả năng phân biệt được những người hoàn thành tốt công việc và những người không hoàn thành tốt công việc."
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Yêu cầu về tính tin cậy của hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "được thể hiện ở sự nhất quán của các kết quả đánh giá bởi những người đánh giá khác nhau."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Các chỉ tiêu dùng để đánh giá thực hiện công việc gồm:",
+    "answer": "Tất cả các chi tiết trên"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Phương pháp cho điểm trong đánh giá thực hiện công việc là:",
+    "answer": "phân phối một tổng số điểm cho các nhân viên trong bộ phận."
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Hoạt động đào tạo nào sau đây thuộc phương pháp đào tạo bằng cách tổ chức các lớp cạnh doanh nghiệp?",
+    "answer": "Các nhân viên mới được các kĩ sư cơ khí giảng lí thuyết về quy trình vận hành máy mó Sau đó, các học viên tiếp tục được thực tập ở các phân xưởng dưới sự hướng dẫn của các kĩ sư."
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "Phương pháp đào tạo nào sau đây thường được áp dụng cho người quản lý có tiềm năng trong tổ chức?",
+    "answer": "Đào tạo theo kiểu luân chuyển và thuyên chuyển công việc"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Tổ chức nên lựa chọn ai để kèm cặp và chỉ bảo đối tượng đào tạo là tốt nhất?",
+    "answer": "Người lãnh đạo trực tiếp."
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Để xác định nhu cầu đào tạo, cần phải tiến hành phân tích những khía cạnh nào?",
+    "answer": "Tổ chức, con người và nhiệm vụ."
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Đào tạo theo kiểu chương trình hóa với sự trợ giúp của máy tính có ưu điểm là?",
+    "answer": "Được sử dụng để đào tạo rất nhiều kĩ năng mà không cần người chỉ dẫn."
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Hệ thống trả công lao động của doanh nghiệp là:",
+    "answer": "Những quy định do doanh nghiệp xây dựng và ban hành để trả công lao động."
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Thù lao lao động cơ bản là gì?",
+    "answer": "Phần thù lao cố định mà người lao động nhận được một cách thường kỳ dưới dạng tiền lương hay là tiền công."
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Nhược điểm của hình thức trả công theo sản phẩm là gì?",
+    "answer": "Người lao động ít quan tâm đến đảm bảo chất lượng sản phẩm"
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Chế độ tiền lương chức vụ là gì?",
+    "answer": "Những quy định của nhà nước trả lương cho cán bộ quản lý"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Trình tự xây dựng hệ thống trả công trong tổ chức được trải qua mấy bước?",
+    "answer": "6 bước."
+  },
+  {
+    "id": 181,
+    "premium": false,
+    "question": "“Tôi luôn tin tưởng và trao quyền cho nhân viên vì tôi nghĩ rằng họ là những người có năng lực và thực sự yêu thích làm việc”, trưởng phòng Lan nói. Lan đã áp dụng học thuyết nào trong quản lý con người?",
+    "answer": "Thuyết Y."
+  },
+  {
+    "id": 182,
+    "premium": false,
+    "question": "Những yếu tố nào sau đây thuộc về môi trường bên ngoài có ảnh hưởng đến hoạt động quản trị nhân lực của tổ chức?",
+    "answer": "Bộ luật lao động."
+  },
+  {
+    "id": 183,
+    "premium": false,
+    "question": "Bộ phận chuyên trách về nguồn nhân lực trong doanh nghiệp có vai trò:",
+    "answer": "tư vấn, phục vụ, kiểm tra."
+  },
+  {
+    "id": 184,
+    "premium": false,
+    "question": "Quan điểm coi người lao động về bản chất là không muốn làm việc và thụ động thuộc học thuyết nào về quản lý con người dưới đây?",
+    "answer": "Thuyết X."
+  },
+  {
+    "id": 185,
+    "premium": false,
+    "question": "Việc xây dựng các chính sách, quy định về quản lý nguồn nhân lực, hướng dẫn các cán bộ quản lý chức năng thực thi các hoạt động quản lý nguồn nhân lực là trách nhiệm của ai?",
+    "answer": "Cán bộ của phòng tổ chức cán bộ."
+  },
+  {
+    "id": 186,
+    "premium": false,
+    "question": "Phân tích công việc là quá trình nhằm làm gì?",
+    "answer": "Làm rõ bản chất của từng công việc trong tổ chức."
+  },
+  {
+    "id": 187,
+    "premium": false,
+    "question": "PAQ do Ernest Mc Cormick thiết kế nhằm để đo mấy khía cạnh chính thuộc công việc?",
+    "answer": "6 khía cạnh chính."
+  },
+  {
+    "id": 188,
+    "premium": false,
+    "question": "Chương trình phân tích công việc trong tổ chức tốn kém chi phí tài chính và thời gian nhất trong trường hợp nào?",
+    "answer": "Khi tổ chức vừa mới thành lập."
+  },
+  {
+    "id": 189,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong tuyển chọn nhân lực của tổ chức?",
+    "answer": "Xây dựng các tiêu chuẩn tuyển chọn hợp lý."
+  },
+  {
+    "id": 190,
+    "premium": false,
+    "question": "Trách nhiệm chính của người quản lý trực tiếp trong phân tích công việc là gì?",
+    "answer": "Viết các bản tiêu chuẩn thực hiện công việc cho các công việc thuộc bộ phận mình quản lý."
+  },
+  {
+    "id": 191,
+    "premium": false,
+    "question": "Hạn chế của tuyển mộ từ bên ngoài là:",
+    "answer": "rủi ro cao, tốn thời gian và chi phí hơn, có thể gây ra làm suy giảm động lực, tác động tiêu cực tới lòng trung thành của lực lượng lao động hiện tại."
+  },
+  {
+    "id": 192,
+    "premium": false,
+    "question": "Các phương pháp tuyển mộ từ nội bộ gồm:",
+    "answer": "gửi bản thông báo về vị trí công việc đến tất cả các nhân viên; Sử dụng các danh mục kỹ năng; Thông qua sự giới thiệu, đề cử của người cán bộ và nhân viên trong tổ chức."
+  },
+  {
+    "id": 193,
+    "premium": false,
+    "question": "Ưu điểm của tuyển mộ từ bên ngoài là:",
+    "answer": "góp phần tạo nên môi trường cạnh tranh lành mạnh; có thể kích thích sự thay đổi, sáng tạo; đặc biệt hợp lý khi nguồn nhân lực nội bộ không thể cung cấp ứng viên có năng lực phù hợp."
+  },
+  {
+    "id": 194,
+    "premium": false,
+    "question": "Hạn chế của tuyển mộ từ nội bộ là có thể dẫn đến:",
+    "answer": "tình trạng nguồn nhân lực làm việc theo kinh nghiệm, thiếu sáng tạo, trì trệ, lạc hậu và kém hiệu quả; có thể dẫn tới hiện tượng bè phái gây mất đoàn kết trong nội bộ; có thể dẫn đến xáo trộn cơ cấu tổ chức hiện tại."
+  },
+  {
+    "id": 195,
+    "premium": false,
+    "question": "Các phương pháp tuyển mộ từ bên ngoài bao gồm:",
+    "answer": "quảng cáo, thông qua sự giới thiệu của nhân viên hoặc cử nhân viên tuyển mộ đến các cơ sở đào tạo, thông qua các trung tâm giới thiệu việc làm hoặc thông qua các hội chợ việc làm."
+  },
+  {
+    "id": 196,
+    "premium": false,
+    "question": "Thực chất phương pháp đánh giá thang đo đồ hoạ dùng trong đánh giá thực hiện công việc là:",
+    "answer": "cho điểm theo ý kiến chủ quan của người đánh giá về sự thực hiện công việc"
+  },
+  {
+    "id": 197,
+    "premium": false,
+    "question": "Nội dung cơ bản của phương pháp bản tường thuật trong đánh giá thực hiện công việc là:",
+    "answer": "cá nhân tự mô tả lại quá trình thực hiện công việc của mình."
+  },
+  {
+    "id": 198,
+    "premium": false,
+    "question": "Lựa chọn phương pháp đánh giá trước hết phụ thuộc vào:",
+    "answer": "mục tiêu của quản lý"
+  },
+  {
+    "id": 199,
+    "premium": false,
+    "question": "Nội dung của phương pháp ghi chép các sự kiện quan trọng trong đánh giá thực hiện công việc là:",
+    "answer": "ghi những nội dung quan trọng và cơ bản quyết định thực hiện công việc."
+  },
+  {
+    "id": 200,
+    "premium": false,
+    "question": "Yêu cầu về tính thực tiễn của Hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "các phương tiện đánh giá phải đơn giản, dễ hiểu và dễ sử dụng đối với người lao động và với người quản lý."
+  },
+  {
+    "id": 201,
+    "premium": false,
+    "question": "Phương pháp đào tạo nào sau đây thường được áp dụng cho công nhân sản xuất?",
+    "answer": "Đào tạo tại chỗ theo kiểu học nghề."
+  },
+  {
+    "id": 202,
+    "premium": false,
+    "question": "Bộ phận chuyên trách nguồn nhân lực có vai trò gì trong công tác đào tạo và phát triển nguồn nhân lực?",
+    "answer": "Lãnh đạo việc xây dựng và tổ chức thực hiện chương trình đào tạo và phát triển"
+  },
+  {
+    "id": 203,
+    "premium": false,
+    "question": "Phương pháp nào sau đây KHÔNG dùng để xác định nhu cầu đào tạo?",
+    "answer": "Xem xét động thái của đối thủ cạnh tranh"
+  },
+  {
+    "id": 204,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây KHÔNG dùng để đánh giá hiệu quả của quá trình đào tạo?",
+    "answer": "Độ tuổi của nhân viên"
+  },
+  {
+    "id": 205,
+    "premium": false,
+    "question": "Xác định nhu cầu đào tạo là xác định những vấn đề gì?",
+    "answer": "Khi nào- bộ phận nào- ai đào tạo- cần bao nhiêu người."
+  },
+  {
+    "id": 206,
+    "premium": false,
+    "question": "Thế nào là phúc lợi tự nguyện?",
+    "answer": "Các phúc lợi mà các tổ chức tự nguyện đưa ra, tuỳ thuộc vào khả năng kinh tế của họ."
+  },
+  {
+    "id": 207,
+    "premium": false,
+    "question": "Tại sao tổ chức cần đánh giá công việc khi xây dựng hệ thống trả công?",
+    "answer": "Để xem xét tổ chức cần trả công cho bao nhiêu vị trí việc làm."
+  },
+  {
+    "id": 208,
+    "premium": false,
+    "question": "Phúc lợi cho người lao động là gì?",
+    "answer": "Phần thù lao gián tiếp được trả dưới dạng các hỗ trợ về cuộc sống cho người lao động."
+  },
+  {
+    "id": 209,
+    "premium": false,
+    "question": "Yếu tố nào sau đây KHÔNG thể hiện nguyên tắc đảm bảo của mức tiền công doanh nghiệp?",
+    "answer": "Thấp hơn mức lương tối thiểu vùng."
+  },
+  {
+    "id": 210,
+    "premium": false,
+    "question": "Thế nào là trả công theo sản phẩm?",
+    "answer": "Số tiền trả cho người lao động theo số sản phẩm hoàn thành và đơn giá cho mỗi sản phẩm đó."
+  },
+  {
+    "id": 211,
+    "premium": false,
+    "question": "Đối tượng của quản trị nhân lực là:",
+    "answer": "con người và các mối quan hệ của con người trong tổ chức."
+  },
+  {
+    "id": 212,
+    "premium": false,
+    "question": "Mục tiêu chủ yếu của quản trị nguồn nhân lực là:",
+    "answer": "Nâng cao hiệu quả hoạt động của tổ chức thông qua quản lý và sử dụng nguồn nhân lực hiệu quả và hiệu suất"
+  },
+  {
+    "id": 213,
+    "premium": false,
+    "question": "Nhóm chức năng duy trì nguồn nhân lực chú trọng :",
+    "answer": "đãi ngộ và xây dựng, duy trì mối quan hệ tốt đẹp giữa người lao động và người sử dụng lao động."
+  },
+  {
+    "id": 214,
+    "premium": false,
+    "question": "Quan điểm coi người lao động về bản chất là không muốn làm việc và thụ động thuộc học thuyết nào về quản lý con người dưới đây?",
+    "answer": "Thuyết X."
+  },
+  {
+    "id": 215,
+    "premium": false,
+    "question": "Việc xây dựng các chính sách, quy định về quản lý nguồn nhân lực, hướng dẫn các cán bộ quản lý chức năng thực thi các hoạt động quản lý nguồn nhân lực là trách nhiệm của ai?",
+    "answer": "Cán bộ của phòng tổ chức cán bộ."
+  },
+  {
+    "id": 216,
+    "premium": false,
+    "question": "Khi xây dựng các kết quả của phân tích công việc không cần lấy ý kiến đóng góp của ai?",
+    "answer": "Khách hàng."
+  },
+  {
+    "id": 217,
+    "premium": false,
+    "question": "Bản yêu cầu của công việc với người thực hiện giúp người lao động hiểu rõ điều gì thuộc công việc?",
+    "answer": "Yêu cầu thể lực và chí lực người thực hiện công việc cần có."
+  },
+  {
+    "id": 218,
+    "premium": false,
+    "question": "Trước khi ban hành, các kết quả của phân tích công việc cần ai phê chuẩn?",
+    "answer": "Người lãnh đạo cao nhất của tổ chức."
+  },
+  {
+    "id": 219,
+    "premium": false,
+    "question": "Cấp độ thấp nhất của phân tích công việc là gì?",
+    "answer": "Nhiệm vụ."
+  },
+  {
+    "id": 220,
+    "premium": false,
+    "question": "Để phục vụ cho phân tích công việc thì nhóm thông tin nào cần được thu thập đầu tiên và phải đầy đủ nhất?",
+    "answer": "Về nhiệm vụ, trách nhiệm thuộc công việc."
+  },
+  {
+    "id": 221,
+    "premium": false,
+    "question": "Kiểm tra sức khỏe và đánh giá thể lực của các ứng viên nhằm:",
+    "answer": "đánh giá kỹ càng về sức khỏe, thể lực để đảm khả năng thực hiện công việc, tránh những đòi hỏi không chính đáng của ứng viên khi họ có vấn đề với sức khỏe sau này."
+  },
+  {
+    "id": 222,
+    "premium": false,
+    "question": "Thẩm tra các thông tin về ứng viên là nhằm:",
+    "answer": "đánh giá độ tin cậy của những thông tin mà ứng viên đã cung cấp, tránh tình trạng ứng viên giả mạo giấy tờ, bằng cấp hay gian dối."
+  },
+  {
+    "id": 223,
+    "premium": false,
+    "question": "Những loại trắc nghiệm có thể dùng trong tuyển chọn là:",
+    "answer": "trắc nghiệm tâm lý, trắc nghiệm thành tích, trắc nghiệm năng khiếu."
+  },
+  {
+    "id": 224,
+    "premium": false,
+    "question": "Hạn chế của tuyển mộ từ nội bộ là có thể dẫn đến:",
+    "answer": "tình trạng nguồn nhân lực làm việc theo kinh nghiệm, thiếu sáng tạo, trì trệ, lạc hậu và kém hiệu quả; có thể dẫn tới hiện tượng bè phái gây mất đoàn kết trong nội bộ; có thể dẫn đến xáo trộn cơ cấu tổ chức hiện tại."
+  },
+  {
+    "id": 225,
+    "premium": false,
+    "question": "Có thể dùng những loại phỏng vấn tuyển chọn nào?",
+    "answer": "Phỏng vấn cá nhân, phỏng vấn nhóm, phỏng vấn hội đồng."
+  },
+  {
+    "id": 226,
+    "premium": false,
+    "question": "Yêu cầu về tính phù hợp của Hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "đòi hỏi phải có sự liên quan rõ ràng giữa các tiêu chuẩn thực hiện công việc với các mục tiêu của tổ chức."
+  },
+  {
+    "id": 227,
+    "premium": false,
+    "question": "Người đánh giá có hiệu quả nhất trong đánh giá thực hiện công việc là:",
+    "answer": "người lãnh đạo trực tiếp."
+  },
+  {
+    "id": 228,
+    "premium": false,
+    "question": "Phương pháp đánh giá bằng thang đo dựa trên hành vi trong đánh giá thực hiện công việc là sự kết hợp của thang đo đánh giá đồ họa và:",
+    "answer": "ghi chép sự kiện quan trọng."
+  },
+  {
+    "id": 229,
+    "premium": false,
+    "question": "Phương pháp “Quản lý bằng mục tiêu” nhấn mạnh vào:",
+    "answer": "kết quả cần đạt được"
+  },
+  {
+    "id": 230,
+    "premium": false,
+    "question": "Kết quả đánh giá thực hiện công việc được dùng làm Căn cứ :",
+    "answer": "Căn cứ để ra các quyết định quản lý nguồn nhân lực."
+  },
+  {
+    "id": 231,
+    "premium": false,
+    "question": "Ưu điểm của đào tạo trong công việc là gi?",
+    "answer": "Cho phép học viên thực hành những gì mà tổ chức trông mong ở họ sau khi kết thúc đào tạo."
+  },
+  {
+    "id": 232,
+    "premium": false,
+    "question": "Để phương pháp đào tạo trong công việc có hiệu quả cần phải có điều kiện gì?",
+    "answer": "Quá trình đào tạo phải chặt chẽ, giáo viên dạy nghề phải có trình độ chuyên môn và khả năng truyền thụ tốt."
+  },
+  {
+    "id": 233,
+    "premium": false,
+    "question": "Phát triển nguồn nhân lực được hiểu như thế nào là chính xác nhất?",
+    "answer": "Các hoạt động học tập vượt ra khỏi phạm vi công việc trước mắt của người lao động, nhằm mở ra cho họ những công việc mới dựa trên những định hướng tương lai của tổ chức."
+  },
+  {
+    "id": 234,
+    "premium": false,
+    "question": "Ý nào sau đây KHÔNG phải là mục tiêu cơ bản của đào tạo và phát triển nguồn nhân lực trong một doanh nghiệp?",
+    "answer": "Làm cho người lao động yên tâm công tác."
+  },
+  {
+    "id": 235,
+    "premium": false,
+    "question": "Lựa chọn đối tượng đào tạo KHÔNG nên dựa trên:",
+    "answer": "tình trạng tài chính của người lao động."
+  },
+  {
+    "id": 236,
+    "premium": false,
+    "question": "Thù lao lao động bao gồm những gì?",
+    "answer": "Các khoản tài chính và phi tài chính người lao động nhân được"
+  },
+  {
+    "id": 237,
+    "premium": false,
+    "question": "Lý do nào sau đây là KHÔNG đúng về ý nghĩa của phúc lợi trong doanh nghiệp?",
+    "answer": "Làm giảm uy tín của doanh nghiệp trên thương trường."
+  },
+  {
+    "id": 238,
+    "premium": false,
+    "question": "Chế độ tiền lương cấp bậc áp dụng cho đối tượng nào?",
+    "answer": "Công nhân sản xuất."
+  },
+  {
+    "id": 239,
+    "premium": false,
+    "question": "Mức trả công của doanh nghiệp là gì?",
+    "answer": "Số tiền người lao động nhận được trong tương quan với tổ chức khác chi trả cho công việc tương tự."
+  },
+  {
+    "id": 240,
+    "premium": false,
+    "question": "Thế nào là phúc lợi bắt buộc?",
+    "answer": "Các khoản phúc lợi tối thiểu mà các tổ chức phải đưa ra theo yêu cầu của pháp luật."
+  },
+  {
+    "id": 241,
+    "premium": false,
+    "question": "Nhóm chức năng duy trì nguồn nhân lực chú trọng :",
+    "answer": "đãi ngộ và xây dựng, duy trì mối quan hệ tốt đẹp giữa người lao động và người sử dụng lao động."
+  },
+  {
+    "id": 242,
+    "premium": false,
+    "question": "Những yếu tố nào sau đây thuộc về môi trường bên ngoài có ảnh hưởng đến hoạt động quản trị nhân lực của tổ chức?",
+    "answer": "Bộ luật lao động."
+  },
+  {
+    "id": 243,
+    "premium": false,
+    "question": "Những yếu tố nào sau đây thuộc về tổ chức ảnh hưởng tới hoạt động quản trị nhân lực của tổ chức?",
+    "answer": "Đặc điểm nguồn nhân lực."
+  },
+  {
+    "id": 244,
+    "premium": false,
+    "question": "Triết lý quản trị nhân lực là:",
+    "answer": "quan điểm và tư tưởng của cán bộ lãnh đạo cấp cao trong tổ chức về cách thức quản lý con người trong tổ chức."
+  },
+  {
+    "id": 245,
+    "premium": false,
+    "question": "Mục tiêu chủ yếu của quản trị nguồn nhân lực là:",
+    "answer": "Nâng cao hiệu quả hoạt động của tổ chức thông qua quản lý và sử dụng nguồn nhân lực hiệu quả và hiệu suất"
+  },
+  {
+    "id": 246,
+    "premium": false,
+    "question": "Để thu thập thông tin cho phân tích công việc của người quản lý và lao động chuyên môn thì phương pháp nào sau đây là tốt nhất?",
+    "answer": "Phỏng vấn."
+  },
+  {
+    "id": 247,
+    "premium": false,
+    "question": "Phương pháp thu thập thông tin nào sau đây được sử dụng rộng rãi hơn trong phân tích công việc?",
+    "answer": "Bảng hỏi."
+  },
+  {
+    "id": 248,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong đánh giá thực hiện công việc của tổ chức?",
+    "answer": "Xây dựng tiêu thức đánh giá và mốc chuẩn để so sánh."
+  },
+  {
+    "id": 249,
+    "premium": false,
+    "question": "Đối với công nhân sản xuất thì sử dụng phương pháp thu thập thông tin cho phân tích công việc nào sau đây là tốt nhất?",
+    "answer": "Quan sát."
+  },
+  {
+    "id": 250,
+    "premium": false,
+    "question": "Phát biểu nào sau đây về vai trò của bộ phận chuyên trách nguồn nhân lực trong phân tích công việc là SAI?",
+    "answer": "Chịu trách nhiệm chính trong việc viết các bản tiêu chuẩn thực hiện công việc trong tổ chức."
+  },
+  {
+    "id": 251,
+    "premium": false,
+    "question": "Mục tiêu của phương pháp phỏng vấn tuyển chọn là:",
+    "answer": "đánh giá sâu hơn về năng lực làm việc, khả năng làm việc nhóm, khả năng giao tiếp, mức độ cam kết và các hạn chế của ứng viên; một cách quảng cáo về công ty."
+  },
+  {
+    "id": 252,
+    "premium": false,
+    "question": "Những loại trắc nghiệm có thể dùng trong tuyển chọn là:",
+    "answer": "trắc nghiệm tâm lý, trắc nghiệm thành tích, trắc nghiệm năng khiếu."
+  },
+  {
+    "id": 253,
+    "premium": false,
+    "question": "Tuyển chọn là quá trình:",
+    "answer": "đánh giá, sàng lọc những người tham gia dự tuyển để lựa chọn những ứng viên phù hợp nhất với yêu cầu công việc của tổ chức."
+  },
+  {
+    "id": 254,
+    "premium": false,
+    "question": "Mẫu thông tin ứng viên thường được các tổ chức thiết kế sẵn, gồm những nội dung sau:",
+    "answer": "các thông tin cá nhân; quá trình học tập; lịch sử quá trình làm việc."
+  },
+  {
+    "id": 255,
+    "premium": false,
+    "question": "Ưu điểm của tuyển mộ từ nội bộ có thể là:",
+    "answer": "dễ dàng đánh giá năng lực của ứng viên, có thể tận dụng và khai thác triệt để nguồn nhân lực hiện tại; tiết kiệm chi phí và thời gian hội nhập công việc và đào tạo; tạo động lực phấn đấu cho người lao động."
+  },
+  {
+    "id": 256,
+    "premium": false,
+    "question": "Người đánh giá có hiệu quả nhất trong đánh giá thực hiện công việc là:",
+    "answer": "người lãnh đạo trực tiếp."
+  },
+  {
+    "id": 257,
+    "premium": false,
+    "question": "Yêu cầu về tính nhạy cảm của hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "đòi hỏi hệ thống đánh giá phải có những công cụ đo lường có khả năng phân biệt được những người hoàn thành tốt công việc và những người không hoàn thành tốt công việc."
+  },
+  {
+    "id": 258,
+    "premium": false,
+    "question": "Phương pháp cho điểm trong đánh giá thực hiện công việc là:",
+    "answer": "phân phối một tổng số điểm cho các nhân viên trong bộ phận."
+  },
+  {
+    "id": 259,
+    "premium": false,
+    "question": "Các chỉ tiêu dùng để đánh giá thực hiện công việc gồm:",
+    "answer": "Tất cả các chi tiết trên"
+  },
+  {
+    "id": 260,
+    "premium": false,
+    "question": "Kết quả đánh giá thực hiện công việc được dùng làm Căn cứ :",
+    "answer": "Căn cứ để ra các quyết định quản lý nguồn nhân lực."
+  },
+  {
+    "id": 261,
+    "premium": false,
+    "question": "Hoạt động đào tạo nào sau đây thuộc phương pháp đào tạo bằng cách tổ chức các lớp cạnh doanh nghiệp?",
+    "answer": "Các nhân viên mới được các kĩ sư cơ khí giảng lí thuyết về quy trình vận hành máy mó Sau đó, các học viên tiếp tục được thực tập ở các phân xưởng dưới sự hướng dẫn của các kĩ sư."
+  },
+  {
+    "id": 262,
+    "premium": false,
+    "question": "Nhược điểm của phương pháp đào tạo nguồn nhân lực theo kiểu luân chuyển và thuyên chuyển công việc là gì?",
+    "answer": "Thời gian ở lại một công việc hay một vị trí quá ngắn."
+  },
+  {
+    "id": 263,
+    "premium": false,
+    "question": "Ý nào sau đây KHÔNG phải là mục tiêu cơ bản của đào tạo và phát triển nguồn nhân lực trong một doanh nghiệp?",
+    "answer": "Làm cho người lao động yên tâm công tác."
+  },
+  {
+    "id": 264,
+    "premium": false,
+    "question": "Phương pháp đào tạo được tiến hành sử dụng các kỹ thuật: bài tập tình huống, diễn kịch, mô phỏng trên vi tính, trò chơi quản lí được gọi là gì?",
+    "answer": "Đào tạo theo kiểu phòng thí nghiệm."
+  },
+  {
+    "id": 265,
+    "premium": false,
+    "question": "Chỉ tiêu nào sau đây KHÔNG dùng để đánh giá hiệu quả của quá trình đào tạo?",
+    "answer": "Độ tuổi của nhân viên"
+  },
+  {
+    "id": 266,
+    "premium": false,
+    "question": "Điều kiện cơ bản để áp dụng hình thức trả công theo sản phẩm là gì?",
+    "answer": "Phải xây dựng được các mức lao động có căn cứ khoa học."
+  },
+  {
+    "id": 267,
+    "premium": false,
+    "question": "Ưu điểm của hình thức trả công theo thời gian là:",
+    "answer": "dễ tính toán được tiền công người lao động nhận được."
+  },
+  {
+    "id": 268,
+    "premium": false,
+    "question": "Thù lao lao động được hiểu là gì?",
+    "answer": "Thù lao lao động là tất cả các khoản mà người lao động nhận được thông qua mối quan hệ thuê mướn giữa họ với tổ chức."
+  },
+  {
+    "id": 269,
+    "premium": false,
+    "question": "Tại sao doanh nghiệp cần nghiên cứu mức lương thịnh hành khi xây dựng hệ thống trả công?",
+    "answer": "Nhằm đưa ra quyết định về mức tiền công trong doanh nghiệp"
+  },
+  {
+    "id": 270,
+    "premium": false,
+    "question": "Khi xác định mức lương của doanh nghiệp không được căn cứ vào:",
+    "answer": "ý kiến chủ quan của người lãnh đạo."
+  },
+  {
+    "id": 271,
+    "premium": false,
+    "question": "Nam luôn quản lý nhân viên rất chặt chẽ vì anh cho rằng nếu không quản lý như vậy thì nhân viên sẽ không chịu làm việc vì bản chất họ là lười biếng. Ví dụ này minh họa cho việc Nam đã áp dụng học thuyết nào để quản lý nhân viên?",
+    "answer": "Thuyết X."
+  },
+  {
+    "id": 272,
+    "premium": false,
+    "question": "Trách nhiệm của cán bộ quản lý cấp cao trong quản trị nhân lực là:",
+    "answer": "đưa ra định hướng và triết lý quản lý con người trong tổ chức"
+  },
+  {
+    "id": 273,
+    "premium": false,
+    "question": "Nhóm chức năng thu hút nguồn nhân lực chú trọng :",
+    "answer": "đảm bảo có đủ số lượng và chất lượng lao động để thực hiện các hoạt động của tổ chức."
+  },
+  {
+    "id": 274,
+    "premium": false,
+    "question": "Quản trị nhân lực gồm các hoạt động nào?",
+    "answer": "Các nhóm hoạt động thu hút, xây dựng, sử dụng, đánh giá và duy trì nguồn nhân lực nhằm đáp ứng mục tiêu của tổ chức."
+  },
+  {
+    "id": 275,
+    "premium": false,
+    "question": "Khi phòng tổ chức thực hiện hoạt động tuyển dụng nhân viên cho toàn công ty, phòng này đã thực hiện vai trò nào của bộ phận chuyên trách nguồn nhân lực?",
+    "answer": "Vai trò phục vụ."
+  },
+  {
+    "id": 276,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong tuyển mộ nhân lực trong tổ chức?",
+    "answer": "Quảng cáo về vị trí việc làm trống."
+  },
+  {
+    "id": 277,
+    "premium": false,
+    "question": "PAQ do Ernest Mc Cormick thiết kế bao gồm bao nhiêu yếu tố thuộc công việc?",
+    "answer": "195 yếu tố."
+  },
+  {
+    "id": 278,
+    "premium": false,
+    "question": "Việc lựa chọn phương pháp thu thập thông tin trong phân tích công việc cần dựa vào cơ sở nào sau đây?",
+    "answer": "Mục đích của phân tích công việc."
+  },
+  {
+    "id": 279,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong hoạt động thù lao lao động của tổ chức?",
+    "answer": "Xác định giá trị của các công việc."
+  },
+  {
+    "id": 280,
+    "premium": false,
+    "question": "Bản mô tả công việc giúp người lao động hiểu rõ điều gì thuộc công việc?",
+    "answer": "Nhiệm vụ, trách nhiệm, điều kiện làm việc."
+  },
+  {
+    "id": 281,
+    "premium": false,
+    "question": "Tuyển mộ từ nội bộ là từ:",
+    "answer": "lực lượng lao động hiện có của tổ chức, tức là gồm những người lao động đang làm việc trong doanh nghiệp."
+  },
+  {
+    "id": 282,
+    "premium": false,
+    "question": "Kiểm tra sức khỏe và đánh giá thể lực của các ứng viên nhằm:",
+    "answer": "đánh giá kỹ càng về sức khỏe, thể lực để đảm khả năng thực hiện công việc, tránh những đòi hỏi không chính đáng của ứng viên khi họ có vấn đề với sức khỏe sau này."
+  },
+  {
+    "id": 283,
+    "premium": false,
+    "question": "Hạn chế của tuyển mộ từ bên ngoài là:",
+    "answer": "rủi ro cao, tốn thời gian và chi phí hơn, có thể gây ra làm suy giảm động lực, tác động tiêu cực tới lòng trung thành của lực lượng lao động hiện tại."
+  },
+  {
+    "id": 284,
+    "premium": false,
+    "question": "Tiếp đón ban đầu và phỏng vấn sơ bộ là bước đầu tiên của quá trình tuyển chọn, nhằm:",
+    "answer": "đánh giá ban đầu về những cá nhân có những tố chất và khả năng phù hợp với công việc."
+  },
+  {
+    "id": 285,
+    "premium": false,
+    "question": "Thẩm tra các thông tin về ứng viên là nhằm:",
+    "answer": "đánh giá độ tin cậy của những thông tin mà ứng viên đã cung cấp, tránh tình trạng ứng viên giả mạo giấy tờ, bằng cấp hay gian dối."
+  },
+  {
+    "id": 286,
+    "premium": false,
+    "question": "Đánh giá thực hiện công việc là:",
+    "answer": "Hệ thống đánh giá một cách chính thức tình hình thực hiện công việc của cá nhân."
+  },
+  {
+    "id": 287,
+    "premium": false,
+    "question": "Nội dung cơ bản của phương pháp bản tường thuật trong đánh giá thực hiện công việc là:",
+    "answer": "cá nhân tự mô tả lại quá trình thực hiện công việc của mình."
+  },
+  {
+    "id": 288,
+    "premium": false,
+    "question": "Yêu cầu về tính tin cậy của hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "được thể hiện ở sự nhất quán của các kết quả đánh giá bởi những người đánh giá khác nhau."
+  },
+  {
+    "id": 289,
+    "premium": false,
+    "question": "Nội dung của phỏng vấn đánh giá là:",
+    "answer": "gặp gỡ và trao đổi với người lao động về kết quả đánh giá thực hiện công việc"
+  },
+  {
+    "id": 290,
+    "premium": false,
+    "question": "Phương pháp đánh giá bằng thang đo dựa trên hành vi trong đánh giá thực hiện công việc là sự kết hợp của thang đo đánh giá đồ họa và:",
+    "answer": "ghi chép sự kiện quan trọng."
+  },
+  {
+    "id": 291,
+    "premium": false,
+    "question": "Phương pháp đào tạo nào sau đây thường được áp dụng cho người quản lý có tiềm năng trong tổ chức?",
+    "answer": "Đào tạo theo kiểu luân chuyển và thuyên chuyển công việc"
+  },
+  {
+    "id": 292,
+    "premium": false,
+    "question": "Phát triển nguồn nhân lực được hiểu như thế nào là chính xác nhất?",
+    "answer": "Các hoạt động học tập vượt ra khỏi phạm vi công việc trước mắt của người lao động, nhằm mở ra cho họ những công việc mới dựa trên những định hướng tương lai của tổ chức."
+  },
+  {
+    "id": 293,
+    "premium": false,
+    "question": "Để phương pháp đào tạo trong công việc có hiệu quả cần phải có điều kiện gì?",
+    "answer": "Quá trình đào tạo phải chặt chẽ, giáo viên dạy nghề phải có trình độ chuyên môn và khả năng truyền thụ tốt."
+  },
+  {
+    "id": 294,
+    "premium": false,
+    "question": "Tổ chức nên lựa chọn ai để kèm cặp và chỉ bảo đối tượng đào tạo là tốt nhất?",
+    "answer": "Người lãnh đạo trực tiếp."
+  },
+  {
+    "id": 295,
+    "premium": false,
+    "question": "Xác định nhu cầu đào tạo là xác định những vấn đề gì?",
+    "answer": "Khi nào- bộ phận nào- ai đào tạo- cần bao nhiêu người."
+  },
+  {
+    "id": 296,
+    "premium": false,
+    "question": "Câu nói nào sau đây về mục tiêu của thù lao lao động là KHÔNG đúng?",
+    "answer": "Thù lao của tổ chức không cần tuân thủ quy định của pháp luật hiện hành."
+  },
+  {
+    "id": 297,
+    "premium": false,
+    "question": "Đánh giá công việc là gì?",
+    "answer": "Tiến hành phân tích, so sánh và xác định giá trị công việc."
+  },
+  {
+    "id": 298,
+    "premium": false,
+    "question": "Tại sao doanh nghiệp cần nghiên cứu mức lương tối thiểu mà nhà nước quy định khi xây dựng hệ thống trả công?",
+    "answer": "Để đảm bảo tính hợp pháp của hệ thống tiền công."
+  },
+  {
+    "id": 299,
+    "premium": false,
+    "question": "Yếu tố nào sau đây là yếu tố chính quyết định trực tiếp đến mức tiền công người lao động được hưởng trong tổ chức?",
+    "answer": "Vị trí công việc đảm nhận."
+  },
+  {
+    "id": 300,
+    "premium": false,
+    "question": "Thế nào là trả công theo thời gian?",
+    "answer": "Số tiền người lao động nhận được dựa trên mức tiền công đã được xác định cho công việc và số đơn vị thời gian thực tế làm việc."
+  },
+  {
+    "id": 301,
+    "premium": false,
+    "question": "“Tôi luôn tin tưởng và trao quyền cho nhân viên vì tôi nghĩ rằng họ là những người có năng lực và thực sự yêu thích làm việc”, trưởng phòng Lan nói. Lan đã áp dụng học thuyết nào trong quản lý con người?",
+    "answer": "Thuyết Y."
+  },
+  {
+    "id": 302,
+    "premium": false,
+    "question": "Cán bộ quản lý các phòng ban trong công ty có trách nhiệm:",
+    "answer": "thực hiện các hoạt động quản trị nhân lực trong phạm vi bộ phận mình phụ trách."
+  },
+  {
+    "id": 303,
+    "premium": false,
+    "question": "Quản trị nguồn nhân lực gồm các nhóm hoạt động:",
+    "answer": "thu hút, xây dựng, sử dụng, phát triển, gìn giữ nguồn nhân lực cho doanh nghiệp."
+  },
+  {
+    "id": 304,
+    "premium": false,
+    "question": "Công ty Mai Linh mới sử dụng phần mềm quản trị nhân sự để quản lý nhân viên. Ví dụ này cho thấy:",
+    "answer": "sự ảnh hưởng của sự phát triển công nghệ đến hoạt động quản trị nhân lực của công ty."
+  },
+  {
+    "id": 305,
+    "premium": false,
+    "question": "Đối tượng của quản trị nhân lực là:",
+    "answer": "con người và các mối quan hệ của con người trong tổ chức."
+  },
+  {
+    "id": 306,
+    "premium": false,
+    "question": "Phân tích công việc là quá trình nhằm làm gì?",
+    "answer": "Làm rõ bản chất của từng công việc trong tổ chức."
+  },
+  {
+    "id": 307,
+    "premium": false,
+    "question": "Chương trình phân tích công việc trong tổ chức tốn kém chi phí tài chính và thời gian nhất trong trường hợp nào?",
+    "answer": "Khi tổ chức vừa mới thành lập."
+  },
+  {
+    "id": 308,
+    "premium": false,
+    "question": "Phát biểu nào sau đây về phân tích công việc là đúng?",
+    "answer": "Thu thập các tư liệu, đánh giá có hệ thống các thông tin quan trọng liên quan đến công việc cụ thể trong tổ chức."
+  },
+  {
+    "id": 309,
+    "premium": false,
+    "question": "Để thu thập thông tin cho phân tích công việc của người quản lý và lao động chuyên môn thì phương pháp nào sau đây là tốt nhất?",
+    "answer": "Phỏng vấn."
+  },
+  {
+    "id": 310,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong tuyển chọn nhân lực của tổ chức?",
+    "answer": "Xây dựng các tiêu chuẩn tuyển chọn hợp lý."
+  },
+  {
+    "id": 311,
+    "premium": false,
+    "question": "Các phương pháp tuyển mộ từ bên ngoài bao gồm:",
+    "answer": "quảng cáo, thông qua sự giới thiệu của nhân viên hoặc cử nhân viên tuyển mộ đến các cơ sở đào tạo, thông qua các trung tâm giới thiệu việc làm hoặc thông qua các hội chợ việc làm."
+  },
+  {
+    "id": 312,
+    "premium": false,
+    "question": "Tham quan công việc nhằm:",
+    "answer": "cung cấp cho ứng viên cái nhìn thực tế về công việc, hiểu rõ hơn về công việc, tránh những mong đợi, đòi hỏi quá mức từ ứng viên."
+  },
+  {
+    "id": 313,
+    "premium": false,
+    "question": "Các phương pháp tuyển mộ từ nội bộ gồm:",
+    "answer": "gửi bản thông báo về vị trí công việc đến tất cả các nhân viên; Sử dụng các danh mục kỹ năng; Thông qua sự giới thiệu, đề cử của người cán bộ và nhân viên trong tổ chức."
+  },
+  {
+    "id": 314,
+    "premium": false,
+    "question": "Tuyển mộ từ bên ngoài là từ:",
+    "answer": "sinh viên tốt nghiệp các trường đại học, cao đẳng, dạy nghề và trung học cả trong và ngoài nước; người thất nghiệp và những người hành nghề tự do; người tự nộp đơn xin việc; nhân viên cũ của tổ chức; bạn bè, người thân của nhân viên; người lao động đang làm việc tại các tổ chức khác nhưng có nhu cầu thay đổi vị trí làm việc."
+  },
+  {
+    "id": 315,
+    "premium": false,
+    "question": "Nguồn nhân lực để tuyển mộ có thể là từ:",
+    "answer": "lực lượng lao động hiện có của tổ chức, Từ sinh viên tốt nghiệp các trường đại học, cao đẳng, dạy nghề và trung học cả trong và ngoài nước; người thất nghiệp và những người hành nghề tự do; người tự nộp đơn xin việc; Nhân viên cũ của tổ chức; bạn bè, người thân của nhân viên; người lao động đang làm việc tại các tổ chức khác nhưng có nhu cầu thay đổi vị trí làm việc."
+  },
+  {
+    "id": 316,
+    "premium": false,
+    "question": "Yêu cầu về tính phù hợp của Hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "đòi hỏi phải có sự liên quan rõ ràng giữa các tiêu chuẩn thực hiện công việc với các mục tiêu của tổ chức."
+  },
+  {
+    "id": 317,
+    "premium": false,
+    "question": "Phương pháp “Quản lý bằng mục tiêu” nhấn mạnh vào:",
+    "answer": "kết quả cần đạt được"
+  },
+  {
+    "id": 318,
+    "premium": false,
+    "question": "Yếu tố nào KHÔNG là yếu tố cơ bản của hệ thống đánh giá thực hiện công việc?",
+    "answer": "Các phương pháp đánh giá thực hiện công việc"
+  },
+  {
+    "id": 319,
+    "premium": false,
+    "question": "Yêu cầu về tính thực tiễn của Hệ thống đánh giá thực hiện công việc tức là:",
+    "answer": "các phương tiện đánh giá phải đơn giản, dễ hiểu và dễ sử dụng đối với người lao động và với người quản lý."
+  },
+  {
+    "id": 320,
+    "premium": false,
+    "question": "Thực chất phương pháp đánh giá thang đo đồ hoạ dùng trong đánh giá thực hiện công việc là:",
+    "answer": "cho điểm theo ý kiến chủ quan của người đánh giá về sự thực hiện công việc"
+  },
+  {
+    "id": 321,
+    "premium": false,
+    "question": "Phương pháp đào tạo nào sau đây thường được áp dụng cho công nhân sản xuất?",
+    "answer": "Đào tạo tại chỗ theo kiểu học nghề."
+  },
+  {
+    "id": 322,
+    "premium": false,
+    "question": "Lựa chọn đối tượng đào tạo KHÔNG nên dựa trên:",
+    "answer": "tình trạng tài chính của người lao động."
+  },
+  {
+    "id": 323,
+    "premium": false,
+    "question": "Đào tạo theo kiểu chương trình hóa với sự trợ giúp của máy tính có ưu điểm là?",
+    "answer": "Được sử dụng để đào tạo rất nhiều kĩ năng mà không cần người chỉ dẫn."
+  },
+  {
+    "id": 324,
+    "premium": false,
+    "question": "Ưu điểm của đào tạo trong công việc là gi?",
+    "answer": "Cho phép học viên thực hành những gì mà tổ chức trông mong ở họ sau khi kết thúc đào tạo."
+  },
+  {
+    "id": 325,
+    "premium": false,
+    "question": "Bộ phận chuyên trách nguồn nhân lực có vai trò gì trong công tác đào tạo và phát triển nguồn nhân lực?",
+    "answer": "Lãnh đạo việc xây dựng và tổ chức thực hiện chương trình đào tạo và phát triển"
+  },
+  {
+    "id": 326,
+    "premium": false,
+    "question": "Yếu tố nào sau đây KHÔNG thể hiện nguyên tắc đảm bảo của mức tiền công doanh nghiệp?",
+    "answer": "Thấp hơn mức lương tối thiểu vùng."
+  },
+  {
+    "id": 327,
+    "premium": false,
+    "question": "Chế độ tiền lương chức vụ là gì?",
+    "answer": "Những quy định của nhà nước trả lương cho cán bộ quản lý"
+  },
+  {
+    "id": 328,
+    "premium": false,
+    "question": "Thế nào là phúc lợi tự nguyện?",
+    "answer": "Các phúc lợi mà các tổ chức tự nguyện đưa ra, tuỳ thuộc vào khả năng kinh tế của họ."
+  },
+  {
+    "id": 329,
+    "premium": false,
+    "question": "Khi xác định mức lương của doanh nghiệp không được căn cứ vào:",
+    "answer": "ý kiến chủ quan của người lãnh đạo."
+  },
+  {
+    "id": 330,
+    "premium": false,
+    "question": "Tại sao doanh nghiệp cần nghiên cứu mức lương thịnh hành khi xây dựng hệ thống trả công?",
+    "answer": "Nhằm đưa ra quyết định về mức tiền công trong doanh nghiệp"
+  },
+  {
+    "id": 331,
+    "premium": false,
+    "question": "Nhóm chức năng đào tạo, phát triển nguồn nhân lực chú trọng tới việc:",
+    "answer": "nâng cao năng lực thực hiện công việc hiện tại và tương lai cho người lao động."
+  },
+  {
+    "id": 332,
+    "premium": false,
+    "question": "Bộ phận chuyên trách về nguồn nhân lực trong doanh nghiệp có vai trò:",
+    "answer": "tư vấn, phục vụ, kiểm tra."
+  },
+  {
+    "id": 333,
+    "premium": false,
+    "question": "Mục tiêu chủ yếu của quản trị nguồn nhân lực là:",
+    "answer": "Nâng cao hiệu quả hoạt động của tổ chức thông qua quản lý và sử dụng nguồn nhân lực hiệu quả và hiệu suất"
+  },
+  {
+    "id": 334,
+    "premium": false,
+    "question": "Cán bộ quản lý các phòng ban trong công ty có trách nhiệm:",
+    "answer": "thực hiện các hoạt động quản trị nhân lực trong phạm vi bộ phận mình phụ trách."
+  },
+  {
+    "id": 335,
+    "premium": false,
+    "question": "“Tôi luôn tin tưởng và trao quyền cho nhân viên vì tôi nghĩ rằng họ là những người có năng lực và thực sự yêu thích làm việc”, trưởng phòng Lan nói. Lan đã áp dụng học thuyết nào trong quản lý con người?",
+    "answer": "Thuyết Y."
+  },
+  {
+    "id": 336,
+    "premium": false,
+    "question": "Cấp độ thấp nhất của phân tích công việc là gì?",
+    "answer": "Nhiệm vụ."
+  },
+  {
+    "id": 337,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong đánh giá thực hiện công việc của tổ chức?",
+    "answer": "Xây dựng tiêu thức đánh giá và mốc chuẩn để so sánh."
+  },
+  {
+    "id": 338,
+    "premium": false,
+    "question": "PAQ do Ernest Mc Cormick thiết kế bao gồm bao nhiêu yếu tố thuộc công việc?",
+    "answer": "195 yếu tố."
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Các kết quả của phân tích công việc có vai trò gì trong hoạt động thù lao lao động của tổ chức?",
+    "answer": "Xác định giá trị của các công việc."
+  },
+  {
+    "id": 340,
+    "premium": false,
+    "question": "Việc lựa chọn phương pháp thu thập thông tin trong phân tích công việc cần dựa vào cơ sở nào sau đây?",
+    "answer": "Mục đích của phân tích công việc."
+  },
+  {
+    "id": 341,
+    "premium": false,
+    "question": "Tuyển mộ là quá trình:",
+    "answer": "thu hút những người lao động có trình độ từ lực lượng lao động xã hội và lực lượng lao động bên trong tổ chức."
+  },
+  {
+    "id": 342,
+    "premium": false,
+    "question": "Ưu điểm của tuyển mộ từ bên ngoài là:",
+    "answer": "góp phần tạo nên môi trường cạnh tranh lành mạnh; có thể kích thích sự thay đổi, sáng tạo; đặc biệt hợp lý khi nguồn nhân lực nội bộ không thể cung cấp ứng viên có năng lực phù hợp."
+  },
+  {
+    "id": 343,
+    "premium": false,
+    "question": "Nguồn nhân lực để tuyển mộ có thể là từ:",
+    "answer": "lực lượng lao động hiện có của tổ chức, Từ sinh viên tốt nghiệp các trường đại học, cao đẳng, dạy nghề và trung học cả trong và ngoài nước; người thất nghiệp và những người hành nghề tự do; người tự nộp đơn xin việc; Nhân viên cũ của tổ chức; bạn bè, người thân của nhân viên; người lao động đang làm việc tại các tổ chức khác nhưng có nhu cầu thay đổi vị trí làm việc."
+  },
+  {
+    "id": 344,
+    "premium": false,
+    "question": "Các phương pháp tuyển mộ từ bên ngoài bao gồm:",
+    "answer": "quảng cáo, thông qua sự giới thiệu của nhân viên hoặc cử nhân viên tuyển mộ đến các cơ sở đào tạo, thông qua các trung tâm giới thiệu việc làm hoặc thông qua các hội chợ việc làm."
+  },
+  {
+    "id": 345,
+    "premium": false,
+    "question": "Mục tiêu của phương pháp phỏng vấn tuyển chọn là:",
+    "answer": "đánh giá sâu hơn về năng lực làm việc, khả năng làm việc nhóm, khả năng giao tiếp, mức độ cam kết và các hạn chế của ứng viên; một cách quảng cáo về công ty."
+  },
+  {
+    "id": 346,
+    "premium": false,
+    "question": "Nội dung của phương pháp ghi chép các sự kiện quan trọng trong đánh giá thực hiện công việc là:",
+    "answer": "ghi những nội dung quan trọng và cơ bản quyết định thực hiện công việc."
+  },
+  {
+    "id": 347,
+    "premium": false,
+    "question": "Lựa chọn phương pháp đánh giá trước hết phụ thuộc vào:",
+    "answer": "mục tiêu của quản lý"
+  },
+  {
+    "id": 348,
+    "premium": false,
+    "question": "Phương pháp phân phối bắt buộc trong đánh giá thực hiện công việc là:",
+    "answer": "bắt buộc phân loại lao động theo tỷ lệ các loại lao động đã quy định sẵn."
+  },
+  {
+    "id": 349,
+    "premium": false,
+    "question": "Phương pháp “Quản lý bằng mục tiêu” khi thực hiện tốt sẽ có vai trò quan trọng trong:",
+    "answer": "tạo động lực cho người lao động"
+  },
+  {
+    "id": 350,
+    "premium": false,
+    "question": "Đâu KHÔNG phải mục tiêu cơ bản của đánh giá thực hiện công việc?",
+    "answer": "Tạo ra tính chuyên nghiệp cho người lao động."
+  },
+  {
+    "id": 351,
+    "premium": false,
+    "question": "Đâu là ưu điểm chính của đào tạo ngoài công việc?",
+    "answer": "Học viên được trang bị đầy đủ và hệ thống kiến thức lí thuyết và thực hành."
+  },
+  {
+    "id": 352,
+    "premium": false,
+    "question": "Đào tạo theo kiểu bài giảng, hội nghị hay thảo luận có nhược điểm gì?",
+    "answer": "Tốn thời gian, phạm vi hẹp."
+  },
+  {
+    "id": 353,
+    "premium": false,
+    "question": "Để xác định nhu cầu đào tạo, cần phải tiến hành phân tích những khía cạnh nào?",
+    "answer": "Tổ chức, con người và nhiệm vụ."
+  },
+  {
+    "id": 354,
+    "premium": false,
+    "question": "Phương pháp nào sau đây KHÔNG dùng để xác định nhu cầu đào tạo?",
+    "answer": "Xem xét động thái của đối thủ cạnh tranh"
+  },
+  {
+    "id": 355,
+    "premium": false,
+    "question": "Đào tạo trong tổ chức được hiểu như thế nào là chính xác nhất?",
+    "answer": "Đào tạo là các hoạt động học tập nhằm giúp cho người lao động có thể thực hiện hiệu quả hơn chức năng, nhiệm vụ của mình."
+  },
+  {
+    "id": 356,
+    "premium": false,
+    "question": "Thù lao lao động bao gồm những gì?",
+    "answer": "Các khoản tài chính và phi tài chính người lao động nhân được"
+  },
+  {
+    "id": 357,
+    "premium": false,
+    "question": "Tại sao doanh nghiệp cần nghiên cứu mức lương tối thiểu mà nhà nước quy định khi xây dựng hệ thống trả công?",
+    "answer": "Để đảm bảo tính hợp pháp của hệ thống tiền công."
+  },
+  {
+    "id": 358,
+    "premium": false,
+    "question": "Đánh giá công việc là gì?",
+    "answer": "Tiến hành phân tích, so sánh và xác định giá trị công việc."
+  },
+  {
+    "id": 359,
+    "premium": false,
+    "question": "Lý do nào sau đây là KHÔNG đúng về ý nghĩa của phúc lợi trong doanh nghiệp?",
+    "answer": "Làm giảm uy tín của doanh nghiệp trên thương trường."
+  },
+  {
+    "id": 360,
+    "premium": false,
+    "question": "Phúc lợi cho người lao động là gì?",
+    "answer": "Phần thù lao gián tiếp được trả dưới dạng các hỗ trợ về cuộc sống cho người lao động."
+  }
+]

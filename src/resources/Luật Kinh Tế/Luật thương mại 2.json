@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Hình thức giao kết hợp đồng ủy thác có thể được thực hiện dưới hình thức nào sau đây, chọn phương án trả lời đúng nhất?",
+    "answer": "Bắt buộc lập bằng văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Trường hợp nào sau đây bên được ủy quyền được ủy quyền lại cho người khác?",
+    "answer": "Có sự đồng ‎ý của bên ủy quyền"
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Đối tượng của hợp đồng dịch vụ là?",
+    "answer": "Công việc có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Trừ trường hợp có thỏa thuận khác, thù lao đại lý được trả cho bên đại lý theo hình thức nào sau đây?",
+    "answer": "Hình thức hoa hồng"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi KHÔNG bị cấm trong hoạt động khuyến mại?",
+    "answer": "Hứa tặng, thưởng được thực hiện đúng cam kết."
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Thời hạn tạm xuất khẩu hàng hóa để tham gia hội chợ, triển lãm thương mại ở nước ngoài là bao lâu?",
+    "answer": "Một năm"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "Sau thời hạn bao lâu thì thương nhân kinh doanh dịch vụ logistic có quyền định đoạt hàng hóa và chứng từ khi khách hàng không trả tiền nợ?",
+    "answer": "Bốn mươi lăm ngày"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Hợp đồng dịch vụ quảng cáo thương mại có hình thức thế nào?",
+    "answer": "Phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lí tương đương."
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Tiêu chuẩn nào dưới đây không phù hợp với tiêu chuẩn của một giám định viên trong giám định thương mại?",
+    "answer": "Có ít nhất một năm công tác lĩnh vực giám định hàng hóa, dịch vụ"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Trừ trường hợp có thỏa thuận khác, thời hạn đại lý chỉ chấm dứt sau một thời hạn hợp lý nhưng không được sớm hơn khoảng thời gian là bao lâu kể từ ngày hai bên thông báo bằng văn bản cho nhau?",
+    "answer": "Không sớm hơn 60 ngàyCâu hỏi 1"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Hình thức giao kết hợp đồng ủy thác có thể được thực hiện dưới hình thức nào sau đây, chọn phương án trả lời đúng nhất?",
+    "answer": "Bắt buộc lập bằng văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Trường hợp nào sau đây bên được ủy quyền được ủy quyền lại cho người khác?",
+    "answer": "Có sự đồng ‎ý của bên ủy quyền"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Đối tượng của hợp đồng dịch vụ là?",
+    "answer": "Công việc có thể thực hiện được, không vi phạm điều cấm của luật, không trái đạo đức xã hội"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Trừ trường hợp có thỏa thuận khác, thù lao đại lý được trả cho bên đại lý theo hình thức nào sau đây?",
+    "answer": "Hình thức hoa hồng"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Hành vi nào sau đây là hành vi KHÔNG bị cấm trong hoạt động khuyến mại?",
+    "answer": "Hứa tặng, thưởng được thực hiện đúng cam kết."
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Thời hạn tạm xuất khẩu hàng hóa để tham gia hội chợ, triển lãm thương mại ở nước ngoài là bao lâu?",
+    "answer": "Một năm"
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "Sau thời hạn bao lâu thì thương nhân kinh doanh dịch vụ logistic có quyền định đoạt hàng hóa và chứng từ khi khách hàng không trả tiền nợ?",
+    "answer": "Bốn mươi lăm ngày"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Hợp đồng dịch vụ quảng cáo thương mại có hình thức thế nào?",
+    "answer": "Phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lí tương đương."
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Tiêu chuẩn nào dưới đây không phù hợp với tiêu chuẩn của một giám định viên trong giám định thương mại?",
+    "answer": "Có ít nhất một năm công tác lĩnh vực giám định hàng hóa, dịch vụ"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Trừ trường hợp có thỏa thuận khác, thời hạn đại lý chỉ chấm dứt sau một thời hạn hợp lý nhưng không được sớm hơn khoảng thời gian là bao lâu kể từ ngày hai bên thông báo bằng văn bản cho nhau?",
+    "answer": "Không sớm hơn 60 ngàyCâu hỏi 1"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Công ty TNHH An Phú có trụ sở chính tại quận 9 thành phố Hồ Chí Minh. Công ty cổ phần Phước Vĩnh có trụ sở chính tại thị xã X tỉnh Đồng Nai. Tháng 11-2013, Phước Vĩnh ký hợp đồng mua lại của An Phú ngôi nhà 3 tầng tại Số 7 phố TH quận Đ thành phố Hà Nội làm văn phòng đại diện. Sau khi nhận nhà, Công ty Phước Vĩnh không làm thủ tục sang tên được vì bên bán không thể giao đủ các hồ sơ hợp lệ về sở hữu nhà như thoả thuận trong hợp đồng nên đã đòi huỷ hợp đồng mua bán này. Công ty An Phú không chấp nhận vì cho rằng việc mua bán đã hoàn tất. Công ty Phước Vĩnh quyết định khởi kiện. Trong trường hợp này đơn kiện của Công ty Phước Vĩnh phải gửi đến?",
+    "answer": "Toà án nhân dân quận Đ, thành phố Hà Nội."
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Nhận định nào dưới đây KHÔNG được coi là ưu điểm của phương thức giải quyết tranh chấp thương mại bằng con đường trọng tài?",
+    "answer": "Thời gian giải quyết tranh chấp kéo dài."
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Trong một vụ tranh chấp hợp đồng thương mại, các bên thỏa thuận chọn hình thức trọng tài vụ việc. Đã quá thời hạn quy định nhưng 2 trọng tài viên do 2 bên chọn không bầu được trọng tài viên khác làm Chủ tịch Hội đồng trọng tài nên các bên đã yêu cầu Tòa án có thẩm quyền chỉ định Chủ tịch Hội đồng trọng tài. Tòa án phải thực hiện việc này trong thời hạn nào sau đây?",
+    "answer": "7 ngày, kể từ ngày nhận được yêu cầu của các bên."
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Tại Công ty Cổ phần A có phát sinh tranh chấp giữa Công ty với các cổ đông của công ty về việc chia lợi nhuận. Các cổ đông muốn khởi kiện Công ty A thì sẽ khởi kiện đến Tòa án nào?",
+    "answer": "Tòa Kinh tế của Tòa án nhân dân cấp tỉnh nơi công ty có trụ sở chính."
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Trừ trường hợp luật chuyên ngành có quy định khác, thời hiệu khởi kiện theo thủ tục trọng tài là?",
+    "answer": "2 năm kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "Trong trường hợp vụ tranh chấp đã có thỏa thuận trọng tài có",
+    "answer": "Tòa án phải từ chối thụ lý."
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Các Tổ chức Trọng tài thương mại hoạt động như:",
+    "answer": "Tổ chức chính trị xã hội."
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Thẩm quyền giải quyết tranh chấp giữa các thành viên công ty với công ty liên quan đến việc giải thể công ty thuộc?",
+    "answer": "Tòa Kinh tế của Tòa án nhân dân cấp tỉnh nơi công ty có trụ sở chính."
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng dân sự hiện hành, những tranh chấp về kinh doanh, thương mại nào dưới đây KHÔNG thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp tỉnh?",
+    "answer": "Tranh chấp phát sinh trong hoạt động đại diện, đại lý."
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng Dân sự hiện hành, sau khi Hội đồng xét xử phúc thẩm tuyên án thì các đương sự?",
+    "answer": "Không được quyền kháng cáo. Câu hỏi 1"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây KHÔNG phải là nguyên tắc giải quyết tranh chấp bằng Trọng tài thương mại?",
+    "answer": "Giải quyết tranh chấp bằng Trọng tài được tiến hành công khai, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Doanh nghiệp A (có trụ sở tại Hà Nội) ký hợp đồng mua hàng hoá của doanh nghiệp B (cùng có trụ sở tại Hà Nội) để kinh doanh, nếu phát sinh tranh chấp trong việc thực hiện hợp đồng sẽ do cơ quan nào sau đây giải quyết:",
+    "answer": "Toà án nhân dân cấp huyện."
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Nhận định nào dưới đây KHÔNG được coi là ưu điểm của phương thức giải quyết tranh chấp thương mại bằng con đường trọng tài?",
+    "answer": "Không giữ được Bí mật trong kinh doanh."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Công ty cổ phần than Vàng Danh có trụ sở chính tại thành phố Hạ Long tỉnh Quảng Ninh (Bên A) ký hợp đồng bán 80.000 tấn than cho Công ty TNHH hoá chất công nghiệp Đồng Xuân có trụ sở chính tại huyện Thi Sách tỉnh Hải Dương (Bên B), trị giá hợp đồng là 4.200.000.000 đồng. Hàng đã được giao hết cho bên mua. Hợp đồng không có điều khoản gì về giải quyết tranh chấp. Nay Bên A khởi kiện Bên B, đơn kiện có thể đưa đến:",
+    "answer": "Toà án nhân dân huyện Thi Sách."
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Tòa án có thẩm quyền xem xét yêu cầu hủy phán quyết trọng tài là trong trường hợp các bên không có thỏa thuận lựa chọn một tòa án cụ thể là:",
+    "answer": "Tòa án Kinh tế cấp tỉnh nơi Hội đồng trọng tài đã ra phán quyết trọng tài."
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây KHÔNG phải là nguyên tắc giải quyết tranh chấp bằng Trọng tài thương mại?",
+    "answer": "Giải quyết tranh chấp bằng Trọng tài được tiến hành công khai, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây KHÔNG phải là tranh chấp kinh doanh thương mại?",
+    "answer": "Tranh chấp về bồi thường thiệt hại giữa người lao động với doanh nghiệp xuất khẩu lao động."
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Tố tụng trọng tài, trong trường hợp giải quyết tại Trung tâm trọng tài bắt đầu từ thời điểm nào?",
+    "answer": "Khi Trung tâm trọng tài thụ lý đơn kiện của nguyên đơn."
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng dân sự hiện hành, những tranh chấp về kinh doanh, thương mại nào dưới đây KHÔNG thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp huyện?",
+    "answer": "Tranh chấp giữa công ty với các thành viên của công ty, giữa các thành viên của công ty với nhau liên quan đến việc thành lập, hoạt động, giải thể, sáp nhập, hợp nhất, chia, tách, chuyển đổi hình thức tổ chức của công ty."
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng dân sự hiện hành, những tranh chấp về kinh doanh, thương mại nào dưới đây KHÔNG thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp huyện?",
+    "answer": "Tranh chấp giữa công ty với các thành viên của công ty. Câu hỏi 1"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "Theo quy định của pháp luật hiện hành, Trung tâm trọng tài phải gửi bản sao đơn kiện cho bị đơn trong thời hạn nào?",
+    "answer": "5 ngày làm việc, kể từ ngày nhận được đơn kiện của nguyên đơn."
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "Thỏa thuận trọng tài thương mại?",
+    "answer": "Chỉ có thể xác lập bằng văn bản và phải lập trước khi xảy ra tranh chấp."
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Công ty TNHH An Phú có trụ sở chính tại quận 9 thành phố Hồ Chí Minh. Công ty cổ phần Phước Vĩnh có trụ sở chính tại thị xã X tỉnh Đồng Nai. Tháng 11-2013, Phước Vĩnh ký hợp đồng mua lại của An Phú ngôi nhà 3 tầng tại Số 7 phố TH quận Đ thành phố Hà Nội làm văn phòng đại diện. Sau khi nhận nhà, Công ty Phước Vĩnh không làm thủ tục sang tên được vì bên bán không thể giao đủ các hồ sơ hợp lệ về sở hữu nhà như thoả thuận trong hợp đồng nên đã đòi huỷ hợp đồng mua bán này. Công ty An Phú không chấp nhận vì cho rằng việc mua bán đã hoàn tất. Công ty Phước Vĩnh quyết định khởi kiện. Trong trường hợp này đơn kiện của Công ty Phước Vĩnh phải gửi đến?",
+    "answer": "Toà án nhân dân quận Đ, thành phố Hà Nội."
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Nguyên tắc nào dưới đây KHÔNG phải là nguyên tắc giải quyết tranh chấp bằng Trọng tài thương mại?",
+    "answer": "Giải quyết tranh chấp bằng Trọng tài được tiến hành công khai, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Tại Công ty Cổ phần A có phát sinh tranh chấp giữa Công ty với các cổ đông của công ty về việc chia lợi nhuận. Các cổ đông muốn khởi kiện Công ty A thì sẽ khởi kiện đến Tòa án nào?",
+    "answer": "Tòa Kinh tế của Tòa án nhân dân cấp tỉnh nơi công ty có trụ sở chính."
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Trong một vụ tranh chấp hợp đồng thương mại, các bên thỏa thuận chọn hình thức trọng tài vụ việc. Đã quá thời hạn quy định nhưng 2 trọng tài viên do 2 bên chọn không bầu được trọng tài viên khác làm Chủ tịch Hội đồng trọng tài nên các bên đã yêu cầu Tòa án có thẩm quyền chỉ định Chủ tịch Hội đồng trọng tài. Tòa án phải thực hiện việc này trong thời hạn nào sau đây?",
+    "answer": "7 ngày, kể từ ngày nhận được yêu cầu của các bên."
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng Dân sự hiện hành, sau khi Hội đồng xét xử phúc thẩm tuyên án thì các đương sự?",
+    "answer": "Không được quyền kháng cáo."
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Doanh nghiệp A (có trụ sở tại Hà Nội) ký hợp đồng mua hàng hoá của doanh nghiệp B (cùng có trụ sở tại Hà Nội) để kinh doanh, nếu phát sinh tranh chấp trong việc thực hiện hợp đồng sẽ do cơ quan nào sau đây giải quyết:",
+    "answer": "Toà án nhân dân cấp huyện."
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Công ty CP thương mại Đông Thành có trụ sở tại quận Đống Đa, thành phố Hà Nội thuê Công ty TNHH xây dựng Sông Đà 2 có trụ sở tại quận Liên Chiểu, thành phố Đà Nẵng xây một tòa nhà để mở chi nhánh tại quận 2, thành phố Hồ Chí Minh. Sau khi nhận nhà, Công ty Đông Thành phát hiện nhà không đảm bảo chất lượng như hợp đồng và qua nhiều lần thương lượng nhưng không giải quyết được tranh chấp nên quyết định khởi kiện. Hợp đồng không có điều khoản gì về giải quyết tranh chấp. Đơn khởi kiện có thể gửi đến:",
+    "answer": "Toà án nhân dân quận 2."
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Doanh nghiệp A và Doanh nghiệp B (đều có trụ sở tại thành phố Hải Phòng) ký hợp đồng mua bán hàng hoá để kinh doanh. Theo đó, các bên thoả thuận nếu phát sinh tranh chấp trong việc thực hiện hợp đồng sẽ do Trung tâm trọng tài quốc tế Việt Nam giải quyết. Trong trường hợp này tranh chấp giữa hai bên có thể được giải quyết bởi?",
+    "answer": "Trung tâm Trọng tài quốc tế Việt Nam (VIAC). Câu hỏi 1"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Thẩm quyền giải quyết tranh chấp giữa các thành viên công ty với công ty liên quan đến việc giải thể công ty thuộc?",
+    "answer": "Tòa Kinh tế của Tòa án nhân dân cấp tỉnh nơi công ty có trụ sở chính."
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng dân sự hiện hành, những tranh chấp về kinh doanh, thương mại nào dưới đây KHÔNG thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp tỉnh?",
+    "answer": "Tranh chấp phát sinh trong hoạt động đại diện, đại lý."
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Nhận định nào dưới đây KHÔNG được coi là ưu điểm của phương thức giải quyết tranh chấp thương mại bằng con đường trọng tài?",
+    "answer": "Không giữ được Bí mật trong kinh doanh."
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây KHÔNG phải là tranh chấp kinh doanh thương mại?",
+    "answer": "Tranh chấp về bồi thường thiệt hại giữa người lao động với doanh nghiệp xuất khẩu lao động."
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Người trong trường hợp nào dưới đây có thể làm trọng tài viên",
+    "answer": "Công dân Việt Nam, tốt nghiệp đại học và đã qua thực tế công tác theo ngành đã học từ 5 năm trở lên."
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "A, B, C, D, E là các cá nhân thỏa thuận góp vốn thành lập Công ty TNHH Ánh Dương có trụ sở tại quận ĐĐ, TP Hà Nội. Năm 2013 trong khi Hội đồng thành viên họp để bàn việc giải thể và chia tài sản của Công ty X, giữa các thành viên đã phát sinh tranh chấp. A và B quyết định khởi kiện C, D, E ra Toà án. Đơn kiện có thể gửi đến?",
+    "answer": "Toà án nhân dân TP Hà Nội."
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Tòa án có thẩm quyền xem xét yêu cầu hủy phán quyết trọng tài là trong trường hợp các bên không có thỏa thuận lựa chọn một tòa án cụ thể là:",
+    "answer": "Tòa án Kinh tế cấp tỉnh nơi Hội đồng trọng tài đã ra phán quyết trọng tài."
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Nhận định nào dưới đây KHÔNG được coi là ưu điểm của phương thức giải quyết tranh chấp thương mại bằng con đường trọng tài?",
+    "answer": "Thời gian giải quyết tranh chấp kéo dài."
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Các Tổ chức Trọng tài thương mại hoạt động như:",
+    "answer": "Tổ chức chính trị xã hội."
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Trong trường hợp vụ tranh chấp đã có thỏa thuận trọng tài có",
+    "answer": "Tòa án phải từ chối thụ lý. Câu hỏi 1"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Thẩm quyền giải quyết tranh chấp giữa các thành viên công ty với công ty liên quan đến việc giải thể công ty thuộc?",
+    "answer": "Tòa Kinh tế của Tòa án nhân dân cấp tỉnh nơi công ty có trụ sở chính."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng dân sự hiện hành, những tranh chấp về kinh doanh, thương mại nào dưới đây KHÔNG thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp tỉnh?",
+    "answer": "Tranh chấp phát sinh trong hoạt động đại diện, đại lý."
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Nhận định nào dưới đây KHÔNG được coi là ưu điểm của phương thức giải quyết tranh chấp thương mại bằng con đường trọng tài?",
+    "answer": "Không giữ được Bí mật trong kinh doanh."
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Tranh chấp nào sau đây KHÔNG phải là tranh chấp kinh doanh thương mại?",
+    "answer": "Tranh chấp về bồi thường thiệt hại giữa người lao động với doanh nghiệp xuất khẩu lao động."
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Người trong trường hợp nào dưới đây có thể làm trọng tài viên",
+    "answer": "Công dân Việt Nam, tốt nghiệp đại học và đã qua thực tế công tác theo ngành đã học từ 5 năm trở lên."
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "A, B, C, D, E là các cá nhân thỏa thuận góp vốn thành lập Công ty TNHH Ánh Dương có trụ sở tại quận ĐĐ, TP Hà Nội. Năm 2013 trong khi Hội đồng thành viên họp để bàn việc giải thể và chia tài sản của Công ty X, giữa các thành viên đã phát sinh tranh chấp. A và B quyết định khởi kiện C, D, E ra Toà án. Đơn kiện có thể gửi đến?",
+    "answer": "Toà án nhân dân TP Hà Nội."
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Tòa án có thẩm quyền xem xét yêu cầu hủy phán quyết trọng tài là trong trường hợp các bên không có thỏa thuận lựa chọn một tòa án cụ thể là:",
+    "answer": "Tòa án Kinh tế cấp tỉnh nơi Hội đồng trọng tài đã ra phán quyết trọng tài."
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Nhận định nào dưới đây KHÔNG được coi là ưu điểm của phương thức giải quyết tranh chấp thương mại bằng con đường trọng tài?",
+    "answer": "Thời gian giải quyết tranh chấp kéo dài."
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Các Tổ chức Trọng tài thương mại hoạt động như:",
+    "answer": "Tổ chức chính trị xã hội."
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Trong trường hợp vụ tranh chấp đã có thỏa thuận trọng tài có",
+    "answer": "Tòa án phải từ chối thụ lý. Câu hỏi 1"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Công ty cổ phần Hoa Việt chuyên kinh doanh về lữ hành quốc tế, khi ký kết hợp đồng với khách du lịch, nếu có quy định khác nhau trong các văn bản sau (về hình thức của hợp đồng) thì luật nào được ưu tiên áp dụng trước?",
+    "answer": "Luật Du lịch 2005."
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Trường hợp có sự khác nhau trong quy định về cùng một vấn đề thì văn bản nào dưới đây được ưu tiên áp dụng?",
+    "answer": "Luật các tổ chức tín dụng 2010."
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Trừ trường hợp có thỏa thuận khác, sau khi áp dụng chế tài buộc thực hiện đúng hợp đồng và bên vi phạm đã thực hiện, bên bị vi phạm có thể áp dụng tiếp các chế tài thương mại khác nào?",
+    "answer": "Bên bị vi phạm có quyền yêu cầu bồi thường thiệt hại và phạt vi phạm."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Công ty TNHH xây dựng Thanh Xuân giao 5 xe ô tô của mình để làm bảo đảm cho khoản vay 3 tỉ đồng tại Ngân hàng thương mại cổ phần ACD. Biện pháp bảo đảm này là:",
+    "answer": "Cầm cố."
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Theo Bộ luật dân sự năm 2015, trong một hợp đồng có thỏa thuận phạt vi phạm nhưng không đề cập bồi thường thiệt hại. Thực tế vi phạm đã gây ra thiệt hại. Bên bị vi phạm có quyền đòi bên vi phạm:",
+    "answer": "Chỉ tiền phạt vi phạm."
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Tháng 12/2013, A là một công ty cổ phần xây dựng có ký một hợp đồng với B là một công ty TNHH kinh doanh vật liệu xây dựng. Theo hợp đồng hai bên thoả thuận: A mua của B 500 tấn xi măng với giá 1.100.000 đồng/1 tấn. Hợp đồng giữa A và B là?",
+    "answer": "Một hợp đồng kinh doanh, thương mại."
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Theo Luật Thương mại năm 2005, nếu các bên không có thoả thuận khác, chế tài nào sau đây KHÔNG được áp dụng đối với một vi phạm không cơ bản?",
+    "answer": "Huỷ bỏ hợp đồng."
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Hậu quả pháp lý của hợp đồng bị tuyên bố vô hiệu là:",
+    "answer": "Các bên phải hoàn trả cho nhau những gì đã nhận."
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Chế tài bồi thường thiệt hại được áp dụng khi?",
+    "answer": "Có hành vi vi phạm nghĩa vụ hợp đồng, có thiệt hại vật chất thực tế xảy ra và có mối quan hệ nhân quả giữa hành vi vi phạm và thiệt hại thực tế."
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Công ty TNHH Thái Tuấn gửi vào tài khoản của Ngân hàng Thương mại LV 200 triệu đồng theo yêu cầu của Công ty Cổ phần Nam Tiến để bảo đảm nghĩa vụ của mình theo hợp đồng đã giao kết với công ty Nam Tiến. Biện pháp bảo đảm nghĩa vụ được các bên sử dụng là biện pháp nào?",
+    "answer": "Ký quỹ."
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Trong số những chế tài dưới đây, chế tài nào có thể áp dụng đối với cả vi phạm không cơ bản và vi phạm cơ bản trong hợp đồng thương mại (trừ khi các bên có thỏa thuận khác)?",
+    "answer": "Phạt vi phạm."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Trong số những chế tài dưới đây chế tài nào có thể áp dụng đối với cả vi phạm không cơ bản và vi phạm cơ bản trong hợp đồng thương mại (trừ khi các bên có thỏa thuận khác)?",
+    "answer": "Bồi thường thiệt hại."
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Hợp đồng mua bán hàng hóa mà Luật thương mại điều chỉnh có các chủ thể nào thực hiện?",
+    "answer": "Cả a và b đều đúng"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "TB Địa điểm thanh toán được xác định?",
+    "answer": "Theo thỏa thuận"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Trong một hợp đồng mua bán hàng hóa, bên bán có nghĩa vụ giao hàng tại kho Số 1 của bên bán nhưng đoàn xe chở hàng đã đến kho Số 2 (cách nơi giao hàng theo hợp đồng 15 km). Bên mua đã làm thủ tục nhận hàng và yêu cầu bên bán chở hàng sang kho Số 1. Trên đường đi, một số xe gặp tai nạn, nhiều hàng hóa bị hư hỏng, mất mát. Trong hợp đồng, hai bên không có thỏa thuận gì về tình huống này. Những rủi ro này thuộc về?",
+    "answer": "Bên mua."
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Đối tượng của hợp đồng mua bán hàng hóa trong thương mại là?",
+    "answer": "Cả A và C là phương án đúng."
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Công ty cổ phần X chuyên kinh doanh nhập khẩu hàng hóa ký",
+    "answer": "65 triệu đồng."
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Nguồn của hợp đồng mua bán hàng hóa quốc tế bao gồm?",
+    "answer": "Cả 3 phương án trên."
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Chuyển rủi ro về mất mát, hư hỏng hàng hóa từ bên bán sang bên mua trong trường hợp không có địa điểm xác định?",
+    "answer": "Khi hàng hóa đã được giao cho người vận chuyển đầu tiên."
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Bị coi là giao hàng hàng hóa không phù hợp với hợp đồng khi:",
+    "answer": "Không phù hợp với mục đích sử dụng thông thường của hàng cùng chủng loại. Câu hỏi 1"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Nguyên tắc đấu giá hàng hóa trong thương mại phải được thực hiện theo nguyên tắc nào sau đây?",
+    "answer": "Nguyên tắc công khai, trung thực, bảo đảm quyền và lợi ích hợp pháp của các bên tham gia"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "TB Hình thức của hợp đồng dịch vụ được thể hiện qua những cách thức nào, chọn phương án đúng nhất?",
+    "answer": "Bằng lời nói, bằng văn bản hoặc được xác lập bằng hành vi cụ thể."
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Thời hạn tạm xuất khẩu hàng hóa để tham gia hội chợ, triển lãm thương mại ở nước ngoài là bao lâu?",
+    "answer": "Một năm"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Sau thời hạn bao lâu thì thương nhân kinh doanh dịch vụ logistic có quyền định đoạt hàng hóa và chứng từ khi khách hàng không trả tiền nợ?",
+    "answer": "Bốn mươi lăm ngày"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Trường hợp nào sau đây bên được ủy quyền được ủy quyền lại cho người khác?",
+    "answer": "Có sự đồng ‎ý của bên ủy quyền"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "DỄ Phương thức nào sau đây là phương thức đấu thầu?",
+    "answer": "Đấu thầu hai túi hồ sơ"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Hợp đồng dịch vụ quảng cáo thương mại có hình thức thế nào?",
+    "answer": "Phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lí tương đương."
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Quảng cáo thương mại là hoạt động thế nào, chọn phương án đúng nhất?",
+    "answer": "Xúc tiến thương mại của thương nhân để giới thiệu với khách hàng về hoạt động kinh doanh hàng hóa, dịch vụ của mình."
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Tiêu chuẩn nào dưới đây không phù hợp với tiêu chuẩn của một giám định viên trong giám định thương mại?",
+    "answer": "Có ít nhất một năm công tác lĩnh vực giám định hàng hóa, dịch vụ"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Đối tượng của hợp đồng gia công là?",
+    "answer": "Vật được xác định trước theo mẫu, theo tiêu chuẩn mà các bên thỏa thuận hoặc theo luật định"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Công ty TNHH thiết bị văn phòng BT có trụ sở chính tại quận 10, thành phố Hồ Chí Minh. Công ty cổ phần xây dựng dân dụng AB có có trụ sở chính tại quận Hải Châu thành phố Đà Nẵng. Tháng 1-2013, AB ký hợp đồng với BT nhận xây dựng công trình nhà 3 tầng làm trụ sở chi nhánh của BT tại đường Thái Hà quận Đống Đa, Hà Nội và đã hoàn thành giữa tháng 11-2013. Thời hạn bảo hành là 3 năm. Sau khi đưa vào sử dụng 1 tháng, công trình đã bị hư hỏng, lún nứt nhiều chỗ. BT yêu cầu AB sửa chữa và bồi thường thiệt hại nhưng không được đáp ứng. BT quyết định khởi kiện. Trong trường hợp này, đơn kiện của BT phải được gửi đến?",
+    "answer": "TAND Quận Đống Đa, Thành phố Hà Nội."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Các Tổ chức Trọng tài thương mại hoạt động như:",
+    "answer": "Tổ chức chính trị xã hội."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Trừ trường hợp luật chuyên ngành có quy định khác, thời hiệu khởi kiện theo thủ tục trọng tài là?",
+    "answer": "2 năm kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm."
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "Tố tụng trọng tài, trong trường hợp giải quyết tại Trung tâm trọng tài bắt đầu từ thời điểm nào?",
+    "answer": "Khi Trung tâm trọng tài thụ lý đơn kiện của nguyên đơn."
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Thẩm quyền giải quyết tranh chấp giữa các thành viên công ty với công ty liên quan đến việc giải thể công ty thuộc?",
+    "answer": "Tòa Kinh tế của Tòa án nhân dân cấp tỉnh nơi công ty có trụ sở chính."
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Trong một vụ tranh chấp hợp đồng thương mại, các bên thỏa thuận chọn hình thức trọng tài vụ việc. Đã quá thời hạn quy định nhưng 2 trọng tài viên do 2 bên chọn không bầu được trọng tài viên khác làm Chủ tịch Hội đồng trọng tài nên các bên đã yêu cầu Tòa án có thẩm quyền chỉ định Chủ tịch Hội đồng trọng tài. Tòa án phải thực hiện việc này trong thời hạn nào sau đây?",
+    "answer": "7 ngày, kể từ ngày nhận được yêu cầu của các bên."
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng Dân sự hiện hành, sau khi Hội đồng xét xử phúc thẩm tuyên án thì các đương sự?",
+    "answer": "Không được quyền kháng cáo."
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Tại Công ty Cổ phần A có phát sinh tranh chấp giữa Công ty với các cổ đông của công ty về việc chia lợi nhuận. Các cổ đông muốn khởi kiện Công ty A thì sẽ khởi kiện đến Tòa án nào?",
+    "answer": "Tòa Kinh tế của Tòa án nhân dân cấp tỉnh nơi công ty có trụ sở chính."
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Nhận định nào dưới đây KHÔNG được coi là ưu điểm của phương thức giải quyết tranh chấp thương mại bằng con đường trọng tài?",
+    "answer": "Không giữ được Bí mật trong kinh doanh."
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng dân sự hiện hành, những tranh chấp về kinh doanh, thương mại nào dưới đây KHÔNG thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp huyện?",
+    "answer": "Tranh chấp giữa công ty với các thành viên của công ty. Câu hỏi 1"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Nguyên tắc đấu giá hàng hóa trong thương mại phải được thực hiện theo nguyên tắc nào sau đây?",
+    "answer": "Nguyên tắc công khai, trung thực, bảo đảm quyền và lợi ích hợp pháp của các bên tham gia"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "TB Hình thức của hợp đồng dịch vụ được thể hiện qua những cách thức nào, chọn phương án đúng nhất?",
+    "answer": "Bằng lời nói, bằng văn bản hoặc được xác lập bằng hành vi cụ thể."
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Thời hạn tạm xuất khẩu hàng hóa để tham gia hội chợ, triển lãm thương mại ở nước ngoài là bao lâu?",
+    "answer": "Một năm"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Sau thời hạn bao lâu thì thương nhân kinh doanh dịch vụ logistic có quyền định đoạt hàng hóa và chứng từ khi khách hàng không trả tiền nợ?",
+    "answer": "Bốn mươi lăm ngày"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Trường hợp nào sau đây bên được ủy quyền được ủy quyền lại cho người khác?",
+    "answer": "Có sự đồng ‎ý của bên ủy quyền"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "DỄ Phương thức nào sau đây là phương thức đấu thầu?",
+    "answer": "Đấu thầu hai túi hồ sơ"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Hợp đồng dịch vụ quảng cáo thương mại có hình thức thế nào?",
+    "answer": "Phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lí tương đương."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Quảng cáo thương mại là hoạt động thế nào, chọn phương án đúng nhất?",
+    "answer": "Xúc tiến thương mại của thương nhân để giới thiệu với khách hàng về hoạt động kinh doanh hàng hóa, dịch vụ của mình."
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Tiêu chuẩn nào dưới đây không phù hợp với tiêu chuẩn của một giám định viên trong giám định thương mại?",
+    "answer": "Có ít nhất một năm công tác lĩnh vực giám định hàng hóa, dịch vụ"
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Đối tượng của hợp đồng gia công là?",
+    "answer": "Vật được xác định trước theo mẫu, theo tiêu chuẩn mà các bên thỏa thuận hoặc theo luật định"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Công ty TNHH thiết bị văn phòng BT có trụ sở chính tại quận 10, thành phố Hồ Chí Minh. Công ty cổ phần xây dựng dân dụng AB có có trụ sở chính tại quận Hải Châu thành phố Đà Nẵng. Tháng 1-2013, AB ký hợp đồng với BT nhận xây dựng công trình nhà 3 tầng làm trụ sở chi nhánh của BT tại đường Thái Hà quận Đống Đa, Hà Nội và đã hoàn thành giữa tháng 11-2013. Thời hạn bảo hành là 3 năm. Sau khi đưa vào sử dụng 1 tháng, công trình đã bị hư hỏng, lún nứt nhiều chỗ. BT yêu cầu AB sửa chữa và bồi thường thiệt hại nhưng không được đáp ứng. BT quyết định khởi kiện. Trong trường hợp này, đơn kiện của BT phải được gửi đến?",
+    "answer": "TAND Quận Đống Đa, Thành phố Hà Nội."
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Các Tổ chức Trọng tài thương mại hoạt động như:",
+    "answer": "Tổ chức chính trị xã hội."
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Trừ trường hợp luật chuyên ngành có quy định khác, thời hiệu khởi kiện theo thủ tục trọng tài là?",
+    "answer": "2 năm kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm."
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Tố tụng trọng tài, trong trường hợp giải quyết tại Trung tâm trọng tài bắt đầu từ thời điểm nào?",
+    "answer": "Khi Trung tâm trọng tài thụ lý đơn kiện của nguyên đơn."
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Thẩm quyền giải quyết tranh chấp giữa các thành viên công ty với công ty liên quan đến việc giải thể công ty thuộc?",
+    "answer": "Tòa Kinh tế của Tòa án nhân dân cấp tỉnh nơi công ty có trụ sở chính."
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Trong một vụ tranh chấp hợp đồng thương mại, các bên thỏa thuận chọn hình thức trọng tài vụ việc. Đã quá thời hạn quy định nhưng 2 trọng tài viên do 2 bên chọn không bầu được trọng tài viên khác làm Chủ tịch Hội đồng trọng tài nên các bên đã yêu cầu Tòa án có thẩm quyền chỉ định Chủ tịch Hội đồng trọng tài. Tòa án phải thực hiện việc này trong thời hạn nào sau đây?",
+    "answer": "7 ngày, kể từ ngày nhận được yêu cầu của các bên."
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng Dân sự hiện hành, sau khi Hội đồng xét xử phúc thẩm tuyên án thì các đương sự?",
+    "answer": "Không được quyền kháng cáo."
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Tại Công ty Cổ phần A có phát sinh tranh chấp giữa Công ty với các cổ đông của công ty về việc chia lợi nhuận. Các cổ đông muốn khởi kiện Công ty A thì sẽ khởi kiện đến Tòa án nào?",
+    "answer": "Tòa Kinh tế của Tòa án nhân dân cấp tỉnh nơi công ty có trụ sở chính."
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Nhận định nào dưới đây KHÔNG được coi là ưu điểm của phương thức giải quyết tranh chấp thương mại bằng con đường trọng tài?",
+    "answer": "Không giữ được Bí mật trong kinh doanh."
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Theo quy định của Bộ luật Tố tụng dân sự hiện hành, những tranh chấp về kinh doanh, thương mại nào dưới đây KHÔNG thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp huyện?",
+    "answer": "Tranh chấp giữa công ty với các thành viên của công ty."
+  },
+  {
+    "id": 131,
+    "premium": true,
+    "question": "Trong các kết luận sau, kết luận nào đúng đối với hợp đồng dân sự theo nghĩa hẹp?",
+    "answer": "Số tiền phạt vi phạm theo hợp đồng các bên thỏa thuận."
+  },
+  {
+    "id": 132,
+    "premium": true,
+    "question": "Trừ trường hợp có thỏa thuận khác, sau khi áp dụng chế tài buộc thực hiện đúng hợp đồng và bên vi phạm đã thực hiện, bên bị vi phạm có thể áp dụng tiếp các chế tài thương mại khác nào?",
+    "answer": "Bên bị vi phạm có quyền yêu cầu bồi thường thiệt hại và phạt vi phạm."
+  },
+  {
+    "id": 133,
+    "premium": true,
+    "question": "Trường hợp nào sau đây KHÔNG thuộc trường hợp miễn trách nhiệm đối với hành vi vi phạm?",
+    "answer": "Do lỗi của người thứ 3 dẫn đến vi phạm của bên vi phạm."
+  },
+  {
+    "id": 134,
+    "premium": true,
+    "question": "Các bên có thể thỏa thuận tối đa mức phạt vi phạm hợp đồng đối với hợp đồng kinh doanh thương mại là bao nhiêu?",
+    "answer": "8% giá trị phần nghĩa vụ hợp đồng bị vi phạm."
+  },
+  {
+    "id": 135,
+    "premium": true,
+    "question": "Trong các kết luận sau, kết luận nào đúng đối với hợp đồng dân sự theo nghĩa hẹp?",
+    "answer": "Số tiền phạt theo hợp đồng các bên thỏa thuận."
+  },
+  {
+    "id": 136,
+    "premium": true,
+    "question": "Các bên có thể thỏa thuận mức phạt vi phạm hợp đồng đối với hợp đồng kinh doanh thương mại là bao nhiêu?",
+    "answer": "Không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm."
+  },
+  {
+    "id": 137,
+    "premium": true,
+    "question": "Theo Luật Thương mại năm 2005, nếu các bên không có thoả thuận khác, chế tài nào sau đây chỉ được áp dụng đối với một vi phạm cơ bản?",
+    "answer": "Huỷ bỏ hợp đồng."
+  },
+  {
+    "id": 138,
+    "premium": true,
+    "question": "Công ty cổ phần may Chiến Thắng ký hợp đồng mua 200.000 mét vải của Công ty TNHH dệt Nam Phong. Trong hợp đồng có thỏa thuận về phạt vi phạm nhưng không đề cập vấn đề bồi thường thiệt hại. Thực tế vi phạm xảy ra đã gây thiệt hại cho Công ty cổ phần may Chiến Thắng. Bên bị vi phạm có quyền:",
+    "answer": "Có thể đòi phạt vi phạm và bồi thường thiệt hại"
+  },
+  {
+    "id": 139,
+    "premium": true,
+    "question": "Trong số những chế tài dưới đây, chế tài nào có thể áp dụng đối với cả vi phạm không cơ bản và vi phạm cơ bản trong hợp đồng thương mại (trừ khi các bên có thỏa thuận khác)?",
+    "answer": "Phạt vi phạm."
+  },
+  {
+    "id": 140,
+    "premium": true,
+    "question": "Công ty TNHH HV sử dụng giấy tờ sở hữu hai ô tô trị giá 4 tỷ đồng của mình để làm tài sản đảm bảo cho khoản vay 2 tỷ đồng với ngân hàng CT. Biện pháp bảo đảm trên là:",
+    "answer": "Thế chấp."
+  },
+  {
+    "id": 141,
+    "premium": true,
+    "question": "Trong các kết luận sau, kết luận nào đúng đối với hợp đồng dân sự theo nghĩa hẹp?",
+    "answer": "Số tiền phạt vi phạm theo hợp đồng các bên thỏa thuận."
+  },
+  {
+    "id": 142,
+    "premium": true,
+    "question": "Trừ trường hợp có thỏa thuận khác, sau khi áp dụng chế tài buộc thực hiện đúng hợp đồng và bên vi phạm đã thực hiện, bên bị vi phạm có thể áp dụng tiếp các chế tài thương mại khác nào?",
+    "answer": "Bên bị vi phạm có quyền yêu cầu bồi thường thiệt hại và phạt vi phạm."
+  },
+  {
+    "id": 143,
+    "premium": true,
+    "question": "Trường hợp nào sau đây KHÔNG thuộc trường hợp miễn trách nhiệm đối với hành vi vi phạm?",
+    "answer": "Do lỗi của người thứ 3 dẫn đến vi phạm của bên vi phạm."
+  },
+  {
+    "id": 144,
+    "premium": true,
+    "question": "Các bên có thể thỏa thuận tối đa mức phạt vi phạm hợp đồng đối với hợp đồng kinh doanh thương mại là bao nhiêu?",
+    "answer": "8% giá trị phần nghĩa vụ hợp đồng bị vi phạm."
+  },
+  {
+    "id": 145,
+    "premium": true,
+    "question": "Trong các kết luận sau, kết luận nào đúng đối với hợp đồng dân sự theo nghĩa hẹp?",
+    "answer": "Số tiền phạt theo hợp đồng các bên thỏa thuận."
+  },
+  {
+    "id": 146,
+    "premium": true,
+    "question": "Các bên có thể thỏa thuận mức phạt vi phạm hợp đồng đối với hợp đồng kinh doanh thương mại là bao nhiêu?",
+    "answer": "Không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm."
+  },
+  {
+    "id": 147,
+    "premium": true,
+    "question": "Theo Luật Thương mại năm 2005, nếu các bên không có thoả thuận khác, chế tài nào sau đây chỉ được áp dụng đối với một vi phạm cơ bản?",
+    "answer": "Huỷ bỏ hợp đồng."
+  },
+  {
+    "id": 148,
+    "premium": true,
+    "question": "Công ty cổ phần may Chiến Thắng ký hợp đồng mua 200.000 mét vải của Công ty TNHH dệt Nam Phong. Trong hợp đồng có thỏa thuận về phạt vi phạm nhưng không đề cập vấn đề bồi thường thiệt hại. Thực tế vi phạm xảy ra đã gây thiệt hại cho Công ty cổ phần may Chiến Thắng. Bên bị vi phạm có quyền:",
+    "answer": "Có thể đòi phạt vi phạm và bồi thường thiệt hại"
+  },
+  {
+    "id": 149,
+    "premium": true,
+    "question": "Trong số những chế tài dưới đây, chế tài nào có thể áp dụng đối với cả vi phạm không cơ bản và vi phạm cơ bản trong hợp đồng thương mại (trừ khi các bên có thỏa thuận khác)?",
+    "answer": "Phạt vi phạm."
+  },
+  {
+    "id": 150,
+    "premium": true,
+    "question": "Công ty TNHH HV sử dụng giấy tờ sở hữu hai ô tô trị giá 4 tỷ đồng của mình để làm tài sản đảm bảo cho khoản vay 2 tỷ đồng với ngân hàng CT. Biện pháp bảo đảm trên là:",
+    "answer": "Thế chấp. âu hỏi 1"
+  },
+  {
+    "id": 151,
+    "premium": true,
+    "question": "Công ty TNHH xây dựng Thanh Xuân sử dụng giấy tờ về quyền sở hữu 5 xe ô tô của mình làm bảo đảm cho khoản vay 3 tỉ đồng tại Ngân hàng thương mại cổ phần ACD. Biện pháp bảo đảm này là:",
+    "answer": "Thế chấp."
+  },
+  {
+    "id": 152,
+    "premium": true,
+    "question": "Công ty TNHH Thái Tuấn gửi vào tài khoản của Ngân hàng Thương mại LV 200 triệu đồng theo yêu cầu của Công ty Cổ phần Nam Tiến để bảo đảm nghĩa vụ của mình theo hợp đồng đã giao kết với công ty Nam Tiến. Biện pháp bảo đảm nghĩa vụ được các bên sử dụng là biện pháp nào?",
+    "answer": "Ký quỹ."
+  },
+  {
+    "id": 153,
+    "premium": true,
+    "question": "Chị A ký hợp đồng mua căn hộ để ở thuộc khu chung cư cao cấp đang được thi công của chủ đầu tư là Công ty cổ phần xây dựng và kinh doanh nhà HN. Chị A đã giao một khoản tiền là 200 triệu đồng cho công ty HN để đảm bảo sẽ được giao căn hộ ngay khi hoàn thành khu chung cư. Biện pháp bảo đảm trên là:",
+    "answer": "Đặt cọc."
+  },
+  {
+    "id": 154,
+    "premium": true,
+    "question": "Hãy chỉ ra hợp đồng dân sự (theo nghĩa hẹp) trong các hợp đồng sau đây?",
+    "answer": "Anh C ký hợp đồng với Công ty Xây dựng và Kinh doanh nhà ở Hà Nội mua một căn hộ diện tích 120m2 để ở."
+  },
+  {
+    "id": 155,
+    "premium": true,
+    "question": "Công ty cổ phần may Chiến Thắng ký hợp đồng mua 200.000 mét vải của Công ty TNHH dệt Nam Phong. Trong hợp đồng có thỏa thuận áp dụng phạt vi phạm. Mức phạt trong trường hợp này là?",
+    "answer": "Tối đa 8% giá trị phần hợp đồng bị vi phạm."
+  },
+  {
+    "id": 156,
+    "premium": true,
+    "question": "Trong các hợp đồng sau, hợp đồng nào là hợp đồng kinh doanh thương mại?",
+    "answer": "Công ty TNHH A ký hợp đồng với Hộ kinh doanh B. Theo đó Hộ kinh doanh nhận làm đại lý bán hàng cho công ty A."
+  },
+  {
+    "id": 157,
+    "premium": true,
+    "question": "Chế tài bồi thường thiệt hại được áp dụng khi?",
+    "answer": "Có hành vi vi phạm nghĩa vụ hợp đồng, có thiệt hại vật chất thực tế xảy ra và có mối quan hệ nhân quả giữa hành vi vi phạm và thiệt hại thực tế."
+  },
+  {
+    "id": 158,
+    "premium": true,
+    "question": "Trong các kết luận sau, kết luận nào đúng đối với hợp đồng dân sự theo nghĩa hẹp?",
+    "answer": "Số tiền phạt vi phạm theo hợp đồng các bên thỏa thuận."
+  },
+  {
+    "id": 159,
+    "premium": true,
+    "question": "Ông Nguyễn Văn A là giám đốc công ty TNHH An Khang chuyên kinh doanh hoa tươi tại Hà Nội. Ngày 10/6/2012 ông A đại diện cho Công ty An Khang ký hợp đồng với Hãng hàng không Việt Nam Airline để vận chuyển hoa tươi hàng tuần bằng máy bay từ Đà lạt ra Hà Nội cho công ty trong 6 tháng cuối năm 2012. Tính chất của quan hệ Hợp đồng này là:",
+    "answer": "Hợp đồng kinh doanh thương mại."
+  },
+  {
+    "id": 160,
+    "premium": true,
+    "question": "Theo Luật Thương mại năm 2005, nếu các bên không có thoả thuận khác, chế tài nào sau đây KHÔNG được áp dụng đối với một vi phạm không cơ bản?",
+    "answer": "Huỷ bỏ hợp đồng. âu hỏi 1"
+  },
+  {
+    "id": 161,
+    "premium": true,
+    "question": "Trừ trường hợp có thoả thuận khác, trong thời gian áp dụng chế tài buộc thực hiện đúng hợp đồng, bên bị vi phạm có quyền yêu cầu áp dụng chế tài nào sau đây?",
+    "answer": "Phạt vi phạm."
+  },
+  {
+    "id": 162,
+    "premium": true,
+    "question": "Các bên có thể thỏa thuận mức phạt vi phạm hợp đồng đối với hợp đồng kinh doanh thương mại là bao nhiêu?",
+    "answer": "Không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm."
+  },
+  {
+    "id": 163,
+    "premium": true,
+    "question": "Công ty cổ phần may Chiến Thắng ký hợp đồng mua 200.000 mét vải của Công ty TNHH dệt Nam Phong. Trong hợp đồng có thỏa thuận áp dụng phạt vi phạm. Mức phạt trong trường hợp này là bao nhiêu?",
+    "answer": "Theo thỏa thuận của các bên nhưng tối đa không quá 8% giá trị phần hợp đồng bị vi phạm."
+  },
+  {
+    "id": 164,
+    "premium": true,
+    "question": "Công ty TNHH xây dựng Thanh Xuân giao 5 xe ô tô của mình để làm bảo đảm cho khoản vay 3 tỉ đồng tại Ngân hàng thương mại cổ phần ACD. Biện pháp bảo đảm này là:",
+    "answer": "Cầm cố."
+  },
+  {
+    "id": 165,
+    "premium": true,
+    "question": "Công ty TNHH HV sử dụng giấy tờ sở hữu hai ô tô trị giá 4 tỷ đồng của mình để làm tài sản đảm bảo cho khoản vay 2 tỷ đồng với ngân hàng CT. Biện pháp bảo đảm trên là:",
+    "answer": "Thế chấp."
+  },
+  {
+    "id": 166,
+    "premium": true,
+    "question": "Công ty TNHH xây dựng Thiên hương sử dụng giấy tờ về quyền sở hữu 4 xe ô tô của mình làm bảo đảm cho khoản vay 3 tỉ đồng tại Ngân hàng thương mại cổ phần. Biện pháp bảo đảm này là:",
+    "answer": "Thế chấp."
+  },
+  {
+    "id": 167,
+    "premium": true,
+    "question": "Trừ trường hợp có thỏa thuận khác, sau khi áp dụng chế tài buộc thực hiện đúng hợp đồng và bên vi phạm đã thực hiện, bên bị vi phạm có thể áp dụng tiếp các chế tài thương mại khác nào?",
+    "answer": "Bên bị vi phạm có quyền yêu cầu bồi thường thiệt hại và phạt vi phạm."
+  },
+  {
+    "id": 168,
+    "premium": true,
+    "question": "Công ty cổ phần may Chiến Thắng ký hợp đồng mua 200.000 mét vải của Công ty TNHH dệt Nam Phong. Trong hợp đồng có thỏa thuận về phạt vi phạm nhưng không đề cập vấn đề bồi thường thiệt hại. Thực tế vi phạm xảy ra đã gây thiệt hại cho Công ty cổ phần may Chiến Thắng. Bên bị vi phạm có quyền:",
+    "answer": "Có thể đòi phạt vi phạm và bồi thường thiệt hại"
+  },
+  {
+    "id": 169,
+    "premium": true,
+    "question": "Trong các kết luận sau, kết luận nào đúng đối với hợp đồng dân sự theo nghĩa hẹp?",
+    "answer": "Số tiền phạt theo hợp đồng các bên thỏa thuận."
+  },
+  {
+    "id": 170,
+    "premium": true,
+    "question": "Hậu quả pháp lý của hợp đồng bị tuyên bố vô hiệu là:",
+    "answer": "Các bên phải hoàn trả cho nhau những gì đã nhận. âu hỏi 1"
+  },
+  {
+    "id": 171,
+    "premium": true,
+    "question": "Trừ trường hợp có thoả thuận khác, trong thời gian áp dụng chế tài buộc thực hiện đúng hợp đồng, bên bị vi phạm có quyền yêu cầu áp dụng chế tài nào sau đây?",
+    "answer": "Phạt vi phạm."
+  },
+  {
+    "id": 172,
+    "premium": true,
+    "question": "Các bên có thể thỏa thuận mức phạt vi phạm hợp đồng đối với hợp đồng kinh doanh thương mại là bao nhiêu?",
+    "answer": "Không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm."
+  },
+  {
+    "id": 173,
+    "premium": true,
+    "question": "Công ty cổ phần may Chiến Thắng ký hợp đồng mua 200.000 mét vải của Công ty TNHH dệt Nam Phong. Trong hợp đồng có thỏa thuận áp dụng phạt vi phạm. Mức phạt trong trường hợp này là bao nhiêu?",
+    "answer": "Theo thỏa thuận của các bên nhưng tối đa không quá 8% giá trị phần hợp đồng bị vi phạm."
+  },
+  {
+    "id": 174,
+    "premium": true,
+    "question": "Công ty TNHH xây dựng Thanh Xuân giao 5 xe ô tô của mình để làm bảo đảm cho khoản vay 3 tỉ đồng tại Ngân hàng thương mại cổ phần ACD. Biện pháp bảo đảm này là:",
+    "answer": "Cầm cố."
+  },
+  {
+    "id": 175,
+    "premium": true,
+    "question": "Công ty TNHH HV sử dụng giấy tờ sở hữu hai ô tô trị giá 4 tỷ đồng của mình để làm tài sản đảm bảo cho khoản vay 2 tỷ đồng với ngân hàng CT. Biện pháp bảo đảm trên là:",
+    "answer": "Thế chấp."
+  },
+  {
+    "id": 176,
+    "premium": true,
+    "question": "Công ty TNHH xây dựng Thiên hương sử dụng giấy tờ về quyền sở hữu 4 xe ô tô của mình làm bảo đảm cho khoản vay 3 tỉ đồng tại Ngân hàng thương mại cổ phần. Biện pháp bảo đảm này là:",
+    "answer": "Thế chấp."
+  },
+  {
+    "id": 177,
+    "premium": true,
+    "question": "Trừ trường hợp có thỏa thuận khác, sau khi áp dụng chế tài buộc thực hiện đúng hợp đồng và bên vi phạm đã thực hiện, bên bị vi phạm có thể áp dụng tiếp các chế tài thương mại khác nào?",
+    "answer": "Bên bị vi phạm có quyền yêu cầu bồi thường thiệt hại và phạt vi phạm."
+  },
+  {
+    "id": 178,
+    "premium": true,
+    "question": "Công ty cổ phần may Chiến Thắng ký hợp đồng mua 200.000 mét vải của Công ty TNHH dệt Nam Phong. Trong hợp đồng có thỏa thuận về phạt vi phạm nhưng không đề cập vấn đề bồi thường thiệt hại. Thực tế vi phạm xảy ra đã gây thiệt hại cho Công ty cổ phần may Chiến Thắng. Bên bị vi phạm có quyền:",
+    "answer": "Có thể đòi phạt vi phạm và bồi thường thiệt hại"
+  },
+  {
+    "id": 179,
+    "premium": true,
+    "question": "Trong các kết luận sau, kết luận nào đúng đối với hợp đồng dân sự theo nghĩa hẹp?",
+    "answer": "Số tiền phạt theo hợp đồng các bên thỏa thuận."
+  },
+  {
+    "id": 180,
+    "premium": true,
+    "question": "Hậu quả pháp lý của hợp đồng bị tuyên bố vô hiệu là:",
+    "answer": "Các bên phải hoàn trả cho nhau những gì đã nhận. Câu hỏi 1"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Trong một hợp đồng mua bán hàng hóa, hai công ty không có",
+    "answer": "Địa điểm giao hàng hoặc giao chứng từ, nếu việc thanh toán được tiến hành đồng thời với việc giao hàng hoặc giao chứng từ."
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "Trong hợp đồng mua bán hàng hóa thì bên bán phải có nghĩa vụ cơ bản là?",
+    "answer": "Cả 3 phương án trên"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Bên bán phải chịu trách nhiệm về khiếm khuyết của hàng hóa khi :",
+    "answer": "Khiếm khuyết đã có trước khi thời điểm chuyển rủi ro cho bên mua."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Bị coi là giao hàng hàng hóa không phù hợp với hợp đồng khi:",
+    "answer": "Không phù hợp với mục đích sử dụng thông thường của hàng cùng chủng loại."
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "Trong hợp đồng mua bán hàng hóa thì bên mua không có nghĩa vụ nào sau đây:",
+    "answer": "Bảo hành"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Khi không có thỏa thuận về địa điểm giao hàng thì địa điểm giao hàng được xác định?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Nguồn của hợp đồng mua bán hàng hóa quốc tế bao gồm?",
+    "answer": "Cả 3 phương án trên."
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Về mặt nguyên tắc, quyền sở hữu được chuyển từ bên bán sang bên mua?",
+    "answer": "Thời điểm hàng hóa được chuyển giao"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Công ty cổ phần X chuyên kinh doanh nhập khẩu hàng hóa ký",
+    "answer": "65 triệu đồng."
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Trong một hợp đồng mua bán hàng hóa, bên bán có nghĩa vụ giao hàng tại kho Số 1 của bên bán nhưng đoàn xe chở hàng đã đến kho Số 2 (cách nơi giao hàng theo hợp đồng 15 km). Bên mua đã làm thủ tục nhận hàng và yêu cầu bên bán chở hàng sang kho Số 1. Trên đường đi, một số xe gặp tai nạn, nhiều hàng hóa bị hư hỏng, mất mát. Trong hợp đồng, hai bên không có thỏa thuận gì về tình huống này. Những rủi ro này thuộc về?",
+    "answer": "Bên mua. Câu hỏi 1"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Hợp đồng mua bán hàng hóa giữa các chủ thể là thương nhân với nhau nhằm mục đích?",
+    "answer": "Sinh lợi."
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Đối tượng của hợp đồng mua bán hàng hóa trong thương mại là?",
+    "answer": "Cả A và C là phương án đúng."
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Hình thức của hợp đồng mua bán hàng hóa có thể được thể hiện bằng?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "Khi không có thỏa thuận về địa điểm giao hàng thì địa điểm giao hàng được xác định?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Thời hạn giao hàng được xác định?",
+    "answer": "Theo thỏa thuận trong hợp đồng."
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Bị coi là giao hàng hàng hóa không phù hợp với hợp đồng khi:",
+    "answer": "Không phù hợp với mục đích sử dụng thông thường của hàng cùng chủng loại."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Bên bán phải chịu trách nhiệm về khiếm khuyết của hàng hóa khi :",
+    "answer": "Khiếm khuyết đã có trước khi thời điểm chuyển rủi ro cho bên mua."
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Chuyển rủi ro về mất mát, hư hỏng hàng hóa từ bên bán sang bên mua trong trường hợp không có địa điểm xác định?",
+    "answer": "Khi hàng hóa đã được giao cho người vận chuyển đầu tiên."
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Trong một hợp đồng mua bán hàng hóa, bên bán có nghĩa vụ giao hàng tại kho số 1 của bên mua. Do nhầm lẫn nhân viên của bên bán đã giao hàng đến kho hàng số 2 (cách kho số 1: 20 km). Bên mua đã làm thủ tục nhập hàng tại địa điểm kho số 2 và yêu cầu bên bán vận chuyển hàng từ kho số 2 về kho số 1. Trên đường từ kho số 2 về kho số 1 xe bị tai nạn, hỏng một nửa số hàng. Trường hợp này rủi ro về hư hỏng hàng hóa thuộc về bên bán hay bên mua?",
+    "answer": "Bên mua nếu các bên không có thỏa thuận khác."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Trong hợp đồng mua bán hàng hóa thì bên bán phải có nghĩa vụ cơ bản là?",
+    "answer": "Cả 3 phương án trênCâu hỏi 1"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Đối tượng của hợp đồng mua bán hàng hóa trong thương mại là?",
+    "answer": "Cả A và C là phương án đúng."
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Bên bán có nghĩa vụ giao chứng từ có liên quan đến hàng hóa cho bên mua theo thỏa thuận?",
+    "answer": "Cả a,b,c đều đúng"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Trong hợp đồng mua bán hàng hóa thì bên mua không có nghĩa vụ nào sau đây:",
+    "answer": "Bảo hành"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Nguồn của hợp đồng mua bán hàng hóa quốc tế bao gồm?",
+    "answer": "Cả 3 phương án trên."
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Hợp đồng mua bán hàng hóa giữa các chủ thể là thương nhân với nhau nhằm mục đích?",
+    "answer": "Sinh lợi."
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Hình thức của hợp đồng mua bán hàng hóa có thể được thể hiện bằng?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Trong một hợp đồng mua bán hàng hóa, bên bán có nghĩa vụ giao hàng tại kho Số 1 của bên bán nhưng đoàn xe chở hàng đã đến kho Số 2 (cách nơi giao hàng theo hợp đồng 15 km). Bên mua đã làm thủ tục nhận hàng và yêu cầu bên bán chở hàng sang kho Số 1. Trên đường đi, một số xe gặp tai nạn, nhiều hàng hóa bị hư hỏng, mất mát. Trong hợp đồng, hai bên không có thỏa thuận gì về tình huống này. Những rủi ro này thuộc về?",
+    "answer": "Bên mua."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Hoạt động mua bán hàng hóa qua Sở giao dịch hàng hóa nhằm mục đích?",
+    "answer": "Bảo hiểm các rủi ro do việc biến động giá"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Bên mua có quyền ngừng thanh toán khi?",
+    "answer": "Có bằng chứng bị lừa dối"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Chuyển rủi ro về mất mát, hư hỏng hàng hóa từ bên bán sang bên mua trong trường hợp có địa điểm giao hàng xác định?",
+    "answer": "Khi hàng hóa đã giao cho bên muaCâu hỏi 1"
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Về mặt nguyên tắc, quyền sở hữu được chuyển từ bên bán sang bên mua?",
+    "answer": "Thời điểm hàng hóa được chuyển giao"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Hình thức của hợp đồng mua bán hàng hóa có thể được thể hiện bằng?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "TB Địa điểm thanh toán được xác định?",
+    "answer": "Theo thỏa thuận"
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Hợp đồng mua bán hàng hóa mà Luật thương mại điều chỉnh có các chủ thể nào thực hiện?",
+    "answer": "Cả a và b đều đúng"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Trong một hợp đồng mua bán hàng hóa, hai công ty không có",
+    "answer": "Địa điểm giao hàng hoặc giao chứng từ, nếu việc thanh toán được tiến hành đồng thời với việc giao hàng hoặc giao chứng từ."
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Công ty cổ phần X chuyên kinh doanh nhập khẩu hàng hóa ký",
+    "answer": "65 triệu đồng."
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Trong một hợp đồng mua bán hàng hóa, bên bán có nghĩa vụ giao hàng tại kho số 1 của bên mua. Do nhầm lẫn nhân viên của bên bán đã giao hàng đến kho hàng số 2 (cách kho số 1: 20 km). Bên mua đã làm thủ tục nhập hàng tại địa điểm kho số 2 và yêu cầu bên bán vận chuyển hàng từ kho số 2 về kho số 1. Trên đường từ kho số 2 về kho số 1 xe bị tai nạn, hỏng một nửa số hàng. Trường hợp này rủi ro về hư hỏng hàng hóa thuộc về bên bán hay bên mua?",
+    "answer": "Bên mua nếu các bên không có thỏa thuận khác."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Trong hợp đồng mua bán hàng hóa thì bên mua không có nghĩa vụ nào sau đây:",
+    "answer": "Bảo hành"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Bên bán có nghĩa vụ giao chứng từ có liên quan đến hàng hóa cho bên mua theo thỏa thuận?",
+    "answer": "Cả a,b,c đều đúng"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Đối tượng của hợp đồng mua bán hàng hóa trong thương mại là?",
+    "answer": "Cả A và C là phương án đúng. Câu hỏi 1"
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Về mặt nguyên tắc, quyền sở hữu được chuyển từ bên bán sang bên mua?",
+    "answer": "Thời điểm hàng hóa được chuyển giao"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Hình thức của hợp đồng mua bán hàng hóa có thể được thể hiện bằng?",
+    "answer": "Tất cả các phương án trên."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "TB Địa điểm thanh toán được xác định?",
+    "answer": "Theo thỏa thuận"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Hợp đồng mua bán hàng hóa mà Luật thương mại điều chỉnh có các chủ thể nào thực hiện?",
+    "answer": "Cả a và b đều đúng"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Trong một hợp đồng mua bán hàng hóa, hai công ty không có",
+    "answer": "Địa điểm giao hàng hoặc giao chứng từ, nếu việc thanh toán được tiến hành đồng thời với việc giao hàng hoặc giao chứng từ."
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Công ty cổ phần X chuyên kinh doanh nhập khẩu hàng hóa ký",
+    "answer": "65 triệu đồng."
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Trong một hợp đồng mua bán hàng hóa, bên bán có nghĩa vụ giao hàng tại kho số 1 của bên mua. Do nhầm lẫn nhân viên của bên bán đã giao hàng đến kho hàng số 2 (cách kho số 1: 20 km). Bên mua đã làm thủ tục nhập hàng tại địa điểm kho số 2 và yêu cầu bên bán vận chuyển hàng từ kho số 2 về kho số 1. Trên đường từ kho số 2 về kho số 1 xe bị tai nạn, hỏng một nửa số hàng. Trường hợp này rủi ro về hư hỏng hàng hóa thuộc về bên bán hay bên mua?",
+    "answer": "Bên mua nếu các bên không có thỏa thuận khác."
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Trong hợp đồng mua bán hàng hóa thì bên mua không có nghĩa vụ nào sau đây:",
+    "answer": "Bảo hành"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Bên bán có nghĩa vụ giao chứng từ có liên quan đến hàng hóa cho bên mua theo thỏa thuận?",
+    "answer": "Cả a,b,c đều đúng"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Đối tượng của hợp đồng mua bán hàng hóa trong thương mại là?",
+    "answer": "Cả A và C là phương án đúng. Câu hỏi 1"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Trường hợp nào sau đây bên được ủy quyền được ủy quyền lại cho người khác?",
+    "answer": "Có sự đồng ‎ý của bên ủy quyền"
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Hợp đồng dịch vụ quảng cáo thương mại có hình thức thế nào?",
+    "answer": "Phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lí tương đương."
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Đối tượng của hợp đồng gia công là?",
+    "answer": "Vật được xác định trước theo mẫu, theo tiêu chuẩn mà các bên thỏa thuận hoặc theo luật định"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Phương tiện quảng cáo thương mại theo quy định của pháp luật thương mại KHÔNG bao gồm cái nào sau đây?",
+    "answer": "Các loại xuất bản phẩm không được phép của cơ quan quản lí nhà nước"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Thời hạn tạm xuất khẩu hàng hóa để tham gia hội chợ, triển lãm thương mại ở nước ngoài là bao lâu?",
+    "answer": "Một năm"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Phương thức nào sau đây là một trong những phương thức đấu giá hàng hóa?",
+    "answer": "Phương thức trả giá lên"
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Phương án nào dưới đây là một trong những hình thức của trưng bày, giới thiệu hàng hóa, dịch vụ?",
+    "answer": "Mở phòng trưng bày, giới thiệu hàng hóa, dịch vụ"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Những hình thức nào dưới đây là những hình thức đại lý thương mại, chọn phương án trả lời đúng nhất?",
+    "answer": "Đại lý bao tiêu, đại lý độc quyền, tổng đại lý và các hình thức khác"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "Trường hợp nào trong các phương án dưới đây là trường hợp cấm trưng bày, giới thiệu hàng hóa, dịch vụ",
+    "answer": "Trưng bày, giới thiệu hàng hóa, dịch vụ làm lộ bí mật nhà nước"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Trừ trường hợp có thỏa thuận khác, thù lao đại lý được trả cho bên đại lý theo hình thức nào sau đây?",
+    "answer": "Hình thức hoa hồngCâu hỏi 1"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Các chủ thể nào dưới đây có quyền trưng bày, giới thiệu hàng hóa, dịch vụ theo quy định của pháp luật thương mại Việt Nam, chọn phương án trả lời đúng nhất?",
+    "answer": "Thương nhân Việt Nam, Chi nhánh của thương nhân Việt Nam, Chi nhánh của thương nhân nước ngoài tại Việt Nam."
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Quyền khuyến mại của thương nhân là quyền, chọn phương án đúng nhất",
+    "answer": "Tự tổ chức hoặc thuê thương nhân kinh doanh thực hiện dịch vụ khuyến mại cho mình"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Tiêu chuẩn nào dưới đây không phù hợp với tiêu chuẩn của một giám định viên trong giám định thương mại?",
+    "answer": "Có ít nhất một năm công tác lĩnh vực giám định hàng hóa, dịch vụ"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Trong trường hợp không có thỏa thuận thì thời hạn đại diện chấm dứt khi nào, chọn phương án trả lời đúng nhất?",
+    "answer": "Khi bên giao đại diện thông báo cho bên đại diện về việc chấm dứt hợp đồng đại diện hoặc bên đại diện thông báo cho bên giao đại diện về việc chấm dứt hợp đồng."
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Trong các phương án sau đây, phương án nào không phải là một nguồn văn bản điều chỉnh hoạt động dịch vụ thương mại?",
+    "answer": "Các Điều ước quốc tế mà Việt Nam chưa cam kết tham gia với tư cách thành viên."
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Hàng hóa, dịch vụ trưng bày phải đáp ứng những điều kiện chung nào sau đây:",
+    "answer": "Hàng hóa, dịch vụ trưng bày phải là hàng hóa, dịch vụ kinh doanh hợp pháp trên thị trường và tuân thủ các quy định của pháp luật về chất lượng hàng hóa và ghi nhãn hàng hóa."
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Hình thức giao kết hợp đồng ủy thác có thể được thực hiện dưới hình thức nào sau đây, chọn phương án trả lời đúng nhất?",
+    "answer": "Bắt buộc lập bằng văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Các chủ thể không có quyền tổ chức, tham gia hội chợ, triển lãm thương mại?",
+    "answer": "Thương nhân không gián tiếp tổ chức."
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Hành vi nào sau đây là hành vi KHÔNG bị cấm trong hoạt động khuyến mại?",
+    "answer": "Hứa tặng, thưởng được thực hiện đúng cam kết."
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Quảng cáo thương mại là hoạt động thế nào, chọn phương án đúng nhất?",
+    "answer": "Xúc tiến thương mại của thương nhân để giới thiệu với khách hàng về hoạt động kinh doanh hàng hóa, dịch vụ của mình. Câu hỏi 1"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Hợp đồng dịch vụ được đơn phương chấm dứt trong trường hợp nào sau đây?",
+    "answer": "Khi việc tiếp tục thực hiện công việc không có lợi cho bên sử dụng dịch vụ"
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Trong trường hợp không có thỏa thuận thì thời hạn đại diện chấm dứt khi nào, chọn phương án trả lời đúng nhất?",
+    "answer": "Khi bên giao đại diện thông báo cho bên đại diện về việc chấm dứt hợp đồng đại diện hoặc bên đại diện thông báo cho bên giao đại diện về việc chấm dứt hợp đồng."
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Các chủ thể nào dưới đây có quyền trưng bày, giới thiệu hàng hóa, dịch vụ theo quy định của pháp luật thương mại Việt Nam, chọn phương án trả lời đúng nhất?",
+    "answer": "Thương nhân Việt Nam, Chi nhánh của thương nhân Việt Nam, Chi nhánh của thương nhân nước ngoài tại Việt Nam."
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Nguyên tắc đấu giá hàng hóa trong thương mại phải được thực hiện theo nguyên tắc nào sau đây?",
+    "answer": "Nguyên tắc công khai, trung thực, bảo đảm quyền và lợi ích hợp pháp của các bên tham gia"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "TB Hình thức của hợp đồng dịch vụ được thể hiện qua những cách thức nào, chọn phương án đúng nhất?",
+    "answer": "Bằng lời nói, bằng văn bản hoặc được xác lập bằng hành vi cụ thể."
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Trường hợp nào trong các phương án dưới đây là trường hợp cấm trưng bày, giới thiệu hàng hóa, dịch vụ",
+    "answer": "Trưng bày, giới thiệu hàng hóa, dịch vụ làm lộ bí mật nhà nước"
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Phương thức nào sau đây là một trong những phương thức đấu giá hàng hóa?",
+    "answer": "Phương thức trả giá lên"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Phương tiện quảng cáo thương mại theo quy định của pháp luật thương mại KHÔNG bao gồm cái nào sau đây?",
+    "answer": "Các loại xuất bản phẩm không được phép của cơ quan quản lí nhà nước"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Những hình thức nào dưới đây là những hình thức đại lý thương mại, chọn phương án trả lời đúng nhất?",
+    "answer": "Đại lý bao tiêu, đại lý độc quyền, tổng đại lý và các hình thức khác"
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Quảng cáo thương mại là hoạt động thế nào, chọn phương án đúng nhất?",
+    "answer": "Xúc tiến thương mại của thương nhân để giới thiệu với khách hàng về hoạt động kinh doanh hàng hóa, dịch vụ của mình. Câu hỏi 1"
+  }
+]

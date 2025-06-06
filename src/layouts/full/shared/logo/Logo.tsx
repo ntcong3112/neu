@@ -1,11 +1,11 @@
 import { FC } from 'react';
 import { useSelector } from 'src/store/Store';
 import { Link } from 'react-router-dom';
-import { ReactComponent as LogoDark } from 'src/assets/images/logos/dark-logo.svg';
-import { ReactComponent as LogoDarkRTL } from 'src/assets/images/logos/dark-rtl-logo.svg';
-import { ReactComponent as LogoLight } from 'src/assets/images/logos/light-logo.svg';
-import { ReactComponent as LogoLightRTL } from 'src/assets/images/logos/light-logo-rtl.svg';
-import { styled } from '@mui/material';
+import LogoDark from 'src/assets/images/logos/logo.jpg';
+import LogoDarkRTL from 'src/assets/images/logos/logo.jpg';
+import LogoLight from 'src/assets/images/logos/logo.jpg';
+import LogoLightRTL from 'src/assets/images/logos/logo.jpg';
+import { styled, Typography } from '@mui/material';
 import { AppState } from 'src/store/Store';
 
 const Logo: FC = () => {
@@ -19,23 +19,52 @@ const Logo: FC = () => {
 
   if (customizer.activeDir === 'ltr') {
     return (
-      <LinkStyled to="/">
+      <LinkStyled
+        to="/"
+        sx={{ margin: '10', display: 'flex', alignItems: 'center', gap: 1, width: '100%' }}
+      >
         {customizer.activeMode === 'dark' ? (
-          <LogoLight height={customizer.TopbarHeight} />
+          <img
+            src={LogoLight}
+            height={customizer.TopbarHeight}
+            alt="Logo"
+            style={{ padding: '10px 0px' }}
+          />
         ) : (
-          <LogoDark height={customizer.TopbarHeight} />
+          <img
+            src={LogoDark}
+            height={customizer.TopbarHeight}
+            alt="Logo"
+            style={{ padding: '10px 0px' }}
+          />
         )}
+        <Typography variant="h2" color="textPrimary" sx={{ fontSize: '1.25rem', fontWeight: 600 }}>
+          NEU ELEARNING
+        </Typography>
       </LinkStyled>
     );
   }
 
   return (
-    <LinkStyled to="/">
+    <LinkStyled to="/" sx={{ margin: '10', display: 'flex', alignItems: 'center', gap: 1 }}>
       {customizer.activeMode === 'dark' ? (
-        <LogoDarkRTL height={customizer.TopbarHeight} />
+        <img
+          src={LogoDarkRTL}
+          height={customizer.TopbarHeight}
+          alt="Logo RTL"
+          style={{ padding: '10px 0px' }}
+        />
       ) : (
-        <LogoLightRTL height={customizer.TopbarHeight} />
+        <img
+          src={LogoLightRTL}
+          height={customizer.TopbarHeight}
+          alt="Logo RTL"
+          style={{ padding: '10px 0px' }}
+        />
       )}
+      <Typography variant="h2" color="textPrimary" sx={{ fontSize: '1.25rem', fontWeight: 600 }}>
+        NEU ELEARNING
+      </Typography>
     </LinkStyled>
   );
 };

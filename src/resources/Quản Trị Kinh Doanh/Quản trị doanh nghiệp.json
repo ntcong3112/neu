@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1,
+    "premium": false,
+    "question": "Kế hoạch trung hạn thường được thực hiện với khoảng thời gian:",
+    "answer": ". Từ 1 – 3 năm"
+  },
+  {
+    "id": 2,
+    "premium": false,
+    "question": "Theo thời gian, mục tiêu được phân loại bao gồm:",
+    "answer": ". Mục tiêu dài hạn, mục tiêu trung hạn và mục tiêu ngắn hạn."
+  },
+  {
+    "id": 3,
+    "premium": false,
+    "question": "Lựa chọn nào dưới đây KHÔNG PHẢI là phong cách lãnh đạo của giám đốc điều hành doanh nghiệp",
+    "answer": "Từ tốn"
+  },
+  {
+    "id": 4,
+    "premium": false,
+    "question": "Mục đích của phương pháp phân quyền là nhằm",
+    "answer": ". Cả A và B đúng"
+  },
+  {
+    "id": 5,
+    "premium": false,
+    "question": "Nhược điểm của cơ cấu trực tuyến là",
+    "answer": ". Đòi hỏi nhà quản trị có kiến thức ở nhiều lĩnh vực"
+  },
+  {
+    "id": 6,
+    "premium": false,
+    "question": "Điều gì KHÔNG đúng về cách làm việc trong các xí nghiệp Âu, Mỹ:",
+    "answer": "Làm việc suốt đời, đánh giá đề bạt nhanh"
+  },
+  {
+    "id": 7,
+    "premium": false,
+    "question": "CSF KHÔNG liên quan đến yếu tố sau:",
+    "answer": "Kế hoạch"
+  },
+  {
+    "id": 8,
+    "premium": false,
+    "question": "Lựa chọn nào sau đây phản ánh tốt nhất về đặc trưng của phong cách lãnh đạo",
+    "answer": "Phong cách lãnh đạo = Cá tính x Môi trường"
+  },
+  {
+    "id": 9,
+    "premium": false,
+    "question": "Cấp quản trị trong doanh nghiệp bao gồm:",
+    "answer": ". Cấp cao, cấp trung gian và cấp cơ sở"
+  },
+  {
+    "id": 10,
+    "premium": false,
+    "question": "Mô hình tổ chức bộ máy nào được thiết kế mà mỗi bộ phận (đơn vị hoặc nhà quản trị) chịu trách nhiệm về một đối tượng khách hàng",
+    "answer": ". Mô hình cấu trúc theo khách hàng"
+  },
+  {
+    "id": 11,
+    "premium": false,
+    "question": "Doanh nghiệp nhà nước hoạt động dưới sự điều chỉnh của:",
+    "answer": "Luật doanh nghiệp"
+  },
+  {
+    "id": 12,
+    "premium": false,
+    "question": "Để tổ chức thực hiện công việc trong bản kế hoạch (trước khi phân công công việc cho cấp dưới, nhân viên), nhà quản trị cần nắm bắt tính chất của công việc theo:",
+    "answer": ". Tính chất quan trọng, độ phức tạp của công việc, tính mới của công việc"
+  },
+  {
+    "id": 13,
+    "premium": false,
+    "question": "Ưu điểm của phong cách lãnh đạo dễ dãi là",
+    "answer": ". Thu hút được sự tham mưu của cấp dưới"
+  },
+  {
+    "id": 14,
+    "premium": false,
+    "question": "Năng suất theo cá nhân là:",
+    "answer": "Chỉ số đánh giá kết quả thực hiện"
+  },
+  {
+    "id": 15,
+    "premium": false,
+    "question": "Xây dựng hệ thống chức vụ phù hợp với quyền hành là tư tưởng của:",
+    "answer": "M. Weber"
+  },
+  {
+    "id": 16,
+    "premium": false,
+    "question": "Giám đốc điều hành doanh nghiệp là người",
+    "answer": "Có vai trò điều hành hoạt động chung của doanh nghiệp."
+  },
+  {
+    "id": 17,
+    "premium": false,
+    "question": "ROE là:",
+    "answer": "Lợi nhuận trên vốn chủ sở hữu"
+  },
+  {
+    "id": 18,
+    "premium": false,
+    "question": "Giám đốc điều hành phải",
+    "answer": ". A đúng, B sai"
+  },
+  {
+    "id": 19,
+    "premium": false,
+    "question": "Trong công tác lập kế hoạch, xác định mục tiêu là:",
+    "answer": ". Cần thiết và có tính chất quan trọng"
+  },
+  {
+    "id": 20,
+    "premium": false,
+    "question": "Mục đích của bản mô tả công việc của giám đốc là:",
+    "answer": ". Tất cả các ý trên đều đúng"
+  },
+  {
+    "id": 21,
+    "premium": false,
+    "question": "Lý thuyết quản trị hành chính là tư tưởng của:",
+    "answer": "Henry Fayol và các cộng sự"
+  },
+  {
+    "id": 22,
+    "premium": false,
+    "question": "Vai trò của giám đốc điều hành là",
+    "answer": ". Tất cả các ý trên đều đúng"
+  },
+  {
+    "id": 23,
+    "premium": false,
+    "question": "Doanh nghiệp nào sau đây KHÔNG có tư cách pháp nhân:",
+    "answer": "Doanh nghiệp tư nhân"
+  },
+  {
+    "id": 24,
+    "premium": false,
+    "question": "Tỷ lệ nhân viên không hoàn thành nhiệm vụ là:",
+    "answer": "Chỉ số đánh giá kết quả thực hiện"
+  },
+  {
+    "id": 25,
+    "premium": false,
+    "question": "Giám đốc điều hành doanh nghiệp thực hiện các chức năng quản trị",
+    "answer": ". Tất cả các chức năng trên."
+  },
+  {
+    "id": 26,
+    "premium": false,
+    "question": "ROA là:",
+    "answer": "Lợi nhuận trên tài sản"
+  },
+  {
+    "id": 27,
+    "premium": false,
+    "question": "Dựa vào hình thức sở hữu vốn có thể chia doanh nghiệp thành:",
+    "answer": "Doanh nghiệp 1 chủ và doanh nghiệp nhiều chủ"
+  },
+  {
+    "id": 28,
+    "premium": false,
+    "question": "Các nhân tố ảnh hưởng tới năng lực quản lý của giám đốc là:",
+    "answer": ". Tất cả ý kiến đều đúng"
+  },
+  {
+    "id": 29,
+    "premium": false,
+    "question": "Phương pháp quản lý của giám đốc:",
+    "answer": ". Cả A và B đều sai"
+  },
+  {
+    "id": 30,
+    "premium": false,
+    "question": "Chỉ số nào đo lường tốc độ có thể chuyển tài sản sang tiền mặt:",
+    "answer": "Hoạt động"
+  },
+  {
+    "id": 31,
+    "premium": false,
+    "question": "Một trong những công cụ được sử dụng trong quản trị theo kết quả là:",
+    "answer": "Cây vấn đề"
+  },
+  {
+    "id": 32,
+    "premium": false,
+    "question": "Đặc điểm của giám đốc điều hành theo phong cách quản lý dân chủ - tập trung :",
+    "answer": ". Giám đốc tham khảo ý kiến của thuộc cấp nhưng có chính kiến với quyết định của mình"
+  },
+  {
+    "id": 33,
+    "premium": false,
+    "question": "Theo thời gian, mục tiêu được phân loại bao gồm:",
+    "answer": ". Mục tiêu dài hạn, mục tiêu trung hạn và mục tiêu ngắn hạn."
+  },
+  {
+    "id": 34,
+    "premium": false,
+    "question": "Yêu cầu của phân tích tỷ số tài chính là:",
+    "answer": "Hoàn hảo"
+  },
+  {
+    "id": 35,
+    "premium": false,
+    "question": "Số thành viên tối đa của công ty TNHH 2 thành viên trở lên là:",
+    "answer": "50"
+  },
+  {
+    "id": 36,
+    "premium": false,
+    "question": "PI là:",
+    "answer": "Chỉ số đánh giá hiệu suất"
+  },
+  {
+    "id": 37,
+    "premium": false,
+    "question": "Theo Fayol, hoạt động của một đơn vị sản xuất có thể chia thành:",
+    "answer": "6 nhóm"
+  },
+  {
+    "id": 38,
+    "premium": false,
+    "question": "Khi hiểu được tính chất công việc và nguồn lực cần thiết để thực hiện công việc, nhà quản trị cần trả lời các câu hỏi:",
+    "answer": ". Công việc đó được thực hiện khi nào (when)?; thực hiện ở đâu (where)? và nên giao công việc đó cho ai, bộ phận nào (who)?; thực hiện các công việc đó như thế nào (How)?"
+  },
+  {
+    "id": 39,
+    "premium": false,
+    "question": "Douglas Gregor là người đưa ra thuyết nào về quản trị con người trong doanh nghiệp:",
+    "answer": "Thuyết Y"
+  },
+  {
+    "id": 40,
+    "premium": false,
+    "question": "Các yếu tố thành công then chốt được viết tắt là:",
+    "answer": "CSF"
+  },
+  {
+    "id": 41,
+    "premium": false,
+    "question": "CSF là:",
+    "answer": "Các yếu tố thành công then chốt"
+  },
+  {
+    "id": 42,
+    "premium": false,
+    "question": "CSF KHÔNG liên quan đến yếu tố sau:",
+    "answer": "Kế hoạch"
+  },
+  {
+    "id": 43,
+    "premium": false,
+    "question": "Phân quyền trong quản trị là sự chuyển giao quyền lực của cấp trên cho cấp dưới để thực hiện công việc. Việc giao quyền cho nhân viên không phù hợp khi:",
+    "answer": ". Cấp trên muốn đẩy trách nhiệm cho cấp dưới"
+  },
+  {
+    "id": 44,
+    "premium": false,
+    "question": "Để tổ chức thực hiện công việc trong bản kế hoạch (trước khi phân công công việc cho cấp dưới, nhân viên), nhà quản trị cần nắm bắt tính chất của công việc theo:",
+    "answer": ". Tính chất quan trọng, độ phức tạp của công việc, tính mới của công việc"
+  },
+  {
+    "id": 45,
+    "premium": false,
+    "question": "Trách nhiệm cuối cùng khi tiến hành ủy quyền thuộc về",
+    "answer": ". Người ủy quyền"
+  },
+  {
+    "id": 46,
+    "premium": false,
+    "question": "Tư tưởng chính của Kaizen là:",
+    "answer": "Cải tiến dần dần"
+  },
+  {
+    "id": 47,
+    "premium": false,
+    "question": "Ưu điểm của mô hình tổ chức theo ma trận là",
+    "answer": ". Tổ chức linh động"
+  },
+  {
+    "id": 48,
+    "premium": false,
+    "question": "Giai đoạn trước năm 1945 là giai đoạn khoa học quản trị doanh nghiệp:",
+    "answer": "Phát triển tự phát"
+  },
+  {
+    "id": 49,
+    "premium": false,
+    "question": "Cơ cấu trực tuyến phù hợp khi doanh nghiệp",
+    "answer": ". Có quy mô nhỏ, hoạt động có tính đơn giản"
+  },
+  {
+    "id": 50,
+    "premium": false,
+    "question": "Giám đốc điều hành DN",
+    "answer": ". Nên sử dụng phương pháp phân quyền hợp lý"
+  },
+  {
+    "id": 51,
+    "premium": false,
+    "question": "Người đầu tiên đưa ra các chỉ tiêu CSF là:",
+    "answer": "Ronald Daniel"
+  },
+  {
+    "id": 52,
+    "premium": false,
+    "question": "Các tư tưởng của trường phái cổ điển có nhược điểm là:",
+    "answer": "Thiếu tính nhân bản"
+  },
+  {
+    "id": 53,
+    "premium": false,
+    "question": "Nhà quản trị nên chú trọng nhiều hơn đến quan hệ hợp tác, sở thích, ý nguyện và tâm lý xã hội của người lao động là tư tưởng của:",
+    "answer": "Thuyết Y"
+  },
+  {
+    "id": 54,
+    "premium": false,
+    "question": "Các tỷ số về cơ cấu tài chính",
+    "answer": "Phản ánh mức độ tự chủ về tài chính của doanh nghiệp"
+  },
+  {
+    "id": 55,
+    "premium": false,
+    "question": "Ý nghĩa của trường phái tâm lý xã hội:",
+    "answer": "Bổ sung cho trường phái cổ điển"
+  },
+  {
+    "id": 56,
+    "premium": false,
+    "question": "Giao quyền hành và trách nhiệm cho cấp dưới để họ thực hiện một số công việc nhất định là",
+    "answer": ". Việc ủy quyền"
+  },
+  {
+    "id": 57,
+    "premium": false,
+    "question": "Các doanh nghiệp có quy mô nhỏ, hoạt động đơn giản nên lựa chọn",
+    "answer": ". Cơ cấu trực tuyến"
+  },
+  {
+    "id": 58,
+    "premium": false,
+    "question": "Theo quy trình lập kế hoạch, kiểm soát việc thực hiện công việc và giải quyết những vấn đề phát sinh là bước thứ mấy:",
+    "answer": ". Thứ tư"
+  },
+  {
+    "id": 59,
+    "premium": false,
+    "question": "Theo cấp quản trị, kế hoạch trong doanh nghiệp thường được phân loại, bao gồm:",
+    "answer": ". Kế hoạch chiến lược và kế hoạch tác nghiệp"
+  },
+  {
+    "id": 60,
+    "premium": false,
+    "question": "Số lượng cổ đông tối thiểu của công ty cổ phần là:",
+    "answer": "3"
+  },
+  {
+    "id": 61,
+    "premium": false,
+    "question": "Giám đốc điều hành có phong cách lãnh đạo độc đoán sẽ:",
+    "answer": ". Quyết định tất cả các phương pháp và quy trình làm việc."
+  },
+  {
+    "id": 62,
+    "premium": false,
+    "question": "Trong bộ máy quản trị doanh nghiệp thường có mấy mối liên hệ?",
+    "answer": ". Ba"
+  },
+  {
+    "id": 63,
+    "premium": false,
+    "question": "Mô hình cơ cấu tổ chứa nào có ưu điểm: “…tuân thủ nguyên tắc một thủ trưởng, tạo ra",
+    "answer": ". Cơ cấu trực tuyến"
+  },
+  {
+    "id": 64,
+    "premium": false,
+    "question": "Kế hoạch tác nghiệp thường hướng đến :",
+    "answer": ". Các hành động cụ thể, thực hiện trong thời gian dưới 1 năm"
+  },
+  {
+    "id": 65,
+    "premium": false,
+    "question": "Theo tính chất, mục tiêu được phân loại bao gồm:",
+    "answer": ". Mục tiêu chiến lược và mục tiêu tài chính"
+  },
+  {
+    "id": 66,
+    "premium": false,
+    "question": "KPI là:",
+    "answer": "Chỉ số đánh giá kết quả thực hiện trọng yếu"
+  },
+  {
+    "id": 67,
+    "premium": false,
+    "question": "Theo lý thuyết của L. Gulick và L. Urwich, chức năng tổ chức được chia thành:",
+    "answer": "Tổ chức và nhân sự"
+  },
+  {
+    "id": 68,
+    "premium": false,
+    "question": "Ở góc độ kiểm soát, công tác lập kế hoạch giúp doanh nghiệp:",
+    "answer": ". Thiết lập các mục tiêu, tiêu chuẩn sử dụng trong việc kiểm soát"
+  },
+  {
+    "id": 69,
+    "premium": false,
+    "question": "Nguyên tắc nào không phù hợp khi xây dựng bộ máy quản trị doanh nghiệp:",
+    "answer": ". Bộ máy quản trị doanh nghiệp nên thay đổi thường xuyên"
+  },
+  {
+    "id": 70,
+    "premium": false,
+    "question": "Các tác giả trong trường phái tâm lý xã hội cho rằng doanh nghiệp là:",
+    "answer": "Một hệ thống xã hội"
+  },
+  {
+    "id": 71,
+    "premium": false,
+    "question": "Nguyên tắc nào không phù hợp khi xây dựng bộ máy quản trị doanh nghiệp:",
+    "answer": ". Càng nhiều tầng nhiều cấp, nhiều bộ phận càng tốt"
+  },
+  {
+    "id": 72,
+    "premium": false,
+    "question": "Lựa chọn nào sau đây phản ánh tốt nhất về đặc trưng của phong cách lãnh đạo",
+    "answer": ". Phong cách lãnh đạo, Cá tính x Môi trường, Cá tính + Môi trường, Cá tính + hành vi thuộc cấp, Cá tính + Văn hóa tổ chức"
+  },
+  {
+    "id": 73,
+    "premium": false,
+    "question": "Để tổ chức thực hiện công việc trong bản kế hoạch, nhà quản trị cần nắm bắt được về:",
+    "answer": ". Các nguồn lực (bao gồm cả nhân sự dưới quyền) mình đang có để thực hiện công việc."
+  },
+  {
+    "id": 74,
+    "premium": false,
+    "question": "Lựa chọn nào dưới đây KHÔNG PHẢI là phong cách lãnh đạo của giám đốc điều hành doanh nghiệp",
+    "answer": "D. Từ tốn"
+  },
+  {
+    "id": 75,
+    "premium": false,
+    "question": "Đặc điểm nào không phải cơ cấu chức năng",
+    "answer": ". Theo nguyên tắc một thủ trưởng"
+  },
+  {
+    "id": 76,
+    "premium": false,
+    "question": "Nhược điểm của cơ cấu chức năng là",
+    "answer": ". Khó xác định được trách nhiệm nếu vấn đề xảy ra liên quan đến nhiều chức năng"
+  },
+  {
+    "id": 77,
+    "premium": false,
+    "question": "Bản chất của phương pháp phân quyền là việc giám đốc điều hành:",
+    "answer": ". Phân giao quyền ra quyết định hợp lý cho nhân viên thuộc quyền"
+  },
+  {
+    "id": 78,
+    "premium": false,
+    "question": "Chỉ số đánh giá kết quả thực hiện, NGOẠI TRỪ:",
+    "answer": "Thời gian làm việc trong ngày"
+  },
+  {
+    "id": 79,
+    "premium": false,
+    "question": "Trong môi trường cạnh tranh khốc liệt, công tác lập kế hoạch không chỉ dừng lại ở việc vạch ra những bước công việc cần thực hiện mà kế hoạch còn hướng đến tạo ra:",
+    "answer": ". Tạo ra những thế và lực mới giúp cho doanh nghiệp có thể đứng vững và phát triển"
+  },
+  {
+    "id": 80,
+    "premium": false,
+    "question": "Mô hình cơ cấu tổ chứa nào có ưu điểm: Tập trung được quyền ra quyết định; do đó tránh được tình trạng mâu thuẫn giữa các quyết định được đưa ra.",
+    "answer": ". Cơ cấu trực tuyến - chức năng"
+  },
+  {
+    "id": 81,
+    "premium": false,
+    "question": "Nguyên tắc nào không phù hợp khi xây dựng bộ máy quản trị doanh nghiệp:",
+    "answer": ". Một chức năng lại được giao cho hai hay nhiều bộ phận cùng thực hiện."
+  },
+  {
+    "id": 82,
+    "premium": false,
+    "question": "Khi phân tích các tỷ số tài chính, phương pháp chủ yếu được sử dụng là:",
+    "answer": "Phương pháp so sánh"
+  },
+  {
+    "id": 83,
+    "premium": false,
+    "question": "Hệ thống mục tiêu của doanh nghiệp bao gồm:",
+    "answer": ". Mục tiêu cấp doanh nghiệp, cấp bộ phận (phòng ban), cấp tổ (đội, nhóm) và mục tiêu cá nhân"
+  },
+  {
+    "id": 84,
+    "premium": false,
+    "question": "Giai đoạn từ năm 1911 - 1945 là giai đoạn khoa học quản trị doanh nghiệp:",
+    "answer": "Phát triển bùng nổ"
+  },
+  {
+    "id": 85,
+    "premium": false,
+    "question": "Quản trị theo kết quả là để:",
+    "answer": "Hoàn thành kết quả công việc"
+  },
+  {
+    "id": 86,
+    "premium": false,
+    "question": "Kế hoạch chiến lược thường có thời gian:",
+    "answer": ". Trên 3 năm"
+  },
+  {
+    "id": 87,
+    "premium": false,
+    "question": "Nhược điểm của cơ cấu chức năng là",
+    "answer": ". Nhân viên nhận nhiều mệnh lệnh nên đôi khi không biết việc nào nên thực hiện trước"
+  },
+  {
+    "id": 88,
+    "premium": false,
+    "question": "Phong trào quan hệ con người thuộc trường phái lý thuyết:",
+    "answer": "Trường phái tâm lý xã hội"
+  },
+  {
+    "id": 89,
+    "premium": false,
+    "question": "Trách nhiệm của giám đốc điều hành là:",
+    "answer": ". Cả A và B đúng"
+  },
+  {
+    "id": 90,
+    "premium": false,
+    "question": "Đặc điểm của cơ cấu trực tuyến là",
+    "answer": ". Mỗi nhân viên chỉ có một cấp trên trực tiếp và tuân theo nguyên tắc 1 thủ trưởng"
+  },
+  {
+    "id": 91,
+    "premium": false,
+    "question": "Quản trị theo kết quả được viết tắt là:",
+    "answer": "PMS"
+  },
+  {
+    "id": 92,
+    "premium": false,
+    "question": "Đối với doanh nghiệp, tổ chức bộ máy quản trị doanh nghiệp về thực chất là hình thành hệ thống quản trị với:",
+    "answer": ". Các cấp, các bộ phận (phòng ban), hệ thống chức danh và thiết lập những mối liên hệ"
+  },
+  {
+    "id": 93,
+    "premium": false,
+    "question": "Mô hình cơ cấu tổ chứa nào có đặc điểm: nhân viên nhận mệnh lệnh từ cấp trên trực tiếp và chịu hướng dẫn về quy trình, biểu mẫu thực hiện của lãnh đạo chức năng liên quan đến nghiệp vụ mà nhân viên đó thực hiện.",
+    "answer": ". Cơ cấu trực tuyến - chức năng"
+  },
+  {
+    "id": 94,
+    "premium": false,
+    "question": "Cách tiếp cận hướng vào thị trường chia thị trường thành các phân đoạn có ý nghĩa, NGOẠI TRỪ:",
+    "answer": "Phân đoạn đối thủ cạnh tranh"
+  },
+  {
+    "id": 95,
+    "premium": false,
+    "question": "Theo quy trình lập kế hoạch, tổ chức thực hiện công việc là bước thứ mấy:",
+    "answer": ". Thứ ba"
+  },
+  {
+    "id": 96,
+    "premium": false,
+    "question": "Kế hoạch chiến lược thường hướng đến :",
+    "answer": ". Các hoạt động dài hạn, mang tính chất định hướng"
+  },
+  {
+    "id": 97,
+    "premium": false,
+    "question": "Khi quản trị theo kết quả, nhà quản trị sẽ giao:",
+    "answer": "Kết quả"
+  },
+  {
+    "id": 98,
+    "premium": false,
+    "question": "Các doanh nghiệp có quy mô lớn đòi hòi chuyên môn hóa cao không nên lựa chọn",
+    "answer": ". Cơ cấu trực tuyến"
+  },
+  {
+    "id": 99,
+    "premium": false,
+    "question": "Mô hình tổ chức bộ máy nào được thiết kế mà mỗi bộ phận (đơn vị hoặc nhà quản trị) chịu trách nhiệm về một đối tượng khách hàng",
+    "answer": ". Mô hình cấu trúc theo khách hàng"
+  },
+  {
+    "id": 100,
+    "premium": false,
+    "question": "Quy trình lập kế hoạch bao gồm",
+    "answer": ". Thiết lập mục tiêu, xác định nội dung công việc, tổ chức và điều hành công việc, kiểm soát việc thực hiện công việc và giải quyết những vấn đề phát sinh"
+  },
+  {
+    "id": 101,
+    "premium": false,
+    "question": "Giám đốc điều hành doanh nghiệp là người",
+    "answer": ". Có vai trò điều hành hoạt động chung của doanh nghiệp."
+  },
+  {
+    "id": 102,
+    "premium": false,
+    "question": "Nhiệm vụ của giám đốc điều hành doanh nghiệp là",
+    "answer": "Định hướng chiến lược cho hoạt động của doanh nghiệp."
+  },
+  {
+    "id": 103,
+    "premium": false,
+    "question": "Tác giả nào đề xuất 14 nguyên tắc quản trị:",
+    "answer": "Henry Fayol"
+  },
+  {
+    "id": 104,
+    "premium": false,
+    "question": "KRI là:",
+    "answer": "Chỉ số đánh giá kết quả trọng yếu"
+  },
+  {
+    "id": 105,
+    "premium": false,
+    "question": "Lý thuyết quản trị một cách khoa học là tư tưởng của:",
+    "answer": "Taylor và các cộng sự"
+  },
+  {
+    "id": 106,
+    "premium": false,
+    "question": "Đặc điểm của cơ cấu chức năng là",
+    "answer": ". Cấp dưới có thể nhận mệnh lệnh từ nhiều cấp trên"
+  },
+  {
+    "id": 107,
+    "premium": false,
+    "question": "Trong cây vấn đề, mục tiêu được đặt ở:",
+    "answer": "Gốc cây"
+  },
+  {
+    "id": 108,
+    "premium": false,
+    "question": "Khi áp dụng PMS, tất cả các kết quả đầu ra đều phải tuân thủ theo nguyên tắc:",
+    "answer": "SMART"
+  },
+  {
+    "id": 109,
+    "premium": false,
+    "question": "Kế hoạch dài hạn thường được thực hiện với khoảng thời gian:",
+    "answer": ". Trên 3 năm"
+  },
+  {
+    "id": 110,
+    "premium": false,
+    "question": "Cách tiếp cận về quản trị doanh nghiệp phối hợp từ 2 cách nhìn nhận bên trong và bên ngoài là:",
+    "answer": "Cách tiếp cận theo quan điểm hệ thống"
+  },
+  {
+    "id": 111,
+    "premium": false,
+    "question": "Công ty đối nhân:",
+    "answer": "Công ty hợp danh"
+  },
+  {
+    "id": 112,
+    "premium": false,
+    "question": "Căn cứ vào loại hình doanh nghiệp có thể chia thành:",
+    "answer": "Công ty TNHH, công ty cổ phần, công ty hợp danh"
+  },
+  {
+    "id": 113,
+    "premium": false,
+    "question": "Ưu điểm của phong cách lãnh đạo độc đoán là",
+    "answer": "Người lãnh đạo có khả năng chịu trách nhiệm cao"
+  },
+  {
+    "id": 114,
+    "premium": false,
+    "question": "Đối tượng bên ngoài của phân tích tài chính là, NGOẠI TRỪ:",
+    "answer": "Khách hàng"
+  },
+  {
+    "id": 115,
+    "premium": false,
+    "question": "Lợi ích của phân quyền là:",
+    "answer": ". Giảm được áp lực công việc nhờ đó nhà quản trị tập trung vào những công việc"
+  },
+  {
+    "id": 116,
+    "premium": false,
+    "question": "Thuyết X là cách gọi khác về lý thuyết của:",
+    "answer": "Taylor và các cộng sự"
+  },
+  {
+    "id": 117,
+    "premium": false,
+    "question": "Kiểm soát việc thực hiện công việc trong bản kế hoạch là nhà quqản trị tiến hành kiểm soát công việc theo:",
+    "answer": ". Quá trình hoặc theo mục tiêu (kết quả đạt được) với từng công việc."
+  },
+  {
+    "id": 118,
+    "premium": false,
+    "question": "Theo tính chất quan trọng và khẩn cấp, các công việc trong bản kế hoạch có thể bao gồm các công việc:",
+    "answer": ". Quan trọng và khẩn cấp; quan trọng và không khẩn cấp; khẩn cấp và không quan trọng; không quan trọng và không khẩn cấp"
+  },
+  {
+    "id": 119,
+    "premium": false,
+    "question": "Đối với doanh nghiệp, công tác lập kế hoạch đem lại lợi ích:",
+    "answer": ". Giúp nhân viên nắm rõ nắm rõ mục tiêu mà doanh nghiệp hướng đến và họ sẽ hợp tác, phối hợp với nhau và thực hiện các công việc để đạt được mục tiêu."
+  },
+  {
+    "id": 120,
+    "premium": false,
+    "question": "Mô hình tổ chức bộ máy nào được thiết kế mà mỗi bộ phận (đơn vị hoặc nhà quản trị) chịu trách nhiệm về một khu vực thị trường",
+    "answer": ". Mô hình cấu trúc theo địa lý (địa dư)"
+  },
+  {
+    "id": 121,
+    "premium": false,
+    "question": "Ưu điểm của phong cách lãnh đạo dễ dãi là",
+    "answer": ". Thu hút được sự tham mưu của cấp dưới"
+  },
+  {
+    "id": 122,
+    "premium": false,
+    "question": "Xây dựng hệ thống chức vụ phù hợp với quyền hành là tư tưởng của:",
+    "answer": "M. Weber"
+  },
+  {
+    "id": 123,
+    "premium": false,
+    "question": "Lựa chọn nào sau đây phản ánh tốt nhất về đặc trưng của phong cách lãnh đạo",
+    "answer": "Phong cách lãnh đạo = Cá tính x Môi trường"
+  },
+  {
+    "id": 124,
+    "premium": false,
+    "question": "Ưu điểm của phong cách lãnh đạo độc đoán là",
+    "answer": ". Người lãnh đạo có khả năng chịu trách nhiệm cao"
+  },
+  {
+    "id": 125,
+    "premium": false,
+    "question": "Mối liên hệ trong cơ cấu trực tuyến – chức năng bao gồm",
+    "answer": ". Mối liên hệ trực thuộc, chức năng và tư vấn"
+  },
+  {
+    "id": 126,
+    "premium": false,
+    "question": "Trường phái tâm lý xã hội có các tác giả sau:",
+    "answer": "M. Follet, A. Maslow, E. Mayo"
+  },
+  {
+    "id": 127,
+    "premium": false,
+    "question": "Tỷ số nào KHÔNG phải là tỷ số tài chính:",
+    "answer": "Doanh thu"
+  },
+  {
+    "id": 128,
+    "premium": false,
+    "question": "Hoạch định (lập kế hoạch) bao gồm:",
+    "answer": ". Hoạch định theo cấp doanh nghiệp, cấp bộ phận, phòng ban và cấp độ cá nhân"
+  },
+  {
+    "id": 129,
+    "premium": false,
+    "question": "Ai là người mở ra kỷ nguyên vàng về quản trị một cách khoa học:",
+    "answer": "F. Taylor"
+  },
+  {
+    "id": 130,
+    "premium": false,
+    "question": "Khi phân tích các tỷ số tài chính, việc so sánh giữa kỳ này với kỳ trước nhằm:",
+    "answer": "Thấy được xu hướng thay đổi tài chính"
+  },
+  {
+    "id": 131,
+    "premium": false,
+    "question": "Trong xây dựng kế hoạch là quá trình lập kế hoạch của doanh nghiệp có sự tham gia:",
+    "answer": ". Lãnh đạo, nhà quản trị các cấp và nhân viên trong doanh nghiệp"
+  },
+  {
+    "id": 132,
+    "premium": false,
+    "question": "Kế hoạch ngắn hạn thường được thực hiện với khoảng thời gian:",
+    "answer": ". Dưới 1 năm"
+  },
+  {
+    "id": 133,
+    "premium": false,
+    "question": "Giám đốc điều hành là người:",
+    "answer": ". Chịu trách nhiệm quản lý mọi mặt hoạt động của tổ chức"
+  },
+  {
+    "id": 134,
+    "premium": false,
+    "question": "W. Ouchi là người đưa ra thuyết nào về quản trị con người trong doanh nghiệp:",
+    "answer": "Thuyết Z"
+  },
+  {
+    "id": 135,
+    "premium": false,
+    "question": "Theo tính chất phức tạp (độ khó), các công việc trong bản kế hoạch có thể bao gồm các công việc:",
+    "answer": ". Công việc phức tạp và ít phức tạp"
+  },
+  {
+    "id": 136,
+    "premium": false,
+    "question": "Bảng cân đối kế toán trình bày thông tin tài sản và nguồn vốn của DN:",
+    "answer": "Trong một thời kỳ"
+  },
+  {
+    "id": 137,
+    "premium": false,
+    "question": "Các tỷ số về hoạt động",
+    "answer": "Phản ánh tình hình sử dụng tài sản"
+  },
+  {
+    "id": 138,
+    "premium": false,
+    "question": "Nhiệm vụ của giám đốc điều hành doanh nghiệp là",
+    "answer": ". Định hướng chiến lược cho hoạt động của doanh nghiệp."
+  },
+  {
+    "id": 139,
+    "premium": false,
+    "question": "Nguyên tắc nào không phù hợp khi xây dựng bộ máy quản trị doanh nghiệp:",
+    "answer": ". Mọi quyết định đều phải do lãnh đạo đứng đầu doanh nghiệp quyết định"
+  },
+  {
+    "id": 140,
+    "premium": false,
+    "question": "Ưu điểm của phong cách lãnh đạo dễ dãi là",
+    "answer": "Thu hút được sự tham mưu của cấp dưới"
+  },
+  {
+    "id": 141,
+    "premium": false,
+    "question": "Mục đích của phương pháp phân quyền là nhằm",
+    "answer": ". Cả A và B đúng"
+  },
+  {
+    "id": 142,
+    "premium": false,
+    "question": "Nhược điểm của cơ cấu chức năng là",
+    "answer": ". Có thể nảy sinh tình trạng mâu thuẫn giữa các quyết định được đưa ra."
+  },
+  {
+    "id": 143,
+    "premium": false,
+    "question": "Giám đốc điều hành có phong cách lãnh đạo độc đoán sẽ:",
+    "answer": "Quyết định tất cả các phương pháp và quy trình làm việc."
+  },
+  {
+    "id": 144,
+    "premium": false,
+    "question": "Giám đốc điều hành doanh nghiệp thực hiện các chức năng quản trị",
+    "answer": "Tất cả các chức năng trên."
+  },
+  {
+    "id": 145,
+    "premium": false,
+    "question": "Ưu điểm của cơ cấu chức năng là",
+    "answer": ". Giảm bớt gánh nặng cho các nhà quản trị chung"
+  },
+  {
+    "id": 146,
+    "premium": false,
+    "question": "Lựa chọn nào dưới đây KHÔNG PHẢI là phong cách lãnh đạo của giám đốc điều hành doanh nghiệp",
+    "answer": "Từ tốn"
+  },
+  {
+    "id": 147,
+    "premium": false,
+    "question": "Mục tiêu cấp bộ phận, cấp cá nhân cần đảm bảo",
+    "answer": ". Gắn kết với mục tiêu cấp doanh nghiệp"
+  },
+  {
+    "id": 148,
+    "premium": false,
+    "question": "Giám đốc điều hành có phong cách lãnh đạo độc đoán sẽ:",
+    "answer": "Quyết định tất cả các phương pháp và quy trình làm việc."
+  },
+  {
+    "id": 149,
+    "premium": false,
+    "question": "Các tỷ số về doanh lợi",
+    "answer": "Phản ánh hiệu quả sử dụng các tài nguyên"
+  },
+  {
+    "id": 150,
+    "premium": false,
+    "question": "Theo quy trình lập kế hoạch, xác định nội dung công việc là bước thứ mấy:",
+    "answer": ". Thứ hai"
+  },
+  {
+    "id": 151,
+    "premium": false,
+    "question": "Tháp nhu cầu của A. Maslow bao gồm:",
+    "answer": "Nhu cầu vật chất, nhu cầu an toàn, nhu cầu xã hội, nhu cầu kính trọng và nhu cầu tự hoàn thiện"
+  },
+  {
+    "id": 152,
+    "premium": false,
+    "question": "Trong các chức năng quản trị, hoạch định (lập kế hoạch) là chức năng thứ mấy:",
+    "answer": "Đầu tiên (thứ nhất)"
+  },
+  {
+    "id": 153,
+    "premium": false,
+    "question": "Xác định nội dung công việc trong bản kế hoạch là ?",
+    "answer": ". Chỉ ra các công việc, thứ tự thực hiện các công việc để đạt được các mục tiêu đã đề ra"
+  },
+  {
+    "id": 154,
+    "premium": false,
+    "question": "Mô hình cơ cấu tổ chứa nào có nhược điểm: “…vi phạm chế độ một thủ trưởng, chế độ trách nhiệm không rõ ràng, sự phối hợp giữa lãnh đạo và các phòng ban chức năng và giữa các phòng ban chức năng với nhau gặp nhiều khó khăn…”",
+    "answer": ". Cơ cấu chức năng"
+  },
+  {
+    "id": 155,
+    "premium": false,
+    "question": "Nhiệm vụ của giám đốc điều hành doanh nghiệp là",
+    "answer": "Định hướng chiến lược cho hoạt động của doanh nghiệp."
+  },
+  {
+    "id": 156,
+    "premium": false,
+    "question": "Tác giả nào đề xuất nguồn gốc của quyền hành phải xuất phát từ sự chấp nhận của cấp dưới:",
+    "answer": "C. Barnard"
+  },
+  {
+    "id": 157,
+    "premium": false,
+    "question": "Giám đốc điều hành doanh nghiệp là người",
+    "answer": "Có vai trò điều hành hoạt động chung của doanh nghiệp."
+  },
+  {
+    "id": 158,
+    "premium": false,
+    "question": "“Bàn tròn chất lượng” là tư tưởng của tác giả:",
+    "answer": "Ouchi"
+  },
+  {
+    "id": 159,
+    "premium": false,
+    "question": "Ưu điểm của phong cách lãnh đạo độc đoán là",
+    "answer": "Người lãnh đạo có khả năng chịu trách nhiệm cao"
+  },
+  {
+    "id": 160,
+    "premium": false,
+    "question": "Doanh nghiệp có thể áp dụng phương pháp xác lập mục tiêu nào?",
+    "answer": ". Từ trên xuống; từ dưới lên; phương pháp kết hợp"
+  },
+  {
+    "id": 161,
+    "premium": false,
+    "question": "Cơ cấu trực tuyến phù hợp với :",
+    "answer": ". Các doanh nghiệp cần tập trung quyền lãnh đạo"
+  },
+  {
+    "id": 162,
+    "premium": false,
+    "question": "Các chức năng quản trị là đề xuất của:",
+    "answer": "H. Fayol"
+  },
+  {
+    "id": 163,
+    "premium": false,
+    "question": "Để hiểu rõ ràng thông tin về dòng tiền vào và ra của doanh nghiệp từ các hoạt động kinh doanh, đầu tư, tài chính kế toán nên lập:",
+    "answer": "Báo cáo lưu chuyển tiền tệ"
+  },
+  {
+    "id": 164,
+    "premium": false,
+    "question": "Chỉ số nào cho thấy mức độ một công ty sử dụng tài sản của mình",
+    "answer": "Chỉ số hoạt động"
+  },
+  {
+    "id": 165,
+    "premium": false,
+    "question": "Đối với doanh nghiệp, công tác lập kế hoạch giúp:",
+    "answer": ". Tất cả các ý kiến trên"
+  },
+  {
+    "id": 166,
+    "premium": false,
+    "question": "Giám đốc điều hành doanh nghiệp thực hiện các chức năng quản trị",
+    "answer": "Tất cả các chức năng trên."
+  },
+  {
+    "id": 167,
+    "premium": false,
+    "question": "Đầu ra của hoạch định chiến lược của doanh nghiệp là:",
+    "answer": ". Bản kế hoạch phát triển doanh nghiệp trong dài hạn (trên 3 năm)"
+  },
+  {
+    "id": 168,
+    "premium": false,
+    "question": "Giám đốc điều hành doanh nghiệp là người",
+    "answer": "Có vai trò điều hành hoạt động chung của doanh nghiệp."
+  },
+  {
+    "id": 169,
+    "premium": false,
+    "question": "Năng lực của giám đốc điều hành có thể đo lường thông qua",
+    "answer": ". Tất cả ý kiến trên"
+  },
+  {
+    "id": 170,
+    "premium": false,
+    "question": "Đối tượng phân tích tài chính bên trong doanh nghiệp bao gồm, NGOẠI TRỪ:",
+    "answer": "Công đoàn"
+  },
+  {
+    "id": 171,
+    "premium": false,
+    "question": "Ông bà Gilbreth là người đề xuất phải quan tâm đến:",
+    "answer": "Giảm bớt các thao tác thừa cho người lao động"
+  },
+  {
+    "id": 172,
+    "premium": false,
+    "question": "5S là nguyên tắc trong tư tưởng của:",
+    "answer": "Thuyết Kaizen"
+  },
+  {
+    "id": 173,
+    "premium": false,
+    "question": "Doanh nghiệp nhà nước hoạt động dưới sự điều chỉnh của:",
+    "answer": "Luật doanh nghiệp"
+  },
+  {
+    "id": 174,
+    "premium": false,
+    "question": "Nhược điểm của cơ cấu trực tuyến là",
+    "answer": ". Đòi hỏi nhà quản trị có kiến thức ở nhiều lĩnh vực"
+  },
+  {
+    "id": 175,
+    "premium": false,
+    "question": "Giám đốc điều hành là người",
+    "answer": ". Chịu trách nhiệm về chiến lược kinh doanh của doanh nghiệp"
+  },
+  {
+    "id": 176,
+    "premium": false,
+    "question": "Lý thuyết quản trị một cách khoa học đưa ra các biện pháp nhằm nâng cao năng suất lao động của:",
+    "answer": "Người công nhân"
+  },
+  {
+    "id": 177,
+    "premium": false,
+    "question": "Ưu điểm của phong cách lãnh đạo dễ dãi là",
+    "answer": "Thu hút được sự tham mưu của cấp dưới"
+  },
+  {
+    "id": 178,
+    "premium": false,
+    "question": "Mục tiêu phải đảm bảo",
+    "answer": ". Cụ thể, dễ hiểu; đo lường được; vừa sức; thực tế; có thời hạn."
+  },
+  {
+    "id": 179,
+    "premium": false,
+    "question": "Trong các chức năng quản trị, hoạt động tổ chức bộ máy quản trị doanh nghiệp thuộc chức năng thứ mấy:",
+    "answer": ". Thứ hai"
+  },
+  {
+    "id": 180,
+    "premium": false,
+    "question": "Người giám đốc điều hành một DN thương mại thành công sẽ",
+    "answer": ". Chưa chắc điều hành thành công một tổ chức khác"
+  },
+  {
+    "id": 181,
+    "premium": true,
+    "question": "Lựa chọn nào sau đây phản ánh tốt nhất về đặc trưng của phong cách lãnh đạo",
+    "answer": ". Phong cách lãnh đạo, Cá tính x Môi trường, Cá tính + Môi trường, Cá tính + hành vi thuộc cấp, Cá tính + Văn hóa tổ chức"
+  },
+  {
+    "id": 182,
+    "premium": true,
+    "question": "5S là nguyên tắc trong tư tưởng của:",
+    "answer": "Thuyết Kaizen"
+  },
+  {
+    "id": 183,
+    "premium": true,
+    "question": "Để tổ chức thực hiện công việc trong bản kế hoạch, nhà quản trị cần nắm bắt được về:",
+    "answer": ". Các nguồn lực (bao gồm cả nhân sự dưới quyền) mình đang có để thực hiện công việc."
+  },
+  {
+    "id": 184,
+    "premium": true,
+    "question": "Các doanh nghiệp nên lựa chọn",
+    "answer": ". Cơ cấu tổ chức phù hợp"
+  },
+  {
+    "id": 185,
+    "premium": true,
+    "question": "PI là:",
+    "answer": "Chỉ số đánh giá hiệu suất"
+  },
+  {
+    "id": 186,
+    "premium": true,
+    "question": "Số lượng cổ đông tối thiểu của công ty cổ phần là:",
+    "answer": "3"
+  },
+  {
+    "id": 187,
+    "premium": true,
+    "question": "Elton Mayo tiến hành cuộc thí nghiệm về tác động của tâm lý xã hội đến năng suất lao động ở:",
+    "answer": "Nhà máy điện Hawthorne"
+  },
+  {
+    "id": 188,
+    "premium": true,
+    "question": "Ưu điểm của mô hình tổ chức theo ma trận là",
+    "answer": ". Tổ chức linh động"
+  },
+  {
+    "id": 189,
+    "premium": true,
+    "question": "Đặc điểm của cơ cấu trực tuyến là",
+    "answer": ". Mỗi nhân viên chỉ có một cấp trên trực tiếp"
+  },
+  {
+    "id": 190,
+    "premium": true,
+    "question": "Giám đốc điều hành DN",
+    "answer": ". Nên sử dụng phương pháp phân quyền hợp lý"
+  },
+  {
+    "id": 191,
+    "premium": true,
+    "question": "Đối với doanh nghiệp, công tác lập kế hoạch giúp:",
+    "answer": ". Tất cả các ý kiến trên"
+  },
+  {
+    "id": 192,
+    "premium": true,
+    "question": "Để hiểu rõ ràng thông tin về dòng tiền vào và ra của doanh nghiệp từ các hoạt động kinh doanh, đầu tư, tài chính kế toán nên lập:",
+    "answer": "Báo cáo lưu chuyển tiền tệ"
+  },
+  {
+    "id": 193,
+    "premium": true,
+    "question": "Xây dựng cơ cấu tổ chức của doanh nghiệp trước hết phải căn cứ vào",
+    "answer": ". Chiến lược của doanh nghiệp"
+  },
+  {
+    "id": 194,
+    "premium": true,
+    "question": "KPI là:",
+    "answer": "Chỉ số đánh giá kết quả thực hiện trọng yếu"
+  },
+  {
+    "id": 195,
+    "premium": true,
+    "question": "Các tư tưởng của trường phái cổ điển có nhược điểm là:",
+    "answer": "Thiếu tính nhân bản"
+  },
+  {
+    "id": 196,
+    "premium": true,
+    "question": "Giám đốc điều hành doanh nghiệp là người",
+    "answer": ". Có vai trò điều hành hoạt động chung của doanh nghiệp."
+  },
+  {
+    "id": 197,
+    "premium": true,
+    "question": "Theo tính chất quan trọng và khẩn cấp, các công việc trong bản kế hoạch có thể bao gồm các công việc:",
+    "answer": ". Quan trọng và khẩn cấp; quan trọng và không khẩn cấp; khẩn cấp và không quan trọng; không quan trọng và không khẩn cấp"
+  },
+  {
+    "id": 198,
+    "premium": true,
+    "question": "Khi quản trị theo kết quả, nhà quản trị sẽ giao:",
+    "answer": "Kết quả"
+  },
+  {
+    "id": 199,
+    "premium": true,
+    "question": "Giám đốc điều hành có phong cách lãnh đạo độc đoán sẽ:",
+    "answer": ". Quyết định tất cả các phương pháp và quy trình làm việc."
+  },
+  {
+    "id": 200,
+    "premium": true,
+    "question": "Mô hình cơ cấu tổ chứa nào có đặc điểm: nhân viên nhận mệnh lệnh từ cấp trên trực tiếp và chịu hướng dẫn về quy trình, biểu mẫu thực hiện của lãnh đạo chức năng liên quan đến nghiệp vụ mà nhân viên đó thực hiện.",
+    "answer": ". Cơ cấu trực tuyến - chức năng"
+  },
+  {
+    "id": 201,
+    "premium": true,
+    "question": "Khi phân tích các tỷ số tài chính, phương pháp chủ yếu được sử dụng là:",
+    "answer": "Phương pháp so sánh"
+  },
+  {
+    "id": 202,
+    "premium": true,
+    "question": "Cách tiếp cận hướng vào thị trường chia thị trường thành các phân đoạn có ý nghĩa, NGOẠI TRỪ:",
+    "answer": "Phân đoạn đối thủ cạnh tranh"
+  },
+  {
+    "id": 203,
+    "premium": true,
+    "question": "Lý thuyết quản trị một cách khoa học là tư tưởng của:",
+    "answer": "Taylor và các cộng sự"
+  },
+  {
+    "id": 204,
+    "premium": true,
+    "question": "Lợi ích của quản trị theo kết quả đối với doanh nghiệp là, NGOẠI TRỪ :",
+    "answer": "tạo sức ép nhất định với mỗi cá nhân để nỗ lực bản thân nhằm đạt được các mục tiêu"
+  },
+  {
+    "id": 205,
+    "premium": true,
+    "question": "Khi hiểu được tính chất công việc và nguồn lực cần thiết để thực hiện công việc, nhà quản trị cần trả lời các câu hỏi:",
+    "answer": ". Công việc đó được thực hiện khi nào (when)?; thực hiện ở đâu (where)? và nên giao công việc đó cho ai, bộ phận nào (who)?; thực hiện các công việc đó như thế nào (How)?"
+  },
+  {
+    "id": 206,
+    "premium": true,
+    "question": "Đối với một doanh nghiệp, mức độ phân quyền càng lớn khi",
+    "answer": ". Các cấp quản trị thấp hơn được đề ra các quyết định ngày càng nhiều"
+  },
+  {
+    "id": 207,
+    "premium": true,
+    "question": "Nguyên tắc nào không phù hợp khi xây dựng bộ máy quản trị doanh nghiệp:",
+    "answer": ". Một chức năng lại được giao cho hai hay nhiều bộ phận cùng thực hiện."
+  },
+  {
+    "id": 208,
+    "premium": true,
+    "question": "Người giám đốc điều hành một DN thương mại thành công sẽ",
+    "answer": ". Chưa chắc điều hành thành công một tổ chức khác"
+  },
+  {
+    "id": 209,
+    "premium": true,
+    "question": "Nhà quản trị nên chú trọng nhiều hơn đến quan hệ hợp tác, sở thích, ý nguyện và tâm lý xã hội của người lao động là tư tưởng của:",
+    "answer": "Thuyết Y"
+  },
+  {
+    "id": 210,
+    "premium": true,
+    "question": "Giám đốc điều hành doanh nghiệp thực hiện các chức năng quản trị",
+    "answer": ". Tất cả các chức năng trên."
+  },
+  {
+    "id": 211,
+    "premium": true,
+    "question": "Cách tiếp cận về quản trị doanh nghiệp phối hợp từ 2 cách nhìn nhận bên trong và bên ngoài là:",
+    "answer": "Cách tiếp cận theo quan điểm hệ thống"
+  },
+  {
+    "id": 212,
+    "premium": true,
+    "question": "Giám đốc điều hành là",
+    "answer": ". Người quản lý điều hành mọi mặt hoạt động của DN"
+  },
+  {
+    "id": 213,
+    "premium": true,
+    "question": "Giám đốc điều hành có phong cách lãnh đạo độc đoán sẽ:",
+    "answer": "Quyết định tất cả các phương pháp và quy trình làm việc."
+  },
+  {
+    "id": 214,
+    "premium": true,
+    "question": "Dựa vào hình thức sở hữu vốn có thể chia doanh nghiệp thành:",
+    "answer": "Doanh nghiệp 1 chủ và doanh nghiệp nhiều chủ"
+  },
+  {
+    "id": 215,
+    "premium": true,
+    "question": "Là xu hướng phân tán các quyền ra quyết định trong một cơ cấu tổ chức”. Khái niệm này thuộc về:",
+    "answer": ". Sự phân quyền"
+  },
+  {
+    "id": 216,
+    "premium": true,
+    "question": "Mô hình cơ cấu tổ chứa nào có nhược điểm: “…vi phạm chế độ một thủ trưởng, chế độ trách nhiệm không rõ ràng, sự phối hợp giữa lãnh đạo và các phòng ban chức năng và giữa các phòng ban chức năng với nhau gặp nhiều khó khăn…”",
+    "answer": ". Cơ cấu chức năng"
+  },
+  {
+    "id": 217,
+    "premium": true,
+    "question": "Giám đốc điều hành doanh nghiệp thực hiện các chức năng quản trị",
+    "answer": "Tất cả các chức năng trên."
+  },
+  {
+    "id": 218,
+    "premium": true,
+    "question": "Trong môi trường cạnh tranh khốc liệt, công tác lập kế hoạch không chỉ dừng lại ở việc vạch ra những bước công việc cần thực hiện mà kế hoạch còn hướng đến tạo ra:",
+    "answer": ". Tạo ra những thế và lực mới giúp cho doanh nghiệp có thể đứng vững và phát triển"
+  },
+  {
+    "id": 219,
+    "premium": true,
+    "question": "Mối liên hệ trong cơ cấu trực tuyến – chức năng bao gồm",
+    "answer": ". Mối liên hệ trực thuộc, chức năng và tư vấn"
+  },
+  {
+    "id": 220,
+    "premium": true,
+    "question": "Nhiệm vụ của giám đốc điều hành doanh nghiệp là",
+    "answer": "Định hướng chiến lược cho hoạt động của doanh nghiệp."
+  },
+  {
+    "id": 221,
+    "premium": true,
+    "question": "Lựa chọn nào dưới đây KHÔNG PHẢI là phong cách lãnh đạo của giám đốc điều hành doanh nghiệp",
+    "answer": "D. Từ tốn"
+  },
+  {
+    "id": 222,
+    "premium": true,
+    "question": "Đối với doanh nghiệp, công tác lập kế hoạch đem lại lợi ích:",
+    "answer": ". Giúp nhân viên nắm rõ nắm rõ mục tiêu mà doanh nghiệp hướng đến và họ sẽ hợp tác, phối hợp với nhau và thực hiện các công việc để đạt được mục tiêu."
+  },
+  {
+    "id": 223,
+    "premium": true,
+    "question": "Chỉ số nào cho thấy mức độ một công ty sử dụng tài sản của mình",
+    "answer": "Chỉ số hoạt động"
+  },
+  {
+    "id": 224,
+    "premium": true,
+    "question": "Bảng cân đối kế toán trình bày thông tin tài sản và nguồn vốn của DN:",
+    "answer": "Trong một thời kỳ"
+  },
+  {
+    "id": 225,
+    "premium": true,
+    "question": "Số thành viên tối đa của công ty TNHH 2 thành viên trở lên là:",
+    "answer": "50"
+  },
+  {
+    "id": 226,
+    "premium": true,
+    "question": "Ý nghĩa của trường phái tâm lý xã hội:",
+    "answer": "Bổ sung cho trường phái cổ điển"
+  },
+  {
+    "id": 227,
+    "premium": true,
+    "question": "Doanh nghiệp có thể áp dụng phương pháp xác lập mục tiêu nào?",
+    "answer": ". Từ trên xuống; từ dưới lên; phương pháp kết hợp"
+  },
+  {
+    "id": 228,
+    "premium": true,
+    "question": "Các nhân tố ảnh hưởng tới năng lực quản lý của giám đốc là:",
+    "answer": ". Tất cả ý kiến đều đúng"
+  },
+  {
+    "id": 229,
+    "premium": true,
+    "question": "Tỷ số nào KHÔNG phải là tỷ số tài chính:",
+    "answer": "Doanh thu"
+  },
+  {
+    "id": 230,
+    "premium": true,
+    "question": "Douglas Gregor là người đưa ra thuyết nào về quản trị con người trong doanh nghiệp:",
+    "answer": "Thuyết Y"
+  },
+  {
+    "id": 231,
+    "premium": true,
+    "question": "Kiểm soát việc thực hiện công việc trong bản kế hoạch là nhà quqản trị tiến hành kiểm soát công việc theo:",
+    "answer": ". Quá trình hoặc theo mục tiêu (kết quả đạt được) với từng công việc."
+  },
+  {
+    "id": 232,
+    "premium": true,
+    "question": "Mục tiêu cấp bộ phận, cấp cá nhân cần đảm bảo",
+    "answer": ". Gắn kết với mục tiêu cấp doanh nghiệp"
+  },
+  {
+    "id": 233,
+    "premium": true,
+    "question": "Công ty đối nhân:",
+    "answer": "Công ty hợp danh"
+  },
+  {
+    "id": 234,
+    "premium": true,
+    "question": "Cơ cấu trực tuyến phù hợp khi doanh nghiệp",
+    "answer": ". Có quy mô nhỏ, hoạt động có tính đơn giản"
+  },
+  {
+    "id": 235,
+    "premium": true,
+    "question": "Năng lực của giám đốc điều hành có thể đo lường thông qua",
+    "answer": ". Tất cả ý kiến trên"
+  },
+  {
+    "id": 236,
+    "premium": true,
+    "question": "Giám đốc điều hành doanh nghiệp thực hiện các chức năng quản trị",
+    "answer": "Tất cả các chức năng trên."
+  },
+  {
+    "id": 237,
+    "premium": true,
+    "question": "Mô hình cơ cấu tổ chứa nào có ưu điểm: “…tuân thủ nguyên tắc một thủ trưởng, tạo ra",
+    "answer": ". Cơ cấu trực tuyến"
+  },
+  {
+    "id": 238,
+    "premium": true,
+    "question": "Ở góc độ kiểm soát, công tác lập kế hoạch giúp doanh nghiệp:",
+    "answer": ". Thiết lập các mục tiêu, tiêu chuẩn sử dụng trong việc kiểm soát"
+  },
+  {
+    "id": 239,
+    "premium": true,
+    "question": "“Bàn tròn chất lượng” là tư tưởng của tác giả:",
+    "answer": "Ouchi"
+  },
+  {
+    "id": 240,
+    "premium": true,
+    "question": "Theo quy trình lập kế hoạch, tổ chức thực hiện công việc là bước thứ mấy:",
+    "answer": ". Thứ ba"
+  },
+  {
+    "id": 241,
+    "premium": true,
+    "question": "Các doanh nghiệp có quy mô nhỏ, hoạt động đơn giản nên lựa chọn",
+    "answer": ". Cơ cấu trực tuyến"
+  },
+  {
+    "id": 242,
+    "premium": true,
+    "question": "Công tác lập kế hoạch là:",
+    "answer": ". Cơ sở thiết lập cho tất cả các chức năng quản trị khác"
+  },
+  {
+    "id": 243,
+    "premium": true,
+    "question": "Chỉ số đánh giá kết quả thực hiện, NGOẠI TRỪ:",
+    "answer": "Thời gian làm việc trong ngày"
+  },
+  {
+    "id": 244,
+    "premium": true,
+    "question": "Khi áp dụng PMS, tất cả các kết quả đầu ra đều phải tuân thủ theo nguyên tắc:",
+    "answer": "SMART"
+  },
+  {
+    "id": 245,
+    "premium": true,
+    "question": "Trong bản kế hoạch, để giảm sự mơ hồ và tạo ra sự hiểu biết chung giữa các bộ phân, cá nhân về những gì cần phải làm để đạt được mục tiêu, các mục tiêu cần:",
+    "answer": ". Đảm bảo tính cụ thể trong khoảng thời gian nhất định; được viết và chia sẻ với các thành viên trong tổ chức (bộ phận, nhóm)"
+  },
+  {
+    "id": 246,
+    "premium": true,
+    "question": "Khi phân tích các tỷ số tài chính, việc so sánh giữa kỳ này với kỳ trước nhằm:",
+    "answer": "Thấy được xu hướng thay đổi tài chính"
+  },
+  {
+    "id": 247,
+    "premium": true,
+    "question": "Chỉ số nào đo lường tốc độ có thể chuyển tài sản sang tiền mặt:",
+    "answer": "Hoạt động"
+  },
+  {
+    "id": 248,
+    "premium": true,
+    "question": "Ưu điểm của phong cách lãnh đạo dễ dãi là",
+    "answer": "Thu hút được sự tham mưu của cấp dưới"
+  },
+  {
+    "id": 249,
+    "premium": true,
+    "question": "Trường phái tâm lý xã hội có các tác giả sau:",
+    "answer": "M. Follet, A. Maslow, E. Mayo"
+  },
+  {
+    "id": 250,
+    "premium": true,
+    "question": "Đặc điểm nào không phải cơ cấu chức năng",
+    "answer": ". Theo nguyên tắc một thủ trưởng"
+  },
+  {
+    "id": 251,
+    "premium": true,
+    "question": "Nhược điểm của cơ cấu chức năng là",
+    "answer": ". Có thể nảy sinh tình trạng mâu thuẫn giữa các quyết định được đưa ra."
+  },
+  {
+    "id": 252,
+    "premium": true,
+    "question": "Theo tính chất, mục tiêu được phân loại bao gồm:",
+    "answer": ". Mục tiêu chiến lược và mục tiêu tài chính"
+  },
+  {
+    "id": 253,
+    "premium": true,
+    "question": "Theo tính mới, các công việc trong bản kế hoạch có thể bao gồm các công việc:",
+    "answer": ". Công việc mới; công việc có tính chất lặp lại"
+  },
+  {
+    "id": 254,
+    "premium": true,
+    "question": "Điều gì KHÔNG đúng về cách làm việc trong doanh nghiệp Nhật Bản:",
+    "answer": "Làm việc suốt đời, công nhân chuyên môn hóa"
+  },
+  {
+    "id": 255,
+    "premium": true,
+    "question": "Trách nhiệm cuối cùng khi tiến hành ủy quyền thuộc về",
+    "answer": ". Người ủy quyền"
+  },
+  {
+    "id": 256,
+    "premium": true,
+    "question": "Giám đốc điều hành có phong cách lãnh đạo độc đoán sẽ:",
+    "answer": "Quyết định tất cả các phương pháp và quy trình làm việc."
+  },
+  {
+    "id": 257,
+    "premium": true,
+    "question": "Ông bà Gilbreth là người đề xuất phải quan tâm đến:",
+    "answer": "Giảm bớt các thao tác thừa cho người lao động"
+  },
+  {
+    "id": 258,
+    "premium": true,
+    "question": "Lựa chọn nào sau đây phản ánh tốt nhất về đặc trưng của phong cách lãnh đạo",
+    "answer": "Phong cách lãnh đạo = Cá tính x Môi trường"
+  },
+  {
+    "id": 259,
+    "premium": true,
+    "question": "Nhiệm vụ của giám đốc điều hành doanh nghiệp là",
+    "answer": ". Định hướng chiến lược cho hoạt động của doanh nghiệp."
+  },
+  {
+    "id": 260,
+    "premium": true,
+    "question": "Đặc điểm của giám đốc điều hành theo phong cách quản lý dân chủ - tập trung :",
+    "answer": ". Giám đốc tham khảo ý kiến của thuộc cấp nhưng có chính kiến với quyết định của mình"
+  },
+  {
+    "id": 261,
+    "premium": true,
+    "question": "Giám đốc điều hành DN là",
+    "answer": ". Cả A và B đúng"
+  },
+  {
+    "id": 262,
+    "premium": true,
+    "question": "Các chức năng quản trị là đề xuất của:",
+    "answer": "H. Fayol"
+  },
+  {
+    "id": 263,
+    "premium": true,
+    "question": "Kế hoạch chiến lược thường có thời gian:",
+    "answer": ". Trên 3 năm"
+  },
+  {
+    "id": 264,
+    "premium": true,
+    "question": "Mô hình tổ chức bộ máy nào được thiết kế mà mỗi bộ phận chịu trách nhiệm về một loại sản phẩm hoặc một nhóm sản phẩm có liên quan với nhau",
+    "answer": ". Mô hình cấu trúc theo sản phẩm."
+  },
+  {
+    "id": 265,
+    "premium": true,
+    "question": "Người đầu tiên đưa ra các chỉ tiêu CSF là:",
+    "answer": "Ronald Daniel"
+  },
+  {
+    "id": 266,
+    "premium": true,
+    "question": "Giám đốc điều hành phải",
+    "answer": ". A đúng, B sai"
+  },
+  {
+    "id": 267,
+    "premium": true,
+    "question": "Ưu điểm của cơ cấu chức năng là",
+    "answer": ". Giảm bớt gánh nặng cho các nhà quản trị chung"
+  },
+  {
+    "id": 268,
+    "premium": true,
+    "question": "Hoạch định (lập kế hoạch) bao gồm:",
+    "answer": ". Hoạch định theo cấp doanh nghiệp, cấp bộ phận, phòng ban và cấp độ cá nhân"
+  },
+  {
+    "id": 269,
+    "premium": true,
+    "question": "Ai là người mở ra kỷ nguyên vàng về quản trị một cách khoa học:",
+    "answer": "F. Taylor"
+  },
+  {
+    "id": 270,
+    "premium": true,
+    "question": "Nhược điểm của cơ cấu chức năng là",
+    "answer": ". Khó xác định được trách nhiệm nếu vấn đề xảy ra liên quan đến nhiều chức năng"
+  },
+  {
+    "id": 271,
+    "premium": true,
+    "question": "Phong trào quan hệ con người thuộc trường phái lý thuyết:",
+    "answer": "Trường phái tâm lý xã hội"
+  },
+  {
+    "id": 272,
+    "premium": true,
+    "question": "Ưu điểm của phong cách lãnh đạo độc đoán là",
+    "answer": "Người lãnh đạo có khả năng chịu trách nhiệm cao"
+  },
+  {
+    "id": 273,
+    "premium": true,
+    "question": "Đặc điểm của cơ cấu trực tuyến là",
+    "answer": ". Mỗi nhân viên chỉ có một cấp trên trực tiếp và tuân theo nguyên tắc 1 thủ trưởng"
+  },
+  {
+    "id": 274,
+    "premium": true,
+    "question": "CSF là:",
+    "answer": "Các yếu tố thành công then chốt"
+  },
+  {
+    "id": 275,
+    "premium": true,
+    "question": "Đặc điểm của giám đốc điều hành theo phong cách mệnh lệnh là:",
+    "answer": ". Tất cả các ý trên đều đúng"
+  },
+  {
+    "id": 276,
+    "premium": true,
+    "question": "Nhược điểm của cơ cấu chức năng là",
+    "answer": ". Nhân viên nhận nhiều mệnh lệnh nên đôi khi không biết việc nào nên thực hiện trước"
+  },
+  {
+    "id": 277,
+    "premium": true,
+    "question": "Đối tượng bên ngoài của phân tích tài chính là, NGOẠI TRỪ:",
+    "answer": "Khách hàng"
+  },
+  {
+    "id": 278,
+    "premium": true,
+    "question": "Cơ cấu trực tuyến phù hợp với :",
+    "answer": ". Các doanh nghiệp cần tập trung quyền lãnh đạo"
+  },
+  {
+    "id": 279,
+    "premium": true,
+    "question": "Quản trị theo kết quả là để:",
+    "answer": "Hoàn thành kết quả công việc"
+  },
+  {
+    "id": 280,
+    "premium": true,
+    "question": "Ưu điểm của phong cách lãnh đạo dễ dãi là",
+    "answer": "Thu hút được sự tham mưu của cấp dưới"
+  },
+  {
+    "id": 281,
+    "premium": true,
+    "question": "Yêu cầu của phân tích tỷ số tài chính là:",
+    "answer": "Hoàn hảo"
+  },
+  {
+    "id": 282,
+    "premium": true,
+    "question": "Trong xây dựng kế hoạch là quá trình lập kế hoạch của doanh nghiệp có sự tham gia:",
+    "answer": ". Lãnh đạo, nhà quản trị các cấp và nhân viên trong doanh nghiệp"
+  },
+  {
+    "id": 283,
+    "premium": true,
+    "question": "Các doanh nghiệp có quy mô lớn đòi hòi chuyên môn hóa cao không nên lựa chọn",
+    "answer": ". Cơ cấu trực tuyến"
+  },
+  {
+    "id": 284,
+    "premium": true,
+    "question": "Đầu ra của hoạch định chiến lược của doanh nghiệp là:",
+    "answer": ". Bản kế hoạch phát triển doanh nghiệp trong dài hạn (trên 3 năm)"
+  },
+  {
+    "id": 285,
+    "premium": true,
+    "question": "Đối với nhà quản trị, công tác lập kế hoạch đem lại lợi ích:",
+    "answer": ". Hướng tầm nhìn về tương lai và dự đoán những thay đổi, giảm thiểu rủi ro và có sự chuẩn bị cần thiết để đối mặt và vượt qua các các thách thức."
+  },
+  {
+    "id": 286,
+    "premium": true,
+    "question": "Theo tính chất phức tạp (độ khó), các công việc trong bản kế hoạch có thể bao gồm các công việc:",
+    "answer": ". Công việc phức tạp và ít phức tạp"
+  },
+  {
+    "id": 287,
+    "premium": true,
+    "question": "Các tỷ số về cơ cấu tài chính",
+    "answer": "Phản ánh mức độ tự chủ về tài chính của doanh nghiệp"
+  },
+  {
+    "id": 288,
+    "premium": true,
+    "question": "Tỷ lệ nhân viên không hoàn thành nhiệm vụ là:",
+    "answer": "Chỉ số đánh giá kết quả thực hiện"
+  },
+  {
+    "id": 289,
+    "premium": true,
+    "question": "Công tác lập kế hoạch có chất lượng tốt, hiệu quả sẽ đem lại lợi ích cho doanh nghiệp trong:",
+    "answer": ". Sử dụng hiệu quả các nguồn lực, khả năng và năng lực của doanh nghiệp ở mức tối ưu"
+  },
+  {
+    "id": 290,
+    "premium": true,
+    "question": "Nhiệm vụ của giám đốc điều hành doanh nghiệp là",
+    "answer": "Định hướng chiến lược cho hoạt động của doanh nghiệp."
+  },
+  {
+    "id": 291,
+    "premium": true,
+    "question": "Theo lý thuyết của L. Gulick và L. Urwich, chức năng tổ chức được chia thành:",
+    "answer": "Tổ chức và nhân sự"
+  },
+  {
+    "id": 292,
+    "premium": true,
+    "question": "Trong tổ chức thực hiện công việc với bản kế hoạch, nhà quản trị cần làm rõ công việc đó nên... để thực hiện công việc",
+    "answer": ". Giao cho ai, bộ phận nào (who) hay nhà quản trị trực tiếp điều hành"
+  },
+  {
+    "id": 293,
+    "premium": true,
+    "question": "Kế hoạch dài hạn thường được thực hiện với khoảng thời gian:",
+    "answer": ". Trên 3 năm"
+  },
+  {
+    "id": 294,
+    "premium": true,
+    "question": "Quy trình lập kế hoạch bao gồm",
+    "answer": ". Thiết lập mục tiêu, xác định nội dung công việc, tổ chức và điều hành công việc, kiểm soát việc thực hiện công việc và giải quyết những vấn đề phát sinh"
+  },
+  {
+    "id": 295,
+    "premium": true,
+    "question": "W. Ouchi là người đưa ra thuyết nào về quản trị con người trong doanh nghiệp:",
+    "answer": "Thuyết Z"
+  },
+  {
+    "id": 296,
+    "premium": true,
+    "question": "Giám đốc điều hành là người:",
+    "answer": ". Chịu trách nhiệm quản lý mọi mặt hoạt động của tổ chức"
+  },
+  {
+    "id": 297,
+    "premium": true,
+    "question": "Mô hình tổ chức bộ máy nào được thiết kế mà mỗi bộ phận (đơn vị hoặc nhà quản trị) chịu trách nhiệm về một khu vực thị trường",
+    "answer": ". Mô hình cấu trúc theo địa lý (địa dư)"
+  },
+  {
+    "id": 298,
+    "premium": true,
+    "question": "Trách nhiệm của giám đốc điều hành là:",
+    "answer": ". Cả A và B đúng"
+  },
+  {
+    "id": 299,
+    "premium": true,
+    "question": "Trong các chức năng quản trị, hoạt động tổ chức bộ máy quản trị doanh nghiệp thuộc chức năng thứ mấy:",
+    "answer": ". Thứ hai"
+  },
+  {
+    "id": 300,
+    "premium": true,
+    "question": "Xác định nội dung công việc trong bản kế hoạch là ?",
+    "answer": ". Chỉ ra các công việc, thứ tự thực hiện các công việc để đạt được các mục tiêu đã đề ra"
+  },
+  {
+    "id": 301,
+    "premium": true,
+    "question": "Trong bộ máy quản trị doanh nghiệp thường có mấy mối liên hệ?",
+    "answer": ". Ba"
+  },
+  {
+    "id": 302,
+    "premium": true,
+    "question": "KRI là:",
+    "answer": "Chỉ số đánh giá kết quả trọng yếu"
+  },
+  {
+    "id": 303,
+    "premium": true,
+    "question": "Theo Fayol, hoạt động của một đơn vị sản xuất có thể chia thành:",
+    "answer": "6 nhóm"
+  },
+  {
+    "id": 304,
+    "premium": true,
+    "question": "Tác giả nào đề xuất nguồn gốc của quyền hành phải xuất phát từ sự chấp nhận của cấp dưới:",
+    "answer": "C. Barnard"
+  },
+  {
+    "id": 305,
+    "premium": true,
+    "question": "Giám đốc điều hành là người",
+    "answer": ". A và B sai"
+  },
+  {
+    "id": 306,
+    "premium": true,
+    "question": "Khi xác định được vấn đề phát sinh trong thực hiện kế hoạch, nhà quản trị có thể xác định nguyên nhân của vấn đề bằng phương pháp:",
+    "answer": ". Brainstorming (Não công); hoặc 5Why; hoặc mô hình xương cá"
+  },
+  {
+    "id": 307,
+    "premium": true,
+    "question": "Loại hình doanh nghiệp nào không được phép phát hành cổ phiếu, NGOẠI TRỪ:",
+    "answer": "Công ty cổ phần"
+  },
+  {
+    "id": 308,
+    "premium": true,
+    "question": "Giai đoạn trước năm 1945 là giai đoạn khoa học quản trị doanh nghiệp:",
+    "answer": "Phát triển tự phát"
+  },
+  {
+    "id": 309,
+    "premium": true,
+    "question": "Tư tưởng chính của Kaizen là:",
+    "answer": "Cải tiến dần dần"
+  },
+  {
+    "id": 310,
+    "premium": true,
+    "question": "Kế hoạch tác nghiệp thường hướng đến :",
+    "answer": ". Các hành động cụ thể, thực hiện trong thời gian dưới 1 năm"
+  },
+  {
+    "id": 311,
+    "premium": true,
+    "question": "Lựa chọn nào dưới đây KHÔNG PHẢI là phong cách lãnh đạo của giám đốc điều hành doanh nghiệp",
+    "answer": "Từ tốn"
+  },
+  {
+    "id": 312,
+    "premium": true,
+    "question": "Trong công tác lập kế hoạch, xác định mục tiêu là:",
+    "answer": ". Cần thiết và có tính chất quan trọng"
+  },
+  {
+    "id": 313,
+    "premium": true,
+    "question": "Theo quy trình lập kế hoạch, kiểm soát việc thực hiện công việc và giải quyết những vấn đề phát sinh là bước thứ mấy:",
+    "answer": ". Thứ tư"
+  },
+  {
+    "id": 314,
+    "premium": true,
+    "question": "Mục tiêu phải đảm bảo",
+    "answer": ". Cụ thể, dễ hiểu; đo lường được; vừa sức; thực tế; có thời hạn."
+  },
+  {
+    "id": 315,
+    "premium": true,
+    "question": "Nguyên tắc nào không phù hợp khi xây dựng bộ máy quản trị doanh nghiệp:",
+    "answer": ". Càng nhiều tầng nhiều cấp, nhiều bộ phận càng tốt"
+  },
+  {
+    "id": 316,
+    "premium": true,
+    "question": "Căn cứ vào loại hình doanh nghiệp có thể chia thành:",
+    "answer": "Công ty TNHH, công ty cổ phần, công ty hợp danh"
+  },
+  {
+    "id": 317,
+    "premium": true,
+    "question": "Giai đoạn từ năm 1911 - 1945 là giai đoạn khoa học quản trị doanh nghiệp:",
+    "answer": "Phát triển bùng nổ"
+  },
+  {
+    "id": 318,
+    "premium": true,
+    "question": "Trong cây vấn đề, mục tiêu được đặt ở:",
+    "answer": "Gốc cây"
+  },
+  {
+    "id": 319,
+    "premium": true,
+    "question": "Giám đốc điều hành doanh nghiệp là người",
+    "answer": "Có vai trò điều hành hoạt động chung của doanh nghiệp."
+  },
+  {
+    "id": 320,
+    "premium": true,
+    "question": "Lợi ích của phân quyền là:",
+    "answer": ". Giảm được áp lực công việc nhờ đó nhà quản trị tập trung vào những công việc"
+  },
+  {
+    "id": 321,
+    "premium": true,
+    "question": "Các tỷ số về khả năng thanh toán",
+    "answer": "Phản ánh khả năng trả nợ ngắn hạn của doanh nghiệp"
+  },
+  {
+    "id": 322,
+    "premium": true,
+    "question": "Đối tượng phân tích tài chính bên trong doanh nghiệp bao gồm, NGOẠI TRỪ:",
+    "answer": "Công đoàn"
+  },
+  {
+    "id": 323,
+    "premium": true,
+    "question": "Mô hình cơ cấu tổ chứa nào có ưu điểm: Tập trung được quyền ra quyết định; do đó tránh được tình trạng mâu thuẫn giữa các quyết định được đưa ra.",
+    "answer": ". Cơ cấu trực tuyến - chức năng"
+  },
+  {
+    "id": 324,
+    "premium": true,
+    "question": "Tháp nhu cầu của A. Maslow bao gồm:",
+    "answer": "Nhu cầu vật chất, nhu cầu an toàn, nhu cầu xã hội, nhu cầu kính trọng và nhu cầu tự hoàn thiện"
+  },
+  {
+    "id": 325,
+    "premium": true,
+    "question": "Theo quy trình lập kế hoạch, xác định nội dung công việc là bước thứ mấy:",
+    "answer": ". Thứ hai"
+  },
+  {
+    "id": 326,
+    "premium": true,
+    "question": "Vai trò của giám đốc điều hành là",
+    "answer": ". Tất cả các ý trên đều đúng"
+  },
+  {
+    "id": 327,
+    "premium": true,
+    "question": "Giám đốc điều hành là người",
+    "answer": ". Chịu trách nhiệm về chiến lược kinh doanh của doanh nghiệp"
+  },
+  {
+    "id": 328,
+    "premium": true,
+    "question": "Nguyên tắc nào không phù hợp khi xây dựng bộ máy quản trị doanh nghiệp:",
+    "answer": ". Mọi quyết định đều phải do lãnh đạo đứng đầu doanh nghiệp quyết định"
+  },
+  {
+    "id": 329,
+    "premium": true,
+    "question": "Ưu điểm của phong cách lãnh đạo độc đoán là",
+    "answer": "Người lãnh đạo có khả năng chịu trách nhiệm cao"
+  },
+  {
+    "id": 330,
+    "premium": true,
+    "question": "Lý thuyết quản trị một cách khoa học đưa ra các biện pháp nhằm nâng cao năng suất lao động của:",
+    "answer": "Người công nhân"
+  },
+  {
+    "id": 331,
+    "premium": true,
+    "question": "ROA là:",
+    "answer": "Lợi nhuận trên tài sản"
+  },
+  {
+    "id": 332,
+    "premium": true,
+    "question": "Ưu điểm của phong cách lãnh đạo độc đoán là",
+    "answer": ". Người lãnh đạo có khả năng chịu trách nhiệm cao"
+  },
+  {
+    "id": 333,
+    "premium": true,
+    "question": "Đặc điểm của giám đốc điều hành theo phong cách dễ dãi là:",
+    "answer": ". Giám đốc dễ do dự trước các quyết định"
+  },
+  {
+    "id": 334,
+    "premium": true,
+    "question": "Kế hoạch chiến lược thường hướng đến :",
+    "answer": ". Các hoạt động dài hạn, mang tính chất định hướng"
+  },
+  {
+    "id": 335,
+    "premium": true,
+    "question": "Các tỷ số về doanh lợi",
+    "answer": "Phản ánh hiệu quả sử dụng các tài nguyên"
+  },
+  {
+    "id": 336,
+    "premium": true,
+    "question": "Mục đích của bản mô tả công việc của giám đốc là:",
+    "answer": ". Tất cả các ý trên đều đúng"
+  },
+  {
+    "id": 337,
+    "premium": true,
+    "question": "Doanh nghiệp nào sau đây KHÔNG có tư cách pháp nhân:",
+    "answer": "Doanh nghiệp tư nhân"
+  },
+  {
+    "id": 338,
+    "premium": true,
+    "question": "Thuyết X là cách gọi khác về lý thuyết của:",
+    "answer": "Taylor và các cộng sự"
+  },
+  {
+    "id": 339,
+    "premium": true,
+    "question": "Nguyên tắc nào không phù hợp khi xây dựng bộ máy quản trị doanh nghiệp:",
+    "answer": ". Bộ máy quản trị doanh nghiệp nên thay đổi thường xuyên"
+  },
+  {
+    "id": 340,
+    "premium": true,
+    "question": "Ba mối liên hệ trong tổ chức bộ máy doanh nghiệp là:",
+    "answer": ". Mối liên hệ trực thuộc, mối liên hệ chức năng, mối liên hệ tư vấn"
+  },
+  {
+    "id": 341,
+    "premium": true,
+    "question": "Nhược điểm khi áp dụng cơ cấu trực tuyến với doanh nghiệp:",
+    "answer": ". Không tận dụng được năng lực của các chuyên gia trong từng lĩnh vực"
+  },
+  {
+    "id": 342,
+    "premium": true,
+    "question": "Kế hoạch ngắn hạn thường được thực hiện với khoảng thời gian:",
+    "answer": ". Dưới 1 năm"
+  },
+  {
+    "id": 343,
+    "premium": true,
+    "question": "Các tác giả trong trường phái tâm lý xã hội cho rằng doanh nghiệp là:",
+    "answer": "Một hệ thống xã hội"
+  },
+  {
+    "id": 344,
+    "premium": true,
+    "question": "Quản trị theo kết quả được viết tắt là:",
+    "answer": "PMS"
+  },
+  {
+    "id": 345,
+    "premium": true,
+    "question": "Biểu đồ tiến độ hoàn thành công việc là của:",
+    "answer": "Henry Gantt"
+  },
+  {
+    "id": 346,
+    "premium": true,
+    "question": "Đặc điểm của cơ cấu chức năng là",
+    "answer": ". Cấp dưới có thể nhận mệnh lệnh từ nhiều cấp trên"
+  },
+  {
+    "id": 347,
+    "premium": true,
+    "question": "Trong các chức năng quản trị, hoạch định (lập kế hoạch) là chức năng thứ mấy:",
+    "answer": "Đầu tiên (thứ nhất)"
+  },
+  {
+    "id": 348,
+    "premium": true,
+    "question": "Tác giả nào đề xuất 14 nguyên tắc quản trị:",
+    "answer": "Henry Fayol"
+  },
+  {
+    "id": 349,
+    "premium": true,
+    "question": "Giao quyền hành và trách nhiệm cho cấp dưới để họ thực hiện một số công việc nhất định là",
+    "answer": ". Việc ủy quyền"
+  },
+  {
+    "id": 350,
+    "premium": true,
+    "question": "Các tỷ số về hoạt động",
+    "answer": "Phản ánh tình hình sử dụng tài sản"
+  },
+  {
+    "id": 351,
+    "premium": true,
+    "question": "Phương pháp quản lý của giám đốc:",
+    "answer": ". Cả A và B đều sai"
+  },
+  {
+    "id": 352,
+    "premium": true,
+    "question": "Hệ thống mục tiêu của doanh nghiệp bao gồm:",
+    "answer": ". Mục tiêu cấp doanh nghiệp, cấp bộ phận (phòng ban), cấp tổ (đội, nhóm) và mục tiêu cá nhân"
+  },
+  {
+    "id": 353,
+    "premium": true,
+    "question": "Đối với doanh nghiệp, tổ chức bộ máy quản trị doanh nghiệp về thực chất là hình thành hệ thống quản trị với:",
+    "answer": ". Các cấp, các bộ phận (phòng ban), hệ thống chức danh và thiết lập những mối liên hệ"
+  },
+  {
+    "id": 354,
+    "premium": true,
+    "question": "Mục tiêu của quản trị theo kết quả:",
+    "answer": "Hướng tới kết quả cuối cùng"
+  },
+  {
+    "id": 355,
+    "premium": true,
+    "question": "Các yếu tố thành công then chốt được viết tắt là:",
+    "answer": "CSF"
+  },
+  {
+    "id": 356,
+    "premium": true,
+    "question": "Một trong những công cụ được sử dụng trong quản trị theo kết quả là:",
+    "answer": "Cây vấn đề"
+  },
+  {
+    "id": 357,
+    "premium": true,
+    "question": "Bản chất của phương pháp phân quyền là việc giám đốc điều hành:",
+    "answer": ". Phân giao quyền ra quyết định hợp lý cho nhân viên thuộc quyền"
+  },
+  {
+    "id": 358,
+    "premium": true,
+    "question": "Theo cấp quản trị, kế hoạch trong doanh nghiệp thường được phân loại, bao gồm:",
+    "answer": ". Kế hoạch chiến lược và kế hoạch tác nghiệp"
+  },
+  {
+    "id": 359,
+    "premium": true,
+    "question": "Phân quyền trong quản trị là sự chuyển giao quyền lực của cấp trên cho cấp dưới để thực hiện công việc. Việc giao quyền cho nhân viên không phù hợp khi:",
+    "answer": ". Cấp trên muốn đẩy trách nhiệm cho cấp dưới"
+  },
+  {
+    "id": 360,
+    "premium": true,
+    "question": "Lý thuyết quản trị hành chính là tư tưởng của:",
+    "answer": "Henry Fayol và các cộng sự"
+  }
+]
