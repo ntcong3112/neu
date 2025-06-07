@@ -79,6 +79,9 @@ const TopCards = () => {
                 <Typography color={topcard.bgcolor + '.main'} variant="h4" fontWeight={600}>
                   {topcard.title}
                 </Typography>
+                <Typography color={'primary' + '.main'} mt={1} variant="subtitle1" fontWeight={600}>
+                  (Các môn chuyên ngành)
+                </Typography>
               </CardContent>
             </Box>
           </Link>
