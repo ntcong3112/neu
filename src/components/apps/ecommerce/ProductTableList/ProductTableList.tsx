@@ -272,6 +272,10 @@ const QuestionTable: React.FC = () => {
             setRowsPerPage(+e.target.value);
             setPage(0);
           }}
+          labelRowsPerPage="Số câu hỏi mỗi trang"
+          labelDisplayedRows={({ from, to, count }) =>
+            `${from}-${to} của ${count !== -1 ? count : `nhiều hơn ${to}`}`
+          }
         />
       </Paper>
     </PageContainer>

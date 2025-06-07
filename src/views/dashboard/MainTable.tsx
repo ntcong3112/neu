@@ -7,8 +7,11 @@ import SearchTable from '../tables/SearchTable';
 
 const MainTable = () => {
   return (
-    <PageContainer title="Modern Dashboard" description="this is Modern Dashboard page">
-      <Box>
+    <PageContainer
+      title="Ngân Hàng Câu Hỏi - NEU E-Learning"
+      description="Tổng hợp các câu hỏi trắc nghiệm cho các môn học tại NEU"
+    >
+      <Box mb={10}>
         <SearchTable />
       </Box>
     </PageContainer>

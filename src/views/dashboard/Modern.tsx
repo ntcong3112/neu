@@ -17,7 +17,10 @@ import Welcome from 'src/layouts/full/shared/welcome/Welcome';
 
 const Modern = () => {
   return (
-    <PageContainer title="Modern Dashboard" description="this is Modern Dashboard page">
+    <PageContainer
+      title="Ngân Hàng Câu Hỏi - NEU E-Learning"
+      description="Lựa chọn ngành học - Tổng hợp các câu hỏi trắc nghiệm cho các môn học tại NEU"
+    >
       <Box>
         <Grid item xs={12} lg={12}>
           <TopCards />

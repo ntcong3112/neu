@@ -8,7 +8,10 @@ import DonateQRCard from 'src/components/apps/donate/Donate';
 
 const Donate = () => {
   return (
-    <PageContainer title="Modern Dashboard" description="this is Modern Dashboard page">
+    <PageContainer
+      title="Ủng Hộ Tác Giả"
+      description="Ủng hộ tác giả để duy trì và cập nhật ngân hàng câu hỏi thường xuyên"
+    >
       <Box>
         <DonateQRCard qrSrc={`${process.env.PUBLIC_URL}/qr.jpg`} />;
       </Box>
