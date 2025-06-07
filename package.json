@@ -1,7 +1,6 @@
 {
   "name": "elearningneu",
   "version": "0.1.0",
-  "homepage": "https://elearningneu.com/neu",
   "private": true,
   "dependencies": {
     "@casl/ability": "^6.3.3",
