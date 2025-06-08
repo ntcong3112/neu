@@ -134,7 +134,7 @@ const QuestionTable: React.FC = () => {
           </Box>
         </Grid>
       </Grid>
-      {/* <Box
+      <Box
         sx={{
           height: { xs: 'auto', md: 180 },
           width: '100%',
@@ -164,7 +164,6 @@ const QuestionTable: React.FC = () => {
           </Typography>
         </Box>
 
-
         <Box
           component="img"
           src={`${process.env.PUBLIC_URL}/qrmini.jpg`}
@@ -177,7 +176,7 @@ const QuestionTable: React.FC = () => {
             '&:hover': { transform: 'scale(1.05)' },
           }}
         />
-      </Box> */}
+      </Box>
       {/* Search box */}
       <Toolbar disableGutters sx={{ p: { xs: 0 }, maxWidth: 400, mb: '20px' }}>
         <TextField

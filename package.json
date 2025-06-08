@@ -67,7 +67,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint ./src",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && npx cpy build/index.html . --rename=404.html",
     "deploy": "gh-pages -d build --add --cname elearningneu.com"
   },
   "eslintConfig": {
@@ -100,6 +100,7 @@
     "@types/webpack-env": "^1.18.8",
     "@typescript-eslint/eslint-plugin": "5.6.0",
     "@typescript-eslint/parser": "5.11.0",
+    "cpy-cli": "^5.0.0",
     "eslint": "8.22.0",
     "eslint-config-next": "12.0.4",
     "eslint-config-prettier": "8.3.0",

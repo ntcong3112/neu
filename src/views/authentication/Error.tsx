@@ -16,16 +16,10 @@ const Error = () => (
         Opps!!!
       </Typography>
       <Typography align="center" variant="h4" mb={4}>
-        This page you are looking for could not be found.
+        Trang web bạn tìm không tồn tại.
       </Typography>
-      <Button
-        color="primary"
-        variant="contained"
-        component={Link}
-        to="/dashboards/modern"
-        disableElevation
-      >
-        Go Back to Home
+      <Button color="primary" variant="contained" component={Link} to="/" disableElevation>
+        Về Trang Chủ
       </Button>
     </Container>
   </Box>

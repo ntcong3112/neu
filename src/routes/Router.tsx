@@ -3,6 +3,7 @@ import { Navigate } from 'react-router-dom';
 import Loadable from '../layouts/full/shared/loadable/Loadable';
 import Donate from 'src/views/donate/DonatePage';
 import MainTable from 'src/views/dashboard/MainTable';
+import Error from 'src/views/authentication/Error';
 
 const FullLayout = Loadable(lazy(() => import('../layouts/full/FullLayout')));
 const ModernDash = Loadable(lazy(() => import('../views/dashboard/Modern')));
@@ -15,7 +16,8 @@ const Router = [
       { path: '/', exact: true, element: <ModernDash /> },
       { path: '/:field/:subject', exact: true, element: <MainTable /> },
       { path: '/donate', exact: true, element: <Donate /> },
-      { path: '*', element: <Navigate to="/auth/404" /> },
+      { path: '/404', exact: true, element: <Error /> },
+      { path: '*', element: <Navigate to="/404" /> },
     ],
   },
 ];
