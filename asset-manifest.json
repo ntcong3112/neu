@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.3b2dec4c.css",
-    "main.js": "/static/js/main.9702497a.js",
+    "main.js": "/static/js/main.4ba24ce7.js",
     "static/css/572.9853c586.chunk.css": "/static/css/572.9853c586.chunk.css",
     "static/js/572.07c918cb.chunk.js": "/static/js/572.07c918cb.chunk.js",
-    "static/js/437.cc54de41.chunk.js": "/static/js/437.cc54de41.chunk.js",
-    "static/js/454.9de66377.chunk.js": "/static/js/454.9de66377.chunk.js",
+    "static/js/437.ac70c992.chunk.js": "/static/js/437.ac70c992.chunk.js",
+    "static/js/769.1c9e5e81.chunk.js": "/static/js/769.1c9e5e81.chunk.js",
     "static/js/921.19bb4c91.chunk.js": "/static/js/921.19bb4c91.chunk.js",
     "static/media/s8.jpg": "/static/media/s8.7faa220450d0b147acce.jpg",
     "static/media/s11.jpg": "/static/media/s11.aa16bffbb74c4240a90b.jpg",
@@ -71,15 +71,15 @@
     "static/media/icon-briefcase.svg": "/static/media/icon-briefcase.b73653ee206b5ad757efdd6b7dcc0922.svg",
     "static/media/icon-mailbox.svg": "/static/media/icon-mailbox.211bd2fed19329d8cdbc308bc9c6ae2e.svg",
     "main.3b2dec4c.css.map": "/static/css/main.3b2dec4c.css.map",
-    "main.9702497a.js.map": "/static/js/main.9702497a.js.map",
+    "main.4ba24ce7.js.map": "/static/js/main.4ba24ce7.js.map",
     "572.9853c586.chunk.css.map": "/static/css/572.9853c586.chunk.css.map",
     "572.07c918cb.chunk.js.map": "/static/js/572.07c918cb.chunk.js.map",
-    "437.cc54de41.chunk.js.map": "/static/js/437.cc54de41.chunk.js.map",
-    "454.9de66377.chunk.js.map": "/static/js/454.9de66377.chunk.js.map",
+    "437.ac70c992.chunk.js.map": "/static/js/437.ac70c992.chunk.js.map",
+    "769.1c9e5e81.chunk.js.map": "/static/js/769.1c9e5e81.chunk.js.map",
     "921.19bb4c91.chunk.js.map": "/static/js/921.19bb4c91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b2dec4c.css",
-    "static/js/main.9702497a.js"
+    "static/js/main.4ba24ce7.js"
   ]
 }
