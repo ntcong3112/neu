@@ -1245,7 +1245,7 @@
     "id": 208,
     "premium": false,
     "question": "Bước đầu tiên cần thực hiện khi tiến hành hoạt động truyền thông là?",
-    "answer": "Xác định ngân sách dành cho hoạt động truyền thông."
+    "answer": "Xác định người nhận tin."
   },
   {
     "id": 209,
@@ -2013,6 +2013,30 @@
     "id": 336,
     "premium": false,
     "question": "Thứ tự đúng của các giai đoạn trong chu kì sống của sản phẩm là?\n",
-    "answer": "Phương án đúng là: Giới thiệu sản phẩm ra thị trường, phát triển, chín muồi, suy thoái.\n"
+    "answer": "Giới thiệu sản phẩm ra thị trường, phát triển, chín muồi, suy thoái."
+  },
+  {
+    "id": 337,
+    "premium": false,
+    "question": "Trong một chu kì sống của một sản phẩm, giai đoạn mà sản phẩm được bán nhanh trên thị truờng và mức lợi nhuận tăng nhanh được gọi là?",
+    "answer": "Tăng trưởng"
+  },
+  {
+    "id": 338,
+    "premium": false,
+    "question": "Trong tình huống nào thì doanh nghiệp cần chủ động hạ giá?",
+    "answer": "Năng lực sản xuất dư thừa."
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Xung đột chiều ngang” trong kênh phân phối là?",
+    "answer": "Bất đồng về vai trò và mục tiêu giữa các thành viên kênh ở cùng cấp độ phân phối"
+  },
+  {
+    "id": 339,
+    "premium": false,
+    "question": "Một bộ phận của thương hiệu sản phẩm có thể nhận biết được nhưng không thể đọc được là?",
+    "answer": "Dấu hiệu của thương hiệu"
   }
 ]

@@ -8,16 +8,19 @@ import { store } from './store/Store';
 import Spinner from './views/spinner/Spinner';
 import './utils/i18n';
 import './_mockApis';
+import { HelmetProvider } from 'react-helmet-async';
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 root.render(
-  <Provider store={store}>
-    <Suspense fallback={<Spinner />}>
-      <BrowserRouter>
-        <App />
-      </BrowserRouter>
-    </Suspense>
-  </Provider>,
+  <HelmetProvider>
+    <Provider store={store}>
+      <Suspense fallback={<Spinner />}>
+        <BrowserRouter>
+          <App />
+        </BrowserRouter>
+      </Suspense>
+    </Provider>
+  </HelmetProvider>,
 );
 
 // If you want to start measuring performance in your app, pass a function

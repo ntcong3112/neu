@@ -57,7 +57,7 @@
     "id": 10,
     "premium": false,
     "question": "Trừ trường hợp có thỏa thuận khác, thời hạn đại lý chỉ chấm dứt sau một thời hạn hợp lý nhưng không được sớm hơn khoảng thời gian là bao lâu kể từ ngày hai bên thông báo bằng văn bản cho nhau?",
-    "answer": "Không sớm hơn 60 ngàyCâu hỏi 1"
+    "answer": "Không sớm hơn 60 ngày"
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "id": 20,
     "premium": false,
     "question": "Trừ trường hợp có thỏa thuận khác, thời hạn đại lý chỉ chấm dứt sau một thời hạn hợp lý nhưng không được sớm hơn khoảng thời gian là bao lâu kể từ ngày hai bên thông báo bằng văn bản cho nhau?",
-    "answer": "Không sớm hơn 60 ngàyCâu hỏi 1"
+    "answer": "Không sớm hơn 60 ngày"
   },
   {
     "id": 21,
@@ -177,7 +177,7 @@
     "id": 30,
     "premium": false,
     "question": "Theo quy định của Bộ luật Tố tụng Dân sự hiện hành, sau khi Hội đồng xét xử phúc thẩm tuyên án thì các đương sự?",
-    "answer": "Không được quyền kháng cáo. Câu hỏi 1"
+    "answer": "Không được quyền kháng cáo. "
   },
   {
     "id": 31,
@@ -237,7 +237,7 @@
     "id": 40,
     "premium": false,
     "question": "Theo quy định của Bộ luật Tố tụng dân sự hiện hành, những tranh chấp về kinh doanh, thương mại nào dưới đây KHÔNG thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp huyện?",
-    "answer": "Tranh chấp giữa công ty với các thành viên của công ty. Câu hỏi 1"
+    "answer": "Tranh chấp giữa công ty với các thành viên của công ty. "
   },
   {
     "id": 41,
@@ -297,7 +297,7 @@
     "id": 50,
     "premium": false,
     "question": "Doanh nghiệp A và Doanh nghiệp B (đều có trụ sở tại thành phố Hải Phòng) ký hợp đồng mua bán hàng hoá để kinh doanh. Theo đó, các bên thoả thuận nếu phát sinh tranh chấp trong việc thực hiện hợp đồng sẽ do Trung tâm trọng tài quốc tế Việt Nam giải quyết. Trong trường hợp này tranh chấp giữa hai bên có thể được giải quyết bởi?",
-    "answer": "Trung tâm Trọng tài quốc tế Việt Nam (VIAC). Câu hỏi 1"
+    "answer": "Trung tâm Trọng tài quốc tế Việt Nam (VIAC). "
   },
   {
     "id": 51,
@@ -357,7 +357,7 @@
     "id": 60,
     "premium": false,
     "question": "Trong trường hợp vụ tranh chấp đã có thỏa thuận trọng tài có",
-    "answer": "Tòa án phải từ chối thụ lý. Câu hỏi 1"
+    "answer": "Tòa án phải từ chối thụ lý. "
   },
   {
     "id": 61,
@@ -417,7 +417,7 @@
     "id": 70,
     "premium": false,
     "question": "Trong trường hợp vụ tranh chấp đã có thỏa thuận trọng tài có",
-    "answer": "Tòa án phải từ chối thụ lý. Câu hỏi 1"
+    "answer": "Tòa án phải từ chối thụ lý. "
   },
   {
     "id": 71,
@@ -537,7 +537,7 @@
     "id": 90,
     "premium": false,
     "question": "Bị coi là giao hàng hàng hóa không phù hợp với hợp đồng khi:",
-    "answer": "Không phù hợp với mục đích sử dụng thông thường của hàng cùng chủng loại. Câu hỏi 1"
+    "answer": "Không phù hợp với mục đích sử dụng thông thường của hàng cùng chủng loại. "
   },
   {
     "id": 91,
@@ -657,7 +657,7 @@
     "id": 110,
     "premium": false,
     "question": "Theo quy định của Bộ luật Tố tụng dân sự hiện hành, những tranh chấp về kinh doanh, thương mại nào dưới đây KHÔNG thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp huyện?",
-    "answer": "Tranh chấp giữa công ty với các thành viên của công ty. Câu hỏi 1"
+    "answer": "Tranh chấp giữa công ty với các thành viên của công ty. "
   },
   {
     "id": 111,
@@ -897,7 +897,7 @@
     "id": 150,
     "premium": true,
     "question": "Công ty TNHH HV sử dụng giấy tờ sở hữu hai ô tô trị giá 4 tỷ đồng của mình để làm tài sản đảm bảo cho khoản vay 2 tỷ đồng với ngân hàng CT. Biện pháp bảo đảm trên là:",
-    "answer": "Thế chấp. âu hỏi 1"
+    "answer": "Thế chấp. "
   },
   {
     "id": 151,
@@ -957,7 +957,7 @@
     "id": 160,
     "premium": true,
     "question": "Theo Luật Thương mại năm 2005, nếu các bên không có thoả thuận khác, chế tài nào sau đây KHÔNG được áp dụng đối với một vi phạm không cơ bản?",
-    "answer": "Huỷ bỏ hợp đồng. âu hỏi 1"
+    "answer": "Huỷ bỏ hợp đồng. "
   },
   {
     "id": 161,
@@ -1017,7 +1017,7 @@
     "id": 170,
     "premium": true,
     "question": "Hậu quả pháp lý của hợp đồng bị tuyên bố vô hiệu là:",
-    "answer": "Các bên phải hoàn trả cho nhau những gì đã nhận. âu hỏi 1"
+    "answer": "Các bên phải hoàn trả cho nhau những gì đã nhận. "
   },
   {
     "id": 171,
@@ -1077,7 +1077,7 @@
     "id": 180,
     "premium": true,
     "question": "Hậu quả pháp lý của hợp đồng bị tuyên bố vô hiệu là:",
-    "answer": "Các bên phải hoàn trả cho nhau những gì đã nhận. Câu hỏi 1"
+    "answer": "Các bên phải hoàn trả cho nhau những gì đã nhận. "
   },
   {
     "id": 181,
@@ -1137,7 +1137,7 @@
     "id": 190,
     "premium": true,
     "question": "Trong một hợp đồng mua bán hàng hóa, bên bán có nghĩa vụ giao hàng tại kho Số 1 của bên bán nhưng đoàn xe chở hàng đã đến kho Số 2 (cách nơi giao hàng theo hợp đồng 15 km). Bên mua đã làm thủ tục nhận hàng và yêu cầu bên bán chở hàng sang kho Số 1. Trên đường đi, một số xe gặp tai nạn, nhiều hàng hóa bị hư hỏng, mất mát. Trong hợp đồng, hai bên không có thỏa thuận gì về tình huống này. Những rủi ro này thuộc về?",
-    "answer": "Bên mua. Câu hỏi 1"
+    "answer": "Bên mua. "
   },
   {
     "id": 191,
@@ -1197,7 +1197,7 @@
     "id": 200,
     "premium": true,
     "question": "Trong hợp đồng mua bán hàng hóa thì bên bán phải có nghĩa vụ cơ bản là?",
-    "answer": "Cả 3 phương án trênCâu hỏi 1"
+    "answer": "Cả 3 phương án trên"
   },
   {
     "id": 201,
@@ -1257,7 +1257,7 @@
     "id": 210,
     "premium": true,
     "question": "Chuyển rủi ro về mất mát, hư hỏng hàng hóa từ bên bán sang bên mua trong trường hợp có địa điểm giao hàng xác định?",
-    "answer": "Khi hàng hóa đã giao cho bên muaCâu hỏi 1"
+    "answer": "Khi hàng hóa đã giao cho bên mua"
   },
   {
     "id": 211,
@@ -1317,7 +1317,7 @@
     "id": 220,
     "premium": true,
     "question": "Đối tượng của hợp đồng mua bán hàng hóa trong thương mại là?",
-    "answer": "Cả A và C là phương án đúng. Câu hỏi 1"
+    "answer": "Cả A và C là phương án đúng. "
   },
   {
     "id": 221,
@@ -1377,7 +1377,7 @@
     "id": 230,
     "premium": true,
     "question": "Đối tượng của hợp đồng mua bán hàng hóa trong thương mại là?",
-    "answer": "Cả A và C là phương án đúng. Câu hỏi 1"
+    "answer": "Cả A và C là phương án đúng. "
   },
   {
     "id": 231,
@@ -1437,7 +1437,7 @@
     "id": 240,
     "premium": true,
     "question": "Trừ trường hợp có thỏa thuận khác, thù lao đại lý được trả cho bên đại lý theo hình thức nào sau đây?",
-    "answer": "Hình thức hoa hồngCâu hỏi 1"
+    "answer": "Hình thức hoa hồng"
   },
   {
     "id": 241,
@@ -1497,7 +1497,7 @@
     "id": 250,
     "premium": true,
     "question": "Quảng cáo thương mại là hoạt động thế nào, chọn phương án đúng nhất?",
-    "answer": "Xúc tiến thương mại của thương nhân để giới thiệu với khách hàng về hoạt động kinh doanh hàng hóa, dịch vụ của mình. Câu hỏi 1"
+    "answer": "Xúc tiến thương mại của thương nhân để giới thiệu với khách hàng về hoạt động kinh doanh hàng hóa, dịch vụ của mình. "
   },
   {
     "id": 251,
@@ -1557,6 +1557,6 @@
     "id": 260,
     "premium": true,
     "question": "Quảng cáo thương mại là hoạt động thế nào, chọn phương án đúng nhất?",
-    "answer": "Xúc tiến thương mại của thương nhân để giới thiệu với khách hàng về hoạt động kinh doanh hàng hóa, dịch vụ của mình. Câu hỏi 1"
+    "answer": "Xúc tiến thương mại của thương nhân để giới thiệu với khách hàng về hoạt động kinh doanh hàng hóa, dịch vụ của mình. "
   }
 ]

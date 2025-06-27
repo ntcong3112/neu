@@ -3,7 +3,6 @@ import React, { useEffect, useMemo, useState } from 'react';
 import {
   Box,
   Grid,
-  IconButton,
   InputAdornment,
   Paper,
   Table,
@@ -18,50 +17,18 @@ import {
   Typography,
 } from '@mui/material';
 import { IconSearch } from '@tabler/icons';
-import slugify from 'slugify';
 import { useParams, useNavigate, Link } from 'react-router-dom'; // ⬅️ đổi useLocation -> useParams
 import PageContainer from 'src/components/container/PageContainer';
 import breadcrumbImg from 'src/assets/images/breadcrumb/ChatBc.png';
+import { normalizeVi, Question } from 'src/store/data/dataMap';
+import { useDataMap } from 'src/hooks/useDataMap';
 
-/* ───── helpers ───── */
-type Question = { id: number; question: string; answer: string };
-interface DataEntry {
-  questions: Question[];
-  fieldName: string;
-  subjectName: string;
-}
-
-slugify.extend({ đ: 'd', Đ: 'd' });
-const toSlug = (s: string) => slugify(s, { lower: true, strict: true, locale: 'vi' });
-const normalizeVi = (str: string) =>
-  str
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/đ/g, 'd')
-    .replace(/Đ/g, 'd')
-    .toLowerCase();
-
-/* ───── nạp dữ liệu ───── */
-const ctx = require.context('../../../../resources', true, /\.json$/); // điều chỉnh path tuỳ cấu trúc
-const DATA_MAP = ctx.keys().reduce<Record<string, DataEntry>>((acc, raw) => {
-  const m = raw.match(/^\.\/([^/]+)\/(.+)\.json$/); // ./folder/file.json
-  if (!m) return acc;
-  const [, field, subject] = m;
-  acc[`${toSlug(field)}/${toSlug(subject)}`] = {
-    questions: ctx(raw) as Question[],
-    fieldName: field,
-    subjectName: subject,
-  };
-
-  return acc;
-}, {});
-
-/* ───── component ───── */
 const DEFAULT_ROUTE = '/mon-dai-cuong/chu-nghia-mac-lenin-1'; // slug mặc định
 
 const QuestionTable: React.FC = () => {
   /* ---- state ---- */
   const [rows, setRows] = useState<Question[]>([]);
+  const DATA_MAP = useDataMap();
   const [search, setSearch] = useState('');
   const [page, setPage] = useState(0);
   const [rowsPerPage, setRowsPerPage] = useState(100);
@@ -233,7 +200,11 @@ const QuestionTable: React.FC = () => {
 
             <TableBody>
               {paged.map((row, idx) => (
-                <TableRow key={row.id}>
+                <TableRow
+                  key={row.id}
+                  onClick={() => navigate(`/${field}/${subject}/${row.id}`)}
+                  sx={{ cursor: 'pointer' }}
+                >
                   <TableCell sx={{ fontSize: 14, fontWeight: 500, textAlign: 'center' }}>
                     {page * rowsPerPage + idx + 1}
                   </TableCell>

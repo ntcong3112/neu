@@ -117,7 +117,7 @@
     "id": 20,
     "premium": false,
     "question": "Việc xét lại bản án, quyết định đã có hiệu lực pháp luật được thực hiện thông qua thủ tục:",
-    "answer": "Xét xử giám đốc thẩmCâu hỏi 1"
+    "answer": "Xét xử giám đốc thẩm"
   },
   {
     "id": 21,
@@ -357,7 +357,7 @@
     "id": 60,
     "premium": false,
     "question": "Thành phần nào bắt buộc phải tham gia trong phiên tòa giám đốc thẩm?",
-    "answer": "Viện kiểm sát.Câu hỏi 1"
+    "answer": "Viện kiểm sát."
   },
   {
     "id": 61,
@@ -597,7 +597,7 @@
     "id": 100,
     "premium": false,
     "question": "Kể từ ngày nhận được kháng nghị kèm theo hồ sơ vụ án, trong thời hạn bao lâu thì Tòa án có thẩm quyền tái thẩm sẽ phải mở phiên tòa để xét xử vụ án theo thủ tục tái thẩm?",
-    "answer": "04 tháng.Câu hỏi 1"
+    "answer": "04 tháng."
   },
   {
     "id": 101,
@@ -837,7 +837,7 @@
     "id": 140,
     "premium": false,
     "question": "Giám đốc thẩm, tái thẩm là việc:",
-    "answer": "Xem xét lại các bản án, quyết định đã có hiệu lực pháp luật trên cơ sở có kháng nghị có người có thẩm quyềnâu hỏi 1"
+    "answer": "Xem xét lại các bản án, quyết định đã có hiệu lực pháp luật trên cơ sở có kháng nghị có người có thẩm quyền"
   },
   {
     "id": 141,
@@ -1317,7 +1317,7 @@
     "id": 220,
     "premium": true,
     "question": "Đối với những vụ án tái thẩm do Chánh án Tòa án kháng nghị, thời hạn Viện kiểm sát nghiên cứu hồ sơ là bao nhiêu ngày, mà khi hết thời hạn này thì Viện kiểm sát phải trả lại hồ sơ cho Tòa án?",
-    "answer": "15 ngày.Câu hỏi 1"
+    "answer": "15 ngày."
   },
   {
     "id": 221,
@@ -1557,7 +1557,7 @@
     "id": 260,
     "premium": true,
     "question": "Thành phần nào bắt buộc phải tham gia trong phiên tòa giám đốc thẩm?",
-    "answer": "Viện kiểm sát.Câu hỏi 1"
+    "answer": "Viện kiểm sát."
   },
   {
     "id": 261,
@@ -1797,7 +1797,7 @@
     "id": 300,
     "premium": true,
     "question": "Những người nào sau đây có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm đối với bản án đã có hiệu lực pháp luật?",
-    "answer": "Chánh án TANDCC và Viện trưởng Viện Kiểm sát nhân dân cấp cao theo khu vực; Chánh án TANDTC và Viện trưởng VKSNDTC.Câu hỏi 1"
+    "answer": "Chánh án TANDCC và Viện trưởng Viện Kiểm sát nhân dân cấp cao theo khu vực; Chánh án TANDTC và Viện trưởng VKSNDTC."
   },
   {
     "id": 301,
@@ -2037,7 +2037,7 @@
     "id": 340,
     "premium": true,
     "question": "Hội đồng xét xử tái thẩm có thẩm quyền gì?",
-    "answer": "Hủy bản án, quyết định đã có hiệu lực pháp luật để xét xử sơ thẩm lại theo thủ tục do pháp luật quy định.Câu hỏi 1"
+    "answer": "Hủy bản án, quyết định đã có hiệu lực pháp luật để xét xử sơ thẩm lại theo thủ tục do pháp luật quy định."
   },
   {
     "id": 341,
