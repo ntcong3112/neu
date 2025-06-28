@@ -19,7 +19,49 @@ const Modern = () => {
   return (
     <PageContainer
       title="Ngân Hàng Câu Hỏi - NEU E-Learning"
-      description="Lựa chọn ngành học - Tổng hợp các câu hỏi trắc nghiệm cho các môn học tại NEU"
+      description="Kho câu hỏi trắc nghiệm của Đại học Kinh tế Quốc dân: Quản trị kinh doanh, Luật kinh tế, Tài chính ngân hàng, Kế toán – cập nhật liên tục."
+      jsonLd={{
+        '@context': 'https://schema.org',
+        '@type': 'EducationalOrganization',
+        name: 'NEU Elearning Question Bank',
+        url: 'https://elearningneu.com',
+        logo: 'https://elearningneu.com/favicon.ico',
+        sameAs: ['https://www.facebook.com/nezteco'],
+      }}
+      additional={
+        <>
+          <meta property="og:type" id="og-type" content="website" />
+
+          <meta
+            id="og-title"
+            property="og:title"
+            content="Ngân Hàng Câu Hỏi Trắc Nghiệm – NEU Elearning"
+          />
+          <meta
+            id="og-desc"
+            property="og:description"
+            content="Truy cập miễn phí kho câu hỏi trắc nghiệm NEU Elearning – đầy đủ tất cả các ngành."
+          />
+          <meta property="og:url" content="https://elearningneu.com/" />
+          <meta property="og:image" content="https://elearningneu.com/favicon.ico" />
+
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:site" content="@elearningneu" />
+          <meta
+            id="twitter-title"
+            name="twitter:title"
+            content="Ngân Hàng Câu Hỏi Trắc Nghiệm – NEU Elearning"
+          />
+          <meta
+            id="twitter-desc"
+            name="twitter:description"
+            content="Kho câu hỏi trắc nghiệm miễn phí – luôn cập nhật mới."
+          />
+          <meta name="twitter:image" content="https://elearningneu.com/og-image.jpg" />
+
+          <link id="link-canonical" rel="canonical" href="https://elearningneu.com/" />
+        </>
+      }
     >
       <Box>
         <Grid item xs={12} lg={12}>

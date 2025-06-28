@@ -64,10 +64,38 @@ const QuestionTable: React.FC = () => {
     );
   }, [rows, search]);
   const paged = filtered.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage);
+  const canonical = `https://elearningneu.com/${field}/${subject}`;
+  const pageTitle =
+    subjectName && fieldName
+      ? `Câu hỏi ${subjectName} – ${fieldName} | NEU Elearning`
+      : 'Bộ câu hỏi | NEU Elearning';
+  const pageDesc = `Kho câu hỏi & đáp án môn ${subjectName} ngành ${fieldName} – NEU Elearning, miễn phí tra cứu, cập nhật liên tục.`;
+
+  // 2️⃣ JSON-LD: ItemList (chỉ 1 trang kết quả hiển thị)
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `${subjectName} – ${fieldName}`,
+    itemListElement: paged.map((q, i) => ({
+      '@type': 'ListItem',
+      position: page * rowsPerPage + i + 1,
+      url: `https://elearningneu.com/${field}/${subject}/${q.id}`,
+      name: q.question,
+    })),
+  };
 
   /* ---- UI ---- */
   return (
-    <PageContainer title="Bộ câu hỏi" description="">
+    <PageContainer title={pageTitle} description={pageDesc} canonical={canonical} jsonLd={jsonLd}>
+      {/* 👉 dùng thẻ heading chuẩn */}
+      <header>
+        <Typography component="h1" variant="h3" gutterBottom>
+          Ngành: {fieldName}
+        </Typography>
+        <Typography component="h2" variant="h4" color="text.secondary" gutterBottom>
+          Môn: {subjectName}
+        </Typography>
+      </header>
       {/* Header có tên Ngành & Môn */}
       <Grid
         container

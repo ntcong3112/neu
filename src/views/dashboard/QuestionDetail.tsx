@@ -93,29 +93,34 @@ const QuestionDetail: React.FC = () => {
     <>
       <Helmet prioritizeSeoTags>
         {/* Title ≤ 60 ký tự */}
-        <title>{`${question.question.slice(0, 60)} – Đáp án`}</title>
+        <title id="html-title">{`${question.question.slice(0, 60)} – Đáp án`}</title>
 
         {/* Meta description ≤ 155 ký tự */}
         <meta
+          id="meta-desc"
           name="description"
           content={`${question.question}. Đáp án chính xác: ${question.answer}.`}
         />
 
         {/* Open Graph */}
-        <meta property="og:type" content="article" />
-        <meta property="og:title" content={question.question} />
-        <meta property="og:description" content={`Đáp án: ${question.answer}`} />
-        <meta property="og:url" content={canonicalUrl} />
-        <meta property="og:image" content="https://elearningneu.com/og-question.jpg" />
+        <meta property="og:type" id="og-type" content="article" />
+        <meta property="og:title" id="og-title" content={question.question} />
+        <meta property="og:description" id="og-desc" content={`Đáp án: ${question.answer}`} />
+        <meta property="og:url" id="og-url" content={canonicalUrl} />
+        <meta
+          property="og:image"
+          id="og-image"
+          content="https://elearningneu.com/og-question.jpg"
+        />
         <meta property="article:section" content={subject} />
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:title" content={question.question} />
-        <meta name="twitter:description" content={`Đáp án: ${question.answer}`} />
+        <meta name="twitter:title" id="twitter-title" content={question.question} />
+        <meta name="twitter:description" id="twitter-desc" content={`Đáp án: ${question.answer}`} />
 
         {/* Canonical */}
-        <link rel="canonical" href={canonicalUrl} />
+        <link rel="canonical" id="link-canonical" href={canonicalUrl} />
 
         {/* Structured Data */}
         <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
