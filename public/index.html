@@ -1,87 +1,82 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="vi" dir="ltr">
   <head>
-    <!-- ================================= META CORE ================================= -->
+    <!-- === CORE === -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="theme-color" content="#0a4cff" />
+    <meta name="robots" content="index,follow" />
 
-    <!-- 🔹 Tiêu đề trang -->
     <title>Ngân Hàng Câu Hỏi Trắc Nghiệm – NEU Elearning</title>
-
-    <!-- 🔹 Mô tả trang (≤ 160 ký tự) -->
     <meta
       name="description"
-      content="Kho câu hỏi trắc nghiệm các môn học tại Đại học Kinh tế Quốc dân – NEU Elearning, Bao gồm tất cả các ngành: Quản trị kinh doanh, Luật kinh tế, Tài chính ngân hàng, kế toán." />
+      content="Kho câu hỏi trắc nghiệm của Đại học Kinh tế Quốc dân: Quản trị kinh doanh, Luật kinh tế, Tài chính ngân hàng, Kế toán – cập nhật liên tục." />
 
-    <!-- 🔹 Từ khóa chính (tùy chọn) -->
-    <meta
-      name="keywords"
-      content="trắc nghiệm, câu hỏi NEU, ngân hàng câu hỏi, ĐH Kinh tế Quốc dân, học từ xa, elearning, NEU Elearning" />
-
-    <!-- ================================= OPEN GRAPH / FACEBOOK ===================== -->
+    <!-- === OpenGraph / Facebook === -->
     <meta property="og:type" content="website" />
-    <meta
-      property="og:title"
+    <meta property="og:site_name" content="NEU Elearning" />
+    <meta property="og:locale" content="vi_VN" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:title"
       content="Ngân Hàng Câu Hỏi Trắc Nghiệm – NEU Elearning" />
     <meta
       property="og:description"
-      content="Truy cập miễn phí kho câu hỏi trắc nghiệm trên hệ thống NEU Elearning. Bao gồm tất cả các ngành: Quản trị kinh doanh, Luật kinh tế, Tài chính ngân hàng, kế toán" />
-    <meta property="og:url" content="elearningneu.com" />
-    <meta
-      property="og:image"
-      content="%PUBLIC_URL%/og-image.jpg" />
-    <meta property="og:site_name" content="NEU Elearning" />
+      content="Truy cập miễn phí kho câu hỏi trắc nghiệm NEU Elearning – đầy đủ tất cả các ngành." />
+    <meta property="og:url" content="https://elearningneu.com/" />
+    <meta property="og:image" content="https://elearningneu.com/favicon.ico" />
 
-    <!-- ================================= TWITTER CARD ============================== -->
+    <!-- === Twitter Card === -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta
-      name="twitter:title"
+    <meta name="twitter:site" content="@elearningneu" />
+    <meta name="twitter:title"
       content="Ngân Hàng Câu Hỏi Trắc Nghiệm – NEU Elearning" />
-    <meta
-      name="twitter:description"
+    <meta name="twitter:description"
       content="Kho câu hỏi trắc nghiệm miễn phí – luôn cập nhật mới." />
-    <meta
-      name="twitter:image"
-      content="%PUBLIC_URL%/og-image.jpg" />
+    <meta name="twitter:image"
+      content="https://elearningneu.com/og-image.jpg" />
 
-    <!-- ================================= FAVICONS ================================== -->
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!-- === Canonical === -->
+    <link rel="canonical" href="https://elearningneu.com/" />
 
-    <!-- 🔹 Canonical để tránh trùng lặp URL -->
-    <link rel="canonical" href="elearningneu.com" />
+    <!-- === Icons & Manifest === -->
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/favicon.ico" sizes="192x192" />
+    <link rel="manifest" href="/manifest.json" />
 
-    <!-- ================================= WEB FONTS ================================= -->
+    <!-- === Fonts performance === -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
       rel="stylesheet" />
 
-    <!-- ================================= STRUCTURED DATA (JSON-LD) ================= -->
+    <!-- === JSON-LD: EducationalOrganization === -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "EducationalOrganization",
         "name": "NEU Elearning Question Bank",
-        "url": "elearningneu.com",
-        "logo": "elearningneu.comlogo192.png",
-        "sameAs": [
-          "https://www.facebook.com/yourpage"
-        ]
+        "url": "https://elearningneu.com",
+        "logo": "https://elearningneu.com/favicon.ico",
+        "sameAs": ["https://www.facebook.com/nezteco"]
       }
     </script>
-    <script async
+
+    <!-- === Ads / Analytics (async, defer) === -->
+    <script
+      async
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6748535786825484"
       crossorigin="anonymous"></script>
+
     <script async
       src="https://www.googletagmanager.com/gtag/js?id=G-ECJXNWYPYQ"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      function gtag() {
+        dataLayer.push(arguments);
+      }
       gtag('js', new Date());
-
       gtag('config', 'G-ECJXNWYPYQ');
     </script>
   </head>

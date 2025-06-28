@@ -39,7 +39,6 @@ const QuestionDetail: React.FC = () => {
   const entry = DATA_MAP[key];
   const fieldName = entry?.fieldName ?? '';
   const subjectName = entry?.subjectName ?? '';
-  console.log('123123123');
   useEffect(() => {
     if (questionID && isNumber(Number(questionID))) {
       console.log(entry);
@@ -51,17 +50,28 @@ const QuestionDetail: React.FC = () => {
       }
     }
   }, [DATA_MAP, questionID, entry, navigate]);
+  if (!question) return <></>;
+  const canonicalUrl = `https://elearningneu.com/${field}/${subject}/${questionID}`;
 
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'QAPage',
     mainEntity: {
       '@type': 'Question',
-      name: question?.question,
+      name: question.question,
+      text: question.question,
+      dateCreated: new Date().toISOString(),
+      author: {
+        '@type': 'Person',
+        name: 'NEU Elearning Admin',
+      },
       acceptedAnswer: {
         '@type': 'Answer',
-        text: question?.answer,
+        text: question.answer,
+        dateCreated: new Date().toISOString(),
+        url: canonicalUrl,
       },
+      upvoteCount: 0,
     },
   };
   const BCrumb = [
@@ -82,13 +92,32 @@ const QuestionDetail: React.FC = () => {
   return (
     <>
       <Helmet prioritizeSeoTags>
-        <title>{question?.question}</title>
-        <meta name="title" content={`${question?.question?.slice(0, 150)}`} />
+        {/* Title ≤ 60 ký tự */}
+        <title>{`${question.question.slice(0, 60)} – Đáp án`}</title>
+
+        {/* Meta description ≤ 155 ký tự */}
         <meta
           name="description"
-          content={`${question?.question}. Đáp án: ${question?.answer}`?.slice(0, 150)}
+          content={`${question.question}. Đáp án chính xác: ${question.answer}.`}
         />
-        <link rel="canonical" href={`https://elearningneu.com/${field}/${subject}/${questionID}`} />
+
+        {/* Open Graph */}
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content={question.question} />
+        <meta property="og:description" content={`Đáp án: ${question.answer}`} />
+        <meta property="og:url" content={canonicalUrl} />
+        <meta property="og:image" content="https://elearningneu.com/og-question.jpg" />
+        <meta property="article:section" content={subject} />
+
+        {/* Twitter */}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content={question.question} />
+        <meta name="twitter:description" content={`Đáp án: ${question.answer}`} />
+
+        {/* Canonical */}
+        <link rel="canonical" href={canonicalUrl} />
+
+        {/* Structured Data */}
         <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
       </Helmet>
       <Box>
