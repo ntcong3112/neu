@@ -83,7 +83,11 @@ const QuestionDetail: React.FC = () => {
     <>
       <Helmet prioritizeSeoTags>
         <title>{question?.question}</title>
-        <meta name="description" content={question?.answer?.slice(0, 150)} />
+        <meta name="title" content={`${question?.question?.slice(0, 150)}`} />
+        <meta
+          name="description"
+          content={`${question?.question}. Đáp án: ${question?.answer}`?.slice(0, 150)}
+        />
         <link rel="canonical" href={`https://elearningneu.com/${field}/${subject}/${questionID}`} />
         <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
       </Helmet>
