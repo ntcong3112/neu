@@ -88,14 +88,6 @@ const QuestionTable: React.FC = () => {
   return (
     <PageContainer title={pageTitle} description={pageDesc} canonical={canonical} jsonLd={jsonLd}>
       {/* 👉 dùng thẻ heading chuẩn */}
-      <header>
-        <Typography component="h1" variant="h3" gutterBottom>
-          Ngành: {fieldName}
-        </Typography>
-        <Typography component="h2" variant="h4" color="text.secondary" gutterBottom>
-          Môn: {subjectName}
-        </Typography>
-      </header>
       {/* Header có tên Ngành & Môn */}
       <Grid
         container
